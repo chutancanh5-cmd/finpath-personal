@@ -1,0 +1,12 @@
+# secrets / state (KHONG commit)
+updater/vnstock_key.txt
+updater/alert_config.json
+updater/alert_state.json
+updater/.last_full_date
+
+# python
+__pycache__/
+*.pyc
+
+# editor
+.claude/

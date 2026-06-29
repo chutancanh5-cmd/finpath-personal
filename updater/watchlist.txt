@@ -1,0 +1,3 @@
+# Danh muc theo doi (moi dong hoac phay 1 ma). Sua tai day roi chay update_prices.py
+# Mac dinh = ro 16 ma DC55/30 (dong bo voi bot/discord_signal_bot.py).
+PDR, VIB, SSI, TCB, MWG, SIP, DIG, GEX, KDH, LPB, FPT, FRT, FTS, HPG, VSC, PVT

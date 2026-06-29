@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0f14">
+<title>FinPath cá nhân</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand"><img src="icon.svg" alt="" width="22" height="22"><span>FinPath</span></div>
+  <div class="indices" id="indices"></div>
+  <button id="refreshBtn" class="icon-btn" title="Làm mới">⟳</button>
+</header>
+<div class="updated" id="updated"></div>
+
+<!-- ===== Tab: Bảng giá ===== -->
+<section class="tab" id="tab-prices">
+  <div class="row-between">
+    <h2>Bảng giá</h2>
+    <button class="link-btn" id="editWatch">Sửa danh mục</button>
+  </div>
+  <div class="watch-edit" id="watchEdit" hidden>
+    <input id="watchInput" type="text" inputmode="latin" autocapitalize="characters"
+           placeholder="Danh sách mã, cách nhau bởi dấu phẩy: FPT, HPG, MWG…">
+    <div class="row-end">
+      <button class="link-btn" id="watchReset">Mặc định</button>
+      <button class="btn" id="watchSave">Lưu</button>
+    </div>
+    <p class="muted small">Sau khi sửa, chạy lại updater để lấy giá các mã mới.</p>
+  </div>
+  <div class="board" id="board"></div>
+</section>
+
+<!-- ===== Tab: Khuyến nghị ===== -->
+<section class="tab" id="tab-signals" hidden>
+  <div class="row-between"><h2>Khuyến nghị hôm nay</h2><span class="chip" id="stratChip"></span></div>
+  <p class="muted small" id="signalsNote"></p>
+  <div class="cards" id="signalsBuy"></div>
+  <h3 class="sub">Đang nắm giữ</h3>
+  <div class="cards" id="signalsHold"></div>
+</section>
+
+<!-- ===== Tab: Tin AI ===== -->
+<section class="tab" id="tab-news" hidden>
+  <div class="regime" id="regime"></div>
+  <div class="ai-summary" id="aiSummary"></div>
+  <h3 class="sub">Tin nổi bật</h3>
+  <div class="news-list" id="newsList"></div>
+</section>
+
+<!-- ===== Tab: Cảnh báo ===== -->
+<section class="tab" id="tab-alerts" hidden>
+  <h2>Cảnh báo</h2>
+  <p class="muted small">Cảnh báo giá đặt tại máy; updater bắn Discord khi có tín hiệu mua/bán mới.</p>
+  <form class="alert-form" id="alertForm">
+    <div class="seg" id="alertSeg">
+      <button type="button" class="seg-btn active" data-dir="above">Vượt lên ≥</button>
+      <button type="button" class="seg-btn" data-dir="below">Rớt xuống ≤</button>
+    </div>
+    <div class="alert-inputs">
+      <input id="alSym" type="text" autocapitalize="characters" placeholder="Mã (FPT)" required>
+      <input id="alPrice" type="number" inputmode="decimal" placeholder="Giá (vd 120000)" required>
+      <button class="btn" type="submit">Thêm</button>
+    </div>
+  </form>
+  <div class="alert-list" id="alertList"></div>
+  <h3 class="sub">Đã kích hoạt</h3>
+  <div class="alert-log" id="alertLog"></div>
+</section>
+
+<nav class="tabbar">
+  <button class="tab-btn active" data-tab="prices"><span class="ti">▦</span>Bảng giá</button>
+  <button class="tab-btn" data-tab="signals"><span class="ti">◎</span>Khuyến nghị</button>
+  <button class="tab-btn" data-tab="news"><span class="ti">✦</span>Tin AI</button>
+  <button class="tab-btn" data-tab="alerts"><span class="ti">!</span>Cảnh báo</button>
+</nav>
+
+<script src="app.js"></script>
+</body>
+</html>
