@@ -2,13 +2,13 @@
   "_opus": true,
   "date": "2026-06-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin chính sách nghiêng tích cực: Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% nửa cuối năm, TP.HCM 10,2%, cùng đẩy mạnh đầu tư hạ tầng (siêu sân bay ~8 tỷ USD) và nâng chất FDI sang công nghệ cao — hỗ trợ kỳ vọng cho cổ phiếu xây dựng, BĐS khu công nghiệp và công nghệ. Việc hoãn thu thuế chuyển nhượng vàng miếng từ 1/7 giúp ổn định tâm lý dòng tiền. Tuy nhiên đây mới là mục tiêu, cần số liệu thực tế xác nhận; bối cảnh vĩ mô toàn cầu (lạm phát Mỹ, USD) vẫn trung tính. Ưu tiên nhóm hưởng lợi đầu tư công và tăng trưởng nội địa, chờ dòng tiền xác nhận.",
+  "summary_vi": "Dòng tin nghiêng tích cực nhờ loạt xúc tác đầu tư công: TP.HCM khởi công 8 dự án trọng điểm gần 10 tỷ USD, đẩy tiến độ siêu sân bay ~8 tỷ USD, cùng mục tiêu tăng trưởng tham vọng (GDP 11,9% nửa cuối năm, TP.HCM 10,2%) và định hướng FDI sang công nghệ cao — hỗ trợ nhóm xây dựng, vật liệu, BĐS khu công nghiệp, hạ tầng. Điểm trừ đáng chú ý: khối ngoại tiếp tục bán ròng ~1.200 tỷ phiên cuối quý, tạo áp lực ngắn hạn lên chỉ số. Việc hoãn thu thuế chuyển nhượng vàng miếng từ 1/7 giúp ổn định tâm lý. Chiến lược: ưu tiên nhóm hưởng lợi đầu tư công và tăng trưởng nội địa, nhưng theo dõi sát dòng tiền ngoại trước khi giải ngân mạnh.",
   "top": [
-    {"title": "Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% nửa cuối năm", "impact": "↑", "note": "Tín hiệu chính sách thúc đẩy tăng trưởng mạnh, hỗ trợ cổ phiếu chu kỳ và nội địa."},
-    {"title": "Đẩy tiến độ siêu sân bay ~8 tỷ USD", "impact": "↑", "note": "Hưởng lợi nhóm xây dựng, vật liệu, BĐS khu vực quanh dự án."},
+    {"title": "TP.HCM khởi công 8 dự án trọng điểm gần 10 tỷ USD", "impact": "↑", "note": "Xúc tác đầu tư công lớn, hưởng lợi trực tiếp nhóm xây dựng, vật liệu, hạ tầng."},
+    {"title": "Khối ngoại bán ròng ~1.200 tỷ phiên cuối quý", "impact": "↓", "note": "Áp lực ngắn hạn lên chỉ số; cần theo dõi dòng tiền ngoại trước khi mua mạnh."},
+    {"title": "Mục tiêu tăng trưởng GDP 11,9% nửa cuối năm", "impact": "↑", "note": "Định hướng chính sách thúc đẩy mạnh, tích cực cho cổ phiếu chu kỳ và nội địa."},
+    {"title": "Đẩy tiến độ siêu sân bay ~8 tỷ USD", "impact": "↑", "note": "Dự án hạ tầng quy mô lớn, lan toả sang BĐS và xây dựng khu vực."},
     {"title": "Chuyển hướng FDI sang dự án công nghệ tiên tiến", "impact": "↑", "note": "Nâng chất dòng vốn ngoại, tích cực dài hạn cho công nghệ và KCN."},
-    {"title": "TP.HCM đặt mục tiêu tăng trưởng 10,2%", "impact": "↑", "note": "Đầu tàu kinh tế tăng tốc, hỗ trợ doanh nghiệp phía Nam."},
-    {"title": "Hoãn thu thuế chuyển nhượng vàng miếng từ 1/7", "impact": "↑", "note": "Giảm áp lực tâm lý lên kênh vàng, gián tiếp ổn định dòng tiền."},
-    {"title": "MSB tất toán lô trái phiếu 1.000 tỷ sau 1 năm", "impact": "→", "note": "Quản trị nợ ngân hàng lành mạnh nhưng tác động hẹp."}
+    {"title": "Hoãn thu thuế chuyển nhượng vàng miếng từ 1/7", "impact": "→", "note": "Giảm áp lực tâm lý kênh vàng, tác động gián tiếp."}
   ]
 }
