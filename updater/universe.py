@@ -29,8 +29,8 @@ def _num(x):
 
 def all_stock_symbols():
     """Tat ca ma co phieu tren HOSE/HNX/UPCOM -> list dict {sym, exch, name}."""
-    from vnstock import Vnstock
-    df = Vnstock().stock(symbol="FPT", source="VCI").listing.symbols_by_exchange()
+    from vnstock.api.listing import Listing
+    df = Listing(source="VCI").symbols_by_exchange()
     out = []
     for _, r in df.iterrows():
         typ = str(r.get("type", "")).lower()
@@ -53,14 +53,14 @@ def _flat(row, cols):
 def price_board_snapshot(symbols):
     """Snapshot price_board cho 1 danh sach ma -> {sym: {...}}. Chia lo, boc try.
     Gia tri VND. Tra ve cac truong dung chung cho ca 2 scanner."""
-    from vnstock import Vnstock
-    base = Vnstock().stock(symbol=symbols[0], source="VCI")
+    from vnstock.api.trading import Trading
+    T = Trading(source="VCI")
     out = {}
     for i in range(0, len(symbols), CHUNK):
         part = symbols[i:i + CHUNK]
         for attempt in range(2):
             try:
-                pb = base.trading.price_board(part)
+                pb = T.price_board(part)
                 cols = list(pb.columns)
                 for _, r in pb.iterrows():
                     d = _flat(r, cols)

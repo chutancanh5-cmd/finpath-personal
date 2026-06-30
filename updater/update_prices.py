@@ -125,13 +125,13 @@ def pick(d, *keywords):
 
 
 def fetch_board(syms):
-    from vnstock import Vnstock
-    stock = Vnstock().stock(symbol=syms[0], source=SOURCE)
+    from vnstock.api.trading import Trading
+    T = Trading(source=SOURCE)
     try:
-        df = stock.trading.price_board(syms)
+        df = T.price_board(syms)
     except TypeError:
         # mot so phien ban: price_board(symbols_list=...)
-        df = stock.trading.price_board(symbols_list=syms)
+        df = T.price_board(symbols_list=syms)
     rows = []
     cols = list(df.columns)
     name_map = company_names(syms)
@@ -169,9 +169,8 @@ def company_names(syms):
     """Ten ngan gon cho moi ma (best-effort, khong fail neu loi)."""
     out = {}
     try:
-        from vnstock import Vnstock
-        listing = Vnstock().stock(symbol=syms[0], source=SOURCE).listing
-        df = listing.all_symbols()
+        from vnstock.api.listing import Listing
+        df = Listing(source=SOURCE).all_symbols()
         col_sym = "ticker" if "ticker" in df.columns else ("symbol" if "symbol" in df.columns else None)
         col_nm = next((c for c in ("organ_short_name", "organ_name", "company_name") if c in df.columns), None)
         if col_sym and col_nm:
@@ -185,12 +184,12 @@ def company_names(syms):
 HIST_BARS = 120  # so phien cho bieu do trong app
 
 def add_sparklines(rows):
-    from vnstock import Vnstock
+    from vnstock.api.quote import Quote
     start = (date.today() - timedelta(days=260)).isoformat()
     end = date.today().isoformat()
     for r in rows:
         try:
-            h = Vnstock().stock(symbol=r["sym"], source=SOURCE).quote.history(
+            h = Quote(symbol=r["sym"], source=SOURCE).history(
                 start=start, end=end, interval="1D")
             dates = [str(t)[:10] for t in h["time"].tolist()]
             closes = [num(x) for x in h["close"].tolist()]
@@ -202,9 +201,9 @@ def add_sparklines(rows):
 
 
 def fetch_index(symbol):
-    from vnstock import Vnstock
+    from vnstock.api.quote import Quote
     try:
-        h = Vnstock().stock(symbol=symbol, source=SOURCE).quote.history(
+        h = Quote(symbol=symbol, source=SOURCE).history(
             start=(date.today() - timedelta(days=15)).isoformat(),
             end=date.today().isoformat(), interval="1D")
         closes = [num(x) for x in h["close"].tolist() if num(x) is not None]
