@@ -351,6 +351,14 @@ async function init() {
     ALERTS = ALERTS.filter(a => a.id !== del.dataset.del); saveAlerts(); renderAlerts();
   };
 
+  // tự động làm mới khi mở app: kéo dữ liệu mới mỗi 60s + ngay khi quay lại app
+  setInterval(async () => {
+    if (document.visibilityState === 'visible' && $('chartModal').hidden) { await loadData(); renderAll(); }
+  }, 60000);
+  document.addEventListener('visibilitychange', async () => {
+    if (document.visibilityState === 'visible') { await loadData(); renderAll(); }
+  });
+
   if ('serviceWorker' in navigator) { try { await navigator.serviceWorker.register('sw.js'); } catch {} }
 }
 document.addEventListener('DOMContentLoaded', init);
