@@ -1,8 +1,9 @@
 name: finpath-intraday
-# Quet trong phien: moi 5' tu 02:00-08:55 UTC = 09:00-15:55 gio VN, T2-T6.
+# Quet trong phien: moi 10' tu 02:00-08:55 UTC = 09:00-15:55 gio VN, T2-T6.
+# (10' de duoi gioi han build GitHub Pages ~10/gio; canh bao Discord van moi lan chay.)
 on:
   schedule:
-    - cron: '*/5 2-8 * * 1-5'
+    - cron: '*/10 2-8 * * 1-5'
   workflow_dispatch:
 
 permissions:
