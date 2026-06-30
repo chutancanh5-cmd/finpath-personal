@@ -18,9 +18,18 @@ updater/
   universe.py         ← lấy toàn sàn HOSE/HNX/UPCOM + lọc thanh khoản (cache)
   scan_daily.py       ← [DONE] cuối phiên: vượt đỉnh+KL · giảm về hỗ trợ · tích lũy nền
   scan_intraday.py    ← [DONE] trong phiên: đột biến 5 phút · cá mập (proxy khối ngoại)
+  update_orderflow.py ← [DONE] dòng tiền THẬT (kbs tick mua/bán chủ động) từ orderflow/feed.py
   run_daily.bat       ← 4 updater + alert + scan_daily (lịch sau 15:00)
-  run_intraday.bat    ← scan_intraday (lịch mỗi 5 phút, tự bỏ qua ngoài giờ)
+  run_intraday.bat    ← scan_intraday + update_orderflow (lịch mỗi 5 phút)
 ```
+
+## Dòng tiền (tab "Dòng tiền")
+Order flow THẬT cho watchlist, nối thẳng `orderflow/feed.py` (`source="kbs"`):
+- **Lệnh chủ động Mua/Bán gộp** của cả thị trường (%mua cả phiên + 15' gần nhất, net tỷ VND).
+- 🦈 **Lệnh lớn** (cá mập): tick khớp đơn lẻ ≥200tr — hiện giá/KL/giờ.
+- **Sổ lệnh** bid/ask + khối ngoại ròng.
+- *Không* thấy lệnh từng nhà đầu tư (dữ liệu đó riêng tư, không nguồn nào có) — chỉ hành vi gộp.
+Đây là bản order flow thật, thay cho proxy khối ngoại ở tab Quét.
 
 ## Bộ quét (scanner)
 5 loại cảnh báo kiểu Finpath, quét **toàn sàn** (lọc thanh khoản ≥2 tỷ/phiên, tối đa 500 mã):

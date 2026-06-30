@@ -11,6 +11,7 @@ let SIGNALS = { signals: [], note: '', strategy: '' };
 let NEWS = { items: [], summary: '', regime: {} };
 let SCAND = { hits: [], counts: {}, universe_n: 0 };
 let SCANI = { hits: [], market_open: false };
+let FLOW = { symbols: [], market_open: false };
 let WATCH = [];
 let ALERTS = [];
 
@@ -43,7 +44,8 @@ async function loadData() {
   NEWS = await fetchJSON('data/news.json', cache.news || NEWS);
   SCAND = await fetchJSON('data/scan_daily.json', cache.scand || SCAND);
   SCANI = await fetchJSON('data/scan_intraday.json', cache.scani || SCANI);
-  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI }));
+  FLOW = await fetchJSON('data/orderflow.json', cache.flow || FLOW);
+  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI, flow: FLOW }));
 }
 
 /* ---------- render: header ---------- */
@@ -178,6 +180,39 @@ function renderScan() {
     : `<p class="muted small">${SCANI.market_open ? 'Chưa có tín hiệu trong phiên.' : 'Thị trường đóng cửa — quét trong phiên tạm nghỉ.'}</p>`;
 }
 
+/* ---------- order flow ---------- */
+function flowCard(s) {
+  const buy = s.buy_pct != null ? s.buy_pct : 50, sell = Math.max(0, 100 - buy);
+  const bar = `<div class="pbar"><div class="pbuy" style="width:${buy}%"></div><div class="psell" style="width:${sell}%"></div></div>`;
+  const sgn = n => (n > 0 ? '+' : '') + n + ' tỷ';
+  const big = (s.big_trades || []).slice(0, 3).map(t =>
+    `<div class="bigt"><span class="${t.side === 'buy' ? 'pos' : 'neg'}">${t.side === 'buy' ? '🟢 Mua' : '🔴 Bán'} ${t.time}</span>
+      <span>${fmt(t.vol)} cp</span><b>${t.val_bn} tỷ</b><span class="muted">@ ${fmt(t.price)}</span></div>`).join('');
+  const bid1 = (s.bid && s.bid[0]) || [0, 0], ask1 = (s.ask && s.ask[0]) || [0, 0];
+  const book = (bid1[1] || ask1[1])
+    ? `<div class="book">Chờ mua <b class="pos">${fmt(bid1[1])}</b>@${fmt(bid1[0])} · Chờ bán <b class="neg">${fmt(ask1[1])}</b>@${fmt(ask1[0])}</div>` : '';
+  return `<div class="scard">
+    <div class="top"><span class="sym">${s.sym}</span><span class="${cls(s.pct)}">${fmt(s.price)} (${pct(s.pct)})</span></div>
+    ${bar}
+    <div class="flowstats">
+      <span>Mua CĐ <b class="${buy >= 50 ? 'pos' : 'neg'}">${buy}%</b></span>
+      <span>15' <b class="${s.recent_buy_pct >= 50 ? 'pos' : 'neg'}">${s.recent_buy_pct}%</b></span>
+      <span>Net <b class="${cls(s.net_val_bn)}">${sgn(s.net_val_bn)}</b></span>
+      <span>Ngoại <b class="${cls(s.foreign_net_bn)}">${sgn(s.foreign_net_bn)}</b></span>
+    </div>
+    ${big ? `<div class="bigtrades">${big}</div>` : ''}
+    ${book}
+  </div>`;
+}
+function renderFlow() {
+  $('flowMeta').textContent = FLOW.updated_at
+    ? (FLOW.market_open ? 'trong phiên · ' : 'phiên gần nhất · ') + new Date(FLOW.updated_at).toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' })
+    : '';
+  const syms = FLOW.symbols || [];
+  $('flowList').innerHTML = syms.length ? syms.map(flowCard).join('')
+    : '<p class="muted small">Chưa có dữ liệu dòng tiền. Chạy update_orderflow.py trong giờ giao dịch.</p>';
+}
+
 /* ---------- alerts ---------- */
 let alertDir = 'above';
 function checkAlerts() {
@@ -212,7 +247,7 @@ function switchTab(name) {
   window.scrollTo(0, 0);
 }
 
-function renderAll() { renderHeader(); renderBoard(); renderSignals(); renderNews(); renderScan(); checkAlerts(); renderAlerts(); }
+function renderAll() { renderHeader(); renderBoard(); renderSignals(); renderNews(); renderScan(); renderFlow(); checkAlerts(); renderAlerts(); }
 
 async function refresh() {
   $('refreshBtn').style.transform = 'rotate(360deg)';

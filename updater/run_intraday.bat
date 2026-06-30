@@ -7,3 +7,4 @@ REM  Chi ban Discord (khong --push de tranh spam commit / gioi han Pages).
 REM ============================================================
 cd /d "C:\Users\chuta\finpath-personal\updater"
 python scan_intraday.py --discord
+python update_orderflow.py --push
