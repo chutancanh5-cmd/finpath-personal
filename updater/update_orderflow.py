@@ -34,6 +34,8 @@ ROOT = os.path.dirname(HERE)
 OUT = os.path.join(ROOT, "docs", "data", "orderflow.json")
 WATCHLIST = os.path.join(HERE, "watchlist.txt")
 STATE = os.path.join(HERE, "orderflow_state.json")
+TREND_FILE = os.path.join(HERE, "orderflow_trend.json")
+TREND_MAX = 72           # so diem xu huong trong ngay (~6h moi 5')
 VN_TZ = timezone(timedelta(hours=7))
 BIG_VND = 200e6          # 1 lenh khop >= 200tr -> "lenh lon" (hien trong app)
 SHARK_VND = 1e9          # 1 lenh khop >= 1 ty -> canh bao "ca map" Discord
@@ -147,8 +149,10 @@ def main():
     # sap xep: net chu dong manh nhat len dau
     out.sort(key=lambda x: x["net_val_bn"], reverse=True)
 
+    update_trend(out)
+    breadth = market_breadth(out)
     data = {"updated_at": dt.datetime.now(VN_TZ).isoformat(timespec="seconds"),
-            "market_open": opened, "symbols": out}
+            "market_open": opened, "market": breadth, "symbols": out}
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump(data, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     log(f"da ghi {OUT}: {len(out)} ma")
@@ -157,6 +161,35 @@ def main():
         alert_sharks(out)
     if "--push" in sys.argv:
         git_push()
+
+
+def update_trend(out):
+    """Tich luy chuoi %mua chu dong trong ngay; gan s['trend'] cho moi ma."""
+    today = dt.datetime.now(VN_TZ).strftime("%Y-%m-%d")
+    hm = dt.datetime.now(VN_TZ).strftime("%H:%M")
+    try:
+        tr = json.load(open(TREND_FILE, encoding="utf-8"))
+    except Exception:
+        tr = {}
+    if tr.get("date") != today:
+        tr = {"date": today, "points": {}}
+    pts = tr["points"]
+    for s in out:
+        arr = pts.get(s["sym"], [])
+        arr.append([hm, s["buy_pct"]])
+        pts[s["sym"]] = arr[-TREND_MAX:]
+        s["trend"] = [p[1] for p in pts[s["sym"]]]
+    json.dump(tr, open(TREND_FILE, "w", encoding="utf-8"), ensure_ascii=False)
+
+
+def market_breadth(out):
+    """Dong tien toan watchlist: bao nhieu ma tien vao/ra, TB mua chu dong, net."""
+    if not out:
+        return {}
+    buy = sum(1 for s in out if s["net_val_bn"] > 0)
+    return {"n": len(out), "buy_count": buy, "sell_count": len(out) - buy,
+            "avg_buy_pct": round(sum(s["buy_pct"] for s in out) / len(out), 1),
+            "total_net_bn": round(sum(s["net_val_bn"] for s in out), 1)}
 
 
 def alert_sharks(symbols):

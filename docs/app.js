@@ -235,6 +235,8 @@ function flowCard(s) {
   const bid1 = (s.bid && s.bid[0]) || [0, 0], ask1 = (s.ask && s.ask[0]) || [0, 0];
   const book = (bid1[1] || ask1[1])
     ? `<div class="book">Chờ mua <b class="pos">${fmt(bid1[1])}</b>@${fmt(bid1[0])} · Chờ bán <b class="neg">${fmt(ask1[1])}</b>@${fmt(ask1[0])}</div>` : '';
+  const trend = (s.trend && s.trend.length >= 2)
+    ? `<div class="ftrend"><span class="muted small">Mua CĐ trong ngày</span>${sparkSVG(s.trend)}</div>` : '';
   return `<div class="scard">
     <div class="top"><span class="sym">${s.sym}</span><span class="${cls(s.pct)}">${fmt(s.price)} (${pct(s.pct)})</span></div>
     ${bar}
@@ -244,6 +246,7 @@ function flowCard(s) {
       <span>Net <b class="${cls(s.net_val_bn)}">${sgn(s.net_val_bn)}</b></span>
       <span>Ngoại <b class="${cls(s.foreign_net_bn)}">${sgn(s.foreign_net_bn)}</b></span>
     </div>
+    ${trend}
     ${big ? `<div class="bigtrades">${big}</div>` : ''}
     ${book}
   </div>`;
@@ -252,6 +255,14 @@ function renderFlow() {
   $('flowMeta').textContent = FLOW.updated_at
     ? (FLOW.market_open ? 'trong phiên · ' : 'phiên gần nhất · ') + new Date(FLOW.updated_at).toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' })
     : '';
+  const m = FLOW.market || {};
+  if (m.n) {
+    const buyDom = m.buy_count >= m.sell_count;
+    $('flowBreadth').innerHTML =
+      `<div class="bd-row"><b class="${buyDom ? 'pos' : 'neg'}">${m.buy_count}/${m.n} mã tiền vào</b>
+        <span>TB mua CĐ <b class="${m.avg_buy_pct >= 50 ? 'pos' : 'neg'}">${m.avg_buy_pct}%</b></span>
+        <span>Net <b class="${cls(m.total_net_bn)}">${m.total_net_bn > 0 ? '+' : ''}${m.total_net_bn} tỷ</b></span></div>`;
+  } else $('flowBreadth').innerHTML = '';
   const syms = FLOW.symbols || [];
   $('flowList').innerHTML = syms.length ? syms.map(flowCard).join('')
     : '<p class="muted small">Chưa có dữ liệu dòng tiền. Chạy update_orderflow.py trong giờ giao dịch.</p>';
