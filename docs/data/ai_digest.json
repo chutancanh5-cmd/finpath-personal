@@ -2,13 +2,37 @@
   "_opus": true,
   "date": "2026-07-01",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% cho 6 tháng cuối năm — mức tham vọng cao phản ánh cam kết kích thích kinh tế mạnh, hỗ trợ tâm lý chung cho thị trường chứng khoán. TPHCM đồng loạt khởi công 8 dự án trọng điểm trị giá gần 10 tỷ USD tạo động lực rõ ràng cho nhóm xây dựng, vật liệu và BĐS. Chính sách FDI chuyển hướng ưu tiên công nghệ tiên tiến mở câu chuyện dài hạn cho nhóm KCN công nghệ cao. Rủi ro ngắn hạn đáng lưu ý: khối ngoại bán ròng 1.200 tỷ đồng trong phiên cuối quý, áp lực thanh khoản có thể kéo sang đầu quý III và cần theo dõi chặt dòng tiền nội.",
+  "summary_vi": "Mở đầu nửa cuối năm 2026, Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% cho 6 tháng còn lại — tín hiệu quyết tâm chính sách rất mạnh, hỗ trợ tâm lý tích cực cho thị trường. TPHCM đồng loạt khởi công 8 dự án trọng điểm trị giá gần 10 tỷ USD, tạo động lực lớn cho nhóm cổ phiếu xây dựng, vật liệu và bất động sản. Định hướng chuyển FDI sang công nghệ tiên tiến là tín hiệu trung-dài hạn tích cực cho nhóm tech và khu công nghiệp high-tech. Rủi ro ngắn hạn cần lưu ý: khối ngoại tiếp tục bán ròng 1.200 tỷ đồng trong phiên cuối quý, cho thấy áp lực chốt lời vẫn hiện hữu và dòng vốn ngoại chưa quay đầu mua vào.",
   "top": [
-    {"title": "Chính phủ mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm", "impact": "↑", "note": "Mục tiêu tăng trưởng rất cao thể hiện cam kết chính sách mạnh, nâng kỳ vọng lợi nhuận doanh nghiệp và dòng tiền vào chứng khoán."},
-    {"title": "TPHCM khởi công 8 dự án trọng điểm gần 10 tỷ USD", "impact": "↑", "note": "Đầu tư công quy mô lớn tạo dòng tiền trực tiếp vào nhóm xây dựng, vật liệu xây dựng và BĐS khu vực TPHCM."},
-    {"title": "Khối ngoại tiếp tục bán ròng 1.200 tỷ đồng phiên cuối quý", "impact": "↓", "note": "Áp lực bán ròng liên tục tạo cản lực thanh khoản và rủi ro tâm lý ngắn hạn đầu quý III/2026."},
-    {"title": "Phó Thủ tướng: Chuyển FDI sang ưu tiên công nghệ tiên tiến", "impact": "↑", "note": "Chính sách nâng chất FDI hỗ trợ định giá dài hạn cho nhóm KCN, bán dẫn và công nghệ cao."},
-    {"title": "Siêu sân bay Long Thành ~8 tỷ USD cập nhật tiến độ", "impact": "↑", "note": "Tiến độ tích cực của hạ tầng quy mô lớn củng cố câu chuyện đầu tư cho nhóm xây dựng và hàng không."},
-    {"title": "Bộ Tài chính: Chưa thu thuế chuyển nhượng vàng miếng từ 1/7/2026", "impact": "→", "note": "Hoãn áp thuế vàng giảm bất ổn ngắn hạn, ít tác động trực tiếp đến cổ phiếu nhưng giảm tâm lý lo ngại."}
+    {
+      "title": "Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm",
+      "impact": "↑",
+      "note": "Mục tiêu tăng trưởng tham vọng phát tín hiệu chính sách kích thích mạnh, nâng kỳ vọng lợi nhuận doanh nghiệp và dòng tiền vào chứng khoán."
+    },
+    {
+      "title": "TPHCM khởi công 8 dự án trọng điểm gần 10 tỷ USD",
+      "impact": "↑",
+      "note": "Giải ngân đầu tư công quy mô lớn là chất xúc tác trực tiếp cho nhóm xây dựng, vật liệu xây dựng và cổ phiếu hạ tầng."
+    },
+    {
+      "title": "Khối ngoại tiếp tục bán ròng 1.200 tỷ đồng phiên cuối quý",
+      "impact": "↓",
+      "note": "Áp lực bán ròng kéo dài tạo lực cản kỹ thuật ngắn hạn, đặc biệt với các bluechip vốn hóa lớn đầu quý III."
+    },
+    {
+      "title": "Phó Thủ tướng: Chuyển FDI sang ưu tiên dự án công nghệ tiên tiến",
+      "impact": "↑",
+      "note": "Định hướng FDI chất lượng cao tạo kỳ vọng trung-dài hạn cho nhóm công nghệ, bán dẫn và khu công nghiệp high-tech."
+    },
+    {
+      "title": "Dự báo lợi nhuận Q2/2026 của 68 doanh nghiệp hot, có tên tăng trưởng 1.400%",
+      "impact": "↑",
+      "note": "Mùa công bố KQKD Q2 với kỳ vọng lợi nhuận đột biến là chất xúc tác lựa chọn cổ phiếu cụ thể trong ngắn hạn."
+    },
+    {
+      "title": "Bộ Tài chính: Chưa thu thuế chuyển nhượng vàng miếng từ 1/7/2026",
+      "impact": "→",
+      "note": "Hoãn áp thuế vàng giảm bất ổn chính sách ngắn hạn, ít tác động trực tiếp đến TTCK nhưng hạn chế dòng tiền rời khỏi vàng sang cổ phiếu."
+    }
   ]
 }
