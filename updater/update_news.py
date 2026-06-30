@@ -231,6 +231,12 @@ def best_link(title, raw):
 
 
 def main():
+    if "--rawdump" in sys.argv:
+        items = fetch_rss()
+        out = os.path.join(ROOT, "docs", "data", "_rss_raw.json")
+        json.dump({"date": today(), "items": items}, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        log("rawdump:", len(items), "tin ->", out)
+        return
     fred_key = (os.getenv("FRED_API_KEY") or "").strip()
     anthropic_key = (os.getenv("ANTHROPIC_API_KEY") or "").strip()
     items = fetch_rss()

@@ -11,6 +11,7 @@ updater/orderflow_state.json
 updater/orderflow_trend.json
 updater/check_alerts_state.json
 updater/.last_push
+docs/data/_rss_raw.json
 
 # python
 __pycache__/
