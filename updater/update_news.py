@@ -41,7 +41,10 @@ def log(*a):
 
 
 def find_macro_dir():
-    """Do thu muc macro/ cua project TradingView (ne Unicode-twin bang wildcard)."""
+    """Uu tien ban vendor trong repo (cho GitHub Actions); fallback cay local."""
+    vend = os.path.join(os.path.dirname(os.path.abspath(__file__)), "vendor", "macro", "macro_bot.py")
+    if os.path.exists(vend):
+        return os.path.dirname(vend)
     home = os.path.expanduser("~")
     pats = [
         os.path.join(home, "OneDrive", "*", "Claude", "Projects", "TradingView", "macro", "macro_bot.py"),

@@ -1,0 +1,6 @@
+{
+  "alerts": [
+    {"sym": "FPT", "dir": "above", "price": 75000},
+    {"sym": "HPG", "dir": "below", "price": 22000}
+  ]
+}

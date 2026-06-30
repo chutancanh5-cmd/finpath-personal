@@ -10,7 +10,6 @@ updater/scan_intraday_prev.json
 updater/orderflow_state.json
 updater/orderflow_trend.json
 updater/check_alerts_state.json
-updater/price_alerts.json
 updater/.last_push
 
 # python

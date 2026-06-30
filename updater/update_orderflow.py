@@ -46,14 +46,29 @@ def log(*a):
     print("[orderflow]", *a, flush=True)
 
 
-def find_feed_dir():
-    home = os.path.expanduser("~")
-    for pat in (os.path.join(home, "OneDrive", "*", "Claude", "Projects", "TradingView", "orderflow", "feed.py"),
-                os.path.join(home, "*", "Claude", "Projects", "TradingView", "orderflow", "feed.py")):
-        hits = glob.glob(pat)
-        if hits:
-            return os.path.dirname(hits[0])
-    return None
+def market_open(now=None):
+    n = now or dt.datetime.now(VN_TZ)
+    if n.weekday() >= 5:
+        return False
+    t = n.hour * 60 + n.minute
+    return (9 * 60 <= t <= 11 * 60 + 30) or (13 * 60 <= t <= 14 * 60 + 50)
+
+
+def fetch_ticks(sym):
+    """Lenh khop trong phien + side mua/ban CHU DONG (nguon kbs). Code goc FinPath,
+    goi truc tiep vnstock public API (khong copy feed.py)."""
+    import pandas as pd
+    from vnstock.api.quote import Quote
+    df = Quote(symbol=sym, source="kbs").intraday(page_size=5000)
+    if df is None or len(df) == 0:
+        return None
+    df = df.rename(columns={"match_type": "side"})
+    df["time"] = pd.to_datetime(df["time"])
+    df["price"] = pd.to_numeric(df["price"], errors="coerce")
+    df["volume"] = pd.to_numeric(df["volume"], errors="coerce").fillna(0).astype("int64")
+    df["side"] = df["side"].astype(str).str.lower().str.strip()
+    df = df.dropna(subset=["price"]).sort_values("time").reset_index(drop=True)
+    return df[["time", "price", "volume", "side"]]
 
 
 def read_watchlist():
@@ -104,33 +119,26 @@ def analyze_ticks(df):
 
 
 def main():
-    feed_dir = find_feed_dir()
-    if not feed_dir:
-        log("Khong tim thay orderflow/feed.py. Bo qua.")
-        return
-    log("feed dir:", feed_dir)
-    sys.path.insert(0, feed_dir)
-    import feed as F
-
+    import universe
     syms = read_watchlist()
-    opened = F.market_open()
+    opened = market_open()
     log(f"{len(syms)} ma | market_open={opened}")
 
-    board = F.fetch_board(syms, source="vci") or {}
+    snap = universe.price_board_snapshot(syms)
     out = []
     for sym in syms:
         try:
-            t = F.fetch_ticks(sym, source="kbs")
+            t = fetch_ticks(sym)
             if t is None or len(t) == 0:
                 continue
             a = analyze_ticks(t)
         except Exception as e:
             log(f"{sym} loi:", str(e)[:70])
             continue
-        b = board.get(sym, {})
-        ref = b.get("ref") or a["last_price"]
+        d = snap.get(sym, {})
+        ref = d.get("ref") or a["last_price"]
         price = a["last_price"]
-        fr_net = (b.get("fr_buy_val", 0) or 0) - (b.get("fr_sell_val", 0) or 0)
+        fr_net = (d.get("fbval") or 0) - (d.get("fsval") or 0)
         out.append({
             "sym": sym,
             "price": price,
@@ -143,8 +151,8 @@ def main():
             "big_trades": a["big_trades"],
             "big_net_bn": a["big_net_bn"],
             "foreign_net_bn": round(fr_net / 1e9, 2),
-            "bid": [[round(b.get(f"bid{l}_p", 0)), int(b.get(f"bid{l}_v", 0) or 0)] for l in (1, 2, 3)],
-            "ask": [[round(b.get(f"ask{l}_p", 0)), int(b.get(f"ask{l}_v", 0) or 0)] for l in (1, 2, 3)],
+            "bid": d.get("bid") or [],
+            "ask": d.get("ask") or [],
         })
     # sap xep: net chu dong manh nhat len dau
     out.sort(key=lambda x: x["net_val_bn"], reverse=True)

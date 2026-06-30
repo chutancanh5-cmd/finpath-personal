@@ -27,6 +27,10 @@ def _num(x):
         return None
 
 
+def _round(x):
+    return round(x) if x else 0
+
+
 def all_stock_symbols():
     """Tat ca ma co phieu tren HOSE/HNX/UPCOM -> list dict {sym, exch, name}."""
     from vnstock.api.listing import Listing
@@ -85,6 +89,10 @@ def price_board_snapshot(symbols):
                         "sell_ord": _num(d.get("match__total_sell_orders")) or 0,
                         "exch": str(d.get("listing__exchange", "")).upper(),
                         "name": str(d.get("listing__organ_name", "")),
+                        "bid": [[_round(_num(d.get(f"bid_ask__bid_{l}_price"))),
+                                 int(_num(d.get(f"bid_ask__bid_{l}_volume")) or 0)] for l in (1, 2, 3)],
+                        "ask": [[_round(_num(d.get(f"bid_ask__ask_{l}_price"))),
+                                 int(_num(d.get(f"bid_ask__ask_{l}_volume")) or 0)] for l in (1, 2, 3)],
                     }
                 break
             except Exception as e:

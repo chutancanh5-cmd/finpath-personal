@@ -1,0 +1,49 @@
+name: finpath-daily
+# Cap nhat day du cuoi phien: 08:10 UTC = 15:10 gio VN, T2-T6.
+on:
+  schedule:
+    - cron: '10 8 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finpath-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      ACCEPT_TC: "tôi đồng ý"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run full updaters
+        working-directory: updater
+        run: |
+          python update_prices.py || true
+          python update_signals.py || true
+          python update_news.py || true
+          python alert.py || true
+          python scan_daily.py --discord || true
+          python update_orderflow.py --discord || true
+          python check_alerts.py || true
+      - name: Commit & push data
+        run: |
+          git config user.name "finpath-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then echo "khong co thay doi"; else
+            git commit -m "data: daily $(date -u +%H:%M) UTC"
+            git pull --rebase --autostash || true
+            git push
+          fi
