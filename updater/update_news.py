@@ -158,7 +158,9 @@ def regime(fred_key):
 
     if not rows:
         return {"score": 50, "label": "Trung tính", "note": "Chưa đủ dữ liệu vĩ mô.", "rows": []}
-    score = round(50 + 50 * sum(d for _, d, _ in rows) / len(rows))
+    n = len(rows)
+    conf = min(1.0, n / 5)   # it tin hieu -> keo ve trung tinh (tranh diem cuc doan)
+    score = round(50 + (50 * sum(d for _, d, _ in rows) / n) * conf)
     label = "Risk-On" if score >= 65 else "Risk-Off" if score <= 35 else "Trung tính"
     pos = [n for n, d, _ in rows if d > 0]
     neg = [n for n, d, _ in rows if d < 0]
@@ -205,6 +207,19 @@ def ai_digest(items, key):
         return None
 
 
+def load_opus_digest():
+    """Doc ban phan tich do Opus 4.8 viet san (docs/data/ai_digest.json) -- dung
+    THAY cho Claude API khi het credit. Cung schema voi ai_digest()."""
+    p = os.path.join(ROOT, "docs", "data", "ai_digest.json")
+    try:
+        d = json.load(open(p, encoding="utf-8"))
+        if d.get("summary_vi") and d.get("top"):
+            return d
+    except Exception:
+        pass
+    return None
+
+
 def best_link(title, raw):
     tw = set(re.findall(r"\w+", title.lower()))
     best, sc = None, 0
@@ -222,8 +237,9 @@ def main():
     log("RSS:", len(items), "tin")
     reg = regime(fred_key)
     log("regime:", reg["score"], reg["label"])
-    dig = ai_digest(items, anthropic_key)
-    log("AI digest:", (dig.get("overall_sentiment") if dig else "khong co (thieu key/credit)"))
+    dig = ai_digest(items, anthropic_key) or load_opus_digest()
+    src = "API" if (anthropic_key and dig and "_opus" not in dig) else ("Opus" if dig else "khong co")
+    log("AI digest:", (dig.get("overall_sentiment") + f" (nguon {src})") if dig else "khong co (regime fallback)")
 
     t = today()
     if dig and dig.get("top"):
