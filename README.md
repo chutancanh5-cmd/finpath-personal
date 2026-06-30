@@ -14,8 +14,20 @@ updater/
   watchlist.txt       ← danh mục theo dõi = 16 mã DC55/30 (sửa tại đây)
   update_news.py      ← [DONE] import macro/ bot → regime + RSS + Haiku → news.json
   alert.py            ← [DONE] tín hiệu MUA/BÁN mới → Discord (dedup theo ngày)
-  run_daily.bat       ← chạy cả 4 bước, lịch sau 15:00
+  notify.py           ← gửi Discord + dedup dùng chung cho scanner
+  universe.py         ← lấy toàn sàn HOSE/HNX/UPCOM + lọc thanh khoản (cache)
+  scan_daily.py       ← [DONE] cuối phiên: vượt đỉnh+KL · giảm về hỗ trợ · tích lũy nền
+  scan_intraday.py    ← [DONE] trong phiên: đột biến 5 phút · cá mập (proxy khối ngoại)
+  run_daily.bat       ← 4 updater + alert + scan_daily (lịch sau 15:00)
+  run_intraday.bat    ← scan_intraday (lịch mỗi 5 phút, tự bỏ qua ngoài giờ)
 ```
+
+## Bộ quét (scanner)
+5 loại cảnh báo kiểu Finpath, quét **toàn sàn** (lọc thanh khoản ≥2 tỷ/phiên, tối đa 500 mã):
+- **Cuối phiên** (`scan_daily.py`, dữ liệu OHLCV ngày): 🚀 vượt đỉnh 60 phiên + KL ≥2× TB20 · 🛟 giảm ≥4% về sát MA50/đáy 60 · 🧱 nền chặt (biên độ 15 phiên ≤7% + KL co ≤80%).
+- **Trong phiên** (`scan_intraday.py`, snapshot `price_board` theo lô): ⚡ giá nhảy ≥1.5% trong ~5 phút + KL bùng · 🦈 "cá mập" = net khối ngoại ≥10 tỷ hoặc lệnh khớp TB lớn.
+
+Hiển thị ở tab **Quét** trong app + đẩy Discord (dedup). **Lưu ý:** "cá mập" là *proxy từ khối ngoại/độ lớn lệnh* (tick API free tier hỏng); muốn chuẩn block-trade thật cần nối project Order Flow Lab. Intraday chỉ bắn Discord (không push GitHub mỗi 5 phút để tránh quá giới hạn Pages).
 
 ## Chạy thử ngay (local)
 ```powershell

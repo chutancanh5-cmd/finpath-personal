@@ -112,6 +112,18 @@ def make_embed(s):
 
 
 def main():
+    if "--ping" in sys.argv:
+        webhook = resolve_webhook()
+        if not webhook:
+            log("Khong tim thay webhook (alert_config.json / env / bot).")
+            return
+        try:
+            send_discord(webhook, "✅ FinPath đã kết nối Discord — đây là tin thử.", [])
+            log("Da gui tin thu len Discord. Kiem tra kenh nhe.")
+        except Exception as e:
+            log("Loi gui Discord:", str(e)[:160])
+        return
+
     test = "--test" in sys.argv
     data = load_signals()
     sigs = [s for s in data.get("signals", []) if not s.get("held") and s.get("action") in ("BUY", "SELL")]

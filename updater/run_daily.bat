@@ -11,5 +11,6 @@ python update_prices.py  --push
 python update_signals.py --push
 python update_news.py    --push
 python alert.py
+python scan_daily.py --discord --push
 
 echo Done %date% %time%

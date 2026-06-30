@@ -9,6 +9,8 @@ const DEFAULT_WATCH = ['PDR','VIB','SSI','TCB','MWG','SIP','DIG','GEX','KDH','LP
 let PRICES = { rows: [], market: {} };
 let SIGNALS = { signals: [], note: '', strategy: '' };
 let NEWS = { items: [], summary: '', regime: {} };
+let SCAND = { hits: [], counts: {}, universe_n: 0 };
+let SCANI = { hits: [], market_open: false };
 let WATCH = [];
 let ALERTS = [];
 
@@ -39,7 +41,9 @@ async function loadData() {
   PRICES = await fetchJSON('data/prices.json', cache.prices || PRICES);
   SIGNALS = await fetchJSON('data/signals.json', cache.signals || SIGNALS);
   NEWS = await fetchJSON('data/news.json', cache.news || NEWS);
-  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS }));
+  SCAND = await fetchJSON('data/scan_daily.json', cache.scand || SCAND);
+  SCANI = await fetchJSON('data/scan_intraday.json', cache.scani || SCANI);
+  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI }));
 }
 
 /* ---------- render: header ---------- */
@@ -141,6 +145,39 @@ function renderNews() {
   }).join('') : '<p class="muted small">Chưa có tin.</p>';
 }
 
+/* ---------- scanner ---------- */
+const SCAN_TYPE = {
+  breakout: ['🚀', 'Vượt đỉnh + KL', 'buy'],
+  support: ['🛟', 'Giảm về hỗ trợ', 'sell'],
+  base: ['🧱', 'Tích lũy nền', 'hold'],
+  spike: ['⚡', 'Đột biến 5 phút', 'hold'],
+  shark: ['🦈', 'Cá mập', 'hold'],
+};
+function scanCard(h) {
+  const [ic, label, kind] = SCAN_TYPE[h.type] || ['•', h.type, 'hold'];
+  return `<div class="scard ${kind}">
+    <div class="top"><span class="sym">${h.sym}</span><span class="tag ${kind}">${ic} ${label}</span></div>
+    <div class="meta"><span>${fmt(h.price)}</span>${h.pct != null ? `<span class="${cls(h.pct)}">${pct(h.pct)}</span>` : ''}</div>
+    <div class="note">${h.detail || ''}</div>
+  </div>`;
+}
+function renderScan() {
+  const dHits = SCAND.hits || [], iHits = SCANI.hits || [];
+  const parts = [];
+  if (SCAND.updated_at) parts.push('cuối phiên ' + new Date(SCAND.updated_at).toLocaleDateString('vi-VN'));
+  if (SCAND.universe_n) parts.push(SCAND.universe_n + ' mã');
+  $('scanMeta').textContent = parts.join(' · ');
+
+  const order = t => ['breakout', 'support', 'base'].indexOf(t);
+  $('scanDaily').innerHTML = dHits.length
+    ? [...dHits].sort((a, b) => order(a.type) - order(b.type)).map(scanCard).join('')
+    : '<p class="muted small">Chưa có tín hiệu cuối phiên. Chạy scan_daily.py.</p>';
+
+  $('scanIntraday').innerHTML = iHits.length
+    ? iHits.map(scanCard).join('')
+    : `<p class="muted small">${SCANI.market_open ? 'Chưa có tín hiệu trong phiên.' : 'Thị trường đóng cửa — quét trong phiên tạm nghỉ.'}</p>`;
+}
+
 /* ---------- alerts ---------- */
 let alertDir = 'above';
 function checkAlerts() {
@@ -175,7 +212,7 @@ function switchTab(name) {
   window.scrollTo(0, 0);
 }
 
-function renderAll() { renderHeader(); renderBoard(); renderSignals(); renderNews(); checkAlerts(); renderAlerts(); }
+function renderAll() { renderHeader(); renderBoard(); renderSignals(); renderNews(); renderScan(); checkAlerts(); renderAlerts(); }
 
 async function refresh() {
   $('refreshBtn').style.transform = 'rotate(360deg)';

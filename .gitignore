@@ -3,6 +3,10 @@ updater/vnstock_key.txt
 updater/alert_config.json
 updater/alert_state.json
 updater/.last_full_date
+updater/universe_cache.json
+updater/scan_daily_state.json
+updater/scan_intraday_state.json
+updater/scan_intraday_prev.json
 
 # python
 __pycache__/
