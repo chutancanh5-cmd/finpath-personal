@@ -33,8 +33,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 OUT = os.path.join(ROOT, "docs", "data", "orderflow.json")
 WATCHLIST = os.path.join(HERE, "watchlist.txt")
+STATE = os.path.join(HERE, "orderflow_state.json")
 VN_TZ = timezone(timedelta(hours=7))
-BIG_VND = 200e6          # 1 lenh khop >= 200tr -> "lenh lon"
+BIG_VND = 200e6          # 1 lenh khop >= 200tr -> "lenh lon" (hien trong app)
+SHARK_VND = 1e9          # 1 lenh khop >= 1 ty -> canh bao "ca map" Discord
 RECENT_MIN = 15          # cua so "gan day"
 
 
@@ -151,8 +153,51 @@ def main():
     json.dump(data, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     log(f"da ghi {OUT}: {len(out)} ma")
 
+    if "--discord" in sys.argv:
+        alert_sharks(out)
     if "--push" in sys.argv:
         git_push()
+
+
+def alert_sharks(symbols):
+    """Bao Discord cac LENH LON THAT (>=1 ty/lenh) chua tung bao trong ngay."""
+    import notify
+    webhook = "" if "--dry" in sys.argv else notify.resolve_webhook()  # --dry: khong dang that
+    today = dt.datetime.now(VN_TZ).strftime("%Y-%m-%d")
+    sent = notify.load_sent(STATE)
+    embeds, newkeys = [], []
+    for s in symbols:
+        for t in s.get("big_trades", []):
+            if t["val_bn"] < SHARK_VND / 1e9:
+                continue
+            key = f"{today}|{s['sym']}|{t['time']}|{t['val_bn']}"
+            if key in sent or key in newkeys:
+                continue
+            newkeys.append(key)
+            buy = t["side"] == "buy"
+            embeds.append({
+                "title": f"🦈 Lệnh lớn {'MUA' if buy else 'BÁN'} — {s['sym']}",
+                "color": 0x2ecc71 if buy else 0xe74c3c,
+                "description": (f"💥 **{t['vol']:,} cp = {t['val_bn']} tỷ** @ {t['price']:,} lúc {t['time']}\n"
+                               f"Mua chủ động phiên **{s['buy_pct']}%** · net {s['net_val_bn']:+} tỷ · ngoại {s['foreign_net_bn']:+} tỷ").replace(",", "."),
+                "footer": {"text": "Order flow thật (kbs) • lệnh khớp đơn lẻ ≥ 1 tỷ"}})
+    if not embeds:
+        log("Discord: khong co lenh lon moi.")
+        return
+    embeds = embeds[:10]
+    if not webhook:
+        log("[DRY-RUN] se gui", len(embeds), "ca map:")
+        for e in embeds:
+            print("  ", e["title"], "|", e["description"].replace("\n", " "))
+    else:
+        try:
+            notify.send_discord(webhook, f"🦈 **{len(embeds)} lệnh lớn (cá mập)** — {today}", embeds, username="FinPath · Dòng tiền")
+            log(f"Da gui {len(embeds)} ca map len Discord.")
+        except Exception as e:
+            log("Loi gui Discord:", str(e)[:120]); return
+    for k in newkeys[:10]:
+        sent.add(k)
+    notify.save_sent(STATE, sent)
 
 
 def git_push():

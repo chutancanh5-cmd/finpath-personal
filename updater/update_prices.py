@@ -182,16 +182,21 @@ def company_names(syms):
     return out
 
 
+HIST_BARS = 120  # so phien cho bieu do trong app
+
 def add_sparklines(rows):
     from vnstock import Vnstock
-    start = (date.today() - timedelta(days=80)).isoformat()
+    start = (date.today() - timedelta(days=260)).isoformat()
     end = date.today().isoformat()
     for r in rows:
         try:
             h = Vnstock().stock(symbol=r["sym"], source=SOURCE).quote.history(
                 start=start, end=end, interval="1D")
-            closes = [num(x) for x in h["close"].tolist() if num(x) is not None]
-            r["spark"] = [round(c, 2) for c in closes[-SPARK_BARS:]]
+            dates = [str(t)[:10] for t in h["time"].tolist()]
+            closes = [num(x) for x in h["close"].tolist()]
+            pairs = [(d, c) for d, c in zip(dates, closes) if c is not None]
+            r["spark"] = [round(c, 2) for _, c in pairs[-SPARK_BARS:]]
+            r["hist"] = [{"t": d, "c": round(c, 2)} for d, c in pairs[-HIST_BARS:]]
         except Exception as e:
             log("spark", r["sym"], "skip:", e)
 
@@ -212,10 +217,55 @@ def fetch_index(symbol):
     return None
 
 
+def light_update():
+    """Chi refresh gia/KL live qua 1 lan price_board, giu nguyen ten/spark/hist cu.
+    Dung trong phien (task 5 phut) -> nhe, khong tai lai lich su 16 lan."""
+    import universe
+    syms = read_watchlist()
+    try:
+        old = json.load(open(OUT, encoding="utf-8"))
+    except Exception:
+        old = None
+    if not old or not old.get("rows"):
+        log("light: chua co prices.json -> chay full")
+        return False
+    snap = universe.price_board_snapshot(syms)
+    for r in old["rows"]:
+        d = snap.get(r["sym"])
+        if not d or not d.get("price"):
+            continue
+        ref = d.get("ref") or r.get("ref")
+        r["price"] = round(d["price"]); r["ref"] = round(ref) if ref else r.get("ref")
+        r["change"] = (r["price"] - r["ref"]) if r.get("ref") else None
+        r["pct"] = round(r["change"] / r["ref"] * 100, 2) if r.get("ref") else None
+        for k_src, k_dst in (("ceil", "ceil"), ("floor", "floor"), ("high", "high"), ("low", "low")):
+            if d.get(k_src):
+                r[k_dst] = round(d[k_src])
+        if d.get("acc_vol"):
+            r["vol"] = int(d["acc_vol"])
+        r["fb"], r["fs"] = int(d.get("fbv") or 0), int(d.get("fsv") or 0)
+    market = {}
+    for key, sym in (("vnindex", "VNINDEX"), ("vn30", "VN30"), ("hnxindex", "HNXINDEX")):
+        m = fetch_index(sym)
+        if m:
+            market[key] = m
+    old["market"] = market or old.get("market", {})
+    old["updated_at"] = vn_now().isoformat(timespec="seconds")
+    with open(OUT, "w", encoding="utf-8") as f:
+        json.dump(old, f, ensure_ascii=False, separators=(",", ":"))
+    log("light: da refresh gia", len(old["rows"]), "ma")
+    return True
+
+
 def main():
+    setup_vnstock_key()
+    if "--light" in sys.argv and light_update():
+        if "--push" in sys.argv:
+            git_push()
+        return
+
     syms = read_watchlist()
     log("watchlist:", len(syms), "ma")
-    setup_vnstock_key()
 
     rows = fetch_board(syms)
     log("board:", len(rows), "dong")

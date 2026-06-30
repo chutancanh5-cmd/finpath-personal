@@ -7,6 +7,10 @@ updater/universe_cache.json
 updater/scan_daily_state.json
 updater/scan_intraday_state.json
 updater/scan_intraday_prev.json
+updater/orderflow_state.json
+updater/check_alerts_state.json
+updater/price_alerts.json
+updater/.last_push
 
 # python
 __pycache__/

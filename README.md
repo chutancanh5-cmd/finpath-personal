@@ -75,6 +75,14 @@ Nếu bot cũ vẫn còn lịch chạy, anh sẽ nhận **2 lần** mỗi tín h
 `--push` chỉ hoạt động sau khi `git init` + tạo repo GitHub + bật Pages (thư mục `docs/`).
 Chạy local không cần push: app đọc trực tiếp `docs/data/*.json`.
 
+## Cải tiến (v2)
+- **Cá mập THẬT**: `update_orderflow.py --discord` bắn lệnh khớp đơn lẻ ≥1 tỷ (bỏ proxy khối ngoại ở scan).
+- **Cảnh báo giá server-side**: `check_alerts.py` đọc `price_alerts.json` → Discord cả khi đóng app.
+- **Biểu đồ giá**: tap mã ở Bảng giá → modal chart 120 phiên (`hist` trong prices.json).
+- **Giá cập nhật trong phiên**: `update_prices.py --light` (1 lần price_board, không tải lại lịch sử).
+- **Badge "dữ liệu cũ"** trong app khi task lỗi (trong giờ giao dịch, >25′).
+- **Giảm nhịp Pages**: `push_data.py` gộp + chỉ push ≥12′/lần (tránh throttle + va chạm git).
+
 ## Tiến độ
 - [x] Phase 1 — PWA shell + bảng giá + watchlist + alert giá tại máy
 - [x] Phase 2 — Khuyến nghị DC55/30 (16 mã, tính lời/lỗ vị thế đang nắm)

@@ -36,10 +36,8 @@ VN_TZ = timezone(timedelta(hours=7))
 
 SPIKE_PCT = 1.5          # |%| nhay trong khoang giua 2 lan chay
 SPIKE_MIN_VOL = 50000    # CP khop trong khoang -> du thanh khoan
-SHARK_FOREIGN_VND = 10e9  # net ngoai >= 10 ty (giam nhieu)
-SHARK_ORDER_VND = 100e6  # gia tri TB/lenh >= 100 tr -> lenh lon
 
-LABEL = {"spike": "⚡ Giá đột biến 5 phút", "shark": "🦈 Cá mập lệnh lớn"}
+LABEL = {"spike": "⚡ Giá đột biến 5 phút"}
 
 
 def log(*a):
@@ -95,20 +93,7 @@ def detect(snap, prev):
                 hits.append({"sym": sym, "type": "spike", "price": round(price),
                              "pct": round(move, 2), "dir": "up" if move > 0 else "down",
                              "detail": f"{'Tăng' if move>0 else 'Giảm'} {move:+.1f}% ~5 phút, KL {vnd(vol_delta)} CP"})
-        # ----- shark (tu snapshot hien tai) -----
-        net_f = (d.get("fbval") or 0) - (d.get("fsval") or 0)
-        orders = (d.get("buy_ord") or 0) + (d.get("sell_ord") or 0)
-        val_per_order = (d.get("acc_val") or 0) / orders if orders else 0
-        if abs(net_f) >= SHARK_FOREIGN_VND:
-            hits.append({"sym": sym, "type": "shark", "price": round(price),
-                         "pct": round((price / d["ref"] - 1) * 100, 2) if d.get("ref") else 0,
-                         "dir": "buy" if net_f > 0 else "sell",
-                         "detail": f"Khối ngoại {'mua' if net_f>0 else 'bán'} ròng {vnd(abs(net_f)/1e9)} tỷ"})
-        elif val_per_order >= SHARK_ORDER_VND and (d.get("acc_val") or 0) >= 20e9:
-            hits.append({"sym": sym, "type": "shark", "price": round(price),
-                         "pct": round((price / d["ref"] - 1) * 100, 2) if d.get("ref") else 0,
-                         "dir": "buy",
-                         "detail": f"Lệnh khớp TB {vnd(val_per_order/1e6)} tr/lệnh (lớn) · GT {vnd((d['acc_val'])/1e9)} tỷ"})
+        # cá mập / lệnh lớn -> do update_orderflow.py (order flow kbs THẬT) đảm nhận
     return hits
 
 
@@ -122,12 +107,10 @@ def push_discord(hits):
         log("Discord: khong co tin hieu moi.")
         return
     embeds = []
-    for typ in ("spike", "shark"):
-        grp = [h for h in new if h["type"] == typ]
-        if not grp:
-            continue
+    grp = [h for h in new if h["type"] == "spike"]
+    if grp:
         lines = [f"**{h['sym']}** {vnd(h['price'])} — {h['detail']}" for h in grp[:25]]
-        embeds.append({"title": f"{LABEL[typ]} ({len(grp)})", "color": 0xf1c40f if typ == "spike" else 0x9b59b6,
+        embeds.append({"title": f"{LABEL['spike']} ({len(grp)})", "color": 0xf1c40f,
                        "description": "\n".join(lines)[:4000]})
     if not webhook:
         log("[DRY-RUN] khong co webhook.", len(new), "tin hieu moi:")

@@ -90,6 +90,15 @@
   <div class="alert-log" id="alertLog"></div>
 </section>
 
+<!-- ===== Modal biểu đồ giá ===== -->
+<div id="chartModal" class="modal" hidden>
+  <div class="modal-card">
+    <div class="modal-head"><b id="cmTitle"></b><button id="cmClose" class="icon-btn">✕</button></div>
+    <div id="cmChart" class="cmchart"></div>
+    <div id="cmStats" class="cmstats"></div>
+  </div>
+</div>
+
 <nav class="tabbar">
   <button class="tab-btn active" data-tab="prices"><span class="ti">▦</span>Bảng giá</button>
   <button class="tab-btn" data-tab="signals"><span class="ti">◎</span>Khuyến nghị</button>

@@ -1,5 +1,5 @@
 /* Service worker: app shell cache-first, data network-first */
-const CACHE = 'finpath-v3';
+const CACHE = 'finpath-v4';
 const SHELL = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', e => {

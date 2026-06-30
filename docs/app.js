@@ -58,7 +58,51 @@ function renderHeader() {
       <span class="vl ${cls(c)}">${fmt(Math.round(d.value))} <small>${arrow(c)}${pct(d.pct).replace('+','')}</small></span></div>`;
   }).join('');
   const t = PRICES.updated_at;
-  $('updated').textContent = t ? 'Cập nhật: ' + new Date(t).toLocaleString('vi-VN') : 'Chưa có dữ liệu — chạy updater để lấy giá.';
+  if (!t) { $('updated').textContent = 'Chưa có dữ liệu — chạy updater để lấy giá.'; return; }
+  const age = Math.round((Date.now() - new Date(t)) / 60000);
+  const stale = marketHoursVN() && age > 25;
+  $('updated').innerHTML = 'Cập nhật: ' + new Date(t).toLocaleString('vi-VN')
+    + (stale ? ` <span class="stalewarn">⚠ dữ liệu cũ ${age}′</span>` : '');
+}
+
+function marketHoursVN() {
+  const p = new Intl.DateTimeFormat('en-GB', { timeZone: 'Asia/Ho_Chi_Minh', weekday: 'short', hour: '2-digit', minute: '2-digit', hour12: false }).formatToParts(new Date());
+  const wd = p.find(x => x.type === 'weekday').value;
+  if (wd === 'Sat' || wd === 'Sun') return false;
+  const h = +p.find(x => x.type === 'hour').value, m = +p.find(x => x.type === 'minute').value, t = h * 60 + m;
+  return (t >= 540 && t <= 690) || (t >= 780 && t <= 900);
+}
+
+/* ---------- modal chart ---------- */
+function lineChartSVG(data) {
+  if (!data || data.length < 2) return '<p class="muted small">Chưa có dữ liệu lịch sử. Chạy update_prices.py (full).</p>';
+  const W = 520, H = 220, pl = 8, pr = 8, pt = 12, pb = 22;
+  const cs = data.map(d => d.c);
+  let lo = Math.min(...cs), hi = Math.max(...cs);
+  const pad = (hi - lo) * 0.08 || 1; lo -= pad; hi += pad;
+  const X = i => pl + i / (data.length - 1) * (W - pl - pr);
+  const Y = v => pt + (1 - (v - lo) / (hi - lo || 1)) * (H - pt - pb);
+  const line = data.map((d, i) => (i ? 'L' : 'M') + X(i).toFixed(1) + ',' + Y(d.c).toFixed(1)).join('');
+  const up = cs[cs.length - 1] >= cs[0], col = up ? 'var(--pos)' : 'var(--neg)';
+  const area = `${line}L${X(data.length - 1).toFixed(1)},${Y(lo)}L${X(0)},${Y(lo)}Z`;
+  const lab = v => Math.round(v).toLocaleString('vi-VN');
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <defs><linearGradient id="cg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${col}" stop-opacity="0.2"/><stop offset="1" stop-color="${col}" stop-opacity="0"/></linearGradient></defs>
+    <path d="${area}" fill="url(#cg)"/><path d="${line}" fill="none" stroke="${col}" stroke-width="2"/>
+    <text x="${pl}" y="${pt + 2}" font-size="10" fill="#7a8794">${lab(hi)}</text>
+    <text x="${pl}" y="${H - pb}" font-size="10" fill="#7a8794">${lab(lo)}</text>
+    <text x="${pl}" y="${H - 6}" font-size="10" fill="#7a8794">${data[0].t}</text>
+    <text x="${W - pr}" y="${H - 6}" text-anchor="end" font-size="10" fill="#7a8794">${data[data.length - 1].t}</text></svg>`;
+}
+function openChart(sym) {
+  const r = (PRICES.rows || []).find(x => x.sym === sym);
+  if (!r) return;
+  $('cmTitle').innerHTML = `${r.sym} <span class="${cls(r.change)}">${fmt(r.price)} (${pct(r.pct)})</span> <span class="muted small">${r.name || ''}</span>`;
+  $('cmChart').innerHTML = lineChartSVG(r.hist || []);
+  const facts = [['Cao/Thấp', `${fmt(r.high)} / ${fmt(r.low)}`], ['Trần/Sàn', `${fmt(r.ceil)} / ${fmt(r.floor)}`],
+    ['Khối lượng', fmt(r.vol)], ['NN mua/bán', `${fmt(r.fb)} / ${fmt(r.fs)}`]];
+  $('cmStats').innerHTML = facts.map(([k, v]) => `<div class="fact"><span class="muted">${k}</span><b>${v}</b></div>`).join('');
+  $('chartModal').hidden = false;
 }
 
 /* ---------- render: price board ---------- */
@@ -78,11 +122,11 @@ function renderBoard() {
   if (!WATCH.length) { board.innerHTML = '<div class="bempty muted small">Danh mục trống. Bấm “Sửa danh mục”.</div>'; return; }
   board.innerHTML = WATCH.map(sym => {
     const r = bySym[sym];
-    if (!r) return `<div class="brow"><div><div class="bsym">${sym}</div><div class="bsub muted">chưa có dữ liệu</div></div><div></div><div></div></div>`;
+    if (!r) return `<div class="brow" data-sym="${sym}"><div><div class="bsym">${sym}</div><div class="bsub muted">chưa có dữ liệu</div></div><div></div><div></div></div>`;
     const c = r.change ?? 0, color = cls(c);
     const atCeil = r.ceil && r.price >= r.ceil, atFloor = r.floor && r.price <= r.floor;
     const pcls = atCeil ? 'ref' : atFloor ? 'neg' : color;
-    return `<div class="brow">
+    return `<div class="brow" data-sym="${r.sym}">
       <div><div class="bsym">${r.sym}</div><div class="bsub">${r.name || ''} · KL ${fmt(r.vol)}</div></div>
       <div class="bprice"><div class="p ${pcls}">${fmt(r.price)}</div>
         <div class="c ${color}">${arrow(c)} ${fmt(Math.abs(c))} (${pct(r.pct).replace('+','')})</div></div>
@@ -263,6 +307,11 @@ async function init() {
 
   document.querySelectorAll('.tab-btn').forEach(b => b.onclick = () => switchTab(b.dataset.tab));
   $('refreshBtn').onclick = refresh;
+
+  // chart modal: tap mã ở bảng giá
+  $('board').onclick = e => { const row = e.target.closest('[data-sym]'); if (row) openChart(row.dataset.sym); };
+  $('cmClose').onclick = () => $('chartModal').hidden = true;
+  $('chartModal').onclick = e => { if (e.target.id === 'chartModal') $('chartModal').hidden = true; };
 
   // watchlist editor
   $('editWatch').onclick = () => { const e = $('watchEdit'); e.hidden = !e.hidden; $('watchInput').value = WATCH.join(', '); };
