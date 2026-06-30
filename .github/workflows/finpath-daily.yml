@@ -44,6 +44,7 @@ jobs:
           git add docs/data
           if git diff --cached --quiet; then echo "khong co thay doi"; else
             git commit -m "data: daily $(date -u +%H:%M) UTC"
-            git pull --rebase --autostash || true
+            git fetch origin main
+            git rebase -X theirs origin/main || git rebase --abort
             git push
           fi

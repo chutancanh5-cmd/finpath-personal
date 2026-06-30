@@ -1,9 +1,9 @@
 name: finpath-intraday
-# Quet trong phien: moi 10' tu 02:00-08:55 UTC = 09:00-15:55 gio VN, T2-T6.
-# (10' de duoi gioi han build GitHub Pages ~10/gio; canh bao Discord van moi lan chay.)
+# Quet trong phien: moi 5' tu 02:00-08:55 UTC = 09:00-15:55 gio VN, T2-T6.
+# App doc data qua raw.githubusercontent nen khong vuong gioi han build Pages.
 on:
   schedule:
-    - cron: '*/10 2-8 * * 1-5'
+    - cron: '*/5 2-8 * * 1-5'
   workflow_dispatch:
 
 permissions:
@@ -34,6 +34,7 @@ jobs:
           python update_prices.py --light || true
           python scan_intraday.py --discord || true
           python update_orderflow.py --discord || true
+          python update_news.py || true
           python check_alerts.py || true
       - name: Commit & push data
         run: |
@@ -42,6 +43,7 @@ jobs:
           git add docs/data
           if git diff --cached --quiet; then echo "khong co thay doi"; else
             git commit -m "data: intraday $(date -u +%H:%M) UTC"
-            git pull --rebase --autostash || true
+            git fetch origin main
+            git rebase -X theirs origin/main || git rebase --abort
             git push
           fi

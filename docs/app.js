@@ -29,12 +29,17 @@ function loadLocal() {
 const saveWatch = () => localStorage.setItem(KEY_WATCH, JSON.stringify(WATCH));
 const saveAlerts = () => localStorage.setItem(KEY_ALERTS, JSON.stringify(ALERTS));
 
+// Đọc data từ raw.githubusercontent (cập nhật ngay khi workflow commit, bỏ qua build Pages),
+// fallback về same-origin (Pages/local) nếu raw lỗi.
+const DATA_BASE = 'https://raw.githubusercontent.com/chutancanh5-cmd/finpath-personal/main/docs/';
 async function fetchJSON(path, fallback) {
-  try {
-    const r = await fetch(path + '?ts=' + Date.now(), { cache: 'no-store' });
-    if (!r.ok) throw new Error('http ' + r.status);
-    return await r.json();
-  } catch (e) { return fallback; }
+  for (const base of [DATA_BASE, '']) {
+    try {
+      const r = await fetch(base + path + '?ts=' + Date.now(), { cache: 'no-store' });
+      if (r.ok) return await r.json();
+    } catch (e) { /* thử nguồn kế */ }
+  }
+  return fallback;
 }
 
 async function loadData() {
