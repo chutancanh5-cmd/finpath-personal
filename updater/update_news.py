@@ -5,7 +5,7 @@ update_news.py -- Tin AI + diem regime -> docs/data/news.json  (CODE GOC FinPath
 Tu lay du lieu cong khai, KHONG phu thuoc thu muc macro/:
   - RSS tieng Viet (CafeF, VnExpress) loc theo tu khoa vi mo
   - Regime score tu VNINDEX (vnstock) + FRED (CPI/Fed/10Y/USD/dau/VIX)
-  - Tom tat + sentiment bang Haiku (neu co ANTHROPIC_API_KEY con credit)
+  - Tom tat + sentiment bang Sonnet 5 (neu co ANTHROPIC_API_KEY con credit)
 Key doc tu bien moi truong: FRED_API_KEY, ANTHROPIC_API_KEY (GitHub Secrets).
 
 Usage: python update_news.py [--push]
@@ -168,7 +168,7 @@ def regime(fred_key):
     return {"score": score, "label": label, "note": note.strip(), "rows": rows}
 
 
-# ---------------------------------------------------------------- AI digest (Haiku)
+# ---------------------------------------------------------------- AI digest (Sonnet 5)
 _SCHEMA = {
     "type": "object",
     "properties": {
@@ -197,7 +197,7 @@ def ai_digest(items, key):
     try:
         client = anthropic.Anthropic(api_key=key)
         resp = client.messages.create(
-            model="claude-haiku-4-5", max_tokens=1500,
+            model="claude-sonnet-5", max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
             output_config={"format": {"type": "json_schema", "schema": _SCHEMA}})
         text = next((b.text for b in resp.content if b.type == "text"), "")
