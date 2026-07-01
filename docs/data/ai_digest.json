@@ -2,37 +2,13 @@
   "_opus": true,
   "date": "2026-07-01",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Mở đầu nửa cuối năm 2026, Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% cho 6 tháng còn lại — tín hiệu quyết tâm chính sách rất mạnh, hỗ trợ tâm lý tích cực cho thị trường. TPHCM đồng loạt khởi công 8 dự án trọng điểm trị giá gần 10 tỷ USD, tạo động lực lớn cho nhóm cổ phiếu xây dựng, vật liệu và bất động sản. Định hướng chuyển FDI sang công nghệ tiên tiến là tín hiệu trung-dài hạn tích cực cho nhóm tech và khu công nghiệp high-tech. Rủi ro ngắn hạn cần lưu ý: khối ngoại tiếp tục bán ròng 1.200 tỷ đồng trong phiên cuối quý, cho thấy áp lực chốt lời vẫn hiện hữu và dòng vốn ngoại chưa quay đầu mua vào.",
+  "summary_vi": "Bức tranh vĩ mô hôm nay nghiêng về tích cực khi TPHCM khởi công loạt dự án hạ tầng gần 10 tỷ USD, GRDP nhiều địa phương lập kỷ lục và Chính phủ chuyển hướng ưu tiên FDI công nghệ cao thay vì số lượng, tạo động lực cho nhóm xây dựng, vật liệu và bất động sản khu công nghiệp. Khối ngoại bất ngờ mua ròng trở lại ngay đầu tháng 7, cùng việc nhiều CTCK nâng dự báo lợi nhuận quý 2 và triển vọng Masan, củng cố tâm lý thị trường ngắn hạn. Tuy nhiên, quy định thuế TNCN mới áp dụng từ 1/7 với cả nhà đầu tư chứng khoán và giao dịch vàng miếng có thể tạo áp lực tâm lý và thanh khoản trong ngắn hạn. Giá vàng thế giới lao dốc mạnh nhất 13 năm trong khi vàng trong nước vẫn neo cao phản ánh rủi ro bất ổn tỷ giá và chính sách tiền tệ toàn cầu, cần theo dõi thêm diễn biến Fed và USD. Nhìn chung dòng tiền có thể tiếp tục ưu ái nhóm hưởng lợi đầu tư công, FDI công nghệ và kết quả kinh doanh quý 2 khả quan.",
   "top": [
-    {
-      "title": "Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm",
-      "impact": "↑",
-      "note": "Mục tiêu tăng trưởng tham vọng phát tín hiệu chính sách kích thích mạnh, nâng kỳ vọng lợi nhuận doanh nghiệp và dòng tiền vào chứng khoán."
-    },
-    {
-      "title": "TPHCM khởi công 8 dự án trọng điểm gần 10 tỷ USD",
-      "impact": "↑",
-      "note": "Giải ngân đầu tư công quy mô lớn là chất xúc tác trực tiếp cho nhóm xây dựng, vật liệu xây dựng và cổ phiếu hạ tầng."
-    },
-    {
-      "title": "Khối ngoại tiếp tục bán ròng 1.200 tỷ đồng phiên cuối quý",
-      "impact": "↓",
-      "note": "Áp lực bán ròng kéo dài tạo lực cản kỹ thuật ngắn hạn, đặc biệt với các bluechip vốn hóa lớn đầu quý III."
-    },
-    {
-      "title": "Phó Thủ tướng: Chuyển FDI sang ưu tiên dự án công nghệ tiên tiến",
-      "impact": "↑",
-      "note": "Định hướng FDI chất lượng cao tạo kỳ vọng trung-dài hạn cho nhóm công nghệ, bán dẫn và khu công nghiệp high-tech."
-    },
-    {
-      "title": "Dự báo lợi nhuận Q2/2026 của 68 doanh nghiệp hot, có tên tăng trưởng 1.400%",
-      "impact": "↑",
-      "note": "Mùa công bố KQKD Q2 với kỳ vọng lợi nhuận đột biến là chất xúc tác lựa chọn cổ phiếu cụ thể trong ngắn hạn."
-    },
-    {
-      "title": "Bộ Tài chính: Chưa thu thuế chuyển nhượng vàng miếng từ 1/7/2026",
-      "impact": "→",
-      "note": "Hoãn áp thuế vàng giảm bất ổn chính sách ngắn hạn, ít tác động trực tiếp đến TTCK nhưng hạn chế dòng tiền rời khỏi vàng sang cổ phiếu."
-    }
+    {"title": "Khối ngoại đảo chiều mua ròng đầu tháng 7", "impact": "↑", "note": "Dòng vốn ngoại quay lại củng cố tâm lý và thanh khoản thị trường"},
+    {"title": "Thuế TNCN chứng khoán thay đổi từ 1/7", "impact": "↓", "note": "Quy định thuế mới có thể tạo áp lực tâm lý và thanh khoản ngắn hạn cho nhà đầu tư"},
+    {"title": "FDI chuyển hướng ưu tiên công nghệ tiên tiến thay vì số lượng", "impact": "↑", "note": "Định hướng FDI chất lượng cao hỗ trợ tăng trưởng bền vững và nhóm KCN, công nghệ"},
+    {"title": "TPHCM khởi công 8 dự án hạ tầng gần 10 tỷ USD", "impact": "↑", "note": "Giải ngân đầu tư công quy mô lớn hỗ trợ nhóm xây dựng, vật liệu, bất động sản"},
+    {"title": "CTCK gọi tên 10 doanh nghiệp dự báo KQKD quý 2 tích cực", "impact": "↑", "note": "Kỳ vọng lợi nhuận quý 2 khả quan tạo động lực định giá cho nhóm cổ phiếu liên quan"},
+    {"title": "Giá vàng thế giới giảm mạnh nhất 13 năm", "impact": "→", "note": "Biến động vàng phản ánh rủi ro chính sách tiền tệ toàn cầu, tác động gián tiếp lên tâm lý rủi ro"}
   ]
 }
