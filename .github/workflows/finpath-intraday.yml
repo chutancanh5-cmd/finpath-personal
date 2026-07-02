@@ -3,7 +3,7 @@ name: finpath-intraday
 # App doc data qua raw.githubusercontent nen khong vuong gioi han build Pages.
 on:
   schedule:
-    - cron: '*/5 2-8 * * 1-5'
+    - cron: '2-57/5 2-8 * * 1-5'
   workflow_dispatch:
 
 permissions:
@@ -20,7 +20,7 @@ jobs:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-      ACCEPT_TC: "tôi đồng ý"
+      ACCEPT_TC: "tĂ´i Ä‘á»“ng Ă½"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
