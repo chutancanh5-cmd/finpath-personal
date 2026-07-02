@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-01",
+  "date": "2026-07-03",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Bức tranh vĩ mô hôm nay nghiêng về tích cực khi TPHCM khởi công loạt dự án hạ tầng gần 10 tỷ USD, GRDP nhiều địa phương lập kỷ lục và Chính phủ chuyển hướng ưu tiên FDI công nghệ cao thay vì số lượng, tạo động lực cho nhóm xây dựng, vật liệu và bất động sản khu công nghiệp. Khối ngoại bất ngờ mua ròng trở lại ngay đầu tháng 7, cùng việc nhiều CTCK nâng dự báo lợi nhuận quý 2 và triển vọng Masan, củng cố tâm lý thị trường ngắn hạn. Tuy nhiên, quy định thuế TNCN mới áp dụng từ 1/7 với cả nhà đầu tư chứng khoán và giao dịch vàng miếng có thể tạo áp lực tâm lý và thanh khoản trong ngắn hạn. Giá vàng thế giới lao dốc mạnh nhất 13 năm trong khi vàng trong nước vẫn neo cao phản ánh rủi ro bất ổn tỷ giá và chính sách tiền tệ toàn cầu, cần theo dõi thêm diễn biến Fed và USD. Nhìn chung dòng tiền có thể tiếp tục ưu ái nhóm hưởng lợi đầu tư công, FDI công nghệ và kết quả kinh doanh quý 2 khả quan.",
+  "summary_vi": "Bức tranh vĩ mô tiếp tục nghiêng tích cực khi VNDirect dự báo VN-Index có thể vượt 2.000 điểm, cùng loạt tín hiệu hỗ trợ từ đầu tư công và FDI: TPHCM khởi công 8 dự án hạ tầng gần 10 tỷ USD, thu hút FDI tăng mạnh nửa đầu năm và Chính phủ chuyển hướng ưu tiên FDI công nghệ cao thay vì chạy theo số lượng. Nhóm cổ phiếu Vingroup được dòng tiền ngoại gom mạnh hơn 200 tỷ đồng dù khối ngoại toàn thị trường quay lại bán ròng, cho thấy dòng tiền vẫn chọn lọc theo câu chuyện riêng lẻ. Ở chiều rủi ro, thông tin PNJ-Lab kiểm định kim cương triệu USD chỉ bằng một tờ giấy có thể ảnh hưởng tâm lý và uy tín nhóm cổ phiếu trang sức, còn quy định thuế TNCN mới với vàng miếng từ 1/7 làm tăng chi phí giao dịch kênh đầu tư cạnh tranh với chứng khoán. Nhìn chung, dòng tiền ngắn hạn nhiều khả năng vẫn ưu ái nhóm đầu tư công, bất động sản khu công nghiệp và các mã hưởng lợi trực tiếp từ FDI công nghệ.",
   "top": [
-    {"title": "Khối ngoại đảo chiều mua ròng đầu tháng 7", "impact": "↑", "note": "Dòng vốn ngoại quay lại củng cố tâm lý và thanh khoản thị trường"},
-    {"title": "Thuế TNCN chứng khoán thay đổi từ 1/7", "impact": "↓", "note": "Quy định thuế mới có thể tạo áp lực tâm lý và thanh khoản ngắn hạn cho nhà đầu tư"},
-    {"title": "FDI chuyển hướng ưu tiên công nghệ tiên tiến thay vì số lượng", "impact": "↑", "note": "Định hướng FDI chất lượng cao hỗ trợ tăng trưởng bền vững và nhóm KCN, công nghệ"},
+    {"title": "VNDirect dự báo VN-Index có thể vượt 2.000 điểm", "impact": "↑", "note": "Dự báo lạc quan của CTCK lớn củng cố kỳ vọng thị trường nửa cuối năm"},
     {"title": "TPHCM khởi công 8 dự án hạ tầng gần 10 tỷ USD", "impact": "↑", "note": "Giải ngân đầu tư công quy mô lớn hỗ trợ nhóm xây dựng, vật liệu, bất động sản"},
-    {"title": "CTCK gọi tên 10 doanh nghiệp dự báo KQKD quý 2 tích cực", "impact": "↑", "note": "Kỳ vọng lợi nhuận quý 2 khả quan tạo động lực định giá cho nhóm cổ phiếu liên quan"},
-    {"title": "Giá vàng thế giới giảm mạnh nhất 13 năm", "impact": "→", "note": "Biến động vàng phản ánh rủi ro chính sách tiền tệ toàn cầu, tác động gián tiếp lên tâm lý rủi ro"}
+    {"title": "TPHCM thu hút FDI tăng mạnh nửa đầu năm", "impact": "↑", "note": "Môi trường đầu tư cải thiện củng cố triển vọng tăng trưởng và nhóm KCN"},
+    {"title": "Chuyển hướng ưu tiên FDI công nghệ tiên tiến thay vì số lượng", "impact": "↑", "note": "Định hướng FDI chất lượng cao hỗ trợ tăng trưởng bền vững dài hạn"},
+    {"title": "Khối ngoại bán ròng nhưng gom hơn 200 tỷ cổ phiếu Vingroup", "impact": "→", "note": "Dòng tiền ngoại phân hóa, chọn lọc theo câu chuyện riêng thay vì mua đồng loạt"},
+    {"title": "Sếp PNJ-Lab kiểm định kim cương triệu USD chỉ bằng một tờ giấy", "impact": "↓", "note": "Thông tin có thể ảnh hưởng uy tín và tâm lý nhà đầu tư nhóm cổ phiếu trang sức"}
   ]
 }
