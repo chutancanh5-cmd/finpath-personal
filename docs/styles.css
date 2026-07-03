@@ -115,6 +115,19 @@ h2{font-size:18px;margin:14px 0 8px} h3.sub{font-size:13px;color:var(--muted);te
 .book{margin-top:8px;padding-top:7px;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}
 .book b{font-variant-numeric:tabular-nums}
 
+/* chu ky nganh */
+.phz{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 8px;border-radius:7px;white-space:nowrap}
+.phz.lead{background:rgba(43,213,118,.16);color:var(--pos)}
+.phz.improve{background:rgba(74,163,255,.16);color:#4aa3ff}
+.phz.weak{background:rgba(227,179,65,.16);color:var(--ref)}
+.phz.lag{background:rgba(255,91,110,.16);color:var(--neg)}
+.tablewrap{overflow-x:auto;margin-top:10px}
+.secttbl{width:100%;border-collapse:collapse;font-size:12.5px}
+.secttbl th{color:var(--muted);font-weight:600;text-align:left;padding:6px 8px;border-bottom:1px solid var(--line);font-size:11px}
+.secttbl td{padding:7px 8px;border-bottom:1px solid var(--line)}
+.secttbl tr.hot td:first-child{color:var(--txt);font-weight:600}
+.secttbl tbody tr:last-child td{border-bottom:0}
+
 /* alerts */
 .seg{display:flex;background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:3px;margin:12px 0}
 .seg-btn{flex:1;background:none;border:0;color:var(--muted);padding:8px;border-radius:8px;font-size:13px;font-weight:600}

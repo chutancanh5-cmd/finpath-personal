@@ -16,6 +16,9 @@ let SCANI = { hits: [], market_open: false };
 let FLOW = { symbols: [], market_open: false };
 let WATCH = [];
 let ALERTS = [];
+let SECT = null;   // chu kỳ ngành (tính bên repo hpa-tracker, dùng chung)
+const KEY_SECT = 'fp_sectors_v1';
+const SECT_URL = 'https://raw.githubusercontent.com/chutancanh5-cmd/hpa-tracker/main/docs/data/sectors.json';
 
 /* ---------- helpers ---------- */
 const $ = id => document.getElementById(id);
@@ -78,6 +81,13 @@ async function loadData() {
   SCANI = await fetchJSON('data/scan_intraday.json', cache.scani || SCANI);
   FLOW = await fetchJSON('data/orderflow.json', cache.flow || FLOW);
   localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI, flow: FLOW }));
+  try {
+    const r = await fetch(SECT_URL + '?ts=' + Date.now(), { cache: 'no-store' });
+    if (r.ok) { SECT = await r.json(); localStorage.setItem(KEY_SECT, JSON.stringify(SECT)); }
+    else throw new Error('http ' + r.status);
+  } catch (e) {
+    try { SECT = JSON.parse(localStorage.getItem(KEY_SECT)); } catch { SECT = null; }
+  }
 }
 
 /* ---------- render: header ---------- */
@@ -256,6 +266,63 @@ function renderScan() {
     : `<p class="muted small">${SCANI.market_open ? 'Chưa có tín hiệu trong phiên.' : 'Thị trường đóng cửa — quét trong phiên tạm nghỉ.'}</p>`;
 }
 
+/* ---------- chu kỳ ngành (sector rotation, dữ liệu dùng chung với hpa-tracker) ---------- */
+const PHASE_META = {
+  lead:    ['Dẫn dắt',  '#2bd576'],
+  improve: ['Hồi phục', '#4aa3ff'],
+  weak:    ['Suy yếu',  '#e3b341'],
+  lag:     ['Tụt hậu',  '#ff5b6e'],
+};
+function rrgSVG(sectors) {
+  const W = 520, H = 300, pl = 12, pr = 12, pt = 14, pb = 16;
+  const xs = sectors.flatMap(s => [s.mom, ...(s.trail || []).map(t => t[1])]);
+  const ys = sectors.flatMap(s => [s.rs, ...(s.trail || []).map(t => t[0])]);
+  const xr = Math.max(3, ...xs.map(Math.abs)) * 1.2;
+  const yr = Math.max(2.5, ...ys.map(v => Math.abs(v - 100))) * 1.2;
+  const X = v => pl + (Math.max(-xr, Math.min(xr, v)) + xr) / (2 * xr) * (W - pl - pr);
+  const Y = v => pt + (1 - (Math.max(100 - yr, Math.min(100 + yr, v)) - (100 - yr)) / (2 * yr)) * (H - pt - pb);
+  const cx = X(0), cy = Y(100);
+  const q = (x, y, w, h, c) => `<rect x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${w.toFixed(1)}" height="${h.toFixed(1)}" fill="${c}" opacity="0.09"/>`;
+  let out = q(cx, pt, W - pr - cx, cy - pt, '#2bd576') + q(pl, pt, cx - pl, cy - pt, '#e3b341')
+          + q(cx, cy, W - pr - cx, H - pb - cy, '#4aa3ff') + q(pl, cy, cx - pl, H - pb - cy, '#ff5b6e');
+  out += `<line x1="${pl}" y1="${cy.toFixed(1)}" x2="${W - pr}" y2="${cy.toFixed(1)}" stroke="var(--line)" stroke-dasharray="3,3"/>`
+       + `<line x1="${cx.toFixed(1)}" y1="${pt}" x2="${cx.toFixed(1)}" y2="${H - pb}" stroke="var(--line)" stroke-dasharray="3,3"/>`;
+  const inWatch = s => (s.top || []).some(x => WATCH.includes(x));
+  for (const s of sectors) {
+    const col = PHASE_META[s.phase][1];
+    if (s.trail && s.trail.length > 1)
+      out += `<polyline points="${s.trail.map(t => X(t[1]).toFixed(1) + ',' + Y(t[0]).toFixed(1)).join(' ')}" fill="none" stroke="${col}" stroke-width="1" opacity="0.35"/>`;
+    const hot = inWatch(s);
+    out += `<circle cx="${X(s.mom).toFixed(1)}" cy="${Y(s.rs).toFixed(1)}" r="${hot ? 6 : 4.5}" fill="${col}"${hot ? ' stroke="#fff" stroke-width="1.5"' : ''}/>`;
+    const nm = s.name.length > 14 ? s.name.slice(0, 13) + '…' : s.name;
+    out += `<text x="${(X(s.mom) + 8).toFixed(1)}" y="${(Y(s.rs) + 3).toFixed(1)}" font-size="9.5" fill="${hot ? 'var(--txt)' : 'var(--muted)'}"${hot ? ' font-weight="bold"' : ''}>${nm}</text>`;
+  }
+  out += `<text x="${W - pr - 4}" y="${pt + 11}" text-anchor="end" font-size="9.5" font-weight="700" fill="#2bd576">DẪN DẮT</text>`
+       + `<text x="${pl + 4}" y="${pt + 11}" font-size="9.5" font-weight="700" fill="#e3b341">SUY YẾU</text>`
+       + `<text x="${W - pr - 4}" y="${H - pb - 5}" text-anchor="end" font-size="9.5" font-weight="700" fill="#4aa3ff">HỒI PHỤC</text>`
+       + `<text x="${pl + 4}" y="${H - pb - 5}" font-size="9.5" font-weight="700" fill="#ff5b6e">TỤT HẬU</text>`;
+  return `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto;display:block;background:var(--card);border:1px solid var(--line);border-radius:12px">${out}</svg>`;
+}
+function renderSect() {
+  if (!$('sectTable')) return;
+  if (!SECT || !(SECT.sectors || []).length) {
+    $('sectRrg').innerHTML = ''; $('sectTable').innerHTML = '';
+    $('sectNote').textContent = 'Chưa có dữ liệu chu kỳ ngành (tính 1 lần/ngày sau giờ đóng cửa).';
+    return;
+  }
+  const ss = SECT.sectors;
+  const chip = p => `<span class="phz ${p}">${PHASE_META[p][0]}</span>`;
+  $('sectRrg').innerHTML = rrgSVG(ss);
+  const inWatch = s => (s.top || []).some(x => WATCH.includes(x));
+  let html = '<thead><tr><th>Ngành</th><th>Pha</th><th>RS</th><th>Đà 21p</th></tr></thead><tbody>';
+  html += ss.map(s => `<tr${inWatch(s) ? ' class="hot"' : ''}>
+    <td>${s.name}<div class="muted" style="font-size:10px">${(s.top || []).join(' · ')}</div></td>
+    <td>${chip(s.phase)}</td><td>${s.rs}</td>
+    <td class="${cls(s.mom)}">${s.mom > 0 ? '+' : ''}${s.mom}%</td></tr>`).join('');
+  $('sectTable').innerHTML = html + '</tbody>';
+  $('sectNote').textContent = `RS = sức mạnh giá ngành so VNINDEX (≥100 mạnh hơn TB 3 tháng); Đà = thay đổi 21 phiên; đuôi mờ = 8 tuần. Chu kỳ thường xoay: Hồi phục → Dẫn dắt → Suy yếu → Tụt hậu. Viền trắng = ngành có mã trong danh mục của bạn. Số liệu ${SECT.date}.`;
+}
+
 /* ---------- order flow ---------- */
 function flowCard(s) {
   const buy = s.buy_pct != null ? s.buy_pct : 50, sell = Math.max(0, 100 - buy);
@@ -340,7 +407,7 @@ function switchTab(name) {
   window.scrollTo(0, 0);
 }
 
-function renderAll() { renderHeader(); renderBoard(); renderSignals(); renderNews(); renderScan(); renderFlow(); checkAlerts(); renderAlerts(); }
+function renderAll() { renderHeader(); renderBoard(); renderSignals(); renderNews(); renderScan(); renderSect(); renderFlow(); checkAlerts(); renderAlerts(); }
 
 async function refresh() {
   const b = $('refreshBtn');
