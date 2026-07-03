@@ -1,8 +1,10 @@
 name: finpath-daily
 # Cap nhat day du cuoi phien: 08:10 UTC = 15:10 gio VN, T2-T6.
+# Cron 09:10 UTC (16:10 VN) la du phong khi cron dau bi GitHub bo qua (update idempotent).
 on:
   schedule:
     - cron: '10 8 * * 1-5'
+    - cron: '10 9 * * 1-5'
   workflow_dispatch:
 
 permissions:
@@ -25,8 +27,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: pip
-      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        id: venv
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-py312-${{ hashFiles('requirements.txt') }}
+      - name: Cai thu vien (chi khi cache miss)
+        if: steps.venv.outputs.cache-hit != 'true'
+        run: python -m venv .venv && .venv/bin/pip install -r requirements.txt
+      - run: echo "$PWD/.venv/bin" >> "$GITHUB_PATH"
       - name: Run full updaters
         working-directory: updater
         run: |
@@ -48,3 +57,7 @@ jobs:
             git rebase -X theirs origin/main || git rebase --abort
             git push
           fi
+      - name: Bao loi ve Discord
+        if: failure()
+        run: |
+          curl -s -X POST -H "Content-Type: application/json" -d "{\"username\":\"Bot CI\",\"content\":\"❌ Workflow **${{ github.workflow }}** lỗi — ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" "$DISCORD_WEBHOOK_URL" || true

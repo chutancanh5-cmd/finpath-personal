@@ -19,13 +19,21 @@ jobs:
     env:
       TZ: Asia/Ho_Chi_Minh
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: pip
-      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        id: venv
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-py312-${{ hashFiles('requirements.txt') }}
+      - name: Cai thu vien (chi khi cache miss)
+        if: steps.venv.outputs.cache-hit != 'true'
+        run: python -m venv .venv && .venv/bin/pip install -r requirements.txt
+      - run: echo "$PWD/.venv/bin" >> "$GITHUB_PATH"
       - name: Install Claude Code CLI
         run: npm install -g @anthropic-ai/claude-code
       - name: Dump RSS tho
@@ -50,3 +58,7 @@ jobs:
             git rebase -X theirs origin/main || git rebase --abort
             git push
           fi
+      - name: Bao loi ve Discord
+        if: failure()
+        run: |
+          curl -s -X POST -H "Content-Type: application/json" -d "{\"username\":\"Bot CI\",\"content\":\"❌ Workflow **${{ github.workflow }}** lỗi — ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" "$DISCORD_WEBHOOK_URL" || true
