@@ -4,6 +4,8 @@
 const KEY_WATCH = 'fp_watch_v1';
 const KEY_ALERTS = 'fp_alerts_v1';
 const KEY_CACHE = 'fp_cache_v1';
+const KEY_TOKEN = 'fp_gh_token';
+const REPO_API = 'https://api.github.com/repos/chutancanh5-cmd/finpath-personal/contents/updater/watchlist.txt';
 const DEFAULT_WATCH = ['PDR','VIB','SSI','TCB','MWG','SIP','DIG','GEX','KDH','LPB','FPT','FRT','FTS','HPG','VSC','PVT'];
 
 let PRICES = { rows: [], market: {} };
@@ -28,6 +30,31 @@ function loadLocal() {
 }
 const saveWatch = () => localStorage.setItem(KEY_WATCH, JSON.stringify(WATCH));
 const saveAlerts = () => localStorage.setItem(KEY_ALERTS, JSON.stringify(ALERTS));
+
+/* toast thông báo nhỏ (iOS PWA chặn alert/confirm nên dùng cái này) */
+function toast(msg, ms = 2600) {
+  let t = $('toast');
+  if (!t) { t = document.createElement('div'); t.id = 'toast'; document.body.appendChild(t); }
+  t.textContent = msg; t.classList.add('show');
+  clearTimeout(toast._h); toast._h = setTimeout(() => t.classList.remove('show'), ms);
+}
+
+/* Đồng bộ danh mục lên repo (updater cloud đọc watchlist.txt mỗi 5') */
+async function syncWatchToRepo(list) {
+  const tok = (localStorage.getItem(KEY_TOKEN) || '').trim();
+  if (!tok) return 'no_token';
+  const hd = { Authorization: 'Bearer ' + tok, Accept: 'application/vnd.github+json' };
+  const cur = await fetch(REPO_API, { headers: hd });
+  if (!cur.ok) throw new Error('đọc file: HTTP ' + cur.status);
+  const sha = (await cur.json()).sha;
+  const body = '# Danh muc theo doi - dong bo tu app FinPath\n' + list.join(', ') + '\n';
+  const r = await fetch(REPO_API, {
+    method: 'PUT', headers: hd,
+    body: JSON.stringify({ message: 'watchlist: cap nhat tu app', content: btoa(body), sha }),
+  });
+  if (!r.ok) throw new Error('ghi file: HTTP ' + r.status);
+  return 'ok';
+}
 
 // Đọc data từ raw.githubusercontent (cập nhật ngay khi workflow commit, bỏ qua build Pages),
 // fallback về same-origin (Pages/local) nếu raw lỗi.
@@ -127,7 +154,7 @@ function renderBoard() {
   if (!WATCH.length) { board.innerHTML = '<div class="bempty muted small">Danh mục trống. Bấm “Sửa danh mục”.</div>'; return; }
   board.innerHTML = WATCH.map(sym => {
     const r = bySym[sym];
-    if (!r) return `<div class="brow" data-sym="${sym}"><div><div class="bsym">${sym}</div><div class="bsub muted">chưa có dữ liệu</div></div><div></div><div></div></div>`;
+    if (!r) return `<div class="brow" data-sym="${sym}"><div><div class="bsym">${sym}</div><div class="bsub muted">chưa có dữ liệu — sẽ có sau khi đồng bộ (~5-10′)</div></div><div></div><div></div></div>`;
     const c = r.change ?? 0, color = cls(c);
     const atCeil = r.ceil && r.price >= r.ceil, atFloor = r.floor && r.price <= r.floor;
     const pcls = atCeil ? 'ref' : atFloor ? 'neg' : color;
@@ -269,8 +296,14 @@ function renderFlow() {
         <span>Net <b class="${cls(m.total_net_bn)}">${m.total_net_bn > 0 ? '+' : ''}${m.total_net_bn} tỷ</b></span></div>`;
   } else $('flowBreadth').innerHTML = '';
   const syms = FLOW.symbols || [];
-  $('flowList').innerHTML = syms.length ? syms.map(flowCard).join('')
-    : '<p class="muted small">Chưa có dữ liệu dòng tiền. Chạy update_orderflow.py trong giờ giao dịch.</p>';
+  // sắp theo danh mục của mình trước, mã ngoài danh mục xuống dưới
+  const bySym = {}; syms.forEach(s => { bySym[s.sym] = s; });
+  const ordered = [...WATCH.filter(w => bySym[w]).map(w => bySym[w]),
+                   ...syms.filter(s => !WATCH.includes(s.sym))];
+  const missing = WATCH.filter(w => !bySym[w]);
+  $('flowList').innerHTML = (ordered.length ? ordered.map(flowCard).join('')
+    : '<p class="muted small">Chưa có dữ liệu dòng tiền (cập nhật trong giờ giao dịch).</p>')
+    + (missing.length ? `<p class="muted small">Chưa có dòng tiền cho: <b>${missing.join(', ')}</b> — sẽ có sau khi đồng bộ danh mục (trong phiên, ~5-10′).</p>` : '');
 }
 
 /* ---------- alerts ---------- */
@@ -310,9 +343,16 @@ function switchTab(name) {
 function renderAll() { renderHeader(); renderBoard(); renderSignals(); renderNews(); renderScan(); renderFlow(); checkAlerts(); renderAlerts(); }
 
 async function refresh() {
-  $('refreshBtn').style.transform = 'rotate(360deg)';
-  await loadData(); renderAll();
-  setTimeout(() => $('refreshBtn').style.transform = '', 400);
+  const b = $('refreshBtn');
+  if (b.disabled) return;
+  b.disabled = true; b.classList.add('spin');
+  try {
+    await loadData(); renderAll();
+    toast('✓ Đã làm mới lúc ' + new Date().toLocaleTimeString('vi-VN'));
+  } catch (e) {
+    toast('⚠ Không tải được dữ liệu — kiểm tra mạng');
+  }
+  b.disabled = false; b.classList.remove('spin');
 }
 
 /* ---------- init ---------- */
@@ -329,11 +369,24 @@ async function init() {
   $('cmClose').onclick = () => $('chartModal').hidden = true;
   $('chartModal').onclick = e => { if (e.target.id === 'chartModal') $('chartModal').hidden = true; };
 
-  // watchlist editor
-  $('editWatch').onclick = () => { const e = $('watchEdit'); e.hidden = !e.hidden; $('watchInput').value = WATCH.join(', '); };
-  $('watchSave').onclick = () => {
+  // watchlist editor (dùng chung cho Bảng giá + Dòng tiền)
+  const openEditor = () => {
+    $('watchEdit').hidden = false;
+    $('watchInput').value = WATCH.join(', ');
+    $('ghToken').value = localStorage.getItem(KEY_TOKEN) || '';
+  };
+  $('editWatch').onclick = () => { if ($('watchEdit').hidden) openEditor(); else $('watchEdit').hidden = true; };
+  $('editFlow').onclick = () => { switchTab('prices'); openEditor(); };
+  $('watchSave').onclick = async () => {
     WATCH = $('watchInput').value.toUpperCase().split(/[,\s]+/).map(s => s.trim()).filter(Boolean);
-    saveWatch(); $('watchEdit').hidden = true; renderBoard();
+    saveWatch();
+    localStorage.setItem(KEY_TOKEN, $('ghToken').value.trim());
+    $('watchEdit').hidden = true; renderBoard(); renderFlow();
+    try {
+      const res = await syncWatchToRepo(WATCH);
+      if (res === 'ok') toast('✓ Đã lưu & đồng bộ lên server — mã mới có dữ liệu sau ~5-10′', 3800);
+      else toast('Đã lưu trên máy. Muốn mã MỚI có dữ liệu: dán GitHub token rồi Lưu lại.', 4200);
+    } catch (e) { toast('⚠ Lưu máy OK, đồng bộ lỗi (' + e.message + ')', 4200); }
   };
   $('watchReset').onclick = () => { $('watchInput').value = DEFAULT_WATCH.join(', '); };
 

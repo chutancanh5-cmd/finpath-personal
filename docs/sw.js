@@ -1,5 +1,6 @@
-/* Service worker: app shell cache-first, data network-first */
-const CACHE = 'finpath-v7';
+/* Service worker: data network-first; app shell stale-while-revalidate
+   (tra ban cache ngay cho nhanh, tai ban moi ngam -> lan mo sau la ban moi). */
+const CACHE = 'finpath-v8';
 const SHELL = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', e => {
@@ -13,7 +14,7 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
   if (e.request.method !== 'GET') return;
-  // dữ liệu trong /data/: network-first để luôn mới
+  // du lieu trong /data/: network-first de luon moi
   if (url.pathname.includes('/data/')) {
     e.respondWith(
       fetch(e.request).then(r => { const cp = r.clone(); caches.open(CACHE).then(c => c.put(e.request, cp)); return r; })
@@ -21,6 +22,12 @@ self.addEventListener('fetch', e => {
     );
     return;
   }
-  // app shell: cache-first
-  e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
+  // app shell: stale-while-revalidate
+  e.respondWith(caches.match(e.request).then(cached => {
+    const fresh = fetch(e.request).then(r => {
+      if (r && r.ok) { const cp = r.clone(); caches.open(CACHE).then(c => c.put(e.request, cp)); }
+      return r;
+    }).catch(() => cached);
+    return cached || fresh;
+  }));
 });

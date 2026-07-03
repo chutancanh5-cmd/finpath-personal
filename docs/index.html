@@ -28,11 +28,13 @@
   <div class="watch-edit" id="watchEdit" hidden>
     <input id="watchInput" type="text" inputmode="latin" autocapitalize="characters"
            placeholder="Danh sách mã, cách nhau bởi dấu phẩy: FPT, HPG, MWG…">
+    <input id="ghToken" type="password" placeholder="GitHub token — dán 1 lần để đồng bộ mã mới lên server">
     <div class="row-end">
       <button class="link-btn" id="watchReset">Mặc định</button>
       <button class="btn" id="watchSave">Lưu</button>
     </div>
-    <p class="muted small">Sau khi sửa, chạy lại updater để lấy giá các mã mới.</p>
+    <p class="muted small">Danh mục dùng chung cho Bảng giá + Dòng tiền. Có token: mã mới tự có dữ liệu sau ~5-10′.
+      Token tạo tại GitHub → Settings → Developer settings → Fine-grained tokens (repo finpath-personal, quyền Contents: Read&Write).</p>
   </div>
   <div class="board" id="board"></div>
 </section>
@@ -65,7 +67,9 @@
 
 <!-- ===== Tab: Dòng tiền ===== -->
 <section class="tab" id="tab-flow" hidden>
-  <div class="row-between"><h2>Dòng tiền</h2><span class="chip" id="flowMeta"></span></div>
+  <div class="row-between"><h2>Dòng tiền</h2>
+    <span class="row-end"><span class="chip" id="flowMeta"></span>
+    <button class="link-btn" id="editFlow">Sửa danh mục</button></span></div>
   <p class="muted small">Lệnh chủ động Mua/Bán <b>gộp</b> của cả thị trường (không phải lệnh từng người — dữ liệu đó riêng tư). 🦈 = lệnh khớp lớn.</p>
   <div id="flowBreadth" class="breadth"></div>
   <div class="cards" id="flowList"></div>
