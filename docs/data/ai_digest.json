@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "GDP Việt Nam tăng hơn 8% trong 6 tháng đầu năm 2026, cùng với dòng vốn FDI vào TP.HCM tăng mạnh và loạt dự án hạ tầng gần 10 tỷ USD khởi công, cho thấy nền tảng vĩ mô vững chắc hỗ trợ thị trường. VNDirect dự báo VN-Index có thể vượt 2.000 điểm nửa cuối năm, củng cố tâm lý lạc quan của nhà đầu tư. Tuy nhiên, chính sách thuế thu nhập cá nhân với vàng miếng từ 1/7 có thể khiến dòng tiền dịch chuyển giữa các kênh đầu tư, cần theo dõi thêm. Vụ giám đốc công ty giám định PNJ bị bắt là rủi ro riêng lẻ cần lưu ý với nhóm cổ phiếu trang sức - bán lẻ. Nhìn chung bức tranh vĩ mô và triển vọng thị trường vẫn nghiêng về tích cực trong ngắn hạn.",
+  "summary_vi": "Kinh tế vĩ mô Việt Nam tiếp tục là điểm sáng khi GDP 6 tháng đầu năm 2026 tăng hơn 8%, vốn FDI vượt mốc kỷ lục 34 tỷ USD và Samsung cam kết rót thêm 1 tỷ USD, củng cố niềm tin vào dòng vốn ngoại và triển vọng tăng trưởng dài hạn. Nhóm cổ phiếu chứng khoán bứt phá mạnh, có mã tăng trên 14%, phản ánh dòng tiền nội đang hưng phấn trước các thông tin vĩ mô tích cực. Tuy nhiên, rủi ro ngắn hạn hiện hữu khi khối ngoại quay lại bán ròng khoảng 3.000 tỷ đồng ngay tuần đầu quý 3 và HoSE cắt margin 59 mã (gồm HVN, DGC, BCG), có thể tạo áp lực điều chỉnh cục bộ và giảm thanh khoản ở nhóm cổ phiếu bị ảnh hưởng. Mục tiêu tăng trưởng 2 con số cho cả năm vẫn còn thách thức, đòi hỏi động lực bổ sung trong nửa cuối năm. Nhìn chung, nền tảng vĩ mô vững chắc là yếu tố nâng đỡ thị trường, song nhà đầu tư cần thận trọng với biến động ngắn hạn từ margin và dòng vốn ngoại.",
   "top": [
-    {"title": "GDP Việt Nam tăng hơn 8% trong 6 tháng đầu năm 2026", "impact": "↑", "note": "Tăng trưởng kinh tế vượt kỳ vọng củng cố nền tảng cho thị trường chứng khoán"},
-    {"title": "VNDirect dự báo VN-Index có thể vượt 2.000 điểm nửa cuối năm", "impact": "↑", "note": "Dự báo lạc quan từ công ty chứng khoán lớn hỗ trợ tâm lý nhà đầu tư"},
-    {"title": "TP.HCM cải thiện môi trường đầu tư, vốn FDI tăng mạnh nửa đầu năm", "impact": "↑", "note": "Dòng vốn ngoại tích cực phản ánh niềm tin vào môi trường kinh doanh"},
-    {"title": "TP.HCM khởi công 8 dự án trọng điểm gần 10 tỷ USD", "impact": "↑", "note": "Đầu tư công và hạ tầng quy mô lớn hỗ trợ nhóm ngành xây dựng, vật liệu"},
-    {"title": "Từ 1/7 mua bán vàng miếng phải nộp thuế thu nhập cá nhân", "impact": "→", "note": "Chính sách mới có thể khiến dòng tiền dịch chuyển sang các kênh đầu tư khác"},
-    {"title": "Công ty chứng khoán đánh giá tác động vụ Giám đốc công ty giám định PNJ bị bắt", "impact": "↓", "note": "Rủi ro riêng lẻ ảnh hưởng tâm lý với cổ phiếu PNJ và ngành trang sức"}
+    {"title": "GDP Việt Nam tăng hơn 8% trong 6 tháng đầu năm 2026", "impact": "↑", "note": "Tăng trưởng vượt kỳ vọng củng cố niềm tin vào triển vọng doanh nghiệp niêm yết"},
+    {"title": "Vốn FDI vào Việt Nam vượt kỷ lục 34 tỷ USD", "impact": "↑", "note": "Dòng vốn ngoại kỷ lục hỗ trợ tỷ giá, bất động sản KCN và nhóm cổ phiếu liên quan FDI"},
+    {"title": "Samsung dự kiến rót thêm 1 tỷ USD vào Việt Nam", "impact": "↑", "note": "Cam kết đầu tư lớn từ tập đoàn hàng đầu củng cố niềm tin nhà đầu tư nước ngoài"},
+    {"title": "Cổ phiếu chứng khoán đồng loạt bùng nổ, có mã tăng hơn 14%", "impact": "↑", "note": "Dòng tiền nội hưng phấn có thể lan tỏa sang toàn thị trường trong ngắn hạn"},
+    {"title": "Khối ngoại bán ròng 3.000 tỷ tuần đầu quý 3", "impact": "↓", "note": "Áp lực bán ròng trở lại có thể gây rung lắc cho các mã vốn hóa lớn"},
+    {"title": "HoSE cắt margin 59 mã trong quý 3 (HVN, DGC, BCG...)", "impact": "↓", "note": "Giảm đòn bẩy có thể làm giảm thanh khoản và gây áp lực điều chỉnh với nhóm cổ phiếu bị cắt"}
   ]
 }
