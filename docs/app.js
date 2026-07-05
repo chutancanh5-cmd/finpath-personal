@@ -14,6 +14,7 @@ let NEWS = { items: [], summary: '', regime: {} };
 let SCAND = { hits: [], counts: {}, universe_n: 0 };
 let SCANI = { hits: [], market_open: false };
 let FLOW = { symbols: [], market_open: false };
+let READ = { counts: {}, groups: {}, detail: [], regime: {} };
 let WATCH = [];
 let ALERTS = [];
 let SECT = null;   // chu kỳ ngành (tính bên repo hpa-tracker, dùng chung)
@@ -80,7 +81,8 @@ async function loadData() {
   SCAND = await fetchJSON('data/scan_daily.json', cache.scand || SCAND);
   SCANI = await fetchJSON('data/scan_intraday.json', cache.scani || SCANI);
   FLOW = await fetchJSON('data/orderflow.json', cache.flow || FLOW);
-  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI, flow: FLOW }));
+  READ = await fetchJSON('data/market_read.json', cache.read || READ);
+  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI, flow: FLOW, read: READ }));
   try {
     const r = await fetch(SECT_URL + '?ts=' + Date.now(), { cache: 'no-store' });
     if (r.ok) { SECT = await r.json(); localStorage.setItem(KEY_SECT, JSON.stringify(SECT)); }
@@ -373,6 +375,52 @@ function renderFlow() {
     + (missing.length ? `<p class="muted small">Chưa có dòng tiền cho: <b>${missing.join(', ')}</b> — sẽ có sau khi đồng bộ danh mục (trong phiên, ~5-10′).</p>` : '');
 }
 
+/* ---------- đọc hiểu thị trường (Stage/Wyckoff khung tháng) ---------- */
+const STAGE_META = {
+  markup:   ['Đẩy giá',   '#2bd576', '🟢'],
+  accum:    ['Tích lũy',  '#4aa3ff', '🔵'],
+  distrib:  ['Phân phối', '#e3b341', '🟠'],
+  markdown: ['Đè giá',    '#ff5b6e', '🔴'],
+};
+function readColor(sf) {
+  return sf.includes('markup') ? '#2bd576' : sf.includes('Tích') ? '#4aa3ff'
+       : sf.includes('Phân') ? '#e3b341' : '#ff5b6e';
+}
+function readCard(d) {
+  const col = readColor(d.stage_full);
+  return `<div class="scard">
+    <div class="top"><span class="sym">${d.sym}${d.watch ? ' ⭐' : ''}</span><span class="muted">${fmt(d.price)} · ${d.sector}</span></div>
+    <div class="pstage" style="color:${col}">${d.stage_full}${d.sig_txt ? ` · <b>${d.sig_txt}</b>` : ''}</div>
+    <div class="muted small">Diễn tiến: ${d.story || '—'}</div>
+    <div class="readstats"><span>Dòng tiền <b>${d.obv}</b></span><span>Vị trí range <b>${d.pos}%</b></span><span>KL <b>${d.vol}</b></span><span>Độ dốc MA <b>${d.slope > 0 ? '+' : ''}${d.slope}%</b></span></div>
+  </div>`;
+}
+function renderRead() {
+  if (!$('readCounts')) return;
+  const r = READ || {};
+  $('readMeta').textContent = r.updated_at ? new Date(r.updated_at).toLocaleDateString('vi-VN') : '';
+  const rg = r.regime || {};
+  if (rg.riskon != null) {
+    $('readRegime').className = 'readregime ' + (rg.riskon ? 'on' : 'off');
+    $('readRegime').innerHTML = `<div class="rgline"><b>${rg.riskon ? '🟢 RISK-ON' : '🔴 RISK-OFF'}</b><span>VNINDEX ${fmt(rg.vnindex)} ${rg.riskon ? '>' : '<'} MA50 ${fmt(rg.ma50)}</span></div><div class="muted small">${rg.note || ''}</div>`;
+  } else { $('readRegime').className = ''; $('readRegime').innerHTML = ''; }
+  const c = r.counts || {};
+  $('readCounts').innerHTML = ['markup', 'accum', 'distrib', 'markdown'].map(g => {
+    const [nm, col] = STAGE_META[g];
+    return `<div class="pcell" style="border-color:${col}"><b style="color:${col}">${c[g] || 0}</b><span>${nm}</span></div>`;
+  }).join('');
+  $('readDetail').innerHTML = (r.detail || []).length ? r.detail.map(readCard).join('')
+    : '<p class="muted small">Chưa có dữ liệu. Cập nhật cuối phiên (update_market_read.py).</p>';
+  $('readGroups').innerHTML = ['markup', 'accum', 'distrib', 'markdown'].map(g => {
+    const list = (r.groups || {})[g] || [];
+    if (!list.length) return '';
+    const [nm, col, emo] = STAGE_META[g];
+    const chips = list.map(x => `<span class="pchip${x.watch ? ' w' : ''}" style="--pc:${col}">${x.sym}${x.sig ? ' ⚡' : ''}</span>`).join('');
+    return `<div class="pgroup"><div class="pghead" style="color:${col}">${emo} ${nm} <span class="muted">(${list.length})</span></div><div class="pchips">${chips}</div></div>`;
+  }).join('');
+  $('readNote').textContent = r.note || '';
+}
+
 /* ---------- alerts ---------- */
 let alertDir = 'above';
 function checkAlerts() {
@@ -407,7 +455,7 @@ function switchTab(name) {
   window.scrollTo(0, 0);
 }
 
-function renderAll() { renderHeader(); renderBoard(); renderSignals(); renderNews(); renderScan(); renderSect(); renderFlow(); checkAlerts(); renderAlerts(); }
+function renderAll() { renderHeader(); renderBoard(); renderRead(); renderSignals(); renderNews(); renderScan(); renderSect(); renderFlow(); checkAlerts(); renderAlerts(); }
 
 async function refresh() {
   const b = $('refreshBtn');

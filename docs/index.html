@@ -39,6 +39,20 @@
   <div class="board" id="board"></div>
 </section>
 
+<!-- ===== Tab: Đọc hiểu thị trường ===== -->
+<section class="tab" id="tab-read" hidden>
+  <div class="row-between"><h2>Đọc hiểu thị trường</h2><span class="chip" id="readMeta"></span></div>
+  <p class="muted small">Đọc <b>chiến dịch của tay to</b> qua nhiều tháng (Wyckoff / Stage): mỗi mã đang ở
+    <b>Tích lũy → Đẩy giá → Phân phối → Đè giá</b>. Dùng để hiểu thị trường &amp; cảnh báo rủi ro — không phải khuyến nghị mua bán.</p>
+  <div class="regime" id="readRegime"></div>
+  <div class="phasemap" id="readCounts"></div>
+  <h3 class="sub">Đáng chú ý — kế hoạch tay to</h3>
+  <div class="cards" id="readDetail"></div>
+  <h3 class="sub">Bản đồ pha toàn thị trường</h3>
+  <div id="readGroups"></div>
+  <p class="muted small" id="readNote"></p>
+</section>
+
 <!-- ===== Tab: Khuyến nghị ===== -->
 <section class="tab" id="tab-signals" hidden>
   <div class="row-between"><h2>Khuyến nghị hôm nay</h2><span class="chip" id="stratChip"></span></div>
@@ -110,6 +124,7 @@
 
 <nav class="tabbar">
   <button class="tab-btn active" data-tab="prices"><span class="ti">▦</span>Bảng giá</button>
+  <button class="tab-btn" data-tab="read"><span class="ti">◱</span>Đọc hiểu</button>
   <button class="tab-btn" data-tab="signals"><span class="ti">◎</span>Khuyến nghị</button>
   <button class="tab-btn" data-tab="news"><span class="ti">✦</span>Tin AI</button>
   <button class="tab-btn" data-tab="scan"><span class="ti">⌕</span>Quét</button>

@@ -8,6 +8,7 @@ cd /d "C:\Users\chuta\finpath-personal\updater"
 
 python update_prices.py
 python update_signals.py
+python update_market_read.py --discord
 python update_news.py
 python alert.py
 python scan_daily.py --discord
