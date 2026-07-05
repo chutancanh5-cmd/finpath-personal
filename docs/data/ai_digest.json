@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế vĩ mô Việt Nam tiếp tục là điểm sáng khi GDP 6 tháng đầu năm 2026 tăng hơn 8%, vốn FDI vượt mốc kỷ lục 34 tỷ USD và Samsung cam kết rót thêm 1 tỷ USD, củng cố niềm tin vào dòng vốn ngoại và triển vọng tăng trưởng dài hạn. Nhóm cổ phiếu chứng khoán bứt phá mạnh, có mã tăng trên 14%, phản ánh dòng tiền nội đang hưng phấn trước các thông tin vĩ mô tích cực. Tuy nhiên, rủi ro ngắn hạn hiện hữu khi khối ngoại quay lại bán ròng khoảng 3.000 tỷ đồng ngay tuần đầu quý 3 và HoSE cắt margin 59 mã (gồm HVN, DGC, BCG), có thể tạo áp lực điều chỉnh cục bộ và giảm thanh khoản ở nhóm cổ phiếu bị ảnh hưởng. Mục tiêu tăng trưởng 2 con số cho cả năm vẫn còn thách thức, đòi hỏi động lực bổ sung trong nửa cuối năm. Nhìn chung, nền tảng vĩ mô vững chắc là yếu tố nâng đỡ thị trường, song nhà đầu tư cần thận trọng với biến động ngắn hạn từ margin và dòng vốn ngoại.",
+  "summary_vi": "Loạt số liệu vĩ mô tiếp tục củng cố bức tranh tích cực: GDP 6 tháng đầu năm 2026 tăng hơn 8% đưa Việt Nam vào nhóm tăng trưởng hàng đầu thế giới, thu ngân sách hải quan gần 265.000 tỷ đồng và vốn FDI vượt kỷ lục 34 tỷ USD với cam kết rót thêm 1 tỷ USD từ Samsung. Những thông tin này củng cố niềm tin dài hạn vào nhóm cổ phiếu xuất nhập khẩu, khu công nghiệp và FDI. Tuy nhiên mục tiêu tăng trưởng hai con số cho cả năm vẫn chưa đạt được, đặt ra câu hỏi về kịch bản và động lực bổ sung cho nửa cuối năm. Trên thị trường chứng khoán, nhóm cổ phiếu công ty chứng khoán (SSI, SHS, VCI) tiếp tục được định giá lại sau đà bứt phá, trong khi giới phân tích cảnh báo một biến số quan trọng có thể khiến thị trường rung lắc trong tháng 7, cùng bài học về sự khó lường sau một biến cố khiến hàng nghìn tỷ vốn hóa bốc hơi. Nhìn chung nền tảng vĩ mô vững chắc vẫn là trụ đỡ chính, song nhà đầu tư cần thận trọng với rủi ro biến động ngắn hạn.",
   "top": [
-    {"title": "GDP Việt Nam tăng hơn 8% trong 6 tháng đầu năm 2026", "impact": "↑", "note": "Tăng trưởng vượt kỳ vọng củng cố niềm tin vào triển vọng doanh nghiệp niêm yết"},
-    {"title": "Vốn FDI vào Việt Nam vượt kỷ lục 34 tỷ USD", "impact": "↑", "note": "Dòng vốn ngoại kỷ lục hỗ trợ tỷ giá, bất động sản KCN và nhóm cổ phiếu liên quan FDI"},
-    {"title": "Samsung dự kiến rót thêm 1 tỷ USD vào Việt Nam", "impact": "↑", "note": "Cam kết đầu tư lớn từ tập đoàn hàng đầu củng cố niềm tin nhà đầu tư nước ngoài"},
-    {"title": "Cổ phiếu chứng khoán đồng loạt bùng nổ, có mã tăng hơn 14%", "impact": "↑", "note": "Dòng tiền nội hưng phấn có thể lan tỏa sang toàn thị trường trong ngắn hạn"},
-    {"title": "Khối ngoại bán ròng 3.000 tỷ tuần đầu quý 3", "impact": "↓", "note": "Áp lực bán ròng trở lại có thể gây rung lắc cho các mã vốn hóa lớn"},
-    {"title": "HoSE cắt margin 59 mã trong quý 3 (HVN, DGC, BCG...)", "impact": "↓", "note": "Giảm đòn bẩy có thể làm giảm thanh khoản và gây áp lực điều chỉnh với nhóm cổ phiếu bị cắt"}
+    {"title": "GDP Việt Nam tăng hơn 8% trong 6 tháng đầu năm 2026, vào nhóm tăng trưởng hàng đầu thế giới", "impact": "↑", "note": "Tăng trưởng vượt trội củng cố niềm tin vào triển vọng lợi nhuận doanh nghiệp niêm yết"},
+    {"title": "Vốn FDI vào Việt Nam vượt kỷ lục 34 tỷ USD", "impact": "↑", "note": "Dòng vốn ngoại kỷ lục hỗ trợ tỷ giá và nhóm cổ phiếu bất động sản khu công nghiệp, xuất nhập khẩu"},
+    {"title": "Samsung dự kiến rót thêm 1 tỷ USD vào Việt Nam trong năm nay", "impact": "↑", "note": "Cam kết đầu tư lớn từ tập đoàn hàng đầu củng cố niềm tin nhà đầu tư nước ngoài"},
+    {"title": "Hải quan thu ngân sách gần 265.000 tỷ đồng, xuất nhập khẩu tăng tốc", "impact": "↑", "note": "Hoạt động thương mại sôi động hỗ trợ nhóm cổ phiếu logistics, cảng biển và xuất khẩu"},
+    {"title": "Tăng trưởng chưa đạt mục tiêu 2 con số, cần kịch bản cho 6 tháng cuối năm", "impact": "→", "note": "Áp lực tìm động lực tăng trưởng mới có thể khiến chính sách hỗ trợ được đẩy mạnh nhưng cũng tạo tâm lý thận trọng"},
+    {"title": "Một biến số quan trọng có thể khiến chứng khoán rung lắc trong tháng 7", "impact": "↓", "note": "Cảnh báo rủi ro biến động ngắn hạn có thể kích hoạt tâm lý chốt lời sau chuỗi tăng"}
   ]
 }
