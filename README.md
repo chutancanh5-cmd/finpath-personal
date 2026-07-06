@@ -1,6 +1,6 @@
 # FinPath cá nhân
 
-PWA tĩnh kiểu Finpath dùng riêng cho thị trường VN: **Bảng giá · Khuyến nghị · Tin AI · Cảnh báo**.
+PWA tĩnh kiểu Finpath dùng riêng cho thị trường VN: **Bảng giá · Đọc hiểu · Khuyến nghị · Tin AI · Quét · Dòng tiền · Cảnh báo**.
 Cùng pattern HPA tracker: `vnstock` → JSON trong `docs/data/` → GitHub Pages → app đọc.
 
 ## Cấu trúc
@@ -11,6 +11,7 @@ docs/                 ← GitHub Pages serve thư mục này
 updater/
   update_prices.py    ← [DONE] bảng giá + chỉ số (vnstock VCI)
   update_signals.py   ← [DONE] DC55/30 16 mã → signals.json (logic = bot/discord_signal_bot.py)
+  update_market_read.py ← [DONE] Đọc hiểu thị trường (Wyckoff/Stage) → market_read.json + Discord
   watchlist.txt       ← danh mục theo dõi = 16 mã DC55/30 (sửa tại đây)
   update_news.py      ← [DONE] import macro/ bot → regime + RSS + Haiku → news.json
   alert.py            ← [DONE] tín hiệu MUA/BÁN mới → Discord (dedup theo ngày)
@@ -22,6 +23,20 @@ updater/
   run_daily.bat       ← 4 updater + alert + scan_daily (lịch sau 15:00)
   run_intraday.bat    ← scan_intraday + update_orderflow (lịch mỗi 5 phút)
 ```
+
+## Đọc hiểu thị trường (tab "Đọc hiểu")
+Đọc **chiến dịch của tay to qua nhiều tháng** (Wyckoff / Weinstein Stage) — không phải khuyến nghị mua bán:
+- Mỗi mã (~64 mã theo ngành + watchlist) được phân pha: **Tích lũy → Đẩy giá → Phân phối → Đè giá**
+  (MA150 ~30 tuần + độ dốc; pha làm mượt 12 phiên để câu chuyện sạch).
+- Dấu chân dòng tiền: OBV 3 tháng (tiền âm thầm vào/ra), vị trí trong range 6 tháng, KL khô hạn.
+- Regime VNINDEX>MA50 (risk-on/off) làm đèn nền toàn thị trường.
+- Discord (webhook riêng `DISCORD_WEBHOOK_MARKETREAD`): run đầu gửi bản đồ pha; sau đó **chỉ báo khi
+  mã CHUYỂN pha** (vào Đẩy giá = cơ hội 🟢, vào Phân phối/Đè giá = cảnh giác 🟠🔴) — dedup qua
+  `updater/marketread_state.json` (được commit để persist qua các lần chạy cloud).
+- Nguồn gốc: chưng cất từ project Market Reader (backtest 59 mã 2018–2026; kết luận trung thực:
+  dùng để ĐỌC + cảnh báo rủi ro, không phải máy tự sinh lời).
+- ⚠️ vnstock Guest = **20 request/phút** → updater giãn 3.2s/mã (~5 phút cho cả rổ) + guard:
+  đọc được <70% rổ thì giữ file cũ, không ghi đè.
 
 ## Dòng tiền (tab "Dòng tiền")
 Order flow THẬT cho watchlist, nối thẳng `orderflow/feed.py` (`source="kbs"`):
