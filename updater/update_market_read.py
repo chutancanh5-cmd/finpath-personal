@@ -203,8 +203,9 @@ def main():
             vc = fetch("VNINDEX", is_index=True)["close"]
             ma = vc.rolling(50).mean()
             riskon = bool(vc.iloc[-1] > ma.iloc[-1])
-            regime = {"riskon": riskon, "vnindex": round(float(vc.iloc[-1]), 1),
-                      "ma50": round(float(ma.iloc[-1]), 1),
+            norm = lambda x: x / 1000.0 if x > 100000 else x   # phong thu: chi so theo diem (~1862)
+            regime = {"riskon": riskon, "vnindex": round(norm(float(vc.iloc[-1])), 1),
+                      "ma50": round(norm(float(ma.iloc[-1])), 1),
                       "note": ("Thị trường chung RISK-ON (VNINDEX trên MA50) — ưu tiên mã đang/sắp đẩy giá."
                                if riskon else
                                "Thị trường chung RISK-OFF (VNINDEX dưới MA50) — thận trọng, ưu tiên phòng thủ.")}
@@ -224,8 +225,8 @@ def main():
                 break
             except Exception as e:
                 log(f"{s} loi ({attempt+1}/3): {str(e)[:50]}")
-                time.sleep(2)
-        time.sleep(0.15)
+                time.sleep(4)   # backoff dai hon khi 429
+        time.sleep(0.35)        # gian cach fetch de tranh rate-limit
     if not reads:
         log("Khong doc duoc ma nao. Thoat.")
         return
