@@ -215,20 +215,31 @@ def main():
             time.sleep(3)
     time.sleep(0.5)
 
+    # vnstock goi Guest gioi han 20 request/PHUT -> phai gian cach >=3.2s/request,
+    # neu khong bo gioi han cua vnstock se chan (co the SystemExit giua chung).
     reads = {}
-    for s in universe:
+    for i, s in enumerate(universe, 1):
         for attempt in range(3):
             try:
                 r = read_one(fetch(s))
                 if r:
                     reads[s] = r
                 break
-            except Exception as e:
+            except KeyboardInterrupt:
+                raise
+            except BaseException as e:   # bat ca SystemExit tu rate-limiter cua vnstock
                 log(f"{s} loi ({attempt+1}/3): {str(e)[:50]}")
-                time.sleep(4)   # backoff dai hon khi 429
-        time.sleep(0.35)        # gian cach fetch de tranh rate-limit
+                time.sleep(8)
+        if i % 10 == 0:
+            log(f"  ... {i}/{len(universe)} ma, doc duoc {len(reads)}")
+        time.sleep(3.2)   # 20 req/phut (Guest tier)
     if not reads:
         log("Khong doc duoc ma nao. Thoat.")
+        return
+
+    # Bao ve du lieu: neu doc duoc < 70% ro (rate-limit/loi mang), GIU file cu, khong ghi de
+    if len(reads) < 0.7 * len(universe) and os.path.exists(OUT):
+        log(f"CHI doc duoc {len(reads)}/{len(universe)} ma (<70%) — giu nguyen file cu, khong ghi de/khong Discord.")
         return
 
     groups = {"markup": [], "accum": [], "distrib": [], "markdown": []}
