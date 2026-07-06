@@ -192,6 +192,9 @@ def load_watchlist():
 
 def main():
     setup_vnstock_key()
+    # co key tra phi (~60 req/phut) -> pace 1.1s; khong key (Guest 20 req/phut) -> 3.2s
+    pace = 1.1 if os.environ.get("VNSTOCK_API_KEY") else 3.2
+    log(f"vnstock tier: {'TRA PHI (pace 1.1s)' if pace < 2 else 'Guest (pace 3.2s)'}")
     watch = load_watchlist()
     universe = list(dict.fromkeys([s for syms in SECTORS.values() for s in syms] + watch))
     log(f"doc {len(universe)} ma ({len(watch)} trong watchlist)...")
@@ -232,7 +235,7 @@ def main():
                 time.sleep(8)
         if i % 10 == 0:
             log(f"  ... {i}/{len(universe)} ma, doc duoc {len(reads)}")
-        time.sleep(3.2)   # 20 req/phut (Guest tier)
+        time.sleep(pace)   # tra phi: 0.6s; Guest (khong key): 3.2s = 20 req/phut
     if not reads:
         log("Khong doc duoc ma nao. Thoat.")
         return
