@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam tiếp tục duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực, với tốc độ tăng trưởng GDP và thu nhập bình quân đầu người thuộc nhóm dẫn đầu thế giới, tạo nền tảng vĩ mô thuận lợi cho TTCK. Dòng vốn FDI vẫn đổ mạnh vào Việt Nam, nổi bật là cam kết rót thêm 1 tỷ USD của Samsung và dự án nhà máy bán dẫn 1 tỷ USD của doanh nghiệp Hàn Quốc tại Hải Phòng, hỗ trợ nhóm cổ phiếu khu công nghiệp và công nghệ. Xuất nhập khẩu và thu ngân sách hải quan tăng tốc cho thấy hoạt động thương mại phục hồi tốt, có lợi cho nhóm xuất khẩu và logistics. Tuy nhiên, tăng trưởng chung vẫn chưa đạt mục tiêu 2 con số, đặt ra áp lực về kịch bản chính sách bổ sung động lực trong 6 tháng cuối năm, là rủi ro ngắn hạn cần theo dõi. Nhìn chung bức tranh vĩ mô nghiêng về tích cực, có lợi cho nhóm cổ phiếu FDI, khu công nghiệp, xuất khẩu và ngân hàng.",
+  "summary_vi": "Vĩ mô Việt Nam tiếp tục là điểm sáng với tăng trưởng GRDP nhiều địa phương vượt kỳ vọng và Việt Nam lọt nhóm nền kinh tế tăng GDP hàng đầu thế giới, củng cố nền tảng định giá chung cho TTCK. Dòng vốn FDI công nghệ cao tiếp tục đổ vào, nổi bật dự án nhà máy đế mạch bán dẫn 1 tỷ USD tại Hải Phòng, hỗ trợ nhóm khu công nghiệp, bán dẫn và logistics phía Bắc. Kỳ vọng lợi nhuận quý 2 tích cực ở một số doanh nghiệp và nhận định VN-Index đang tích lũy đi lên tạo tâm lý lạc quan ngắn hạn cho nhóm cổ phiếu dẫn dắt. Tuy nhiên, khối ngoại bán ròng đột biến hơn 2.800 tỷ đồng phiên gần nhất là rủi ro cần theo dõi, có thể tạo áp lực cung ngắn hạn dù xu hướng vĩ mô vẫn thuận lợi. Nhìn chung bức tranh nghiêng về tích cực, ủng hộ nhóm FDI, khu công nghiệp, bán dẫn và kinh tế tư nhân, nhưng cần thận trọng với biến động dòng vốn ngoại.",
   "top": [
-    {"title": "Samsung dự kiến rót thêm 1 tỷ USD vào Việt Nam trong năm nay", "impact": "↑", "note": "Củng cố niềm tin FDI, hỗ trợ nhóm cổ phiếu khu công nghiệp, công nghệ và chuỗi cung ứng"},
-    {"title": "Tập đoàn Hàn Quốc khởi công nhà máy bán dẫn 1 tỷ USD tại Hải Phòng", "impact": "↑", "note": "Thúc đẩy cổ phiếu khu công nghiệp, bán dẫn và logistics miền Bắc"},
-    {"title": "Việt Nam vào nhóm nền kinh tế tăng trưởng GDP hàng đầu thế giới", "impact": "↑", "note": "Nâng vị thế Việt Nam, thu hút thêm dòng vốn ngoại vào TTCK"},
-    {"title": "KTXH duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực", "impact": "↑", "note": "Củng cố niềm tin vào tăng trưởng chung, hỗ trợ định giá thị trường"},
-    {"title": "Hải quan thu ngân sách gần 265.000 tỷ đồng, xuất nhập khẩu tăng tốc", "impact": "↑", "note": "Hoạt động thương mại phục hồi tốt, có lợi cho nhóm xuất khẩu, cảng biển"},
-    {"title": "Tăng trưởng chưa đạt mục tiêu 2 con số, cần kịch bản cho 6 tháng cuối năm", "impact": "→", "note": "Áp lực chính sách hỗ trợ thêm, rủi ro ngắn hạn nếu tăng trưởng không như kỳ vọng"}
+    {"title": "Đầu tư nhà máy sản xuất đế mạch bán dẫn 1 tỷ USD ở Hải Phòng", "impact": "↑", "note": "Củng cố dòng vốn FDI công nghệ cao, hỗ trợ cổ phiếu khu công nghiệp và bán dẫn miền Bắc"},
+    {"title": "Bất ngờ về quán quân tăng trưởng GRDP 6 tháng đầu năm, vượt Hải Phòng, Hà Nội, TPHCM", "impact": "↑", "note": "Tăng trưởng vùng miền tích cực củng cố niềm tin vào bức tranh kinh tế chung"},
+    {"title": "Việt Nam vào nhóm các nền kinh tế có tốc độ tăng trưởng GDP hàng đầu thế giới", "impact": "↑", "note": "Nâng vị thế quốc gia, hỗ trợ dòng vốn ngoại dài hạn vào TTCK"},
+    {"title": "Chuyên gia MASVN: VN-Index đang tích lũy đi lên, 2 nhóm ngành chủ lực kỳ vọng hút tiền", "impact": "↑", "note": "Tâm lý thị trường lạc quan, kỳ vọng dòng tiền tập trung vào nhóm ngành dẫn dắt"},
+    {"title": "Dự báo lợi nhuận quý 2 của 57 doanh nghiệp hot, có tên tăng trưởng trên 700%", "impact": "↑", "note": "Kỳ vọng KQKD quý 2 tích cực hỗ trợ định giá nhóm cổ phiếu liên quan"},
+    {"title": "Phiên 6/7: Khối ngoại bán ròng đột biến hơn 2.800 tỷ đồng", "impact": "↓", "note": "Áp lực bán ngoại lớn có thể tạo rung lắc ngắn hạn cho các mã bị xả mạnh"}
   ]
 }
