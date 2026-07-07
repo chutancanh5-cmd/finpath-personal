@@ -43,6 +43,7 @@ jobs:
         run: |
           python update_market_read.py --discord || true
           python update_prices.py || true
+          python update_market.py --append-hist || true
           python update_signals.py || true
           python update_news.py || true
           python alert.py || true

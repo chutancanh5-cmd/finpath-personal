@@ -42,6 +42,42 @@ h2{font-size:18px;margin:14px 0 8px} h3.sub{font-size:13px;color:var(--muted);te
 .nextup .dot.idle{background:var(--muted);animation:none}
 @keyframes fppulse{0%,100%{opacity:.35}50%{opacity:1}}
 
+/* thanh tiến độ làm mới (ép máy chủ) */
+.refbar{height:3px;background:var(--line);overflow:hidden}
+.refbar i{display:block;height:100%;width:0;background:linear-gradient(90deg,#3b82f6,#22d3ee);
+  transition:width .6s ease}
+
+/* ===== tab Thị trường ===== */
+.mktseg{margin:8px 0 10px}
+.mkt-idx{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;
+  background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+.mkt-idx b{font-size:20px;margin:0 6px}
+.breadth-chips{display:flex;gap:6px;flex-wrap:wrap}
+.bc{font-size:12px;font-weight:600;background:var(--bg);border:1px solid var(--line);
+  border-radius:8px;padding:3px 7px}
+.liq-now{margin:4px 0 6px}
+.liq-now b{font-size:22px}
+.mkt-liq svg{width:100%;height:auto;display:block}
+.mkt-impact{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.imp-head{font-weight:700;font-size:12.5px;margin-bottom:6px}
+.imp-row{display:grid;grid-template-columns:44px 1fr 52px;gap:6px;align-items:center;margin-bottom:4px}
+.imp-sym{font-weight:700;font-size:12px}
+.imp-bar{height:10px;background:var(--card);border-radius:5px;overflow:hidden}
+.imp-bar i{display:block;height:100%;border-radius:5px}
+.imp-bar i.pos{background:var(--pos)}
+.imp-bar i.neg{background:var(--neg)}
+.imp-pts{font-size:11.5px;font-weight:600;text-align:right}
+.heatmap{display:grid;grid-template-columns:repeat(6,1fr);gap:4px;grid-auto-flow:dense}
+.htile{border-radius:8px;padding:6px 4px;text-align:center;color:#eaf2f8;min-height:44px;
+  display:flex;flex-direction:column;justify-content:center;overflow:hidden}
+.htile b{font-size:12px;letter-spacing:.2px}
+.htile span{font-size:10.5px;opacity:.95}
+.htile small{font-size:9px;opacity:.75}
+.htile.hx1{grid-column:span 3;grid-row:span 2;min-height:78px}
+.htile.hx1 b{font-size:17px}.htile.hx1 span{font-size:13px}
+.htile.hx2{grid-column:span 2}
+.htile.hx2 b{font-size:13px}
+
 /* modal chart */
 .modal{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;padding:16px}
 .modal[hidden]{display:none}

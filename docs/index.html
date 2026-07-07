@@ -17,6 +17,7 @@
   <div class="indices" id="indices"></div>
   <button id="refreshBtn" class="icon-btn" title="Làm mới">⟳</button>
 </header>
+<div id="refbar" class="refbar" hidden><i id="refbarFill"></i></div>
 <div class="updated"><span id="updated"></span> <span id="nextUpdate" class="nextup"></span></div>
 
 <!-- ===== Tab: Bảng giá ===== -->
@@ -93,24 +94,21 @@
   <div class="cards" id="flowList"></div>
 </section>
 
-<!-- ===== Tab: Cảnh báo ===== -->
-<section class="tab" id="tab-alerts" hidden>
-  <h2>Cảnh báo</h2>
-  <p class="muted small">Cảnh báo giá đặt tại máy; updater bắn Discord khi có tín hiệu mua/bán mới.</p>
-  <form class="alert-form" id="alertForm">
-    <div class="seg" id="alertSeg">
-      <button type="button" class="seg-btn active" data-dir="above">Vượt lên ≥</button>
-      <button type="button" class="seg-btn" data-dir="below">Rớt xuống ≤</button>
-    </div>
-    <div class="alert-inputs">
-      <input id="alSym" type="text" autocapitalize="characters" placeholder="Mã (FPT)" required>
-      <input id="alPrice" type="number" inputmode="decimal" placeholder="Giá (vd 120000)" required>
-      <button class="btn" type="submit">Thêm</button>
-    </div>
-  </form>
-  <div class="alert-list" id="alertList"></div>
-  <h3 class="sub">Đã kích hoạt</h3>
-  <div class="alert-log" id="alertLog"></div>
+<!-- ===== Tab: Thị trường ===== -->
+<section class="tab" id="tab-market" hidden>
+  <div class="row-between"><h2>Thị trường</h2><span class="chip" id="mktMeta"></span></div>
+  <div class="seg mktseg" id="mktSeg">
+    <button type="button" class="seg-btn active" data-exch="HOSE">HOSE</button>
+    <button type="button" class="seg-btn" data-exch="HNX">HNX</button>
+    <button type="button" class="seg-btn" data-exch="UPCOM">UPCOM</button>
+  </div>
+  <div class="mkt-head" id="mktHead"></div>
+  <h3 class="sub">Thanh khoản</h3>
+  <div class="mkt-liq" id="mktLiq"></div>
+  <h3 class="sub">Mã tác động index <span class="muted small" id="mktImpNote">(ước tính theo vốn hóa)</span></h3>
+  <div class="mkt-impact" id="mktImpact"></div>
+  <h3 class="sub">Bản đồ nhiệt — top giá trị giao dịch</h3>
+  <div class="heatmap" id="mktHeat"></div>
 </section>
 
 <!-- ===== Modal biểu đồ giá ===== -->
@@ -124,12 +122,12 @@
 
 <nav class="tabbar">
   <button class="tab-btn active" data-tab="prices"><span class="ti">▦</span>Bảng giá</button>
+  <button class="tab-btn" data-tab="market"><span class="ti">◧</span>Thị trường</button>
   <button class="tab-btn" data-tab="read"><span class="ti">◱</span>Đọc hiểu</button>
   <button class="tab-btn" data-tab="signals"><span class="ti">◎</span>Khuyến nghị</button>
   <button class="tab-btn" data-tab="news"><span class="ti">✦</span>Tin AI</button>
   <button class="tab-btn" data-tab="scan"><span class="ti">⌕</span>Quét</button>
   <button class="tab-btn" data-tab="flow"><span class="ti">≋</span>Dòng tiền</button>
-  <button class="tab-btn" data-tab="alerts"><span class="ti">!</span>Cảnh báo</button>
 </nav>
 
 <script src="app.js"></script>

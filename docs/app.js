@@ -2,10 +2,10 @@
 'use strict';
 
 const KEY_WATCH = 'fp_watch_v1';
-const KEY_ALERTS = 'fp_alerts_v1';
 const KEY_CACHE = 'fp_cache_v1';
 const KEY_TOKEN = 'fp_gh_token';
-const REPO_API = 'https://api.github.com/repos/chutancanh5-cmd/finpath-personal/contents/updater/watchlist.txt';
+const REPO = 'chutancanh5-cmd/finpath-personal';
+const REPO_API = `https://api.github.com/repos/${REPO}/contents/updater/watchlist.txt`;
 const DEFAULT_WATCH = ['PDR','VIB','SSI','TCB','MWG','SIP','DIG','GEX','KDH','LPB','FPT','FRT','FTS','HPG','VSC','PVT'];
 
 let PRICES = { rows: [], market: {} };
@@ -15,8 +15,9 @@ let SCAND = { hits: [], counts: {}, universe_n: 0 };
 let SCANI = { hits: [], market_open: false };
 let FLOW = { symbols: [], market_open: false };
 let READ = { counts: {}, groups: {}, detail: [], regime: {} };
+let MARKET = null;
+let MKT_EXCH = 'HOSE';
 let WATCH = [];
-let ALERTS = [];
 let SECT = null;   // chu kỳ ngành (tính bên repo hpa-tracker, dùng chung)
 const KEY_SECT = 'fp_sectors_v1';
 const SECT_URL = 'https://raw.githubusercontent.com/chutancanh5-cmd/hpa-tracker/main/docs/data/sectors.json';
@@ -30,10 +31,8 @@ const arrow = n => n > 0 ? '▲' : n < 0 ? '▼' : '•';
 
 function loadLocal() {
   try { WATCH = JSON.parse(localStorage.getItem(KEY_WATCH)) || DEFAULT_WATCH.slice(); } catch { WATCH = DEFAULT_WATCH.slice(); }
-  try { ALERTS = JSON.parse(localStorage.getItem(KEY_ALERTS)) || []; } catch { ALERTS = []; }
 }
 const saveWatch = () => localStorage.setItem(KEY_WATCH, JSON.stringify(WATCH));
-const saveAlerts = () => localStorage.setItem(KEY_ALERTS, JSON.stringify(ALERTS));
 
 /* toast thông báo nhỏ (iOS PWA chặn alert/confirm nên dùng cái này) */
 function toast(msg, ms = 2600) {
@@ -62,8 +61,17 @@ async function syncWatchToRepo(list) {
 
 // Đọc data từ raw.githubusercontent (cập nhật ngay khi workflow commit, bỏ qua build Pages),
 // fallback về same-origin (Pages/local) nếu raw lỗi.
-const DATA_BASE = 'https://raw.githubusercontent.com/chutancanh5-cmd/finpath-personal/main/docs/';
-async function fetchJSON(path, fallback) {
+// fresh=true (sau khi ép máy chủ chạy): đọc qua contents API bằng token — không dính cache CDN của raw.
+const DATA_BASE = 'https://raw.githubusercontent.com/' + REPO + '/main/docs/';
+async function fetchJSON(path, fallback, fresh) {
+  const tok = (localStorage.getItem(KEY_TOKEN) || '').trim();
+  if (fresh && tok) {
+    try {
+      const r = await fetch(`https://api.github.com/repos/${REPO}/contents/docs/${path}?ref=main&ts=${Date.now()}`,
+        { headers: { Authorization: 'Bearer ' + tok, Accept: 'application/vnd.github.raw+json' }, cache: 'no-store' });
+      if (r.ok) return await r.json();
+    } catch (e) { /* rơi về raw */ }
+  }
   for (const base of [DATA_BASE, '']) {
     try {
       const r = await fetch(base + path + '?ts=' + Date.now(), { cache: 'no-store' });
@@ -73,16 +81,17 @@ async function fetchJSON(path, fallback) {
   return fallback;
 }
 
-async function loadData() {
+async function loadData(fresh) {
   const cache = JSON.parse(localStorage.getItem(KEY_CACHE) || '{}');
-  PRICES = await fetchJSON('data/prices.json', cache.prices || PRICES);
-  SIGNALS = await fetchJSON('data/signals.json', cache.signals || SIGNALS);
-  NEWS = await fetchJSON('data/news.json', cache.news || NEWS);
-  SCAND = await fetchJSON('data/scan_daily.json', cache.scand || SCAND);
-  SCANI = await fetchJSON('data/scan_intraday.json', cache.scani || SCANI);
-  FLOW = await fetchJSON('data/orderflow.json', cache.flow || FLOW);
-  READ = await fetchJSON('data/market_read.json', cache.read || READ);
-  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI, flow: FLOW, read: READ }));
+  PRICES = await fetchJSON('data/prices.json', cache.prices || PRICES, fresh);
+  SIGNALS = await fetchJSON('data/signals.json', cache.signals || SIGNALS, fresh);
+  NEWS = await fetchJSON('data/news.json', cache.news || NEWS, fresh);
+  SCAND = await fetchJSON('data/scan_daily.json', cache.scand || SCAND, fresh);
+  SCANI = await fetchJSON('data/scan_intraday.json', cache.scani || SCANI, fresh);
+  FLOW = await fetchJSON('data/orderflow.json', cache.flow || FLOW, fresh);
+  READ = await fetchJSON('data/market_read.json', cache.read || READ, fresh);
+  MARKET = await fetchJSON('data/market.json', cache.market || MARKET, fresh);
+  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI, flow: FLOW, read: READ, market: MARKET }));
   try {
     const r = await fetch(SECT_URL + '?ts=' + Date.now(), { cache: 'no-store' });
     if (r.ok) { SECT = await r.json(); localStorage.setItem(KEY_SECT, JSON.stringify(SECT)); }
@@ -151,6 +160,7 @@ function fmtDur(s) {
 let _cdFetchKey = null;
 function tickCountdown() {
   const el = $('nextUpdate'); if (!el) return;
+  if (typeof REFRESHING !== 'undefined' && REFRESHING) return;   // đang hiện % làm mới
   const n = nextUpdate();
   if (n.mode === 'stream') {
     el.innerHTML = '<span class="dot"></span>Dữ liệu mới sau ' + fmtDur(n.sec);
@@ -467,31 +477,90 @@ function renderRead() {
   $('readNote').textContent = r.note || '';
 }
 
-/* ---------- alerts ---------- */
-let alertDir = 'above';
-function checkAlerts() {
-  const bySym = {}; (PRICES.rows || []).forEach(r => bySym[r.sym] = r);
-  let fired = false;
-  ALERTS.forEach(a => {
-    if (a.fired) return;
-    const r = bySym[a.sym]; if (!r || r.price == null) return;
-    if ((a.dir === 'above' && r.price >= a.price) || (a.dir === 'below' && r.price <= a.price)) {
-      a.fired = true; a.firedAt = new Date().toISOString(); a.firedPrice = r.price; fired = true;
-    }
-  });
-  if (fired) saveAlerts();
+/* ---------- thị trường (heatmap · thanh khoản · mã tác động) ---------- */
+function heatColor(p, cf) {
+  if (cf === 1) return '#c026d3';                 // trần: tím
+  if (cf === -1) return '#38bdf8';                // sàn: xanh da trời
+  if (p == null) return 'var(--card)';
+  const a = Math.min(1, Math.abs(p) / 5);         // bão hòa dần tới ±5%
+  if (Math.abs(p) < 0.05) return 'rgba(227,179,65,.28)';  // tham chiếu: vàng
+  return p > 0 ? `rgba(43,213,118,${0.16 + 0.55 * a})` : `rgba(255,91,110,${0.16 + 0.55 * a})`;
 }
-function renderAlerts() {
-  const active = ALERTS.filter(a => !a.fired), log = ALERTS.filter(a => a.fired);
-  const fmtRow = a => `<div class="al ${a.fired ? 'fired' : ''}">
-    <div class="al-l"><b>${a.sym}</b><span>${a.dir === 'above' ? '≥' : '≤'} ${fmt(a.price)}${a.fired ? ` · chạm ${fmt(a.firedPrice)}` : ''}</span></div>
-    <button class="al-del" data-del="${a.id}">✕</button></div>`;
-  $('alertList').innerHTML = active.length ? active.map(fmtRow).join('') : '<p class="muted small">Chưa có cảnh báo nào.</p>';
-  $('alertLog').innerHTML = log.length ? log.map(fmtRow).join('') : '<p class="muted small">Chưa có cảnh báo kích hoạt.</p>';
-  // chấm đỏ trên tab Cảnh báo
-  const btn = document.querySelector('.tab-btn[data-tab="alerts"]');
-  btn.querySelector('.dot')?.remove();
-  if (log.length) { const d = document.createElement('span'); d.className = 'dot'; btn.appendChild(d); }
+function liqChartSVG(hist, intra, exch) {
+  const days = (hist && hist.days || []).slice(-20);
+  if (!days.length) return '<p class="muted small">Chưa có lịch sử thanh khoản.</p>';
+  const W = 520, H = 150, pb = 18, pt = 8;
+  const vals = days.map(d => d[exch] || 0);
+  const hi = Math.max(...vals, 1);
+  const bw = (W - 8) / days.length;
+  // ngày theo giờ VN (runner/UI có thể ở múi giờ khác)
+  const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Ho_Chi_Minh' }).format(new Date());
+  const bars = days.map((d, i) => {
+    const h = Math.max(2, (d[exch] || 0) / hi * (H - pt - pb));
+    const isToday = d.d === today;
+    return `<rect x="${(4 + i * bw).toFixed(1)}" y="${(H - pb - h).toFixed(1)}" width="${(bw * 0.72).toFixed(1)}" height="${h.toFixed(1)}"
+      rx="2" fill="${isToday ? 'var(--pos)' : 'rgba(74,163,255,.55)'}"/>`;
+  }).join('');
+  const lab = (i) => `<text x="${(4 + i * bw + bw * 0.36).toFixed(1)}" y="${H - 5}" font-size="9" fill="#7a8794" text-anchor="middle">${days[i].d.slice(5).replace('-', '/')}</text>`;
+  return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    ${bars}${lab(0)}${lab(days.length - 1)}
+    <text x="${W - 4}" y="${pt + 4}" font-size="10" fill="#7a8794" text-anchor="end">đỉnh ${fmt(Math.round(hi))} tỷ</text></svg>`;
+}
+function renderMarket() {
+  if (!$('mktHead')) return;
+  const M = MARKET || {};
+  const ex = (M.exchanges || {})[MKT_EXCH];
+  $('mktMeta').textContent = M.updated_at
+    ? (M.market_open ? 'trong phiên · ' : 'phiên gần nhất · ') + new Date(M.updated_at).toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' })
+    : '';
+  if (!ex) { $('mktHead').innerHTML = '<p class="muted small">Chưa có dữ liệu thị trường — chờ updater chạy (update_market.py).</p>'; $('mktLiq').innerHTML = ''; $('mktImpact').innerHTML = ''; $('mktHeat').innerHTML = ''; return; }
+  const idx = ex.index || {}, b = ex.breadth || {};
+  $('mktHead').innerHTML = `
+    <div class="mkt-idx">
+      <div><span class="muted small">${MKT_EXCH === 'HOSE' ? 'VN-Index' : MKT_EXCH === 'HNX' ? 'HNX-Index' : 'UPCOM-Index'}</span>
+        <b class="${cls(idx.pct)}">${fmt(idx.value)}</b> <span class="${cls(idx.pct)}">${arrow(idx.pct)} ${pct(idx.pct).replace('+','')}</span></div>
+      <div class="breadth-chips">
+        <span class="bc pos">▲ ${b.up ?? '—'}</span><span class="bc ref">■ ${b.flat ?? '—'}</span><span class="bc neg">▼ ${b.down ?? '—'}</span>
+        ${b.ceil ? `<span class="bc" style="color:#c026d3">CE ${b.ceil}</span>` : ''}${b.floor ? `<span class="bc" style="color:#38bdf8">FL ${b.floor}</span>` : ''}
+      </div>
+    </div>`;
+  // thanh khoản: tổng hôm nay + biểu đồ 20 phiên (top-30 mã/sàn) + đường trong phiên
+  const intra = (M.intraday && M.intraday.points || []);
+  let intraLine = '';
+  if (intra.length >= 2) {
+    const W = 520, H = 90, vals = intra.map(p => p[MKT_EXCH] || 0), hi = Math.max(...vals, 1);
+    const X = i => 4 + i / (intra.length - 1) * (W - 8), Y = v => 6 + (1 - v / hi) * (H - 24);
+    const d = vals.map((v, i) => (i ? 'L' : 'M') + X(i).toFixed(1) + ',' + Y(v).toFixed(1)).join('');
+    intraLine = `<div class="muted small" style="margin-top:6px">Lũy kế trong phiên hôm nay</div>
+      <svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none"><path d="${d}" fill="none" stroke="var(--pos)" stroke-width="2"/>
+      <text x="4" y="${H - 6}" font-size="9" fill="#7a8794">${intra[0].t}</text>
+      <text x="${W - 4}" y="${H - 6}" font-size="9" fill="#7a8794" text-anchor="end">${intra[intra.length - 1].t}</text></svg>`;
+  }
+  $('mktLiq').innerHTML = `
+    <div class="liq-now"><b>${fmt(Math.round(ex.total_ty))}</b> tỷ <span class="muted small">tổng GTGD khớp lệnh ${M.market_open ? 'đến lúc này' : 'phiên gần nhất'}</span></div>
+    ${liqChartSVG(M.hist, null, MKT_EXCH)}
+    <p class="muted small">Biểu đồ: GTGD/ngày của top ${(M.hist && M.hist.method || 'top30').replace('top','')} mã thanh khoản nhất sàn (cột xanh lá = hôm nay).</p>
+    ${intraLine}`;
+  // mã tác động
+  const imp = ex.impact || {};
+  const maxPts = Math.max(...[...(imp.up || []), ...(imp.down || [])].map(x => Math.abs(x.pts)), 0.01);
+  const impRow = (x, sign) => `
+    <div class="imp-row">
+      <span class="imp-sym">${x.s}</span>
+      <div class="imp-bar"><i style="width:${(Math.abs(x.pts) / maxPts * 100).toFixed(0)}%" class="${sign}"></i></div>
+      <span class="imp-pts ${sign}">${x.pts > 0 ? '+' : ''}${x.pts.toFixed(2)}</span>
+    </div>`;
+  $('mktImpact').innerHTML = `
+    <div class="imp-col"><div class="imp-head pos">Kéo lên</div>${(imp.up || []).map(x => impRow(x, 'pos')).join('') || '<p class="muted small">—</p>'}</div>
+    <div class="imp-col"><div class="imp-head neg">Đè xuống</div>${(imp.down || []).map(x => impRow(x, 'neg')).join('') || '<p class="muted small">—</p>'}</div>`;
+  // heatmap: ô to dần theo hạng GTGD
+  const heat = ex.heatmap || [];
+  $('mktHeat').innerHTML = heat.length ? heat.map((h, i) => {
+    const sz = i < 4 ? 'hx1' : i < 12 ? 'hx2' : 'hx3';
+    return `<div class="htile ${sz}" style="background:${heatColor(h.p, h.c)}" title="${h.s}: ${pct(h.p)} · ${fmt(h.v)} tỷ">
+      <b>${h.s}</b><span>${pct(h.p).replace('+','+')}</span>${i < 12 ? `<small>${fmt(Math.round(h.v))} tỷ</small>` : ''}
+    </div>`;
+  }).join('') : '<p class="muted small">Chưa có dữ liệu.</p>';
 }
 
 /* ---------- nav ---------- */
@@ -501,19 +570,91 @@ function switchTab(name) {
   window.scrollTo(0, 0);
 }
 
-function renderAll() { renderHeader(); renderBoard(); renderRead(); renderSignals(); renderNews(); renderScan(); renderSect(); renderFlow(); checkAlerts(); renderAlerts(); }
+function renderAll() { renderHeader(); renderBoard(); renderRead(); renderSignals(); renderNews(); renderScan(); renderSect(); renderFlow(); renderMarket(); }
+
+/* ---------- làm mới: ÉP máy chủ lấy dữ liệu ngay + loading % ----------
+   Bấm ⟳: (1) tải ngay bản mới nhất đang có; (2) nếu có GitHub token (ô “Sửa danh mục”,
+   quyền Actions R/W): gọi workflow_dispatch cho finpath-intraday.yml — máy chủ lấy dữ liệu
+   TẠI THỜI ĐIỂM ĐÓ; ước lượng thời gian từ 3 lần chạy gần nhất và hiện % tiến độ;
+   xong thì đọc dữ liệu mới qua contents API (né cache CDN). */
+const WF_API = `https://api.github.com/repos/${REPO}/actions/workflows/finpath-intraday.yml`;
+let REFRESHING = false;
+
+function setProgress(p, label) {
+  const bar = $('refbar'), fill = $('refbarFill'), nu = $('nextUpdate');
+  if (p == null) { if (bar) bar.hidden = true; return; }
+  bar.hidden = false; fill.style.width = Math.min(100, p).toFixed(0) + '%';
+  if (nu && label != null) nu.innerHTML = label;
+}
+
+async function estimateRunSecs(hd) {
+  try {
+    const r = await fetch(`${WF_API}/runs?status=success&per_page=3&ts=${Date.now()}`, { headers: hd, cache: 'no-store' });
+    if (!r.ok) return 150;
+    const runs = (await r.json()).workflow_runs || [];
+    const ds = runs.map(x => (new Date(x.updated_at) - new Date(x.run_started_at)) / 1000).filter(s => s > 20 && s < 1200);
+    return ds.length ? Math.round(ds.reduce((a, b) => a + b, 0) / ds.length) + 25 : 150; // +25s đệm hàng đợi/commit
+  } catch { return 150; }
+}
 
 async function refresh() {
-  const b = $('refreshBtn');
-  if (b.disabled) return;
-  b.disabled = true; b.classList.add('spin');
+  const btn = $('refreshBtn');
+  if (REFRESHING) return;
+  REFRESHING = true; btn.disabled = true; btn.classList.add('spin');
   try {
-    await loadData(); renderAll();
-    toast('✓ Đã làm mới lúc ' + new Date().toLocaleTimeString('vi-VN'));
+    await loadData(); renderAll();   // bước 1: bản mới nhất đang có (nhanh)
+    const tok = (localStorage.getItem(KEY_TOKEN) || '').trim();
+    if (!tok) {
+      toast('✓ Đã tải bản mới nhất. Muốn ÉP máy chủ lấy dữ liệu ngay lúc bấm: dán GitHub token (quyền Actions R/W) ở “Sửa danh mục”.', 4600);
+      return;
+    }
+    const hd = { Authorization: 'Bearer ' + tok, Accept: 'application/vnd.github+json' };
+    const clickedAt = Date.now();
+    const disp = await fetch(`${WF_API}/dispatches`, { method: 'POST', headers: hd, body: JSON.stringify({ ref: 'main' }) });
+    if (disp.status !== 204) {
+      toast(disp.status === 403 || disp.status === 404
+        ? '⚠ Token chưa có quyền Actions (Read & Write) — đã tải bản sẵn có. Sửa token rồi thử lại.'
+        : '⚠ Không gọi được máy chủ (HTTP ' + disp.status + ') — đã tải bản sẵn có.', 4600);
+      return;
+    }
+    const eta = await estimateRunSecs(hd);
+    let run = null, done = false;
+    const t0 = Date.now();
+    while ((Date.now() - t0) / 1000 < eta * 2.5) {
+      const el = (Date.now() - t0) / 1000;
+      const p = Math.min(97, el / eta * 100);
+      setProgress(p, `⏳ Máy chủ đang lấy dữ liệu… <b>${p.toFixed(0)}%</b> · còn ~${fmtDur(Math.max(5, eta - el))}`);
+      await new Promise(r => setTimeout(r, 5000));
+      try {
+        const rr = await fetch(`${WF_API}/runs?event=workflow_dispatch&per_page=1&ts=${Date.now()}`, { headers: hd, cache: 'no-store' });
+        if (rr.ok) {
+          const runs = (await rr.json()).workflow_runs || [];
+          if (runs.length && new Date(runs[0].created_at).getTime() >= clickedAt - 90000) {
+            run = runs[0];
+            if (run.status === 'completed') { done = true; break; }
+          }
+        }
+      } catch (e) { /* mạng chập chờn — vòng sau thử lại */ }
+    }
+    if (done && run.conclusion === 'success') {
+      setProgress(99, '⏳ Đang tải dữ liệu mới về máy…');
+      await new Promise(r => setTimeout(r, 3000));   // đệm cho commit data
+      await loadData(true); renderAll();
+      setProgress(100, '');
+      toast('✓ Dữ liệu MỚI (máy chủ lấy lúc ' + new Date().toLocaleTimeString('vi-VN') + ')');
+    } else if (done) {
+      toast('⚠ Máy chủ chạy lỗi (' + (run && run.conclusion) + ') — dùng bản sẵn có.', 4200);
+    } else {
+      await loadData(true); renderAll();
+      toast('⚠ Quá thời gian chờ máy chủ — đã tải bản mới nhất hiện có.', 4200);
+    }
   } catch (e) {
     toast('⚠ Không tải được dữ liệu — kiểm tra mạng');
+  } finally {
+    setProgress(null);
+    REFRESHING = false; btn.disabled = false; btn.classList.remove('spin');
+    tickCountdown();
   }
-  b.disabled = false; b.classList.remove('spin');
 }
 
 /* ---------- init ---------- */
@@ -551,24 +692,12 @@ async function init() {
   };
   $('watchReset').onclick = () => { $('watchInput').value = DEFAULT_WATCH.join(', '); };
 
-  // alerts
-  document.querySelectorAll('#alertSeg .seg-btn').forEach(b => b.onclick = () => {
-    alertDir = b.dataset.dir;
-    document.querySelectorAll('#alertSeg .seg-btn').forEach(x => x.classList.toggle('active', x === b));
+  // thị trường: nút chọn sàn
+  document.querySelectorAll('#mktSeg .seg-btn').forEach(b => b.onclick = () => {
+    MKT_EXCH = b.dataset.exch;
+    document.querySelectorAll('#mktSeg .seg-btn').forEach(x => x.classList.toggle('active', x === b));
+    renderMarket();
   });
-  $('alertForm').onsubmit = e => {
-    e.preventDefault();
-    const sym = $('alSym').value.trim().toUpperCase(), price = parseFloat($('alPrice').value);
-    if (!sym || !price) return;
-    ALERTS.push({ id: Date.now().toString(36), sym, price, dir: alertDir, fired: false });
-    saveAlerts(); $('alertForm').reset();
-    document.querySelector('#alertSeg .seg-btn').click();
-    checkAlerts(); renderAlerts();
-  };
-  $('alertList').onclick = $('alertLog').onclick = e => {
-    const del = e.target.closest('[data-del]'); if (!del) return;
-    ALERTS = ALERTS.filter(a => a.id !== del.dataset.del); saveAlerts(); renderAlerts();
-  };
 
   // đồng hồ đếm ngược tới lần cập nhật dữ liệu kế
   tickCountdown();

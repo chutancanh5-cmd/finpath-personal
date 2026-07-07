@@ -20,3 +20,4 @@ __pycache__/
 
 # editor
 .claude/
+updater/market_universe.json

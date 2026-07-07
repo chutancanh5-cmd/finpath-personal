@@ -40,6 +40,7 @@ jobs:
         working-directory: updater
         run: |
           python update_prices.py --light || true
+          python update_market.py || true
           python scan_intraday.py --discord || true
           python update_orderflow.py --discord || true
           python update_news.py || true
