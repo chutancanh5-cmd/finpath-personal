@@ -218,7 +218,10 @@ def fetch_index(symbol):
 
 def light_update():
     """Chi refresh gia/KL live qua 1 lan price_board, giu nguyen ten/spark/hist cu.
-    Dung trong phien (task 5 phut) -> nhe, khong tai lai lich su 16 lan."""
+    Dung trong phien (task 5 phut) -> nhe, khong tai lai lich su 16 lan.
+    Ma MOI duoc them vao watchlist (chua co dong trong prices.json cu) van duoc
+    them dong ngay (kem spark/hist rieng cho so it ma nay) -- khong phai cho den
+    lan chay full (1 lan/ngay) moi xuat hien."""
     import universe
     syms = read_watchlist()
     try:
@@ -229,6 +232,34 @@ def light_update():
         log("light: chua co prices.json -> chay full")
         return False
     snap = universe.price_board_snapshot(syms)
+
+    have = {r["sym"] for r in old["rows"]}
+    missing = [s for s in syms if s not in have]
+    if missing:
+        log(f"light: {len(missing)} ma moi trong watchlist ({','.join(missing)}) -> them dong")
+        names = company_names(missing)
+        new_rows = []
+        for s in missing:
+            d = snap.get(s)
+            if not d or not d.get("price"):
+                log(f"  {s}: chua co gia tu price_board, se thu lai lan sau")
+                continue
+            price, ref = round(d["price"]), (round(d["ref"]) if d.get("ref") else round(d["price"]))
+            row = {"sym": s, "name": names.get(s, d.get("name", "")),
+                   "price": price, "ref": ref,
+                   "change": price - ref, "pct": round((price - ref) / ref * 100, 2) if ref else None,
+                   "vol": int(d.get("acc_vol") or 0),
+                   "ceil": round(d["ceil"]) if d.get("ceil") else None,
+                   "floor": round(d["floor"]) if d.get("floor") else None,
+                   "high": round(d["high"]) if d.get("high") else None,
+                   "low": round(d["low"]) if d.get("low") else None,
+                   "fb": int(d.get("fbv") or 0), "fs": int(d.get("fsv") or 0),
+                   "spark": [], "hist": []}
+            old["rows"].append(row)
+            new_rows.append(row)
+        if new_rows:
+            add_sparklines(new_rows)   # chi fetch lich su cho so it ma moi -> van nhe
+
     for r in old["rows"]:
         d = snap.get(r["sym"])
         if not d or not d.get("price"):
