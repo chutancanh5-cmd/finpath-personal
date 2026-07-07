@@ -2,13 +2,13 @@
   "_opus": true,
   "date": "2026-07-07",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế vĩ mô Việt Nam tiếp tục ghi nhận tín hiệu tích cực với tăng trưởng GRDP khả quan ở nhiều địa phương và dòng vốn FDI mạnh vào lĩnh vực bán dẫn, đặc biệt dự án nhà máy đế mạch 1 tỷ USD tại Hải Phòng. Xuất khẩu duy trì đà tăng, riêng thị trường Nga tăng vọt 185%, hỗ trợ nhóm cổ phiếu xuất khẩu và khu công nghiệp phía Bắc. Trên thị trường chứng khoán, giới phân tích (Vietcap, MASVN) lạc quan về khả năng VN-Index quay lại đỉnh cũ và dòng tiền tập trung vào một số nhóm ngành chủ lực, cùng kỳ vọng lợi nhuận quý 2 tăng mạnh ở nhiều doanh nghiệp. Tuy nhiên, khối ngoại bán ròng đột biến hơn 2.800 tỷ đồng trong phiên gần nhất là rủi ro ngắn hạn cần theo dõi, có thể tạo áp lực điều chỉnh cục bộ. Nhìn chung bức tranh nghiêng về tích cực nhờ nền tảng vĩ mô vững và kỳ vọng KQKD, song cần thận trọng với biến động dòng vốn ngoại.",
+  "summary_vi": "Bức tranh vĩ mô tiếp tục tích cực khi Chính phủ thúc đẩy mục tiêu tăng trưởng 2 con số, kinh tế-xã hội 6 tháng duy trì đà tăng tốt và dòng vốn FDI công nghệ cao (dự án bán dẫn 1 tỷ USD tại Hải Phòng) củng cố triển vọng dài hạn. Vietcap kỳ vọng VN-Index có cơ hội trở lại đỉnh cũ, cùng dự báo lợi nhuận quý 2 khả quan của nhiều doanh nghiệp niêm yết, là động lực hỗ trợ dòng tiền ngắn hạn. Tuy nhiên vẫn có điểm gợn: PNJ giảm sàn và bị hạ dự phóng lợi nhuận 2026 cho thấy rủi ro phân hóa ở một số cổ phiếu/ngành cụ thể. Nhìn chung xu hướng thị trường vẫn nghiêng về tích cực nhưng nhà đầu tư cần chọn lọc cổ phiếu theo kết quả kinh doanh quý 2 thay vì mua đuổi toàn thị trường.",
   "top": [
-    {"title": "Vietcap dự báo VN-Index trở lại đỉnh cũ, gọi tên 4 cổ phiếu tiềm năng", "impact": "↑", "note": "Công ty chứng khoán lớn lạc quan về xu hướng thị trường, củng cố niềm tin nhà đầu tư"},
-    {"title": "Đầu tư nhà máy sản xuất đế mạch bán dẫn 1 tỷ USD ở Hải Phòng", "impact": "↑", "note": "Dòng vốn FDI công nghệ cao lớn hỗ trợ cổ phiếu khu công nghiệp, bán dẫn miền Bắc"},
-    {"title": "Phiên 6/7: Khối ngoại bán ròng đột biến hơn 2.800 tỷ đồng", "impact": "↓", "note": "Áp lực bán mạnh từ khối ngoại có thể gây rung lắc ngắn hạn cho VN-Index"},
-    {"title": "Kinh tế-xã hội duy trì đà tăng trưởng tích cực trên hầu hết lĩnh vực", "impact": "↑", "note": "Nền tảng vĩ mô ổn định củng cố kỳ vọng lợi nhuận doanh nghiệp"},
-    {"title": "Dự báo lợi nhuận quý 2 của 57 doanh nghiệp hot, có tên tăng trên 700%", "impact": "↑", "note": "Kỳ vọng KQKD quý 2 tích cực là động lực tăng giá cho nhóm cổ phiếu liên quan"},
-    {"title": "Chủ tịch UBCKNN: Thị trường chứng khoán Việt Nam tăng trưởng ổn định", "impact": "→", "note": "Phát ngôn khẳng định ổn định vĩ mô, tác động trung tính trong ngắn hạn"}
+    {"title": "Vietcap dự báo VN-Index trở lại đỉnh cũ, gọi tên 4 cổ phiếu tiềm năng", "impact": "↑", "note": "Khuyến nghị từ công ty chứng khoán lớn có thể kích hoạt dòng tiền vào nhóm cổ phiếu được chọn"},
+    {"title": "Dự báo lợi nhuận quý 2 của 57 doanh nghiệp, có tên tăng trên 700%", "impact": "↑", "note": "Kỳ vọng KQKD quý 2 tích cực là chất xúc tác hỗ trợ định giá nhóm cổ phiếu liên quan"},
+    {"title": "Đầu tư nhà máy sản xuất đế mạch bán dẫn 1 tỷ USD ở Hải Phòng", "impact": "↑", "note": "Vốn FDI công nghệ cao củng cố triển vọng tăng trưởng dài hạn và nhóm cổ phiếu KCN, bán dẫn"},
+    {"title": "Kinh tế-xã hội duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực", "impact": "↑", "note": "Nền vĩ mô ổn định là cơ sở hỗ trợ mặt bằng định giá chung của thị trường"},
+    {"title": "PNJ tiếp tục giảm sàn, bị hạ dự phóng lợi nhuận cả năm 2026", "impact": "↓", "note": "Rủi ro riêng lẻ khiến tâm lý thận trọng lan sang nhóm cổ phiếu bán lẻ, trang sức"},
+    {"title": "Ông Trump lên tiếng, Bitcoin phục hồi lên gần 63.500 USD", "impact": "→", "note": "Tác động chủ yếu tới tâm lý tài sản số toàn cầu, ảnh hưởng gián tiếp và hạn chế tới TTCK Việt Nam"}
   ]
 }
