@@ -1,6 +1,6 @@
 /* Service worker: data network-first; app shell stale-while-revalidate
    (tra ban cache ngay cho nhanh, tai ban moi ngam -> lan mo sau la ban moi). */
-const CACHE = 'finpath-v9';
+const CACHE = 'finpath-v10';
 const SHELL = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', e => {

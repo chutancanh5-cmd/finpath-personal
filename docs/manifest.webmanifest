@@ -1,7 +1,7 @@
 {
-  "name": "FinPath cá nhân",
-  "short_name": "FinPath",
-  "description": "Bảng giá · khuyến nghị · tin AI · cảnh báo cho cổ phiếu VN",
+  "name": "Prime Finance",
+  "short_name": "Prime Finance",
+  "description": "Bảng giá · khuyến nghị PrimeTrade · tin AI · dòng tiền cho cổ phiếu VN",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

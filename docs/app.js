@@ -117,6 +117,52 @@ function marketHoursVN() {
   return (t >= 540 && t <= 690) || (t >= 780 && t <= 900);
 }
 
+/* ---------- đồng hồ đếm ngược tới lần cập nhật dữ liệu kế ---------- */
+function vnParts(d = new Date()) {
+  const p = new Intl.DateTimeFormat('en-GB', { timeZone: 'Asia/Ho_Chi_Minh', weekday: 'short', hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false }).formatToParts(d);
+  const g = t => p.find(x => x.type === t).value;
+  return { wd: g('weekday'), h: +g('hour'), m: +g('minute'), s: +g('second') };
+}
+// pipeline cloud: trong phiên refresh ~mỗi 5' (09:00–11:30 & 13:00–15:00), tổng kết ~15:10, T2–T6
+function nextUpdate() {
+  const { wd, h, m, s } = vnParts();
+  const sec = h * 3600 + m * 60 + s;
+  const weekday = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'].includes(wd);
+  const OPEN = 540 * 60, MEND = 690 * 60, AOPEN = 780 * 60, AEND = 900 * 60, DAILY = 910 * 60; // 09:00 11:30 13:00 15:00 15:10
+  const streaming = weekday && ((sec >= OPEN && sec < MEND) || (sec >= AOPEN && sec < AEND));
+  if (streaming) {
+    const sessionEnd = sec < MEND ? MEND : AEND;
+    const boundary = Math.min(Math.ceil((sec + 1) / 300) * 300, sessionEnd);
+    return { sec: boundary - sec, mode: 'stream' };
+  }
+  if (weekday && sec < OPEN) return { sec: OPEN - sec, mode: 'at', label: '09:00' };
+  if (weekday && sec >= MEND && sec < AOPEN) return { sec: AOPEN - sec, mode: 'at', label: '13:00 (phiên chiều)' };
+  if (weekday && sec >= AEND && sec < DAILY) return { sec: DAILY - sec, mode: 'at', label: '15:10 (tổng kết)' };
+  // sau tổng kết hoặc cuối tuần -> phiên kế
+  const order = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'], i = order.indexOf(wd);
+  let days = 1; for (let k = 1; k <= 3; k++) { if ((i + k) % 7 < 5) { days = k; break; } }
+  const secUntil = (86400 - sec) + (days - 1) * 86400 + OPEN;
+  return { sec: secUntil, mode: 'at', label: days === 1 ? '09:00 ngày mai' : '09:00 T2' };
+}
+function fmtDur(s) {
+  if (s >= 3600) { const h = Math.floor(s / 3600), m = Math.round((s % 3600) / 60); return h + 'h' + (m ? ' ' + m + '′' : ''); }
+  const mm = Math.floor(s / 60), ss = Math.floor(s % 60); return mm + ':' + String(ss).padStart(2, '0');
+}
+let _cdFetchKey = null;
+function tickCountdown() {
+  const el = $('nextUpdate'); if (!el) return;
+  const n = nextUpdate();
+  if (n.mode === 'stream') {
+    el.innerHTML = '<span class="dot"></span>Dữ liệu mới sau ' + fmtDur(n.sec);
+    if (n.sec <= 1) { // chạm mốc 5' -> kéo dữ liệu mới (1 lần / mốc)
+      const key = Math.floor(Date.now() / 300000);
+      if (_cdFetchKey !== key) { _cdFetchKey = key; loadData().then(renderAll).catch(() => {}); }
+    }
+  } else {
+    el.innerHTML = '<span class="dot idle"></span>Cập nhật kế: ' + n.label;
+  }
+}
+
 /* ---------- modal chart ---------- */
 function lineChartSVG(data) {
   if (!data || data.length < 2) return '<p class="muted small">Chưa có dữ liệu lịch sử. Chạy update_prices.py (full).</p>';
@@ -523,6 +569,10 @@ async function init() {
     const del = e.target.closest('[data-del]'); if (!del) return;
     ALERTS = ALERTS.filter(a => a.id !== del.dataset.del); saveAlerts(); renderAlerts();
   };
+
+  // đồng hồ đếm ngược tới lần cập nhật dữ liệu kế
+  tickCountdown();
+  setInterval(tickCountdown, 1000);
 
   // tự động làm mới khi mở app: kéo dữ liệu mới mỗi 60s + ngay khi quay lại app
   setInterval(async () => {
