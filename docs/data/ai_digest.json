@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-08",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng vốn FDI tiếp tục đổ mạnh vào Hải Phòng, nổi bật là dự án bán dẫn 1 tỷ USD, cho thấy Việt Nam vẫn hấp dẫn trong chuỗi cung ứng công nghệ toàn cầu và hỗ trợ nhóm bất động sản khu công nghiệp, logistics. Thủ tướng thúc đẩy mạnh mục tiêu tăng trưởng 2 con số, cùng khối ngoại đảo chiều mua ròng trên HOSE, củng cố kỳ vọng dòng tiền quay lại thị trường trong ngắn hạn. Tuy vậy vẫn có điểm gợn: PNJ bị hạ tỷ lệ margin và mất mốc giá quan trọng, quỹ vàng lớn bán ròng cho thấy tâm lý phòng thủ ở một số tài sản, còn Đà Nẵng chưa đạt tăng trưởng như kỳ vọng phản ánh sự phân hóa vùng miền. Nhóm cổ phiếu hưởng lợi từ FDI, khu công nghiệp, bán dẫn, công nghệ và kinh tế tư nhân có thể tiếp tục thu hút dòng tiền, trong khi nhà đầu tư cần thận trọng với mã bị siết margin hoặc chịu áp lực chốt lời ngắn hạn.",
+  "date": "2026-07-09",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Khối ngoại quay đầu bán ròng gần 600 tỷ đồng phiên 8/7 và quỹ tỷ USD của Dragon Capital chịu áp lực rút vốn, tạo rủi ro cung cổ phiếu bluechip trong ngắn hạn. Bù lại, dòng vốn FDI vẫn tích cực với hơn 3 tỷ USD đổ vào Hải Phòng và TP.HCM chuẩn bị khởi công loạt dự án hạ tầng khoảng 10 tỷ USD, củng cố kỳ vọng tăng trưởng '2 con số' theo chỉ đạo của Thủ tướng. Hải Phát Invest tất toán thành công lô trái phiếu 500 tỷ đồng giúp giảm bớt lo ngại về rủi ro nợ nhóm bất động sản. Agriseco chỉ ra 4 nhóm ngành có tiềm năng tăng trưởng lợi nhuận cao quý 2/2026, hỗ trợ dòng tiền chọn lọc theo nhóm ngành. Nhìn chung thị trường cân bằng giữa nền tảng vĩ mô/FDI tích cực và áp lực bán ròng khối ngoại, nhà đầu tư nên thận trọng theo dõi dòng vốn ngoại trước khi giải ngân mạnh.",
   "top": [
-    {"title": "Hơn 3 tỷ USD vốn FDI rót vào Hải Phòng", "impact": "↑", "note": "Dòng vốn ngoại lớn hỗ trợ nhóm bất động sản khu công nghiệp và logistics"},
-    {"title": "Đầu tư nhà máy sản xuất đế mạch bán dẫn 1 tỷ USD ở Hải Phòng", "impact": "↑", "note": "Củng cố vị thế Việt Nam trong chuỗi cung ứng bán dẫn, lợi cho nhóm công nghệ và KCN"},
-    {"title": "Khối ngoại đảo chiều mua ròng phiên 7/7", "impact": "↑", "note": "Dòng tiền ngoại quay lại là tín hiệu tích cực ngắn hạn cho tâm lý thị trường"},
-    {"title": "Thủ tướng yêu cầu cụ thể hóa thi đua tăng trưởng 2 con số", "impact": "↑", "note": "Áp lực chính sách thúc đẩy tăng trưởng có thể kéo theo giải ngân đầu tư công và hỗ trợ doanh nghiệp"},
-    {"title": "Công ty chứng khoán hạ tỷ lệ margin cổ phiếu PNJ", "impact": "↓", "note": "Siết margin làm giảm sức mua và tăng áp lực bán với cổ phiếu PNJ"},
-    {"title": "Quỹ khổng lồ bán gần 3 tạ vàng trong 1 đêm", "impact": "↓", "note": "Áp lực bán vàng lớn phản ánh tâm lý phòng thủ, có thể kéo dòng tiền khỏi kênh trú ẩn an toàn"}
+    {"title": "Quỹ ngoại Dragon Capital chịu áp lực rút vốn, có thể bán bớt cổ phiếu Việt Nam", "impact": "↓", "note": "Nguy cơ áp lực bán từ quỹ ngoại lớn tạo cung ngắn hạn cho nhóm bluechip"},
+    {"title": "Khối ngoại bán ròng gần 600 tỷ đồng phiên 8/7, 5 bluechip chịu áp lực rút vốn", "impact": "↓", "note": "Dòng tiền ngoại đảo chiều gây tâm lý thận trọng cho nhóm vốn hóa lớn"},
+    {"title": "Hơn 3 tỷ USD vốn FDI rót vào Hải Phòng", "impact": "↑", "note": "Vốn FDI mạnh củng cố triển vọng tăng trưởng và nhóm khu công nghiệp, logistics"},
+    {"title": "TP.HCM chuẩn bị khởi công loạt dự án khoảng 10 tỷ USD", "impact": "↑", "note": "Đầu tư hạ tầng quy mô lớn hỗ trợ nhóm xây dựng, vật liệu, bất động sản"},
+    {"title": "Agriseco gọi tên 4 nhóm ngành tiềm năng tăng trưởng lợi nhuận quý 2/2026", "impact": "↑", "note": "Định hướng dòng tiền chọn lọc vào nhóm ngành có triển vọng lợi nhuận tốt"},
+    {"title": "Hải Phát Invest tất toán lô trái phiếu 500 tỷ đồng", "impact": "↑", "note": "Giảm rủi ro nợ trái phiếu, tích cực cho tâm lý nhóm cổ phiếu bất động sản"}
   ]
 }
