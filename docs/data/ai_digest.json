@@ -2,13 +2,13 @@
   "_opus": true,
   "date": "2026-07-08",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng vốn FDI tiếp tục đổ mạnh vào Hải Phòng (hơn 3 tỷ USD, gồm dự án bán dẫn 1 tỷ USD) cho thấy niềm tin nhà đầu tư nước ngoài vào tăng trưởng công nghiệp Việt Nam vẫn vững, hỗ trợ nhóm bất động sản khu công nghiệp và logistics. Chính phủ tiếp tục thúc đẩy mục tiêu tăng trưởng '2 con số', tạo kỳ vọng chính sách hỗ trợ tăng trưởng trong nửa cuối năm. Khối ngoại đảo chiều mua ròng trên HOSE và Dragon Capital chỉ ra một số cổ phiếu đang bị định giá thấp là tín hiệu tích cực ngắn hạn cho dòng tiền vào thị trường. Tuy nhiên rủi ro cục bộ vẫn hiện hữu khi PNJ bị hạ tỷ lệ margin và mất mốc quan trọng trên sàn, cùng tâm lý thận trọng khi giới phân tích còn phân hóa quan điểm về diễn biến thị trường tháng 7.",
+  "summary_vi": "Dòng vốn FDI tiếp tục đổ mạnh vào Hải Phòng, đặc biệt là dự án bán dẫn 1 tỷ USD, cho thấy Việt Nam vẫn hấp dẫn trong chuỗi cung ứng công nghệ toàn cầu. Thủ tướng thúc đẩy mục tiêu tăng trưởng 2 con số và khối ngoại đảo chiều mua ròng trên HOSE củng cố kỳ vọng dòng tiền quay lại thị trường trong ngắn hạn. Tuy nhiên vẫn còn điểm gợn cục bộ như PNJ bị hạ tỷ lệ margin và mất mốc giá quan trọng, cùng việc một số địa phương như Đà Nẵng chưa đạt tăng trưởng như kỳ vọng, phản ánh sự phân hóa giữa các ngành và khu vực. Nhìn chung nhóm cổ phiếu FDI, khu công nghiệp, bán dẫn và công nghệ được hưởng lợi, trong khi nhà đầu tư cần thận trọng với các mã bị siết margin hoặc chịu áp lực chốt lời ngắn hạn.",
   "top": [
-    {"title": "Hơn 3 tỷ USD vốn FDI rót vào Hải Phòng", "impact": "↑", "note": "Dòng vốn ngoại lớn củng cố triển vọng nhóm bất động sản khu công nghiệp, logistics"},
-    {"title": "Dự án bán dẫn 1 tỷ USD tại Hải Phòng", "impact": "↑", "note": "Thúc đẩy kỳ vọng cho nhóm cổ phiếu công nghệ, bán dẫn, khu công nghiệp"},
-    {"title": "Khối ngoại đảo chiều mua ròng trên HOSE", "impact": "↑", "note": "Dòng tiền ngoại quay lại hỗ trợ thanh khoản và tâm lý thị trường"},
-    {"title": "Dragon Capital chỉ ra cổ phiếu bị định giá thấp", "impact": "↑", "note": "Gợi ý cơ hội định giá hấp dẫn, có thể thu hút dòng tiền bắt đáy"},
-    {"title": "Công ty chứng khoán hạ tỷ lệ margin cổ phiếu PNJ", "impact": "↓", "note": "Giảm đòn bẩy tài chính có thể gây áp lực bán và giảm thanh khoản cổ phiếu PNJ"},
-    {"title": "Ba kịch bản cho chứng khoán Việt Nam trong tháng 7", "impact": "→", "note": "Giới phân tích còn phân hóa quan điểm, thị trường chờ tín hiệu rõ ràng hơn"}
+    {"title": "Hơn 3 tỷ USD vốn FDI rót vào Hải Phòng", "impact": "↑", "note": "Dòng vốn ngoại lớn hỗ trợ nhóm bất động sản khu công nghiệp và logistics"},
+    {"title": "Đầu tư nhà máy sản xuất đế mạch bán dẫn 1 tỷ USD ở Hải Phòng", "impact": "↑", "note": "Củng cố vị thế Việt Nam trong chuỗi cung ứng bán dẫn, lợi cho nhóm công nghệ và KCN"},
+    {"title": "Khối ngoại đảo chiều mua ròng phiên 7/7", "impact": "↑", "note": "Dòng tiền ngoại quay lại là tín hiệu tích cực ngắn hạn cho tâm lý thị trường"},
+    {"title": "Thủ tướng yêu cầu cụ thể hóa thi đua tăng trưởng 2 con số", "impact": "↑", "note": "Áp lực chính sách thúc đẩy tăng trưởng có thể kéo theo giải ngân đầu tư công và hỗ trợ doanh nghiệp"},
+    {"title": "Công ty chứng khoán hạ tỷ lệ margin cổ phiếu PNJ", "impact": "↓", "note": "Siết margin làm giảm sức mua và tăng áp lực bán với cổ phiếu PNJ"},
+    {"title": "Ba kịch bản cho chứng khoán Việt Nam trong tháng 7", "impact": "→", "note": "Thị trường đang trong trạng thái chờ, chưa có xu hướng rõ ràng"}
   ]
 }
