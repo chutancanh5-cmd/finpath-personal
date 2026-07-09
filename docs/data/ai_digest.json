@@ -1,38 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng vốn FDI tiếp tục đổ mạnh vào Việt Nam với dự án 1 tỷ USD của tập đoàn Hàn Quốc tại Hải Phòng cùng hơn 3 tỷ USD vốn FDI mới, song song loạt dự án đầu tư công khoảng 10 tỷ USD sắp khởi công tại TP.HCM, củng cố kỳ vọng tăng trưởng kinh tế nửa cuối năm. Kết quả kinh doanh quý 2 khả quan, tiêu biểu là cổ phiếu lọc dầu báo lãi tăng 384%, cùng việc quỹ ngoại Dragon Capital hoàn tất mua lại cổ phiếu cho thấy tín hiệu tích cực về dòng tiền và niềm tin nhà đầu tư. Tuy nhiên, hiện tượng một số cổ phiếu nhỏ tăng nóng bất thường và động thái xả bạc của quỹ kim loại quý toàn cầu là những rủi ro đầu cơ, biến động ngắn hạn cần theo dõi. Nhìn chung nền tảng vĩ mô (FDI, đầu tư công, lợi nhuận doanh nghiệp) hỗ trợ xu hướng tích cực cho TTCK Việt Nam, dù nhà đầu tư nên thận trọng với các mã tăng nóng thiếu nền tảng cơ bản.",
+  "summary_vi": "Dòng vốn FDI tiếp tục đổ mạnh vào Việt Nam với dự án 1 tỷ USD của Hàn Quốc tại thành phố cảng lớn nhất cả nước và loạt dự án khoảng 10 tỷ USD sắp khởi công tại TP.HCM, cho thấy đầu tư công và vốn ngoại vẫn là động lực tăng trưởng chính. Kết quả kinh doanh quý 2 khả quan (cổ phiếu lọc dầu lãi tăng 384%) cùng thống kê mùa vụ tháng 7 tích cực củng cố kỳ vọng ngắn hạn cho VN-Index. Tuy nhiên rủi ro đến từ áp lực bán ròng của khối ngoại (gần 500 tỷ đồng phiên gần nhất) và việc rút vốn khỏi Fubon ETF dù hiệu suất tốt nhất, cho thấy tâm lý thận trọng của dòng tiền ngoại. Nhìn chung nền tảng vĩ mô và câu chuyện đầu tư dài hạn vẫn tích cực, nhưng nhà đầu tư nên theo dõi sát diễn biến khối ngoại trong ngắn hạn.",
   "top": [
-    {
-      "title": "Tập đoàn Hàn Quốc rót 1 tỷ USD xây nhà máy tại Hải Phòng",
-      "impact": "↑",
-      "note": "FDI quy mô lớn củng cố niềm tin vào môi trường đầu tư và nhóm cổ phiếu khu công nghiệp, logistics"
-    },
-    {
-      "title": "Hơn 3 tỷ USD vốn FDI vừa 'rót' vào Hải Phòng",
-      "impact": "↑",
-      "note": "Dòng vốn ngoại mạnh hỗ trợ tăng trưởng công nghiệp và nhóm cổ phiếu bất động sản khu công nghiệp"
-    },
-    {
-      "title": "TP.HCM chuẩn bị khởi công tiếp loạt dự án khoảng 10 tỷ USD",
-      "impact": "↑",
-      "note": "Đầu tư công quy mô lớn thúc đẩy nhóm cổ phiếu xây dựng, vật liệu, hạ tầng"
-    },
-    {
-      "title": "Báo lãi quý 2 tăng 384%, cổ phiếu lọc dầu 3 tỷ USD tăng vọt",
-      "impact": "↑",
-      "note": "Kết quả kinh doanh vượt trội hỗ trợ định giá nhóm dầu khí, năng lượng"
-    },
-    {
-      "title": "Quỹ ngoại tỷ USD do Dragon Capital hoàn tất chương trình mua lại cổ phiếu",
-      "impact": "↑",
-      "note": "Tín hiệu tích cực về dòng vốn ngoại và niềm tin vào thị trường Việt Nam"
-    },
-    {
-      "title": "Quỹ vàng lớn nhất thế giới có động thái lạ, IShare Silver Trust xả hơn chục tấn bạc",
-      "impact": "↓",
-      "note": "Động thái bất thường của quỹ kim loại quý phản ánh tâm lý thận trọng toàn cầu, có thể ảnh hưởng dòng vốn và tỷ giá"
-    }
+    {"title": "Hàn Quốc rót 1 tỷ USD xây nhà máy lớn tại thành phố cảng lớn nhất Việt Nam", "impact": "↑", "note": "FDI quy mô lớn củng cố niềm tin vào môi trường đầu tư Việt Nam"},
+    {"title": "TP.HCM chuẩn bị khởi công loạt dự án khoảng 10 tỷ USD", "impact": "↑", "note": "Đầu tư công quy mô lớn hỗ trợ nhóm cổ phiếu xây dựng, vật liệu, bất động sản"},
+    {"title": "Báo lãi quý 2 tăng 384%, cổ phiếu lọc dầu tăng vọt", "impact": "↑", "note": "KQKD vượt trội tạo hiệu ứng tích cực lan tỏa mùa báo cáo quý 2"},
+    {"title": "Thống kê từ 2011: tín hiệu tích cực cho chứng khoán tháng 7", "impact": "↑", "note": "Yếu tố mùa vụ lịch sử ủng hộ xu hướng tăng ngắn hạn của VN-Index"},
+    {"title": "Khối ngoại bán ròng gần 500 tỷ đồng phiên 9/7", "impact": "↓", "note": "Áp lực bán ròng liên tục gây rủi ro cho đà tăng của thị trường"},
+    {"title": "Fubon ETF hiệu suất tốt nhất nhưng bị rút vốn mạnh nhất", "impact": "↓", "note": "Dòng vốn ngoại qua ETF suy yếu dù hiệu suất đầu tư tích cực"}
   ]
 }
