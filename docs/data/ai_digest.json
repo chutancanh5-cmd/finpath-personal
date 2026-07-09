@@ -2,13 +2,37 @@
   "_opus": true,
   "date": "2026-07-09",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Khối ngoại quay đầu bán ròng gần 600 tỷ đồng phiên 8/7 và quỹ tỷ USD của Dragon Capital chịu áp lực rút vốn, tạo rủi ro cung cổ phiếu bluechip trong ngắn hạn. Bù lại, dòng vốn FDI vẫn tích cực với hơn 3 tỷ USD đổ vào Hải Phòng và TP.HCM chuẩn bị khởi công loạt dự án hạ tầng khoảng 10 tỷ USD, củng cố kỳ vọng tăng trưởng '2 con số' theo chỉ đạo của Thủ tướng. Hải Phát Invest tất toán thành công lô trái phiếu 500 tỷ đồng giúp giảm bớt lo ngại về rủi ro nợ nhóm bất động sản. Agriseco chỉ ra 4 nhóm ngành có tiềm năng tăng trưởng lợi nhuận cao quý 2/2026, hỗ trợ dòng tiền chọn lọc theo nhóm ngành. Nhìn chung thị trường cân bằng giữa nền tảng vĩ mô/FDI tích cực và áp lực bán ròng khối ngoại, nhà đầu tư nên thận trọng theo dõi dòng vốn ngoại trước khi giải ngân mạnh.",
+  "summary_vi": "Khối ngoại quay đầu bán ròng gần 600 tỷ đồng phiên 8/7 và quỹ tỷ USD do Dragon Capital quản lý chịu áp lực rút vốn, tạo rủi ro cung cổ phiếu bluechip ngắn hạn. Ngược lại, dòng vốn FDI hơn 3 tỷ USD đổ vào Hải Phòng, loạt dự án khoảng 10 tỷ USD chuẩn bị khởi công tại TP.HCM và chỉ đạo thúc đẩy tăng trưởng '2 con số' của Thủ tướng cho thấy nền tảng vĩ mô và đầu tư công vẫn tích cực. Agriseco chỉ ra một số nhóm ngành có tiềm năng lợi nhuận quý 2/2026 cao, mở cơ hội giải ngân chọn lọc. Nhìn chung thị trường có thể giằng co trong ngắn hạn do áp lực bán ròng khối ngoại, trong khi câu chuyện tăng trưởng và FDI vẫn hỗ trợ triển vọng trung-dài hạn.",
   "top": [
-    {"title": "Quỹ ngoại Dragon Capital chịu áp lực rút vốn, có thể bán bớt cổ phiếu Việt Nam", "impact": "↓", "note": "Nguy cơ áp lực bán từ quỹ ngoại lớn tạo cung ngắn hạn cho nhóm bluechip"},
-    {"title": "Khối ngoại bán ròng gần 600 tỷ đồng phiên 8/7, 5 bluechip chịu áp lực rút vốn", "impact": "↓", "note": "Dòng tiền ngoại đảo chiều gây tâm lý thận trọng cho nhóm vốn hóa lớn"},
-    {"title": "Hơn 3 tỷ USD vốn FDI rót vào Hải Phòng", "impact": "↑", "note": "Vốn FDI mạnh củng cố triển vọng tăng trưởng và nhóm khu công nghiệp, logistics"},
-    {"title": "TP.HCM chuẩn bị khởi công loạt dự án khoảng 10 tỷ USD", "impact": "↑", "note": "Đầu tư hạ tầng quy mô lớn hỗ trợ nhóm xây dựng, vật liệu, bất động sản"},
-    {"title": "Agriseco gọi tên 4 nhóm ngành tiềm năng tăng trưởng lợi nhuận quý 2/2026", "impact": "↑", "note": "Định hướng dòng tiền chọn lọc vào nhóm ngành có triển vọng lợi nhuận tốt"},
-    {"title": "Hải Phát Invest tất toán lô trái phiếu 500 tỷ đồng", "impact": "↑", "note": "Giảm rủi ro nợ trái phiếu, tích cực cho tâm lý nhóm cổ phiếu bất động sản"}
+    {
+      "title": "Quỹ ngoại tỷ USD do Dragon Capital quản lý chịu áp lực rút vốn, có thể phải bán bớt cổ phiếu Việt Nam",
+      "impact": "↓",
+      "note": "Nguy cơ bán ròng quy mô lớn từ quỹ ngoại gây áp lực cung cổ phiếu bluechip"
+    },
+    {
+      "title": "Phiên 8/7: Khối ngoại \"quay đầu\" bán ròng gần 600 tỷ đồng, 5 cổ phiếu bluechips chịu áp lực rút vốn",
+      "impact": "↓",
+      "note": "Dòng vốn ngoại đảo chiều bán ròng làm tăng biến động ngắn hạn của nhóm vốn hóa lớn"
+    },
+    {
+      "title": "Agriseco gọi tên 4 nhóm ngành có tiềm năng tăng trưởng lợi nhuận cao trong quý 2/2026",
+      "impact": "↑",
+      "note": "Kỳ vọng lợi nhuận quý 2 tích cực mở cơ hội giải ngân chọn lọc theo ngành"
+    },
+    {
+      "title": "Hơn 3 tỷ USD vốn FDI vừa 'rót' vào Hải Phòng",
+      "impact": "↑",
+      "note": "Dòng vốn FDI lớn củng cố triển vọng tăng trưởng công nghiệp và bất động sản khu công nghiệp"
+    },
+    {
+      "title": "Ông Nguyễn Văn Được: TP.HCM chuẩn bị khởi công tiếp loạt dự án khoảng 10 tỷ USD",
+      "impact": "↑",
+      "note": "Đầu tư công quy mô lớn hỗ trợ nhóm cổ phiếu xây dựng, vật liệu và bất động sản"
+    },
+    {
+      "title": "Thủ tướng yêu cầu cụ thể hóa phong trào thi đua về tăng trưởng '2 con số'",
+      "impact": "↑",
+      "note": "Định hướng chính sách thúc đẩy tăng trưởng cao hỗ trợ tâm lý thị trường trung hạn"
+    }
   ]
 }
