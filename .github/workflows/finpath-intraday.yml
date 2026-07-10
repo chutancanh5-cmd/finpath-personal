@@ -21,7 +21,7 @@ jobs:
       VNSTOCK_API_KEY: ${{ secrets.VNSTOCK_API_KEY }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-      ACCEPT_TC: "tĂ´i Ä‘á»“ng Ă½"
+      ACCEPT_TC: "tôi đồng ý"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
