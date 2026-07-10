@@ -58,7 +58,10 @@ def fetch_ticks(sym):
     """Lenh khop trong phien + side mua/ban CHU DONG (nguon kbs). Code goc FinPath,
     goi truc tiep vnstock public API (khong copy feed.py)."""
     import pandas as pd
-    from vnstock.api.quote import Quote
+    try:
+        from vnstock_data.api.quote import Quote
+    except Exception:
+        from vnstock.api.quote import Quote
     df = Quote(symbol=sym, source="kbs").intraday(page_size=5000)
     if df is None or len(df) == 0:
         return None

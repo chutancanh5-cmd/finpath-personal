@@ -89,7 +89,10 @@ def get_universe():
                 return c["symbols"]
         except Exception:
             pass
-    from vnstock.api.listing import Listing
+    try:
+        from vnstock_data.api.listing import Listing
+    except Exception:
+        from vnstock.api.listing import Listing
     ex = Listing(source="VCI").symbols_by_exchange()
     time.sleep(PACE)
     ex = ex[(ex["type"] == "STOCK") & (ex["exchange"].isin(["HSX", "HNX", "UPCOM"]))]
@@ -101,7 +104,10 @@ def get_universe():
 
 def fetch_board(symbols):
     """price_board toàn bộ, trả list dict đã chuẩn hóa."""
-    from vnstock.api.trading import Trading
+    try:
+        from vnstock_data.api.trading import Trading
+    except Exception:
+        from vnstock.api.trading import Trading
     tr = Trading(source="VCI")
     rows = []
     for i in range(0, len(symbols), 100):
@@ -137,7 +143,10 @@ def fetch_board(symbols):
 
 def fetch_indices():
     """Điểm index 3 sàn: last close + prev close (bar hôm nay có thể là live trong phiên)."""
-    from vnstock.api.quote import Quote
+    try:
+        from vnstock_data.api.quote import Quote
+    except Exception:
+        from vnstock.api.quote import Quote
     out = {}
     start = (dt.date.today() - dt.timedelta(days=15)).isoformat()
     for exch, sym in INDEX_SYM.items():
@@ -228,7 +237,10 @@ def append_hist(liq30):
 
 def backfill_hist(board_rows, days=60):
     """Seed lịch sử GTGD từ nến top-30/sàn (close nghìn x volume -> tỷ = close*vol/1e6)."""
-    from vnstock.api.quote import Quote
+    try:
+        from vnstock_data.api.quote import Quote
+    except Exception:
+        from vnstock.api.quote import Quote
     start = (dt.date.today() - dt.timedelta(days=int(days * 1.8))).isoformat()
     agg = {}   # date -> {exch: ty}
     for exch in EXCHANGES:
