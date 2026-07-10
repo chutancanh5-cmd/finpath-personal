@@ -65,7 +65,7 @@ def setup_key():
     return False
 
 
-PACE = 1.1 if setup_key() else 3.2
+PACE = 0.3 if setup_key() else 3.2  # vnstock_data (paid) Golden tier = 500 req/phut
 
 
 def now_vn():

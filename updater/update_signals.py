@@ -172,7 +172,7 @@ def main():
     setup_vnstock_key()
     symbols = load_config()
     syms = list(symbols.keys())
-    paced = 1.1 if os.getenv("VNSTOCK_API_KEY") else 3.2
+    paced = 0.3 if os.getenv("VNSTOCK_API_KEY") else 3.2  # vnstock_data (paid) Golden tier = 500 req/phut
     log(f"phan tich {len(syms)} ma PrimeTrade (UT Bot v2)... pace {paced}s")
     res = {}
     for s in syms:

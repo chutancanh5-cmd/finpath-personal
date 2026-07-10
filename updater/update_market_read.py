@@ -195,9 +195,9 @@ def load_watchlist():
 
 def main():
     setup_vnstock_key()
-    # co key tra phi (~60 req/phut) -> pace 1.1s; khong key (Guest 20 req/phut) -> 3.2s
-    pace = 1.1 if os.environ.get("VNSTOCK_API_KEY") else 3.2
-    log(f"vnstock tier: {'TRA PHI (pace 1.1s)' if pace < 2 else 'Guest (pace 3.2s)'}")
+    # vnstock_data (paid) Golden tier = 500 req/phut -> pace 0.3s; khong key (Guest 20 req/phut) -> 3.2s
+    pace = 0.3 if os.environ.get("VNSTOCK_API_KEY") else 3.2
+    log(f"vnstock tier: {'TRA PHI (pace 0.3s)' if pace < 2 else 'Guest (pace 3.2s)'}")
     watch = load_watchlist()
     universe = list(dict.fromkeys([s for syms in SECTORS.values() for s in syms] + watch))
     log(f"doc {len(universe)} ma ({len(watch)} trong watchlist)...")
