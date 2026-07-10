@@ -125,7 +125,10 @@ def pick(d, *keywords):
 
 
 def fetch_board(syms):
-    from vnstock.api.trading import Trading
+    try:
+        from vnstock_data.api.trading import Trading
+    except Exception:
+        from vnstock.api.trading import Trading
     T = Trading(source=SOURCE)
     try:
         df = T.price_board(syms)
@@ -169,7 +172,10 @@ def company_names(syms):
     """Ten ngan gon cho moi ma (best-effort, khong fail neu loi)."""
     out = {}
     try:
-        from vnstock.api.listing import Listing
+        try:
+            from vnstock_data.api.listing import Listing
+        except Exception:
+            from vnstock.api.listing import Listing
         df = Listing(source=SOURCE).all_symbols()
         col_sym = "ticker" if "ticker" in df.columns else ("symbol" if "symbol" in df.columns else None)
         col_nm = next((c for c in ("organ_short_name", "organ_name", "company_name") if c in df.columns), None)
@@ -184,7 +190,10 @@ def company_names(syms):
 HIST_BARS = 120  # so phien cho bieu do trong app
 
 def add_sparklines(rows):
-    from vnstock.api.quote import Quote
+    try:
+        from vnstock_data.api.quote import Quote
+    except Exception:
+        from vnstock.api.quote import Quote
     start = (date.today() - timedelta(days=260)).isoformat()
     end = date.today().isoformat()
     for r in rows:
@@ -201,7 +210,10 @@ def add_sparklines(rows):
 
 
 def fetch_index(symbol):
-    from vnstock.api.quote import Quote
+    try:
+        from vnstock_data.api.quote import Quote
+    except Exception:
+        from vnstock.api.quote import Quote
     try:
         h = Quote(symbol=symbol, source=SOURCE).history(
             start=(date.today() - timedelta(days=15)).isoformat(),

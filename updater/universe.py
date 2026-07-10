@@ -33,7 +33,10 @@ def _round(x):
 
 def all_stock_symbols():
     """Tat ca ma co phieu tren HOSE/HNX/UPCOM -> list dict {sym, exch, name}."""
-    from vnstock.api.listing import Listing
+    try:
+        from vnstock_data.api.listing import Listing
+    except Exception:
+        from vnstock.api.listing import Listing
     df = Listing(source="VCI").symbols_by_exchange()
     out = []
     for _, r in df.iterrows():
@@ -57,7 +60,10 @@ def _flat(row, cols):
 def price_board_snapshot(symbols):
     """Snapshot price_board cho 1 danh sach ma -> {sym: {...}}. Chia lo, boc try.
     Gia tri VND. Tra ve cac truong dung chung cho ca 2 scanner."""
-    from vnstock.api.trading import Trading
+    try:
+        from vnstock_data.api.trading import Trading
+    except Exception:
+        from vnstock.api.trading import Trading
     T = Trading(source="VCI")
     out = {}
     for i in range(0, len(symbols), CHUNK):

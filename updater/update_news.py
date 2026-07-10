@@ -101,7 +101,10 @@ def fred(series_id, key, limit=40):
 # ---------------------------------------------------------------- VNINDEX
 def vnindex():
     try:
-        from vnstock.api.quote import Quote
+        try:
+            from vnstock_data.api.quote import Quote
+        except Exception:
+            from vnstock.api.quote import Quote
         h = Quote(symbol="VNINDEX", source="VCI").history(
             start=(dt.date.today() - dt.timedelta(days=400)).isoformat(),
             end=dt.date.today().isoformat(), interval="1D")

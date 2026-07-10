@@ -87,7 +87,10 @@ def setup_vnstock_key():
 
 
 def fetch(sym, days=900, is_index=False):
-    from vnstock.api.quote import Quote
+    try:
+        from vnstock_data.api.quote import Quote
+    except Exception:
+        from vnstock.api.quote import Quote
     start = (dt.date.today() - dt.timedelta(days=days)).isoformat()
     df = Quote(symbol=sym, source="VCI").history(
         start=start, end=dt.date.today().isoformat(), interval="1D")

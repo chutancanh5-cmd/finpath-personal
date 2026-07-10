@@ -48,7 +48,10 @@ def vnd(x):
 
 
 def fetch_daily(sym):
-    from vnstock.api.quote import Quote
+    try:
+        from vnstock_data.api.quote import Quote
+    except Exception:
+        from vnstock.api.quote import Quote
     start = (dt.date.today() - dt.timedelta(days=260)).isoformat()
     df = Quote(symbol=sym, source="VCI").history(
         start=start, end=dt.date.today().isoformat(), interval="1D")
