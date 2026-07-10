@@ -159,7 +159,7 @@ def main():
                 hits.append({"sym": sym, "type": typ, "price": price, "pct": pct, "detail": detail})
         except Exception as e:
             log(f"{sym} loi:", str(e)[:60])
-        time.sleep(0.12)
+        time.sleep(0.3)  # vnstock_data (paid) 500 req/phut nhung chua tinh tien trinh khac cung chay
         if (i + 1) % 50 == 0:
             log(f"  ...{i+1}/{len(syms)} ma")
 
