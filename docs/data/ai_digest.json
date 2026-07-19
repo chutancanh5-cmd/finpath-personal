@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-12",
+  "date": "2026-07-19",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Vĩ mô tiếp tục có điểm sáng khi TP.HCM đặt mục tiêu tăng trưởng trên 10% với giải ngân đầu tư công là trọng tâm, còn thành phố cảng lớn đang thu hút loạt \"đại bàng\" FDI từ Mỹ, Trung Quốc, Nhật Bản, hỗ trợ nhóm cổ phiếu hạ tầng, khu công nghiệp và vật liệu xây dựng. Dragon Capital dự báo nhiều \"tin vui\" sắp tới cho thị trường và các công ty chứng khoán như An Bình báo lãi kỷ lục nửa đầu năm, phản ánh nền tảng thị trường đang cải thiện. Tuy nhiên, khối ngoại vẫn bán ròng khoảng 2.500 tỷ đồng trong tuần qua và tâm lý nhà đầu tư trong nước khá thận trọng, khiến thanh khoản sụt giảm và trở thành rủi ro ngắn hạn cần theo dõi. Điểm đáng chú ý là dòng vốn ngoại phân hóa, đảo chiều gom mạnh nhóm cổ phiếu Vingroup bất chấp xu hướng bán ròng chung. Nhìn chung, nền tảng chính sách và đầu tư công/FDI vẫn thuận lợi cho triển vọng trung-dài hạn, nhưng thanh khoản yếu và áp lực bán ròng khối ngoại có thể khiến VN-Index giao dịch giằng co trong ngắn hạn.",
+  "summary_vi": "Nền tảng vĩ mô tiếp tục có điểm sáng khi ADB đánh giá Việt Nam tăng trưởng tích cực, dòng vốn FDI chuyển mạnh sang công nghệ cao và các địa phương trọng điểm như Đông Nam Bộ, Hải Phòng đẩy mạnh khơi thông nguồn lực, xuất nhập khẩu, hỗ trợ nhóm cổ phiếu công nghệ, khu công nghiệp và logistics. Ngành thép cũng xuất hiện động lực tăng trưởng mới được công ty chứng khoán khuyến nghị, tạo cơ hội cho nhóm cổ phiếu vật liệu xây dựng. Tuy nhiên, thanh khoản thị trường giảm xuống mức thấp nhất một tháng cho thấy tâm lý nhà đầu tư khá thận trọng trước tuần giao dịch tới. Đáng chú ý, lợi nhuận quý 2 của một số công ty chứng khoán (VIX, và một công ty khác) sụt giảm mạnh 91-95% do lỗ tự doanh và gánh nặng lãi vay, phản ánh rủi ro nội tại của nhóm ngành chứng khoán. Nhìn chung, câu chuyện vĩ mô/chính sách vẫn thuận lợi cho triển vọng trung-dài hạn, nhưng thanh khoản yếu và lợi nhuận nhóm chứng khoán suy giảm là rủi ro cần theo dõi trong ngắn hạn.",
   "top": [
-    {"title": "TP.HCM đặt mục tiêu tăng trưởng trên 10%, ưu tiên giải ngân đầu tư công", "impact": "↑", "note": "Đẩy mạnh đầu tư công là động lực hỗ trợ nhóm cổ phiếu hạ tầng, xây dựng và vật liệu"},
-    {"title": "Thành phố cảng thu hút \"đại bàng\" FDI từ Mỹ, Trung Quốc, Nhật Bản", "impact": "↑", "note": "Dòng vốn FDI lớn củng cố triển vọng nhóm khu công nghiệp, logistics và bất động sản"},
-    {"title": "Dragon Capital dự báo loạt \"tin vui\" cho thị trường chứng khoán", "impact": "↑", "note": "Nhận định lạc quan từ tổ chức lớn có thể củng cố tâm lý và thu hút dòng tiền mới"},
-    {"title": "Chứng khoán An Bình báo lãi 6 tháng đầu năm kỷ lục", "impact": "↑", "note": "Lợi nhuận công ty chứng khoán cải thiện phản ánh thanh khoản thị trường tích cực"},
-    {"title": "Khối ngoại tiếp tục bán ròng 2.500 tỷ tuần 6-10/7, ngược chiều gom Vingroup", "impact": "→", "note": "Áp lực bán ròng khối ngoại vẫn hiện diện nhưng dòng tiền phân hóa tích cực vào nhóm Vingroup"},
-    {"title": "Vì sao nhà đầu tư chứng khoán đang \"lười\" giao dịch?", "impact": "↓", "note": "Thanh khoản sụt giảm cho thấy tâm lý thận trọng, có thể hạn chế đà tăng ngắn hạn"}
+    {"title": "ADB: Việt Nam tăng trưởng tích cực nhưng cần nhanh chóng nâng cao năng suất", "impact": "↑", "note": "Đánh giá tích cực từ tổ chức quốc tế củng cố triển vọng tăng trưởng chung của thị trường"},
+    {"title": "Vốn FDI chuyển mạnh sang lĩnh vực công nghệ cao", "impact": "↑", "note": "Dòng vốn ngoại dịch chuyển vào công nghệ cao hỗ trợ nhóm cổ phiếu công nghệ và khu công nghiệp"},
+    {"title": "\"Đầu tàu\" tăng trưởng mới của ngành thép lộ diện, MBS gọi tên doanh nghiệp hưởng lợi", "impact": "↑", "note": "Khuyến nghị từ công ty chứng khoán mở ra cơ hội cho nhóm cổ phiếu thép, vật liệu xây dựng"},
+    {"title": "Hải Phòng thu gần 9.500 tỷ từ xuất nhập khẩu 1 tháng", "impact": "↑", "note": "Hoạt động xuất nhập khẩu sôi động tại địa phương trọng điểm phản ánh sức khỏe thương mại tích cực"},
+    {"title": "Thanh khoản giảm thấp nhất một tháng qua, chứng khoán đi về đâu tuần tới?", "impact": "↓", "note": "Thanh khoản sụt giảm cho thấy tâm lý thận trọng, có thể hạn chế đà tăng ngắn hạn"},
+    {"title": "Chứng khoán VIX báo lãi quý 2 giảm \"sốc\" 95% so với cùng kỳ", "impact": "↓", "note": "Lợi nhuận công ty chứng khoán sụt giảm mạnh phản ánh rủi ro tự doanh và thanh khoản yếu của ngành"}
   ]
 }
