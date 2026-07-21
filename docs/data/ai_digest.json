@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index giảm mạnh 44 điểm trong phiên khi dư nợ margin toàn thị trường lập kỷ lục gần 450.000 tỷ đồng, cho thấy áp lực rủi ro đòn bẩy đang tích lũy và có thể gây biến động mạnh hơn nếu tâm lý đảo chiều. Giá vàng và dầu thô hạ nhiệt dù căng thẳng Mỹ - Iran vẫn còn, giúp giảm bớt áp lực lạm phát và chi phí đầu vào cho doanh nghiệp. Ở chiều tích cực, ngành chứng khoán ghi nhận đóng góp ngân sách kỷ lục và một số công ty báo lãi đột biến, phản ánh nền tảng lợi nhuận vẫn vững; kỳ vọng làn sóng IPO chất lượng và cơ hội từ thị trường vốn khu vực dự báo đạt 5.400 tỷ USD vào 2030 cũng là động lực trung hạn. Nhà đầu tư nên thận trọng ngắn hạn với nhóm cổ phiếu dùng margin cao, đồng thời theo dõi nhóm chứng khoán và xuất khẩu được hưởng lợi từ chính sách ngoại giao kinh tế.",
+  "summary_vi": "Vĩ mô tiếp tục có điểm sáng khi Chính phủ đặt mục tiêu tăng trưởng hai con số nửa cuối năm, đẩy mạnh ngoại giao kinh tế mở rộng xuất khẩu và Việt Nam bất ngờ được trao quyền tiên phong thử nghiệm 6G, tạo kỳ vọng dài hạn cho nhóm xuất khẩu, khu công nghiệp và công nghệ. Ngành chứng khoán ghi nhận lợi nhuận quý 2 tăng vọt lên 15.200 tỷ đồng, cho thấy dòng tiền và thanh khoản thị trường đang cải thiện, và khối ngoại đã có phiên đảo chiều mua ròng mạnh một cổ phiếu ngân hàng. Tuy nhiên rủi ro ngắn hạn vẫn hiện hữu: dư nợ margin tăng đồng thời với đà bán ròng của khối ngoại tạo thế thị trường mong manh, cộng thêm sự kiện bán giải chấp cổ phiếu của Chủ tịch DIC Corp là tín hiệu cảnh báo về áp lực đòn bẩy tại một số mã cụ thể. Nhìn chung thị trường có nền tảng vĩ mô hỗ trợ nhưng nhà đầu tư cần thận trọng với rủi ro call margin và biến động dòng vốn ngoại trong ngắn hạn.",
   "top": [
-    {"title": "VN-Index bốc hơi 44 điểm", "impact": "↓", "note": "Áp lực bán mạnh khiến thị trường điều chỉnh sâu trong phiên, tâm lý nhà đầu tư thận trọng hơn"},
-    {"title": "Dư nợ margin toàn thị trường lập kỷ lục gần 450.000 tỷ", "impact": "↓", "note": "Đòn bẩy cao làm tăng rủi ro bán giải chấp nếu thị trường tiếp tục điều chỉnh"},
-    {"title": "Giá vàng, dầu thô hạ nhiệt giữa căng thẳng Mỹ - Iran", "impact": "↑", "note": "Giảm áp lực lạm phát và chi phí đầu vào, hỗ trợ tâm lý thị trường chung"},
-    {"title": "Ngành chứng khoán nộp ngân sách Nhà nước cao kỷ lục, gấp đôi sau 5 năm", "impact": "↑", "note": "Phản ánh quy mô và lợi nhuận ngành chứng khoán tăng trưởng bền vững"},
-    {"title": "Công ty chứng khoán \"họ\" Sunshine báo lãi đột biến 800 tỷ trong quý 2", "impact": "↑", "note": "Kết quả kinh doanh tích cực nhóm CTCK hỗ trợ định giá nhóm cổ phiếu tài chính"},
-    {"title": "Làn sóng IPO mới khó bùng phát ngay lập tức", "impact": "→", "note": "Thị trường IPO cần thời gian sàng lọc chất lượng, chưa tạo cú hích ngắn hạn"}
+    {"title": "Tăng trưởng hai con số, kịch bản tăng tốc 6 tháng cuối năm", "impact": "↑", "note": "Mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp và định giá thị trường"},
+    {"title": "Soi lợi nhuận 15.200 tỷ của ngành chứng khoán quý 2", "impact": "↑", "note": "Lợi nhuận công ty chứng khoán tăng mạnh phản ánh thanh khoản và dòng tiền thị trường cải thiện"},
+    {"title": "Khối ngoại càng bán, dư nợ margin càng tăng", "impact": "↓", "note": "Đòn bẩy tăng trong khi khối ngoại rút vốn làm tăng rủi ro điều chỉnh mạnh nếu tâm lý đảo chiều"},
+    {"title": "Bán giải chấp hàng triệu cổ phiếu của Chủ tịch DIC Corp", "impact": "↓", "note": "Force sell cổ đông lớn tạo áp lực cung và rủi ro lan tỏa tâm lý tới nhóm bất động sản"},
+    {"title": "Phiên 21/7: Khối ngoại đảo chiều mua ròng cổ phiếu ngân hàng", "impact": "↑", "note": "Dòng vốn ngoại quay lại nhóm ngân hàng là tín hiệu tích cực ngắn hạn cho dòng tiền lớn"},
+    {"title": "Tập đoàn 180 tỷ USD trao tấm vé 6G đầu tiên thế giới cho Việt Nam", "impact": "↑", "note": "Vị thế công nghệ được nâng cao, hỗ trợ câu chuyện tăng trưởng dài hạn ngành viễn thông, công nghệ"}
   ]
 }
