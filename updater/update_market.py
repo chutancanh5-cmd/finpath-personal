@@ -50,6 +50,20 @@ def log(*a):
     print("[update_market]", *a, flush=True)
 
 
+def describe_exc(e, n=120):
+    """Mô tả lỗi ngắn gọn. vnstock_data bọc mọi lỗi mạng trong tenacity RetryError
+    (thiếu reraise=True), nên str(e) chỉ ra địa chỉ Future -- vô dụng. Bóc ra
+    exception thật để log còn phân biệt được 429 / 403 / timeout / reset."""
+    inner = e
+    try:
+        la = getattr(e, "last_attempt", None)
+        if la is not None and la.failed:
+            inner = la.exception() or e
+    except Exception:
+        inner = e
+    return f"{type(inner).__name__}: {inner}"[:n]
+
+
 def setup_key():
     key = os.getenv("VNSTOCK_API_KEY")
     if not key:
@@ -103,19 +117,34 @@ def get_universe():
 
 
 def fetch_board(symbols):
-    """price_board toàn bộ, trả list dict đã chuẩn hóa."""
+    """price_board toàn bộ, trả (list dict đã chuẩn hóa, số lô thất bại).
+
+    Một lô hỏng = ~100 mã biến mất khỏi breadth/tổng GTGD mà KHÔNG để lại dấu vết
+    nào trong market.json. Vì vậy thử lại 1 lần rồi đếm số lô thất bại để main()
+    biết bản này thiếu dữ liệu và không ghi con số hụt vào lịch sử 90 phiên.
+    """
     try:
         from vnstock_data.api.trading import Trading
     except Exception:
         from vnstock.api.trading import Trading
     tr = Trading(source="VCI")
     rows = []
+    failed = 0
     for i in range(0, len(symbols), 100):
         chunk = symbols[i:i + 100]
-        try:
-            pb = tr.price_board(chunk)
-        except Exception as e:
-            log(f"chunk {i}: loi {str(e)[:50]}")
+        pb = None
+        for attempt in range(2):
+            try:
+                pb = tr.price_board(chunk)
+                break
+            except Exception as e:
+                pb = None
+                if attempt == 0:
+                    time.sleep(2.0)          # có thể dính rate limit -> nghỉ rồi thử lại
+                else:
+                    failed += 1
+                    log(f"chunk {i}-{i+len(chunk)}: loi {describe_exc(e)}")
+        if pb is None:
             time.sleep(PACE)
             continue
         pb.columns = ["_".join(map(str, c)) if isinstance(c, tuple) else str(c) for c in pb.columns]
@@ -138,7 +167,7 @@ def fetch_board(symbols):
             except Exception:
                 pass
         time.sleep(PACE)
-    return rows
+    return rows, failed
 
 
 def fetch_indices():
@@ -159,7 +188,7 @@ def fetch_indices():
                 out[exch] = dict(value=round(cl[-1], 2), prev=round(cl[-2], 2),
                                  pct=round((cl[-1] / cl[-2] - 1) * 100, 2))
         except Exception as e:
-            log(f"index {sym}: {str(e)[:50]}")
+            log(f"index {sym}: {describe_exc(e)}")
         time.sleep(PACE)
     return out
 
@@ -196,8 +225,9 @@ def build_exchange(rows, idx):
                 total_ty=round(total_ty, 0), liq30_ty=round(liq30_ty, 0), heatmap=heat, impact=impact)
 
 
-def update_intraday(totals):
-    """Đường GTGD lũy kế trong phiên (chỉ ghi điểm khi thị trường mở)."""
+def update_intraday(totals, skip_point=False):
+    """Đường GTGD lũy kế trong phiên (chỉ ghi điểm khi thị trường mở).
+    skip_point=True khi bảng giá thiếu mã -> giữ nguyên đường cũ, không ghi điểm hụt."""
     today = now_vn().date().isoformat()
     state = {"date": today, "points": []}
     if os.path.exists(INTRA):
@@ -207,7 +237,7 @@ def update_intraday(totals):
                 state = old
         except Exception:
             pass
-    if market_open_vn():
+    if market_open_vn() and not skip_point:
         t = now_vn().strftime("%H:%M")
         if not state["points"] or state["points"][-1]["t"] != t:
             state["points"].append(dict(t=t, **{e: round(totals.get(e, 0), 0) for e in EXCHANGES}))
@@ -259,7 +289,7 @@ def backfill_hist(board_rows, days=60):
                         agg[d][exch] += v
                     break
                 except Exception as e:
-                    log(f"  {r['sym']}: {str(e)[:40]}")
+                    log(f"  {r['sym']}: {describe_exc(e, 80)}")
                     time.sleep(2)
             time.sleep(PACE)
     h = {"method": f"top{LIQ_TOP}", "days": [dict(d=d, **{e: round(v[e], 0) for e in EXCHANGES})
@@ -271,12 +301,21 @@ def backfill_hist(board_rows, days=60):
 def main():
     syms = get_universe()
     log(f"{len(syms)} mã, pace {PACE}s")
-    rows = fetch_board(syms)
-    log(f"board: {len(rows)} mã có giá")
+    rows, failed = fetch_board(syms)
+    n_chunks = max(1, (len(syms) + 99) // 100)
+    log(f"board: {len(rows)} mã có giá ({failed}/{n_chunks} lô lỗi)")
     if len(rows) < 300:   # guard partial
         log("Quá ít dữ liệu (<300 mã) — GIỮ file cũ, thoát.")
         return
+    # Ngưỡng <300 mã KHÔNG bắt được mất mát vừa: 16 lô x 100 mã, hỏng 10 lô vẫn còn
+    # ~600 dòng nên vượt guard, trong khi tổng GTGD hụt ~60% và breadth sai hẳn.
+    if failed > 0.25 * n_chunks and os.path.exists(OUT):
+        log(f"{failed}/{n_chunks} lô price_board lỗi (~{failed * 100} mã thiếu) — "
+            f"độ rộng & GTGD sai lệch nặng, GIỮ file cũ, thoát.")
+        return
     indices = fetch_indices()
+    if not indices:
+        log("CẢNH BÁO: không lấy được điểm index sàn nào -> bảng mã kéo/đè sẽ TRỐNG.")
 
     exchanges = {}
     totals, liq30 = {}, {}
@@ -286,15 +325,23 @@ def main():
         totals[exch] = exchanges[exch]["total_ty"]
         liq30[exch] = exchanges[exch]["liq30_ty"]
 
-    intra = update_intraday(totals)
+    # Thiếu mã -> tổng GTGD hụt. Không ghi điểm hụt đó vào đường trong phiên (điểm sai
+    # nằm lại suốt phiên) lẫn vào lịch sử 90 phiên (sai VĨNH VIỄN, không cách nào phát
+    # hiện về sau). Bỏ trống một điểm là trung thực; ghi một con số bịa thì không.
+    intra = update_intraday(totals, skip_point=bool(failed))
 
     if "--backfill-hist" in sys.argv:
         backfill_hist(rows)
     if "--append-hist" in sys.argv:
-        append_hist(liq30)
+        if failed:
+            log(f"BỎ QUA --append-hist: {failed} lô lỗi, GTGD top{LIQ_TOP} thiếu mã — "
+                f"không ghi điểm sai vĩnh viễn vào lịch sử 90 phiên.")
+        else:
+            append_hist(liq30)
 
     data = dict(updated_at=now_vn().isoformat(timespec="seconds"),
                 market_open=market_open_vn(),
+                coverage=dict(got=len(rows), want=len(syms), failed_chunks=failed),
                 exchanges=exchanges,
                 intraday=intra,
                 hist=load_hist())

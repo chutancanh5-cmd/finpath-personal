@@ -19,6 +19,20 @@ EXCHANGES = {"HOSE", "HSX", "HNX", "UPCOM"}   # vnstock dung "HSX" cho HOSE
 CHUNK = 50
 
 
+def describe_exc(e, n=120):
+    """Mo ta loi ngan gon. vnstock_data boc moi loi mang trong tenacity RetryError
+    (khong co reraise=True), nen str(e) chi ra dia chi Future -- vo dung. Boc ra
+    exception that de log con phan biet duoc 429 / 403 / timeout / reset."""
+    inner = e
+    try:
+        la = getattr(e, "last_attempt", None)
+        if la is not None and la.failed:
+            inner = la.exception() or e
+    except Exception:
+        inner = e
+    return f"{type(inner).__name__}: {inner}"[:n]
+
+
 def _num(x):
     try:
         f = float(x)
@@ -105,7 +119,7 @@ def price_board_snapshot(symbols):
                 if attempt == 0:
                     time.sleep(1.5)
                 else:
-                    print("[universe] price_board lo loi:", str(e)[:80], flush=True)
+                    print("[universe] price_board lo loi:", describe_exc(e), flush=True)
         time.sleep(0.25)
     return out
 
@@ -126,7 +140,7 @@ def load_cache():
         return {}
 
 
-def liquid_universe(min_value_bn=2.0, max_n=500, refresh_days=7, log=print):
+def liquid_universe(min_value_bn=2.0, max_n=150, refresh_days=7, log=print):
     """Danh sach ma thanh khoan tot toan san.
     - Uu tien snapshot price_board (gio/sau phien co accumulated_value).
     - Ngoai gio (acc_val toan 0) -> dung cache con han, hoac watchlist.
@@ -144,7 +158,7 @@ def liquid_universe(min_value_bn=2.0, max_n=500, refresh_days=7, log=print):
     try:
         syms = [x["sym"] for x in all_stock_symbols()]
     except Exception as e:
-        log("[universe] khong lay duoc danh sach:", str(e)[:80])
+        log("[universe] khong lay duoc danh sach:", describe_exc(e))
         syms = []
     if not syms:
         return cache.get("symbols") or _read_watchlist()
@@ -161,11 +175,16 @@ def liquid_universe(min_value_bn=2.0, max_n=500, refresh_days=7, log=print):
     snap = price_board_snapshot(syms)
     ranked = sorted(((s, d.get("acc_val") or 0) for s, d in snap.items()),
                     key=lambda kv: kv[1], reverse=True)
-    liquid = [s for s, v in ranked if v >= min_value_bn * 1e9][:max_n]
+    # acc_val (match__accumulated_value) co don vi TRIEU dong -> 1 ty = 1e3.
+    # cf. update_market.py:133 (/1000.0 -> ty) va update_sectors.py:121 (/1e3 -> ty).
+    liquid = [s for s, v in ranked if v >= min_value_bn * 1e3][:max_n]
 
     if not liquid:
-        # ngoai gio giao dich: acc_val = 0 -> fallback
-        log("[universe] thanh khoan toan 0 (ngoai gio) -> fallback cache/watchlist")
+        # ngoai gio giao dich: acc_val = 0 -> fallback. In kem gia tri lon nhat quan sat duoc
+        # de mot lan nua sai don vi / doi schema lo ra ngay thay vi im lang tut ve watchlist.
+        top = ranked[0][1] if ranked else 0
+        log(f"[universe] khong ma nao >= {min_value_bn} ty "
+            f"(cao nhat {top:,.0f} trieu tren {len(snap)} ma) -> fallback cache/watchlist")
         return cache.get("symbols") or _read_watchlist() or syms[:max_n]
 
     json.dump({"date": today, "symbols": liquid}, open(CACHE, "w", encoding="utf-8"),

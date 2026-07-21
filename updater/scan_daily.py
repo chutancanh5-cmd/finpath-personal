@@ -106,7 +106,11 @@ def get_symbols():
         raw = sys.argv[sys.argv.index("--symbols") + 1]
         return [s.strip().upper() for s in raw.split(",") if s.strip()]
     import universe
-    max_n = 500
+    # 150, khong phai 500: truoc day loi don vi o universe.py lam danh sach thanh khoan
+    # LUON rong nen thuc te chi quet 13 ma watchlist. Sua loi do xong thi 500 ma se lam
+    # tin Discord tang ~38x va moi lan chay mat 5-10 phut. 150 ma van phu het phan thanh
+    # khoan that cua san. Muon rong hon: chay voi --max 500.
+    max_n = 150
     if "--max" in sys.argv:
         max_n = int(sys.argv[sys.argv.index("--max") + 1])
     return universe.liquid_universe(max_n=max_n, log=log)
