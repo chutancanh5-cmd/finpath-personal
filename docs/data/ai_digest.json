@@ -1,14 +1,14 @@
 {
   "_opus": true,
   "date": "2026-07-22",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Bức tranh vĩ mô nghiêng về tích cực khi kịch bản tăng trưởng hai con số nửa cuối năm được củng cố và cơ hội đón đầu thị trường vốn quy mô 5,4 nghìn tỷ USD vào 2030 mở ra kỳ vọng nâng hạng cho TTCK Việt Nam. Khối ngoại đảo chiều mua ròng cổ phiếu ngân hàng và lợi nhuận ngành chứng khoán quý 2 đạt 15.200 tỷ đồng là tín hiệu dòng tiền và nội lực doanh nghiệp cải thiện. Tuy vậy vẫn còn rủi ro ngắn hạn cần lưu ý: dư nợ margin tăng song song với áp lực bán ròng của khối ngoại cho thấy thị trường đang dùng đòn bẩy cao, dễ tổn thương khi biến động mạnh, minh chứng là vụ bán giải chấp cổ phiếu của Chủ tịch DIC Corp. Nhìn chung, nhà đầu tư có thể lạc quan thận trọng, ưu tiên nhóm ngân hàng và chứng khoán hưởng lợi từ dòng vốn ngoại và tăng trưởng kinh tế, đồng thời theo dõi sát rủi ro margin và call margin cục bộ.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Bức tranh vĩ mô nghiêng tích cực với kịch bản tăng trưởng hai con số cuối năm và ngoại giao kinh tế mở rộng không gian xuất khẩu, cùng lợi nhuận ngành chứng khoán quý 2 đạt 15.200 tỷ đồng cho thấy dòng tiền và thanh khoản thị trường vẫn khỏe. Tuy nhiên rủi ro ngắn hạn đang tích tụ: khối ngoại tiếp tục bán ròng trong khi dư nợ margin lại tăng, làm tăng độ nhạy cảm của thị trường trước các nhịp điều chỉnh, minh chứng là vụ giải chấp cổ phiếu của Chủ tịch DIC Corp. Diễn biến quỹ vàng lớn nhất thế giới gia tăng nắm giữ vàng phản ánh tâm lý phòng thủ toàn cầu, có thể khiến dòng vốn quốc tế thận trọng hơn với tài sản rủi ro như cổ phiếu mới nổi. Nhìn chung, nền tảng vĩ mô hỗ trợ triển vọng trung hạn nhưng nhà đầu tư cần thận trọng với đòn bẩy margin và áp lực bán ròng khối ngoại trong ngắn hạn.",
   "top": [
-    {"title": "Tăng trưởng hai con số, kịch bản tăng tốc 6 tháng cuối năm", "impact": "↑", "note": "Tăng trưởng kinh tế mạnh hỗ trợ kỳ vọng lợi nhuận doanh nghiệp niêm yết"},
-    {"title": "Cơ hội đón đầu thị trường vốn quy mô 5,4 nghìn tỷ USD vào 2030", "impact": "↑", "note": "Triển vọng nâng hạng và mở rộng dòng vốn quốc tế vào TTCK Việt Nam"},
-    {"title": "Khối ngoại đảo chiều mua ròng, gom mạnh cổ phiếu ngân hàng", "impact": "↑", "note": "Dòng tiền ngoại quay lại là tín hiệu tích cực cho nhóm cổ phiếu ngân hàng"},
-    {"title": "Lợi nhuận 15.200 tỷ đồng ngành chứng khoán trong quý 2", "impact": "↑", "note": "Kết quả kinh doanh khả quan củng cố sức khỏe nhóm cổ phiếu chứng khoán"},
-    {"title": "Khối ngoại càng bán, dư nợ margin càng tăng", "impact": "↓", "note": "Đòn bẩy margin cao đi kèm áp lực bán ngoại làm tăng rủi ro biến động thị trường"},
-    {"title": "Công ty chứng khoán bán giải chấp hàng triệu cổ phiếu của Chủ tịch DIC Corp", "impact": "↓", "note": "Áp lực call margin cổ đông lớn có thể tạo hiệu ứng tiêu cực lên giá cổ phiếu DIG"}
+    {"title": "Tăng trưởng hai con số, kịch bản tăng tốc 6 tháng cuối năm", "impact": "↑", "note": "Kỳ vọng tăng trưởng kinh tế mạnh hỗ trợ định giá và lợi nhuận doanh nghiệp niêm yết"},
+    {"title": "Bức tranh lợi nhuận 15.200 tỷ ngành chứng khoán quý 2", "impact": "↑", "note": "Lợi nhuận nhóm CTCK tăng mạnh phản ánh thanh khoản và dòng tiền thị trường cải thiện"},
+    {"title": "Ngoại giao kinh tế mở rộng không gian xuất khẩu", "impact": "↑", "note": "Mở rộng thị trường xuất khẩu hỗ trợ nhóm cổ phiếu xuất khẩu và sản xuất"},
+    {"title": "Khối ngoại càng bán, dư nợ margin càng tăng", "impact": "↓", "note": "Margin tăng cao trong khi khối ngoại rút vốn làm tăng rủi ro điều chỉnh mạnh"},
+    {"title": "Công ty chứng khoán bán giải chấp cổ phiếu Chủ tịch DIC Corp", "impact": "↓", "note": "Giải chấp margin lãnh đạo doanh nghiệp gây áp lực giảm giá lên cổ phiếu liên quan"},
+    {"title": "Quỹ lớn nhất thế giới liên tiếp gom hàng tấn vàng", "impact": "→", "note": "Tâm lý phòng thủ toàn cầu tăng, có thể khiến dòng vốn quốc tế thận trọng hơn với cổ phiếu"}
   ]
 }
