@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-22",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô nghiêng tích cực với kịch bản tăng trưởng hai con số cuối năm và ngoại giao kinh tế mở rộng không gian xuất khẩu, cùng lợi nhuận ngành chứng khoán quý 2 đạt 15.200 tỷ đồng cho thấy dòng tiền và thanh khoản thị trường vẫn khỏe. Tuy nhiên rủi ro ngắn hạn đang tích tụ: khối ngoại tiếp tục bán ròng trong khi dư nợ margin lại tăng, làm tăng độ nhạy cảm của thị trường trước các nhịp điều chỉnh, minh chứng là vụ giải chấp cổ phiếu của Chủ tịch DIC Corp. Diễn biến quỹ vàng lớn nhất thế giới gia tăng nắm giữ vàng phản ánh tâm lý phòng thủ toàn cầu, có thể khiến dòng vốn quốc tế thận trọng hơn với tài sản rủi ro như cổ phiếu mới nổi. Nhìn chung, nền tảng vĩ mô hỗ trợ triển vọng trung hạn nhưng nhà đầu tư cần thận trọng với đòn bẩy margin và áp lực bán ròng khối ngoại trong ngắn hạn.",
+  "date": "2026-07-23",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "VN-Index vừa trải qua nhịp lao dốc mạnh gần 200 điểm khiến vốn hóa toàn thị trường bốc hơi 1,3 triệu tỷ đồng, trong khi tiền mặt chờ sẵn trên tài khoản nhà đầu tư rơi xuống mức thấp nhất 6 quý cho thấy tâm lý thận trọng lan rộng. Điểm sáng là khối tự doanh công ty chứng khoán tranh thủ giải ngân mạnh vào nhóm ngân hàng ngay trong phiên giảm sâu, phần nào hỗ trợ tâm lý bắt đáy ngắn hạn. Nền tảng vĩ mô vẫn tích cực với kịch bản tăng trưởng kinh tế hai con số nửa cuối năm và hoạt động ngoại giao kinh tế mở rộng không gian xuất khẩu, tạo dư địa phục hồi cho nhóm cổ phiếu xuất khẩu và ngân hàng. Tuy nhiên, việc hàng loạt doanh nghiệp bị thanh tra vì chậm công bố, che giấu thông tin đặt ra rủi ro minh bạch, có thể tiếp tục gây áp lực lên định giá nhóm cổ phiếu liên quan trong ngắn hạn. Nhìn chung nhà đầu tư nên ưu tiên quản trị rủi ro, chọn lọc cổ phiếu cơ bản tốt thay vì đuổi giá trong giai đoạn biến động này.",
   "top": [
-    {"title": "Tăng trưởng hai con số, kịch bản tăng tốc 6 tháng cuối năm", "impact": "↑", "note": "Kỳ vọng tăng trưởng kinh tế mạnh hỗ trợ định giá và lợi nhuận doanh nghiệp niêm yết"},
-    {"title": "Bức tranh lợi nhuận 15.200 tỷ ngành chứng khoán quý 2", "impact": "↑", "note": "Lợi nhuận nhóm CTCK tăng mạnh phản ánh thanh khoản và dòng tiền thị trường cải thiện"},
-    {"title": "Ngoại giao kinh tế mở rộng không gian xuất khẩu", "impact": "↑", "note": "Mở rộng thị trường xuất khẩu hỗ trợ nhóm cổ phiếu xuất khẩu và sản xuất"},
-    {"title": "Khối ngoại càng bán, dư nợ margin càng tăng", "impact": "↓", "note": "Margin tăng cao trong khi khối ngoại rút vốn làm tăng rủi ro điều chỉnh mạnh"},
-    {"title": "Công ty chứng khoán bán giải chấp cổ phiếu Chủ tịch DIC Corp", "impact": "↓", "note": "Giải chấp margin lãnh đạo doanh nghiệp gây áp lực giảm giá lên cổ phiếu liên quan"},
-    {"title": "Quỹ lớn nhất thế giới liên tiếp gom hàng tấn vàng", "impact": "→", "note": "Tâm lý phòng thủ toàn cầu tăng, có thể khiến dòng vốn quốc tế thận trọng hơn với cổ phiếu"}
+    {"title": "Chứng khoán Việt Nam mất 1,3 triệu tỷ đồng vốn hóa", "impact": "↓", "note": "Thị trường bị bán tháo mạnh, tài sản nhà đầu tư suy giảm đáng kể"},
+    {"title": "VN-Index lao dốc gần 200 điểm", "impact": "↓", "note": "Cú giảm sâu bất thường gây tâm lý hoảng loạn ngắn hạn"},
+    {"title": "Tiền nằm chờ trên tài khoản chứng khoán thấp nhất 6 quý", "impact": "↓", "note": "Dòng tiền mới hạn chế khiến thanh khoản và lực đỡ thị trường suy yếu"},
+    {"title": "Tự doanh CTCK xuống tiền mua mạnh cổ phiếu ngân hàng khi VN-Index rơi 62 điểm", "impact": "↑", "note": "Lực cầu bắt đáy từ tổ chức giúp hãm đà giảm, hỗ trợ nhóm ngân hàng"},
+    {"title": "Tăng trưởng hai con số, kịch bản tăng tốc 6 tháng cuối năm", "impact": "↑", "note": "Triển vọng vĩ mô tích cực tạo nền tảng phục hồi trung hạn cho thị trường"},
+    {"title": "Loạt doanh nghiệp bị Thanh tra Chứng khoán tuýt còi vì chậm công bố, ém thông tin", "impact": "↓", "note": "Rủi ro minh bạch thông tin gây áp lực định giá nhóm cổ phiếu liên quan"}
   ]
 }
