@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-24",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế vĩ mô tiếp tục là điểm sáng với GDP nửa đầu năm tăng 8,18% và FDI giải ngân lập đỉnh 5 năm, tạo nền tảng dài hạn tích cực cho doanh nghiệp niêm yết. Tuy nhiên thị trường đang cho thấy nghịch lý "tăng trưởng cao nhưng chứng khoán vẫn giảm mạnh", phản ánh tâm lý thận trọng và áp lực chốt lời ngắn hạn dù có tín hiệu tạo đáy kỹ thuật ở VN-Index. Vụ khởi tố chủ tịch một doanh nghiệp niêm yết là rủi ro riêng lẻ cần theo dõi ảnh hưởng lan tỏa đến nhóm cổ phiếu liên quan. Giá vàng biến động cùng lực gom âm thầm quy mô lớn cho thấy dòng tiền vẫn còn phân vân giữa kênh trú ẩn và kênh rủi ro. Nhìn chung, nhà đầu tư nên tận dụng nền vĩ mô vững để giải ngân chọn lọc nhưng vẫn cần thận trọng với rủi ro pháp lý và biến động ngắn hạn.",
+  "date": "2026-07-25",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Việc Mỹ chính thức áp thuế nhập khẩu mới với 60 nền kinh tế, trong đó có Việt Nam từ 0h ngày 24/7, là rủi ro lớn nhất với nhóm cổ phiếu xuất khẩu và có thể gây áp lực tỷ giá, dòng vốn ngoại trong ngắn hạn. Khối ngoại đã bán ròng mạnh gần 4.000 tỷ đồng trong tuần khiến VN-Index mất khoảng 100 điểm, cho thấy tâm lý thận trọng đang lan rộng, dù nỗ lực đẩy mạnh giải ngân đầu tư công là điểm tựa tích cực cho tăng trưởng và nhóm cổ phiếu hạ tầng, xây dựng. Diễn biến cổ phiếu PNJ nằm sàn bất chấp được "giải cứu" và việc khởi tố chủ tịch một doanh nghiệp niêm yết phản ánh rủi ro riêng lẻ về quản trị và niềm tin nhà đầu tư. Giá vàng biến động mạnh và chênh lệch mua-bán lớn cho thấy tâm lý phòng thủ gia tăng, trong khi một số tín hiệu kỹ thuật xác nhận vùng đáy của VN-Index mở ra kỳ vọng hồi phục nếu áp lực bán ròng và tin tức thuế quan hạ nhiệt. Nhìn chung thị trường đối mặt nhiều rủi ro ngắn hạn nhưng vẫn có cơ sở kỹ thuật cho một nhịp ổn định trở lại.",
   "top": [
-    {"title": "GDP nửa năm tăng 8,18%, FDI giải ngân lập đỉnh 5 năm", "impact": "↑", "note": "Tăng trưởng vĩ mô mạnh và dòng vốn FDI dồi dào củng cố nền tảng cơ bản cho doanh nghiệp niêm yết"},
-    {"title": "Kinh tế tăng trưởng cao, vì sao chứng khoán vẫn giảm mạnh?", "impact": "↓", "note": "Nghịch lý vĩ mô tốt nhưng thị trường giảm cho thấy tâm lý thận trọng, áp lực bán vẫn hiện hữu"},
-    {"title": "Dấu hiệu xác nhận đáy của VN-Index", "impact": "↑", "note": "Tín hiệu kỹ thuật tạo đáy có thể củng cố niềm tin ngắn hạn cho nhà đầu tư"},
-    {"title": "Khởi tố Chủ tịch một công ty trên sàn chứng khoán", "impact": "↓", "note": "Rủi ro pháp lý cá biệt có thể gây tâm lý tiêu cực cho cổ phiếu liên quan và nhóm ngành"},
-    {"title": "Giá vàng trồi sụt, một thế lực âm thầm gom hơn chục tấn", "impact": "→", "note": "Biến động giá vàng phản ánh dòng tiền phân vân giữa kênh trú ẩn và kênh đầu tư rủi ro như cổ phiếu"},
-    {"title": "Một công ty bất động sản lãi lớn nhờ đầu tư chứng khoán, thắng với VHM, HPG", "impact": "↑", "note": "Cho thấy dòng tiền tổ chức vẫn tìm cơ hội sinh lời tốt ở nhóm cổ phiếu đầu ngành"}
+    {"title": "Mỹ áp thuế nhập khẩu mới với 60 nền kinh tế, có Việt Nam", "impact": "↓", "note": "Tăng chi phí xuất khẩu và rủi ro tỷ giá, ảnh hưởng tiêu cực đến nhóm cổ phiếu xuất khẩu"},
+    {"title": "Khối ngoại bán ròng gần 4.000 tỷ đồng, VN-Index mất 100 điểm", "impact": "↓", "note": "Áp lực bán ròng mạnh cho thấy dòng vốn ngoại đang rút khỏi thị trường"},
+    {"title": "PNJ được giải cứu hơn 1.270 tỷ đồng nhưng vẫn nằm sàn", "impact": "↓", "note": "Niềm tin nhà đầu tư với cổ phiếu suy yếu dù có lực đỡ lớn"},
+    {"title": "Tập trung giải ngân đầu tư công để cán đích tăng trưởng", "impact": "↑", "note": "Hỗ trợ tăng trưởng kinh tế và nhóm cổ phiếu hạ tầng, xây dựng, vật liệu"},
+    {"title": "Dấu hiệu xác nhận đáy của VN-Index", "impact": "↑", "note": "Tín hiệu kỹ thuật tích cực có thể thu hút dòng tiền bắt đáy"},
+    {"title": "Khởi tố Chủ tịch một công ty trên sàn chứng khoán", "impact": "↓", "note": "Rủi ro quản trị doanh nghiệp gây tâm lý e ngại cho nhà đầu tư"}
   ]
 }
