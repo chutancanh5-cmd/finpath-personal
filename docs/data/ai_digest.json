@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Việc Mỹ chính thức áp thuế nhập khẩu mới với 60 nền kinh tế, trong đó có Việt Nam từ 0h ngày 24/7, là rủi ro lớn nhất với nhóm cổ phiếu xuất khẩu và có thể gây áp lực tỷ giá, dòng vốn ngoại trong ngắn hạn. Khối ngoại đã bán ròng mạnh gần 4.000 tỷ đồng trong tuần khiến VN-Index mất khoảng 100 điểm, cho thấy tâm lý thận trọng đang lan rộng, dù nỗ lực đẩy mạnh giải ngân đầu tư công là điểm tựa tích cực cho tăng trưởng và nhóm cổ phiếu hạ tầng, xây dựng. Diễn biến cổ phiếu PNJ nằm sàn bất chấp được "giải cứu" và việc khởi tố chủ tịch một doanh nghiệp niêm yết phản ánh rủi ro riêng lẻ về quản trị và niềm tin nhà đầu tư. Giá vàng biến động mạnh và chênh lệch mua-bán lớn cho thấy tâm lý phòng thủ gia tăng, trong khi một số tín hiệu kỹ thuật xác nhận vùng đáy của VN-Index mở ra kỳ vọng hồi phục nếu áp lực bán ròng và tin tức thuế quan hạ nhiệt. Nhìn chung thị trường đối mặt nhiều rủi ro ngắn hạn nhưng vẫn có cơ sở kỹ thuật cho một nhịp ổn định trở lại.",
+  "summary_vi": "Việc Mỹ chính thức áp thuế nhập khẩu mới (lên đến 12,5%) với 60 nền kinh tế trong đó có Việt Nam là rủi ro lớn nhất, đe dọa trực tiếp nhóm xuất khẩu như dệt may, thủy sản, gỗ, khu công nghiệp, dù kim ngạch xuất nhập khẩu 6 tháng vẫn tăng trưởng tích cực gần 550 tỷ USD. Khối ngoại bán ròng gần 4.000 tỷ đồng trong tuần VN-Index giảm khoảng 100 điểm cho thấy tâm lý thận trọng đang chi phối thị trường ngắn hạn. Ở chiều tích cực, Chính phủ đẩy mạnh giải ngân đầu tư công và giao chỉ tiêu tăng trưởng hai con số cho các địa phương lớn như Hà Nội, hỗ trợ nhóm cổ phiếu xây dựng, vật liệu, hạ tầng. Biến động mạnh của giá vàng, chênh lệch mua-bán lớn, nhà đầu tư xếp hàng bán lỗ phản ánh dòng tiền đang phân vân giữa các kênh trú ẩn, có thể tạo áp lực rút vốn khỏi kênh cổ phiếu trong ngắn hạn. Nhìn chung, rủi ro thuế quan và áp lực bán ròng khối ngoại lấn át các điểm sáng vĩ mô, nhà đầu tư nên thận trọng với nhóm xuất khẩu và theo dõi sát diễn biến đàm phán thương mại.",
   "top": [
-    {"title": "Mỹ áp thuế nhập khẩu mới với 60 nền kinh tế, có Việt Nam", "impact": "↓", "note": "Tăng chi phí xuất khẩu và rủi ro tỷ giá, ảnh hưởng tiêu cực đến nhóm cổ phiếu xuất khẩu"},
-    {"title": "Khối ngoại bán ròng gần 4.000 tỷ đồng, VN-Index mất 100 điểm", "impact": "↓", "note": "Áp lực bán ròng mạnh cho thấy dòng vốn ngoại đang rút khỏi thị trường"},
-    {"title": "PNJ được giải cứu hơn 1.270 tỷ đồng nhưng vẫn nằm sàn", "impact": "↓", "note": "Niềm tin nhà đầu tư với cổ phiếu suy yếu dù có lực đỡ lớn"},
-    {"title": "Tập trung giải ngân đầu tư công để cán đích tăng trưởng", "impact": "↑", "note": "Hỗ trợ tăng trưởng kinh tế và nhóm cổ phiếu hạ tầng, xây dựng, vật liệu"},
-    {"title": "Dấu hiệu xác nhận đáy của VN-Index", "impact": "↑", "note": "Tín hiệu kỹ thuật tích cực có thể thu hút dòng tiền bắt đáy"},
-    {"title": "Khởi tố Chủ tịch một công ty trên sàn chứng khoán", "impact": "↓", "note": "Rủi ro quản trị doanh nghiệp gây tâm lý e ngại cho nhà đầu tư"}
+    {"title": "Mỹ áp thuế nhập khẩu mới lên đến 12,5% với 60 nền kinh tế, có Việt Nam", "impact": "↓", "note": "Tăng chi phí xuất khẩu, ảnh hưởng trực tiếp nhóm dệt may, thủy sản, gỗ, khu công nghiệp"},
+    {"title": "Khối ngoại bán ròng gần 4.000 tỷ đồng, VN-Index mất 100 điểm trong tuần", "impact": "↓", "note": "Áp lực bán ròng và tâm lý thận trọng đè nặng lên xu hướng ngắn hạn của thị trường"},
+    {"title": "Xuất nhập khẩu hàng hóa Việt Nam đạt gần 550 tỷ USD trong 6 tháng", "impact": "↑", "note": "Cho thấy nền tảng thương mại vẫn tăng trưởng tốt bất chấp rủi ro thuế quan sắp tới"},
+    {"title": "Tập trung giải ngân đầu tư công để cán đích tăng trưởng", "impact": "↑", "note": "Hỗ trợ trực tiếp nhóm cổ phiếu xây dựng, vật liệu xây dựng và hạ tầng"},
+    {"title": "Hà Nội giao chỉ tiêu tăng trưởng hai con số cho từng ngành", "impact": "→", "note": "Định hướng chính sách tích cực nhưng cần thời gian để phản ánh vào kết quả kinh doanh doanh nghiệp"},
+    {"title": "Người dân xếp hàng bán vàng, chịu lỗ chục triệu đồng/lượng", "impact": "↓", "note": "Biến động mạnh giá vàng phản ánh tâm lý bất ổn, có thể khiến dòng tiền thận trọng hơn với tài sản rủi ro"}
   ]
 }
