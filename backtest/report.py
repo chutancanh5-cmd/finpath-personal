@@ -104,3 +104,37 @@ def format_markdown(meta: Dict[str, Any], summaries: Dict[str, dict]) -> str:
         lines.append("_Chua co vong nao dong (co the con dang giu vi the den cuoi du lieu)._\n")
 
     return "\n".join(lines) + "\n"
+
+
+def format_batch_summary(rows: list, currency: str = "VND", ma_period: int = 10,
+                          contribution: float = 5_000_000) -> str:
+    """Bang xep hang tong hop nhieu ma (VN-Index + watchlist co phieu co so VN)."""
+    ok_rows = [r for r in rows if "error" not in r]
+    err_rows = [r for r in rows if "error" in r]
+    ok_rows.sort(key=lambda r: (r["xirr"] if r["xirr"] is not None else -999), reverse=True)
+
+    lines = []
+    lines.append("# Backtest tong hop -- chien luoc 'Tich san trong Uptrend' tren chung khoan co so VN\n")
+    lines.append(
+        f"- Duong trung binh: **MA{ma_period}** tren gia dong cua thang (ap dung dong nhat cho tat ca ma)\n"
+        f"- Dong gop dinh ky: **{_fmt_money(contribution, currency)}** / thang khi co tin hieu MUA\n"
+        f"- Xep hang theo XIRR (nam hoa) cua chien luoc, giam dan\n"
+    )
+    lines.append("| # | Ma | Du lieu | Von gop | Gia tri cuoi | XIRR | Max DD | MOIC | So vong | Ty le thang |")
+    lines.append("|---|---|---|---|---|---|---|---|---|---|")
+    for i, r in enumerate(ok_rows, 1):
+        moic_str = f"{r['moic']:.2f}x" if r["moic"] else "n/a"
+        win_str = _fmt_pct(r["win_rate"]) if r["win_rate"] is not None else "n/a"
+        lines.append(
+            f"| {i} | **{r['symbol']}** | {r['data_start']} -> {r['data_end']} ({r['months']}t) | "
+            f"{_fmt_money(r['principal'], currency)} | {_fmt_money(r['final_wealth'], currency)} | "
+            f"{_fmt_pct(r['xirr'])} | {_fmt_pct(r['max_dd'])} | "
+            f"{moic_str} | {r['num_rounds']} | {win_str} |"
+        )
+
+    if err_rows:
+        lines.append("\n## Ma bi bo qua (khong du du lieu / loi khi tai)\n")
+        for r in err_rows:
+            lines.append(f"- **{r['symbol']}**: {r['error']}")
+
+    return "\n".join(lines) + "\n"

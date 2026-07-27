@@ -100,44 +100,47 @@ Chạy local không cần push: app đọc trực tiếp `docs/data/*.json`.
 
 ## Backtest chiến thuật "Tích sản trong Uptrend"
 Hệ thống backtest độc lập ở `backtest/`, hiện thực đúng chiến thuật CMT (Trend + Amplitude
-qua MA, Timing theo chu kỳ) mà nhà đầu tư mô tả — khung thời gian **THÁNG (M1)**:
+qua MA, Timing theo chu kỳ) mà nhà đầu tư mô tả — khung thời gian **THÁNG (M1)**, **tập trung
+cho chứng khoán CƠ SỞ Việt Nam** (VN-Index + watchlist cổ phiếu của app):
 - **MUA**: nến tháng đóng cửa > MA(N) → đầu tháng sau có lương là mua tích sản (DCA).
 - **BÁN**: nến tháng đóng cửa < MA(N) → bán sạch ngay đầu tháng sau.
 - **TIMING**: giữ vị thế đủ **26 tháng** uptrend liên tục mà chưa bị tín hiệu MA cắt xuống thì
   vẫn chủ động bán sạch (force-exit), sau đó **nghỉ 18 tháng (1,5 năm)** mới đánh giá lại tín hiệu.
-- MA tùy theo tài sản: **VN-Index MA10**, **BTC MA13**, **Vàng thế giới (XAU/USD) MA21**.
+- MA10 áp dụng đồng nhất cho VN-Index và toàn bộ cổ phiếu (đúng quy tắc mô tả cho VN-Index).
+  BTC/Vàng (MA13/MA21) vẫn chạy được qua `run_backtest.py --asset btc|gold` nhưng không còn
+  nằm trong workflow tự động (đã tập trung lại cho thị trường VN).
 
 ```
 backtest/
   strategy.py       ← state machine sinh tín hiệu MUA/BÁN/FORCE_EXIT (không nhìn trước dữ liệu)
   engine.py         ← mô phỏng dòng tiền DCA + 2 benchmark (DCA đều/không bán, lump-sum)
   metrics.py        ← XIRR, max drawdown, MOIC, tỷ lệ vòng thắng...
-  data_sources.py   ← nạp giá tháng: vnstock VCI (VN-Index) / MSN (BTC, XAU/USD) / CSV offline
-  report.py         ← xuất báo cáo Markdown + JSON
-  run_backtest.py   ← CLI chạy backtest
+  data_sources.py   ← nạp giá tháng: vnstock_data (trả phí) ưu tiên, lùi về vnstock (miễn phí) / CSV offline
+  report.py         ← xuất báo cáo Markdown + JSON, kèm bảng xếp hạng tổng hợp nhiều mã
+  run_backtest.py   ← CLI chạy backtest 1 mã
+  run_batch.py      ← CLI chạy backtest VN-Index + watchlist.txt cùng lúc, ra bảng xếp hạng
   tests/            ← unit test (python -m unittest discover -s backtest/tests)
 ```
 
 Chạy thử:
 ```bash
 pip install -r requirements.txt
-python backtest/run_backtest.py --asset vnindex   # MA10, nguồn VCI (miễn phí, không cần API key)
-python backtest/run_backtest.py --asset btc       # MA13, nguồn MSN
-python backtest/run_backtest.py --asset gold      # MA21, nguồn MSN
+python backtest/run_batch.py                       # VN-Index + updater/watchlist.txt, MA10
+python backtest/run_batch.py --symbols FPT,HPG,VNINDEX
+python backtest/run_backtest.py --asset vnindex     # 1 mã, MA10
 # offline (không cần mạng), CSV cột time,open,high,low,close:
 python backtest/run_backtest.py --asset vnindex --csv data.csv
 ```
-Kết quả (JSON `docs/data/backtest_<asset>.json` + Markdown `docs/backtest_<asset>.md`) được workflow
-`.github/workflows/backtest.yml` tự chạy đầu mỗi tháng (và có thể bấm chạy tay qua workflow_dispatch),
-dùng đúng nguồn miễn phí của vnstock nên không cần secret `VNSTOCK_API_KEY`.
+Kết quả (JSON `docs/data/backtest_<ma>.json` + Markdown `docs/backtest_<ma>.md`, cộng bảng tổng hợp
+`docs/backtest_summary.md`) được workflow `.github/workflows/backtest.yml` tự chạy đầu mỗi tháng
+(và có thể bấm chạy tay qua workflow_dispatch).
 
-**Giới hạn dữ liệu (tier miễn phí):** nguồn `vnstock` miễn phí (không có `VNSTOCK_API_KEY` /
-`vnstock_data` trả phí mà `finpath-daily.yml` đang dùng) chỉ trả về khoảng **~8 năm gần nhất**
-cho VN-Index và vàng (không phải từ 2000), và với BTC (qua endpoint crypto của MSN) chỉ trả về
-**~13 tháng** — không đủ tối thiểu 14 tháng (MA13 + 1) để chạy được. Đã xác nhận bằng 2 lần chạy
-thật trên GitHub Actions (xem `docs/backtest_vnindex.md`, `docs/backtest_gold.md`). Muốn kéo dài
-lịch sử (về tới 2000 cho VN-Index, đủ dữ liệu cho BTC) thì cấu hình `VNSTOCK_API_KEY` cho workflow
-này giống `finpath-daily.yml`, hoặc nạp dữ liệu offline qua `--csv`.
+**Dữ liệu:** `data_sources.py` ưu tiên `vnstock_data` (bản trả phí, cùng `VNSTOCK_API_KEY` mà
+`finpath-daily.yml` đã dùng) để có lịch sử đầy đủ; nếu chưa cài/chưa có key thì tự lùi về
+`vnstock` miễn phí (đã xác nhận qua CI thật: chỉ ~8 năm gần nhất cho VN-Index/vàng, và endpoint
+crypto miễn phí của MSN không đủ cho BTC MA13). Workflow đã cài `vnstock_data` qua CLI installer
+chính thức (giống `finpath-daily.yml`) nên khi có secret `VNSTOCK_API_KEY` sẽ tự lấy được lịch sử
+dài hơn hẳn cho VN-Index và toàn bộ cổ phiếu trong watchlist.
 
 ## Tiến độ
 - [x] Phase 1 — PWA shell + bảng giá + watchlist + alert giá tại máy

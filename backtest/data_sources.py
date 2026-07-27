@@ -52,12 +52,19 @@ def fetch_monthly(symbol: str, source: str, start: str = "2000-01-01",
                    end: Optional[str] = None) -> pd.DataFrame:
     """Lay du lieu gia thang tu vnstock (source = 'vci' hoac 'msn').
 
+    Uu tien vnstock_data (ban tra phi, can VNSTOCK_API_KEY -- xem updater/update_prices.py
+    de cung 1 pattern fallback), lui ve vnstock (mien phi) neu chua cai/chua co key. Ban tra
+    phi cho lich su dai hon nhieu (VD VN-Index tu 2000) so voi ban mien phi (~8 nam gan nhat).
+
     Luon xin du lieu NGAY (interval='1D') roi tu resample ve thang trong _clean_monthly,
-    thay vi nho provider resample ho -- endpoint crypto cua MSN (BTC) da quan sat thay
-    cat du lieu rat ngan (~12 thang) khi xin thang truc tiep qua interval='1M', trong khi
-    xin ngay + tu resample thi lay duoc day du hon.
+    thay vi nho provider resample ho -- endpoint crypto cua MSN (BTC, ban mien phi) da quan
+    sat thay cat du lieu rat ngan (~12 thang) khi xin thang truc tiep qua interval='1M',
+    trong khi xin ngay + tu resample thi lay duoc day du hon.
     """
-    from vnstock.api.quote import Quote  # import tre de tranh loi khi chi dung --csv offline
+    try:
+        from vnstock_data.api.quote import Quote  # ban tra phi, neu da cai + co key
+    except Exception:
+        from vnstock.api.quote import Quote  # import tre de tranh loi khi chi dung --csv offline
 
     q = Quote(source=source.upper(), symbol=symbol)
     df = q.history(start=start, end=end, interval="1D", count_back=100000)
