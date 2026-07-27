@@ -6,9 +6,6 @@ on:
   schedule:
     - cron: '15 2 1 * *'  # 1 ngay dau moi thang, 02:15 UTC (~09:15 gio VN)
   workflow_dispatch:
-  push:  # TAM THOI: de kich hoat lan chay dau tien tu branch chua merge; se go bo sau khi xac nhan chay duoc that
-    branches:
-      - claude/trading-system-backtest-ntcgky
 
 permissions:
   contents: write

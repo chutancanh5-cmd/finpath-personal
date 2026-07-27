@@ -131,6 +131,14 @@ Kết quả (JSON `docs/data/backtest_<asset>.json` + Markdown `docs/backtest_<a
 `.github/workflows/backtest.yml` tự chạy đầu mỗi tháng (và có thể bấm chạy tay qua workflow_dispatch),
 dùng đúng nguồn miễn phí của vnstock nên không cần secret `VNSTOCK_API_KEY`.
 
+**Giới hạn dữ liệu (tier miễn phí):** nguồn `vnstock` miễn phí (không có `VNSTOCK_API_KEY` /
+`vnstock_data` trả phí mà `finpath-daily.yml` đang dùng) chỉ trả về khoảng **~8 năm gần nhất**
+cho VN-Index và vàng (không phải từ 2000), và với BTC (qua endpoint crypto của MSN) chỉ trả về
+**~13 tháng** — không đủ tối thiểu 14 tháng (MA13 + 1) để chạy được. Đã xác nhận bằng 2 lần chạy
+thật trên GitHub Actions (xem `docs/backtest_vnindex.md`, `docs/backtest_gold.md`). Muốn kéo dài
+lịch sử (về tới 2000 cho VN-Index, đủ dữ liệu cho BTC) thì cấu hình `VNSTOCK_API_KEY` cho workflow
+này giống `finpath-daily.yml`, hoặc nạp dữ liệu offline qua `--csv`.
+
 ## Tiến độ
 - [x] Phase 1 — PWA shell + bảng giá + watchlist + alert giá tại máy
 - [x] Phase 2 — Khuyến nghị DC55/30 (16 mã, tính lời/lỗ vị thế đang nắm)
