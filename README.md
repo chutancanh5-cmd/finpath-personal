@@ -137,10 +137,10 @@ Kết quả (JSON `docs/data/backtest_<ma>.json` + Markdown `docs/backtest_<ma>.
 
 **Dữ liệu:** `data_sources.py` ưu tiên `vnstock_data` (bản trả phí, cùng `VNSTOCK_API_KEY` mà
 `finpath-daily.yml` đã dùng) để có lịch sử đầy đủ; nếu chưa cài/chưa có key thì tự lùi về
-`vnstock` miễn phí (đã xác nhận qua CI thật: chỉ ~8 năm gần nhất cho VN-Index/vàng, và endpoint
-crypto miễn phí của MSN không đủ cho BTC MA13). Workflow đã cài `vnstock_data` qua CLI installer
-chính thức (giống `finpath-daily.yml`) nên khi có secret `VNSTOCK_API_KEY` sẽ tự lấy được lịch sử
-dài hơn hẳn cho VN-Index và toàn bộ cổ phiếu trong watchlist.
+`vnstock` miễn phí. Đã xác nhận qua CI thật (tier "golden"): dùng `vnstock_data` trả phí, VN-Index
+lấy được **271 tháng (2004-01 → 2026-07)** thay vì chỉ ~97 tháng (từ 2018) như bản miễn phí; các
+cổ phiếu trong watchlist có lịch sử 106–237 tháng tùy mã (theo ngày niêm yết). Xem
+`docs/backtest_summary.md` để có bảng xếp hạng đầy đủ.
 
 ## Tiến độ
 - [x] Phase 1 — PWA shell + bảng giá + watchlist + alert giá tại máy

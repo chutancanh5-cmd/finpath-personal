@@ -9,9 +9,22 @@ import pandas as pd
 from .engine import SimResult
 
 
-def xirr(cashflows: List[Tuple[pd.Timestamp, float]], lo: float = -0.9999,
-         hi: float = 50.0, tol: float = 1e-7, max_iter: int = 200) -> Optional[float]:
-    """Suat sinh loi noi bo hang nam tu chuoi dong tien khong deu (bisection, khong can scipy)."""
+_XIRR_GRID = (
+    -0.9999, -0.999, -0.99, -0.95, -0.9, -0.8, -0.7, -0.6, -0.5, -0.4, -0.3, -0.2,
+    -0.1, -0.05, 0.0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.4, 0.5, 0.6, 0.75, 1.0,
+    1.5, 2.0, 3.0, 5.0, 8.0, 12.0, 20.0, 35.0, 50.0, 80.0, 130.0, 250.0, 500.0,
+)
+
+
+def xirr(cashflows: List[Tuple[pd.Timestamp, float]], tol: float = 1e-9,
+         max_iter: int = 200) -> Optional[float]:
+    """Suat sinh loi noi bo hang nam tu chuoi dong tien khong deu (bisection, khong can scipy).
+
+    Chuoi giao dich DCA nhieu vong (mua/ban xen ke lap lai) co the khien NPV(r) doi dau
+    NHIEU LAN (khong don dieu) -- vi du kinh dien: cashflows [-1000, +2500, -1540] co NPV am
+    ca o r=-0.9999 lan r=50 du van co nghiem thuc o giua (~10%-30%). Vi vay thay vi chi thu
+    mo rong 1 khoang [lo, hi] duy nhat, quet qua 1 luoi r roi bisect trong doan dau tien doi dau.
+    """
     cfs = [(pd.Timestamp(d), float(v)) for d, v in cashflows if v is not None]
     if len(cfs) < 2:
         return None
@@ -26,23 +39,22 @@ def xirr(cashflows: List[Tuple[pd.Timestamp, float]], lo: float = -0.9999,
             total += v / ((1.0 + r) ** years)
         return total
 
+    lo = hi = None
+    prev_r, prev_f = _XIRR_GRID[0], npv(_XIRR_GRID[0])
+    if prev_f == 0:
+        return prev_r
+    for r in _XIRR_GRID[1:]:
+        f = npv(r)
+        if f == 0:
+            return r
+        if (f > 0) != (prev_f > 0):
+            lo, hi = prev_r, r
+            break
+        prev_r, prev_f = r, f
+    if lo is None:
+        return None  # khong tim thay doan doi dau nao tren luoi -- khong co nghiem thuc kha di
+
     f_lo, f_hi = npv(lo), npv(hi)
-    if f_lo == 0:
-        return lo
-    if f_hi == 0:
-        return hi
-    if (f_lo > 0) == (f_hi > 0):
-        expanded = False
-        h = hi
-        for _ in range(12):
-            h *= 2
-            f_h = npv(h)
-            if (f_lo > 0) != (f_h > 0):
-                hi, f_hi = h, f_h
-                expanded = True
-                break
-        if not expanded:
-            return None
     for _ in range(max_iter):
         mid = (lo + hi) / 2.0
         f_mid = npv(mid)

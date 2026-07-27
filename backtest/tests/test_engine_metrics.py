@@ -20,6 +20,30 @@ class TestXirr(unittest.TestCase):
     def test_none_when_no_sign_change(self):
         self.assertIsNone(xirr([(date(2020, 1, 1), -1000.0), (date(2021, 1, 1), -500.0)]))
 
+    def test_finds_root_when_npv_nonmonotonic(self):
+        # Vi du kinh dien 2 nghiem IRR (doi dau dong tien 2 lan: -,+,-). NPV am ca o
+        # r=-0.9999 lan r=50 (2 dau mut cu the cu dung expand-hi se tra ve None), nhung
+        # co nghiem thuc o giua (~10%-30%) -- day la ly do can quet luoi thay vi 1 khoang.
+        cfs = [(date(2020, 1, 1), -1000.0), (date(2021, 1, 1), 2500.0), (date(2022, 1, 1), -1540.0)]
+        rate = xirr(cfs)
+        self.assertIsNotNone(rate)
+        self.assertLess(abs(sum(v / ((1 + rate) ** ((d - date(2020, 1, 1)).days / 365.0))
+                                 for d, v in cfs)), 1e-4)
+
+    def test_still_correct_with_many_small_flows_and_open_position(self):
+        # Mo phong dang du lieu that gap phai (CTS): nhieu thang mua deu nho, xen ke vai
+        # lan ban, ket thuc bang 1 vi the con mo (gia tri con lai nho hon nhieu tong da gop).
+        cfs = []
+        d = date(2010, 1, 1)
+        for i in range(60):
+            cfs.append((d, -5_000_000.0))
+            if (i + 1) % 12 == 0:
+                cfs.append((d, 12 * 5_000_000.0 * 0.9))
+            d = date(d.year + (1 if d.month == 12 else 0), 1 if d.month == 12 else d.month + 1, 1)
+        cfs.append((d, 3_000_000.0))
+        rate = xirr(cfs)
+        self.assertIsNotNone(rate)
+
 
 class TestSimulateStrategy(unittest.TestCase):
     def setUp(self):
