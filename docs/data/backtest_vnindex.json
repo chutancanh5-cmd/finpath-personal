@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "symbol": "VNINDEX",
+    "label": "VN-Index",
+    "source": "vci",
+    "currency": "VND",
+    "ma_period": 10,
+    "contribution": 5000000.0,
+    "max_uptrend_months": 26,
+    "rest_months": 18,
+    "data_start": "2018-08-31",
+    "data_end": "2026-07-31",
+    "months_total": 96,
+    "generated_at": "2026-07-27T21:46:53+00:00"
+  },
+  "results": {
+    "strategy": {
+      "label": "strategy",
+      "months_simulated": 86,
+      "months_total": 96,
+      "num_trades": 64,
+      "num_buy": 59,
+      "num_sell": 5,
+      "num_force_exit": 0,
+      "num_rounds": 5,
+      "win_rounds": 2,
+      "loss_rounds": 3,
+      "win_rate": 0.4,
+      "principal_contributed": 295000000.0,
+      "final_units_held": 41822.330081,
+      "final_position_value": 69801887.128204,
+      "final_wealth": 304067250.44746,
+      "profit": 9067250.44746,
+      "moic": 1.030736,
+      "xirr_annual": 0.058864,
+      "max_drawdown": -0.036354,
+      "time_in_market_pct": 0.686047,
+      "rounds": [
+        {
+          "entry": "2019-06-30",
+          "exit": "2019-12-31",
+          "exit_type": "SELL",
+          "invested": 30000000.0,
+          "proceeds": 29711251.314749,
+          "profit": -288748.685251,
+          "return_pct": -0.009625
+        },
+        {
+          "entry": "2020-09-30",
+          "exit": "2022-05-31",
+          "exit_type": "SELL",
+          "invested": 100000000.0,
+          "proceeds": 112233672.3737,
+          "profit": 12233672.3737,
+          "return_pct": 0.122337
+        },
+        {
+          "entry": "2023-07-31",
+          "exit": "2023-11-30",
+          "exit_type": "SELL",
+          "invested": 20000000.0,
+          "proceeds": 17385282.342665,
+          "profit": -2614717.657335,
+          "return_pct": -0.130736
+        },
+        {
+          "entry": "2024-01-31",
+          "exit": "2024-12-31",
+          "exit_type": "SELL",
+          "invested": 55000000.0,
+          "proceeds": 55753111.964206,
+          "profit": 753111.964206,
+          "return_pct": 0.013693
+        },
+        {
+          "entry": "2025-01-31",
+          "exit": "2025-05-31",
+          "exit_type": "SELL",
+          "invested": 20000000.0,
+          "proceeds": 19182045.323937,
+          "profit": -817954.676063,
+          "return_pct": -0.040898
+        }
+      ]
+    },
+    "always_dca": {
+      "label": "always_dca",
+      "months_simulated": 86,
+      "months_total": 96,
+      "num_trades": 86,
+      "num_buy": 86,
+      "num_sell": 0,
+      "num_force_exit": 0,
+      "num_rounds": 0,
+      "win_rounds": 0,
+      "loss_rounds": 0,
+      "win_rate": null,
+      "principal_contributed": 430000000.0,
+      "final_units_held": 364698.007309,
+      "final_position_value": 608684621.179055,
+      "final_wealth": 608684621.179055,
+      "profit": 178684621.179055,
+      "moic": 1.415546,
+      "xirr_annual": 0.097327,
+      "max_drawdown": -0.194649,
+      "time_in_market_pct": 1.0,
+      "rounds": []
+    },
+    "lump_sum": {
+      "label": "lump_sum",
+      "months_simulated": 86,
+      "months_total": 96,
+      "num_trades": 1,
+      "num_buy": 1,
+      "num_sell": 0,
+      "num_force_exit": 0,
+      "num_rounds": 0,
+      "win_rounds": 0,
+      "loss_rounds": 0,
+      "win_rate": null,
+      "principal_contributed": 295000000.0,
+      "final_units_held": 309360.515111,
+      "final_position_value": 516325793.326202,
+      "final_wealth": 516325793.326202,
+      "profit": 221325793.326202,
+      "moic": 1.750257,
+      "xirr_annual": 0.082146,
+      "max_drawdown": -0.336687,
+      "time_in_market_pct": 1.0,
+      "rounds": []
+    }
+  }
+}
