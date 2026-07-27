@@ -157,8 +157,12 @@ def git_push(paths: list[str]):
 def main():
     args = build_arg_parser().parse_args()
     cfg = resolve_config(args)
-    df = load_data(cfg, args.csv)
-    result = run(cfg, df, args.max_uptrend_months, args.rest_months)
+    try:
+        df = load_data(cfg, args.csv)
+        result = run(cfg, df, args.max_uptrend_months, args.rest_months)
+    except (RuntimeError, FileNotFoundError, ValueError) as e:
+        log(f"LOI: {e}")
+        sys.exit(1)
 
     md = report.format_markdown(result["meta"], result["summaries"])
     print(md)
