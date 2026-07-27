@@ -98,6 +98,39 @@ Chạy local không cần push: app đọc trực tiếp `docs/data/*.json`.
 - **Badge "dữ liệu cũ"** trong app khi task lỗi (trong giờ giao dịch, >25′).
 - **Giảm nhịp Pages**: `push_data.py` gộp + chỉ push ≥12′/lần (tránh throttle + va chạm git).
 
+## Backtest chiến thuật "Tích sản trong Uptrend"
+Hệ thống backtest độc lập ở `backtest/`, hiện thực đúng chiến thuật CMT (Trend + Amplitude
+qua MA, Timing theo chu kỳ) mà nhà đầu tư mô tả — khung thời gian **THÁNG (M1)**:
+- **MUA**: nến tháng đóng cửa > MA(N) → đầu tháng sau có lương là mua tích sản (DCA).
+- **BÁN**: nến tháng đóng cửa < MA(N) → bán sạch ngay đầu tháng sau.
+- **TIMING**: giữ vị thế đủ **26 tháng** uptrend liên tục mà chưa bị tín hiệu MA cắt xuống thì
+  vẫn chủ động bán sạch (force-exit), sau đó **nghỉ 18 tháng (1,5 năm)** mới đánh giá lại tín hiệu.
+- MA tùy theo tài sản: **VN-Index MA10**, **BTC MA13**, **Vàng thế giới (XAU/USD) MA21**.
+
+```
+backtest/
+  strategy.py       ← state machine sinh tín hiệu MUA/BÁN/FORCE_EXIT (không nhìn trước dữ liệu)
+  engine.py         ← mô phỏng dòng tiền DCA + 2 benchmark (DCA đều/không bán, lump-sum)
+  metrics.py        ← XIRR, max drawdown, MOIC, tỷ lệ vòng thắng...
+  data_sources.py   ← nạp giá tháng: vnstock VCI (VN-Index) / MSN (BTC, XAU/USD) / CSV offline
+  report.py         ← xuất báo cáo Markdown + JSON
+  run_backtest.py   ← CLI chạy backtest
+  tests/            ← unit test (python -m unittest discover -s backtest/tests)
+```
+
+Chạy thử:
+```bash
+pip install -r requirements.txt
+python backtest/run_backtest.py --asset vnindex   # MA10, nguồn VCI (miễn phí, không cần API key)
+python backtest/run_backtest.py --asset btc       # MA13, nguồn MSN
+python backtest/run_backtest.py --asset gold      # MA21, nguồn MSN
+# offline (không cần mạng), CSV cột time,open,high,low,close:
+python backtest/run_backtest.py --asset vnindex --csv data.csv
+```
+Kết quả (JSON `docs/data/backtest_<asset>.json` + Markdown `docs/backtest_<asset>.md`) được workflow
+`.github/workflows/backtest.yml` tự chạy đầu mỗi tháng (và có thể bấm chạy tay qua workflow_dispatch),
+dùng đúng nguồn miễn phí của vnstock nên không cần secret `VNSTOCK_API_KEY`.
+
 ## Tiến độ
 - [x] Phase 1 — PWA shell + bảng giá + watchlist + alert giá tại máy
 - [x] Phase 2 — Khuyến nghị DC55/30 (16 mã, tính lời/lỗ vị thế đang nắm)
