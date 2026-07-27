@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: '15 2 1 * *'  # 1 ngay dau moi thang, 02:15 UTC (~09:15 gio VN)
   workflow_dispatch:
+  push:  # TAM THOI: kiem chung vnstock_data tra phi tren branch truoc khi merge; se go bo sau
+    branches:
+      - claude/trading-system-backtest-ntcgky
 
 permissions:
   contents: write
