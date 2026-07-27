@@ -50,17 +50,17 @@ def _clean_monthly(df: pd.DataFrame) -> pd.DataFrame:
 
 def fetch_monthly(symbol: str, source: str, start: str = "2000-01-01",
                    end: Optional[str] = None) -> pd.DataFrame:
-    """Lay du lieu gia thang tu vnstock (source = 'vci' hoac 'msn')."""
+    """Lay du lieu gia thang tu vnstock (source = 'vci' hoac 'msn').
+
+    Luon xin du lieu NGAY (interval='1D') roi tu resample ve thang trong _clean_monthly,
+    thay vi nho provider resample ho -- endpoint crypto cua MSN (BTC) da quan sat thay
+    cat du lieu rat ngan (~12 thang) khi xin thang truc tiep qua interval='1M', trong khi
+    xin ngay + tu resample thi lay duoc day du hon.
+    """
     from vnstock.api.quote import Quote  # import tre de tranh loi khi chi dung --csv offline
 
     q = Quote(source=source.upper(), symbol=symbol)
-    kwargs = {"start": start, "end": end, "interval": "1M"}
-    if source.lower() == "msn":
-        # MSN cat ket qua theo count_back SAU KHI da resample ve thang (mac dinh 365 thanh),
-        # dat lon de khong bi cat mat du lieu cu. VCI thi count_back la SO NEN NGAY truoc khi
-        # resample nen de mac dinh, du lieu se duoc tinh tu business days giua start/end.
-        kwargs["count_back"] = 100000
-    df = q.history(**kwargs)
+    df = q.history(start=start, end=end, interval="1D", count_back=100000)
     return _clean_monthly(df)
 
 
