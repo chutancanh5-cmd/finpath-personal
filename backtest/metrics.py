@@ -10,7 +10,7 @@ from .engine import SimResult
 
 
 _XIRR_GRID = (
-    -0.9999, -0.999, -0.99, -0.95, -0.9, -0.8, -0.7, -0.6, -0.5, -0.4, -0.3, -0.2,
+    -0.99, -0.95, -0.9, -0.8, -0.7, -0.6, -0.5, -0.4, -0.3, -0.2,
     -0.1, -0.05, 0.0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.4, 0.5, 0.6, 0.75, 1.0,
     1.5, 2.0, 3.0, 5.0, 8.0, 12.0, 20.0, 35.0, 50.0, 80.0, 130.0, 250.0, 500.0,
 )
@@ -22,8 +22,14 @@ def xirr(cashflows: List[Tuple[pd.Timestamp, float]], tol: float = 1e-9,
 
     Chuoi giao dich DCA nhieu vong (mua/ban xen ke lap lai) co the khien NPV(r) doi dau
     NHIEU LAN (khong don dieu) -- vi du kinh dien: cashflows [-1000, +2500, -1540] co NPV am
-    ca o r=-0.9999 lan r=50 du van co nghiem thuc o giua (~10%-30%). Vi vay thay vi chi thu
-    mo rong 1 khoang [lo, hi] duy nhat, quet qua 1 luoi r roi bisect trong doan dau tien doi dau.
+    ca o r=-0.99 lan r=500 du van co nghiem thuc o giua (~10%-30%). Vi vay quet qua 1 luoi r,
+    thu thap TAT CA cac doan doi dau (co the co nhieu nghiem thuc), bisect tung doan, roi chon
+    nghiem GAN 0 NHAT trong so cac nghiem tim duoc.
+
+    Ly do chon "gan 0 nhat" thay vi "nghiem dau tien tim thay": vung r rat gan -100% (r -> -1)
+    la diem ky di toan hoc (chia cho (1+r)^t -> vo cung), de sinh ra nghiem "ao" ve mat toan
+    hoc nhung vo ly ve tai chinh (VD: MOIC > 1 -- tuc co lai -- ma lai ra XIRR gan -100%).
+    Nghiem gan 0 nhat thuong la nghiem hop ly nhat khi co nhieu nghiem thuc.
     """
     cfs = [(pd.Timestamp(d), float(v)) for d, v in cashflows if v is not None]
     if len(cfs) < 2:
@@ -39,32 +45,33 @@ def xirr(cashflows: List[Tuple[pd.Timestamp, float]], tol: float = 1e-9,
             total += v / ((1.0 + r) ** years)
         return total
 
-    lo = hi = None
+    def bisect(lo: float, hi: float, f_lo: float) -> float:
+        for _ in range(max_iter):
+            mid = (lo + hi) / 2.0
+            f_mid = npv(mid)
+            if abs(f_mid) < tol:
+                return mid
+            if (f_mid > 0) == (f_lo > 0):
+                lo, f_lo = mid, f_mid
+            else:
+                hi = mid
+        return (lo + hi) / 2.0
+
+    roots = []
     prev_r, prev_f = _XIRR_GRID[0], npv(_XIRR_GRID[0])
     if prev_f == 0:
-        return prev_r
+        roots.append(prev_r)
     for r in _XIRR_GRID[1:]:
         f = npv(r)
         if f == 0:
-            return r
-        if (f > 0) != (prev_f > 0):
-            lo, hi = prev_r, r
-            break
+            roots.append(r)
+        elif (f > 0) != (prev_f > 0):
+            roots.append(bisect(prev_r, r, prev_f))
         prev_r, prev_f = r, f
-    if lo is None:
-        return None  # khong tim thay doan doi dau nao tren luoi -- khong co nghiem thuc kha di
 
-    f_lo, f_hi = npv(lo), npv(hi)
-    for _ in range(max_iter):
-        mid = (lo + hi) / 2.0
-        f_mid = npv(mid)
-        if abs(f_mid) < tol:
-            return mid
-        if (f_mid > 0) == (f_lo > 0):
-            lo, f_lo = mid, f_mid
-        else:
-            hi, f_hi = mid, f_mid
-    return (lo + hi) / 2.0
+    if not roots:
+        return None  # khong tim thay doan doi dau nao tren luoi -- khong co nghiem thuc kha di
+    return min(roots, key=abs)
 
 
 def max_drawdown(equity: List[float]) -> float:
