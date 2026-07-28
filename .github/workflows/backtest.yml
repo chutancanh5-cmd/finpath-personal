@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: '15 2 1 * *'  # 1 ngay dau moi thang, 02:15 UTC (~09:15 gio VN)
   workflow_dispatch:
+  push:  # TAM THOI: so sanh MA20 vs MA10 tren du lieu that, se go bo sau
+    branches:
+      - claude/trading-system-backtest-ntcgky
 
 permissions:
   contents: write
@@ -52,6 +55,8 @@ jobs:
           fi
       - name: Backtest chung khoan co so VN (VN-Index + watchlist, MA10)
         run: python backtest/run_batch.py
+      - name: TAM THOI -- so sanh MA20 (khong commit, chi de xem log)
+        run: python backtest/run_batch.py --ma 20 --out-dir /tmp/ma20_run
       - name: Commit & push ket qua
         run: |
           git config user.name "finpath-bot"
