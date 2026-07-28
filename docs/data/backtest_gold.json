@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "symbol": "XAUUSD",
+    "label": "Vang the gioi (XAU/USD)",
+    "source": "msn",
+    "currency": "USD",
+    "ma_period": 21,
+    "contribution": 100.0,
+    "max_uptrend_months": 26,
+    "rest_months": 18,
+    "data_start": "2018-07-26",
+    "data_end": "2026-07-01",
+    "months_total": 97,
+    "generated_at": "2026-07-27T21:55:18+00:00"
+  },
+  "results": {
+    "strategy": {
+      "label": "strategy",
+      "months_simulated": 76,
+      "months_total": 97,
+      "num_trades": 63,
+      "num_buy": 58,
+      "num_sell": 4,
+      "num_force_exit": 1,
+      "num_rounds": 5,
+      "win_rounds": 3,
+      "loss_rounds": 2,
+      "win_rate": 0.6,
+      "principal_contributed": 5800.0,
+      "final_units_held": 0.0,
+      "final_position_value": 0.0,
+      "final_wealth": 7813.118388,
+      "profit": 2013.118388,
+      "moic": 1.347089,
+      "xirr_annual": 0.256136,
+      "max_drawdown": -0.003941,
+      "time_in_market_pct": 0.763158,
+      "rounds": [
+        {
+          "entry": "2020-04-01",
+          "exit": "2021-10-01",
+          "exit_type": "SELL",
+          "invested": 1800.0,
+          "proceeds": 1771.142326,
+          "profit": -28.857674,
+          "return_pct": -0.016032
+        },
+        {
+          "entry": "2022-01-03",
+          "exit": "2022-02-01",
+          "exit_type": "SELL",
+          "invested": 100.0,
+          "proceeds": 106.20272,
+          "profit": 6.20272,
+          "return_pct": 0.062027
+        },
+        {
+          "entry": "2022-03-01",
+          "exit": "2022-07-01",
+          "exit_type": "SELL",
+          "invested": 400.0,
+          "proceeds": 377.985172,
+          "profit": -22.014828,
+          "return_pct": -0.055037
+        },
+        {
+          "entry": "2023-01-02",
+          "exit": "2023-10-02",
+          "exit_type": "SELL",
+          "invested": 900.0,
+          "proceeds": 926.515983,
+          "profit": 26.515983,
+          "return_pct": 0.029462
+        },
+        {
+          "entry": "2023-11-01",
+          "exit": "2026-01-02",
+          "exit_type": "FORCE_EXIT",
+          "invested": 2600.0,
+          "proceeds": 4631.272188,
+          "profit": 2031.272188,
+          "return_pct": 0.781259
+        }
+      ]
+    },
+    "always_dca": {
+      "label": "always_dca",
+      "months_simulated": 76,
+      "months_total": 97,
+      "num_trades": 76,
+      "num_buy": 76,
+      "num_sell": 0,
+      "num_force_exit": 0,
+      "num_rounds": 0,
+      "win_rounds": 0,
+      "loss_rounds": 0,
+      "win_rate": null,
+      "principal_contributed": 7600.0,
+      "final_units_held": 3.451654,
+      "final_position_value": 13988.034725,
+      "final_wealth": 13988.034725,
+      "profit": 6388.034725,
+      "moic": 1.840531,
+      "xirr_annual": 0.195333,
+      "max_drawdown": -0.220979,
+      "time_in_market_pct": 1.0,
+      "rounds": []
+    },
+    "lump_sum": {
+      "label": "lump_sum",
+      "months_simulated": 76,
+      "months_total": 97,
+      "num_trades": 1,
+      "num_buy": 1,
+      "num_sell": 0,
+      "num_force_exit": 0,
+      "num_rounds": 0,
+      "win_rounds": 0,
+      "loss_rounds": 0,
+      "win_rate": null,
+      "principal_contributed": 5800.0,
+      "final_units_held": 3.452196,
+      "final_position_value": 13990.231476,
+      "final_wealth": 13990.231476,
+      "profit": 8190.231476,
+      "moic": 2.412109,
+      "xirr_annual": 0.151233,
+      "max_drawdown": -0.240665,
+      "time_in_market_pct": 1.0,
+      "rounds": []
+    }
+  }
+}

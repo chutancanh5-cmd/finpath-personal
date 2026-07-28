@@ -98,6 +98,50 @@ Chạy local không cần push: app đọc trực tiếp `docs/data/*.json`.
 - **Badge "dữ liệu cũ"** trong app khi task lỗi (trong giờ giao dịch, >25′).
 - **Giảm nhịp Pages**: `push_data.py` gộp + chỉ push ≥12′/lần (tránh throttle + va chạm git).
 
+## Backtest chiến thuật "Tích sản trong Uptrend"
+Hệ thống backtest độc lập ở `backtest/`, hiện thực đúng chiến thuật CMT (Trend + Amplitude
+qua MA, Timing theo chu kỳ) mà nhà đầu tư mô tả — khung thời gian **THÁNG (M1)**, **tập trung
+cho chứng khoán CƠ SỞ Việt Nam** (VN-Index + watchlist cổ phiếu của app):
+- **MUA**: nến tháng đóng cửa > MA(N) → đầu tháng sau có lương là mua tích sản (DCA).
+- **BÁN**: nến tháng đóng cửa < MA(N) → bán sạch ngay đầu tháng sau.
+- **TIMING**: giữ vị thế đủ **26 tháng** uptrend liên tục mà chưa bị tín hiệu MA cắt xuống thì
+  vẫn chủ động bán sạch (force-exit), sau đó **nghỉ 18 tháng (1,5 năm)** mới đánh giá lại tín hiệu.
+- MA10 áp dụng đồng nhất cho VN-Index và toàn bộ cổ phiếu (đúng quy tắc mô tả cho VN-Index).
+  BTC/Vàng (MA13/MA21) vẫn chạy được qua `run_backtest.py --asset btc|gold` nhưng không còn
+  nằm trong workflow tự động (đã tập trung lại cho thị trường VN).
+
+```
+backtest/
+  strategy.py       ← state machine sinh tín hiệu MUA/BÁN/FORCE_EXIT (không nhìn trước dữ liệu)
+  engine.py         ← mô phỏng dòng tiền DCA + 2 benchmark (DCA đều/không bán, lump-sum)
+  metrics.py        ← XIRR, max drawdown, MOIC, tỷ lệ vòng thắng...
+  data_sources.py   ← nạp giá tháng: vnstock_data (trả phí) ưu tiên, lùi về vnstock (miễn phí) / CSV offline
+  report.py         ← xuất báo cáo Markdown + JSON, kèm bảng xếp hạng tổng hợp nhiều mã
+  run_backtest.py   ← CLI chạy backtest 1 mã
+  run_batch.py      ← CLI chạy backtest VN-Index + watchlist.txt cùng lúc, ra bảng xếp hạng
+  tests/            ← unit test (python -m unittest discover -s backtest/tests)
+```
+
+Chạy thử:
+```bash
+pip install -r requirements.txt
+python backtest/run_batch.py                       # VN-Index + updater/watchlist.txt, MA10
+python backtest/run_batch.py --symbols FPT,HPG,VNINDEX
+python backtest/run_backtest.py --asset vnindex     # 1 mã, MA10
+# offline (không cần mạng), CSV cột time,open,high,low,close:
+python backtest/run_backtest.py --asset vnindex --csv data.csv
+```
+Kết quả (JSON `docs/data/backtest_<ma>.json` + Markdown `docs/backtest_<ma>.md`, cộng bảng tổng hợp
+`docs/backtest_summary.md`) được workflow `.github/workflows/backtest.yml` tự chạy đầu mỗi tháng
+(và có thể bấm chạy tay qua workflow_dispatch).
+
+**Dữ liệu:** `data_sources.py` ưu tiên `vnstock_data` (bản trả phí, cùng `VNSTOCK_API_KEY` mà
+`finpath-daily.yml` đã dùng) để có lịch sử đầy đủ; nếu chưa cài/chưa có key thì tự lùi về
+`vnstock` miễn phí. Đã xác nhận qua CI thật (tier "golden"): dùng `vnstock_data` trả phí, VN-Index
+lấy được **271 tháng (2004-01 → 2026-07)** thay vì chỉ ~97 tháng (từ 2018) như bản miễn phí; các
+cổ phiếu trong watchlist có lịch sử 106–237 tháng tùy mã (theo ngày niêm yết). Xem
+`docs/backtest_summary.md` để có bảng xếp hạng đầy đủ.
+
 ## Tiến độ
 - [x] Phase 1 — PWA shell + bảng giá + watchlist + alert giá tại máy
 - [x] Phase 2 — Khuyến nghị DC55/30 (16 mã, tính lời/lỗ vị thế đang nắm)

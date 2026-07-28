@@ -1,0 +1,70 @@
+name: finpath-backtest
+# Chay backtest chien luoc "Tich san trong Uptrend" (MA10 thang + timing 26/18 thang)
+# tap trung cho chung khoan CO SO Viet Nam: VN-Index + watchlist cua app.
+# Dung vnstock_data (ban tra phi, can secret VNSTOCK_API_KEY) de co lich su day du;
+# tu dong lui ve vnstock (mien phi, ~8 nam gan nhat) neu chua co key.
+on:
+  schedule:
+    - cron: '15 2 1 * *'  # 1 ngay dau moi thang, 02:15 UTC (~09:15 gio VN)
+  workflow_dispatch:
+  push:  # TAM THOI: so sanh MA20 vs MA10 tren du lieu that, se go bo sau
+    branches:
+      - claude/trading-system-backtest-ntcgky
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finpath-backtest
+  cancel-in-progress: false
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    env:
+      VNSTOCK_API_KEY: ${{ secrets.VNSTOCK_API_KEY }}
+      ACCEPT_TC: "tôi đồng ý"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Cache trang thai license vnstock (~/.vnstock)
+        uses: actions/cache@v4
+        with:
+          path: ~/.vnstock
+          key: vnstock-license-v1
+      - uses: actions/cache@v4
+        id: venv
+        with:
+          path: .venv
+          key: venv-${{ runner.os }}-py312-${{ hashFiles('requirements.txt') }}
+      - name: Cai thu vien (chi khi cache miss)
+        if: steps.venv.outputs.cache-hit != 'true'
+        run: python -m venv .venv && .venv/bin/pip install -r requirements.txt
+      - run: echo "$PWD/.venv/bin" >> "$GITHUB_PATH"
+      - name: Cai vnstock_data (ban tra phi) neu chua co trong venv
+        run: |
+          if ! .venv/bin/python -c "import vnstock_data" 2>/dev/null; then
+            echo "vnstock_data chua co, cai qua CLI installer chinh thuc..."
+            wget -qO vnstock-cli-installer.run https://vnstocks.com/files/vnstock-cli-installer.run
+            chmod +x vnstock-cli-installer.run
+            ./vnstock-cli-installer.run -- --non-interactive --api-key "$VNSTOCK_API_KEY" --venv-path "$PWD/.venv" --language en
+          else
+            echo "vnstock_data da co san trong venv cache, bo qua installer."
+          fi
+      - name: Backtest chung khoan co so VN (VN-Index + watchlist, MA10)
+        run: python backtest/run_batch.py
+      - name: TAM THOI -- so sanh MA20 (khong commit, chi de xem log)
+        run: python backtest/run_batch.py --ma 20 --out-dir /tmp/ma20_run
+      - name: Commit & push ket qua
+        run: |
+          git config user.name "finpath-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data/backtest_*.json docs/backtest_*.md docs/backtest_summary.md
+          if git diff --cached --quiet; then echo "khong co thay doi"; else
+            git commit -m "backtest: cap nhat ket qua $(date -u +%Y-%m-%d)"
+            git fetch origin "${{ github.ref_name }}"
+            git rebase -X theirs "origin/${{ github.ref_name }}" || git rebase --abort
+            git push origin "HEAD:${{ github.ref_name }}"
+          fi
