@@ -11,7 +11,7 @@
     "data_start": "2017-10-05",
     "data_end": "2026-07-01",
     "months_total": 106,
-    "generated_at": "2026-07-27T22:09:28+00:00"
+    "generated_at": "2026-07-28T20:46:58+00:00"
   },
   "results": {
     "strategy": {
@@ -88,11 +88,11 @@
       "win_rate": null,
       "principal_contributed": 480000000.0,
       "final_units_held": 76460912.95447,
-      "final_position_value": 4128889299.5414,
-      "final_wealth": 4128889299.5414,
-      "profit": 3648889299.5414,
-      "moic": 8.601853,
-      "xirr_annual": 0.536815,
+      "final_position_value": 4090658843.064165,
+      "final_wealth": 4090658843.064165,
+      "profit": 3610658843.064165,
+      "moic": 8.522206,
+      "xirr_annual": 0.534392,
       "max_drawdown": -0.435456,
       "time_in_market_pct": 1.0,
       "rounds": []
@@ -111,11 +111,11 @@
       "win_rate": null,
       "principal_contributed": 240000000.0,
       "final_units_held": 75000000.0,
-      "final_position_value": 4050000000.0,
-      "final_wealth": 4050000000.0,
-      "profit": 3810000000.0,
-      "moic": 16.875,
-      "xirr_annual": 0.428711,
+      "final_position_value": 4012500000.0,
+      "final_wealth": 4012500000.0,
+      "profit": 3772500000.0,
+      "moic": 16.71875,
+      "xirr_annual": 0.427034,
       "max_drawdown": -0.514216,
       "time_in_market_pct": 1.0,
       "rounds": []
