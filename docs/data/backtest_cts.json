@@ -11,7 +11,7 @@
     "data_start": "2009-07-31",
     "data_end": "2026-07-01",
     "months_total": 205,
-    "generated_at": "2026-07-28T20:46:48+00:00"
+    "generated_at": "2026-07-28T20:56:38+00:00"
   },
   "results": {
     "strategy": {
@@ -32,7 +32,7 @@
       "final_wealth": 536735732.735874,
       "profit": 51735732.735874,
       "moic": 1.106672,
-      "xirr_annual": -0.997638,
+      "xirr_annual": 0.129773,
       "max_drawdown": -0.194442,
       "time_in_market_pct": 0.497436,
       "rounds": [
