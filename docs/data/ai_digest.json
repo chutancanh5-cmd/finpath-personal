@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-27",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "VN-Index vừa mất hơn 100 điểm chỉ trong một tuần, cho thấy tâm lý nhà đầu tư đang rất thận trọng dù các CTCK đang tìm vùng đáy kỹ thuật để xác nhận đảo chiều. Rủi ro thuế quan Mỹ áp lên tới 12,5% với hàng nhập khẩu từ Việt Nam tiếp tục phủ bóng lên nhóm xuất khẩu, cộng thêm áp lực bán ròng mạnh của khối ngoại tại các mã vốn hóa lớn như PNJ. Điểm sáng đến từ tổng kim ngạch xuất nhập khẩu 6 tháng đạt gần 550 tỷ USD và mục tiêu tăng trưởng hai con số của Hà Nội, cho thấy nền tảng vĩ mô nội tại vẫn tích cực. Biến động dữ dội của giá vàng trong tuần cũng khiến dòng tiền đầu cơ có xu hướng tìm kênh trú ẩn khác thay vì cổ phiếu, tạo thêm cạnh tranh vốn ngắn hạn. Nhìn chung thị trường cần thêm thời gian tích lũy trước khi dòng tiền quay lại rõ nét.",
+  "date": "2026-07-28",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Dòng vốn FDI vẫn là điểm sáng với thỏa thuận hợp tác 95 tỷ USD từ Hàn Quốc và tiềm năng khoáng sản chiến lược của Việt Nam, hỗ trợ triển vọng tăng trưởng dài hạn và nhóm cổ phiếu công nghiệp, bất động sản khu công nghiệp. Kết quả kinh doanh quý 2 tích cực như Điện Máy Xanh lãi tăng 80% củng cố niềm tin vào nhóm bán lẻ - tiêu dùng. Tuy nhiên rủi ro ngắn hạn đang gia tăng khi khối ngoại bán ròng mạnh, xả cổ phiếu ngân hàng, và một quỹ ngoại tỷ USD đánh giá thị trường tháng 7 \"kinh hoàng\" cho thấy tâm lý thận trọng. Quyết định lãi suất FED sắp tới có thể gây biến động cho tỷ giá và dòng vốn ngoại, trong khi thanh khoản môi giới suy yếu phản ánh dòng tiền nội địa còn yếu. Nhìn chung thị trường cần thêm chất xúc tác để cân bằng giữa nền tảng vĩ mô tích cực và áp lực bán ròng ngắn hạn.",
   "top": [
-    {"title": "VN-Index mất hơn 100 điểm trong một tuần", "impact": "↓", "note": "Đà giảm mạnh và nhanh cho thấy tâm lý nhà đầu tư đang rất yếu, gia tăng rủi ro ngắn hạn"},
-    {"title": "Mỹ áp thuế nhập khẩu lên đến 12,5% với hàng hóa Việt Nam", "impact": "↓", "note": "Rủi ro thuế quan đe dọa biên lợi nhuận nhóm xuất khẩu như dệt may, thủy sản, gỗ"},
-    {"title": "Khối ngoại bán khoảng 35 triệu cổ phiếu PNJ", "impact": "↓", "note": "Áp lực bán ròng của khối ngoại tại cổ phiếu lớn gây tâm lý tiêu cực lan tỏa"},
-    {"title": "Tổng kim ngạch xuất nhập khẩu đạt gần 550 tỷ USD trong 6 tháng", "impact": "↑", "note": "Thương mại tăng trưởng tích cực hỗ trợ nhóm cổ phiếu xuất nhập khẩu và logistics"},
-    {"title": "Hà Nội triển khai kịch bản tăng trưởng 13,44% cuối năm", "impact": "↑", "note": "Quyết tâm tăng trưởng cao hỗ trợ nhóm hạ tầng, bất động sản, đầu tư công"},
-    {"title": "Giá vàng trải qua tuần biến động dữ dội, có lúc mất 8 triệu đồng/2 ngày", "impact": "→", "note": "Biến động vàng mạnh có thể hút bớt dòng tiền đầu cơ khỏi kênh chứng khoán"}
+    {"title": "Hàn Quốc cam kết hợp tác 95 tỷ USD với Việt Nam", "impact": "↑", "note": "Dòng vốn FDI lớn củng cố triển vọng tăng trưởng và nhóm KCN, xây dựng"},
+    {"title": "Việt Nam có trữ lượng khoáng sản chiến lược vượt trội, bước tiến khai thác mới", "impact": "↑", "note": "Tiềm năng tỷ USD dài hạn cho nhóm tài nguyên, khoáng sản"},
+    {"title": "Điện Máy Xanh ước lãi sau thuế quý 2 tăng 80%", "impact": "↑", "note": "Kết quả kinh doanh vượt kỳ vọng hỗ trợ cổ phiếu MWG và nhóm bán lẻ"},
+    {"title": "Quỹ ngoại tỷ USD đánh giá chứng khoán tháng 7 \"kinh hoàng\"", "impact": "↓", "note": "Tâm lý nhà đầu tư nước ngoài tiêu cực có thể kéo dài áp lực bán"},
+    {"title": "Khối ngoại bán ròng gần 800 tỷ đồng, xả cổ phiếu ngân hàng", "impact": "↓", "note": "Áp lực rút vốn ngoại đè nặng lên nhóm ngân hàng vốn hóa lớn"},
+    {"title": "Giá bạc dự báo biến động mạnh trước quyết định lãi suất FED", "impact": "→", "note": "Bất định chính sách FED có thể ảnh hưởng tỷ giá và dòng vốn ngoại vào TTCK VN"}
   ]
 }
