@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng vốn FDI vẫn là điểm sáng với thỏa thuận hợp tác 95 tỷ USD từ Hàn Quốc và tiềm năng khoáng sản chiến lược của Việt Nam, hỗ trợ triển vọng tăng trưởng dài hạn và nhóm cổ phiếu công nghiệp, bất động sản khu công nghiệp. Kết quả kinh doanh quý 2 tích cực như Điện Máy Xanh lãi tăng 80% củng cố niềm tin vào nhóm bán lẻ - tiêu dùng. Tuy nhiên rủi ro ngắn hạn đang gia tăng khi khối ngoại bán ròng mạnh, xả cổ phiếu ngân hàng, và một quỹ ngoại tỷ USD đánh giá thị trường tháng 7 \"kinh hoàng\" cho thấy tâm lý thận trọng. Quyết định lãi suất FED sắp tới có thể gây biến động cho tỷ giá và dòng vốn ngoại, trong khi thanh khoản môi giới suy yếu phản ánh dòng tiền nội địa còn yếu. Nhìn chung thị trường cần thêm chất xúc tác để cân bằng giữa nền tảng vĩ mô tích cực và áp lực bán ròng ngắn hạn.",
+  "summary_vi": "Điểm sáng vĩ mô tiếp diễn khi loạt định chế tài chính lớn như Vanguard, Blackstone, UBS, Morgan Stanley chuẩn bị tham gia TTCK Việt Nam, cùng khu kinh tế hút 6,2 tỷ USD vốn FDI và thỏa thuận hợp tác 95 tỷ USD với Hàn Quốc, củng cố câu chuyện nâng hạng và dòng vốn ngoại dài hạn. Tuy nhiên rủi ro ngắn hạn hiện rõ khi khối ngoại bất ngờ bán ròng gần 3.000 tỷ đồng tại một cổ phiếu VN30 và lợi nhuận hơn 570 doanh nghiệp quý 2 tăng trưởng thấp nhất 4 quý, cho thấy nền tảng lợi nhuận đang chững lại. Giới đầu tư đang \"nín thở\" chờ một thông tin quan trọng, khiến VN-Index có thể còn nhịp rũ bỏ trước khi hướng lên vùng 1.800 điểm, dù định giá nhiều cổ phiếu (P/E 4-8 lần) đã về mức hấp dẫn. Việc hoàn thiện khung pháp lý trái phiếu doanh nghiệp là bước đi tích cực hỗ trợ thị trường vốn về trung hạn. Nhìn chung, nhà đầu tư nên cân bằng giữa cơ hội tích lũy cổ phiếu định giá rẻ và sự thận trọng trước áp lực bán ròng, chờ thông tin then chốt sắp công bố.",
   "top": [
-    {"title": "Hàn Quốc cam kết hợp tác 95 tỷ USD với Việt Nam", "impact": "↑", "note": "Dòng vốn FDI lớn củng cố triển vọng tăng trưởng và nhóm KCN, xây dựng"},
-    {"title": "Việt Nam có trữ lượng khoáng sản chiến lược vượt trội, bước tiến khai thác mới", "impact": "↑", "note": "Tiềm năng tỷ USD dài hạn cho nhóm tài nguyên, khoáng sản"},
-    {"title": "Điện Máy Xanh ước lãi sau thuế quý 2 tăng 80%", "impact": "↑", "note": "Kết quả kinh doanh vượt kỳ vọng hỗ trợ cổ phiếu MWG và nhóm bán lẻ"},
-    {"title": "Quỹ ngoại tỷ USD đánh giá chứng khoán tháng 7 \"kinh hoàng\"", "impact": "↓", "note": "Tâm lý nhà đầu tư nước ngoài tiêu cực có thể kéo dài áp lực bán"},
-    {"title": "Khối ngoại bán ròng gần 800 tỷ đồng, xả cổ phiếu ngân hàng", "impact": "↓", "note": "Áp lực rút vốn ngoại đè nặng lên nhóm ngân hàng vốn hóa lớn"},
-    {"title": "Giá bạc dự báo biến động mạnh trước quyết định lãi suất FED", "impact": "→", "note": "Bất định chính sách FED có thể ảnh hưởng tỷ giá và dòng vốn ngoại vào TTCK VN"}
+    {"title": "Vanguard, Blackstone, UBS, Morgan Stanley sắp tham gia TTCK Việt Nam", "impact": "↑", "note": "Định chế tài chính lớn nhập cuộc củng cố kỳ vọng nâng hạng và dòng vốn ngoại dài hạn"},
+    {"title": "Khối ngoại bán ròng đột biến gần 3.000 tỷ đồng tại một cổ phiếu VN30", "impact": "↓", "note": "Áp lực rút vốn ngoại tập trung gây rung lắc nhóm vốn hóa lớn"},
+    {"title": "Cái bắt tay 95 tỷ USD giữa Hàn Quốc và Việt Nam", "impact": "↑", "note": "Dòng vốn FDI quy mô lớn hỗ trợ nhóm khu công nghiệp, xây dựng, sản xuất"},
+    {"title": "Hơn 570 doanh nghiệp báo lãi quý 2/2026 tăng trưởng thấp nhất 4 quý", "impact": "↓", "note": "Đà tăng trưởng lợi nhuận doanh nghiệp chững lại có thể ảnh hưởng định giá"},
+    {"title": "VN-Index có thể còn nhịp rũ bỏ trước khi hướng lên 1.800 điểm", "impact": "→", "note": "Định giá nhiều cổ phiếu về vùng rẻ nhưng thị trường cần thêm thời gian cân bằng"},
+    {"title": "Nhà đầu tư chứng khoán \"nín thở\" chờ một thông tin quan trọng", "impact": "→", "note": "Tâm lý thận trọng bao trùm trước thông tin then chốt sắp công bố"}
   ]
 }
