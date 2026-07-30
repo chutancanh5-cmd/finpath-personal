@@ -94,6 +94,10 @@ Chạy local không cần push: app đọc trực tiếp `docs/data/*.json`.
 - **Cá mập THẬT**: `update_orderflow.py --discord` bắn lệnh khớp đơn lẻ ≥1 tỷ (bỏ proxy khối ngoại ở scan).
 - **Cảnh báo giá server-side**: `check_alerts.py` đọc `price_alerts.json` → Discord cả khi đóng app.
 - **Biểu đồ giá**: tap mã ở Bảng giá → modal chart 120 phiên (`hist` trong prices.json).
+- **Hỗ trợ/kháng cự tự kẻ**: trong modal chart, app tìm đỉnh–đáy cục bộ (pivot 3 phiên mỗi bên) rồi
+  gom thành VÙNG theo dung sai bằng biên độ dao động thật của mã → kẻ nét đứt đỏ (kháng cự) / xanh
+  (hỗ trợ) + bảng liệt kê giá vùng, khoảng cách %, số lần chạm, vùng đã “đảo vai”. `update_prices.py`
+  ghi thêm `h`/`l` vào `hist` để pivot lấy đỉnh–đáy THẬT (dữ liệu cũ chỉ có close vẫn chạy được).
 - **Giá cập nhật trong phiên**: `update_prices.py --light` (1 lần price_board, không tải lại lịch sử).
 - **Badge "dữ liệu cũ"** trong app khi task lỗi (trong giờ giao dịch, >25′).
 - **Giảm nhịp Pages**: `push_data.py` gộp + chỉ push ≥12′/lần (tránh throttle + va chạm git).

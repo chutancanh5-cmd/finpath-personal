@@ -202,9 +202,14 @@ def add_sparklines(rows):
                 start=start, end=end, interval="1D")
             dates = [str(t)[:10] for t in h["time"].tolist()]
             closes = [num(x) for x in h["close"].tolist()]
-            pairs = [(d, c) for d, c in zip(dates, closes) if c is not None]
-            r["spark"] = [round(c, 2) for _, c in pairs[-SPARK_BARS:]]
-            r["hist"] = [{"t": d, "c": round(c, 2)} for d, c in pairs[-HIST_BARS:]]
+            # high/low de app ke ho tro/khang cu tu dinh-day THAT (khong chi close)
+            highs = [num(x) for x in h["high"].tolist()] if "high" in h.columns else closes
+            lows = [num(x) for x in h["low"].tolist()] if "low" in h.columns else closes
+            recs = [(d, c, hh if hh is not None else c, ll if ll is not None else c)
+                    for d, c, hh, ll in zip(dates, closes, highs, lows) if c is not None]
+            r["spark"] = [round(c, 2) for _, c, _, _ in recs[-SPARK_BARS:]]
+            r["hist"] = [{"t": d, "c": round(c, 2), "h": round(hh, 2), "l": round(ll, 2)}
+                         for d, c, hh, ll in recs[-HIST_BARS:]]
         except Exception as e:
             log("spark", r["sym"], "skip:", e)
 

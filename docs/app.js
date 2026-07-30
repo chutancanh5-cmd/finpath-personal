@@ -173,12 +173,103 @@ function tickCountdown() {
   }
 }
 
+/* ---------- hỗ trợ / kháng cự (tự kẻ từ lịch sử giá) ----------
+   Cách làm giống lúc kẻ tay: (1) tìm đỉnh/đáy cục bộ (pivot) — mỗi bên k phiên
+   không có giá cao/thấp hơn; (2) gom các pivot có giá sát nhau thành 1 VÙNG
+   (dung sai theo biên độ dao động thật của mã); (3) chấm điểm vùng theo số lần
+   chạm + độ mới + đã đảo vai (vừa làm đỉnh vừa làm đáy) → giữ vùng đáng tin.
+   Dùng high/low nếu updater có ghi, không thì lùi về giá đóng cửa. */
+const SR_LOOK = 3;      // số phiên mỗi bên để xác nhận 1 pivot
+const SR_MAX_SIDE = 3;  // tối đa 3 vùng phía trên + 3 vùng phía dưới
+
+function srLevels(hist, priceNow) {
+  const bars = (hist || []).map(d => ({
+    t: d.t, c: d.c,
+    h: d.h != null ? d.h : d.c,
+    l: d.l != null ? d.l : d.c,
+  })).filter(b => b.c != null);
+  const n = bars.length;
+  if (n < 25) return [];
+  // giá tham chiếu: giá khớp hiện tại (đưa về cùng đơn vị với hist) hoặc close cuối
+  const lastC = bars[n - 1].c;
+  let last = lastC;
+  if (priceNow) {
+    const p = lastC < 1000 ? priceNow / 1000 : priceNow;   // hist tính bằng nghìn đồng
+    if (p > lastC * 0.5 && p < lastC * 2) last = p;
+  }
+  // dung sai gom cụm = biên độ trung bình 1 phiên (kẹp 0.8%–3.5%)
+  let mv = 0;
+  for (let i = 1; i < n; i++) mv += Math.abs(bars[i].c - bars[i - 1].c) / (bars[i - 1].c || 1);
+  const tol = Math.min(0.035, Math.max(0.008, mv / (n - 1) * 1.6));
+
+  const piv = [];
+  for (let i = SR_LOOK; i < n - SR_LOOK; i++) {
+    let isH = true, isL = true;
+    for (let j = i - SR_LOOK; j <= i + SR_LOOK; j++) {
+      if (j === i) continue;
+      if (bars[j].h > bars[i].h) isH = false;
+      if (bars[j].l < bars[i].l) isL = false;
+    }
+    if (isH) piv.push({ i, p: bars[i].h, k: 'h' });
+    if (isL) piv.push({ i, p: bars[i].l, k: 'l' });
+  }
+  // đỉnh/đáy của cả cửa sổ luôn là mốc đáng kẻ (kể cả khi rơi vào rìa dữ liệu)
+  const iHi = bars.reduce((b, x, i) => x.h > bars[b].h ? i : b, 0);
+  const iLo = bars.reduce((b, x, i) => x.l < bars[b].l ? i : b, 0);
+  if (!piv.some(p => p.i === iHi && p.k === 'h')) piv.push({ i: iHi, p: bars[iHi].h, k: 'h' });
+  if (!piv.some(p => p.i === iLo && p.k === 'l')) piv.push({ i: iLo, p: bars[iLo].l, k: 'l' });
+  if (!piv.length) return [];
+
+  piv.sort((a, b) => a.p - b.p);
+  const groups = [];
+  for (const pv of piv) {
+    const g = groups[groups.length - 1];
+    if (g && (pv.p - g.ps[0]) <= tol * (g.sum / g.ps.length)) {
+      g.ps.push(pv.p); g.is.push(pv.i); g.sum += pv.p; g.kinds[pv.k] = 1;
+    } else {
+      groups.push({ ps: [pv.p], is: [pv.i], sum: pv.p, kinds: { [pv.k]: 1 } });
+    }
+  }
+
+  const levels = groups.map(g => {
+    const p = g.sum / g.ps.length;
+    const lastI = Math.max(...g.is), firstI = Math.min(...g.is);
+    const flip = Object.keys(g.kinds).length > 1;
+    return {
+      p, touches: g.ps.length, date: bars[lastI].t, flip,
+      dist: (p - last) / last * 100,
+      score: g.ps.length + 1.5 * (lastI / (n - 1)) + (lastI - firstI) / (n - 1) + (flip ? 0.8 : 0),
+    };
+  });
+
+  // chọn từ gần giá hiện tại ra xa: vùng ≥2 lần chạm; vùng 1 chạm chỉ nhận nếu là mốc gần nhất
+  const take = side => {
+    const cand = levels.filter(l => side > 0 ? l.p > last : l.p <= last)
+      .sort((a, b) => Math.abs(a.p - last) - Math.abs(b.p - last));
+    const out = [];
+    for (const l of cand) {
+      if (l.touches >= 2 || !out.length) out.push({ ...l, type: side > 0 ? 'res' : 'sup' });
+      if (out.length >= SR_MAX_SIDE) break;
+    }
+    return out;
+  };
+  return [...take(1), ...take(-1)].sort((a, b) => b.p - a.p);
+}
+
+const SR_COL = { res: '#ff5b6e', sup: '#2bd576' };
+const fmtLvl = v => v >= 1000 ? Math.round(v).toLocaleString('vi-VN') : v >= 100 ? v.toFixed(1) : v.toFixed(2);
+const srLabel = l => `${l.type === 'res' ? 'KC' : 'HT'} ${fmtLvl(l.p)} ×${l.touches}`;
+
 /* ---------- modal chart ---------- */
-function lineChartSVG(data) {
+function lineChartSVG(data, levels) {
   if (!data || data.length < 2) return '<p class="muted small">Chưa có dữ liệu lịch sử. Chạy update_prices.py (full).</p>';
-  const W = 520, H = 220, pl = 8, pr = 8, pt = 12, pb = 22;
+  const lv = levels || [];
+  // chừa lề phải làm rãnh ghi nhãn hỗ trợ/kháng cự (không đè lên đường giá)
+  const srW = lv.length ? Math.max(...lv.map(l => srLabel(l).length)) * 5.4 + 10 : 0;
+  const W = 520, H = 220, pl = 8, pr = Math.min(96, Math.max(8, srW)), pt = 12, pb = 22;
   const cs = data.map(d => d.c);
-  let lo = Math.min(...cs), hi = Math.max(...cs);
+  const ext = data.flatMap(d => [d.h != null ? d.h : d.c, d.l != null ? d.l : d.c]).concat(lv.map(l => l.p));
+  let lo = Math.min(...cs, ...ext), hi = Math.max(...cs, ...ext);
   const pad = (hi - lo) * 0.08 || 1; lo -= pad; hi += pad;
   const X = i => pl + i / (data.length - 1) * (W - pl - pr);
   const Y = v => pt + (1 - (v - lo) / (hi - lo || 1)) * (H - pt - pb);
@@ -186,21 +277,51 @@ function lineChartSVG(data) {
   const up = cs[cs.length - 1] >= cs[0], col = up ? 'var(--pos)' : 'var(--neg)';
   const area = `${line}L${X(data.length - 1).toFixed(1)},${Y(lo)}L${X(0)},${Y(lo)}Z`;
   const lab = v => Math.round(v).toLocaleString('vi-VN');
+  // đường S/R: nét đứt càng đậm khi càng nhiều lần chạm; nhãn nằm ở rãnh phải, tách nhau ≥10px
+  let prevY = -99;
+  const srPaths = lv.map(l => {
+    const y = Y(l.p), c = SR_COL[l.type];
+    const ly = Math.max(y + 3, prevY + 10); prevY = ly;
+    const op = Math.min(0.95, 0.4 + 0.16 * l.touches);
+    return `<line x1="${pl}" y1="${y.toFixed(1)}" x2="${(W - pr).toFixed(1)}" y2="${y.toFixed(1)}" stroke="${c}"
+        stroke-width="${l.touches >= 3 ? 1.6 : 1}" stroke-dasharray="6,4" opacity="${op.toFixed(2)}"/>
+      <text x="${(W - pr + 4).toFixed(1)}" y="${ly.toFixed(1)}" font-size="9.5" fill="${c}" opacity="${op.toFixed(2)}"
+        >${srLabel(l)}</text>`;
+  }).join('');
   return `<svg viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
     <defs><linearGradient id="cg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${col}" stop-opacity="0.2"/><stop offset="1" stop-color="${col}" stop-opacity="0"/></linearGradient></defs>
-    <path d="${area}" fill="url(#cg)"/><path d="${line}" fill="none" stroke="${col}" stroke-width="2"/>
+    <path d="${area}" fill="url(#cg)"/>${srPaths}<path d="${line}" fill="none" stroke="${col}" stroke-width="2"/>
     <text x="${pl}" y="${pt + 2}" font-size="10" fill="#7a8794">${lab(hi)}</text>
     <text x="${pl}" y="${H - pb}" font-size="10" fill="#7a8794">${lab(lo)}</text>
     <text x="${pl}" y="${H - 6}" font-size="10" fill="#7a8794">${data[0].t}</text>
     <text x="${W - pr}" y="${H - 6}" text-anchor="end" font-size="10" fill="#7a8794">${data[data.length - 1].t}</text></svg>`;
 }
+function srListHTML(lv) {
+  if (!lv.length) return '<p class="muted small">Chưa đủ lịch sử để kẻ hỗ trợ/kháng cự (cần ≥25 phiên).</p>';
+  const res = lv.filter(l => l.type === 'res'), sup = lv.filter(l => l.type === 'sup');
+  const item = l => `<div class="srrow ${l.type}">
+      <span class="srp">${fmtLvl(l.p)}</span>
+      <span class="srd ${l.dist > 0 ? 'pos' : 'neg'}">${l.dist > 0 ? '+' : ''}${l.dist.toFixed(1)}%</span>
+      <span class="muted small">${l.touches} lần chạm${l.flip ? ' · đảo vai' : ''} · gần nhất ${l.date}</span>
+    </div>`;
+  const col = (title, list, empty) => `<div class="srcol">
+      <div class="srhead">${title}</div>
+      ${list.length ? list.map(item).join('') : `<p class="muted small">${empty}</p>`}
+    </div>`;
+  return col('🔴 Kháng cự', res, 'Trên giá hiện tại không còn mốc cản trong 120 phiên (giá ở đỉnh).')
+       + col('🟢 Hỗ trợ', sup, 'Dưới giá hiện tại chưa có mốc đỡ rõ trong 120 phiên.');
+}
 function openChart(sym) {
   const r = (PRICES.rows || []).find(x => x.sym === sym);
   if (!r) return;
   $('cmTitle').innerHTML = `${r.sym} <span class="${cls(r.change)}">${fmt(r.price)} (${pct(r.pct)})</span> <span class="muted small">${r.name || ''}</span>`;
-  $('cmChart').innerHTML = lineChartSVG(r.hist || []);
+  const lv = srLevels(r.hist || [], r.price);
+  $('cmChart').innerHTML = lineChartSVG(r.hist || [], lv);
+  $('cmSR').innerHTML = srListHTML(lv);
+  const near = t => { const s = lv.filter(l => l.type === t); return s.length ? fmtLvl(t === 'res' ? s[s.length - 1].p : s[0].p) : '—'; };
   const facts = [['Cao/Thấp', `${fmt(r.high)} / ${fmt(r.low)}`], ['Trần/Sàn', `${fmt(r.ceil)} / ${fmt(r.floor)}`],
-    ['Khối lượng', fmt(r.vol)], ['NN mua/bán', `${fmt(r.fb)} / ${fmt(r.fs)}`]];
+    ['Khối lượng', fmt(r.vol)], ['NN mua/bán', `${fmt(r.fb)} / ${fmt(r.fs)}`],
+    ['Kháng cự gần', near('res')], ['Hỗ trợ gần', near('sup')]];
   $('cmStats').innerHTML = facts.map(([k, v]) => `<div class="fact"><span class="muted">${k}</span><b>${v}</b></div>`).join('');
   $('chartModal').hidden = false;
 }
