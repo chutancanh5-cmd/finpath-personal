@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền tảng vĩ mô tiếp tục được củng cố nhờ dòng vốn FDI lớn (khu kinh tế hút 6,2 tỷ USD với VinMetal, VinFast, LNG Vũng Áng III) và các siêu dự án hạ tầng như đường sắt tốc độ cao 67 tỷ USD, đô thị du lịch 18 tỷ USD tại Vân Đồn, tạo kỳ vọng tích cực cho nhóm xây dựng, thép, bất động sản và logistics. Tuy nhiên rủi ro ngắn hạn hiện rõ khi VN-Index vừa trải qua cú giảm hơn 200 điểm với dấu hiệu dòng tiền lớn rút trước, cho thấy tâm lý thận trọng đang gia tăng. Hàng loạt cửa hàng vàng, kim cương đóng cửa cùng vụ giả mạo thương hiệu SJC làm dấy lên lo ngại về niềm tin thị trường vàng, có thể ảnh hưởng tâm lý nhà đầu tư nói chung. Kết quả kinh doanh phân hóa của nhóm chứng khoán (TVS giảm lãi sâu, TOS tăng lãi) cho thấy chọn lọc cổ phiếu sẽ là yếu tố quyết định trong giai đoạn tới. Nhìn chung, nhà đầu tư nên cân bằng giữa cơ hội từ nhóm hạ tầng - FDI dài hạn và rủi ro biến động ngắn hạn của chỉ số chung.",
+  "date": "2026-07-31",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán trong nước vừa có chuỗi phục hồi mạnh với VN-Index tăng gần 80 điểm sau 3 phiên và một phiên bứt phá hơn 40 điểm, làm dấy lên kỳ vọng thị trường đã tạo đáy ngắn hạn. Tuy nhiên, kinh tế trưởng SSI lưu ý cần thận trọng sau quyết định lãi suất của Fed, cho thấy rủi ro tỷ giá và dòng vốn ngoại vẫn hiện hữu. Việc Vietcap tiếp tục call margin cổ phiếu DIG của gia đình ông Nguyễn Hùng Cường là tín hiệu cảnh báo rủi ro đòn bẩy cục bộ ở nhóm bất động sản vừa và nhỏ. Ở chiều tích cực, các đề xuất đầu tư hạ tầng lớn như tuyến đường sắt tốc độ cao 350km/h (67 tỷ USD) và đô thị du lịch 18 tỷ USD tại Vân Đồn cho thấy dòng vốn đầu tư công/tư tiếp tục được thúc đẩy, hỗ trợ nhóm cổ phiếu xây dựng, vật liệu và bất động sản. Nhìn chung tâm lý thị trường nghiêng về tích cực nhờ đà hồi phục kỹ thuật, song nhà đầu tư nên thận trọng với rủi ro call margin cục bộ và biến động sau quyết sách của Fed.",
   "top": [
-    {"title": "VN-Index giảm hơn 200 điểm, dòng tiền lớn rút trước khi thị trường lao dốc", "impact": "↓", "note": "Dấu hiệu 'cá mập' bán trước cú giảm mạnh cho thấy rủi ro điều chỉnh ngắn hạn tăng cao"},
-    {"title": "Bộ Xây dựng thông tin về đường sắt tốc độ cao 350km/h, vốn 67 tỷ USD", "impact": "↑", "note": "Siêu dự án hạ tầng tạo động lực dài hạn cho nhóm xây dựng, thép, vật liệu"},
-    {"title": "Đề xuất đô thị du lịch thế hệ mới 18 tỷ USD tại Vân Đồn", "impact": "↑", "note": "Vốn đầu tư lớn hỗ trợ nhóm bất động sản, du lịch, hạ tầng khu vực"},
-    {"title": "Một khu kinh tế thu hút 6,2 tỷ USD với VinMetal, VinFast, LNG Vũng Áng III", "impact": "↑", "note": "Dòng vốn FDI lớn củng cố triển vọng công nghiệp và hệ sinh thái Vingroup"},
-    {"title": "Hàng loạt DN vàng, kim cương đóng cửa; SJC bị giả mạo thương hiệu", "impact": "↓", "note": "Rủi ro niềm tin thị trường vàng có thể ảnh hưởng tâm lý nhà đầu tư nói chung"},
-    {"title": "Lợi nhuận Chứng khoán Thiên Việt (TVS) giảm sâu quý II", "impact": "↓", "note": "Mảng tự doanh suy yếu phản ánh áp lực lên nhóm cổ phiếu chứng khoán"}
+    {"title": "VN-Index bật tăng gần 80 điểm sau 3 phiên", "impact": "↑", "note": "Đà phục hồi mạnh làm dấy lên kỳ vọng thị trường đã tạo đáy ngắn hạn."},
+    {"title": "Chứng khoán Việt Nam sau phiên bứt phá 40 điểm", "impact": "↑", "note": "Phiên bứt phá củng cố tâm lý tích cực nhưng cần theo dõi tính bền vững của đà tăng."},
+    {"title": "Kinh tế trưởng SSI lưu ý điều cần chú ý sau quyết định của Fed", "impact": "→", "note": "Quyết định lãi suất Fed ảnh hưởng tỷ giá và dòng vốn ngoại vào TTCK Việt Nam."},
+    {"title": "Vietcap call margin DIG của gia đình ông Nguyễn Hùng Cường", "impact": "↓", "note": "Rủi ro giải chấp cho thấy áp lực đòn bẩy tại nhóm cổ phiếu bất động sản vừa và nhỏ."},
+    {"title": "Bộ Xây dựng thông tin về đường sắt tốc độ cao 350km/h, vốn 67 tỷ USD", "impact": "↑", "note": "Dự án hạ tầng quy mô lớn hỗ trợ nhóm cổ phiếu xây dựng, vật liệu, thép."},
+    {"title": "Đề xuất đô thị du lịch thế hệ mới 18 tỷ USD tại Vân Đồn", "impact": "↑", "note": "Thu hút vốn đầu tư lớn vào du lịch - bất động sản, tích cực cho nhóm liên quan."}
   ]
 }
