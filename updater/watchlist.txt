@@ -1,2 +1,2 @@
 # Danh muc theo doi - dong bo tu app FinPath
-VPB, SHS, VND, TCX, ACB, FTS, CTS, FPT, HPG, VIC, GEX, LPB, VHM
+SHS, VHM, VPB, VND, VIC
