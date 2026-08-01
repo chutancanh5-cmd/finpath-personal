@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán trong nước vừa có chuỗi phục hồi mạnh với VN-Index tăng gần 80 điểm sau 3 phiên và một phiên bứt phá hơn 40 điểm, làm dấy lên kỳ vọng thị trường đã tạo đáy ngắn hạn. Tuy nhiên, kinh tế trưởng SSI lưu ý cần thận trọng sau quyết định lãi suất của Fed, cho thấy rủi ro tỷ giá và dòng vốn ngoại vẫn hiện hữu. Việc Vietcap tiếp tục call margin cổ phiếu DIG của gia đình ông Nguyễn Hùng Cường là tín hiệu cảnh báo rủi ro đòn bẩy cục bộ ở nhóm bất động sản vừa và nhỏ. Ở chiều tích cực, các đề xuất đầu tư hạ tầng lớn như tuyến đường sắt tốc độ cao 350km/h (67 tỷ USD) và đô thị du lịch 18 tỷ USD tại Vân Đồn cho thấy dòng vốn đầu tư công/tư tiếp tục được thúc đẩy, hỗ trợ nhóm cổ phiếu xây dựng, vật liệu và bất động sản. Nhìn chung tâm lý thị trường nghiêng về tích cực nhờ đà hồi phục kỹ thuật, song nhà đầu tư nên thận trọng với rủi ro call margin cục bộ và biến động sau quyết sách của Fed.",
+  "summary_vi": "VN-Index bật tăng mạnh gần 80 điểm chỉ sau 3 phiên, với một phiên bứt phá tới 40 điểm, cho thấy tín hiệu tạo đáy và dòng tiền nội đang trở lại hỗ trợ thị trường. Khối ngoại vẫn bán ròng khoảng 2.500 tỷ đồng trong tuần cuối tháng 7 nhưng có động thái mua ròng bluechips và gom mạnh cổ phiếu liên quan tỷ phú Phạm Nhật Vượng, phần nào trung hòa áp lực bán. Giá vàng giảm mạnh có thể thúc đẩy dòng vốn nhàn rỗi chuyển hướng sang kênh chứng khoán trong ngắn hạn. Tuy nhiên, rủi ro riêng lẻ vẫn hiện hữu khi DIG tiếp tục bị Vietcap call margin và một số công ty chứng khoán nhỏ thua lỗ kéo dài, nhắc nhở nhà đầu tư cần chọn lọc cổ phiếu. Nhìn chung, đà phục hồi kỹ thuật cùng kỳ vọng tăng trưởng vĩ mô (Hà Nội đặt mục tiêu tăng trưởng hai con số) tạo tâm lý tích cực cho TTCK, dù cần theo dõi thêm động thái khối ngoại và chất lượng dòng tiền.",
   "top": [
-    {"title": "VN-Index bật tăng gần 80 điểm sau 3 phiên", "impact": "↑", "note": "Đà phục hồi mạnh làm dấy lên kỳ vọng thị trường đã tạo đáy ngắn hạn."},
-    {"title": "Chứng khoán Việt Nam sau phiên bứt phá 40 điểm", "impact": "↑", "note": "Phiên bứt phá củng cố tâm lý tích cực nhưng cần theo dõi tính bền vững của đà tăng."},
-    {"title": "Kinh tế trưởng SSI lưu ý điều cần chú ý sau quyết định của Fed", "impact": "→", "note": "Quyết định lãi suất Fed ảnh hưởng tỷ giá và dòng vốn ngoại vào TTCK Việt Nam."},
-    {"title": "Vietcap call margin DIG của gia đình ông Nguyễn Hùng Cường", "impact": "↓", "note": "Rủi ro giải chấp cho thấy áp lực đòn bẩy tại nhóm cổ phiếu bất động sản vừa và nhỏ."},
-    {"title": "Bộ Xây dựng thông tin về đường sắt tốc độ cao 350km/h, vốn 67 tỷ USD", "impact": "↑", "note": "Dự án hạ tầng quy mô lớn hỗ trợ nhóm cổ phiếu xây dựng, vật liệu, thép."},
-    {"title": "Đề xuất đô thị du lịch thế hệ mới 18 tỷ USD tại Vân Đồn", "impact": "↑", "note": "Thu hút vốn đầu tư lớn vào du lịch - bất động sản, tích cực cho nhóm liên quan."}
+    {"title": "VN-Index bật tăng gần 80 điểm sau 3 phiên", "impact": "↑", "note": "Tín hiệu phục hồi mạnh, củng cố kỳ vọng thị trường đã tạo đáy"},
+    {"title": "Chứng khoán Việt Nam sau phiên bứt phá 40 điểm", "impact": "↑", "note": "Đà tăng điểm mạnh cho thấy dòng tiền nội quay lại thị trường"},
+    {"title": "Khối ngoại bán ròng 2.500 tỷ đồng tuần cuối tháng 7", "impact": "↓", "note": "Áp lực bán ròng của khối ngoại vẫn là rủi ro với thanh khoản"},
+    {"title": "Khối ngoại tung gần 400 tỷ gom hai cổ phiếu bluechips", "impact": "↑", "note": "Dòng vốn ngoại chọn lọc mua vào bluechips hỗ trợ nhóm vốn hóa lớn"},
+    {"title": "Vietcap call margin DIG của gia đình ông Nguyễn Hùng Cường", "impact": "↓", "note": "Rủi ro giải chấp có thể tạo áp lực bán tháo lên cổ phiếu DIG"},
+    {"title": "Lý do giá vàng giảm mạnh", "impact": "→", "note": "Vàng giảm có thể khiến dòng tiền chuyển hướng sang kênh chứng khoán"}
   ]
 }
