@@ -9,10 +9,10 @@
 | Chi so | Chien luoc Tich san Uptrend (MA + timing) | Benchmark: DCA deu moi thang, khong bao gio ban | Benchmark: Dau tu 1 lan (lump-sum) cung tong von |
 |---|---|---|---|
 | Von da gop | 435,000,000 d | 980,000,000 d | 435,000,000 d |
-| Gia tri cuoi ky | 680,536,024 d | 6,057,933,357 d | 1,549,881,235 d |
-| Loi nhuan | 245,536,024 d | 5,077,933,357 d | 1,114,881,235 d |
-| MOIC (x von) | 1.56x | 6.18x | 3.56x |
-| XIRR (nam hoa) | 29.4% | 19.9% | 8.1% |
+| Gia tri cuoi ky | 680,536,024 d | 6,138,705,802 d | 1,570,546,318 d |
+| Loi nhuan | 245,536,024 d | 5,158,705,802 d | 1,135,546,318 d |
+| MOIC (x von) | 1.56x | 6.26x | 3.61x |
+| XIRR (nam hoa) | 29.4% | 20.1% | 8.2% |
 | Max drawdown | -16.2% | -72.9% | -85.4% |
 | % thoi gian nam giu | 44.4% | 100.0% | 100.0% |
 | So lenh MUA / BAN | 87 / 8 | 196 / 0 | 1 / 0 |
