@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-08-01",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "VN-Index bật tăng mạnh gần 80 điểm chỉ sau 3 phiên, với một phiên bứt phá tới 40 điểm, cho thấy tín hiệu tạo đáy và dòng tiền nội đang trở lại hỗ trợ thị trường. Khối ngoại vẫn bán ròng khoảng 2.500 tỷ đồng trong tuần cuối tháng 7 nhưng có động thái mua ròng bluechips và gom mạnh cổ phiếu liên quan tỷ phú Phạm Nhật Vượng, phần nào trung hòa áp lực bán. Giá vàng giảm mạnh có thể thúc đẩy dòng vốn nhàn rỗi chuyển hướng sang kênh chứng khoán trong ngắn hạn. Tuy nhiên, rủi ro riêng lẻ vẫn hiện hữu khi DIG tiếp tục bị Vietcap call margin và một số công ty chứng khoán nhỏ thua lỗ kéo dài, nhắc nhở nhà đầu tư cần chọn lọc cổ phiếu. Nhìn chung, đà phục hồi kỹ thuật cùng kỳ vọng tăng trưởng vĩ mô (Hà Nội đặt mục tiêu tăng trưởng hai con số) tạo tâm lý tích cực cho TTCK, dù cần theo dõi thêm động thái khối ngoại và chất lượng dòng tiền.",
+  "date": "2026-08-02",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Hà Nội đặt mục tiêu tăng trưởng trên 11% và loạt dự án hạ tầng lớn (tuyến đường sắt 8,4 tỷ USD, tháp đôi 99 tầng, hợp tác 5 tỷ USD với đối tác ngoại) cho thấy động lực đầu tư công và FDI vẫn tích cực, hỗ trợ nhóm cổ phiếu xây dựng, vật liệu, bất động sản khu công nghiệp. Tuy nhiên khối ngoại bán ròng khoảng 2.500 tỷ đồng trong tuần cuối tháng 7 là tín hiệu thận trọng ngắn hạn, dù dòng tiền vẫn chọn lọc gom mạnh cổ phiếu họ Vingroup và một số bluechip. Giá vàng giảm mạnh có thể phần nào giảm áp lực tỷ giá và lạm phát, tích cực cho chính sách tiền tệ. Điểm trừ đến từ sức khỏe một số doanh nghiệp niêm yết yếu kém (công ty chứng khoán lỗ 16 quý liên tiếp, PNJ dò đáy 6 năm, cổ phiếu bị cảnh báo) phản ánh rủi ro phân hóa mạnh giữa các nhóm ngành. Nhìn chung thị trường thiếu chất xúc tác vĩ mô mới rõ ràng, xu hướng đi ngang có chọn lọc theo dòng tiền và nhóm ngành hưởng lợi hạ tầng/FDI.",
   "top": [
-    {"title": "VN-Index bật tăng gần 80 điểm sau 3 phiên", "impact": "↑", "note": "Tín hiệu phục hồi mạnh, củng cố kỳ vọng thị trường đã tạo đáy"},
-    {"title": "Chứng khoán Việt Nam sau phiên bứt phá 40 điểm", "impact": "↑", "note": "Đà tăng điểm mạnh cho thấy dòng tiền nội quay lại thị trường"},
-    {"title": "Khối ngoại bán ròng 2.500 tỷ đồng tuần cuối tháng 7", "impact": "↓", "note": "Áp lực bán ròng của khối ngoại vẫn là rủi ro với thanh khoản"},
-    {"title": "Khối ngoại tung gần 400 tỷ gom hai cổ phiếu bluechips", "impact": "↑", "note": "Dòng vốn ngoại chọn lọc mua vào bluechips hỗ trợ nhóm vốn hóa lớn"},
-    {"title": "Vietcap call margin DIG của gia đình ông Nguyễn Hùng Cường", "impact": "↓", "note": "Rủi ro giải chấp có thể tạo áp lực bán tháo lên cổ phiếu DIG"},
-    {"title": "Lý do giá vàng giảm mạnh", "impact": "→", "note": "Vàng giảm có thể khiến dòng tiền chuyển hướng sang kênh chứng khoán"}
+    {"title": "Hà Nội quyết tâm tăng trưởng trên 11%", "impact": "↑", "note": "Mục tiêu tăng trưởng cao hỗ trợ kỳ vọng đầu tư công và nhóm cổ phiếu hạ tầng, bất động sản Hà Nội"},
+    {"title": "Thu hồi đất cho tuyến đường sắt 390km, vốn 8,4 tỷ USD", "impact": "↑", "note": "Dự án hạ tầng quy mô lớn tạo động lực dài hạn cho nhóm xây dựng, vật liệu, bất động sản dọc tuyến"},
+    {"title": "Khối ngoại bán ròng 2.500 tỷ đồng tuần cuối tháng 7", "impact": "↓", "note": "Áp lực bán ròng của khối ngoại tạo tâm lý thận trọng ngắn hạn cho thị trường chung"},
+    {"title": "Khối ngoại gom gần 400 tỷ hai cổ phiếu bluechip phiên 31/7", "impact": "↑", "note": "Dòng tiền ngoại vẫn chọn lọc giải ngân vào bluechip, cho thấy niềm tin cục bộ chưa mất"},
+    {"title": "Giá vàng giảm mạnh", "impact": "→", "note": "Giảm áp lực tỷ giá, tác động trung tính đến chính sách tiền tệ và dòng vốn vào chứng khoán"},
+    {"title": "Công ty chứng khoán thua lỗ 16 quý liên tiếp, lỗ lũy kế 180 tỷ", "impact": "↓", "note": "Phản ánh rủi ro sức khỏe tài chính yếu kém ở một số công ty chứng khoán nhỏ, cảnh báo chọn lọc cổ phiếu"}
   ]
 }
