@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-08-03",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Tăng trưởng kinh tế đạt mức kỷ lục gần một thập kỷ với cả 34 tỉnh, thành đều tăng trưởng dương, cùng mục tiêu Hà Nội trên 11%, củng cố nền tảng vĩ mô và tâm lý dài hạn cho thị trường. Sau cú rơi mạnh nhất từ đầu năm, giới chuyên gia (MBS, Vinacapital) nghiêng về kịch bản hồi phục trong tháng 8, với MBS kỳ vọng VN-Index hướng lên vùng 1.850 điểm, dù chưa đủ cơ sở khẳng định đã bước vào sóng tăng lớn nên khuyến nghị tận dụng nhịp hồi để cơ cấu danh mục thay vì mua đuổi. Fed giữ nguyên lãi suất giúp giảm bớt áp lực tỷ giá và dòng vốn ngoại, hỗ trợ tâm lý thị trường mới nổi. Điểm trừ đến từ rủi ro phân hóa cổ phiếu cụ thể (doanh nghiệp dược bị "tuýt còi", Ninh Vân Bay còn diện cảnh báo) và biến động giá vàng gây thua lỗ ngắn hạn cho nhà đầu tư lướt sóng. Nhìn chung thị trường thiếu chất xúc tác đột biến, xu hướng phục hồi thận trọng, ưu tiên chọn lọc cổ phiếu cơ bản tốt hưởng lợi từ tăng trưởng vĩ mô và đầu tư công.",
+  "date": "2026-08-04",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính phủ tiếp tục ưu tiên giữ ổn định tỷ giá và kiểm soát lạm phát song song mục tiêu tăng trưởng hai con số, trong khi xuất nhập khẩu 7 tháng tăng mạnh 28,1% lên 659,6 tỷ USD và toàn bộ 34 tỉnh, thành đều ghi nhận tăng trưởng kỷ lục gần một thập kỷ, củng cố nền tảng vĩ mô cho thị trường. Giới chuyên gia đánh giá tháng 8 là giai đoạn xác suất tăng cao với một số nhóm cổ phiếu có thể hút dòng tiền, và thị trường đang hướng sự chú ý tới sự kiện quan trọng trong tháng 9. Điểm cần lưu ý là bài toán đánh đổi giữa tăng trưởng nhanh và ổn định bền vững, cùng áp lực CPI từ giá xăng dầu, có thể tạo biến động ngắn hạn. Nhìn chung bức tranh vĩ mô nghiêng tích cực, hỗ trợ nhóm xuất khẩu, đầu tư công và các cổ phiếu hưởng lợi từ tăng trưởng diện rộng.",
   "top": [
-    {"title": "Tăng trưởng kinh tế kỷ lục gần 1 thập kỷ, cả 34 tỉnh thành đều tăng", "impact": "↑", "note": "Nền tảng vĩ mô vững chắc trên diện rộng củng cố kỳ vọng tăng trưởng lợi nhuận doanh nghiệp"},
-    {"title": "Hà Nội quyết tâm tăng trưởng từ 11% trở lên", "impact": "↑", "note": "Mục tiêu tăng trưởng cao thúc đẩy đầu tư công, hỗ trợ nhóm cổ phiếu hạ tầng và bất động sản"},
-    {"title": "MBS kỳ vọng VN-Index hướng lên vùng 1.850 điểm trong tháng 8", "impact": "↑", "note": "Dự báo tích cực từ công ty chứng khoán lớn có thể cải thiện tâm lý dòng tiền ngắn hạn"},
-    {"title": "Chứng khoán sau cú rơi mạnh nhất từ đầu năm, tháng 8 có dễ thở hơn", "impact": "→", "note": "Thị trường vừa trải qua nhịp giảm sâu, triển vọng phục hồi còn thận trọng và chưa chắc chắn"},
-    {"title": "Chuyên gia: chưa đủ cơ sở khẳng định VN-Index ở đầu sóng lớn", "impact": "→", "note": "Khuyến nghị cơ cấu danh mục theo nhịp hồi thay vì mua đuổi, hàm ý thận trọng ngắn hạn"},
-    {"title": "Loạt dược sĩ tại doanh nghiệp niêm yết bị \"tuýt còi\"", "impact": "↓", "note": "Rủi ro pháp lý, quản trị tại doanh nghiệp cụ thể có thể ảnh hưởng tiêu cực đến cổ phiếu liên quan"}
+    {"title": "Giữ ổn định tỷ giá, kiểm soát lạm phát, hỗ trợ tăng trưởng hai con số", "impact": "↑", "note": "Chính sách vĩ mô nhất quán củng cố niềm tin nhà đầu tư vào thị trường chứng khoán"},
+    {"title": "Xuất nhập khẩu 7 tháng ước đạt 659,6 tỷ USD, tăng 28,1%", "impact": "↑", "note": "Tăng trưởng thương mại mạnh hỗ trợ nhóm cổ phiếu xuất khẩu, khu công nghiệp, logistics"},
+    {"title": "Một chỉ tiêu kinh tế tăng kỷ lục gần 1 thập kỷ, 34 tỉnh thành đều tăng trưởng", "impact": "↑", "note": "Tăng trưởng diện rộng phản ánh sức khỏe vĩ mô, tích cực cho kỳ vọng lợi nhuận doanh nghiệp"},
+    {"title": "Chứng khoán bước vào tháng có xác suất tăng cao, loạt nhóm cổ phiếu hút tiền", "impact": "↑", "note": "Yếu tố mùa vụ và dòng tiền tích cực có thể nâng đỡ chỉ số trong ngắn hạn"},
+    {"title": "Chứng khoán đón sự kiện quan trọng trong tháng 9", "impact": "→", "note": "Thị trường chờ đợi thông tin cụ thể, tâm lý có thể phân hóa trước sự kiện"},
+    {"title": "Giá xăng dầu tác động chỉ số CPI tháng 7", "impact": "↓", "note": "Áp lực lạm phát từ giá xăng dầu có thể ảnh hưởng chi phí doanh nghiệp và chính sách tiền tệ"}
   ]
 }
