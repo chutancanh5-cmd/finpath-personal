@@ -2,13 +2,13 @@
   "_opus": true,
   "date": "2026-08-06",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng vốn FDI tiếp tục lập kỷ lục và kỳ vọng nâng hạng thị trường đang là động lực chính, với việc giới phân tích đã gọi tên hàng chục cổ phiếu có thể hưởng lợi từ dòng vốn tỷ USD sắp tới. Khối ngoại quay lại mua ròng mạnh ở nhóm VN30 cho thấy tâm lý nhà đầu tư nước ngoài cải thiện. Kết quả kinh doanh quý gần đây của một số doanh nghiệp đầu ngành như MWG vượt kỳ vọng cũng củng cố nền tảng cơ bản cho thị trường. Tuy nhiên, tăng trưởng GDP vượt dự báo của nền kinh tế lớn nhất Đông Nam Á đặt ra áp lực cạnh tranh khu vực, và nhà đầu tư cần theo dõi sát thông tin quan trọng được dự báo công bố trong 15 ngày tới vì đây có thể là yếu tố dẫn dắt biến động ngắn hạn.",
+  "summary_vi": "Dòng vốn FDI lập kỷ lục và thông tin nâng hạng thị trường dự kiến công bố trong 15 ngày tới là hai chất xúc tác lớn nhất, được giới phân tích như Vietcap chỉ ra có thể kéo theo dòng vốn tỷ USD vào nhóm cổ phiếu hưởng lợi. Hợp tác giữa FPT và OpenAI mở ra câu chuyện tăng trưởng mới cho nhóm công nghệ, trong khi các địa phương như Hải Phòng nâng mục tiêu GRDP cho thấy kỳ vọng vĩ mô vẫn tích cực. Tuy vậy, giá vàng thế giới tăng mạnh nhất kể từ tháng 2 phản ánh tâm lý phòng thủ toàn cầu có thể cạnh tranh dòng tiền với kênh cổ phiếu trong ngắn hạn. Vụ triệt phá đường dây rửa tiền qua USDT chợ đen cũng là lời nhắc về rủi ro pháp lý liên quan tài sản số cần theo dõi. Nhìn chung, câu chuyện nâng hạng và FDI vẫn là trụ đỡ chính giúp thị trường duy trì sắc thái tích cực.",
   "top": [
-    {"title": "FDI lập kỷ lục mới, một tỉnh đón gần 7 tỷ USD vốn đầu tư", "impact": "↑", "note": "Dòng vốn FDI kỷ lục củng cố niềm tin vào tăng trưởng kinh tế và triển vọng doanh nghiệp niêm yết"},
-    {"title": "Vietcap gọi tên 29 cổ phiếu có thể đón dòng vốn tỷ USD sau nâng hạng", "impact": "↑", "note": "Kỳ vọng nâng hạng thị trường là chất xúc tác lớn thu hút dòng vốn ngoại vào nhóm cổ phiếu vốn hóa lớn"},
-    {"title": "Đúng 15 ngày nữa, chứng khoán Việt Nam đón một thông tin quan trọng", "impact": "→", "note": "Sự kiện sắp công bố tạo tâm lý chờ đợi, có thể gây biến động mạnh theo cả hai chiều"},
-    {"title": "Phiên 5/8: Một cổ phiếu VN30 được khối ngoại mua ròng mạnh gần 400 tỷ đồng", "impact": "↑", "note": "Khối ngoại mua ròng mạnh cho thấy dòng tiền nước ngoài đang trở lại nhóm vốn hóa lớn"},
-    {"title": "Gà đẻ trứng vàng của MWG có thể mở hơn 1.000 cửa hàng, lợi nhuận vượt kế hoạch", "impact": "↑", "note": "Kết quả kinh doanh vượt kỳ vọng củng cố nền tảng cơ bản của doanh nghiệp bán lẻ đầu ngành"},
-    {"title": "Nền kinh tế lớn nhất Đông Nam Á công bố tăng trưởng GDP quý 2/2026 vượt dự báo", "impact": "→", "note": "Tăng trưởng vượt trội của nước láng giềng tạo áp lực cạnh tranh thu hút vốn đầu tư trong khu vực"}
+    {"title": "Đúng 15 ngày nữa, chứng khoán Việt Nam đón một thông tin quan trọng", "impact": "↑", "note": "Thị trường đang chờ quyết định nâng hạng, là chất xúc tác mạnh cho dòng vốn ngoại"},
+    {"title": "Vietcap gọi tên 29 cổ phiếu có thể đón dòng vốn tỷ USD sau nâng hạng", "impact": "↑", "note": "Kỳ vọng dòng vốn tỷ USD tập trung vào nhóm cổ phiếu hưởng lợi trực tiếp từ nâng hạng"},
+    {"title": "FDI lập kỷ lục mới, Việt Nam cần gì để nâng tầm 'cuộc chơi'?", "impact": "↑", "note": "Vốn FDI kỷ lục củng cố nền tảng tăng trưởng và niềm tin vào kinh tế Việt Nam"},
+    {"title": "FPT \"bắt tay\" OpenAI, khai phá thị trường 240 tỷ USD", "impact": "↑", "note": "Hợp tác chiến lược mở rộng dư địa tăng trưởng cho cổ phiếu công nghệ đầu ngành"},
+    {"title": "Giá vàng thế giới tăng mạnh nhất kể từ tháng 2", "impact": "↓", "note": "Tâm lý trú ẩn an toàn tăng có thể hút bớt dòng tiền khỏi kênh cổ phiếu ngắn hạn"},
+    {"title": "Bà trùm USDT chợ đen giúp đường dây tội phạm 'rửa tiền' hàng trăm tỷ đồng mỗi ngày", "impact": "↓", "note": "Rủi ro siết chặt quản lý tài sản số có thể tác động tâm lý nhà đầu tư liên quan crypto"}
   ]
 }
