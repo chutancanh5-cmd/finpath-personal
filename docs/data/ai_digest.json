@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng vốn FDI tiếp tục đổ mạnh vào các địa phương và đầu tư công (đường sắt tốc độ cao Hà Nội - Quảng Ninh, Hải Phòng nâng mục tiêu GRDP) là điểm tựa tích cực cho triển vọng tăng trưởng dài hạn. Tuy nhiên, giá vàng thế giới vọt lên đỉnh gần 2 tháng và vượt 4.300 USD/ounce cho thấy tâm lý phòng thủ rủi ro đang lấn át, kéo theo nguy cơ dòng tiền chuyển hướng khỏi kênh chứng khoán. Áp lực trong nước cũng hiện rõ khi quỹ ngoại tỷ USD ghi nhận tháng 7 tệ nhất lịch sử, khối ngoại ngắt mạch mua ròng và HoSE cắt margin 56 mã trong tháng 8, phản ánh sự thận trọng ngắn hạn của dòng vốn lớn. Dù vậy, một số công ty chứng khoán như Vietcap vẫn giữ kỳ vọng tích cực với VN-Index có thể chạm 1.885 điểm ngay trong tháng, cho thấy thị trường đang trong trạng thái giằng co giữa cơ hội vĩ mô và rủi ro dòng vốn ngắn hạn.",
+  "summary_vi": "Điểm sáng nổi bật là khối ngoại bất ngờ quay lại mua ròng mạnh, tung ra khoảng 2.200 tỷ đồng trong 5 phiên và gom riêng một mã tới 700 tỷ đồng cuối tuần, giúp cải thiện tâm lý sau chuỗi bán ròng trước đó. Vietcap duy trì dự báo lạc quan với VN-Index có thể chạm mốc 1.885 điểm ngay trong tháng 8, củng cố kỳ vọng ngắn hạn. Tuy nhiên rủi ro vẫn hiện hữu: quỹ ngoại tỷ USD vừa trải qua tháng 7 tệ nhất lịch sử hoạt động, tài khoản chứng khoán mở mới giảm mạnh và HoSE tiếp tục cắt margin 56 mã trong tháng 8, cho thấy dòng tiền nội địa và niềm tin nhà đầu tư cá nhân còn thận trọng. Giá vàng thế giới vượt 4.300 USD/ounce và lập đỉnh mới tiếp tục hút một phần dòng vốn trú ẩn, tạo cạnh tranh với kênh cổ phiếu. Nhìn chung thị trường đang cân bằng giữa tín hiệu tích cực từ dòng vốn ngoại quay lại và những rủi ro thanh khoản, margin ngắn hạn.",
   "top": [
-    {"title": "Giá vàng vượt 4.300 USD/ounce, lập đỉnh mới", "impact": "↓", "note": "Vàng tăng nóng hút dòng tiền trú ẩn, gây áp lực cạnh tranh vốn với kênh cổ phiếu"},
-    {"title": "Quỹ ngoại tỷ USD có tháng 7 tệ nhất trong lịch sử hoạt động", "impact": "↓", "note": "Hiệu suất kém của quỹ ngoại lớn có thể kéo theo rút vốn hoặc giảm phân bổ vào TTCK Việt Nam"},
-    {"title": "Một tỉnh vừa đón gần 7 tỷ USD vốn đầu tư FDI", "impact": "↑", "note": "Dòng vốn FDI lớn củng cố triển vọng tăng trưởng và nhóm cổ phiếu khu công nghiệp, hạ tầng"},
+    {"title": "Khối ngoại tung 2.200 tỷ đồng mua ròng cổ phiếu Việt Nam trong 5 phiên", "impact": "↑", "note": "Dòng vốn ngoại quay lại mua ròng mạnh giúp cải thiện thanh khoản và tâm lý thị trường"},
+    {"title": "Một cổ phiếu được khối ngoại mua ròng mạnh tay 700 tỷ đồng trong phiên cuối tuần", "impact": "↑", "note": "Lực mua tập trung từ khối ngoại củng cố xu hướng dòng tiền lớn quay lại TTCK"},
+    {"title": "Chứng khoán Vietcap dự phóng VN-Index có thể chạm mốc 1.885 điểm ngay trong tháng 8", "impact": "↑", "note": "Dự báo lạc quan từ công ty chứng khoán lớn hỗ trợ tâm lý nhà đầu tư"},
+    {"title": "Quỹ ngoại tỷ USD có tháng 7 tệ nhất trong lịch sử hoạt động", "impact": "↓", "note": "Hiệu suất kém của quỹ ngoại lớn tiềm ẩn rủi ro rút vốn hoặc giảm phân bổ vào TTCK Việt Nam"},
     {"title": "56 mã chứng khoán bị HoSE cắt margin trong tháng 8", "impact": "↓", "note": "Thu hẹp đòn bẩy làm giảm thanh khoản và sức cầu ngắn hạn cho nhóm cổ phiếu bị cắt"},
-    {"title": "Vietcap dự phóng VN-Index có thể chạm 1.885 điểm trong tháng 8", "impact": "↑", "note": "Dự báo lạc quan từ công ty chứng khoán lớn hỗ trợ tâm lý nhà đầu tư"},
-    {"title": "Khối ngoại ngắt mạch mua ròng, tập trung xả hai cổ phiếu lớn", "impact": "↓", "note": "Áp lực bán ròng trở lại từ khối ngoại tạo sức ép ngắn hạn lên chỉ số"}
+    {"title": "Chứng khoán khó nhằn, tài khoản mở mới giảm mạnh", "impact": "↓", "note": "Số tài khoản mở mới sụt giảm phản ánh sự thận trọng của nhà đầu tư cá nhân"}
   ]
 }
