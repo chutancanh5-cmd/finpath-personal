@@ -200,7 +200,7 @@ def ai_digest(items, key):
     try:
         client = anthropic.Anthropic(api_key=key)
         resp = client.messages.create(
-            model="claude-sonnet-5", max_tokens=1500,
+            model="claude-opus-5", max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
             output_config={"format": {"type": "json_schema", "schema": _SCHEMA}})
         text = next((b.text for b in resp.content if b.type == "text"), "")

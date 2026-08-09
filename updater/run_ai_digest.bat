@@ -11,7 +11,7 @@ REM 1) Xuat tin RSS tho cho Opus doc
 python updater\update_news.py --rawdump
 
 REM 2) Sonnet 5 phan tich + ghi ai_digest.json (qua goi Claude Code, khong ton API)
-type updater\ai_prompt.txt | "C:\Users\chuta\AppData\Roaming\npm\claude.cmd" -p --model claude-sonnet-5 --permission-mode acceptEdits
+type updater\ai_prompt.txt | "C:\Users\chuta\AppData\Roaming\npm\claude.cmd" -p --model claude-opus-5 --permission-mode acceptEdits
 
 REM 3) Merge digest vao news.json
 python updater\update_news.py
