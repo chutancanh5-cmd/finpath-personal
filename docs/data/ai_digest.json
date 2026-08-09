@@ -1,14 +1,14 @@
 {
   "_opus": true,
-  "date": "2026-08-08",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Điểm sáng đáng chú ý là dòng vốn ngoại bất ngờ quay lại, với khối ngoại mua ròng khoảng 2.200 tỷ đồng chỉ trong 5 phiên và gom riêng một mã tới 700 tỷ đồng, cho thấy tâm lý nhà đầu tư nước ngoài đang cải thiện sau giai đoạn bán ròng kéo dài. Bên cạnh đó, làn sóng FDI chất lượng cao và kỳ vọng thu hút dòng vốn ngoại khổng lồ từ các tập đoàn toàn cầu tiếp tục củng cố nền tảng vĩ mô dài hạn cho thị trường. Tuy nhiên rủi ro ngắn hạn không nhỏ: một quỹ ngoại tỷ USD vừa trải qua tháng 7 tệ nhất lịch sử hoạt động, số tài khoản chứng khoán mở mới giảm mạnh và HoSE cắt margin tới 56 mã trong tháng 8, phản ánh thanh khoản nội địa và niềm tin nhà đầu tư cá nhân còn yếu. Giá vàng thế giới lập đỉnh gần 2 tháng cùng lực mua ròng của quỹ vàng lớn nhất thế giới cũng cho thấy dòng tiền trú ẩn đang cạnh tranh với kênh cổ phiếu. Nhìn chung thị trường đang trong trạng thái giằng co giữa tín hiệu tích cực từ vốn ngoại/FDI và các rủi ro thanh khoản, margin trong ngắn hạn.",
+  "date": "2026-08-09",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Điểm nhấn vĩ mô tuần này là dòng vốn ngoại quay lại rõ nét, với khối ngoại mua ròng khoảng 2.200 tỷ đồng chỉ trong 5 phiên và gom riêng một mã tới 700 tỷ đồng, cho thấy tâm lý nhà đầu tư nước ngoài đang cải thiện. Kỳ vọng thu hút FDI chất lượng cao từ các tập đoàn toàn cầu, cùng tín hiệu chuyên gia cho rằng VN-Index sắp bước vào nhịp sóng tăng mới, củng cố thêm nền tảng tích cực cho thị trường. Tuy nhiên rủi ro ngắn hạn vẫn hiện hữu khi HoSE đưa loạt cổ phiếu "hot" vào diện cắt margin, có thể làm giảm sức cầu đòn bẩy ở nhóm này dù cổ phiếu doanh nghiệp nhà nước đang nổi sóng. Giá vàng thế giới lập đỉnh gần 2 tháng và được quỹ vàng lớn nhất thế giới tiếp tục gom mua cũng tạo sức hút cạnh tranh nhất định với dòng tiền vào cổ phiếu. Nhìn chung xu hướng đang nghiêng về tích cực nhờ vốn ngoại và câu chuyện FDI, song nhà đầu tư cần thận trọng với nhóm cổ phiếu bị siết margin.",
   "top": [
     {"title": "Khối ngoại mua ròng 2.200 tỷ đồng cổ phiếu Việt Nam trong 5 phiên", "impact": "↑", "note": "Dòng vốn ngoại quay lại mạnh giúp cải thiện thanh khoản và tâm lý thị trường"},
-    {"title": "Dòng tiền ngoại âm thầm đổ hàng nghìn tỷ vào chứng khoán Việt Nam", "impact": "↑", "note": "Xu hướng gom hàng âm thầm của khối ngoại củng cố kỳ vọng dòng tiền lớn trở lại"},
-    {"title": "Quỹ ngoại tỷ USD có tháng 7 tệ nhất trong lịch sử hoạt động", "impact": "↓", "note": "Hiệu suất kém tiềm ẩn rủi ro rút vốn hoặc giảm phân bổ vào TTCK Việt Nam"},
-    {"title": "56 mã chứng khoán bị HoSE cắt margin trong tháng 8", "impact": "↓", "note": "Thu hẹp đòn bẩy làm giảm sức cầu ngắn hạn với nhóm cổ phiếu bị cắt margin"},
-    {"title": "Chứng khoán khó nhằn, tài khoản mở mới giảm mạnh", "impact": "↓", "note": "Số tài khoản mở mới sụt giảm phản ánh sự thận trọng của nhà đầu tư cá nhân"},
-    {"title": "Giá vàng vọt lên cao nhất gần 2 tháng, quỹ vàng lớn nhất thế giới tiếp tục gom hàng", "impact": "→", "note": "Vàng hút một phần dòng tiền trú ẩn, tạo cạnh tranh nhẹ với kênh cổ phiếu"}
+    {"title": "Một cổ phiếu được khối ngoại mua ròng mạnh 700 tỷ đồng trong phiên cuối tuần", "impact": "↑", "note": "Lực mua tập trung cho thấy khối ngoại đang chọn lọc giải ngân mạnh vào cổ phiếu đầu ngành"},
+    {"title": "CEO Nestlé Việt Nam gợi mở chìa khóa thu hút dòng vốn FDI khổng lồ từ tập đoàn toàn cầu", "impact": "↑", "note": "Triển vọng FDI chất lượng cao củng cố nền tảng tăng trưởng vĩ mô dài hạn"},
+    {"title": "Chuyên gia chỉ ra tín hiệu cho thấy VN-Index sắp bước vào nhịp sóng mới", "impact": "↑", "note": "Nhận định kỹ thuật tích cực có thể kích hoạt dòng tiền bắt đáy và giải ngân mới"},
+    {"title": "Loạt cổ phiếu \"hot\" rơi vào danh sách cắt margin dù cổ phiếu doanh nghiệp nhà nước nổi sóng", "impact": "↓", "note": "Siết đòn bẩy làm giảm sức cầu ngắn hạn ở nhóm cổ phiếu đầu cơ bị cắt margin"},
+    {"title": "Giá vàng tăng vọt lên cao nhất 2 tháng, quỹ vàng lớn nhất thế giới tiếp tục gom hàng", "impact": "→", "note": "Vàng hút một phần dòng tiền trú ẩn, tạo cạnh tranh nhẹ với kênh cổ phiếu"}
   ]
 }
