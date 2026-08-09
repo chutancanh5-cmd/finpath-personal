@@ -59,7 +59,7 @@ jobs:
           if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ]; then
             echo "Chua co CLAUDE_CODE_OAUTH_TOKEN -> bo qua AI, giu digest cu"
           else
-            cat updater/ai_prompt_ci.txt | claude -p --model claude-sonnet-5 --permission-mode acceptEdits || echo "claude loi -> giu digest cu"
+            cat updater/ai_prompt_ci.txt | claude -p --model claude-opus-5 --permission-mode acceptEdits || echo "claude loi -> giu digest cu"
           fi
       - name: Merge tin
         run: python updater/update_news.py
