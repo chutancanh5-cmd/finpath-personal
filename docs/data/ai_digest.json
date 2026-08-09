@@ -1,14 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-09",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Điểm sáng vĩ mô tuần này là dòng vốn ngoại quay lại rõ nét, với khối ngoại mua ròng khoảng 2.200 tỷ đồng chỉ trong 5 phiên và xuất hiện dấu hiệu dòng tiền ngoại âm thầm đổ thêm hàng nghìn tỷ vào chứng khoán Việt Nam, cho thấy tâm lý nhà đầu tư nước ngoài đang cải thiện. Triển vọng thu hút FDI chất lượng cao từ các tập đoàn toàn cầu, cùng nhận định của chuyên gia rằng VN-Index sắp bước vào nhịp sóng tăng mới, củng cố thêm nền tảng tích cực cho thị trường. Tuy nhiên rủi ro ngắn hạn vẫn hiện hữu khi loạt cổ phiếu "hot" bị đưa vào diện cắt margin ngay khi nhóm cổ phiếu doanh nghiệp nhà nước đang nổi sóng, có thể gây rung lắc cục bộ. Giá vàng thế giới tăng mạnh nhất từ đầu năm và được quỹ vàng lớn nhất thế giới tiếp tục gom mua cũng tạo sức hút cạnh tranh nhất định với dòng tiền vào kênh cổ phiếu. Nhìn chung xu hướng đang nghiêng về tích cực nhờ vốn ngoại và câu chuyện FDI, song nhà đầu tư cần thận trọng với nhóm cổ phiếu bị siết margin và biến động của giá vàng.",
+  "date": "2026-08-10",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Dòng tin vĩ mô nghiêng về đầu tư công và thu hút FDI, nổi bật là dự án đường sắt Hà Nội - Đồng Đăng hơn 5 tỷ USD, tạo kỳ vọng cho nhóm xây dựng hạ tầng, vật liệu và bất động sản khu công nghiệp. Trên thị trường, VN-Index đang tiệm cận vùng cản tâm lý 1.800 điểm với dòng tiền cải thiện và cổ phiếu doanh nghiệp nhà nước dẫn sóng, cho thấy nội lực ngắn hạn vẫn còn. Tuy nhiên rủi ro không nhỏ: giá vàng tăng mạnh nhất từ đầu năm và các quỹ lớn gom hàng phản ánh tâm lý phòng thủ, hút bớt một phần dòng tiền khỏi cổ phiếu. Việc nhiều mã 'hot' bị cắt margin cùng cảnh báo rung lắc từ giới phân tích hàm ý biên độ dao động sẽ lớn khi chỉ số chạm kháng cự. Chiến lược hợp lý là giữ tỷ trọng vừa phải, ưu tiên nhóm hưởng lợi đầu tư công và hạn chế dùng đòn bẩy ở vùng giá cao.",
   "top": [
-    {"title": "Khối ngoại mua ròng 2.200 tỷ đồng cổ phiếu Việt Nam chỉ trong 5 phiên", "impact": "↑", "note": "Dòng vốn ngoại quay lại mạnh giúp cải thiện thanh khoản và tâm lý thị trường"},
-    {"title": "Xuất hiện dấu chân dòng tiền ngoại âm thầm đổ hàng nghìn tỷ vào chứng khoán Việt Nam", "impact": "↑", "note": "Dòng vốn ngoại tiếp tục giải ngân âm thầm là tín hiệu tích cực cho xu hướng trung hạn"},
-    {"title": "CEO Nestlé Việt Nam gợi mở chìa khóa thu hút dòng vốn FDI khổng lồ từ tập đoàn toàn cầu", "impact": "↑", "note": "Triển vọng FDI chất lượng cao củng cố nền tảng tăng trưởng vĩ mô dài hạn"},
-    {"title": "Chuyên gia chỉ ra tín hiệu cho thấy VN-Index sắp bước vào nhịp sóng mới", "impact": "↑", "note": "Nhận định kỹ thuật tích cực có thể kích hoạt thêm dòng tiền giải ngân mới"},
-    {"title": "Cổ phiếu doanh nghiệp nhà nước nổi sóng, loạt cổ phiếu hot rơi vào danh sách cắt margin", "impact": "↓", "note": "Siết đòn bẩy làm giảm sức cầu ngắn hạn ở nhóm cổ phiếu đầu cơ bị cắt margin"},
-    {"title": "Giá vàng có tuần tăng mạnh nhất từ đầu năm, quỹ khổng lồ mạnh tay gom hàng", "impact": "→", "note": "Vàng hút một phần dòng tiền trú ẩn, tạo cạnh tranh nhẹ với kênh cổ phiếu"}
+    {
+      "title": "Sắp triển khai đường sắt Hà Nội - Đồng Đăng hơn 5 tỷ USD",
+      "impact": "↑",
+      "note": "Dự án hạ tầng quy mô lớn mở ra khối lượng công việc cho nhóm xây lắp, thép, đá và bất động sản dọc tuyến."
+    },
+    {
+      "title": "VN-Index trước 'cửa ải' 1.800 điểm: Dòng tiền có đủ sức duy trì?",
+      "impact": "→",
+      "note": "Chỉ số áp sát kháng cự tâm lý mạnh, xu hướng phụ thuộc vào việc thanh khoản có duy trì được hay không."
+    },
+    {
+      "title": "Loạt cổ phiếu 'hot' bị cắt margin, cổ phiếu doanh nghiệp nhà nước nổi sóng",
+      "impact": "↓",
+      "note": "Cắt margin làm giảm đòn bẩy và dễ kích hoạt áp lực bán ở các mã đầu cơ đã tăng nóng."
+    },
+    {
+      "title": "Giá vàng có tuần tăng mạnh nhất từ đầu năm, quỹ lớn mạnh tay gom hàng",
+      "impact": "↓",
+      "note": "Tâm lý trú ẩn lên cao khiến một phần dòng tiền chuyển khỏi kênh cổ phiếu."
+    },
+    {
+      "title": "Chuyên gia: 'Dòng tiền bí ẩn' xuất hiện nhưng VN-Index vẫn có thể rung lắc mạnh",
+      "impact": "→",
+      "note": "Lực cầu mới hỗ trợ chỉ số nhưng chưa đủ loại bỏ rủi ro biến động trong ngắn hạn."
+    },
+    {
+      "title": "CEO Nestlé Việt Nam gợi mở 'chìa khóa' thu hút dòng vốn FDI từ tập đoàn toàn cầu",
+      "impact": "↑",
+      "note": "Triển vọng FDI tích cực củng cố câu chuyện dài hạn cho khu công nghiệp, logistics và ngân hàng."
+    }
   ]
 }
