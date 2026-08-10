@@ -2,17 +2,22 @@
   "_opus": true,
   "date": "2026-08-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Điểm sáng vĩ mô đến từ đầu tư công và dòng vốn ngoại: dự án đường sắt Hà Nội - Đồng Đăng hơn 5 tỷ USD sắp triển khai, cùng thông điệp về cải thiện môi trường đầu tư để hút FDI từ các tập đoàn toàn cầu, củng cố câu chuyện trung hạn cho nhóm xây lắp hạ tầng, vật liệu xây dựng, bất động sản khu công nghiệp và logistics. Trên thị trường, VN-Index đang thử thách vùng cản tâm lý 1.800 điểm với dòng tiền được cải thiện và cổ phiếu doanh nghiệp nhà nước dẫn dắt, cho thấy nội lực ngắn hạn vẫn còn. Rủi ro đối trọng là giá vàng có tuần tăng mạnh nhất từ đầu năm và các quỹ lớn liên tục gom hàng, phản ánh tâm lý phòng thủ toàn cầu và cạnh tranh trực tiếp dòng tiền với kênh cổ phiếu. Bên cạnh đó, việc nhiều mã 'hot' bị cắt margin và động thái siết giám sát giao dịch vàng làm tăng khả năng rung lắc mạnh khi chỉ số chạm kháng cự. Chiến lược phù hợp là duy trì tỷ trọng vừa phải, ưu tiên nhóm hưởng lợi đầu tư công - FDI và hạn chế đòn bẩy ở vùng giá cao.",
+  "summary_vi": "Dòng tin hôm nay nghiêng về đầu tư công và thu hút vốn ngoại: dự án đường sắt Hà Nội - Đồng Đăng hơn 5 tỷ USD sắp triển khai là lực đẩy trung hạn cho nhóm xây lắp hạ tầng, vật liệu xây dựng và bất động sản khu công nghiệp, trong khi thông điệp cải thiện môi trường kinh doanh thay vì ưu đãi thuế cho thấy định hướng giữ chân FDI dài hạn. Thanh khoản khu vực tài chính vẫn thuận lợi khi TCBS huy động thành công khoản vay quốc tế lên tới 120 triệu USD, phản ánh khẩu vị của vốn ngoại với nhóm chứng khoán Việt Nam. Ở chiều rủi ro, VN-Index đang tiệm cận vùng cản tâm lý 1.800 điểm khi dòng tiền chưa được xác nhận bền vững, cùng cảnh báo rung lắc mạnh và việc nhiều cổ phiếu 'hot' bị cắt margin - yếu tố dễ kích hoạt điều chỉnh kỹ thuật ngắn hạn. Giá vàng có tuần tăng mạnh nhất từ đầu năm và các quỹ lớn liên tục gom hàng cho thấy tâm lý phòng thủ toàn cầu còn cao, cạnh tranh trực tiếp dòng tiền với kênh cổ phiếu. Chiến lược hợp lý là ưu tiên nhóm hưởng lợi đầu tư công - FDI, duy trì tỷ trọng vừa phải và hạn chế đòn bẩy khi chỉ số ở vùng kháng cự.",
   "top": [
     {
       "title": "Sắp triển khai đường sắt Hà Nội - Đồng Đăng hơn 5 tỷ USD",
       "impact": "↑",
-      "note": "Dự án hạ tầng quy mô lớn mở ra khối lượng backlog cho nhóm xây lắp, thép, đá, xi măng và bất động sản dọc tuyến."
+      "note": "Dự án hạ tầng quy mô lớn mở ra khối lượng công việc cho nhóm xây lắp, thép, đá, xi măng và bất động sản dọc tuyến."
     },
     {
       "title": "CEO Nestlé Việt Nam nói về 'chìa khóa' thu hút dòng vốn FDI khổng lồ",
       "impact": "↑",
-      "note": "Thông điệp cải thiện môi trường đầu tư hỗ trợ triển vọng FDI, có lợi cho khu công nghiệp, logistics và ngân hàng."
+      "note": "Thông điệp cải thiện môi trường đầu tư củng cố triển vọng FDI, có lợi cho khu công nghiệp, logistics và ngân hàng."
+    },
+    {
+      "title": "TCBS huy động thành công khoản vay quốc tế tới 120 triệu USD",
+      "impact": "↑",
+      "note": "Nguồn vốn ngoại chi phí thấp tăng năng lực cho vay margin và củng cố niềm tin vào nhóm công ty chứng khoán."
     },
     {
       "title": "VN-Index trước 'cửa ải' 1.800 điểm: dòng tiền có đủ sức duy trì?",
@@ -20,19 +25,14 @@
       "note": "Chỉ số áp sát kháng cự tâm lý mạnh, hướng đi tiếp theo phụ thuộc vào việc thanh khoản có được giữ vững hay không."
     },
     {
+      "title": "Chuyên gia cảnh báo VN-Index đối mặt rung lắc mạnh dù xuất hiện 'dòng tiền bí ẩn'",
+      "impact": "↓",
+      "note": "Áp lực chốt lời gia tăng sau nhịp tăng dài khiến biến động ngắn hạn khó lường."
+    },
+    {
       "title": "Loạt cổ phiếu 'hot' bị cắt margin, cổ phiếu doanh nghiệp nhà nước nổi sóng",
       "impact": "↓",
       "note": "Cắt margin thu hẹp đòn bẩy và dễ kích hoạt áp lực bán ở các mã đầu cơ đã tăng nóng."
-    },
-    {
-      "title": "Giá vàng có tuần tăng mạnh nhất từ đầu năm, quỹ lớn mạnh tay gom hàng",
-      "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng cao hút bớt một phần dòng tiền khỏi kênh cổ phiếu."
-    },
-    {
-      "title": "TTCP chuyển Bộ Công an thông tin 7 cá nhân giao dịch vàng khoảng 2.084 tỷ đồng",
-      "impact": "→",
-      "note": "Siết kỷ luật thị trường vàng lành mạnh về dài hạn nhưng có thể gây thận trọng tâm lý ngắn hạn với dòng tiền đầu cơ."
     }
   ]
 }
