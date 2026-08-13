@@ -111,6 +111,42 @@
   <div class="heatmap" id="mktHeat"></div>
 </section>
 
+<!-- ===== Tab: Chặn lãi ===== -->
+<section class="tab" id="tab-stop" hidden>
+  <div class="row-between">
+    <h2>Chặn lãi</h2>
+    <button class="link-btn" id="tsAddBtn">+ Thêm vị thế</button>
+  </div>
+  <p class="muted small" id="tsNote"></p>
+
+  <div class="watch-edit" id="tsForm" hidden>
+    <div class="ts-grid">
+      <input id="tsMa" type="text" inputmode="latin" autocapitalize="characters" placeholder="Mã (VD: FPT)">
+      <input id="tsGia" type="text" inputmode="decimal" placeholder="Giá mua (70.8 hoặc 70800)">
+      <input id="tsNgay" type="date">
+      <input id="tsSl" type="text" inputmode="numeric" placeholder="Số lượng (VD: 300)">
+    </div>
+    <input id="tsGhiChu" type="text" placeholder="Ghi chú (không bắt buộc)">
+    <div class="ts-actions">
+      <button class="btn-primary" id="tsSave">Lưu vị thế</button>
+      <button class="link-btn" id="tsCancel">Bỏ qua</button>
+    </div>
+    <p class="muted small">Giá gõ kiểu nào cũng được — <b>70.8</b> và <b>70800</b> đều hiểu là 70.800 đ.</p>
+  </div>
+
+  <div class="ts-sum" id="tsSum" hidden></div>
+  <div class="cards" id="tsCards"></div>
+
+  <div class="ts-ladder">
+    <h3 class="sub">Thang stop đang áp dụng</h3>
+    <div class="ts-step s1"><b>Cấp 1</b> — ngay khi mua: cắt lỗ <b>−8%</b> so với giá vốn</div>
+    <div class="ts-step s2"><b>Cấp 2</b> — T+2 hàng về, đang lãi: kéo stop về <b>giá vốn</b></div>
+    <div class="ts-step s3"><b>Cấp 3</b> — khi lãi đạt <b>+32%</b>: stop bám đỉnh, cách đỉnh <b>25%</b></div>
+    <p class="muted small">Stop chỉ tăng, không bao giờ hạ. Đỉnh tính bằng giá cao nhất trong phiên
+    kể từ ngày mua. Tham số lấy từ backtest 687 cấu hình chặn lãi × 620 mã, 2010–2026.</p>
+  </div>
+</section>
+
 <!-- ===== Modal biểu đồ giá ===== -->
 <div id="chartModal" class="modal" hidden>
   <div class="modal-card">
@@ -126,6 +162,7 @@
   <button class="tab-btn" data-tab="read"><span class="ti">◱</span>Đọc hiểu</button>
   <button class="tab-btn" data-tab="signals"><span class="ti">◎</span>Khuyến nghị</button>
   <button class="tab-btn" data-tab="news"><span class="ti">✦</span>Tin AI</button>
+  <button class="tab-btn" data-tab="stop"><span class="ti">⛊</span>Chặn lãi</button>
   <button class="tab-btn" data-tab="scan"><span class="ti">⌕</span>Quét</button>
   <button class="tab-btn" data-tab="flow"><span class="ti">≋</span>Dòng tiền</button>
 </nav>

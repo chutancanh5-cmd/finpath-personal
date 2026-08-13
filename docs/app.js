@@ -563,11 +563,227 @@ function renderMarket() {
   }).join('') : '<p class="muted small">Chưa có dữ liệu.</p>';
 }
 
+/* ================= Chặn lãi =================================================
+   Vị thế do người dùng nhập nằm trong localStorage của máy, máy chủ không biết —
+   nên thang stop được tính NGAY TẠI ĐÂY từ lịch sử giá trong data/trailstop.json
+   (updater/update_trailstop.py sinh ra). Tham số thang lấy thẳng từ file đó để app
+   và máy chủ không bao giờ lệch nhau.
+
+   Thứ tự trong mỗi phiên phải đúng như backtest: KIỂM TRA THỦNG STOP bằng mức stop
+   đã chốt từ cuối phiên trước, SAU ĐÓ mới cập nhật đỉnh và stop cho phiên sau. Đảo
+   thứ tự này là nhìn trước — kết quả sẽ đẹp lên một cách giả tạo.                */
+const KEY_POS = 'fp_positions_v1';
+const TS_MAC_DINH = { sl_pct: 0.08, be_on_settle: true, be_buffer: 0, lock_trigger_r: 4,
+                      trail_pct: 0.25, settle: 2, near_stop: 0.03, fee_buy: 0.0015, fee_sell: 0.0025 };
+let TS = null;          // dữ liệu lịch sử giá, nạp khi mở tab lần đầu
+let POS = [];
+let TS_EDIT = null;     // mã đang sửa (null = thêm mới)
+
+function tsLoadLocal() {
+  try { POS = JSON.parse(localStorage.getItem(KEY_POS)) || []; } catch { POS = []; }
+}
+const tsSave = () => localStorage.setItem(KEY_POS, JSON.stringify(POS));
+
+/* "70.8" và "70800" đều là 70.800 đ */
+function tsChuanGia(x) {
+  const v = parseFloat(String(x).replace(/[^\d.]/g, ''));
+  if (!isFinite(v) || v <= 0) return NaN;
+  return v < 1000 ? v * 1000 : v;
+}
+
+async function tsLoad() {
+  if (TS) return TS;
+  const cached = (() => { try { return JSON.parse(localStorage.getItem('fp_ts_cache')); } catch { return null; } })();
+  TS = await fetchJSON('data/trailstop.json', cached);
+  if (TS && TS.ma) { try { localStorage.setItem('fp_ts_cache', JSON.stringify(TS)); } catch {} }
+  return TS;
+}
+
+function tsTinh(p, h, cfg) {
+  const giaVon = tsChuanGia(p.gia);
+  if (!isFinite(giaVon)) return { loi: 'giá mua không hợp lệ' };
+  let e = h.d.findIndex(d => d >= p.ngay);
+  if (e < 0) return { loi: 'ngày mua nằm sau phiên gần nhất có dữ liệu' };
+
+  // Giá trong kho ĐÃ điều chỉnh cổ tức/chia tách nên giá quá khứ THẤP đi, không bao giờ
+  // cao lên. Hệ số < 0,9 mới là chia quyền → quy giá vốn về cùng hệ quy chiếu.
+  // Hệ số > 1,1 là gõ nhầm giá/ngày → chỉ cảnh báo, KHÔNG tự sửa số người dùng nhập.
+  const heSo = h.c[e] / giaVon;
+  const daDieuChinh = heSo < 0.90, canhBaoGia = heSo > 1.10;
+  const von = daDieuChinh ? h.c[e] : giaVon;
+
+  const R = von * cfg.sl_pct;
+  let stop = von - R, dinh = h.h[e], cap = 1, thung = null;
+  for (let t = e; t < h.d.length; t++) {
+    const stopDauPhien = stop;
+    if (t > e) {
+      // Dừng hẳn ở phiên thủng stop: theo kế hoạch thì vị thế đã đóng tại đó. Chạy tiếp
+      // sẽ bám theo những đỉnh xuất hiện SAU khi lẽ ra đã bán — con số đó không có thật.
+      if ((t - e) >= cfg.settle && h.l[t] <= stopDauPhien) {
+        thung = { ngay: h.d[t], gia: Math.min(h.o ? h.o[t] : h.c[t], stopDauPhien), cap, dinh };
+        break;
+      }
+      dinh = Math.max(dinh, h.h[t]);
+    }
+    if (cfg.be_on_settle && (t - e) >= cfg.settle && h.c[t] > von) {
+      stop = Math.max(stop, von * (1 + cfg.be_buffer)); cap = Math.max(cap, 2);
+    }
+    if (dinh >= von * (1 + cfg.lock_trigger_r * cfg.sl_pct)) {
+      stop = Math.max(stop, dinh * (1 - cfg.trail_pct)); cap = Math.max(cap, 3);
+    }
+  }
+
+  const giaHT = h.c[h.c.length - 1], soPhien = h.d.length - 1 - e;
+  const sl = Number(p.sl) || 0;
+  const laiPct = giaHT / von - 1, cachStop = stop > 0 ? giaHT / stop - 1 : NaN;
+  const giaLenCap3 = von * (1 + cfg.lock_trigger_r * cfg.sl_pct);
+  let tt;
+  if (soPhien < cfg.settle) tt = `CHƯA VỀ HÀNG (còn ${cfg.settle - soPhien} phiên)`;
+  else if (thung) tt = 'PHẢI BÁN';
+  else if (cachStop < cfg.near_stop) tt = 'SÁT STOP';
+  else tt = 'AN TOÀN';
+  if (thung) {
+    thung.laiLucDo = thung.gia / von - 1;
+    thung.chenhNeuGiu = giaHT / thung.gia - 1;
+  }
+  return {
+    ma: p.ma, von, giaVonGoc: giaVon, daDieuChinh, canhBaoGia, heSo,
+    ngayMua: h.d[e], thapMua: h.l[e], caoMua: h.h[e], soPhien, sl,
+    giaHT, ngayGia: h.d[h.d.length - 1], laiPct, laiTien: (giaHT - von) * sl,
+    vonTien: von * sl, giaTri: giaHT * sl, dinh, dinhPct: dinh / von - 1,
+    stop, cachStop, cap, tt, thung, giaLenCap3,
+    conThieu: cap < 3 ? Math.max(0, giaLenCap3 / giaHT - 1) : 0,
+    ruiRo: thung ? 0 : Math.max(0, giaHT - stop) * sl, ghiChu: p.ghi_chu || '',
+  };
+}
+
+function tsCard(r) {
+  const clsRow = r.thung ? 'thung' : r.tt === 'SÁT STOP' ? 'sat' : r.tt.startsWith('CHƯA') ? 'cho' : 'an';
+  const capTen = { 1: 'Cắt lỗ −8%', 2: 'Về giá vốn', 3: 'Bám đỉnh 25%' }[r.cap];
+  const lo = r.stop, hi = Math.max(r.dinh, r.giaHT);
+  const posDot = hi <= lo ? 0 : Math.max(0, Math.min(1, (r.giaHT - lo) / (hi - lo)));
+  let khoiStop;
+  if (r.thung) {
+    khoiStop = `<div class="ts-stop"><b class="neg">BÁN NGAY</b>
+      <span class="muted small">kế hoạch báo bán ${r.thung.ngay}</span>
+      <div class="muted small">Mức bán theo kế hoạch <b>${fmt(Math.round(r.thung.gia))}</b>
+      (lãi ${pct(r.thung.laiLucDo * 100)}). Giữ đến nay
+      <b class="${cls(r.thung.chenhNeuGiu)}">${pct(r.thung.chenhNeuGiu * 100)}</b> so với mức đó.</div></div>`;
+  } else {
+    const mt = r.cap < 3
+      ? `Lên cấp 3 khi giá đạt <b>${fmt(Math.round(r.giaLenCap3))}</b> (còn ${(r.conThieu * 100).toFixed(1)}%) → stop nhảy lên ${fmt(Math.round(r.giaLenCap3 * (1 - TS_MAC_DINH.trail_pct)))}`
+      : 'Đang bám đỉnh — mỗi đỉnh mới đều kéo stop lên theo';
+    khoiStop = `<div class="ts-stop"><b>${fmt(Math.round(r.stop))}</b>
+      <span class="muted small">cách ${(r.cachStop * 100).toFixed(1)}%</span>
+      <div class="ts-track"><i style="left:${(posDot * 100).toFixed(1)}%"></i></div>
+      <div class="muted small">${mt}</div></div>`;
+  }
+  const canhBao = r.daDieuChinh
+    ? `<div class="ts-warn">Giá vốn quy đổi ${fmt(Math.round(r.von))} (gốc ${fmt(Math.round(r.giaVonGoc))}) — mã đã chia cổ tức/thưởng từ ngày mua.</div>`
+    : r.canhBaoGia
+      ? `<div class="ts-warn">Giá mua ${fmt(Math.round(r.giaVonGoc))} nằm ngoài biên độ phiên ${r.ngayMua} (${fmt(r.thapMua)}–${fmt(r.caoMua)}) — kiểm tra lại giá hoặc ngày mua.</div>`
+      : '';
+  return `<div class="card ts-card ${clsRow}">
+    <div class="ts-head">
+      <div><b class="ts-ma">${r.ma}</b> <span class="tag cap${r.cap}">Cấp ${r.cap} · ${capTen}</span>
+        <div class="muted small">mua ${r.ngayMua} · ${r.soPhien} phiên · ${r.sl ? fmt(r.sl) + ' cp' : 'chưa nhập SL'}${r.ghiChu ? ' · ' + r.ghiChu : ''}</div></div>
+      <div class="ts-tt ${clsRow}">${r.tt}</div>
+    </div>
+    ${canhBao}
+    <div class="ts-nums">
+      <div><span class="muted small">Giá vốn</span><b>${fmt(Math.round(r.von))}</b></div>
+      <div><span class="muted small">Giá hiện tại</span><b>${fmt(r.giaHT)}</b></div>
+      <div><span class="muted small">Lãi/lỗ</span><b class="${cls(r.laiPct)}">${pct(r.laiPct * 100)}</b>
+        ${r.sl ? `<span class="muted small">${r.laiTien >= 0 ? '+' : ''}${fmt(Math.round(r.laiTien))} đ</span>` : ''}</div>
+      <div><span class="muted small">Đỉnh từ khi mua</span><b>${pct(r.dinhPct * 100)}</b></div>
+    </div>
+    ${khoiStop}
+    <div class="ts-btns">
+      <button class="link-btn" data-ts-edit="${r.ma}">Sửa</button>
+      <button class="link-btn neg" data-ts-del="${r.ma}">Xoá</button>
+    </div>
+  </div>`;
+}
+
+function renderStop() {
+  const cards = $('tsCards'), note = $('tsNote'), sum = $('tsSum');
+  if (!cards) return;
+  if (!TS || !TS.ma) { note.textContent = 'Đang tải dữ liệu giá…'; cards.innerHTML = ''; return; }
+  const cfg = Object.assign({}, TS_MAC_DINH, TS.thang || {});
+  note.innerHTML = `Dữ liệu giá đến phiên <b>${TS.phien_moi_nhat || '—'}</b> · ${TS.so_ma || 0} mã theo dõi được`;
+  if (!POS.length) {
+    sum.hidden = true;
+    cards.innerHTML = '<p class="muted small">Chưa có vị thế nào. Bấm “+ Thêm vị thế” để nhập mã, giá mua, ngày mua và số lượng.</p>';
+    return;
+  }
+  const kq = [], thieu = [];
+  for (const p of POS) {
+    const h = TS.ma[p.ma];
+    if (!h) { thieu.push(p.ma); continue; }
+    const r = tsTinh(p, h, cfg);
+    r.ma = p.ma;
+    kq.push(r);
+  }
+  const ok = kq.filter(r => !r.loi);
+  ok.sort((a, b) => (a.thung ? 0 : 1) - (b.thung ? 0 : 1) || b.laiPct - a.laiPct);
+  const von = ok.reduce((s, r) => s + r.vonTien, 0);
+  const gt = ok.reduce((s, r) => s + r.giaTri, 0);
+  const rr = ok.reduce((s, r) => s + r.ruiRo, 0);
+  if (von > 0) {
+    sum.hidden = false;
+    sum.innerHTML = `
+      <div><span class="muted small">Vốn</span><b>${fmt(Math.round(von))}</b></div>
+      <div><span class="muted small">Giá trị</span><b>${fmt(Math.round(gt))}</b></div>
+      <div><span class="muted small">Lãi/lỗ</span><b class="${cls(gt - von)}">${gt >= von ? '+' : ''}${fmt(Math.round(gt - von))}</b>
+        <span class="muted small">${pct((gt / von - 1) * 100)}</span></div>
+      <div><span class="muted small">Nếu tất cả chạm stop</span><b>${fmt(Math.round(gt - rr))}</b></div>`;
+  } else sum.hidden = true;
+
+  const loi = kq.filter(r => r.loi).map(r => `<li><b>${r.ma}</b>: ${r.loi}</li>`).join('');
+  cards.innerHTML = ok.map(tsCard).join('')
+    + (loi ? `<div class="card"><b>Không tính được</b><ul class="muted small">${loi}</ul></div>` : '')
+    + (thieu.length ? `<div class="card"><b>Chưa có dữ liệu giá</b>
+        <p class="muted small">${thieu.join(', ')} — thêm mã vào <b>danh mục theo dõi</b> ở tab Bảng giá,
+        lần cập nhật sau sẽ có dữ liệu.</p></div>` : '');
+}
+
+function tsMoForm(ma) {
+  TS_EDIT = ma || null;
+  const p = ma ? POS.find(x => x.ma === ma) : null;
+  $('tsMa').value = p ? p.ma : '';
+  $('tsGia').value = p ? p.gia : '';
+  $('tsNgay').value = p ? p.ngay : new Date().toISOString().slice(0, 10);
+  $('tsSl').value = p ? (p.sl || '') : '';
+  $('tsGhiChu').value = p ? (p.ghi_chu || '') : '';
+  $('tsMa').readOnly = !!p;
+  $('tsForm').hidden = false;
+  if (!p) $('tsMa').focus();
+}
+
+function tsLuu() {
+  const ma = ($('tsMa').value || '').trim().toUpperCase();
+  const gia = ($('tsGia').value || '').trim();
+  const ngay = ($('tsNgay').value || '').trim();
+  const sl = ($('tsSl').value || '').replace(/[^\d]/g, '');
+  if (!/^[A-Z0-9]{3,4}$/.test(ma)) return toast('Mã không hợp lệ');
+  if (!isFinite(tsChuanGia(gia))) return toast('Giá mua không hợp lệ');
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(ngay)) return toast('Chọn ngày mua');
+  const rec = { ma, gia, ngay, sl: Number(sl) || 0, ghi_chu: ($('tsGhiChu').value || '').trim() };
+  const i = POS.findIndex(x => x.ma === ma);
+  if (i >= 0) POS[i] = rec; else POS.push(rec);
+  tsSave();
+  $('tsForm').hidden = true;
+  renderStop();
+  toast(TS_EDIT ? `Đã cập nhật ${ma}` : `Đã thêm ${ma}`);
+}
+
 /* ---------- nav ---------- */
 function switchTab(name) {
   document.querySelectorAll('.tab').forEach(s => s.hidden = (s.id !== 'tab-' + name));
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === name));
   window.scrollTo(0, 0);
+  // dữ liệu giá cho tab Chặn lãi khá nặng (~600 KB) nên chỉ tải khi mở tab lần đầu
+  if (name === 'stop') { renderStop(); if (!TS) tsLoad().then(renderStop); }
 }
 
 function renderAll() { renderHeader(); renderBoard(); renderRead(); renderSignals(); renderNews(); renderScan(); renderSect(); renderFlow(); renderMarket(); }
@@ -660,11 +876,27 @@ async function refresh() {
 /* ---------- init ---------- */
 async function init() {
   loadLocal();
+  tsLoadLocal();
   await loadData();
   renderAll();
 
   document.querySelectorAll('.tab-btn').forEach(b => b.onclick = () => switchTab(b.dataset.tab));
   $('refreshBtn').onclick = refresh;
+
+  // tab Chặn lãi
+  $('tsAddBtn').onclick = () => { if ($('tsForm').hidden) tsMoForm(null); else $('tsForm').hidden = true; };
+  $('tsCancel').onclick = () => { $('tsForm').hidden = true; };
+  $('tsSave').onclick = tsLuu;
+  $('tsCards').onclick = e => {
+    const ed = e.target.closest('[data-ts-edit]');
+    if (ed) { tsMoForm(ed.dataset.tsEdit); return; }
+    const del = e.target.closest('[data-ts-del]');
+    if (del) {
+      const ma = del.dataset.tsDel;
+      POS = POS.filter(x => x.ma !== ma);
+      tsSave(); renderStop(); toast('Đã xoá ' + ma);
+    }
+  };
 
   // chart modal: tap mã ở bảng giá
   $('board').onclick = e => { const row = e.target.closest('[data-sym]'); if (row) openChart(row.dataset.sym); };

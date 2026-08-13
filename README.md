@@ -46,6 +46,31 @@ Order flow THẬT cho watchlist, nối thẳng `orderflow/feed.py` (`source="kbs
 - *Không* thấy lệnh từng nhà đầu tư (dữ liệu đó riêng tư, không nguồn nào có) — chỉ hành vi gộp.
 Đây là bản order flow thật, thay cho proxy khối ngoại ở tab Quét.
 
+## Chặn lãi (tab "Chặn lãi")
+Nhập mã + giá mua + ngày mua + số lượng → app tự tính lãi/lỗ và **mức đặt lệnh chặn cho phiên tới**.
+Thang stop lấy từ backtest 687 cấu hình chặn lãi × 620 mã ba sàn, 2010–2026
+(dự án `TradingView/trailstop`, xem `reports/chan_lai.html`):
+
+| Cấp | Khi nào | Stop chuyển tới |
+|---|---|---|
+| 1 | ngay khi mua | −8% so với giá vốn → đây là **1R** |
+| 2 | T+2 hàng về, đang có lãi | giá vốn |
+| 3 | lãi đạt +32% (4R) | bám đỉnh, cách đỉnh 25% |
+
+Stop chỉ tăng. Vị thế nằm trong `localStorage` của máy (không đẩy lên repo), thang stop được
+tính ngay trên máy từ `docs/data/trailstop.json` — file này do `updater/update_trailstop.py`
+sinh mỗi phiên, chứa OHLC ~320 phiên của 60 mã PrimeTrade + danh mục theo dõi. Mã ngoài danh
+sách thì app báo "thêm vào danh mục theo dõi", lần cập nhật sau sẽ có.
+
+Ba điểm xử lý cố ý, đừng "sửa" thành khác:
+- **Dừng hẳn ở phiên thủng stop.** Theo kế hoạch thì vị thế đã đóng tại đó, nên app không bám
+  theo những đỉnh xuất hiện *sau* ngày lẽ ra đã bán. Nó báo `BÁN NGAY` kèm mức bán theo kế
+  hoạch và việc giữ đến giờ đắt/rẻ hơn bao nhiêu.
+- **Hướng của hệ số điều chỉnh.** Giá trong kho đã điều chỉnh cổ tức nên giá quá khứ chỉ *thấp
+  đi*. Hệ số < 0,9 mới là chia quyền (quy đổi giá vốn và ghi rõ); hệ số > 1,1 là gõ nhầm giá
+  hoặc nhầm ngày — chỉ cảnh báo, không tự sửa số người dùng nhập.
+- **T+2** chặn cả việc bán lẫn việc bật cấp 2.
+
 ## Bộ quét (scanner)
 5 loại cảnh báo kiểu Finpath, quét **toàn sàn** (lọc thanh khoản ≥2 tỷ/phiên, tối đa 500 mã):
 - **Cuối phiên** (`scan_daily.py`, dữ liệu OHLCV ngày): 🚀 vượt đỉnh 60 phiên + KL ≥2× TB20 · 🛟 giảm ≥4% về sát MA50/đáy 60 · 🧱 nền chặt (biên độ 15 phiên ≤7% + KL co ≤80%).
