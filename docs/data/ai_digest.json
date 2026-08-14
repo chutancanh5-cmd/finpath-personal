@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-13",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin hôm nay nghiêng về hỗ trợ khi VN-Index tiến sát mốc tâm lý 1.800 điểm với thanh khoản và dòng tiền lan tỏa, khối ngoại rót gần 500 tỷ đồng vào 3 cổ phiếu trong phiên bứt phá. Yếu tố nền tảng khá vững: gần 40.000 tỷ đồng được dự báo sắp đổ vào thị trường, tài sản tài chính cá nhân của người Việt hướng tới mốc 600 tỷ USD, kết quả kinh doanh quý 2/2026 phân hóa với một số nhóm ngành tăng trưởng lợi nhuận vượt trội, cùng thêm cổ phiếu ngân hàng mới lên sàn giúp mở rộng quy mô hàng hóa. Mặt vĩ mô hỗ trợ trung hạn với FDI tiếp tục chảy mạnh (một địa phương vượt 10 tỷ USD trong 7 tháng), hợp tác tài chính Việt Nam - Australia hướng tới thương mại 20 tỷ USD và các dự án hạ tầng - tài nguyên quy mô lớn, thuận lợi cho nhóm khu công nghiệp, xây dựng, logistics và ngân hàng. Rủi ro ngắn hạn là chỉ số đã tăng nhanh vào sát vùng kháng cự 1.800 điểm nên áp lực chốt lời và rung lắc dễ xuất hiện, trong khi giá vàng leo lên đỉnh hơn 2 tháng cùng làn sóng gom vàng của các quỹ lớn cho thấy tâm lý phòng thủ toàn cầu và có thể hút bớt dòng tiền, gây áp lực tỷ giá. Nhà đầu tư nên ưu tiên cổ phiếu có lợi nhuận thực và dòng tiền hỗ trợ, hạn chế đòn bẩy và tránh mua đuổi ở vùng giá cao.",
+  "date": "2026-08-14",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Dòng tin hôm nay nghiêng về rủi ro khi VN-Index mất 27 điểm, rời xa mốc 1.800 do lực bán dội mạnh cuối phiên đúng ngày đầu tháng Ngâu, trong khi khối ngoại đảo chiều bán ròng gần 600 tỷ đồng. Áp lực chốt lời sau nhịp tăng nhanh cộng với cảnh báo về một yếu tố có thể khiến chứng khoán biến động mạnh cho thấy thị trường bước vào giai đoạn rung lắc, tâm lý thận trọng chi phối ngắn hạn. Nền vĩ mô vẫn là điểm tựa: FDI tiếp tục chảy mạnh (một địa phương vượt 10 tỷ USD, tỉnh có Samsung - Foxconn hút 2,73 tỷ USD sau 7 tháng), một tập đoàn Mỹ vốn hóa trên 200 tỷ USD dự kiến đặt phòng thí nghiệm tại Việt Nam, hỗ trợ trung hạn cho khu công nghiệp, xây dựng, logistics và công nghệ. Giá vàng quay đầu giảm mạnh khi quỹ lớn xả hàng, cùng việc siết kiểm tra và khởi tố chủ doanh nghiệp vàng bạc, có thể giúp dòng tiền dịch chuyển trở lại kênh cổ phiếu nhưng cũng làm gia tăng biến động tâm lý. Nhà đầu tư nên hạ đòn bẩy, giữ tỷ trọng cân bằng và chờ thị trường cân bằng lại quanh vùng hỗ trợ trước khi giải ngân mới.",
   "top": [
     {
-      "title": "VN-Index tiến sát 1.800 điểm, thêm cổ phiếu ngân hàng lên sàn",
-      "impact": "↑",
-      "note": "Chỉ số áp sát mốc tâm lý lớn với hàng hóa mới chất lượng giúp củng cố xu hướng tăng và thu hút dòng tiền."
+      "title": "Lực bán dội mạnh cuối phiên, VN-Index rời xa 1.800 điểm",
+      "impact": "↓",
+      "note": "Chỉ số bị đẩy lùi khỏi mốc tâm lý với áp lực bán tăng dần về cuối phiên, xu hướng ngắn hạn suy yếu."
     },
     {
-      "title": "Gần 40.000 tỷ đồng sắp đổ vào chứng khoán",
-      "impact": "↑",
-      "note": "Nguồn vốn mới quy mô lớn là lực đỡ thanh khoản trực tiếp cho mặt bằng giá cổ phiếu."
+      "title": "Khối ngoại đảo chiều bán ròng gần 600 tỷ đồng, VN-Index mất 27 điểm",
+      "impact": "↓",
+      "note": "Vốn ngoại quay đầu rút ra gây sức ép trực tiếp lên nhóm vốn hóa lớn và tâm lý thị trường."
     },
     {
-      "title": "Khối ngoại rót gần 500 tỷ đồng vào 3 cổ phiếu trong phiên bứt phá",
-      "impact": "↑",
-      "note": "Dòng vốn ngoại quay lại mua ròng mạnh củng cố tâm lý và hỗ trợ nhóm vốn hóa lớn."
+      "title": "Chứng khoán giảm mạnh ngày đầu tháng Ngâu",
+      "impact": "↓",
+      "note": "Yếu tố mùa vụ khiến dòng tiền thận trọng, thanh khoản dễ suy giảm trong các phiên tới."
     },
     {
-      "title": "Nhóm ngành \"vô địch\" tăng trưởng lợi nhuận quý 2/2026",
-      "impact": "↑",
-      "note": "Lợi nhuận cải thiện thực chất tạo nền cơ bản cho sóng tăng chọn lọc theo ngành."
+      "title": "Một yếu tố có thể khiến chứng khoán biến động mạnh",
+      "impact": "↓",
+      "note": "Cảnh báo rủi ro biến động làm tăng nhu cầu phòng thủ và hạ đòn bẩy của nhà đầu tư."
     },
     {
-      "title": "FDI: một địa phương thu hút vượt 10 tỷ USD trong 7 tháng 2026",
+      "title": "FDI 7 tháng 2026: một địa phương vượt 10 tỷ USD, tỉnh có Samsung - Foxconn hút 2,73 tỷ USD",
       "impact": "↑",
-      "note": "Vốn ngoại giải ngân mạnh hỗ trợ tăng trưởng, có lợi cho khu công nghiệp, xây dựng và logistics."
+      "note": "Vốn ngoại giải ngân mạnh củng cố tăng trưởng, có lợi cho khu công nghiệp, xây dựng và logistics."
     },
     {
-      "title": "Giá vàng vọt lên cao nhất hơn 2 tháng, quỹ lớn gom thêm 20 tấn",
-      "impact": "→",
-      "note": "Nhu cầu trú ẩn tăng phản ánh tâm lý phòng thủ, có thể hút bớt dòng tiền và gây áp lực tỷ giá."
+      "title": "Tập đoàn Mỹ vốn hóa hơn 200 tỷ USD dự kiến xây phòng thí nghiệm tại Việt Nam",
+      "impact": "↑",
+      "note": "Dòng vốn công nghệ cao nâng vị thế Việt Nam trong chuỗi cung ứng, hỗ trợ nhóm công nghệ và bất động sản khu công nghiệp."
     }
   ]
 }
