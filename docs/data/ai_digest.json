@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Dòng tin hôm nay nghiêng về rủi ro khi VN-Index mất 27 điểm, rời xa mốc 1.800 do lực bán dội mạnh cuối phiên đúng ngày đầu tháng Ngâu, trong khi khối ngoại đảo chiều bán ròng gần 600 tỷ đồng. Áp lực chốt lời sau nhịp tăng nhanh cộng với cảnh báo về một yếu tố có thể khiến chứng khoán biến động mạnh cho thấy thị trường bước vào giai đoạn rung lắc, tâm lý thận trọng chi phối ngắn hạn. Nền vĩ mô vẫn là điểm tựa: FDI tiếp tục chảy mạnh (một địa phương vượt 10 tỷ USD, tỉnh có Samsung - Foxconn hút 2,73 tỷ USD sau 7 tháng), một tập đoàn Mỹ vốn hóa trên 200 tỷ USD dự kiến đặt phòng thí nghiệm tại Việt Nam, hỗ trợ trung hạn cho khu công nghiệp, xây dựng, logistics và công nghệ. Giá vàng quay đầu giảm mạnh khi quỹ lớn xả hàng, cùng việc siết kiểm tra và khởi tố chủ doanh nghiệp vàng bạc, có thể giúp dòng tiền dịch chuyển trở lại kênh cổ phiếu nhưng cũng làm gia tăng biến động tâm lý. Nhà đầu tư nên hạ đòn bẩy, giữ tỷ trọng cân bằng và chờ thị trường cân bằng lại quanh vùng hỗ trợ trước khi giải ngân mới.",
+  "summary_vi": "Thị trường bước vào tháng Ngâu với nhịp điều chỉnh mạnh: VN-Index mất 64 điểm chỉ sau 2 phiên, vốn hóa bốc hơi khoảng 324.000 tỷ đồng, riêng phiên 14/8 giảm gần 37 điểm do nhóm cổ phiếu trụ bị bán tháo và khối ngoại bán ròng dữ dội, trong đó một bluechip bị xả gần 500 tỷ đồng. Nền vĩ mô vẫn là điểm tựa trung hạn khi FDI 7 tháng tiếp tục chảy mạnh (một địa phương vượt 10 tỷ USD, tỉnh có Samsung - Foxconn hút 2,73 tỷ USD), các hợp tác công nghệ cao với Mỹ và Nhật Bản được mở rộng, còn Hà Nội đặt mục tiêu tăng trưởng hai con số — hỗ trợ nhóm khu công nghiệp, xây dựng hạ tầng, logistics và công nghệ. Rủi ro ngắn hạn đến từ nhập siêu hơn 20 tỷ USD trong 7 tháng buộc Chính phủ phải siết kiểm soát, tạo áp lực lên tỷ giá và biên lợi nhuận nhóm nhập khẩu nguyên liệu. Thông tin 220 tỷ USD tài sản mã hóa vào Việt Nam cho thấy dòng tiền đầu cơ đang phân tán khỏi kênh cổ phiếu, dù khung pháp lý tài sản số dần rõ ràng có thể mang lại cơ hội cho nhóm chứng khoán - công nghệ tài chính. Chiến lược hợp lý là hạ đòn bẩy, ưu tiên cổ phiếu có nền cơ bản gắn với FDI và đầu tư công, chờ thị trường tạo cân bằng quanh vùng hỗ trợ trước khi giải ngân mới.",
   "top": [
     {
-      "title": "Lực bán dội mạnh cuối phiên, VN-Index rời xa 1.800 điểm",
+      "title": "VN-Index rơi 64 điểm sau 2 phiên, cổ phiếu trụ bị bán mạnh",
       "impact": "↓",
-      "note": "Chỉ số bị đẩy lùi khỏi mốc tâm lý với áp lực bán tăng dần về cuối phiên, xu hướng ngắn hạn suy yếu."
+      "note": "Nhóm vốn hóa lớn dẫn dắt đà giảm khiến xu hướng ngắn hạn gãy và tâm lý nhà đầu tư suy yếu rõ rệt."
     },
     {
-      "title": "Khối ngoại đảo chiều bán ròng gần 600 tỷ đồng, VN-Index mất 27 điểm",
+      "title": "Khối ngoại bán ròng mạnh, xả gần 500 tỷ đồng một cổ phiếu bluechip",
       "impact": "↓",
-      "note": "Vốn ngoại quay đầu rút ra gây sức ép trực tiếp lên nhóm vốn hóa lớn và tâm lý thị trường."
+      "note": "Dòng vốn ngoại rút ra tập trung vào bluechip tạo sức ép trực tiếp lên chỉ số và tỷ giá."
     },
     {
-      "title": "Chứng khoán giảm mạnh ngày đầu tháng Ngâu",
+      "title": "Chứng khoán mất 324.000 tỷ vốn hóa khi khởi đầu tháng Ngâu",
       "impact": "↓",
-      "note": "Yếu tố mùa vụ khiến dòng tiền thận trọng, thanh khoản dễ suy giảm trong các phiên tới."
+      "note": "Yếu tố mùa vụ cộng hưởng với áp lực chốt lời khiến dòng tiền thận trọng, thanh khoản dễ hụt trong các phiên tới."
     },
     {
-      "title": "Một yếu tố có thể khiến chứng khoán biến động mạnh",
+      "title": "Nhập siêu hơn 20 tỷ USD trong 7 tháng, Phó Thủ tướng yêu cầu rà soát doanh nghiệp",
       "impact": "↓",
-      "note": "Cảnh báo rủi ro biến động làm tăng nhu cầu phòng thủ và hạ đòn bẩy của nhà đầu tư."
+      "note": "Cán cân thương mại xấu đi gây áp lực lên tỷ giá và chi phí đầu vào của doanh nghiệp nhập khẩu nguyên liệu."
     },
     {
       "title": "FDI 7 tháng 2026: một địa phương vượt 10 tỷ USD, tỉnh có Samsung - Foxconn hút 2,73 tỷ USD",
       "impact": "↑",
-      "note": "Vốn ngoại giải ngân mạnh củng cố tăng trưởng, có lợi cho khu công nghiệp, xây dựng và logistics."
+      "note": "Vốn ngoại giải ngân mạnh củng cố tăng trưởng, có lợi cho bất động sản khu công nghiệp, xây dựng và logistics."
     },
     {
-      "title": "Tập đoàn Mỹ vốn hóa hơn 200 tỷ USD dự kiến xây phòng thí nghiệm tại Việt Nam",
+      "title": "Việt Nam hợp tác Mỹ và Nhật Bản xây phòng thí nghiệm, lập nhóm công tác công nghệ cao",
       "impact": "↑",
-      "note": "Dòng vốn công nghệ cao nâng vị thế Việt Nam trong chuỗi cung ứng, hỗ trợ nhóm công nghệ và bất động sản khu công nghiệp."
+      "note": "Nâng vị thế Việt Nam trong chuỗi cung ứng công nghệ, hỗ trợ dài hạn cho nhóm công nghệ và hạ tầng khu công nghiệp."
     }
   ]
 }
