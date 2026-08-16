@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-14",
+  "date": "2026-08-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền vĩ mô tiếp tục là điểm tựa khi dòng vốn FDI duy trì mạnh (một địa phương vượt 10 tỷ USD sau 7 tháng, thủ phủ Samsung–Foxconn hút 2,73 tỷ USD) cùng loạt tín hiệu mở rộng hợp tác quốc tế như dự án phòng thí nghiệm của tập đoàn Mỹ vốn hoá trên 200 tỷ USD và mục tiêu thương mại Việt Nam – Australia 20 tỷ USD. Tuy nhiên diễn biến thị trường ngắn hạn lại đảo chiều rõ rệt: VN-Index mất 27 điểm, rời xa mốc 1.800, lực bán dội mạnh cuối phiên và khối ngoại quay đầu bán ròng gần 600 tỷ đồng. Yếu tố tâm lý mùa vụ (tháng Ngâu) cộng với vùng giá đã tăng nhiều khiến rủi ro rung lắc, chốt lời còn hiện hữu trong vài phiên tới. Về cổ phiếu, nhóm khu công nghiệp – logistics – xây dựng hạ tầng và ngân hàng tài trợ FDI vẫn có câu chuyện trung hạn, trong khi nhóm chứng khoán, bất động sản đầu cơ dễ chịu áp lực khi thanh khoản co lại. Chiến lược hợp lý là hạ đòn bẩy, giữ tỷ trọng vừa phải và chờ thị trường cân bằng quanh vùng hỗ trợ thay vì mua đuổi.",
+  "summary_vi": "Dòng tin vĩ mô đầu tuần nghiêng về mặt hỗ trợ trung hạn: vốn đăng ký vào khu kinh tế – khu công nghiệp Quảng Ngãi đạt gần 20 tỷ USD từ hơn 440 dự án, hợp tác Việt – Mỹ mở rộng sang phòng thí nghiệm khai thác tài nguyên chiến lược, và TP.HCM tăng tốc cấp C/O để gỡ nút thắt xuất khẩu. Điểm gợn là nhập siêu hơn 20 tỷ USD trong 7 tháng khiến Chính phủ phải rà soát doanh nghiệp có chênh lệch xuất – nhập khẩu lớn, tạo áp lực lên cán cân thanh toán và tỷ giá. Trên thị trường, VN-Index thất bại trước mốc 1.800 và được dự báo giằng co quanh 1.720 điểm, giới phân tích cho rằng chưa có cơ sở cho một nhịp phục hồi bền vững nên rung lắc còn tiếp diễn. Về cổ phiếu, nhóm khu công nghiệp, hạ tầng, logistics và xuất khẩu vẫn có câu chuyện riêng nhờ FDI và thuận lợi hóa thủ tục, trong khi nhóm chứng khoán, bất động sản đầu cơ dễ chịu áp lực khi thanh khoản co lại. Chiến lược hợp lý là giữ đòn bẩy thấp, ưu tiên cổ phiếu có nền tảng cơ bản và chờ thị trường cân bằng ở vùng hỗ trợ thay vì mua đuổi.",
   "top": [
     {
-      "title": "VN-Index mất 27 điểm, rời xa mốc 1.800 do lực bán dội mạnh cuối phiên",
+      "title": "Chứng khoán thất bại trước mốc 1.800 điểm, dự báo giằng co quanh 1.720",
       "impact": "↓",
-      "note": "Phiên giảm mạnh kèm bán tháo cuối phiên cho thấy áp lực chốt lời và tâm lý thị trường đang yếu đi."
+      "note": "Không giữ được vùng kháng cự mạnh cho thấy lực cầu suy yếu và rủi ro điều chỉnh còn hiện hữu."
     },
     {
-      "title": "Khối ngoại đảo chiều bán ròng gần 600 tỷ đồng",
+      "title": "Chuyên gia: rung lắc tiếp diễn, chưa có cơ sở để VN-Index phục hồi bền vững",
       "impact": "↓",
-      "note": "Dòng vốn ngoại quay đầu rút ra làm giảm lực đỡ cho nhóm vốn hoá lớn."
+      "note": "Quan điểm thận trọng lan rộng dễ khiến dòng tiền đứng ngoài, thanh khoản khó bứt phá."
     },
     {
-      "title": "Chứng khoán giảm mạnh ngày đầu tháng Ngâu",
+      "title": "Nhập siêu hơn 20 tỷ USD sau 7 tháng, Phó Thủ tướng yêu cầu rà soát doanh nghiệp",
       "impact": "↓",
-      "note": "Yếu tố tâm lý mùa vụ khiến dòng tiền thận trọng, thanh khoản dễ suy giảm trong ngắn hạn."
+      "note": "Cán cân thương mại thâm hụt lớn gây sức ép lên tỷ giá và tâm lý khối ngoại."
     },
     {
-      "title": "Một địa phương thu hút FDI vượt 10 tỷ USD trong 7 tháng 2026",
+      "title": "Hơn 440 dự án đầu tư vào khu kinh tế, khu công nghiệp Quảng Ngãi, vốn gần 20 tỷ USD",
       "impact": "↑",
-      "note": "FDI giải ngân mạnh hỗ trợ tăng trưởng và triển vọng nhóm khu công nghiệp, xây dựng, logistics."
+      "note": "Dòng vốn đầu tư mạnh vào hạ tầng công nghiệp hỗ trợ nhóm khu công nghiệp, xây dựng, vật liệu."
     },
     {
-      "title": "Tỉnh có Samsung, Foxconn hút hơn 2,73 tỷ USD vốn FDI 7 tháng đầu năm",
+      "title": "TP.HCM tăng tốc cấp C/O, không để ách tắc xuất khẩu",
       "impact": "↑",
-      "note": "Chuỗi sản xuất điện tử mở rộng giúp duy trì xuất khẩu và việc làm, tích cực cho nhóm hạ tầng khu công nghiệp."
+      "note": "Gỡ nút thắt thủ tục giúp doanh nghiệp xuất khẩu giữ nhịp giao hàng và biên lợi nhuận."
     },
     {
-      "title": "Tập đoàn Mỹ vốn hoá hơn 200 tỷ USD dự kiến xây phòng thí nghiệm tại Việt Nam",
+      "title": "Việt Nam và Mỹ cùng xây phòng thí nghiệm khai thác 'kho báu' hàng trăm tỷ USD",
       "impact": "↑",
-      "note": "Tín hiệu nâng cấp chất lượng dòng vốn FDI công nghệ cao, củng cố câu chuyện dài hạn của thị trường."
+      "note": "Nâng cấp hợp tác công nghệ – tài nguyên chiến lược, củng cố câu chuyện thu hút FDI chất lượng cao."
     }
   ]
 }
