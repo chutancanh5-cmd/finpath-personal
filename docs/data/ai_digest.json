@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô tuần qua nghiêng về tích cực ở phía sản xuất và đầu tư: vốn FDI đổ mạnh vào khu công nghiệp Quảng Ngãi (gần 20 tỷ USD đăng ký), Hà Nội đặt mục tiêu tăng trưởng hai con số, cùng các hợp tác công nghệ với Mỹ và Nhật Bản mở thêm dư địa dài hạn cho nhóm bất động sản khu công nghiệp, xây dựng hạ tầng và công nghệ. Tuy nhiên rủi ro ngắn hạn đang lấn át dòng tiền: nhập siêu hơn 20 tỷ USD trong 7 tháng gây áp lực lên cán cân thương mại và tỷ giá, buộc Chính phủ phải siết kiểm soát nhập khẩu và tăng tốc cấp C/O để tránh ách tắc xuất khẩu. Trên thị trường, khối ngoại bán ròng hơn 2.000 tỷ đồng chỉ trong một tuần và chỉ số 'lao dốc' phiên cuối tuần cho thấy tâm lý thận trọng, thanh khoản dễ phân hóa. Đề xuất sửa đổi loạt quy định liên quan nhà đầu tư chứng khoán là ẩn số cần theo dõi, có thể cải thiện thanh khoản trung hạn nhưng gây nhiễu ngắn hạn. Chiến lược hợp lý là giữ tỷ trọng vừa phải, ưu tiên cổ phiếu hưởng lợi từ đầu tư công - khu công nghiệp và tránh mua đuổi khi dòng vốn ngoại còn rút.",
+  "summary_vi": "Nền vĩ mô tiếp tục ủng hộ trung hạn: dòng vốn FDI đổ mạnh vào khu kinh tế - khu công nghiệp Quảng Ngãi (hơn 440 dự án, gần 20 tỷ USD đăng ký), doanh nghiệp FDI đánh giá cao năng lực R&D của Việt Nam và hợp tác công nghệ Việt - Mỹ trong lĩnh vực đất hiếm mở thêm câu chuyện dài hạn cho nhóm bất động sản khu công nghiệp, hạ tầng và công nghệ. Việc TP.HCM tăng tốc cấp C/O giúp giảm rủi ro ách tắc xuất khẩu, hỗ trợ dệt may, thủy sản và logistics. Ở chiều ngược lại, thị trường vừa thất bại trước mốc 1.800 điểm và được dự báo giằng co quanh 1.720 điểm, trong khi giới phân tích cho rằng chưa có cơ sở để VN-Index phục hồi bền vững - rung lắc nhiều khả năng còn tiếp diễn. Định giá đang phân hóa mạnh giữa các nhóm ngành, cộng với một sự kiện quan trọng của chứng khoán Việt Nam ngay trong tuần này, khiến biến động ngắn hạn dễ tăng. Chiến lược hợp lý là giữ tỷ trọng vừa phải, ưu tiên cổ phiếu có nền cơ bản và hưởng lợi từ FDI - đầu tư công, hạn chế mua đuổi ở vùng kháng cự.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng hơn 2.000 tỷ đồng tuần 10-14/8",
+      "title": "Chứng khoán thất bại trước mốc 1.800 điểm",
       "impact": "↓",
-      "note": "Dòng vốn ngoại rút mạnh tạo áp lực cung lên nhóm vốn hóa lớn và làm suy yếu tâm lý thị trường."
+      "note": "Không vượt được kháng cự mạnh cho thấy lực cầu yếu và rủi ro điều chỉnh kỹ thuật trong ngắn hạn."
     },
     {
-      "title": "Nhập siêu hơn 20 tỷ USD trong 7 tháng, Phó Thủ tướng yêu cầu rà soát doanh nghiệp",
+      "title": "Góc nhìn chuyên gia: chưa có cơ sở để VN-Index phục hồi bền vững",
       "impact": "↓",
-      "note": "Thâm hụt thương mại lớn gây sức ép lên tỷ giá và dư địa nới lỏng chính sách tiền tệ."
+      "note": "Quan điểm thận trọng của giới phân tích dễ khiến dòng tiền đứng ngoài, thanh khoản phân hóa."
     },
     {
-      "title": "Chứng khoán tuần qua: đầu tuần hồi phục, cuối tuần lao dốc",
-      "impact": "↓",
-      "note": "Đà giảm cuối tuần cho thấy lực cầu yếu, rủi ro quán tính tiêu cực sang đầu tuần mới."
+      "title": "Dự báo thị trường giằng co quanh 1.720 điểm tuần tới",
+      "impact": "→",
+      "note": "Kịch bản đi ngang trong biên độ hẹp, cơ hội nghiêng về giao dịch chọn lọc theo từng cổ phiếu."
     },
     {
-      "title": "Hơn 440 dự án vào khu kinh tế, KCN Quảng Ngãi với vốn đăng ký gần 20 tỷ USD",
+      "title": "Hơn 440 dự án vào khu kinh tế, KCN Quảng Ngãi, vốn đăng ký gần 20 tỷ USD",
       "impact": "↑",
       "note": "Dòng vốn đầu tư lớn hỗ trợ trực tiếp nhóm bất động sản khu công nghiệp, xây dựng và vật liệu."
     },
     {
-      "title": "Đề xuất loạt thay đổi quan trọng với nhà đầu tư chứng khoán",
-      "impact": "→",
-      "note": "Chính sách còn ở giai đoạn đề xuất, tác động phụ thuộc chi tiết cuối cùng nên thị trường tạm quan sát."
-    },
-    {
       "title": "TP.HCM tăng tốc cấp C/O, không để ách tắc xuất khẩu",
       "impact": "↑",
-      "note": "Gỡ nút thắt thủ tục giúp duy trì đà xuất khẩu, hỗ trợ doanh nghiệp dệt may, thủy sản và logistics."
+      "note": "Gỡ nút thắt thủ tục giúp giữ nhịp xuất khẩu, hỗ trợ dệt may, thủy sản và logistics."
+    },
+    {
+      "title": "Việt Nam - Mỹ xây phòng thí nghiệm khai thác 'kho báu' hàng trăm tỷ USD",
+      "impact": "↑",
+      "note": "Hợp tác công nghệ chiến lược mở câu chuyện dài hạn cho nhóm khoáng sản, đất hiếm và công nghệ."
     }
   ]
 }
