@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin vĩ mô đầu tuần nghiêng về mặt hỗ trợ trung hạn: vốn đăng ký vào khu kinh tế – khu công nghiệp Quảng Ngãi đạt gần 20 tỷ USD từ hơn 440 dự án, hợp tác Việt – Mỹ mở rộng sang phòng thí nghiệm khai thác tài nguyên chiến lược, và TP.HCM tăng tốc cấp C/O để gỡ nút thắt xuất khẩu. Điểm gợn là nhập siêu hơn 20 tỷ USD trong 7 tháng khiến Chính phủ phải rà soát doanh nghiệp có chênh lệch xuất – nhập khẩu lớn, tạo áp lực lên cán cân thanh toán và tỷ giá. Trên thị trường, VN-Index thất bại trước mốc 1.800 và được dự báo giằng co quanh 1.720 điểm, giới phân tích cho rằng chưa có cơ sở cho một nhịp phục hồi bền vững nên rung lắc còn tiếp diễn. Về cổ phiếu, nhóm khu công nghiệp, hạ tầng, logistics và xuất khẩu vẫn có câu chuyện riêng nhờ FDI và thuận lợi hóa thủ tục, trong khi nhóm chứng khoán, bất động sản đầu cơ dễ chịu áp lực khi thanh khoản co lại. Chiến lược hợp lý là giữ đòn bẩy thấp, ưu tiên cổ phiếu có nền tảng cơ bản và chờ thị trường cân bằng ở vùng hỗ trợ thay vì mua đuổi.",
+  "summary_vi": "Nền vĩ mô tiếp tục là điểm tựa: ASEAN-6 công bố GDP quý II/2026 với Việt Nam nhiều khả năng giữ vị trí dẫn đầu tăng trưởng, doanh nghiệp FDI đánh giá cao năng lực R&D trong nước, và Quảng Ngãi hút hơn 440 dự án với vốn đăng ký gần 20 tỷ USD vào khu kinh tế – khu công nghiệp. TP.HCM tăng tốc cấp C/O giúp giảm rủi ro ách tắc xuất khẩu, còn định hướng tái cấu trúc mô hình tăng trưởng theo hướng kiến tạo năng lực là câu chuyện trung – dài hạn cho nhóm công nghiệp, hạ tầng, khu công nghiệp và logistics. Ngược lại, mặt thị trường lại kém tích cực: thanh khoản \"mất hút\" ngay trước thời điểm quyết định nâng hạng và VN-Index giảm nhẹ phiên 17/8, cho thấy dòng tiền chọn đứng ngoài chờ tin thay vì mua trước. Rủi ro ngắn hạn nằm ở khoảng trống thanh khoản và khả năng \"tin ra là bán\" nếu kết quả nâng hạng không như kỳ vọng, cùng nhu cầu trú ẩn vào vàng đang mạnh lên trên toàn cầu. Chiến lược hợp lý là hạ đòn bẩy, ưu tiên cổ phiếu có nền tảng cơ bản gắn với FDI – xuất khẩu – hạ tầng và tránh mua đuổi nhóm đầu cơ khi thanh khoản còn mỏng.",
   "top": [
     {
-      "title": "Chứng khoán thất bại trước mốc 1.800 điểm, dự báo giằng co quanh 1.720",
+      "title": "Tiền mất hút trước \"giờ G\" nâng hạng chứng khoán",
       "impact": "↓",
-      "note": "Không giữ được vùng kháng cự mạnh cho thấy lực cầu suy yếu và rủi ro điều chỉnh còn hiện hữu."
+      "note": "Thanh khoản cạn ngay trước sự kiện lớn phản ánh tâm lý thận trọng và làm tăng rủi ro biến động mạnh sau tin."
     },
     {
-      "title": "Chuyên gia: rung lắc tiếp diễn, chưa có cơ sở để VN-Index phục hồi bền vững",
+      "title": "Chứng khoán ngày 17/8: VN-Index giảm nhẹ",
       "impact": "↓",
-      "note": "Quan điểm thận trọng lan rộng dễ khiến dòng tiền đứng ngoài, thanh khoản khó bứt phá."
+      "note": "Chỉ số tiếp tục thiếu động lực, xác nhận trạng thái giằng co chưa có xu hướng tăng rõ ràng."
     },
     {
-      "title": "Nhập siêu hơn 20 tỷ USD sau 7 tháng, Phó Thủ tướng yêu cầu rà soát doanh nghiệp",
-      "impact": "↓",
-      "note": "Cán cân thương mại thâm hụt lớn gây sức ép lên tỷ giá và tâm lý khối ngoại."
-    },
-    {
-      "title": "Hơn 440 dự án đầu tư vào khu kinh tế, khu công nghiệp Quảng Ngãi, vốn gần 20 tỷ USD",
+      "title": "Hơn 440 dự án vào khu kinh tế, khu công nghiệp Quảng Ngãi, vốn gần 20 tỷ USD",
       "impact": "↑",
-      "note": "Dòng vốn đầu tư mạnh vào hạ tầng công nghiệp hỗ trợ nhóm khu công nghiệp, xây dựng, vật liệu."
+      "note": "Dòng vốn lớn vào hạ tầng công nghiệp hỗ trợ trực tiếp nhóm khu công nghiệp, xây dựng và vật liệu."
+    },
+    {
+      "title": "GDP quý II/2026 ASEAN-6: Việt Nam có giữ vững ngôi đầu tăng trưởng",
+      "impact": "↑",
+      "note": "Vị thế tăng trưởng dẫn đầu khu vực củng cố câu chuyện định giá và sức hút với dòng vốn ngoại."
+    },
+    {
+      "title": "Doanh nghiệp FDI đánh giá cao khả năng R&D, kiến tạo sản phẩm của Việt Nam",
+      "impact": "↑",
+      "note": "Tín hiệu nâng chất dòng vốn FDI, có lợi cho nhóm công nghiệp hỗ trợ, công nghệ và bất động sản khu công nghiệp."
     },
     {
       "title": "TP.HCM tăng tốc cấp C/O, không để ách tắc xuất khẩu",
       "impact": "↑",
-      "note": "Gỡ nút thắt thủ tục giúp doanh nghiệp xuất khẩu giữ nhịp giao hàng và biên lợi nhuận."
-    },
-    {
-      "title": "Việt Nam và Mỹ cùng xây phòng thí nghiệm khai thác 'kho báu' hàng trăm tỷ USD",
-      "impact": "↑",
-      "note": "Nâng cấp hợp tác công nghệ – tài nguyên chiến lược, củng cố câu chuyện thu hút FDI chất lượng cao."
+      "note": "Gỡ nút thắt thủ tục giúp doanh nghiệp xuất khẩu giữ nhịp giao hàng và bảo vệ biên lợi nhuận."
     }
   ]
 }
