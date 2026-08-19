@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô vẫn nghiêng về tích cực khi Việt Nam tiếp tục dẫn đầu cuộc đua tăng trưởng ASEAN-6 trong quý II/2026, dòng vốn FDI đổ mạnh vào khu kinh tế - khu công nghiệp Quảng Ngãi (hơn 440 dự án, gần 20 tỷ USD đăng ký) và khối ngoại đánh giá cao năng lực R&D của Việt Nam. Định hướng tái cấu trúc mô hình tăng trưởng theo hướng kiến tạo năng lực cùng các dự án hạ tầng - bất động sản quy mô lớn tại Hà Nội, Quảng Ngãi hỗ trợ câu chuyện trung hạn cho nhóm bất động sản khu công nghiệp, xây dựng và vật liệu. Tuy nhiên rủi ro ngắn hạn đến từ việc dòng tiền 'mất hút' ngay trước thời điểm quyết định nâng hạng thị trường, cho thấy tâm lý chờ đợi và thanh khoản mỏng dễ gây rung lắc. Giá vàng tăng mạnh vượt 4.400 USD/ounce cùng lực gom của các quỹ ETF phản ánh nhu cầu trú ẩn còn cao, có thể hút bớt dòng tiền khỏi cổ phiếu. Chiến lược hợp lý là giữ tỷ trọng vừa phải, chọn lọc cổ phiếu cơ bản hưởng lợi từ FDI - đầu tư công và tránh mua đuổi khi thanh khoản chưa xác nhận.",
+  "summary_vi": "Nền vĩ mô vẫn là điểm tựa khi Việt Nam tiếp tục dẫn đầu cuộc đua tăng trưởng ASEAN-6 quý II/2026, định hướng tái cấu trúc mô hình tăng trưởng chuyển từ dựa vào nguồn lực sang kiến tạo năng lực, cùng việc Lâm Đồng khơi thông hơn 74.000 tỷ đồng vốn cho các dự án ách tắc — hỗ trợ trực tiếp nhóm bất động sản, xây dựng, vật liệu và đầu tư công. Ngược lại, diễn biến thị trường ngắn hạn kém thuyết phục: VN-Index xanh điểm nhưng độ rộng nghiêng về phía giảm, thanh khoản mỏng và tâm lý chán nản lan rộng. Khối ngoại bán ròng hơn 700 tỷ đồng dù câu chuyện nâng hạng đã cận kề, cho thấy dòng vốn toàn cầu đang bị hút sang các chủ đề khác thay vì giải ngân sớm vào Việt Nam. Lãi suất trái phiếu bất động sản cao vượt trội so với gửi tiết kiệm vừa cho thấy kênh vốn đang hồi phục, vừa hàm ý phần bù rủi ro tín dụng ngành này còn lớn. Chiến lược phù hợp là duy trì tỷ trọng vừa phải, ưu tiên cổ phiếu cơ bản hưởng lợi từ đầu tư công và giải ngân vốn, hạn chế mua đuổi khi thanh khoản chưa xác nhận xu hướng.",
   "top": [
     {
-      "title": "Tiền mất hút trước 'giờ G' nâng hạng chứng khoán",
+      "title": "Khối ngoại bán ròng hơn 700 tỷ đồng phiên VN-Index rung lắc",
       "impact": "↓",
-      "note": "Thanh khoản sụt giảm ngay trước sự kiện quan trọng cho thấy tâm lý thận trọng, dễ tạo rung lắc ngắn hạn."
+      "note": "Áp lực bán ròng kéo dài của nhà đầu tư nước ngoài tạo lực cản trực tiếp lên chỉ số và nhóm vốn hóa lớn."
     },
     {
-      "title": "Giá vàng vượt 4.400 USD/ounce, ETF gom mạnh hơn cả NHTW",
+      "title": "Khối ngoại bán ròng dù Việt Nam sắp được nâng hạng, dòng vốn toàn cầu chảy nơi khác",
       "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng cao phản ánh lo ngại rủi ro toàn cầu và có thể hút bớt dòng tiền khỏi kênh cổ phiếu."
+      "note": "Kỳ vọng nâng hạng chưa đủ giữ chân vốn ngoại, làm giảm động lực cho sóng tăng ngắn hạn."
+    },
+    {
+      "title": "VN-Index xanh điểm nhưng số mã giảm vẫn áp đảo, thanh khoản trầm lắng",
+      "impact": "↓",
+      "note": "Độ rộng thị trường yếu và dòng tiền mỏng cho thấy nhịp hồi thiếu bền, rủi ro rung lắc còn cao."
     },
     {
       "title": "Việt Nam giữ vị thế dẫn đầu tăng trưởng GDP quý II/2026 trong ASEAN-6",
       "impact": "↑",
-      "note": "Nền tảng tăng trưởng vượt trội củng cố triển vọng lợi nhuận doanh nghiệp và sức hút với vốn ngoại."
+      "note": "Nền tảng tăng trưởng vượt trội củng cố triển vọng lợi nhuận doanh nghiệp và sức hấp dẫn dài hạn của TTCK."
     },
     {
-      "title": "Hơn 440 dự án vào khu kinh tế, KCN Quảng Ngãi, vốn đăng ký gần 20 tỷ USD",
+      "title": "Lâm Đồng khơi thông hơn 74.000 tỷ đồng, hướng tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Dòng vốn đầu tư lớn hỗ trợ trực tiếp nhóm bất động sản khu công nghiệp, xây dựng và vật liệu."
+      "note": "Giải phóng vốn cho các dự án đình trệ kích hoạt dòng tiền thực cho bất động sản, xây dựng và vật liệu."
     },
     {
-      "title": "Doanh nghiệp FDI đánh giá cao năng lực R&D của Việt Nam",
-      "impact": "↑",
-      "note": "Nâng cấp vị thế trong chuỗi giá trị giúp duy trì dòng vốn FDI chất lượng cao trong dài hạn."
-    },
-    {
-      "title": "Hoàn thiện thước đo rủi ro thị trường trái phiếu",
+      "title": "Lãi suất trái phiếu bất động sản cao hơn gửi tiết kiệm ngân hàng",
       "impact": "→",
-      "note": "Cải thiện minh bạch giúp lành mạnh hóa kênh vốn nhưng chưa tác động ngay tới dòng tiền cổ phiếu."
+      "note": "Kênh huy động vốn hồi phục là tín hiệu tốt nhưng chênh lệch lãi suất lớn phản ánh rủi ro tín dụng chưa hạ nhiệt."
     }
   ]
 }
