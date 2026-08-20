@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-18",
+  "date": "2026-08-21",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền vĩ mô tiếp tục là điểm tựa: ASEAN-6 công bố GDP quý II/2026 với Việt Nam nhiều khả năng giữ vị trí dẫn đầu tăng trưởng, doanh nghiệp FDI đánh giá cao năng lực R&D trong nước, và Quảng Ngãi hút hơn 440 dự án với vốn đăng ký gần 20 tỷ USD vào khu kinh tế – khu công nghiệp. TP.HCM tăng tốc cấp C/O giúp giảm rủi ro ách tắc xuất khẩu, còn định hướng tái cấu trúc mô hình tăng trưởng theo hướng kiến tạo năng lực là câu chuyện trung – dài hạn cho nhóm công nghiệp, hạ tầng, khu công nghiệp và logistics. Ngược lại, mặt thị trường lại kém tích cực: thanh khoản \"mất hút\" ngay trước thời điểm quyết định nâng hạng và VN-Index giảm nhẹ phiên 17/8, cho thấy dòng tiền chọn đứng ngoài chờ tin thay vì mua trước. Rủi ro ngắn hạn nằm ở khoảng trống thanh khoản và khả năng \"tin ra là bán\" nếu kết quả nâng hạng không như kỳ vọng, cùng nhu cầu trú ẩn vào vàng đang mạnh lên trên toàn cầu. Chiến lược hợp lý là hạ đòn bẩy, ưu tiên cổ phiếu có nền tảng cơ bản gắn với FDI – xuất khẩu – hạ tầng và tránh mua đuổi nhóm đầu cơ khi thanh khoản còn mỏng.",
+  "summary_vi": "Câu chuyện lớn nhất là sự kiện FTSE công bố kết quả review chỉ còn tính bằng ngày, đi kèm danh sách 28 cổ phiếu được cho là hưởng lợi và kỳ review tháng 9 của các ETF ngoại quy mô gần 1 tỷ USD — đây là chất xúc tác dòng vốn rõ ràng nhất cho nhóm vốn hóa lớn, ngân hàng và chứng khoán. Về chính sách, định hướng giảm áp lực \"đầu vào\" thuế, phí, tín dụng cho doanh nghiệp cùng các địa phương đặt mục tiêu tăng trưởng trên 10% củng cố nền tảng lợi nhuận trung hạn. Tuy nhiên mặt thị trường vẫn yếu: khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE phiên 20/8, thanh khoản và tâm lý nhà đầu tư ở mức thấp khi truyền thông nói về chuyện chứng khoán \"chán\" và môi giới ế khách. Song song, vàng bùng nổ và quỹ lớn nhất thế giới gom gần 10 tấn vàng chỉ trong một đêm cho thấy nhu cầu trú ẩn đang cạnh tranh trực tiếp với dòng tiền vào cổ phiếu. Rủi ro ngắn hạn là kịch bản \"tin ra là bán\" nếu kết quả FTSE không như kỳ vọng; chiến lược hợp lý là giữ tỷ trọng vừa phải, ưu tiên cổ phiếu nằm trong rổ hưởng lợi từ ETF và tránh dùng đòn bẩy cao trước thời điểm công bố.",
   "top": [
     {
-      "title": "Tiền mất hút trước \"giờ G\" nâng hạng chứng khoán",
+      "title": "FTSE công bố thông tin quan trọng, 28 cổ phiếu có thể hút hàng tỷ USD",
+      "impact": "↑",
+      "note": "Kết quả review nâng hạng là chất xúc tác dòng vốn ngoại lớn nhất, tập trung vào nhóm vốn hóa lớn và ngân hàng."
+    },
+    {
+      "title": "Khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE phiên 20/8",
       "impact": "↓",
-      "note": "Thanh khoản cạn ngay trước sự kiện lớn phản ánh tâm lý thận trọng và làm tăng rủi ro biến động mạnh sau tin."
+      "note": "Áp lực bán ròng ngay trước sự kiện lớn cho thấy dòng vốn ngoại vẫn thận trọng, gây sức ép lên chỉ số."
     },
     {
-      "title": "Chứng khoán ngày 17/8: VN-Index giảm nhẹ",
+      "title": "ETF ngoại quy mô gần 1 tỷ USD chuẩn bị cơ cấu danh mục kỳ tháng 9",
+      "impact": "↑",
+      "note": "Kỳ review ETF tạo lực cầu kỹ thuật cho các cổ phiếu được thêm mới trong vài tuần tới."
+    },
+    {
+      "title": "Giảm áp lực đầu vào về thuế, phí, tín dụng cho doanh nghiệp",
+      "impact": "↑",
+      "note": "Chi phí vốn và chi phí thuế phí hạ nhiệt giúp cải thiện biên lợi nhuận doanh nghiệp niêm yết."
+    },
+    {
+      "title": "Quỹ lớn nhất thế giới mua gần 10 tấn vàng trong một đêm, giá vàng bùng nổ",
       "impact": "↓",
-      "note": "Chỉ số tiếp tục thiếu động lực, xác nhận trạng thái giằng co chưa có xu hướng tăng rõ ràng."
+      "note": "Nhu cầu trú ẩn tăng mạnh hút bớt dòng tiền khỏi kênh cổ phiếu trong ngắn hạn."
     },
     {
-      "title": "Hơn 440 dự án vào khu kinh tế, khu công nghiệp Quảng Ngãi, vốn gần 20 tỷ USD",
-      "impact": "↑",
-      "note": "Dòng vốn lớn vào hạ tầng công nghiệp hỗ trợ trực tiếp nhóm khu công nghiệp, xây dựng và vật liệu."
-    },
-    {
-      "title": "GDP quý II/2026 ASEAN-6: Việt Nam có giữ vững ngôi đầu tăng trưởng",
-      "impact": "↑",
-      "note": "Vị thế tăng trưởng dẫn đầu khu vực củng cố câu chuyện định giá và sức hút với dòng vốn ngoại."
-    },
-    {
-      "title": "Doanh nghiệp FDI đánh giá cao khả năng R&D, kiến tạo sản phẩm của Việt Nam",
-      "impact": "↑",
-      "note": "Tín hiệu nâng chất dòng vốn FDI, có lợi cho nhóm công nghiệp hỗ trợ, công nghệ và bất động sản khu công nghiệp."
-    },
-    {
-      "title": "TP.HCM tăng tốc cấp C/O, không để ách tắc xuất khẩu",
-      "impact": "↑",
-      "note": "Gỡ nút thắt thủ tục giúp doanh nghiệp xuất khẩu giữ nhịp giao hàng và bảo vệ biên lợi nhuận."
+      "title": "Chứng khoán \"chán\", môi giới ế khách, công ty chứng khoán đóng chi nhánh",
+      "impact": "↓",
+      "note": "Thanh khoản và tâm lý nhà đầu tư cá nhân xuống thấp, hạn chế đà lan tỏa của thị trường."
     }
   ]
 }
