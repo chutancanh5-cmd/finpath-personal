@@ -21,6 +21,7 @@ concurrency:
 jobs:
   backtest:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     env:
       VNSTOCK_API_KEY: ${{ secrets.VNSTOCK_API_KEY }}
       ACCEPT_TC: "tôi đồng ý"

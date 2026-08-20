@@ -198,7 +198,7 @@ def ai_digest(items, key):
               "3) top tối đa 6 tin tác động mạnh nhất: title ngắn, impact (↑ tốt/→ trung tính/↓ xấu), note 1 câu.\n\n"
               f"TIN:\n{headlines}")
     try:
-        client = anthropic.Anthropic(api_key=key)
+        client = anthropic.Anthropic(api_key=key, timeout=60.0, max_retries=1)
         resp = client.messages.create(
             model="claude-opus-5", max_tokens=1500,
             messages=[{"role": "user", "content": prompt}],
