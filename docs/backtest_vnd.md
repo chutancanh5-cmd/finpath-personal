@@ -1,21 +1,21 @@
 # Backtest: VND -- chien luoc 'Tich san trong Uptrend'
 
 - Tai san: **VND** (VND), nguon du lieu: `vci`
-- Khung thoi gian: THANG (M1), tu **2010-03-30** den **2026-07-01** (197 thang)
+- Khung thoi gian: THANG (M1), tu **2010-03-30** den **2026-08-03** (198 thang)
 - Duong trung binh: **MA10** tren gia dong cua thang
 - Dong gop dinh ky: **5,000,000 d** / thang khi co tin hieu MUA
 - Quy tac timing: force-exit sau **26 thang** uptrend lien tuc, nghi **18 thang** (1.5 nam) sau moi lan force-exit
 
 | Chi so | Chien luoc Tich san Uptrend (MA + timing) | Benchmark: DCA deu moi thang, khong bao gio ban | Benchmark: Dau tu 1 lan (lump-sum) cung tong von |
 |---|---|---|---|
-| Von da gop | 455,000,000 d | 935,000,000 d | 455,000,000 d |
-| Gia tri cuoi ky | 622,627,564 d | 6,564,066,272 d | 3,070,325,203 d |
-| Loi nhuan | 167,627,564 d | 5,629,066,272 d | 2,615,325,203 d |
-| MOIC (x von) | 1.37x | 7.02x | 6.75x |
-| XIRR (nam hoa) | 27.8% | 22.4% | 13.1% |
+| Von da gop | 455,000,000 d | 940,000,000 d | 455,000,000 d |
+| Gia tri cuoi ky | 622,627,564 d | 6,252,442,147 d | 2,922,357,724 d |
+| Loi nhuan | 167,627,564 d | 5,312,442,147 d | 2,467,357,724 d |
+| MOIC (x von) | 1.37x | 6.65x | 6.42x |
+| XIRR (nam hoa) | 27.8% | 21.7% | 12.7% |
 | Max drawdown | -13.1% | -64.5% | -64.7% |
-| % thoi gian nam giu | 48.7% | 100.0% | 100.0% |
-| So lenh MUA / BAN | 91 / 14 | 187 / 0 | 1 / 0 |
+| % thoi gian nam giu | 48.4% | 100.0% | 100.0% |
+| So lenh MUA / BAN | 91 / 14 | 188 / 0 | 1 / 0 |
 | So vong (round-trip) | 14 | 0 | 0 |
 | Ty le vong thang | 28.6% | n/a | n/a |
 
