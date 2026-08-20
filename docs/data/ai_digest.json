@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền vĩ mô vẫn là điểm tựa khi Việt Nam tiếp tục dẫn đầu cuộc đua tăng trưởng ASEAN-6 quý II/2026, định hướng tái cấu trúc mô hình tăng trưởng chuyển từ dựa vào nguồn lực sang kiến tạo năng lực, cùng việc Lâm Đồng khơi thông hơn 74.000 tỷ đồng vốn cho các dự án ách tắc — hỗ trợ trực tiếp nhóm bất động sản, xây dựng, vật liệu và đầu tư công. Ngược lại, diễn biến thị trường ngắn hạn kém thuyết phục: VN-Index xanh điểm nhưng độ rộng nghiêng về phía giảm, thanh khoản mỏng và tâm lý chán nản lan rộng. Khối ngoại bán ròng hơn 700 tỷ đồng dù câu chuyện nâng hạng đã cận kề, cho thấy dòng vốn toàn cầu đang bị hút sang các chủ đề khác thay vì giải ngân sớm vào Việt Nam. Lãi suất trái phiếu bất động sản cao vượt trội so với gửi tiết kiệm vừa cho thấy kênh vốn đang hồi phục, vừa hàm ý phần bù rủi ro tín dụng ngành này còn lớn. Chiến lược phù hợp là duy trì tỷ trọng vừa phải, ưu tiên cổ phiếu cơ bản hưởng lợi từ đầu tư công và giải ngân vốn, hạn chế mua đuổi khi thanh khoản chưa xác nhận xu hướng.",
+  "summary_vi": "Dòng tin hôm nay phân hóa rõ giữa kỳ vọng chính sách và thực trạng dòng tiền yếu. Mặt tích cực đến từ định hướng giảm áp lực thuế, phí, tín dụng cho doanh nghiệp và sự kiện FTSE công bố kết quả review chỉ còn 1 ngày, kèm kỳ vọng các quỹ ETF ngoại quy mô gần 1 tỷ USD tái cơ cấu trong tháng 9 — yếu tố hỗ trợ nhóm vốn hóa lớn, thanh khoản cao thuộc rổ dự báo được mua. Ở chiều rủi ro, khối ngoại tiếp tục bán ròng hơn 600 tỷ đồng trên HOSE, tâm lý thị trường mệt mỏi (thanh khoản thấp, môi giới ế khách) và giá vàng bùng nổ đang hút bớt dòng tiền đầu cơ khỏi cổ phiếu. Ngắn hạn, thị trường nhiều khả năng giằng co chờ tin FTSE: tin ra tích cực có thể kích hoạt nhịp tăng nhanh ở nhóm bluechip, nhưng nếu kết quả gây thất vọng thì rủi ro 'bán theo tin' là hiện hữu. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu đầu ngành có nền tảng cơ bản tốt và hạn chế dùng đòn bẩy trước thời điểm công bố.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng hơn 700 tỷ đồng phiên VN-Index rung lắc",
-      "impact": "↓",
-      "note": "Áp lực bán ròng kéo dài của nhà đầu tư nước ngoài tạo lực cản trực tiếp lên chỉ số và nhóm vốn hóa lớn."
-    },
-    {
-      "title": "Khối ngoại bán ròng dù Việt Nam sắp được nâng hạng, dòng vốn toàn cầu chảy nơi khác",
-      "impact": "↓",
-      "note": "Kỳ vọng nâng hạng chưa đủ giữ chân vốn ngoại, làm giảm động lực cho sóng tăng ngắn hạn."
-    },
-    {
-      "title": "VN-Index xanh điểm nhưng số mã giảm vẫn áp đảo, thanh khoản trầm lắng",
-      "impact": "↓",
-      "note": "Độ rộng thị trường yếu và dòng tiền mỏng cho thấy nhịp hồi thiếu bền, rủi ro rung lắc còn cao."
-    },
-    {
-      "title": "Việt Nam giữ vị thế dẫn đầu tăng trưởng GDP quý II/2026 trong ASEAN-6",
+      "title": "FTSE công bố kết quả review sau 1 ngày, 28 cổ phiếu có thể hút hàng tỷ USD",
       "impact": "↑",
-      "note": "Nền tảng tăng trưởng vượt trội củng cố triển vọng lợi nhuận doanh nghiệp và sức hấp dẫn dài hạn của TTCK."
+      "note": "Kỳ vọng nâng hạng/thêm mã vào rổ là chất xúc tác mạnh nhất cho dòng vốn ngoại và nhóm vốn hóa lớn."
     },
     {
-      "title": "Lâm Đồng khơi thông hơn 74.000 tỷ đồng, hướng tăng trưởng hai con số",
+      "title": "Khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE phiên 20/8",
+      "impact": "↓",
+      "note": "Áp lực rút vốn ngoại kéo dài gây sức ép lên chỉ số và các bluechip bị xả mạnh."
+    },
+    {
+      "title": "ETF ngoại quy mô gần 1 tỷ USD chuẩn bị cơ cấu danh mục kỳ tháng 9",
       "impact": "↑",
-      "note": "Giải phóng vốn cho các dự án đình trệ kích hoạt dòng tiền thực cho bất động sản, xây dựng và vật liệu."
+      "note": "Dòng tiền tái cơ cấu tạo lực cầu kỹ thuật cho các mã dự báo được thêm mới."
     },
     {
-      "title": "Lãi suất trái phiếu bất động sản cao hơn gửi tiết kiệm ngân hàng",
-      "impact": "→",
-      "note": "Kênh huy động vốn hồi phục là tín hiệu tốt nhưng chênh lệch lãi suất lớn phản ánh rủi ro tín dụng chưa hạ nhiệt."
+      "title": "Giảm áp lực thuế, phí, tín dụng đầu vào cho doanh nghiệp",
+      "impact": "↑",
+      "note": "Chính sách hỗ trợ chi phí vốn giúp cải thiện biên lợi nhuận doanh nghiệp niêm yết trong các quý tới."
+    },
+    {
+      "title": "Vàng bùng nổ, quỹ lớn nhất thế giới gom gần 10 tấn trong một đêm",
+      "impact": "↓",
+      "note": "Sức hút của kênh trú ẩn tăng mạnh khiến dòng tiền cá nhân rời bớt kênh cổ phiếu."
+    },
+    {
+      "title": "Thanh khoản èo uột, tâm lý nhà đầu tư và môi giới chán nản",
+      "impact": "↓",
+      "note": "Dòng tiền nội yếu khiến đà hồi phục thiếu bền, thị trường dễ rơi vào trạng thái đi ngang kéo dài."
     }
   ]
 }
