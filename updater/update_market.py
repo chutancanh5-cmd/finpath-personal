@@ -130,7 +130,9 @@ def fetch_board(symbols):
     tr = Trading(source="VCI")
     rows = []
     failed = 0
-    for i in range(0, len(symbols), 100):
+    consecutive_failed = 0
+    n_chunks_total = max(1, (len(symbols) + 99) // 100)
+    for chunk_idx, i in enumerate(range(0, len(symbols), 100)):
         chunk = symbols[i:i + 100]
         pb = None
         for attempt in range(2):
@@ -145,8 +147,15 @@ def fetch_board(symbols):
                     failed += 1
                     log(f"chunk {i}-{i+len(chunk)}: loi {describe_exc(e)}")
         if pb is None:
+            consecutive_failed += 1
+            if consecutive_failed >= 3:
+                remaining = n_chunks_total - (chunk_idx + 1)
+                failed += remaining  # cong don lo con lai chua thu -> guard failed/n_chunks o main() van dung
+                log(f"VCI co ve dang sap (3 lo lien tiep loi) -- dung som, bo qua {remaining} lo con lai.")
+                break
             time.sleep(PACE)
             continue
+        consecutive_failed = 0
         pb.columns = ["_".join(map(str, c)) if isinstance(c, tuple) else str(c) for c in pb.columns]
         for _, r in pb.iterrows():
             try:
