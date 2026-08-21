@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-21",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Câu chuyện lớn nhất là sự kiện FTSE công bố kết quả review chỉ còn tính bằng ngày, đi kèm danh sách 28 cổ phiếu được cho là hưởng lợi và kỳ review tháng 9 của các ETF ngoại quy mô gần 1 tỷ USD — đây là chất xúc tác dòng vốn rõ ràng nhất cho nhóm vốn hóa lớn, ngân hàng và chứng khoán. Về chính sách, định hướng giảm áp lực \"đầu vào\" thuế, phí, tín dụng cho doanh nghiệp cùng các địa phương đặt mục tiêu tăng trưởng trên 10% củng cố nền tảng lợi nhuận trung hạn. Tuy nhiên mặt thị trường vẫn yếu: khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE phiên 20/8, thanh khoản và tâm lý nhà đầu tư ở mức thấp khi truyền thông nói về chuyện chứng khoán \"chán\" và môi giới ế khách. Song song, vàng bùng nổ và quỹ lớn nhất thế giới gom gần 10 tấn vàng chỉ trong một đêm cho thấy nhu cầu trú ẩn đang cạnh tranh trực tiếp với dòng tiền vào cổ phiếu. Rủi ro ngắn hạn là kịch bản \"tin ra là bán\" nếu kết quả FTSE không như kỳ vọng; chiến lược hợp lý là giữ tỷ trọng vừa phải, ưu tiên cổ phiếu nằm trong rổ hưởng lợi từ ETF và tránh dùng đòn bẩy cao trước thời điểm công bố.",
+  "summary_vi": "Dòng tin hôm nay bị chi phối bởi kỳ vọng FTSE công bố kết quả đánh giá chỉ trong 1 ngày tới, cùng kỳ review ETF tháng 9 với quy mô gần 1 tỷ USD — đây là chất xúc tác chính cho câu chuyện dòng vốn ngoại và mục tiêu VN-Index hướng vùng 2.000 điểm. Về chính sách, định hướng giảm áp lực đầu vào thuế, phí, tín dụng cho doanh nghiệp và các địa phương đặt mục tiêu tăng trưởng trên 10% là nền vĩ mô hỗ trợ cho nhóm ngân hàng, bất động sản khu công nghiệp và sản xuất. Tuy nhiên rủi ro ngắn hạn vẫn hiện hữu: khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE phiên 20/8, thanh khoản và tâm lý thị trường yếu (\"chứng khoán hết chán\", môi giới khó khăn, công ty chứng khoán đóng chi nhánh). Song song, giá vàng bùng nổ và quỹ lớn nhất thế giới gom gần 10 tấn vàng cho thấy tâm lý phòng thủ toàn cầu, có thể hút bớt dòng tiền khỏi cổ phiếu. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên nhóm hưởng lợi trực tiếp từ nâng hạng và tránh mua đuổi trước thời điểm công bố.",
   "top": [
     {
-      "title": "FTSE công bố thông tin quan trọng, 28 cổ phiếu có thể hút hàng tỷ USD",
+      "title": "FTSE công bố thông tin quan trọng sau 1 ngày, 28 cổ phiếu có thể hút hàng tỷ USD",
       "impact": "↑",
-      "note": "Kết quả review nâng hạng là chất xúc tác dòng vốn ngoại lớn nhất, tập trung vào nhóm vốn hóa lớn và ngân hàng."
+      "note": "Kết quả đánh giá nâng hạng là chất xúc tác dòng vốn ngoại lớn nhất với TTCK VN hiện nay."
     },
     {
-      "title": "Khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE phiên 20/8",
-      "impact": "↓",
-      "note": "Áp lực bán ròng ngay trước sự kiện lớn cho thấy dòng vốn ngoại vẫn thận trọng, gây sức ép lên chỉ số."
-    },
-    {
-      "title": "ETF ngoại quy mô gần 1 tỷ USD chuẩn bị cơ cấu danh mục kỳ tháng 9",
+      "title": "ETF ngoại quy mô gần 1 tỷ USD chuẩn bị review tháng 9",
       "impact": "↑",
-      "note": "Kỳ review ETF tạo lực cầu kỹ thuật cho các cổ phiếu được thêm mới trong vài tuần tới."
+      "note": "Dòng tiền cơ cấu danh mục hỗ trợ thanh khoản và giá nhóm cổ phiếu được thêm mới."
     },
     {
       "title": "Giảm áp lực đầu vào về thuế, phí, tín dụng cho doanh nghiệp",
       "impact": "↑",
-      "note": "Chi phí vốn và chi phí thuế phí hạ nhiệt giúp cải thiện biên lợi nhuận doanh nghiệp niêm yết."
+      "note": "Chính sách hạ chi phí vốn và chi phí hoạt động cải thiện triển vọng lợi nhuận doanh nghiệp niêm yết."
     },
     {
-      "title": "Quỹ lớn nhất thế giới mua gần 10 tấn vàng trong một đêm, giá vàng bùng nổ",
+      "title": "Khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE phiên 20/8",
       "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng mạnh hút bớt dòng tiền khỏi kênh cổ phiếu trong ngắn hạn."
+      "note": "Áp lực bán ròng kéo dài tạo lực cản cho nhóm vốn hóa lớn trong ngắn hạn."
     },
     {
-      "title": "Chứng khoán \"chán\", môi giới ế khách, công ty chứng khoán đóng chi nhánh",
+      "title": "Tâm lý thị trường ảm đạm: chứng khoán \"chán\", môi giới khó khăn, đóng chi nhánh",
       "impact": "↓",
-      "note": "Thanh khoản và tâm lý nhà đầu tư cá nhân xuống thấp, hạn chế đà lan tỏa của thị trường."
+      "note": "Thanh khoản thấp và tâm lý yếu khiến chỉ số khó bứt phá dù nền vĩ mô ổn định."
+    },
+    {
+      "title": "Giá vàng bùng nổ, quỹ lớn nhất thế giới mua gần 10 tấn vàng trong một đêm",
+      "impact": "→",
+      "note": "Phản ánh tâm lý phòng thủ toàn cầu, có thể chia bớt dòng tiền khỏi kênh cổ phiếu."
     }
   ]
 }
