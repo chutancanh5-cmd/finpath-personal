@@ -1,9 +1,12 @@
 name: finpath-daily
-# Cap nhat day du cuoi phien: 08:10 UTC = 15:10 gio VN, T2-T6.
-# Cron 09:10 UTC (16:10 VN) la du phong khi cron dau bi GitHub bo qua (update idempotent).
+# Cap nhat day du cuoi phien. Tu 2026-08-21 PC la nguon chinh (task 'FinPath Daily PC'
+# chay 15:10 VN, het ~20-25'); cloud chi chay BU khi PC im lang -- xem updater/ci_gate.py.
+#
+# CHU Y da bo cron 08:10 UTC (15:10 VN): no no DUNG LUC PC bat dau, khi do nhip tim con
+# la cua hom qua nen cong chan luon cho chay -> cloud chay song song voi PC, trung Discord
+# va tranh push. Chi giu 09:10 UTC (16:10 VN), luc PC chac chan da xong va day nhip tim.
 on:
   schedule:
-    - cron: '10 8 * * 1-5'
     - cron: '10 9 * * 1-5'
   workflow_dispatch:
 
@@ -25,7 +28,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: check
-        run: python3 updater/ci_gate.py --kind daily --max-age-min 240
+        # --same-day chu khong phai nguong gio: daily chay 1 lan/ngay nen "PC da chay
+        # phien hom nay chua" moi la cau hoi dung. Nguong gio thi sau vai tieng se het
+        # han va cong lai mo ra suot dem du PC da lam xong viec cua ngay.
+        run: python3 updater/ci_gate.py --kind daily --same-day
 
   update:
     needs: gate
