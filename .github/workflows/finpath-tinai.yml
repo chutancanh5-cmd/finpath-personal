@@ -20,6 +20,10 @@ jobs:
     env:
       TZ: Asia/Ho_Chi_Minh
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      # update_news.py tinh regime tu FRED; thieu khoa thi chi lay duoc 1/6 chi bao
+      # -> diem gia. Truoc day tu lanh vi cloud intraday (co khoa) chay moi 5 phut,
+      # nhung tu 2026-08-21 PC la nguon chinh nen intraday tren cloud bi bo qua.
+      FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       VNSTOCK_API_KEY: ${{ secrets.VNSTOCK_API_KEY }}
     steps:

@@ -223,6 +223,26 @@ def load_opus_digest():
     return None
 
 
+def load_regime_cu():
+    """Doc regime da ghi trong news.json truoc do -- dung THAY khi lan chay nay
+    khong co FRED_API_KEY.
+
+    Cung tinh than voi load_opus_digest() o tren: khong co nang luc thi GIU ban cu,
+    dung ghi de bang ban nghe hon. Can thiet tu 2026-08-21 khi PC thanh nguon chinh:
+    PC KHONG co FRED_API_KEY (khoa chi nam trong GitHub secrets) nen regime() chi lay
+    duoc 1/6 chi bao -> diem 40 'Trung tinh' gia. Cloud co khoa nhung cong chan
+    (ci_gate.py) lai cho cloud bo qua khi PC con tuoi -> ban nghe cua PC se la ban
+    duy nhat app nhin thay."""
+    p = os.path.join(ROOT, "docs", "data", "news.json")
+    try:
+        r = (json.load(open(p, encoding="utf-8")) or {}).get("regime") or {}
+        if r.get("score") is not None and r.get("label"):
+            return r
+    except Exception:
+        pass
+    return None
+
+
 def best_link(title, raw):
     tw = set(re.findall(r"\w+", title.lower()))
     best, sc = None, 0
@@ -245,6 +265,12 @@ def main():
     items = fetch_rss()
     log("RSS:", len(items), "tin")
     reg = regime(fred_key)
+    if not fred_key:
+        cu = load_regime_cu()
+        if cu:
+            log(f"khong co FRED_API_KEY -> GIU regime cu ({cu['score']} {cu['label']}) "
+                f"thay vi ghi de bang ban 1 chi bao ({reg['score']})")
+            reg = cu
     log("regime:", reg["score"], reg["label"])
     dig = ai_digest(items, anthropic_key) or load_opus_digest()
     src = "API" if (anthropic_key and dig and "_opus" not in dig) else ("Opus" if dig else "khong co")
