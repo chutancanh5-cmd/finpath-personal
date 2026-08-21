@@ -75,7 +75,6 @@ jobs:
           python update_market.py || true
           python scan_intraday.py --discord || true
           python update_orderflow.py --discord || true
-          python update_news.py || true
           python check_alerts.py || true
       - name: Commit & push data
         run: |

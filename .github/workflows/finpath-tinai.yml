@@ -1,29 +1,51 @@
 name: finpath-tinai
-# Tin AI hang ngay: RSS -> Claude (thue bao, CLAUDE_CODE_OAUTH_TOKEN) -> ai_digest.json + news.json.
-# 00:53 UTC = 07:53 gio VN. Thieu token -> chi cap nhat tin, bo qua AI.
+# Tin AI: quet RSS moi 5 phut, 24/7. RSS -> Claude (thue bao) -> ai_digest.json + news.json
+# -> Discord kenh tin tuc.
+#
+# CHI CONG BO KHI CO TIN MOI. Job `check` chi doc RSS bang thu vien chuan (khong venv,
+# khong vnstock, khong npm) nen cac lan khong co tin moi ket thuc trong vai chuc giay va
+# KHONG: goi Claude, khong ban Discord, khong day gi len Prime Finance.
+# Trang thai tin da thay nam o updater/news_seen.json (commit cung repo).
+#
+# concurrency RIENG (finpath-news): truoc day dung chung 'finpath-data' voi daily/intraday
+# — o nhip 5 phut hai ben se lien tuc xep hang va huy nhau.
 on:
   schedule:
-    - cron: '53 0 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: finpath-data
+  group: finpath-news
   cancel-in-progress: false
 
 jobs:
-  digest:
+  check:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 5
+    outputs:
+      has_new: ${{ steps.check.outputs.has_new }}
+    steps:
+      - uses: actions/checkout@v4
+      # update_news.py --check-new chi dung thu vien chuan -> khong can setup-python,
+      # khong can venv. Giu buoc nay that nhe vi no chay ~288 lan/ngay.
+      - id: check
+        name: Co tin moi khong
+        run: python3 updater/update_news.py --check-new
+
+  digest:
+    needs: check
+    if: needs.check.outputs.has_new == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
     env:
       TZ: Asia/Ho_Chi_Minh
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-      # update_news.py tinh regime tu FRED; thieu khoa thi chi lay duoc 1/6 chi bao
-      # -> diem gia. Truoc day tu lanh vi cloud intraday (co khoa) chay moi 5 phut,
-      # nhung tu 2026-08-21 PC la nguon chinh nen intraday tren cloud bi bo qua.
+      # update_news.py tinh regime tu FRED (CPI/Fed/10Y/USD/dau/VIX) + VNINDEX qua vnstock.
       FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+      DISCORD_WEBHOOK_NEWS: ${{ secrets.DISCORD_WEBHOOK_NEWS }}
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
       VNSTOCK_API_KEY: ${{ secrets.VNSTOCK_API_KEY }}
     steps:
@@ -59,6 +81,7 @@ jobs:
           fi
       - name: Install Claude Code CLI
         run: npm install -g @anthropic-ai/claude-code
+      # Lay lai RSS: job `check` chay tren runner KHAC nen _rss_raw.json cua no khong con.
       - name: Dump RSS tho
         run: python updater/update_news.py --rawdump
       - name: AI digest (Claude thue bao)
@@ -68,15 +91,17 @@ jobs:
           else
             cat updater/ai_prompt_ci.txt | claude -p --model claude-opus-5 --permission-mode acceptEdits || echo "claude loi -> giu digest cu"
           fi
-      - name: Merge tin
-        run: python updater/update_news.py
+      # --discord: ghi news.json + ban tin MOI ve kenh tin tuc. Chi ghi nhan vao
+      # news_seen.json SAU KHI ban thanh cong, nen Discord loi thi lan sau bao lai.
+      - name: Merge tin + bao Discord
+        run: python updater/update_news.py --discord
       - name: Commit & push
         run: |
           git config user.name "finpath-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/data/ai_digest.json docs/data/news.json
+          git add docs/data/ai_digest.json docs/data/news.json updater/news_seen.json
           if git diff --cached --quiet; then echo "khong co thay doi"; else
-            git commit -m "Tin AI: cloud digest $(date +%F)"
+            git commit -m "Tin AI: $(date +%F_%H:%M)"
             git fetch origin main
             git rebase -X theirs origin/main || git rebase --abort
             git push

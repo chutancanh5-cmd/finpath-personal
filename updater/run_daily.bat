@@ -11,7 +11,6 @@ python update_market.py --append-hist
 python update_signals.py
 python update_trailstop.py
 python update_market_read.py --discord
-python update_news.py
 python alert.py
 python scan_daily.py --discord
 python update_orderflow.py --discord

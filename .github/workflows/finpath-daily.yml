@@ -84,7 +84,6 @@ jobs:
           python update_market.py --append-hist || true
           python update_signals.py || true
           python update_trailstop.py || true
-          python update_news.py || true
           python alert.py || true
           python scan_daily.py --discord || true
           python update_orderflow.py --discord || true

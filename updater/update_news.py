@@ -243,6 +243,62 @@ def load_regime_cu():
     return None
 
 
+SEEN_PATH = os.path.join(HERE, "news_seen.json")
+
+
+def loc_tin_moi(items):
+    """-> (danh sach tin CHUA TUNG THAY, co_phai_lan_dau).
+
+    Khoa dedup dung `link` vi fetch_rss() da dedup theo link trong cung mot lan chay,
+    va link on dinh hon title (bao hay sua tit sau khi dang).
+
+    Lan DAU (chua co news_seen.json): coi nhu KHONG co tin moi va chi ghi nhan toan bo
+    tin hien tai vao state. Neu khong lam vay thi lan chay dau se ban ~14 tin cu mot luc
+    vao Discord."""
+    from notify import load_sent
+    lan_dau = not os.path.exists(SEEN_PATH)
+    da_thay = load_sent(SEEN_PATH)
+    moi = [it for it in items if it["link"] not in da_thay]
+    return ([], True) if lan_dau else (moi, False)
+
+
+def ghi_nhan_da_thay(items):
+    from notify import load_sent, save_sent
+    da_thay = load_sent(SEEN_PATH)
+    da_thay.update(it["link"] for it in items)
+    save_sent(SEEN_PATH, da_thay)
+
+
+def xuat_github_output(khoa, gia_tri):
+    """Ghi output cho step sau doc qua steps.<id>.outputs.<khoa> (chi khi chay trong CI)."""
+    p = os.environ.get("GITHUB_OUTPUT")
+    if p:
+        with open(p, "a", encoding="utf-8") as f:
+            f.write(f"{khoa}={gia_tri}\n")
+
+
+def bao_discord_tin_moi(moi, toi_da=6):
+    """Ban cac tin MOI vao kenh tin tuc. Chi goi khi that su co tin moi."""
+    hook = (os.environ.get("DISCORD_WEBHOOK_NEWS") or "").strip()
+    if not hook.startswith("http"):
+        log("chua co DISCORD_WEBHOOK_NEWS -> bo qua Discord")
+        return False
+    from notify import send_discord
+    dong = [f"• [{it['source']}] {it['title']}" for it in moi[:toi_da]]
+    if len(moi) > toi_da:
+        dong.append(f"… và {len(moi) - toi_da} tin khác")
+    noi_dung = f"📰 **{len(moi)} tin mới** — {today()}\n" + "\n".join(dong)
+    embeds = [{"title": it["title"][:250], "url": it["link"],
+               "footer": {"text": it["source"]}} for it in moi[:toi_da]]
+    try:
+        send_discord(hook, noi_dung, embeds, username="FinPath · Tin tức")
+        log(f"da ban Discord {len(moi)} tin moi")
+        return True
+    except Exception as e:
+        log("Discord loi:", str(e)[:120])
+        return False
+
+
 def best_link(title, raw):
     tw = set(re.findall(r"\w+", title.lower()))
     best, sc = None, 0
@@ -254,6 +310,28 @@ def best_link(title, raw):
 
 
 def main():
+    # --check-new: quet RSS, bao cho workflow biet CO tin moi hay khong roi dung.
+    # Cac buoc sau (goi Claude, ghi news.json, commit, Discord) deu bi chan neu khong co
+    # tin moi -> chay moi 5 phut nhung hau het cac lan thoat trong vai giay, khong ton
+    # quota Claude, khong ban Discord, khong day gi len Prime Finance.
+    # KHONG cap nhat state o day: phai de --discord ghi nhan SAU KHI ban thanh cong,
+    # neu khong lan chay nay se "nuot" tin moi ma chua he bao ai.
+    if "--check-new" in sys.argv:
+        items = fetch_rss()
+        out = os.path.join(ROOT, "docs", "data", "_rss_raw.json")
+        json.dump({"date": today(), "items": items}, open(out, "w", encoding="utf-8"),
+                  ensure_ascii=False, indent=1)
+        moi, lan_dau = loc_tin_moi(items)
+        if lan_dau:
+            ghi_nhan_da_thay(items)
+            log(f"lan dau chay -> ghi nhan {len(items)} tin hien co, KHONG bao (tranh ban don)")
+        elif moi:
+            log(f"co {len(moi)} tin moi / {len(items)} tin quet duoc")
+        else:
+            log(f"khong co tin moi ({len(items)} tin deu da thay) -> dung")
+        xuat_github_output("has_new", "true" if (moi and not lan_dau) else "false")
+        return
+
     if "--rawdump" in sys.argv:
         items = fetch_rss()
         out = os.path.join(ROOT, "docs", "data", "_rss_raw.json")
@@ -264,6 +342,18 @@ def main():
     anthropic_key = (os.getenv("ANTHROPIC_API_KEY") or "").strip()
     items = fetch_rss()
     log("RSS:", len(items), "tin")
+    moi, lan_dau = loc_tin_moi(items)
+    if "--discord" in sys.argv:
+        if lan_dau:
+            ghi_nhan_da_thay(items)
+            log("lan dau chay -> ghi nhan tin hien co, khong bao Discord")
+        elif moi:
+            # Chi ghi nhan SAU KHI ban thanh cong: ban that bai thi lan sau bao lai,
+            # tin moi khong bi mat lang le.
+            if bao_discord_tin_moi(moi):
+                ghi_nhan_da_thay(moi)
+        else:
+            log("khong co tin moi -> khong ban Discord")
     reg = regime(fred_key)
     if not fred_key:
         cu = load_regime_cu()
