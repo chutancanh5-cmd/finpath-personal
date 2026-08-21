@@ -8,7 +8,10 @@ REM ============================================================
 cd /d "C:\Users\chuta\finpath-personal\updater"
 
 python update_prices.py --light
+python update_market.py
 python scan_intraday.py --discord
 python update_orderflow.py --discord
+python update_news.py
 python check_alerts.py
+python heartbeat.py intraday
 python push_data.py

@@ -7,13 +7,16 @@ REM ============================================================
 cd /d "C:\Users\chuta\finpath-personal\updater"
 
 python update_prices.py
+python update_market.py --append-hist
 python update_signals.py
+python update_trailstop.py
 python update_market_read.py --discord
 python update_news.py
 python alert.py
 python scan_daily.py --discord
 python update_orderflow.py --discord
 python check_alerts.py
+python heartbeat.py daily
 python push_data.py --force
 
 echo Done %date% %time%
