@@ -278,11 +278,19 @@ def xuat_github_output(khoa, gia_tri):
 
 
 def bao_discord_tin_moi(moi, toi_da=6):
-    """Ban cac tin MOI vao kenh tin tuc. Chi goi khi that su co tin moi."""
+    """Ban cac tin MOI vao kenh tin tuc. Chi goi khi that su co tin moi.
+
+    -> True neu coi nhu DA XU LY XONG (ban thanh cong, HOAC kenh chua cau hinh nen
+       khong the ban) -> nguoi goi ghi nhan state.
+    -> False chi khi ban THAT BAI (mang/Discord loi) -> giu state de lan sau bao lai.
+
+    Phan biet nay quan trong: neu coi 'chua cau hinh webhook' la that bai thi state khong
+    bao gio duoc ghi nhan, va o nhip 5 phut se goi Claude LAI VO HAN cho cung mot tin."""
     hook = (os.environ.get("DISCORD_WEBHOOK_NEWS") or "").strip()
     if not hook.startswith("http"):
-        log("chua co DISCORD_WEBHOOK_NEWS -> bo qua Discord")
-        return False
+        log("chua co DISCORD_WEBHOOK_NEWS -> bo qua Discord (van ghi nhan tin de khong "
+            "goi Claude lap lai vo han cho cung mot tin)")
+        return True
     from notify import send_discord
     dong = [f"• [{it['source']}] {it['title']}" for it in moi[:toi_da]]
     if len(moi) > toi_da:
