@@ -22,15 +22,27 @@ def resolve_webhook():
         except Exception:
             pass
     home = os.path.expanduser("~")
-    for pat in (os.path.join(home, "OneDrive", "*", "Claude", "Projects", "TradingView", "bot", "bot_config.json"),
+    # Nha moi (ASCII, ngoai OneDrive) dat TRUOC — tranh bay hai thu muc "Tai lieu"
+    # trung ten trong OneDrive. Hai mau cu giu lai de ban chua chuyen van chay duoc.
+    # DUNG o cay DAU TIEN TON TAI, khong phai cay dau tien co webhook. Vong lap cu chi
+    # return khi url.startswith("http"), nen mot file rong o nha moi se ROI XUONG ban
+    # OneDrive cu — cay da chet sau khi doi thu muc du an 2026-07-22. Nghia la ai do dan
+    # webhook vao cay chet thi finpath am tham dung no, trong khi moi nguoi tin rang nha
+    # moi moi la nguon that.
+    for pat in (os.path.join(home, "TradingView", "bot", "bot_config.json"),
+                os.path.join(home, "OneDrive", "*", "Claude", "Projects", "TradingView", "bot", "bot_config.json"),
                 os.path.join(home, "*", "Claude", "Projects", "TradingView", "bot", "bot_config.json")):
-        for f in glob.glob(pat):
+        found = glob.glob(pat)
+        if not found:
+            continue
+        for f in found:
             try:
                 url = (json.load(open(f, encoding="utf-8")).get("discord_webhook_url") or "").strip()
                 if url.startswith("http"):
                     return url
             except Exception:
                 pass
+        return ""      # cay dau tien ton tai da tra loi (du la rong) -> khong roi xuong cay cu
     return ""
 
 
