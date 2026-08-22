@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-22",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Tâm điểm thị trường là kỳ vọng nâng hạng của FTSE Russell: dòng tiền chảy mạnh vào nhóm cổ phiếu chứng khoán và danh sách 17 mã được gọi tên với hàng trăm triệu USD chờ giải ngân, giúp VN-Index có tuần tăng mạnh nhất một tháng. Nền vĩ mô hỗ trợ khi GDP quý II tăng 8,39% và Việt Nam được dự báo tiếp tục dẫn đầu tăng trưởng ASEAN-6 trong quý III/2026, cùng nỗ lực bứt tốc tăng trưởng ở các địa phương. Tuy vậy, rủi ro ngắn hạn không nhỏ: khối ngoại bán ròng mạnh nhiều mã ngay trước thời điểm công bố thông tin nâng hạng, cho thấy khả năng chốt lời theo kiểu 'bán tin ra'. Giá vàng lập đỉnh tháng và tiếp tục nhảy vọt phản ánh nhu cầu trú ẩn còn cao, có thể hút bớt một phần dòng tiền khỏi cổ phiếu. Hơn 81% hộ kinh doanh giảm doanh thu là tín hiệu cảnh báo về sức cầu nội địa, cần theo dõi với nhóm bán lẻ và tiêu dùng.",
+  "summary_vi": "Câu chuyện chi phối thị trường là kỳ vọng nâng hạng của FTSE Russell: danh sách 17 cổ phiếu được gọi tên cùng hàng trăm triệu USD vốn ngoại chờ giải ngân đã kéo dòng tiền ồ ạt vào nhóm chứng khoán và giúp VN-Index có tuần tăng mạnh nhất một tháng. Nền vĩ mô ủng hộ khi GDP quý II tăng 8,39% và Việt Nam được dự báo tiếp tục dẫn đầu tăng trưởng ASEAN-6 trong quý III/2026, với các địa phương như Vĩnh Long đặt mục tiêu tăng trưởng từ 10%. Rủi ro ngắn hạn nằm ở việc khối ngoại bán ròng mạnh nhiều mã ngay trước thời điểm công bố, làm tăng xác suất kịch bản 'bán khi tin ra' và rung lắc sau khi kỳ vọng được hiện thực hóa. Giá vàng lập đỉnh tháng và tiếp tục nhảy vọt cho thấy nhu cầu trú ẩn còn cao, có thể chia sẻ bớt dòng tiền với kênh cổ phiếu. Việc hơn 81% hộ kinh doanh giảm doanh thu là tín hiệu cảnh báo về sức cầu nội địa, đáng lưu ý với nhóm bán lẻ, tiêu dùng và ngân hàng bán lẻ.",
   "top": [
     {
       "title": "17 cổ phiếu được FTSE Russell gọi tên, hàng trăm triệu USD chờ đổ vào",
       "impact": "↑",
-      "note": "Kỳ vọng nâng hạng mở đường cho dòng vốn ngoại thụ động giải ngân vào các mã vốn hóa lớn."
+      "note": "Nâng hạng mở đường cho vốn ngoại thụ động giải ngân vào rổ cổ phiếu vốn hóa lớn."
     },
     {
       "title": "Dòng tiền ồ ạt vào nhóm chứng khoán trước giờ đón tin nâng hạng",
       "impact": "↑",
-      "note": "Thanh khoản và tâm lý cải thiện rõ, nhóm chứng khoán dẫn dắt chỉ số."
+      "note": "Nhóm chứng khoán hưởng lợi trực tiếp từ thanh khoản và tâm lý cải thiện, dẫn dắt chỉ số."
     },
     {
-      "title": "GDP quý II tăng 8,39%, Việt Nam có thể tiếp tục dẫn đầu ASEAN-6 quý III/2026",
+      "title": "GDP quý II tăng 8,39%, dự báo tiếp tục dẫn đầu ASEAN-6 quý III/2026",
       "impact": "↑",
-      "note": "Nền tảng vĩ mô mạnh củng cố triển vọng lợi nhuận doanh nghiệp niêm yết."
+      "note": "Tăng trưởng cao củng cố triển vọng lợi nhuận doanh nghiệp niêm yết trong nửa cuối năm."
     },
     {
       "title": "VN-Index tăng mạnh nhất 1 tháng",
       "impact": "↑",
-      "note": "Đà hồi phục xác nhận dòng tiền quay lại, nhưng cũng làm tăng rủi ro rung lắc chốt lời."
+      "note": "Xác nhận dòng tiền quay lại thị trường dù mặt bằng giá đã cao hơn đáng kể."
     },
     {
       "title": "Khối ngoại bán ròng mạnh loạt cổ phiếu trước thời điểm công bố nâng hạng",
       "impact": "↓",
-      "note": "Áp lực bán từ nhà đầu tư nước ngoài có thể kích hoạt kịch bản 'bán khi tin ra'."
+      "note": "Áp lực bán của nhà đầu tư ngoại có thể kích hoạt kịch bản chốt lời khi tin chính thức ra."
     },
     {
-      "title": "Giá vàng lên cao nhất tháng, quỹ vàng lớn nhất thế giới gia tăng nắm giữ",
-      "impact": "→",
-      "note": "Nhu cầu trú ẩn tăng có thể chia sẻ dòng tiền với kênh cổ phiếu nhưng chưa tạo áp lực trực tiếp."
+      "title": "Hơn 81% hộ kinh doanh giảm doanh thu",
+      "impact": "↓",
+      "note": "Sức cầu nội địa yếu đi là rủi ro cho nhóm bán lẻ, tiêu dùng và tín dụng bán lẻ."
     }
   ]
 }
