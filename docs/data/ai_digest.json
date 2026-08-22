@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-08-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Câu chuyện nâng hạng thị trường của FTSE Russell đang là tâm điểm, với 17 cổ phiếu được gọi tên và kỳ vọng hàng trăm triệu USD vốn ngoại giải ngân, kéo dòng tiền ồ ạt vào nhóm chứng khoán và giúp VN-Index có tuần tăng mạnh nhất một tháng. Nền vĩ mô hỗ trợ khi GDP quý II tăng 8,39% và Việt Nam được dự báo tiếp tục dẫn đầu ASEAN-6 trong quý III/2026. Tuy nhiên rủi ro ngắn hạn không nhỏ: khối ngoại bán ròng mạnh nhiều mã ngay trước thời điểm công bố thông tin nâng hạng, cho thấy tâm lý chốt lời theo tin và định giá nhóm chứng khoán đã phản ánh phần lớn kỳ vọng. Giá vàng lên cao nhất tháng cùng động thái gom hàng của quỹ vàng lớn nhất thế giới phản ánh nhu cầu trú ẩn còn cao, có thể hút bớt dòng tiền khỏi cổ phiếu. Nhà đầu tư nên ưu tiên nhóm chứng khoán và bluechip hưởng lợi trực tiếp từ nâng hạng, nhưng quản trị vị thế chặt do khả năng rung lắc mạnh sau khi tin chính thức được công bố.",
+  "summary_vi": "Câu chuyện nâng hạng của FTSE Russell tiếp tục là tâm điểm khi 17 cổ phiếu được gọi tên và hàng trăm triệu USD vốn ngoại thụ động chờ giải ngân, giúp VN-Index có tuần tăng mạnh nhất một tháng và mở rộng kỳ vọng sang cả nhóm hưởng lợi kép ngoài chứng khoán. Nền vĩ mô hỗ trợ với GDP quý II tăng 8,39% và dự báo Việt Nam tiếp tục dẫn đầu ASEAN-6 trong quý III/2026, củng cố triển vọng lợi nhuận doanh nghiệp niêm yết. Tuy nhiên rủi ro ngắn hạn khá rõ: khối ngoại bán ròng mạnh nhiều mã ngay trước thời điểm công bố thông tin nâng hạng, trong khi định giá nhóm chứng khoán đã phản ánh phần lớn kỳ vọng, dễ dẫn tới kịch bản 'bán theo tin'. Bên cạnh đó, hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa còn yếu, còn giá vàng lên cao nhất tháng phản ánh nhu cầu trú ẩn vẫn cao và có thể chia bớt dòng tiền khỏi cổ phiếu. Chiến lược hợp lý là ưu tiên nhóm chứng khoán, bluechip trong rổ nâng hạng nhưng quản trị vị thế chặt, tránh mua đuổi sát thời điểm công bố.",
   "top": [
     {
       "title": "17 cổ phiếu được FTSE Russell gọi tên, hàng trăm triệu USD chờ đổ vào",
@@ -15,24 +15,24 @@
       "note": "Tăng trưởng cao củng cố triển vọng lợi nhuận doanh nghiệp và sức hấp dẫn của thị trường Việt Nam."
     },
     {
-      "title": "Dòng tiền ồ ạt vào nhóm chứng khoán trước giờ đón tin nâng hạng",
+      "title": "VN-Index tăng mạnh nhất 1 tháng, kỳ vọng nối dài sang tuần tới",
       "impact": "↑",
-      "note": "Thanh khoản và tâm lý cải thiện rõ, nhóm chứng khoán dẫn dắt chỉ số."
+      "note": "Xác nhận xu hướng phục hồi ngắn hạn với dòng tiền lan tỏa và tâm lý cải thiện."
     },
     {
-      "title": "VN-Index tăng mạnh nhất 1 tháng",
+      "title": "Ngoài chứng khoán, nhiều nhóm cổ phiếu được dự báo hưởng lợi kép sau nâng hạng",
       "impact": "↑",
-      "note": "Xác nhận xu hướng phục hồi ngắn hạn với dòng tiền lan tỏa."
+      "note": "Kỳ vọng lan tỏa ra ngân hàng, bất động sản, bluechip vốn hóa lớn giúp mở rộng nền tảng dòng tiền."
     },
     {
       "title": "Khối ngoại bán ròng mạnh loạt cổ phiếu trước thềm công bố nâng hạng",
       "impact": "↓",
-      "note": "Áp lực chốt lời theo tin có thể gây rung lắc mạnh ngay sau thời điểm công bố."
+      "note": "Áp lực chốt lời theo tin có thể gây rung lắc mạnh ngay sau thời điểm công bố kết quả."
     },
     {
-      "title": "Giá vàng lên cao nhất tháng, quỹ vàng lớn nhất thế giới tăng gom",
-      "impact": "→",
-      "note": "Nhu cầu trú ẩn tăng phản ánh bất định toàn cầu và có thể chia bớt dòng tiền khỏi cổ phiếu."
+      "title": "Hơn 81% hộ kinh doanh giảm doanh thu, VCCI kêu gọi tạo động lực tăng trưởng",
+      "impact": "↓",
+      "note": "Sức cầu nội địa yếu là rủi ro cho nhóm bán lẻ, tiêu dùng và chất lượng tín dụng ngân hàng."
     }
   ]
 }
