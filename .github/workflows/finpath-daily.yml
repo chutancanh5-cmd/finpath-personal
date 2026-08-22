@@ -85,11 +85,20 @@ jobs:
       # TRUOC; market_read va update_market --append-hist xuong cuoi. Timeout co cat thi
       # chi mat phan it quan trong nhat.
       # Da bo update_orderflow va check_alerts: finpath-intraday da chay ca hai moi 5 phut.
+      #
+      # CUNG BO update_trailstop KHOI CLOUD (2026-08-22, quyet dinh cua chu du an):
+      # do that te — update_signals mot minh het 18 phut tren cloud, trailstop can them
+      # ~15-20 phut nua (15m35s ngay ca tren PC vi endpoint history cua VCI cham) -> hai
+      # cai khong the cung nam trong 30 phut. Muon chua thi phai nang timeout, ma
+      # finpath-daily dung chung concurrency 'finpath-data' voi finpath-intraday nen se
+      # chan intraday suot 60 phut — dung ngay PC tat thi intraday lai la thu duy nhat
+      # giu gia cap nhat. Chon giu signals (dan huong PrimeTrade) va chap nhan
+      # trailstop.json khong doi trong ngay PC tat.
+      # trailstop VAN CHAY tren PC qua run_daily.bat — do moi la nguon chinh.
       - name: Run full updaters
         working-directory: updater
         run: |
           python update_signals.py || true
-          python update_trailstop.py || true
           python alert.py || true
           python scan_daily.py --discord || true
           python update_prices.py || true
