@@ -76,18 +76,25 @@ jobs:
           else
             echo "vnstock_data da co san trong venv cache, bo qua installer."
           fi
+      # THU TU CO CHU DICH — QUAN TRONG TRUOC, NANG SAU.
+      # Job nay chi chay khi PC TAT vao ngay giao dich, tuc dung luc VCI chan IP cloud
+      # nang nhat. Do 2026-08-22: update_market_read mot minh het 18,5 phut, update_prices
+      # them ~10 phut -> timeout 30' cat khi chua kip cham toi signals/trailstop/scan_daily.
+      # Ban cu xep 2 script NANG NHAT len dau nen dung nhung thu quan trong nhat.
+      # Nay: signals/trailstop/scan_daily (tin hieu + chan lai + quet cuoi phien) chay
+      # TRUOC; market_read va update_market --append-hist xuong cuoi. Timeout co cat thi
+      # chi mat phan it quan trong nhat.
+      # Da bo update_orderflow va check_alerts: finpath-intraday da chay ca hai moi 5 phut.
       - name: Run full updaters
         working-directory: updater
         run: |
-          python update_market_read.py --discord || true
-          python update_prices.py || true
-          python update_market.py --append-hist || true
           python update_signals.py || true
           python update_trailstop.py || true
           python alert.py || true
           python scan_daily.py --discord || true
-          python update_orderflow.py --discord || true
-          python check_alerts.py || true
+          python update_prices.py || true
+          python update_market.py --append-hist || true
+          python update_market_read.py --discord || true
       - name: Commit & push data
         run: |
           git config user.name "finpath-bot"
