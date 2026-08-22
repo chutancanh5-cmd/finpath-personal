@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Câu chuyện chi phối thị trường là kỳ vọng nâng hạng của FTSE Russell: danh sách 17 cổ phiếu được gọi tên cùng hàng trăm triệu USD vốn ngoại chờ giải ngân đã kéo dòng tiền ồ ạt vào nhóm chứng khoán và giúp VN-Index có tuần tăng mạnh nhất một tháng. Nền vĩ mô ủng hộ khi GDP quý II tăng 8,39% và Việt Nam được dự báo tiếp tục dẫn đầu tăng trưởng ASEAN-6 trong quý III/2026, với các địa phương như Vĩnh Long đặt mục tiêu tăng trưởng từ 10%. Rủi ro ngắn hạn nằm ở việc khối ngoại bán ròng mạnh nhiều mã ngay trước thời điểm công bố, làm tăng xác suất kịch bản 'bán khi tin ra' và rung lắc sau khi kỳ vọng được hiện thực hóa. Giá vàng lập đỉnh tháng và tiếp tục nhảy vọt cho thấy nhu cầu trú ẩn còn cao, có thể chia sẻ bớt dòng tiền với kênh cổ phiếu. Việc hơn 81% hộ kinh doanh giảm doanh thu là tín hiệu cảnh báo về sức cầu nội địa, đáng lưu ý với nhóm bán lẻ, tiêu dùng và ngân hàng bán lẻ.",
+  "summary_vi": "Câu chuyện nâng hạng thị trường của FTSE Russell đang là tâm điểm, với 17 cổ phiếu được gọi tên và kỳ vọng hàng trăm triệu USD vốn ngoại giải ngân, kéo dòng tiền ồ ạt vào nhóm chứng khoán và giúp VN-Index có tuần tăng mạnh nhất một tháng. Nền vĩ mô hỗ trợ khi GDP quý II tăng 8,39% và Việt Nam được dự báo tiếp tục dẫn đầu ASEAN-6 trong quý III/2026. Tuy nhiên rủi ro ngắn hạn không nhỏ: khối ngoại bán ròng mạnh nhiều mã ngay trước thời điểm công bố thông tin nâng hạng, cho thấy tâm lý chốt lời theo tin và định giá nhóm chứng khoán đã phản ánh phần lớn kỳ vọng. Giá vàng lên cao nhất tháng cùng động thái gom hàng của quỹ vàng lớn nhất thế giới phản ánh nhu cầu trú ẩn còn cao, có thể hút bớt dòng tiền khỏi cổ phiếu. Nhà đầu tư nên ưu tiên nhóm chứng khoán và bluechip hưởng lợi trực tiếp từ nâng hạng, nhưng quản trị vị thế chặt do khả năng rung lắc mạnh sau khi tin chính thức được công bố.",
   "top": [
     {
       "title": "17 cổ phiếu được FTSE Russell gọi tên, hàng trăm triệu USD chờ đổ vào",
       "impact": "↑",
-      "note": "Nâng hạng mở đường cho vốn ngoại thụ động giải ngân vào rổ cổ phiếu vốn hóa lớn."
-    },
-    {
-      "title": "Dòng tiền ồ ạt vào nhóm chứng khoán trước giờ đón tin nâng hạng",
-      "impact": "↑",
-      "note": "Nhóm chứng khoán hưởng lợi trực tiếp từ thanh khoản và tâm lý cải thiện, dẫn dắt chỉ số."
+      "note": "Dòng vốn ngoại thụ động vào rổ chỉ số là chất xúc tác trực tiếp và định lượng được cho VN-Index."
     },
     {
       "title": "GDP quý II tăng 8,39%, dự báo tiếp tục dẫn đầu ASEAN-6 quý III/2026",
       "impact": "↑",
-      "note": "Tăng trưởng cao củng cố triển vọng lợi nhuận doanh nghiệp niêm yết trong nửa cuối năm."
+      "note": "Tăng trưởng cao củng cố triển vọng lợi nhuận doanh nghiệp và sức hấp dẫn của thị trường Việt Nam."
+    },
+    {
+      "title": "Dòng tiền ồ ạt vào nhóm chứng khoán trước giờ đón tin nâng hạng",
+      "impact": "↑",
+      "note": "Thanh khoản và tâm lý cải thiện rõ, nhóm chứng khoán dẫn dắt chỉ số."
     },
     {
       "title": "VN-Index tăng mạnh nhất 1 tháng",
       "impact": "↑",
-      "note": "Xác nhận dòng tiền quay lại thị trường dù mặt bằng giá đã cao hơn đáng kể."
+      "note": "Xác nhận xu hướng phục hồi ngắn hạn với dòng tiền lan tỏa."
     },
     {
-      "title": "Khối ngoại bán ròng mạnh loạt cổ phiếu trước thời điểm công bố nâng hạng",
+      "title": "Khối ngoại bán ròng mạnh loạt cổ phiếu trước thềm công bố nâng hạng",
       "impact": "↓",
-      "note": "Áp lực bán của nhà đầu tư ngoại có thể kích hoạt kịch bản chốt lời khi tin chính thức ra."
+      "note": "Áp lực chốt lời theo tin có thể gây rung lắc mạnh ngay sau thời điểm công bố."
     },
     {
-      "title": "Hơn 81% hộ kinh doanh giảm doanh thu",
-      "impact": "↓",
-      "note": "Sức cầu nội địa yếu đi là rủi ro cho nhóm bán lẻ, tiêu dùng và tín dụng bán lẻ."
+      "title": "Giá vàng lên cao nhất tháng, quỹ vàng lớn nhất thế giới tăng gom",
+      "impact": "→",
+      "note": "Nhu cầu trú ẩn tăng phản ánh bất định toàn cầu và có thể chia bớt dòng tiền khỏi cổ phiếu."
     }
   ]
 }
