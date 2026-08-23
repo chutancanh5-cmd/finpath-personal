@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Câu chuyện nâng hạng thị trường vẫn là trục chính khi FTSE Russell gọi tên 17 cổ phiếu và hàng trăm triệu USD vốn ngoại thụ động chờ giải ngân, kéo VN-Index có tuần tăng mạnh nhất một tháng và mở rộng kỳ vọng sang các nhóm hưởng lợi kép ngoài chứng khoán. Nền vĩ mô ủng hộ với GDP quý II tăng 8,39% và dự báo Việt Nam tiếp tục dẫn đầu ASEAN-6 trong quý III/2026, củng cố triển vọng lợi nhuận doanh nghiệp niêm yết. Rủi ro ngắn hạn nằm ở việc khối ngoại bán ròng mạnh nhiều mã ngay trước thời điểm công bố, cộng với định giá nhóm chứng khoán đã phản ánh phần lớn kỳ vọng, dễ tạo kịch bản 'bán theo tin' sau khi thông tin chính thức xuất hiện. Ở mặt vĩ mô nội địa, hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu tiêu dùng còn yếu, trong khi giá vàng lên cao nhất tháng phản ánh nhu cầu trú ẩn vẫn cao và có thể chia bớt dòng tiền khỏi cổ phiếu. Chiến lược hợp lý là ưu tiên nhóm chứng khoán và bluechip trong rổ nâng hạng nhưng quản trị vị thế chặt, hạn chế mua đuổi sát thời điểm công bố.",
+  "summary_vi": "Dòng tin cuối tuần nghiêng về hướng tích cực khi câu chuyện nâng hạng thị trường tiếp tục là tâm điểm: FTSE Russell gọi tên 17 cổ phiếu chứng khoán và kỳ vọng hàng trăm triệu USD vốn ngoại chờ giải ngân, trong khi VN-Index vừa có tuần tăng mạnh nhất một tháng. Nền vĩ mô hỗ trợ với GDP quý II tăng 8,39% và dự báo Việt Nam tiếp tục dẫn đầu ASEAN-6 trong quý III/2026, tạo dư địa cho lợi nhuận doanh nghiệp và nhóm hưởng lợi kép sau nâng hạng. Rủi ro ngắn hạn đến từ định giá nhóm chứng khoán đã tăng nóng trước sóng nâng hạng, dễ xuất hiện nhịp chốt lời khi tin ra, cộng với giá vàng leo sát 150 triệu đồng/lượng đang hút một phần dòng tiền và phản ánh tâm lý phòng thủ toàn cầu. Bên cạnh đó, hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa và khu vực kinh tế tư nhân nhỏ còn yếu, chưa lan tỏa đều như con số tăng trưởng chung. Chiến lược hợp lý là ưu tiên chứng khoán - ngân hàng - nhóm hưởng lợi vốn ngoại nhưng giải ngân theo nhịp, tránh mua đuổi ở vùng giá cao.",
   "top": [
     {
       "title": "FTSE Russell gọi tên 17 cổ phiếu, hàng trăm triệu USD chờ đổ vào",
       "impact": "↑",
-      "note": "Dòng vốn ngoại thụ động vào rổ chỉ số là chất xúc tác trực tiếp và định lượng được cho VN-Index."
+      "note": "Dòng vốn ngoại thụ động từ nâng hạng là chất xúc tác trực tiếp cho thanh khoản và định giá thị trường."
     },
     {
-      "title": "GDP quý II tăng 8,39%, dự báo dẫn đầu ASEAN-6 trong quý III/2026",
+      "title": "GDP quý II tăng 8,39%, kỳ vọng dẫn đầu ASEAN-6 quý III/2026",
       "impact": "↑",
-      "note": "Tăng trưởng cao củng cố triển vọng lợi nhuận doanh nghiệp và sức hấp dẫn của thị trường Việt Nam."
+      "note": "Nền tảng vĩ mô mạnh củng cố triển vọng lợi nhuận doanh nghiệp niêm yết trong nửa cuối năm."
     },
     {
-      "title": "VN-Index tăng mạnh nhất 1 tháng, kỳ vọng nối dài sang tuần tới",
+      "title": "VN-Index tăng mạnh nhất 1 tháng",
       "impact": "↑",
-      "note": "Xác nhận đà phục hồi ngắn hạn với dòng tiền lan tỏa và tâm lý nhà đầu tư cải thiện rõ."
+      "note": "Đà hồi phục xác nhận dòng tiền quay lại, cải thiện tâm lý nhà đầu tư cho tuần giao dịch mới."
     },
     {
-      "title": "Nhiều nhóm cổ phiếu ngoài chứng khoán được dự báo hưởng lợi kép sau nâng hạng",
+      "title": "Nhóm cổ phiếu hưởng lợi kép sau nâng hạng",
       "impact": "↑",
-      "note": "Kỳ vọng lan tỏa sang ngân hàng, bất động sản, bluechip giúp mở rộng nền tảng dòng tiền."
+      "note": "Mở rộng câu chuyện đầu tư ra ngoài nhóm chứng khoán, giúp dòng tiền luân chuyển bền hơn."
     },
     {
-      "title": "Khối ngoại bán ròng mạnh loạt cổ phiếu trước thềm công bố nâng hạng",
+      "title": "Định giá nhóm cổ phiếu chứng khoán trước sóng nâng hạng",
+      "impact": "→",
+      "note": "Mặt bằng giá đã phản ánh nhiều kỳ vọng, rủi ro chốt lời khi thông tin chính thức xuất hiện."
+    },
+    {
+      "title": "Giá vàng tăng sát 150 triệu đồng/lượng, cao nhất tháng",
       "impact": "↓",
-      "note": "Áp lực chốt lời sớm có thể gây rung lắc mạnh ngay sau thời điểm công bố kết quả."
-    },
-    {
-      "title": "Hơn 81% hộ kinh doanh giảm doanh thu, VCCI kêu gọi tạo động lực tăng trưởng",
-      "impact": "↓",
-      "note": "Sức cầu nội địa yếu là rủi ro cho nhóm bán lẻ, tiêu dùng và chất lượng tín dụng ngân hàng."
+      "note": "Vàng hút bớt dòng tiền đầu cơ và phản ánh tâm lý trú ẩn, gây áp lực lên thanh khoản cổ phiếu."
     }
   ]
 }
