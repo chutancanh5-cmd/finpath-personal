@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin cuối tuần nghiêng về hướng tích cực khi câu chuyện nâng hạng thị trường tiếp tục là tâm điểm: FTSE Russell gọi tên 17 cổ phiếu chứng khoán và kỳ vọng hàng trăm triệu USD vốn ngoại chờ giải ngân, trong khi VN-Index vừa có tuần tăng mạnh nhất một tháng. Nền vĩ mô hỗ trợ với GDP quý II tăng 8,39% và dự báo Việt Nam tiếp tục dẫn đầu ASEAN-6 trong quý III/2026, tạo dư địa cho lợi nhuận doanh nghiệp và nhóm hưởng lợi kép sau nâng hạng. Rủi ro ngắn hạn đến từ định giá nhóm chứng khoán đã tăng nóng trước sóng nâng hạng, dễ xuất hiện nhịp chốt lời khi tin ra, cộng với giá vàng leo sát 150 triệu đồng/lượng đang hút một phần dòng tiền và phản ánh tâm lý phòng thủ toàn cầu. Bên cạnh đó, hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa và khu vực kinh tế tư nhân nhỏ còn yếu, chưa lan tỏa đều như con số tăng trưởng chung. Chiến lược hợp lý là ưu tiên chứng khoán - ngân hàng - nhóm hưởng lợi vốn ngoại nhưng giải ngân theo nhịp, tránh mua đuổi ở vùng giá cao.",
+  "summary_vi": "Dòng tin cuối tuần nghiêng về tích cực khi câu chuyện nâng hạng thị trường tiếp tục là tâm điểm: FTSE Russell gọi tên 17 cổ phiếu chứng khoán với kỳ vọng hàng trăm triệu USD vốn ngoại thụ động chờ giải ngân, cùng nhóm cổ phiếu được dự báo hưởng lợi kép sau nâng hạng. VN-Index vừa có tuần tăng mạnh nhất một tháng, cho thấy dòng tiền và tâm lý nhà đầu tư đang cải thiện trước kỳ nghỉ lễ 2/9. Tuy nhiên rủi ro ngắn hạn không nhỏ: định giá nhóm chứng khoán đã tăng nóng và phản ánh nhiều kỳ vọng, dễ xuất hiện nhịp chốt lời khi tin chính thức xuất hiện, trong khi tâm lý thận trọng trước kỳ nghỉ dài thường khiến thanh khoản mỏng đi. Giá vàng leo sát 150 triệu đồng/lượng và lập đỉnh tháng đang hút một phần dòng tiền đầu cơ, phản ánh nhu cầu trú ẩn toàn cầu; đồng thời hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa và khu vực tư nhân nhỏ còn yếu. Chiến lược hợp lý là ưu tiên chứng khoán - ngân hàng - nhóm hưởng lợi vốn ngoại nhưng giải ngân theo nhịp, hạ tỷ trọng margin và tránh mua đuổi ở vùng giá cao trước kỳ nghỉ.",
   "top": [
     {
-      "title": "FTSE Russell gọi tên 17 cổ phiếu, hàng trăm triệu USD chờ đổ vào",
+      "title": "FTSE Russell gọi tên 17 cổ phiếu chứng khoán, hàng trăm triệu USD chờ đổ vào",
       "impact": "↑",
       "note": "Dòng vốn ngoại thụ động từ nâng hạng là chất xúc tác trực tiếp cho thanh khoản và định giá thị trường."
     },
     {
-      "title": "GDP quý II tăng 8,39%, kỳ vọng dẫn đầu ASEAN-6 quý III/2026",
-      "impact": "↑",
-      "note": "Nền tảng vĩ mô mạnh củng cố triển vọng lợi nhuận doanh nghiệp niêm yết trong nửa cuối năm."
-    },
-    {
       "title": "VN-Index tăng mạnh nhất 1 tháng",
       "impact": "↑",
-      "note": "Đà hồi phục xác nhận dòng tiền quay lại, cải thiện tâm lý nhà đầu tư cho tuần giao dịch mới."
+      "note": "Đà hồi phục xác nhận dòng tiền quay lại, cải thiện tâm lý cho tuần giao dịch mới."
     },
     {
-      "title": "Nhóm cổ phiếu hưởng lợi kép sau nâng hạng",
+      "title": "Nhóm cổ phiếu được dự báo hưởng lợi kép sau nâng hạng",
       "impact": "↑",
       "note": "Mở rộng câu chuyện đầu tư ra ngoài nhóm chứng khoán, giúp dòng tiền luân chuyển bền hơn."
     },
     {
-      "title": "Định giá nhóm cổ phiếu chứng khoán trước sóng nâng hạng",
+      "title": "Soi định giá nhóm cổ phiếu chứng khoán trước sóng nâng hạng",
       "impact": "→",
-      "note": "Mặt bằng giá đã phản ánh nhiều kỳ vọng, rủi ro chốt lời khi thông tin chính thức xuất hiện."
+      "note": "Mặt bằng giá đã phản ánh nhiều kỳ vọng nên rủi ro chốt lời tăng khi thông tin chính thức ra."
     },
     {
-      "title": "Giá vàng tăng sát 150 triệu đồng/lượng, cao nhất tháng",
+      "title": "Giá vàng tăng sát 150 triệu đồng/lượng, cao nhất trong tháng",
       "impact": "↓",
       "note": "Vàng hút bớt dòng tiền đầu cơ và phản ánh tâm lý trú ẩn, gây áp lực lên thanh khoản cổ phiếu."
+    },
+    {
+      "title": "Hơn 81% hộ kinh doanh giảm doanh thu",
+      "impact": "↓",
+      "note": "Sức cầu nội địa yếu đi, ảnh hưởng triển vọng doanh thu nhóm bán lẻ - tiêu dùng và tín dụng bán lẻ."
     }
   ]
 }
