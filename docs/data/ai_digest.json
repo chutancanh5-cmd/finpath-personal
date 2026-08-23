@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Câu chuyện nâng hạng thị trường tiếp tục là trục chính của dòng tin cuối tuần: FTSE Russell gọi tên 17 cổ phiếu chứng khoán với kỳ vọng hàng trăm triệu USD vốn ngoại thụ động chờ giải ngân, kéo theo nhóm hưởng lợi kép ngoài nhóm chứng khoán. Nền tảng cơ bản cũng ủng hộ khi ngân hàng nửa đầu 2026 tăng trưởng mạnh, dù NIM chịu sức ép cho thấy chất lượng lợi nhuận sẽ phân hóa giữa các nhà băng. Ở chiều rủi ro, định giá nhóm chứng khoán đã phản ánh nhiều kỳ vọng nên dễ xuất hiện nhịp chốt lời khi thông tin chính thức xuất hiện, trong khi tâm lý thận trọng trước kỳ nghỉ 2/9 thường làm thanh khoản mỏng đi. Giá vàng leo sát 150 triệu đồng/lượng và lập đỉnh tháng đang hút bớt dòng tiền đầu cơ, còn việc hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa và khu vực tư nhân nhỏ vẫn yếu. Chiến lược hợp lý là ưu tiên chứng khoán - ngân hàng - nhóm hưởng lợi vốn ngoại nhưng giải ngân theo nhịp, hạ tỷ trọng margin và tránh mua đuổi vùng giá cao trước kỳ nghỉ dài.",
+  "summary_vi": "Câu chuyện nâng hạng thị trường vẫn là trục dẫn dắt chính, với kỳ vọng nhóm chứng khoán được \"tái định giá\" và dòng vốn ngoại lan tỏa sang các nhóm hưởng lợi kép ngoài nhóm môi giới. Nền tảng cơ bản được hỗ trợ bởi ngành ngân hàng tăng trưởng mạnh nửa đầu 2026, nhưng NIM chịu sức ép cho thấy lợi nhuận sẽ phân hóa rõ giữa các nhà băng. Rủi ro ngắn hạn đến từ việc định giá nhóm chứng khoán đã phản ánh nhiều kỳ vọng, tâm lý thận trọng và thanh khoản mỏng trước kỳ nghỉ lễ 2/9, cùng giá vàng leo sát 150 triệu đồng/lượng hút bớt dòng tiền đầu cơ. Ở phía vĩ mô, hơn 81% hộ kinh doanh giảm doanh thu là tín hiệu cảnh báo sức cầu nội địa và khu vực tư nhân nhỏ còn yếu. Chiến lược hợp lý là duy trì tỷ trọng ở chứng khoán - ngân hàng - nhóm đón vốn ngoại nhưng giải ngân theo nhịp, hạn chế margin và tránh mua đuổi vùng giá cao ngay trước kỳ nghỉ dài.",
   "top": [
     {
-      "title": "FTSE Russell gọi tên 17 cổ phiếu chứng khoán, hàng trăm triệu USD chờ đổ vào",
+      "title": "Nhóm chứng khoán đứng trước cơ hội \"tái định giá\"",
       "impact": "↑",
-      "note": "Dòng vốn ngoại thụ động từ nâng hạng là chất xúc tác trực tiếp cho thanh khoản và định giá thị trường."
+      "note": "Kỳ vọng nâng hạng và thanh khoản cải thiện là chất xúc tác trực tiếp cho định giá nhóm dẫn dắt thị trường."
     },
     {
-      "title": "Nhóm cổ phiếu được dự báo hưởng lợi kép sau nâng hạng",
+      "title": "Nhóm cổ phiếu hưởng lợi kép sau nâng hạng ngoài nhóm chứng khoán",
       "impact": "↑",
-      "note": "Mở rộng câu chuyện đầu tư ra ngoài nhóm chứng khoán, giúp dòng tiền luân chuyển bền hơn."
+      "note": "Dòng tiền lan tỏa rộng hơn giúp đà tăng của thị trường bền vững thay vì chỉ tập trung một nhóm."
+    },
+    {
+      "title": "Chuyên gia chỉ hai mốc dòng tiền lớn thực sự trở lại sàn",
+      "impact": "↑",
+      "note": "Kỳ vọng dòng tiền lớn quay lại củng cố thanh khoản và tâm lý nhà đầu tư trung hạn."
     },
     {
       "title": "Ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
       "impact": "→",
-      "note": "Tăng trưởng tín dụng nâng đỡ lợi nhuận song biên lãi thuần thu hẹp sẽ gây phân hóa mạnh giữa các ngân hàng."
+      "note": "Tín dụng nâng đỡ lợi nhuận song biên lãi thuần thu hẹp sẽ tạo phân hóa mạnh giữa các ngân hàng."
     },
     {
-      "title": "Soi định giá nhóm cổ phiếu chứng khoán trước sóng nâng hạng",
+      "title": "Chứng khoán trước kỳ nghỉ lễ 2/9",
       "impact": "→",
-      "note": "Mặt bằng giá đã phản ánh nhiều kỳ vọng nên rủi ro chốt lời tăng khi thông tin chính thức ra."
+      "note": "Tâm lý thận trọng và giảm đòn bẩy trước kỳ nghỉ dài thường khiến thanh khoản mỏng, biến động tăng."
     },
     {
       "title": "Giá vàng SJC tăng sát 150 triệu đồng/lượng, cao nhất trong tháng",
       "impact": "↓",
-      "note": "Vàng hút bớt dòng tiền đầu cơ và phản ánh tâm lý trú ẩn, gây áp lực lên thanh khoản cổ phiếu."
-    },
-    {
-      "title": "Hơn 81% hộ kinh doanh giảm doanh thu",
-      "impact": "↓",
-      "note": "Sức cầu nội địa yếu đi, ảnh hưởng triển vọng nhóm bán lẻ - tiêu dùng và tín dụng bán lẻ."
+      "note": "Vàng lập đỉnh hút bớt dòng tiền đầu cơ và phản ánh nhu cầu trú ẩn, gây áp lực lên thanh khoản cổ phiếu."
     }
   ]
 }
