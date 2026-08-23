@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-08-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin cuối tuần nghiêng về tích cực khi câu chuyện nâng hạng thị trường tiếp tục là tâm điểm: FTSE Russell gọi tên 17 cổ phiếu chứng khoán với kỳ vọng hàng trăm triệu USD vốn ngoại thụ động chờ giải ngân, cùng nhóm cổ phiếu được dự báo hưởng lợi kép sau nâng hạng. VN-Index vừa có tuần tăng mạnh nhất một tháng, cho thấy dòng tiền và tâm lý nhà đầu tư đang cải thiện trước kỳ nghỉ lễ 2/9. Tuy nhiên rủi ro ngắn hạn không nhỏ: định giá nhóm chứng khoán đã tăng nóng và phản ánh nhiều kỳ vọng, dễ xuất hiện nhịp chốt lời khi tin chính thức xuất hiện, trong khi tâm lý thận trọng trước kỳ nghỉ dài thường khiến thanh khoản mỏng đi. Giá vàng leo sát 150 triệu đồng/lượng và lập đỉnh tháng đang hút một phần dòng tiền đầu cơ, phản ánh nhu cầu trú ẩn toàn cầu; đồng thời hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa và khu vực tư nhân nhỏ còn yếu. Chiến lược hợp lý là ưu tiên chứng khoán - ngân hàng - nhóm hưởng lợi vốn ngoại nhưng giải ngân theo nhịp, hạ tỷ trọng margin và tránh mua đuổi ở vùng giá cao trước kỳ nghỉ.",
+  "summary_vi": "Câu chuyện nâng hạng thị trường tiếp tục là trục chính của dòng tin cuối tuần: FTSE Russell gọi tên 17 cổ phiếu chứng khoán với kỳ vọng hàng trăm triệu USD vốn ngoại thụ động chờ giải ngân, kéo theo nhóm hưởng lợi kép ngoài nhóm chứng khoán. Nền tảng cơ bản cũng ủng hộ khi ngân hàng nửa đầu 2026 tăng trưởng mạnh, dù NIM chịu sức ép cho thấy chất lượng lợi nhuận sẽ phân hóa giữa các nhà băng. Ở chiều rủi ro, định giá nhóm chứng khoán đã phản ánh nhiều kỳ vọng nên dễ xuất hiện nhịp chốt lời khi thông tin chính thức xuất hiện, trong khi tâm lý thận trọng trước kỳ nghỉ 2/9 thường làm thanh khoản mỏng đi. Giá vàng leo sát 150 triệu đồng/lượng và lập đỉnh tháng đang hút bớt dòng tiền đầu cơ, còn việc hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa và khu vực tư nhân nhỏ vẫn yếu. Chiến lược hợp lý là ưu tiên chứng khoán - ngân hàng - nhóm hưởng lợi vốn ngoại nhưng giải ngân theo nhịp, hạ tỷ trọng margin và tránh mua đuổi vùng giá cao trước kỳ nghỉ dài.",
   "top": [
     {
       "title": "FTSE Russell gọi tên 17 cổ phiếu chứng khoán, hàng trăm triệu USD chờ đổ vào",
@@ -10,14 +10,14 @@
       "note": "Dòng vốn ngoại thụ động từ nâng hạng là chất xúc tác trực tiếp cho thanh khoản và định giá thị trường."
     },
     {
-      "title": "VN-Index tăng mạnh nhất 1 tháng",
-      "impact": "↑",
-      "note": "Đà hồi phục xác nhận dòng tiền quay lại, cải thiện tâm lý cho tuần giao dịch mới."
-    },
-    {
       "title": "Nhóm cổ phiếu được dự báo hưởng lợi kép sau nâng hạng",
       "impact": "↑",
       "note": "Mở rộng câu chuyện đầu tư ra ngoài nhóm chứng khoán, giúp dòng tiền luân chuyển bền hơn."
+    },
+    {
+      "title": "Ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
+      "impact": "→",
+      "note": "Tăng trưởng tín dụng nâng đỡ lợi nhuận song biên lãi thuần thu hẹp sẽ gây phân hóa mạnh giữa các ngân hàng."
     },
     {
       "title": "Soi định giá nhóm cổ phiếu chứng khoán trước sóng nâng hạng",
@@ -25,14 +25,14 @@
       "note": "Mặt bằng giá đã phản ánh nhiều kỳ vọng nên rủi ro chốt lời tăng khi thông tin chính thức ra."
     },
     {
-      "title": "Giá vàng tăng sát 150 triệu đồng/lượng, cao nhất trong tháng",
+      "title": "Giá vàng SJC tăng sát 150 triệu đồng/lượng, cao nhất trong tháng",
       "impact": "↓",
       "note": "Vàng hút bớt dòng tiền đầu cơ và phản ánh tâm lý trú ẩn, gây áp lực lên thanh khoản cổ phiếu."
     },
     {
       "title": "Hơn 81% hộ kinh doanh giảm doanh thu",
       "impact": "↓",
-      "note": "Sức cầu nội địa yếu đi, ảnh hưởng triển vọng doanh thu nhóm bán lẻ - tiêu dùng và tín dụng bán lẻ."
+      "note": "Sức cầu nội địa yếu đi, ảnh hưởng triển vọng nhóm bán lẻ - tiêu dùng và tín dụng bán lẻ."
     }
   ]
 }
