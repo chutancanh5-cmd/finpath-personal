@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-08-24",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chủ đề chi phối hôm nay là kỳ vọng dòng vốn ngoại hậu nâng hạng, với thông tin hàng tỷ USD sắp giải ngân vào chứng khoán Việt Nam và các mốc dòng tiền lớn được dự báo quay lại sàn. Nhóm công ty chứng khoán đứng trước cơ hội tái định giá, hiệu ứng lan tỏa còn mở rộng sang các nhóm cổ phiếu hưởng lợi kép, tạo nền tảng tăng rộng hơn cho chỉ số. Ngân hàng vẫn tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, nên nhóm dẫn dắt vốn hóa lớn sẽ phân hóa thay vì tăng đồng loạt. Rủi ro ngắn hạn đến từ khả năng rung lắc mạnh trước kỳ nghỉ 2/9 do tâm lý hạ đòn bẩy, cộng thêm giá vàng sát 150 triệu đồng/lượng và cơ chế mua sát giá thế giới cạnh tranh dòng tiền; việc hơn 81% hộ kinh doanh giảm doanh thu cũng cho thấy cầu nội địa còn yếu. Chiến lược hợp lý: ưu tiên chứng khoán - ngân hàng theo câu chuyện nâng hạng, nhưng hạ đòn bẩy và giữ tỷ trọng tiền mặt hợp lý qua kỳ nghỉ lễ.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Dòng tin hôm nay nghiêng về kỳ vọng dòng vốn: thị trường được dự báo đón hàng tỷ USD sau nâng hạng, giúp VN-Index đảo chiều bứt phá và mở ra câu chuyện tái định giá nhóm chứng khoán. Tuy nhiên tính bền vững còn bỏ ngỏ khi giới phân tích tranh luận đây là đáy hay chỉ 'bull trap', còn MBS cảnh báo rung lắc mạnh trước kỳ nghỉ lễ 2/9 do tâm lý hạ tỷ trọng, giữ tiền mặt. Nền kinh tế thực vẫn có điểm yếu khi hơn 81% hộ kinh doanh ghi nhận doanh thu giảm, phản ánh sức cầu nội địa chưa hồi phục đồng đều. Nhóm ngân hàng tăng trưởng tốt nửa đầu 2026 nhưng NIM chịu sức ép, nên dư địa tăng giá phụ thuộc chất lượng tài sản hơn là quy mô tín dụng. Giá vàng sát 150 triệu đồng/lượng tiếp tục cạnh tranh dòng tiền ngắn hạn với cổ phiếu; chiến lược hợp lý là ưu tiên chứng khoán, ngân hàng đầu ngành và giải ngân từng phần thay vì mua đuổi.",
   "top": [
     {
       "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam",
       "impact": "↑",
-      "note": "Dòng vốn ngoại quy mô lớn giải ngân sau nâng hạng là lực đỡ mạnh nhất cho thanh khoản và định giá thị trường."
+      "note": "Kỳ vọng dòng vốn ngoại giải ngân sau nâng hạng là lực đỡ trung hạn cho thanh khoản và định giá."
     },
     {
-      "title": "Nhóm chứng khoán đứng trước cơ hội \"tái định giá\"",
+      "title": "VN-Index đảo chiều bứt phá, đáy hay bull trap?",
+      "impact": "→",
+      "note": "Phục hồi tích cực về điểm số nhưng chưa xác nhận xu hướng, rủi ro bẫy tăng giá vẫn còn."
+    },
+    {
+      "title": "Nhóm chứng khoán trước cơ hội tái định giá",
       "impact": "↑",
-      "note": "Công ty chứng khoán hưởng lợi trực tiếp từ thanh khoản và cho vay margin khi vốn ngoại vào."
+      "note": "Thanh khoản cải thiện và triển vọng nâng hạng hỗ trợ trực tiếp lợi nhuận công ty chứng khoán."
     },
     {
-      "title": "Chuyên gia chỉ điểm hai mốc dòng tiền lớn trở lại sàn",
-      "impact": "↑",
-      "note": "Xác nhận dòng tiền lớn quay lại giúp củng cố xu hướng tăng trung hạn của chỉ số."
-    },
-    {
-      "title": "Nhiều nhóm cổ phiếu ngoài chứng khoán hưởng lợi kép sau nâng hạng",
-      "impact": "↑",
-      "note": "Câu chuyện nâng hạng lan tỏa ra ngoài nhóm tài chính, mở rộng nền tảng tăng giá."
-    },
-    {
-      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ 2/9",
+      "title": "MBS: Thị trường có thể rung lắc mạnh trước kỳ nghỉ lễ",
       "impact": "↓",
-      "note": "Nhà đầu tư hạ đòn bẩy, ngại giữ vị thế qua kỳ nghỉ dài dễ tạo áp lực chốt lời ngắn hạn."
+      "note": "Tâm lý phòng thủ trước nghỉ 2/9 dễ khiến dòng tiền rút bớt, biên độ dao động rộng."
     },
     {
-      "title": "Giá vàng tăng sát 150 triệu đồng/lượng, dân được mua sát giá thế giới",
+      "title": "Ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
+      "impact": "→",
+      "note": "Tín dụng tăng tốt nhưng biên lãi thuần thu hẹp làm giảm chất lượng tăng trưởng lợi nhuận."
+    },
+    {
+      "title": "Hơn 81% hộ kinh doanh giảm doanh thu",
       "impact": "↓",
-      "note": "Kênh vàng hấp dẫn và dễ tiếp cận hơn có thể hút bớt dòng tiền khỏi chứng khoán."
+      "note": "Sức cầu nội địa yếu ảnh hưởng nhóm bán lẻ, tiêu dùng và chất lượng tín dụng bán lẻ."
     }
   ]
 }
