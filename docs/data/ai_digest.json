@@ -2,17 +2,22 @@
   "_opus": true,
   "date": "2026-08-24",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường hồi phục kỹ thuật với VN-Index tăng 20 điểm và khối ngoại quay lại gom bluechip hàng trăm tỷ, nhưng đây mới là phiên đảo chiều đơn lẻ sau cú rơi khiến toàn bộ 91 quỹ cổ phiếu thua lỗ nên chưa đủ xác nhận tạo đáy. Câu chuyện trung hạn vẫn tích cực: kỳ vọng hút hơn 4 tỷ USD vốn thụ động sau nâng hạng và lộ trình giải ngân đang được cụ thể hóa, hưởng lợi trực tiếp là nhóm công ty chứng khoán đứng trước cơ hội tái định giá nhờ thanh khoản và nghiệp vụ phục vụ vốn ngoại. Rủi ro ngắn hạn đến từ cảnh báo rung lắc mạnh trước kỳ nghỉ lễ khi thanh khoản mỏng, cùng làn sóng gom vàng của các quỹ lớn và giá vàng tiến sát kỷ lục — dấu hiệu khẩu vị rủi ro toàn cầu suy giảm và cạnh tranh dòng tiền với cổ phiếu. Nhóm ngân hàng tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, hạn chế dư địa dẫn dắt chỉ số của nhóm vốn hóa lớn nhất. Chiến lược hợp lý là hạ đòn bẩy trước nghỉ lễ, giữ tỷ trọng cân bằng và giải ngân từng phần vào chứng khoán, ngân hàng chất lượng theo nhịp điều chỉnh thay vì mua đuổi.",
+  "summary_vi": "VN-Index bất ngờ đảo chiều bứt phá hơn 20 điểm với sự trở lại của khối ngoại ở nhóm bluechip, nhưng thị trường vẫn đang tranh cãi giữa kịch bản tạo đáy và một phiên \"bull trap\" sau cú rơi khiến toàn bộ 91 quỹ cổ phiếu thua lỗ. Trụ đỡ trung hạn là câu chuyện nâng hạng: kỳ vọng hút hơn 4 tỷ USD vốn thụ động cùng lộ trình giải ngân đang dần rõ ràng, giúp nhóm công ty chứng khoán đứng trước cơ hội tái định giá nhờ thanh khoản và các nghiệp vụ phục vụ vốn ngoại. Rủi ro ngắn hạn đến từ cảnh báo rung lắc mạnh trước kỳ nghỉ lễ khi thanh khoản mỏng và tâm lý hạ đòn bẩy chiếm ưu thế. Song song, các quỹ vàng lớn tiếp tục gom mạnh và giá vàng tiệm cận mốc lịch sử — tín hiệu khẩu vị rủi ro toàn cầu suy giảm, đồng thời cạnh tranh trực tiếp dòng tiền với cổ phiếu. Chiến lược hợp lý là hạ tỷ trọng vay margin trước nghỉ lễ, ưu tiên giải ngân từng phần vào chứng khoán và bluechip có dòng tiền ngoại thay vì mua đuổi theo phiên hưng phấn.",
   "top": [
     {
       "title": "Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động sau nâng hạng",
       "impact": "↑",
-      "note": "Dòng vốn ngoại thụ động quy mô lớn là động lực định giá lại thị trường trong trung hạn."
+      "note": "Dòng vốn ngoại thụ động quy mô lớn là động lực định giá lại toàn thị trường trong trung hạn."
+    },
+    {
+      "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam và lộ trình giải ngân",
+      "impact": "↑",
+      "note": "Lộ trình giải ngân cụ thể hóa giúp kỳ vọng nâng hạng chuyển thành dòng tiền thực."
     },
     {
       "title": "Khối ngoại gom hơn trăm tỷ một bluechip trong phiên VN-Index tăng 20 điểm",
       "impact": "↑",
-      "note": "Khối ngoại quay lại mua ròng ở nhóm dẫn dắt giúp củng cố tâm lý sau nhịp giảm."
+      "note": "Khối ngoại mua ròng ở nhóm dẫn dắt củng cố tâm lý sau nhịp giảm sâu."
     },
     {
       "title": "Toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi của VN-Index",
@@ -25,14 +30,9 @@
       "note": "Thanh khoản mỏng và tâm lý hạ đòn bẩy trước nghỉ lễ dễ khuếch đại biến động."
     },
     {
-      "title": "Nhóm chứng khoán đứng trước cơ hội tái định giá",
-      "impact": "↑",
-      "note": "Công ty chứng khoán hưởng lợi trực tiếp từ thanh khoản tăng và dòng vốn ngoại sau nâng hạng."
-    },
-    {
-      "title": "Ngành ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
-      "impact": "→",
-      "note": "Tín dụng mở rộng bù cho biên lãi thu hẹp, khiến nhóm vốn hóa lớn khó bứt phá mạnh."
+      "title": "Quỹ vàng lớn nhất châu Âu ráo riết mua vàng, giá vàng sắp lập kỷ lục",
+      "impact": "↓",
+      "note": "Dòng tiền trú ẩn vào vàng phản ánh khẩu vị rủi ro giảm và hút bớt vốn khỏi cổ phiếu."
     }
   ]
 }
