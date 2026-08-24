@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-08-24",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay nghiêng về kỳ vọng dòng vốn ngoại quy mô hàng tỷ USD sắp giải ngân vào TTCK Việt Nam, hỗ trợ tâm lý và tạo cơ hội tái định giá cho nhóm chứng khoán. VN-Index đảo chiều bứt phá nhưng giới phân tích còn tranh cãi giữa kịch bản tạo đáy và bull trap, trong khi MBS cảnh báo thị trường có thể rung lắc mạnh trước kỳ nghỉ lễ 2/9 do thanh khoản mỏng. Ở mặt vĩ mô, giá vàng tiến sát 150 triệu đồng/lượng và làn sóng mua vàng của các quỹ lớn cho thấy nhu cầu trú ẩn còn cao, có thể hút bớt dòng tiền khỏi cổ phiếu; bù lại, việc người dân được mua vàng sát giá thế giới giúp thu hẹp chênh lệch và giảm áp lực đầu cơ. Ngành ngân hàng tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, là điểm cần theo dõi với nhóm cổ phiếu vốn hóa lớn nhất thị trường. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên chứng khoán và ngân hàng chất lượng, tránh mua đuổi trước kỳ nghỉ lễ.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chủ đề chi phối phiên hôm nay là câu chuyện nâng hạng thị trường: ông Nguyễn Duy Hưng ước tính Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động, và nhiều phân tích đang bàn về lộ trình giải ngân của dòng tiền này. Đây là lực đỡ trung hạn rõ ràng cho thanh khoản và định giá, đặc biệt với nhóm công ty chứng khoán đang đứng trước cơ hội tái định giá nhờ hưởng lợi trực tiếp từ vòng quay vốn và phí giao dịch. Về ngắn hạn cần thận trọng: VN-Index vừa đảo chiều bứt phá nhưng chưa xác nhận xu hướng (rủi ro bull trap), trong khi MBS cảnh báo thị trường dễ rung lắc mạnh do tâm lý phòng thủ và thanh khoản mỏng trước kỳ nghỉ 2/9. Vĩ mô có hai điểm cần theo dõi: giá vàng tiến sát 150 triệu đồng/lượng cùng làn sóng gom vàng của các quỹ lớn phản ánh nhu cầu trú ẩn cao, có thể cạnh tranh dòng tiền với cổ phiếu; ngành ngân hàng tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, hạn chế dư địa tăng của nhóm vốn hóa lớn nhất. Chiến lược hợp lý là duy trì tỷ trọng cân bằng, ưu tiên chứng khoán và ngân hàng chất lượng theo nhịp điều chỉnh, tránh mua đuổi ngay trước kỳ nghỉ lễ.",
   "top": [
     {
-      "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam",
+      "title": "Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động sau nâng hạng",
       "impact": "↑",
-      "note": "Dòng vốn ngoại quy mô lớn chờ giải ngân là lực đỡ trung hạn cho thanh khoản và định giá thị trường."
+      "note": "Vốn ngoại thụ động quy mô lớn là động lực định giá lại toàn thị trường trong trung hạn."
+    },
+    {
+      "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam, giải ngân ra sao?",
+      "impact": "↑",
+      "note": "Lộ trình giải ngân rõ ràng hơn giúp củng cố kỳ vọng thanh khoản và tâm lý nhà đầu tư."
     },
     {
       "title": "Nhóm chứng khoán đứng trước cơ hội tái định giá",
       "impact": "↑",
-      "note": "Kỳ vọng nâng hạng và thanh khoản cải thiện giúp cổ phiếu công ty chứng khoán hưởng lợi trực tiếp."
+      "note": "Công ty chứng khoán hưởng lợi trực tiếp từ thanh khoản tăng và nghiệp vụ phục vụ vốn ngoại."
+    },
+    {
+      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ 2/9",
+      "impact": "↓",
+      "note": "Thanh khoản mỏng và tâm lý hạ đòn bẩy trước nghỉ lễ dễ gây biến động ngắn hạn."
     },
     {
       "title": "VN-Index đảo chiều bứt phá: tạo đáy hay bull trap?",
       "impact": "→",
-      "note": "Phiên hồi phục tích cực nhưng chưa đủ xác nhận xu hướng, rủi ro đảo chiều vẫn hiện hữu."
+      "note": "Phiên hồi phục tích cực nhưng thiếu xác nhận về khối lượng, rủi ro đảo chiều còn hiện hữu."
     },
     {
-      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ",
+      "title": "Giá vàng sát 150 triệu đồng/lượng, quỹ vàng lớn ráo riết gom hàng",
       "impact": "↓",
-      "note": "Tâm lý phòng thủ và thanh khoản mỏng trước nghỉ 2/9 dễ tạo biến động ngắn hạn."
-    },
-    {
-      "title": "Ngành ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
-      "impact": "→",
-      "note": "Lợi nhuận vẫn tăng song biên lãi thuần thu hẹp hạn chế dư địa tăng giá nhóm vốn hóa lớn."
-    },
-    {
-      "title": "Giá vàng SJC tăng sát 150 triệu đồng/lượng, quỹ lớn ráo riết gom vàng",
-      "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng cao có thể hút bớt dòng tiền đầu cơ khỏi kênh cổ phiếu."
+      "note": "Nhu cầu trú ẩn tăng mạnh có thể hút bớt dòng tiền đầu cơ khỏi kênh cổ phiếu."
     }
   ]
 }
