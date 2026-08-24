@@ -1,18 +1,18 @@
 {
   "_opus": true,
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô hôm nay nghiêng về trung tính với hai lực kéo ngược chiều: mặt bằng lãi suất huy động tiếp tục ổn định ở nền thấp và các ngân hàng đẩy mạnh gói ưu đãi tín dụng (TPBank 8.000 tỷ đồng cho SME, VIB cố định lãi suất 5 năm cho vay mua nhà), hỗ trợ chi phí vốn doanh nghiệp và cầu bất động sản. Ở chiều ngược lại, giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên cho thấy tâm lý phòng thủ và rủi ro dòng tiền chảy sang kênh trú ẩn thay vì cổ phiếu. Trên thị trường, dòng tiền đang rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, cộng thêm áp lực xả hàng của hơn 20 quỹ tại một cổ phiếu vốn hóa lớn, khiến chỉ số thiếu sự đồng thuận để bứt phá. Điểm sáng trung hạn đến từ câu chuyện nâng hạng: tỷ trọng cổ phiếu Việt Nam trong rổ FTSE Emerging còn rất thấp so với khu vực, hàm ý dư địa hút vốn ngoại còn lớn — phù hợp với việc khối ngoại đã mua ròng trở lại phiên 24/08. Ngắn hạn nên ưu tiên nhóm ngân hàng, cổ phiếu cổ tức tiền mặt cao và giữ tỷ trọng vừa phải cho tới khi dòng tiền quay lại nhóm dẫn dắt.",
+  "summary_vi": "Vĩ mô hôm nay nghiêng về trung tính khi mặt bằng lãi suất huy động tại nhóm ngân hàng lớn tiếp tục ổn định ở nền thấp, đi cùng các gói tín dụng ưu đãi quy mô lớn (TPBank 8.000 tỷ đồng cho SME và cá nhân, VIB cố định lãi suất 5 năm cho vay mua nhà) — hỗ trợ chi phí vốn doanh nghiệp và kích cầu bất động sản nhà ở. Dòng vốn tổ chức đang phân hóa mạnh: 27 quỹ mua ròng liên tiếp 4 tháng tại một cổ phiếu ngân hàng, trong khi hơn 20 quỹ đồng loạt xả hàng một mã quốc dân, cho thấy tiền chọn lọc theo câu chuyện riêng thay vì lan tỏa toàn thị trường. Rủi ro ngắn hạn đến từ việc dòng tiền rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, cộng với giá vàng nhẫn tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên — tín hiệu tâm lý phòng thủ và cạnh tranh hút vốn nhàn rỗi khỏi kênh cổ phiếu. Điểm tựa trung hạn vẫn là câu chuyện nâng hạng: tỷ trọng cổ phiếu Việt Nam trong rổ FTSE Emerging còn rất thấp so với khu vực Đông Nam Á, và khối ngoại đã mua ròng trở lại dù tự doanh quay đầu bán ròng. Chiến lược hợp lý là ưu tiên ngân hàng chất lượng tài sản tốt, hạn chế đuổi giá nhóm đầu cơ và giữ tỷ trọng vừa phải cho tới khi thanh khoản đồng thuận trở lại.",
   "top": [
     {
       "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
       "impact": "↓",
-      "note": "Hai nhóm vốn hóa lớn dẫn dắt bị rút vốn khiến chỉ số mất động lực và thanh khoản chung suy yếu."
+      "note": "Hai nhóm dẫn dắt bị rút vốn khiến chỉ số thiếu trụ đỡ và thanh khoản chung suy yếu."
     },
     {
       "title": "Hơn 20 quỹ ồ ạt \"xả hàng\" một cổ phiếu quốc dân",
       "impact": "↓",
-      "note": "Tổ chức bán ra đồng loạt tại một mã trụ tạo áp lực cung lớn và ảnh hưởng tâm lý nhà đầu tư cá nhân."
+      "note": "Tổ chức bán đồng loạt tại một mã vốn hóa lớn tạo áp lực cung và ảnh hưởng tâm lý nhà đầu tư cá nhân."
     },
     {
       "title": "Giá vàng nhẫn tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
@@ -20,19 +20,19 @@
       "note": "Vàng tăng nóng phản ánh tâm lý phòng thủ và hút bớt dòng tiền nhàn rỗi khỏi kênh cổ phiếu."
     },
     {
-      "title": "Khối ngoại mua ròng trở lại, tự doanh bán ròng (24/08)",
-      "impact": "→",
-      "note": "Lực mua ngoại quay lại là tín hiệu tích cực nhưng bị trung hòa bởi tự doanh đảo chiều bán ròng."
+      "title": "27 quỹ mua ròng 4 tháng liên tiếp một cổ phiếu ngân hàng",
+      "impact": "↑",
+      "note": "Dòng vốn tổ chức bền bỉ vào nhóm ngân hàng củng cố vai trò trụ đỡ của nhóm vốn hóa lớn nhất thị trường."
     },
     {
       "title": "Tỷ trọng cổ phiếu Việt Nam trong rổ FTSE Emerging còn rất thấp",
       "impact": "↑",
-      "note": "Dư địa tăng tỷ trọng lớn mở ra kỳ vọng dòng vốn ngoại giải ngân thêm theo câu chuyện nâng hạng."
+      "note": "Dư địa nâng tỷ trọng lớn mở ra kỳ vọng vốn ngoại giải ngân thêm theo câu chuyện nâng hạng."
     },
     {
-      "title": "Lãi suất ổn định, TPBank và VIB tung gói ưu đãi cho vay",
+      "title": "Lãi suất huy động ổn định, TPBank và VIB tung gói ưu đãi cho vay",
       "impact": "↑",
-      "note": "Chi phí vốn rẻ và tín dụng được đẩy mạnh hỗ trợ lợi nhuận doanh nghiệp lẫn cầu bất động sản."
+      "note": "Chi phí vốn rẻ và tín dụng được đẩy mạnh hỗ trợ lợi nhuận doanh nghiệp lẫn cầu bất động sản nhà ở."
     }
   ]
 }
