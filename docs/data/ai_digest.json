@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-24",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường đang giằng co giữa câu chuyện nâng hạng và áp lực điều chỉnh ngắn hạn: cú rơi vừa qua của VN-Index khiến toàn bộ 91 quỹ cổ phiếu thua lỗ, cho thấy mức độ lan tỏa của nhịp giảm và tâm lý phòng thủ đang chiếm ưu thế. Ở chiều ngược lại, kỳ vọng hút hơn 4 tỷ USD vốn thụ động sau nâng hạng cùng các thảo luận về lộ trình giải ngân là lực đỡ trung hạn rõ ràng cho thanh khoản và định giá, hưởng lợi trực tiếp nhất là nhóm công ty chứng khoán đang đứng trước cơ hội tái định giá. Ngắn hạn cần thận trọng vì phiên đảo chiều bứt phá chưa được xác nhận (rủi ro bull trap) và MBS cảnh báo rung lắc mạnh khi thanh khoản mỏng dần trước kỳ nghỉ 2/9. Hai yếu tố vĩ mô cần theo dõi là giá vàng lập kỷ lục cùng làn sóng gom vàng của các quỹ lớn — dấu hiệu khẩu vị rủi ro toàn cầu giảm và cạnh tranh dòng tiền với cổ phiếu; và ngành ngân hàng tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, hạn chế dư địa kéo chỉ số của nhóm vốn hóa lớn nhất. Chiến lược hợp lý là giữ tỷ trọng cân bằng, hạ đòn bẩy trước nghỉ lễ và giải ngân từng phần vào chứng khoán, ngân hàng chất lượng theo nhịp điều chỉnh thay vì mua đuổi.",
+  "summary_vi": "Thị trường hồi phục kỹ thuật với VN-Index tăng 20 điểm và khối ngoại quay lại gom bluechip hàng trăm tỷ, nhưng đây mới là phiên đảo chiều đơn lẻ sau cú rơi khiến toàn bộ 91 quỹ cổ phiếu thua lỗ nên chưa đủ xác nhận tạo đáy. Câu chuyện trung hạn vẫn tích cực: kỳ vọng hút hơn 4 tỷ USD vốn thụ động sau nâng hạng và lộ trình giải ngân đang được cụ thể hóa, hưởng lợi trực tiếp là nhóm công ty chứng khoán đứng trước cơ hội tái định giá nhờ thanh khoản và nghiệp vụ phục vụ vốn ngoại. Rủi ro ngắn hạn đến từ cảnh báo rung lắc mạnh trước kỳ nghỉ lễ khi thanh khoản mỏng, cùng làn sóng gom vàng của các quỹ lớn và giá vàng tiến sát kỷ lục — dấu hiệu khẩu vị rủi ro toàn cầu suy giảm và cạnh tranh dòng tiền với cổ phiếu. Nhóm ngân hàng tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, hạn chế dư địa dẫn dắt chỉ số của nhóm vốn hóa lớn nhất. Chiến lược hợp lý là hạ đòn bẩy trước nghỉ lễ, giữ tỷ trọng cân bằng và giải ngân từng phần vào chứng khoán, ngân hàng chất lượng theo nhịp điều chỉnh thay vì mua đuổi.",
   "top": [
-    {
-      "title": "Toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi của VN-Index",
-      "impact": "↓",
-      "note": "Nhịp giảm lan tỏa toàn thị trường, áp lực rút vốn và bán giải chấp ở các quỹ có thể kéo dài."
-    },
     {
       "title": "Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động sau nâng hạng",
       "impact": "↑",
       "note": "Dòng vốn ngoại thụ động quy mô lớn là động lực định giá lại thị trường trong trung hạn."
     },
     {
-      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ 2/9",
+      "title": "Khối ngoại gom hơn trăm tỷ một bluechip trong phiên VN-Index tăng 20 điểm",
+      "impact": "↑",
+      "note": "Khối ngoại quay lại mua ròng ở nhóm dẫn dắt giúp củng cố tâm lý sau nhịp giảm."
+    },
+    {
+      "title": "Toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi của VN-Index",
+      "impact": "↓",
+      "note": "Nhịp giảm lan tỏa toàn thị trường, áp lực rút vốn tại các quỹ có thể còn kéo dài."
+    },
+    {
+      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ",
       "impact": "↓",
       "note": "Thanh khoản mỏng và tâm lý hạ đòn bẩy trước nghỉ lễ dễ khuếch đại biến động."
     },
     {
       "title": "Nhóm chứng khoán đứng trước cơ hội tái định giá",
       "impact": "↑",
-      "note": "Công ty chứng khoán hưởng lợi trực tiếp từ thanh khoản tăng và nghiệp vụ phục vụ vốn ngoại."
+      "note": "Công ty chứng khoán hưởng lợi trực tiếp từ thanh khoản tăng và dòng vốn ngoại sau nâng hạng."
     },
     {
-      "title": "VN-Index đảo chiều bứt phá: tạo đáy hay chỉ là bull trap?",
+      "title": "Ngành ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
       "impact": "→",
-      "note": "Phiên hồi phục tích cực nhưng chưa có xác nhận về khối lượng, rủi ro đảo chiều vẫn hiện hữu."
-    },
-    {
-      "title": "Vàng hướng tới kỷ lục lịch sử, quỹ vàng lớn nhất châu Âu ráo riết gom hàng",
-      "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng mạnh phản ánh khẩu vị rủi ro giảm và hút bớt dòng tiền khỏi cổ phiếu."
+      "note": "Tín dụng mở rộng bù cho biên lãi thu hẹp, khiến nhóm vốn hóa lớn khó bứt phá mạnh."
     }
   ]
 }
