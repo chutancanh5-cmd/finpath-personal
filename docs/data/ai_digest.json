@@ -2,35 +2,35 @@
   "_opus": true,
   "date": "2026-08-24",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin hôm nay bị chi phối bởi câu chuyện nâng hạng thị trường: nhóm chứng khoán được kỳ vọng \"tái định giá\" và hiệu ứng lan tỏa sang các nhóm hưởng lợi kép, trong khi giới phân tích chỉ ra các mốc dòng tiền lớn có thể quay lại sàn. Ngành ngân hàng nửa đầu 2026 tăng trưởng mạnh, hỗ trợ nhóm cổ phiếu vốn hóa lớn, dù NIM chịu sức ép khiến dư địa tăng giá phân hóa theo từng ngân hàng. Rủi ro ngắn hạn đến từ khả năng rung lắc mạnh trước kỳ nghỉ lễ 2/9 do tâm lý hạ đòn bẩy và ngại giữ vị thế qua kỳ nghỉ dài. Giá vàng tăng sát 150 triệu đồng/lượng tiếp tục cạnh tranh dòng tiền với chứng khoán, còn việc hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa vẫn yếu. Chiến lược hợp lý là ưu tiên chứng khoán - ngân hàng theo câu chuyện nâng hạng nhưng giữ tỷ trọng tiền mặt hợp lý qua kỳ nghỉ.",
+  "summary_vi": "Chủ đề chi phối hôm nay là kỳ vọng dòng vốn ngoại hậu nâng hạng, với thông tin hàng tỷ USD sắp giải ngân vào chứng khoán Việt Nam và các mốc dòng tiền lớn được dự báo quay lại sàn. Nhóm công ty chứng khoán đứng trước cơ hội tái định giá, hiệu ứng lan tỏa còn mở rộng sang các nhóm cổ phiếu hưởng lợi kép, tạo nền tảng tăng rộng hơn cho chỉ số. Ngân hàng vẫn tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, nên nhóm dẫn dắt vốn hóa lớn sẽ phân hóa thay vì tăng đồng loạt. Rủi ro ngắn hạn đến từ khả năng rung lắc mạnh trước kỳ nghỉ 2/9 do tâm lý hạ đòn bẩy, cộng thêm giá vàng sát 150 triệu đồng/lượng và cơ chế mua sát giá thế giới cạnh tranh dòng tiền; việc hơn 81% hộ kinh doanh giảm doanh thu cũng cho thấy cầu nội địa còn yếu. Chiến lược hợp lý: ưu tiên chứng khoán - ngân hàng theo câu chuyện nâng hạng, nhưng hạ đòn bẩy và giữ tỷ trọng tiền mặt hợp lý qua kỳ nghỉ lễ.",
   "top": [
+    {
+      "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam",
+      "impact": "↑",
+      "note": "Dòng vốn ngoại quy mô lớn giải ngân sau nâng hạng là lực đỡ mạnh nhất cho thanh khoản và định giá thị trường."
+    },
     {
       "title": "Nhóm chứng khoán đứng trước cơ hội \"tái định giá\"",
       "impact": "↑",
-      "note": "Kỳ vọng nâng hạng giúp cổ phiếu chứng khoán được định giá lại theo triển vọng dòng vốn ngoại và thanh khoản."
+      "note": "Công ty chứng khoán hưởng lợi trực tiếp từ thanh khoản và cho vay margin khi vốn ngoại vào."
     },
     {
       "title": "Chuyên gia chỉ điểm hai mốc dòng tiền lớn trở lại sàn",
       "impact": "↑",
-      "note": "Tín hiệu dòng tiền lớn quay lại là yếu tố then chốt nâng đỡ thanh khoản và chỉ số."
+      "note": "Xác nhận dòng tiền lớn quay lại giúp củng cố xu hướng tăng trung hạn của chỉ số."
     },
     {
-      "title": "Không chỉ chứng khoán, nhiều nhóm cổ phiếu hưởng lợi kép sau nâng hạng",
+      "title": "Nhiều nhóm cổ phiếu ngoài chứng khoán hưởng lợi kép sau nâng hạng",
       "impact": "↑",
-      "note": "Câu chuyện nâng hạng lan tỏa ra ngoài nhóm tài chính, mở rộng nền tảng tăng của thị trường."
-    },
-    {
-      "title": "Ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
-      "impact": "→",
-      "note": "Lợi nhuận tích cực nhưng biên lãi thu hẹp khiến nhóm dẫn dắt vốn hóa lớn phân hóa."
+      "note": "Câu chuyện nâng hạng lan tỏa ra ngoài nhóm tài chính, mở rộng nền tảng tăng giá."
     },
     {
       "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ 2/9",
       "impact": "↓",
-      "note": "Tâm lý hạ đòn bẩy trước kỳ nghỉ dài dễ tạo áp lực chốt lời ngắn hạn."
+      "note": "Nhà đầu tư hạ đòn bẩy, ngại giữ vị thế qua kỳ nghỉ dài dễ tạo áp lực chốt lời ngắn hạn."
     },
     {
-      "title": "Giá vàng tăng sát 150 triệu đồng/lượng, người dân được mua sát giá thế giới",
+      "title": "Giá vàng tăng sát 150 triệu đồng/lượng, dân được mua sát giá thế giới",
       "impact": "↓",
       "note": "Kênh vàng hấp dẫn và dễ tiếp cận hơn có thể hút bớt dòng tiền khỏi chứng khoán."
     }
