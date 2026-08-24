@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-08-24",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường hồi phục mạnh với VN-Index tăng khoảng 20 điểm và áp sát mốc 1.800 điểm, dòng tiền khối ngoại quay lại gom bluechip là điểm tựa tâm lý quan trọng. Câu chuyện nâng hạng tiếp tục là động lực trung hạn khi ước tính Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động, hỗ trợ trực tiếp nhóm chứng khoán và các mã vốn hóa lớn trong rổ chỉ số. Tuy nhiên rủi ro ngắn hạn vẫn hiện hữu: toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi trước đó cho thấy áp lực cơ cấu danh mục chưa kết thúc, và phiên bứt phá vẫn bị đặt dấu hỏi 'bull trap'. Giá vàng leo lên đỉnh 3 tháng cùng lực mua mạnh từ các quỹ lớn phản ánh nhu cầu trú ẩn còn cao, có thể hút bớt dòng tiền khỏi cổ phiếu nếu xu hướng này kéo dài. Nhà đầu tư nên ưu tiên nhóm hưởng lợi từ nâng hạng và đầu tư công, hạn chế mua đuổi khi chỉ số tiến sát vùng kháng cự 1.800.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Bức tranh vĩ mô hôm nay nghiêng về trung tính với hai lực kéo ngược chiều: mặt bằng lãi suất huy động tiếp tục ổn định ở nền thấp và các ngân hàng đẩy mạnh gói ưu đãi tín dụng (TPBank 8.000 tỷ đồng cho SME, VIB cố định lãi suất 5 năm cho vay mua nhà), hỗ trợ chi phí vốn doanh nghiệp và cầu bất động sản. Ở chiều ngược lại, giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên cho thấy tâm lý phòng thủ và rủi ro dòng tiền chảy sang kênh trú ẩn thay vì cổ phiếu. Trên thị trường, dòng tiền đang rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, cộng thêm áp lực xả hàng của hơn 20 quỹ tại một cổ phiếu vốn hóa lớn, khiến chỉ số thiếu sự đồng thuận để bứt phá. Điểm sáng trung hạn đến từ câu chuyện nâng hạng: tỷ trọng cổ phiếu Việt Nam trong rổ FTSE Emerging còn rất thấp so với khu vực, hàm ý dư địa hút vốn ngoại còn lớn — phù hợp với việc khối ngoại đã mua ròng trở lại phiên 24/08. Ngắn hạn nên ưu tiên nhóm ngân hàng, cổ phiếu cổ tức tiền mặt cao và giữ tỷ trọng vừa phải cho tới khi dòng tiền quay lại nhóm dẫn dắt.",
   "top": [
     {
-      "title": "VN-Index áp sát 1.800 điểm, tăng 20 điểm",
-      "impact": "↑",
-      "note": "Đà hồi phục mạnh giúp cải thiện rõ tâm lý và thanh khoản thị trường."
-    },
-    {
-      "title": "Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động sau nâng hạng",
-      "impact": "↑",
-      "note": "Kỳ vọng dòng vốn ngoại lớn là động lực trung hạn cho bluechip và nhóm chứng khoán."
-    },
-    {
-      "title": "Khối ngoại gom hơn trăm tỷ một bluechip",
-      "impact": "↑",
-      "note": "Lực mua ròng của khối ngoại củng cố niềm tin vào vùng giá hiện tại."
-    },
-    {
-      "title": "Toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi của VN-Index",
+      "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
       "impact": "↓",
-      "note": "Hiệu suất quỹ âm làm tăng áp lực cơ cấu danh mục và bán ra khi thị trường hồi."
+      "note": "Hai nhóm vốn hóa lớn dẫn dắt bị rút vốn khiến chỉ số mất động lực và thanh khoản chung suy yếu."
     },
     {
-      "title": "Nghi vấn phiên bứt phá chỉ là 'bull trap'",
+      "title": "Hơn 20 quỹ ồ ạt \"xả hàng\" một cổ phiếu quốc dân",
       "impact": "↓",
-      "note": "Xu hướng chưa xác nhận, rủi ro đảo chiều cao nếu mua đuổi vùng kháng cự."
+      "note": "Tổ chức bán ra đồng loạt tại một mã trụ tạo áp lực cung lớn và ảnh hưởng tâm lý nhà đầu tư cá nhân."
     },
     {
-      "title": "Giá vàng lên cao nhất 3 tháng, quỹ vàng lớn nhất châu Âu mua mạnh",
+      "title": "Giá vàng nhẫn tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
+      "impact": "↓",
+      "note": "Vàng tăng nóng phản ánh tâm lý phòng thủ và hút bớt dòng tiền nhàn rỗi khỏi kênh cổ phiếu."
+    },
+    {
+      "title": "Khối ngoại mua ròng trở lại, tự doanh bán ròng (24/08)",
       "impact": "→",
-      "note": "Nhu cầu trú ẩn tăng có thể chia bớt dòng tiền nhưng chưa tác động trực tiếp lên cổ phiếu."
+      "note": "Lực mua ngoại quay lại là tín hiệu tích cực nhưng bị trung hòa bởi tự doanh đảo chiều bán ròng."
+    },
+    {
+      "title": "Tỷ trọng cổ phiếu Việt Nam trong rổ FTSE Emerging còn rất thấp",
+      "impact": "↑",
+      "note": "Dư địa tăng tỷ trọng lớn mở ra kỳ vọng dòng vốn ngoại giải ngân thêm theo câu chuyện nâng hạng."
+    },
+    {
+      "title": "Lãi suất ổn định, TPBank và VIB tung gói ưu đãi cho vay",
+      "impact": "↑",
+      "note": "Chi phí vốn rẻ và tín dụng được đẩy mạnh hỗ trợ lợi nhuận doanh nghiệp lẫn cầu bất động sản."
     }
   ]
 }
