@@ -1,18 +1,23 @@
 {
   "_opus": true,
   "date": "2026-08-24",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chủ đề chi phối phiên hôm nay là câu chuyện nâng hạng thị trường: ông Nguyễn Duy Hưng ước tính Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động, và nhiều phân tích đang bàn về lộ trình giải ngân của dòng tiền này. Đây là lực đỡ trung hạn rõ ràng cho thanh khoản và định giá, đặc biệt với nhóm công ty chứng khoán đang đứng trước cơ hội tái định giá nhờ hưởng lợi trực tiếp từ vòng quay vốn và phí giao dịch. Về ngắn hạn cần thận trọng: VN-Index vừa đảo chiều bứt phá nhưng chưa xác nhận xu hướng (rủi ro bull trap), trong khi MBS cảnh báo thị trường dễ rung lắc mạnh do tâm lý phòng thủ và thanh khoản mỏng trước kỳ nghỉ 2/9. Vĩ mô có hai điểm cần theo dõi: giá vàng tiến sát 150 triệu đồng/lượng cùng làn sóng gom vàng của các quỹ lớn phản ánh nhu cầu trú ẩn cao, có thể cạnh tranh dòng tiền với cổ phiếu; ngành ngân hàng tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, hạn chế dư địa tăng của nhóm vốn hóa lớn nhất. Chiến lược hợp lý là duy trì tỷ trọng cân bằng, ưu tiên chứng khoán và ngân hàng chất lượng theo nhịp điều chỉnh, tránh mua đuổi ngay trước kỳ nghỉ lễ.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường đang giằng co giữa câu chuyện nâng hạng và áp lực điều chỉnh ngắn hạn: cú rơi vừa qua của VN-Index khiến toàn bộ 91 quỹ cổ phiếu thua lỗ, cho thấy mức độ lan tỏa của nhịp giảm và tâm lý phòng thủ đang chiếm ưu thế. Ở chiều ngược lại, kỳ vọng hút hơn 4 tỷ USD vốn thụ động sau nâng hạng cùng các thảo luận về lộ trình giải ngân là lực đỡ trung hạn rõ ràng cho thanh khoản và định giá, hưởng lợi trực tiếp nhất là nhóm công ty chứng khoán đang đứng trước cơ hội tái định giá. Ngắn hạn cần thận trọng vì phiên đảo chiều bứt phá chưa được xác nhận (rủi ro bull trap) và MBS cảnh báo rung lắc mạnh khi thanh khoản mỏng dần trước kỳ nghỉ 2/9. Hai yếu tố vĩ mô cần theo dõi là giá vàng lập kỷ lục cùng làn sóng gom vàng của các quỹ lớn — dấu hiệu khẩu vị rủi ro toàn cầu giảm và cạnh tranh dòng tiền với cổ phiếu; và ngành ngân hàng tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, hạn chế dư địa kéo chỉ số của nhóm vốn hóa lớn nhất. Chiến lược hợp lý là giữ tỷ trọng cân bằng, hạ đòn bẩy trước nghỉ lễ và giải ngân từng phần vào chứng khoán, ngân hàng chất lượng theo nhịp điều chỉnh thay vì mua đuổi.",
   "top": [
+    {
+      "title": "Toàn bộ 91 quỹ cổ phiếu thua lỗ sau cú rơi của VN-Index",
+      "impact": "↓",
+      "note": "Nhịp giảm lan tỏa toàn thị trường, áp lực rút vốn và bán giải chấp ở các quỹ có thể kéo dài."
+    },
     {
       "title": "Việt Nam có thể hút hơn 4 tỷ USD vốn thụ động sau nâng hạng",
       "impact": "↑",
-      "note": "Vốn ngoại thụ động quy mô lớn là động lực định giá lại toàn thị trường trong trung hạn."
+      "note": "Dòng vốn ngoại thụ động quy mô lớn là động lực định giá lại thị trường trong trung hạn."
     },
     {
-      "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam, giải ngân ra sao?",
-      "impact": "↑",
-      "note": "Lộ trình giải ngân rõ ràng hơn giúp củng cố kỳ vọng thanh khoản và tâm lý nhà đầu tư."
+      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ 2/9",
+      "impact": "↓",
+      "note": "Thanh khoản mỏng và tâm lý hạ đòn bẩy trước nghỉ lễ dễ khuếch đại biến động."
     },
     {
       "title": "Nhóm chứng khoán đứng trước cơ hội tái định giá",
@@ -20,19 +25,14 @@
       "note": "Công ty chứng khoán hưởng lợi trực tiếp từ thanh khoản tăng và nghiệp vụ phục vụ vốn ngoại."
     },
     {
-      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ 2/9",
-      "impact": "↓",
-      "note": "Thanh khoản mỏng và tâm lý hạ đòn bẩy trước nghỉ lễ dễ gây biến động ngắn hạn."
-    },
-    {
-      "title": "VN-Index đảo chiều bứt phá: tạo đáy hay bull trap?",
+      "title": "VN-Index đảo chiều bứt phá: tạo đáy hay chỉ là bull trap?",
       "impact": "→",
-      "note": "Phiên hồi phục tích cực nhưng thiếu xác nhận về khối lượng, rủi ro đảo chiều còn hiện hữu."
+      "note": "Phiên hồi phục tích cực nhưng chưa có xác nhận về khối lượng, rủi ro đảo chiều vẫn hiện hữu."
     },
     {
-      "title": "Giá vàng sát 150 triệu đồng/lượng, quỹ vàng lớn ráo riết gom hàng",
+      "title": "Vàng hướng tới kỷ lục lịch sử, quỹ vàng lớn nhất châu Âu ráo riết gom hàng",
       "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng mạnh có thể hút bớt dòng tiền đầu cơ khỏi kênh cổ phiếu."
+      "note": "Nhu cầu trú ẩn tăng mạnh phản ánh khẩu vị rủi ro giảm và hút bớt dòng tiền khỏi cổ phiếu."
     }
   ]
 }
