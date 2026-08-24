@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-24",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay nghiêng về kỳ vọng dòng vốn: thị trường được dự báo đón hàng tỷ USD sau nâng hạng, giúp VN-Index đảo chiều bứt phá và mở ra câu chuyện tái định giá nhóm chứng khoán. Tuy nhiên tính bền vững còn bỏ ngỏ khi giới phân tích tranh luận đây là đáy hay chỉ 'bull trap', còn MBS cảnh báo rung lắc mạnh trước kỳ nghỉ lễ 2/9 do tâm lý hạ tỷ trọng, giữ tiền mặt. Nền kinh tế thực vẫn có điểm yếu khi hơn 81% hộ kinh doanh ghi nhận doanh thu giảm, phản ánh sức cầu nội địa chưa hồi phục đồng đều. Nhóm ngân hàng tăng trưởng tốt nửa đầu 2026 nhưng NIM chịu sức ép, nên dư địa tăng giá phụ thuộc chất lượng tài sản hơn là quy mô tín dụng. Giá vàng sát 150 triệu đồng/lượng tiếp tục cạnh tranh dòng tiền ngắn hạn với cổ phiếu; chiến lược hợp lý là ưu tiên chứng khoán, ngân hàng đầu ngành và giải ngân từng phần thay vì mua đuổi.",
+  "summary_vi": "Chủ đề nổi bật hôm nay là kỳ vọng hàng tỷ USD vốn ngoại sắp giải ngân vào chứng khoán Việt Nam, cộng hưởng với phiên VN-Index bất ngờ đảo chiều bứt phá và câu chuyện tái định giá nhóm công ty chứng khoán. Tuy nhiên xu hướng chưa được xác nhận: giới phân tích còn tranh luận đây là vùng đáy hay chỉ là 'bull trap', trong khi MBS cảnh báo thị trường có thể rung lắc mạnh do tâm lý hạ tỷ trọng trước kỳ nghỉ lễ 2/9. Mặt vĩ mô kém tích cực khi hơn 81% hộ kinh doanh báo doanh thu giảm, cho thấy sức cầu nội địa và khu vực kinh tế phi chính thức còn yếu, gây áp lực lên nhóm bán lẻ - tiêu dùng và chất lượng tín dụng bán lẻ. Ngành ngân hàng tăng trưởng tốt nửa đầu 2026 nhưng NIM thu hẹp khiến chất lượng lợi nhuận phụ thuộc nhiều vào kiểm soát chi phí vốn và nợ xấu. Vàng tiến sát 150 triệu đồng/lượng và được phép mua sát giá thế giới sẽ tiếp tục hút một phần dòng tiền ngắn hạn; chiến lược hợp lý là ưu tiên chứng khoán và ngân hàng đầu ngành, giải ngân từng phần thay vì mua đuổi trước kỳ nghỉ.",
   "top": [
     {
       "title": "Hàng tỷ USD sắp đổ vào chứng khoán Việt Nam",
       "impact": "↑",
-      "note": "Kỳ vọng dòng vốn ngoại giải ngân sau nâng hạng là lực đỡ trung hạn cho thanh khoản và định giá."
+      "note": "Dòng vốn ngoại quy mô lớn chờ giải ngân là lực đỡ trung hạn cho thanh khoản và mặt bằng định giá."
     },
     {
-      "title": "VN-Index đảo chiều bứt phá, đáy hay bull trap?",
-      "impact": "→",
-      "note": "Phục hồi tích cực về điểm số nhưng chưa xác nhận xu hướng, rủi ro bẫy tăng giá vẫn còn."
-    },
-    {
-      "title": "Nhóm chứng khoán trước cơ hội tái định giá",
+      "title": "Nhóm chứng khoán đứng trước cơ hội tái định giá",
       "impact": "↑",
-      "note": "Thanh khoản cải thiện và triển vọng nâng hạng hỗ trợ trực tiếp lợi nhuận công ty chứng khoán."
+      "note": "Thanh khoản cải thiện và triển vọng nâng hạng tác động trực tiếp tới lợi nhuận môi giới, margin, tự doanh."
     },
     {
-      "title": "MBS: Thị trường có thể rung lắc mạnh trước kỳ nghỉ lễ",
-      "impact": "↓",
-      "note": "Tâm lý phòng thủ trước nghỉ 2/9 dễ khiến dòng tiền rút bớt, biên độ dao động rộng."
-    },
-    {
-      "title": "Ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
+      "title": "VN-Index đảo chiều bứt phá: đáy hay bull trap?",
       "impact": "→",
-      "note": "Tín dụng tăng tốt nhưng biên lãi thuần thu hẹp làm giảm chất lượng tăng trưởng lợi nhuận."
+      "note": "Điểm số hồi phục tích cực nhưng thiếu xác nhận xu hướng nên rủi ro bẫy tăng giá vẫn hiện hữu."
+    },
+    {
+      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ",
+      "impact": "↓",
+      "note": "Tâm lý phòng thủ và hạ tỷ trọng trước nghỉ 2/9 dễ làm dòng tiền mỏng, biên độ dao động rộng."
     },
     {
       "title": "Hơn 81% hộ kinh doanh giảm doanh thu",
       "impact": "↓",
-      "note": "Sức cầu nội địa yếu ảnh hưởng nhóm bán lẻ, tiêu dùng và chất lượng tín dụng bán lẻ."
+      "note": "Sức cầu nội địa yếu gây áp lực lên nhóm bán lẻ, tiêu dùng và rủi ro nợ xấu tín dụng bán lẻ."
+    },
+    {
+      "title": "Ngân hàng nửa đầu 2026: tăng trưởng mạnh nhưng NIM chịu sức ép",
+      "impact": "→",
+      "note": "Tín dụng mở rộng tốt song biên lãi thuần co lại khiến đà tăng lợi nhuận kém bền vững."
     }
   ]
 }
