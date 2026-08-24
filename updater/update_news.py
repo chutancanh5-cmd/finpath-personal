@@ -3,7 +3,9 @@
 update_news.py -- Tin AI + diem regime -> docs/data/news.json  (CODE GOC FinPath)
 
 Tu lay du lieu cong khai, KHONG phu thuoc thu muc macro/:
-  - RSS tieng Viet (CafeF, VnExpress) loc theo tu khoa vi mo
+  - RSS tieng Viet: 8 feed (CafeF x3, VietStock x3, VnEconomy x2) qua newsfeeds.py,
+    co do tuoi feed va khu trung theo noi dung. Truoc 25/08/2026 chi co 3 feed,
+    trong do 2 la CafeF -> CafeF hong mot buoi la muc tin trong tron.
   - Regime score tu VNINDEX (vnstock) + FRED (CPI/Fed/10Y/USD/dau/VIX)
   - Tom tat + sentiment bang Sonnet 5 (neu co ANTHROPIC_API_KEY con credit)
 Key doc tu bien moi truong: FRED_API_KEY, ANTHROPIC_API_KEY (GitHub Secrets).
@@ -21,6 +23,8 @@ import xml.etree.ElementTree as ET
 import datetime as dt
 from datetime import timezone, timedelta
 
+import newsfeeds as NF   # ban sao song sinh cua vn-bots/macro/newsfeeds.py
+
 os.environ.setdefault("PYTHONUTF8", "1")
 try:
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
@@ -35,12 +39,14 @@ VN_TZ = timezone(timedelta(hours=7))
 UA = "FinPath-VN-Bot/1.0 (+https://tradingview.com)"
 FRED = "https://api.stlouisfed.org/fred/series/observations"
 
-FEEDS = [("CafeF Vĩ mô", "https://cafef.vn/vi-mo-dau-tu.rss"),
-         ("CafeF Chứng khoán", "https://cafef.vn/thi-truong-chung-khoan.rss"),
-         ("VnExpress Kinh doanh", "https://vnexpress.net/rss/kinh-doanh.rss")]
-KEYWORDS = ["lạm phát", "lãi suất", "tỷ giá", "cpi", "fed", "fomc", "ngân hàng nhà nước", "nhnn",
-            "tăng trưởng", "gdp", "xuất khẩu", "nhập khẩu", "fdi", "trái phiếu", "vn-index", "vnindex",
-            "tín dụng", "vàng", "giá dầu", "usd", "chính sách tiền tệ", "chứng khoán", "khối ngoại"]
+# Danh sach feed + tu khoa nam trong newsfeeds.py (dung chung voi macro bot).
+FEEDS = NF.VN_FEEDS
+KEYWORDS = NF.VN_KEYWORDS
+
+# Suc khoe feed cua lan quet gan nhat — ghi vao news.json de trang Prime Finance
+# noi duoc "muc tin ngan di vi nguon hong", thay vi de nguoi doc hieu nham thanh
+# "hom nay it tin". Xem newsfeeds.py de biet ba kieu feed hong deu tra HTTP 200.
+LAST_HEALTH = []
 
 
 def log(*a):
@@ -59,21 +65,20 @@ def today():
 
 # ---------------------------------------------------------------- RSS
 def fetch_rss(limit=14):
-    kws = [k.lower() for k in KEYWORDS]
-    seen, out = set(), []
-    for source, url in FEEDS:
-        try:
-            root = ET.fromstring(_http(url, 20))
-        except Exception as e:
-            log(f"RSS {source} loi:", str(e)[:50])
-            continue
-        for it in root.iter("item"):
-            title = (it.findtext("title") or "").strip()
-            link = (it.findtext("link") or "").strip()
-            if title and any(k in title.lower() for k in kws) and link not in seen:
-                seen.add(link)
-                out.append({"title": title, "link": link, "source": source})
-    return out[:limit]
+    """Tin vi mo tu 8 feed, da loc tu khoa, khu trung va chia deu theo nguon."""
+    global LAST_HEALTH
+    try:
+        items, LAST_HEALTH = NF.collect(NF.VN_FEEDS, NF.VN_KEYWORDS,
+                                        per_feed=25, max_items=limit)
+    except Exception as e:
+        log("fetch_rss loi:", str(e)[:100])
+        items, LAST_HEALTH = [], []
+        return items
+    log("feed:", NF.health_summary(LAST_HEALTH))
+    # Giu dung khuon cu {title, link, source} — phan con lai cua file (loc_tin_moi,
+    # best_link, bao_discord_tin_moi) doc theo khuon nay.
+    return [{"title": it["title"], "link": it.get("link", ""),
+             "source": it.get("source", "")} for it in items]
 
 
 # ---------------------------------------------------------------- FRED
@@ -391,9 +396,16 @@ def main():
                       "source": it["source"], "url": it["link"], "date": t} for it in items[:10]]
         summary = f"{reg['label']} ({reg['score']}/100). " + reg["note"]
 
+    # Suc khoe nguon tin di kem du lieu. Neu mot feed chet, trang phai noi ra —
+    # muc tin ngan di la vi nguon hong, khong phai vi hom nay khong co tin.
+    feeds_bad = [{"source": h["source"], "state": h["state"], "note": h["note"]}
+                 for h in LAST_HEALTH if h.get("state") in ("dead", "stale")]
     data = {"updated_at": dt.datetime.now(VN_TZ).isoformat(timespec="seconds"),
             "regime": {"score": reg["score"], "label": reg["label"], "note": reg["note"]},
-            "summary": summary, "items": out_items}
+            "summary": summary, "items": out_items,
+            "feeds": {"total": len(LAST_HEALTH),
+                      "ok": len(LAST_HEALTH) - len(feeds_bad),
+                      "bad": feeds_bad}}
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump(data, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     log(f"da ghi {OUT}: {len(out_items)} tin")

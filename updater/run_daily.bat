@@ -9,6 +9,8 @@ cd /d "C:\Users\chuta\finpath-personal\updater"
 python update_prices.py
 python update_market.py --append-hist
 python update_signals.py
+REM  CBTT theo ma - doc signals.json nen phai chay SAU update_signals.
+python update_symbol_news.py
 python update_trailstop.py
 python update_market_read.py --discord
 python alert.py

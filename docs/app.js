@@ -10,6 +10,7 @@ const DEFAULT_WATCH = ['PDR','VIB','SSI','TCB','MWG','SIP','DIG','GEX','KDH','LP
 
 let PRICES = { rows: [], market: {} };
 let SIGNALS = { signals: [], note: '', strategy: '' };
+let SYMNEWS = { by_symbol: {}, count: {}, window_days: 21 };  // CBTT theo tung ma (update_symbol_news.py)
 let NEWS = { items: [], summary: '', regime: {} };
 let SCAND = { hits: [], counts: {}, universe_n: 0 };
 let SCANI = { hits: [], market_open: false };
@@ -91,7 +92,8 @@ async function loadData(fresh) {
   FLOW = await fetchJSON('data/orderflow.json', cache.flow || FLOW, fresh);
   READ = await fetchJSON('data/market_read.json', cache.read || READ, fresh);
   MARKET = await fetchJSON('data/market.json', cache.market || MARKET, fresh);
-  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI, flow: FLOW, read: READ, market: MARKET }));
+  SYMNEWS = await fetchJSON('data/symbol_news.json', cache.symnews || SYMNEWS, fresh);
+  localStorage.setItem(KEY_CACHE, JSON.stringify({ prices: PRICES, signals: SIGNALS, news: NEWS, scand: SCAND, scani: SCANI, flow: FLOW, read: READ, market: MARKET, symnews: SYMNEWS }));
   try {
     const r = await fetch(SECT_URL + '?ts=' + Date.now(), { cache: 'no-store' });
     if (r.ok) { SECT = await r.json(); localStorage.setItem(KEY_SECT, JSON.stringify(SECT)); }
@@ -248,7 +250,31 @@ function signalCard(s, kind) {
       ${s.ret != null ? `<span class="${cls(s.ret)}">${pct(s.ret)}</span>` : ''}
     </div>
     ${s.note ? `<div class="note">${s.note}</div>` : ''}
+    ${symNewsHTML(s.sym)}
   </div>`;
+}
+
+/* CBTT cua chinh ma do, gap ngay duoi the tin hieu.
+   Truoc 25/08/2026 khong co phan nay: trang bao "TCH: MUA" ma khong noi duoc TCH
+   vua cong bo gi. Mac dinh GAP LAI — phan lon CBTT la thu tuc hanh chinh, mo san
+   ra se lam ngap the tin hieu. */
+function symNewsHTML(sym) {
+  const items = (SYMNEWS.by_symbol || {})[sym] || [];
+  if (!items.length) return '';
+  const nCbtt = items.filter(x => x.kind === 'CBTT').length;
+  const rows = items.map(x =>
+    `<div class="snrow"><span class="snk ${x.kind === 'CBTT' ? 'cbtt' : 'bao'}">${x.kind}</span>` +
+    `<span class="snd">${(x.date || '').slice(5).split('-').reverse().join('/')}</span>` +
+    `<span class="snt">${esc(x.title)}</span></div>`).join('');
+  return `<details class="symnews"><summary>📰 ${items.length} tin gần đây` +
+    (nCbtt ? ` · ${nCbtt} CBTT` : '') + `</summary>${rows}` +
+    `<div class="muted small snfoot">Nguồn chỉ cung cấp tiêu đề, không có link bài. ` +
+    `Phần lớn CBTT là thủ tục hành chính, không phải tin ảnh hưởng giá.</div></details>`;
+}
+
+function esc(t) {
+  return String(t == null ? '' : t).replace(/[&<>"]/g,
+    c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 }
 function renderSignals() {
   $('stratChip').textContent = SIGNALS.strategy || '';
@@ -289,6 +315,27 @@ function renderNews() {
       ${n.note ? `<div class="nnote">${n.note}</div>` : ''}
       <div class="nm"><span class="sent ${sc}">${st}</span><span>${n.source || ''}</span><span>${n.date || ''}</span></div></div>`;
   }).join('') : '<p class="muted small">Chưa có tin.</p>';
+  renderFeedHealth();
+}
+
+/* Nguon tin hong phai NOI RA. Neu im lang, muc tin ngan di se bi doc thanh
+   "hom nay it tin" trong khi that ra la nguon chet. Ba kieu chet (tra trang HTML,
+   feed dong bang nhieu thang, moc thoi gian tuong lai) deu tra HTTP 200 — chi tiet
+   trong updater/newsfeeds.py. */
+function renderFeedHealth() {
+  const el = $('feedHealth');
+  if (!el) return;
+  const f = NEWS.feeds;
+  if (!f || !f.total) { el.innerHTML = ''; return; }
+  const bad = f.bad || [];
+  if (!bad.length) {
+    el.innerHTML = `<span class="pos">✅ ${f.ok}/${f.total} nguồn tin đều sống.</span>`;
+    return;
+  }
+  el.innerHTML = `<div class="neg"><b>${bad.length}/${f.total} nguồn tin đang hỏng</b> — ` +
+    `phần tin ngắn đi là vì nguồn hỏng, không phải vì hôm nay ít tin.</div>` +
+    bad.map(b => `<div class="fhrow">• <b>${esc(b.source)}</b> — ` +
+      `${b.state === 'dead' ? 'CHẾT' : 'ĐÓNG BĂNG'}: ${esc(b.note)}</div>`).join('');
 }
 
 /* ---------- scanner ---------- */

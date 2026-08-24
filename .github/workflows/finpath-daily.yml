@@ -101,6 +101,11 @@ jobs:
           python update_signals.py || true
           python alert.py || true
           python scan_daily.py --discord || true
+          # CBTT theo ma (~1,5 phut cho ~40 ma). Doc signals.json nen phai sau
+          # update_signals. Dat o day chu khong phai cuoi: phan quan trong nhat
+          # (signals/alert/scan) da xong, ma neu de cuoi thi voi timeout 30' cua job
+          # nay no gan nhu khong bao gio chay toi.
+          python update_symbol_news.py || true
           python update_prices.py || true
           python update_market.py --append-hist || true
           python update_market_read.py --discord || true
