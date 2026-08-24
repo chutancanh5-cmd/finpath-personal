@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-24",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin hôm nay xoay quanh kỳ vọng nâng hạng thị trường, với nhóm chứng khoán được nhiều CTCK cho là đang đứng trước cơ hội tái định giá và lan tỏa sang các nhóm hưởng lợi kép. Ngành ngân hàng ghi nhận tăng trưởng mạnh nửa đầu 2026 nhưng NIM chịu sức ép, cho thấy chất lượng lợi nhuận có thể phân hóa giữa các nhà băng. Ở phía vĩ mô, hơn 81% hộ kinh doanh giảm doanh thu là tín hiệu cảnh báo về sức cầu nội địa và nhóm bán lẻ, tiêu dùng. Vàng lên vùng cao nhất tháng và tiến sát 150 triệu đồng/lượng có thể hút bớt một phần dòng tiền phòng thủ, dù việc người dân được mua sát giá thế giới giúp hạ nhiệt chênh lệch và giảm áp lực đầu cơ. Ngắn hạn, tâm lý thận trọng trước kỳ nghỉ 2/9 dễ khiến thanh khoản mỏng và biến động tăng, nên ưu tiên quản trị tỷ trọng thay vì mua đuổi.",
+  "summary_vi": "Dòng tin hôm nay bị chi phối bởi câu chuyện nâng hạng thị trường: nhóm chứng khoán được kỳ vọng \"tái định giá\" và hiệu ứng lan tỏa sang các nhóm hưởng lợi kép, trong khi giới phân tích chỉ ra các mốc dòng tiền lớn có thể quay lại sàn. Ngành ngân hàng nửa đầu 2026 tăng trưởng mạnh, hỗ trợ nhóm cổ phiếu vốn hóa lớn, dù NIM chịu sức ép khiến dư địa tăng giá phân hóa theo từng ngân hàng. Rủi ro ngắn hạn đến từ khả năng rung lắc mạnh trước kỳ nghỉ lễ 2/9 do tâm lý hạ đòn bẩy và ngại giữ vị thế qua kỳ nghỉ dài. Giá vàng tăng sát 150 triệu đồng/lượng tiếp tục cạnh tranh dòng tiền với chứng khoán, còn việc hơn 81% hộ kinh doanh giảm doanh thu cho thấy sức cầu nội địa vẫn yếu. Chiến lược hợp lý là ưu tiên chứng khoán - ngân hàng theo câu chuyện nâng hạng nhưng giữ tỷ trọng tiền mặt hợp lý qua kỳ nghỉ.",
   "top": [
     {
-      "title": "Nhóm chứng khoán đứng trước cơ hội tái định giá",
+      "title": "Nhóm chứng khoán đứng trước cơ hội \"tái định giá\"",
       "impact": "↑",
-      "note": "Kỳ vọng nâng hạng và thanh khoản cải thiện là động lực trực tiếp cho nhóm cổ phiếu dẫn dắt thị trường."
+      "note": "Kỳ vọng nâng hạng giúp cổ phiếu chứng khoán được định giá lại theo triển vọng dòng vốn ngoại và thanh khoản."
     },
     {
-      "title": "Nhóm cổ phiếu hưởng lợi kép sau nâng hạng",
+      "title": "Chuyên gia chỉ điểm hai mốc dòng tiền lớn trở lại sàn",
       "impact": "↑",
-      "note": "Câu chuyện nâng hạng mở rộng ra ngoài nhóm chứng khoán, giúp dòng tiền lan tỏa và nâng mặt bằng định giá chung."
+      "note": "Tín hiệu dòng tiền lớn quay lại là yếu tố then chốt nâng đỡ thanh khoản và chỉ số."
     },
     {
-      "title": "Chuyên gia chỉ hai mốc dòng tiền lớn trở lại sàn",
+      "title": "Không chỉ chứng khoán, nhiều nhóm cổ phiếu hưởng lợi kép sau nâng hạng",
       "impact": "↑",
-      "note": "Tín hiệu dòng tiền lớn quay lại củng cố kỳ vọng xu hướng tăng trung hạn của chỉ số."
+      "note": "Câu chuyện nâng hạng lan tỏa ra ngoài nhóm tài chính, mở rộng nền tảng tăng của thị trường."
     },
     {
-      "title": "Ngân hàng nửa đầu 2026: tăng trưởng mạnh nhưng NIM chịu sức ép",
+      "title": "Ngân hàng nửa đầu 2026 tăng trưởng mạnh nhưng NIM chịu sức ép",
       "impact": "→",
-      "note": "Tăng trưởng tín dụng tốt bù lại biên lãi thuần thu hẹp, tác động lên nhóm vốn hóa lớn nhìn chung trung tính."
+      "note": "Lợi nhuận tích cực nhưng biên lãi thu hẹp khiến nhóm dẫn dắt vốn hóa lớn phân hóa."
     },
     {
-      "title": "Hơn 81% hộ kinh doanh giảm doanh thu",
+      "title": "MBS: Chứng khoán có thể rung lắc mạnh trước kỳ nghỉ lễ 2/9",
       "impact": "↓",
-      "note": "Sức cầu nội địa yếu là rủi ro cho triển vọng lợi nhuận nhóm bán lẻ, tiêu dùng và tín dụng bán lẻ."
+      "note": "Tâm lý hạ đòn bẩy trước kỳ nghỉ dài dễ tạo áp lực chốt lời ngắn hạn."
     },
     {
-      "title": "Giá vàng lên cao nhất tháng, tiến sát 150 triệu đồng/lượng",
+      "title": "Giá vàng tăng sát 150 triệu đồng/lượng, người dân được mua sát giá thế giới",
       "impact": "↓",
-      "note": "Vàng tăng nóng có thể hút bớt dòng tiền đầu cơ khỏi kênh cổ phiếu trong ngắn hạn."
+      "note": "Kênh vàng hấp dẫn và dễ tiếp cận hơn có thể hút bớt dòng tiền khỏi chứng khoán."
     }
   ]
 }
