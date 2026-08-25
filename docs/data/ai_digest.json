@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô hôm nay nghiêng về trạng thái giằng co: áp lực lãi suất đang nóng lên từng ngày trong khi dư nợ vay của nhóm doanh nghiệp bất động sản vượt 500,000 tỷ đồng, tạo rủi ro chi phí tài chính và chất lượng tài sản cho cả nhóm bất động sản lẫn ngân hàng. Giá vàng miếng và đặc biệt là vàng nhẫn tăng mạnh cho thấy dòng tiền phòng thủ vẫn ưa kênh trú ẩn, phần nào cạnh tranh thanh khoản với chứng khoán. Ở chiều tích cực, khối ngoại gom gần 400 tỷ đồng một cổ phiếu bluechip trong phiên 25/8 và làn sóng trả cổ tức tiền mặt lớn giúp giữ điểm tựa cho nhóm vốn hóa lớn, cùng các câu chuyện tăng trưởng dài hạn như CCS và cải thiện quản trị doanh nghiệp. Ngắn hạn, nhà đầu tư nên ưu tiên cổ phiếu có dòng tiền và cổ tức ổn định, hạn chế đòn bẩy với nhóm nhạy lãi suất, và lưu ý thống kê 95% nhà đầu tư thua lỗ sau 2 năm như lời nhắc về kỷ luật quản trị rủi ro.",
+  "summary_vi": "Dòng tin hôm nay cho thấy thị trường vẫn có điểm tựa: khối ngoại gom gần 400 tỷ đồng ở một bluechip phiên 25/8 và một doanh nghiệp lâu năm chi gần 700 tỷ đồng trả cổ tức tiền mặt, củng cố sức hút của nhóm vốn hóa lớn và cổ phiếu phòng thủ. Ở chiều rủi ro, nợ vay của doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng giữa lúc mặt bằng lãi suất nóng lên từng ngày, đe dọa trực tiếp chi phí tài chính nhóm BĐS - xây dựng và chất lượng tài sản ngân hàng. Giá vàng nhẫn 'bốn số 9' tăng mạnh hơn cả vàng miếng SJC phản ánh tâm lý phòng thủ và khả năng hút bớt dòng tiền khỏi kênh cổ phiếu. Các chủ đề chính sách dài hạn như kinh tế bạc, nâng chất lượng quản trị doanh nghiệp và thị trường CCS mở thêm dư địa tăng trưởng nhưng chưa tác động ngay tới định giá. Ngắn hạn nên ưu tiên bluechip có dòng tiền ngoại và cổ tức ổn định, hạn chế đòn bẩy và thận trọng với cổ phiếu bất động sản vay nợ cao.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ, áp lực lãi suất tăng",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất",
       "impact": "↓",
-      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm tăng rủi ro nợ xấu cho ngân hàng."
+      "note": "Chi phí vốn leo thang bào mòn lợi nhuận nhóm BĐS và làm tăng rủi ro nợ xấu ngân hàng."
+    },
+    {
+      "title": "Giá vàng nhẫn 'bốn số 9' tăng mạnh hơn vàng miếng SJC",
+      "impact": "↓",
+      "note": "Vàng tăng nóng thể hiện tâm lý trú ẩn, có thể hút dòng tiền rời khỏi chứng khoán."
     },
     {
       "title": "Khối ngoại gom gần 400 tỷ đồng một cổ phiếu bluechip phiên 25/8",
       "impact": "↑",
-      "note": "Dòng vốn ngoại quay lại nhóm vốn hóa lớn là lực đỡ trực tiếp cho chỉ số."
+      "note": "Mua ròng lớn của nhà đầu tư nước ngoài nâng đỡ tâm lý và nhóm vốn hóa lớn."
     },
     {
-      "title": "Giá vàng nhẫn và vàng miếng SJC tăng mạnh",
-      "impact": "↓",
-      "note": "Tâm lý trú ẩn lên cao hút bớt dòng tiền và làm giảm khẩu vị rủi ro với cổ phiếu."
-    },
-    {
-      "title": "Doanh nghiệp trăm năm tuổi chi gần 700 tỷ đồng trả cổ tức tiền mặt",
+      "title": "Doanh nghiệp trăm năm tuổi trả gần 700 tỷ đồng cổ tức",
       "impact": "↑",
-      "note": "Cổ tức tiền mặt lớn xác nhận sức khỏe dòng tiền và hỗ trợ định giá nhóm cổ phiếu phòng thủ."
+      "note": "Cổ tức tiền mặt lớn cho thấy dòng tiền khỏe, tăng sức hút cổ phiếu phòng thủ."
     },
     {
       "title": "95% nhà đầu tư thua lỗ và rời bỏ thị trường sau 2 năm",
       "impact": "→",
-      "note": "Phản ánh nền tảng nhà đầu tư cá nhân còn yếu nhưng chưa tác động trực tiếp tới cung cầu ngắn hạn."
+      "note": "Cảnh báo chất lượng dòng tiền cá nhân nhưng chưa đổi nền tảng vĩ mô ngắn hạn."
     },
     {
-      "title": "Thị trường CCS (thu giữ và lưu trữ carbon) tiềm năng hàng chục tỷ USD",
-      "impact": "↑",
-      "note": "Mở dư địa đầu tư dài hạn cho nhóm dầu khí, năng lượng và hạ tầng môi trường."
+      "title": "Kinh tế bạc và thị trường CCS mở dư địa tăng trưởng mới",
+      "impact": "→",
+      "note": "Câu chuyện dài hạn cho y tế, tiêu dùng và năng lượng, chưa ảnh hưởng định giá ngay."
     }
   ]
 }
