@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay nghiêng về chủ đề chính sách và chi phí vốn: Chính phủ tiếp tục nhấn mạnh gỡ điểm nghẽn cho doanh nghiệp và chuyển đổi mô hình tăng trưởng, tạo kỳ vọng trung hạn cho nhóm đầu tư công, hạ tầng và bán lẻ. Ở chiều ngược lại, áp lực lãi suất đang nóng lên trong khi nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ đồng, là rủi ro trực tiếp cho nhóm bất động sản và chất lượng tài sản ngân hàng. Tỷ giá USD và giá vàng nhẫn tăng mạnh cho thấy nhu cầu trú ẩn còn cao, hạn chế dư địa nới lỏng tiền tệ. Trên thị trường, tự doanh và khối ngoại giao dịch trái chiều, một cổ phiếu ngân hàng bị bán ròng trên 200 tỷ đồng, phản ánh dòng tiền phân hóa hơn là xu hướng rõ ràng. Ngắn hạn nên ưu tiên cổ phiếu có dòng tiền tốt, thận trọng với doanh nghiệp đòn bẩy cao và theo dõi tín hiệu từ Jackson Hole.",
+  "summary_vi": "Bức tranh vĩ mô hôm nay giằng co giữa kỳ vọng chính sách và áp lực chi phí vốn. Chính phủ tiếp tục nhấn mạnh gỡ điểm nghẽn cho doanh nghiệp và chuyển đổi mô hình tăng trưởng hướng tới mục tiêu hai con số, tạo nền tảng kỳ vọng trung hạn cho nhóm đầu tư công, hạ tầng, vật liệu và bán lẻ. Ở chiều rủi ro, nợ vay của doanh nghiệp bất động sản vượt 500.000 tỷ đồng trong bối cảnh lãi suất nóng lên từng ngày là mối lo trực tiếp cho nhóm bất động sản và chất lượng tài sản ngân hàng, trong khi tỷ giá USD neo cao và giá vàng nhẫn tăng mạnh hơn vàng miếng cho thấy nhu cầu trú ẩn còn lớn, thu hẹp dư địa nới lỏng tiền tệ. Phiên 25/8 VN-Index tăng dù phần lớn cổ phiếu giảm giá, cộng với tự doanh và khối ngoại giao dịch trái chiều, phản ánh dòng tiền phân hóa và chỉ số phụ thuộc vài mã trụ hơn là xu hướng lan tỏa. Ngắn hạn nên ưu tiên cổ phiếu có dòng tiền và nền tảng cơ bản tốt, hạn chế đòn bẩy với doanh nghiệp nợ vay cao, đồng thời theo dõi tín hiệu chính sách của Fed từ Jackson Hole.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, áp lực lãi suất tăng",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất",
       "impact": "↓",
-      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm dấy lên lo ngại nợ xấu ngân hàng."
+      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm dấy lên lo ngại nợ xấu lan sang ngân hàng."
     },
     {
-      "title": "Gỡ điểm nghẽn cho doanh nghiệp, hướng tăng trưởng hai con số",
+      "title": "Gỡ điểm nghẽn thực chất cho doanh nghiệp, hướng tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Thông điệp cải cách thể chế hỗ trợ kỳ vọng lợi nhuận doanh nghiệp và định giá thị trường trung hạn."
+      "note": "Thông điệp cải cách thể chế củng cố kỳ vọng lợi nhuận doanh nghiệp và mặt bằng định giá trung hạn."
     },
     {
       "title": "Tỷ giá USD ngày 25/8 tại các ngân hàng lớn",
       "impact": "↓",
-      "note": "Tỷ giá neo cao thu hẹp dư địa hạ lãi suất và tạo áp lực rút vốn khối ngoại."
+      "note": "Tỷ giá neo cao thu hẹp dư địa hạ lãi suất và duy trì áp lực rút vốn của khối ngoại."
     },
     {
-      "title": "Tranh luận uy tín Fed trước phát biểu của Chủ tịch Kevin Warsh tại Jackson Hole",
+      "title": "Tranh luận về uy tín Fed trước phát biểu của Chủ tịch Kevin Warsh tại Jackson Hole",
       "impact": "→",
-      "note": "Kết quả còn bỏ ngỏ nhưng đủ khiến dòng tiền toàn cầu và tỷ giá VND biến động mạnh."
+      "note": "Kết quả còn bỏ ngỏ nhưng đủ khiến dòng tiền toàn cầu và tỷ giá VND biến động mạnh trong ngắn hạn."
     },
     {
-      "title": "Một cổ phiếu ngân hàng bị bán ròng hơn 200 tỷ đồng phiên 25/8",
-      "impact": "↓",
-      "note": "Áp lực xả ở nhóm vốn hóa lớn dẫn dắt dễ kéo lùi chỉ số chung."
+      "title": "VN-Index tăng dù phần lớn cổ phiếu giảm giá, tự doanh và khối ngoại trái chiều",
+      "impact": "→",
+      "note": "Chỉ số được kéo bởi vài mã trụ trong khi độ rộng thị trường yếu, cho thấy đà tăng thiếu bền vững."
     },
     {
       "title": "Phạt 1,5 tỷ đồng và cấm giao dịch 3 năm vì thao túng cổ phiếu CAR",
       "impact": "→",
-      "note": "Siết kỷ luật thị trường gây nhiễu tâm lý ngắn hạn nhưng củng cố minh bạch cho mục tiêu nâng hạng."
+      "note": "Siết kỷ luật gây nhiễu tâm lý đầu cơ ngắn hạn nhưng củng cố minh bạch phục vụ mục tiêu nâng hạng."
     }
   ]
 }
