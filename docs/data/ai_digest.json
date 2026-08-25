@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index tăng nhẹ nhưng phần lớn cổ phiếu giảm giá và áp lực chốt lời mạnh lên, cho thấy chỉ số được kéo bởi nhóm trụ trong khi độ rộng thị trường âm và dòng tiền phân hóa. Tự doanh cùng khối ngoại giao dịch trái chiều càng xác nhận trạng thái giằng co, thiếu động lực dẫn dắt rõ ràng. Về vĩ mô, định hướng chuyển đổi mô hình tăng trưởng và thông điệp gỡ điểm nghẽn thể chế cho doanh nghiệp là nền tảng hỗ trợ kỳ vọng lợi nhuận trung hạn, cộng thêm dòng vốn ngoại chiến lược khi một tập đoàn tài chính Nhật Bản quy mô hơn 500 tỷ USD bắt tay BSC. Rủi ro ngắn hạn tập trung ở mặt trận lãi suất - tỷ giá: nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ đồng giữa áp lực lãi suất nóng lên đe dọa biên lợi nhuận nhóm BĐS và chất lượng tài sản ngân hàng, trong khi giá vàng nhẫn tăng mạnh hơn vàng miếng phản ánh nhu cầu trú ẩn còn cao. Chiến lược hợp lý là ưu tiên cổ phiếu có dòng tiền và cơ cấu tài chính lành mạnh, hạn chế đòn bẩy và thận trọng với nhóm bất động sản thâm dụng nợ.",
+  "summary_vi": "VN-Index tăng nhẹ nhưng độ rộng thị trường tiêu cực khi phần lớn cổ phiếu giảm giá và áp lực chốt lời gia tăng, cho thấy đà tăng đang dựa vào một nhóm vốn hóa lớn thay vì dòng tiền lan tỏa. Về vĩ mô, thông điệp gỡ điểm nghẽn thể chế cho doanh nghiệp và định hướng chuyển đổi mô hình tăng trưởng là nền tảng hỗ trợ trung hạn cho nhóm đầu tư công, hạ tầng và sản xuất. Rủi ro ngắn hạn đến từ mặt bằng lãi suất huy động nhích lên cùng nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ đồng, gây sức ép lên chi phí vốn của nhóm bất động sản và chất lượng tài sản ngân hàng. Tỷ giá USD và giá vàng trong nước biến động bất thường (vàng nội thấp hơn thế giới) phản ánh dòng vốn còn phân hóa, trong khi khối ngoại và tự doanh giao dịch trái chiều khiến thanh khoản thiếu động lực dẫn dắt. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu có nền tảng cơ bản tốt và hạn chế mua đuổi khi thị trường phân hóa mạnh.",
   "top": [
     {
-      "title": "VN-Index tăng dù phần lớn cổ phiếu giảm giá, áp lực chốt lời mạnh",
+      "title": "VN-Index tăng dù phần lớn cổ phiếu giảm giá",
       "impact": "→",
-      "note": "Chỉ số xanh nhờ vài mã trụ nhưng độ rộng âm cho thấy dòng tiền yếu và dễ rung lắc."
+      "note": "Chỉ số xanh nhờ nhóm trụ nhưng độ rộng yếu, phản ánh dòng tiền chưa lan tỏa."
     },
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất",
+      "title": "Áp lực bán chốt lời mạnh lên",
       "impact": "↓",
-      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm BĐS và tạo rủi ro nợ xấu lan sang ngân hàng."
+      "note": "Lực cung gia tăng ở vùng giá cao làm tăng rủi ro rung lắc ngắn hạn."
     },
     {
-      "title": "Gỡ điểm nghẽn thực chất, tạo thuận lợi cho doanh nghiệp tăng trưởng hai con số",
-      "impact": "↑",
-      "note": "Cải cách thể chế và môi trường kinh doanh củng cố kỳ vọng lợi nhuận doanh nghiệp trung hạn."
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ, lãi suất nóng lên",
+      "impact": "↓",
+      "note": "Chi phí vốn tăng đe dọa dòng tiền nhóm bất động sản và nợ xấu ngân hàng."
     },
     {
-      "title": "Tập đoàn tài chính hơn 500 tỷ USD của Nhật Bản bắt tay BSC",
+      "title": "Gỡ điểm nghẽn thể chế, tạo thuận lợi cho doanh nghiệp hướng tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Vốn ngoại chiến lược vào ngành chứng khoán là tín hiệu tích cực cho thị trường vốn."
+      "note": "Cải cách thủ tục hỗ trợ lợi nhuận doanh nghiệp và kỳ vọng tăng trưởng trung hạn."
     },
     {
       "title": "Kinh tế Việt Nam trước bước chuyển mô hình tăng trưởng",
       "impact": "↑",
-      "note": "Định hướng chuyển đổi mô hình tăng trưởng mở dư địa dài hạn cho nhóm sản xuất và hạ tầng."
+      "note": "Định hướng chuyển dịch sang tăng trưởng chất lượng củng cố câu chuyện dài hạn của TTCK."
     },
     {
-      "title": "Giá vàng nhẫn 4 số 9 tăng mạnh hơn vàng miếng SJC",
-      "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng cho thấy tâm lý phòng thủ, cạnh tranh dòng tiền với kênh cổ phiếu."
+      "title": "Tự doanh và khối ngoại giao dịch trái chiều phiên 25/08",
+      "impact": "→",
+      "note": "Dòng tiền lớn chưa đồng thuận nên chỉ số thiếu lực dẫn dắt rõ ràng."
     }
   ]
 }
