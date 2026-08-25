@@ -2,12 +2,17 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay cho thấy thị trường vẫn có điểm tựa: khối ngoại gom gần 400 tỷ đồng ở một bluechip phiên 25/8 và một doanh nghiệp lâu năm chi gần 700 tỷ đồng trả cổ tức tiền mặt, củng cố sức hút của nhóm vốn hóa lớn và cổ phiếu phòng thủ. Ở chiều rủi ro, nợ vay của doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng giữa lúc mặt bằng lãi suất nóng lên từng ngày, đe dọa trực tiếp chi phí tài chính nhóm BĐS - xây dựng và chất lượng tài sản ngân hàng. Giá vàng nhẫn 'bốn số 9' tăng mạnh hơn cả vàng miếng SJC phản ánh tâm lý phòng thủ và khả năng hút bớt dòng tiền khỏi kênh cổ phiếu. Các chủ đề chính sách dài hạn như kinh tế bạc, nâng chất lượng quản trị doanh nghiệp và thị trường CCS mở thêm dư địa tăng trưởng nhưng chưa tác động ngay tới định giá. Ngắn hạn nên ưu tiên bluechip có dòng tiền ngoại và cổ tức ổn định, hạn chế đòn bẩy và thận trọng với cổ phiếu bất động sản vay nợ cao.",
+  "summary_vi": "Chỉ số duy trì chuỗi tăng phiên thứ 4 liên tiếp nhưng nội phiên 25/8 áp lực bán gia tăng đã kéo VN-Index lùi về dưới mốc 1.800, cho thấy đà tăng đang gặp kháng cự và dòng tiền phân hóa mạnh. Điểm tựa đáng chú ý là khối ngoại gom gần 400 tỷ đồng ở một cổ phiếu bluechip, giúp nâng đỡ tâm lý nhóm vốn hóa lớn. Rủi ro lớn nhất đến từ vĩ mô - tài chính doanh nghiệp: dư nợ vay của nhóm bất động sản vượt 500.000 tỷ đồng giữa lúc lãi suất nóng lên từng ngày, đe dọa chi phí vốn của BĐS - xây dựng và chất lượng tài sản ngân hàng, trong khi giá vàng nhẫn 'bốn số 9' tăng mạnh hơn cả vàng miếng SJC phản ánh tâm lý phòng thủ và khả năng hút bớt dòng tiền khỏi kênh cổ phiếu. Các chủ đề chính sách dài hạn như kinh tế bạc tại Hà Nội, nâng chất lượng quản trị doanh nghiệp và thị trường CCS mở thêm dư địa tăng trưởng nhưng chưa tác động ngay tới định giá. Ngắn hạn nên ưu tiên bluechip có dòng tiền ngoại, hạn chế đòn bẩy và thận trọng với cổ phiếu bất động sản vay nợ cao khi chỉ số kiểm định lại vùng 1.800 điểm.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, lãi suất nóng lên",
       "impact": "↓",
       "note": "Chi phí vốn leo thang bào mòn lợi nhuận nhóm BĐS và làm tăng rủi ro nợ xấu ngân hàng."
+    },
+    {
+      "title": "Áp lực bán gia tăng, VN-Index về dưới mốc 1.800 trong phiên 25/8",
+      "impact": "↓",
+      "note": "Mất mốc tâm lý 1.800 cho thấy lực cung chốt lời mạnh dần sau nhịp tăng."
     },
     {
       "title": "Giá vàng nhẫn 'bốn số 9' tăng mạnh hơn vàng miếng SJC",
@@ -20,19 +25,14 @@
       "note": "Mua ròng lớn của nhà đầu tư nước ngoài nâng đỡ tâm lý và nhóm vốn hóa lớn."
     },
     {
-      "title": "Doanh nghiệp trăm năm tuổi trả gần 700 tỷ đồng cổ tức",
+      "title": "VN-Index tăng điểm phiên thứ 4 liên tiếp",
       "impact": "↑",
-      "note": "Cổ tức tiền mặt lớn cho thấy dòng tiền khỏe, tăng sức hút cổ phiếu phòng thủ."
+      "note": "Chuỗi tăng liên tiếp giữ xu hướng ngắn hạn nghiêng về phía tích cực."
     },
     {
       "title": "95% nhà đầu tư thua lỗ và rời bỏ thị trường sau 2 năm",
       "impact": "→",
       "note": "Cảnh báo chất lượng dòng tiền cá nhân nhưng chưa đổi nền tảng vĩ mô ngắn hạn."
-    },
-    {
-      "title": "Kinh tế bạc và thị trường CCS mở dư địa tăng trưởng mới",
-      "impact": "→",
-      "note": "Câu chuyện dài hạn cho y tế, tiêu dùng và năng lượng, chưa ảnh hưởng định giá ngay."
     }
   ]
 }
