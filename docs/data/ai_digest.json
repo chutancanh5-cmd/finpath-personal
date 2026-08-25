@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Phiên 25/08 diễn ra theo kịch bản \"cổ phiếu trụ kéo chỉ số\": điểm số được giữ nhờ nhóm vốn hóa lớn trong khi dòng tiền chưa lan tỏa, khiến nhịp tăng thiếu bền và thị trường phân hóa mạnh. Rủi ro vĩ mô nổi bật nhất là mặt bằng lãi suất nóng lên từng ngày trong bối cảnh nợ vay của doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng, trực tiếp bào mòn lợi nhuận nhóm BĐS và gây áp lực lên chất lượng tài sản ngân hàng. Cùng lúc, giá vàng miếng và vàng nhẫn tăng dồn dập (vàng nhẫn thêm tới 8,5 triệu đồng/lượng chỉ trong 4 phiên) cho thấy tâm lý phòng thủ đang lấn át và hút bớt dòng tiền ngắn hạn khỏi kênh cổ phiếu. Điểm sáng trung – dài hạn đến từ dư địa ngành quỹ còn rất lớn (quy mô mới ~6% GDP, bằng 1/5 Thái Lan), tệp 67 nghìn SME lành mạnh không vay nợ và làn sóng doanh nghiệp niêm yết trả cổ tức tiền mặt lớn. Chiến lược ngắn hạn: ưu tiên doanh nghiệp có dòng tiền thực, nợ vay thấp và cổ tức đều; hạn chế đòn bẩy và tránh mua đuổi khi thanh khoản chưa lan tỏa.",
+  "summary_vi": "Phiên 25/08 cho thấy chỉ số được giữ nhờ nhóm cổ phiếu trụ trong khi độ rộng thị trường tiêu cực, cổ phiếu giảm la liệt — dấu hiệu dòng tiền co hẹp và phân hóa mạnh. Rủi ro vĩ mô lớn nhất là mặt bằng lãi suất nóng lên từng ngày trong khi nợ vay doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng, đe dọa biên lợi nhuận nhóm BĐS và chất lượng tài sản ngân hàng. Song song, giá vàng nhẫn tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên phản ánh tâm lý phòng thủ và hút bớt dòng tiền ngắn hạn khỏi kênh cổ phiếu. Mặt tích cực trung – dài hạn đến từ dư địa ngành quỹ còn rất lớn (chỉ ~6% GDP, bằng 1/5 Thái Lan), tệp doanh nghiệp SME lành mạnh không vay nợ và làn sóng trả cổ tức tiền mặt lớn của doanh nghiệp niêm yết. Ngắn hạn nên ưu tiên doanh nghiệp dòng tiền thực, nợ vay thấp, cổ tức đều; hạn chế đòn bẩy và tránh mua đuổi khi thanh khoản chưa lan tỏa.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất nóng lên",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, lãi suất nóng lên từng ngày",
       "impact": "↓",
-      "note": "Chi phí vốn leo thang ăn mòn lợi nhuận nhóm bất động sản và làm tăng rủi ro nợ xấu cho các ngân hàng cho vay."
+      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm gia tăng rủi ro nợ xấu cho ngân hàng cho vay."
     },
     {
-      "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên",
+      "title": "Trụ \"còng lưng\" đỡ điểm, cổ phiếu vẫn giảm la liệt",
       "impact": "↓",
-      "note": "Sóng vàng nóng phản ánh tâm lý phòng thủ và cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu."
+      "note": "Độ rộng thị trường tiêu cực cho thấy chỉ số xanh chỉ mang tính kỹ thuật, rủi ro điều chỉnh khi trụ hụt hơi."
     },
     {
-      "title": "Giá vàng miếng, vàng nhẫn chiều 25/8 tại SJC, DOJI, BTMC, PNJ tiếp tục tăng",
+      "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Đà tăng đồng loạt ở mọi thương hiệu cho thấy nhu cầu trú ẩn còn mạnh, bất lợi cho dòng tiền vào chứng khoán."
+      "note": "Sóng vàng nóng phản ánh tâm lý trú ẩn và cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu."
     },
     {
       "title": "Nhịp đập thị trường 25/08: cổ phiếu trụ kéo chỉ số",
       "impact": "→",
-      "note": "Chỉ số được giữ nhờ vài mã vốn hóa lớn nhưng dòng tiền chưa lan tỏa nên độ bền của nhịp tăng còn hạn chế."
+      "note": "Điểm số phụ thuộc vài mã vốn hóa lớn, dòng tiền chưa lan tỏa nên nhịp tăng thiếu bền vững."
     },
     {
       "title": "Quy mô ngành quỹ Việt Nam chỉ khoảng 6% GDP, bằng 1/5 Thái Lan",
       "impact": "↑",
-      "note": "Dư địa phát triển quỹ đầu tư còn rất lớn, là nền tảng cho dòng vốn tổ chức dài hạn chảy vào thị trường."
+      "note": "Dư địa phát triển quỹ đầu tư còn rất lớn, mở đường cho dòng vốn tổ chức dài hạn vào thị trường."
     },
     {
-      "title": "Doanh nghiệp trăm năm tuổi trên sàn chi gần 700 tỷ đồng trả cổ tức",
+      "title": "Doanh nghiệp trăm năm tuổi trên sàn chi gần 700 tỷ trả cổ tức",
       "impact": "↑",
-      "note": "Cổ tức tiền mặt lớn củng cố niềm tin vào chất lượng dòng tiền của doanh nghiệp niêm yết và hỗ trợ nhóm cổ phiếu phòng thủ."
+      "note": "Cổ tức tiền mặt lớn củng cố niềm tin vào chất lượng dòng tiền doanh nghiệp và hỗ trợ nhóm cổ phiếu phòng thủ."
     }
   ]
 }
