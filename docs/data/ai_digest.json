@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index tăng nhẹ nhưng độ rộng thị trường tiêu cực khi phần lớn cổ phiếu giảm giá và áp lực chốt lời gia tăng, cho thấy đà tăng đang dựa vào một nhóm vốn hóa lớn thay vì dòng tiền lan tỏa. Về vĩ mô, thông điệp gỡ điểm nghẽn thể chế cho doanh nghiệp và định hướng chuyển đổi mô hình tăng trưởng là nền tảng hỗ trợ trung hạn cho nhóm đầu tư công, hạ tầng và sản xuất. Rủi ro ngắn hạn đến từ mặt bằng lãi suất huy động nhích lên cùng nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ đồng, gây sức ép lên chi phí vốn của nhóm bất động sản và chất lượng tài sản ngân hàng. Tỷ giá USD và giá vàng trong nước biến động bất thường (vàng nội thấp hơn thế giới) phản ánh dòng vốn còn phân hóa, trong khi khối ngoại và tự doanh giao dịch trái chiều khiến thanh khoản thiếu động lực dẫn dắt. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu có nền tảng cơ bản tốt và hạn chế mua đuổi khi thị trường phân hóa mạnh.",
+  "summary_vi": "Dòng tin hôm nay nghiêng về hai chiều: kỳ vọng dòng vốn ngoại từ đợt giải ngân của FTSE cùng thông điệp chính sách gỡ điểm nghẽn cho doanh nghiệp và chuyển đổi mô hình tăng trưởng là chất xúc tác trung hạn cho nhóm vốn hóa lớn, chứng khoán và ngân hàng. Tuy nhiên VN-Index chỉ tăng nhẹ trong khi áp lực chốt lời mạnh lên, tự doanh và khối ngoại giao dịch trái chiều, cho thấy dòng tiền đang phân hóa và thiếu sự đồng thuận. Rủi ro ngắn hạn đến từ mặt bằng lãi suất nóng lên và nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ đồng, có thể đè nặng lên nhóm bất động sản và chất lượng tài sản ngân hàng. Giá vàng và Bitcoin tăng phản ánh nhu cầu trú ẩn cùng khẩu vị rủi ro toàn cầu, nhưng cũng cạnh tranh hút bớt dòng tiền khỏi cổ phiếu. Nhà đầu tư nên ưu tiên cổ phiếu hưởng lợi trực tiếp từ dòng vốn ETF, quản trị tỷ trọng và tránh mua đuổi ở vùng giá cao.",
   "top": [
     {
-      "title": "VN-Index tăng dù phần lớn cổ phiếu giảm giá",
-      "impact": "→",
-      "note": "Chỉ số xanh nhờ nhóm trụ nhưng độ rộng yếu, phản ánh dòng tiền chưa lan tỏa."
+      "title": "FTSE giải ngân, cổ phiếu chịu tác động thanh khoản lớn nhất không phải VIC",
+      "impact": "↑",
+      "note": "Dòng vốn ETF ngoại vào nhóm cổ phiếu trong rổ giúp cải thiện thanh khoản và tâm lý thị trường."
     },
     {
-      "title": "Áp lực bán chốt lời mạnh lên",
-      "impact": "↓",
-      "note": "Lực cung gia tăng ở vùng giá cao làm tăng rủi ro rung lắc ngắn hạn."
+      "title": "VN-Index tăng nhẹ nhưng áp lực bán chốt lời mạnh lên",
+      "impact": "→",
+      "note": "Chỉ số giữ được sắc xanh nhưng lực cung gia tăng cho thấy đà tăng đang chững lại."
     },
     {
       "title": "Nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ, lãi suất nóng lên",
       "impact": "↓",
-      "note": "Chi phí vốn tăng đe dọa dòng tiền nhóm bất động sản và nợ xấu ngân hàng."
+      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm dấy lên lo ngại nợ xấu ngân hàng."
     },
     {
-      "title": "Gỡ điểm nghẽn thể chế, tạo thuận lợi cho doanh nghiệp hướng tăng trưởng hai con số",
+      "title": "Gỡ điểm nghẽn thực chất, tạo thuận lợi cho doanh nghiệp hướng tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Cải cách thủ tục hỗ trợ lợi nhuận doanh nghiệp và kỳ vọng tăng trưởng trung hạn."
-    },
-    {
-      "title": "Kinh tế Việt Nam trước bước chuyển mô hình tăng trưởng",
-      "impact": "↑",
-      "note": "Định hướng chuyển dịch sang tăng trưởng chất lượng củng cố câu chuyện dài hạn của TTCK."
+      "note": "Thông điệp cải cách thể chế củng cố kỳ vọng lợi nhuận doanh nghiệp niêm yết trong trung hạn."
     },
     {
       "title": "Tự doanh và khối ngoại giao dịch trái chiều phiên 25/08",
       "impact": "→",
-      "note": "Dòng tiền lớn chưa đồng thuận nên chỉ số thiếu lực dẫn dắt rõ ràng."
+      "note": "Dòng tiền lớn chưa đồng thuận nên thị trường nhiều khả năng tiếp tục phân hóa theo nhóm ngành."
+    },
+    {
+      "title": "Giá vàng nhẫn tăng mạnh hơn vàng miếng SJC, Bitcoin vượt 80.000 USD",
+      "impact": "→",
+      "note": "Kênh tài sản thay thế hút bớt dòng tiền nhàn rỗi dù phản ánh khẩu vị rủi ro toàn cầu cải thiện."
     }
   ]
 }
