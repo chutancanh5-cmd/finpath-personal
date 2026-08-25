@@ -2,15 +2,20 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay bị chi phối bởi cơn sốt vàng: giá thế giới tiến về mốc 4.700 USD/oz với lực mua liên tục từ SPDR Gold Trust, trong khi vàng nhẫn trong nước bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên — tín hiệu tâm lý phòng thủ và nguy cơ hút bớt dòng tiền khỏi kênh cổ phiếu ngắn hạn. Bên ngoài, chứng khoán Mỹ giằng co khi Mỹ gia tăng sức ép kinh tế lên Iran, song giá dầu sụt giảm lại là điểm cộng cho lạm phát và chi phí đầu vào của doanh nghiệp Việt Nam. Mặt tích cực đến từ nội lực thị trường vốn: ngành quản lý quỹ được đánh giá đứng trước dư địa tăng trưởng lớn, hàng mới tiếp tục lên sàn (LPBS đổi tên thành LPS), cùng các chủ đề tăng trưởng dài hạn như CCS, kinh tế bạc và cải thiện chất lượng quản trị. Rủi ro ngắn hạn cần theo dõi là hoạt động bán ra của lãnh đạo doanh nghiệp (VSC) và trạng thái phân hóa mạnh giữa các nhóm ngành. Nhà đầu tư nên ưu tiên quản trị tỷ trọng, tránh mua đuổi và tập trung vào cổ phiếu có nền tảng cơ bản cùng câu chuyện tăng trưởng rõ ràng.",
+  "summary_vi": "Điểm sáng lớn nhất phiên 25/08 là VN-Index trở lại mốc 1.800 điểm, cho thấy dòng tiền nội vẫn đủ mạnh để giữ xu hướng tăng và tâm lý thị trường chưa bị phá vỡ. Tuy nhiên cơn sốt vàng đang là đối trọng đáng lo: giá thế giới tiến về 4.700 USD/oz với lực mua liên tục của SPDR Gold Trust, còn vàng nhẫn trong nước bật tăng tới 8,5 triệu đồng/lượng chỉ sau 4 phiên — dấu hiệu tâm lý phòng thủ và nguy cơ hút bớt thanh khoản khỏi kênh cổ phiếu. Bên ngoài, chứng khoán Mỹ giằng co khi Mỹ siết sức ép kinh tế lên Iran, nhưng giá dầu sụt giảm lại hỗ trợ lạm phát và chi phí đầu vào của doanh nghiệp trong nước. Ở tầng vi mô, tín hiệu trái chiều rõ rệt: khối ngoại âm thầm gom PNJ trước khi giá nổi sóng, trong khi hai Phó Tổng giám đốc Viconship đăng ký bán hết VSC. Nhà đầu tư nên hạn chế mua đuổi ở vùng 1.800, quản trị tỷ trọng và ưu tiên cổ phiếu có nền tảng cơ bản cùng câu chuyện tăng trưởng rõ ràng.",
   "top": [
+    {
+      "title": "VN-Index trở lại mốc 1.800 điểm trong phiên 25/08",
+      "impact": "↑",
+      "note": "Chinh phục lại ngưỡng tâm lý quan trọng củng cố xu hướng tăng và niềm tin của dòng tiền nội."
+    },
     {
       "title": "Giá vàng tiến về mốc 4.700 USD/oz, SPDR Gold Trust liên tục mua vào",
       "impact": "↓",
       "note": "Nhu cầu trú ẩn tăng mạnh khiến dòng tiền có xu hướng dịch chuyển khỏi kênh cổ phiếu trong ngắn hạn."
     },
     {
-      "title": "Vàng nhẫn tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên",
+      "title": "Vàng nhẫn trong nước tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên",
       "impact": "↓",
       "note": "Sóng vàng nội địa quá nóng có thể hút thanh khoản và làm giảm khẩu vị rủi ro của nhà đầu tư cá nhân."
     },
@@ -20,14 +25,9 @@
       "note": "Rủi ro địa chính trị gia tăng nhưng dầu giảm lại hỗ trợ lạm phát và chi phí đầu vào, tác động bù trừ."
     },
     {
-      "title": "Ngành quản lý quỹ đứng trước dư địa tăng trưởng lớn theo CEO MB Capital",
+      "title": "Quỹ ngoại âm thầm gom cổ phiếu PNJ trước khi giá nổi sóng",
       "impact": "↑",
-      "note": "Dòng vốn tổ chức và đầu tư gián tiếp mở rộng là lực đỡ bền vững cho thanh khoản thị trường."
-    },
-    {
-      "title": "LPBS vừa niêm yết, đổi tên thành LPS theo mã cổ phiếu",
-      "impact": "↑",
-      "note": "Hàng hóa mới chất lượng lên sàn giúp làm sôi động nhóm chứng khoán và mở rộng quy mô thị trường."
+      "note": "Khối ngoại giải ngân sớm vào nhóm bán lẻ - trang sức cho thấy kỳ vọng tích cực về sức cầu tiêu dùng."
     },
     {
       "title": "Hai Phó Tổng giám đốc Viconship đăng ký bán hết cổ phiếu VSC",
