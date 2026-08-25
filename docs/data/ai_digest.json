@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay nghiêng về trạng thái giằng co: chính sách trong nước tiếp tục ưu tiên gỡ điểm nghẽn thể chế cho doanh nghiệp nhằm hướng tới mục tiêu tăng trưởng hai con số, đồng thời dòng vốn ngoại hiện diện rõ hơn qua hợp tác giữa BSC và một tập đoàn tài chính Nhật Bản quy mô hơn 500 tỷ USD. Rủi ro ngắn hạn lớn nhất đến từ chi phí vốn khi nợ vay của nhóm bất động sản vượt 500.000 tỷ đồng trong bối cảnh lãi suất nóng lên từng ngày, gây áp lực lên biên lợi nhuận doanh nghiệp và chất lượng tài sản ngân hàng. Trên bảng điện, tự doanh và khối ngoại giao dịch trái chiều, một mã ngân hàng bị bán ròng hơn 200 tỷ đồng, cho thấy dòng tiền vẫn thận trọng và phân hóa mạnh. Yếu tố ngoại biên chưa ngã ngũ khi thị trường chờ thông điệp của Chủ tịch Fed Kevin Warsh tại Jackson Hole, trong khi vàng nhẫn và Bitcoin cùng tăng phản ánh nhu cầu phân bổ sang kênh trú ẩn và tài sản rủi ro thay thế. Chiến lược hợp lý là hạ đòn bẩy, ưu tiên doanh nghiệp có nền tảng cơ bản vững, ít phụ thuộc nợ vay và chờ tín hiệu lãi suất rõ ràng hơn trước khi giải ngân mạnh.",
+  "summary_vi": "Dòng tin hôm nay nghiêng về thế giằng co: chính sách vẫn hỗ trợ khi Chính phủ đẩy mạnh gỡ điểm nghẽn thể chế cho doanh nghiệp nhằm hướng tới mục tiêu tăng trưởng hai con số, cùng tín hiệu khẩu vị rủi ro toàn cầu cải thiện (Bitcoin vượt 80.000 USD) và dòng vốn ngoại chiến lược tiếp tục vào ngành chứng khoán qua thương vụ tập đoàn tài chính Nhật hợp tác với BSC. Ở chiều ngược lại, áp lực chi phí vốn đang nóng lên rõ rệt: nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ đồng trong bối cảnh lãi suất huy động và tỷ giá USD duy trì mặt bằng cao, còn giá vàng nhẫn tăng mạnh cho thấy tâm lý phòng thủ của dòng tiền dân cư. Trên sàn, tự doanh và khối ngoại giao dịch trái chiều, một mã ngân hàng bị bán ròng hơn 200 tỷ đồng, phản ánh sự thận trọng ở nhóm vốn hóa lớn. Rủi ro ngắn hạn lớn nhất đến từ bên ngoài là bài phát biểu của Chủ tịch Fed tại Jackson Hole, có thể tạo biến động cho tỷ giá và dòng vốn ngoại. Chiến lược hợp lý là ưu tiên doanh nghiệp có bảng cân đối lành mạnh, ít đòn bẩy, hạn chế mua đuổi nhóm bất động sản và đầu cơ khi thanh khoản còn phân hóa.",
   "top": [
     {
       "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất",
       "impact": "↓",
-      "note": "Chi phí vốn tăng đe dọa dòng tiền nhóm bất động sản và làm gia tăng rủi ro nợ xấu ngân hàng."
+      "note": "Đòn bẩy cao gặp chi phí vốn tăng sẽ bào mòn lợi nhuận và làm tăng rủi ro nợ xấu cho cả nhóm bất động sản lẫn ngân hàng."
     },
     {
-      "title": "Gỡ điểm nghẽn thực chất, tạo thuận lợi cho doanh nghiệp tăng trưởng hai con số",
+      "title": "Gỡ điểm nghẽn thực chất, tạo thuận lợi cho doanh nghiệp hướng tới tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Cải cách thể chế cải thiện kỳ vọng lợi nhuận của doanh nghiệp niêm yết trong trung hạn."
+      "note": "Cải cách thể chế và môi trường kinh doanh là nền tảng hỗ trợ tăng trưởng lợi nhuận doanh nghiệp niêm yết trong trung hạn."
     },
     {
-      "title": "Một cổ phiếu ngân hàng bị bán ròng hơn 200 tỷ trong phiên 25/8",
+      "title": "Tranh luận về uy tín Fed trước bài phát biểu tại Jackson Hole",
+      "impact": "→",
+      "note": "Kỳ vọng chính sách tiền tệ Mỹ chưa rõ ràng khiến tỷ giá và dòng vốn ngoại có thể biến động mạnh trong vài phiên tới."
+    },
+    {
+      "title": "Tập đoàn tài chính hơn 500 tỷ USD của Nhật Bản hợp tác với BSC",
+      "impact": "↑",
+      "note": "Vốn ngoại chiến lược vào công ty chứng khoán củng cố kỳ vọng nâng hạng và cải thiện năng lực tài chính ngành."
+    },
+    {
+      "title": "Khối ngoại và tự doanh giao dịch trái chiều, một cổ phiếu ngân hàng bị bán ròng hơn 200 tỷ",
+      "impact": "→",
+      "note": "Dòng tiền lớn phân hóa và chốt lời cục bộ ở nhóm ngân hàng khiến chỉ số khó bứt phá trong ngắn hạn."
+    },
+    {
+      "title": "Tỷ giá USD và lãi suất huy động neo cao, giá vàng nhẫn tăng mạnh",
       "impact": "↓",
-      "note": "Áp lực bán ở nhóm trụ ngân hàng làm suy yếu lực đỡ chính của chỉ số."
-    },
-    {
-      "title": "Tập đoàn tài chính hơn 500 tỷ USD của Nhật Bản bắt tay BSC",
-      "impact": "↑",
-      "note": "Hợp tác với đối tác ngoại lớn củng cố kỳ vọng dòng vốn và vị thế nhóm chứng khoán."
-    },
-    {
-      "title": "Chờ phát biểu của Chủ tịch Fed Kevin Warsh tại Jackson Hole",
-      "impact": "→",
-      "note": "Định hướng lãi suất chưa rõ khiến khối ngoại và tỷ giá tạm giữ trạng thái quan sát."
-    },
-    {
-      "title": "Giá vàng nhẫn tăng mạnh hơn vàng miếng SJC, Bitcoin vượt 80.000 USD",
-      "impact": "→",
-      "note": "Dòng tiền dịch chuyển sang vàng và tiền số có thể chia bớt thanh khoản của kênh cổ phiếu."
+      "note": "Kênh tiết kiệm và vàng hấp dẫn hơn làm cạnh tranh trực tiếp với dòng tiền vào chứng khoán."
     }
   ]
 }
