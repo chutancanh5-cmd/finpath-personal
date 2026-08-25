@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường phiên 25/8 nghiêng về tích cực nhờ nhóm cổ phiếu trụ kéo chỉ số và khối ngoại mua ròng mạnh gần 400 tỷ đồng ở một bluechip, cho thấy dòng tiền lớn vẫn chọn lọc giải ngân vào nhóm vốn hóa lớn. Tuy nhiên rủi ro vĩ mô đang rõ dần: nợ vay của doanh nghiệp bất động sản vượt 500.000 tỷ đồng trong bối cảnh mặt bằng lãi suất nóng lên từng ngày, đe dọa trực tiếp chi phí tài chính của nhóm BĐS, xây dựng và chất lượng tài sản ngân hàng. Song song, giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên phản ánh tâm lý phòng thủ và nguy cơ hút bớt dòng tiền khỏi kênh cổ phiếu. Về dài hạn, các chủ đề chính sách như nâng chất lượng quản trị doanh nghiệp, kinh tế bạc và thị trường CCS mở thêm dư địa tăng trưởng nhưng chưa tác động ngay tới định giá. Chiến lược ngắn hạn: ưu tiên bluechip có dòng tiền ngoại và cổ tức tiền mặt ổn định, hạn chế đòn bẩy và thận trọng với cổ phiếu bất động sản vay nợ cao.",
+  "summary_vi": "Bức tranh vĩ mô hôm nay nghiêng về trạng thái giằng co: áp lực lãi suất đang nóng lên từng ngày trong khi dư nợ vay của nhóm doanh nghiệp bất động sản vượt 500,000 tỷ đồng, tạo rủi ro chi phí tài chính và chất lượng tài sản cho cả nhóm bất động sản lẫn ngân hàng. Giá vàng miếng và đặc biệt là vàng nhẫn tăng mạnh cho thấy dòng tiền phòng thủ vẫn ưa kênh trú ẩn, phần nào cạnh tranh thanh khoản với chứng khoán. Ở chiều tích cực, khối ngoại gom gần 400 tỷ đồng một cổ phiếu bluechip trong phiên 25/8 và làn sóng trả cổ tức tiền mặt lớn giúp giữ điểm tựa cho nhóm vốn hóa lớn, cùng các câu chuyện tăng trưởng dài hạn như CCS và cải thiện quản trị doanh nghiệp. Ngắn hạn, nhà đầu tư nên ưu tiên cổ phiếu có dòng tiền và cổ tức ổn định, hạn chế đòn bẩy với nhóm nhạy lãi suất, và lưu ý thống kê 95% nhà đầu tư thua lỗ sau 2 năm như lời nhắc về kỷ luật quản trị rủi ro.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, áp lực lãi suất tăng",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ, áp lực lãi suất tăng",
       "impact": "↓",
-      "note": "Chi phí vốn leo thang bào mòn lợi nhuận nhóm BĐS và tăng rủi ro nợ xấu cho ngân hàng."
-    },
-    {
-      "title": "Giá vàng nhẫn tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
-      "impact": "↓",
-      "note": "Vàng tăng nóng phản ánh tâm lý trú ẩn và có thể hút dòng tiền rời khỏi chứng khoán."
+      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm tăng rủi ro nợ xấu cho ngân hàng."
     },
     {
       "title": "Khối ngoại gom gần 400 tỷ đồng một cổ phiếu bluechip phiên 25/8",
       "impact": "↑",
-      "note": "Lực mua ròng lớn của nhà đầu tư nước ngoài củng cố tâm lý và nâng đỡ nhóm vốn hóa lớn."
+      "note": "Dòng vốn ngoại quay lại nhóm vốn hóa lớn là lực đỡ trực tiếp cho chỉ số."
     },
     {
-      "title": "Nhịp đập thị trường 25/8: cổ phiếu trụ kéo chỉ số",
-      "impact": "↑",
-      "note": "Chỉ số được dẫn dắt bởi nhóm trụ, giúp giữ xu hướng ngắn hạn ổn định."
+      "title": "Giá vàng nhẫn và vàng miếng SJC tăng mạnh",
+      "impact": "↓",
+      "note": "Tâm lý trú ẩn lên cao hút bớt dòng tiền và làm giảm khẩu vị rủi ro với cổ phiếu."
     },
     {
-      "title": "Doanh nghiệp trăm năm tuổi chi gần 700 tỷ đồng trả cổ tức",
+      "title": "Doanh nghiệp trăm năm tuổi chi gần 700 tỷ đồng trả cổ tức tiền mặt",
       "impact": "↑",
-      "note": "Cổ tức tiền mặt lớn cho thấy sức khỏe dòng tiền và tăng sức hút của cổ phiếu phòng thủ."
+      "note": "Cổ tức tiền mặt lớn xác nhận sức khỏe dòng tiền và hỗ trợ định giá nhóm cổ phiếu phòng thủ."
     },
     {
       "title": "95% nhà đầu tư thua lỗ và rời bỏ thị trường sau 2 năm",
       "impact": "→",
-      "note": "Cảnh báo về chất lượng dòng tiền cá nhân nhưng không thay đổi nền tảng vĩ mô ngắn hạn."
+      "note": "Phản ánh nền tảng nhà đầu tư cá nhân còn yếu nhưng chưa tác động trực tiếp tới cung cầu ngắn hạn."
+    },
+    {
+      "title": "Thị trường CCS (thu giữ và lưu trữ carbon) tiềm năng hàng chục tỷ USD",
+      "impact": "↑",
+      "note": "Mở dư địa đầu tư dài hạn cho nhóm dầu khí, năng lượng và hạ tầng môi trường."
     }
   ]
 }
