@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chủ đề chi phối dòng tin hôm nay là cơn sốt vàng: giá thế giới tiến sát 4.700 USD/oz với SPDR Gold Trust mua ròng liên tục, vàng nhẫn trong nước bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên — dấu hiệu tâm lý phòng thủ trước rủi ro lạm phát và tỷ giá, đồng thời hút bớt thanh khoản khỏi kênh cổ phiếu. Trên thị trường, dòng tiền đang rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, khiến chỉ số thiếu trụ đỡ ngắn hạn. Điểm sáng là dòng vốn tổ chức vẫn bền bỉ với nhóm ngân hàng (27 quỹ mua ròng một mã 4 tháng liên tiếp), mặt bằng lãi suất cho vay mua nhà ổn định qua gói cố định 5 năm của VIB, cùng kỳ vọng trung hạn từ đợt rà soát FTSE tháng 3/2027. Hàm ý: ưu tiên ngân hàng chất lượng và nhóm được dòng tiền tổ chức hậu thuẫn, hạn chế đuổi giá cổ phiếu chứng khoán và bất động sản đầu cơ cho tới khi thanh khoản xác nhận trở lại.",
+  "summary_vi": "Dòng tin hôm nay bị chi phối bởi cơn sốt vàng: giá thế giới tiến về 4.700 USD/oz với SPDR Gold Trust mua ròng liên tục, trong nước vàng nhẫn tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên — phản ánh tâm lý phòng thủ trước rủi ro lạm phát, tỷ giá và hút bớt dòng tiền nhàn rỗi khỏi kênh cổ phiếu. Cùng lúc, dòng tiền đang rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, khiến VN-Index thiếu trụ đỡ ngắn hạn và dễ rung lắc. Ở chiều tích cực, vốn tổ chức vẫn kiên trì với ngân hàng (27 quỹ mua ròng một mã 4 tháng liên tiếp), lãi suất cho vay mua nhà ổn định qua gói cố định 5 năm của VIB, và câu chuyện nâng hạng vẫn còn với kỳ rà soát FTSE tháng 3/2027. Hàm ý: ưu tiên ngân hàng chất lượng và nhóm có dòng tiền tổ chức hậu thuẫn, hạn chế đuổi giá cổ phiếu chứng khoán, bất động sản đầu cơ cho tới khi thanh khoản xác nhận quay lại.",
   "top": [
     {
       "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
       "impact": "↓",
-      "note": "Hai nhóm vốn hóa lớn thường dẫn dắt bị rút vốn khiến VN-Index thiếu trụ đỡ trong ngắn hạn."
+      "note": "Hai nhóm vốn hóa lớn thường dẫn dắt bị rút vốn khiến chỉ số mất trụ đỡ và dễ điều chỉnh ngắn hạn."
     },
     {
-      "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
+      "title": "Vàng nhẫn trong nước tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Sóng đầu cơ vàng hút mạnh dòng tiền nhàn rỗi, cạnh tranh trực tiếp với thanh khoản cổ phiếu."
+      "note": "Sóng đầu cơ vàng cạnh tranh trực tiếp với thanh khoản trên thị trường cổ phiếu."
     },
     {
       "title": "Giá vàng thế giới tiến về 4.700 USD/oz, SPDR Gold Trust mua ròng liên tục",
       "impact": "↓",
-      "note": "Nhu cầu trú ẩn toàn cầu tăng cao phản ánh lo ngại lạm phát và rủi ro vĩ mô, bất lợi cho khẩu vị rủi ro."
+      "note": "Nhu cầu trú ẩn toàn cầu tăng cho thấy lo ngại lạm phát và rủi ro vĩ mô, bất lợi cho khẩu vị rủi ro."
     },
     {
-      "title": "27 quỹ cùng mua ròng một cổ phiếu ngân hàng 4 tháng liên tiếp",
+      "title": "27 quỹ mua ròng một cổ phiếu ngân hàng 4 tháng liên tiếp",
       "impact": "↑",
-      "note": "Dòng tiền tổ chức kiên trì ở nhóm ngân hàng tạo điểm tựa cho chỉ số khi thị trường phân hóa."
+      "note": "Dòng vốn tổ chức bền bỉ ở nhóm ngân hàng tạo điểm tựa cho chỉ số khi thị trường phân hóa."
     },
     {
       "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
       "impact": "↑",
-      "note": "Tín hiệu mặt bằng lãi suất ổn định, hỗ trợ cầu tín dụng bán lẻ và phần nào giải tỏa áp lực cho bất động sản."
+      "note": "Tín hiệu mặt bằng lãi suất ổn định, hỗ trợ cầu tín dụng bán lẻ và gián tiếp đỡ nhóm bất động sản."
     },
     {
       "title": "Kỳ rà soát FTSE tháng 3/2027 là phép thử cho chứng khoán Việt Nam",
       "impact": "→",
-      "note": "Kỳ vọng nâng hạng vẫn còn nhưng mốc thời gian còn xa nên chưa tác động tới giao dịch hiện tại."
+      "note": "Kỳ vọng nâng hạng vẫn còn nhưng mốc thời gian xa nên chưa ảnh hưởng tới giao dịch hiện tại."
     }
   ]
 }
