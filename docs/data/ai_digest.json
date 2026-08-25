@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Phiên 25/08 tiếp tục cho thấy chỉ số được nâng đỡ bởi một vài mã trụ trong khi mặt bằng cổ phiếu giảm la liệt — độ rộng thị trường yếu là tín hiệu cảnh báo dòng tiền đang co hẹp và phân hóa mạnh. Rủi ro vĩ mô nổi bật nhất là mặt bằng lãi suất nóng lên từng ngày trong bối cảnh nợ vay của doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng, trực tiếp đe dọa biên lợi nhuận nhóm bất động sản, xây dựng và chất lượng tài sản của các ngân hàng có tỷ trọng cho vay BĐS cao. Song song, giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên phản ánh tâm lý phòng thủ và hút bớt một phần dòng tiền đầu cơ khỏi chứng khoán. Ở chiều hỗ trợ, khối ngoại gom gần 400 tỷ đồng vào một mã bluechip, dòng cổ tức tiền mặt lớn từ doanh nghiệp cơ bản và dư địa phát triển ngành quỹ (mới ~6% GDP, bằng 1/5 Thái Lan) là nền tảng tích cực cho trung – dài hạn. Ngắn hạn nên ưu tiên cổ phiếu có dòng tiền thực, nợ vay thấp, hạn chế đòn bẩy và chờ độ rộng thị trường cải thiện trước khi giải ngân mạnh.",
+  "summary_vi": "Thị trường phiên 25/8 nghiêng về tích cực nhờ nhóm cổ phiếu trụ kéo chỉ số và khối ngoại mua ròng mạnh gần 400 tỷ đồng ở một bluechip, cho thấy dòng tiền lớn vẫn chọn lọc giải ngân vào nhóm vốn hóa lớn. Tuy nhiên rủi ro vĩ mô đang rõ dần: nợ vay của doanh nghiệp bất động sản vượt 500.000 tỷ đồng trong bối cảnh mặt bằng lãi suất nóng lên từng ngày, đe dọa trực tiếp chi phí tài chính của nhóm BĐS, xây dựng và chất lượng tài sản ngân hàng. Song song, giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên phản ánh tâm lý phòng thủ và nguy cơ hút bớt dòng tiền khỏi kênh cổ phiếu. Về dài hạn, các chủ đề chính sách như nâng chất lượng quản trị doanh nghiệp, kinh tế bạc và thị trường CCS mở thêm dư địa tăng trưởng nhưng chưa tác động ngay tới định giá. Chiến lược ngắn hạn: ưu tiên bluechip có dòng tiền ngoại và cổ tức tiền mặt ổn định, hạn chế đòn bẩy và thận trọng với cổ phiếu bất động sản vay nợ cao.",
   "top": [
     {
-      "title": "Trụ \"còng lưng\" đỡ điểm, cổ phiếu vẫn giảm la liệt",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, áp lực lãi suất tăng",
       "impact": "↓",
-      "note": "Chỉ số được giữ nhờ vài mã vốn hóa lớn nhưng đa số cổ phiếu giảm, cho thấy dòng tiền yếu và rủi ro điều chỉnh còn hiện hữu."
+      "note": "Chi phí vốn leo thang bào mòn lợi nhuận nhóm BĐS và tăng rủi ro nợ xấu cho ngân hàng."
     },
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất nóng lên",
+      "title": "Giá vàng nhẫn tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm BĐS – xây dựng và làm tăng rủi ro nợ xấu cho ngân hàng cho vay bất động sản."
+      "note": "Vàng tăng nóng phản ánh tâm lý trú ẩn và có thể hút dòng tiền rời khỏi chứng khoán."
     },
     {
-      "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
-      "impact": "↓",
-      "note": "Vàng tăng nóng phản ánh tâm lý phòng thủ và cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu."
-    },
-    {
-      "title": "Khối ngoại gom gần 400 tỷ đồng một cổ phiếu bluechip trong phiên 25/8",
+      "title": "Khối ngoại gom gần 400 tỷ đồng một cổ phiếu bluechip phiên 25/8",
       "impact": "↑",
-      "note": "Lực mua ròng tập trung của nhà đầu tư nước ngoài giúp nâng đỡ nhóm vốn hóa lớn và ổn định tâm lý thị trường."
+      "note": "Lực mua ròng lớn của nhà đầu tư nước ngoài củng cố tâm lý và nâng đỡ nhóm vốn hóa lớn."
     },
     {
-      "title": "Doanh nghiệp trăm năm tuổi chi gần 700 tỷ đồng trả cổ tức tiền mặt",
+      "title": "Nhịp đập thị trường 25/8: cổ phiếu trụ kéo chỉ số",
       "impact": "↑",
-      "note": "Cổ tức tiền mặt lớn củng cố sức hấp dẫn của nhóm cổ phiếu cơ bản có dòng tiền ổn định trong giai đoạn thị trường phân hóa."
+      "note": "Chỉ số được dẫn dắt bởi nhóm trụ, giúp giữ xu hướng ngắn hạn ổn định."
     },
     {
-      "title": "Quy mô ngành quỹ Việt Nam chỉ khoảng 6% GDP, bằng 1/5 Thái Lan",
+      "title": "Doanh nghiệp trăm năm tuổi chi gần 700 tỷ đồng trả cổ tức",
+      "impact": "↑",
+      "note": "Cổ tức tiền mặt lớn cho thấy sức khỏe dòng tiền và tăng sức hút của cổ phiếu phòng thủ."
+    },
+    {
+      "title": "95% nhà đầu tư thua lỗ và rời bỏ thị trường sau 2 năm",
       "impact": "→",
-      "note": "Dư địa mở rộng dòng vốn tổ chức còn rất lớn nhưng là câu chuyện cấu trúc dài hạn, chưa tác động đến giá cổ phiếu ngay."
+      "note": "Cảnh báo về chất lượng dòng tiền cá nhân nhưng không thay đổi nền tảng vĩ mô ngắn hạn."
     }
   ]
 }
