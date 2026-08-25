@@ -2,27 +2,22 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tâm điểm hôm nay là cơn sốt vàng: giá thế giới tiến về 4.700 USD/oz với SPDR Gold Trust mua ròng liên tục, trong nước vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên, phản ánh tâm lý phòng thủ và hút bớt dòng tiền nhàn rỗi khỏi kênh cổ phiếu. Trên thị trường, dòng tiền đang rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, khiến VN-Index thiếu trụ đỡ và dễ rung lắc trong ngắn hạn. Rủi ro địa chính trị cũng nhích lên khi Mỹ gia tăng sức ép kinh tế lên Iran, chứng khoán Mỹ giằng co, tuy giá dầu sụt lại giúp giảm áp lực chi phí đầu vào và lạm phát. Ở chiều tích cực, vốn tổ chức vẫn kiên trì với ngân hàng (27 quỹ mua ròng một mã 4 tháng liên tiếp) và mặt bằng lãi suất cho vay mua nhà ổn định qua gói cố định 5 năm của VIB. Hàm ý: ưu tiên ngân hàng chất lượng và nhóm có dòng tiền tổ chức hậu thuẫn, hạn chế đuổi giá cổ phiếu chứng khoán và bất động sản đầu cơ cho tới khi thanh khoản xác nhận quay lại.",
+  "summary_vi": "Tâm điểm vĩ mô hôm nay vẫn là cơn sốt vàng: giá thế giới tiến về mốc 4.700 USD/oz với SPDR Gold Trust mua ròng liên tục, trong nước vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên, cho thấy tâm lý phòng thủ đang lên cao và hút bớt dòng tiền nhàn rỗi khỏi kênh cổ phiếu. Rủi ro địa chính trị nhích lên khi Mỹ gia tăng sức ép kinh tế lên Iran khiến chứng khoán Mỹ giằng co, song giá dầu sụt lại giúp hạ áp lực chi phí đầu vào và lạm phát, hai chiều gần như bù trừ. Ở chiều tích cực, dòng vốn tổ chức vẫn kiên trì với ngân hàng (27 quỹ mua ròng cùng một mã 4 tháng liên tiếp) và mặt bằng lãi suất cho vay mua nhà có tín hiệu ổn định qua gói cố định 5 năm của VIB, hỗ trợ cầu tín dụng bán lẻ. Nhóm chứng khoán tiếp tục có hàng mới lên sàn (LPBS đổi tên thành LPS) trong bối cảnh cạnh tranh thị phần khốc liệt, biên lợi nhuận khó mở rộng. Hàm ý ngắn hạn: ưu tiên ngân hàng chất lượng và cổ phiếu có dòng tiền tổ chức hậu thuẫn, thận trọng với việc đuổi giá nhóm chứng khoán và các mã đầu cơ khi thanh khoản còn bị vàng cạnh tranh.",
   "top": [
-    {
-      "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
-      "impact": "↓",
-      "note": "Hai nhóm thường dẫn dắt bị rút vốn khiến chỉ số mất trụ đỡ và dễ điều chỉnh ngắn hạn."
-    },
-    {
-      "title": "Giá vàng nhẫn trong nước tăng 8,5 triệu đồng/lượng trong 4 phiên",
-      "impact": "↓",
-      "note": "Sóng đầu cơ vàng cạnh tranh trực tiếp với thanh khoản trên thị trường cổ phiếu."
-    },
     {
       "title": "Vàng thế giới tiến về 4.700 USD/oz, SPDR Gold Trust liên tục mua ròng",
       "impact": "↓",
-      "note": "Nhu cầu trú ẩn toàn cầu tăng cho thấy lo ngại lạm phát và rủi ro vĩ mô, bất lợi cho khẩu vị rủi ro."
+      "note": "Nhu cầu trú ẩn toàn cầu tăng mạnh phản ánh lo ngại lạm phát và rủi ro vĩ mô, bất lợi cho khẩu vị rủi ro với cổ phiếu."
+    },
+    {
+      "title": "Giá vàng nhẫn trong nước tăng 8,5 triệu đồng/lượng chỉ trong 4 phiên",
+      "impact": "↓",
+      "note": "Sóng đầu cơ vàng cạnh tranh trực tiếp thanh khoản với thị trường cổ phiếu trong ngắn hạn."
     },
     {
       "title": "Mỹ tăng sức ép kinh tế lên Iran, chứng khoán Mỹ giằng co, dầu sụt giá",
       "impact": "→",
-      "note": "Rủi ro địa chính trị tăng nhưng dầu giảm lại hạ áp lực lạm phát, hai chiều gần như bù trừ nhau."
+      "note": "Rủi ro địa chính trị tăng nhưng dầu giảm lại hạ áp lực lạm phát, hai tác động gần như bù trừ nhau."
     },
     {
       "title": "27 quỹ cùng mua ròng một cổ phiếu ngân hàng 4 tháng liên tiếp",
@@ -32,7 +27,12 @@
     {
       "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
       "impact": "↑",
-      "note": "Tín hiệu mặt bằng lãi suất ổn định, hỗ trợ cầu tín dụng bán lẻ và gián tiếp đỡ nhóm bất động sản."
+      "note": "Tín hiệu mặt bằng lãi suất ổn định, kích cầu tín dụng bán lẻ và gián tiếp đỡ nhóm bất động sản."
+    },
+    {
+      "title": "Giá vàng trong nước thấp hơn thế giới, chuyên gia khuyến nghị thận trọng",
+      "impact": "→",
+      "note": "Chênh lệch đảo chiều cho thấy cung vàng trong nước cải thiện, giảm bớt áp lực tỷ giá và đầu cơ."
     }
   ]
 }
