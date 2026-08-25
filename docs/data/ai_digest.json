@@ -2,17 +2,12 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay thiên về nội tại thị trường và tài sản trú ẩn hơn là chính sách vĩ mô mới. Giá vàng miếng và vàng nhẫn tăng mạnh (nhẫn thêm tới 8,5 triệu đồng/lượng chỉ trong 4 phiên) cho thấy tâm lý phòng thủ và áp lực cạnh tranh dòng tiền với kênh cổ phiếu. Bên ngoài, chứng khoán Mỹ giằng co khi Mỹ gia tăng sức ép kinh tế lên Iran và dầu sụt giá — rủi ro địa chính trị tăng nhưng giá dầu giảm lại hỗ trợ lạm phát và nhóm vận tải, hóa chất đầu vào. Trong nước, HoSE mở rộng danh sách 61 mã không được cấp margin sẽ siết đòn bẩy ở nhóm đầu cơ, trong khi thông tin tích cực đến từ sức khỏe khối SME (67 nghìn doanh nghiệp không vay nợ, dòng tiền dương) và hàng niêm yết mới như LPS. Ngắn hạn nên ưu tiên cổ phiếu cơ bản, hạn chế margin ở nhóm rủi ro và theo dõi diễn biến giá vàng - giá dầu.",
+  "summary_vi": "Dòng tin hôm nay thiếu vắng chính sách vĩ mô mới, trọng tâm dịch chuyển sang tài sản trú ẩn và rủi ro bên ngoài. Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên và vàng miếng đồng loạt tăng sáng 25/8 cho thấy tâm lý phòng thủ đang mạnh lên, cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu. Bên ngoài, chứng khoán Mỹ giằng co khi Mỹ gia tăng sức ép kinh tế lên Iran, song dầu sụt giá lại là yếu tố hỗ trợ lạm phát và biên lợi nhuận nhóm vận tải, hóa chất, nhựa. Trong nước, điểm sáng đến từ sức khỏe khối SME (67 nghìn doanh nghiệp trên 5 năm tuổi, không vay nợ, dòng tiền dương), các chủ đề tăng trưởng mới như CCS và kinh tế bạc, cùng hàng niêm yết mới LPS bổ sung thanh khoản cho nhóm chứng khoán. Ngắn hạn nên ưu tiên cổ phiếu cơ bản có dòng tiền, thận trọng với đòn bẩy và theo sát diễn biến giá vàng - giá dầu.",
   "top": [
-    {
-      "title": "HoSE cập nhật danh sách 61 mã không được cấp margin",
-      "impact": "↓",
-      "note": "Siết đòn bẩy làm giảm thanh khoản và tạo áp lực bán ở nhóm cổ phiếu đầu cơ nằm trong danh sách."
-    },
     {
       "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Vàng tăng nóng hút bớt dòng tiền ngắn hạn khỏi kênh chứng khoán và phản ánh tâm lý phòng thủ."
+      "note": "Vàng tăng nóng hút bớt dòng tiền ngắn hạn khỏi chứng khoán và phản ánh tâm lý phòng thủ của nhà đầu tư."
     },
     {
       "title": "Chứng khoán Mỹ giằng co khi Mỹ ép kinh tế Iran, dầu sụt giá",
@@ -20,14 +15,19 @@
       "note": "Rủi ro địa chính trị tăng nhưng dầu giảm giúp hạ áp lực lạm phát, tác động hai chiều lên TTCK Việt Nam."
     },
     {
-      "title": "67 nghìn SME hoạt động trên 5 năm, không vay nợ, dòng tiền dương",
+      "title": "67 nghìn SME trên 5 năm tuổi, không vay nợ, dòng tiền dương",
       "impact": "↑",
-      "note": "Cho thấy nền tảng doanh nghiệp tư nhân lành mạnh và dư địa tăng trưởng tín dụng chất lượng cho nhóm ngân hàng."
+      "note": "Nền tảng doanh nghiệp tư nhân lành mạnh mở dư địa tăng trưởng tín dụng chất lượng cho nhóm ngân hàng."
     },
     {
       "title": "Giá vàng miếng, vàng nhẫn sáng 25/8 đồng loạt tăng",
       "impact": "→",
-      "note": "Xác nhận xu hướng trú ẩn tài sản, chưa đủ tạo cú sốc nhưng khiến dòng tiền vào cổ phiếu thận trọng hơn."
+      "note": "Xác nhận xu hướng trú ẩn tài sản, chưa tạo cú sốc nhưng khiến dòng tiền vào cổ phiếu thận trọng hơn."
+    },
+    {
+      "title": "Thị trường CCS - thu giữ và lưu trữ carbon tiềm năng hàng chục tỷ USD",
+      "impact": "↑",
+      "note": "Mở chủ đề đầu tư dài hạn cho nhóm dầu khí, năng lượng và hạ tầng kỹ thuật chuyển đổi xanh."
     },
     {
       "title": "LPBS niêm yết và đổi tên thành LPS",
