@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Điểm nhấn chính sách hôm nay là việc Quốc hội thông qua Luật sửa đổi, bổ sung Luật Ngân hàng Nhà nước, Luật Phòng chống rửa tiền và Luật Các tổ chức tín dụng — hoàn thiện khung pháp lý ngành ngân hàng, tăng tính minh bạch và hỗ trợ tiến trình nâng hạng thị trường, dù tác động lên lợi nhuận chỉ thể hiện dần trong trung hạn. Mặt bằng lãi suất huy động tại nhóm ngân hàng lớn tiếp tục đi ngang ở nền thấp, cùng việc VIB cố định lãi vay mua nhà 5 năm, giúp giữ chi phí vốn rẻ và kích cầu tín dụng bất động sản nhà ở. Dòng vốn tổ chức vẫn ưu ái nhóm ngân hàng khi 27 quỹ mua ròng một cổ phiếu suốt 4 tháng liên tiếp, trong khi câu chuyện tỷ trọng cổ phiếu Việt Nam còn rất thấp trong rổ FTSE Emerging mở dư địa hút vốn ngoại thụ động. Rủi ro ngắn hạn đến từ việc dòng tiền rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, khiến chỉ số thiếu trụ đỡ và phải chờ sự đồng thuận mới đủ lực bứt phá; đồng thời giá vàng tăng dựng đứng, riêng vàng nhẫn cộng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên, phản ánh tâm lý phòng thủ và cạnh tranh hút vốn nhàn rỗi. Chiến lược hợp lý là ưu tiên ngân hàng chất lượng tài sản tốt và các mã được tổ chức mua ròng bền bỉ, hạn chế đuổi giá nhóm đầu cơ và giữ tỷ trọng vừa phải cho tới khi thanh khoản quay lại.",
+  "summary_vi": "Bức tranh vĩ mô hôm nay trung tính với hai lực kéo ngược chiều. Mặt tích cực: Quốc hội thông qua Luật sửa đổi Luật Ngân hàng Nhà nước, Luật Các tổ chức tín dụng và Luật Phòng chống rửa tiền, củng cố khung pháp lý và chuẩn mực minh bạch cho hệ thống ngân hàng; dòng vốn quỹ vẫn mua ròng nhóm ngân hàng nhiều tháng liên tiếp và câu chuyện rà soát FTSE tháng 3/2027 giữ kỳ vọng nâng hạng trung hạn. Mặt rủi ro ngắn hạn: giá vàng tăng dựng đứng (vàng nhẫn +8,5 triệu đồng/lượng chỉ trong 4 phiên) cho thấy tâm lý phòng thủ và hút bớt thanh khoản khỏi kênh cổ phiếu, trong khi dòng tiền đang rút khỏi nhóm bất động sản và chứng khoán. Hàm ý: ưu tiên nhóm ngân hàng chất lượng có dòng tiền tổ chức hậu thuẫn, thận trọng với cổ phiếu chứng khoán và bất động sản đầu cơ khi thị trường thiếu đồng thuận và cần thêm tín hiệu xác nhận về thanh khoản.",
   "top": [
     {
-      "title": "Quốc hội thông qua sửa đổi Luật NHNN, Luật Phòng chống rửa tiền và Luật Các tổ chức tín dụng",
+      "title": "Quốc hội thông qua sửa đổi Luật NHNN, Luật Các tổ chức tín dụng và Luật Phòng chống rửa tiền",
       "impact": "↑",
-      "note": "Khung pháp lý ngành ngân hàng minh bạch hơn củng cố niềm tin nhà đầu tư và hỗ trợ lộ trình nâng hạng thị trường."
+      "note": "Hoàn thiện khung pháp lý ngành ngân hàng, tăng minh bạch và hỗ trợ tiêu chí nâng hạng thị trường."
     },
     {
       "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
       "impact": "↓",
-      "note": "Hai nhóm dẫn dắt bị rút vốn khiến chỉ số thiếu trụ đỡ và thanh khoản chung suy yếu."
+      "note": "Hai nhóm vốn hóa lớn dẫn dắt bị rút vốn khiến chỉ số thiếu trụ đỡ trong ngắn hạn."
     },
     {
-      "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
+      "title": "Giá vàng tăng dựng đứng, vàng nhẫn cộng 8,5 triệu đồng/lượng sau 4 phiên",
       "impact": "↓",
-      "note": "Vàng tăng nóng cho thấy tâm lý phòng thủ và hút bớt dòng tiền nhàn rỗi khỏi kênh cổ phiếu."
+      "note": "Tâm lý trú ẩn lên cao hút thanh khoản khỏi kênh cổ phiếu và phản ánh lo ngại lạm phát/tỷ giá."
     },
     {
       "title": "27 quỹ cùng mua ròng một cổ phiếu ngân hàng 4 tháng liên tiếp",
       "impact": "↑",
-      "note": "Dòng vốn tổ chức bền bỉ vào nhóm ngân hàng củng cố vai trò trụ đỡ của nhóm vốn hóa lớn nhất thị trường."
+      "note": "Dòng tiền tổ chức bền bỉ ở nhóm ngân hàng tạo điểm tựa cho VN-Index khi thị trường phân hóa."
     },
     {
-      "title": "Tỷ trọng cổ phiếu Việt Nam trong rổ FTSE Emerging vẫn rất thấp so với Đông Nam Á",
-      "impact": "↑",
-      "note": "Dư địa nâng tỷ trọng lớn mở ra kỳ vọng vốn ngoại thụ động giải ngân thêm theo câu chuyện nâng hạng."
+      "title": "Kỳ rà soát FTSE tháng 3/2027 là phép thử cho chứng khoán Việt Nam",
+      "impact": "→",
+      "note": "Kỳ vọng nâng hạng vẫn còn nhưng mốc thời gian xa nên chưa tác động tới giao dịch hiện tại."
     },
     {
-      "title": "Lãi suất huy động 24/8 tại các ngân hàng lớn ổn định, VIB cố định lãi vay mua nhà 5 năm",
+      "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
       "impact": "↑",
-      "note": "Chi phí vốn rẻ được duy trì giúp kích cầu tín dụng bất động sản và giữ kênh cổ phiếu hấp dẫn tương đối."
+      "note": "Tín hiệu mặt bằng lãi suất ổn định, hỗ trợ cầu tín dụng bán lẻ và giải tỏa phần nào áp lực cho bất động sản."
     }
   ]
 }
