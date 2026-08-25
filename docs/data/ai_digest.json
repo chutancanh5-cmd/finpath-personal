@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index vượt mốc cản 1800 điểm nhờ lực kéo của nhóm trụ, nhưng độ rộng thị trường chưa đồng thuận cho thấy dòng tiền đang phân hóa mạnh thay vì lan tỏa. Áp lực giải chấp margin xuất hiện ở một số cổ phiếu (TCM bị bán ròng gần 5 triệu đơn vị) là chỉ báo cảnh báo về đòn bẩy sau nhịp tăng nóng. Ở phía vĩ mô, giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên đang hút một phần dòng tiền đầu cơ khỏi kênh cổ phiếu và phản ánh tâm lý phòng thủ. Bên ngoài, căng thẳng Mỹ - Iran khiến chứng khoán Mỹ giằng co song giá dầu sụt giảm lại có lợi cho lạm phát và biên lợi nhuận doanh nghiệp sản xuất, vận tải trong nước. Nền tảng nội tại vẫn khả quan với khối SME lành mạnh về dòng tiền và các chủ đề tăng trưởng mới (CCS, kinh tế bạc, quản trị doanh nghiệp), nên chiến lược hợp lý là ưu tiên cổ phiếu cơ bản, hạ tỷ trọng margin quanh vùng kháng cự.",
+  "summary_vi": "VN-Index vượt mốc cản 1800 điểm nhưng chủ yếu nhờ nhóm cổ phiếu trụ kéo, độ đồng thuận thị trường còn thấp nên đà tăng thiếu bền vững. Áp lực giải chấp margin tại một số mã (TCM) cho thấy đòn bẩy đang ở mức cao sau giai đoạn tăng nóng, là rủi ro ngắn hạn nếu thị trường rung lắc. Giá vàng miếng và vàng nhẫn tăng mạnh (nhẫn thêm tới 8,5 triệu đồng/lượng trong 4 phiên) phản ánh tâm lý phòng thủ và có thể hút bớt dòng tiền khỏi cổ phiếu. Bên ngoài, căng thẳng Mỹ - Iran khiến chứng khoán Mỹ giằng co nhưng giá dầu sụt giảm, giúp hạ áp lực lạm phát - chi phí đầu vào dù bất lợi cho nhóm dầu khí. Nhìn chung, nên ưu tiên cổ phiếu có nền tảng cơ bản và dòng tiền tốt, hạn chế dùng đòn bẩy cao khi thị trường tiệm cận vùng kháng cự.",
   "top": [
     {
-      "title": "VN-Index vượt cản 1800 điểm nhờ trụ lớn, thị trường chưa đồng thuận",
+      "title": "VN-Index vượt cản 1800 điểm nhưng chưa đồng thuận",
       "impact": "→",
-      "note": "Vượt kháng cự là tín hiệu kỹ thuật tốt nhưng độ rộng yếu và chỉ dựa vào nhóm trụ khiến đà tăng thiếu bền vững."
+      "note": "Vượt kháng cự là tín hiệu tốt về xu hướng, song chỉ nhờ trụ kéo và độ rộng yếu nên chưa xác nhận dòng tiền lan tỏa."
     },
     {
-      "title": "Liên tục bị giải chấp, cổ đông lớn bán gần 5 triệu cổ phiếu TCM",
+      "title": "Cổ đông lớn bị giải chấp, bán gần 5 triệu cổ phiếu TCM",
       "impact": "↓",
-      "note": "Áp lực giải chấp cho thấy đòn bẩy margin đang căng, dễ tạo hiệu ứng bán lan sang các mã đầu cơ khác."
+      "note": "Cảnh báo tỷ lệ margin cao trong hệ thống, dễ tạo hiệu ứng bán tháo dây chuyền khi thị trường điều chỉnh."
     },
     {
-      "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
+      "title": "Giá vàng nhẫn tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Vàng tăng dốc hút dòng tiền ngắn hạn khỏi chứng khoán và phản ánh tâm lý phòng thủ, e ngại rủi ro."
+      "note": "Vàng tăng nóng phản ánh tâm lý trú ẩn và có thể phân tán dòng tiền ngắn hạn khỏi kênh chứng khoán."
     },
     {
-      "title": "Chứng khoán Mỹ giằng co khi Mỹ tăng sức ép lên Iran, dầu sụt giá",
+      "title": "Chứng khoán Mỹ giằng co do sức ép Mỹ - Iran, giá dầu sụt",
       "impact": "→",
-      "note": "Rủi ro địa chính trị làm chứng khoán toàn cầu thận trọng, nhưng dầu giảm lại hỗ trợ lạm phát và chi phí đầu vào của Việt Nam."
+      "note": "Rủi ro địa chính trị làm tâm lý toàn cầu thận trọng, nhưng dầu giảm lại giúp hạ nhiệt lạm phát nhập khẩu."
     },
     {
-      "title": "67 nghìn SME hoạt động trên 5 năm, không vay nợ, dòng tiền và doanh thu tăng",
+      "title": "67 nghìn SME hoạt động trên 5 năm, không vay nợ, có dòng tiền và tăng doanh thu",
       "impact": "↑",
-      "note": "Sức khỏe khu vực tư nhân cải thiện là nền tảng cho tăng trưởng tín dụng chất lượng và lợi nhuận nhóm ngân hàng."
+      "note": "Tệp khách hàng chất lượng mở dư địa tăng trưởng tín dụng an toàn cho nhóm ngân hàng bán lẻ."
     },
     {
-      "title": "Thị trường CCS (thu giữ - lưu trữ carbon) tiềm năng hàng chục tỷ USD",
+      "title": "Liên doanh Hải An - Viconship chi gần 29 triệu USD mua tàu",
       "impact": "↑",
-      "note": "Mở ra chủ đề đầu tư dài hạn cho nhóm dầu khí, năng lượng và hạ tầng kỹ thuật trong xu hướng chuyển đổi xanh."
+      "note": "Doanh nghiệp cảng biển - vận tải mở rộng đội tàu, cho thấy kỳ vọng nhu cầu vận tải và thương mại còn tích cực."
     }
   ]
 }
