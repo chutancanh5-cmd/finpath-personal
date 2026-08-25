@@ -2,22 +2,22 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chủ đề bao trùm hôm nay là cơn sốt vàng: giá thế giới tiến về mốc 4.700 USD/oz với SPDR Gold Trust mua ròng liên tục, còn vàng nhẫn trong nước bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên — dấu hiệu tâm lý phòng thủ dâng cao và lo ngại về lạm phát, tỷ giá. Hệ quả trực tiếp là một phần thanh khoản bị hút khỏi kênh cổ phiếu, trong khi dòng tiền đang rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, khiến chỉ số thiếu trụ đỡ ngắn hạn. Ở chiều tích cực, dòng vốn tổ chức vẫn bền bỉ với nhóm ngân hàng (27 quỹ mua ròng một mã 4 tháng liên tiếp), VIB tung gói lãi suất cố định 5 năm cho vay mua nhà cho thấy mặt bằng lãi suất ổn định và cầu tín dụng bán lẻ đang được kích hoạt. Câu chuyện nâng hạng qua kỳ rà soát FTSE tháng 3/2027 giữ kỳ vọng trung hạn nhưng mốc thời gian còn xa nên chưa tạo lực đẩy cho giao dịch hiện tại. Hàm ý: ưu tiên nhóm ngân hàng chất lượng có dòng tiền tổ chức hậu thuẫn, hạ tỷ trọng cổ phiếu chứng khoán và bất động sản đầu cơ, chờ thanh khoản xác nhận trước khi giải ngân mạnh.",
+  "summary_vi": "Chủ đề chi phối dòng tin hôm nay là cơn sốt vàng: giá thế giới tiến sát 4.700 USD/oz với SPDR Gold Trust mua ròng liên tục, vàng nhẫn trong nước bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên — dấu hiệu tâm lý phòng thủ trước rủi ro lạm phát và tỷ giá, đồng thời hút bớt thanh khoản khỏi kênh cổ phiếu. Trên thị trường, dòng tiền đang rút khỏi hai nhóm dẫn dắt là bất động sản và chứng khoán, khiến chỉ số thiếu trụ đỡ ngắn hạn. Điểm sáng là dòng vốn tổ chức vẫn bền bỉ với nhóm ngân hàng (27 quỹ mua ròng một mã 4 tháng liên tiếp), mặt bằng lãi suất cho vay mua nhà ổn định qua gói cố định 5 năm của VIB, cùng kỳ vọng trung hạn từ đợt rà soát FTSE tháng 3/2027. Hàm ý: ưu tiên ngân hàng chất lượng và nhóm được dòng tiền tổ chức hậu thuẫn, hạn chế đuổi giá cổ phiếu chứng khoán và bất động sản đầu cơ cho tới khi thanh khoản xác nhận trở lại.",
   "top": [
-    {
-      "title": "Giá vàng thế giới tiến về 4.700 USD/oz, SPDR Gold Trust mua ròng liên tục",
-      "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng mạnh phản ánh khẩu vị rủi ro toàn cầu suy giảm, bất lợi cho dòng tiền vào cổ phiếu."
-    },
-    {
-      "title": "Vàng nhẫn trong nước bật tăng 8,5 triệu đồng/lượng chỉ trong 4 phiên",
-      "impact": "↓",
-      "note": "Sóng vàng nội địa hút mạnh tiền nhàn rỗi, cạnh tranh trực tiếp thanh khoản với kênh chứng khoán."
-    },
     {
       "title": "Dòng tiền rút khỏi nhóm bất động sản, chứng khoán",
       "impact": "↓",
-      "note": "Hai nhóm vốn hóa lớn dẫn dắt bị rút vốn khiến VN-Index mất trụ đỡ và dễ rung lắc."
+      "note": "Hai nhóm vốn hóa lớn thường dẫn dắt bị rút vốn khiến VN-Index thiếu trụ đỡ trong ngắn hạn."
+    },
+    {
+      "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
+      "impact": "↓",
+      "note": "Sóng đầu cơ vàng hút mạnh dòng tiền nhàn rỗi, cạnh tranh trực tiếp với thanh khoản cổ phiếu."
+    },
+    {
+      "title": "Giá vàng thế giới tiến về 4.700 USD/oz, SPDR Gold Trust mua ròng liên tục",
+      "impact": "↓",
+      "note": "Nhu cầu trú ẩn toàn cầu tăng cao phản ánh lo ngại lạm phát và rủi ro vĩ mô, bất lợi cho khẩu vị rủi ro."
     },
     {
       "title": "27 quỹ cùng mua ròng một cổ phiếu ngân hàng 4 tháng liên tiếp",
@@ -27,12 +27,12 @@
     {
       "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
       "impact": "↑",
-      "note": "Tín hiệu mặt bằng lãi suất ổn định, kích cầu tín dụng bán lẻ và hỗ trợ gián tiếp bất động sản ở."
+      "note": "Tín hiệu mặt bằng lãi suất ổn định, hỗ trợ cầu tín dụng bán lẻ và phần nào giải tỏa áp lực cho bất động sản."
     },
     {
-      "title": "Kỳ rà soát FTSE tháng 3/2027 là phép thử quan trọng cho TTCK Việt Nam",
+      "title": "Kỳ rà soát FTSE tháng 3/2027 là phép thử cho chứng khoán Việt Nam",
       "impact": "→",
-      "note": "Kỳ vọng nâng hạng vẫn còn nhưng mốc thời gian xa nên chưa tác động tới dòng tiền hiện tại."
+      "note": "Kỳ vọng nâng hạng vẫn còn nhưng mốc thời gian còn xa nên chưa tác động tới giao dịch hiện tại."
     }
   ]
 }
