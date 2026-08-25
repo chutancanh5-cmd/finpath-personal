@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Định hướng chính sách trong nước tiếp tục nghiêng về hỗ trợ tăng trưởng khi Chính phủ nhấn mạnh gỡ điểm nghẽn thực chất cho doanh nghiệp nhằm hướng tới mục tiêu tăng trưởng hai con số, tạo kỳ vọng trung hạn cho nhóm đầu tư công, hạ tầng và các mảng kinh tế mới. Tuy nhiên rủi ro ngắn hạn đang lớn dần: dư nợ vay của doanh nghiệp bất động sản vượt 500,000 tỷ đồng trong bối cảnh lãi suất nóng lên từng ngày, gây sức ép lên chi phí vốn và chất lượng tài sản ngân hàng. Trên bảng điện, áp lực bán gia tăng đẩy VN-Index về dưới mốc 1,800 và một cổ phiếu ngân hàng bị bán ròng hơn 200 tỷ đồng, cho thấy dòng tiền đang thận trọng ở vùng giá cao. Bên ngoài, thị trường chờ bài phát biểu của Chủ tịch Fed Kevin Warsh tại Jackson Hole giữa tranh luận về uy tín của Fed, còn giá vàng nhẫn tăng mạnh hơn vàng miếng phản ánh nhu cầu trú ẩn vẫn hiện hữu và có thể hút bớt dòng tiền khỏi cổ phiếu. Nhà đầu tư nên hạ đòn bẩy, ưu tiên doanh nghiệp có nền tảng cơ bản tốt và ít phụ thuộc nợ vay cho tới khi tín hiệu lãi suất rõ ràng hơn.",
+  "summary_vi": "Chính sách trong nước tiếp tục nghiêng về hỗ trợ tăng trưởng khi Chính phủ nhấn mạnh gỡ điểm nghẽn thực chất cho doanh nghiệp để hướng tới mục tiêu tăng trưởng hai con số, cùng dòng vốn ngoại vẫn tìm đến thị trường qua việc một tập đoàn tài chính Nhật Bản quy mô hơn 500 tỷ USD hợp tác với BSC. Tuy nhiên rủi ro ngắn hạn đang lớn dần: dư nợ vay của doanh nghiệp bất động sản vượt 500,000 tỷ đồng trong bối cảnh lãi suất nóng lên từng ngày, gây sức ép lên chi phí vốn và chất lượng tài sản ngân hàng. Trên bảng điện, áp lực bán khiến VN-Index đánh mất mốc tâm lý 1,800 và một cổ phiếu ngân hàng bị bán ròng hơn 200 tỷ đồng, cho thấy dòng tiền thận trọng ở vùng giá cao. Bên ngoài, thị trường chờ bài phát biểu của Chủ tịch Fed Kevin Warsh tại Jackson Hole giữa tranh luận về uy tín của Fed, trong khi giá vàng nhẫn tăng mạnh hơn vàng miếng phản ánh nhu cầu trú ẩn còn hiện hữu và có thể chia bớt dòng tiền khỏi cổ phiếu. Chiến lược hợp lý là hạ đòn bẩy, ưu tiên doanh nghiệp có nền tảng cơ bản tốt, ít phụ thuộc nợ vay và chờ tín hiệu lãi suất rõ ràng hơn trước khi giải ngân mạnh.",
   "top": [
     {
       "title": "Áp lực bán gia tăng, VN-Index về dưới mốc 1,800",
@@ -15,24 +15,24 @@
       "note": "Chi phí vốn tăng đe dọa dòng tiền nhóm bất động sản và làm gia tăng rủi ro nợ xấu cho ngân hàng."
     },
     {
-      "title": "Gỡ điểm nghẽn thực chất, tạo thuận lợi cho doanh nghiệp tăng trưởng hai con số",
+      "title": "Gỡ điểm nghẽn thực chất, tạo thuận lợi cho doanh nghiệp đóng góp vào tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Cải cách thể chế và môi trường kinh doanh cải thiện kỳ vọng lợi nhuận doanh nghiệp niêm yết trung hạn."
+      "note": "Cải cách thể chế cải thiện kỳ vọng lợi nhuận của doanh nghiệp niêm yết trong trung hạn."
     },
     {
-      "title": "Tranh luận về uy tín của Fed trước bài phát biểu của Chủ tịch Kevin Warsh tại Jackson Hole",
+      "title": "Một cổ phiếu ngân hàng bị bán ròng hơn 200 tỷ đồng trong phiên 25/8",
+      "impact": "↓",
+      "note": "Dòng tiền rút khỏi nhóm dẫn dắt vốn hóa lớn làm suy yếu trụ đỡ của chỉ số."
+    },
+    {
+      "title": "Tranh luận về uy tín của Fed trước bài phát biểu của Chủ tịch Kevin Warsh ở Jackson Hole",
       "impact": "→",
       "note": "Thông điệp lãi suất chưa rõ ràng khiến khối ngoại và tỷ giá tạm giữ trạng thái chờ đợi."
     },
     {
-      "title": "Một cổ phiếu ngân hàng bị bán ròng hơn 200 tỷ đồng phiên 25/8",
-      "impact": "↓",
-      "note": "Dòng tiền rút khỏi nhóm vốn hóa lớn dẫn dắt làm suy yếu trụ đỡ của chỉ số."
-    },
-    {
-      "title": "Giá vàng nhẫn “4 số 9” tăng mạnh hơn vàng miếng SJC",
-      "impact": "→",
-      "note": "Nhu cầu trú ẩn tăng có thể chia bớt dòng tiền khỏi kênh cổ phiếu nhưng chưa tạo áp lực trực tiếp lên chỉ số."
+      "title": "Tập đoàn tài chính hơn 500 tỷ USD của Nhật Bản bắt tay BSC",
+      "impact": "↑",
+      "note": "Hợp tác chiến lược với đối tác ngoại lớn củng cố kỳ vọng dòng vốn và năng lực nhóm chứng khoán."
     }
   ]
 }
