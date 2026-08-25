@@ -2,17 +2,12 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Phiên 25/08 mang trạng thái \"trụ kéo chỉ số\": điểm số được giữ nhờ nhóm vốn hóa lớn trong khi dòng tiền chưa lan tỏa, khiến nhịp tăng thiếu độ bền và dễ phân hóa. Rủi ro vĩ mô đáng chú ý nhất là lãi suất nóng lên từng ngày trong lúc nợ vay của doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng, trực tiếp bào mòn lợi nhuận nhóm BĐS và gây sức ép lên chất lượng tài sản ngân hàng. Việc cổ đông lớn TCM liên tục bị giải chấp cho thấy đòn bẩy margin vẫn căng, dễ khuếch đại các nhịp rung lắc; song song đó giá vàng miếng và vàng nhẫn tăng dồn dập (tới 8,5 triệu đồng/lượng trong 4 phiên) phản ánh tâm lý phòng thủ và hút bớt dòng tiền ngắn hạn khỏi kênh cổ phiếu. Điểm sáng dài hạn đến từ dư địa phát triển ngành quỹ (quy mô mới ~6% GDP, bằng 1/5 Thái Lan) và tệp 67 nghìn SME lành mạnh, không vay nợ, mở đường cho dòng vốn tổ chức và tăng trưởng tín dụng an toàn. Chiến lược ngắn hạn: ưu tiên doanh nghiệp có dòng tiền thực và nợ vay thấp, hạn chế đòn bẩy, tránh mua đuổi ở vùng giá cao.",
+  "summary_vi": "Phiên 25/08 diễn ra theo kịch bản \"cổ phiếu trụ kéo chỉ số\": điểm số được giữ nhờ nhóm vốn hóa lớn trong khi dòng tiền chưa lan tỏa, khiến nhịp tăng thiếu bền và thị trường phân hóa mạnh. Rủi ro vĩ mô nổi bật nhất là mặt bằng lãi suất nóng lên từng ngày trong bối cảnh nợ vay của doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng, trực tiếp bào mòn lợi nhuận nhóm BĐS và gây áp lực lên chất lượng tài sản ngân hàng. Cùng lúc, giá vàng miếng và vàng nhẫn tăng dồn dập (vàng nhẫn thêm tới 8,5 triệu đồng/lượng chỉ trong 4 phiên) cho thấy tâm lý phòng thủ đang lấn át và hút bớt dòng tiền ngắn hạn khỏi kênh cổ phiếu. Điểm sáng trung – dài hạn đến từ dư địa ngành quỹ còn rất lớn (quy mô mới ~6% GDP, bằng 1/5 Thái Lan), tệp 67 nghìn SME lành mạnh không vay nợ và làn sóng doanh nghiệp niêm yết trả cổ tức tiền mặt lớn. Chiến lược ngắn hạn: ưu tiên doanh nghiệp có dòng tiền thực, nợ vay thấp và cổ tức đều; hạn chế đòn bẩy và tránh mua đuổi khi thanh khoản chưa lan tỏa.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất tăng",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất nóng lên",
       "impact": "↓",
-      "note": "Chi phí vốn leo thang ăn mòn lợi nhuận nhóm bất động sản và làm tăng rủi ro nợ xấu cho ngân hàng cho vay."
-    },
-    {
-      "title": "\"Cá mập\" Nguyễn Văn Nghĩa bị giải chấp, bán gần 5 triệu cổ phiếu TCM",
-      "impact": "↓",
-      "note": "Tín hiệu margin căng trong hệ thống, dễ kích hoạt bán giải chấp dây chuyền mỗi khi thị trường điều chỉnh."
+      "note": "Chi phí vốn leo thang ăn mòn lợi nhuận nhóm bất động sản và làm tăng rủi ro nợ xấu cho các ngân hàng cho vay."
     },
     {
       "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên",
@@ -20,19 +15,24 @@
       "note": "Sóng vàng nóng phản ánh tâm lý phòng thủ và cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu."
     },
     {
-      "title": "Giá vàng miếng, vàng nhẫn sáng 25/8 tại SJC, DOJI, BTMC đồng loạt tăng",
+      "title": "Giá vàng miếng, vàng nhẫn chiều 25/8 tại SJC, DOJI, BTMC, PNJ tiếp tục tăng",
       "impact": "↓",
-      "note": "Đà tăng lan rộng ở tất cả thương hiệu cho thấy nhu cầu trú ẩn còn mạnh, bất lợi cho dòng tiền vào chứng khoán."
+      "note": "Đà tăng đồng loạt ở mọi thương hiệu cho thấy nhu cầu trú ẩn còn mạnh, bất lợi cho dòng tiền vào chứng khoán."
+    },
+    {
+      "title": "Nhịp đập thị trường 25/08: cổ phiếu trụ kéo chỉ số",
+      "impact": "→",
+      "note": "Chỉ số được giữ nhờ vài mã vốn hóa lớn nhưng dòng tiền chưa lan tỏa nên độ bền của nhịp tăng còn hạn chế."
     },
     {
       "title": "Quy mô ngành quỹ Việt Nam chỉ khoảng 6% GDP, bằng 1/5 Thái Lan",
       "impact": "↑",
-      "note": "Dư địa phát triển quỹ đầu tư còn rất lớn, là nền tảng cho dòng vốn tổ chức dài hạn vào thị trường."
+      "note": "Dư địa phát triển quỹ đầu tư còn rất lớn, là nền tảng cho dòng vốn tổ chức dài hạn chảy vào thị trường."
     },
     {
-      "title": "67 nghìn SME trên 5 năm tuổi, không vay nợ, có dòng tiền và tăng doanh thu",
+      "title": "Doanh nghiệp trăm năm tuổi trên sàn chi gần 700 tỷ đồng trả cổ tức",
       "impact": "↑",
-      "note": "Tệp khách hàng chất lượng mở dư địa tăng trưởng tín dụng an toàn cho nhóm ngân hàng bán lẻ - SME."
+      "note": "Cổ tức tiền mặt lớn củng cố niềm tin vào chất lượng dòng tiền của doanh nghiệp niêm yết và hỗ trợ nhóm cổ phiếu phòng thủ."
     }
   ]
 }
