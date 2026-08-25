@@ -2,12 +2,17 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay thiếu vắng chính sách vĩ mô mới, trọng tâm nghiêng về tài sản trú ẩn và câu chuyện nội tại doanh nghiệp. Giá vàng miếng lẫn vàng nhẫn đồng loạt tăng, riêng vàng nhẫn cộng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên, cho thấy tâm lý phòng thủ và sự cạnh tranh dòng tiền với kênh cổ phiếu. Bên ngoài, chứng khoán Mỹ giằng co khi Mỹ gia tăng sức ép kinh tế lên Iran và dầu sụt giá — rủi ro địa chính trị tăng nhưng dầu rẻ lại hỗ trợ lạm phát, nhóm vận tải và hóa chất đầu vào, đồng thời gây áp lực lên cổ phiếu dầu khí. Mặt tích cực trong nước đến từ nền tảng doanh nghiệp: 67 nghìn SME trên 5 năm tuổi không vay nợ và có dòng tiền dương, chủ đề nâng chất quản trị - IR, cùng động lực đầu tư công qua công trình 2,3 tỷ USD và dư địa mới như kinh tế bạc, thị trường CCS. Ngắn hạn nên ưu tiên cổ phiếu cơ bản có dòng tiền, thận trọng với đòn bẩy và theo sát diễn biến giá vàng - giá dầu.",
+  "summary_vi": "Điểm nhấn trong nước là VN-Index vượt mốc cản 1800 điểm nhờ lực kéo của nhóm trụ, nhưng độ lan tỏa còn yếu và thị trường chưa đồng thuận — dấu hiệu điển hình của nhịp tăng dựa vào vài mã vốn hóa lớn, dễ rung lắc khi trụ chốt lời. Dòng tin vĩ mô hôm nay thiếu chính sách mới, trong khi giá vàng miếng và vàng nhẫn đồng loạt tăng (vàng nhẫn cộng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên) cho thấy tâm lý phòng thủ và sự cạnh tranh dòng tiền với kênh cổ phiếu. Bên ngoài, chứng khoán Mỹ giằng co khi Mỹ gia tăng sức ép kinh tế lên Iran và dầu sụt giá: rủi ro địa chính trị tăng nhưng dầu rẻ hỗ trợ lạm phát, vận tải và hóa chất, đồng thời gây áp lực lên nhóm dầu khí. Nền tảng doanh nghiệp vẫn là điểm tựa tích cực với 67 nghìn SME trên 5 năm tuổi không vay nợ và có dòng tiền dương, cùng động lực đầu tư công từ công trình 2,3 tỷ USD. Ngắn hạn nên ưu tiên cổ phiếu cơ bản có dòng tiền, hạn chế đòn bẩy khi chỉ số vừa vượt cản mà thanh khoản chưa xác nhận, và theo sát diễn biến giá vàng - giá dầu.",
   "top": [
+    {
+      "title": "Trụ lớn kéo VN-Index vượt cản 1800 điểm, thị trường chưa đồng thuận",
+      "impact": "→",
+      "note": "Vượt cản là tín hiệu kỹ thuật tốt nhưng chỉ dựa vào nhóm trụ, độ lan tỏa yếu nên rủi ro rung lắc còn cao."
+    },
     {
       "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Vàng tăng nóng hút bớt dòng tiền ngắn hạn khỏi kênh chứng khoán và phản ánh tâm lý phòng thủ của nhà đầu tư."
+      "note": "Vàng tăng nóng hút bớt dòng tiền ngắn hạn khỏi kênh chứng khoán và phản ánh tâm lý phòng thủ."
     },
     {
       "title": "Chứng khoán Mỹ giằng co khi Mỹ ép kinh tế Iran, dầu sụt giá",
@@ -25,19 +30,9 @@
       "note": "Giải ngân đầu tư công quy mô lớn hỗ trợ nhóm xây dựng - vật liệu, dù rủi ro chất lượng thi công cần theo dõi."
     },
     {
-      "title": "Giá vàng miếng, vàng nhẫn sáng 25/8 tại SJC, DOJI, BTMC đồng loạt tăng",
-      "impact": "→",
-      "note": "Xác nhận xu hướng trú ẩn tài sản, chưa tạo cú sốc nhưng khiến dòng tiền vào cổ phiếu thận trọng hơn."
-    },
-    {
       "title": "Thị trường CCS - thu giữ và lưu trữ carbon tiềm năng hàng chục tỷ USD",
       "impact": "↑",
       "note": "Mở chủ đề đầu tư dài hạn cho nhóm dầu khí, năng lượng và hạ tầng kỹ thuật chuyển đổi xanh."
-    },
-    {
-      "title": "LPBS vừa niêm yết đổi tên thành LPS theo mã cổ phiếu",
-      "impact": "↑",
-      "note": "Bổ sung hàng hóa mới cho nhóm chứng khoán, hỗ trợ thanh khoản và sự chú ý của dòng tiền vào nhóm tài chính."
     }
   ]
 }
