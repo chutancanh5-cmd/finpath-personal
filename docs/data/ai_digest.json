@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường phát tín hiệu hai chiều trong phiên 25/8: VN-Index nối dài chuỗi tăng phiên thứ 4 liên tiếp nhưng nội phiên áp lực bán gia tăng đã kéo chỉ số lùi về dưới mốc 1.800, cho thấy đà tăng đang gặp kháng cự và dòng tiền phân hóa. Rủi ro vĩ mô nổi bật nhất là dư nợ vay của nhóm bất động sản vượt 500.000 tỷ đồng giữa lúc lãi suất nóng lên từng ngày, đe dọa biên lợi nhuận nhóm BĐS - xây dựng và chất lượng tài sản ngân hàng. Giá vàng nhẫn 'bốn số 9' tăng mạnh hơn cả vàng miếng SJC phản ánh tâm lý phòng thủ, có thể hút bớt dòng tiền khỏi kênh cổ phiếu trong ngắn hạn. Ở chiều tích cực, lãnh đạo Vietcap chi tiền lớn gom cổ phiếu là tín hiệu niềm tin nội bộ, còn các chủ đề chính sách dài hạn (kinh tế bạc tại Hà Nội, nâng chất lượng quản trị doanh nghiệp, thị trường CCS) mở thêm dư địa tăng trưởng nhưng chưa tác động ngay tới định giá. Ngắn hạn nên ưu tiên cổ phiếu có nền tảng cơ bản tốt, hạn chế đòn bẩy và thận trọng với nhóm bất động sản vay nợ cao khi chỉ số kiểm định lại vùng 1.800 điểm.",
+  "summary_vi": "Dòng tin vĩ mô hôm nay nghiêng về hỗ trợ khi Chính phủ tiếp tục nhấn mạnh gỡ điểm nghẽn thể chế, tạo thuận lợi cho doanh nghiệp phục vụ mục tiêu tăng trưởng hai con số, cùng các dư địa mới như kinh tế bạc và thị trường CCS. Tuy nhiên rủi ro ngắn hạn đang tập trung ở phía tiền tệ: nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ đồng trong bối cảnh lãi suất nóng lên từng ngày, gây áp lực chi phí tài chính lên nhóm BĐS, xây dựng và ngân hàng có tỷ trọng cho vay BĐS cao. Diễn biến thị trường phân hóa và giằng co quanh vùng 1.800 điểm, tin tức trong phiên vừa ghi nhận chuỗi tăng vừa xuất hiện áp lực bán mạnh, cho thấy cung chốt lời đang gia tăng ở vùng giá cao. Giá vàng miếng và vàng nhẫn tiếp tục tăng phản ánh nhu cầu trú ẩn, có thể hút bớt một phần dòng tiền khỏi cổ phiếu. Nhà đầu tư nên ưu tiên quản trị rủi ro, hạ đòn bẩy và chọn lọc cổ phiếu có nền tảng cơ bản, dòng tiền lành mạnh thay vì mua đuổi.",
   "top": [
+    {
+      "title": "Gỡ điểm nghẽn thể chế, hỗ trợ doanh nghiệp cho mục tiêu tăng trưởng hai con số",
+      "impact": "↑",
+      "note": "Cải cách thủ tục và khơi thông nguồn lực giúp cải thiện triển vọng lợi nhuận doanh nghiệp niêm yết."
+    },
     {
       "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, lãi suất nóng lên",
       "impact": "↓",
-      "note": "Chi phí vốn leo thang bào mòn lợi nhuận nhóm BĐS và làm tăng rủi ro nợ xấu ngân hàng."
+      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm BĐS và làm tăng rủi ro nợ xấu cho ngân hàng."
     },
     {
-      "title": "Áp lực bán gia tăng, VN-Index về dưới mốc 1.800 trong phiên 25/8",
+      "title": "Áp lực bán gia tăng, VN-Index lùi về dưới mốc 1.800 điểm",
       "impact": "↓",
-      "note": "Đánh mất mốc tâm lý 1.800 cho thấy lực cung chốt lời mạnh dần sau nhịp tăng."
-    },
-    {
-      "title": "Giá vàng nhẫn 'bốn số 9' tăng mạnh hơn vàng miếng SJC",
-      "impact": "↓",
-      "note": "Vàng tăng nóng thể hiện tâm lý trú ẩn, có thể hút dòng tiền rời khỏi chứng khoán."
+      "note": "Cung chốt lời mạnh tại vùng kháng cự cho thấy tâm lý thị trường ngắn hạn đang thận trọng."
     },
     {
       "title": "VN-Index tăng điểm phiên thứ 4 liên tiếp",
       "impact": "↑",
-      "note": "Chuỗi tăng liên tiếp giúp xu hướng ngắn hạn vẫn nghiêng về phía tích cực."
+      "note": "Dòng tiền vẫn duy trì tốt giúp xu hướng trung hạn chưa bị phá vỡ dù rung lắc trong phiên."
     },
     {
-      "title": "Ông Tô Hải mua xong 31 triệu cổ phiếu Vietcap, nắm giữ 4.600 tỷ đồng",
+      "title": "Giá vàng nhẫn và vàng miếng SJC tiếp tục tăng mạnh",
+      "impact": "↓",
+      "note": "Kênh trú ẩn hấp dẫn hơn có thể chia bớt dòng tiền và phản ánh lo ngại lạm phát, tỷ giá."
+    },
+    {
+      "title": "Ông Tô Hải hoàn tất mua 31 triệu cổ phiếu Vietcap",
       "impact": "↑",
-      "note": "Lãnh đạo chi lượng tiền lớn gom cổ phiếu là tín hiệu niềm tin, hỗ trợ nhóm chứng khoán."
-    },
-    {
-      "title": "95% nhà đầu tư thua lỗ và rời bỏ thị trường sau 2 năm",
-      "impact": "→",
-      "note": "Cảnh báo chất lượng dòng tiền cá nhân nhưng chưa làm thay đổi nền tảng vĩ mô ngắn hạn."
+      "note": "Lãnh đạo mua vào lượng lớn là tín hiệu niềm tin tích cực, hỗ trợ tâm lý nhóm chứng khoán."
     }
   ]
 }
