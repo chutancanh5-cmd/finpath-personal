@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Phiên 25/08 tiếp tục là câu chuyện \"cổ phiếu trụ kéo chỉ số\", tức điểm số đi lên nhưng độ rộng thị trường chưa đồng thuận nên đà tăng thiếu bền vững. Rủi ro vĩ mô rõ nhất là mặt bằng lãi suất nóng lên trong khi nợ vay của doanh nghiệp bất động sản đã vượt 500,000 tỷ đồng, đe dọa chi phí tài chính nhóm BĐS và chất lượng tài sản ngân hàng. Áp lực giải chấp cổ phiếu TCM cho thấy đòn bẩy margin trong hệ thống còn cao, dễ khuếch đại các nhịp rung lắc. Ở chiều ngược lại, kịch bản USD suy yếu sâu hơn giúp giảm áp lực tỷ giá và hỗ trợ dòng vốn ngoại, còn tệp 67 nghìn SME khỏe mạnh mở dư địa tăng trưởng tín dụng an toàn cho ngân hàng bán lẻ. Ngắn hạn nên ưu tiên doanh nghiệp có dòng tiền thực, nợ vay thấp và hạn chế dùng đòn bẩy khi vàng đang hút mạnh dòng tiền trú ẩn.",
+  "summary_vi": "Phiên 25/08 nghiêng về trạng thái \"trụ kéo chỉ số\": điểm số được giữ nhờ nhóm vốn hóa lớn trong khi dòng tiền chưa lan tỏa, nên nhịp tăng thiếu độ bền. Rủi ro vĩ mô nổi bật là lãi suất nóng lên từng ngày giữa lúc nợ vay của doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng, trực tiếp bào mòn lợi nhuận nhóm BĐS và gây sức ép lên chất lượng tài sản ngân hàng. Việc cổ đông lớn TCM liên tục bị giải chấp cho thấy đòn bẩy margin vẫn cao, dễ khuếch đại các nhịp rung lắc, còn sóng vàng nhẫn tăng tới 8,5 triệu đồng/lượng trong 4 phiên đang hút bớt dòng tiền ngắn hạn khỏi kênh cổ phiếu. Điểm sáng đến từ kịch bản USD suy yếu sâu hơn, giúp hạ nhiệt tỷ giá, mở dư địa cho chính sách tiền tệ và hỗ trợ dòng vốn ngoại; cùng với đó là tệp 67 nghìn SME lành mạnh tạo dư địa tăng trưởng tín dụng an toàn cho ngân hàng bán lẻ. Chiến lược ngắn hạn: ưu tiên doanh nghiệp có dòng tiền thực, tỷ lệ nợ vay thấp, hạn chế dùng đòn bẩy và tránh mua đuổi ở vùng giá cao.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ giữa áp lực lãi suất",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất tăng",
       "impact": "↓",
-      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm tăng rủi ro nợ xấu cho ngân hàng cho vay."
+      "note": "Chi phí vốn leo thang ăn mòn lợi nhuận nhóm bất động sản và làm tăng rủi ro nợ xấu cho các ngân hàng cho vay."
     },
     {
-      "title": "Cổ đông lớn bị giải chấp, bán gần 5 triệu cổ phiếu TCM",
+      "title": "\"Cá mập\" bị giải chấp, bán gần 5 triệu cổ phiếu TCM",
       "impact": "↓",
-      "note": "Cảnh báo tỷ lệ margin cao trong hệ thống, dễ tạo hiệu ứng bán giải chấp dây chuyền khi thị trường điều chỉnh."
+      "note": "Tín hiệu margin căng trong hệ thống, dễ kích hoạt bán giải chấp dây chuyền mỗi khi thị trường điều chỉnh."
     },
     {
       "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên",
       "impact": "↓",
-      "note": "Sóng vàng nóng phản ánh tâm lý trú ẩn và cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu."
+      "note": "Sóng vàng nóng phản ánh tâm lý phòng thủ và cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu."
     },
     {
       "title": "Ba yếu tố có thể khiến đồng USD giảm giá sâu hơn",
       "impact": "↑",
-      "note": "USD yếu giúp hạ nhiệt áp lực tỷ giá, tạo dư địa nới lỏng chính sách tiền tệ và hỗ trợ dòng vốn ngoại vào TTCK VN."
+      "note": "USD yếu giúp giảm áp lực tỷ giá, tạo dư địa nới lỏng tiền tệ và cải thiện dòng vốn ngoại vào TTCK Việt Nam."
     },
     {
-      "title": "67 nghìn SME trên 5 năm tuổi, không vay nợ, có dòng tiền và tăng trưởng doanh thu",
+      "title": "67 nghìn SME trên 5 năm tuổi, không vay nợ, có dòng tiền và tăng doanh thu",
       "impact": "↑",
       "note": "Tệp khách hàng chất lượng mở dư địa tăng trưởng tín dụng an toàn cho nhóm ngân hàng bán lẻ - SME."
     },
     {
       "title": "Nhịp đập thị trường 25/08: cổ phiếu trụ kéo chỉ số",
       "impact": "→",
-      "note": "Chỉ số xanh nhờ vài mã vốn hóa lớn nên dòng tiền chưa lan tỏa, rủi ro phân hóa và rung lắc vẫn hiện hữu."
+      "note": "Chỉ số xanh nhờ vài mã vốn hóa lớn, độ rộng thị trường yếu nên rủi ro phân hóa và rung lắc vẫn hiện hữu."
     }
   ]
 }
