@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-08-25",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Điểm nhấn lớn nhất là việc 6 cổ phiếu Việt Nam (có VPBank) được vào rổ FTSE All-World, mở đường cho dòng vốn ngoại thụ động giải ngân và củng cố câu chuyện nâng hạng — hỗ trợ trực tiếp nhóm vốn hóa lớn, đặc biệt là ngân hàng và chứng khoán. Mặt bằng lãi suất cho vay vẫn dễ chịu khi các ngân hàng như VIB đẩy mạnh gói cố định dài hạn cho vay mua nhà, tích cực cho tín dụng bán lẻ và bất động sản. Ở chiều rủi ro, giá vàng tăng dựng đứng về vùng 4.700 USD/oz với SPDR Gold Trust mua ròng liên tục cho thấy tâm lý phòng thủ toàn cầu và có thể hút bớt dòng tiền nội khỏi cổ phiếu. Bên ngoài, chứng khoán Mỹ giằng co khi Mỹ gia tăng sức ép lên Iran; dầu giảm giúp hạ áp lực lạm phát nhưng cũng kém thuận lợi cho nhóm dầu khí. Ngắn hạn nên ưu tiên cổ phiếu hưởng lợi từ dòng vốn ngoại, kiểm soát tỷ trọng và tránh mua đuổi ở vùng giá cao.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Điểm nhấn tích cực nhất trong ngày là việc 6 cổ phiếu Việt Nam, trong đó có VPBank, được thêm vào rổ FTSE All-World, mở đường cho dòng vốn ngoại thụ động chảy vào nhóm vốn hóa lớn và ngân hàng. Ở chiều ngược lại, giá vàng tăng dựng đứng (nhẫn tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên, thế giới tiến về 4.700 USD/oz với SPDR Gold Trust mua ròng liên tục) cho thấy tâm lý phòng thủ và rủi ro dòng tiền nội bị hút sang kênh trú ẩn thay vì cổ phiếu. Bối cảnh quốc tế kém thuận lợi khi chứng khoán Mỹ giằng co do Mỹ gia tăng sức ép kinh tế lên Iran, dù dầu sụt giá lại là yếu tố hỗ trợ lạm phát và chi phí đầu vào doanh nghiệp. Trong nước, mặt bằng lãi suất vẫn dễ chịu với việc VIB triển khai lãi suất cố định 5 năm cho vay mua nhà, tín hiệu tốt cho tín dụng bán lẻ và bất động sản. Nhà đầu tư nên ưu tiên nhóm ngân hàng và bluechip hưởng lợi từ vốn ngoại, đồng thời hạn chế dùng đòn bẩy khi biến động giá vàng và địa chính trị còn cao.",
   "top": [
     {
-      "title": "6 cổ phiếu Việt Nam vào rổ FTSE All-World, có VPBank",
+      "title": "6 cổ phiếu Việt Nam vào FTSE All-World, có VPBank",
       "impact": "↑",
-      "note": "Mở cửa đón dòng vốn ngoại thụ động và củng cố kỳ vọng nâng hạng, hỗ trợ nhóm vốn hóa lớn."
+      "note": "Mở cửa đón dòng vốn ngoại thụ động, hỗ trợ trực tiếp nhóm bluechip và ngân hàng."
+    },
+    {
+      "title": "Giá vàng nhẫn tăng 8,5 triệu đồng/lượng trong 4 phiên",
+      "impact": "↓",
+      "note": "Sóng vàng quá mạnh hút dòng tiền đầu cơ khỏi kênh cổ phiếu trong ngắn hạn."
+    },
+    {
+      "title": "Vàng thế giới tiến về 4.700 USD/oz, SPDR Gold Trust mua ròng",
+      "impact": "↓",
+      "note": "Phản ánh tâm lý phòng thủ toàn cầu, thường đi kèm khẩu vị rủi ro suy giảm."
+    },
+    {
+      "title": "Chứng khoán Mỹ giằng co khi Mỹ ép kinh tế Iran, dầu sụt giá",
+      "impact": "→",
+      "note": "Rủi ro địa chính trị tăng nhưng dầu giảm lại hạ áp lực lạm phát và chi phí đầu vào."
     },
     {
       "title": "VIB áp dụng lãi suất cố định 5 năm cho vay mua nhà",
       "impact": "↑",
-      "note": "Tín hiệu lãi suất ổn định, kích cầu tín dụng bán lẻ và hỗ trợ cổ phiếu ngân hàng, bất động sản."
+      "note": "Tín hiệu lãi suất ổn định, kích cầu tín dụng bán lẻ và bất động sản."
     },
     {
-      "title": "Giá vàng tiến về 4.700 USD/oz, SPDR Gold Trust liên tục mua ròng",
-      "impact": "↓",
-      "note": "Tâm lý phòng thủ toàn cầu lên cao, dòng tiền có xu hướng rời tài sản rủi ro như cổ phiếu."
-    },
-    {
-      "title": "Vàng nhẫn trong nước tăng tới 8,5 triệu đồng/lượng sau 4 phiên",
-      "impact": "↓",
-      "note": "Sức hút của vàng cạnh tranh trực tiếp với kênh chứng khoán trong ngắn hạn."
-    },
-    {
-      "title": "Chứng khoán Mỹ giằng co khi Mỹ tăng sức ép lên Iran, dầu sụt giá",
+      "title": "Giá vàng trong nước thấp hơn thế giới, nhẫn vượt vàng miếng",
       "impact": "→",
-      "note": "Rủi ro địa chính trị tăng nhưng dầu giảm lại giúp hạ áp lực lạm phát và chi phí đầu vào."
-    },
-    {
-      "title": "LPBS niêm yết và đổi tên thành LPS, FPTS chọn tăng trưởng có kiểm soát",
-      "impact": "→",
-      "note": "Nguồn cung cổ phiếu chứng khoán tăng trong khi các công ty thận trọng hơn với dư nợ margin."
+      "note": "Chênh lệch đảo chiều cho thấy cung cầu vàng nội địa đang được điều tiết, ít tác động trực tiếp lên TTCK."
     }
   ]
 }
