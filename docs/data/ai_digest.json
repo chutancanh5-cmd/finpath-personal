@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Phiên 25/08 cho thấy chỉ số được giữ nhờ nhóm cổ phiếu trụ trong khi độ rộng thị trường tiêu cực, cổ phiếu giảm la liệt — dấu hiệu dòng tiền co hẹp và phân hóa mạnh. Rủi ro vĩ mô lớn nhất là mặt bằng lãi suất nóng lên từng ngày trong khi nợ vay doanh nghiệp bất động sản đã vượt 500.000 tỷ đồng, đe dọa biên lợi nhuận nhóm BĐS và chất lượng tài sản ngân hàng. Song song, giá vàng nhẫn tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên phản ánh tâm lý phòng thủ và hút bớt dòng tiền ngắn hạn khỏi kênh cổ phiếu. Mặt tích cực trung – dài hạn đến từ dư địa ngành quỹ còn rất lớn (chỉ ~6% GDP, bằng 1/5 Thái Lan), tệp doanh nghiệp SME lành mạnh không vay nợ và làn sóng trả cổ tức tiền mặt lớn của doanh nghiệp niêm yết. Ngắn hạn nên ưu tiên doanh nghiệp dòng tiền thực, nợ vay thấp, cổ tức đều; hạn chế đòn bẩy và tránh mua đuổi khi thanh khoản chưa lan tỏa.",
+  "summary_vi": "Phiên 25/08 cho thấy chỉ số được giữ nhờ nhóm cổ phiếu trụ trong khi mặt bằng cổ phiếu giảm la liệt, phản ánh dòng tiền co hẹp và độ rộng thị trường yếu. Áp lực vĩ mô đáng chú ý nhất là lãi suất nóng lên từng ngày cùng nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ đồng, làm tăng rủi ro chi phí vốn cho nhóm bất động sản, xây dựng và ngân hàng có tỷ trọng cho vay BĐS cao. Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên tiếp tục hút một phần dòng tiền đầu cơ ra khỏi chứng khoán. Ở chiều tích cực, dòng cổ tức tiền mặt lớn từ các doanh nghiệp lâu đời, định hướng nâng chất quản trị và dư địa phát triển ngành quỹ (mới ~6% GDP, bằng 1/5 Thái Lan) là nền tảng hỗ trợ trung – dài hạn. Ngắn hạn nên ưu tiên cổ phiếu có dòng tiền thực, nợ vay thấp và hạn chế dùng đòn bẩy khi độ rộng thị trường còn tiêu cực.",
   "top": [
-    {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, lãi suất nóng lên từng ngày",
-      "impact": "↓",
-      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm gia tăng rủi ro nợ xấu cho ngân hàng cho vay."
-    },
     {
       "title": "Trụ \"còng lưng\" đỡ điểm, cổ phiếu vẫn giảm la liệt",
       "impact": "↓",
-      "note": "Độ rộng thị trường tiêu cực cho thấy chỉ số xanh chỉ mang tính kỹ thuật, rủi ro điều chỉnh khi trụ hụt hơi."
+      "note": "Chỉ số xanh nhờ vài mã trụ nhưng độ rộng tiêu cực, cho thấy dòng tiền yếu và rủi ro điều chỉnh còn hiện hữu."
+    },
+    {
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, lãi suất nóng lên",
+      "impact": "↓",
+      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm BĐS và làm tăng rủi ro nợ xấu cho ngân hàng cho vay BĐS."
     },
     {
       "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Sóng vàng nóng phản ánh tâm lý trú ẩn và cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu."
-    },
-    {
-      "title": "Nhịp đập thị trường 25/08: cổ phiếu trụ kéo chỉ số",
-      "impact": "→",
-      "note": "Điểm số phụ thuộc vài mã vốn hóa lớn, dòng tiền chưa lan tỏa nên nhịp tăng thiếu bền vững."
+      "note": "Vàng tăng nóng hút bớt dòng tiền đầu cơ và phản ánh tâm lý phòng thủ trước bất ổn vĩ mô."
     },
     {
       "title": "Quy mô ngành quỹ Việt Nam chỉ khoảng 6% GDP, bằng 1/5 Thái Lan",
       "impact": "↑",
-      "note": "Dư địa phát triển quỹ đầu tư còn rất lớn, mở đường cho dòng vốn tổ chức dài hạn vào thị trường."
+      "note": "Dư địa mở rộng dòng vốn tổ chức còn rất lớn, hỗ trợ thanh khoản và tính bền vững của thị trường dài hạn."
     },
     {
-      "title": "Doanh nghiệp trăm năm tuổi trên sàn chi gần 700 tỷ trả cổ tức",
+      "title": "Doanh nghiệp trăm năm tuổi trả gần 700 tỷ đồng cổ tức tiền mặt",
       "impact": "↑",
-      "note": "Cổ tức tiền mặt lớn củng cố niềm tin vào chất lượng dòng tiền doanh nghiệp và hỗ trợ nhóm cổ phiếu phòng thủ."
+      "note": "Cổ tức tiền mặt lớn củng cố niềm tin vào nhóm cổ phiếu cơ bản có dòng tiền ổn định."
+    },
+    {
+      "title": "Nâng cao chất lượng quản trị để mở rộng dư địa tăng trưởng",
+      "impact": "→",
+      "note": "Định hướng cải thiện quản trị doanh nghiệp là yếu tố nền tảng, tác động chậm và chưa ảnh hưởng giá cổ phiếu ngắn hạn."
     }
   ]
 }
