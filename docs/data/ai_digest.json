@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index vượt vùng cản 1800 điểm nhưng lực kéo tập trung ở nhóm trụ, độ lan tỏa yếu và thị trường chưa đồng thuận — nhịp tăng dễ rung lắc khi trụ chốt lời. Dòng tin vĩ mô hôm nay không có chính sách mới đáng kể, trong khi vàng miếng và vàng nhẫn tăng nóng (nhẫn cộng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên) cho thấy tâm lý phòng thủ và sự cạnh tranh dòng tiền với kênh cổ phiếu. Bên ngoài, chứng khoán Mỹ giằng co khi Mỹ siết sức ép kinh tế lên Iran và giá dầu sụt: rủi ro địa chính trị tăng nhưng dầu rẻ giúp hạ áp lực lạm phát, hỗ trợ vận tải - hóa chất và gây bất lợi cho dầu khí. Điểm tựa tích cực đến từ nền doanh nghiệp: 67 nghìn SME trên 5 năm tuổi không vay nợ, dòng tiền dương là dư địa tín dụng chất lượng cho ngân hàng, cùng đà giải ngân đầu tư công quy mô lớn. Ngắn hạn nên ưu tiên cổ phiếu cơ bản có dòng tiền, tiết chế đòn bẩy khi chỉ số vừa vượt cản mà thanh khoản chưa xác nhận.",
+  "summary_vi": "VN-Index vượt mốc cản 1800 điểm nhờ lực kéo của nhóm trụ, nhưng độ rộng thị trường chưa đồng thuận cho thấy dòng tiền đang phân hóa mạnh thay vì lan tỏa. Áp lực giải chấp margin xuất hiện ở một số cổ phiếu (TCM bị bán ròng gần 5 triệu đơn vị) là chỉ báo cảnh báo về đòn bẩy sau nhịp tăng nóng. Ở phía vĩ mô, giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng chỉ trong 4 phiên đang hút một phần dòng tiền đầu cơ khỏi kênh cổ phiếu và phản ánh tâm lý phòng thủ. Bên ngoài, căng thẳng Mỹ - Iran khiến chứng khoán Mỹ giằng co song giá dầu sụt giảm lại có lợi cho lạm phát và biên lợi nhuận doanh nghiệp sản xuất, vận tải trong nước. Nền tảng nội tại vẫn khả quan với khối SME lành mạnh về dòng tiền và các chủ đề tăng trưởng mới (CCS, kinh tế bạc, quản trị doanh nghiệp), nên chiến lược hợp lý là ưu tiên cổ phiếu cơ bản, hạ tỷ trọng margin quanh vùng kháng cự.",
   "top": [
     {
-      "title": "Trụ lớn kéo VN-Index vượt cản 1800 điểm, thị trường chưa đồng thuận",
+      "title": "VN-Index vượt cản 1800 điểm nhờ trụ lớn, thị trường chưa đồng thuận",
       "impact": "→",
-      "note": "Vượt cản là tín hiệu kỹ thuật tốt nhưng chỉ nhờ vài mã vốn hóa lớn, độ lan tỏa yếu nên rủi ro rung lắc còn cao."
+      "note": "Vượt kháng cự là tín hiệu kỹ thuật tốt nhưng độ rộng yếu và chỉ dựa vào nhóm trụ khiến đà tăng thiếu bền vững."
+    },
+    {
+      "title": "Liên tục bị giải chấp, cổ đông lớn bán gần 5 triệu cổ phiếu TCM",
+      "impact": "↓",
+      "note": "Áp lực giải chấp cho thấy đòn bẩy margin đang căng, dễ tạo hiệu ứng bán lan sang các mã đầu cơ khác."
     },
     {
       "title": "Giá vàng nhẫn bật tăng tới 8,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Vàng tăng nóng hút bớt dòng tiền ngắn hạn khỏi chứng khoán và phản ánh tâm lý phòng thủ của nhà đầu tư."
+      "note": "Vàng tăng dốc hút dòng tiền ngắn hạn khỏi chứng khoán và phản ánh tâm lý phòng thủ, e ngại rủi ro."
     },
     {
-      "title": "Chứng khoán Mỹ giằng co khi Mỹ ép kinh tế Iran, dầu sụt giá",
+      "title": "Chứng khoán Mỹ giằng co khi Mỹ tăng sức ép lên Iran, dầu sụt giá",
       "impact": "→",
-      "note": "Rủi ro địa chính trị tăng nhưng dầu giảm giúp hạ áp lực lạm phát, tác động hai chiều lên thị trường Việt Nam."
+      "note": "Rủi ro địa chính trị làm chứng khoán toàn cầu thận trọng, nhưng dầu giảm lại hỗ trợ lạm phát và chi phí đầu vào của Việt Nam."
     },
     {
-      "title": "67 nghìn SME trên 5 năm tuổi, không vay nợ, có dòng tiền dương",
+      "title": "67 nghìn SME hoạt động trên 5 năm, không vay nợ, dòng tiền và doanh thu tăng",
       "impact": "↑",
-      "note": "Tệp khách hàng lành mạnh này mở dư địa tăng trưởng tín dụng chất lượng cho nhóm ngân hàng."
+      "note": "Sức khỏe khu vực tư nhân cải thiện là nền tảng cho tăng trưởng tín dụng chất lượng và lợi nhuận nhóm ngân hàng."
     },
     {
-      "title": "Công trình 2,3 tỷ USD hiện đại nhất Việt Nam tiếp tục về đích",
+      "title": "Thị trường CCS (thu giữ - lưu trữ carbon) tiềm năng hàng chục tỷ USD",
       "impact": "↑",
-      "note": "Đầu tư công quy mô lớn hỗ trợ nhóm xây dựng - vật liệu, dù sự cố nứt đập là rủi ro chất lượng cần theo dõi."
-    },
-    {
-      "title": "Tài sản ông Phạm Nhật Vượng tăng hàng tỷ USD ngược chiều tỷ phú công nghệ Mỹ",
-      "impact": "↑",
-      "note": "Phản ánh đà tăng mạnh của nhóm cổ phiếu họ Vingroup - động lực chính kéo chỉ số vượt 1800 điểm."
+      "note": "Mở ra chủ đề đầu tư dài hạn cho nhóm dầu khí, năng lượng và hạ tầng kỹ thuật trong xu hướng chuyển đổi xanh."
     }
   ]
 }
