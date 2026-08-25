@@ -2,35 +2,35 @@
   "_opus": true,
   "date": "2026-08-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index vượt cản 1800 điểm nhưng động lực chủ yếu đến từ nhóm cổ phiếu trụ, độ rộng thị trường chưa đồng thuận nên đà tăng còn thiếu bền vững. Rủi ro ngắn hạn đáng chú ý nhất là mặt bằng lãi suất nóng lên trong khi nợ vay của doanh nghiệp bất động sản đã vượt 500,000 tỷ đồng, gây áp lực lên chi phí tài chính của nhóm BĐS - xây dựng và chất lượng tài sản ngân hàng. Áp lực giải chấp margin tại TCM cho thấy đòn bẩy trên thị trường đang ở mức cao sau giai đoạn tăng nóng. Vàng miếng và vàng nhẫn tăng dựng đứng (nhẫn thêm tới 8,5 triệu đồng/lượng chỉ trong 4 phiên) phản ánh tâm lý phòng thủ và có thể phân tán dòng tiền khỏi cổ phiếu, trong khi căng thẳng Mỹ - Iran khiến chứng khoán Mỹ giằng co dù giá dầu giảm giúp hạ nhiệt lạm phát chi phí đẩy. Chiến lược hợp lý là ưu tiên doanh nghiệp có dòng tiền thực và nợ vay thấp, hạn chế đòn bẩy khi chỉ số tiệm cận vùng kháng cự.",
+  "summary_vi": "VN-Index vượt cản 1800 điểm nhưng chủ yếu do nhóm trụ kéo, độ rộng thị trường chưa đồng thuận nên đà tăng còn thiếu bền vững. Rủi ro lớn nhất đến từ mặt bằng lãi suất nóng lên trong khi nợ vay của doanh nghiệp bất động sản vượt 500,000 tỷ đồng, gây áp lực lên chi phí tài chính và chất lượng tài sản ngân hàng. Áp lực giải chấp margin (điển hình là TCM) cho thấy đòn bẩy hệ thống đang cao, dễ khuếch đại nhịp rung lắc. Giá vàng miếng và vàng nhẫn tăng dựng đứng phản ánh tâm lý phòng thủ và có thể hút bớt dòng tiền khỏi cổ phiếu, dù việc dầu sụt giá nhờ căng thẳng Mỹ - Iran lại giúp hạ nhiệt lạm phát nhập khẩu. Ngắn hạn nên ưu tiên doanh nghiệp có dòng tiền thực và nợ vay thấp, hạn chế đòn bẩy khi chỉ số tiệm cận vùng kháng cự.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ giữa áp lực lãi suất tăng",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500,000 tỷ khi lãi suất nóng lên",
       "impact": "↓",
-      "note": "Lãi suất nóng lên trên nền nợ vay kỷ lục làm tăng chi phí tài chính nhóm BĐS - xây dựng và rủi ro nợ xấu cho ngân hàng."
+      "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm tăng rủi ro nợ xấu cho ngân hàng cho vay."
     },
     {
-      "title": "Trụ lớn kéo VN-Index vượt cản 1800 điểm, thị trường chưa đồng thuận",
+      "title": "VN-Index vượt cản 1800 điểm nhưng thị trường chưa đồng thuận",
       "impact": "→",
-      "note": "Vượt kháng cự là tín hiệu kỹ thuật tích cực nhưng độ rộng yếu cho thấy dòng tiền chưa lan tỏa, dễ rung lắc."
+      "note": "Vượt kháng cự là tín hiệu kỹ thuật tốt, song chỉ số đi lên nhờ vài mã trụ nên dòng tiền chưa thực sự lan tỏa."
     },
     {
       "title": "Cổ đông lớn bị giải chấp, bán gần 5 triệu cổ phiếu TCM",
       "impact": "↓",
-      "note": "Cảnh báo tỷ lệ margin cao trong hệ thống, dễ kích hoạt bán giải chấp dây chuyền nếu thị trường điều chỉnh."
+      "note": "Cảnh báo tỷ lệ margin cao trong hệ thống, dễ tạo hiệu ứng bán giải chấp dây chuyền khi thị trường điều chỉnh."
     },
     {
       "title": "Giá vàng miếng và vàng nhẫn tăng mạnh, nhẫn thêm 8,5 triệu đồng/lượng sau 4 phiên",
       "impact": "↓",
-      "note": "Tâm lý trú ẩn lên cao hút bớt dòng tiền ngắn hạn khỏi kênh cổ phiếu và hàm ý kỳ vọng lạm phát - tỷ giá xấu đi."
+      "note": "Sóng vàng nóng phản ánh tâm lý trú ẩn và cạnh tranh trực tiếp dòng tiền ngắn hạn với kênh cổ phiếu."
     },
     {
-      "title": "Chứng khoán Mỹ giằng co khi Mỹ tăng sức ép lên Iran, dầu sụt giá",
+      "title": "Chứng khoán Mỹ giằng co khi Mỹ gia tăng sức ép lên Iran, dầu sụt giá",
       "impact": "→",
-      "note": "Rủi ro địa chính trị khiến tâm lý toàn cầu thận trọng, bù lại dầu giảm giúp hạ áp lực lạm phát nhập khẩu."
+      "note": "Rủi ro địa chính trị khiến tâm lý toàn cầu thận trọng, nhưng dầu giảm giúp hạ áp lực chi phí đầu vào và lạm phát."
     },
     {
-      "title": "67 nghìn SME trên 5 năm tuổi không vay nợ, có dòng tiền và tăng trưởng doanh thu",
+      "title": "67 nghìn SME trên 5 năm tuổi, không vay nợ, có dòng tiền và tăng trưởng doanh thu",
       "impact": "↑",
       "note": "Tệp khách hàng chất lượng mở dư địa tăng trưởng tín dụng an toàn cho nhóm ngân hàng bán lẻ - SME."
     }
