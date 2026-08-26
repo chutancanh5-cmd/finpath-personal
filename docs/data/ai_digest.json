@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-08-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng vốn ngoại là điểm nhấn lớn nhất phiên 26/08 khi hai nhà đầu tư nước ngoài được cho là đang đàm phán mua 15% cổ phần Techcombank với quy mô có thể lên tới 2 tỷ USD, kéo TCB tăng kịch trần và lan tỏa kỳ vọng định giá lại nhóm ngân hàng. Cùng hướng, quỹ ngoại nhận định nhiều cổ phiếu Việt Nam đang ở vùng định giá thấp bất thường, còn BSC bắt tay đối tác thuộc tập đoàn tài chính Nhật Bản hơn 500 tỷ USD — những tín hiệu cho thấy khẩu vị của khối ngoại với nhóm tài chính đang cải thiện. Ở tầng vĩ mô, các thảo luận về chuyển đổi mô hình tăng trưởng, nâng giá trị nội địa và cải thiện liên kết với khu vực FDI mang tính định hướng trung hạn, chưa tạo tác động tức thời lên lợi nhuận doanh nghiệp. Rủi ro ngắn hạn vẫn cần theo dõi: gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn quý 3/2026, một lượng lớn cổ phiếu sắp bị đình chỉ giao dịch, và giá vàng tăng nóng phản ánh tâm lý phòng thủ còn cao. Với VN-Index rung lắc quanh 1.795 điểm, ưu tiên hợp lý là nhóm ngân hàng - chứng khoán có nền tảng vốn tốt, đồng thời hạn chế đòn bẩy và tránh doanh nghiệp chịu áp lực đáo hạn nợ lớn.",
+  "summary_vi": "Câu chuyện dòng vốn ngoại chi phối phiên 26/08: thông tin hai nhà đầu tư lớn nước ngoài đàm phán mua 15% cổ phần Techcombank với quy mô có thể tới 2 tỷ USD đã kéo TCB tăng kịch trần và mở ra kỳ vọng định giá lại toàn nhóm ngân hàng. Cùng chiều, quỹ ngoại đánh giá nhiều cổ phiếu Việt Nam đang ở vùng định giá thấp bất thường, còn BSC bắt tay đối tác thuộc tập đoàn tài chính Nhật Bản quy mô hơn 500 tỷ USD — cho thấy khẩu vị của khối ngoại với nhóm tài chính đang ấm lên. Tầng vĩ mô nghiêng về định hướng trung hạn: chuyển đổi mô hình tăng trưởng, nâng giá trị nội địa và cải thiện liên kết với khu vực FDI là câu chuyện chính sách, chưa tác động ngay tới lợi nhuận doanh nghiệp niêm yết. Rủi ro ngắn hạn cần theo dõi gồm gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn quý 3/2026, hàng chục triệu cổ phiếu sắp bị đình chỉ giao dịch và giá vàng tăng nóng phản ánh tâm lý phòng thủ vẫn còn. Với VN-Index rung lắc quanh 1.795 điểm, chiến lược hợp lý là ưu tiên ngân hàng - chứng khoán có nền tảng vốn mạnh, hạ đòn bẩy và tránh doanh nghiệp có áp lực đáo hạn nợ lớn.",
   "top": [
     {
       "title": "Hai nhà đầu tư ngoại đàm phán mua 15% cổ phần Techcombank, quy mô tới 2 tỷ USD",
@@ -12,7 +12,7 @@
     {
       "title": "Quỹ ngoại: định giá nhiều cổ phiếu Việt Nam ở mức thấp bất thường",
       "impact": "↑",
-      "note": "Đánh giá định giá hấp dẫn từ khối ngoại củng cố kỳ vọng mua ròng trở lại ở nhóm vốn hóa lớn."
+      "note": "Nhận định định giá hấp dẫn từ khối ngoại củng cố kỳ vọng mua ròng trở lại ở nhóm vốn hóa lớn."
     },
     {
       "title": "BSC hợp tác với thành viên tập đoàn tài chính Nhật Bản hơn 500 tỷ USD",
@@ -25,14 +25,14 @@
       "note": "Áp lực thanh khoản và tái cơ cấu nợ đè nặng lên nhóm bất động sản, xây dựng."
     },
     {
-      "title": "Hàng chục triệu cổ phiếu sắp bị đình chỉ giao dịch sau một tuần nữa",
+      "title": "Hàng chục triệu cổ phiếu sắp bị đình chỉ giao dịch trong một tuần nữa",
       "impact": "↓",
       "note": "Rủi ro quản trị và mất thanh khoản ở nhóm vi phạm công bố thông tin làm giảm khẩu vị đầu cơ."
     },
     {
       "title": "Giá vàng nhẫn 9999 tăng mạnh, dự báo đợt tăng mạnh nhất 25 năm",
       "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng cao cho thấy tâm lý phòng thủ và có thể hút bớt dòng tiền khỏi kênh cổ phiếu."
+      "note": "Nhu cầu trú ẩn tăng cao phản ánh tâm lý phòng thủ và có thể hút bớt dòng tiền khỏi kênh cổ phiếu."
     }
   ]
 }
