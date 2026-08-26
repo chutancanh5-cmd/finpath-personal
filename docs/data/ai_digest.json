@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-08-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường phiên 26/08 bứt phá gần 30 điểm, VN-Index vượt 1.820 với ngân hàng và bất động sản dẫn sóng, TCB tăng kịch trần cho thấy dòng tiền lớn đang tập trung vào nhóm vốn hóa trụ cột. Chất xúc tác chính sách rõ nét khi 12 ngân hàng đồng loạt tung gói tín dụng 408.000 tỷ đồng phục vụ mục tiêu tăng trưởng hai con số, hàm ý room tín dụng được nới và vốn rẻ khơi thông cho bất động sản, xây dựng, vật liệu và tiêu dùng. Nền vĩ mô được củng cố bởi FDI đăng ký gần 3,7 tỷ USD trong 7 tháng cùng định hướng chuyển đổi mô hình tăng trưởng, hỗ trợ dài hạn cho khu công nghiệp, logistics và hạ tầng. Rủi ro ngắn hạn là chỉ số tăng nhanh theo chiều dốc, độ rộng tập trung ở bluechip nên áp lực chốt lời và rung lắc ở vùng đỉnh dễ xuất hiện; giá vàng nhẫn tăng mạnh hơn vàng miếng SJC phản ánh nhu cầu trú ẩn còn cao, trong khi giá dầu hạ nhiệt gây sức ép lên biên lợi nhuận nhóm dầu khí. Ưu tiên bám nhóm dẫn dắt có nền tảng cơ bản, hạn chế mua đuổi và giữ tỷ trọng tiền mặt phòng thủ.",
+  "summary_vi": "Phiên 26/08 ghi nhận đà bứt phá mạnh khi VN-Index tăng gần 30 điểm, vượt mốc 1.820 với ngân hàng và bất động sản dẫn sóng, TCB tăng kịch trần cho thấy dòng tiền lớn đang tập trung vào nhóm trụ cột. Chất xúc tác chính sách rõ nét khi 12 ngân hàng đồng loạt tung gói tín dụng 408.000 tỷ đồng phục vụ mục tiêu tăng trưởng hai con số, hàm ý tín dụng được khơi thông cho bất động sản, xây dựng, vật liệu và tiêu dùng. Nền vĩ mô được củng cố bởi FDI đăng ký gần 3,7 tỷ USD trong 7 tháng cùng định hướng chuyển đổi mô hình tăng trưởng, hỗ trợ dài hạn cho khu công nghiệp, logistics và hạ tầng; việc SSB vào rổ FTSE Global All Cap cũng là điểm cộng cho dòng vốn ngoại. Rủi ro ngắn hạn là chỉ số tăng dốc trong thời gian ngắn, độ rộng tập trung ở bluechip nên áp lực chốt lời và rung lắc vùng đỉnh dễ xuất hiện, trong khi giá vàng nhẫn tăng mạnh phản ánh nhu cầu trú ẩn còn cao và giá dầu hạ nhiệt gây sức ép lên biên lợi nhuận nhóm dầu khí. Ưu tiên bám nhóm dẫn dắt có nền tảng cơ bản, hạn chế mua đuổi và giữ một phần tiền mặt phòng thủ.",
   "top": [
     {
       "title": "12 ngân hàng tung gói tín dụng 408.000 tỷ đồng",
@@ -12,12 +12,7 @@
     {
       "title": "VN-Index bứt phá gần 30 điểm, vượt mốc 1.820",
       "impact": "↑",
-      "note": "Xác nhận xu hướng tăng với thanh khoản và dòng tiền lan tỏa ở nhóm dẫn dắt."
-    },
-    {
-      "title": "FDI đăng ký gần 3,7 tỷ USD trong 7 tháng, mở rộng hợp tác đầu tư",
-      "impact": "↑",
-      "note": "Nhóm vốn hóa lớn nhất thị trường hút tiền, tạo lực kéo chính cho chỉ số."
+      "note": "Xác nhận xu hướng tăng với dòng tiền lan tỏa ở nhóm dẫn dắt, củng cố tâm lý nhà đầu tư."
     },
     {
       "title": "FDI đăng ký gần 3,7 tỷ USD trong 7 tháng, mở rộng hợp tác đầu tư",
@@ -25,12 +20,17 @@
       "note": "Dòng vốn ngoại duy trì tích cực, hỗ trợ khu công nghiệp, logistics và hạ tầng."
     },
     {
+      "title": "Cổ phiếu SSB của SeABank vào rổ FTSE Global All Cap",
+      "impact": "↑",
+      "note": "Được thêm vào rổ chỉ số toàn cầu giúp thu hút dòng vốn quỹ ngoại thụ động vào nhóm ngân hàng."
+    },
+    {
       "title": "Kinh tế Việt Nam trước bước chuyển mô hình tăng trưởng",
       "impact": "→",
       "note": "Câu chuyện cải cách dài hạn tích cực nhưng chưa tác động ngay lên định giá cổ phiếu."
     },
     {
-      "title": "Giá vàng nhẫn tăng mạnh hơn vàng miếng SJC",
+      "title": "Nhóm xăng dầu khí kinh doanh ra sao khi giá dầu hạ nhiệt",
       "impact": "↓",
       "note": "Giá dầu giảm bào mòn biên lợi nhuận và gây áp lực lên cổ phiếu dầu khí."
     }
