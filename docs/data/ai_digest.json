@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-26",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chủ đề vĩ mô nổi bật hôm nay là câu chuyện chuyển đổi mô hình tăng trưởng và gỡ điểm nghẽn thể chế để hướng tới mục tiêu tăng trưởng hai con số, tạo nền kỳ vọng tích cực trung hạn cho nhóm đầu tư công, ngân hàng, bất động sản khu công nghiệp và sản xuất. Ở tầng doanh nghiệp, tín hiệu hỗ trợ đến từ việc loạt lãnh đạo MB đăng ký mua lượng lớn cổ phiếu khi ngân hàng hướng tới vốn điều lệ vượt 100.000 tỷ đồng, cùng thỏa thuận hợp tác giữa BSC và một tập đoàn tài chính Nhật Bản quy mô hơn 500 tỷ USD — cho thấy dòng vốn ngoại vẫn quan tâm tới ngành tài chính Việt Nam. Ở chiều rủi ro, gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn ngay trong quý 3/2026 tạo áp lực thanh khoản cho các doanh nghiệp đòn bẩy cao, trong khi dòng tiền toàn cầu đang thận trọng với cổ phiếu và dịch chuyển sang vàng, trái phiếu. Giá vàng miếng và vàng nhẫn tăng lên vùng cao nhất hơn ba tháng có thể hút bớt một phần dòng tiền đầu cơ khỏi kênh chứng khoán. Ưu tiên cổ phiếu có dòng tiền khỏe, câu chuyện tăng vốn hoặc hợp tác ngoại rõ ràng; hạn chế nhóm nợ vay lớn với trái phiếu đáo hạn cận kề.",
+  "summary_vi": "Tâm điểm phiên là việc FTSE Russell công bố tài liệu chi tiết về tỷ trọng của Việt Nam, lộ trình giải ngân và phân loại cổ phiếu — yếu tố nền tảng hỗ trợ dòng vốn ngoại trung hạn, đặc biệt với nhóm vốn hóa lớn, ngân hàng và chứng khoán. Ở khía cạnh chính sách, các thảo luận về chuyển đổi mô hình tăng trưởng và gỡ điểm nghẽn cho doanh nghiệp củng cố kỳ vọng tăng trưởng cao, dù tác động chủ yếu mang tính dài hạn hơn là ngay lập tức. Rủi ro ngắn hạn đến từ áp lực gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026 (gây sức ép thanh khoản lên bất động sản và ngân hàng) cùng xu hướng dòng tiền toàn cầu rút khỏi cổ phiếu để trú ẩn vào vàng và trái phiếu. Giá vàng trong nước tiếp tục tăng mạnh, phản ánh khẩu vị rủi ro thận trọng và có thể hút bớt một phần dòng tiền khỏi chứng khoán. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu hưởng lợi trực tiếp từ câu chuyện nâng hạng và hạn chế mã có áp lực đáo hạn trái phiếu lớn.",
   "top": [
     {
-      "title": "Gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026",
+      "title": "FTSE Russell công bố tỷ trọng Việt Nam, lộ trình giải ngân và phân loại cổ phiếu",
+      "impact": "↑",
+      "note": "Làm rõ quy mô và thời điểm dòng vốn ngoại vào thị trường, hỗ trợ mạnh nhóm bluechip đủ điều kiện lọt rổ."
+    },
+    {
+      "title": "Gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn quý 3/2026",
       "impact": "↓",
-      "note": "Áp lực trả nợ dồn trong một quý làm tăng rủi ro thanh khoản và tâm lý dè dặt với nhóm doanh nghiệp đòn bẩy cao."
+      "note": "Áp lực thanh khoản dồn vào nhóm bất động sản và ngân hàng tài trợ, làm tăng rủi ro tín dụng ngắn hạn."
     },
     {
       "title": "Dòng tiền toàn cầu thận trọng với cổ phiếu, đổ mạnh vào vàng và trái phiếu",
       "impact": "↓",
-      "note": "Khẩu vị rủi ro toàn cầu suy giảm thường kéo theo áp lực bán ròng của khối ngoại tại thị trường cận biên như Việt Nam."
+      "note": "Khẩu vị rủi ro toàn cầu suy giảm có thể khiến khối ngoại chậm giải ngân vào thị trường mới nổi như Việt Nam."
     },
     {
-      "title": "Lãnh đạo MB đăng ký mua lượng lớn cổ phiếu, hướng tới vốn điều lệ vượt 100.000 tỷ",
+      "title": "Lãnh đạo cấp cao MB đăng ký mua lượng lớn cổ phiếu, hướng tới vốn điều lệ trên 100.000 tỷ",
       "impact": "↑",
-      "note": "Lãnh đạo mua vào là tín hiệu tự tin về định giá, hỗ trợ tâm lý cho nhóm ngân hàng dẫn dắt chỉ số."
+      "note": "Tín hiệu nội bộ tự tin vào triển vọng ngân hàng, tạo tâm lý tích cực lan tỏa sang nhóm cổ phiếu vua."
     },
     {
-      "title": "Tập đoàn tài chính Nhật Bản hơn 500 tỷ USD bắt tay BSC",
+      "title": "Gỡ điểm nghẽn cho doanh nghiệp, hướng tới tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Hợp tác với đối tác ngoại quy mô lớn củng cố triển vọng nhóm chứng khoán và dòng vốn nước ngoài vào ngành tài chính."
+      "note": "Cải thiện môi trường kinh doanh và giải ngân đầu tư giúp nâng nền lợi nhuận doanh nghiệp niêm yết."
     },
     {
-      "title": "Gỡ điểm nghẽn thực chất, tạo thuận lợi cho doanh nghiệp tăng trưởng hai con số",
-      "impact": "↑",
-      "note": "Cải cách thể chế và môi trường kinh doanh nâng kỳ vọng lợi nhuận doanh nghiệp trung hạn."
-    },
-    {
-      "title": "Giá vàng nhẫn, vàng miếng tăng mạnh lên vùng cao nhất hơn 3 tháng",
+      "title": "Giá vàng nhẫn và vàng miếng tiếp tục tăng mạnh",
       "impact": "→",
-      "note": "Vàng hút bớt dòng tiền đầu cơ ngắn hạn nhưng chưa đủ để đảo chiều xu hướng thanh khoản trên sàn."
+      "note": "Phản ánh nhu cầu trú ẩn gia tăng, có thể cạnh tranh dòng tiền với chứng khoán nhưng chưa tạo áp lực bán rõ rệt."
     }
   ]
 }
