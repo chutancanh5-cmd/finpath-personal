@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường có phiên bứt phá mạnh khi VN-Index tăng gần 30 điểm, vượt mốc 1800 và kéo dài chuỗi tăng sang phiên thứ 5, với dòng tiền tập trung vào nhóm ngân hàng và bất động sản. Chính sách tiền tệ tiếp tục theo hướng nới lỏng khi 12 ngân hàng tung gói tín dụng 408.000 tỷ đồng hỗ trợ mục tiêu tăng trưởng hai con số, cộng hưởng với dòng vốn FDI đăng ký gần 3,7 tỷ USD trong 7 tháng và việc SSB được thêm vào rổ FTSE Global All Cap giúp cải thiện tâm lý khối ngoại. Về trung hạn, câu chuyện chuyển đổi mô hình tăng trưởng và hợp tác quốc tế (Nhật Bản, châu Phi) mở thêm dư địa cho nhóm tài chính, xuất khẩu và hạ tầng. Tuy nhiên rủi ro ngắn hạn đang tăng: chỉ số đã tăng nóng nhiều phiên liên tiếp nên áp lực chốt lời tại vùng 1800 là hiện hữu, trong khi giá vàng nhẫn tăng mạnh cho thấy nhu cầu trú ẩn và lo ngại lạm phát/tỷ giá vẫn âm ỉ. Đẩy mạnh tín dụng nhanh cũng đặt ra vấn đề chất lượng tài sản ngân hàng nếu hấp thụ vốn của nền kinh tế không theo kịp.",
+  "summary_vi": "Dòng tiền tiếp tục đổ mạnh vào cổ phiếu khi VN-Index bứt phá gần 30 điểm, ghi nhận phiên tăng thứ 5 liên tiếp với ngân hàng và bất động sản dẫn sóng (TCB tăng trần, BCM cháy hàng). Chính sách tiền tệ nới lỏng là chất xúc tác chính: 12 ngân hàng tung gói tín dụng 408.000 tỷ đồng nhằm hỗ trợ mục tiêu tăng trưởng hai con số, cộng hưởng với FDI tích cực (gần 3,7 tỷ USD đăng ký trong 7 tháng từ nền kinh tế lớn thứ hai thế giới) và câu chuyện chuyển đổi mô hình tăng trưởng. Yếu tố kỹ thuật cũng hỗ trợ khi SSB được thêm vào rổ FTSE Global All Cap, mở đường cho dòng vốn ngoại thụ động. Rủi ro ngắn hạn đến từ biến động lợi suất trái phiếu kho bạc Mỹ đẩy dòng tiền trú ẩn sang vàng và bitcoin, giá vàng nhẫn tăng nóng hút bớt thanh khoản, cùng nguy cơ rung lắc do nhóm ngân hàng đã tăng nhanh và tín dụng bơm mạnh có thể gây áp lực tỷ giá, nợ xấu về sau. Nhà đầu tư nên tận dụng đà tăng nhưng hạn chế mua đuổi ở vùng giá cao.",
   "top": [
     {
-      "title": "VN-Index bứt phá gần 30 điểm, vượt mốc 1800",
+      "title": "VN-Index bứt phá gần 30 điểm, ngân hàng và bất động sản dẫn sóng",
       "impact": "↑",
-      "note": "Dòng tiền lan tỏa mạnh ở blue-chips ngân hàng và bất động sản củng cố xu hướng tăng."
+      "note": "Phiên tăng thứ 5 liên tiếp với thanh khoản lan tỏa ở nhóm vốn hóa lớn cho thấy dòng tiền đang rất mạnh."
     },
     {
       "title": "12 ngân hàng tung gói tín dụng 408.000 tỷ đồng",
       "impact": "↑",
-      "note": "Bơm vốn quy mô lớn hỗ trợ tăng trưởng và biên lợi nhuận nhóm ngân hàng, bất động sản."
-    },
-    {
-      "title": "FDI đăng ký gần 3,7 tỷ USD trong 7 tháng từ đối tác lớn",
-      "impact": "↑",
-      "note": "Dòng vốn ngoại ổn định củng cố nền tảng vĩ mô và triển vọng khu công nghiệp, xuất khẩu."
+      "note": "Tín dụng giá rẻ quy mô lớn hỗ trợ tăng trưởng lợi nhuận doanh nghiệp và trực tiếp nâng đỡ nhóm ngân hàng, bất động sản."
     },
     {
       "title": "Cổ phiếu SSB vào rổ FTSE Global All Cap",
       "impact": "↑",
-      "note": "Tín hiệu tích cực cho hút vốn ngoại thụ động và câu chuyện nâng hạng thị trường."
+      "note": "Được thêm vào chỉ số toàn cầu giúp thu hút dòng vốn ngoại thụ động và củng cố kỳ vọng nâng hạng thị trường."
     },
     {
-      "title": "Cổ phiếu TCB, BCM cháy hàng, phiên tăng thứ 5 liên tiếp",
-      "impact": "→",
-      "note": "Đà tăng nóng kéo dài làm tăng rủi ro chốt lời và rung lắc ở vùng kháng cự."
+      "title": "FDI đăng ký gần 3,7 tỷ USD trong 7 tháng, mở rộng hợp tác đầu tư",
+      "impact": "↑",
+      "note": "Vốn ngoại giải ngân bền vững củng cố nền tảng vĩ mô cho nhóm khu công nghiệp, logistics và ngân hàng."
+    },
+    {
+      "title": "Biến động trái phiếu kho bạc Mỹ khiến vàng và bitcoin tỏa sáng",
+      "impact": "↓",
+      "note": "Lợi suất Mỹ biến động mạnh làm tăng rủi ro tỷ giá và có thể kích hoạt dòng vốn ngoại rút khỏi thị trường mới nổi."
     },
     {
       "title": "Giá vàng nhẫn tăng mạnh hơn vàng miếng SJC",
       "impact": "↓",
-      "note": "Nhu cầu trú ẩn tăng phản ánh lo ngại lạm phát, tỷ giá có thể hút bớt dòng tiền khỏi cổ phiếu."
+      "note": "Kênh trú ẩn nóng lên cạnh tranh dòng tiền nhàn rỗi với chứng khoán và phản ánh tâm lý phòng thủ lạm phát."
     }
   ]
 }
