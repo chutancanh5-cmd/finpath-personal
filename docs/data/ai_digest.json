@@ -2,10 +2,10 @@
   "_opus": true,
   "date": "2026-08-26",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô hôm nay nghiêng về hỗ trợ trung hạn khi Chính phủ tiếp tục nhấn mạnh gỡ điểm nghẽn thể chế cho doanh nghiệp và đặt mục tiêu tăng trưởng hai con số, song hành với câu chuyện chuyển đổi mô hình tăng trưởng của nền kinh tế. Dòng vốn ngoại là điểm sáng rõ nhất: thị trường đang chờ đợt giải ngân của FTSE vào các cổ phiếu trong rổ, trong khi một tập đoàn tài chính Nhật Bản quy mô hơn 500 tỷ USD bắt tay BSC, củng cố kỳ vọng định giá lại nhóm chứng khoán. Tuy vậy nội tại thị trường vẫn thận trọng khi VN-Index chỉ tăng nhẹ với áp lực chốt lời mạnh lên, còn tự doanh và khối ngoại giao dịch trái chiều — dấu hiệu dòng tiền phân hóa ở vùng giá cao. Rủi ro ngắn hạn đáng lo nhất là mặt bằng lãi suất nóng lên trong bối cảnh nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ đồng, đe dọa biên lợi nhuận nhóm bất động sản và chất lượng tài sản ngân hàng; thêm vào đó vàng và Bitcoin cùng tăng giá hút bớt dòng tiền nhàn rỗi. Chiến lược hợp lý là ưu tiên cổ phiếu hưởng lợi trực tiếp từ dòng vốn ETF và chính sách, duy trì tỷ trọng cân bằng, hạn chế mua đuổi và tránh nhóm có đòn bẩy tài chính cao.",
+  "summary_vi": "Dòng tin vĩ mô hôm nay nghiêng về hỗ trợ trung hạn khi Chính phủ tiếp tục nhấn mạnh gỡ điểm nghẽn thể chế cho doanh nghiệp, hướng tới mục tiêu tăng trưởng hai con số và chuyển đổi mô hình tăng trưởng của nền kinh tế. Điểm sáng dòng vốn ngoại khá rõ: thị trường chờ đợt giải ngân của FTSE vào các mã trong rổ, đồng thời một tập đoàn tài chính Nhật Bản quy mô hơn 500 tỷ USD bắt tay BSC, củng cố kỳ vọng định giá lại nhóm chứng khoán. Tuy vậy nội tại thị trường vẫn thận trọng khi VN-Index chỉ tăng nhẹ với áp lực chốt lời gia tăng, còn tự doanh và khối ngoại giao dịch trái chiều — dấu hiệu dòng tiền phân hóa tại vùng giá cao. Rủi ro ngắn hạn lớn nhất là mặt bằng lãi suất nóng lên trong khi nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ đồng, đe dọa biên lợi nhuận nhóm bất động sản và chất lượng tài sản ngân hàng; bên cạnh đó vàng neo cao trước báo cáo lạm phát Mỹ và tỷ giá USD tiếp tục là ẩn số hút bớt dòng tiền nhàn rỗi. Chiến lược hợp lý là ưu tiên cổ phiếu hưởng lợi trực tiếp từ dòng vốn ETF và chính sách, giữ tỷ trọng cân bằng, hạn chế mua đuổi và tránh nhóm đòn bẩy tài chính cao.",
   "top": [
     {
-      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ, áp lực lãi suất nóng lên",
+      "title": "Nợ vay doanh nghiệp bất động sản vượt 500.000 tỷ giữa áp lực lãi suất nóng lên",
       "impact": "↓",
       "note": "Chi phí vốn tăng bào mòn lợi nhuận nhóm bất động sản và làm dấy lên lo ngại nợ xấu lan sang ngân hàng."
     },
@@ -15,7 +15,7 @@
       "note": "Dòng vốn ETF ngoại chảy vào rổ chỉ số giúp cải thiện thanh khoản và nâng đỡ tâm lý thị trường ngắn hạn."
     },
     {
-      "title": "Gỡ điểm nghẽn thực chất cho doanh nghiệp, hướng tới tăng trưởng hai con số",
+      "title": "Gỡ điểm nghẽn thực chất, tạo thuận lợi cho doanh nghiệp hướng tới tăng trưởng hai con số",
       "impact": "↑",
       "note": "Cải cách thể chế và môi trường kinh doanh củng cố kỳ vọng lợi nhuận doanh nghiệp niêm yết trung hạn."
     },
@@ -30,9 +30,9 @@
       "note": "Chỉ số giữ sắc xanh song lực cung gia tăng cho thấy đà tăng đang chững lại tại vùng kháng cự."
     },
     {
-      "title": "Vàng ETF toàn cầu cao nhất 6 tháng, vàng nhẫn và Bitcoin cùng tăng giá",
+      "title": "Giá vàng tăng chậm lại trước báo cáo lạm phát Mỹ, SPDR Gold Trust bán ròng",
       "impact": "→",
-      "note": "Kênh tài sản thay thế hút bớt dòng tiền nhàn rỗi dù phản ánh khẩu vị rủi ro toàn cầu cải thiện."
+      "note": "Thị trường chờ số liệu lạm phát Mỹ để định hình kỳ vọng lãi suất, khiến dòng tiền tạm thời thận trọng."
     }
   ]
 }
