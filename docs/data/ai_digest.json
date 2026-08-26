@@ -1,13 +1,18 @@
 {
   "_opus": true,
   "date": "2026-08-26",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Tâm điểm phiên là việc FTSE Russell công bố tài liệu chi tiết về tỷ trọng của Việt Nam, lộ trình giải ngân và phân loại cổ phiếu — yếu tố nền tảng hỗ trợ dòng vốn ngoại trung hạn, đặc biệt với nhóm vốn hóa lớn, ngân hàng và chứng khoán. Ở khía cạnh chính sách, các thảo luận về chuyển đổi mô hình tăng trưởng và gỡ điểm nghẽn cho doanh nghiệp củng cố kỳ vọng tăng trưởng cao, dù tác động chủ yếu mang tính dài hạn hơn là ngay lập tức. Rủi ro ngắn hạn đến từ áp lực gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026 (gây sức ép thanh khoản lên bất động sản và ngân hàng) cùng xu hướng dòng tiền toàn cầu rút khỏi cổ phiếu để trú ẩn vào vàng và trái phiếu. Giá vàng trong nước tiếp tục tăng mạnh, phản ánh khẩu vị rủi ro thận trọng và có thể hút bớt một phần dòng tiền khỏi chứng khoán. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu hưởng lợi trực tiếp từ câu chuyện nâng hạng và hạn chế mã có áp lực đáo hạn trái phiếu lớn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Tâm điểm phiên là việc FTSE Russell công bố tài liệu chi tiết về tỷ trọng của Việt Nam, lộ trình giải ngân và tiêu chí phân loại cổ phiếu — thông tin lượng hóa được quy mô và thời điểm dòng vốn ngoại, hỗ trợ trực tiếp nhóm bluechip đủ điều kiện lọt rổ, ngân hàng và chứng khoán. Câu chuyện định giá cũng ủng hộ khi quỹ ngoại đánh giá nhiều cổ phiếu Việt Nam đang ở vùng thấp bất thường, trong khi lãnh đạo MB đăng ký mua lượng lớn cổ phiếu và một tập đoàn tài chính Nhật hơn 500 tỷ USD bắt tay BSC — các tín hiệu niềm tin từ dòng tiền nội bộ và ngoại. Về chính sách, các thảo luận chuyển đổi mô hình tăng trưởng và nâng giá trị nội địa trong chuỗi FDI củng cố kỳ vọng dài hạn nhưng chưa tạo tác động tức thì lên lợi nhuận quý. Rủi ro ngắn hạn đến từ gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn quý 3/2026, gây sức ép thanh khoản lên bất động sản và ngân hàng tài trợ, cùng đà tăng mạnh của vàng nhẫn và vàng miếng đang cạnh tranh dòng tiền trú ẩn. Chiến lược hợp lý là ưu tiên cổ phiếu hưởng lợi trực tiếp từ câu chuyện nâng hạng, giữ tỷ trọng cân bằng và tránh mã có áp lực đáo hạn trái phiếu lớn.",
   "top": [
     {
       "title": "FTSE Russell công bố tỷ trọng Việt Nam, lộ trình giải ngân và phân loại cổ phiếu",
       "impact": "↑",
-      "note": "Làm rõ quy mô và thời điểm dòng vốn ngoại vào thị trường, hỗ trợ mạnh nhóm bluechip đủ điều kiện lọt rổ."
+      "note": "Làm rõ quy mô và thời điểm dòng vốn ngoại đổ vào thị trường, hỗ trợ mạnh nhóm bluechip đủ điều kiện lọt rổ."
+    },
+    {
+      "title": "Quỹ ngoại: định giá nhiều cổ phiếu Việt Nam ở mức thấp bất thường",
+      "impact": "↑",
+      "note": "Định giá rẻ so với nền tảng cơ bản tạo dư địa mua vào cho khối ngoại trước thềm nâng hạng."
     },
     {
       "title": "Gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn quý 3/2026",
@@ -15,24 +20,19 @@
       "note": "Áp lực thanh khoản dồn vào nhóm bất động sản và ngân hàng tài trợ, làm tăng rủi ro tín dụng ngắn hạn."
     },
     {
-      "title": "Dòng tiền toàn cầu thận trọng với cổ phiếu, đổ mạnh vào vàng và trái phiếu",
-      "impact": "↓",
-      "note": "Khẩu vị rủi ro toàn cầu suy giảm có thể khiến khối ngoại chậm giải ngân vào thị trường mới nổi như Việt Nam."
-    },
-    {
-      "title": "Lãnh đạo cấp cao MB đăng ký mua lượng lớn cổ phiếu, hướng tới vốn điều lệ trên 100.000 tỷ",
+      "title": "Lãnh đạo cấp cao MB đăng ký mua lượng lớn cổ phiếu, hướng tới vốn điều lệ vượt 100.000 tỷ",
       "impact": "↑",
       "note": "Tín hiệu nội bộ tự tin vào triển vọng ngân hàng, tạo tâm lý tích cực lan tỏa sang nhóm cổ phiếu vua."
     },
     {
-      "title": "Gỡ điểm nghẽn cho doanh nghiệp, hướng tới tăng trưởng hai con số",
+      "title": "Tập đoàn tài chính hơn 500 tỷ USD của Nhật Bản hợp tác với BSC",
       "impact": "↑",
-      "note": "Cải thiện môi trường kinh doanh và giải ngân đầu tư giúp nâng nền lợi nhuận doanh nghiệp niêm yết."
+      "note": "Dòng vốn và kinh nghiệm ngoại vào khối chứng khoán củng cố kỳ vọng tăng vốn, mở rộng năng lực margin."
     },
     {
-      "title": "Giá vàng nhẫn và vàng miếng tiếp tục tăng mạnh",
+      "title": "Giá vàng nhẫn tăng mạnh hơn vàng miếng SJC, giá vàng diễn biến bất ngờ",
       "impact": "→",
-      "note": "Phản ánh nhu cầu trú ẩn gia tăng, có thể cạnh tranh dòng tiền với chứng khoán nhưng chưa tạo áp lực bán rõ rệt."
+      "note": "Nhu cầu trú ẩn gia tăng có thể hút bớt dòng tiền khỏi cổ phiếu nhưng chưa tạo áp lực bán rõ rệt."
     }
   ]
 }
