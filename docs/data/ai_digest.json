@@ -1,18 +1,13 @@
 {
   "_opus": true,
   "date": "2026-08-26",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thông tin chi phối phiên 26/08 là tài liệu của FTSE Russell về tỷ trọng Việt Nam, lộ trình giải ngân và tiêu chí phân loại cổ phiếu — yếu tố lượng hóa được quy mô và thời điểm dòng vốn ngoại thụ động, hỗ trợ trực tiếp nhóm vốn hóa lớn, ngân hàng và chứng khoán. Quan điểm của quỹ ngoại rằng định giá nhiều cổ phiếu Việt Nam đang thấp bất thường, cùng tín hiệu dòng tiền nội bộ (lãnh đạo MB đăng ký mua lượng lớn cổ phiếu, BSC bắt tay tập đoàn tài chính Nhật Bản), củng cố nền tảng tâm lý cho nhóm tài chính. Về vĩ mô, câu chuyện chuyển đổi mô hình tăng trưởng, kết nối FDI và gói tín dụng ưu đãi 2.500 tỷ đồng cho SME mang tính định hướng trung hạn, chưa đủ tạo chuyển biến lợi nhuận trong quý này. Rủi ro ngắn hạn nằm ở gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn quý 3/2026 gây áp lực thanh khoản lên bất động sản - xây dựng, và ở đà tăng mạnh của giá vàng cho thấy nhu cầu trú ẩn còn cao, phân tán một phần dòng tiền. Với chỉ số rung lắc quanh 1.795 điểm, chiến lược hợp lý là ưu tiên nhóm hưởng lợi nâng hạng và hạn chế đòn bẩy ở doanh nghiệp có áp lực đáo hạn nợ lớn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Dòng tin 26/08 nghiêng về câu chuyện định giá và chuyển đổi mô hình tăng trưởng hơn là các cú hích chính sách tức thời: quỹ ngoại đánh giá nhiều cổ phiếu Việt Nam đang ở vùng định giá thấp bất thường, trong khi các diễn đàn vĩ mô tập trung vào nâng giá trị nội địa và cải thiện kết nối với khu vực FDI — đây là nền tảng trung hạn, chưa chuyển ngay thành lợi nhuận quý. Nhóm tài chính có tín hiệu nội tại tích cực khi loạt lãnh đạo MB đăng ký mua lượng lớn cổ phiếu hướng tới vốn điều lệ vượt 100.000 tỷ, BSC hợp tác với tập đoàn tài chính Nhật Bản, và BVBank tung gói tín dụng ưu đãi 2.500 tỷ đồng cho SME. Rủi ro ngắn hạn đến từ gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026, tạo áp lực thanh khoản lên bất động sản - xây dựng, cùng đà tăng mạnh của giá vàng cho thấy nhu cầu trú ẩn còn cao và phân tán một phần dòng tiền. Với VN-Index rung lắc quanh 1.795 điểm, thị trường thiên về tích lũy; chiến lược hợp lý là ưu tiên ngân hàng - chứng khoán có nền tảng vốn tốt, hạn chế đòn bẩy và tránh doanh nghiệp có áp lực đáo hạn nợ lớn hoặc cổ phiếu đang bị cảnh báo giao dịch.",
   "top": [
     {
-      "title": "FTSE Russell công bố tỷ trọng Việt Nam và lộ trình giải ngân",
+      "title": "Quỹ ngoại: định giá nhiều cổ phiếu Việt Nam ở mức thấp bất thường",
       "impact": "↑",
-      "note": "Làm rõ quy mô, thời điểm dòng vốn ngoại thụ động và tiêu chí chọn cổ phiếu, hỗ trợ mạnh nhóm bluechip."
-    },
-    {
-      "title": "Quỹ ngoại đánh giá định giá nhiều cổ phiếu Việt Nam thấp bất thường",
-      "impact": "↑",
-      "note": "Quan điểm định giá hấp dẫn từ khối ngoại làm tăng kỳ vọng dòng tiền mua ròng quay lại."
+      "note": "Góc nhìn định giá hấp dẫn từ khối ngoại củng cố kỳ vọng dòng tiền mua ròng quay lại nhóm vốn hóa lớn."
     },
     {
       "title": "Gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn quý 3/2026",
@@ -20,19 +15,24 @@
       "note": "Áp lực thanh khoản và tái cấu trúc nợ đè nặng lên nhóm bất động sản, xây dựng."
     },
     {
-      "title": "Lãnh đạo MB đăng ký mua lượng lớn cổ phiếu, hướng tới vốn điều lệ trên 100.000 tỷ",
+      "title": "Lãnh đạo MB đăng ký mua lượng lớn cổ phiếu, hướng tới vốn điều lệ vượt 100.000 tỷ",
       "impact": "↑",
-      "note": "Giao dịch nội bộ và kế hoạch tăng vốn là tín hiệu tự tin, nâng đỡ tâm lý nhóm ngân hàng."
+      "note": "Giao dịch nội bộ cùng kế hoạch tăng vốn là tín hiệu tự tin, nâng đỡ tâm lý nhóm ngân hàng."
     },
     {
-      "title": "Giá vàng nhẫn 9999 tăng mạnh hơn vàng miếng SJC",
+      "title": "Giá vàng nhẫn 9999 tăng mạnh hơn vàng miếng SJC, dự báo đợt tăng mạnh nhất 25 năm",
       "impact": "↓",
-      "note": "Nhu cầu trú ẩn gia tăng phản ánh tâm lý phòng thủ và hút bớt dòng tiền khỏi kênh cổ phiếu."
+      "note": "Nhu cầu trú ẩn tăng cao phản ánh tâm lý phòng thủ và hút bớt dòng tiền khỏi kênh cổ phiếu."
     },
     {
-      "title": "VN-Index rung lắc quanh ngưỡng 1.795 điểm",
-      "impact": "→",
-      "note": "Giằng co ở vùng kháng cự cho thấy thị trường cần thêm thời gian tích lũy trước khi bứt phá."
+      "title": "Hàng chục triệu cổ phiếu bị đình chỉ giao dịch từ 3/9",
+      "impact": "↓",
+      "note": "Rủi ro thanh khoản và quản trị ở nhóm cổ phiếu vi phạm công bố thông tin làm giảm khẩu vị đầu cơ."
+    },
+    {
+      "title": "BSC bắt tay tập đoàn tài chính Nhật Bản hơn 500 tỷ USD; BVBank tung gói tín dụng SME 2.500 tỷ",
+      "impact": "↑",
+      "note": "Hợp tác vốn ngoại và tín dụng ưu đãi hỗ trợ triển vọng nhóm chứng khoán - ngân hàng quy mô vừa."
     }
   ]
 }
