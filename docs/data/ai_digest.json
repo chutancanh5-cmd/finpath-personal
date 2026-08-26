@@ -2,27 +2,27 @@
   "_opus": true,
   "date": "2026-08-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin hôm nay nghiêng về phía tích cực khi VN-Index bứt phá gần 30 điểm và vượt mốc 1800 với nhóm ngân hàng, bất động sản dẫn sóng, tiêu biểu là TCB tăng kịch trần. Điểm tựa chính sách đến từ việc 12 ngân hàng đồng loạt tung gói tín dụng 408.000 tỷ đồng nhằm hỗ trợ mục tiêu tăng trưởng hai con số, mở ra kỳ vọng nới room tín dụng, cải thiện lợi nhuận nhóm bank và khơi thông vốn cho bất động sản, xây dựng. Nền vĩ mô được củng cố thêm bởi vốn FDI đăng ký gần 3,7 tỷ USD trong 7 tháng cùng câu chuyện chuyển đổi mô hình tăng trưởng, có lợi cho khu công nghiệp, logistics và hạ tầng. Rủi ro ngắn hạn là thị trường tăng nhanh và tập trung vào bluechip nên áp lực chốt lời, rung lắc dễ xuất hiện; giá vàng nhẫn tăng mạnh hơn vàng miếng cho thấy nhu cầu trú ẩn còn cao, trong khi án phạt thao túng cổ phiếu là lời nhắc tránh nhóm đầu cơ thanh khoản thấp. Chiến lược hợp lý là bám nhóm dẫn dắt có nền tảng cơ bản và hạn chế mua đuổi ở vùng giá cao.",
+  "summary_vi": "Dòng tin hôm nay nghiêng hẳn về phía tích cực khi VN-Index bứt phá gần 30 điểm, vượt mốc 1.820 với nhóm ngân hàng và bất động sản dẫn sóng, tiêu biểu là TCB tăng kịch trần. Trụ đỡ chính sách đến từ việc 12 ngân hàng đồng loạt tung gói tín dụng 408.000 tỷ đồng phục vụ mục tiêu tăng trưởng hai con số, mở kỳ vọng nới room tín dụng, kích thích tín dụng bán lẻ và khơi thông vốn cho bất động sản, xây dựng, vật liệu. Nền vĩ mô được củng cố thêm bởi vốn FDI đăng ký gần 3,7 tỷ USD trong 7 tháng từ nền kinh tế lớn thứ hai thế giới cùng định hướng chuyển đổi mô hình tăng trưởng, có lợi cho khu công nghiệp, logistics và hạ tầng dài hạn. Rủi ro ngắn hạn là chỉ số tăng nhanh, biên độ rộng và tập trung vào bluechip nên áp lực chốt lời, rung lắc dễ xuất hiện ở vùng đỉnh; giá vàng nhẫn tăng mạnh hơn vàng miếng SJC cho thấy nhu cầu trú ẩn vẫn cao, còn giá dầu hạ nhiệt gây sức ép lên biên lợi nhuận nhóm dầu khí. Chiến lược hợp lý là bám nhóm dẫn dắt có nền tảng cơ bản, hạn chế mua đuổi và giữ tỷ trọng tiền mặt hợp lý.",
   "top": [
     {
       "title": "12 ngân hàng tung gói tín dụng 408.000 tỷ đồng",
       "impact": "↑",
-      "note": "Tín dụng bơm mạnh hỗ trợ tăng trưởng, trực tiếp có lợi cho ngân hàng, bất động sản và xây dựng."
+      "note": "Tín dụng bơm mạnh hỗ trợ mục tiêu tăng trưởng hai con số, có lợi trực tiếp cho ngân hàng, bất động sản và xây dựng."
     },
     {
-      "title": "VN-Index bứt phá gần 30 điểm, vượt mốc 1800",
+      "title": "VN-Index bứt phá gần 30 điểm, vượt 1.820 điểm",
       "impact": "↑",
-      "note": "Xác nhận xu hướng tăng với dòng tiền lan tỏa ở nhóm ngân hàng và bất động sản."
+      "note": "Xác nhận xu hướng tăng với dòng tiền lan tỏa mạnh ở nhóm ngân hàng và bất động sản."
     },
     {
-      "title": "FDI đăng ký gần 3,7 tỷ USD trong 7 tháng",
-      "impact": "↑",
-      "note": "Dòng vốn ngoại duy trì tích cực, hỗ trợ nhóm khu công nghiệp, logistics và hạ tầng."
-    },
-    {
-      "title": "Cổ phiếu TCB tăng kịch trần, ngân hàng vào 'điểm nổ'",
+      "title": "Cổ phiếu ngân hàng vào 'điểm nổ', TCB tăng kịch trần",
       "impact": "↑",
       "note": "Nhóm vốn hóa lớn nhất thị trường hút dòng tiền, tạo lực kéo chính cho chỉ số."
+    },
+    {
+      "title": "FDI đăng ký gần 3,7 tỷ USD vào Việt Nam trong 7 tháng",
+      "impact": "↑",
+      "note": "Dòng vốn ngoại duy trì tích cực, hỗ trợ nhóm khu công nghiệp, logistics và hạ tầng."
     },
     {
       "title": "Kinh tế Việt Nam trước bước chuyển mô hình tăng trưởng",
@@ -30,9 +30,9 @@
       "note": "Câu chuyện dài hạn tích cực nhưng chưa tạo tác động ngay lên định giá cổ phiếu."
     },
     {
-      "title": "Xử phạt nhà đầu tư thao túng cổ phiếu Tập đoàn Giáo dục Trí Việt",
+      "title": "Giá dầu hạ nhiệt, kết quả nhóm xăng dầu khí phân hóa",
       "impact": "↓",
-      "note": "Siết kỷ luật thị trường gây áp lực ngắn hạn lên nhóm cổ phiếu đầu cơ, thanh khoản thấp."
+      "note": "Giá dầu giảm bào mòn biên lợi nhuận và gây áp lực lên nhóm cổ phiếu dầu khí."
     }
   ]
 }
