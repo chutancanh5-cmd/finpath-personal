@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-08-27",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Tâm lý thị trường duy trì hưng phấn sau khi VN-Index đột phá ngưỡng 1.800 điểm, được các công ty chứng khoán đồng loạt nâng góc nhìn lạc quan. Nền vĩ mô hỗ trợ rõ nét: 12 ngân hàng tung gói tín dụng 408.000 tỷ đồng phục vụ mục tiêu tăng trưởng hai con số, FDI đăng ký gần 3,7 tỷ USD trong 7 tháng và định hướng chuyển đổi mô hình tăng trưởng tạo kỳ vọng dài hạn cho ngân hàng, khu công nghiệp, xuất khẩu. Dòng vốn ngoại cũng thuận lợi khi ước tính gần 5.600 tỷ đồng có thể chảy vào TTCK Việt Nam tháng tới qua các quỹ ETF và SSB được thêm vào rổ FTSE Global All Cap. Rủi ro ngắn hạn là nhà đầu tư cá nhân bán ròng ngay tại phiên bứt phá, cho thấy áp lực chốt lời ở vùng đỉnh, trong khi vàng tăng nóng phản ánh nhu cầu trú ẩn còn cao và giá dầu hạ nhiệt bào mòn lợi nhuận nhóm dầu khí. Chiến lược hợp lý là giữ vị thế sẵn có, hạn chế mua đuổi cổ phiếu đã tăng nóng và ưu tiên nhóm hưởng lợi trực tiếp từ tín dụng, FDI và dòng tiền ngoại.",
+  "summary_vi": "Tâm lý thị trường nghiêng về hưng phấn sau khi VN-Index đột phá ngưỡng tâm lý 1.800 điểm và các công ty chứng khoán đồng loạt nâng góc nhìn lạc quan. Nền vĩ mô hỗ trợ khi dòng vốn FDI từ nền kinh tế lớn thứ hai thế giới đăng ký gần 3,7 tỷ USD trong 7 tháng, cùng định hướng chuyển đổi mô hình tăng trưởng tạo kỳ vọng dài hạn cho ngân hàng, khu công nghiệp và xuất khẩu; dòng vốn ngoại thụ động ước tính gần 5.600 tỷ đồng có thể chảy vào TTCK Việt Nam trong tháng tới, tập trung ở nhóm bluechip. Tự doanh và khối ngoại cùng gom TCB, trong khi hợp tác giữa BSC và tập đoàn tài chính Nhật Bản hơn 500 tỷ USD củng cố sức hút của nhóm tài chính. Rủi ro ngắn hạn là nhà đầu tư cá nhân đã bán ròng ngay phiên bứt phá, cho thấy áp lực chốt lời tại vùng đỉnh, cộng thêm vàng tăng nóng phản ánh nhu cầu trú ẩn còn cao và giá dầu hạ nhiệt bào mòn lợi nhuận nhóm dầu khí. Chiến lược hợp lý là giữ vị thế sẵn có, hạn chế mua đuổi cổ phiếu đã tăng nóng và ưu tiên nhóm hưởng lợi trực tiếp từ FDI, tín dụng và dòng tiền ngoại.",
   "top": [
     {
       "title": "Công ty chứng khoán lạc quan sau khi VN-Index vượt 1.800 điểm",
@@ -10,14 +10,14 @@
       "note": "Vượt kháng cự tâm lý lớn cùng đồng thuận nâng dự báo từ khối phân tích củng cố xu hướng tăng trung hạn."
     },
     {
-      "title": "12 ngân hàng tung gói tín dụng 408.000 tỷ đồng",
-      "impact": "↑",
-      "note": "Bơm tín dụng quy mô lớn cho mục tiêu tăng trưởng hai con số, nâng đỡ trực tiếp ngân hàng, bất động sản và xây dựng."
-    },
-    {
       "title": "Gần 5.600 tỷ đồng có thể chảy vào chứng khoán Việt Nam tháng tới",
       "impact": "↑",
-      "note": "Dòng tiền ngoại thụ động dự kiến tập trung vào bluechip, tạo lực đỡ cho nhóm vốn hóa lớn."
+      "note": "Dòng tiền ngoại thụ động dự kiến tập trung vào ba bluechip, tạo lực đỡ cho nhóm vốn hóa lớn."
+    },
+    {
+      "title": "Doanh nghiệp Trung Quốc đăng ký gần 3,7 tỷ USD vốn FDI trong 7 tháng",
+      "impact": "↑",
+      "note": "FDI bền bỉ và loạt lĩnh vực hợp tác được gợi mở nâng đỡ khu công nghiệp, logistics và xây dựng hạ tầng."
     },
     {
       "title": "Nhà đầu tư cá nhân bán ròng ngay phiên VN-Index đột phá 1.800 điểm",
@@ -25,12 +25,12 @@
       "note": "Dòng tiền nội chốt lời sớm tại vùng đỉnh cho thấy áp lực cung tiềm ẩn nếu chỉ số rung lắc."
     },
     {
-      "title": "FDI đăng ký gần 3,7 tỷ USD trong 7 tháng; SSB vào rổ FTSE Global All Cap",
+      "title": "Tự doanh và khối ngoại cùng gom TCB trước kỳ vọng cổ đông chiến lược; SMBC bắt tay BSC",
       "impact": "↑",
-      "note": "Vốn FDI bền bỉ cùng việc lọt rổ chỉ số toàn cầu củng cố nền tảng vĩ mô và kỳ vọng nâng hạng thị trường."
+      "note": "Dòng tiền lớn quay lại nhóm tài chính cùng kỳ vọng vốn ngoại chiến lược hỗ trợ cổ phiếu ngân hàng, chứng khoán."
     },
     {
-      "title": "Giá vàng tăng nóng, vàng nhẫn vượt vàng miếng SJC; giá dầu hạ nhiệt",
+      "title": "Giá vàng tăng nóng, vàng nhẫn tăng mạnh hơn vàng miếng SJC; giá dầu hạ nhiệt",
       "impact": "↓",
       "note": "Nhu cầu trú ẩn cao có thể hút bớt dòng tiền khỏi cổ phiếu, trong khi dầu giảm làm co lợi nhuận nhóm dầu khí."
     }
