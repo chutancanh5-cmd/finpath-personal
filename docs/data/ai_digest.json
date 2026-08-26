@@ -2,22 +2,27 @@
   "_opus": true,
   "date": "2026-08-26",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin 26/08 nghiêng về câu chuyện định giá và chuyển đổi mô hình tăng trưởng hơn là các cú hích chính sách tức thời: quỹ ngoại đánh giá nhiều cổ phiếu Việt Nam đang ở vùng định giá thấp bất thường, trong khi các diễn đàn vĩ mô tập trung vào nâng giá trị nội địa và cải thiện kết nối với khu vực FDI — đây là nền tảng trung hạn, chưa chuyển ngay thành lợi nhuận quý. Nhóm tài chính có tín hiệu nội tại tích cực khi loạt lãnh đạo MB đăng ký mua lượng lớn cổ phiếu hướng tới vốn điều lệ vượt 100.000 tỷ, BSC hợp tác với tập đoàn tài chính Nhật Bản, và BVBank tung gói tín dụng ưu đãi 2.500 tỷ đồng cho SME. Rủi ro ngắn hạn đến từ gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026, tạo áp lực thanh khoản lên bất động sản - xây dựng, cùng đà tăng mạnh của giá vàng cho thấy nhu cầu trú ẩn còn cao và phân tán một phần dòng tiền. Với VN-Index rung lắc quanh 1.795 điểm, thị trường thiên về tích lũy; chiến lược hợp lý là ưu tiên ngân hàng - chứng khoán có nền tảng vốn tốt, hạn chế đòn bẩy và tránh doanh nghiệp có áp lực đáo hạn nợ lớn hoặc cổ phiếu đang bị cảnh báo giao dịch.",
+  "summary_vi": "Tin ngày 26/08 xoay quanh câu chuyện dòng vốn ngoại và định giá hơn là các cú hích chính sách tức thời: thông tin hai nhà đầu tư nước ngoài đàm phán mua 15% cổ phần Techcombank với quy mô có thể tới 2 tỷ USD, cùng nhận định của quỹ ngoại rằng nhiều cổ phiếu Việt Nam đang ở vùng định giá thấp bất thường, là chất xúc tác tâm lý mạnh cho nhóm ngân hàng và vốn hóa lớn. Ở tầng vĩ mô, các diễn đàn tập trung vào chuyển đổi mô hình tăng trưởng, nâng giá trị nội địa và cải thiện liên kết với khu vực FDI — nền tảng trung hạn tích cực nhưng chưa chuyển ngay thành lợi nhuận quý. Rủi ro ngắn hạn đến từ gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026, việc hàng chục triệu cổ phiếu bị đình chỉ giao dịch từ 3/9, và đà tăng nóng của giá vàng cho thấy nhu cầu trú ẩn còn cao, phân tán một phần dòng tiền. VN-Index rung lắc quanh 1.795 điểm phản ánh trạng thái tích lũy — chiến lược hợp lý là ưu tiên ngân hàng và chứng khoán có nền tảng vốn tốt, hạn chế đòn bẩy, tránh doanh nghiệp áp lực đáo hạn nợ lớn hoặc cổ phiếu đang bị cảnh báo giao dịch.",
   "top": [
+    {
+      "title": "Hai nhà đầu tư ngoại đàm phán mua 15% cổ phần Techcombank, quy mô tới 2 tỷ USD",
+      "impact": "↑",
+      "note": "Thương vụ vốn ngoại quy mô lớn tạo hiệu ứng lan tỏa định giá và kỳ vọng dòng tiền cho toàn nhóm ngân hàng."
+    },
     {
       "title": "Quỹ ngoại: định giá nhiều cổ phiếu Việt Nam ở mức thấp bất thường",
       "impact": "↑",
-      "note": "Góc nhìn định giá hấp dẫn từ khối ngoại củng cố kỳ vọng dòng tiền mua ròng quay lại nhóm vốn hóa lớn."
+      "note": "Góc nhìn định giá hấp dẫn từ khối ngoại củng cố kỳ vọng mua ròng quay lại nhóm vốn hóa lớn."
     },
     {
-      "title": "Gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn quý 3/2026",
+      "title": "Gần 31 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong quý 3/2026",
       "impact": "↓",
       "note": "Áp lực thanh khoản và tái cấu trúc nợ đè nặng lên nhóm bất động sản, xây dựng."
     },
     {
-      "title": "Lãnh đạo MB đăng ký mua lượng lớn cổ phiếu, hướng tới vốn điều lệ vượt 100.000 tỷ",
-      "impact": "↑",
-      "note": "Giao dịch nội bộ cùng kế hoạch tăng vốn là tín hiệu tự tin, nâng đỡ tâm lý nhóm ngân hàng."
+      "title": "Hàng chục triệu cổ phiếu bị đình chỉ giao dịch từ ngày 3/9",
+      "impact": "↓",
+      "note": "Rủi ro quản trị và thanh khoản ở nhóm vi phạm công bố thông tin làm giảm khẩu vị đầu cơ."
     },
     {
       "title": "Giá vàng nhẫn 9999 tăng mạnh hơn vàng miếng SJC, dự báo đợt tăng mạnh nhất 25 năm",
@@ -25,14 +30,9 @@
       "note": "Nhu cầu trú ẩn tăng cao phản ánh tâm lý phòng thủ và hút bớt dòng tiền khỏi kênh cổ phiếu."
     },
     {
-      "title": "Hàng chục triệu cổ phiếu bị đình chỉ giao dịch từ 3/9",
-      "impact": "↓",
-      "note": "Rủi ro thanh khoản và quản trị ở nhóm cổ phiếu vi phạm công bố thông tin làm giảm khẩu vị đầu cơ."
-    },
-    {
-      "title": "BSC bắt tay tập đoàn tài chính Nhật Bản hơn 500 tỷ USD; BVBank tung gói tín dụng SME 2.500 tỷ",
+      "title": "BSC hợp tác với thành viên tập đoàn tài chính Nhật Bản hơn 500 tỷ USD",
       "impact": "↑",
-      "note": "Hợp tác vốn ngoại và tín dụng ưu đãi hỗ trợ triển vọng nhóm chứng khoán - ngân hàng quy mô vừa."
+      "note": "Hợp tác vốn và kinh nghiệm quốc tế hỗ trợ triển vọng nhóm công ty chứng khoán quy mô vừa."
     }
   ]
 }
