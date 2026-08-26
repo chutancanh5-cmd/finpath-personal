@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Phiên 26/08 ghi nhận đà bứt phá mạnh khi VN-Index tăng gần 30 điểm, vượt mốc 1.820 với ngân hàng và bất động sản dẫn sóng, TCB tăng kịch trần cho thấy dòng tiền lớn đang tập trung vào nhóm trụ cột. Chất xúc tác chính sách rõ nét khi 12 ngân hàng đồng loạt tung gói tín dụng 408.000 tỷ đồng phục vụ mục tiêu tăng trưởng hai con số, hàm ý tín dụng được khơi thông cho bất động sản, xây dựng, vật liệu và tiêu dùng. Nền vĩ mô được củng cố bởi FDI đăng ký gần 3,7 tỷ USD trong 7 tháng cùng định hướng chuyển đổi mô hình tăng trưởng, hỗ trợ dài hạn cho khu công nghiệp, logistics và hạ tầng; việc SSB vào rổ FTSE Global All Cap cũng là điểm cộng cho dòng vốn ngoại. Rủi ro ngắn hạn là chỉ số tăng dốc trong thời gian ngắn, độ rộng tập trung ở bluechip nên áp lực chốt lời và rung lắc vùng đỉnh dễ xuất hiện, trong khi giá vàng nhẫn tăng mạnh phản ánh nhu cầu trú ẩn còn cao và giá dầu hạ nhiệt gây sức ép lên biên lợi nhuận nhóm dầu khí. Ưu tiên bám nhóm dẫn dắt có nền tảng cơ bản, hạn chế mua đuổi và giữ một phần tiền mặt phòng thủ.",
+  "summary_vi": "Thị trường có phiên bứt phá mạnh khi VN-Index tăng gần 30 điểm, vượt mốc 1800 và kéo dài chuỗi tăng sang phiên thứ 5, với dòng tiền tập trung vào nhóm ngân hàng và bất động sản. Chính sách tiền tệ tiếp tục theo hướng nới lỏng khi 12 ngân hàng tung gói tín dụng 408.000 tỷ đồng hỗ trợ mục tiêu tăng trưởng hai con số, cộng hưởng với dòng vốn FDI đăng ký gần 3,7 tỷ USD trong 7 tháng và việc SSB được thêm vào rổ FTSE Global All Cap giúp cải thiện tâm lý khối ngoại. Về trung hạn, câu chuyện chuyển đổi mô hình tăng trưởng và hợp tác quốc tế (Nhật Bản, châu Phi) mở thêm dư địa cho nhóm tài chính, xuất khẩu và hạ tầng. Tuy nhiên rủi ro ngắn hạn đang tăng: chỉ số đã tăng nóng nhiều phiên liên tiếp nên áp lực chốt lời tại vùng 1800 là hiện hữu, trong khi giá vàng nhẫn tăng mạnh cho thấy nhu cầu trú ẩn và lo ngại lạm phát/tỷ giá vẫn âm ỉ. Đẩy mạnh tín dụng nhanh cũng đặt ra vấn đề chất lượng tài sản ngân hàng nếu hấp thụ vốn của nền kinh tế không theo kịp.",
   "top": [
+    {
+      "title": "VN-Index bứt phá gần 30 điểm, vượt mốc 1800",
+      "impact": "↑",
+      "note": "Dòng tiền lan tỏa mạnh ở blue-chips ngân hàng và bất động sản củng cố xu hướng tăng."
+    },
     {
       "title": "12 ngân hàng tung gói tín dụng 408.000 tỷ đồng",
       "impact": "↑",
-      "note": "Tín dụng bơm mạnh cho mục tiêu tăng trưởng hai con số, hưởng lợi trực tiếp là ngân hàng, bất động sản và xây dựng."
+      "note": "Bơm vốn quy mô lớn hỗ trợ tăng trưởng và biên lợi nhuận nhóm ngân hàng, bất động sản."
     },
     {
-      "title": "VN-Index bứt phá gần 30 điểm, vượt mốc 1.820",
+      "title": "FDI đăng ký gần 3,7 tỷ USD trong 7 tháng từ đối tác lớn",
       "impact": "↑",
-      "note": "Xác nhận xu hướng tăng với dòng tiền lan tỏa ở nhóm dẫn dắt, củng cố tâm lý nhà đầu tư."
+      "note": "Dòng vốn ngoại ổn định củng cố nền tảng vĩ mô và triển vọng khu công nghiệp, xuất khẩu."
     },
     {
-      "title": "FDI đăng ký gần 3,7 tỷ USD trong 7 tháng, mở rộng hợp tác đầu tư",
+      "title": "Cổ phiếu SSB vào rổ FTSE Global All Cap",
       "impact": "↑",
-      "note": "Dòng vốn ngoại duy trì tích cực, hỗ trợ khu công nghiệp, logistics và hạ tầng."
+      "note": "Tín hiệu tích cực cho hút vốn ngoại thụ động và câu chuyện nâng hạng thị trường."
     },
     {
-      "title": "Cổ phiếu SSB của SeABank vào rổ FTSE Global All Cap",
-      "impact": "↑",
-      "note": "Được thêm vào rổ chỉ số toàn cầu giúp thu hút dòng vốn quỹ ngoại thụ động vào nhóm ngân hàng."
-    },
-    {
-      "title": "Kinh tế Việt Nam trước bước chuyển mô hình tăng trưởng",
+      "title": "Cổ phiếu TCB, BCM cháy hàng, phiên tăng thứ 5 liên tiếp",
       "impact": "→",
-      "note": "Câu chuyện cải cách dài hạn tích cực nhưng chưa tác động ngay lên định giá cổ phiếu."
+      "note": "Đà tăng nóng kéo dài làm tăng rủi ro chốt lời và rung lắc ở vùng kháng cự."
     },
     {
-      "title": "Nhóm xăng dầu khí kinh doanh ra sao khi giá dầu hạ nhiệt",
+      "title": "Giá vàng nhẫn tăng mạnh hơn vàng miếng SJC",
       "impact": "↓",
-      "note": "Giá dầu giảm bào mòn biên lợi nhuận và gây áp lực lên cổ phiếu dầu khí."
+      "note": "Nhu cầu trú ẩn tăng phản ánh lo ngại lạm phát, tỷ giá có thể hút bớt dòng tiền khỏi cổ phiếu."
     }
   ]
 }
