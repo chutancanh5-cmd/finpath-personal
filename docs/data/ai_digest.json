@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-27",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "VN-Index lấy lại phong độ trong phiên chiều và vượt mốc 1,830 điểm với sự hỗ trợ của khối ngoại tiếp tục mua ròng, cho thấy dòng tiền lớn vẫn đứng về phía thị trường. Mặt vĩ mô nghiêng về hướng hỗ trợ: 12 ngân hàng tung gói tín dụng 408.000 tỷ đồng cho doanh nghiệp nhỏ và vừa, mặt bằng lãi suất huy động duy trì thấp, trong khi Samsung cán mốc xuất khẩu 500 tỷ USD từ Việt Nam củng cố câu chuyện FDI và xuất khẩu. Dòng vốn ngoại còn thêm chất xúc tác từ kỳ cơ cấu FTSE Vietnam 30 Index với dự báo Fubon ETF giải ngân hàng nghìn tỷ đồng. Rủi ro ngắn hạn đến từ áp lực chốt lời của các 'tay to' xả hơn 600 tỷ đồng trong phiên, xung đột chính sách giữa Bộ Tài chính Mỹ và Fed quanh can thiệp thị trường trái phiếu trước thềm báo cáo lạm phát Mỹ, cùng vụ xử phạt thao túng cổ phiếu nhắc lại rủi ro đầu cơ ở nhóm cổ phiếu nóng. Nhà đầu tư nên ưu tiên ngân hàng, chứng khoán và nhóm hưởng lợi FDI/xuất khẩu, hạn chế đuổi giá cổ phiếu đã tăng nóng.",
+  "date": "2026-08-28",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Mặt bằng vĩ mô trong nước tiếp tục nghiêng về hướng hỗ trợ: 12 ngân hàng triển khai gói tín dụng 408.000 tỷ đồng cho doanh nghiệp nhỏ và vừa, còn Samsung cán mốc xuất khẩu lũy kế 500 tỷ USD từ Việt Nam, củng cố câu chuyện FDI - xuất khẩu và triển vọng tín dụng của nhóm ngân hàng. Dòng vốn ngoại duy trì mua ròng phiên 27/08, là điểm tựa quan trọng cho nhóm vốn hóa lớn. Tuy nhiên, tâm điểm ngắn hạn nằm ở bên ngoài: thị trường chờ bài phát biểu của Chủ tịch Fed và báo cáo lạm phát Mỹ, trong khi căng thẳng giữa Bộ Tài chính Mỹ và Fed quanh việc can thiệp thị trường trái phiếu làm tăng bất định chính sách tiền tệ, có thể tác động tới tỷ giá và dòng vốn ngoại. Giá dầu hạ nhiệt gây áp lực lên biên lợi nhuận nhóm dầu khí, còn giao dịch bán ra của lãnh đạo MWG là tín hiệu cần theo dõi ở cổ phiếu bán lẻ. Chiến lược hợp lý là ưu tiên ngân hàng và nhóm hưởng lợi FDI/xuất khẩu, giữ tỷ trọng thận trọng và chờ tín hiệu rõ ràng từ Fed.",
   "top": [
-    {
-      "title": "VN-Index vượt 1,830 điểm, lấy lại phong độ phiên chiều",
-      "impact": "↑",
-      "note": "Lực cầu quay lại cuối phiên giúp chỉ số giữ xu hướng tăng và củng cố tâm lý thị trường."
-    },
     {
       "title": "12 ngân hàng tung gói tín dụng 408.000 tỷ đồng cho doanh nghiệp nhỏ và vừa",
       "impact": "↑",
-      "note": "Bơm vốn quy mô lớn với lãi suất ưu đãi hỗ trợ tăng trưởng tín dụng và lợi nhuận nhóm ngân hàng."
+      "note": "Bơm vốn quy mô lớn hỗ trợ tăng trưởng tín dụng, có lợi cho nhóm ngân hàng và doanh nghiệp sản xuất."
+    },
+    {
+      "title": "Samsung đạt mốc xuất khẩu 500 tỷ USD từ Việt Nam",
+      "impact": "↑",
+      "note": "Củng cố vị thế điểm đến FDI và triển vọng xuất khẩu, tích cực cho khu công nghiệp, logistics và cảng biển."
     },
     {
       "title": "Khối ngoại tiếp tục mua ròng phiên 27/08",
       "impact": "↑",
-      "note": "Dòng vốn ngoại duy trì trạng thái mua ròng là điểm tựa quan trọng cho nhóm vốn hóa lớn."
+      "note": "Dòng vốn ngoại duy trì trạng thái mua ròng là lực đỡ cho nhóm bluechip."
     },
     {
-      "title": "Dự báo 5 cổ phiếu vào FTSE Vietnam 30 Index, Fubon ETF mua hàng nghìn tỷ",
-      "impact": "↑",
-      "note": "Kỳ cơ cấu chỉ số tạo lực cầu bị động rõ rệt cho các bluechip được thêm mới."
-    },
-    {
-      "title": "Một 'thế lực' xả hơn 600 tỷ đồng cổ phiếu trong phiên 27/8",
-      "impact": "↓",
-      "note": "Áp lực bán ra quy mô lớn cho thấy hoạt động chốt lời gia tăng ở vùng giá cao."
+      "title": "Thị trường chờ bài phát biểu của Chủ tịch Fed và báo cáo lạm phát Mỹ",
+      "impact": "→",
+      "note": "Nhà đầu tư có xu hướng giao dịch thận trọng, thanh khoản dễ chững lại trước sự kiện."
     },
     {
       "title": "Bộ Tài chính Mỹ xung đột với Fed quanh can thiệp thị trường trái phiếu",
       "impact": "↓",
-      "note": "Bất định chính sách tiền tệ Mỹ trước báo cáo lạm phát có thể gây biến động tỷ giá và dòng vốn ngoại."
+      "note": "Bất định chính sách tiền tệ Mỹ có thể gây biến động tỷ giá USD/VND và dòng vốn ngoại."
+    },
+    {
+      "title": "Giá dầu dần hạ nhiệt, kết quả kinh doanh nhóm xăng dầu khí phân hóa",
+      "impact": "↓",
+      "note": "Giá dầu giảm bào mòn biên lợi nhuận và gây rủi ro trích lập hàng tồn kho cho nhóm dầu khí."
     }
   ]
 }
