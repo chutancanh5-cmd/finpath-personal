@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tiền lớn đang ủng hộ thị trường khi khối ngoại mua ròng trở lại trong tuần 24-28/08, tập trung vào nhóm bluechip, giúp VN-Index giữ vùng 1.832 điểm dù rung lắc. Mặt bằng lãi suất tiếp tục xu hướng giảm, cùng gói tín dụng 408.000 tỷ đồng của 12 ngân hàng cho doanh nghiệp nhỏ và vừa và việc các công ty chứng khoán hạ lãi suất margin (ABS về 6,9%), là chất xúc tác tốt cho thanh khoản và nhóm ngân hàng, chứng khoán, bán lẻ. Rủi ro ngắn hạn đến từ lực xả ròng hơn 700 tỷ đồng ngay trước kỳ nghỉ lễ, cho thấy áp lực chốt lời tại vùng giá cao và tâm lý thận trọng qua kỳ nghỉ. Bên cạnh đó, các tín hiệu xấu về trái phiếu doanh nghiệp bất động sản (Sunshine E&C quá hạn lô 800 tỷ, công ty liên quan NovaGroup lỗ lũy kế) vẫn là điểm nghẽn với nhóm bất động sản và xây dựng. Chiến lược hợp lý là ưu tiên cổ phiếu đầu ngành có dòng tiền ngoại, hạn chế đòn bẩy cao và tránh nhóm có rủi ro trái phiếu.",
+  "summary_vi": "Nền thanh khoản hệ thống đang rất dồi dào khi lãi suất liên ngân hàng qua đêm giảm mạnh về 1,2%/năm và mặt bằng lãi suất huy động tại nhóm ngân hàng lớn tiếp tục đi ngang ở vùng thấp, tạo môi trường tiền rẻ thuận lợi cho định giá cổ phiếu và nhóm chứng khoán, ngân hàng, bất động sản. Khối ngoại duy trì mua ròng cả phiên 28/08 lẫn cả tuần 24-28/08, cho thấy dòng vốn ngoại đã đảo chiều tích cực và là lực đỡ cho nhóm vốn hóa lớn. Ở chiều rủi ro, tự doanh xả hàng mạnh và tâm lý thận trọng trước kỳ nghỉ lễ 5 ngày dễ khiến thị trường rung lắc, giằng co với thanh khoản mỏng dần. Vàng tăng 15% trong tháng 8 rồi quay đầu giảm tới 3,1 triệu đồng/lượng phản ánh áp lực chốt lời ở kênh trú ẩn — có thể xoay một phần dòng tiền sang chứng khoán nhưng cũng cảnh báo biến động tài sản rủi ro toàn cầu. Sức khỏe trái phiếu doanh nghiệp xây dựng - bất động sản (Sunshine E&C quá hạn lô 800 tỷ) vẫn là điểm nghẽn cần né tránh; ưu tiên bluechip có dòng tiền ngoại, hạn chế margin cao qua kỳ nghỉ.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng trở lại tuần 24-28/08",
+      "title": "Lãi suất liên ngân hàng qua đêm giảm mạnh về 1,2%/năm",
       "impact": "↑",
-      "note": "Dòng vốn ngoại quay lại là lực đỡ quan trọng cho chỉ số và nhóm vốn hóa lớn."
+      "note": "Thanh khoản hệ thống dư thừa, chi phí vốn rẻ là chất xúc tác mạnh cho dòng tiền vào chứng khoán."
     },
     {
-      "title": "12 ngân hàng tung gói tín dụng 408.000 tỷ đồng cho doanh nghiệp nhỏ và vừa",
+      "title": "Khối ngoại tiếp tục mua ròng phiên 28/08 và cả tuần 24-28/08",
       "impact": "↑",
-      "note": "Bơm vốn quy mô lớn hỗ trợ tăng trưởng tín dụng và cầu tiêu dùng, có lợi cho nhóm ngân hàng."
+      "note": "Dòng vốn ngoại quay lại mua ròng liên tục là lực đỡ quan trọng cho VN-Index và nhóm bluechip."
     },
     {
-      "title": "Xu hướng hạ lãi suất, công ty chứng khoán đưa margin về 6,9%",
+      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Chi phí vốn rẻ hơn kích thích dòng tiền đầu cơ và cải thiện định giá cổ phiếu."
+      "note": "Nỗ lực mở rộng hợp tác vốn quốc tế hỗ trợ câu chuyện nâng hạng và thu hút dòng vốn ngoại trung hạn."
     },
     {
-      "title": "Một thế lực xả ròng hơn 700 tỷ đồng trước kỳ nghỉ lễ",
+      "title": "Tự doanh xả hàng mạnh, thị trường thận trọng trước kỳ nghỉ 5 ngày",
       "impact": "↓",
-      "note": "Áp lực chốt lời mạnh trước kỳ nghỉ dễ gây rung lắc ngắn hạn tại vùng đỉnh."
+      "note": "Áp lực bán của tự doanh cộng tâm lý hạ tỷ trọng trước kỳ nghỉ dài dễ gây rung lắc ngắn hạn."
     },
     {
-      "title": "Rủi ro trái phiếu doanh nghiệp: Sunshine E&C quá hạn 800 tỷ, công ty liên quan NovaGroup lỗ lũy kế",
-      "impact": "↓",
-      "note": "Nợ trái phiếu quá hạn và thua lỗ kéo dài tiếp tục đè nặng nhóm bất động sản, xây dựng."
-    },
-    {
-      "title": "Cổ phiếu Techcombank giảm sau thông tin bán 15% cổ phần",
+      "title": "Vàng tăng 15% trong tháng 8, vàng nhẫn giảm tới 3,1 triệu đồng/lượng sau ba phiên",
       "impact": "→",
-      "note": "Thương vụ chưa rõ ràng khiến tâm lý phân hóa, tác động chủ yếu ở phạm vi cổ phiếu riêng lẻ."
+      "note": "Chốt lời mạnh ở kênh vàng có thể xoay dòng tiền sang cổ phiếu nhưng cũng cho thấy biến động tài sản còn cao."
+    },
+    {
+      "title": "Sunshine E&C tiếp tục lỗ, lô trái phiếu 800 tỷ quá hạn hơn 2 năm",
+      "impact": "↓",
+      "note": "Rủi ro trái phiếu doanh nghiệp xây dựng - bất động sản chưa được xử lý dứt điểm, đè nặng tâm lý nhóm ngành."
     }
   ]
 }
