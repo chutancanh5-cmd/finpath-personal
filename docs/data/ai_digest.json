@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-08-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Mặt bằng vĩ mô trong nước tiếp tục nghiêng về hướng hỗ trợ: 12 ngân hàng triển khai gói tín dụng 408.000 tỷ đồng cho doanh nghiệp nhỏ và vừa, còn Samsung cán mốc xuất khẩu lũy kế 500 tỷ USD từ Việt Nam, củng cố câu chuyện FDI - xuất khẩu và triển vọng tín dụng của nhóm ngân hàng. Dòng vốn ngoại duy trì mua ròng phiên 27/08, là điểm tựa quan trọng cho nhóm vốn hóa lớn. Tuy nhiên, tâm điểm ngắn hạn nằm ở bên ngoài: thị trường chờ bài phát biểu của Chủ tịch Fed và báo cáo lạm phát Mỹ, trong khi căng thẳng giữa Bộ Tài chính Mỹ và Fed quanh việc can thiệp thị trường trái phiếu làm tăng bất định chính sách tiền tệ, có thể tác động tới tỷ giá và dòng vốn ngoại. Giá dầu hạ nhiệt gây áp lực lên biên lợi nhuận nhóm dầu khí, còn giao dịch bán ra của lãnh đạo MWG là tín hiệu cần theo dõi ở cổ phiếu bán lẻ. Chiến lược hợp lý là ưu tiên ngân hàng và nhóm hưởng lợi FDI/xuất khẩu, giữ tỷ trọng thận trọng và chờ tín hiệu rõ ràng từ Fed.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Dòng tiền lớn đang ủng hộ thị trường khi khối ngoại mua ròng trở lại trong tuần 24-28/08, tập trung vào nhóm bluechip, giúp VN-Index giữ vùng 1.832 điểm dù rung lắc. Mặt bằng lãi suất tiếp tục xu hướng giảm, cùng gói tín dụng 408.000 tỷ đồng của 12 ngân hàng cho doanh nghiệp nhỏ và vừa và việc các công ty chứng khoán hạ lãi suất margin (ABS về 6,9%), là chất xúc tác tốt cho thanh khoản và nhóm ngân hàng, chứng khoán, bán lẻ. Rủi ro ngắn hạn đến từ lực xả ròng hơn 700 tỷ đồng ngay trước kỳ nghỉ lễ, cho thấy áp lực chốt lời tại vùng giá cao và tâm lý thận trọng qua kỳ nghỉ. Bên cạnh đó, các tín hiệu xấu về trái phiếu doanh nghiệp bất động sản (Sunshine E&C quá hạn lô 800 tỷ, công ty liên quan NovaGroup lỗ lũy kế) vẫn là điểm nghẽn với nhóm bất động sản và xây dựng. Chiến lược hợp lý là ưu tiên cổ phiếu đầu ngành có dòng tiền ngoại, hạn chế đòn bẩy cao và tránh nhóm có rủi ro trái phiếu.",
   "top": [
+    {
+      "title": "Khối ngoại mua ròng trở lại tuần 24-28/08",
+      "impact": "↑",
+      "note": "Dòng vốn ngoại quay lại là lực đỡ quan trọng cho chỉ số và nhóm vốn hóa lớn."
+    },
     {
       "title": "12 ngân hàng tung gói tín dụng 408.000 tỷ đồng cho doanh nghiệp nhỏ và vừa",
       "impact": "↑",
-      "note": "Bơm vốn quy mô lớn hỗ trợ tăng trưởng tín dụng, có lợi cho nhóm ngân hàng và doanh nghiệp sản xuất."
+      "note": "Bơm vốn quy mô lớn hỗ trợ tăng trưởng tín dụng và cầu tiêu dùng, có lợi cho nhóm ngân hàng."
     },
     {
-      "title": "Samsung đạt mốc xuất khẩu 500 tỷ USD từ Việt Nam",
+      "title": "Xu hướng hạ lãi suất, công ty chứng khoán đưa margin về 6,9%",
       "impact": "↑",
-      "note": "Củng cố vị thế điểm đến FDI và triển vọng xuất khẩu, tích cực cho khu công nghiệp, logistics và cảng biển."
+      "note": "Chi phí vốn rẻ hơn kích thích dòng tiền đầu cơ và cải thiện định giá cổ phiếu."
     },
     {
-      "title": "Khối ngoại tiếp tục mua ròng phiên 27/08",
-      "impact": "↑",
-      "note": "Dòng vốn ngoại duy trì trạng thái mua ròng là lực đỡ cho nhóm bluechip."
+      "title": "Một thế lực xả ròng hơn 700 tỷ đồng trước kỳ nghỉ lễ",
+      "impact": "↓",
+      "note": "Áp lực chốt lời mạnh trước kỳ nghỉ dễ gây rung lắc ngắn hạn tại vùng đỉnh."
     },
     {
-      "title": "Thị trường chờ bài phát biểu của Chủ tịch Fed và báo cáo lạm phát Mỹ",
+      "title": "Rủi ro trái phiếu doanh nghiệp: Sunshine E&C quá hạn 800 tỷ, công ty liên quan NovaGroup lỗ lũy kế",
+      "impact": "↓",
+      "note": "Nợ trái phiếu quá hạn và thua lỗ kéo dài tiếp tục đè nặng nhóm bất động sản, xây dựng."
+    },
+    {
+      "title": "Cổ phiếu Techcombank giảm sau thông tin bán 15% cổ phần",
       "impact": "→",
-      "note": "Nhà đầu tư có xu hướng giao dịch thận trọng, thanh khoản dễ chững lại trước sự kiện."
-    },
-    {
-      "title": "Bộ Tài chính Mỹ xung đột với Fed quanh can thiệp thị trường trái phiếu",
-      "impact": "↓",
-      "note": "Bất định chính sách tiền tệ Mỹ có thể gây biến động tỷ giá USD/VND và dòng vốn ngoại."
-    },
-    {
-      "title": "Giá dầu dần hạ nhiệt, kết quả kinh doanh nhóm xăng dầu khí phân hóa",
-      "impact": "↓",
-      "note": "Giá dầu giảm bào mòn biên lợi nhuận và gây rủi ro trích lập hàng tồn kho cho nhóm dầu khí."
+      "note": "Thương vụ chưa rõ ràng khiến tâm lý phân hóa, tác động chủ yếu ở phạm vi cổ phiếu riêng lẻ."
     }
   ]
 }
