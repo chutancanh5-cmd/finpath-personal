@@ -2,22 +2,22 @@
   "_opus": true,
   "date": "2026-08-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tín hiệu diều hâu từ Jackson Hole khi Chủ tịch Fed phát tín hiệu tăng lãi suất là biến số vĩ mô lớn nhất tuần, kéo chứng khoán Mỹ giảm điểm cùng lo ngại lạm phát của ông Warsh và tạo áp lực lên tỷ giá, mặt bằng lãi suất cũng như định giá cổ phiếu Việt Nam. Ở chiều ngược lại, khối ngoại bất ngờ giải ngân hơn 1.100 tỷ đồng và duy trì mua ròng cả tuần 24-28/08, tập trung vào một mã ngân hàng, cho thấy dòng vốn ngoại vẫn là lực đỡ cho nhóm vốn hóa lớn. Dòng vốn FDI tiếp tục tích cực với việc Toyota rót thêm 283 triệu USD làm xe hybrid, cộng nỗ lực kết nối tài chính - chứng khoán Việt Nam - Đức, hỗ trợ câu chuyện nâng hạng và nhóm khu công nghiệp, phụ trợ ô tô. Rủi ro ngắn hạn đến từ tự doanh xả hàng mạnh, giá vàng đảo chiều giảm tới 3,1 triệu đồng/lượng sau khi tăng 15% trong tháng 8 (áp lực chốt lời lan sang tài sản rủi ro) và sức khỏe trái phiếu doanh nghiệp xây dựng - bất động sản chưa cải thiện. Chiến lược hợp lý là ưu tiên bluechip ngân hàng có dòng tiền ngoại và nhóm hưởng lợi FDI, hạn chế margin cao và tránh cổ phiếu có nợ trái phiếu quá hạn.",
+  "summary_vi": "Biến số vĩ mô chi phối phiên cuối tuần là giọng điệu cứng rắn của Chủ tịch Fed tại Jackson Hole với tín hiệu tăng lãi suất, khiến chứng khoán Mỹ mất điểm vì lo ngại lạm phát và giá vàng lao dốc tới 2-3,1 triệu đồng/lượng chỉ trong vài phiên. Kỳ vọng Fed thắt chặt làm mạnh USD, gây áp lực lên tỷ giá và thu hẹp dư địa nới lỏng của chính sách tiền tệ trong nước, trong khi mặt bằng lãi suất huy động của nhóm ngân hàng lớn vẫn đi ngang. Ở chiều tích cực, khối ngoại tiếp tục mua ròng, Toyota rót thêm 283 triệu USD làm xe hybrid và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức, củng cố câu chuyện FDI, nâng hạng và nhóm khu công nghiệp, công nghiệp phụ trợ. Rủi ro ngắn hạn nằm ở tự doanh xả hàng mạnh đối ứng dòng tiền ngoại và sức khỏe trái phiếu doanh nghiệp xây dựng - bất động sản còn yếu (Sunshine E&C lỗ tiếp, lô 800 tỷ quá hạn hơn 2 năm). Chiến lược hợp lý là ưu tiên bluechip có dòng tiền ngoại và nhóm hưởng lợi FDI, kiểm soát margin và tránh cổ phiếu có nợ trái phiếu quá hạn.",
   "top": [
     {
       "title": "Chủ tịch Fed phát tín hiệu tăng lãi suất từ Jackson Hole",
       "impact": "↓",
-      "note": "Kỳ vọng Fed thắt chặt làm mạnh USD, gây áp lực tỷ giá và rút bớt dư địa nới lỏng chính sách tiền tệ trong nước."
-    },
-    {
-      "title": "Khối ngoại giải ngân hơn 1.100 tỷ đồng, tâm điểm một mã ngân hàng",
-      "impact": "↑",
-      "note": "Dòng vốn ngoại quay lại mua ròng mạnh và mua ròng cả tuần là lực đỡ quan trọng cho VN-Index và nhóm bluechip."
+      "note": "Kỳ vọng Fed thắt chặt làm mạnh USD, tạo áp lực tỷ giá và hạn chế dư địa nới lỏng chính sách tiền tệ trong nước."
     },
     {
       "title": "Chứng khoán Mỹ mất điểm vì lo ngại lạm phát, giá dầu giảm 5% cả tuần",
       "impact": "↓",
-      "note": "Tâm lý rủi ro toàn cầu xấu đi thường lan sang thị trường Việt Nam qua kênh tâm lý và dòng vốn ngoại."
+      "note": "Khẩu vị rủi ro toàn cầu xấu đi thường lan sang thị trường Việt Nam qua kênh tâm lý và dòng vốn ngoại."
+    },
+    {
+      "title": "Khối ngoại tiếp tục mua ròng, tự doanh xả hàng mạnh",
+      "impact": "→",
+      "note": "Dòng tiền ngoại là lực đỡ cho nhóm vốn hóa lớn nhưng bị trung hòa bởi áp lực bán ra của khối tự doanh."
     },
     {
       "title": "Toyota đầu tư thêm 283 triệu USD sản xuất xe hybrid tại Việt Nam",
@@ -30,9 +30,9 @@
       "note": "Mở rộng hợp tác vốn quốc tế hỗ trợ câu chuyện nâng hạng và thu hút dòng tiền ngoại trung hạn."
     },
     {
-      "title": "Vàng tăng 15% trong tháng 8, vàng nhẫn giảm tới 3,1 triệu đồng/lượng sau ba phiên",
-      "impact": "→",
-      "note": "Chốt lời mạnh ở kênh trú ẩn có thể xoay một phần dòng tiền sang cổ phiếu nhưng phản ánh biến động tài sản còn cao."
+      "title": "Sunshine E&C lỗ tiếp nửa đầu năm, lô trái phiếu 800 tỷ quá hạn hơn 2 năm",
+      "impact": "↓",
+      "note": "Nhắc lại rủi ro thanh khoản trái phiếu nhóm xây dựng - bất động sản, gây áp lực lên niềm tin với cổ phiếu ngành."
     }
   ]
 }
