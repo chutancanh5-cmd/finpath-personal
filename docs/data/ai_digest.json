@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-08-29",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền thanh khoản hệ thống đang rất dồi dào khi lãi suất liên ngân hàng qua đêm giảm mạnh về 1,2%/năm và mặt bằng lãi suất huy động tại nhóm ngân hàng lớn tiếp tục đi ngang ở vùng thấp, tạo môi trường tiền rẻ thuận lợi cho định giá cổ phiếu và nhóm chứng khoán, ngân hàng, bất động sản. Khối ngoại duy trì mua ròng cả phiên 28/08 lẫn cả tuần 24-28/08, cho thấy dòng vốn ngoại đã đảo chiều tích cực và là lực đỡ cho nhóm vốn hóa lớn. Ở chiều rủi ro, tự doanh xả hàng mạnh và tâm lý thận trọng trước kỳ nghỉ lễ 5 ngày dễ khiến thị trường rung lắc, giằng co với thanh khoản mỏng dần. Vàng tăng 15% trong tháng 8 rồi quay đầu giảm tới 3,1 triệu đồng/lượng phản ánh áp lực chốt lời ở kênh trú ẩn — có thể xoay một phần dòng tiền sang chứng khoán nhưng cũng cảnh báo biến động tài sản rủi ro toàn cầu. Sức khỏe trái phiếu doanh nghiệp xây dựng - bất động sản (Sunshine E&C quá hạn lô 800 tỷ) vẫn là điểm nghẽn cần né tránh; ưu tiên bluechip có dòng tiền ngoại, hạn chế margin cao qua kỳ nghỉ.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Tín hiệu diều hâu từ Jackson Hole khi Chủ tịch Fed phát tín hiệu tăng lãi suất là biến số vĩ mô lớn nhất tuần, kéo chứng khoán Mỹ giảm điểm cùng lo ngại lạm phát của ông Warsh và tạo áp lực lên tỷ giá, mặt bằng lãi suất cũng như định giá cổ phiếu Việt Nam. Ở chiều ngược lại, khối ngoại bất ngờ giải ngân hơn 1.100 tỷ đồng và duy trì mua ròng cả tuần 24-28/08, tập trung vào một mã ngân hàng, cho thấy dòng vốn ngoại vẫn là lực đỡ cho nhóm vốn hóa lớn. Dòng vốn FDI tiếp tục tích cực với việc Toyota rót thêm 283 triệu USD làm xe hybrid, cộng nỗ lực kết nối tài chính - chứng khoán Việt Nam - Đức, hỗ trợ câu chuyện nâng hạng và nhóm khu công nghiệp, phụ trợ ô tô. Rủi ro ngắn hạn đến từ tự doanh xả hàng mạnh, giá vàng đảo chiều giảm tới 3,1 triệu đồng/lượng sau khi tăng 15% trong tháng 8 (áp lực chốt lời lan sang tài sản rủi ro) và sức khỏe trái phiếu doanh nghiệp xây dựng - bất động sản chưa cải thiện. Chiến lược hợp lý là ưu tiên bluechip ngân hàng có dòng tiền ngoại và nhóm hưởng lợi FDI, hạn chế margin cao và tránh cổ phiếu có nợ trái phiếu quá hạn.",
   "top": [
     {
-      "title": "Lãi suất liên ngân hàng qua đêm giảm mạnh về 1,2%/năm",
-      "impact": "↑",
-      "note": "Thanh khoản hệ thống dư thừa, chi phí vốn rẻ là chất xúc tác mạnh cho dòng tiền vào chứng khoán."
+      "title": "Chủ tịch Fed phát tín hiệu tăng lãi suất từ Jackson Hole",
+      "impact": "↓",
+      "note": "Kỳ vọng Fed thắt chặt làm mạnh USD, gây áp lực tỷ giá và rút bớt dư địa nới lỏng chính sách tiền tệ trong nước."
     },
     {
-      "title": "Khối ngoại tiếp tục mua ròng phiên 28/08 và cả tuần 24-28/08",
+      "title": "Khối ngoại giải ngân hơn 1.100 tỷ đồng, tâm điểm một mã ngân hàng",
       "impact": "↑",
-      "note": "Dòng vốn ngoại quay lại mua ròng liên tục là lực đỡ quan trọng cho VN-Index và nhóm bluechip."
+      "note": "Dòng vốn ngoại quay lại mua ròng mạnh và mua ròng cả tuần là lực đỡ quan trọng cho VN-Index và nhóm bluechip."
+    },
+    {
+      "title": "Chứng khoán Mỹ mất điểm vì lo ngại lạm phát, giá dầu giảm 5% cả tuần",
+      "impact": "↓",
+      "note": "Tâm lý rủi ro toàn cầu xấu đi thường lan sang thị trường Việt Nam qua kênh tâm lý và dòng vốn ngoại."
+    },
+    {
+      "title": "Toyota đầu tư thêm 283 triệu USD sản xuất xe hybrid tại Việt Nam",
+      "impact": "↑",
+      "note": "FDI chất lượng cao củng cố triển vọng sản xuất, hỗ trợ nhóm khu công nghiệp, logistics và công nghiệp phụ trợ."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Nỗ lực mở rộng hợp tác vốn quốc tế hỗ trợ câu chuyện nâng hạng và thu hút dòng vốn ngoại trung hạn."
-    },
-    {
-      "title": "Tự doanh xả hàng mạnh, thị trường thận trọng trước kỳ nghỉ 5 ngày",
-      "impact": "↓",
-      "note": "Áp lực bán của tự doanh cộng tâm lý hạ tỷ trọng trước kỳ nghỉ dài dễ gây rung lắc ngắn hạn."
+      "note": "Mở rộng hợp tác vốn quốc tế hỗ trợ câu chuyện nâng hạng và thu hút dòng tiền ngoại trung hạn."
     },
     {
       "title": "Vàng tăng 15% trong tháng 8, vàng nhẫn giảm tới 3,1 triệu đồng/lượng sau ba phiên",
       "impact": "→",
-      "note": "Chốt lời mạnh ở kênh vàng có thể xoay dòng tiền sang cổ phiếu nhưng cũng cho thấy biến động tài sản còn cao."
-    },
-    {
-      "title": "Sunshine E&C tiếp tục lỗ, lô trái phiếu 800 tỷ quá hạn hơn 2 năm",
-      "impact": "↓",
-      "note": "Rủi ro trái phiếu doanh nghiệp xây dựng - bất động sản chưa được xử lý dứt điểm, đè nặng tâm lý nhóm ngành."
+      "note": "Chốt lời mạnh ở kênh trú ẩn có thể xoay một phần dòng tiền sang cổ phiếu nhưng phản ánh biến động tài sản còn cao."
     }
   ]
 }
