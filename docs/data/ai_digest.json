@@ -1,18 +1,23 @@
 {
   "_opus": true,
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tâm điểm vĩ mô là giọng điệu cứng rắn của Chủ tịch Fed tại Jackson Hole với tín hiệu tăng lãi suất, khiến chứng khoán Mỹ mất điểm vì lo ngại lạm phát, giá dầu giảm 5% cả tuần và giá vàng trong nước lao dốc tới 2-3,1 triệu đồng/lượng chỉ sau ba phiên. Kỳ vọng Fed thắt chặt hỗ trợ USD mạnh lên, tạo áp lực lên tỷ giá và thu hẹp dư địa nới lỏng tiền tệ trong nước, dù mặt bằng lãi suất huy động của nhóm ngân hàng lớn vẫn đi ngang. Ở chiều tích cực, Toyota rót thêm 283 triệu USD chuẩn bị sản xuất xe hybrid và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức, củng cố câu chuyện FDI, nâng hạng và nhóm khu công nghiệp, công nghiệp phụ trợ. Rủi ro ngắn hạn là chất lượng của nhịp tăng: VN-Index thêm 64 điểm tuần qua nhưng riêng VIC đóng góp hơn 52 điểm, cho thấy độ rộng thị trường yếu và dễ rung lắc khi trụ hạ nhiệt; áp lực tin đồn và nhu cầu phát hành trái phiếu doanh nghiệp cũng cần theo dõi. Chiến lược hợp lý là ưu tiên bluechip hưởng lợi FDI, hạ tỷ trọng cổ phiếu đã tăng nóng theo trụ và kiểm soát margin.",
+  "summary_vi": "Áp lực lớn nhất đến từ bên ngoài: Chủ tịch Fed phát tín hiệu tăng lãi suất tại Jackson Hole, chứng khoán Mỹ mất điểm vì lo ngại lạm phát và giá dầu giảm 5% cả tuần, kéo theo USD mạnh lên, gây sức ép tỷ giá và thu hẹp dư địa nới lỏng tiền tệ trong nước dù lãi suất huy động của nhóm ngân hàng lớn vẫn đi ngang. Ở chiều hỗ trợ, câu chuyện nâng hạng tiếp tục được củng cố khi Chủ tịch UBCKNN làm việc với S&P Dow Jones Indices và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức, cộng thêm Toyota rót thêm 283 triệu USD chuẩn bị sản xuất xe hybrid, giúp duy trì kỳ vọng FDI và dòng vốn ngoại trung hạn. Rủi ro ngắn hạn nằm ở chất lượng nhịp tăng: VN-Index thêm 64 điểm tuần qua nhưng riêng VIC đóng góp hơn 52 điểm, độ rộng thị trường hẹp nên chỉ số dễ rung lắc mạnh khi trụ hạ nhiệt. Thanh khoản còn có thể mỏng quanh kỳ nghỉ lễ Quốc khánh, trong khi tin đồn đang chi phối biến động giá một số cổ phiếu. Chiến lược hợp lý là ưu tiên bluechip hưởng lợi FDI và câu chuyện nâng hạng, giảm tỷ trọng cổ phiếu đã tăng nóng theo trụ và kiểm soát chặt margin.",
   "top": [
     {
       "title": "Chủ tịch Fed phát tín hiệu tăng lãi suất từ Jackson Hole",
       "impact": "↓",
-      "note": "Kỳ vọng Fed thắt chặt làm mạnh USD, gây áp lực tỷ giá và hạn chế dư địa nới lỏng chính sách tiền tệ trong nước."
+      "note": "Kỳ vọng Fed thắt chặt làm USD mạnh lên, tạo áp lực tỷ giá và hạn chế dư địa nới lỏng chính sách tiền tệ trong nước."
     },
     {
       "title": "Chứng khoán Mỹ mất điểm vì lo ngại lạm phát, giá dầu giảm 5% cả tuần",
       "impact": "↓",
       "note": "Khẩu vị rủi ro toàn cầu xấu đi thường lan sang thị trường Việt Nam qua kênh tâm lý và dòng vốn ngoại."
+    },
+    {
+      "title": "UBCKNN làm việc với lãnh đạo S&P Dow Jones Indices",
+      "impact": "↑",
+      "note": "Tăng khả năng Việt Nam được cải thiện vị thế trong rổ chỉ số quốc tế, hỗ trợ trực tiếp câu chuyện nâng hạng."
     },
     {
       "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
@@ -25,14 +30,9 @@
       "note": "Dòng vốn FDI chất lượng cao củng cố triển vọng sản xuất, hỗ trợ khu công nghiệp, logistics và công nghiệp phụ trợ."
     },
     {
-      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
-      "impact": "↑",
-      "note": "Mở rộng hợp tác vốn quốc tế hỗ trợ câu chuyện nâng hạng và thu hút dòng tiền ngoại trung hạn."
-    },
-    {
       "title": "Giá vàng SJC và vàng nhẫn giảm tới 2-3,1 triệu đồng/lượng",
       "impact": "→",
-      "note": "Vàng hạ nhiệt có thể giải phóng một phần dòng tiền sang chứng khoán, nhưng nguyên nhân là USD mạnh lên."
+      "note": "Vàng hạ nhiệt có thể giải phóng một phần dòng tiền sang chứng khoán, nhưng nguyên nhân chính là USD mạnh lên."
     }
   ]
 }
