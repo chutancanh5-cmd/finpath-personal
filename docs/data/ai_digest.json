@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền vĩ mô trong nước tiếp tục thuận lợi khi GDP bình quân đầu người cải thiện mạnh và Chính phủ đẩy mạnh kết nối tài chính - chứng khoán Việt Nam - Đức, củng cố câu chuyện thu hút vốn ngoại và kỳ vọng nâng hạng, hỗ trợ nhóm chứng khoán, ngân hàng và bluechip. Tuy nhiên, rủi ro bên ngoài tăng lên rõ rệt khi tín hiệu tăng lãi suất phát đi từ Jackson Hole và căng thẳng thương mại Mỹ - Canada leo thang, gây áp lực lên tỷ giá, dòng vốn ngoại và định giá cổ phiếu. Trên thị trường, VN-Index tăng 64 điểm tuần qua nhưng riêng VIC 'gánh' hơn 52 điểm cho thấy độ rộng rất hẹp, chất lượng sóng tăng chưa thực sự bền nếu trụ hạ nhiệt. Chi phí vốn của doanh nghiệp bất động sản vẫn cao với trái phiếu trả lãi tới 13-13,5%/năm, trong khi hiện tượng giá cổ phiếu biến động theo tin đồn cảnh báo rủi ro đầu cơ. Chiến lược hợp lý là ưu tiên doanh nghiệp có nền tảng cơ bản và dòng tiền thực (như FPT với dự án đô thị công nghệ 2 tỷ USD), hạn chế mua đuổi và kiểm soát tỷ trọng margin.",
+  "summary_vi": "Thị trường vừa có tuần tăng mạnh 64 điểm và dòng tiền đang bàn tới một sóng tăng mới, nhưng phần lớn mức tăng đến từ riêng VIC nên độ rộng thực tế còn yếu và chỉ số dễ bị bóp méo. Mặt vĩ mô trong nước có điểm tựa: GDP bình quân đầu người cải thiện, Chính phủ thúc đẩy kết nối tài chính - chứng khoán với Đức, mở thêm kỳ vọng dòng vốn ngoại và nâng hạng. Rủi ro ngắn hạn nằm ở chi phí vốn: lãi suất huy động neo cao cùng áp lực trái phiếu doanh nghiệp đáo hạn sẽ bào mòn biên lợi nhuận nhóm bất động sản, xây dựng và ngân hàng. Bên ngoài, tín hiệu thắt chặt lãi suất từ Jackson Hole và căng thẳng thương mại Mỹ - Canada có thể khiến khối ngoại thận trọng và gây rung lắc. Nhà đầu tư nên ưu tiên cổ phiếu có dòng tiền thực và tránh các mã chạy theo tin đồn, đồng thời hạ tỷ trọng khi chỉ số tăng nhưng thanh khoản không xác nhận.",
   "top": [
+    {
+      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
+      "impact": "→",
+      "note": "Chỉ số tăng mạnh nhưng gần như toàn bộ đến từ một cổ phiếu, cho thấy độ rộng thị trường yếu."
+    },
     {
       "title": "Tín hiệu tăng lãi suất từ Jackson Hole, căng thẳng thương mại Mỹ - Canada leo thang",
       "impact": "↓",
-      "note": "Lãi suất toàn cầu có thể cao hơn lâu hơn, gây áp lực lên tỷ giá và dòng vốn ngoại vào TTCK Việt Nam."
+      "note": "Môi trường lãi suất toàn cầu thắt chặt gây áp lực tỷ giá và làm khối ngoại thận trọng với thị trường mới nổi."
+    },
+    {
+      "title": "Trái phiếu sắp đến kỳ đáo hạn, lãi suất huy động neo cao",
+      "impact": "↓",
+      "note": "Chi phí vốn cao cộng áp lực đáo hạn siết dòng tiền của nhóm bất động sản và xây dựng."
+    },
+    {
+      "title": "Xu thế dòng tiền: Thị trường đã xác nhận sóng tăng mới?",
+      "impact": "↑",
+      "note": "Tâm lý dòng tiền cải thiện, hỗ trợ thanh khoản và xu hướng ngắn hạn của chỉ số."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Tín hiệu chính sách mở cửa thị trường vốn, tăng kỳ vọng hút dòng tiền ngoại dài hạn."
+      "note": "Mở rộng hợp tác vốn quốc tế củng cố kỳ vọng nâng hạng và thu hút dòng vốn ngoại dài hạn."
     },
     {
-      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC 'gánh' hơn 52 điểm",
-      "impact": "→",
-      "note": "Chỉ số tăng mạnh nhưng phụ thuộc một trụ, độ rộng hẹp khiến sóng tăng kém bền vững."
-    },
-    {
-      "title": "GDP bình quân Việt Nam vượt nền kinh tế lớn thứ 5 thế giới",
+      "title": "Giá vàng nhẫn giảm tới 3,1 triệu đồng/lượng trong ba phiên",
       "impact": "↑",
-      "note": "Nền tảng vĩ mô và sức cầu nội địa cải thiện, hỗ trợ định giá dài hạn của thị trường."
-    },
-    {
-      "title": "Ngân hàng dẫn đầu phát hành trái phiếu, lãi suất trái phiếu bất động sản lên tới 13,5%/năm",
-      "impact": "↓",
-      "note": "Chi phí vốn cao cho thấy rủi ro thanh khoản và áp lực tài chính còn hiện hữu ở nhóm bất động sản."
-    },
-    {
-      "title": "FPT khai thác hạng mục đầu tiên tại khu đô thị công nghệ số 2 tỷ USD từ 2027",
-      "impact": "↑",
-      "note": "Dự án quy mô lớn mở thêm dư địa tăng trưởng dài hạn cho nhóm công nghệ đầu ngành."
+      "note": "Vàng điều chỉnh mạnh có thể khiến một phần dòng tiền đầu cơ dịch chuyển sang kênh cổ phiếu."
     }
   ]
 }
