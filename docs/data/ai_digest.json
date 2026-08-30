@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-08-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Áp lực lớn nhất đến từ bên ngoài: Chủ tịch Fed phát tín hiệu tăng lãi suất tại Jackson Hole, chứng khoán Mỹ mất điểm vì lo ngại lạm phát và giá dầu giảm 5% cả tuần, kéo theo USD mạnh lên, gây sức ép tỷ giá và thu hẹp dư địa nới lỏng tiền tệ trong nước dù lãi suất huy động của nhóm ngân hàng lớn vẫn đi ngang. Ở chiều hỗ trợ, câu chuyện nâng hạng tiếp tục được củng cố khi Chủ tịch UBCKNN làm việc với S&P Dow Jones Indices và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức, cộng thêm Toyota rót thêm 283 triệu USD chuẩn bị sản xuất xe hybrid, giúp duy trì kỳ vọng FDI và dòng vốn ngoại trung hạn. Rủi ro ngắn hạn nằm ở chất lượng nhịp tăng: VN-Index thêm 64 điểm tuần qua nhưng riêng VIC đóng góp hơn 52 điểm, độ rộng thị trường hẹp nên chỉ số dễ rung lắc mạnh khi trụ hạ nhiệt. Thanh khoản còn có thể mỏng quanh kỳ nghỉ lễ Quốc khánh, trong khi tin đồn đang chi phối biến động giá một số cổ phiếu. Chiến lược hợp lý là ưu tiên bluechip hưởng lợi FDI và câu chuyện nâng hạng, giảm tỷ trọng cổ phiếu đã tăng nóng theo trụ và kiểm soát chặt margin.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Bức tranh vĩ mô nghiêng về tích cực khi GDP bình quân đầu người tiếp tục cải thiện mạnh và TP.HCM hút hơn 10 tỷ USD vốn FDI sau 8 tháng, cho thấy dòng vốn ngoại và nội lực tăng trưởng vẫn duy trì tốt. Về chính sách, việc Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức cùng câu chuyện 27 cổ phiếu trong rổ FTSE củng cố kỳ vọng nâng hạng và thu hút vốn ngoại, hỗ trợ nhóm chứng khoán, ngân hàng và bluechip vốn hóa lớn. Trên thị trường, VN-Index tăng 64 điểm tuần qua và tín hiệu sóng tăng mới được bàn tới, nhưng riêng VIC đã 'gánh' hơn 52 điểm - độ rộng thị trường hẹp là rủi ro đáng lưu ý nếu trụ hạ nhiệt. Rủi ro ngắn hạn còn đến từ áp lực chi phí vốn của doanh nghiệp bất động sản khi trái phiếu phải trả lãi tới 13%/năm, cùng hiện tượng giá cổ phiếu biến động theo tin đồn. Chiến lược hợp lý là ưu tiên cổ phiếu có nền tảng cơ bản và hưởng lợi từ FDI/nâng hạng, hạn chế mua đuổi ở nhóm đã tăng nóng.",
   "top": [
     {
-      "title": "Chủ tịch Fed phát tín hiệu tăng lãi suất từ Jackson Hole",
-      "impact": "↓",
-      "note": "Kỳ vọng Fed thắt chặt làm USD mạnh lên, tạo áp lực tỷ giá và hạn chế dư địa nới lỏng chính sách tiền tệ trong nước."
-    },
-    {
-      "title": "Chứng khoán Mỹ mất điểm vì lo ngại lạm phát, giá dầu giảm 5% cả tuần",
-      "impact": "↓",
-      "note": "Khẩu vị rủi ro toàn cầu xấu đi thường lan sang thị trường Việt Nam qua kênh tâm lý và dòng vốn ngoại."
-    },
-    {
-      "title": "UBCKNN làm việc với lãnh đạo S&P Dow Jones Indices",
+      "title": "TP.HCM hút hơn 10 tỷ USD vốn FDI sau 8 tháng",
       "impact": "↑",
-      "note": "Tăng khả năng Việt Nam được cải thiện vị thế trong rổ chỉ số quốc tế, hỗ trợ trực tiếp câu chuyện nâng hạng."
+      "note": "Dòng vốn FDI mạnh củng cố triển vọng tăng trưởng, hỗ trợ nhóm khu công nghiệp, xây dựng và ngân hàng."
     },
     {
-      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
-      "impact": "→",
-      "note": "Chỉ số tăng mạnh nhưng phụ thuộc một cổ phiếu trụ, độ rộng hẹp khiến nhịp tăng kém bền vững."
-    },
-    {
-      "title": "Toyota đầu tư thêm 283 triệu USD sản xuất xe hybrid tại Việt Nam",
+      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Dòng vốn FDI chất lượng cao củng cố triển vọng sản xuất, hỗ trợ khu công nghiệp, logistics và công nghiệp phụ trợ."
+      "note": "Tín hiệu chính sách mở cửa thị trường vốn, tăng kỳ vọng hút dòng tiền ngoại dài hạn."
     },
     {
-      "title": "Giá vàng SJC và vàng nhẫn giảm tới 2-3,1 triệu đồng/lượng",
+      "title": "27 cổ phiếu FTSE và bài toán 'khả năng đầu tư'",
+      "impact": "↑",
+      "note": "Câu chuyện nâng hạng tiếp tục là chất xúc tác cho nhóm vốn hóa lớn và công ty chứng khoán."
+    },
+    {
+      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC 'gánh' hơn 52 điểm",
       "impact": "→",
-      "note": "Vàng hạ nhiệt có thể giải phóng một phần dòng tiền sang chứng khoán, nhưng nguyên nhân chính là USD mạnh lên."
+      "note": "Chỉ số tăng mạnh nhưng phụ thuộc một trụ, độ rộng hẹp khiến chất lượng sóng tăng kém bền."
+    },
+    {
+      "title": "GDP bình quân Việt Nam cải thiện mạnh",
+      "impact": "↑",
+      "note": "Nền tảng vĩ mô vững giúp cải thiện sức cầu tiêu dùng và định giá dài hạn của thị trường."
+    },
+    {
+      "title": "Trái phiếu bất động sản trả lãi tới 13%/năm",
+      "impact": "↓",
+      "note": "Chi phí vốn cao phản ánh rủi ro thanh khoản còn hiện hữu ở nhóm bất động sản."
     }
   ]
 }
