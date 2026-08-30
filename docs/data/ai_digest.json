@@ -1,13 +1,13 @@
 {
   "_opus": true,
   "date": "2026-08-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Bức tranh vĩ mô nghiêng về tích cực khi GDP bình quân đầu người tiếp tục cải thiện mạnh và TP.HCM hút hơn 10 tỷ USD vốn FDI sau 8 tháng, cho thấy dòng vốn ngoại và nội lực tăng trưởng vẫn duy trì tốt. Về chính sách, việc Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức cùng câu chuyện 27 cổ phiếu trong rổ FTSE củng cố kỳ vọng nâng hạng và thu hút vốn ngoại, hỗ trợ nhóm chứng khoán, ngân hàng và bluechip vốn hóa lớn. Trên thị trường, VN-Index tăng 64 điểm tuần qua và tín hiệu sóng tăng mới được bàn tới, nhưng riêng VIC đã 'gánh' hơn 52 điểm - độ rộng thị trường hẹp là rủi ro đáng lưu ý nếu trụ hạ nhiệt. Rủi ro ngắn hạn còn đến từ áp lực chi phí vốn của doanh nghiệp bất động sản khi trái phiếu phải trả lãi tới 13%/năm, cùng hiện tượng giá cổ phiếu biến động theo tin đồn. Chiến lược hợp lý là ưu tiên cổ phiếu có nền tảng cơ bản và hưởng lợi từ FDI/nâng hạng, hạn chế mua đuổi ở nhóm đã tăng nóng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Nền vĩ mô trong nước tiếp tục thuận lợi khi GDP bình quân đầu người cải thiện mạnh và Chính phủ đẩy mạnh kết nối tài chính - chứng khoán Việt Nam - Đức, củng cố câu chuyện thu hút vốn ngoại và kỳ vọng nâng hạng, hỗ trợ nhóm chứng khoán, ngân hàng và bluechip. Tuy nhiên, rủi ro bên ngoài tăng lên rõ rệt khi tín hiệu tăng lãi suất phát đi từ Jackson Hole và căng thẳng thương mại Mỹ - Canada leo thang, gây áp lực lên tỷ giá, dòng vốn ngoại và định giá cổ phiếu. Trên thị trường, VN-Index tăng 64 điểm tuần qua nhưng riêng VIC 'gánh' hơn 52 điểm cho thấy độ rộng rất hẹp, chất lượng sóng tăng chưa thực sự bền nếu trụ hạ nhiệt. Chi phí vốn của doanh nghiệp bất động sản vẫn cao với trái phiếu trả lãi tới 13-13,5%/năm, trong khi hiện tượng giá cổ phiếu biến động theo tin đồn cảnh báo rủi ro đầu cơ. Chiến lược hợp lý là ưu tiên doanh nghiệp có nền tảng cơ bản và dòng tiền thực (như FPT với dự án đô thị công nghệ 2 tỷ USD), hạn chế mua đuổi và kiểm soát tỷ trọng margin.",
   "top": [
     {
-      "title": "TP.HCM hút hơn 10 tỷ USD vốn FDI sau 8 tháng",
-      "impact": "↑",
-      "note": "Dòng vốn FDI mạnh củng cố triển vọng tăng trưởng, hỗ trợ nhóm khu công nghiệp, xây dựng và ngân hàng."
+      "title": "Tín hiệu tăng lãi suất từ Jackson Hole, căng thẳng thương mại Mỹ - Canada leo thang",
+      "impact": "↓",
+      "note": "Lãi suất toàn cầu có thể cao hơn lâu hơn, gây áp lực lên tỷ giá và dòng vốn ngoại vào TTCK Việt Nam."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
@@ -15,24 +15,24 @@
       "note": "Tín hiệu chính sách mở cửa thị trường vốn, tăng kỳ vọng hút dòng tiền ngoại dài hạn."
     },
     {
-      "title": "27 cổ phiếu FTSE và bài toán 'khả năng đầu tư'",
-      "impact": "↑",
-      "note": "Câu chuyện nâng hạng tiếp tục là chất xúc tác cho nhóm vốn hóa lớn và công ty chứng khoán."
-    },
-    {
       "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC 'gánh' hơn 52 điểm",
       "impact": "→",
-      "note": "Chỉ số tăng mạnh nhưng phụ thuộc một trụ, độ rộng hẹp khiến chất lượng sóng tăng kém bền."
+      "note": "Chỉ số tăng mạnh nhưng phụ thuộc một trụ, độ rộng hẹp khiến sóng tăng kém bền vững."
     },
     {
-      "title": "GDP bình quân Việt Nam cải thiện mạnh",
+      "title": "GDP bình quân Việt Nam vượt nền kinh tế lớn thứ 5 thế giới",
       "impact": "↑",
-      "note": "Nền tảng vĩ mô vững giúp cải thiện sức cầu tiêu dùng và định giá dài hạn của thị trường."
+      "note": "Nền tảng vĩ mô và sức cầu nội địa cải thiện, hỗ trợ định giá dài hạn của thị trường."
     },
     {
-      "title": "Trái phiếu bất động sản trả lãi tới 13%/năm",
+      "title": "Ngân hàng dẫn đầu phát hành trái phiếu, lãi suất trái phiếu bất động sản lên tới 13,5%/năm",
       "impact": "↓",
-      "note": "Chi phí vốn cao phản ánh rủi ro thanh khoản còn hiện hữu ở nhóm bất động sản."
+      "note": "Chi phí vốn cao cho thấy rủi ro thanh khoản và áp lực tài chính còn hiện hữu ở nhóm bất động sản."
+    },
+    {
+      "title": "FPT khai thác hạng mục đầu tiên tại khu đô thị công nghệ số 2 tỷ USD từ 2027",
+      "impact": "↑",
+      "note": "Dự án quy mô lớn mở thêm dư địa tăng trưởng dài hạn cho nhóm công nghệ đầu ngành."
     }
   ]
 }
