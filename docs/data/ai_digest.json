@@ -2,12 +2,17 @@
   "_opus": true,
   "date": "2026-08-31",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Tháng 8 khép lại tích cực khi VN-Index tăng gần 100 điểm, tâm lý thị trường được củng cố bởi định hướng chuyển đổi mô hình tăng trưởng và việc triển khai Kết luận 62-KL/TW về nâng cao năng suất lao động — nền tảng cho tăng trưởng lợi nhuận doanh nghiệp trung hạn. Đề xuất tăng kết nối tài chính, chứng khoán Việt Nam - Đức mở thêm kỳ vọng hút vốn ngoại và hỗ trợ câu chuyện nâng hạng, trong khi giá vàng nhẫn hạ nhiệt mạnh (giảm tới 3,1 triệu đồng/lượng sau ba phiên) có thể giúp dòng tiền quay lại kênh cổ phiếu. Rủi ro ngắn hạn nằm ở độ lan tỏa quá hẹp: riêng VIC gánh hơn 52 trong 64 điểm tăng của tuần qua, khiến chỉ số dễ rung lắc mạnh khi nhóm trụ hạ nhiệt và định giá không còn thực sự rẻ. Áp lực nợ trái phiếu hơn 10.000 tỷ đồng cùng khoản lỗ hàng trăm tỷ tại chủ mới tòa Saigon Marina IFC nhắc lại rủi ro đòn bẩy của nhóm bất động sản, còn hiện tượng cổ phiếu biến động theo tin đồn cho thấy dòng tiền đầu cơ đang nóng. Chiến lược hợp lý là ưu tiên doanh nghiệp có nền tảng cơ bản tốt thay vì đuổi giá cổ phiếu trụ hoặc chạy theo tin đồn.",
+  "summary_vi": "Tháng 8 khép lại thuận lợi khi VN-Index tăng gần 100 điểm và ngành ngân hàng phát tín hiệu sẵn sàng tăng tốc bơm vốn ra nền kinh tế từ nay đến cuối năm — yếu tố hỗ trợ trực tiếp thanh khoản thị trường cùng nhóm ngân hàng, bất động sản, xây dựng và vật liệu. Chính sách tiếp tục nghiêng về hướng hỗ trợ: đề xuất tăng kết nối tài chính - chứng khoán Việt Nam - Đức mở thêm kỳ vọng hút vốn ngoại và củng cố câu chuyện nâng hạng, trong khi định hướng chuyển đổi mô hình tăng trưởng và Kết luận 62-KL/TW về năng suất lao động tạo nền tảng lợi nhuận doanh nghiệp trung hạn. Giá vàng nhẫn hạ nhiệt mạnh (giảm tới 3,1 triệu đồng/lượng sau ba phiên) giúp giảm áp lực hút vốn khỏi kênh cổ phiếu, còn dòng vốn đầu tư dài hạn được cụ thể hóa qua các dự án như khu đô thị công nghệ 2 tỷ USD của FPT. Rủi ro ngắn hạn nằm ở độ lan tỏa hẹp — đà tăng tháng 8 chủ yếu do VIC và TCB gánh, khiến chỉ số dễ rung lắc khi nhóm trụ hạ nhiệt và định giá không còn thực sự rẻ — cộng thêm áp lực nợ trái phiếu hơn 10.000 tỷ đồng tại chủ mới tòa Saigon Marina IFC nhắc lại rủi ro đòn bẩy bất động sản. Chiến lược hợp lý là ưu tiên doanh nghiệp có nền tảng cơ bản và hưởng lợi từ tín dụng mở rộng, hạn chế đuổi giá cổ phiếu trụ.",
   "top": [
+    {
+      "title": "Tín dụng sẵn sàng tăng tốc bơm vốn ra nền kinh tế từ nay đến cuối năm",
+      "impact": "↑",
+      "note": "Tín dụng mở rộng hỗ trợ thanh khoản và lợi nhuận nhóm ngân hàng, bất động sản, xây dựng."
+    },
     {
       "title": "VN-Index tăng gần 100 điểm trong tháng 8, chủ yếu nhờ VIC và TCB",
       "impact": "↑",
-      "note": "Xu hướng tăng được xác lập, củng cố tâm lý và thu hút dòng tiền tham gia thị trường."
+      "note": "Xu hướng tăng được xác lập, củng cố tâm lý dù độ lan tỏa còn phụ thuộc nhóm trụ."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
@@ -15,19 +20,14 @@
       "note": "Mở thêm kênh vốn quốc tế, hỗ trợ câu chuyện nâng hạng và thu hút nhà đầu tư ngoại."
     },
     {
-      "title": "Kinh tế Việt Nam trước bước chuyển mô hình tăng trưởng",
-      "impact": "↑",
-      "note": "Định hướng cải cách cùng Kết luận 62-KL/TW về năng suất tạo nền tảng tăng lợi nhuận doanh nghiệp trung hạn."
-    },
-    {
-      "title": "Giá vàng nhẫn giảm tới 3,1 triệu đồng/lượng trong ba phiên",
+      "title": "Giá vàng nhẫn “4 số 9” giảm tới 3,1 triệu đồng/lượng trong ba phiên",
       "impact": "↑",
       "note": "Kênh vàng hạ nhiệt giúp giảm hút vốn khỏi thị trường, dòng tiền có cơ hội quay lại cổ phiếu."
     },
     {
-      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
+      "title": "Định giá của thị trường đang hấp dẫn?",
       "impact": "→",
-      "note": "Độ lan tỏa quá hẹp khiến chỉ số dễ rung lắc mạnh khi cổ phiếu trụ điều chỉnh."
+      "note": "Sau nhịp tăng mạnh, mặt bằng định giá không còn rẻ nên dư địa mở rộng P/E bị thu hẹp."
     },
     {
       "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, nợ trái phiếu hơn 10.000 tỷ",
