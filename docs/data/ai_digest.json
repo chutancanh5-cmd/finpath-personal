@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-31",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường khép lại tháng 8 rất mạnh khi VN-Index tăng gần 100 điểm, nhưng đà tăng tập trung phần lớn vào VIC và TCB nên độ lan tỏa còn hạn chế và rủi ro điều chỉnh khi nhóm trụ hạ nhiệt là đáng lưu ý. Bối cảnh vĩ mô hỗ trợ: GDP bình quân đầu người cải thiện rõ, chính sách nâng cao năng suất lao động theo Kết luận 62-KL/TW được triển khai, và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán với Đức, mở thêm kênh vốn ngoại. Ở chiều ngược lại, biến số tỷ giá USD vẫn là ẩn số chi phối chính sách tiền tệ và dòng vốn ngoại trong các tháng tới. Giá vàng nhẫn giảm mạnh tới 3,1 triệu đồng/lượng qua ba phiên có thể giúp dòng tiền đầu cơ dịch chuyển trở lại kênh cổ phiếu. Nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản, hạn chế đuổi giá nhóm đã tăng nóng và cảnh giác với các mã biến động theo tin đồn.",
+  "summary_vi": "Thị trường khép lại tháng 8 với sắc thái tích cực khi VN-Index tăng gần 100 điểm trong tháng và 64 điểm chỉ riêng tuần qua, cùng nền vĩ mô hỗ trợ từ GDP bình quân đầu người cải thiện rõ và định hướng nâng cao năng suất lao động theo Kết luận 62-KL/TW. Điểm sáng chính sách là tín dụng sẵn sàng tăng tốc bơm vốn ra nền kinh tế từ nay đến cuối năm, trực tiếp có lợi cho nhóm ngân hàng, bất động sản và xây dựng, trong khi việc Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức củng cố câu chuyện thu hút vốn ngoại và nâng hạng. Tuy nhiên rủi ro ngắn hạn khá rõ: đà tăng phụ thuộc nặng vào VIC và TCB (riêng VIC gánh hơn 52/64 điểm tuần), độ lan tỏa yếu và định giá không còn rẻ sau nhịp tăng nóng. Hiện tượng cổ phiếu biến động theo tin đồn cho thấy dòng tiền đầu cơ đang mạnh, dễ tạo bẫy tăng giá. Nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản và hưởng lợi từ tín dụng mở rộng, hạn chế đuổi giá nhóm trụ đã tăng mạnh.",
   "top": [
+    {
+      "title": "Tín dụng sẵn sàng tăng tốc bơm vốn ra nền kinh tế từ nay đến cuối năm",
+      "impact": "↑",
+      "note": "Thanh khoản và tín dụng mở rộng hỗ trợ trực tiếp lợi nhuận ngân hàng, bất động sản, xây dựng."
+    },
     {
       "title": "VN-Index tăng gần 100 điểm trong tháng 8, chủ yếu nhờ VIC và TCB",
       "impact": "↑",
-      "note": "Xu hướng tăng được xác lập rõ nhưng phụ thuộc nhóm trụ nên độ bền cần thêm kiểm chứng."
+      "note": "Xu hướng tăng được xác lập nhưng lệ thuộc nhóm trụ nên độ bền cần thêm kiểm chứng."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Mở rộng hợp tác vốn quốc tế, hỗ trợ câu chuyện nâng hạng và thu hút dòng vốn ngoại."
+      "note": "Mở rộng kênh vốn quốc tế, hỗ trợ câu chuyện nâng hạng và dòng tiền khối ngoại."
     },
     {
-      "title": "GDP bình quân Việt Nam cải thiện mạnh so với khu vực",
+      "title": "GDP bình quân Việt Nam vượt nền kinh tế lớn thứ 5 thế giới",
       "impact": "↑",
       "note": "Nền tảng tăng trưởng vĩ mô vững củng cố kỳ vọng lợi nhuận doanh nghiệp trung hạn."
     },
     {
-      "title": "Điều gì quyết định tỷ giá USD thời gian tới?",
+      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
       "impact": "→",
-      "note": "Áp lực tỷ giá là biến số hai chiều, chi phối dư địa nới lỏng tiền tệ và dòng vốn ngoại."
+      "note": "Độ lan tỏa quá hẹp khiến chỉ số dễ đảo chiều khi cổ phiếu trụ hạ nhiệt."
     },
     {
-      "title": "Định giá thị trường sau nhịp tăng mạnh",
-      "impact": "→",
-      "note": "Định giá không còn rẻ như đầu năm, đòi hỏi chọn lọc cổ phiếu thay vì mua theo chỉ số."
-    },
-    {
-      "title": "Giá vàng nhẫn giảm tới 3,1 triệu đồng/lượng trong ba phiên",
-      "impact": "↑",
-      "note": "Kênh vàng kém hấp dẫn ngắn hạn có thể đẩy một phần dòng tiền quay lại chứng khoán."
+      "title": "Giá cổ phiếu biến động vì tin đồn",
+      "impact": "↓",
+      "note": "Đầu cơ theo tin đồn làm tăng rủi ro thua lỗ và có thể kéo theo động thái siết giám sát."
     }
   ]
 }
