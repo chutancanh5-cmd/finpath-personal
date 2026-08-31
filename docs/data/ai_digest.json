@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-01",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "VN-Index đóng lại tháng 8 với mức tăng gần 100 điểm và riêng tuần cuối tăng 64 điểm, nhưng phần lớn công lao thuộc về VIC (hơn 52 điểm) và TCB, cho thấy độ lan tỏa của dòng tiền còn mỏng. Nền vĩ mô nghiêng về hỗ trợ: đề xuất tăng kết nối tài chính - chứng khoán Việt Nam - Đức mở thêm kênh vốn ngoại phục vụ câu chuyện nâng hạng, Kết luận 62-KL/TW về nâng cao năng suất lao động củng cố kỳ vọng tăng trưởng trung hạn, và việc có thêm thành phố trực thuộc Trung ương thứ 8 (quy mô kinh tế trên 14 tỷ USD) tạo lực đẩy cho nhóm hạ tầng, bất động sản, xây dựng. Lãi suất huy động tại nhóm ngân hàng lớn tiếp tục ổn định giúp chi phí vốn dễ chịu, trong khi vàng nhẫn giảm tới 3,1 triệu đồng/lượng chỉ trong ba phiên có thể đẩy một phần dòng tiền cá nhân quay lại kênh cổ phiếu. Rủi ro ngắn hạn: định giá không còn rẻ sau nhịp tăng nóng, áp lực chốt lời ở nhóm trụ, tình trạng cổ phiếu biến động theo tin đồn và các điểm nghẽn trái phiếu bất động sản chưa được xử lý dứt điểm.",
+  "summary_vi": "Dòng tin vĩ mô nghiêng về hướng hỗ trợ: Đà Nẵng kỳ vọng hút hàng tỷ USD qua các sản phẩm tài chính mới, Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán với Đức, củng cố câu chuyện trung tâm tài chính và thu hút vốn ngoại trung hạn. Thị trường vừa có tháng 8 rất mạnh khi VN-Index tăng gần 100 điểm, song mức tăng chủ yếu đến từ VIC và TCB nên độ rộng hẹp, dễ điều chỉnh khi nhóm trụ hạ nhiệt. Mặt bằng định giá vẫn được đánh giá là hấp dẫn và lãi suất huy động duy trì ổn định, tạo nền cho dòng tiền ở lại kênh cổ phiếu. Rủi ro ngắn hạn đến từ áp lực nợ trái phiếu bất động sản (trường hợp Saigon Marina IFC lỗ lớn, dư nợ trái phiếu trên 10 nghìn tỷ), tình trạng cổ phiếu biến động theo tin đồn và biến động mạnh của giá vàng trước loạt dữ liệu quốc tế sắp công bố. Chiến lược hợp lý là ưu tiên cổ phiếu có nền tảng cơ bản và thanh khoản tốt, hạn chế mua đuổi nhóm đã tăng nóng.",
   "top": [
     {
-      "title": "VN-Index tăng gần 100 điểm tháng 8, tuần cuối tăng 64 điểm nhờ VIC và TCB",
+      "title": "VN-Index tăng gần 100 điểm trong tháng 8, chủ yếu nhờ VIC và TCB",
+      "impact": "→",
+      "note": "Đà tăng mạnh nhưng phụ thuộc vài mã trụ nên độ rộng hẹp, chỉ số dễ rung lắc khi nhóm dẫn dắt điều chỉnh."
+    },
+    {
+      "title": "Đà Nẵng kỳ vọng hút hàng tỷ USD qua các sản phẩm tài chính mới",
       "impact": "↑",
-      "note": "Xu hướng tăng được xác nhận nhưng phụ thuộc vài mã trụ nên chỉ số dễ rung lắc mạnh khi nhóm này chốt lời."
+      "note": "Câu chuyện trung tâm tài chính quốc tế mở thêm dư địa cho nhóm chứng khoán, ngân hàng và bất động sản khu vực."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Mở thêm kênh hút vốn ngoại, hỗ trợ trực tiếp câu chuyện nâng hạng và nhóm cổ phiếu chứng khoán."
-    },
-    {
-      "title": "Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8, quy mô hơn 14 tỷ USD",
-      "impact": "↑",
-      "note": "Kỳ vọng đẩy mạnh đầu tư công và quy hoạch đô thị tạo lực đẩy cho nhóm hạ tầng, xây dựng, bất động sản."
+      "note": "Hỗ trợ kỳ vọng thu hút dòng vốn ngoại và tiến trình nâng hạng thị trường."
     },
     {
       "title": "Định giá của thị trường đang hấp dẫn?",
-      "impact": "→",
-      "note": "Sau nhịp tăng nóng, mức định giá trở nên gây tranh cãi khiến dòng tiền mới thận trọng hơn."
-    },
-    {
-      "title": "Giá vàng nhẫn giảm tới 3,1 triệu đồng/lượng trong ba phiên",
       "impact": "↑",
-      "note": "Kênh vàng kém hấp dẫn trong ngắn hạn có thể chuyển một phần dòng tiền cá nhân sang cổ phiếu."
+      "note": "Mặt bằng P/E chưa quá cao sau nhịp tăng giúp dòng tiền có cơ sở duy trì vị thế nắm giữ."
     },
     {
-      "title": "Giá cổ phiếu biến động vì tin đồn; chủ tòa Saigon Marina IFC lỗ lớn, nợ trái phiếu hơn 10 nghìn tỷ",
+      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 nghìn tỷ",
       "impact": "↓",
-      "note": "Tâm lý đầu cơ theo tin đồn cộng với rủi ro trái phiếu bất động sản gây áp lực lên nhóm BĐS và ngân hàng cho vay."
+      "note": "Nhắc lại rủi ro đòn bẩy và áp lực đáo hạn trái phiếu của nhóm bất động sản."
+    },
+    {
+      "title": "Giá cổ phiếu biến động vì tin đồn",
+      "impact": "↓",
+      "note": "Dòng tiền đầu cơ theo tin đồn làm tăng rủi ro thua lỗ cho nhà đầu tư cá nhân mua đuổi."
     }
   ]
 }
