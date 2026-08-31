@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-08-31",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index khép lại tháng 8 với mức tăng gần 100 điểm, nhưng động lực tập trung quá mức vào VIC và TCB (riêng VIC 'gánh' hơn 52 điểm tuần qua) cho thấy độ rộng thị trường hẹp và chỉ số chưa phản ánh đúng sức khỏe mặt bằng cổ phiếu. Nền vĩ mô vẫn hỗ trợ: GDP bình quân đầu người cải thiện mạnh, chính sách nâng cao năng suất lao động theo Kết luận 62-KL/TW và nỗ lực mở rộng kết nối tài chính - chứng khoán Việt Nam - Đức giúp củng cố kỳ vọng dòng vốn ngoại trung hạn. Ở chiều rủi ro, lãi suất huy động neo cao cùng lượng trái phiếu doanh nghiệp sắp đáo hạn tạo áp lực chi phí vốn và thanh khoản, đặc biệt với nhóm bất động sản - xây dựng. Giá vàng biến động mạnh hai chiều (vàng nhẫn có nơi gần 150 triệu đồng/lượng nhưng đã giảm tới 3,1 triệu đồng/lượng trong ba phiên) tiếp tục hút một phần dòng tiền đầu cơ khỏi cổ phiếu. Định giá thị trường được đánh giá còn hấp dẫn, nhưng nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản và hạn chế mua đuổi theo tin đồn sau nhịp tăng nóng.",
+  "summary_vi": "VN-Index khép lại tháng 8 với mức tăng gần 100 điểm nhưng động lực tập trung quá mức vào VIC và TCB (riêng VIC 'gánh' hơn 52 điểm trong tuần), cho thấy độ rộng thị trường hẹp và chỉ số chưa phản ánh đúng sức khỏe mặt bằng cổ phiếu. Nền vĩ mô vẫn hỗ trợ: GDP bình quân đầu người tiếp tục cải thiện trên bảng xếp hạng quốc tế, chính sách nâng cao năng suất lao động theo Kết luận 62-KL/TW và đề nghị tăng kết nối tài chính - chứng khoán Việt Nam - Đức củng cố kỳ vọng dòng vốn ngoại trung hạn. Định giá thị trường được đánh giá còn hấp dẫn, và dòng vốn doanh nghiệp vẫn sôi động với Kafi lên UPCoM, FPT triển khai khu đô thị công nghệ số 2 tỷ USD. Rủi ro ngắn hạn đến từ ẩn số tỷ giá USD, hiện tượng cổ phiếu biến động theo tin đồn sau nhịp tăng nóng và việc doanh nghiệp quay lại kênh trái phiếu (Chương Dương 739 tỷ đồng) trong bối cảnh chi phí vốn chưa rẻ. Nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản, hạn chế mua đuổi và theo dõi sát diễn biến tỷ giá.",
   "top": [
     {
       "title": "VN-Index tăng gần 100 điểm tháng 8 nhờ VIC và TCB",
@@ -10,9 +10,9 @@
       "note": "Chỉ số tăng mạnh nhưng chỉ dựa vào vài mã trụ, độ rộng hẹp nên chưa xác nhận xu hướng tăng bền vững."
     },
     {
-      "title": "Lãi suất huy động neo cao, trái phiếu sắp đến kỳ đáo hạn",
-      "impact": "↓",
-      "note": "Chi phí vốn cao và áp lực đáo hạn trái phiếu bào mòn lợi nhuận doanh nghiệp và hút bớt dòng tiền khỏi kênh cổ phiếu."
+      "title": "Ẩn số tỷ giá USD thời gian tới",
+      "impact": "→",
+      "note": "Áp lực tỷ giá là biến số chi phối chính sách tiền tệ và dòng vốn ngoại, cần theo dõi sát trong ngắn hạn."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
@@ -20,19 +20,19 @@
       "note": "Mở rộng hợp tác quốc tế củng cố câu chuyện nâng hạng và triển vọng thu hút vốn ngoại vào TTCK Việt Nam."
     },
     {
-      "title": "GDP bình quân Việt Nam cải thiện mạnh trên bảng xếp hạng quốc tế",
-      "impact": "↑",
-      "note": "Nền tảng tăng trưởng và sức mua nội địa cải thiện là bệ đỡ dài hạn cho lợi nhuận doanh nghiệp niêm yết."
-    },
-    {
       "title": "Định giá thị trường đang ở vùng hấp dẫn",
       "impact": "↑",
       "note": "Mặt bằng P/E chưa quá cao giúp duy trì lực cầu và hạn chế rủi ro điều chỉnh sâu sau nhịp tăng."
     },
     {
-      "title": "Giá vàng biến động mạnh, vàng nhẫn giảm 3,1 triệu đồng/lượng trong ba phiên",
-      "impact": "→",
-      "note": "Biến động hai chiều của vàng phản ánh tâm lý phòng thủ và cạnh tranh dòng tiền đầu cơ với chứng khoán."
+      "title": "GDP bình quân Việt Nam cải thiện mạnh trên bảng xếp hạng quốc tế",
+      "impact": "↑",
+      "note": "Nền tảng tăng trưởng và sức mua nội địa cải thiện là bệ đỡ dài hạn cho lợi nhuận doanh nghiệp niêm yết."
+    },
+    {
+      "title": "Giá cổ phiếu biến động vì tin đồn",
+      "impact": "↓",
+      "note": "Dòng tiền đầu cơ chạy theo tin đồn làm tăng rủi ro biến động mạnh và thua lỗ cho nhà đầu tư cá nhân."
     }
   ]
 }
