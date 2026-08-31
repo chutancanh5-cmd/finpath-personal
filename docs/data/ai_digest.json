@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-31",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường vừa có tuần tăng mạnh 64 điểm và dòng tiền đang bàn tới một sóng tăng mới, nhưng phần lớn mức tăng đến từ riêng VIC nên độ rộng thực tế còn yếu và chỉ số dễ bị bóp méo. Mặt vĩ mô trong nước có điểm tựa: GDP bình quân đầu người cải thiện, Chính phủ thúc đẩy kết nối tài chính - chứng khoán với Đức, mở thêm kỳ vọng dòng vốn ngoại và nâng hạng. Rủi ro ngắn hạn nằm ở chi phí vốn: lãi suất huy động neo cao cùng áp lực trái phiếu doanh nghiệp đáo hạn sẽ bào mòn biên lợi nhuận nhóm bất động sản, xây dựng và ngân hàng. Bên ngoài, tín hiệu thắt chặt lãi suất từ Jackson Hole và căng thẳng thương mại Mỹ - Canada có thể khiến khối ngoại thận trọng và gây rung lắc. Nhà đầu tư nên ưu tiên cổ phiếu có dòng tiền thực và tránh các mã chạy theo tin đồn, đồng thời hạ tỷ trọng khi chỉ số tăng nhưng thanh khoản không xác nhận.",
+  "summary_vi": "VN-Index khép lại tháng 8 với mức tăng gần 100 điểm, nhưng động lực tập trung quá mức vào VIC và TCB (riêng VIC 'gánh' hơn 52 điểm tuần qua) cho thấy độ rộng thị trường hẹp và chỉ số chưa phản ánh đúng sức khỏe mặt bằng cổ phiếu. Nền vĩ mô vẫn hỗ trợ: GDP bình quân đầu người cải thiện mạnh, chính sách nâng cao năng suất lao động theo Kết luận 62-KL/TW và nỗ lực mở rộng kết nối tài chính - chứng khoán Việt Nam - Đức giúp củng cố kỳ vọng dòng vốn ngoại trung hạn. Ở chiều rủi ro, lãi suất huy động neo cao cùng lượng trái phiếu doanh nghiệp sắp đáo hạn tạo áp lực chi phí vốn và thanh khoản, đặc biệt với nhóm bất động sản - xây dựng. Giá vàng biến động mạnh hai chiều (vàng nhẫn có nơi gần 150 triệu đồng/lượng nhưng đã giảm tới 3,1 triệu đồng/lượng trong ba phiên) tiếp tục hút một phần dòng tiền đầu cơ khỏi cổ phiếu. Định giá thị trường được đánh giá còn hấp dẫn, nhưng nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản và hạn chế mua đuổi theo tin đồn sau nhịp tăng nóng.",
   "top": [
     {
-      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
+      "title": "VN-Index tăng gần 100 điểm tháng 8 nhờ VIC và TCB",
       "impact": "→",
-      "note": "Chỉ số tăng mạnh nhưng gần như toàn bộ đến từ một cổ phiếu, cho thấy độ rộng thị trường yếu."
+      "note": "Chỉ số tăng mạnh nhưng chỉ dựa vào vài mã trụ, độ rộng hẹp nên chưa xác nhận xu hướng tăng bền vững."
     },
     {
-      "title": "Tín hiệu tăng lãi suất từ Jackson Hole, căng thẳng thương mại Mỹ - Canada leo thang",
+      "title": "Lãi suất huy động neo cao, trái phiếu sắp đến kỳ đáo hạn",
       "impact": "↓",
-      "note": "Môi trường lãi suất toàn cầu thắt chặt gây áp lực tỷ giá và làm khối ngoại thận trọng với thị trường mới nổi."
-    },
-    {
-      "title": "Trái phiếu sắp đến kỳ đáo hạn, lãi suất huy động neo cao",
-      "impact": "↓",
-      "note": "Chi phí vốn cao cộng áp lực đáo hạn siết dòng tiền của nhóm bất động sản và xây dựng."
-    },
-    {
-      "title": "Xu thế dòng tiền: Thị trường đã xác nhận sóng tăng mới?",
-      "impact": "↑",
-      "note": "Tâm lý dòng tiền cải thiện, hỗ trợ thanh khoản và xu hướng ngắn hạn của chỉ số."
+      "note": "Chi phí vốn cao và áp lực đáo hạn trái phiếu bào mòn lợi nhuận doanh nghiệp và hút bớt dòng tiền khỏi kênh cổ phiếu."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Mở rộng hợp tác vốn quốc tế củng cố kỳ vọng nâng hạng và thu hút dòng vốn ngoại dài hạn."
+      "note": "Mở rộng hợp tác quốc tế củng cố câu chuyện nâng hạng và triển vọng thu hút vốn ngoại vào TTCK Việt Nam."
     },
     {
-      "title": "Giá vàng nhẫn giảm tới 3,1 triệu đồng/lượng trong ba phiên",
+      "title": "GDP bình quân Việt Nam cải thiện mạnh trên bảng xếp hạng quốc tế",
       "impact": "↑",
-      "note": "Vàng điều chỉnh mạnh có thể khiến một phần dòng tiền đầu cơ dịch chuyển sang kênh cổ phiếu."
+      "note": "Nền tảng tăng trưởng và sức mua nội địa cải thiện là bệ đỡ dài hạn cho lợi nhuận doanh nghiệp niêm yết."
+    },
+    {
+      "title": "Định giá thị trường đang ở vùng hấp dẫn",
+      "impact": "↑",
+      "note": "Mặt bằng P/E chưa quá cao giúp duy trì lực cầu và hạn chế rủi ro điều chỉnh sâu sau nhịp tăng."
+    },
+    {
+      "title": "Giá vàng biến động mạnh, vàng nhẫn giảm 3,1 triệu đồng/lượng trong ba phiên",
+      "impact": "→",
+      "note": "Biến động hai chiều của vàng phản ánh tâm lý phòng thủ và cạnh tranh dòng tiền đầu cơ với chứng khoán."
     }
   ]
 }
