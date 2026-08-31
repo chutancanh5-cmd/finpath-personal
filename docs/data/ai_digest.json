@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-08-31",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường khép lại tháng 8 với sắc thái tích cực khi VN-Index tăng gần 100 điểm trong tháng và 64 điểm chỉ riêng tuần qua, cùng nền vĩ mô hỗ trợ từ GDP bình quân đầu người cải thiện rõ và định hướng nâng cao năng suất lao động theo Kết luận 62-KL/TW. Điểm sáng chính sách là tín dụng sẵn sàng tăng tốc bơm vốn ra nền kinh tế từ nay đến cuối năm, trực tiếp có lợi cho nhóm ngân hàng, bất động sản và xây dựng, trong khi việc Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức củng cố câu chuyện thu hút vốn ngoại và nâng hạng. Tuy nhiên rủi ro ngắn hạn khá rõ: đà tăng phụ thuộc nặng vào VIC và TCB (riêng VIC gánh hơn 52/64 điểm tuần), độ lan tỏa yếu và định giá không còn rẻ sau nhịp tăng nóng. Hiện tượng cổ phiếu biến động theo tin đồn cho thấy dòng tiền đầu cơ đang mạnh, dễ tạo bẫy tăng giá. Nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản và hưởng lợi từ tín dụng mở rộng, hạn chế đuổi giá nhóm trụ đã tăng mạnh.",
+  "summary_vi": "Tháng 8 khép lại tích cực với VN-Index tăng gần 100 điểm, nền vĩ mô hỗ trợ khi GDP bình quân đầu người cải thiện mạnh và định hướng nâng cao năng suất lao động theo Kết luận 62-KL/TW được triển khai. Yếu tố chính sách đáng chú ý nhất là tín dụng sẵn sàng tăng tốc bơm vốn ra nền kinh tế từ nay đến cuối năm, tạo lực đẩy trực tiếp cho ngân hàng, bất động sản, xây dựng và vật liệu; việc Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức củng cố thêm câu chuyện hút vốn ngoại và nâng hạng. Tuy nhiên rủi ro ngắn hạn là đà tăng quá lệ thuộc nhóm trụ (riêng VIC gánh hơn 52/64 điểm tuần qua), độ lan tỏa hẹp và định giá không còn rẻ sau nhịp tăng nóng. Dòng tiền đầu cơ chạy theo tin đồn cùng áp lực nợ trái phiếu ở một số chủ đầu tư bất động sản lớn là điểm cần theo dõi. Giá vàng nhẫn hạ nhiệt mạnh có thể giúp dòng tiền quay lại kênh cổ phiếu, nhưng nhà đầu tư nên ưu tiên doanh nghiệp cơ bản hưởng lợi từ tín dụng mở rộng thay vì đuổi giá cổ phiếu trụ.",
   "top": [
     {
-      "title": "Tín dụng sẵn sàng tăng tốc bơm vốn ra nền kinh tế từ nay đến cuối năm",
+      "title": "Tín dụng tăng tốc bơm vốn ra nền kinh tế đến cuối năm",
       "impact": "↑",
-      "note": "Thanh khoản và tín dụng mở rộng hỗ trợ trực tiếp lợi nhuận ngân hàng, bất động sản, xây dựng."
+      "note": "Tín dụng mở rộng cải thiện thanh khoản và lợi nhuận nhóm ngân hàng, bất động sản, xây dựng."
     },
     {
-      "title": "VN-Index tăng gần 100 điểm trong tháng 8, chủ yếu nhờ VIC và TCB",
+      "title": "VN-Index tăng gần 100 điểm trong tháng 8 nhờ VIC và TCB",
       "impact": "↑",
-      "note": "Xu hướng tăng được xác lập nhưng lệ thuộc nhóm trụ nên độ bền cần thêm kiểm chứng."
+      "note": "Xu hướng tăng được xác lập, củng cố tâm lý và dòng tiền vào thị trường."
     },
     {
-      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
+      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt - Đức",
       "impact": "↑",
-      "note": "Mở rộng kênh vốn quốc tế, hỗ trợ câu chuyện nâng hạng và dòng tiền khối ngoại."
+      "note": "Mở thêm kênh vốn quốc tế, hỗ trợ câu chuyện nâng hạng và dòng vốn ngoại."
     },
     {
-      "title": "GDP bình quân Việt Nam vượt nền kinh tế lớn thứ 5 thế giới",
+      "title": "GDP bình quân Việt Nam cải thiện mạnh so với khu vực",
       "impact": "↑",
-      "note": "Nền tảng tăng trưởng vĩ mô vững củng cố kỳ vọng lợi nhuận doanh nghiệp trung hạn."
+      "note": "Nền tảng vĩ mô vững giúp duy trì kỳ vọng tăng trưởng lợi nhuận doanh nghiệp trung hạn."
     },
     {
-      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
+      "title": "VN-Index tăng 64 điểm tuần qua nhưng VIC gánh hơn 52 điểm",
       "impact": "→",
-      "note": "Độ lan tỏa quá hẹp khiến chỉ số dễ đảo chiều khi cổ phiếu trụ hạ nhiệt."
+      "note": "Độ lan tỏa quá hẹp khiến chỉ số dễ rung lắc khi cổ phiếu trụ hạ nhiệt."
     },
     {
-      "title": "Giá cổ phiếu biến động vì tin đồn",
+      "title": "Chủ tòa Saigon Marina IFC lỗ lớn, ôm hơn 10.000 tỷ nợ trái phiếu",
       "impact": "↓",
-      "note": "Đầu cơ theo tin đồn làm tăng rủi ro thua lỗ và có thể kéo theo động thái siết giám sát."
+      "note": "Nhắc lại rủi ro đòn bẩy trái phiếu bất động sản, gây áp lực lên nhóm BĐS và ngân hàng cho vay."
     }
   ]
 }
