@@ -2,17 +2,12 @@
   "_opus": true,
   "date": "2026-08-31",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Tháng 8 khép lại tích cực khi VN-Index tăng gần 100 điểm, với lực đẩy chính sách đến từ tín hiệu tín dụng sẵn sàng tăng tốc bơm vốn ra nền kinh tế trong các tháng cuối năm — hỗ trợ trực tiếp cho ngân hàng, bất động sản, xây dựng và vật liệu. Định hướng chuyển đổi mô hình tăng trưởng và triển khai Kết luận 62-KL/TW về năng suất lao động củng cố câu chuyện trung hạn, trong khi đề xuất tăng kết nối tài chính - chứng khoán Việt Nam - Đức mở thêm kỳ vọng hút vốn ngoại và nâng hạng. Tuy nhiên rủi ro ngắn hạn khá rõ: đà tăng lệ thuộc quá lớn vào nhóm trụ (riêng VIC gánh hơn 52/64 điểm tuần qua), độ lan tỏa hẹp và định giá không còn rẻ sau nhịp tăng nóng. Hiện tượng cổ phiếu biến động theo tin đồn cùng áp lực nợ trái phiếu hơn 10.000 tỷ đồng tại chủ mới Saigon Marina IFC nhắc lại rủi ro đòn bẩy của nhóm bất động sản. Giá vàng nhẫn hạ nhiệt mạnh (giảm tới 3,1 triệu đồng/lượng sau ba phiên) có thể giúp dòng tiền quay lại kênh cổ phiếu, nhưng nên ưu tiên doanh nghiệp cơ bản hưởng lợi từ tín dụng mở rộng thay vì đuổi giá cổ phiếu trụ.",
+  "summary_vi": "Tháng 8 khép lại tích cực khi VN-Index tăng gần 100 điểm, tâm lý thị trường được củng cố bởi định hướng chuyển đổi mô hình tăng trưởng và việc triển khai Kết luận 62-KL/TW về nâng cao năng suất lao động — nền tảng cho tăng trưởng lợi nhuận doanh nghiệp trung hạn. Đề xuất tăng kết nối tài chính, chứng khoán Việt Nam - Đức mở thêm kỳ vọng hút vốn ngoại và hỗ trợ câu chuyện nâng hạng, trong khi giá vàng nhẫn hạ nhiệt mạnh (giảm tới 3,1 triệu đồng/lượng sau ba phiên) có thể giúp dòng tiền quay lại kênh cổ phiếu. Rủi ro ngắn hạn nằm ở độ lan tỏa quá hẹp: riêng VIC gánh hơn 52 trong 64 điểm tăng của tuần qua, khiến chỉ số dễ rung lắc mạnh khi nhóm trụ hạ nhiệt và định giá không còn thực sự rẻ. Áp lực nợ trái phiếu hơn 10.000 tỷ đồng cùng khoản lỗ hàng trăm tỷ tại chủ mới tòa Saigon Marina IFC nhắc lại rủi ro đòn bẩy của nhóm bất động sản, còn hiện tượng cổ phiếu biến động theo tin đồn cho thấy dòng tiền đầu cơ đang nóng. Chiến lược hợp lý là ưu tiên doanh nghiệp có nền tảng cơ bản tốt thay vì đuổi giá cổ phiếu trụ hoặc chạy theo tin đồn.",
   "top": [
     {
-      "title": "Tín dụng sẵn sàng tăng tốc bơm vốn ra nền kinh tế đến cuối năm",
+      "title": "VN-Index tăng gần 100 điểm trong tháng 8, chủ yếu nhờ VIC và TCB",
       "impact": "↑",
-      "note": "Tín dụng mở rộng cải thiện thanh khoản hệ thống và triển vọng lợi nhuận nhóm ngân hàng, bất động sản, xây dựng."
-    },
-    {
-      "title": "VN-Index tăng gần 100 điểm trong tháng 8 nhờ VIC và TCB",
-      "impact": "↑",
-      "note": "Xu hướng tăng được xác lập, củng cố tâm lý và dòng tiền tham gia thị trường."
+      "note": "Xu hướng tăng được xác lập, củng cố tâm lý và thu hút dòng tiền tham gia thị trường."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
@@ -22,15 +17,20 @@
     {
       "title": "Kinh tế Việt Nam trước bước chuyển mô hình tăng trưởng",
       "impact": "↑",
-      "note": "Định hướng cải cách và nâng cao năng suất tạo nền tảng tăng trưởng lợi nhuận doanh nghiệp trung hạn."
+      "note": "Định hướng cải cách cùng Kết luận 62-KL/TW về năng suất tạo nền tảng tăng lợi nhuận doanh nghiệp trung hạn."
+    },
+    {
+      "title": "Giá vàng nhẫn giảm tới 3,1 triệu đồng/lượng trong ba phiên",
+      "impact": "↑",
+      "note": "Kênh vàng hạ nhiệt giúp giảm hút vốn khỏi thị trường, dòng tiền có cơ hội quay lại cổ phiếu."
     },
     {
       "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
       "impact": "→",
-      "note": "Độ lan tỏa quá hẹp khiến chỉ số dễ rung lắc mạnh khi cổ phiếu trụ hạ nhiệt."
+      "note": "Độ lan tỏa quá hẹp khiến chỉ số dễ rung lắc mạnh khi cổ phiếu trụ điều chỉnh."
     },
     {
-      "title": "Chủ mới Saigon Marina IFC lỗ hàng trăm tỷ, nợ trái phiếu hơn 10.000 tỷ",
+      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, nợ trái phiếu hơn 10.000 tỷ",
       "impact": "↓",
       "note": "Nhắc lại rủi ro đòn bẩy trái phiếu bất động sản, gây áp lực lên nhóm BĐS và ngân hàng cho vay."
     }
