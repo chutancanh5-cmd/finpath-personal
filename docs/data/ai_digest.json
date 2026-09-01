@@ -2,15 +2,10 @@
   "_opus": true,
   "date": "2026-09-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay cho thấy sự giằng co giữa lực đẩy chính sách trong nước và rủi ro bên ngoài. Trong nước, khả năng tiếp tục giảm thực chất lãi suất cho vay cùng chỉ đạo cắt giảm tối đa thủ tục hành chính hướng tới tăng trưởng hai con số giai đoạn 2026-2030 là nền hỗ trợ cho nhóm ngân hàng, bất động sản, xây dựng và vật liệu; việc có thêm thành phố trực thuộc Trung ương thứ 8 và nỗ lực kết nối tài chính - chứng khoán Việt - Đức bổ sung câu chuyện hạ tầng và dòng vốn ngoại dài hạn. Ở chiều ngược lại, xung đột Mỹ - Iran đẩy giá dầu tăng mạnh và kéo chứng khoán Mỹ giảm, trong khi lo ngại lãi suất toàn cầu tăng khiến vàng rơi xuống đáy 2 tuần — tổ hợp này tạo áp lực lên tỷ giá, lạm phát nhập khẩu và khẩu vị rủi ro. Rủi ro nội tại vẫn hiện diện khi một chủ đầu tư bất động sản lớn tiếp tục lỗ hàng trăm tỷ với hơn 10 ngàn tỷ nợ trái phiếu, còn hiện tượng cổ phiếu chạy theo tin đồn cho thấy dòng tiền đầu cơ đang nóng. Ngắn hạn nên giữ tỷ trọng cân bằng, ưu tiên doanh nghiệp có dòng tiền thực và hưởng lợi từ đầu tư công, hạn chế mua đuổi nhóm đầu cơ và theo dõi sát giá dầu, tỷ giá.",
+  "summary_vi": "Dòng tin hôm nay giằng co giữa lực đẩy chính sách trong nước và rủi ro từ bên ngoài. Ở chiều hỗ trợ, Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 với quy mô kinh tế hơn 14 tỷ USD, và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức, đều là chất xúc tác trung hạn cho nhóm hạ tầng, xây dựng, bất động sản khu công nghiệp và chứng khoán. Ở chiều rủi ro, căng thẳng Mỹ - Iran đẩy giá dầu tăng mạnh và kéo chứng khoán Mỹ mất điểm, trong khi lo ngại lãi suất toàn cầu neo cao khiến vàng rơi xuống đáy 2 tuần — tổ hợp này gây áp lực lên tỷ giá, lạm phát nhập khẩu và khẩu vị rủi ro của khối ngoại. Rủi ro nội tại vẫn hiện diện khi một chủ đầu tư lớn tiếp tục lỗ hàng trăm tỷ với hơn 10 ngàn tỷ nợ trái phiếu, còn hiện tượng cổ phiếu biến động theo tin đồn cho thấy dòng tiền đầu cơ đang nóng. Ngắn hạn nên giữ tỷ trọng cân bằng, ưu tiên doanh nghiệp có dòng tiền thực và hưởng lợi từ đầu tư công, hạn chế mua đuổi nhóm tin đồn và theo dõi sát giá dầu cùng tỷ giá.",
   "top": [
     {
-      "title": "Vẫn còn cơ hội giảm thực chất lãi suất cho vay",
-      "impact": "↑",
-      "note": "Chi phí vốn rẻ hơn cải thiện biên lợi nhuận doanh nghiệp và nâng mặt bằng định giá, đặc biệt với nhóm dùng đòn bẩy cao."
-    },
-    {
-      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
+      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, tạo đột phá tăng trưởng hai con số 2026-2030",
       "impact": "↑",
       "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận trung hạn của khối doanh nghiệp niêm yết."
     },
@@ -30,9 +25,14 @@
       "note": "Nâng cấp hành chính thường kéo theo làn sóng đầu tư hạ tầng, có lợi cho bất động sản, xây dựng và vật liệu khu vực."
     },
     {
+      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
+      "impact": "↑",
+      "note": "Mở rộng kênh hút vốn ngoại và hỗ trợ câu chuyện nâng hạng, tích cực cho nhóm chứng khoán và cổ phiếu vốn hóa lớn."
+    },
+    {
       "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
       "impact": "↓",
-      "note": "Nhắc lại rủi ro đòn bẩy và trái phiếu doanh nghiệp bất động sản, có thể gây thận trọng với nhóm địa ốc và ngân hàng cho vay liên quan."
+      "note": "Nhắc lại rủi ro đòn bẩy và trái phiếu bất động sản, có thể gây thận trọng với nhóm địa ốc và ngân hàng cho vay liên quan."
     }
   ]
 }
