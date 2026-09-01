@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay giằng co giữa lực đẩy chính sách trong nước và rủi ro từ bên ngoài. Ở chiều hỗ trợ, Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 với quy mô kinh tế hơn 14 tỷ USD, và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức, đều là chất xúc tác trung hạn cho nhóm hạ tầng, xây dựng, bất động sản khu công nghiệp và chứng khoán. Ở chiều rủi ro, căng thẳng Mỹ - Iran đẩy giá dầu tăng mạnh và kéo chứng khoán Mỹ mất điểm, trong khi lo ngại lãi suất toàn cầu neo cao khiến vàng rơi xuống đáy 2 tuần — tổ hợp này gây áp lực lên tỷ giá, lạm phát nhập khẩu và khẩu vị rủi ro của khối ngoại. Rủi ro nội tại vẫn hiện diện khi một chủ đầu tư lớn tiếp tục lỗ hàng trăm tỷ với hơn 10 ngàn tỷ nợ trái phiếu, còn hiện tượng cổ phiếu biến động theo tin đồn cho thấy dòng tiền đầu cơ đang nóng. Ngắn hạn nên giữ tỷ trọng cân bằng, ưu tiên doanh nghiệp có dòng tiền thực và hưởng lợi từ đầu tư công, hạn chế mua đuổi nhóm tin đồn và theo dõi sát giá dầu cùng tỷ giá.",
+  "summary_vi": "Dòng tin trong nước nghiêng về hướng hỗ trợ: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, đồng thời thúc đẩy kết nối tài chính - chứng khoán với Đức, và Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 với quy mô kinh tế hơn 14 tỷ USD. Đây là nền tảng tích cực trung hạn cho nhóm ngân hàng, bất động sản khu công nghiệp, đầu tư công và chứng khoán. Tuy nhiên rủi ro ngắn hạn đến từ bên ngoài: căng thẳng Mỹ - Iran leo thang khiến chứng khoán Mỹ giảm và giá dầu tăng mạnh, cộng với mối lo lãi suất tăng đẩy giá vàng về đáy hai tuần, làm gia tăng áp lực lạm phát nhập khẩu và biến động dòng vốn. Trong nước, áp lực nợ trái phiếu doanh nghiệp bất động sản (Saigon Marina IFC lỗ lớn, dư nợ trái phiếu trên 10 ngàn tỷ) và tình trạng cổ phiếu biến động theo tin đồn cho thấy rủi ro chọn sai cổ phiếu vẫn cao. Chiến lược hợp lý là ưu tiên cổ phiếu đầu ngành hưởng lợi chính sách, hạn chế đòn bẩy và tránh nhóm đầu cơ theo tin đồn.",
   "top": [
     {
-      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, tạo đột phá tăng trưởng hai con số 2026-2030",
+      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
       "impact": "↑",
-      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận trung hạn của khối doanh nghiệp niêm yết."
+      "note": "Cải cách thể chế mạnh giúp cải thiện môi trường kinh doanh và kỳ vọng lợi nhuận doanh nghiệp niêm yết."
     },
     {
-      "title": "Mỹ - Iran không kích lẫn nhau, giá dầu tăng mạnh, chứng khoán Mỹ mất điểm",
+      "title": "Chứng khoán Mỹ mất điểm, giá dầu tăng mạnh do căng thẳng Mỹ - Iran",
       "impact": "↓",
-      "note": "Rủi ro địa chính trị và giá dầu leo thang làm tăng chi phí đầu vào, lạm phát nhập khẩu và hạ khẩu vị rủi ro toàn cầu."
+      "note": "Rủi ro địa chính trị và giá dầu cao gây áp lực lạm phát, tỷ giá và tâm lý nhà đầu tư toàn cầu."
     },
     {
       "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
       "impact": "↓",
-      "note": "Kỳ vọng lãi suất toàn cầu neo cao gây sức ép lên tỷ giá USD/VND và dòng vốn khối ngoại vào thị trường Việt Nam."
-    },
-    {
-      "title": "Từ 1/9, Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8, quy mô kinh tế hơn 14 tỷ USD",
-      "impact": "↑",
-      "note": "Nâng cấp hành chính thường kéo theo làn sóng đầu tư hạ tầng, có lợi cho bất động sản, xây dựng và vật liệu khu vực."
+      "note": "Kỳ vọng lãi suất cao hơn làm giảm khẩu vị rủi ro và siết dư địa nới lỏng tiền tệ trong nước."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Mở rộng kênh hút vốn ngoại và hỗ trợ câu chuyện nâng hạng, tích cực cho nhóm chứng khoán và cổ phiếu vốn hóa lớn."
+      "note": "Mở rộng hợp tác quốc tế hỗ trợ thu hút dòng vốn ngoại và tiến trình nâng hạng thị trường."
     },
     {
-      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
+      "title": "Việt Nam có thành phố trực thuộc Trung ương thứ 8, quy mô kinh tế hơn 14 tỷ USD",
+      "impact": "↑",
+      "note": "Nâng cấp hành chính thường kéo theo đầu tư hạ tầng, có lợi cho bất động sản, xây dựng, vật liệu."
+    },
+    {
+      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
       "impact": "↓",
-      "note": "Nhắc lại rủi ro đòn bẩy và trái phiếu bất động sản, có thể gây thận trọng với nhóm địa ốc và ngân hàng cho vay liên quan."
+      "note": "Nhắc lại rủi ro trái phiếu bất động sản, ảnh hưởng tâm lý với nhóm địa ốc và ngân hàng cho vay."
     }
   ]
 }
