@@ -2,12 +2,17 @@
   "_opus": true,
   "date": "2026-09-01",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin vĩ mô nghiêng về hướng hỗ trợ: Đà Nẵng kỳ vọng hút hàng tỷ USD qua các sản phẩm tài chính mới, Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 và Thủ tướng thúc đẩy kết nối tài chính - chứng khoán với Đức, củng cố câu chuyện trung tâm tài chính và thu hút vốn ngoại trung hạn. Thị trường vừa có tháng 8 rất mạnh khi VN-Index tăng gần 100 điểm, song mức tăng chủ yếu đến từ VIC và TCB nên độ rộng hẹp, dễ điều chỉnh khi nhóm trụ hạ nhiệt. Mặt bằng định giá vẫn được đánh giá là hấp dẫn và lãi suất huy động duy trì ổn định, tạo nền cho dòng tiền ở lại kênh cổ phiếu. Rủi ro ngắn hạn đến từ áp lực nợ trái phiếu bất động sản (trường hợp Saigon Marina IFC lỗ lớn, dư nợ trái phiếu trên 10 nghìn tỷ), tình trạng cổ phiếu biến động theo tin đồn và biến động mạnh của giá vàng trước loạt dữ liệu quốc tế sắp công bố. Chiến lược hợp lý là ưu tiên cổ phiếu có nền tảng cơ bản và thanh khoản tốt, hạn chế mua đuổi nhóm đã tăng nóng.",
+  "summary_vi": "Dòng tin hôm nay nghiêng về hỗ trợ thị trường: VN-Index vừa khép lại tháng 8 với mức tăng gần 100 điểm, định giá vẫn được đánh giá là hấp dẫn, trong khi các chính sách phát triển hạ tầng tài chính (thành phố trực thuộc Trung ương thứ 8, sản phẩm tài chính mới tại Đà Nẵng, kết nối tài chính - chứng khoán Việt - Đức) củng cố câu chuyện thu hút vốn ngoại trung hạn. Tuy nhiên chất lượng đà tăng là điểm cần lưu ý khi phần lớn số điểm đến từ VIC và TCB, cho thấy độ rộng hẹp và rủi ro rung lắc khi nhóm trụ hạ nhiệt. Rủi ro ngắn hạn còn đến từ áp lực nợ trái phiếu bất động sản (Saigon Marina IFC lỗ lớn, dư nợ trái phiếu trên 10 nghìn tỷ) và tình trạng cổ phiếu biến động theo tin đồn. Giá vàng biến động mạnh hai chiều trước loạt dữ liệu quốc tế sắp công bố có thể hút bớt dòng tiền đầu cơ khỏi kênh cổ phiếu. Chiến lược hợp lý là ưu tiên doanh nghiệp có nền tảng cơ bản và thanh khoản tốt, hạn chế mua đuổi nhóm đã tăng nóng.",
   "top": [
     {
       "title": "VN-Index tăng gần 100 điểm trong tháng 8, chủ yếu nhờ VIC và TCB",
       "impact": "→",
-      "note": "Đà tăng mạnh nhưng phụ thuộc vài mã trụ nên độ rộng hẹp, chỉ số dễ rung lắc khi nhóm dẫn dắt điều chỉnh."
+      "note": "Xu hướng tăng được xác nhận nhưng phụ thuộc vài mã trụ nên độ rộng hẹp, chỉ số dễ rung lắc khi nhóm dẫn dắt điều chỉnh."
+    },
+    {
+      "title": "Định giá thị trường vẫn đang hấp dẫn",
+      "impact": "↑",
+      "note": "Mặt bằng P/E chưa quá cao sau nhịp tăng giúp dòng tiền có cơ sở duy trì vị thế nắm giữ."
     },
     {
       "title": "Đà Nẵng kỳ vọng hút hàng tỷ USD qua các sản phẩm tài chính mới",
@@ -20,11 +25,6 @@
       "note": "Hỗ trợ kỳ vọng thu hút dòng vốn ngoại và tiến trình nâng hạng thị trường."
     },
     {
-      "title": "Định giá của thị trường đang hấp dẫn?",
-      "impact": "↑",
-      "note": "Mặt bằng P/E chưa quá cao sau nhịp tăng giúp dòng tiền có cơ sở duy trì vị thế nắm giữ."
-    },
-    {
       "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 nghìn tỷ",
       "impact": "↓",
       "note": "Nhắc lại rủi ro đòn bẩy và áp lực đáo hạn trái phiếu của nhóm bất động sản."
@@ -32,7 +32,7 @@
     {
       "title": "Giá cổ phiếu biến động vì tin đồn",
       "impact": "↓",
-      "note": "Dòng tiền đầu cơ theo tin đồn làm tăng rủi ro thua lỗ cho nhà đầu tư cá nhân mua đuổi."
+      "note": "Dòng tiền đầu cơ chạy theo tin đồn làm tăng rủi ro thua lỗ cho nhà đầu tư cá nhân mua đuổi."
     }
   ]
 }
