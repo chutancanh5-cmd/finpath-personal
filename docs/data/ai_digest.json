@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường bước vào tháng 9 với nền tảng khá thuận lợi khi VN-Index tăng 64 điểm trong tuần qua và mặt bằng định giá vẫn được đánh giá là hấp dẫn. Các thông tin chính sách hỗ trợ trung - dài hạn xuất hiện dày hơn: Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 với quy mô kinh tế hơn 14 tỷ USD, Thủ tướng đề nghị tăng kết nối tài chính - chứng khoán Việt Nam - Đức, cùng chủ trương nâng cao năng suất lao động theo Kết luận 62-KL/TW, đều củng cố câu chuyện thu hút vốn ngoại, đầu tư hạ tầng và nâng hạng thị trường. Tuy nhiên chất lượng đà tăng là điểm đáng lo khi riêng VIC đã 'gánh' hơn 52/64 điểm, cho thấy độ rộng rất hẹp và chỉ số dễ rung lắc mạnh nếu nhóm trụ hạ nhiệt. Rủi ro ngắn hạn còn đến từ mối lo lãi suất toàn cầu tăng (đẩy giá vàng xuống đáy 2 tuần, gây áp lực lên tỷ giá và dòng vốn), áp lực nợ trái phiếu bất động sản và tình trạng cổ phiếu chạy theo tin đồn. Chiến lược hợp lý là ưu tiên doanh nghiệp có nền tảng cơ bản và thanh khoản tốt, hạn chế mua đuổi nhóm đã tăng nóng và chờ loạt dữ liệu vĩ mô quốc tế công bố tuần này.",
+  "summary_vi": "VN-Index tăng mạnh 64 điểm tuần qua nhưng riêng VIC đóng góp hơn 52 điểm, cho thấy đà tăng rất hẹp và phụ thuộc nhóm vốn hóa lớn, độ rộng thị trường yếu. Yếu tố hỗ trợ đến từ chính sách: Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 với quy mô kinh tế hơn 14 tỷ USD (thuận lợi cho bất động sản, hạ tầng, vật liệu xây dựng khu vực), Thủ tướng đề nghị tăng kết nối tài chính - chứng khoán Việt Nam - Đức mở thêm kênh hút vốn ngoại, cùng chủ trương nâng cao năng suất lao động quốc gia. Rủi ro ngắn hạn đến từ bên ngoài: căng thẳng Mỹ - Iran leo thang đẩy giá dầu tăng mạnh và chứng khoán Mỹ mất điểm, trong khi mối lo lãi suất tăng khiến vàng rơi xuống đáy 2 tuần - áp lực lên tỷ giá và dòng vốn khối ngoại. Nội tại vẫn còn điểm nghẽn với doanh nghiệp bất động sản thua lỗ, ôm nợ trái phiếu lớn và tình trạng cổ phiếu biến động theo tin đồn. Nhà đầu tư nên hạn chế mua đuổi ở nhóm đã tăng nóng, ưu tiên doanh nghiệp có dòng tiền thực và hưởng lợi từ đầu tư công, hạ tầng.",
   "top": [
     {
-      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC 'gánh' hơn 52 điểm",
+      "title": "VN-Index tăng 64 điểm tuần qua, riêng VIC gánh hơn 52 điểm",
       "impact": "→",
-      "note": "Chỉ số tăng mạnh nhưng gần như toàn bộ điểm số đến từ một cổ phiếu trụ, độ rộng hẹp khiến đà tăng kém bền vững."
+      "note": "Chỉ số tăng mạnh nhưng nhờ một cổ phiếu trụ, độ rộng thị trường hẹp nên chưa phản ánh sức khỏe chung."
     },
     {
-      "title": "Định giá của thị trường đang hấp dẫn?",
-      "impact": "↑",
-      "note": "Mặt bằng P/E chưa quá cao sau nhịp tăng, tạo cơ sở để dòng tiền duy trì vị thế nắm giữ trung hạn."
+      "title": "Mỹ - Iran không kích lẫn nhau, giá dầu tăng mạnh, chứng khoán Mỹ mất điểm",
+      "impact": "↓",
+      "note": "Rủi ro địa chính trị và giá dầu cao làm tăng lạm phát nhập khẩu, gây áp lực lên tâm lý và dòng vốn toàn cầu."
     },
     {
       "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
       "impact": "↓",
-      "note": "Kỳ vọng lãi suất toàn cầu neo cao gây áp lực lên tỷ giá USD/VND và dòng vốn ngoại vào chứng khoán Việt Nam."
-    },
-    {
-      "title": "Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8, quy mô kinh tế hơn 14 tỷ USD",
-      "impact": "↑",
-      "note": "Nâng cấp hành chính mở dư địa đầu tư hạ tầng và đô thị, hỗ trợ nhóm bất động sản, xây dựng và vật liệu khu vực."
+      "note": "Kỳ vọng lãi suất cao hơn siết thanh khoản toàn cầu, tạo áp lực lên tỷ giá và khối ngoại tại thị trường Việt Nam."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Củng cố kỳ vọng hút vốn ngoại và tiến trình nâng hạng thị trường, có lợi cho nhóm chứng khoán - ngân hàng."
+      "note": "Mở rộng kênh hợp tác vốn quốc tế, hỗ trợ câu chuyện nâng hạng và thu hút dòng tiền ngoại trung hạn."
     },
     {
-      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 nghìn tỷ",
+      "title": "Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 từ 1/9, quy mô kinh tế hơn 14 tỷ USD",
+      "impact": "↑",
+      "note": "Nâng cấp hành chính thường đi kèm đầu tư hạ tầng, có lợi cho nhóm bất động sản, xây dựng và vật liệu khu vực."
+    },
+    {
+      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
       "impact": "↓",
-      "note": "Cho thấy rủi ro đòn bẩy và áp lực đáo hạn trái phiếu vẫn hiện hữu ở nhóm bất động sản."
+      "note": "Nhắc lại rủi ro đòn bẩy và trái phiếu doanh nghiệp bất động sản, ảnh hưởng tâm lý với nhóm địa ốc và ngân hàng cho vay."
     }
   ]
 }
