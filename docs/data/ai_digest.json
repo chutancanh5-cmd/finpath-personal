@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô hôm nay phân hóa giữa hỗ trợ trong nước và sức ép bên ngoài: chủ trương vẫn còn dư địa giảm thực chất lãi suất cho vay là tin nền tảng tích cực cho chi phí vốn doanh nghiệp và nhóm ngân hàng, bất động sản, xây dựng. Cùng chiều hỗ trợ là các thông tin chính sách - từ 1/9 Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 với quy mô kinh tế hơn 14 tỷ USD, Thủ tướng đề nghị tăng kết nối tài chính - chứng khoán Việt Nam - Đức, và định hướng nâng cao năng suất lao động theo Kết luận 62-KL/TW. Ở chiều rủi ro, căng thẳng Mỹ - Iran đẩy giá dầu tăng mạnh và khiến chứng khoán Mỹ mất điểm, trong khi mối lo lãi suất toàn cầu tăng kéo vàng xuống đáy 2 tuần, tạo áp lực kép lên tỷ giá, lạm phát nhập khẩu và dòng vốn ngoại. Rủi ro nội tại vẫn còn khi doanh nghiệp bất động sản lớn tiếp tục lỗ với hơn 10 ngàn tỷ nợ trái phiếu và nhiều cổ phiếu biến động theo tin đồn. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên doanh nghiệp có dòng tiền thực, hưởng lợi từ đầu tư công và mặt bằng lãi suất thấp, hạn chế mua đuổi ở nhóm đầu cơ.",
+  "summary_vi": "Dòng tin hôm nay nghiêng về hỗ trợ chính sách trong nước nhưng bị trung hòa bởi rủi ro bên ngoài. Điểm nhấn tích cực là khả năng còn dư địa giảm thực chất lãi suất cho vay, cùng chỉ đạo của Chính phủ về cắt giảm tối đa thủ tục hành chính để tạo đột phá tăng trưởng hai con số giai đoạn 2026-2030 và việc Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8 từ 1/9 — đều có lợi cho nhóm ngân hàng, bất động sản, xây dựng và vật liệu. Chiều ngược lại, xung đột Mỹ - Iran đẩy giá dầu tăng mạnh khiến chứng khoán Mỹ mất điểm, trong khi mối lo lãi suất toàn cầu tăng kéo vàng xuống đáy 2 tuần, tạo áp lực lên tỷ giá, lạm phát nhập khẩu và dòng vốn ngoại. Rủi ro nội tại vẫn hiện hữu qua câu chuyện doanh nghiệp bất động sản lỗ lớn với hơn 10 ngàn tỷ nợ trái phiếu và tình trạng cổ phiếu biến động theo tin đồn. Nhà đầu tư nên duy trì tỷ trọng cân bằng, ưu tiên doanh nghiệp có dòng tiền thực và hưởng lợi từ đầu tư công, tránh mua đuổi nhóm đầu cơ.",
   "top": [
     {
       "title": "Vẫn còn cơ hội giảm thực chất lãi suất cho vay",
       "impact": "↑",
-      "note": "Chi phí vốn rẻ hơn giúp cải thiện lợi nhuận doanh nghiệp và hỗ trợ định giá cổ phiếu, đặc biệt nhóm bất động sản, xây dựng, bán lẻ."
+      "note": "Chi phí vốn hạ giúp cải thiện biên lợi nhuận doanh nghiệp và nâng mặt bằng định giá cổ phiếu."
+    },
+    {
+      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
+      "impact": "↑",
+      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận trung hạn của khối doanh nghiệp niêm yết."
     },
     {
       "title": "Mỹ - Iran không kích lẫn nhau, giá dầu tăng mạnh, chứng khoán Mỹ mất điểm",
       "impact": "↓",
-      "note": "Rủi ro địa chính trị và dầu tăng làm tăng lạm phát nhập khẩu, chi phí đầu vào và kéo tâm lý rủi ro toàn cầu đi xuống."
+      "note": "Rủi ro địa chính trị và dầu leo thang làm tăng chi phí đầu vào, lạm phát nhập khẩu và hạ khẩu vị rủi ro toàn cầu."
     },
     {
       "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
       "impact": "↓",
-      "note": "Kỳ vọng lãi suất toàn cầu cao hơn siết thanh khoản, gây áp lực lên tỷ giá USD/VND và dòng vốn khối ngoại."
+      "note": "Kỳ vọng lãi suất toàn cầu cao hơn gây sức ép lên tỷ giá USD/VND và dòng vốn khối ngoại."
     },
     {
       "title": "Từ 1/9, Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8, quy mô kinh tế hơn 14 tỷ USD",
       "impact": "↑",
-      "note": "Nâng cấp hành chính thường đi kèm làn sóng đầu tư hạ tầng, có lợi cho bất động sản, xây dựng và vật liệu khu vực."
-    },
-    {
-      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
-      "impact": "↑",
-      "note": "Mở thêm kênh hợp tác vốn quốc tế, hỗ trợ câu chuyện nâng hạng và thu hút dòng tiền ngoại trung hạn."
+      "note": "Nâng cấp hành chính thường kéo theo làn sóng đầu tư hạ tầng, có lợi cho bất động sản và xây dựng khu vực."
     },
     {
       "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
       "impact": "↓",
-      "note": "Nhắc lại rủi ro đòn bẩy và trái phiếu bất động sản, ảnh hưởng tâm lý nhóm địa ốc và ngân hàng cho vay liên quan."
+      "note": "Nhắc lại rủi ro đòn bẩy và trái phiếu bất động sản, tác động tâm lý lên nhóm địa ốc và ngân hàng liên quan."
     }
   ]
 }
