@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Điểm tựa chính hôm nay đến từ chính sách trong nước: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, đồng thời thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức, hỗ trợ câu chuyện nâng hạng và dòng vốn ngoại. Việc có thêm thành phố trực thuộc Trung ương thứ 8 (quy mô hơn 14 tỷ USD) và dự án đô thị công nghệ số 2 tỷ USD của FPT củng cố các chủ đề hạ tầng, bất động sản khu công nghiệp và công nghệ. Rủi ro ngắn hạn chủ yếu từ bên ngoài: căng thẳng Mỹ - Iran leo thang khiến chứng khoán Mỹ mất điểm và giá dầu tăng mạnh, gây áp lực lên lạm phát, tỷ giá và khẩu vị rủi ro, trong khi mối lo lãi suất tăng đang kéo giá vàng xuống đáy hai tuần. Trong nước, khoản lỗ và hơn 10 ngàn tỷ nợ trái phiếu tại tòa Saigon Marina IFC nhắc lại rủi ro chất lượng tài sản bất động sản - ngân hàng, còn hiện tượng cổ phiếu chạy theo tin đồn cho thấy dòng tiền còn thiếu ổn định. Chiến lược hợp lý là ưu tiên nhóm hưởng lợi chính sách (đầu tư công, hạ tầng, công nghệ, dầu khí) và hạn chế đòn bẩy cho tới khi rủi ro địa chính trị hạ nhiệt.",
+  "summary_vi": "Dòng tin trong nước nghiêng về hướng hỗ trợ: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá tăng trưởng hai con số giai đoạn 2026-2030, đồng thời thúc đẩy kết nối tài chính - chứng khoán với Đức, mở thêm dư địa cho dòng vốn ngoại và nhóm cổ phiếu hưởng lợi từ đầu tư công, bất động sản khu công nghiệp và công nghệ (FPT). Tuy nhiên rủi ro bên ngoài đang tăng khi Mỹ và Iran không kích lẫn nhau khiến chứng khoán Mỹ giảm và giá dầu tăng mạnh, cộng với mối lo lãi suất toàn cầu nhích lên - hai yếu tố gây áp lực lên tỷ giá, lạm phát và định giá cổ phiếu. Khối ngoại vẫn bán ròng hơn 90.000 tỷ đồng từ đầu năm dù đã xuất hiện tín hiệu chậm lại, nên áp lực cung chưa dứt hẳn. Giá vàng giảm sâu có thể giúp dòng tiền quay lại kênh chứng khoán, nhưng rủi ro tín dụng - trái phiếu doanh nghiệp bất động sản (Saigon Marina IFC lỗ lớn, nợ trái phiếu trên 10 ngàn tỷ) vẫn là điểm cần theo dõi. Ngắn hạn nên ưu tiên nhóm cổ phiếu có câu chuyện chính sách rõ ràng, hạn chế đòn bẩy và tránh cổ phiếu chạy theo tin đồn.",
   "top": [
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
       "impact": "↑",
-      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao nâng kỳ vọng lợi nhuận doanh nghiệp trung hạn."
+      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp trung hạn."
     },
     {
-      "title": "Mỹ - Iran không kích lẫn nhau: chứng khoán Mỹ giảm, giá dầu tăng mạnh",
+      "title": "Mỹ và Iran không kích lẫn nhau, chứng khoán Mỹ giảm, giá dầu tăng mạnh",
       "impact": "↓",
-      "note": "Rủi ro địa chính trị và dầu đắt đỏ gây sức ép lên lạm phát, tỷ giá và tâm lý nhà đầu tư."
+      "note": "Rủi ro địa chính trị và dầu tăng gây áp lực lạm phát, tỷ giá và khẩu vị rủi ro toàn cầu."
     },
     {
       "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
       "impact": "↓",
-      "note": "Kỳ vọng lãi suất toàn cầu cao hơn làm giảm định giá tài sản rủi ro và siết dòng tiền vào cổ phiếu."
+      "note": "Kỳ vọng lãi suất cao hơn làm giảm định giá cổ phiếu và tăng sức ép lên tỷ giá USD/VND."
+    },
+    {
+      "title": "Khối ngoại bán ròng hơn 90.000 tỷ từ đầu năm nhưng đã có tín hiệu tích cực",
+      "impact": "→",
+      "note": "Áp lực bán ròng vẫn lớn song đà bán chậm lại là tín hiệu cải thiện cần thêm xác nhận."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Hợp tác vốn quốc tế hỗ trợ câu chuyện nâng hạng thị trường và dòng tiền khối ngoại."
+      "note": "Mở thêm kênh thu hút vốn ngoại, hỗ trợ câu chuyện nâng hạng và thanh khoản thị trường."
     },
     {
-      "title": "Việt Nam có thêm thành phố trực thuộc Trung ương thứ 8, quy mô kinh tế hơn 14 tỷ USD",
-      "impact": "↑",
-      "note": "Mở ra kỳ vọng đầu tư hạ tầng và quy hoạch mới, tích cực cho bất động sản và xây dựng khu vực."
-    },
-    {
-      "title": "Chủ tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, ôm hơn 10 ngàn tỷ nợ trái phiếu",
+      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, ôm nợ trái phiếu hơn 10 ngàn tỷ",
       "impact": "↓",
-      "note": "Nhắc lại rủi ro trái phiếu và chất lượng tài sản của nhóm bất động sản cùng ngân hàng tài trợ."
+      "note": "Nhắc lại rủi ro trái phiếu bất động sản, ảnh hưởng tâm lý với nhóm ngân hàng và BĐS."
     }
   ]
 }
