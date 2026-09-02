@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-09-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Mặt chính sách trong nước nghiêng về hỗ trợ: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, đồng thời thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức và bổ sung thành phố trực thuộc Trung ương thứ 8 với quy mô kinh tế hơn 14 tỷ USD. Đây là nền tảng tốt cho nhóm hưởng lợi từ đầu tư công, bất động sản khu công nghiệp, xây dựng vật liệu và chứng khoán theo câu chuyện thu hút vốn ngoại. Ở chiều rủi ro, căng thẳng Mỹ - Iran leo thang khiến chứng khoán Mỹ mất điểm và giá dầu tăng mạnh, cộng thêm mối lo lãi suất toàn cầu nhích lên, tạo áp lực kép lên lạm phát, tỷ giá USD/VND và định giá cổ phiếu. Khối ngoại vẫn bán ròng hơn 90.000 tỷ đồng từ đầu năm dù đà bán đã có dấu hiệu chậm lại, trong khi rủi ro trái phiếu bất động sản chưa được xử lý dứt điểm. Ngắn hạn nên ưu tiên cổ phiếu có câu chuyện chính sách rõ ràng và nền tảng cơ bản tốt, hạn chế đòn bẩy, tránh cổ phiếu chạy theo tin đồn và theo dõi sát giá dầu cùng biến động tỷ giá.",
+  "summary_vi": "Dòng tin chính sách trong nước nghiêng về hỗ trợ: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, Thủ tướng thúc đẩy kết nối tài chính - chứng khoán Việt Nam - Đức, đồng thời cả nước có thêm thành phố trực thuộc Trung ương thứ 8 với quy mô kinh tế hơn 14 tỷ USD. Đây là nền tảng thuận lợi cho nhóm đầu tư công, xây dựng - vật liệu, bất động sản khu công nghiệp và chứng khoán gắn với câu chuyện thu hút vốn ngoại, nâng hạng thị trường. Ở chiều rủi ro, căng thẳng Mỹ - Iran leo thang khiến chứng khoán Mỹ mất điểm và giá dầu tăng mạnh, tạo áp lực lên lạm phát, chi phí đầu vào và tỷ giá USD/VND. Trong nước, giá vàng giảm sâu (vàng nhẫn mất tới 3,1 triệu đồng/lượng trong ba phiên) cho thấy dòng tiền trú ẩn đang biến động mạnh, trong khi khối ngoại vẫn bán ròng hơn 90.000 tỷ đồng từ đầu năm dù đà bán đã có tín hiệu chậm lại, và rủi ro trái phiếu bất động sản chưa được xử lý dứt điểm. Ngắn hạn, VN-Index nhiều khả năng tiếp tục rung lắc; nên ưu tiên cổ phiếu có câu chuyện chính sách rõ ràng và cơ bản tốt, hạn chế đòn bẩy, tránh mua đuổi theo tin đồn.",
   "top": [
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, tạo đột phá tăng trưởng hai con số 2026-2030",
@@ -10,14 +10,9 @@
       "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp trung hạn."
     },
     {
-      "title": "Chứng khoán Mỹ mất điểm, giá dầu tăng mạnh do Mỹ - Iran không kích lẫn nhau",
+      "title": "Chứng khoán Mỹ mất điểm, giá dầu tăng mạnh vì Mỹ và Iran không kích lẫn nhau",
       "impact": "↓",
-      "note": "Rủi ro địa chính trị và dầu tăng làm xấu khẩu vị rủi ro toàn cầu, gây sức ép lạm phát và tỷ giá."
-    },
-    {
-      "title": "Mối lo lãi suất tăng đẩy giá vàng xuống đáy 2 tuần",
-      "impact": "↓",
-      "note": "Kỳ vọng lãi suất cao hơn làm giảm định giá cổ phiếu và tăng áp lực lên tỷ giá USD/VND."
+      "note": "Rủi ro địa chính trị và dầu tăng làm xấu khẩu vị rủi ro toàn cầu, gây sức ép lên lạm phát và tỷ giá."
     },
     {
       "title": "Khối ngoại bán ròng hơn 90.000 tỷ từ đầu năm nhưng đã xuất hiện tín hiệu tích cực",
@@ -28,6 +23,11 @@
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
       "note": "Mở thêm kênh hút vốn ngoại, hỗ trợ câu chuyện nâng hạng và thanh khoản thị trường."
+    },
+    {
+      "title": "Giá vàng giảm sâu, vàng nhẫn mất tới 3,1 triệu đồng/lượng trong ba phiên",
+      "impact": "→",
+      "note": "Kênh trú ẩn hạ nhiệt có thể đẩy một phần dòng tiền sang chứng khoán nhưng biến động mạnh gây tâm lý thận trọng."
     },
     {
       "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
