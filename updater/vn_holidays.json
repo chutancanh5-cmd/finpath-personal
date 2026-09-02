@@ -1,0 +1,29 @@
+{
+ "_meta": {
+  "muc_dich": "Ngay SAN CHUNG KHOAN VIET NAM (HOSE/HNX/UPCOM) DONG CUA. Chi dung cho bot TRADE — bot vi mo/tin tuc trong macro/ chay 24/7 ke ca ngay le.",
+  "dung_boi": "bot/vn_trading_calendar.py",
+  "cap_nhat": "2026-08-31",
+  "cach_xac_minh": "Hai phuong phap DOC LAP, khop 100% tren moi ngay da xay ra: (1) doc thong bao lich nghi giao dich cua HOSE (Thong bao 2294/TB-SGDHCM 09/12/2025) + HNX qua cac ban tom tat (vietstock, phs.vn, dnse, tinnhanhchungkhoan, cafef); (2) DO TRUC TIEP tu du lieu — lay toan bo nen ngay VNINDEX 2024-01-01..2026-08-28 (661 nen) qua vnstock, cac ngay T2-T6 KHONG co nen chinh la ngay san dong cua; doi chieu them FPT cho ket qua trung khop.",
+  "canh_bao": [
+  "Hai ngay thu Bay 'lam bu' 2026-01-10 va 2026-08-22 la ngay lam viec hanh chinh NHUNG SAN KHONG GIAO DICH. Vi vn_trading_calendar.py da coi moi T7/CN la ngay nghi nen khong can liet ke — dung them vao day.",
+  "Lich nghi CO THE bi dieu chinh giua nam: 2026 da co 2 lan bo sung (02/01 va 31/08). Nen ra soat lai dinh ky, dung coi file nay la vinh vien.",
+  "Nam 2027 CHUA CO lich chinh thuc (tinh den 31/08/2026 Bo Noi vu moi dang lay y kien; Thu tuong du kien chot Quy 4/2026). CO Y de rong. calendar_gap_warning() se tu nhac trong bao cao tu thang 12/2026.",
+  "Neu file nay thieu mot ngay nghi, hau qua duy nhat la bot ton mot lan fetch vo ich — KHONG phai gui tin trung — vi lop chan thu hai (so ngay nen moi nhat voi phien da bao cao) khong phu thuoc vao file nay."
+  ]
+ },
+ "2026": [
+  {"date": "2026-01-01", "name": "Tết Dương lịch"},
+  {"date": "2026-01-02", "name": "Nghỉ hoán đổi Tết Dương lịch (làm bù thứ Bảy 10/01)"},
+  {"date": "2026-02-16", "name": "Tết Nguyên đán Bính Ngọ — 29 tháng Chạp"},
+  {"date": "2026-02-17", "name": "Tết Nguyên đán — mùng 1"},
+  {"date": "2026-02-18", "name": "Tết Nguyên đán — mùng 2"},
+  {"date": "2026-02-19", "name": "Tết Nguyên đán — mùng 3"},
+  {"date": "2026-02-20", "name": "Tết Nguyên đán — mùng 4"},
+  {"date": "2026-04-27", "name": "Giỗ Tổ Hùng Vương (nghỉ bù, 10/3 ÂL rơi vào Chủ nhật 26/04)"},
+  {"date": "2026-04-30", "name": "Giải phóng miền Nam 30/4"},
+  {"date": "2026-05-01", "name": "Quốc tế Lao động 1/5"},
+  {"date": "2026-08-31", "name": "Nghỉ hoán đổi dịp Quốc khánh (làm bù thứ Bảy 22/08)"},
+  {"date": "2026-09-01", "name": "Quốc khánh — ngày liền kề trước 2/9"},
+  {"date": "2026-09-02", "name": "Quốc khánh 2/9 (giao dịch lại từ thứ Năm 03/09)"}
+ ]
+}

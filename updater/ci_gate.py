@@ -72,6 +72,31 @@ def main():
     if not a.same_day and a.max_age_min is None:
         ap.error("can --same-day hoac --max-age-min")
 
+    # CONG NGAY GIAO DICH — chan TRUOC khi hoi den nhip tim cua PC.
+    # Cron cua ca daily lan intraday la "T2-T6", ma cron khong biet ngay le. Trong ky nghi
+    # san dong cua, cac updater van chay tren du lieu cu roi ban Discord (doc thi truong /
+    # lenh lon / canh bao) — bao cao trung y het phien cuoi truoc ky nghi. Lich nghi nam o
+    # vn_trading_calendar.py + vn_holidays.json (ban song sinh voi vn-bots/bot/).
+    # PHAM VI: chi cho viec theo phien. Tin tuc (finpath-tinai) van chay 24/7 — co y.
+    # FAIL-OPEN neu khong import duoc, dung tinh than san co cua file nay: tha chay trung
+    # con hon mat du lieu ca ngay. Nhung khi lich noi RO day la ngay nghi thi chan that.
+    try:
+        sys.path.insert(0, HERE)
+        import vn_trading_calendar as CAL
+        d = CAL.vn_now().date()
+        if not CAL.is_trading_day(d):
+            ly_do = CAL.holiday_name(d) or "cuoi tuan"
+            print(f"[ci_gate] {a.kind}: {d} khong phai ngay giao dich ({ly_do}) "
+                  f"-> should_run=false")
+            out = os.getenv("GITHUB_OUTPUT")
+            if out:
+                with open(out, "a", encoding="utf-8") as f:
+                    f.write("should_run=false\n")
+            return 0
+    except Exception as e:
+        print(f"[ci_gate] CANH BAO: khong dung duoc lich nghi le ({type(e).__name__}: {e}) "
+              f"-> bo qua cong ngay le, quyet dinh theo nhip tim nhu cu.")
+
     should_run, why = decide(a.kind, a.max_age_min, a.same_day)
     print(f"[ci_gate] {a.kind}: {why} -> should_run={str(should_run).lower()}")
 
