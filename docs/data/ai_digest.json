@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-09-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay nghiêng về chính sách hỗ trợ tăng trưởng: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, đồng thời đẩy mạnh kết nối tài chính - chứng khoán với Đức nhằm mở rộng kênh vốn ngoại. Câu chuyện nâng hạng thị trường tiếp tục là 'cú hích' kỳ vọng cho phiên sau nghỉ lễ 2/9, hỗ trợ nhóm chứng khoán, ngân hàng và đầu tư hạ tầng. Ở chiều rủi ro, trái phiếu chính phủ toàn cầu lại bị bán tháo khiến lợi suất tăng, gây áp lực lên tỷ giá, dòng vốn ngoại và định giá cổ phiếu; căng thẳng thương mại Mỹ - Trung quanh 'hàng xuất khẩu giá rẻ' tại G20 là ẩn số cho nhóm xuất khẩu. Trong nước, mặt bằng lãi suất huy động tháng 9 nhích lên cùng các vụ thua lỗ, nợ trái phiếu bất động sản và biến động giá do tin đồn cho thấy thị trường sẽ phân hóa mạnh; nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản và kiểm soát tỷ trọng đòn bẩy.",
+  "summary_vi": "Nền chính sách trong nước tiếp tục nghiêng về hỗ trợ tăng trưởng: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, đồng thời Thủ tướng thúc đẩy kết nối tài chính - chứng khoán với Đức nhằm mở rộng kênh vốn ngoại. Kỳ vọng nâng hạng thị trường vẫn là 'cú hích' chính cho phiên sau nghỉ lễ 2/9, có lợi cho nhóm chứng khoán, ngân hàng và đầu tư hạ tầng. Ở chiều ngược lại, mặt bằng lãi suất huy động tháng 9 nhích lên và lan sang chứng chỉ tiền gửi làm tăng chi phí vốn, tạo kênh cạnh tranh với dòng tiền vào cổ phiếu; trái phiếu chính phủ toàn cầu bị bán tháo khiến lợi suất tăng, gây áp lực lên tỷ giá, khối ngoại và định giá. Rủi ro thương mại quanh câu chuyện 'hàng xuất khẩu giá rẻ' tại G20 cùng các vụ thua lỗ, nợ trái phiếu bất động sản và biến động giá do tin đồn cho thấy thị trường cuối năm sẽ phân hóa mạnh. Nhà đầu tư nên ưu tiên doanh nghiệp có nền tảng cơ bản, dòng tiền tốt và hạn chế đòn bẩy.",
   "top": [
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
@@ -12,27 +12,27 @@
     {
       "title": "Sau nghỉ lễ 2/9, chứng khoán kỳ vọng bứt phá nhờ 'cú hích' nâng hạng",
       "impact": "↑",
-      "note": "Kỳ vọng nâng hạng thu hút dòng tiền vào nhóm chứng khoán, ngân hàng và cổ phiếu vốn hóa lớn."
+      "note": "Câu chuyện nâng hạng tiếp tục hút dòng tiền vào nhóm chứng khoán, ngân hàng và vốn hóa lớn."
+    },
+    {
+      "title": "Lãi suất cao lan nhanh sang chứng chỉ tiền gửi, lãi suất BIDV tháng 9 nhích lên",
+      "impact": "↓",
+      "note": "Kênh tiết kiệm hấp dẫn hơn làm tăng chi phí vốn và cạnh tranh trực tiếp với dòng tiền vào cổ phiếu."
     },
     {
       "title": "Thị trường trái phiếu chính phủ toàn cầu lại bị bán tháo",
       "impact": "↓",
-      "note": "Lợi suất toàn cầu tăng làm chi phí vốn đắt hơn, gây áp lực lên tỷ giá và dòng vốn ngoại vào Việt Nam."
+      "note": "Lợi suất toàn cầu tăng gây áp lực lên tỷ giá, dòng vốn ngoại và mức định giá của TTCK Việt Nam."
     },
     {
       "title": "Mỹ cho biết Trung Quốc bất đồng với tuyên bố chung G20 về 'hàng xuất khẩu giá rẻ'",
       "impact": "↓",
-      "note": "Rủi ro leo thang bảo hộ thương mại đe dọa triển vọng nhóm xuất khẩu, dệt may, thủy sản và logistics."
+      "note": "Rủi ro leo thang bảo hộ thương mại đe dọa triển vọng nhóm xuất khẩu, dệt may, thủy sản, logistics."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
       "note": "Mở thêm kênh hợp tác vốn ngoại, hỗ trợ thanh khoản và tiến trình chuẩn hóa thị trường."
-    },
-    {
-      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, ôm nợ trái phiếu hơn 10 ngàn tỷ",
-      "impact": "↓",
-      "note": "Nhắc lại rủi ro đòn bẩy và nợ trái phiếu bất động sản, gây thận trọng với nhóm BĐS - xây dựng."
     }
   ]
 }
