@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tin trong nước nghiêng về hướng hỗ trợ chính sách: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, cho phép tổ chức tín dụng nước ngoài dùng tài khoản tại ngân hàng Việt Nam để thanh toán và chuyển tiền quốc tế, đồng thời thúc đẩy kết nối tài chính - chứng khoán với Đức và chuẩn bị vận hành thị trường tài sản mã hóa. Đây là nền tảng trung hạn cho nhóm ngân hàng, chứng khoán và đầu tư hạ tầng - lĩnh vực đang được hưởng lợi từ giải ngân đầu tư công. Rủi ro ngắn hạn đến từ bên ngoài: trái phiếu chính phủ toàn cầu bị bán tháo khiến lợi suất và chi phí vốn quốc tế tăng, gây áp lực lên tỷ giá, dòng vốn ngoại và mặt bằng định giá; vàng bị bán tháo cho thấy khẩu vị rủi ro đang biến động mạnh. Căng thẳng Mỹ - Trung quanh 'hàng xuất khẩu giá rẻ' tại G20 là ẩn số cho nhóm xuất khẩu và khu công nghiệp, trong khi áp lực nợ trái phiếu bất động sản và hiện tượng cổ phiếu chạy theo tin đồn vẫn là rủi ro riêng lẻ. Kịch bản hợp lý là thị trường phân hóa mạnh về cuối năm - ưu tiên chọn lọc cổ phiếu có nền tảng cơ bản và dòng tiền thật thay vì mua đuổi theo sóng tin.",
+  "summary_vi": "Dòng tin trong nước nghiêng về hướng hỗ trợ: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá tăng trưởng hai con số giai đoạn 2026-2030, đồng thời đẩy mạnh kết nối tài chính - chứng khoán với Đức và mở đường cho thị trường tài sản mã hóa cùng cơ chế thanh toán quốc tế qua tài khoản của tổ chức tín dụng nước ngoài. Các chính sách này củng cố kỳ vọng dài hạn cho nhóm chứng khoán, ngân hàng, đầu tư công và hạ tầng. Tuy nhiên rủi ro ngắn hạn đến từ bên ngoài khi trái phiếu chính phủ toàn cầu bị bán tháo khiến lợi suất tăng, gây áp lực lên tỷ giá và định giá cổ phiếu, cộng thêm căng thẳng thương mại Mỹ - Trung quanh vấn đề hàng xuất khẩu giá rẻ. Trong nước, áp lực nợ trái phiếu bất động sản và tình trạng cổ phiếu biến động theo tin đồn cho thấy dòng tiền còn phân hóa; nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản và kiểm soát tỷ trọng sau kỳ nghỉ lễ.",
   "top": [
     {
-      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
+      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, tạo đột phá tăng trưởng hai con số 2026-2030",
       "impact": "↑",
-      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp trung hạn."
-    },
-    {
-      "title": "Tổ chức tín dụng nước ngoài được dùng tài khoản tại ngân hàng Việt Nam để thanh toán, chuyển tiền quốc tế",
-      "impact": "↑",
-      "note": "Mở rộng hạ tầng thanh toán xuyên biên giới, hỗ trợ nhóm ngân hàng và độ mở của dòng vốn ngoại."
-    },
-    {
-      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
-      "impact": "↑",
-      "note": "Tăng khả năng tiếp cận nhà đầu tư châu Âu, hỗ trợ câu chuyện nâng hạng và thanh khoản dài hạn."
+      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp trung - dài hạn."
     },
     {
       "title": "Thị trường trái phiếu chính phủ toàn cầu lại bị bán tháo",
       "impact": "↓",
-      "note": "Lợi suất toàn cầu tăng làm chi phí vốn đắt lên, tạo áp lực lên tỷ giá và định giá cổ phiếu."
+      "note": "Lợi suất toàn cầu tăng làm tăng chi phí vốn, gây áp lực lên tỷ giá và định giá cổ phiếu thị trường mới nổi."
     },
     {
-      "title": "Mỹ - Trung bất đồng tại G20 về 'hàng xuất khẩu giá rẻ'",
-      "impact": "↓",
-      "note": "Rủi ro thương mại leo thang có thể ảnh hưởng nhóm xuất khẩu, logistics và khu công nghiệp."
+      "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
+      "impact": "↑",
+      "note": "Mở rộng kênh hợp tác quốc tế hỗ trợ triển vọng thu hút vốn ngoại vào TTCK Việt Nam."
     },
     {
-      "title": "Chuyên gia: Thị trường chứng khoán cuối năm sẽ phân hóa mạnh",
+      "title": "Tổ chức tín dụng nước ngoài được dùng tài khoản tại ngân hàng Việt Nam để thanh toán, chuyển tiền quốc tế",
+      "impact": "↑",
+      "note": "Tăng thanh khoản ngoại tệ và nguồn thu dịch vụ cho nhóm ngân hàng."
+    },
+    {
+      "title": "Lộ trình vận hành thị trường tài sản mã hóa và danh mục tài sản được giao dịch",
       "impact": "→",
-      "note": "Chỉ số khó tăng đồng loạt, cơ hội tập trung ở cổ phiếu có kết quả kinh doanh thực chất."
+      "note": "Tạo dư địa mới cho công ty chứng khoán, fintech nhưng chưa tác động ngay tới dòng tiền hiện hữu."
+    },
+    {
+      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ, gánh hơn 10 ngàn tỷ nợ trái phiếu",
+      "impact": "↓",
+      "note": "Nhắc lại rủi ro đòn bẩy và nghĩa vụ trái phiếu của nhóm bất động sản, ảnh hưởng tâm lý với cổ phiếu BĐS - ngân hàng."
     }
   ]
 }
