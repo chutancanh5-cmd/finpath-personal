@@ -2,17 +2,22 @@
   "_opus": true,
   "date": "2026-09-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin trong nước nghiêng về hướng hỗ trợ: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, đồng thời đẩy mạnh kết nối tài chính - chứng khoán với Đức, củng cố kỳ vọng dài hạn cho nhóm đầu tư công, hạ tầng, xây dựng và chứng khoán. Ở chiều ngược lại, rủi ro ngắn hạn đến từ bên ngoài khi trái phiếu chính phủ toàn cầu bị bán tháo, đẩy lợi suất lên cao và gây áp lực lên tỷ giá cùng định giá cổ phiếu; căng thẳng thương mại Mỹ - Trung quanh vấn đề 'hàng xuất khẩu giá rẻ' tại G20 cũng là ẩn số cho nhóm xuất khẩu. Trong nước, mặt bằng lãi suất huy động tháng 9 chưa hạ nhiệt rõ rệt và vàng đi ngang cho thấy dòng tiền vẫn thận trọng, chưa dứt khoát chảy mạnh vào chứng khoán. Rủi ro vi mô đáng lưu ý là áp lực nợ trái phiếu doanh nghiệp bất động sản và tình trạng cổ phiếu biến động theo tin đồn. Chiến lược hợp lý là ưu tiên cổ phiếu đầu ngành hưởng lợi từ đầu tư công và chính sách, hạn chế đòn bẩy cao khi thị trường còn chịu nhiễu động từ bên ngoài.",
+  "summary_vi": "Tin trong nước nghiêng về hướng hỗ trợ khi Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, cùng với nỗ lực tăng kết nối tài chính - chứng khoán Việt Nam - Đức, củng cố câu chuyện nâng hạng và kỳ vọng dòng vốn ngoại trung hạn. Kỳ vọng thị trường bứt phá sau kỳ nghỉ lễ 2/9 nhờ 'cú hích' nâng hạng đang là chất xúc tác tâm lý chính, có lợi cho nhóm chứng khoán, ngân hàng và các cổ phiếu vốn hóa lớn trong rổ chỉ số. Rủi ro ngắn hạn đến từ bên ngoài: trái phiếu chính phủ toàn cầu bị bán tháo đẩy lợi suất lên cao, gây áp lực lên tỷ giá, chi phí vốn và định giá cổ phiếu; bất đồng Mỹ - Trung tại G20 về 'hàng xuất khẩu giá rẻ' làm tăng ẩn số phòng vệ thương mại cho nhóm xuất khẩu. Trong nước, lãi suất huy động tháng 9 chưa hạ nhiệt và vàng đi ngang cho thấy dòng tiền vẫn thận trọng, trong khi nợ trái phiếu bất động sản và hiện tượng cổ phiếu chạy theo tin đồn là rủi ro vi mô cần né. Chiến lược hợp lý là ưu tiên cổ phiếu đầu ngành hưởng lợi từ đầu tư công, hạ tầng và câu chuyện nâng hạng, hạn chế đòn bẩy khi biến động bên ngoài còn cao.",
   "top": [
     {
-      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
+      "title": "Kỳ vọng chứng khoán bứt phá sau lễ 2/9 nhờ 'cú hích' nâng hạng",
       "impact": "↑",
-      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp, hỗ trợ tâm lý thị trường."
+      "note": "Câu chuyện nâng hạng thị trường là chất xúc tác tâm lý mạnh, kéo dòng tiền vào nhóm chứng khoán và vốn hóa lớn."
     },
     {
       "title": "Thị trường trái phiếu chính phủ toàn cầu lại bị bán tháo",
       "impact": "↓",
       "note": "Lợi suất toàn cầu tăng làm chi phí vốn và áp lực tỷ giá lớn hơn, bất lợi cho định giá cổ phiếu và dòng vốn ngoại."
+    },
+    {
+      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
+      "impact": "↑",
+      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp trong trung hạn."
     },
     {
       "title": "Mỹ - Trung bất đồng tại G20 về 'hàng xuất khẩu giá rẻ'",
@@ -22,12 +27,7 @@
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Mở rộng hợp tác vốn quốc tế hỗ trợ câu chuyện nâng hạng và thu hút dòng tiền ngoại trung hạn."
-    },
-    {
-      "title": "Lãi suất huy động BIDV tháng 9/2026 vẫn duy trì mặt bằng cao",
-      "impact": "→",
-      "note": "Lãi suất tiền gửi chưa hạ nhiệt khiến kênh chứng khoán kém hấp dẫn tương đối trong ngắn hạn."
+      "note": "Mở rộng hợp tác vốn quốc tế hỗ trợ tiến trình nâng hạng và thu hút dòng tiền ngoại trung hạn."
     },
     {
       "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ, ôm nợ trái phiếu hơn 10 ngàn tỷ",
