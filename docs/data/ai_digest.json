@@ -2,8 +2,13 @@
   "_opus": true,
   "date": "2026-09-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Điểm nhấn chính sách hôm nay là yêu cầu của Chính phủ về cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, củng cố kỳ vọng trung hạn cho nhóm hạ tầng, xây dựng, bất động sản khu công nghiệp và ngân hàng. Ở chiều ngược lại, quỹ ngoại Pyn Elite chỉ ra giá cổ phiếu vẫn yếu dù kết quả kinh doanh tốt, cho thấy nút thắt nằm ở dòng tiền và tâm lý chứ không phải nền tảng lợi nhuận doanh nghiệp. Rủi ro ngắn hạn đến từ bên ngoài khi BOJ để ngỏ khả năng tăng mạnh lãi suất đẩy đồng yên bật tăng, có thể thu hẹp dòng vốn carry trade và tạo áp lực lên tỷ giá cũng như giao dịch khối ngoại. Trong nước, câu chuyện trái phiếu bất động sản vẫn hai mặt: Phát Đạt thanh toán lãi đúng hạn cho 3 lô trị giá 11.000 tỷ đồng là tín hiệu tích cực, nhưng chủ tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ với dư nợ trái phiếu trên 10.000 tỷ nhắc lại rủi ro chất lượng tài sản. Giá vàng đồng loạt giảm giúp hạ nhiệt kênh trú ẩn, mở khả năng dòng tiền cá nhân quay lại cổ phiếu; nhìn chung thị trường nghiêng về trạng thái giằng co, ưu tiên chọn lọc cổ phiếu theo câu chuyện riêng.",
+  "summary_vi": "Thông tin vĩ mô đáng chú ý nhất hôm nay là CPI 8 tháng đầu năm 2026 tăng 4,45% và lạm phát cơ bản tăng 4,24% so với cùng kỳ — mức khá cao, thu hẹp dư địa nới lỏng tiền tệ và là biến số cần theo dõi với mặt bằng lãi suất. Ở chiều hỗ trợ, Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, củng cố kỳ vọng trung hạn cho nhóm hạ tầng, xây dựng và bất động sản; làn sóng ngân hàng tăng vốn cũng giúp cải thiện bộ đệm vốn và khả năng mở rộng tín dụng. Rủi ro bên ngoài đến từ việc BOJ để ngỏ khả năng tăng mạnh lãi suất khiến đồng yên bật tăng, có thể thu hẹp dòng vốn carry trade và tạo áp lực lên tỷ giá cũng như giao dịch khối ngoại. Trong nước, quỹ ngoại Pyn Elite chỉ ra nút thắt nằm ở dòng tiền và tâm lý chứ không phải nền tảng lợi nhuận doanh nghiệp, trong khi Phát Đạt trả lãi đúng hạn cho 3 lô trái phiếu 11.000 tỷ đồng là tín hiệu tích cực cho niềm tin thị trường trái phiếu. Tổng thể thị trường nghiêng về trạng thái giằng co, nên ưu tiên chọn lọc cổ phiếu theo câu chuyện riêng (ngân hàng tăng vốn, đầu tư công - hạ tầng) và quản trị rủi ro tỷ giá, lãi suất.",
   "top": [
+    {
+      "title": "CPI 8 tháng 2026 tăng 4,45%, lạm phát cơ bản tăng 4,24%",
+      "impact": "↓",
+      "note": "Lạm phát ở vùng cao làm hẹp dư địa hạ lãi suất, gây áp lực lên định giá và chi phí vốn của doanh nghiệp."
+    },
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
       "impact": "↑",
@@ -12,27 +17,22 @@
     {
       "title": "BOJ để ngỏ khả năng tăng mạnh lãi suất, đồng yên bật tăng",
       "impact": "↓",
-      "note": "Thắt chặt tiền tệ tại Nhật thu hẹp dòng vốn carry trade, gây áp lực lên tỷ giá và giao dịch khối ngoại tại thị trường mới nổi."
+      "note": "Thắt chặt tiền tệ tại Nhật thu hẹp dòng vốn carry trade, gây áp lực lên tỷ giá và giao dịch khối ngoại ở thị trường mới nổi."
+    },
+    {
+      "title": "Ngân hàng tăng vốn, củng cố nền tảng cho tăng trưởng",
+      "impact": "↑",
+      "note": "Bộ đệm vốn dày hơn giúp ngân hàng mở rộng tín dụng và hấp thụ rủi ro nợ xấu tốt hơn."
+    },
+    {
+      "title": "Phát Đạt thanh toán lãi cho 3 lô trái phiếu 11.000 tỷ đồng",
+      "impact": "↑",
+      "note": "Trả lãi đúng hạn giảm lo ngại thanh khoản, hỗ trợ tâm lý với nhóm bất động sản phát hành trái phiếu."
     },
     {
       "title": "Pyn Elite lý giải vì sao giá cổ phiếu yếu dù kết quả kinh doanh tốt",
       "impact": "→",
       "note": "Định giá rẻ so với lợi nhuận nhưng thiếu dòng tiền dẫn dắt nên chưa tạo lực đẩy tức thì cho chỉ số."
-    },
-    {
-      "title": "Phát Đạt thanh toán lãi cho 3 lô trái phiếu 11.000 tỷ đồng",
-      "impact": "↑",
-      "note": "Việc trả lãi đúng hạn giảm bớt lo ngại thanh khoản, hỗ trợ tâm lý với nhóm bất động sản phát hành trái phiếu."
-    },
-    {
-      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10.000 tỷ",
-      "impact": "↓",
-      "note": "Nhắc lại rủi ro trái phiếu và chất lượng tài sản bất động sản, ảnh hưởng tâm lý nhóm ngân hàng - bất động sản."
-    },
-    {
-      "title": "Giá vàng miếng, vàng nhẫn đồng loạt giảm tại SJC, DOJI, PNJ, Phú Quý",
-      "impact": "↑",
-      "note": "Kênh trú ẩn hạ nhiệt có thể giúp dòng tiền cá nhân dịch chuyển trở lại kênh cổ phiếu."
     }
   ]
 }
