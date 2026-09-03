@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-09-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay nghiêng về chính sách trong nước khi Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, hỗ trợ kỳ vọng dài hạn cho nhóm hạ tầng, xây dựng và ngân hàng. Tuy nhiên, mặt bằng giá cổ phiếu vẫn yếu dù kết quả kinh doanh tốt như quỹ ngoại Pyn Elite chỉ ra, cho thấy vấn đề nằm ở dòng tiền và tâm lý hơn là nền tảng doanh nghiệp. Rủi ro ngắn hạn đến từ bên ngoài khi BOJ để ngỏ khả năng tăng mạnh lãi suất khiến đồng yên bật tăng, có thể gây áp lực lên dòng vốn ngoại và tỷ giá khu vực. Giá vàng biến động mạnh và đồng loạt giảm phần nào giải toả kênh trú ẩn, tạo cơ hội dịch chuyển dòng tiền sang chứng khoán. Rủi ro tín dụng bất động sản vẫn hiện hữu với các trường hợp lỗ lớn và dư nợ trái phiếu hàng chục nghìn tỷ.",
+  "summary_vi": "Điểm nhấn chính sách hôm nay là yêu cầu của Chính phủ về cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, củng cố kỳ vọng trung hạn cho nhóm hạ tầng, xây dựng, bất động sản khu công nghiệp và ngân hàng. Ở chiều ngược lại, quỹ ngoại Pyn Elite chỉ ra giá cổ phiếu vẫn yếu dù kết quả kinh doanh tốt, cho thấy nút thắt nằm ở dòng tiền và tâm lý chứ không phải nền tảng lợi nhuận doanh nghiệp. Rủi ro ngắn hạn đến từ bên ngoài khi BOJ để ngỏ khả năng tăng mạnh lãi suất đẩy đồng yên bật tăng, có thể thu hẹp dòng vốn carry trade và tạo áp lực lên tỷ giá cũng như giao dịch khối ngoại. Trong nước, câu chuyện trái phiếu bất động sản vẫn hai mặt: Phát Đạt thanh toán lãi đúng hạn cho 3 lô trị giá 11.000 tỷ đồng là tín hiệu tích cực, nhưng chủ tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ với dư nợ trái phiếu trên 10.000 tỷ nhắc lại rủi ro chất lượng tài sản. Giá vàng đồng loạt giảm giúp hạ nhiệt kênh trú ẩn, mở khả năng dòng tiền cá nhân quay lại cổ phiếu; nhìn chung thị trường nghiêng về trạng thái giằng co, ưu tiên chọn lọc cổ phiếu theo câu chuyện riêng.",
   "top": [
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
@@ -12,27 +12,27 @@
     {
       "title": "BOJ để ngỏ khả năng tăng mạnh lãi suất, đồng yên bật tăng",
       "impact": "↓",
-      "note": "Thắt chặt tiền tệ tại Nhật làm co hẹp dòng vốn carry trade, gây áp lực lên tỷ giá và khối ngoại tại thị trường mới nổi."
+      "note": "Thắt chặt tiền tệ tại Nhật thu hẹp dòng vốn carry trade, gây áp lực lên tỷ giá và giao dịch khối ngoại tại thị trường mới nổi."
     },
     {
-      "title": "Pyn Elite lý giải nguyên nhân giá cổ phiếu yếu dù kết quả kinh doanh tốt",
+      "title": "Pyn Elite lý giải vì sao giá cổ phiếu yếu dù kết quả kinh doanh tốt",
       "impact": "→",
-      "note": "Định giá đang rẻ so với lợi nhuận nhưng thị trường thiếu dòng tiền dẫn dắt nên chưa tạo lực đẩy tức thì."
+      "note": "Định giá rẻ so với lợi nhuận nhưng thiếu dòng tiền dẫn dắt nên chưa tạo lực đẩy tức thì cho chỉ số."
     },
     {
-      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
-      "impact": "↓",
-      "note": "Nhắc lại rủi ro trái phiếu và chất lượng tài sản bất động sản, ảnh hưởng tâm lý với nhóm ngân hàng - BĐS."
-    },
-    {
-      "title": "Giá vàng đồng loạt giảm, chuyên gia thay đổi khuyến nghị",
+      "title": "Phát Đạt thanh toán lãi cho 3 lô trái phiếu 11.000 tỷ đồng",
       "impact": "↑",
-      "note": "Kênh vàng hạ nhiệt có thể giúp dòng tiền cá nhân quay lại kênh cổ phiếu."
+      "note": "Việc trả lãi đúng hạn giảm bớt lo ngại thanh khoản, hỗ trợ tâm lý với nhóm bất động sản phát hành trái phiếu."
     },
     {
-      "title": "Nhóm doanh nghiệp đầu tư hạ tầng niêm yết được chú ý",
-      "impact": "→",
-      "note": "Câu chuyện đầu tư công là chủ đề hỗ trợ nhưng mang tính chọn lọc từng mã hơn là kéo toàn thị trường."
+      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10.000 tỷ",
+      "impact": "↓",
+      "note": "Nhắc lại rủi ro trái phiếu và chất lượng tài sản bất động sản, ảnh hưởng tâm lý nhóm ngân hàng - bất động sản."
+    },
+    {
+      "title": "Giá vàng miếng, vàng nhẫn đồng loạt giảm tại SJC, DOJI, PNJ, Phú Quý",
+      "impact": "↑",
+      "note": "Kênh trú ẩn hạ nhiệt có thể giúp dòng tiền cá nhân dịch chuyển trở lại kênh cổ phiếu."
     }
   ]
 }
