@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-03",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin trong nước nghiêng về hướng tích cực khi Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, đồng thời Thủ tướng thúc đẩy kết nối tài chính - chứng khoán với Đức, hỗ trợ kỳ vọng dài hạn cho nhóm hạ tầng, đầu tư công, ngân hàng và chứng khoán. Thanh khoản được cho là đang chực chờ quay lại sau kỳ nghỉ lễ, với dấu hiệu dòng tiền lớn âm thầm gom hàng ở một số cổ phiếu. Tuy nhiên rủi ro ngắn hạn đến từ bên ngoài: trái phiếu chính phủ toàn cầu bị bán tháo khiến lợi suất tăng, gây áp lực lên tỷ giá, mặt bằng lãi suất và định giá cổ phiếu. Giá vàng biến động mạnh hai chiều (bán tháo rồi hồi phục cùng lực mua ròng của SPDR Gold Trust) phản ánh tâm lý phòng thủ và có thể hút bớt dòng tiền khỏi kênh cổ phiếu. Rủi ro nội tại vẫn hiện hữu ở nhóm bất động sản có đòn bẩy trái phiếu lớn, nên chiến lược hợp lý là chọn lọc cổ phiếu hưởng lợi từ chính sách thay vì mua đuổi diện rộng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Bối cảnh bên ngoài hỗ trợ khi chứng khoán Mỹ hồi phục nhờ lợi suất trái phiếu quay đầu giảm, giúp tâm lý nhà đầu tư trong nước bớt áp lực về chi phí vốn và tỷ giá. Trong nước, thông điệp chính sách nghiêng hẳn về tăng trưởng: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để hướng tới tăng trưởng hai con số giai đoạn 2026-2030, còn Thủ tướng đẩy mạnh kết nối tài chính - chứng khoán với Đức, tích cực cho câu chuyện nâng hạng và dòng vốn ngoại. Dòng tiền được ghi nhận chực chờ giải ngân sau kỳ nghỉ lễ, tập trung vào nhóm hạ tầng - đầu tư công. Rủi ro ngắn hạn đến từ biến động mạnh của vàng (bị bán tháo rồi hồi nhanh) làm dòng tiền phân tán, giá dầu tiếp tục đi lên gây sức ép lạm phát, và áp lực nợ trái phiếu doanh nghiệp bất động sản vẫn chưa được giải tỏa. Nhà đầu tư nên ưu tiên nhóm hưởng lợi chính sách (hạ tầng, xây dựng, chứng khoán) nhưng hạn chế dùng đòn bẩy cao khi thị trường vừa mở lại sau nghỉ lễ.",
   "top": [
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
       "impact": "↑",
-      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp, đặc biệt nhóm hạ tầng - đầu tư công - bất động sản khu công nghiệp."
+      "note": "Cải cách thể chế mạnh tay củng cố kỳ vọng tăng trưởng dài hạn và cải thiện môi trường kinh doanh cho doanh nghiệp niêm yết."
     },
     {
-      "title": "Thị trường trái phiếu chính phủ toàn cầu lại bị bán tháo",
-      "impact": "↓",
-      "note": "Lợi suất toàn cầu tăng làm chi phí vốn và áp lực tỷ giá lớn hơn, kéo giảm mức định giá hợp lý của cổ phiếu và có thể khiến khối ngoại bán ròng."
-    },
-    {
-      "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, dòng tiền lớn âm thầm gom cổ phiếu",
+      "title": "Chứng khoán Mỹ tăng khi lợi suất trái phiếu quay đầu giảm",
       "impact": "↑",
-      "note": "Thanh khoản cải thiện và lực gom của nhà đầu tư tổ chức là yếu tố nâng đỡ chỉ số trong các phiên đầu tháng 9."
+      "note": "Lợi suất hạ nhiệt giảm áp lực tỷ giá và chi phí vốn, tạo nền tâm lý thuận lợi cho phiên giao dịch trong nước."
     },
     {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Mở rộng hợp tác vốn quốc tế hỗ trợ câu chuyện nâng hạng và thu hút dòng vốn ngoại, có lợi cho nhóm chứng khoán và ngân hàng."
+      "note": "Mở thêm kênh hợp tác và thu hút vốn ngoại, hỗ trợ câu chuyện nâng hạng thị trường."
     },
     {
-      "title": "Vàng bị bán tháo rồi hồi mạnh, SPDR Gold Trust mua ròng 10 tấn một phiên",
+      "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, có 'thế lực' âm thầm gom cổ phiếu",
+      "impact": "↑",
+      "note": "Thanh khoản tiềm năng quay lại cùng lực mua gom cho thấy cầu nội đang cải thiện."
+    },
+    {
+      "title": "Vàng bị bán tháo rồi hồi mạnh, SPDR Gold Trust mua ròng 10 tấn",
       "impact": "→",
-      "note": "Biến động hai chiều của vàng cho thấy tâm lý phòng thủ còn cao và có thể cạnh tranh dòng tiền với kênh cổ phiếu, nhưng chưa đổi chiều xu hướng thị trường."
+      "note": "Biến động hai chiều của vàng khiến dòng tiền đầu cơ dịch chuyển khó lường giữa các kênh tài sản."
     },
     {
-      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ trăm tỷ, ôm nợ trái phiếu hơn 10 ngàn tỷ",
+      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, ôm nợ trái phiếu hơn 10 ngàn tỷ",
       "impact": "↓",
-      "note": "Nhắc lại rủi ro đòn bẩy và áp lực đáo hạn trái phiếu ở nhóm bất động sản, dễ gây tâm lý thận trọng với cổ phiếu địa ốc và ngân hàng cho vay liên quan."
+      "note": "Nhắc lại rủi ro trái phiếu và sức khỏe tài chính nhóm bất động sản, ảnh hưởng tâm lý với cổ phiếu BĐS và ngân hàng."
     }
   ]
 }
