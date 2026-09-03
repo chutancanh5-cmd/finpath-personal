@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-03",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng chảy chính sách đang ủng hộ thị trường khi Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, mở dư địa cho nhóm đầu tư công, hạ tầng, bất động sản khu công nghiệp và ngân hàng. Bối cảnh quốc tế cũng thuận lợi hơn khi chứng khoán Mỹ hồi phục nhờ lợi suất trái phiếu quay đầu giảm, giúp giảm áp lực tỷ giá và dòng vốn ngoại. Trong nước, dòng tiền được cho là đang chực chờ giải ngân sau kỳ nghỉ lễ với dấu hiệu gom hàng âm thầm ở nhiều cổ phiếu, hỗ trợ thanh khoản phiên đầu tháng 9. Rủi ro ngắn hạn vẫn nằm ở chất lượng tài sản trái phiếu doanh nghiệp bất động sản: Greenwich chậm trả gần 1.700 tỷ đồng gốc và lãi, chủ tòa Saigon Marina IFC tiếp tục lỗ trăm tỷ với hơn 10 ngàn tỷ nợ trái phiếu. Ngoài ra, biến động mạnh hai chiều của giá vàng và giá dầu đi lên có thể gây nhiễu tâm lý và tạo áp lực lạm phát nhập khẩu, nên ưu tiên cổ phiếu có nền tảng cơ bản thay vì mua đuổi.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Dòng tin vĩ mô hôm nay nghiêng nhẹ về hướng hỗ trợ: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, trong khi chứng khoán Mỹ hồi phục nhờ lợi suất trái phiếu quay đầu giảm — bối cảnh thuận lợi cho tỷ giá, mặt bằng lãi suất và khẩu vị rủi ro của khối ngoại. Ở trong nước, câu chuyện đầu tư công - hạ tầng và xuất nhập khẩu tiếp tục là trụ đỡ cho nhóm xây dựng, vật liệu, cảng biển và khu công nghiệp. Tuy nhiên rủi ro ngắn hạn vẫn đến từ trái phiếu doanh nghiệp bất động sản khi Greenwich chậm thanh toán gần 1.700 tỷ đồng gốc và lãi, còn chủ tòa Saigon Marina IFC ôm hơn 10 ngàn tỷ nợ trái phiếu và tiếp tục thua lỗ — áp lực trực tiếp lên tâm lý với cổ phiếu bất động sản và ngân hàng có tỷ trọng trái phiếu cao. Giá vàng biến động mạnh (bán tháo rồi hồi phục cùng lực mua ròng 10 tấn của SPDR Gold Trust) và giá dầu đi lên cho thấy dòng tiền phòng thủ chưa rút hẳn, cần theo dõi áp lực lạm phát nhập khẩu. Chiến lược hợp lý là ưu tiên cổ phiếu hưởng lợi chính sách - đầu tư công, hạn chế đòn bẩy và tránh nhóm có rủi ro trái phiếu đáo hạn.",
   "top": [
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
       "impact": "↑",
-      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận doanh nghiệp, đặc biệt nhóm đầu tư công, hạ tầng và ngân hàng."
-    },
-    {
-      "title": "Chứng khoán Mỹ bật xanh khi lợi suất trái phiếu giảm, giá dầu vẫn đi lên",
-      "impact": "↑",
-      "note": "Lợi suất Mỹ hạ nhiệt giúp giảm áp lực tỷ giá và dòng vốn ngoại, dù giá dầu tăng là điểm trừ cho lạm phát."
-    },
-    {
-      "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, có lực gom âm thầm nhiều cổ phiếu",
-      "impact": "↑",
-      "note": "Thanh khoản và lực cầu tiềm năng quay lại sau kỳ nghỉ là yếu tố hỗ trợ chỉ số trong ngắn hạn."
+      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận dài hạn của doanh nghiệp niêm yết."
     },
     {
       "title": "Bất động sản Greenwich chậm thanh toán gần 1.700 tỷ đồng gốc, lãi trái phiếu",
       "impact": "↓",
-      "note": "Chậm trả nợ quy mô lớn làm dấy lại lo ngại rủi ro trái phiếu bất động sản và nợ xấu ngân hàng."
+      "note": "Rủi ro trái phiếu doanh nghiệp tái xuất hiện, gây áp lực tâm lý lên nhóm bất động sản và ngân hàng."
     },
     {
-      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
+      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ, ôm nợ trái phiếu hơn 10 ngàn tỷ",
       "impact": "↓",
-      "note": "Đòn bẩy cao cùng thua lỗ kéo dài cho thấy sức khỏe tài chính nhóm bất động sản chưa thực sự hồi phục."
+      "note": "Quy mô nợ lớn kèm thua lỗ kéo dài cho thấy sức khỏe tài chính nhóm bất động sản chưa thực sự hồi phục."
     },
     {
-      "title": "Vàng bị bán tháo rồi hồi mạnh, SPDR Gold Trust mua ròng 10 tấn một phiên",
+      "title": "Chứng khoán Mỹ bật xanh khi lợi suất trái phiếu quay đầu giảm",
+      "impact": "↑",
+      "note": "Lợi suất Mỹ hạ nhiệt giảm áp lực tỷ giá và tạo dư địa cho dòng vốn ngoại quay lại thị trường mới nổi."
+    },
+    {
+      "title": "Giá dầu tiếp tục đi lên",
+      "impact": "↓",
+      "note": "Chi phí năng lượng tăng làm dấy lên lo ngại lạm phát và bào mòn biên lợi nhuận nhóm sản xuất, vận tải."
+    },
+    {
+      "title": "Vàng bị bán tháo rồi hồi mạnh, SPDR Gold Trust mua ròng gần 10 tấn",
       "impact": "→",
-      "note": "Biến động hai chiều của vàng phản ánh tâm lý phòng thủ còn cao nhưng chưa đổi chiều dòng tiền vào cổ phiếu."
+      "note": "Biến động vàng phản ánh tâm lý phòng thủ còn cao nhưng tác động trực tiếp lên cổ phiếu Việt Nam là hạn chế."
     }
   ]
 }
