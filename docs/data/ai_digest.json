@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thông tin vĩ mô đáng chú ý nhất hôm nay là CPI 8 tháng đầu năm 2026 tăng 4,45% và lạm phát cơ bản tăng 4,24% so với cùng kỳ — mức khá cao, thu hẹp dư địa nới lỏng tiền tệ và là biến số cần theo dõi với mặt bằng lãi suất. Ở chiều hỗ trợ, Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, củng cố kỳ vọng trung hạn cho nhóm hạ tầng, xây dựng và bất động sản; làn sóng ngân hàng tăng vốn cũng giúp cải thiện bộ đệm vốn và khả năng mở rộng tín dụng. Rủi ro bên ngoài đến từ việc BOJ để ngỏ khả năng tăng mạnh lãi suất khiến đồng yên bật tăng, có thể thu hẹp dòng vốn carry trade và tạo áp lực lên tỷ giá cũng như giao dịch khối ngoại. Trong nước, quỹ ngoại Pyn Elite chỉ ra nút thắt nằm ở dòng tiền và tâm lý chứ không phải nền tảng lợi nhuận doanh nghiệp, trong khi Phát Đạt trả lãi đúng hạn cho 3 lô trái phiếu 11.000 tỷ đồng là tín hiệu tích cực cho niềm tin thị trường trái phiếu. Tổng thể thị trường nghiêng về trạng thái giằng co, nên ưu tiên chọn lọc cổ phiếu theo câu chuyện riêng (ngân hàng tăng vốn, đầu tư công - hạ tầng) và quản trị rủi ro tỷ giá, lãi suất.",
+  "summary_vi": "Điểm vĩ mô đáng chú ý nhất là CPI 8 tháng đầu năm 2026 tăng 4,45% và lạm phát cơ bản tăng 4,24% — mức khá cao, thu hẹp dư địa nới lỏng tiền tệ và tạo áp lực lên mặt bằng lãi suất cũng như định giá cổ phiếu. Ở chiều hỗ trợ, Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để hướng tới tăng trưởng hai con số giai đoạn 2026-2030, cùng làn sóng ngân hàng tăng vốn, củng cố kỳ vọng trung hạn cho nhóm ngân hàng, hạ tầng và đầu tư công. Rủi ro ngắn hạn đến từ bên ngoài khi BOJ để ngỏ khả năng tăng mạnh lãi suất khiến đồng yên bật tăng, có thể siết dòng vốn carry trade, gây sức ép lên tỷ giá và giao dịch khối ngoại; giá vàng hồi phục mạnh cũng phản ánh nhu cầu trú ẩn còn cao. Trong nước, quỹ ngoại Pyn Elite cho rằng nút thắt nằm ở dòng tiền và tâm lý chứ không phải nền tảng lợi nhuận doanh nghiệp, trong khi việc Phát Đạt trả lãi đúng hạn 3 lô trái phiếu 11.000 tỷ đồng giúp giảm lo ngại thanh khoản nhóm bất động sản. Tổng thể thị trường nghiêng về trạng thái giằng co, ưu tiên chọn lọc cổ phiếu có câu chuyện riêng và kiểm soát rủi ro tỷ giá, lãi suất.",
   "top": [
     {
       "title": "CPI 8 tháng 2026 tăng 4,45%, lạm phát cơ bản tăng 4,24%",
       "impact": "↓",
-      "note": "Lạm phát ở vùng cao làm hẹp dư địa hạ lãi suất, gây áp lực lên định giá và chi phí vốn của doanh nghiệp."
-    },
-    {
-      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
-      "impact": "↑",
-      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố kỳ vọng lợi nhuận trung hạn cho doanh nghiệp niêm yết."
+      "note": "Lạm phát tiệm cận vùng mục tiêu cao khiến dư địa hạ lãi suất bị thu hẹp, bất lợi cho định giá và chi phí vốn."
     },
     {
       "title": "BOJ để ngỏ khả năng tăng mạnh lãi suất, đồng yên bật tăng",
       "impact": "↓",
-      "note": "Thắt chặt tiền tệ tại Nhật thu hẹp dòng vốn carry trade, gây áp lực lên tỷ giá và giao dịch khối ngoại ở thị trường mới nổi."
+      "note": "Nhật thắt chặt tiền tệ làm co dòng vốn carry trade, tạo áp lực tỷ giá và bán ròng của khối ngoại tại thị trường mới nổi."
+    },
+    {
+      "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
+      "impact": "↑",
+      "note": "Cải cách thể chế và mục tiêu tăng trưởng cao củng cố triển vọng lợi nhuận trung hạn của doanh nghiệp niêm yết."
     },
     {
       "title": "Ngân hàng tăng vốn, củng cố nền tảng cho tăng trưởng",
       "impact": "↑",
-      "note": "Bộ đệm vốn dày hơn giúp ngân hàng mở rộng tín dụng và hấp thụ rủi ro nợ xấu tốt hơn."
+      "note": "Bộ đệm vốn dày hơn mở rộng khả năng tăng trưởng tín dụng và hấp thụ rủi ro nợ xấu của nhóm dẫn dắt chỉ số."
     },
     {
-      "title": "Phát Đạt thanh toán lãi cho 3 lô trái phiếu 11.000 tỷ đồng",
+      "title": "Phát Đạt thanh toán lãi 3 lô trái phiếu 11.000 tỷ đồng",
       "impact": "↑",
-      "note": "Trả lãi đúng hạn giảm lo ngại thanh khoản, hỗ trợ tâm lý với nhóm bất động sản phát hành trái phiếu."
+      "note": "Thanh toán đúng hạn giảm lo ngại rủi ro thanh khoản trái phiếu doanh nghiệp bất động sản."
     },
     {
       "title": "Pyn Elite lý giải vì sao giá cổ phiếu yếu dù kết quả kinh doanh tốt",
       "impact": "→",
-      "note": "Định giá rẻ so với lợi nhuận nhưng thiếu dòng tiền dẫn dắt nên chưa tạo lực đẩy tức thì cho chỉ số."
+      "note": "Định giá đã rẻ so với lợi nhuận nhưng thiếu dòng tiền dẫn dắt nên chưa đủ tạo lực đẩy tức thời cho chỉ số."
     }
   ]
 }
