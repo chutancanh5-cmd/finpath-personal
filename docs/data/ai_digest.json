@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-09-03",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Bối cảnh bên ngoài hỗ trợ khi chứng khoán Mỹ hồi phục nhờ lợi suất trái phiếu quay đầu giảm, giúp tâm lý nhà đầu tư trong nước bớt áp lực về chi phí vốn và tỷ giá. Trong nước, thông điệp chính sách nghiêng hẳn về tăng trưởng: Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính để hướng tới tăng trưởng hai con số giai đoạn 2026-2030, còn Thủ tướng đẩy mạnh kết nối tài chính - chứng khoán với Đức, tích cực cho câu chuyện nâng hạng và dòng vốn ngoại. Dòng tiền được ghi nhận chực chờ giải ngân sau kỳ nghỉ lễ, tập trung vào nhóm hạ tầng - đầu tư công. Rủi ro ngắn hạn đến từ biến động mạnh của vàng (bị bán tháo rồi hồi nhanh) làm dòng tiền phân tán, giá dầu tiếp tục đi lên gây sức ép lạm phát, và áp lực nợ trái phiếu doanh nghiệp bất động sản vẫn chưa được giải tỏa. Nhà đầu tư nên ưu tiên nhóm hưởng lợi chính sách (hạ tầng, xây dựng, chứng khoán) nhưng hạn chế dùng đòn bẩy cao khi thị trường vừa mở lại sau nghỉ lễ.",
+  "summary_vi": "Bối cảnh vĩ mô nghiêng về hướng hỗ trợ khi Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, đồng thời đẩy mạnh kết nối tài chính - chứng khoán với Đức, củng cố câu chuyện nâng hạng và thu hút vốn ngoại. Bên ngoài, chứng khoán Mỹ hồi phục nhờ lợi suất trái phiếu hạ nhiệt, giúp tâm lý rủi ro toàn cầu dễ chịu hơn với dòng vốn vào thị trường mới nổi. Trong nước, dòng tiền được kỳ vọng quay lại sau kỳ nghỉ lễ và có dấu hiệu gom âm thầm ở một số nhóm cổ phiếu, trong khi vàng bị bán tháo mạnh có thể khiến một phần dòng tiền dịch chuyển sang kênh chứng khoán. Rủi ro ngắn hạn đến từ giá dầu tiếp tục đi lên gây áp lực lạm phát - chi phí đầu vào, biến động dữ dội của vàng làm tăng khẩu vị đầu cơ, và những điểm nóng nợ trái phiếu bất động sản (như trường hợp Saigon Marina IFC) vẫn là mảng tối cần theo dõi. Nhà đầu tư nên ưu tiên nhóm hưởng lợi từ đầu tư công - hạ tầng, ngân hàng và chứng khoán, nhưng hạn chế dùng đòn bẩy cao khi chỉ số đang ở vùng nhạy cảm kỹ thuật.",
   "top": [
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
@@ -10,29 +10,29 @@
       "note": "Cải cách thể chế mạnh tay củng cố kỳ vọng tăng trưởng dài hạn và cải thiện môi trường kinh doanh cho doanh nghiệp niêm yết."
     },
     {
-      "title": "Chứng khoán Mỹ tăng khi lợi suất trái phiếu quay đầu giảm",
-      "impact": "↑",
-      "note": "Lợi suất hạ nhiệt giảm áp lực tỷ giá và chi phí vốn, tạo nền tâm lý thuận lợi cho phiên giao dịch trong nước."
-    },
-    {
       "title": "Thủ tướng đề nghị tăng kết nối tài chính, chứng khoán Việt Nam - Đức",
       "impact": "↑",
-      "note": "Mở thêm kênh hợp tác và thu hút vốn ngoại, hỗ trợ câu chuyện nâng hạng thị trường."
+      "note": "Mở rộng hợp tác thị trường vốn quốc tế hỗ trợ câu chuyện nâng hạng và thu hút dòng vốn ngoại trung hạn."
     },
     {
       "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, có 'thế lực' âm thầm gom cổ phiếu",
       "impact": "↑",
-      "note": "Thanh khoản tiềm năng quay lại cùng lực mua gom cho thấy cầu nội đang cải thiện."
+      "note": "Thanh khoản kỳ vọng cải thiện và tín hiệu gom hàng của dòng tiền lớn tạo lực đỡ cho chỉ số phiên đầu tuần."
     },
     {
-      "title": "Vàng bị bán tháo rồi hồi mạnh, SPDR Gold Trust mua ròng 10 tấn",
+      "title": "Chứng khoán Mỹ bật xanh khi lợi suất trái phiếu quay đầu giảm",
+      "impact": "↑",
+      "note": "Lợi suất Mỹ hạ nhiệt giảm áp lực tỷ giá và giúp tâm lý nhà đầu tư toàn cầu tích cực hơn với tài sản rủi ro."
+    },
+    {
+      "title": "Vàng bất ngờ bị bán tháo, giá lao dốc đầu tháng 9",
       "impact": "→",
-      "note": "Biến động hai chiều của vàng khiến dòng tiền đầu cơ dịch chuyển khó lường giữa các kênh tài sản."
+      "note": "Vàng điều chỉnh có thể đẩy một phần dòng tiền sang chứng khoán, nhưng biến động mạnh cũng phản ánh tâm lý thị trường bất ổn."
     },
     {
-      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, ôm nợ trái phiếu hơn 10 ngàn tỷ",
+      "title": "Giá dầu tiếp tục đi lên",
       "impact": "↓",
-      "note": "Nhắc lại rủi ro trái phiếu và sức khỏe tài chính nhóm bất động sản, ảnh hưởng tâm lý với cổ phiếu BĐS và ngân hàng."
+      "note": "Chi phí năng lượng tăng gây áp lực lên lạm phát và biên lợi nhuận của nhóm sản xuất, vận tải, tiêu dùng."
     }
   ]
 }
