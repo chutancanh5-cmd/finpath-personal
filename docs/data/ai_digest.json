@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-03",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Điểm nhấn vĩ mô hôm nay là việc Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, củng cố kỳ vọng chính sách hỗ trợ tăng trưởng và có lợi cho nhóm đầu tư công, hạ tầng, bất động sản và ngân hàng. Bối cảnh quốc tế cũng thuận lợi khi chứng khoán Mỹ hồi phục nhờ lợi suất trái phiếu quay đầu giảm, giúp giảm áp lực tỷ giá và dòng vốn ngoại. Trong nước, dòng tiền được đánh giá đang chực chờ trở lại sau kỳ nghỉ lễ với dấu hiệu gom hàng âm thầm ở một số nhóm cổ phiếu. Rủi ro ngắn hạn đến từ biến động mạnh của giá vàng (bán tháo rồi hồi phục nhanh) phản ánh tâm lý thị trường tài chính toàn cầu còn bất ổn, cùng giá dầu tăng gây sức ép lạm phát và chi phí đầu vào. Ngoài ra, câu chuyện thua lỗ và nợ trái phiếu lớn tại một số doanh nghiệp bất động sản nhắc nhở rủi ro chất lượng tài sản vẫn hiện hữu.",
+  "summary_vi": "Điểm nhấn vĩ mô hôm nay là việc Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính nhằm tạo đột phá cho mục tiêu tăng trưởng hai con số giai đoạn 2026-2030, củng cố kỳ vọng chính sách hỗ trợ tăng trưởng và có lợi cho nhóm đầu tư công, hạ tầng, bất động sản khu công nghiệp. Bối cảnh quốc tế cũng thuận lợi khi chứng khoán Mỹ hồi phục nhờ lợi suất trái phiếu hạ nhiệt, giảm áp lực lên tỷ giá và dòng vốn ngoại. Trong nước, dòng tiền được ghi nhận đang chực chờ quay lại sau kỳ nghỉ lễ với dấu hiệu gom hàng của tổ chức, hỗ trợ thanh khoản phiên đầu tuần giao dịch. Tuy vậy, rủi ro ngắn hạn vẫn đến từ chất lượng tài sản trái phiếu doanh nghiệp bất động sản, khi liên tiếp xuất hiện các trường hợp chậm trả gốc/lãi hàng nghìn tỷ đồng và doanh nghiệp thua lỗ với dư nợ trái phiếu rất lớn — yếu tố có thể đè nặng lên nhóm ngân hàng và bất động sản. Ngoài ra, giá vàng biến động mạnh (bán tháo rồi hồi phục) cho thấy tâm lý phòng thủ chưa mất hẳn, nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản và tránh mua đuổi.",
   "top": [
     {
       "title": "Chính phủ yêu cầu cắt giảm tối đa thủ tục hành chính, hướng tăng trưởng hai con số 2026-2030",
       "impact": "↑",
-      "note": "Thông điệp chính sách hỗ trợ tăng trưởng mạnh mẽ, tạo kỳ vọng cho nhóm đầu tư công, hạ tầng và bất động sản."
+      "note": "Tín hiệu chính sách hỗ trợ tăng trưởng mạnh, có lợi cho đầu tư công, hạ tầng và môi trường kinh doanh của doanh nghiệp niêm yết."
     },
     {
-      "title": "Chứng khoán Mỹ bật xanh khi lợi suất trái phiếu quay đầu giảm",
+      "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, tổ chức âm thầm gom cổ phiếu",
       "impact": "↑",
-      "note": "Lợi suất Mỹ hạ nhiệt giúp giảm áp lực tỷ giá và cải thiện khẩu vị rủi ro với thị trường mới nổi như Việt Nam."
+      "note": "Kỳ vọng thanh khoản cải thiện và lực cầu tổ chức quay lại hỗ trợ chỉ số trong ngắn hạn."
     },
     {
-      "title": "Dòng tiền chực chờ đổ vào thị trường sau nghỉ lễ, dấu hiệu gom cổ phiếu",
+      "title": "Chứng khoán Mỹ tăng khi lợi suất trái phiếu quay đầu giảm",
       "impact": "↑",
-      "note": "Thanh khoản kỳ vọng cải thiện sau kỳ nghỉ, hỗ trợ đà tăng của chỉ số trong ngắn hạn."
+      "note": "Lợi suất Mỹ hạ nhiệt giảm áp lực tỷ giá và tạo tâm lý tích cực cho dòng vốn vào thị trường mới nổi, cận biên."
     },
     {
-      "title": "Giá vàng lao dốc rồi hồi mạnh, SPDR Gold Trust mua ròng 10 tấn một phiên",
+      "title": "Bất động sản Greenwich chậm thanh toán gần 1.700 tỷ đồng gốc, lãi trái phiếu",
+      "impact": "↓",
+      "note": "Rủi ro tín dụng trái phiếu bất động sản tái diễn, gây áp lực lên nhóm ngân hàng và cổ phiếu địa ốc."
+    },
+    {
+      "title": "Chủ mới tòa Saigon Marina IFC tiếp tục lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
+      "impact": "↓",
+      "note": "Cho thấy sức khỏe tài chính yếu của một số chủ đầu tư lớn, làm tăng lo ngại về chất lượng tài sản hệ thống."
+    },
+    {
+      "title": "Vàng bị bán tháo rồi hồi mạnh, SPDR Gold Trust mua ròng 10 tấn một phiên",
       "impact": "→",
-      "note": "Biến động hai chiều mạnh của vàng cho thấy tâm lý phòng thủ còn cao, dòng tiền có thể phân tán khỏi cổ phiếu."
-    },
-    {
-      "title": "Giá dầu tiếp tục đi lên",
-      "impact": "↓",
-      "note": "Chi phí năng lượng tăng gây áp lực lạm phát và bào mòn biên lợi nhuận nhóm sản xuất, vận tải."
-    },
-    {
-      "title": "Chủ mới tòa Saigon Marina IFC lỗ hàng trăm tỷ, nợ trái phiếu hơn 10 ngàn tỷ",
-      "impact": "↓",
-      "note": "Nhắc lại rủi ro trái phiếu và chất lượng tài sản trong lĩnh vực bất động sản, ảnh hưởng tâm lý nhóm BĐS - ngân hàng."
+      "note": "Biến động mạnh của vàng phản ánh tâm lý phòng thủ còn hiện hữu nhưng chưa tác động trực tiếp tới dòng tiền cổ phiếu."
     }
   ]
 }
