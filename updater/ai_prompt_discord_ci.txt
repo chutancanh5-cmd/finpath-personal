@@ -1,0 +1,12 @@
+Đọc file docs/data/_moi_raw.json (mảng "items", mỗi tin có "title", "source", "desc" — "desc" có thể rỗng nếu không lấy được mô tả).
+
+Với MỖI tin trong "items", viết 1 câu tiếng Việt ngắn gọn (dưới 25 từ) nêu Ý CHÍNH / điểm quan trọng nhất của tin (số liệu cụ thể, ai làm gì, quyết định gì) — dựa vào "desc" nếu có, hoặc suy luận hợp lý từ "title" nếu "desc" rỗng. KHÔNG lặp lại nguyên văn tiêu đề.
+
+Rồi GHI ĐÈ file docs/data/_moi_summaries.json bằng đúng JSON sau (tiếng Việt, không thêm gì ngoài JSON, giữ đúng thứ tự và số lượng tin, "title" trả về Y NGUYÊN tiêu đề gốc để đối chiếu):
+{
+  "items": [
+    {"title": "tiêu đề y nguyên", "y_chinh": "1 câu ý chính"}
+  ]
+}
+
+Chỉ ghi đúng file _moi_summaries.json đó rồi DỪNG. Không hỏi lại, không chạy lệnh hệ thống, không sửa file khác.

@@ -91,6 +91,16 @@ jobs:
           else
             cat updater/ai_prompt_ci.txt | claude -p --model claude-opus-5 --permission-mode acceptEdits || echo "claude loi -> giu digest cu"
           fi
+      # Tom tat 'y chinh' cho tung tin sap dang len kenh tin tuc (docs/data/_moi_raw.json
+      # do buoc --rawdump o tren ghi ra khi co tin moi). update_news.py --discord se doc
+      # ket qua nay; neu buoc nay bo qua/loi thi tu roi ve mo ta RSS/meta trang bao.
+      - name: AI tom tat tin dang Discord (Claude thue bao)
+        run: |
+          if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ] || [ ! -f docs/data/_moi_raw.json ]; then
+            echo "Chua co token hoac khong co tin moi -> bo qua"
+          else
+            cat updater/ai_prompt_discord_ci.txt | claude -p --model claude-opus-5 --permission-mode acceptEdits || echo "claude loi -> Discord dung mo ta RSS/meta thay AI"
+          fi
       # --discord: ghi news.json + ban tin MOI ve kenh tin tuc. Chi ghi nhan vao
       # news_seen.json SAU KHI ban thanh cong, nen Discord loi thi lan sau bao lai.
       - name: Merge tin + bao Discord
