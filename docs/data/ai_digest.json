@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "VN-Index vượt mốc 1.850 điểm nhờ nhóm blue-chips dẫn dắt, cùng với việc khối ngoại quay lại mua ròng 119 tỷ đồng và gom mạnh VIC, VHM — tín hiệu dòng tiền lớn đang ủng hộ xu thế tăng. Về vĩ mô, thông điệp của Thủ tướng về quyết liệt thúc đẩy giải ngân đầu tư công và khơi thông nguồn lực, cùng mục tiêu GRDP TPHCM trên 10%, là chất xúc tác trung hạn cho nhóm đầu tư công, xây dựng, vật liệu và bất động sản. Mặt khác, huy động vốn ngân hàng vượt tín dụng mở ra khả năng mặt bằng lãi suất trong nước hạ nhiệt, hỗ trợ định giá cổ phiếu. Rủi ro ngắn hạn đến từ bối cảnh lãi suất toàn cầu neo cao, dòng tiền phân hóa và tự doanh bán ròng 168 tỷ đồng, cùng giá vàng trong nước tăng nhanh hơn thế giới cho thấy dòng tiền trú ẩn vẫn hiện diện. Nhà đầu tư nên ưu tiên cổ phiếu vốn hóa lớn có nền tảng cơ bản, hạn chế đuổi giá ở nhóm doanh nghiệp đòn bẩy cao khi các trường hợp thua lỗ và gánh nợ lớn tiếp tục xuất hiện.",
+  "summary_vi": "Thông điệp điều hành từ Chính phủ tiếp tục nghiêng về hỗ trợ tăng trưởng: Thủ tướng yêu cầu quyết liệt thúc đẩy giải ngân đầu tư công và khơi thông nguồn lực, trong khi TPHCM đặt mục tiêu GRDP trên 10% — nền tảng thuận lợi cho nhóm đầu tư công, vật liệu xây dựng và ngân hàng. Trên thị trường, VN-Index vượt 1.850 điểm nhờ blue-chips dẫn dắt và khối ngoại quay lại mua ròng 119 tỷ đồng, gom mạnh VIC, VHM, cho thấy dòng tiền lớn vẫn tin vào xu thế tăng. Tuy vậy, rủi ro ngắn hạn không nhỏ: tự doanh bán ròng 168 tỷ, dòng tiền phân hóa mạnh nên chỉ số tăng nhưng phần lớn cổ phiếu chưa theo kịp. Bối cảnh lãi suất toàn cầu neo cao cùng giá vàng trong nước tăng nhanh hơn thế giới có thể hút bớt dòng tiền khỏi kênh cổ phiếu và gây áp lực lên tỷ giá, lãi suất huy động. Áp lực nội tại từ khối doanh nghiệp — nhiều đơn vị rời thị trường, các trường hợp thua lỗ và gánh nợ lớn liên quan bất động sản, trái phiếu — nhắc nhà đầu tư ưu tiên doanh nghiệp có bảng cân đối lành mạnh thay vì mua đuổi theo chỉ số.",
   "top": [
-    {
-      "title": "VN-Index vượt 1.850 điểm, blue-chips dẫn dắt xu thế tăng",
-      "impact": "↑",
-      "note": "Chỉ số phá vùng kháng cự với lực đỡ từ nhóm vốn hóa lớn, củng cố xu hướng tăng."
-    },
-    {
-      "title": "Khối ngoại quay lại mua ròng 119 tỷ đồng, gom mạnh VIC, VHM",
-      "impact": "↑",
-      "note": "Dòng vốn ngoại đảo chiều mua ròng là tín hiệu tâm lý tích cực cho nhóm trụ."
-    },
     {
       "title": "Thủ tướng yêu cầu quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công",
       "impact": "↑",
-      "note": "Đẩy mạnh đầu tư công tạo lực kéo trực tiếp cho xây dựng, vật liệu và hạ tầng."
+      "note": "Đẩy nhanh vốn đầu tư công bơm thanh khoản vào nền kinh tế, hưởng lợi trực tiếp là xây dựng, vật liệu và ngân hàng."
     },
     {
-      "title": "Huy động vốn ngân hàng vượt tín dụng, khả năng bất ngờ về lãi suất",
+      "title": "VN-Index vượt 1.850 điểm nhưng dòng tiền phân hóa",
       "impact": "↑",
-      "note": "Thanh khoản hệ thống dồi dào mở đường cho lãi suất hạ nhiệt, hỗ trợ định giá cổ phiếu."
+      "note": "Xu thế tăng được blue-chips giữ vững, song độ rộng thị trường hẹp khiến nhiều cổ phiếu không tăng cùng chỉ số."
     },
     {
-      "title": "TPHCM đặt mục tiêu tăng trưởng GRDP trên 10%",
+      "title": "Khối ngoại mua ròng 119 tỷ đồng, gom mạnh VIC và VHM",
       "impact": "↑",
-      "note": "Cam kết tăng trưởng cao của đầu tàu kinh tế củng cố kỳ vọng lợi nhuận doanh nghiệp."
+      "note": "Dòng vốn ngoại đảo chiều mua ròng là tín hiệu hỗ trợ tâm lý cho nhóm vốn hóa lớn."
     },
     {
       "title": "Thế giới bước vào kỷ nguyên lãi suất cao",
       "impact": "↓",
-      "note": "Chi phí vốn toàn cầu neo cao gây áp lực lên tỷ giá và dòng vốn vào thị trường mới nổi."
+      "note": "Lãi suất toàn cầu neo cao gây áp lực lên tỷ giá, chi phí vốn và định giá cổ phiếu Việt Nam."
+    },
+    {
+      "title": "Nhiều doanh nghiệp rời thị trường, TPHCM chỉ ra nguyên nhân",
+      "impact": "↓",
+      "note": "Sức khỏe khu vực doanh nghiệp còn yếu, phản ánh cầu nội địa và triển vọng lợi nhuận chưa thực sự vững."
+    },
+    {
+      "title": "Giá vàng trong nước tăng nhanh hơn thế giới, vàng miếng tăng tới 1 triệu đồng/lượng",
+      "impact": "→",
+      "note": "Vàng hấp dẫn có thể hút bớt dòng tiền đầu cơ khỏi chứng khoán nhưng chưa đủ làm đảo chiều xu thế."
     }
   ]
 }
