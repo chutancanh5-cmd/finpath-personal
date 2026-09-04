@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-04",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thông điệp điều hành từ Chính phủ tiếp tục nghiêng về hỗ trợ tăng trưởng: Thủ tướng yêu cầu quyết liệt thúc đẩy giải ngân đầu tư công và khơi thông nguồn lực, trong khi TPHCM đặt mục tiêu GRDP trên 10% — nền tảng thuận lợi cho nhóm đầu tư công, vật liệu xây dựng và ngân hàng. Trên thị trường, VN-Index vượt 1.850 điểm nhờ blue-chips dẫn dắt và khối ngoại quay lại mua ròng 119 tỷ đồng, gom mạnh VIC, VHM, cho thấy dòng tiền lớn vẫn tin vào xu thế tăng. Tuy vậy, rủi ro ngắn hạn không nhỏ: tự doanh bán ròng 168 tỷ, dòng tiền phân hóa mạnh nên chỉ số tăng nhưng phần lớn cổ phiếu chưa theo kịp. Bối cảnh lãi suất toàn cầu neo cao cùng giá vàng trong nước tăng nhanh hơn thế giới có thể hút bớt dòng tiền khỏi kênh cổ phiếu và gây áp lực lên tỷ giá, lãi suất huy động. Áp lực nội tại từ khối doanh nghiệp — nhiều đơn vị rời thị trường, các trường hợp thua lỗ và gánh nợ lớn liên quan bất động sản, trái phiếu — nhắc nhà đầu tư ưu tiên doanh nghiệp có bảng cân đối lành mạnh thay vì mua đuổi theo chỉ số.",
+  "date": "2026-09-05",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Yếu tố chi phối phiên tới đến từ bên ngoài: số liệu việc làm Mỹ mạnh hơn dự kiến khiến giá vàng lao dốc hơn 2% và làm dấy lên kỳ vọng Fed có thể tăng lãi suất ngay trong tháng này, cộng hưởng với làn sóng bán tháo trái phiếu toàn cầu đẩy thế giới vào kỷ nguyên lãi suất cao — áp lực trực tiếp lên tỷ giá, dòng vốn ngoại và mặt bằng định giá cổ phiếu Việt Nam. Trong nước, lãi suất huy động 12 tháng đã lên tới 7,8%/năm tại ACB, khiến kênh tiền gửi cạnh tranh mạnh hơn với chứng khoán và làm tăng chi phí vốn doanh nghiệp. Điểm tựa vẫn là chính sách hỗ trợ tăng trưởng: Thủ tướng yêu cầu quyết liệt giải ngân đầu tư công, FDI đăng ký 8 tháng đạt 40,63 tỷ USD và TPHCM đặt mục tiêu GRDP trên 10%, thuận lợi cho nhóm đầu tư công, vật liệu xây dựng, khu công nghiệp và ngân hàng. Về kỹ thuật, VN-Index vượt 1.850 điểm nhưng chủ yếu nhờ nhóm Vingroup và blue-chips, số mã giảm vẫn áp đảo — đà tăng thiếu sự lan tỏa nên rủi ro rung lắc còn cao. Nhà đầu tư nên ưu tiên doanh nghiệp có bảng cân đối lành mạnh, tránh nhóm bất động sản và phát hành trái phiếu đang lộ rõ áp lực nợ như trường hợp đối tác Masterise hay SCOMMERCE.",
   "top": [
     {
-      "title": "Thủ tướng yêu cầu quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công",
-      "impact": "↑",
-      "note": "Đẩy nhanh vốn đầu tư công bơm thanh khoản vào nền kinh tế, hưởng lợi trực tiếp là xây dựng, vật liệu và ngân hàng."
-    },
-    {
-      "title": "VN-Index vượt 1.850 điểm nhưng dòng tiền phân hóa",
-      "impact": "↑",
-      "note": "Xu thế tăng được blue-chips giữ vững, song độ rộng thị trường hẹp khiến nhiều cổ phiếu không tăng cùng chỉ số."
-    },
-    {
-      "title": "Khối ngoại mua ròng 119 tỷ đồng, gom mạnh VIC và VHM",
-      "impact": "↑",
-      "note": "Dòng vốn ngoại đảo chiều mua ròng là tín hiệu hỗ trợ tâm lý cho nhóm vốn hóa lớn."
-    },
-    {
-      "title": "Thế giới bước vào kỷ nguyên lãi suất cao",
+      "title": "Việc làm Mỹ mạnh, kỳ vọng Fed tăng lãi suất khiến giá vàng lao dốc",
       "impact": "↓",
-      "note": "Lãi suất toàn cầu neo cao gây áp lực lên tỷ giá, chi phí vốn và định giá cổ phiếu Việt Nam."
+      "note": "Khả năng Fed tăng lãi suất làm USD mạnh lên, gây áp lực tỷ giá và rủi ro rút vốn khỏi thị trường mới nổi như Việt Nam."
     },
     {
-      "title": "Nhiều doanh nghiệp rời thị trường, TPHCM chỉ ra nguyên nhân",
+      "title": "Thế giới bước vào kỷ nguyên lãi suất cao, trái phiếu bị bán tháo",
       "impact": "↓",
-      "note": "Sức khỏe khu vực doanh nghiệp còn yếu, phản ánh cầu nội địa và triển vọng lợi nhuận chưa thực sự vững."
+      "note": "Lợi suất toàn cầu neo cao đẩy chi phí vốn lên và kéo mặt bằng định giá P/E của cổ phiếu xuống."
     },
     {
-      "title": "Giá vàng trong nước tăng nhanh hơn thế giới, vàng miếng tăng tới 1 triệu đồng/lượng",
+      "title": "Lãi suất huy động 12 tháng lên tới 7,8%/năm tại ACB",
+      "impact": "↓",
+      "note": "Tiền gửi hấp dẫn hơn sẽ hút bớt dòng tiền khỏi chứng khoán và bào mòn biên lợi nhuận doanh nghiệp vay nợ."
+    },
+    {
+      "title": "Thủ tướng thúc đẩy tăng trưởng, giải ngân đầu tư công; FDI 8 tháng đạt 40,63 tỷ USD",
+      "impact": "↑",
+      "note": "Chính sách tài khóa mở rộng và nền tảng vĩ mô ổn định hỗ trợ nhóm đầu tư công, xây dựng, vật liệu và khu công nghiệp."
+    },
+    {
+      "title": "TPHCM dồn lực phấn đấu tăng trưởng GRDP trên 10%",
+      "impact": "↑",
+      "note": "Đầu tàu kinh tế tăng tốc kèm cải cách thủ tục hành chính tạo kỳ vọng lợi nhuận cho doanh nghiệp nội địa."
+    },
+    {
+      "title": "VN-Index vượt 1.850 điểm nhưng độ rộng thị trường vẫn tiêu cực",
       "impact": "→",
-      "note": "Vàng hấp dẫn có thể hút bớt dòng tiền đầu cơ khỏi chứng khoán nhưng chưa đủ làm đảo chiều xu thế."
+      "note": "Chỉ số tăng nhờ Vingroup và blue-chips trong khi số mã giảm áp đảo, cho thấy dòng tiền chưa lan tỏa và dễ rung lắc."
     }
   ]
 }
