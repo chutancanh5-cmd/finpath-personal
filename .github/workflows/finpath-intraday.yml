@@ -68,15 +68,22 @@ jobs:
           else
             echo "vnstock_data da co san trong venv cache, bo qua installer."
           fi
+      # Cung hai lop chan gio nhu finpath-daily (xem giai thich dai o do):
+      # timeout-minutes cua BUOC (16') < cua JOB (20') de job con song ma commit,
+      # va `timeout <giay>` cho tung script de mot nguon treo khong an het phan
+      # cua script sau. Job nay lap 5 phut/lan nen dat chat hon daily.
       - name: Run intraday updaters
         working-directory: updater
+        timeout-minutes: 16
         run: |
-          python update_prices.py --light || true
-          python update_market.py || true
-          python scan_intraday.py --discord || true
-          python update_orderflow.py --discord || true
-          python check_alerts.py || true
+          timeout 240 python update_prices.py --light || true
+          timeout 240 python update_market.py || true
+          timeout 180 python scan_intraday.py --discord || true
+          timeout 240 python update_orderflow.py --discord || true
+          timeout 120 python check_alerts.py || true
+      # if: always() — buoc tren bi timeout cat thi phan da lam duoc VAN duoc day len.
       - name: Commit & push data
+        if: always()
         run: |
           git config user.name "finpath-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -87,7 +94,8 @@ jobs:
             git rebase -X theirs origin/main || git rebase --abort
             git push
           fi
+      # cancelled() = het timeout-minutes cua job; `if: failure()` khong bat duoc.
       - name: Bao loi ve Discord
-        if: failure()
+        if: failure() || cancelled()
         run: |
           curl -s -X POST -H "Content-Type: application/json" -d "{\"username\":\"Bot CI\",\"content\":\"❌ Workflow **${{ github.workflow }}** lỗi — ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" "$DISCORD_WEBHOOK_URL" || true

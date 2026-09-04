@@ -19,10 +19,19 @@ if errorlevel 1 (
 )
 
 
-python update_prices.py --light
-python update_market.py
-python scan_intraday.py --discord
-python update_orderflow.py --discord
-python check_alerts.py
-python heartbeat.py intraday
-python push_data.py
+REM --- TRAN THOI GIAN CHO TUNG BUOC (them 05/09/2026) -------------------------
+REM  Xem giai thich day du trong run_daily.bat. Rieng .bat nay lap 5 phut/lan ma
+REM  do duoc no dang chay ~20-25 phut/lan (cac commit "data: cap nhat" cach nhau
+REM  dung 25 phut chu khong phai 5): Task Scheduler bo qua 4 nhip ke tiep vi ban
+REM  truoc chua xong, roi cat o ExecutionTimeLimit 20' (LastTaskResult 267014 =
+REM  SCHED_S_TASK_TERMINATED). Tong tran duoi = 15,5' < 20' cua task.
+REM  Xem run_steps.log de biet buoc nao an thoi gian roi siet tiep con so cho vua
+REM  nhip 5 phut.
+python run_step.py 150 update_prices.py --light
+python run_step.py 150 update_market.py
+python run_step.py 120 scan_intraday.py --discord
+python run_step.py 180 update_orderflow.py --discord
+python run_step.py  90 check_alerts.py
+REM  Hai buoc cuoi phai toi duoc: nhip tim cho ci_gate + day du lieu len Pages.
+python run_step.py  60 heartbeat.py intraday
+python run_step.py 180 push_data.py

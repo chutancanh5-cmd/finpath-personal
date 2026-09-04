@@ -95,21 +95,34 @@ jobs:
       # giu gia cap nhat. Chon giu signals (dan huong PrimeTrade) va chap nhan
       # trailstop.json khong doi trong ngay PC tat.
       # trailstop VAN CHAY tren PC qua run_daily.bat — do moi la nguon chinh.
+      #
+      # HAI LOP CHAN GIO (them 2026-09-05) — truoc day thieu ca hai nen job nay
+      # chay 30' roi bi HUY o giua buoc nay, KHONG bao gio toi buoc commit:
+      # moi thu update_signals/alert/scan_daily da lam xong deu bi vut di.
+      # Do that: 4/5 lan chay gan nhat deu 'cancelled' o dung 30m, day khong day
+      # duoc gi (27/08 - 03/09 mat trang 6 phien).
+      #   1. timeout-minutes cua BUOC (25') < timeout-minutes cua JOB (30'):
+      #      GitHub cat rieng buoc nay, job van song de chay tiep commit.
+      #   2. `timeout <giay>` cho tung script: mot nguon treo (VCI hay timeout 30s
+      #      x3 lan tenacity = 96s cho MOT loi call) khong an het phan cua script sau.
       - name: Run full updaters
         working-directory: updater
+        timeout-minutes: 25
         run: |
-          python update_signals.py || true
-          python alert.py || true
-          python scan_daily.py --discord || true
+          timeout 600 python update_signals.py || true
+          timeout 120 python alert.py || true
+          timeout 240 python scan_daily.py --discord || true
           # CBTT theo ma (~1,5 phut cho ~40 ma). Doc signals.json nen phai sau
           # update_signals. Dat o day chu khong phai cuoi: phan quan trong nhat
           # (signals/alert/scan) da xong, ma neu de cuoi thi voi timeout 30' cua job
           # nay no gan nhu khong bao gio chay toi.
-          python update_symbol_news.py || true
-          python update_prices.py || true
-          python update_market.py --append-hist || true
-          python update_market_read.py --discord || true
+          timeout 240 python update_symbol_news.py || true
+          timeout 300 python update_prices.py || true
+          timeout 300 python update_market.py --append-hist || true
+          timeout 420 python update_market_read.py --discord || true
+      # if: always() — buoc tren co bi timeout cat thi phan da lam duoc VAN duoc day len.
       - name: Commit & push data
+        if: always()
         run: |
           git config user.name "finpath-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -121,7 +134,10 @@ jobs:
             git rebase -X theirs origin/main || git rebase --abort
             git push
           fi
+      # cancelled() cung phai bao: het timeout-minutes cua job -> conclusion la
+      # 'cancelled' CHU KHONG PHAI 'failure', nen `if: failure()` khong bat duoc.
+      # Chinh vi vay job nay chet lang le suot 27/08 - 03/09 ma khong ai biet.
       - name: Bao loi ve Discord
-        if: failure()
+        if: failure() || cancelled()
         run: |
           curl -s -X POST -H "Content-Type: application/json" -d "{\"username\":\"Bot CI\",\"content\":\"❌ Workflow **${{ github.workflow }}** lỗi — ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" "$DISCORD_WEBHOOK_URL" || true

@@ -12,6 +12,8 @@ updater/orderflow_trend.json
 updater/check_alerts_state.json
 updater/marketread_config.json
 updater/.last_push
+# nhat ky thoi gian tung buoc, do run_step.py ghi (chi de chan doan tai cho)
+updater/run_steps.log
 docs/data/_rss_raw.json
 
 # python

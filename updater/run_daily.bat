@@ -18,18 +18,31 @@ if errorlevel 1 (
 )
 
 
-python update_prices.py
-python update_market.py --append-hist
-python update_signals.py
+REM --- TRAN THOI GIAN CHO TUNG BUOC (them 05/09/2026) -------------------------
+REM  Truoc day cac dong duoi la `python <script>` tran. Mot script treo o nguon
+REM  (VCI: 30s/lan x3 lan tenacity = 96s cho MOT call loi) an het quy thoi gian
+REM  cua ca chuoi, Task Scheduler cat o ExecutionTimeLimit 1h30 -> HAI BUOC CUOI
+REM  (heartbeat + push_data) khong bao gio chay. Do that: khoa "daily" trong
+REM  docs/data/pc_heartbeat.json dung yen tu 26/08 den 04/09; ci_gate.py tuong PC
+REM  chua chay nen mo cong cho cloud, ma cloud bi VCI chan nang hon -> 30' roi bi
+REM  huy, khong day duoc gi. 6 phien 27/08-03/09 mat trang va IM LANG.
+REM  run_step.py: het gio thi giet ca cay tien trinh roi tra 0 de buoc sau van
+REM  chay, va ghi thoi gian tung buoc vao run_steps.log (truoc day task chay .bat
+REM  khong redirect nen moi output deu mat). Tong tran = 79' < 1h30 cua task.
+python run_step.py  300 update_prices.py
+python run_step.py  300 update_market.py --append-hist
+python run_step.py  900 update_signals.py
 REM  CBTT theo ma - doc signals.json nen phai chay SAU update_signals.
-python update_symbol_news.py
-python update_trailstop.py
-python update_market_read.py --discord
-python alert.py
-python scan_daily.py --discord
-python update_orderflow.py --discord
-python check_alerts.py
-python heartbeat.py daily
-python push_data.py --force
+python run_step.py  300 update_symbol_news.py
+python run_step.py 1200 update_trailstop.py
+python run_step.py  600 update_market_read.py --discord
+python run_step.py  120 alert.py
+python run_step.py  300 scan_daily.py --discord
+python run_step.py  300 update_orderflow.py --discord
+python run_step.py  120 check_alerts.py
+REM  Hai buoc nay PHAI toi duoc: heartbeat bao cho cloud "PC da lam xong phien
+REM  hom nay", push_data day ket qua len GitHub Pages.
+python run_step.py   60 heartbeat.py daily
+python run_step.py  240 push_data.py --force
 
 echo Done %date% %time%
