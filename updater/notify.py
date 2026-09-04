@@ -16,7 +16,7 @@ def resolve_webhook():
         return url
     if os.path.exists(ALERT_CFG):
         try:
-            url = (json.load(open(ALERT_CFG, encoding="utf-8")).get("discord_webhook_url") or "").strip()
+            url = (json.load(open(ALERT_CFG, encoding="utf-8-sig")).get("discord_webhook_url") or "").strip()
             if url.startswith("http"):
                 return url
         except Exception:
@@ -37,7 +37,7 @@ def resolve_webhook():
             continue
         for f in found:
             try:
-                url = (json.load(open(f, encoding="utf-8")).get("discord_webhook_url") or "").strip()
+                url = (json.load(open(f, encoding="utf-8-sig")).get("discord_webhook_url") or "").strip()
                 if url.startswith("http"):
                     return url
             except Exception:
@@ -56,7 +56,7 @@ def send_discord(webhook, content, embeds, username="FinPath · Quét"):
 
 def load_sent(path):
     try:
-        return set(json.load(open(path, encoding="utf-8")).get("sent", []))
+        return set(json.load(open(path, encoding="utf-8-sig")).get("sent", []))
     except Exception:
         return set()
 

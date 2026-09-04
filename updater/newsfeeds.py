@@ -154,6 +154,15 @@ def _clean(s):
     return re.sub(r"\s+", " ", s).strip()
 
 
+def _trim(s, n=220):
+    """Cat gon mo ta feed ve do dai doc-luot, ngat o ranh gioi tu."""
+    s = (s or "").strip()
+    if len(s) <= n:
+        return s
+    cut = s[:n].rsplit(" ", 1)[0] or s[:n]
+    return cut.rstrip(" .,;:-") + "…"
+
+
 def _parse_date(raw):
     if not raw:
         return None
@@ -212,7 +221,7 @@ def fetch_feed(source, url, timeout=20):
 
     items, newest = [], None
     for nd in nodes:
-        title = link = pub = ""
+        title = link = pub = desc = ""
         for ch in nd:
             tag = ch.tag.split("}")[-1]
             if tag == "title" and not title:
@@ -221,13 +230,19 @@ def fetch_feed(source, url, timeout=20):
                 link = _clean(ch.text) or (ch.attrib.get("href") or "")
             elif tag in ("pubDate", "published", "updated", "date") and not pub:
                 pub = (ch.text or "").strip()
+            elif tag in ("description", "summary", "content") and not desc:
+                # RSS/Atom thuong nhung san 1 doan tom tat cua toa soan trong tag
+                # nay (co the boc trong <img>/<a>) -- _clean() bo tag, lay text.
+                desc = _clean(ch.text)
         if not title:
             continue
         d = _parse_date(pub)
         if d and (newest is None or d > newest):
             newest = d
+        if desc and desc.strip(".…").lower() == title.strip().lower():
+            desc = ""  # mot so feed lap lai tieu de trong mo ta -> khong phai tom tat
         items.append({"title": title, "link": link, "source": source,
-                      "time": pub, "_dt": d})
+                      "time": pub, "_dt": d, "desc": _trim(desc)})
 
     st["n"] = len(items)
     age = _age_hours(newest)

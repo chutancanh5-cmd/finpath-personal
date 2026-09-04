@@ -75,10 +75,12 @@ def fetch_rss(limit=14):
         items, LAST_HEALTH = [], []
         return items
     log("feed:", NF.health_summary(LAST_HEALTH))
-    # Giu dung khuon cu {title, link, source} — phan con lai cua file (loc_tin_moi,
-    # best_link, bao_discord_tin_moi) doc theo khuon nay.
+    # Khuon {title, link, source, desc} -- desc them 2026-09-04 de Discord tin moi
+    # co the hien tom tat, khong chi tieu de+link. Cac ham doc theo khuon nay
+    # (loc_tin_moi, best_link, bao_discord_tin_moi) deu dung .get() nen truong moi
+    # khong lam vo cai gi dang doc theo khuon cu.
     return [{"title": it["title"], "link": it.get("link", ""),
-             "source": it.get("source", "")} for it in items]
+             "source": it.get("source", ""), "desc": it.get("desc", "")} for it in items]
 
 
 # ---------------------------------------------------------------- FRED
@@ -301,7 +303,11 @@ def bao_discord_tin_moi(moi, toi_da=6):
     if len(moi) > toi_da:
         dong.append(f"… và {len(moi) - toi_da} tin khác")
     noi_dung = f"📰 **{len(moi)} tin mới** — {today()}\n" + "\n".join(dong)
+    # desc = tom tat toa soan tu RSS (newsfeeds.py trich tu the <description>/
+    # <summary>), khong phai AI viet -- luon co san, khong ton luot goi Claude,
+    # khong bi mat khi het quota. Hien duoi tieu de de doc luot khong can bam vao.
     embeds = [{"title": it["title"][:250], "url": it["link"],
+               "description": it.get("desc", "")[:400],
                "footer": {"text": it["source"]}} for it in moi[:toi_da]]
     try:
         send_discord(hook, noi_dung, embeds, username="FinPath · Tin tức")
