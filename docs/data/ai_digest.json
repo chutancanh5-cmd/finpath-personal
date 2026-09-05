@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô hôm nay pha trộn giữa nền tảng trong nước vững và áp lực bên ngoài gia tăng. Báo cáo việc làm Mỹ mạnh hơn dự kiến đẩy kỳ vọng Fed tăng lãi suất ngay trong tháng, khiến giá vàng lao dốc và tạo sức ép lên tỷ giá cùng dòng vốn ngoại vào Việt Nam. Ở trong nước, CPI bình quân 8 tháng đã tăng 4,45% với các kịch bản lạm phát 4,5-5,5%, dư địa kiểm soát giá gần như cạn, hạn chế khả năng nới lỏng tiền tệ hỗ trợ thị trường. Điểm tựa vẫn là FDI đăng ký 40,63 tỷ USD, xuất nhập khẩu 770,14 tỷ USD và chỉ đạo quyết liệt thúc đẩy giải ngân đầu tư công, có lợi cho nhóm xây dựng - vật liệu - hạ tầng. Với VN-Index tăng nhờ vốn hóa lớn nhưng độ rộng chưa lan tỏa, nhà đầu tư nên ưu tiên cổ phiếu có câu chuyện đầu tư công/xuất khẩu và thận trọng với bất động sản đòn bẩy cao.",
+  "summary_vi": "Thị trường đang giằng co giữa hai lực đối nghịch: trong nước có câu chuyện nâng hạng khi FTSE Russell tái cơ cấu FTSE Vietnam Index (loại 21 mã, thêm MCH, TCX, VPL) cùng thông điệp quyết liệt thúc đẩy tăng trưởng, giải ngân đầu tư công của Chính phủ trên nền vĩ mô ổn định (FDI đăng ký 40,63 tỷ USD, xuất nhập khẩu 770,14 tỷ USD sau 8 tháng). Ở chiều rủi ro, CPI bình quân 8 tháng đã tăng 4,45% và Bộ Tài chính đưa ra kịch bản lạm phát 4,5-5,5%, khiến dư địa nới lỏng chính sách tiền tệ gần như cạn, hạn chế kỳ vọng hạ lãi suất hỗ trợ định giá cổ phiếu. Bên ngoài, báo cáo việc làm Mỹ mạnh hơn dự kiến làm dấy lên khả năng Fed tăng lãi suất ngay trong tháng, đẩy giá vàng lao dốc và tạo áp lực lên tỷ giá cùng dòng vốn ngoại vào các thị trường mới nổi. Nội tại thị trường vẫn yếu về độ rộng: VN-Index hồi phục nhờ nhóm vốn hóa lớn nhưng dòng tiền phân hóa, khối ngoại mua ròng 119 tỷ đồng trong khi tự doanh bán ròng 168 tỷ đồng. Chiến lược hợp lý là ưu tiên nhóm hưởng lợi đầu tư công, xuất khẩu và các mã trong rổ nâng hạng, đồng thời kiểm soát tỷ trọng vì rủi ro lạm phát - tỷ giá còn hiện hữu.",
   "top": [
     {
-      "title": "Việc làm Mỹ mạnh, kỳ vọng Fed tăng lãi suất trong tháng",
-      "impact": "↓",
-      "note": "Lãi suất USD cao hơn gây áp lực tỷ giá và có thể kích hoạt rút vốn khỏi thị trường mới nổi như Việt Nam."
+      "title": "FTSE Russell tái cơ cấu FTSE Vietnam Index, thêm MCH, TCX, VPL",
+      "impact": "↑",
+      "note": "Việc phân loại lại gắn với lộ trình nâng hạng lên thị trường mới nổi thứ cấp, mở đường cho dòng vốn ngoại trung hạn."
     },
     {
-      "title": "Bộ Tài chính: dư địa kiểm soát CPI gần như không còn, kịch bản 4,5-5,5%",
+      "title": "Báo cáo việc làm Mỹ mạnh, gia tăng khả năng Fed tăng lãi suất",
       "impact": "↓",
-      "note": "Lạm phát sát trần mục tiêu làm giảm khả năng nới lỏng tiền tệ, siết thanh khoản hỗ trợ thị trường cổ phiếu."
+      "note": "Kỳ vọng lãi suất USD cao hơn gây áp lực lên tỷ giá và dòng vốn ngoại vào chứng khoán Việt Nam."
+    },
+    {
+      "title": "CPI 8 tháng tăng 4,45%, kịch bản lạm phát cả năm 4,5-5,5%",
+      "impact": "↓",
+      "note": "Dư địa kiểm soát giá gần cạn khiến khả năng nới lỏng tiền tệ hỗ trợ thị trường bị thu hẹp."
     },
     {
       "title": "Thủ tướng chỉ đạo thúc đẩy tăng trưởng và giải ngân đầu tư công",
       "impact": "↑",
-      "note": "Đẩy mạnh đầu tư công trực tiếp mở dư địa doanh thu cho nhóm xây dựng, vật liệu và hạ tầng."
-    },
-    {
-      "title": "FDI đăng ký 40,63 tỷ USD, xuất nhập khẩu 770,14 tỷ USD sau 8 tháng",
-      "impact": "↑",
-      "note": "Nền tảng vĩ mô và dòng vốn ngoại thực chất vẫn tích cực, hỗ trợ nhóm khu công nghiệp, cảng biển và logistics."
+      "note": "Đẩy mạnh đầu tư công và khơi thông nguồn lực hỗ trợ trực tiếp nhóm xây dựng, vật liệu, ngân hàng."
     },
     {
       "title": "Khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ phiên 04/09",
       "impact": "→",
-      "note": "Dòng tiền lớn trái chiều nhau nên chưa tạo được xu hướng rõ ràng cho chỉ số."
+      "note": "Dòng tiền lớn trái chiều nên chưa tạo được xu hướng rõ ràng cho chỉ số."
     },
     {
-      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ, nợ gần 1 tỷ USD",
-      "impact": "↓",
-      "note": "Cảnh báo rủi ro đòn bẩy và chất lượng tài sản của nhóm bất động sản, có thể lan sang tâm lý với cổ phiếu ngân hàng cho vay."
+      "title": "VN-Index hồi phục nhờ vốn hóa lớn nhưng dòng tiền phân hóa",
+      "impact": "→",
+      "note": "Độ rộng thị trường chưa đồng thuận, đà tăng thiếu bền vững nếu dòng tiền không lan tỏa."
     }
   ]
 }
