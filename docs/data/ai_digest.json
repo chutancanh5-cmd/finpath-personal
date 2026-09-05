@@ -1,13 +1,13 @@
 {
   "_opus": true,
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay nghiêng về chính sách hỗ trợ trung–dài hạn: Luật Phát triển đô thị có hiệu lực từ 1/10 mở dư địa phân quyền và hình thành các cực tăng trưởng mới, cùng định hướng sửa Luật Chứng khoán theo hướng bảo đảm thị trường vận hành ổn định, liên tục — hai yếu tố củng cố kỳ vọng cho nhóm bất động sản, xây dựng hạ tầng và chứng khoán. Ở chiều ngược lại, rủi ro ngắn hạn đang rõ hơn khi CPI bình quân 8 tháng đã tăng 4,45%, khiến dư địa kiểm soát giá còn rất hẹp và gần như khép lại khả năng nới lỏng tiền tệ. Mặt bằng lãi suất huy động 12 tháng đã lên 6,8%/năm ở nhóm Big4 và 7–7,8%/năm ở nhóm tư nhân, làm tăng chi phí vốn doanh nghiệp và tạo cạnh tranh trực tiếp với kênh cổ phiếu. Bên ngoài, báo cáo việc làm Mỹ tích cực làm giảm kỳ vọng Fed hạ lãi suất, gây áp lực lên tỷ giá dù khối ngoại đã mua ròng trở lại phiên 04/09. Chỉ số vẫn phụ thuộc vào vài trụ như VIC, STB nên nhà đầu tư nên ưu tiên quản trị rủi ro, tránh mua đuổi khi độ rộng thị trường còn hẹp.",
+  "summary_vi": "Bức tranh vĩ mô hôm nay giằng co giữa hỗ trợ chính sách dài hạn và áp lực chi phí vốn ngắn hạn. Ở chiều tích cực, Luật Phát triển đô thị có hiệu lực từ 1/10 mở dư địa phân quyền và hình thành các cực tăng trưởng mới, trong khi định hướng sửa Luật Chứng khoán theo hướng bảo đảm thị trường vận hành ổn định, liên tục củng cố kỳ vọng nâng hạng; dòng vốn ngoại cũng ấm lên khi quỹ tỷ USD hồi phục mạnh trong tháng 8 và khối ngoại mua ròng trở lại phiên 04/09. Rủi ro lớn nhất là lạm phát: CPI bình quân 8 tháng đã tăng 4,45%, dư địa kiểm soát giá còn rất hẹp, gần như khép lại khả năng nới lỏng tiền tệ. Mặt bằng lãi suất huy động 12 tháng lên 6,8%/năm ở Big4 và 7–7,8%/năm ở nhóm tư nhân tiếp tục hút dòng tiền khỏi kênh cổ phiếu, cộng thêm việc làm Mỹ khả quan làm giảm kỳ vọng Fed hạ lãi suất và gây sức ép lên tỷ giá. Với chỉ số vẫn phụ thuộc vài trụ như VIC, nhà đầu tư nên ưu tiên quản trị rủi ro và tránh mua đuổi khi độ rộng thị trường còn hẹp.",
   "top": [
     {
-      "title": "Bộ Tài chính: CPI bình quân 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát hẹp",
+      "title": "Bộ Tài chính: CPI bình quân 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát ngày càng hẹp",
       "impact": "↓",
-      "note": "Lạm phát tiến sát ngưỡng mục tiêu làm giảm khả năng nới lỏng chính sách tiền tệ và gây áp lực lên định giá cổ phiếu."
+      "note": "Lạm phát tiến sát ngưỡng mục tiêu làm giảm khả năng nới lỏng tiền tệ và gây áp lực lên định giá cổ phiếu."
     },
     {
       "title": "Lãi suất huy động 12 tháng: Big4 niêm yết 6,8%/năm, nhóm tư nhân lên 7–7,8%/năm",
@@ -20,19 +20,19 @@
       "note": "Tăng phân quyền và khơi thông nguồn lực đô thị hỗ trợ trực tiếp nhóm bất động sản, xây dựng và vật liệu."
     },
     {
-      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải bảo đảm thị trường ổn định, liên tục",
+      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải bảo đảm thị trường hoạt động ổn định, liên tục",
       "impact": "↑",
       "note": "Hoàn thiện khung pháp lý và quy định chuyển tiếp giúp củng cố niềm tin nhà đầu tư, hỗ trợ lộ trình nâng hạng."
+    },
+    {
+      "title": "Quỹ ngoại tỷ USD hồi phục mạnh trong tháng 8, PYN Elite dồn 17,7% danh mục vào Sacombank",
+      "impact": "↑",
+      "note": "Hiệu suất quỹ ngoại cải thiện và tỷ trọng lớn ở nhóm ngân hàng cho thấy dòng vốn ngoại đang trở lại với cổ phiếu Việt Nam."
     },
     {
       "title": "Việc làm Mỹ khả quan, kỳ vọng Fed hạ lãi suất suy giảm dù ông Trump kêu gọi ngược lại",
       "impact": "↓",
       "note": "USD và lợi suất Mỹ neo cao tạo áp lực lên tỷ giá VND cùng dòng vốn ngoại vào Việt Nam."
-    },
-    {
-      "title": "Phiên 04/09: khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ đồng",
-      "impact": "→",
-      "note": "Hai dòng tiền lớn trái chiều với quy mô nhỏ, chưa đủ xác nhận xu hướng rõ ràng cho thị trường."
     }
   ]
 }
