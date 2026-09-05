@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền vĩ mô 8 tháng đầu 2026 vẫn là điểm tựa chính cho thị trường: FDI đăng ký đạt 40,63 tỷ USD, kim ngạch xuất nhập khẩu 770,14 tỷ USD, cùng chỉ đạo quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công — hỗ trợ trực tiếp nhóm xây dựng, vật liệu, bất động sản khu công nghiệp và ngân hàng. Định hướng sửa Luật Chứng khoán theo nguyên tắc bảo đảm thị trường vận hành ổn định, liên tục giúp giảm rủi ro chính sách và củng cố câu chuyện nâng hạng. Rủi ro ngắn hạn nghiêng về chi phí vốn: CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa kiểm soát giá thu hẹp, trong khi lãi suất huy động 12 tháng đã lên 6,8%/năm ở Big4 và trên 7,5%/năm ở một số ngân hàng tư nhân, làm giảm sức hấp dẫn tương đối của kênh cổ phiếu. Bên ngoài, báo cáo việc làm Mỹ tích cực làm suy yếu kỳ vọng Fed hạ lãi suất, tạo sức ép lên tỷ giá và kéo giá vàng trong nước giảm tới 1 triệu đồng/lượng. Dòng tiền còn phân hóa (khối ngoại mua ròng, tự doanh bán ròng) và đà tăng phụ thuộc vài trụ như VIC, STB, nên ưu tiên cổ phiếu đầu ngành có cơ bản tốt, hạn chế mua đuổi và thận trọng với bất động sản đòn bẩy cao.",
+  "summary_vi": "Nền vĩ mô 8 tháng đầu 2026 vẫn vững với FDI đăng ký 40,63 tỷ USD, kim ngạch xuất nhập khẩu 770,14 tỷ USD và thông điệp quyết liệt của Chính phủ về thúc đẩy tăng trưởng, giải ngân đầu tư công — yếu tố hỗ trợ nhóm xây dựng hạ tầng, vật liệu, bất động sản khu công nghiệp và ngân hàng. Định hướng sửa Luật Chứng khoán theo hướng bảo đảm thị trường vận hành ổn định, liên tục củng cố kỳ vọng dài hạn về chất lượng và nâng hạng thị trường. Tuy nhiên rủi ro ngắn hạn đang tăng: CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa kiểm soát giá còn rất hẹp, trong khi lãi suất huy động 12 tháng tại nhóm tư nhân lên 7–7,8%/năm cho thấy chi phí vốn nhích lên và cạnh tranh dòng tiền với kênh cổ phiếu. Bên ngoài, báo cáo việc làm Mỹ mạnh làm giảm khả năng Fed nới lỏng, gây áp lực lên tỷ giá và khối ngoại dù phiên gần nhất khối ngoại đã mua ròng trở lại. Chỉ số đang được dẫn dắt hẹp bởi vài mã trụ như VIC, STB nên nhà đầu tư cần thận trọng với rủi ro phân hóa và rung lắc khi trụ hạ nhiệt.",
   "top": [
     {
-      "title": "Thủ tướng thúc đẩy tăng trưởng, giải ngân đầu tư công; FDI 8 tháng đạt 40,63 tỷ USD",
+      "title": "Bộ Tài chính: CPI bình quân 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát hẹp",
+      "impact": "↓",
+      "note": "Lạm phát sát ngưỡng mục tiêu làm giảm khả năng nới lỏng chính sách tiền tệ, gây áp lực lên định giá cổ phiếu."
+    },
+    {
+      "title": "Lãi suất huy động 12 tháng lên 7–7,8%/năm tại nhóm ngân hàng tư nhân",
+      "impact": "↓",
+      "note": "Chi phí vốn tăng và kênh tiền gửi hấp dẫn hơn sẽ hút bớt dòng tiền khỏi thị trường chứng khoán."
+    },
+    {
+      "title": "Thủ tướng yêu cầu quyết liệt thúc đẩy tăng trưởng, giải ngân đầu tư công; FDI đạt 40,63 tỷ USD",
       "impact": "↑",
-      "note": "Đầu tư công được đẩy mạnh trên nền vĩ mô ổn định là động lực lợi nhuận cho xây dựng, vật liệu, ngân hàng và bất động sản khu công nghiệp."
+      "note": "Đầu tư công và FDI mạnh là động lực trực tiếp cho nhóm hạ tầng, vật liệu xây dựng và bất động sản khu công nghiệp."
     },
     {
       "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải bảo đảm thị trường ổn định, liên tục",
       "impact": "↑",
-      "note": "Khung pháp lý đồng bộ với quy định chuyển tiếp rõ ràng giúp giảm rủi ro chính sách và hỗ trợ lộ trình nâng hạng thị trường."
+      "note": "Hoàn thiện khung pháp lý củng cố niềm tin nhà đầu tư và hỗ trợ lộ trình nâng hạng thị trường."
     },
     {
-      "title": "Bộ Tài chính nêu hai kịch bản lạm phát, dư địa kiểm soát ngày càng hẹp",
+      "title": "Báo cáo việc làm Mỹ khả quan, giảm kỳ vọng Fed hạ lãi suất",
       "impact": "↓",
-      "note": "CPI bình quân 8 tháng tăng 4,45% gần như khóa cửa nới lỏng tiền tệ, gây sức ép lên định giá cổ phiếu."
+      "note": "USD và lợi suất Mỹ neo cao tạo áp lực lên tỷ giá VND cùng dòng vốn ngoại vào Việt Nam."
     },
     {
-      "title": "Lãi suất huy động 12 tháng lên 6,8%/năm tại Big4, ACB 7,8%/năm",
-      "impact": "↓",
-      "note": "Mặt bằng lãi suất tiết kiệm cao hút bớt dòng tiền khỏi chứng khoán và làm tăng chi phí vốn của doanh nghiệp."
-    },
-    {
-      "title": "Việc làm Mỹ khả quan làm suy yếu kỳ vọng Fed hạ lãi suất, vàng trong nước giảm 1 triệu đồng/lượng",
-      "impact": "↓",
-      "note": "USD mạnh lên tạo áp lực tỷ giá và làm chậm dòng vốn ngoại vào thị trường mới nổi như Việt Nam."
-    },
-    {
-      "title": "Khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ phiên 04/09; VIC và STB lập đỉnh",
+      "title": "Phiên 04/09: khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ đồng",
       "impact": "→",
-      "note": "Dòng tiền lớn trái chiều và đà tăng dựa vào vài cổ phiếu trụ nên chỉ số chưa xác lập xu hướng rõ ràng."
+      "note": "Dòng tiền lớn trái chiều với quy mô nhỏ, chưa đủ xác nhận xu hướng rõ ràng cho thị trường."
     }
   ]
 }
