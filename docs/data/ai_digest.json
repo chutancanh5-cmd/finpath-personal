@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Điểm tựa chính vẫn là nền vĩ mô trong nước: Thủ tướng chỉ đạo quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công, FDI đăng ký 8 tháng đạt 40,63 tỷ USD, kim ngạch xuất nhập khẩu 770,14 tỷ USD, cùng mục tiêu tăng trưởng 11% của Hà Nội — hỗ trợ trực tiếp nhóm xây dựng, vật liệu, bất động sản khu công nghiệp và ngân hàng. Ở chiều ngược lại, rủi ro lạm phát nổi lên rõ khi CPI bình quân 8 tháng đã tăng 4,45% và Bộ Tài chính đưa ra kịch bản 4,5-5,5%, khiến dư địa nới lỏng tiền tệ gần như không còn. Áp lực bên ngoài cũng tăng: số liệu việc làm Mỹ mạnh hơn dự kiến đẩy kỳ vọng Fed tăng lãi suất, vàng lao dốc và lợi suất trái phiếu toàn cầu leo thang, gây sức ép lên tỷ giá cùng mặt bằng định giá cổ phiếu. Trên bảng điện, VN-Index vượt 1.850 điểm nhưng chủ yếu nhờ nhóm Vingroup và blue-chips trong khi số mã giảm vẫn áp đảo, cho thấy đà tăng thiếu lan tỏa; khối ngoại mua ròng 119 tỷ đồng đối trọng với tự doanh bán ròng 168 tỷ đồng. Chiến lược ngắn hạn nên ưu tiên cổ phiếu hưởng lợi đầu tư công và có nền tảng cơ bản, hạn chế mua đuổi khi dòng tiền còn tập trung hẹp và kỳ cơ cấu FTSE Vietnam 30 có thể gây biến động cục bộ.",
+  "summary_vi": "Áp lực bên ngoài đang tăng khi báo cáo việc làm Mỹ tháng 8 nóng hơn dự báo đẩy xác suất Fed tăng lãi suất trong tháng này lên cao, kéo chứng khoán Mỹ giảm, vàng lao dốc và giá dầu tăng 8% trong tuần — tổ hợp bất lợi cho tỷ giá, lãi suất và định giá cổ phiếu Việt Nam. Trong nước, CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa kiểm soát giá gần như cạn, Bộ Tài chính đưa kịch bản lạm phát 4,5-5,5% và Phó Thủ tướng phải chỉ đạo 'nóng', làm giảm khả năng nới lỏng tiền tệ hỗ trợ thị trường. Bù lại, nền tảng vĩ mô vẫn vững với FDI đăng ký 40,63 tỷ USD, xuất nhập khẩu 770,14 tỷ USD, cùng thông điệp quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công — hỗ trợ nhóm xây dựng, vật liệu, hạ tầng và bất động sản khu công nghiệp. Về dòng tiền, VN-Index vượt 1.850 điểm nhờ nhóm Vingroup và bất động sản nhưng độ rộng thị trường yếu, tự doanh bán ròng 168 tỷ đồng trong khi khối ngoại mua ròng 119 tỷ đồng. Rủi ro ngắn hạn là chỉ số bị 'gánh' bởi vài mã trụ, dễ rung lắc nếu áp lực lãi suất - lạm phát mạnh thêm; nhà đầu tư nên ưu tiên nhóm hưởng lợi đầu tư công và hạn chế dùng đòn bẩy đuổi giá.",
   "top": [
     {
-      "title": "Thủ tướng chỉ đạo thúc đẩy tăng trưởng và giải ngân đầu tư công",
+      "title": "Việc làm Mỹ mạnh hơn dự báo, khả năng Fed tăng lãi suất tăng cao",
+      "impact": "↓",
+      "note": "Lãi suất USD cao hơn gây áp lực lên tỷ giá, dòng vốn ngoại và định giá cổ phiếu Việt Nam."
+    },
+    {
+      "title": "CPI 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát gần như không còn",
+      "impact": "↓",
+      "note": "Kịch bản lạm phát 4,5-5,5% thu hẹp khả năng nới lỏng tiền tệ và hạ lãi suất hỗ trợ thị trường."
+    },
+    {
+      "title": "Chứng khoán Mỹ tụt điểm, giá dầu tăng 8% cả tuần",
+      "impact": "↓",
+      "note": "Tâm lý toàn cầu xấu đi và chi phí năng lượng leo thang làm tăng rủi ro lạm phát nhập khẩu."
+    },
+    {
+      "title": "Thủ tướng chỉ đạo quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công",
       "impact": "↑",
-      "note": "FDI 40,63 tỷ USD và xuất nhập khẩu 770,14 tỷ USD củng cố nền vĩ mô, dòng vốn đầu tư công lan tỏa sang xây dựng - vật liệu."
+      "note": "FDI 40,63 tỷ USD cùng lực đẩy đầu tư công hỗ trợ nhóm xây dựng, vật liệu và hạ tầng."
     },
     {
-      "title": "Dư địa CPI gần cạn, kịch bản lạm phát 4,5-5,5%",
-      "impact": "↓",
-      "note": "CPI 8 tháng đã tăng 4,45% nên khả năng hạ lãi suất hỗ trợ thị trường trong quý 4 gần như không còn."
-    },
-    {
-      "title": "Việc làm Mỹ mạnh hơn dự kiến, vàng lao dốc, kỳ vọng Fed tăng lãi suất",
-      "impact": "↓",
-      "note": "USD mạnh lên làm tăng áp lực tỷ giá và rủi ro rút vốn khỏi thị trường cận biên như Việt Nam."
-    },
-    {
-      "title": "Thế giới bước vào kỷ nguyên lãi suất cao",
-      "impact": "↓",
-      "note": "Trái phiếu bị bán tháo, chi phí vốn toàn cầu tăng, kéo giảm mức định giá hợp lý của cổ phiếu."
-    },
-    {
-      "title": "Hà Nội đặt mục tiêu tăng trưởng GRDP 11% năm 2026",
-      "impact": "↑",
-      "note": "Đòi hỏi quý 3-4 tăng 12,5-14,3%, đồng nghĩa đẩy mạnh đầu tư xây dựng và thương mại dịch vụ."
-    },
-    {
-      "title": "VN-Index vượt 1.850 điểm nhưng độ rộng phân hóa",
+      "title": "VN-Index vượt 1.850 điểm nhưng độ rộng thị trường phân hóa",
       "impact": "→",
-      "note": "Chỉ số tăng nhờ vài trụ Vingroup và blue-chips trong khi phần lớn cổ phiếu giảm, tín hiệu chưa bền vững."
+      "note": "Đà tăng phụ thuộc vài mã trụ Vingroup và bất động sản nên chưa xác nhận xu hướng bền vững."
+    },
+    {
+      "title": "Khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ phiên 04/09",
+      "impact": "→",
+      "note": "Hai dòng tiền lớn trái chiều cho thấy thị trường thiếu động lực dẫn dắt rõ ràng."
     }
   ]
 }
