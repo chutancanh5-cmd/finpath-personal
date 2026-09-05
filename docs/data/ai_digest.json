@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Áp lực chính đến từ mặt bằng lãi suất: số liệu việc làm Mỹ mạnh hơn dự kiến làm dấy lên kỳ vọng Fed tăng lãi suất ngay trong tháng, cộng với làn sóng bán tháo trái phiếu toàn cầu, gây sức ép lên tỷ giá, dòng vốn ngoại và định giá cổ phiếu Việt Nam. Trong nước, dư địa CPI gần như không còn khi Bộ Tài chính đưa ra kịch bản lạm phát 2026 ở 4,5-5,5%, trong khi lãi suất huy động 12 tháng đã lên tới 7,8%/năm tại ACB — kênh tiền gửi cạnh tranh trực tiếp với chứng khoán và đẩy chi phí vốn doanh nghiệp lên cao. Điểm tựa là chính sách hỗ trợ tăng trưởng: Thủ tướng yêu cầu quyết liệt giải ngân đầu tư công, FDI đăng ký 8 tháng đạt 40,63 tỷ USD và xuất nhập khẩu 770,14 tỷ USD, thuận lợi cho nhóm đầu tư công, vật liệu xây dựng và khu công nghiệp. Về kỹ thuật, VN-Index vượt 1.850 điểm nhờ nhóm Vingroup và blue-chips nhưng số mã giảm vẫn áp đảo, cho thấy đà tăng thiếu lan tỏa và rủi ro rung lắc còn cao. Nên ưu tiên doanh nghiệp có bảng cân đối lành mạnh, thận trọng với nhóm bất động sản và đơn vị dựa nhiều vào trái phiếu như trường hợp đối tác Masterise hay SCOMMERCE.",
+  "summary_vi": "Sức ép lớn nhất đến từ bên ngoài: số liệu việc làm Mỹ mạnh hơn dự kiến làm dấy lên kỳ vọng Fed tăng lãi suất ngay trong tháng, cộng với làn sóng bán tháo trái phiếu toàn cầu đẩy mặt bằng lợi suất lên cao, gây áp lực lên tỷ giá, dòng vốn ngoại và định giá cổ phiếu Việt Nam. Trong nước, Bộ Tài chính đưa ra ba kịch bản lạm phát 2026 ở mức 4,5-5,5% và Phó Thủ tướng chỉ đạo 'nóng' kiểm soát giá, cho thấy dư địa nới lỏng tiền tệ những tháng cuối năm gần như không còn. Điểm tựa là định hướng thúc đẩy tăng trưởng và giải ngân đầu tư công của Thủ tướng, trên nền vĩ mô ổn định với FDI đăng ký 8 tháng đạt 40,63 tỷ USD và xuất nhập khẩu 770,14 tỷ USD — thuận lợi cho nhóm đầu tư công, vật liệu xây dựng, khu công nghiệp và xuất khẩu. Về kỹ thuật, VN-Index vượt 1.850 điểm nhờ nhóm Vingroup và blue-chips nhưng số mã giảm vẫn áp đảo, phản ánh dòng tiền tập trung hẹp và rủi ro rung lắc còn cao. Ngắn hạn nên ưu tiên doanh nghiệp có bảng cân đối lành mạnh, thận trọng với nhóm bất động sản và các đơn vị phụ thuộc trái phiếu như đối tác Masterise hay SCOMMERCE.",
   "top": [
     {
-      "title": "Dư địa CPI gần như không còn, Phó Thủ tướng chỉ đạo 'nóng' về kiểm soát giá",
+      "title": "Việc làm Mỹ mạnh, kỳ vọng Fed tăng lãi suất khiến vàng lao dốc hơn 2%",
       "impact": "↓",
-      "note": "Lạm phát 2026 có kịch bản lên tới 5,5% làm hẹp khả năng nới lỏng tiền tệ và gây áp lực lên lãi suất."
+      "note": "Fed thắt chặt làm USD mạnh lên, tạo sức ép tỷ giá và rủi ro rút vốn khỏi thị trường mới nổi như Việt Nam."
     },
     {
-      "title": "Việc làm Mỹ mạnh, kỳ vọng Fed tăng lãi suất khiến giá vàng lao dốc hơn 2%",
+      "title": "Dư địa CPI gần như không còn, Phó Thủ tướng chỉ đạo 'nóng' kiểm soát giá",
       "impact": "↓",
-      "note": "Fed thắt chặt sẽ làm USD mạnh lên, tạo sức ép tỷ giá và rủi ro rút vốn khỏi thị trường mới nổi như Việt Nam."
+      "note": "Kịch bản lạm phát 2026 lên tới 5,5% thu hẹp khả năng hạ lãi suất hỗ trợ thị trường."
     },
     {
       "title": "Thế giới bước vào kỷ nguyên lãi suất cao, trái phiếu bị bán tháo",
       "impact": "↓",
-      "note": "Lợi suất toàn cầu neo cao đẩy chi phí vốn lên và kéo mặt bằng định giá P/E của cổ phiếu xuống."
+      "note": "Lợi suất toàn cầu neo cao đẩy chi phí vốn doanh nghiệp lên và kéo mặt bằng định giá P/E xuống."
     },
     {
-      "title": "Lãi suất huy động 12 tháng lên tới 7,8%/năm tại ACB",
-      "impact": "↓",
-      "note": "Tiền gửi hấp dẫn hơn sẽ hút bớt dòng tiền khỏi chứng khoán và bào mòn biên lợi nhuận doanh nghiệp vay nợ."
-    },
-    {
-      "title": "Thủ tướng thúc đẩy tăng trưởng, giải ngân đầu tư công; FDI 8 tháng đạt 40,63 tỷ USD",
+      "title": "Thủ tướng quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công; FDI 8 tháng đạt 40,63 tỷ USD",
       "impact": "↑",
-      "note": "Chính sách tài khóa mở rộng và nền tảng vĩ mô ổn định hỗ trợ nhóm đầu tư công, xây dựng, vật liệu và khu công nghiệp."
+      "note": "Tài khóa mở rộng cùng nền vĩ mô ổn định hỗ trợ nhóm đầu tư công, xây dựng, vật liệu và khu công nghiệp."
+    },
+    {
+      "title": "Khối ngoại mua ròng 119 tỷ đồng phiên 04/09, tự doanh bán ròng 168 tỷ",
+      "impact": "→",
+      "note": "Dòng vốn ngoại quay lại là tín hiệu tích cực nhưng quy mô nhỏ và bị trung hòa bởi lực bán tự doanh."
     },
     {
       "title": "VN-Index vượt 1.850 điểm nhưng độ rộng thị trường vẫn tiêu cực",
       "impact": "→",
-      "note": "Chỉ số tăng nhờ Vingroup và blue-chips trong khi số mã giảm áp đảo, cho thấy dòng tiền chưa lan tỏa và dễ rung lắc."
+      "note": "Chỉ số tăng nhờ Vingroup và blue-chips trong khi số mã giảm áp đảo, cho thấy đà tăng thiếu lan tỏa."
     }
   ]
 }
