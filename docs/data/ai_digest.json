@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Áp lực bên ngoài đang tăng khi báo cáo việc làm Mỹ tháng 8 nóng hơn dự báo đẩy xác suất Fed tăng lãi suất trong tháng này lên cao, kéo chứng khoán Mỹ giảm, vàng lao dốc và giá dầu tăng 8% trong tuần — tổ hợp bất lợi cho tỷ giá, lãi suất và định giá cổ phiếu Việt Nam. Trong nước, CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa kiểm soát giá gần như cạn, Bộ Tài chính đưa kịch bản lạm phát 4,5-5,5% và Phó Thủ tướng phải chỉ đạo 'nóng', làm giảm khả năng nới lỏng tiền tệ hỗ trợ thị trường. Bù lại, nền tảng vĩ mô vẫn vững với FDI đăng ký 40,63 tỷ USD, xuất nhập khẩu 770,14 tỷ USD, cùng thông điệp quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công — hỗ trợ nhóm xây dựng, vật liệu, hạ tầng và bất động sản khu công nghiệp. Về dòng tiền, VN-Index vượt 1.850 điểm nhờ nhóm Vingroup và bất động sản nhưng độ rộng thị trường yếu, tự doanh bán ròng 168 tỷ đồng trong khi khối ngoại mua ròng 119 tỷ đồng. Rủi ro ngắn hạn là chỉ số bị 'gánh' bởi vài mã trụ, dễ rung lắc nếu áp lực lãi suất - lạm phát mạnh thêm; nhà đầu tư nên ưu tiên nhóm hưởng lợi đầu tư công và hạn chế dùng đòn bẩy đuổi giá.",
+  "summary_vi": "Yếu tố chi phối phiên đầu tuần là bên ngoài: báo cáo việc làm Mỹ tháng 8 nóng hơn dự báo đẩy xác suất Fed tăng lãi suất ngay trong tháng này lên cao, khiến chứng khoán Mỹ giảm, vàng lao dốc hơn 2% và giá dầu tăng 8% cả tuần — tổ hợp bất lợi cho tỷ giá USD/VND, mặt bằng lãi suất và định giá cổ phiếu Việt Nam. Trong nước, CPI bình quân 8 tháng đã tăng 4,45% và Bộ Tài chính phải đưa kịch bản lạm phát 4,5-5,5%, dư địa kiểm soát giá gần như cạn nên khả năng nới lỏng tiền tệ hỗ trợ thị trường thu hẹp đáng kể. Ở chiều tích cực, nền tảng vĩ mô vẫn vững với FDI đăng ký 40,63 tỷ USD, xuất nhập khẩu 770,14 tỷ USD, cùng chỉ đạo quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công, còn Hà Nội đặt mục tiêu GRDP trên 11% — hỗ trợ trực tiếp nhóm xây dựng, vật liệu, hạ tầng. Dòng tiền vẫn thiếu đồng thuận: khối ngoại mua ròng 119 tỷ đồng nhưng tự doanh bán ròng 168 tỷ đồng, VN-Index hồi nhờ nhóm vốn hóa lớn trong khi độ rộng thị trường chưa lan tỏa. Rủi ro ngắn hạn là áp lực lạm phát nhập khẩu từ giá dầu và sức khỏe doanh nghiệp yếu đi (doanh nghiệp rời thị trường, nợ vay bất động sản phình to), nên ưu tiên nhóm hưởng lợi đầu tư công, hạn chế đòn bẩy và tránh đuổi giá.",
   "top": [
     {
-      "title": "Việc làm Mỹ mạnh hơn dự báo, khả năng Fed tăng lãi suất tăng cao",
+      "title": "Việc làm Mỹ mạnh hơn dự báo, xác suất Fed tăng lãi suất trong tháng tăng vọt",
       "impact": "↓",
       "note": "Lãi suất USD cao hơn gây áp lực lên tỷ giá, dòng vốn ngoại và định giá cổ phiếu Việt Nam."
     },
     {
       "title": "CPI 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát gần như không còn",
       "impact": "↓",
-      "note": "Kịch bản lạm phát 4,5-5,5% thu hẹp khả năng nới lỏng tiền tệ và hạ lãi suất hỗ trợ thị trường."
+      "note": "Kịch bản lạm phát 4,5-5,5% khép lại kỳ vọng hạ lãi suất và nới lỏng tiền tệ hỗ trợ thị trường."
     },
     {
       "title": "Chứng khoán Mỹ tụt điểm, giá dầu tăng 8% cả tuần",
       "impact": "↓",
-      "note": "Tâm lý toàn cầu xấu đi và chi phí năng lượng leo thang làm tăng rủi ro lạm phát nhập khẩu."
+      "note": "Tâm lý toàn cầu xấu đi cộng chi phí năng lượng leo thang làm tăng rủi ro lạm phát nhập khẩu."
     },
     {
       "title": "Thủ tướng chỉ đạo quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công",
       "impact": "↑",
-      "note": "FDI 40,63 tỷ USD cùng lực đẩy đầu tư công hỗ trợ nhóm xây dựng, vật liệu và hạ tầng."
+      "note": "FDI 40,63 tỷ USD và lực đẩy đầu tư công hỗ trợ nhóm xây dựng, vật liệu, hạ tầng."
     },
     {
-      "title": "VN-Index vượt 1.850 điểm nhưng độ rộng thị trường phân hóa",
-      "impact": "→",
-      "note": "Đà tăng phụ thuộc vài mã trụ Vingroup và bất động sản nên chưa xác nhận xu hướng bền vững."
+      "title": "Hà Nội đặt mục tiêu tăng trưởng GRDP trên 11% năm 2026",
+      "impact": "↑",
+      "note": "Đẩy mạnh đầu tư xây dựng, thương mại, dịch vụ tạo dư địa cho doanh nghiệp trên địa bàn trọng điểm."
     },
     {
-      "title": "Khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ phiên 04/09",
+      "title": "Khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ phiên 04/09; dòng tiền phân hóa",
       "impact": "→",
-      "note": "Hai dòng tiền lớn trái chiều cho thấy thị trường thiếu động lực dẫn dắt rõ ràng."
+      "note": "Hai dòng tiền lớn trái chiều và độ rộng thị trường hẹp cho thấy chưa có động lực dẫn dắt rõ ràng."
     }
   ]
 }
