@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô trong nước giữ nền tảng tích cực: 8 tháng đầu năm 2026 ghi nhận FDI đăng ký 40,63 tỷ USD và kim ngạch xuất nhập khẩu 770,14 tỷ USD, cùng chỉ đạo quyết liệt thúc đẩy tăng trưởng, giải ngân đầu tư công và mục tiêu GRDP Hà Nội trên 11% — hỗ trợ trực tiếp nhóm xây lắp, vật liệu xây dựng, bất động sản khu công nghiệp và bán lẻ. Câu chuyện riêng của thị trường là kỳ cơ cấu FTSE Vietnam Index gắn với lộ trình nâng hạng lên thị trường mới nổi thứ cấp, mở kỳ vọng hút vốn ngoại trung hạn, trong khi khối ngoại đã trở lại mua ròng 119 tỷ đồng phiên 4/9. Rủi ro ngắn hạn tập trung ở lạm phát khi CPI bình quân 8 tháng tăng 4,45%, các kịch bản 4,5–5,5% khiến dư địa điều hành giá gần như cạn và giảm khả năng nới lỏng tiền tệ. Bên ngoài, báo cáo việc làm Mỹ mạnh hơn dự kiến đẩy kỳ vọng Fed tăng lãi suất, tạo sức ép lên tỷ giá, giá vàng và mặt bằng định giá cổ phiếu. Chiến lược hợp lý là ưu tiên cổ phiếu vốn hóa lớn và nhóm hưởng lợi đầu tư công, hạn chế đòn bẩy khi độ rộng thị trường chưa lan tỏa.",
+  "summary_vi": "Bức tranh vĩ mô trong nước vẫn tích cực với FDI đăng ký 40,63 tỷ USD, kim ngạch xuất nhập khẩu 770,14 tỷ USD sau 8 tháng và thông điệp quyết liệt của Chính phủ về thúc đẩy tăng trưởng, giải ngân đầu tư công — hỗ trợ nhóm xây dựng, vật liệu, bất động sản khu công nghiệp và ngân hàng. Việc FTSE Russell tái cơ cấu FTSE Vietnam Index, thêm MCH, TCX, VPL, củng cố kỳ vọng dòng vốn ngoại theo lộ trình nâng hạng lên thị trường mới nổi thứ cấp, phù hợp với việc khối ngoại mua ròng 119 tỷ đồng phiên 04/09. Tuy nhiên rủi ro ngắn hạn đến từ lạm phát: CPI bình quân 8 tháng đã tăng 4,45%, Bộ Tài chính đặt kịch bản 4,5-5,5% và dư địa điều hành giá gần như cạn, có thể hạn chế khả năng nới lỏng tiền tệ. Bên ngoài, báo cáo việc làm Mỹ mạnh làm dấy lên khả năng Fed tăng lãi suất, khiến giá vàng lao dốc và tạo áp lực lên tỷ giá cùng dòng vốn ngoại. Thị trường nhiều khả năng tiếp tục phân hóa, dòng tiền tập trung ở vốn hóa lớn trong khi độ rộng chưa lan tỏa; nhà đầu tư nên ưu tiên cổ phiếu hưởng lợi đầu tư công và câu chuyện nâng hạng, hạn chế đòn bẩy với nhóm bất động sản nợ vay cao.",
   "top": [
     {
-      "title": "FTSE Russell cơ cấu FTSE Vietnam Index, thêm MCH, TCX, VPL",
+      "title": "FTSE Russell loại 21 cổ phiếu, thêm mới MCH, TCX, VPL vào FTSE Vietnam Index",
       "impact": "↑",
-      "note": "Phản ánh quá trình chuyển đổi phân loại theo lộ trình nâng hạng lên thị trường mới nổi thứ cấp, mở kỳ vọng dòng vốn ngoại trung hạn."
+      "note": "Tái cơ cấu gắn với lộ trình nâng hạng thị trường mới nổi, mở đường cho dòng vốn ngoại vào cổ phiếu vốn hóa lớn."
     },
     {
-      "title": "CPI 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát gần cạn",
+      "title": "Thủ tướng chỉ đạo quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công",
+      "impact": "↑",
+      "note": "Nền tảng vĩ mô ổn định cùng đẩy mạnh đầu tư công hỗ trợ trực tiếp nhóm xây dựng, vật liệu và ngân hàng."
+    },
+    {
+      "title": "Dư địa kiểm soát CPI gần cạn, Bộ Tài chính đưa kịch bản lạm phát 4,5-5,5%",
       "impact": "↓",
-      "note": "Các kịch bản lạm phát 4,5–5,5% thu hẹp khả năng nới lỏng tiền tệ, gây áp lực lên định giá cổ phiếu."
+      "note": "Áp lực giá cuối năm thu hẹp khả năng nới lỏng tiền tệ, ảnh hưởng tiêu cực tới định giá cổ phiếu."
     },
     {
-      "title": "Việc làm Mỹ mạnh, kỳ vọng Fed tăng lãi suất gia tăng",
+      "title": "Báo cáo việc làm Mỹ mạnh làm tăng khả năng Fed nâng lãi suất",
       "impact": "↓",
-      "note": "USD mạnh lên tạo sức ép tỷ giá và rủi ro rút vốn khỏi các thị trường mới nổi như Việt Nam."
+      "note": "Kỳ vọng lãi suất USD cao hơn gây sức ép lên tỷ giá và dòng vốn ngoại vào thị trường Việt Nam."
     },
     {
-      "title": "Thủ tướng thúc đẩy tăng trưởng, giải ngân đầu tư công",
-      "impact": "↑",
-      "note": "FDI 40,63 tỷ USD và xuất nhập khẩu 770,14 tỷ USD cùng đầu tư công là lực đỡ cho nhóm hạ tầng, vật liệu."
-    },
-    {
-      "title": "Hà Nội đặt mục tiêu tăng trưởng GRDP trên 11% năm 2026",
-      "impact": "↑",
-      "note": "Tập trung xây dựng, thương mại và dịch vụ tạo dư địa doanh thu cho doanh nghiệp xây lắp, bán lẻ phía Bắc."
-    },
-    {
-      "title": "Khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ phiên 4/9",
+      "title": "Khối ngoại mua ròng 119 tỷ đồng, tự doanh bán ròng 168 tỷ đồng phiên 04/09",
       "impact": "→",
-      "note": "Dòng tiền lớn trái chiều, thị trường phân hóa và độ rộng chưa đồng thuận để xác nhận xu hướng tăng."
+      "note": "Hai dòng tiền lớn trái chiều nên tác động ròng lên chỉ số gần như trung tính."
+    },
+    {
+      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ đồng, nợ gần 1 tỷ USD",
+      "impact": "↓",
+      "note": "Cảnh báo rủi ro đòn bẩy và chất lượng tài sản của nhóm bất động sản, tác động tới tâm lý ngành."
     }
   ]
 }
