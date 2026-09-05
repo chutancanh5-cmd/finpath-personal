@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền vĩ mô trong nước vẫn là điểm tựa chính khi Thủ tướng thúc đẩy giải ngân đầu tư công, FDI đăng ký 8 tháng đạt 40,63 tỷ USD và xuất nhập khẩu 770,14 tỷ USD, cùng mục tiêu tăng trưởng tham vọng của Hà Nội (11%). Tuy nhiên rủi ro ngắn hạn đến từ hai phía: dư địa CPI gần như cạn với các kịch bản lạm phát 4,5-5,5% và làn sóng lãi suất cao toàn cầu sau số liệu việc làm Mỹ mạnh, làm dấy lên khả năng Fed tăng lãi suất, gây áp lực lên tỷ giá và định giá cổ phiếu. Trên bảng điện, VN-Index vượt 1.850 điểm nhưng chủ yếu nhờ nhóm Vingroup và blue-chips trong khi độ rộng nghiêng về giảm giá, cho thấy đà tăng thiếu lan tỏa. Khối ngoại mua ròng 119 tỷ đồng là tín hiệu đỡ, song tự doanh bán ròng 168 tỷ và kỳ cơ cấu FTSE Vietnam 30 có thể tạo biến động cục bộ ở nhóm chứng khoán, ngân hàng. Nhà đầu tư nên ưu tiên nhóm hưởng lợi đầu tư công và cổ phiếu có nền tảng cơ bản, hạn chế mua đuổi khi dòng tiền còn tập trung hẹp.",
+  "summary_vi": "Điểm tựa chính vẫn là nền vĩ mô trong nước: Thủ tướng chỉ đạo quyết liệt thúc đẩy tăng trưởng và giải ngân đầu tư công, FDI đăng ký 8 tháng đạt 40,63 tỷ USD, kim ngạch xuất nhập khẩu 770,14 tỷ USD, cùng mục tiêu tăng trưởng 11% của Hà Nội — hỗ trợ trực tiếp nhóm xây dựng, vật liệu, bất động sản khu công nghiệp và ngân hàng. Ở chiều ngược lại, rủi ro lạm phát nổi lên rõ khi CPI bình quân 8 tháng đã tăng 4,45% và Bộ Tài chính đưa ra kịch bản 4,5-5,5%, khiến dư địa nới lỏng tiền tệ gần như không còn. Áp lực bên ngoài cũng tăng: số liệu việc làm Mỹ mạnh hơn dự kiến đẩy kỳ vọng Fed tăng lãi suất, vàng lao dốc và lợi suất trái phiếu toàn cầu leo thang, gây sức ép lên tỷ giá cùng mặt bằng định giá cổ phiếu. Trên bảng điện, VN-Index vượt 1.850 điểm nhưng chủ yếu nhờ nhóm Vingroup và blue-chips trong khi số mã giảm vẫn áp đảo, cho thấy đà tăng thiếu lan tỏa; khối ngoại mua ròng 119 tỷ đồng đối trọng với tự doanh bán ròng 168 tỷ đồng. Chiến lược ngắn hạn nên ưu tiên cổ phiếu hưởng lợi đầu tư công và có nền tảng cơ bản, hạn chế mua đuổi khi dòng tiền còn tập trung hẹp và kỳ cơ cấu FTSE Vietnam 30 có thể gây biến động cục bộ.",
   "top": [
     {
-      "title": "Thủ tướng thúc đẩy tăng trưởng, giải ngân đầu tư công",
+      "title": "Thủ tướng chỉ đạo thúc đẩy tăng trưởng và giải ngân đầu tư công",
       "impact": "↑",
-      "note": "Vĩ mô ổn định, FDI và xuất nhập khẩu tích cực, hỗ trợ trực tiếp nhóm đầu tư công, xây dựng, vật liệu."
+      "note": "FDI 40,63 tỷ USD và xuất nhập khẩu 770,14 tỷ USD củng cố nền vĩ mô, dòng vốn đầu tư công lan tỏa sang xây dựng - vật liệu."
+    },
+    {
+      "title": "Dư địa CPI gần cạn, kịch bản lạm phát 4,5-5,5%",
+      "impact": "↓",
+      "note": "CPI 8 tháng đã tăng 4,45% nên khả năng hạ lãi suất hỗ trợ thị trường trong quý 4 gần như không còn."
+    },
+    {
+      "title": "Việc làm Mỹ mạnh hơn dự kiến, vàng lao dốc, kỳ vọng Fed tăng lãi suất",
+      "impact": "↓",
+      "note": "USD mạnh lên làm tăng áp lực tỷ giá và rủi ro rút vốn khỏi thị trường cận biên như Việt Nam."
     },
     {
       "title": "Thế giới bước vào kỷ nguyên lãi suất cao",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu toàn cầu tăng gây áp lực lên tỷ giá, dòng vốn ngoại và định giá cổ phiếu Việt Nam."
+      "note": "Trái phiếu bị bán tháo, chi phí vốn toàn cầu tăng, kéo giảm mức định giá hợp lý của cổ phiếu."
     },
     {
-      "title": "Dư địa CPI gần cạn, Phó Thủ tướng chỉ đạo kiểm soát giá",
-      "impact": "↓",
-      "note": "Lạm phát có thể lên 5-5,5% làm hẹp khả năng nới lỏng tiền tệ trong các tháng cuối năm."
-    },
-    {
-      "title": "Số liệu việc làm Mỹ mạnh, vàng lao dốc, kỳ vọng Fed tăng lãi suất",
-      "impact": "↓",
-      "note": "Khả năng Fed thắt chặt làm USD mạnh lên, tăng rủi ro rút vốn khỏi thị trường mới nổi và cận biên."
+      "title": "Hà Nội đặt mục tiêu tăng trưởng GRDP 11% năm 2026",
+      "impact": "↑",
+      "note": "Đòi hỏi quý 3-4 tăng 12,5-14,3%, đồng nghĩa đẩy mạnh đầu tư xây dựng và thương mại dịch vụ."
     },
     {
       "title": "VN-Index vượt 1.850 điểm nhưng độ rộng phân hóa",
       "impact": "→",
-      "note": "Chỉ số tăng nhờ vài trụ Vingroup và blue-chips, phần lớn cổ phiếu vẫn giảm nên tín hiệu chưa bền."
-    },
-    {
-      "title": "Khối ngoại mua ròng 119 tỷ, tự doanh bán ròng 168 tỷ",
-      "impact": "→",
-      "note": "Hai dòng tiền lớn trái chiều, chưa đủ tạo xu hướng rõ ràng cho thị trường."
+      "note": "Chỉ số tăng nhờ vài trụ Vingroup và blue-chips trong khi phần lớn cổ phiếu giảm, tín hiệu chưa bền vững."
     }
   ]
 }
