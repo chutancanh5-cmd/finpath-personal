@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-06",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin trong nước nghiêng về tích cực khi VN-Index tăng 1,14%, xu hướng tăng chưa bị phá vỡ và câu chuyện nâng hạng tiếp tục là lực kéo cho nhóm chứng khoán, ngân hàng cùng các cổ phiếu vốn hóa lớn dẫn dắt. Về chính sách, việc sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, liên tục và Luật Phát triển đô thị có hiệu lực từ 1/10 mở dư địa cho bất động sản, xây dựng và hạ tầng ở các cực tăng trưởng mới. Ở chiều ngược lại, rủi ro vĩ mô đang lớn dần: CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa kiểm soát giá còn rất hẹp, trong khi kỳ vọng Fed tăng lãi suất tháng 9 nâng đỡ USD và tạo áp lực lên tỷ giá cũng như dòng vốn ngoại. Nhóm bất động sản đòn bẩy cao vẫn tiềm ẩn rủi ro chất lượng tài sản, điển hình là doanh nghiệp liên quan Masterise lỗ lớn với nợ gần 1 tỷ USD. Ngắn hạn nên ưu tiên quản trị vị thế, chấp nhận thị trường phân hóa và áp lực chốt lời khi chỉ số tiến gần vùng kháng cự.",
+  "summary_vi": "Bức tranh vĩ mô đang giằng co giữa động lực nội tại và sức ép bên ngoài: VN-Index vẫn giữ xu hướng tăng (+1,14%) với kỳ vọng nâng hạng và câu chuyện sửa Luật Chứng khoán, trong khi Luật Phát triển đô thị hiệu lực từ 1/10 và khách quốc tế phục hồi mạnh hỗ trợ nhóm bất động sản, hạ tầng, du lịch - bán lẻ. Rủi ro ngắn hạn đến từ CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa điều hành giá thu hẹp, cùng kỳ vọng Fed tăng lãi suất tháng 9 đẩy USD mạnh lên, tạo áp lực tỷ giá và hạn chế khả năng nới lỏng tiền tệ trong nước. Lãi suất tiết kiệm ở mặt bằng cao cũng cạnh tranh trực tiếp với dòng tiền vào chứng khoán. Nhà đầu tư nên ưu tiên nhóm hưởng lợi chính sách và có nền tảng cơ bản tốt, hạn chế dùng đòn bẩy cao khi áp lực chốt lời gia tăng và thị trường phân hóa mạnh.",
   "top": [
     {
-      "title": "Bộ Tài chính đưa ra hai kịch bản lạm phát, dư địa kiểm soát ngày càng hẹp",
+      "title": "Bộ Tài chính đưa hai kịch bản lạm phát, CPI 8 tháng tăng 4,45%",
       "impact": "↓",
-      "note": "CPI bình quân 8 tháng tăng 4,45% làm hẹp khả năng nới lỏng tiền tệ, gây áp lực lên định giá cổ phiếu."
+      "note": "Dư địa kiểm soát giá hẹp lại, giảm khả năng nới lỏng tiền tệ và gây áp lực lên định giá cổ phiếu."
     },
     {
-      "title": "Kỳ vọng Fed tăng lãi suất chi phối đồng USD tuần tới",
+      "title": "Kỳ vọng Fed tăng lãi suất tháng 9 chi phối đồng USD",
       "impact": "↓",
-      "note": "USD mạnh lên gây sức ép tỷ giá và dễ kích hoạt bán ròng của khối ngoại."
+      "note": "USD mạnh lên tạo sức ép tỷ giá và dòng vốn ngoại, bất lợi cho tâm lý thị trường trong nước."
     },
     {
-      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải đảm bảo thị trường ổn định, liên tục",
+      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán đảm bảo thị trường vận hành ổn định, liên tục",
       "impact": "↑",
-      "note": "Khung pháp lý đồng bộ củng cố niềm tin nhà đầu tư và hỗ trợ lộ trình nâng hạng."
+      "note": "Khung pháp lý được hoàn thiện củng cố câu chuyện nâng hạng và niềm tin dài hạn của nhà đầu tư."
     },
     {
-      "title": "Chuyên gia kỳ vọng VN-Index hướng lên 1.900 điểm nhờ sóng nâng hạng",
+      "title": "Luật Phát triển đô thị hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Xu hướng tăng chưa bị phá vỡ, dòng tiền luân chuyển hỗ trợ nhóm chứng khoán và ngân hàng."
+      "note": "Tăng phân quyền và khơi thông nguồn lực, hỗ trợ trực tiếp nhóm bất động sản, xây dựng và vật liệu."
     },
     {
-      "title": "Luật Phát triển đô thị có hiệu lực từ 1/10, mở cực tăng trưởng mới",
+      "title": "VN-Index tăng 1,14%, chuyên gia kỳ vọng hướng lên 1.900 điểm",
       "impact": "↑",
-      "note": "Phân quyền và khơi thông nguồn lực tạo dư địa cho bất động sản, xây dựng và vật liệu."
+      "note": "Xu hướng tăng chưa bị phá vỡ nhưng dòng tiền phân hóa và áp lực chốt lời đang lớn dần."
     },
     {
-      "title": "Doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ đồng, nợ gần 1 tỷ USD",
-      "impact": "↓",
-      "note": "Cảnh báo rủi ro đòn bẩy và chất lượng tài sản ở nhóm bất động sản, trái phiếu doanh nghiệp."
+      "title": "Khách Nga tăng gần 166%, vươn lên top 3 thị trường khách quốc tế",
+      "impact": "↑",
+      "note": "Du lịch quốc tế phục hồi mạnh, tích cực cho nhóm hàng không, lưu trú, bán lẻ và bất động sản nghỉ dưỡng."
     }
   ]
 }
