@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-06",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường tuần qua chỉ giao dịch 2 phiên do nghỉ lễ nhưng VN-Index vẫn tăng 1,14%, dòng tiền tập trung vào nhóm vốn hóa lớn (VIC) trong khi tâm lý nhà đầu tư thận trọng trước áp lực chốt lời. Yếu tố hỗ trợ đến từ chính sách trong nước: dự thảo sửa Luật Chứng khoán hướng tới vận hành thị trường ổn định – liên tục, Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản – hạ tầng, cùng đà phục hồi mạnh của du lịch quốc tế (khách Nga tăng gần 166%). Rủi ro ngắn hạn nằm ở bên ngoài: báo cáo việc làm Mỹ tháng 8 làm tăng kỳ vọng Fed nâng lãi suất trong tháng 9, đẩy USD mạnh lên và gây sức ép lên tỷ giá, lãi suất cũng như dòng vốn ngoại. Giá vàng điều chỉnh (SJC giảm tới 1 triệu đồng/lượng) có thể giúp dòng tiền quay lại kênh cổ phiếu, song quan điểm chuyên gia đang chia rẽ. Nhà đầu tư nên ưu tiên nhóm hưởng lợi chính sách (bất động sản đô thị, hạ tầng, du lịch – hàng không, chứng khoán) và thận trọng với doanh nghiệp bất động sản đòn bẩy cao sau các thông tin thua lỗ, nợ vay lớn.",
+  "summary_vi": "Tuần rút gọn chỉ hai phiên sau kỳ nghỉ lễ nhưng VN-Index vẫn tăng 1,14% nhờ trụ VIC, dù tâm lý chung thận trọng trước áp lực chốt lời. Mặt tích cực đến từ chính sách trong nước: định hướng sửa Luật Chứng khoán theo hướng bảo đảm thị trường vận hành ổn định – liên tục, Luật Phát triển đô thị hiệu lực từ 1/10 tăng phân quyền cho địa phương, cùng sức ép tăng trưởng hai con số buộc giải ngân đầu tư công phải nhanh hơn. Kênh vàng hạ nhiệt rõ rệt khi SJC giảm tới 1 triệu đồng/lượng và chênh lệch với thế giới thu hẹp về mức âm ở một số phiên, mở khả năng dòng tiền nhàn rỗi dịch chuyển sang cổ phiếu. Rủi ro ngắn hạn nằm ở bên ngoài: dữ liệu việc làm Mỹ tháng 8 nâng kỳ vọng Fed tăng lãi suất trong tháng 9, khiến USD mạnh lên và tạo sức ép lên tỷ giá, mặt bằng lãi suất và dòng vốn khối ngoại. Chiến lược hợp lý là ưu tiên nhóm hưởng lợi chính sách (bất động sản đô thị, hạ tầng – xây dựng, chứng khoán, du lịch – hàng không) và tránh doanh nghiệp bất động sản đòn bẩy cao.",
   "top": [
     {
-      "title": "Kỳ vọng Fed tăng lãi suất chi phối đồng USD tuần tới",
+      "title": "Kỳ vọng Fed tăng lãi suất tiếp tục chi phối đồng USD tuần tới",
       "impact": "↓",
-      "note": "USD mạnh lên gây áp lực tỷ giá, lãi suất và dòng vốn ngoại vào TTCK Việt Nam."
+      "note": "USD mạnh lên gây áp lực tỷ giá, hạn chế dư địa nới lỏng lãi suất và dễ kích hoạt bán ròng của khối ngoại."
     },
     {
-      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải đảm bảo thị trường ổn định, liên tục",
+      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải bảo đảm thị trường ổn định, liên tục",
       "impact": "↑",
-      "note": "Khung pháp lý đồng bộ hơn củng cố niềm tin nhà đầu tư và tiến trình nâng hạng thị trường."
+      "note": "Khung pháp lý đồng bộ và có lộ trình chuyển tiếp rõ ràng củng cố niềm tin nhà đầu tư cùng tiến trình nâng hạng."
     },
     {
       "title": "Luật Phát triển đô thị hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực, hỗ trợ trực tiếp nhóm bất động sản, xây dựng, vật liệu."
+      "note": "Phân quyền mạnh hơn giúp khơi thông pháp lý dự án, hỗ trợ trực tiếp bất động sản, xây dựng và vật liệu."
+    },
+    {
+      "title": "Vàng SJC hạ nhiệt, chênh lệch với giá thế giới thu hẹp về mức âm",
+      "impact": "↑",
+      "note": "Nguồn cung cải thiện làm giảm sức hút đầu cơ vàng, tạo điều kiện cho dòng tiền quay lại kênh cổ phiếu."
     },
     {
       "title": "VN-Index tăng 1,14%, nhà đầu tư thận trọng trước áp lực chốt lời",
       "impact": "→",
-      "note": "Chỉ số vẫn tăng nhưng thanh khoản và tâm lý dè dặt khiến xu hướng ngắn hạn chưa rõ ràng."
+      "note": "Đà tăng phụ thuộc vào vài cổ phiếu trụ trong tuần chỉ hai phiên nên tín hiệu xu hướng chưa đủ tin cậy."
     },
     {
-      "title": "Khách Nga tăng gần 166%, vươn lên top 3 thị trường khách quốc tế",
-      "impact": "↑",
-      "note": "Du lịch phục hồi mạnh hỗ trợ doanh thu nhóm hàng không, lưu trú, bán lẻ và bất động sản nghỉ dưỡng."
-    },
-    {
-      "title": "Doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ, nợ gần 1 tỷ USD",
+      "title": "Doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ đồng, nợ gần 1 tỷ USD",
       "impact": "↓",
-      "note": "Cảnh báo rủi ro đòn bẩy tài chính của nhóm bất động sản, có thể lan sang chất lượng tài sản ngân hàng."
+      "note": "Tài sản phình nhanh bằng vay nợ cảnh báo rủi ro đòn bẩy bất động sản và chất lượng tài sản ngân hàng tài trợ."
     }
   ]
 }
