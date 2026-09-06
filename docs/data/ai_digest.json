@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-06",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường bước vào tuần 07-11/09 với xu hướng tăng còn nguyên vẹn: VN-Index đã vượt 1.850 điểm sau khi kiểm định thành công vùng hỗ trợ 1.800 và đang hướng về đỉnh cũ 1.900, được hỗ trợ bởi thông điệp sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, liên tục. Về vĩ mô, Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản - hạ tầng - vật liệu xây dựng, còn khách quốc tế (đặc biệt khách Nga tăng gần 166%) tiếp sức cho hàng không, lưu trú và bán lẻ. Rủi ro ngắn hạn khá rõ: CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa kiểm soát giá thu hẹp, trong khi kỳ vọng Fed tăng lãi suất tháng 9 đẩy USD lên cao, tạo áp lực tỷ giá và gần như khóa khả năng nới lỏng tiền tệ trong nước. Cùng lúc thanh khoản suy giảm, khối ngoại duy trì bán ròng và lãi suất tiết kiệm cao đang cạnh tranh dòng tiền với chứng khoán. Chiến lược hợp lý là ưu tiên cổ phiếu hưởng lợi chính sách có nền tảng cơ bản tốt, giữ tỷ trọng đòn bẩy thấp và chủ động hạ margin khi chỉ số tiệm cận vùng 1.900 điểm.",
+  "summary_vi": "VN-Index đã vượt 1.850 điểm và đang tiến về vùng đỉnh cũ 1.900, nhưng thanh khoản suy giảm, độ phân hóa cao và khối ngoại bán ròng cho thấy dòng tiền chưa đủ mạnh để xác nhận xu hướng tăng. Mặt bằng lãi suất huy động neo cao (ACB 7,8%/năm kỳ hạn 12 tháng, 9 ngân hàng trên 7%) cùng CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa nới lỏng chính sách gần như không còn, làm tăng chi phí vốn và tạo kênh cạnh tranh trực tiếp với chứng khoán. Rủi ro bên ngoài đến từ kỳ vọng Fed tăng lãi suất trong tháng 9 đẩy USD mạnh lên, gây áp lực tỷ giá và dòng vốn ngoại. Ở chiều tích cực, việc sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, Luật Phát triển đô thị hiệu lực từ 1/10 và du lịch quốc tế phục hồi mạnh là những lực đỡ trung hạn cho nhóm bất động sản, hạ tầng, bán lẻ - dịch vụ. Nhà đầu tư nên ưu tiên quản trị rủi ro, hạn chế mua đuổi ở vùng giá cao và chọn lọc cổ phiếu có nền tảng cơ bản tốt.",
   "top": [
     {
-      "title": "CPI 8 tháng tăng 4,45%, Bộ Tài chính đưa hai kịch bản lạm phát",
+      "title": "Bộ Tài chính đưa ra hai kịch bản lạm phát, dư địa kiểm soát ngày càng hẹp",
       "impact": "↓",
-      "note": "Dư địa kiểm soát mặt bằng giá còn rất hẹp, làm giảm khả năng hạ lãi suất và gây sức ép lên định giá cổ phiếu."
+      "note": "CPI bình quân 8 tháng tăng 4,45% khiến khả năng nới lỏng tiền tệ bị thu hẹp, bất lợi cho định giá cổ phiếu."
     },
     {
-      "title": "Kỳ vọng Fed tăng lãi suất tháng 9 chi phối đồng USD",
+      "title": "Kỳ vọng Fed tăng lãi suất chi phối đồng USD tuần tới",
       "impact": "↓",
-      "note": "USD mạnh lên gây áp lực tỷ giá và củng cố xu hướng bán ròng của khối ngoại trên HOSE."
+      "note": "USD mạnh lên tạo áp lực tỷ giá và thúc đẩy khối ngoại tiếp tục rút vốn khỏi thị trường mới nổi."
     },
     {
-      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải đảm bảo thị trường ổn định, liên tục",
+      "title": "Lãi suất huy động neo cao, 9 ngân hàng trên 7%/năm",
+      "impact": "↓",
+      "note": "Tiền gửi lãi suất cao hút dòng tiền khỏi chứng khoán và làm tăng chi phí vốn của doanh nghiệp."
+    },
+    {
+      "title": "VN-Index hướng đỉnh cũ 1.900 nhưng thanh khoản suy giảm",
+      "impact": "→",
+      "note": "Chỉ số giữ xu hướng tăng song dòng tiền yếu và khối ngoại bán ròng khiến rủi ro chốt lời ngắn hạn gia tăng."
+    },
+    {
+      "title": "Phó Thủ tướng yêu cầu sửa Luật Chứng khoán đảm bảo thị trường ổn định, liên tục",
       "impact": "↑",
-      "note": "Khung pháp lý đồng bộ hơn củng cố câu chuyện nâng hạng và niềm tin dòng vốn tổ chức dài hạn."
+      "note": "Khung pháp lý đồng bộ, có quy định chuyển tiếp rõ ràng củng cố niềm tin nhà đầu tư và tiến trình nâng hạng."
     },
     {
       "title": "Luật Phát triển đô thị hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực đất đai, hỗ trợ trực tiếp nhóm bất động sản, xây dựng và vật liệu."
-    },
-    {
-      "title": "VN-Index vượt 1.850 hướng đỉnh cũ nhưng thanh khoản suy giảm",
-      "impact": "→",
-      "note": "Xu hướng tăng chưa bị phá vỡ song dòng tiền yếu và phân hóa cao khiến rủi ro rung lắc chốt lời tăng lên."
-    },
-    {
-      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ, nợ gần 1 tỷ USD",
-      "impact": "↓",
-      "note": "Cảnh báo rủi ro đòn bẩy của nhóm bất động sản, có thể tác động tới chất lượng tài sản ngân hàng và trái phiếu."
+      "note": "Tăng phân quyền và khơi thông nguồn lực đô thị hỗ trợ triển vọng nhóm bất động sản, xây dựng và vật liệu."
     }
   ]
 }
