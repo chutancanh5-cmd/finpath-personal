@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-06",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô đang phân hóa: lạm phát bình quân 8 tháng đã lên 4,45% khiến dư địa điều hành giá thu hẹp, trong khi lãi suất huy động 12 tháng phổ biến 6,8%/năm ở nhóm Big4 và vượt 7%/năm tại nhiều ngân hàng tư nhân, làm tăng chi phí vốn và cạnh tranh trực tiếp với kênh cổ phiếu. Ở chiều tích cực, nỗ lực sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, liên tục cùng Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản, hạ tầng và các cực tăng trưởng mới; khối ngoại cũng quay lại mua ròng dù tự doanh vẫn bán ròng. Rủi ro ngắn hạn đến từ bên ngoài khi báo cáo việc làm Mỹ khả quan làm giảm kỳ vọng Fed hạ lãi suất, gây áp lực lên tỷ giá và dòng vốn ngoại, đồng thời kéo giá vàng trong nước giảm mạnh tới 1 triệu đồng/lượng. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên nhóm hưởng lợi chính sách (bất động sản đô thị, hạ tầng, chứng khoán) và hạn chế dùng đòn bẩy khi mặt bằng lãi suất còn cao.",
+  "summary_vi": "Bức tranh vĩ mô tuần này nghiêng về thận trọng khi CPI bình quân 8 tháng đã tăng 4,45%, khiến dư địa kiểm soát lạm phát những tháng cuối năm thu hẹp đáng kể và làm giảm khả năng nới lỏng tiền tệ. Áp lực còn đến từ mặt bằng lãi suất huy động neo cao (nhiều ngân hàng tư nhân trên 7%/năm, ACB tới 7,8%), tạo cạnh tranh trực tiếp với kênh cổ phiếu, cùng báo cáo việc làm Mỹ khả quan làm giảm kỳ vọng Fed hạ lãi suất và gây sức ép lên tỷ giá. Ở chiều tích cực, khung pháp lý đang chuyển động thuận lợi: Phó Thủ tướng yêu cầu sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, liên tục, còn Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản và hạ tầng tại các cực tăng trưởng mới. Vàng giảm mạnh tới 1 triệu đồng/lượng có thể giúp một phần dòng tiền quay lại chứng khoán, nhưng rủi ro ngắn hạn vẫn hiện hữu ở nhóm bất động sản có đòn bẩy cao. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên doanh nghiệp có dòng tiền tốt và hưởng lợi từ đầu tư công, hạ tầng đô thị.",
   "top": [
     {
-      "title": "Bộ Tài chính đưa ra hai kịch bản lạm phát, dư địa kiểm soát hẹp dần",
+      "title": "CPI 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát thu hẹp",
       "impact": "↓",
-      "note": "CPI bình quân 8 tháng tăng 4,45% làm giảm khả năng nới lỏng chính sách tiền tệ hỗ trợ thị trường."
+      "note": "Lạm phát sát trần mục tiêu làm giảm khả năng nới lỏng chính sách tiền tệ, bất lợi cho định giá cổ phiếu."
     },
     {
-      "title": "Lãi suất huy động nhiều ngân hàng vượt 7%/năm, ACB dẫn đầu 7,8%",
+      "title": "Lãi suất huy động nhiều ngân hàng vượt 7%/năm, ACB lên 7,8%",
       "impact": "↓",
-      "note": "Mặt bằng lãi suất tiền gửi cao hút dòng tiền khỏi chứng khoán và đẩy chi phí vốn doanh nghiệp lên."
+      "note": "Kênh tiết kiệm hấp dẫn hơn sẽ hút bớt dòng tiền khỏi thị trường chứng khoán và tăng chi phí vốn doanh nghiệp."
     },
     {
-      "title": "Báo cáo việc làm Mỹ mạnh, kỳ vọng Fed hạ lãi suất suy giảm",
-      "impact": "↓",
-      "note": "Kịch bản Fed giữ lãi suất cao gây áp lực lên tỷ giá USD/VND và dòng vốn khối ngoại."
-    },
-    {
-      "title": "Phó Thủ tướng chỉ đạo sửa Luật Chứng khoán, đảm bảo thị trường vận hành ổn định",
+      "title": "Sửa Luật Chứng khoán đảm bảo thị trường hoạt động ổn định, liên tục",
       "impact": "↑",
-      "note": "Hoàn thiện khung pháp lý củng cố niềm tin nhà đầu tư và hỗ trợ tiến trình nâng hạng thị trường."
+      "note": "Hoàn thiện khung pháp lý củng cố niềm tin nhà đầu tư và hỗ trợ lộ trình nâng hạng thị trường."
     },
     {
-      "title": "Luật Phát triển đô thị hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
+      "title": "Luật Phát triển đô thị có hiệu lực từ 1/10, mở các cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực là lực đẩy cho nhóm bất động sản, xây dựng và vật liệu."
+      "note": "Tăng phân quyền và khơi thông nguồn lực là lực đẩy trung hạn cho nhóm bất động sản, xây dựng, vật liệu."
     },
     {
-      "title": "Khối ngoại mua ròng 119 tỷ đồng, tự doanh bán ròng 168 tỷ đồng phiên 04/09",
-      "impact": "→",
-      "note": "Dòng tiền lớn trái chiều cho thấy thị trường thiếu xu hướng rõ ràng, thanh khoản còn thận trọng."
+      "title": "Việc làm Mỹ khả quan, kỳ vọng Fed hạ lãi suất suy giảm",
+      "impact": "↓",
+      "note": "USD mạnh lên gây áp lực tỷ giá và có thể khiến khối ngoại tiếp tục thận trọng với cổ phiếu Việt Nam."
+    },
+    {
+      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ, gánh nợ gần 1 tỷ USD",
+      "impact": "↓",
+      "note": "Cảnh báo rủi ro đòn bẩy và trái phiếu ở nhóm bất động sản, dễ lan sang tâm lý toàn ngành."
     }
   ]
 }
