@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-06",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường tuần qua chỉ có hai phiên giao dịch do nghỉ lễ nhưng VN-Index vẫn tăng 1,14%, dòng tiền tập trung vào nhóm trụ (đặc biệt VIC) khiến biên độ chỉ số biến động mạnh và tâm lý chốt lời gia tăng. Về chính sách, việc sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, liên tục và Luật Phát triển đô thị có hiệu lực từ 1/10 là hai lực đỡ trung – dài hạn cho nhóm tài chính – chứng khoán và bất động sản, hạ tầng. Bức tranh vĩ mô nội địa tiếp tục cải thiện nhờ du lịch quốc tế phục hồi mạnh (khách Nga tăng gần 166% sau 8 tháng) và áp lực từ số doanh nghiệp đóng mã số thuế được cơ quan quản lý giải thích chủ yếu là xử lý hồ sơ tồn đọng. Rủi ro ngắn hạn đến từ bên ngoài: giới phân tích chia rẽ về đường đi lãi suất Fed, giá vàng thế giới giảm và loạt dữ liệu kinh tế Mỹ sắp công bố có thể tạo biến động tỷ giá, dòng vốn ngoại; trong nước, sức khỏe tài chính của một số doanh nghiệp bất động sản đòn bẩy cao vẫn là điểm cần theo dõi. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu có nền tảng cơ bản và hạn chế mua đuổi ở vùng giá cao.",
+  "summary_vi": "Tuần qua thị trường chỉ giao dịch hai phiên do nghỉ lễ nhưng VN-Index vẫn tăng 1,14%, đà tăng chủ yếu đến từ nhóm trụ (rõ nhất là VIC) trong khi áp lực chốt lời khiến tâm lý nhà đầu tư thận trọng. Mặt chính sách nghiêng về tích cực: định hướng sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, liên tục củng cố kỳ vọng nâng hạng, còn Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản, xây dựng và hạ tầng; du lịch quốc tế phục hồi mạnh (khách Nga tăng gần 166% sau 8 tháng) hỗ trợ nhóm hàng không, lưu trú, bán lẻ. Rủi ro ngắn hạn đến từ bên ngoài khi báo cáo việc làm Mỹ tháng 8 làm tăng kỳ vọng Fed nâng lãi suất trong tháng 9, đẩy USD mạnh lên và tạo sức ép lên tỷ giá cùng dòng vốn ngoại. Trong nước, khoản lỗ và đòn bẩy gần 1 tỷ USD tại doanh nghiệp liên quan Masterise nhắc lại rủi ro tài chính của nhóm bất động sản dùng nợ cao. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu cơ bản tốt và tránh mua đuổi khi chỉ số phụ thuộc vào vài mã trụ.",
   "top": [
     {
-      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán đảm bảo thị trường ổn định, liên tục",
-      "impact": "↑",
-      "note": "Hoàn thiện khung pháp lý củng cố niềm tin nhà đầu tư và hỗ trợ tiến trình nâng hạng thị trường."
+      "title": "Kỳ vọng Fed tăng lãi suất tháng 9 sau báo cáo việc làm Mỹ, USD bật tăng",
+      "impact": "↓",
+      "note": "USD mạnh lên gây sức ép tỷ giá, chi phí vốn và dòng vốn ngoại vào chứng khoán Việt Nam."
     },
     {
-      "title": "Luật Phát triển đô thị có hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
+      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải đảm bảo thị trường ổn định, liên tục",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực đất đai là chất xúc tác cho nhóm bất động sản, xây dựng, vật liệu."
+      "note": "Khung pháp lý đồng bộ hơn củng cố niềm tin nhà đầu tư và hỗ trợ tiến trình nâng hạng thị trường."
+    },
+    {
+      "title": "Luật Phát triển đô thị hiệu lực từ 1/10, mở dư địa các cực tăng trưởng mới",
+      "impact": "↑",
+      "note": "Tăng phân quyền và khơi thông nguồn lực là chất xúc tác cho bất động sản, xây dựng, vật liệu."
     },
     {
       "title": "Khách Nga tăng gần 166%, vươn lên top 3 thị trường khách quốc tế",
       "impact": "↑",
-      "note": "Du lịch phục hồi mạnh hỗ trợ doanh thu nhóm hàng không, lưu trú, bán lẻ và bất động sản nghỉ dưỡng."
+      "note": "Du lịch phục hồi mạnh cải thiện doanh thu nhóm hàng không, lưu trú, bán lẻ và nghỉ dưỡng."
     },
     {
-      "title": "VN-Index tăng 1,14%, nhà đầu tư thận trọng trước áp lực chốt lời",
-      "impact": "→",
-      "note": "Chỉ số tăng nhưng thanh khoản và tâm lý dè dặt cho thấy thị trường cần thời gian tích lũy."
-    },
-    {
-      "title": "VIC chi phối VN-Index chỉ trong 2 phiên giao dịch",
-      "impact": "→",
-      "note": "Đà tăng phụ thuộc vào một vài cổ phiếu trụ khiến chỉ số kém phản ánh sức khỏe thị trường chung."
-    },
-    {
-      "title": "Giá vàng chờ dữ liệu kinh tế Mỹ, chuyên gia chia rẽ về lãi suất Fed",
+      "title": "Doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ, nợ gần 1 tỷ USD",
       "impact": "↓",
-      "note": "Bất định về chính sách Fed có thể gây biến động tỷ giá và dòng vốn ngoại trên thị trường Việt Nam."
+      "note": "Đòn bẩy cao ở nhóm bất động sản làm dấy lại lo ngại chất lượng tài sản và rủi ro trái phiếu."
+    },
+    {
+      "title": "VN-Index tăng 1,14% nhưng chỉ số bị chi phối bởi VIC trong 2 phiên",
+      "impact": "→",
+      "note": "Đà tăng dựa vào vài cổ phiếu trụ và áp lực chốt lời khiến chỉ số kém phản ánh sức khỏe thị trường chung."
     }
   ]
 }
