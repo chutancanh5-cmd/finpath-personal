@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-06",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô hôm nay nghiêng về trung tính khi các thông tin chính sách hỗ trợ đi cùng áp lực giá cả. Điểm sáng đến từ việc sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, liên tục, Luật Phát triển đô thị có hiệu lực từ 1/10 mở dư địa cho bất động sản – hạ tầng, cùng dòng khách quốc tế (đặc biệt khách Nga tăng gần 166%) hỗ trợ nhóm du lịch, hàng không, bán lẻ. Rủi ro ngắn hạn tập trung ở lạm phát: CPI bình quân 8 tháng đã tăng 4,45%, khiến dư địa kiểm soát giá thu hẹp và làm giảm khả năng nới lỏng tiền tệ, gây áp lực lên định giá cổ phiếu. Bên ngoài, thị trường vàng và giới phân tích còn chia rẽ trước ẩn số lãi suất Fed và loạt dữ liệu kinh tế Mỹ tuần tới, dễ tạo biến động dòng vốn. Trong nước, thanh khoản mỏng sau kỳ nghỉ lễ và chỉ số phụ thuộc nhiều vào nhóm vốn hóa lớn như VIC cho thấy độ rộng thị trường còn yếu; nhà đầu tư nên ưu tiên quản trị rủi ro và chọn lọc cổ phiếu hưởng lợi trực tiếp từ chính sách.",
+  "summary_vi": "Thị trường tuần qua chỉ có hai phiên giao dịch do nghỉ lễ nhưng VN-Index vẫn tăng 1,14%, dòng tiền tập trung vào nhóm trụ (đặc biệt VIC) khiến biên độ chỉ số biến động mạnh và tâm lý chốt lời gia tăng. Về chính sách, việc sửa Luật Chứng khoán theo hướng đảm bảo thị trường vận hành ổn định, liên tục và Luật Phát triển đô thị có hiệu lực từ 1/10 là hai lực đỡ trung – dài hạn cho nhóm tài chính – chứng khoán và bất động sản, hạ tầng. Bức tranh vĩ mô nội địa tiếp tục cải thiện nhờ du lịch quốc tế phục hồi mạnh (khách Nga tăng gần 166% sau 8 tháng) và áp lực từ số doanh nghiệp đóng mã số thuế được cơ quan quản lý giải thích chủ yếu là xử lý hồ sơ tồn đọng. Rủi ro ngắn hạn đến từ bên ngoài: giới phân tích chia rẽ về đường đi lãi suất Fed, giá vàng thế giới giảm và loạt dữ liệu kinh tế Mỹ sắp công bố có thể tạo biến động tỷ giá, dòng vốn ngoại; trong nước, sức khỏe tài chính của một số doanh nghiệp bất động sản đòn bẩy cao vẫn là điểm cần theo dõi. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu có nền tảng cơ bản và hạn chế mua đuổi ở vùng giá cao.",
   "top": [
     {
-      "title": "Bộ Tài chính đưa ra hai kịch bản lạm phát, dư địa kiểm soát ngày càng hẹp",
-      "impact": "↓",
-      "note": "CPI bình quân 8 tháng tăng 4,45% làm hẹp dư địa nới lỏng tiền tệ và gây áp lực lên định giá cổ phiếu."
-    },
-    {
-      "title": "Sửa Luật Chứng khoán đảm bảo thị trường hoạt động ổn định, liên tục",
+      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán đảm bảo thị trường ổn định, liên tục",
       "impact": "↑",
       "note": "Hoàn thiện khung pháp lý củng cố niềm tin nhà đầu tư và hỗ trợ tiến trình nâng hạng thị trường."
     },
     {
       "title": "Luật Phát triển đô thị có hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực là lực đẩy cho nhóm bất động sản, xây dựng và vật liệu."
+      "note": "Tăng phân quyền và khơi thông nguồn lực đất đai là chất xúc tác cho nhóm bất động sản, xây dựng, vật liệu."
     },
     {
       "title": "Khách Nga tăng gần 166%, vươn lên top 3 thị trường khách quốc tế",
       "impact": "↑",
-      "note": "Du lịch quốc tế phục hồi mạnh hỗ trợ doanh thu nhóm hàng không, lưu trú và bán lẻ dịch vụ."
+      "note": "Du lịch phục hồi mạnh hỗ trợ doanh thu nhóm hàng không, lưu trú, bán lẻ và bất động sản nghỉ dưỡng."
+    },
+    {
+      "title": "VN-Index tăng 1,14%, nhà đầu tư thận trọng trước áp lực chốt lời",
+      "impact": "→",
+      "note": "Chỉ số tăng nhưng thanh khoản và tâm lý dè dặt cho thấy thị trường cần thời gian tích lũy."
+    },
+    {
+      "title": "VIC chi phối VN-Index chỉ trong 2 phiên giao dịch",
+      "impact": "→",
+      "note": "Đà tăng phụ thuộc vào một vài cổ phiếu trụ khiến chỉ số kém phản ánh sức khỏe thị trường chung."
     },
     {
       "title": "Giá vàng chờ dữ liệu kinh tế Mỹ, chuyên gia chia rẽ về lãi suất Fed",
-      "impact": "→",
-      "note": "Ẩn số chính sách Fed khiến dòng vốn ngoại và tỷ giá khó đoán trong ngắn hạn."
-    },
-    {
-      "title": "VIC chi phối VN-Index trong hai phiên giao dịch ngắn ngủi",
-      "impact": "→",
-      "note": "Chỉ số phụ thuộc vào một vài mã vốn hóa lớn cho thấy độ rộng và thanh khoản thị trường còn yếu."
+      "impact": "↓",
+      "note": "Bất định về chính sách Fed có thể gây biến động tỷ giá và dòng vốn ngoại trên thị trường Việt Nam."
     }
   ]
 }
