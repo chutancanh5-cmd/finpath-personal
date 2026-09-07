@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường mở phiên đầu tuần đầy hưng phấn (+21 điểm) nhưng đảo chiều mạnh, VN-Index đóng cửa mất 31,44 điểm (-1,7%) về 1.821,64 với 458 mã giảm, riêng VIC lấy đi khoảng 18 điểm. Áp lực đến từ cả khối ngoại (bán ròng gần 460 tỷ) lẫn tự doanh (hơn 214 tỷ), cộng thêm rủi ro cơ cấu danh mục ETF tháng 9 và lo ngại tỷ giá khi khả năng Fed nâng lãi suất tăng lên. Mặt vĩ mô vẫn có điểm tựa: Nghị quyết 262/NQ-CP thúc đẩy đa dạng hóa thị trường vốn và cải cách thị trường tài chính, Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản – hạ tầng, ngân hàng hạ lãi suất cho vay mua nhà trên 1%/năm. Nhóm bán lẻ – công nghệ tiếp tục là điểm sáng lợi nhuận với DGW (+80% doanh thu tháng 8) và DMX (+29% sau 8 tháng). Ngắn hạn nên ưu tiên quản trị rủi ro, hạ margin và chờ dòng tiền ngoại ổn định trở lại, tích lũy dần cổ phiếu có nền tảng kinh doanh thực.",
+  "summary_vi": "Thị trường mở phiên đầu tuần đầy hưng phấn nhưng đảo chiều mạnh, VN-Index mất 31,44 điểm (-1,7%) về 1.821,64 với 458 mã giảm, riêng VIC lấy đi khoảng 18 điểm. Dòng tiền lớn đồng loạt rút ra khi khối ngoại bán ròng gần 460 tỷ và tự doanh xả hơn 214 tỷ, cộng thêm áp lực bán cơ học từ kỳ tái cơ cấu ETF tháng 9. Về vĩ mô, rủi ro ngắn hạn đến từ tỷ giá khi khả năng Fed nâng lãi suất tăng lên và dự báo lãi suất thị trường 1 duy trì ở mức cao, làm hẹp dư địa định giá cổ phiếu. Mặt tích cực vẫn còn: tín dụng TP.HCM - Đồng Nai tăng 9%, nhiều ngân hàng hạ lãi vay mua nhà hỗ trợ bất động sản, Chính phủ đẩy mạnh cải cách thị trường vốn và Luật Phát triển đô thị có hiệu lực từ 1/10. Nhà đầu tư nên ưu tiên nhóm có kết quả kinh doanh thực chứng như bán lẻ (DGW, DMX) và hạn chế dùng đòn bẩy cho tới khi dòng tiền ngoại ổn định trở lại.",
   "top": [
     {
-      "title": "VN-Index đảo chiều, mất hơn 31 điểm phiên đầu tuần",
+      "title": "VN-Index mất hơn 31 điểm phiên đầu tuần",
       "impact": "↓",
-      "note": "Chỉ số giảm 1,7% về 1.821,64 với độ rộng tiêu cực áp đảo, VIC một mình lấy đi khoảng 18 điểm."
+      "note": "Đảo chiều từ tăng 21 điểm sang giảm 1,7% với độ rộng thị trường tiêu cực cho thấy áp lực chốt lời lan rộng."
     },
     {
-      "title": "Khối ngoại và tự doanh cùng bán ròng mạnh",
+      "title": "Khối ngoại và tự doanh cùng bán ròng 07/09",
       "impact": "↓",
-      "note": "Nước ngoài rút ròng gần 460 tỷ đồng, tự doanh CTCK xả hơn 214 tỷ đồng, cho thấy dòng tiền lớn đang phòng thủ."
+      "note": "Ngoại rút gần 460 tỷ, tự doanh bán hơn 214 tỷ, dòng tiền dẫn dắt rút lui làm suy yếu lực đỡ chỉ số."
     },
     {
       "title": "Tỷ giá đối mặt phép thử khi khả năng Fed nâng lãi suất tăng",
       "impact": "↓",
-      "note": "Đà giảm USD/VND đầu tháng 9 có thể đảo chiều, gây sức ép lên chính sách tiền tệ và dòng vốn ngoại."
+      "note": "Áp lực tỷ giá quay lại sẽ hạn chế dư địa nới lỏng tiền tệ và kích thích khối ngoại rút vốn."
     },
     {
-      "title": "Dự báo lãi suất duy trì ở mức cao trong các tháng tới",
+      "title": "Dự báo lãi suất duy trì mức cao trong các tháng tới",
       "impact": "↓",
-      "note": "Chi phí vốn cao kéo dài làm giảm sức hấp dẫn của kênh cổ phiếu và bào mòn biên lợi nhuận doanh nghiệp vay nợ."
+      "note": "Chi phí vốn cao bào mòn biên lợi nhuận doanh nghiệp và giảm sức hấp dẫn tương đối của kênh cổ phiếu."
+    },
+    {
+      "title": "Hai quỹ ETF tái cơ cấu, nhiều cổ phiếu bị bán mạnh",
+      "impact": "↓",
+      "note": "Lực bán cơ học trong kỳ review tháng 9 tạo biến động ngắn hạn cho các mã bị giảm tỷ trọng hoặc loại khỏi rổ."
     },
     {
       "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách thị trường tài chính",
       "impact": "↑",
-      "note": "Nghị quyết 262/NQ-CP củng cố kỳ vọng dài hạn về chiều sâu thanh khoản và chất lượng hàng hóa trên TTCK."
-    },
-    {
-      "title": "Hai quỹ ETF tái cơ cấu danh mục kỳ tháng 9/2026",
-      "impact": "→",
-      "note": "Một số mã bị bán mạnh gây biến động ngắn hạn, nhưng tác động chủ yếu mang tính kỹ thuật và tạm thời."
+      "note": "Nghị quyết 262/NQ-CP củng cố kỳ vọng dài hạn về chiều sâu thanh khoản và chuẩn nâng hạng thị trường."
     }
   ]
 }
