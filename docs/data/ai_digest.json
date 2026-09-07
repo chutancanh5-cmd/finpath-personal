@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay nghiêng về yếu tố quốc tế: sức ép chính trị lên Fed trước cuộc họp tuần tới và chênh lệch lợi suất trái phiếu Mỹ - Trung Quốc rộng nhất 20 năm cho thấy rủi ro lãi suất USD và áp lực tỷ giá vẫn treo lơ lửng với dòng vốn ngoại. Trong nước, mặt tích cực đến từ chính sách: Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản - hạ tầng - vật liệu xây dựng, cùng quyết tâm thúc tăng trưởng hai con số ở các địa phương và tiến trình số hóa dịch vụ công của NHNN. Giá vàng miếng và vàng nhẫn giảm mạnh 0,6-1 triệu đồng/lượng có thể giúp một phần dòng tiền quay lại kênh cổ phiếu, trong khi nhóm ngân hàng dẫn dắt vẫn giữ được xu hướng (VPB tăng 15% một tháng, đứng vững trên MA200). Rủi ro ngắn hạn tập trung ở chất lượng tài sản doanh nghiệp: lỗ lớn và đòn bẩy nợ gần 1 tỷ USD tại đối tác của Masterise, lợi nhuận SCOMMERCE giảm 95% sau đợt phát hành trái phiếu đầu tiên — nhắc lại rủi ro trái phiếu doanh nghiệp và bất động sản. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên ngân hàng - đầu tư công - bất động sản khu công nghiệp và hạn chế mã có đòn bẩy nợ cao.",
+  "summary_vi": "Điểm nhấn chính sách trong nước là Nghị quyết 262/NQ-CP ngày 05/9 với yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, cộng thêm Luật Phát triển đô thị có hiệu lực từ 1/10 — hai chất xúc tác trung hạn cho nhóm chứng khoán, ngân hàng, bất động sản và xây dựng - vật liệu. Mặt bên ngoài lại kém thuận: chính quyền Trump gia tăng sức ép lên Fed trước cuộc họp tuần tới trong bối cảnh chênh lệch lợi suất trái phiếu Mỹ - Trung rộng nhất 20 năm, hàm ý lãi suất USD neo cao, áp lực tỷ giá và tâm lý thận trọng của khối ngoại. Dòng tiền nội vẫn có điểm tựa khi giá vàng miếng và vàng nhẫn giảm 0,6-0,8 triệu đồng/lượng, còn nhóm ngân hàng dẫn dắt giữ được xu hướng (VPB tăng 15% sau một tháng, đứng vững trên MA200). Rủi ro ngắn hạn nằm ở chất lượng tài sản doanh nghiệp: đối tác của Masterise lỗ hơn 115 tỷ đồng với nợ phình lên gần 1 tỷ USD và lợi nhuận SCOMMERCE giảm 95% sau đợt phát hành trái phiếu đầu tiên. Chiến lược hợp lý là duy trì tỷ trọng cân bằng, ưu tiên ngân hàng - chứng khoán - đầu tư công và tránh các mã đòn bẩy nợ cao.",
   "top": [
+    {
+      "title": "Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách thị trường tài chính",
+      "impact": "↑",
+      "note": "Định hướng phát triển đồng bộ thị trường vốn củng cố kỳ vọng nâng hạng và hỗ trợ trực tiếp nhóm chứng khoán, ngân hàng."
+    },
     {
       "title": "Trump gia tăng sức ép lên Fed trước cuộc họp tuần tới",
       "impact": "↓",
-      "note": "Bất định chính sách tiền tệ Mỹ và khả năng Fed tăng lãi suất làm tăng áp lực tỷ giá, khiến khối ngoại thận trọng với TTCK VN."
+      "note": "Bất định chính sách tiền tệ Mỹ và rủi ro Fed tăng lãi suất làm tăng áp lực tỷ giá, khiến khối ngoại thận trọng."
     },
     {
       "title": "Chênh lệch lợi suất trái phiếu Mỹ - Trung lớn nhất 20 năm",
       "impact": "↓",
-      "note": "Lợi suất USD neo cao kéo dài gây bất lợi cho dòng vốn vào các thị trường mới nổi và cận biên như Việt Nam."
+      "note": "Lợi suất USD neo cao kéo dài gây bất lợi cho dòng vốn vào các thị trường cận biên như Việt Nam."
     },
     {
       "title": "Luật Phát triển đô thị có hiệu lực từ 1/10",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực đất đai, hỗ trợ trực tiếp nhóm bất động sản, xây dựng và vật liệu."
+      "note": "Tăng phân quyền và khơi thông nguồn lực đất đai, tạo dư địa cho bất động sản, xây dựng và vật liệu."
     },
     {
-      "title": "Giá vàng miếng, vàng nhẫn đồng loạt giảm 0,6-1 triệu đồng/lượng",
+      "title": "Giá vàng miếng, vàng nhẫn đồng loạt giảm 0,6-0,8 triệu đồng/lượng",
       "impact": "↑",
-      "note": "Kênh vàng hạ nhiệt giúp giảm sức hút dòng tiền trú ẩn, tạo điều kiện cho tiền quay lại kênh cổ phiếu."
+      "note": "Kênh trú ẩn hạ nhiệt giúp một phần dòng tiền nội quay lại kênh cổ phiếu."
     },
     {
-      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ, nợ gần 1 tỷ USD",
+      "title": "Masterise-related lỗ 115 tỷ, nợ gần 1 tỷ USD; SCOMMERCE lãi giảm 95%",
       "impact": "↓",
-      "note": "Đòn bẩy nợ phình nhanh trong nhóm bất động sản làm dấy lại lo ngại rủi ro trái phiếu doanh nghiệp."
-    },
-    {
-      "title": "Lợi nhuận SCOMMERCE giảm 95% sau đợt phát hành trái phiếu đầu tiên",
-      "impact": "↓",
-      "note": "Chi phí tài chính bào mòn lợi nhuận cho thấy áp lực dòng tiền ở nhóm doanh nghiệp vay nợ nhiều."
+      "note": "Đòn bẩy nợ phình nhanh và chi phí tài chính bào mòn lợi nhuận làm dấy lại lo ngại rủi ro trái phiếu doanh nghiệp."
     }
   ]
 }
