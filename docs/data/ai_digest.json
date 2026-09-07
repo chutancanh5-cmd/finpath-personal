@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Điểm nghẽn vĩ mô lớn nhất tuần này là lạm phát: CPI bình quân 8 tháng đã tăng 4,45%, buộc Bộ Tài chính xây dựng hai kịch bản điều hành giá, đồng nghĩa dư địa nới lỏng tiền tệ gần như không còn và lãi suất huy động tiếp tục neo cao (ACB 7,8%/năm kỳ hạn 12 tháng, 9 ngân hàng từ 7%/năm trở lên) làm tăng chi phí vốn doanh nghiệp và cạnh tranh trực tiếp với dòng tiền vào cổ phiếu. Về thị trường, VN-Index tăng 1,14% và đã vượt 1.850 điểm để hướng lên vùng đỉnh cũ 1.900, nhưng thanh khoản suy giảm, độ phân hóa cao và khối ngoại vẫn bán ròng nên xu hướng tăng chưa được xác nhận vững chắc. Ở chiều hỗ trợ, định hướng sửa Luật Chứng khoán theo hướng bảo đảm thị trường vận hành ổn định – liên tục, Luật Phát triển đô thị có hiệu lực từ 1/10 và du lịch quốc tế phục hồi mạnh (khách Nga tăng gần 166%, lên top 3) là lực đỡ trung hạn cho bất động sản, xây dựng – hạ tầng và bán lẻ – dịch vụ. Rủi ro ngắn hạn là áp lực chốt lời tại vùng giá cao cùng sức khỏe tài chính của một số doanh nghiệp bất động sản đòn bẩy lớn (đối tác liên quan Masterise lỗ hơn 115 tỷ đồng, nợ gần 1 tỷ USD). Chiến lược hợp lý là hạn chế mua đuổi, giữ tỷ trọng cân bằng và ưu tiên cổ phiếu có nền tảng cơ bản và dòng tiền thực.",
+  "summary_vi": "Bức tranh vĩ mô đang phân hóa: CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa kiểm soát lạm phát còn rất hẹp, trong khi lãi suất huy động 12 tháng tại nhiều ngân hàng đã lên 7-7,8%/năm — cả hai đều làm tăng chi phí vốn và giảm sức hấp dẫn tương đối của kênh cổ phiếu. Ở chiều tích cực, VN-Index đã vượt 1.850 điểm và hướng về đỉnh cũ 1.900, cùng lực đẩy từ Luật Phát triển đô thị hiệu lực 1/10 (hỗ trợ bất động sản, hạ tầng, vật liệu xây dựng) và du lịch quốc tế phục hồi mạnh. Tuy nhiên rủi ro ngắn hạn khá rõ: thanh khoản suy giảm, độ phân hóa cao, khối ngoại tiếp tục bán ròng và áp lực chốt lời tại vùng điểm cao. Số liệu lạm phát Mỹ tuần này là ẩn số cho kỳ vọng lãi suất Fed, tỷ giá và dòng vốn ngoại. Chiến lược hợp lý là hạ tỷ trọng đòn bẩy, ưu tiên cổ phiếu có nền tảng cơ bản và tránh nhóm bất động sản đòn bẩy nợ cao.",
   "top": [
     {
-      "title": "Bộ Tài chính đưa ra hai kịch bản lạm phát, dư địa kiểm soát ngày càng hẹp",
+      "title": "Bộ Tài chính: CPI 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát hẹp dần",
       "impact": "↓",
-      "note": "CPI bình quân 8 tháng tăng 4,45% thu hẹp khả năng nới lỏng tiền tệ và gây sức ép lên mặt bằng định giá cổ phiếu."
+      "note": "Lạm phát sát trần mục tiêu làm giảm khả năng nới lỏng chính sách tiền tệ, gây áp lực lên định giá cổ phiếu."
     },
     {
-      "title": "Lãi suất huy động neo cao, 9 ngân hàng niêm yết từ 7%/năm trở lên",
+      "title": "Lãi suất huy động 12 tháng lên tới 7,8%/năm, 9 ngân hàng trên 7%",
       "impact": "↓",
-      "note": "Kênh tiền gửi lãi suất cao hút bớt dòng tiền khỏi chứng khoán và đẩy chi phí vốn doanh nghiệp lên."
+      "note": "Mặt bằng lãi suất tiết kiệm cao hút dòng tiền khỏi chứng khoán và đẩy chi phí vốn doanh nghiệp lên."
     },
     {
-      "title": "Doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ đồng, nợ gần 1 tỷ USD",
-      "impact": "↓",
-      "note": "Đòn bẩy tăng vọt ở nhóm bất động sản làm dấy lại lo ngại về chất lượng tài sản và rủi ro trái phiếu."
-    },
-    {
-      "title": "Chứng khoán hướng đỉnh cũ 1.900 nhưng thanh khoản giảm, khối ngoại bán ròng",
+      "title": "VN-Index vượt 1.850 hướng đỉnh cũ 1.900 nhưng thanh khoản yếu, khối ngoại bán ròng",
       "impact": "→",
-      "note": "Xu hướng tăng còn nguyên nhưng dòng tiền yếu và phân hóa cao khiến rủi ro rung lắc ngắn hạn tăng lên."
+      "note": "Xu hướng kỹ thuật vẫn tăng song dòng tiền mỏng và bán ròng ngoại khiến đà tăng thiếu bền vững."
     },
     {
-      "title": "Phó Thủ tướng: Sửa Luật Chứng khoán phải bảo đảm thị trường ổn định, liên tục",
+      "title": "Luật Phát triển đô thị có hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Khung pháp lý đồng bộ, quy định chuyển tiếp rõ ràng củng cố niềm tin nhà đầu tư và tiến trình nâng hạng."
+      "note": "Tăng phân quyền và khơi thông nguồn lực đất đai hỗ trợ nhóm bất động sản, hạ tầng và vật liệu xây dựng."
     },
     {
-      "title": "Luật Phát triển đô thị hiệu lực từ 1/10, mở dư địa hình thành cực tăng trưởng mới",
-      "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực đô thị hỗ trợ triển vọng nhóm bất động sản, xây dựng và vật liệu."
+      "title": "Số liệu lạm phát Mỹ tuần này có thể tạo biến động lớn cho vàng và kỳ vọng lãi suất Fed",
+      "impact": "→",
+      "note": "Kết quả CPI Mỹ sẽ chi phối USD, tỷ giá VND và dòng vốn ngoại vào thị trường Việt Nam theo cả hai chiều."
+    },
+    {
+      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ đồng, gánh nợ gần 1 tỷ USD",
+      "impact": "↓",
+      "note": "Đòn bẩy nợ phình to ở nhóm bất động sản làm dấy lại lo ngại rủi ro trái phiếu và chất lượng tín dụng ngân hàng."
     }
   ]
 }
