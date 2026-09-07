@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-07",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường quay đầu điều chỉnh khi VN-Index lùi về vùng 1.839 điểm (-0,75% trong phiên sáng) cùng lực bán ròng gần 500 tỷ đồng của khối ngoại, cho thấy tâm lý thận trọng sau nhịp tăng dài. Rủi ro ngắn hạn tập trung ở yếu tố bên ngoài: khả năng Fed nâng lãi suất trở lại tạo phép thử cho đà hạ nhiệt của tỷ giá USD/VND, trong khi Yuanta dự báo lãi suất thị trường 1 tiếp tục duy trì mức cao do áp lực cân đối vốn trung - dài hạn. Bù lại, thanh khoản hệ thống đang dồi dào khi lãi suất liên ngân hàng giảm tới 1,4 điểm % và NHNN bơm ròng hơn 5.600 tỷ đồng, còn Nghị quyết 262/NQ-CP về đa dạng hóa thị trường vốn cùng Luật Phát triển đô thị hiệu lực từ 1/10 mở ra câu chuyện chính sách trung hạn cho nhóm chứng khoán, ngân hàng và bất động sản. Giá vàng trong nước giảm sâu hai phiên liên tiếp cũng có thể giúp dòng tiền quay lại kênh cổ phiếu. Nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản, hạn chế đòn bẩy và lưu ý biến động kỹ thuật trong kỳ tái cơ cấu ETF tháng 9.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chịu áp lực bán mạnh ở nhóm trụ, VN-Index mất 1,7% (-31,44 điểm) — phiên giảm sâu nhất 13 phiên, cho thấy tâm lý chốt lời ngắn hạn đang chiếm ưu thế. Mặt tích cực đến từ thanh khoản hệ thống: lãi suất liên ngân hàng giảm tới 1,4 điểm %, NHNN bơm ròng hơn 5.625 tỷ đồng và tỷ giá USD/VND hạ nhiệt, cùng với Nghị quyết 262/NQ-CP thúc đẩy đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính. Tuy nhiên rủi ro ngắn hạn còn lớn: khả năng Fed nâng lãi suất tạo phép thử cho tỷ giá trong tháng 9, trong khi lãi suất thị trường 1 được dự báo duy trì ở mức cao do áp lực cân đối vốn trung–dài hạn, gây sức ép lên NIM ngân hàng và chi phí vốn doanh nghiệp. Kỳ tái cơ cấu ETF tháng 9 (VanEck) cũng có thể tạo nhiễu động cung–cầu ở một số mã trong ngắn hạn. Chiến lược hợp lý là giữ tỷ trọng thận trọng, ưu tiên cổ phiếu có nền tảng cơ bản tốt và hưởng lợi từ dòng vốn rẻ, chờ tín hiệu cân bằng trở lại.",
   "top": [
     {
-      "title": "VN-Index quay đầu giảm 0,75% về 1.839 điểm, HNX-Index mất 0,5%",
+      "title": "VN-Index giảm 1,7%, mạnh nhất 13 phiên",
       "impact": "↓",
-      "note": "Áp lực chốt lời lan rộng khiến chỉ số lùi dưới tham chiếu, phản ánh tâm lý thận trọng sau giai đoạn tăng nóng."
+      "note": "Áp lực bán lan rộng ở nhóm trụ, đóng cửa mức thấp nhất ngày cho thấy tâm lý thị trường yếu."
     },
     {
-      "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài khi khả năng Fed nâng lãi suất tăng lên",
+      "title": "Fed có khả năng nâng lãi suất, tỷ giá đối mặt phép thử tháng 9",
       "impact": "↓",
-      "note": "USD mạnh trở lại có thể chặn đà hạ nhiệt của tỷ giá và kích hoạt thêm dòng vốn ngoại rút ra."
+      "note": "Rủi ro đảo chiều dòng vốn ngoại và áp lực tỷ giá quay lại nếu chênh lệch lãi suất USD–VND nới rộng."
     },
     {
-      "title": "Yuanta dự báo lãi suất thị trường 1 duy trì ở mức cao",
-      "impact": "↓",
-      "note": "Chi phí vốn cao kéo dài làm giảm sức hấp dẫn định giá cổ phiếu và bào mòn biên lợi nhuận doanh nghiệp vay nợ nhiều."
-    },
-    {
-      "title": "Khối ngoại bán ròng gần 500 tỷ đồng trong phiên VN-Index giảm sâu",
-      "impact": "↓",
-      "note": "Dòng vốn ngoại tiếp tục rút ra tạo thêm sức ép lên nhóm vốn hóa lớn, dù HDB vẫn được mua ròng."
-    },
-    {
-      "title": "Lãi suất liên ngân hàng giảm 1,4 điểm %, NHNN bơm ròng hơn 5.600 tỷ đồng",
+      "title": "Lãi suất liên ngân hàng giảm mạnh, NHNN bơm ròng 5.625 tỷ đồng",
       "impact": "↑",
-      "note": "Thanh khoản hệ thống dồi dào hơn là lực đỡ cho dòng tiền và giảm áp lực chi phí vốn ngắn hạn."
+      "note": "Thanh khoản hệ thống dồi dào và tỷ giá hạ nhiệt là nền hỗ trợ cho dòng tiền vào chứng khoán."
     },
     {
-      "title": "Chính phủ ban hành Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
+      "title": "Dự báo lãi suất thị trường 1 duy trì ở mức cao",
+      "impact": "↓",
+      "note": "Chi phí vốn cao kéo dài gây sức ép lên biên lợi nhuận doanh nghiệp và định giá cổ phiếu."
+    },
+    {
+      "title": "Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách thị trường tài chính",
       "impact": "↑",
-      "note": "Định hướng chính sách trung hạn hỗ trợ chiều sâu thị trường vốn và triển vọng nâng hạng, tích cực cho nhóm chứng khoán - ngân hàng."
+      "note": "Định hướng chính sách trung hạn củng cố kỳ vọng nâng hạng và mở rộng kênh huy động vốn."
+    },
+    {
+      "title": "Kỳ tái cơ cấu ETF tháng 9: VanEck giảm danh mục từ 55 về 54 mã",
+      "impact": "→",
+      "note": "Tác động chủ yếu mang tính kỹ thuật, gây biến động cung–cầu cục bộ ở vài mã chứ không đổi xu hướng chung."
     }
   ]
 }
