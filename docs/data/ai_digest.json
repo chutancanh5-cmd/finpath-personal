@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Điều kiện tiền tệ đang là điểm tựa chính khi lãi suất VND liên ngân hàng giảm tới 1,4 điểm %, NHNN bơm ròng hơn 5.625 tỷ đồng và tỷ giá USD/VND cùng hạ nhiệt — nền thanh khoản rẻ này thường hỗ trợ định giá nhóm ngân hàng, chứng khoán và bất động sản. Ở tầng chính sách, Nghị quyết 262/NQ-CP về đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính cùng Luật Phát triển đô thị hiệu lực từ 1/10 củng cố câu chuyện trung hạn cho hạ tầng, đô thị và tiến trình nâng hạng. Ngược lại, diễn biến giá đang xấu trong ngắn hạn: VN-Index thất bại trước vùng 1.880 điểm, quay đầu giảm 13,92 điểm (-0,75%) về 1.839,16 với áp lực bán lan rộng, cho thấy cầu chưa đủ mạnh tại vùng kháng cự. Rủi ro vi mô vẫn hiện diện qua trường hợp doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ đồng nửa đầu năm và tổng nợ phình lên gần 1 tỷ USD, nhắc lại vấn đề đòn bẩy của khối bất động sản. Chiến lược hợp lý là ưu tiên cổ phiếu có nền tảng cơ bản và dòng tiền thực, hạ tỷ trọng margin cho tới khi chỉ số xác nhận lại xu hướng.",
+  "summary_vi": "Nền tảng vĩ mô đang khá thuận lợi: lãi suất VND liên ngân hàng giảm tới 1,4 điểm %, NHNN bơm ròng hơn 5.625 tỷ đồng và tỷ giá USD/VND hạ nhiệt — thanh khoản rẻ thường hỗ trợ định giá nhóm ngân hàng, chứng khoán và bất động sản. Ở tầng chính sách, Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, cùng Luật Phát triển đô thị hiệu lực từ 1/10, củng cố câu chuyện trung hạn cho hạ tầng, đô thị và tiến trình nâng hạng. Tuy nhiên diễn biến giá ngắn hạn lại xấu: VN-Index thất bại trước vùng 1.880 điểm, giảm 13,92 điểm (-0,75%) về 1.839,16 với áp lực bán lan rộng, cho thấy cầu chưa đủ mạnh tại kháng cự. Giá vàng trong nước giảm hai phiên liên tiếp nhưng vẫn cao hơn thế giới 6-8 triệu đồng/lượng, nên dòng tiền chưa chắc dịch chuyển mạnh sang cổ phiếu. Chiến lược hợp lý là ưu tiên cổ phiếu nền tảng cơ bản tốt, hạn chế dùng margin và chờ chỉ số xác nhận lại xu hướng trên vùng 1.880.",
   "top": [
     {
       "title": "Lãi suất liên ngân hàng giảm mạnh, NHNN bơm ròng hơn 5.600 tỷ đồng",
@@ -10,9 +10,9 @@
       "note": "Chi phí vốn ngắn hạn rẻ đi và tỷ giá hạ nhiệt tạo dư địa cho dòng tiền quay lại kênh cổ phiếu."
     },
     {
-      "title": "VN-Index điều chỉnh diện rộng, thất bại sát mốc 1.880 điểm",
+      "title": "Thị trường điều chỉnh diện rộng, VN-Index thất bại sát mốc 1.880 điểm",
       "impact": "↓",
-      "note": "Chỉ số giảm 0,75% về 1.839 điểm với độ rộng tiêu cực, phản ánh áp lực chốt lời tại vùng kháng cự."
+      "note": "Áp lực bán mạnh ngay sau mở cửa ép chỉ số đóng cửa phiên sáng ở mức thấp nhất, độ rộng tiêu cực."
     },
     {
       "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
@@ -25,9 +25,9 @@
       "note": "Tăng phân quyền giúp khơi thông pháp lý dự án, có lợi cho bất động sản, xây dựng và vật liệu."
     },
     {
-      "title": "Doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ đồng, nợ gần 1 tỷ USD",
+      "title": "Nhịp đập thị trường 07/09: VN-Index giảm 13,92 điểm về 1.839, HNX-Index mất 0,5%",
       "impact": "↓",
-      "note": "Tài sản tăng vọt nhờ vay nợ làm dấy lên lo ngại rủi ro tín dụng và trái phiếu bất động sản."
+      "note": "Cả hai sàn cùng lùi dưới tham chiếu, xác nhận nhịp điều chỉnh chưa dừng trong ngắn hạn."
     },
     {
       "title": "Vàng miếng, vàng nhẫn đồng loạt giảm; chênh lệch với thế giới 6-8 triệu đồng/lượng",
