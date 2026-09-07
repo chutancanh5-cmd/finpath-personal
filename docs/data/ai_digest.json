@@ -2,27 +2,27 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Phiên đầu tuần đảo chiều mạnh khi VN-Index mất 31,44 điểm (-1,7%) về 1.821,64 điểm với 458 mã giảm, VIC lấy đi khoảng 18 điểm, khối ngoại quay lại bán ròng và tự doanh CTCK bán ròng 210 tỷ đồng trên HoSE. Rủi ro ngắn hạn tập trung ở mặt bằng lãi suất: tỷ giá USD/VND đối mặt phép thử từ khả năng Fed nâng lãi suất, trong khi Yuanta dự báo lãi suất thị trường 1 duy trì ở mức cao do áp lực cân đối vốn trung – dài hạn, cộng thêm lực bán cơ học từ kỳ cơ cấu ETF tháng 9. Ở chiều tích cực, chính sách vẫn là điểm tựa trung hạn với Nghị quyết 262/NQ-CP về đa dạng hóa thị trường vốn và cải cách thị trường tài chính, Luật Phát triển đô thị hiệu lực từ 1/10, cùng việc nhiều ngân hàng hạ lãi suất cho vay mua nhà hơn 1%/năm — hỗ trợ nhóm chứng khoán, bất động sản và xây dựng. Nền tảng doanh nghiệp chưa xấu đi, minh chứng là DMX đạt 87 ngàn tỷ doanh thu sau 8 tháng (+29% cùng kỳ). Chiến lược hợp lý là hạ đòn bẩy, ưu tiên cổ phiếu có kết quả kinh doanh thực và chờ tỷ giá cùng dòng tiền ngoại ổn định trở lại trước khi tăng tỷ trọng.",
+  "summary_vi": "Phiên đầu tuần đảo chiều mạnh: VN-Index mất 31,44 điểm (-1,7%) về 1.821,64 điểm với 458 mã giảm, riêng VIC giảm 4,3% lấy đi khoảng 18 điểm và khối ngoại quay lại bán ròng. Rủi ro ngắn hạn tập trung ở chi phí vốn và dòng tiền ngoại: tỷ giá USD/VND đứng trước phép thử khi khả năng Fed nâng lãi suất tăng lên, Yuanta dự báo lãi suất thị trường 1 duy trì mức cao do áp lực cân đối vốn trung – dài hạn, cộng thêm lực bán cơ học từ kỳ cơ cấu ETF tháng 9. Ở chiều tích cực, chính sách vẫn là điểm tựa trung hạn với Nghị quyết 262/NQ-CP về đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, Luật Phát triển đô thị hiệu lực từ 1/10, cùng việc nhiều ngân hàng hạ lãi suất cho vay mua nhà hơn 1%/năm — hỗ trợ nhóm chứng khoán, ngân hàng, bất động sản và xây dựng. Nền tảng doanh nghiệp chưa xấu đi, điển hình là DMX đạt hơn 87 ngàn tỷ doanh thu sau 8 tháng (+29% cùng kỳ). Chiến lược hợp lý là hạ đòn bẩy, ưu tiên cổ phiếu có kết quả kinh doanh thực và chờ tỷ giá cùng dòng vốn ngoại ổn định trở lại trước khi tăng tỷ trọng.",
   "top": [
     {
       "title": "VN-Index giảm 31,44 điểm (-1,7%), khối ngoại bán ròng trở lại",
       "impact": "↓",
-      "note": "Đảo chiều từ tăng 21 điểm sang giảm sâu với độ rộng 458 mã đỏ cho thấy tâm lý thị trường yếu."
+      "note": "Đảo chiều từ tăng hơn 21 điểm sang giảm sâu với 458 mã đỏ cho thấy tâm lý thị trường yếu."
     },
     {
-      "title": "Tỷ giá USD/VND đối mặt phép thử từ bên ngoài trong tháng 9",
+      "title": "Tỷ giá USD/VND đối mặt nhiều phép thử từ bên ngoài trong tháng 9",
       "impact": "↓",
       "note": "Khả năng Fed nâng lãi suất có thể chặn đà giảm tỷ giá và duy trì áp lực rút vốn khối ngoại."
     },
     {
-      "title": "Yuanta dự báo lãi suất duy trì ở mức cao trong các tháng tới",
+      "title": "Yuanta dự báo lãi suất duy trì ở mức cao trong thời gian tới",
       "impact": "↓",
       "note": "Chi phí vốn cao kéo dài làm co định giá cổ phiếu và tăng sức hấp dẫn của kênh tiền gửi."
     },
     {
-      "title": "Hai quỹ ETF cơ cấu danh mục tháng 9, nhiều mã bị bán mạnh",
+      "title": "Hai quỹ ETF cơ cấu danh mục tháng 9, nhiều cổ phiếu bị bán mạnh",
       "impact": "↓",
-      "note": "Lực bán cơ học từ VanEck Vietnam ETF (AUM 13.658 tỷ) đè lên các mã bị hạ tỷ trọng hoặc loại rổ."
+      "note": "Lực bán cơ học từ VanEck Vietnam ETF (AUM 13.658 tỷ đồng) đè lên các mã bị hạ tỷ trọng hoặc loại rổ."
     },
     {
       "title": "Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
