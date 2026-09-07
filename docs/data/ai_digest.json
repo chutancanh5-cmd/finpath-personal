@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index tăng 1,14% tuần qua và đã vượt 1.850 điểm, đang hướng về vùng đỉnh cũ 1.900 điểm — xu hướng kỹ thuật vẫn tích cực. Tuy nhiên thanh khoản suy giảm, độ phân hóa cao và khối ngoại tiếp tục bán ròng cho thấy dòng tiền chưa đủ mạnh để xác nhận nhịp bứt phá, trong khi áp lực chốt lời tại vùng điểm cao là rủi ro ngắn hạn rõ rệt. Ẩn số lớn nhất tuần này đến từ số liệu lạm phát Mỹ, có thể đảo chiều kỳ vọng lãi suất Fed và tác động lên tỷ giá, giá vàng cùng dòng vốn ngoại. Ở mặt hỗ trợ, Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản và hạ tầng, cùng quyết tâm thúc đẩy tăng trưởng hai con số và du lịch quốc tế phục hồi mạnh. Nhà đầu tư nên ưu tiên chọn lọc cổ phiếu có nền tảng cơ bản, hạn chế mua đuổi và theo dõi sát rủi ro đòn bẩy của nhóm bất động sản.",
+  "summary_vi": "Thị trường bước vào tuần mới với tâm lý khá tích cực khi VN-Index tăng 1,14%, vượt 1.850 điểm sau khi giữ vững hỗ trợ 1.800 và đang hướng về vùng đỉnh cũ 1.900 điểm. Tuy nhiên chất lượng của nhịp tăng còn dấu hỏi: thanh khoản suy giảm, độ phân hóa cao và khối ngoại tiếp tục bán ròng, khiến áp lực chốt lời tại vùng giá cao là rủi ro ngắn hạn rõ nhất. Bên ngoài, số liệu lạm phát Mỹ công bố tuần này sẽ định hình kỳ vọng lãi suất Fed, tác động tới tỷ giá, giá vàng và dòng vốn ngoại vào Việt Nam. Trong nước, Luật Phát triển đô thị có hiệu lực từ 1/10 mở dư địa cho bất động sản và hạ tầng, cùng sức ép hoàn thành mục tiêu tăng trưởng hai con số ở các địa phương hỗ trợ nhóm đầu tư công, xây dựng, du lịch. Ngược lại, thông tin doanh nghiệp bất động sản liên quan Masterise thua lỗ và gánh nợ gần 1 tỷ USD nhắc lại rủi ro đòn bẩy và trái phiếu của ngành, nên ưu tiên chọn lọc cổ phiếu có nền tảng cơ bản thay vì mua đuổi.",
   "top": [
     {
-      "title": "VN-Index vượt 1.850 điểm, hướng đỉnh cũ 1.900 nhưng thanh khoản yếu",
+      "title": "VN-Index tăng 1,14%, nhà đầu tư thận trọng trước áp lực chốt lời",
+      "impact": "↑",
+      "note": "Đà tăng được duy trì nhưng vùng giá cao khiến áp lực chốt lời gia tăng."
+    },
+    {
+      "title": "Chứng khoán hướng đỉnh cũ 1.900, thanh khoản suy giảm và khối ngoại bán ròng",
       "impact": "→",
-      "note": "Xu hướng tăng còn nguyên nhưng thanh khoản giảm và khối ngoại bán ròng khiến đà bứt phá thiếu xác nhận."
+      "note": "Xu hướng còn tích cực song dòng tiền yếu và bán ròng ngoại làm giảm độ tin cậy của nhịp tăng."
     },
     {
       "title": "Số liệu lạm phát Mỹ có thể gây biến động giá vàng và kỳ vọng lãi suất Fed",
-      "impact": "↓",
-      "note": "Lạm phát Mỹ cao hơn dự báo sẽ củng cố kịch bản Fed thắt chặt, gây áp lực lên tỷ giá và dòng vốn ngoại vào TTCK VN."
-    },
-    {
-      "title": "Chuyên gia cảnh báo 'tín hiệu lạ' khi VN-Index ở vùng điểm cao",
-      "impact": "↓",
-      "note": "Định giá đã cao khiến rủi ro chốt lời và điều chỉnh ngắn hạn gia tăng."
+      "impact": "→",
+      "note": "Kết quả CPI Mỹ sẽ chi phối tỷ giá và dòng vốn ngoại, tạo biến động khó đoán trong tuần."
     },
     {
       "title": "Luật Phát triển đô thị có hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực, hỗ trợ nhóm bất động sản, xây dựng, vật liệu và hạ tầng."
+      "note": "Tăng phân quyền và khơi thông nguồn lực hỗ trợ nhóm bất động sản, xây dựng, vật liệu và hạ tầng."
     },
     {
-      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ, nợ gần 1 tỷ USD",
+      "title": "Doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ đồng, nợ gần 1 tỷ USD",
       "impact": "↓",
-      "note": "Đòn bẩy phình to ở nhóm bất động sản làm dấy lên lo ngại chất lượng tài sản và rủi ro tín dụng ngân hàng."
+      "note": "Cảnh báo rủi ro đòn bẩy và trái phiếu bất động sản, ảnh hưởng tâm lý với nhóm địa ốc và ngân hàng cho vay."
     },
     {
       "title": "Khách Nga tăng gần 166%, vươn lên top 3 thị trường khách quốc tế",
       "impact": "↑",
-      "note": "Du lịch quốc tế phục hồi mạnh hỗ trợ doanh thu nhóm hàng không, lưu trú, bán lẻ và bất động sản nghỉ dưỡng."
+      "note": "Du lịch phục hồi mạnh hỗ trợ doanh thu nhóm hàng không, lưu trú, bán lẻ và bất động sản nghỉ dưỡng."
     }
   ]
 }
