@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Phiên đầu tuần 07/09 chứng kiến VN-Index đảo chiều mạnh, mất 31,44 điểm (-1,7%) về 1.821,64 khi áp lực bán lan rộng với 458 mã giảm, riêng VIC lấy đi khoảng 18 điểm. Dòng tiền lớn quay đầu bất lợi: khối ngoại bán ròng gần 460 tỷ đồng và tự doanh CTCK xả hơn 214 tỷ đồng, cho thấy tâm lý thận trọng trước vùng kháng cự sau giai đoạn tăng nóng. Rủi ro ngắn hạn đến từ bên ngoài khi khả năng Fed nâng lãi suất tăng lên, đe dọa đảo chiều đà giảm của tỷ giá USD/VND và gây sức ép lên dòng vốn ngoại; áp lực trái phiếu bất động sản (trường hợp Aqua City lỗ, dời hạn bổ sung tài sản bảo đảm) vẫn là điểm nghẽn chưa gỡ. Mặt tích cực vẫn còn: Chính phủ ra Nghị quyết 262/NQ-CP thúc đẩy đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, tín dụng TP.HCM - Đồng Nai tăng 9% từ đầu năm, cùng Luật Phát triển đô thị hiệu lực 1/10 mở dư địa cho nhóm bất động sản - hạ tầng. Nhà đầu tư nên ưu tiên quản trị rủi ro, hạn chế dùng đòn bẩy và chọn lọc cổ phiếu có kết quả kinh doanh thực sự cải thiện như DGW, nhóm ngân hàng đa dạng hóa nguồn thu.",
+  "summary_vi": "Thị trường bước vào phiên 08/09 với tâm lý yếu sau khi VN-Index mất 31,44 điểm (-1,7%) về 1.821,64 trong phiên 07/09, độ rộng nghiêng hẳn về phía giảm với 458 mã đỏ và các công ty chứng khoán đều cảnh báo áp lực bán gia tăng trước vùng kháng cự. Dòng tiền lớn là điểm trừ rõ nhất khi khối ngoại rút ròng gần 460 tỷ đồng và tự doanh CTCK bán hơn 214 tỷ đồng, làm mỏng lực đỡ cho nhịp điều chỉnh. Rủi ro ngắn hạn chủ yếu đến từ bên ngoài: khả năng Fed nâng lãi suất khiến đà giảm của tỷ giá USD/VND đầu tháng 9 có thể đảo chiều, thu hẹp dư địa nới lỏng tiền tệ và kích thích bán ròng ngoại; cùng với đó, sức khỏe tài chính nhóm bất động sản vẫn yếu khi chủ đầu tư Aqua City lỗ hơn 120 tỷ và tiếp tục dời hạn bổ sung tài sản bảo đảm lô trái phiếu 500 tỷ sang 2027. Mặt tích cực nằm ở chính sách và nền tảng cơ bản: Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, tín dụng TP.HCM - Đồng Nai đạt 6,329 triệu tỷ đồng (+9% từ đầu năm), Luật Phát triển đô thị hiệu lực 1/10 mở dư địa cho bất động sản - hạ tầng, trong khi DGW báo doanh thu tháng 8 tăng hơn 80%. Chiến lược hợp lý là hạ đòn bẩy, giữ tỷ trọng vừa phải và chỉ giải ngân chọn lọc vào cổ phiếu có kết quả kinh doanh cải thiện thực sự.",
   "top": [
     {
-      "title": "VN-Index giảm hơn 31 điểm phiên đầu tuần, về 1.821,64",
+      "title": "VN-Index giảm mạnh, áp lực bán gia tăng trước kháng cự",
       "impact": "↓",
-      "note": "Đảo chiều mạnh từ mức tăng 21 điểm đầu phiên với 458 mã giảm cho thấy áp lực chốt lời và tâm lý yếu tại vùng kháng cự."
+      "note": "Chỉ số mất 31,44 điểm về 1.821,64 với 458 mã giảm, xác nhận nhịp điều chỉnh và tâm lý thận trọng tại vùng kháng cự."
     },
     {
-      "title": "Khối ngoại bán ròng gần 460 tỷ, tự doanh xả hơn 214 tỷ",
+      "title": "Khối ngoại và tự doanh cùng xả trong phiên giảm 31 điểm",
       "impact": "↓",
-      "note": "Dòng tiền lớn đồng loạt rút ra làm suy giảm lực đỡ cho thị trường trong các phiên tới."
+      "note": "Ngoại rút ròng gần 460 tỷ và tự doanh bán hơn 214 tỷ khiến lực cầu đỡ giá suy yếu rõ rệt."
     },
     {
-      "title": "Tỷ giá đối mặt phép thử khi khả năng Fed nâng lãi suất tăng",
+      "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài trong tháng 9",
       "impact": "↓",
-      "note": "Áp lực tỷ giá quay lại sẽ hạn chế dư địa nới lỏng tiền tệ và kích thích bán ròng của khối ngoại."
+      "note": "Khả năng Fed nâng lãi suất có thể đảo chiều đà giảm USD/VND, gây sức ép lên dòng vốn ngoại và chính sách tiền tệ."
     },
     {
-      "title": "Chính phủ ban hành Nghị quyết 262/NQ-CP cải cách thị trường vốn",
+      "title": "Chủ đầu tư Aqua City lỗ hơn 120 tỷ, dời hạn tài sản bảo đảm trái phiếu sang 2027",
+      "impact": "↓",
+      "note": "Rủi ro thanh khoản trái phiếu bất động sản chưa được gỡ, tiếp tục đè nặng định giá nhóm địa ốc."
+    },
+    {
+      "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách thị trường tài chính (NQ 262)",
       "impact": "↑",
-      "note": "Định hướng đa dạng hóa và phát triển đồng bộ thị trường tài chính hỗ trợ triển vọng dài hạn cho chứng khoán và ngân hàng."
+      "note": "Định hướng phát triển đồng bộ thị trường vốn hỗ trợ triển vọng trung - dài hạn cho chứng khoán và ngân hàng."
     },
     {
-      "title": "Tín dụng TP.HCM và Đồng Nai đạt 6,329 triệu tỷ, tăng 9%",
+      "title": "Tín dụng TP.HCM và Đồng Nai đạt 6,329 triệu tỷ đồng, tăng 9%",
       "impact": "↑",
-      "note": "Tăng trưởng tín dụng tại vùng kinh tế trọng điểm phản ánh cầu vốn phục hồi, tích cực cho nhóm ngân hàng."
-    },
-    {
-      "title": "Chủ đầu tư Aqua City lỗ 121 tỷ, dời hạn bảo đảm trái phiếu sang 2027",
-      "impact": "↓",
-      "note": "Nhắc lại rủi ro thanh khoản trái phiếu bất động sản, tiếp tục đè nặng định giá nhóm địa ốc."
+      "note": "Cầu vốn tại vùng kinh tế trọng điểm phục hồi, tích cực cho tăng trưởng lợi nhuận nhóm ngân hàng."
     }
   ]
 }
