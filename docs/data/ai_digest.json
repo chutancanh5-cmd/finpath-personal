@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Phiên 7/9 chứng kiến áp lực bán lan rộng ở nhóm cổ phiếu trụ, VN-Index thất bại tại vùng 1.880 điểm và đóng cửa thấp nhất ngày với mức giảm 1,7% (-31,44 điểm) — biên độ mạnh nhất trong 13 phiên. Rủi ro ngắn hạn chủ yếu đến từ bên ngoài: khả năng Fed duy trì lập trường thắt chặt tạo phép thử cho tỷ giá USD/VND trong tháng 9, trong khi căng thẳng Mỹ - Iran tại eo biển Hormuz đẩy giá dầu tăng, làm dấy lên lo ngại lạm phát nhập khẩu và chi phí đầu vào. Ở chiều hỗ trợ, thanh khoản nội địa vẫn dồi dào khi lãi suất VND liên ngân hàng giảm tới 1,4 điểm % và NHNN bơm ròng hơn 5.600 tỷ đồng; Nghị quyết 262/NQ-CP về đa dạng hóa thị trường vốn cùng Luật Phát triển đô thị hiệu lực từ 1/10 là lực đỡ chính sách trung - dài hạn cho nhóm tài chính và bất động sản. Tuy nhiên, danh sách cắt margin của HoSE mở rộng lên 69 mã cho thấy dòng tiền đòn bẩy sẽ chọn lọc hơn, còn vàng giảm sâu và duy trì chênh lệch 6-8 triệu đồng/lượng so với thế giới có thể giải phóng một phần dòng tiền sang chứng khoán. Chiến lược hợp lý là hạ đòn bẩy, ưu tiên cổ phiếu đầu ngành có nền tảng cơ bản và chờ chỉ số cân bằng lại quanh vùng hỗ trợ.",
+  "summary_vi": "Thị trường chịu áp lực bán mạnh ở nhóm trụ, VN-Index mất 1,7% (-31,44 điểm) — mức giảm sâu nhất 13 phiên. Rủi ro ngắn hạn đến chủ yếu từ bên ngoài: khả năng Fed thắt chặt trở lại gây sức ép lên tỷ giá USD/VND, trong khi giá dầu tăng mạnh do căng thẳng Mỹ - Iran tại eo biển Hormuz làm gia tăng lo ngại lạm phát nhập khẩu. Trong nước, dự báo lãi suất thị trường 1 duy trì ở mức cao và danh sách cắt margin nới lên 69 mã là những yếu tố kìm hãm dòng tiền đầu cơ. Điểm tựa là thanh khoản hệ thống dồi dào (lãi suất liên ngân hàng giảm 1,4 điểm %, NHNN bơm ròng hơn 5.600 tỷ đồng) cùng định hướng cải cách, đa dạng hóa thị trường vốn tại Nghị quyết 262/NQ-CP. Nhà đầu tư nên ưu tiên quản trị rủi ro, hạ tỷ trọng đòn bẩy và chờ tín hiệu cân bằng thay vì bắt đáy sớm.",
   "top": [
     {
-      "title": "VN-Index giảm 1,7%, mạnh nhất 13 phiên do nhóm trụ lao dốc",
+      "title": "VN-Index giảm 1,7%, mạnh nhất 13 phiên do cổ phiếu trụ lao dốc",
       "impact": "↓",
-      "note": "Chỉ số đóng cửa ở mức thấp nhất ngày sau khi thất bại tại 1.880 điểm, xác nhận tâm lý ngắn hạn suy yếu."
+      "note": "Áp lực bán hạ giá lan rộng ở nhóm vốn hóa lớn khiến chỉ số đóng cửa ở mức thấp nhất ngày, tâm lý thị trường xấu đi."
     },
     {
       "title": "Tỷ giá đối mặt phép thử khi khả năng Fed nâng lãi suất tăng lên",
       "impact": "↓",
-      "note": "Áp lực tỷ giá quay lại thu hẹp dư địa nới lỏng của NHNN và dễ kích hoạt bán ròng khối ngoại."
+      "note": "Rủi ro USD mạnh trở lại đe dọa đà hạ nhiệt của tỷ giá và có thể kích hoạt khối ngoại bán ròng."
+    },
+    {
+      "title": "Dự báo lãi suất thị trường 1 duy trì ở mức cao",
+      "impact": "↓",
+      "note": "Chi phí vốn cao kéo dài làm giảm sức hấp dẫn định giá cổ phiếu và bào mòn biên lợi nhuận doanh nghiệp vay nợ nhiều."
     },
     {
       "title": "Giá dầu tăng mạnh do căng thẳng Mỹ - Iran tại eo biển Hormuz",
       "impact": "↓",
-      "note": "Chi phí năng lượng leo thang gây sức ép lên biên lợi nhuận nhóm vận tải, hóa chất, sản xuất và rủi ro lạm phát."
+      "note": "Giá năng lượng leo thang gây rủi ro lạm phát nhập khẩu và chi phí đầu vào cho nhóm vận tải, sản xuất."
     },
     {
-      "title": "HoSE mở rộng danh sách cắt margin lên 69 mã",
-      "impact": "↓",
-      "note": "Hạn chế dòng tiền đòn bẩy ở nhóm đầu cơ, có thể tạo thêm áp lực cung trong nhịp điều chỉnh."
-    },
-    {
-      "title": "Lãi suất liên ngân hàng giảm 1,4 điểm %, NHNN bơm ròng hơn 5.600 tỷ đồng",
+      "title": "Lãi suất liên ngân hàng giảm mạnh, NHNN bơm ròng hơn 5.600 tỷ đồng",
       "impact": "↑",
-      "note": "Thanh khoản hệ thống dồi dào và chi phí vốn hạ nhiệt hỗ trợ định giá, đặc biệt nhóm ngân hàng - chứng khoán."
+      "note": "Thanh khoản hệ thống dồi dào hơn là lực đỡ cho dòng tiền và giảm bớt áp lực chi phí vốn ngắn hạn."
     },
     {
-      "title": "Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
+      "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính (NQ 262/NQ-CP)",
       "impact": "↑",
-      "note": "Củng cố kỳ vọng nâng hạng và tăng chiều sâu thị trường vốn trong trung - dài hạn."
+      "note": "Định hướng chính sách trung hạn hỗ trợ chiều sâu thị trường vốn và triển vọng nâng hạng, tích cực cho nhóm chứng khoán - ngân hàng."
     }
   ]
 }
