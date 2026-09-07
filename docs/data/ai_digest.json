@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh vĩ mô đang phân hóa: CPI bình quân 8 tháng đã tăng 4,45% khiến dư địa kiểm soát lạm phát còn rất hẹp, trong khi lãi suất huy động 12 tháng tại nhiều ngân hàng đã lên 7-7,8%/năm — cả hai đều làm tăng chi phí vốn và giảm sức hấp dẫn tương đối của kênh cổ phiếu. Ở chiều tích cực, VN-Index đã vượt 1.850 điểm và hướng về đỉnh cũ 1.900, cùng lực đẩy từ Luật Phát triển đô thị hiệu lực 1/10 (hỗ trợ bất động sản, hạ tầng, vật liệu xây dựng) và du lịch quốc tế phục hồi mạnh. Tuy nhiên rủi ro ngắn hạn khá rõ: thanh khoản suy giảm, độ phân hóa cao, khối ngoại tiếp tục bán ròng và áp lực chốt lời tại vùng điểm cao. Số liệu lạm phát Mỹ tuần này là ẩn số cho kỳ vọng lãi suất Fed, tỷ giá và dòng vốn ngoại. Chiến lược hợp lý là hạ tỷ trọng đòn bẩy, ưu tiên cổ phiếu có nền tảng cơ bản và tránh nhóm bất động sản đòn bẩy nợ cao.",
+  "summary_vi": "VN-Index tăng 1,14% tuần qua và đã vượt 1.850 điểm, đang hướng về vùng đỉnh cũ 1.900 điểm — xu hướng kỹ thuật vẫn tích cực. Tuy nhiên thanh khoản suy giảm, độ phân hóa cao và khối ngoại tiếp tục bán ròng cho thấy dòng tiền chưa đủ mạnh để xác nhận nhịp bứt phá, trong khi áp lực chốt lời tại vùng điểm cao là rủi ro ngắn hạn rõ rệt. Ẩn số lớn nhất tuần này đến từ số liệu lạm phát Mỹ, có thể đảo chiều kỳ vọng lãi suất Fed và tác động lên tỷ giá, giá vàng cùng dòng vốn ngoại. Ở mặt hỗ trợ, Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản và hạ tầng, cùng quyết tâm thúc đẩy tăng trưởng hai con số và du lịch quốc tế phục hồi mạnh. Nhà đầu tư nên ưu tiên chọn lọc cổ phiếu có nền tảng cơ bản, hạn chế mua đuổi và theo dõi sát rủi ro đòn bẩy của nhóm bất động sản.",
   "top": [
     {
-      "title": "Bộ Tài chính: CPI 8 tháng tăng 4,45%, dư địa kiểm soát lạm phát hẹp dần",
-      "impact": "↓",
-      "note": "Lạm phát sát trần mục tiêu làm giảm khả năng nới lỏng chính sách tiền tệ, gây áp lực lên định giá cổ phiếu."
-    },
-    {
-      "title": "Lãi suất huy động 12 tháng lên tới 7,8%/năm, 9 ngân hàng trên 7%",
-      "impact": "↓",
-      "note": "Mặt bằng lãi suất tiết kiệm cao hút dòng tiền khỏi chứng khoán và đẩy chi phí vốn doanh nghiệp lên."
-    },
-    {
-      "title": "VN-Index vượt 1.850 hướng đỉnh cũ 1.900 nhưng thanh khoản yếu, khối ngoại bán ròng",
+      "title": "VN-Index vượt 1.850 điểm, hướng đỉnh cũ 1.900 nhưng thanh khoản yếu",
       "impact": "→",
-      "note": "Xu hướng kỹ thuật vẫn tăng song dòng tiền mỏng và bán ròng ngoại khiến đà tăng thiếu bền vững."
+      "note": "Xu hướng tăng còn nguyên nhưng thanh khoản giảm và khối ngoại bán ròng khiến đà bứt phá thiếu xác nhận."
+    },
+    {
+      "title": "Số liệu lạm phát Mỹ có thể gây biến động giá vàng và kỳ vọng lãi suất Fed",
+      "impact": "↓",
+      "note": "Lạm phát Mỹ cao hơn dự báo sẽ củng cố kịch bản Fed thắt chặt, gây áp lực lên tỷ giá và dòng vốn ngoại vào TTCK VN."
+    },
+    {
+      "title": "Chuyên gia cảnh báo 'tín hiệu lạ' khi VN-Index ở vùng điểm cao",
+      "impact": "↓",
+      "note": "Định giá đã cao khiến rủi ro chốt lời và điều chỉnh ngắn hạn gia tăng."
     },
     {
       "title": "Luật Phát triển đô thị có hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực đất đai hỗ trợ nhóm bất động sản, hạ tầng và vật liệu xây dựng."
+      "note": "Tăng phân quyền và khơi thông nguồn lực, hỗ trợ nhóm bất động sản, xây dựng, vật liệu và hạ tầng."
     },
     {
-      "title": "Số liệu lạm phát Mỹ tuần này có thể tạo biến động lớn cho vàng và kỳ vọng lãi suất Fed",
-      "impact": "→",
-      "note": "Kết quả CPI Mỹ sẽ chi phối USD, tỷ giá VND và dòng vốn ngoại vào thị trường Việt Nam theo cả hai chiều."
-    },
-    {
-      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ đồng, gánh nợ gần 1 tỷ USD",
+      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ, nợ gần 1 tỷ USD",
       "impact": "↓",
-      "note": "Đòn bẩy nợ phình to ở nhóm bất động sản làm dấy lại lo ngại rủi ro trái phiếu và chất lượng tín dụng ngân hàng."
+      "note": "Đòn bẩy phình to ở nhóm bất động sản làm dấy lên lo ngại chất lượng tài sản và rủi ro tín dụng ngân hàng."
+    },
+    {
+      "title": "Khách Nga tăng gần 166%, vươn lên top 3 thị trường khách quốc tế",
+      "impact": "↑",
+      "note": "Du lịch quốc tế phục hồi mạnh hỗ trợ doanh thu nhóm hàng không, lưu trú, bán lẻ và bất động sản nghỉ dưỡng."
     }
   ]
 }
