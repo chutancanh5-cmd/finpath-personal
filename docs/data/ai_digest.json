@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Phiên đầu tuần 07/09 đảo chiều mạnh khi VN-Index từ mức tăng hơn 21 điểm quay đầu giảm 31,44 điểm (-1,7%) về 1.821,64 với 458 mã giảm, riêng VIC lấy đi khoảng 18 điểm. Áp lực đến từ dòng tiền lớn khi khối ngoại bán ròng gần 455-460 tỷ đồng và tự doanh xả thêm hơn 214 tỷ đồng, cho thấy lực đỡ chỉ số ở vùng đỉnh đang yếu đi. Rủi ro vĩ mô ngắn hạn tập trung ở tỷ giá: dù USD/VND hạ nhiệt đầu tháng 9, khả năng Fed nâng lãi suất tăng lên có thể bó hẹp dư địa nới lỏng tiền tệ và kích thích rút vốn ngoại, trong khi giá vàng neo cao 146-149 triệu đồng/lượng tiếp tục hút một phần dòng tiền khỏi cổ phiếu. Mặt tích cực vẫn còn khá rõ ở nền tảng: tín dụng TP.HCM - Đồng Nai đạt 6,329 triệu tỷ đồng (+9% so với cuối năm trước), Chính phủ ban hành Nghị quyết 262/NQ-CP thúc đẩy đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho các cực tăng trưởng mới. Chiến lược hợp lý là hạ đòn bẩy, ưu tiên doanh nghiệp có kết quả kinh doanh thực chứng như bán lẻ - công nghệ (DGW doanh thu tháng 8 +80%, DMX +29% sau 8 tháng) và chờ dòng vốn ngoại ổn định trở lại.",
+  "summary_vi": "VN-Index đảo chiều mạnh trong phiên đầu tuần, mất hơn 31 điểm (-1,7%) về 1.821,64 điểm với độ rộng thị trường tiêu cực và VIC một mình lấy đi khoảng 18 điểm. Áp lực bán đến từ cả khối ngoại (rút ròng gần 460 tỷ đồng) lẫn tự doanh công ty chứng khoán (hơn 214 tỷ đồng), cho thấy dòng tiền lớn đang thận trọng khi chỉ số tiệm cận vùng kháng cự. Rủi ro ngắn hạn nổi bật là tỷ giá USD/VND trước khả năng Fed nâng lãi suất, có thể thu hẹp dư địa nới lỏng và duy trì áp lực bán ròng ngoại. Ở chiều tích cực, nền tảng vĩ mô vẫn hỗ trợ: Nghị quyết 262/NQ-CP thúc đẩy đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, tín dụng TP.HCM – Đồng Nai tăng 9%, Luật Phát triển đô thị hiệu lực từ 1/10 mở dư địa cho bất động sản – hạ tầng. Nhà đầu tư nên ưu tiên nhóm có kết quả kinh doanh thực (bán lẻ DGW, DMX; ngân hàng đa dạng nguồn thu) và hạ tỷ trọng đòn bẩy cho tới khi thanh khoản ổn định trở lại.",
   "top": [
     {
-      "title": "VN-Index mất hơn 31 điểm phiên đầu tuần 07/09",
+      "title": "VN-Index mất hơn 31 điểm phiên đầu tuần, VIC giảm 4,3%",
       "impact": "↓",
-      "note": "Đảo chiều từ tăng 21 điểm sang giảm 1,7% với 458 mã đỏ cho thấy áp lực chốt lời lan rộng ở vùng đỉnh."
+      "note": "Đảo chiều từ tăng 21 điểm sang giảm 31 điểm cho thấy áp lực chốt lời mạnh tại vùng kháng cự."
     },
     {
-      "title": "Khối ngoại và tự doanh đồng thuận bán ròng",
+      "title": "Khối ngoại và tự doanh cùng bán ròng gần 674 tỷ đồng",
       "impact": "↓",
-      "note": "Ngoại rút ròng gần 455 tỷ đồng và tự doanh bán hơn 214 tỷ đồng khiến chỉ số mất lực đỡ từ dòng tiền dẫn dắt."
+      "note": "Dòng tiền lớn rút ra đồng loạt làm suy yếu lực đỡ cho chỉ số trong ngắn hạn."
     },
     {
-      "title": "Tỷ giá đối mặt phép thử khi khả năng Fed nâng lãi suất tăng",
+      "title": "Tỷ giá đối mặt phép thử khi khả năng Fed nâng lãi suất tăng lên",
       "impact": "↓",
-      "note": "Áp lực USD/VND quay lại sẽ thu hẹp dư địa chính sách tiền tệ nới lỏng và gia tăng rủi ro rút vốn ngoại."
+      "note": "Áp lực tỷ giá thu hẹp dư địa nới lỏng tiền tệ và kích thích bán ròng của khối ngoại."
     },
     {
-      "title": "Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách thị trường tài chính",
+      "title": "Chính phủ ban hành Nghị quyết 262/NQ-CP về cải cách thị trường vốn",
       "impact": "↑",
-      "note": "Củng cố kỳ vọng dài hạn về chiều sâu thanh khoản và tiến trình chuẩn hóa, nâng hạng thị trường chứng khoán."
+      "note": "Định hướng đa dạng hóa và phát triển đồng bộ thị trường tài chính hỗ trợ triển vọng dài hạn của TTCK."
     },
     {
-      "title": "Tín dụng TP.HCM - Đồng Nai đạt 6,329 triệu tỷ đồng, tăng 9%",
+      "title": "Tín dụng TP.HCM – Đồng Nai đạt 6,329 triệu tỷ đồng, tăng 9%",
       "impact": "↑",
-      "note": "Chiếm 31,2% dư nợ cả nước, phản ánh cầu vốn phục hồi và hỗ trợ tăng trưởng lợi nhuận nhóm ngân hàng."
+      "note": "Tín dụng mở rộng tại vùng kinh tế trọng điểm củng cố tăng trưởng lợi nhuận nhóm ngân hàng."
     },
     {
-      "title": "Luật Phát triển đô thị hiệu lực từ 1/10, mở các cực tăng trưởng mới",
+      "title": "Bán lẻ khởi sắc: DGW doanh thu tháng 8 tăng hơn 80%, DMX tăng 29% sau 8 tháng",
       "impact": "↑",
-      "note": "Tăng phân quyền và khơi thông nguồn lực là lực đẩy trung hạn cho nhóm bất động sản, xây dựng, vật liệu."
+      "note": "Sức cầu tiêu dùng phục hồi tạo điểm tựa lợi nhuận cho nhóm bán lẻ ngược dòng thị trường."
     }
   ]
 }
