@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường mở đầu tuần bằng phiên giảm mạnh: VN-Index mất 31,44 điểm (-1,7%) về 1.821,64 điểm với 458 mã giảm, khối ngoại quay lại bán ròng và tự doanh CTCK bán ròng 210 tỷ đồng trên HoSE. Áp lực ngắn hạn đến từ ba hướng cộng hưởng: rủi ro tỷ giá USD/VND khi khả năng Fed nâng lãi suất tăng lên, dự báo mặt bằng lãi suất trong nước duy trì cao do bài toán cân đối vốn trung–dài hạn, và lực bán cơ học từ kỳ tái cơ cấu ETF tháng 9. Ở chiều ngược lại, nền chính sách vẫn hỗ trợ trung hạn với Nghị quyết 262/NQ-CP về đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, Luật Phát triển đô thị hiệu lực từ 1/10, cùng việc nhiều ngân hàng hạ lãi suất cho vay mua nhà hơn 1%/năm — tích cực cho nhóm chứng khoán, bất động sản và xây dựng. Sức khỏe doanh nghiệp cũng chưa xấu, điển hình là DMX đạt 87 ngàn tỷ doanh thu sau 8 tháng, tăng 29% cùng kỳ. Trong ngắn hạn nên ưu tiên hạ đòn bẩy và chờ tín hiệu ổn định của tỷ giá cùng dòng tiền ngoại trước khi gia tăng tỷ trọng.",
+  "summary_vi": "Phiên đầu tuần đảo chiều mạnh khi VN-Index mất 31,44 điểm (-1,7%) về 1.821,64 điểm với 458 mã giảm, VIC lấy đi khoảng 18 điểm, khối ngoại quay lại bán ròng và tự doanh CTCK bán ròng 210 tỷ đồng trên HoSE. Rủi ro ngắn hạn tập trung ở mặt bằng lãi suất: tỷ giá USD/VND đối mặt phép thử từ khả năng Fed nâng lãi suất, trong khi Yuanta dự báo lãi suất thị trường 1 duy trì ở mức cao do áp lực cân đối vốn trung – dài hạn, cộng thêm lực bán cơ học từ kỳ cơ cấu ETF tháng 9. Ở chiều tích cực, chính sách vẫn là điểm tựa trung hạn với Nghị quyết 262/NQ-CP về đa dạng hóa thị trường vốn và cải cách thị trường tài chính, Luật Phát triển đô thị hiệu lực từ 1/10, cùng việc nhiều ngân hàng hạ lãi suất cho vay mua nhà hơn 1%/năm — hỗ trợ nhóm chứng khoán, bất động sản và xây dựng. Nền tảng doanh nghiệp chưa xấu đi, minh chứng là DMX đạt 87 ngàn tỷ doanh thu sau 8 tháng (+29% cùng kỳ). Chiến lược hợp lý là hạ đòn bẩy, ưu tiên cổ phiếu có kết quả kinh doanh thực và chờ tỷ giá cùng dòng tiền ngoại ổn định trở lại trước khi tăng tỷ trọng.",
   "top": [
     {
-      "title": "VN-Index giảm hơn 31 điểm, khối ngoại quay lại bán ròng",
+      "title": "VN-Index giảm 31,44 điểm (-1,7%), khối ngoại bán ròng trở lại",
       "impact": "↓",
-      "note": "Phiên giảm 1,7% với 458 mã đỏ cho thấy tâm lý thị trường suy yếu trên diện rộng."
+      "note": "Đảo chiều từ tăng 21 điểm sang giảm sâu với độ rộng 458 mã đỏ cho thấy tâm lý thị trường yếu."
     },
     {
-      "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài trong tháng 9",
+      "title": "Tỷ giá USD/VND đối mặt phép thử từ bên ngoài trong tháng 9",
       "impact": "↓",
-      "note": "Khả năng Fed nâng lãi suất có thể chặn đà giảm của tỷ giá và gia tăng áp lực rút vốn ngoại."
+      "note": "Khả năng Fed nâng lãi suất có thể chặn đà giảm tỷ giá và duy trì áp lực rút vốn khối ngoại."
     },
     {
-      "title": "Dự báo lãi suất duy trì ở mức cao trong thời gian tới",
+      "title": "Yuanta dự báo lãi suất duy trì ở mức cao trong các tháng tới",
       "impact": "↓",
-      "note": "Chi phí vốn cao kéo dài làm giảm định giá cổ phiếu và tăng sức hút của kênh tiền gửi."
+      "note": "Chi phí vốn cao kéo dài làm co định giá cổ phiếu và tăng sức hấp dẫn của kênh tiền gửi."
     },
     {
-      "title": "Hai quỹ ETF sắp bán mạnh nhiều cổ phiếu trong kỳ cơ cấu tháng 9",
+      "title": "Hai quỹ ETF cơ cấu danh mục tháng 9, nhiều mã bị bán mạnh",
       "impact": "↓",
-      "note": "Lực bán cơ học từ VanEck Vietnam ETF gây áp lực lên các mã bị giảm tỷ trọng hoặc loại khỏi rổ."
+      "note": "Lực bán cơ học từ VanEck Vietnam ETF (AUM 13.658 tỷ) đè lên các mã bị hạ tỷ trọng hoặc loại rổ."
     },
     {
-      "title": "Chính phủ ban hành Nghị quyết 262 về đa dạng hóa thị trường vốn",
+      "title": "Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
       "impact": "↑",
-      "note": "Định hướng cải cách tổng thể thị trường tài chính hỗ trợ chiều sâu thanh khoản và nhóm chứng khoán."
+      "note": "Định hướng cải cách củng cố chiều sâu thanh khoản và câu chuyện dài hạn của nhóm chứng khoán."
     },
     {
       "title": "Nhiều ngân hàng hạ lãi suất cho vay mua nhà tới hơn 1%/năm",
       "impact": "↑",
-      "note": "Kích cầu tín dụng nhà ở, có lợi cho cổ phiếu bất động sản, xây dựng và vật liệu xây dựng."
+      "note": "Kích cầu tín dụng bất động sản, hỗ trợ cổ phiếu địa ốc, xây dựng và vật liệu xây dựng."
     }
   ]
 }
