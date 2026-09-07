@@ -2,32 +2,32 @@
   "_opus": true,
   "date": "2026-09-07",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin hôm nay nghiêng về chính sách hỗ trợ: Nghị quyết 262/NQ-CP (05/9/2026) yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, còn Luật Phát triển đô thị hiệu lực từ 1/10 tăng phân quyền và khơi thông nguồn lực cho các cực tăng trưởng mới. Đây là chất xúc tác trung hạn cho nhóm chứng khoán, ngân hàng và bất động sản – xây dựng – vật liệu, đồng thời việc doanh nghiệp FDI chuyển sang mô hình đại chúng hứa hẹn bổ sung hàng hóa chất lượng cho sàn. Giá vàng miếng và vàng nhẫn giảm hai phiên liên tiếp nhưng vẫn cao hơn thế giới 6-8 triệu đồng/lượng, khiến kênh vàng kém hấp dẫn và tạo điều kiện cho dòng tiền quay lại cổ phiếu. Rủi ro ngắn hạn nằm ở chất lượng tài sản doanh nghiệp: Bất động sản Minh An (liên quan Masterise) lỗ hơn 115 tỷ đồng với nợ gần 1 tỷ USD và SCOMMERCE lãi giảm 95% ngay sau đợt phát hành trái phiếu đầu tiên, cho thấy áp lực đòn bẩy còn hiện hữu. Bối cảnh bên ngoài với chênh lệch lợi suất trái phiếu Mỹ - Trung rộng nhất 20 năm cũng làm tăng biến động dòng vốn và tỷ giá, nên ưu tiên cổ phiếu đầu ngành có dòng tiền thực và tránh mã nợ vay cao.",
+  "summary_vi": "Điểm nhấn vĩ mô hôm nay là thanh khoản hệ thống nới lỏng rõ rệt: lãi suất VND liên ngân hàng giảm tới 1,4 điểm %, NHNN bơm ròng hơn 5.600 tỷ đồng và tỷ giá USD/VND cùng hạ nhiệt — nền tảng thuận lợi cho dòng tiền vào cổ phiếu, đặc biệt nhóm chứng khoán và ngân hàng. Về chính sách, Nghị quyết 262/NQ-CP (05/9/2026) yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, trong khi Luật Phát triển đô thị hiệu lực từ 1/10 tăng phân quyền, khơi thông nguồn lực cho bất động sản - xây dựng - vật liệu; việc doanh nghiệp FDI chuyển sang mô hình đại chúng cũng hứa hẹn bổ sung hàng hóa chất lượng cho sàn. Ở chiều ngược lại, chất lượng tài sản doanh nghiệp là rủi ro ngắn hạn cần theo dõi: Bất động sản Minh An (đối tác Masterise) lỗ hơn 115 tỷ đồng với tài sản phình lên hơn 29.000 tỷ đồng chủ yếu bằng nợ, còn SCOMMERCE lãi giảm 95% ngay sau đợt phát hành trái phiếu đầu tiên. Bên ngoài, chênh lệch lợi suất trái phiếu Mỹ - Trung rộng nhất 20 năm có thể làm tăng biến động dòng vốn ngoại và áp lực tỷ giá về cuối năm. Chiến lược hợp lý là ưu tiên cổ phiếu đầu ngành hưởng lợi từ mặt bằng lãi suất thấp, hạn chế các mã đòn bẩy cao và phụ thuộc trái phiếu.",
   "top": [
+    {
+      "title": "Lãi suất liên ngân hàng giảm mạnh, NHNN bơm ròng hơn 5.600 tỷ đồng",
+      "impact": "↑",
+      "note": "Lãi suất giảm 1,4 điểm % cùng tỷ giá hạ nhiệt cho thấy thanh khoản dồi dào, hỗ trợ trực tiếp dòng tiền vào chứng khoán."
+    },
     {
       "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
       "impact": "↑",
-      "note": "Nghị quyết 262/NQ-CP củng cố kỳ vọng nâng hạng và cải cách, hỗ trợ trực tiếp nhóm chứng khoán - ngân hàng."
+      "note": "Nghị quyết 262/NQ-CP củng cố kỳ vọng cải cách và nâng hạng, có lợi cho nhóm chứng khoán - ngân hàng."
     },
     {
       "title": "Luật Phát triển đô thị hiệu lực từ 1/10, mở dư địa cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Phân quyền mạnh hơn giúp khơi thông dự án, có lợi cho bất động sản, xây dựng và vật liệu xây dựng."
+      "note": "Tăng phân quyền giúp khơi thông dự án, hưởng lợi là bất động sản, xây dựng và vật liệu xây dựng."
     },
     {
-      "title": "Vàng miếng, vàng nhẫn đồng loạt giảm, vẫn cao hơn thế giới 6-8 triệu đồng/lượng",
+      "title": "Doanh nghiệp FDI bước ra đại chúng, hướng tới niêm yết",
       "impact": "↑",
-      "note": "Chênh lệch quá lớn cùng đà giảm làm kênh vàng rủi ro, dòng tiền có cơ hội dịch chuyển sang cổ phiếu."
+      "note": "Bổ sung nguồn hàng chất lượng, tăng chiều sâu và sức hút của thị trường vốn trung - dài hạn."
     },
     {
-      "title": "Doanh nghiệp FDI chuyển sang công ty đại chúng, hướng tới niêm yết",
-      "impact": "↑",
-      "note": "Bổ sung nguồn hàng chất lượng và tăng chiều sâu cho thị trường vốn trung - dài hạn."
-    },
-    {
-      "title": "Doanh nghiệp liên quan Masterise lỗ 115 tỷ đồng, nợ gần 1 tỷ USD",
+      "title": "Doanh nghiệp liên quan Masterise lỗ hơn 115 tỷ đồng, nợ gần 1 tỷ USD",
       "impact": "↓",
-      "note": "Tài sản phình to nhờ vay nợ trong khi thua lỗ là cảnh báo rủi ro tín dụng bất động sản."
+      "note": "Tài sản tăng vọt nhờ vay nợ trong khi thua lỗ là cảnh báo rủi ro tín dụng và trái phiếu bất động sản."
     },
     {
       "title": "Chênh lệch lợi suất trái phiếu Mỹ - Trung lớn nhất 20 năm",
