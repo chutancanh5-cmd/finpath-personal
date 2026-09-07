@@ -1,36 +1,36 @@
 {
   "_opus": true,
   "date": "2026-09-07",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chịu áp lực bán mạnh ở nhóm trụ, VN-Index mất 1,7% (-31,44 điểm) — mức giảm sâu nhất 13 phiên. Rủi ro ngắn hạn đến chủ yếu từ bên ngoài: khả năng Fed thắt chặt trở lại gây sức ép lên tỷ giá USD/VND, trong khi giá dầu tăng mạnh do căng thẳng Mỹ - Iran tại eo biển Hormuz làm gia tăng lo ngại lạm phát nhập khẩu. Trong nước, dự báo lãi suất thị trường 1 duy trì ở mức cao và danh sách cắt margin nới lên 69 mã là những yếu tố kìm hãm dòng tiền đầu cơ. Điểm tựa là thanh khoản hệ thống dồi dào (lãi suất liên ngân hàng giảm 1,4 điểm %, NHNN bơm ròng hơn 5.600 tỷ đồng) cùng định hướng cải cách, đa dạng hóa thị trường vốn tại Nghị quyết 262/NQ-CP. Nhà đầu tư nên ưu tiên quản trị rủi ro, hạ tỷ trọng đòn bẩy và chờ tín hiệu cân bằng thay vì bắt đáy sớm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường quay đầu điều chỉnh khi VN-Index lùi về vùng 1.839 điểm (-0,75% trong phiên sáng) cùng lực bán ròng gần 500 tỷ đồng của khối ngoại, cho thấy tâm lý thận trọng sau nhịp tăng dài. Rủi ro ngắn hạn tập trung ở yếu tố bên ngoài: khả năng Fed nâng lãi suất trở lại tạo phép thử cho đà hạ nhiệt của tỷ giá USD/VND, trong khi Yuanta dự báo lãi suất thị trường 1 tiếp tục duy trì mức cao do áp lực cân đối vốn trung - dài hạn. Bù lại, thanh khoản hệ thống đang dồi dào khi lãi suất liên ngân hàng giảm tới 1,4 điểm % và NHNN bơm ròng hơn 5.600 tỷ đồng, còn Nghị quyết 262/NQ-CP về đa dạng hóa thị trường vốn cùng Luật Phát triển đô thị hiệu lực từ 1/10 mở ra câu chuyện chính sách trung hạn cho nhóm chứng khoán, ngân hàng và bất động sản. Giá vàng trong nước giảm sâu hai phiên liên tiếp cũng có thể giúp dòng tiền quay lại kênh cổ phiếu. Nhà đầu tư nên ưu tiên cổ phiếu có nền tảng cơ bản, hạn chế đòn bẩy và lưu ý biến động kỹ thuật trong kỳ tái cơ cấu ETF tháng 9.",
   "top": [
     {
-      "title": "VN-Index giảm 1,7%, mạnh nhất 13 phiên do cổ phiếu trụ lao dốc",
+      "title": "VN-Index quay đầu giảm 0,75% về 1.839 điểm, HNX-Index mất 0,5%",
       "impact": "↓",
-      "note": "Áp lực bán hạ giá lan rộng ở nhóm vốn hóa lớn khiến chỉ số đóng cửa ở mức thấp nhất ngày, tâm lý thị trường xấu đi."
+      "note": "Áp lực chốt lời lan rộng khiến chỉ số lùi dưới tham chiếu, phản ánh tâm lý thận trọng sau giai đoạn tăng nóng."
     },
     {
-      "title": "Tỷ giá đối mặt phép thử khi khả năng Fed nâng lãi suất tăng lên",
+      "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài khi khả năng Fed nâng lãi suất tăng lên",
       "impact": "↓",
-      "note": "Rủi ro USD mạnh trở lại đe dọa đà hạ nhiệt của tỷ giá và có thể kích hoạt khối ngoại bán ròng."
+      "note": "USD mạnh trở lại có thể chặn đà hạ nhiệt của tỷ giá và kích hoạt thêm dòng vốn ngoại rút ra."
     },
     {
-      "title": "Dự báo lãi suất thị trường 1 duy trì ở mức cao",
+      "title": "Yuanta dự báo lãi suất thị trường 1 duy trì ở mức cao",
       "impact": "↓",
       "note": "Chi phí vốn cao kéo dài làm giảm sức hấp dẫn định giá cổ phiếu và bào mòn biên lợi nhuận doanh nghiệp vay nợ nhiều."
     },
     {
-      "title": "Giá dầu tăng mạnh do căng thẳng Mỹ - Iran tại eo biển Hormuz",
+      "title": "Khối ngoại bán ròng gần 500 tỷ đồng trong phiên VN-Index giảm sâu",
       "impact": "↓",
-      "note": "Giá năng lượng leo thang gây rủi ro lạm phát nhập khẩu và chi phí đầu vào cho nhóm vận tải, sản xuất."
+      "note": "Dòng vốn ngoại tiếp tục rút ra tạo thêm sức ép lên nhóm vốn hóa lớn, dù HDB vẫn được mua ròng."
     },
     {
-      "title": "Lãi suất liên ngân hàng giảm mạnh, NHNN bơm ròng hơn 5.600 tỷ đồng",
+      "title": "Lãi suất liên ngân hàng giảm 1,4 điểm %, NHNN bơm ròng hơn 5.600 tỷ đồng",
       "impact": "↑",
-      "note": "Thanh khoản hệ thống dồi dào hơn là lực đỡ cho dòng tiền và giảm bớt áp lực chi phí vốn ngắn hạn."
+      "note": "Thanh khoản hệ thống dồi dào hơn là lực đỡ cho dòng tiền và giảm áp lực chi phí vốn ngắn hạn."
     },
     {
-      "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính (NQ 262/NQ-CP)",
+      "title": "Chính phủ ban hành Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
       "impact": "↑",
       "note": "Định hướng chính sách trung hạn hỗ trợ chiều sâu thị trường vốn và triển vọng nâng hạng, tích cực cho nhóm chứng khoán - ngân hàng."
     }
