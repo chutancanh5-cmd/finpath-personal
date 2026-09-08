@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Rủi ro bên ngoài đang chi phối tâm lý thị trường: giá dầu lên đỉnh 6 tuần do căng thẳng Mỹ - Iran củng cố kịch bản 'lãi suất cao hơn lâu hơn', thậm chí khả năng Fed nâng lãi suất, tạo phép thử cho tỷ giá USD/VND trong tháng 9. Dòng tiền trong nước cũng yếu khi khối ngoại rút ròng gần 460 tỷ và tự doanh bán hơn 214 tỷ trong phiên VN-Index mất hơn 31 điểm, cộng thêm áp lực bán ròng hơn 1.500 tỷ từ kỳ review chỉ số. Mặt tích cực đến từ chính sách: Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, Luật Phát triển đô thị hiệu lực từ 1/10, cùng tín dụng TP.HCM - Đồng Nai tăng 9% cho thấy cầu vốn thực vẫn khá. Ngắn hạn nên ưu tiên phòng thủ, hạ margin và chờ tỷ giá ổn định; trung hạn có thể tích lũy nhóm ngân hàng đa dạng nguồn thu, bán lẻ - công nghệ có kết quả kinh doanh thực (như DGW) và bất động sản hạ tầng đô thị. Cần tránh nhóm bất động sản đòn bẩy cao còn vướng nghĩa vụ trái phiếu.",
+  "summary_vi": "Mặt bằng lãi suất toàn cầu tiếp tục là biến số chi phối: giá dầu lên đỉnh 6 tuần vì căng thẳng Mỹ - Iran khiến ECB nhiều khả năng tăng lãi suất ngày 10/9 và củng cố kỳ vọng Fed nâng lãi suất, qua đó gây sức ép lên tỷ giá USD/VND trong tháng 9 và thu hẹp dư địa nới lỏng của NHNN. Trong nước, dòng tiền lớn đang phòng thủ khi khối ngoại rút ròng gần 460 tỷ và tự doanh bán hơn 214 tỷ đồng ở phiên VN-Index mất hơn 31 điểm, chưa kể lực bán cơ học hơn 1.500 tỷ đồng từ kỳ rà soát chỉ số tuần này. Điểm tựa đến từ chính sách và nội tại: Nghị quyết 262/NQ-CP đặt trọng tâm đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, Luật Phát triển đô thị hiệu lực 1/10 mở dư địa cho các cực tăng trưởng mới, còn tín dụng TP.HCM - Đồng Nai tăng 9% cho thấy cầu vốn thực vẫn hấp thụ tốt. Ngắn hạn nên hạ đòn bẩy, chờ tín hiệu ổn định của tỷ giá và dòng vốn ngoại; ưu tiên doanh nghiệp có kết quả kinh doanh thực (bán lẻ - công nghệ như DGW) và tránh nhóm bất động sản đòn bẩy cao còn treo nghĩa vụ trái phiếu như trường hợp Aqua City.",
   "top": [
     {
-      "title": "Mối lo Fed tăng lãi suất, giá dầu lên đỉnh 6 tuần",
+      "title": "Giá dầu đỉnh 6 tuần, kỳ vọng Fed nâng lãi suất tăng lên",
       "impact": "↓",
-      "note": "Kịch bản lãi suất cao hơn lâu hơn làm tăng chi phí vốn và giảm định giá cổ phiếu."
-    },
-    {
-      "title": "Khối ngoại và tự doanh cùng xả trong phiên VN-Index giảm hơn 31 điểm",
-      "impact": "↓",
-      "note": "Dòng tiền lớn rút ròng cho thấy tâm lý phòng thủ, áp lực bán còn lan rộng."
+      "note": "Kịch bản lãi suất cao hơn lâu hơn đẩy chi phí vốn lên và ép định giá cổ phiếu."
     },
     {
       "title": "Tỷ giá USD/VND đối mặt nhiều phép thử từ bên ngoài trong tháng 9",
       "impact": "↓",
-      "note": "Áp lực tỷ giá thu hẹp dư địa nới lỏng tiền tệ và dễ kích hoạt bán ròng ngoại khối."
+      "note": "Áp lực tỷ giá hạn chế dư địa nới lỏng tiền tệ và dễ kích hoạt bán ròng khối ngoại."
     },
     {
-      "title": "Bluechip có thể bị bán ròng hơn 1.500 tỷ đồng do rà soát chỉ số tháng 9",
+      "title": "Khối ngoại và tự doanh cùng xả trong phiên VN-Index giảm hơn 31 điểm",
       "impact": "↓",
-      "note": "Lực bán cơ học từ quỹ ETF gây biến động mạnh cho VN30 trong tuần này."
+      "note": "Dòng tiền dẫn dắt rút ra cho thấy tâm lý thị trường còn yếu và áp lực bán lan rộng."
     },
     {
-      "title": "Chính phủ ban hành Nghị quyết 262 về đa dạng hóa thị trường vốn",
+      "title": "Một bluechip có thể bị bán ròng hơn 1.500 tỷ đồng do rà soát chỉ số tháng 9",
+      "impact": "↓",
+      "note": "Lực bán cơ học của các quỹ ETF gây biến động mạnh cho nhóm vốn hóa lớn ngay tuần này."
+    },
+    {
+      "title": "ECB được dự báo tăng lãi suất ngày 10/9",
+      "impact": "↓",
+      "note": "Chính sách thắt chặt đồng loạt ở các NHTW lớn làm dòng vốn tiếp tục rời thị trường mới nổi."
+    },
+    {
+      "title": "Nghị quyết 262/NQ-CP: đa dạng hóa thị trường vốn, cải cách thị trường tài chính",
       "impact": "↑",
-      "note": "Cải cách tổng thể thị trường tài chính hỗ trợ triển vọng dài hạn cho nhóm chứng khoán, ngân hàng."
-    },
-    {
-      "title": "Chủ đầu tư Aqua City lỗ 120 tỷ, hoãn bổ sung tài sản bảo đảm trái phiếu sang 2027",
-      "impact": "↓",
-      "note": "Nhắc lại rủi ro trái phiếu doanh nghiệp bất động sản đòn bẩy cao chưa được xử lý dứt điểm."
+      "note": "Định hướng cải cách đồng bộ hỗ trợ triển vọng dài hạn cho nhóm chứng khoán và ngân hàng."
     }
   ]
 }
