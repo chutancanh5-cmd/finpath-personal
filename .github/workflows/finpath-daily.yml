@@ -107,19 +107,30 @@ jobs:
       #      x3 lan tenacity = 96s cho MOT loi call) khong an het phan cua script sau.
       - name: Run full updaters
         working-directory: updater
-        timeout-minutes: 25
+        # timeout-minutes cua BUOC van la lop chan cuoi, nhung deadline noi bo o duoi
+        # (23') cat TRUOC no nen buoc THOAT SACH (exit 0) thay vi bi GitHub giet ->
+        # khong con bao loi Discord gia moi lan VCI cham. PC van la nguon chinh.
+        timeout-minutes: 27
         run: |
-          timeout 600 python update_signals.py || true
-          timeout 120 python alert.py || true
-          timeout 240 python scan_daily.py --discord || true
-          # CBTT theo ma (~1,5 phut cho ~40 ma). Doc signals.json nen phai sau
-          # update_signals. Dat o day chu khong phai cuoi: phan quan trong nhat
-          # (signals/alert/scan) da xong, ma neu de cuoi thi voi timeout 30' cua job
-          # nay no gan nhu khong bao gio chay toi.
-          timeout 240 python update_symbol_news.py || true
-          timeout 300 python update_prices.py || true
-          timeout 300 python update_market.py --append-hist || true
-          timeout 420 python update_market_read.py --discord || true
+          set +e
+          DEADLINE=$((SECONDS + 1380))   # 23' cho ca khoi; chua ~1' cho commit/push < 30' job
+          run() {  # run <tran_giay> <lenh...>
+            local t=$1; shift
+            local left=$((DEADLINE - SECONDS))
+            if [ "$left" -lt 30 ]; then echo "[budget] het gio, bo qua: $*"; return 0; fi
+            [ "$t" -gt "$left" ] && t=$left
+            echo "[budget] con ${left}s -> chay (tran ${t}s): $*"
+            timeout "$t" "$@" || true
+          }
+          run 600 python update_signals.py
+          run 120 python alert.py
+          run 240 python scan_daily.py --discord
+          # CBTT theo ma (~1,5 phut cho ~40 ma). Doc signals.json nen phai sau update_signals.
+          run 240 python update_symbol_news.py
+          run 300 python update_prices.py
+          run 300 python update_market.py --append-hist
+          run 420 python update_market_read.py --discord
+          exit 0
       # if: always() — buoc tren co bi timeout cat thi phan da lam duoc VAN duoc day len.
       - name: Commit & push data
         if: always()
