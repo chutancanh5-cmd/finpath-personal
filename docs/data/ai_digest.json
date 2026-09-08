@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin hôm nay cho thấy thế giằng co giữa nội lực trong nước và sức ép bên ngoài. Ở chiều tích cực, Chính phủ ban hành Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, trong khi mốc nâng hạng FTSE ngày 21/9 đang tới rất gần và tín dụng vùng TP.HCM – Đồng Nai tăng 9% so với cuối 2025, hỗ trợ nhóm ngân hàng, chứng khoán và bất động sản. Ở chiều rủi ro, khả năng Fed nâng lãi suất cùng động thái của ECB (10/9) và BOJ tạo áp lực lên tỷ giá USD/VND và định giá cổ phiếu, còn giá dầu lên đỉnh 6 tuần do căng thẳng Trung Đông làm tăng rủi ro lạm phát nhập khẩu. Rủi ro tín dụng trái phiếu bất động sản vẫn hiện hữu khi chủ đầu tư Aqua City lỗ và tiếp tục dời hạn bổ sung tài sản bảo đảm. VN-Index đã tăng ba tuần liên tiếp lên vùng 1.853 điểm nên nhà đầu tư nên ưu tiên quản trị vị thế, tránh mua đuổi và tập trung nhóm hưởng lợi trực tiếp từ nâng hạng.",
+  "summary_vi": "Tin hôm nay nghiêng về chủ đề chính sách và tỷ giá: Chính phủ ban hành Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, trong khi giá USD ngân hàng và tự do cùng giảm mạnh (tự do về dưới 26.000 VND/USD), giảm áp lực lên khối ngoại và hỗ trợ nhóm ngân hàng, chứng khoán. Tín dụng TP.HCM và Đồng Nai đạt 6,329 triệu tỷ đồng, tăng 9% so với cuối năm trước, cho thấy cầu vốn của vùng kinh tế trọng điểm đang phục hồi, thuận lợi cho lợi nhuận ngân hàng và bất động sản. Rủi ro ngắn hạn đến từ bên ngoài: khả năng Fed nâng lãi suất là phép thử với đà giảm tỷ giá trong tháng 9, còn đồng yên lên đỉnh 7 tháng làm dấy lên lo ngại đảo chiều carry trade giống mùa hè 2024. Trong nước, một phần kỳ vọng nâng hạng đã phản ánh vào giá nên quanh mốc 21/9 dễ xuất hiện nhịp \"bán khi tin ra\", cộng thêm chi phí vốn trái phiếu doanh nghiệp còn cao (Vinhomes phát hành 2.000 tỷ lãi suất 12%/năm); nhà đầu tư nên hạ kỳ vọng mua đuổi và ưu tiên quản trị vị thế.",
   "top": [
     {
       "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính (NQ 262/NQ-CP)",
       "impact": "↑",
-      "note": "Định hướng chính sách rõ ràng giúp khơi thông kênh dẫn vốn, hỗ trợ trực tiếp nhóm chứng khoán và ngân hàng."
+      "note": "Định hướng chính sách khơi thông kênh dẫn vốn trung – dài hạn, hỗ trợ trực tiếp nhóm chứng khoán và ngân hàng."
     },
     {
-      "title": "Còn hơn 2 tuần tới mốc nâng hạng FTSE ngày 21/9/2026",
+      "title": "Giá USD tự do và ngân hàng liên tục giảm mạnh, tự do về dưới 26.000 VND/USD",
       "impact": "↑",
-      "note": "Kỳ vọng dòng vốn ngoại và tái cơ cấu danh mục ETF là lực đỡ tâm lý mạnh cho VN-Index trong tháng 9."
-    },
-    {
-      "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài trong tháng 9",
-      "impact": "↓",
-      "note": "Khả năng Fed nâng lãi suất làm gián đoạn đà giảm của USD/VND, gây rủi ro rút vốn ngoại và siết thanh khoản."
-    },
-    {
-      "title": "VN-Index trước “gọng kìm” Fed - BOJ sau ba tuần tăng liên tiếp",
-      "impact": "→",
-      "note": "Nền tảng vĩ mô nội địa tích cực nhưng bị cân bằng bởi sức ép chính sách tiền tệ toàn cầu, thị trường dễ giằng co."
-    },
-    {
-      "title": "Lãi suất cao hơn lâu hơn, giá dầu lên đỉnh 6 tuần do căng thẳng Trung Đông; ECB có thể tăng lãi suất ngày 10/9",
-      "impact": "↓",
-      "note": "Giá dầu và lãi suất toàn cầu cùng tăng làm dấy lên rủi ro lạm phát nhập khẩu và nén định giá cổ phiếu."
+      "note": "Tỷ giá hạ nhiệt giảm áp lực rút vốn ngoại và nới dư địa điều hành chính sách tiền tệ."
     },
     {
       "title": "Tín dụng TP.HCM và Đồng Nai đạt 6,329 triệu tỷ đồng, tăng 9%",
       "impact": "↑",
-      "note": "Tín dụng mở rộng tại vùng kinh tế trọng điểm phản ánh cầu vốn phục hồi, thuận lợi cho lợi nhuận ngân hàng."
+      "note": "Cầu vốn tại vùng chiếm 31,2% dư nợ cả nước phục hồi, tích cực cho lợi nhuận ngân hàng và bất động sản."
+    },
+    {
+      "title": "Tỷ giá đối mặt nhiều phép thử từ bên ngoài trong tháng 9 khi khả năng Fed nâng lãi suất tăng lên",
+      "impact": "↓",
+      "note": "Fed thắt chặt có thể chặn đà giảm USD/VND, kéo theo rủi ro bán ròng của khối ngoại."
+    },
+    {
+      "title": "Đồng yên lên đỉnh 7 tháng, carry trade bắt đầu đảo chiều",
+      "impact": "↓",
+      "note": "Nguy cơ tháo chạy khỏi vị thế carry trade như hè 2024 dễ lan sang biến động ở các thị trường mới nổi/cận biên."
+    },
+    {
+      "title": "Một phần kỳ vọng nâng hạng đã phản ánh vào giá, xuất hiện nhịp \"bán khi tin ra\" quanh 21/9",
+      "impact": "→",
+      "note": "Dòng vốn ETF vẫn là lực đỡ dài hạn nhưng nhóm cổ phiếu đã tăng mạnh có thể bị chốt lời ngắn hạn."
     }
   ]
 }
