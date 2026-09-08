@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường hồi phục gần 9 điểm sau cú rơi hơn 31 điểm đầu tuần, nhưng dòng tiền dè dặt và khối ngoại vẫn bán ròng hàng trăm tỷ đồng cho thấy nhịp hồi mang tính kỹ thuật hơn là đảo chiều xu hướng. Mặt tích cực đến từ chính sách: Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, cùng kỳ vọng các động lực tăng trưởng mới đóng góp thêm 2.8-3.7 điểm phần trăm GDP mỗi năm — nền tảng trung hạn cho nhóm chứng khoán, ngân hàng và đầu tư công. Rủi ro ngắn hạn tập trung ở chi phí vốn: chứng chỉ tiền gửi dưới 6 tháng chào lãi suất 7-8%/năm phản ánh áp lực thanh khoản hệ thống và tạo kênh cạnh tranh trực tiếp với dòng tiền vào cổ phiếu, trong khi lợi suất trái phiếu kho bạc Mỹ 10 năm nếu vượt và trụ trên 4.8% sẽ gây sức ép lên tỷ giá và định giá tài sản rủi ro. Quy mô vốn hóa HOSE tăng 7.55% trong tháng 8 với 52 doanh nghiệp tỷ USD củng cố chất lượng thị trường, song việc tự doanh CTCK xả mạnh cổ phiếu chứng khoán cho thấy nhóm dẫn dắt đang bị chốt lời. Chiến lược hợp lý là giữ tỷ trọng cân bằng, ưu tiên cổ phiếu có nền tảng cơ bản tốt và chờ dòng tiền xác nhận trước khi giải ngân mạnh.",
+  "summary_vi": "Dòng tin chính sách nghiêng về hướng hỗ trợ: Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, trong khi vốn hóa HOSE cuối tháng 8 tăng 7,55% so với tháng trước lên hơn 8,84 triệu tỷ đồng với 52 doanh nghiệp vốn hóa tỷ USD — nền tảng tốt cho nhóm chứng khoán và ngân hàng. Áp lực tăng vốn của các công ty chứng khoán (một đơn vị sắp vượt 33.000 tỷ đồng vốn điều lệ) cho thấy kỳ vọng mở rộng margin và dòng tiền, dù pha loãng ngắn hạn là có thật. Rủi ro ngắn hạn đến từ chi phí vốn: chứng chỉ tiền gửi dưới 6 tháng chào lãi suất 7-8%/năm cho thấy thanh khoản hệ thống không dư dả và tiền nhàn rỗi có kênh cạnh tranh trực tiếp với cổ phiếu. Bên ngoài, lợi suất trái phiếu kho bạc Mỹ 10 năm nếu trụ trên 4,8% sẽ gây sức ép lên định giá tài sản rủi ro và tỷ giá. Chiến lược hợp lý là ưu tiên cổ phiếu hưởng lợi trực tiếp từ cải cách thị trường vốn, hạn chế đòn bẩy và tránh nhóm nhạy cảm với lãi suất.",
   "top": [
     {
-      "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
+      "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính (NQ 262/NQ-CP)",
       "impact": "↑",
-      "note": "Nghị quyết 262/NQ-CP mở đường cho cải cách thể chế, hỗ trợ trực tiếp nhóm chứng khoán và ngân hàng trong trung hạn."
+      "note": "Định hướng chính sách cấp Chính phủ củng cố kỳ vọng nâng hạng và mở rộng kênh huy động vốn cho doanh nghiệp niêm yết."
     },
     {
-      "title": "Nở rộ chứng chỉ tiền gửi dưới 6 tháng lãi suất 7-8%/năm",
+      "title": "Vốn hóa HOSE vượt 8,84 triệu tỷ đồng, 52 doanh nghiệp vốn hóa tỷ USD",
+      "impact": "↑",
+      "note": "Vốn hóa tăng 7,55% so với tháng trước phản ánh dòng tiền và tâm lý thị trường vẫn đang tích cực."
+    },
+    {
+      "title": "Chứng chỉ tiền gửi dưới 6 tháng chào lãi suất 7-8%/năm",
       "impact": "↓",
-      "note": "Lãi suất huy động ngắn hạn cao báo hiệu căng thanh khoản và hút bớt dòng tiền khỏi kênh cổ phiếu."
+      "note": "Lãi suất huy động ngắn hạn cao hút bớt tiền nhàn rỗi khỏi chứng khoán và báo hiệu chi phí vốn đang nhích lên."
     },
     {
-      "title": "Lợi suất trái phiếu kho bạc Mỹ 10 năm có thể vượt 4.8%",
+      "title": "Lợi suất trái phiếu kho bạc Mỹ 10 năm có thể vượt và giữ trên 4,8%",
       "impact": "↓",
-      "note": "Lợi suất Mỹ neo cao gây áp lực tỷ giá, dòng vốn ngoại và định giá tài sản rủi ro tại Việt Nam."
+      "note": "Lợi suất Mỹ cao kéo dài gây áp lực lên tỷ giá, khối ngoại và mặt bằng định giá cổ phiếu."
     },
     {
-      "title": "VN-Index hồi gần 9 điểm nhưng khối ngoại tiếp tục bán ròng",
+      "title": "Công ty chứng khoán sắp có vốn điều lệ vượt 33.000 tỷ đồng",
+      "impact": "↑",
+      "note": "Năng lực cho vay margin và bảo lãnh phát hành tăng mạnh, hỗ trợ thanh khoản dù cổ phiếu bị pha loãng ngắn hạn."
+    },
+    {
+      "title": "Động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm",
       "impact": "→",
-      "note": "Hồi phục kỹ thuật với thanh khoản dè dặt, chưa đủ xác nhận dòng tiền quay lại thị trường."
-    },
-    {
-      "title": "Vốn hóa HOSE tăng 7.55% trong tháng 8, có 52 doanh nghiệp tỷ USD",
-      "impact": "↑",
-      "note": "Quy mô và chiều sâu thị trường cải thiện, tăng sức hấp dẫn với dòng vốn tổ chức và tiến trình nâng hạng."
-    },
-    {
-      "title": "Tự doanh CTCK bán ròng 153 tỷ đồng, xả mạnh một cổ phiếu chứng khoán",
-      "impact": "↓",
-      "note": "Nhóm dẫn dắt bị chốt lời mạnh, có thể kìm hãm đà hồi phục của chỉ số trong ngắn hạn."
+      "note": "Câu chuyện tăng trưởng dài hạn hấp dẫn nhưng phụ thuộc hiệu quả sử dụng vốn, chưa tạo tác động tức thì lên giá cổ phiếu."
     }
   ]
 }
