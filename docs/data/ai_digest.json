@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-09",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Áp lực bán liên tiếp từ tự doanh (phiên 7) và khối ngoại (phiên 3) cùng sự sụt giảm niềm tin mạnh mẽ của các ngân hàng liên ngân hàng về chứng khoán (-1,49 điểm) và bất động sản (-4 điểm) đang tác động tiêu cực đến thị trường. VN-Index quay đầu giảm 0,18% dù sáng tăng 17 điểm, phản ánh lực bán mạnh ở vùng kháng cự 1.850 điểm. Dòng vốn quốc tế chuyển sang phòng thủ với rút ròng cổ phiếu lần đầu sau nhiều tháng, khi các cuộc họp chính sách tháng 9 (đặc biệt Fed) và căng thẳng Mỹ-Iran gia tăng bất định. Thanh khoản suy giảm đáng kể là tín hiệu cảnh báo ngắn hạn, mặc dù lĩnh vực du lịch-giải trí duy trì tín hiệu tích cực.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam gặp áp lực bán mạnh trong phiên 9/9 khi dòng tiền tự doanh liên tục bán ròng (phiên thứ 7), khối ngoại cũng quay lại bán ròng lần thứ 3 liên tiếp. Niềm tin nhà đầu tư suy yếu rõ rệt với triển vọng chứng khoán giảm 1,49 điểm xuống 4,95 điểm, bất động sản giảm 1,06 điểm xuống 4 điểm (thấp nhất). Cổ phiếu trụ VHM, VIC yếu đi. Dù cụm ngân hàng có mã tăng (SGB +8%, TCB +1,41%), không đủ bù đắp áp lực bán từ các cổ phiếu hạng nặng.",
   "top": [
     {
-      "title": "Tự doanh và khối ngoại bán ròng liên tiếp",
+      "title": "Tự doanh và khối ngoại cùng nối dài chuỗi bán ròng",
       "impact": "↓",
-      "note": "Khối tự doanh bán ròng phiên thứ 7 liên tiếp với giá trị bán 609 tỷ đồng so với mua 350 tỷ đồng trên HOSE, đặc biệt VIX bị bán ròng 179 tỷ đồng. Khối ngoại bán ròng 275 tỷ đồng phiên thứ 3 liên tiếp, xóa sạch kỳ vọng hút vốn tháng 8 - tín hiệu tiêu cực về dòng vốn."
+      "note": "Tự doanh bán ròng phiên thứ 7 liên tiếp: mua 350 tỷ đ, bán 609 tỷ đ tại HOSE. Bán ròng VIX 179 tỷ đ, MCH 20.5 tỷ đ, ACB 17.5 tỷ đ. Khối ngoại bán ròng 275 tỷ đ phiên thứ 3 liên tiếp - xóa sạch kỳ vọng hút vốn tháng 8."
     },
     {
-      "title": "Niềm tin giảm mạnh về chứng khoán và bất động sản",
+      "title": "Niềm tin giảm mạnh, ngân hàng dè chừng chứng khoán, BĐS",
       "impact": "↓",
-      "note": "Triển vọng chứng khoán giảm 1,49 điểm xuống 4,95 điểm (gần mức trung tính), bất động sản giảm 1,06 điểm xuống mức thấp nhất 4 điểm. Các thành viên thị trường liên ngân hàng lo lạm phát toàn cầu từ căng thẳng Mỹ-Iran, giá dầu, và xác suất Fed tăng lãi 25bp ngày 16/9 đạt 58,4%."
+      "note": "Triển vọng chứng khoán giảm 1,49 điểm xuống 4,95 điểm (gần mức trung tính), bất động sản giảm 1,06 điểm xuống 4 điểm (thấp nhất). Các thành viên liên ngân hàng lo tác động thị trường tài chính quốc tế, xác suất Fed tăng lãi tháng 9 và căng thẳng Mỹ-Iran gia tăng bất định."
     },
     {
-      "title": "VN-Index đảo chiều sau lúc tăng 17 điểm sáng",
+      "title": "Cổ phiếu trụ 'ép' điểm số khi VHM, VIC suy yếu",
       "impact": "↓",
-      "note": "VN-Index tăng 17 điểm buổi sáng, tiến sát mốc kháng cự 1.850 điểm nhưng lực bán tăng mạnh, chỉ số mất hơn 18 điểm. Kết phiên giảm 3,32 điểm (-0,18%) xuống 1.827 điểm, xóa sạch toàn bộ mức tăng sáng - phản ánh áp lực bán vẫn chiếm ưu thế."
+      "note": "VHM giảm 2,04%, VIC giảm 0,76%, lấy đi hơn 5 điểm từ VN-Index. VN-Index kết phiên giảm 3,32 điểm (-0,18%) xuống 1.827 điểm. Dòng tiền vào VN30 yếu, giá trị khớp lệnh cả ngày 8.020 tỷ đ, giảm 10% so với trung bình 10 phiên."
     },
     {
-      "title": "Dòng tiền quốc tế chuyển sang phòng thủ",
+      "title": "Cổ phiếu TRC bị bán tháo trước chia cổ tức 300%",
       "impact": "↓",
-      "note": "Dòng vốn ETF Mỹ sụt 70% xuống 14 tỷ USD, nhóm cổ phiếu bị rút ròng 7,1 tỷ USD (lần đầu sau nhiều tháng). ETF trái phiếu hút ròng 10 tỷ USD, ETF hàng hóa hút ròng 2,3 tỷ USD tuần 5 liên tiếp. Phản ánh lo ngại lạm phát toàn cầu trước cuộc họp chính sách các ngân hàng lớn."
+      "note": "TRC giảm 4,2% xuống 82.200 đ, phiên giảm thứ 4 liên tiếp. Khối lượng khớp lệnh tăng đột biến lên 358.500 cổ phiếu. Vốn hóa còn 2.466 tỷ đ. Bán tháo ngay trước ngày đăng ký cuối 16/9 để chốt danh sách nhận cổ phiếu thưởng."
     },
     {
-      "title": "Thanh khoản sụt giảm đáng kể trên thị trường",
-      "impact": "↓",
-      "note": "Giá trị giao dịch HOSE tháng 8 chỉ 17,3 nghìn tỷ đồng, giảm so với mức bình thường khoảng 30 nghìn tỷ đồng. Tài khoản mở mới tháng 8 đạt 229,8 ngàn (tăng từ đáy tháng 7 nhưng vẫn mức thấp). Sự suy giảm thanh khoản là tín hiệu cảnh báo về tâm lý nhà đầu tư."
-    },
-    {
-      "title": "VPL (Vinpearl) tăng 4%, sector giải trí khả quan",
+      "title": "Một cổ phiếu ngân hàng tăng 8%, có lúc tăng trần 14,4%",
       "impact": "↑",
-      "note": "VPL tăng 4% phiên thứ 4 liên tiếp, vốn hóa 154 nghìn tỷ đồng, cổ phiếu lên cao nhất hơn 2 tháng (85.900 đồng). Vinpearl sở hữu 8 cơ sở VinWonders với diện tích 681 ha (gấp 14 lần Disneyland Paris). Nhóm du lịch-giải trí tăng 1,03% - tín hiệu tích cực duy nhất trong bức tranh ảm đạm."
+      "note": "SGB tăng trần 8% lên 13.500 đ, sáng phiên có lúc tăng 14,4% lên 14.300 đ. TCB tăng 1,41% lên 32.400 đ, VCB tăng 1,03% lên 58.700 đ, STB tăng 0,79%. Tín hiệu tích cực từ nhóm ngân hàng giữa thị trường khó khăn."
+    },
+    {
+      "title": "Giá vàng miếng chiều 9/9 đảo chiều tăng 1,2 triệu đ/lượng",
+      "impact": "↑",
+      "note": "Chiều: giá vàng miếng tăng 1,2 triệu đ, lên 143,6-146,6 triệu đ/lượng tại SJC. Vàng nhẫn trơn tăng lên 143,1-146,1 triệu đ/lượng. Vàng quốc tế hồi phục lên 4.400 USD/ounce (+55 USD), xóa sạch mức giảm 1,2 triệu đ sáng nay."
     }
   ]
 }
