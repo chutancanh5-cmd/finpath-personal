@@ -43,6 +43,11 @@ FRED = "https://api.stlouisfed.org/fred/series/observations"
 FEEDS = NF.VN_FEEDS
 KEYWORDS = NF.VN_KEYWORDS
 
+# Do dai than bai giu lai cho ban digest cua app (--rawdump ghi vao _rss_raw.json).
+# Ngan hon ban Discord (2.200) vi o day la 14 tin chu khong phai 6: 14 x 1.200 ~ 17KB,
+# vua mot lan doc cua Haiku ma van du y de viet "note" co so lieu.
+NOI_DUNG_CHO_DIGEST = 1200
+
 # Suc khoe feed cua lan quet gan nhat — ghi vao news.json de trang Prime Finance
 # noi duoc "muc tin ngan di vi nguon hong", thay vi de nguoi doc hieu nham thanh
 # "hom nay it tin". Xem newsfeeds.py de biet ba kieu feed hong deu tra HTTP 200.
@@ -198,17 +203,17 @@ def ai_digest(items, key):
     except ImportError:
         log("chua cai anthropic -> bo qua AI")
         return None
-    # Kem mo ta bai (RSS/meta) chu khong chi tieu de: "note" viet tu tieu de khong thi
-    # chi la doan tieu de viet lai, khong phai thong tin tu bai bao.
-    headlines = "\n".join(
-        f"- [{it['source']}] {it['title']}"
-        + (f"\n  ({it['desc']})" if it.get("desc") else "") for it in items)
-    prompt = ("Bạn là chuyên gia phân tích vĩ mô cho TTCK Việt Nam. Dưới đây là tin hôm nay (tiêu đề + mô tả bài nếu có). Hãy:\n"
+    # Kem THAN BAI (hoac mo ta RSS neu khong doc duoc) chu khong chi tieu de: "note"
+    # viet tu tieu de khong thi chi la doan tieu de viet lai, khong phai thong tin
+    # trong bai. Dung chung ham voi duong Discord de hai noi mo ta tin y het nhau.
+    headlines = _khoi_tin_cho_ai(items)
+    prompt = ("Bạn là chuyên gia phân tích vĩ mô cho TTCK Việt Nam. Dưới đây là tin hôm nay (tiêu đề + nội dung bài nếu lấy được). Hãy:\n"
               "1) Đánh giá sắc thái CHUNG tới TTCK VN (Tích cực/Trung tính/Tiêu cực).\n"
               "2) summary_vi 3-5 câu tiếng Việt súc tích.\n"
               "3) top tối đa 6 tin tác động mạnh nhất: title ngắn, impact (↑ tốt/→ trung "
               "tính/↓ xấu), note 1-2 câu nêu THÔNG TIN CỤ THỂ trong tin (số liệu, ai làm "
-              "gì, mốc thời gian) chứ không diễn đạt lại tiêu đề.\n\n"
+              "gì, mốc thời gian) chứ không diễn đạt lại tiêu đề. Giữ NGUYÊN đơn vị và "
+              "con số như trong bài, không tự quy đổi.\n\n"
               f"TIN:\n{headlines}")
     try:
         client = anthropic.Anthropic(api_key=key, timeout=60.0, max_retries=1)
@@ -539,6 +544,13 @@ def main():
 
     if "--rawdump" in sys.argv:
         items = fetch_rss()
+        # Doc THAN BAI cho ca danh sach truoc khi ghi ra: buoc CLI ke tiep (ai_prompt_ci)
+        # viet "note" cho trang tin cua app tu chinh file nay, ma tieu de + desc RSS thi
+        # chi du de viet lai tieu de. CHI lam o --rawdump, KHONG lam o --check-new:
+        # --check-new chay ~288 lan/ngay va phai giu that nhe (xem finpath-tinai.yml).
+        # dump_moi_for_ai() ben duoi dung lai noi_dung nay, khong tai trang lan hai.
+        NF.bo_sung_noi_dung(items, max_chars=NOI_DUNG_CHO_DIGEST)
+        log(f"than bai: {sum(1 for it in items if it.get('noi_dung'))}/{len(items)} tin doc duoc")
         out = os.path.join(ROOT, "docs", "data", "_rss_raw.json")
         json.dump({"date": today(), "items": items}, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         log("rawdump:", len(items), "tin ->", out)
