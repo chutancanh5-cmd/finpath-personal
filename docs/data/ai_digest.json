@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tin chính sách nghiêng về hướng hỗ trợ: Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, trong khi vốn hóa HOSE cuối tháng 8 tăng 7,55% so với tháng trước lên hơn 8,84 triệu tỷ đồng với 52 doanh nghiệp vốn hóa tỷ USD — nền tảng tốt cho nhóm chứng khoán và ngân hàng. Áp lực tăng vốn của các công ty chứng khoán (một đơn vị sắp vượt 33.000 tỷ đồng vốn điều lệ) cho thấy kỳ vọng mở rộng margin và dòng tiền, dù pha loãng ngắn hạn là có thật. Rủi ro ngắn hạn đến từ chi phí vốn: chứng chỉ tiền gửi dưới 6 tháng chào lãi suất 7-8%/năm cho thấy thanh khoản hệ thống không dư dả và tiền nhàn rỗi có kênh cạnh tranh trực tiếp với cổ phiếu. Bên ngoài, lợi suất trái phiếu kho bạc Mỹ 10 năm nếu trụ trên 4,8% sẽ gây sức ép lên định giá tài sản rủi ro và tỷ giá. Chiến lược hợp lý là ưu tiên cổ phiếu hưởng lợi trực tiếp từ cải cách thị trường vốn, hạn chế đòn bẩy và tránh nhóm nhạy cảm với lãi suất.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Dòng tin hôm nay nghiêng về tích cực với chủ đề nâng hạng thị trường: dòng vốn ngoại theo FTSE GEIS cùng việc Fubon tái phân bổ đang chảy mạnh vào nhóm vốn hóa lớn, dẫn đầu là cổ phiếu ngân hàng. Chính phủ ban hành Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, củng cố kỳ vọng chính sách trung hạn, trong khi quy mô vốn hóa HOSE đã đạt gần 68,84% GDP với 52 doanh nghiệp tỷ USD và các công ty chứng khoán tiếp tục tăng vốn để mở rộng dư địa margin. Ở chiều rủi ro ngắn hạn, 253 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong 12 tháng tới tạo áp lực thanh khoản lên nhóm bất động sản, còn làn sóng chứng chỉ tiền gửi lãi suất 7-8%/năm cho thấy chi phí vốn đang nhích lên và cạnh tranh trực tiếp với dòng tiền vào chứng khoán. Nhà đầu tư nên ưu tiên nhóm ngân hàng - chứng khoán hưởng lợi từ dòng vốn nâng hạng, đồng thời thận trọng với doanh nghiệp có đòn bẩy trái phiếu cao.",
   "top": [
     {
-      "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính (NQ 262/NQ-CP)",
+      "title": "Dòng tiền nâng hạng FTSE và Fubon tái phân bổ đổ vào cổ phiếu ngân hàng",
       "impact": "↑",
-      "note": "Định hướng chính sách cấp Chính phủ củng cố kỳ vọng nâng hạng và mở rộng kênh huy động vốn cho doanh nghiệp niêm yết."
+      "note": "Dòng vốn ngoại mua ròng quy mô lớn tập trung vào bluechip ngân hàng, hỗ trợ trực tiếp chỉ số."
     },
     {
-      "title": "Vốn hóa HOSE vượt 8,84 triệu tỷ đồng, 52 doanh nghiệp vốn hóa tỷ USD",
+      "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
       "impact": "↑",
-      "note": "Vốn hóa tăng 7,55% so với tháng trước phản ánh dòng tiền và tâm lý thị trường vẫn đang tích cực."
+      "note": "Nghị quyết 262/NQ-CP củng cố kỳ vọng cải cách, nâng chất lượng và chiều sâu thị trường chứng khoán."
     },
     {
-      "title": "Chứng chỉ tiền gửi dưới 6 tháng chào lãi suất 7-8%/năm",
+      "title": "253 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong 12 tháng tới",
       "impact": "↓",
-      "note": "Lãi suất huy động ngắn hạn cao hút bớt tiền nhàn rỗi khỏi chứng khoán và báo hiệu chi phí vốn đang nhích lên."
+      "note": "Áp lực trả nợ lớn đe dọa thanh khoản nhóm bất động sản và ngân hàng cho vay liên quan."
     },
     {
-      "title": "Lợi suất trái phiếu kho bạc Mỹ 10 năm có thể vượt và giữ trên 4,8%",
+      "title": "Nở rộ chứng chỉ tiền gửi dưới 6 tháng lãi suất 7-8%/năm",
       "impact": "↓",
-      "note": "Lợi suất Mỹ cao kéo dài gây áp lực lên tỷ giá, khối ngoại và mặt bằng định giá cổ phiếu."
+      "note": "Chi phí huy động tăng hút dòng tiền nhàn rỗi khỏi kênh cổ phiếu và bào mòn NIM ngân hàng."
+    },
+    {
+      "title": "Vốn hóa HOSE đạt 8,84 triệu tỷ đồng với 52 doanh nghiệp tỷ USD",
+      "impact": "↑",
+      "note": "Quy mô và số lượng cổ phiếu tỷ USD tăng giúp thị trường đáp ứng tốt hơn tiêu chí của quỹ ngoại."
     },
     {
       "title": "Công ty chứng khoán sắp có vốn điều lệ vượt 33.000 tỷ đồng",
       "impact": "↑",
-      "note": "Năng lực cho vay margin và bảo lãnh phát hành tăng mạnh, hỗ trợ thanh khoản dù cổ phiếu bị pha loãng ngắn hạn."
-    },
-    {
-      "title": "Động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm",
-      "impact": "→",
-      "note": "Câu chuyện tăng trưởng dài hạn hấp dẫn nhưng phụ thuộc hiệu quả sử dụng vốn, chưa tạo tác động tức thì lên giá cổ phiếu."
+      "note": "Tăng vốn mở rộng dư địa cho vay margin, hỗ trợ thanh khoản thị trường nhưng pha loãng ngắn hạn."
     }
   ]
 }
