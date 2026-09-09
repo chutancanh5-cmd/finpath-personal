@@ -1,11 +1,15 @@
-Đọc file docs/data/_moi_raw.json (mảng "items", mỗi tin có "title", "source", "desc" — "desc" có thể rỗng nếu không lấy được mô tả).
+Đọc file docs/data/_moi_raw.json (mảng "items", mỗi tin có "title", "source", "noi_dung" = nội dung thân bài lấy từ trang báo, "desc" = mô tả ngắn. "noi_dung" hoặc "desc" có thể rỗng nếu không lấy được).
 
-Với MỖI tin trong "items", viết 1 câu tiếng Việt ngắn gọn (dưới 25 từ) nêu Ý CHÍNH / điểm quan trọng nhất của tin (số liệu cụ thể, ai làm gì, quyết định gì) — dựa vào "desc" nếu có, hoặc suy luận hợp lý từ "title" nếu "desc" rỗng. KHÔNG lặp lại nguyên văn tiêu đề.
+Bạn tóm tắt tin tài chính cho nhà đầu tư chứng khoán Việt Nam. Với MỖI tin, dựa vào "noi_dung" (nếu rỗng thì dùng "desc", nếu cả hai đều rỗng thì suy luận hợp lý từ "title"):
+
+1) y_chinh: 2-3 câu tiếng Việt (40-70 từ) TÓM TẮT BÀI BÁO — nêu số liệu cụ thể, ai quyết định gì, mốc thời gian, và hàm ý cho thị trường/cổ phiếu liên quan. TUYỆT ĐỐI không chép lại hay diễn đạt vòng vo chính tiêu đề: người đọc đã nhìn thấy tiêu đề ngay phía trên, nên phần tóm tắt phải nói THÊM thông tin từ bài báo.
+
+2) sac_thai: đánh giá tác động tới thị trường chứng khoán Việt Nam, chọn đúng 1 trong 3 nhãn: Tích cực | Trung tính | Tiêu cực.
 
 Rồi GHI ĐÈ file docs/data/_moi_summaries.json bằng đúng JSON sau (tiếng Việt, không thêm gì ngoài JSON, giữ đúng thứ tự và số lượng tin, "title" trả về Y NGUYÊN tiêu đề gốc để đối chiếu):
 {
   "items": [
-    {"title": "tiêu đề y nguyên", "y_chinh": "1 câu ý chính"}
+    {"title": "tiêu đề y nguyên", "y_chinh": "2-3 câu tóm tắt bài báo", "sac_thai": "Tích cực|Trung tính|Tiêu cực"}
   ]
 }
 

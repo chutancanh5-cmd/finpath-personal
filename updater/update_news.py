@@ -198,16 +198,24 @@ def ai_digest(items, key):
     except ImportError:
         log("chua cai anthropic -> bo qua AI")
         return None
-    headlines = "\n".join(f"- [{it['source']}] {it['title']}" for it in items)
-    prompt = ("Bạn là chuyên gia phân tích vĩ mô cho TTCK Việt Nam. Dưới đây là tiêu đề tin hôm nay. Hãy:\n"
+    # Kem mo ta bai (RSS/meta) chu khong chi tieu de: "note" viet tu tieu de khong thi
+    # chi la doan tieu de viet lai, khong phai thong tin tu bai bao.
+    headlines = "\n".join(
+        f"- [{it['source']}] {it['title']}"
+        + (f"\n  ({it['desc']})" if it.get("desc") else "") for it in items)
+    prompt = ("Bạn là chuyên gia phân tích vĩ mô cho TTCK Việt Nam. Dưới đây là tin hôm nay (tiêu đề + mô tả bài nếu có). Hãy:\n"
               "1) Đánh giá sắc thái CHUNG tới TTCK VN (Tích cực/Trung tính/Tiêu cực).\n"
               "2) summary_vi 3-5 câu tiếng Việt súc tích.\n"
-              "3) top tối đa 6 tin tác động mạnh nhất: title ngắn, impact (↑ tốt/→ trung tính/↓ xấu), note 1 câu.\n\n"
+              "3) top tối đa 6 tin tác động mạnh nhất: title ngắn, impact (↑ tốt/→ trung "
+              "tính/↓ xấu), note 1-2 câu nêu THÔNG TIN CỤ THỂ trong tin (số liệu, ai làm "
+              "gì, mốc thời gian) chứ không diễn đạt lại tiêu đề.\n\n"
               f"TIN:\n{headlines}")
     try:
         client = anthropic.Anthropic(api_key=key, timeout=60.0, max_retries=1)
         resp = client.messages.create(
-            model="claude-opus-5", max_tokens=1500,
+            # Tin tuc -> Haiku 4.5 (quyet dinh 2026-09-09). Cac phan can suy luan nang
+            # (phan tich ky thuat, vi mo) van giu Opus 5.
+            model="claude-haiku-4-5-20251001", max_tokens=2000,
             messages=[{"role": "user", "content": prompt}],
             output_config={"format": {"type": "json_schema", "schema": _SCHEMA}})
         text = next((b.text for b in resp.content if b.type == "text"), "")
@@ -284,38 +292,44 @@ def xuat_github_output(khoa, gia_tri):
             f.write(f"{khoa}={gia_tri}\n")
 
 
-def _extract_meta(html_text, name):
-    """Lay content cua the <meta name=... hoac property=...>, khong quan tam thu tu attr."""
-    for pat in (rf'<meta[^>]+(?:name|property)=["\']{name}["\'][^>]*content=["\']([^"\']*)["\']',
-                rf'<meta[^>]+content=["\']([^"\']*)["\'][^>]*(?:name|property)=["\']{name}["\']'):
-        m = re.search(pat, html_text, re.IGNORECASE)
-        if m:
-            return m.group(1)
-    return ""
+# Doc mo ta / than bai cua trang bao: dung CHUNG voi macro bot qua newsfeeds.py
+# (ban sao song sinh o hai repo). De ben do vi ca hai bot deu can, va vi hai chi
+# tiet trong do phai do thuc te moi biet: VnEconomy tra ve than nen gzip ma urllib
+# khong tu giai, va menu cua trang bao co the nam gon trong MOT the <p> dai 3.387
+# ky tu, dai hon ca bai bao.
+fetch_article_desc = NF.article_desc
+fetch_article_text = NF.article_text
 
 
-def fetch_article_desc(url, timeout=8):
-    """RSS (CafeF nhat la) hay lap nguyen tieu de vao <description> -> newsfeeds.py
-    da vut bo desc do. Bu lai bang cach doc the og:description/description ngay
-    tren trang bai bao -- toa soan thuong viet san 1-2 cau tom tat that su o day."""
-    if not url:
-        return ""
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            raw = r.read(150000).decode("utf-8", "replace")
-    except Exception as e:
-        log("fetch_article_desc loi:", str(e)[:60])
-        return ""
-    desc = _extract_meta(raw, "og:description") or _extract_meta(raw, "description")
-    return NF._trim(NF._clean(desc), 400) if desc else ""
+def lay_ngu_canh(items):
+    """Do day du lieu cho AI tom tat: than bai (song song) > mo ta meta > desc RSS.
 
+    Chi doc the meta cho tin nao KHONG co ca than bai lan desc RSS -- truoc do moi tin
+    ton hai luot tai trang, trong khi da co than bai thi the meta khong them gi.
+    """
+    NF.bo_sung_noi_dung(items)
+    for it in items:
+        if not it.get("noi_dung") and not it.get("desc"):
+            it["desc"] = fetch_article_desc(it.get("link", ""))
+    return items
+
+
+# Sac thai tung tin: app Prime Finance da hien (sentiment +/-/"" trong news.json ->
+# app.js renderNews) nhung Discord thi chua, nen doc tin tren Discord khong biet tin
+# tot hay xau neu khong doc het tom tat. Dung DUNG 3 nhan app dang hien de hai noi
+# khong lech chu.
+_SAC_THAI = ["Tích cực", "Trung tính", "Tiêu cực"]
+
+# Huy hieu + mau vien embed theo sac thai.
+_BADGE = {"Tích cực": ("🟢", 0x2ecc71), "Tiêu cực": ("🔴", 0xe74c3c),
+          "Trung tính": ("⚪", 0x95a5a6)}
 
 _SUM_SCHEMA = {
     "type": "object",
     "properties": {"items": {"type": "array", "items": {"type": "object", "properties": {
-        "title": {"type": "string"}, "y_chinh": {"type": "string"}},
-        "required": ["title", "y_chinh"], "additionalProperties": False}}},
+        "title": {"type": "string"}, "y_chinh": {"type": "string"},
+        "sac_thai": {"type": "string", "enum": _SAC_THAI}},
+        "required": ["title", "y_chinh", "sac_thai"], "additionalProperties": False}}},
     "required": ["items"], "additionalProperties": False}
 
 
@@ -335,36 +349,76 @@ def dump_moi_for_ai(all_items, toi_da=6):
     moi, lan_dau = loc_tin_moi(all_items)
     if lan_dau or not moi:
         return
-    chon = moi[:toi_da]
-    for it in chon:
-        if not it.get("desc"):
-            it["desc"] = fetch_article_desc(it.get("link", ""))
+    chon = lay_ngu_canh(moi[:toi_da])
     json.dump({"date": today(), "items": [
-        {"title": it["title"], "source": it["source"], "desc": it.get("desc", "")}
+        {"title": it["title"], "source": it["source"], "desc": it.get("desc", ""),
+         "noi_dung": it.get("noi_dung", "")}
         for it in chon]}, open(MOI_RAW, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     log(f"da ghi {MOI_RAW}: {len(chon)} tin cho AI tom tat")
 
 
+def _chuan_hoa_tom_tat(x):
+    """Mot muc AI tra ve -> {y_chinh, sac_thai}. Sac thai la nhan khong hop le thi bo
+    han (roi ve Trung tinh) thay vi de chu la lot vao huy hieu tren Discord."""
+    y = (x.get("y_chinh") or "").strip()
+    st = (x.get("sac_thai") or "").strip()
+    return {"y_chinh": y, "sac_thai": st if st in _SAC_THAI else "Trung tính"}
+
+
 def load_moi_summaries():
-    """Doc 'y chinh' do buoc CLI (Claude thue bao) viet san vao MOI_SUM -- dung
-    KHI KHONG co ANTHROPIC_API_KEY (truong hop thuong gap, xem finpath-tinai.yml)."""
+    """Doc tom tat do buoc CLI (Claude thue bao) viet san vao MOI_SUM -- dung
+    KHI KHONG co ANTHROPIC_API_KEY (truong hop thuong gap, xem finpath-tinai.yml).
+
+    -> {title: {"y_chinh": ..., "sac_thai": ...}}. Ban ghi cu (y_chinh la chuoi tran)
+    van doc duoc: coi nhu Trung tinh, de mot file _moi_summaries.json con sot lai tu
+    lan chay truoc khong lam vo buoc ban Discord."""
     try:
         d = json.load(open(MOI_SUM, encoding="utf-8"))
         items = d.get("items") if isinstance(d, dict) else d
         if isinstance(items, list):
-            return {x["title"]: x.get("y_chinh", "") for x in items if x.get("title")}
+            return {x["title"]: _chuan_hoa_tom_tat(x) for x in items if x.get("title")}
         if isinstance(items, dict):
-            return items
+            return {k: (_chuan_hoa_tom_tat(v) if isinstance(v, dict)
+                        else {"y_chinh": str(v), "sac_thai": "Trung tính"})
+                    for k, v in items.items()}
     except Exception:
         pass
     return {}
 
 
+# Yeu cau dat ra cho AI -- dung CHUNG cho duong API (ham duoi) va duong CLI thue bao
+# (updater/ai_prompt_discord_ci.txt). Sua o day thi PHAI sua ca file prompt kia, neu
+# khong hai duong se cho ra hai kieu tom tat khac nhau tuy hom do chay duong nao.
+YEU_CAU_TOM_TAT = (
+    "Bạn tóm tắt tin tài chính cho nhà đầu tư chứng khoán Việt Nam.\n\n"
+    "Với MỖI tin dưới đây, dựa vào NỘI DUNG BÀI (nếu có) chứ không chỉ tiêu đề:\n"
+    "1) y_chinh: 2-3 câu tiếng Việt (40-70 từ) TÓM TẮT BÀI BÁO — nêu số liệu cụ thể, "
+    "ai quyết định gì, mốc thời gian, và hàm ý cho thị trường/cổ phiếu liên quan. "
+    "TUYỆT ĐỐI không chép lại hay diễn đạt vòng vo chính tiêu đề: người đọc đã thấy "
+    "tiêu đề rồi nên phần tóm tắt phải nói THÊM thông tin từ bài báo.\n"
+    "2) sac_thai: đánh giá tác động tới thị trường chứng khoán Việt Nam, chọn đúng 1 "
+    "trong 3 nhãn: Tích cực | Trung tính | Tiêu cực.\n\n"
+    "Giữ đúng thứ tự và số lượng tin, trường title trả về Y NGUYÊN tiêu đề gốc.")
+
+
+def _khoi_tin_cho_ai(items):
+    """Khoi van ban mo ta tung tin cho AI -- dung chung o ca hai duong (API/CLI)."""
+    lines = []
+    for i, it in enumerate(items, 1):
+        than = (it.get("noi_dung") or "").strip()
+        ctx = than or it.get("desc") or "(không lấy được nội dung, chỉ có tiêu đề)"
+        nhan = "Nội dung bài" if than else "Mô tả"
+        lines.append(f"{i}. [{it['source']}] {it['title']}\n   {nhan}: {ctx}")
+    return "\n\n".join(lines)
+
+
 def ai_diem_chinh(items, key):
-    """AI tom tat 1 cau 'y chinh' cho tung tin sap ban Discord, dua vao tieu de +
-    mo ta bai (RSS hoac meta trang bao), goi truc tiep qua API SDK (ton credit).
-    -> dict {title: y_chinh}; rong neu khong co key hoac AI loi -- nguoi goi roi ve
-    load_moi_summaries() (Claude thue bao qua CLI) roi moi toi desc tho."""
+    """AI tom tat + cham sac thai cho tung tin sap ban Discord, goi truc tiep qua API
+    SDK (ton credit). Tin tuc dung HAIKU 4.5 (quyet dinh 2026-09-09: phan tin tuc do
+    Haiku tom tat, phan can suy luan nang -- ky thuat, vi mo -- moi dung Opus 5).
+
+    -> dict {title: {"y_chinh", "sac_thai"}}; rong neu khong co key hoac AI loi --
+    nguoi goi roi ve load_moi_summaries() (Claude thue bao qua CLI) roi moi toi desc tho."""
     if not key or not items:
         return {}
     try:
@@ -372,23 +426,16 @@ def ai_diem_chinh(items, key):
     except ImportError:
         log("chua cai anthropic -> bo qua AI tom tat")
         return {}
-    lines = []
-    for i, it in enumerate(items, 1):
-        ctx = it.get("desc") or "(không có mô tả, chỉ có tiêu đề)"
-        lines.append(f"{i}. [{it['source']}] {it['title']}\n   Mô tả: {ctx}")
-    prompt = ("Với mỗi tin dưới đây, viết 1 câu tiếng Việt ngắn gọn (dưới 25 từ) nêu "
-              "Ý CHÍNH / điểm quan trọng nhất của tin (số liệu, quyết định, ai làm gì) "
-              "-- KHÔNG lặp lại nguyên văn tiêu đề. Giữ đúng thứ tự và số lượng tin, "
-              "trường title trả về y nguyên tiêu đề gốc.\n\n" + "\n".join(lines))
+    prompt = YEU_CAU_TOM_TAT + "\n\nTIN:\n" + _khoi_tin_cho_ai(items)
     try:
-        client = anthropic.Anthropic(api_key=key, timeout=30.0, max_retries=1)
+        client = anthropic.Anthropic(api_key=key, timeout=60.0, max_retries=1)
         resp = client.messages.create(
-            model="claude-haiku-4-5-20251001", max_tokens=800,
+            model="claude-haiku-4-5-20251001", max_tokens=2000,
             messages=[{"role": "user", "content": prompt}],
             output_config={"format": {"type": "json_schema", "schema": _SUM_SCHEMA}})
         text = next((b.text for b in resp.content if b.type == "text"), "")
         data = json.loads(text).get("items", [])
-        return {it["title"]: d.get("y_chinh", "") for it, d in zip(items, data)}
+        return {it["title"]: _chuan_hoa_tom_tat(d) for it, d in zip(items, data)}
     except Exception as e:
         log("ai_diem_chinh loi:", str(e)[:120])
         return {}
@@ -409,26 +456,48 @@ def bao_discord_tin_moi(moi, anthropic_key=None, toi_da=6):
             "goi Claude lap lai vo han cho cung mot tin)")
         return True
     from notify import send_discord
+    # Doc than bai (roi ve meta trang bao) truoc khi nho AI tom tat -- xem
+    # fetch_article_text(): khong co than bai thi AI chi viet lai duoc tieu de.
     chon = moi[:toi_da]
-    # RSS (CafeF nhat la) hay de desc rong vi trung tieu de -> bu bang meta trang bao,
-    # roi de AI viet lai thanh 1 cau "y chinh" hien duoi tieu de trong Discord.
-    for it in chon:
-        if not it.get("desc"):
-            it["desc"] = fetch_article_desc(it.get("link", ""))
-    # Uu tien ban CLI (Claude thue bao, ghi san boi buoc --rawdump + `claude -p` trong
-    # workflow); chi goi API SDK (ton credit) neu co key va CLI khong co ket qua.
-    y_chinh = load_moi_summaries() or ai_diem_chinh(chon, anthropic_key)
-    dong = [f"• [{it['source']}] {it['title']}" for it in chon]
+    # Ban CLI (Claude thue bao) da viet san o buoc --rawdump + `claude -p` trong
+    # workflow -> co san thi KHONG tai lai trang bao nua (buoc --rawdump vua tai xong,
+    # tien trinh nay la tien trinh khac nen items khong con noi_dung).
+    tom_tat = load_moi_summaries()
+    thieu = [it for it in chon if not (tom_tat.get(it["title"]) or {}).get("y_chinh")]
+    if thieu:
+        # Chi doc than bai cho tin CHUA co tom tat, roi goi API SDK (ton credit) neu
+        # co key. Khong co key thi than bai/desc van la van du phong cho embed.
+        lay_ngu_canh(thieu)
+        tom_tat.update(ai_diem_chinh(thieu, anthropic_key))
+
+    # Tin nhan chinh CHI con dong tieu de. Truoc day no liet ke lai "• [nguon] tieu de"
+    # cho tung tin, ma ngay ben duoi moi embed da in dung tieu de do lam title -> doc
+    # thay hai lan cung mot chu (nguoi dung phan anh 2026-09-09).
+    noi_dung = f"📰 **{len(moi)} tin mới** — {today()}"
     if len(moi) > toi_da:
-        dong.append(f"… và {len(moi) - toi_da} tin khác")
-    noi_dung = f"📰 **{len(moi)} tin mới** — {today()}\n" + "\n".join(dong)
-    embeds = [{"title": it["title"][:250], "url": it["link"],
-               "description": (y_chinh.get(it["title"]) or it.get("desc", ""))[:400],
-               "footer": {"text": it["source"]}} for it in chon]
+        noi_dung += f"  ·  hiển thị {toi_da}, còn {len(moi) - toi_da} tin khác"
+
+    embeds = []
+    for it in chon:
+        t = tom_tat.get(it["title"]) or {}
+        sac = t.get("sac_thai")
+        than = (t.get("y_chinh") or it.get("desc") or "").strip()
+        if sac:
+            huy_hieu, mau = _BADGE.get(sac, _BADGE["Trung tính"])
+            mo_ta, chan = f"{huy_hieu} **{sac}**\n\n{than}", it["source"]
+        else:
+            # KHONG co AI (het quota / CLI loi) -> KHONG duoc in "Trung tính": do la mot
+            # danh gia chua ai dua ra. Noi thang la chua cham, giong cach news.json khai
+            # bao nguon tin hong thay vi im lang de nguoi doc hieu nham.
+            mau = _BADGE["Trung tính"][1]
+            mo_ta, chan = than, f"{it['source']} · chưa chấm sắc thái (không gọi được AI)"
+        embeds.append({
+            "title": it["title"][:250], "url": it["link"], "color": mau,
+            "description": mo_ta[:600], "footer": {"text": chan}})
     try:
         send_discord(hook, noi_dung, embeds, username="FinPath · Tin tức")
         log(f"da ban Discord {len(moi)} tin moi"
-            + (f" ({len(y_chinh)} co AI tom tat)" if y_chinh else ""))
+            + (f" ({len(tom_tat)} co AI tom tat)" if tom_tat else " (khong co AI tom tat)"))
         return True
     except Exception as e:
         log("Discord loi:", str(e)[:120])

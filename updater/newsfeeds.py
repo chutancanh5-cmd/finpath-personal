@@ -43,7 +43,7 @@ import datetime as dt
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
-VERSION = "2026-08-25"
+VERSION = "2026-09-09"
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
@@ -425,3 +425,140 @@ if __name__ == "__main__":
     print(f"\n=== {len(items)} TIN SAU KHU TRUNG ===")
     for it in items:
         print(f"  [{it['source']}] {it['title'][:78]}")
+
+
+# ===========================================================================
+# DOC THAN BAI (them 2026-09-09)
+# ===========================================================================
+# Vi sao: ca hai bot truoc day chi dua cho AI TIEU DE (+ desc RSS neu co). Toa soan
+# VN thuong viet <description> lap lai chinh tieu de, va newsfeeds da vut bo cai do
+# o tren -> AI khong co gi de tom tat ngoai tieu de, nen "tom tat" in ra Discord
+# thuc chat la tieu de viet dai ra. Doc than bai thi AI moi neu duoc so lieu that.
+
+_P_TAG = re.compile(r"<p[^>]*>(.*?)</p>", re.IGNORECASE | re.DOTALL)
+_DROP_TAG = re.compile(r"<(script|style|noscript)[^>]*>.*?</\1>", re.IGNORECASE | re.DOTALL)
+
+
+def tai_html(url, timeout=10, toi_da=500000):
+    """Tai HTML mot trang bao -> str, hoac "" neu hong.
+
+    PHAI tu GIAI NEN: VnEconomy tra ve than nen gzip ngay ca khi khong duoc yeu cau.
+    urllib khong tu giai, nen neu chi .decode() thi duoc mot dong byte nhi phan --
+    khong the <p> nao, khong og:description nao -- va ham goi im lang coi nhu bai
+    rong. Do that 2026-09-09: 3/14 tin (toan bo VnEconomy) roi vao truong hop nay.
+    """
+    if not url:
+        return ""
+    # Chi xin gzip/deflate (KHONG xin br): giai brotli can thu vien ngoai.
+    req = urllib.request.Request(url, headers={"User-Agent": UA,
+                                               "Accept-Encoding": "gzip, deflate"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            body = r.read(toi_da)
+            enc = (r.headers.get("Content-Encoding") or "").lower()
+    except Exception:
+        return ""
+    if "gzip" in enc or "deflate" in enc:
+        body = _giai_nen(body)
+        if not body:
+            return ""
+    return body.decode("utf-8", "replace")
+
+
+def _giai_nen(body):
+    """Giai nen than HTTP -> bytes, hoac b"" neu chiu.
+
+    Thu HAI kieu wbits vi hai bao nen hai kieu khac nhau va deu khai la Content-Encoding
+    hop le: VnEconomy tra gzip (co header), vietstock.vn khai "deflate" nhung than la
+    deflate THO khong header -- MAX_WBITS|32 (tu nhan dien gzip/zlib) khong doc duoc kieu
+    thu hai, ban dau tuong nham la "bai bao rong" tren toan bo tin VietStock.
+
+    Dung decompressobj chu khong phai zlib.decompress vi than da bi cat o gioi han doc
+    byte -> khoi nen cut, decompress() nem con decompressobj() tra ve phan giai duoc.
+    """
+    import zlib
+    for wbits in (zlib.MAX_WBITS | 32, -zlib.MAX_WBITS):
+        try:
+            out = zlib.decompressobj(wbits).decompress(body)
+            if out:
+                return out
+        except Exception:
+            continue
+    return b""
+
+
+def _la_doan_van(t):
+    """Doan <p> nay co phai VAN BAI khong, hay chi la vo giao dien?
+
+    Ba kieu rac do that ngay 2026-09-09 tren VnEconomy/CafeF/VietStock:
+      - MENU dan thanh MOT the <p> 3.387 ky tu ("Tiêu điểm Đầu tư Tài chính Kinh tế
+        số ...") -- dai hon ca bai, nuot tron han muc neu chi loc theo do dai toi thieu.
+      - DONG TAC GIA cua CafeF: "Theo Minh Tuệ | 09-09-2026 - 16:00 PM | Thị trường ..."
+      - Danh sach TIN LIEN QUAN: cac tieu de dinh lien nhau, gan nhu khong co dau cau.
+    """
+    if len(t) < 60 or len(t) > 1500:
+        return False
+    if t.count("|") >= 2:                     # dong tac gia / breadcrumb
+        return False
+    # Van bai co dau cau deu dan; menu va danh sach tieu de thi gan nhu khong co.
+    return (t.count(".") + t.count(",")) >= max(1, len(t) // 350)
+
+
+def article_text(url, timeout=12, max_chars=2200):
+    """Than bai (cac doan <p> that su la van) -> str; "" neu khong lay duoc."""
+    raw = tai_html(url, timeout)
+    if not raw:
+        return ""
+    raw = _DROP_TAG.sub(" ", raw)
+    doan, tong = [], 0
+    for m in _P_TAG.finditer(raw):
+        t = _clean(m.group(1))
+        if not _la_doan_van(t):
+            continue
+        doan.append(t)
+        tong += len(t)
+        if tong >= max_chars:
+            break
+    return _trim(" ".join(doan), max_chars)
+
+
+def _meta(html_text, name):
+    """content cua <meta name=...> hoac <meta property=...>, khong quan tam thu tu attr."""
+    for pat in (rf'<meta[^>]+(?:name|property)=["\']{name}["\'][^>]*content=["\']([^"\']*)["\']',
+                rf'<meta[^>]+content=["\']([^"\']*)["\'][^>]*(?:name|property)=["\']{name}["\']'):
+        m = re.search(pat, html_text, re.IGNORECASE)
+        if m:
+            return m.group(1)
+    return ""
+
+
+def article_desc(url, timeout=8):
+    """1-2 cau sapo toa soan viet san trong the og:description/description."""
+    raw = tai_html(url, timeout, 150000)
+    if not raw:
+        return ""
+    d = _meta(raw, "og:description") or _meta(raw, "description")
+    return _trim(_clean(d), 400) if d else ""
+
+
+def bo_sung_noi_dung(items, workers=6, timeout=12, max_chars=2200):
+    """Dien it["noi_dung"] (than bai) cho tung tin, chay song song.
+
+    Sua TAI CHO va tra ve chinh `items`. Tin nao lay khong duoc thi noi_dung = ""
+    -- nguoi goi tu roi ve desc RSS. KHONG nem: mot bai bao 404 khong duoc phep
+    giet ca ban tin.
+    """
+    can = [it for it in items if it.get("link") and not it.get("noi_dung")]
+    if not can:
+        return items
+    try:
+        from concurrent.futures import ThreadPoolExecutor
+    except Exception:
+        for it in can:
+            it["noi_dung"] = article_text(it["link"], timeout, max_chars)
+        return items
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        for it, txt in zip(can, ex.map(
+                lambda u: article_text(u, timeout, max_chars), [x["link"] for x in can])):
+            it["noi_dung"] = txt or ""
+    return items
