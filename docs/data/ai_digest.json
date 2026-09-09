@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Bức tranh phiên 9/9 nghiêng về thận trọng: VN-Index đánh mất sắc xanh cuối phiên khi VIC và VHM lao dốc, độ rộng thị trường xấu đi và ngay cả nhóm ngân hàng cũng phân hóa mạnh (chỉ 9/28 mã tăng). Yếu tố vĩ mô đáng chú ý nhất là tâm lý tổ chức: khảo sát liên ngân hàng cho thấy các thành viên vẫn tin vào tăng trưởng kinh tế và năng lực điều hành của NHNN, nhưng dè chừng rõ rệt với chứng khoán và bất động sản — trùng với xu hướng dòng tiền toàn cầu chuyển sang phòng thủ, rút ròng khỏi cổ phiếu để vào trái phiếu và hàng hóa (ETF hàng hóa hút ròng tuần thứ 5 liên tiếp, hơn 2,3 tỷ USD). Ở chiều hỗ trợ, nền tảng trung hạn vẫn tích cực: gần 229,8 nghìn tài khoản mở mới trong tháng 8 nâng tổng số lên gần 13,9 triệu (hơn 2 triệu tài khoản từ đầu năm, tương đương gần 14% dân số), trong khi các động lực tăng trưởng mới được kỳ vọng bổ sung 2,8-3,7 điểm phần trăm cho GDP mỗi năm. Hàm ý cho cổ phiếu: chỉ số vẫn phụ thuộc quá nhiều vào vài mã trụ nên rủi ro rung lắc ngắn hạn còn cao; ưu tiên doanh nghiệp có dòng tiền và câu chuyện lợi nhuận rõ ràng, hạn chế đòn bẩy và tránh mua đuổi ở nhóm bất động sản vốn hóa lớn cho tới khi dòng tiền tổ chức quay lại.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán đang chứng kiến áp lực mạnh từ dòng tiền toàn cầu rút ròng sang trái phiếu và hàng hóa, kết hợp với sự suy giảm niềm tin từ giới liên ngân hàng đối với cổ phiếu và bất động sản. Mặc dù số lượng nhà đầu tư tăng mạnh (13,8+ triệu tài khoản), nhưng áp lực bán trên thị trường và biến động giá vàng phản ánh tâm lý thận trọng. Chiến lược chuyển đổi kinh tế dài hạn và tiềm năng tăng trưởng GDP 2,8-3,7% mang lại kỳ vọng, nhưng rủi ro ngắn hạn vẫn đáng chú ý.",
   "top": [
     {
-      "title": "Cổ phiếu trụ ép điểm số, VN-Index mất sắc xanh cuối phiên",
+      "title": "Dòng tiền toàn cầu phòng thủ, rút ròng khỏi cổ phiếu",
       "impact": "↓",
-      "note": "VIC và VHM lao dốc kéo chỉ số đảo chiều, sắc đỏ lan rộng cho thấy áp lực bán thực sự chứ không chỉ là điều chỉnh kỹ thuật."
+      "note": "ETF hàng hóa hút ròng 2,3 tỷ USD, +72% tăng mạnh, phản ánh dòng vốn chuyển từ cổ phiếu sang trái phiếu, kim loại quý và dầu—áp lực giảm giá lên các chứng chỉ."
     },
     {
-      "title": "Dòng tiền toàn cầu phòng thủ, rút ròng mạnh khỏi cổ phiếu sang trái phiếu và hàng hóa",
+      "title": "Niềm tin giảm mạnh, giới liên ngân hàng dè chừng chứng khoán",
       "impact": "↓",
-      "note": "Khẩu vị rủi ro toàn cầu suy giảm thường kéo theo áp lực bán ròng của khối ngoại tại các thị trường cận biên như Việt Nam."
+      "note": "Các thành viên thị trường liên ngân hàng mặc dù kỳ vọng cao vào tăng trưởng kinh tế, nhưng thận trọng hơn với triển vọng chứng khoán và bất động sản—tâm lý thị trường chuyển sang phòng thủ."
     },
     {
-      "title": "Niềm tin liên ngân hàng giảm, dè chừng chứng khoán và bất động sản",
+      "title": "Cổ phiếu trụ lại ép điểm số, VN-Index mất sắc xanh",
       "impact": "↓",
-      "note": "Các tổ chức tài chính thận trọng với hai nhóm chiếm tỷ trọng vốn hóa lớn nhất, làm chậm dòng tiền lớn vào thị trường."
+      "note": "VN-Index không giữ được sắc xanh vào cuối phiên khi VIC và VHM lao dốc, sắc đỏ lan rộng hơn với áp lực bán gia tăng—tín hiệu kỹ thuật yếu đạo."
     },
     {
-      "title": "Thêm hơn 2 triệu tài khoản chứng khoán từ đầu năm, tổng số gần 13,9 triệu",
+      "title": "Giá vàng miếng lao dốc, chênh lệch với thế giới thu hẹp",
+      "impact": "↓",
+      "note": "Giá vàng miếng và vàng nhẫn giảm phổ biến 1,2 triệu đồng/lượng sáng 9/9, chênh lệch giá trong nước và thế giới thu hẹp—dấu hiệu rủi ro tài sản và tâm lý sợ hãi."
+    },
+    {
+      "title": "Việt Nam có thêm 2 triệu tài khoản chứng khoán từ đầu năm 2026",
       "impact": "↑",
-      "note": "Số mở mới tháng 8 hồi phục sau đáy tháng 7, mở rộng nền tảng nhà đầu tư và hỗ trợ thanh khoản trung hạn."
+      "note": "Tổng cộng hơn 13,8 triệu tài khoản, tương đương 14% dân số, tăng gần 229,8 ngàn tài khoản chỉ trong tháng 8—nhu cầu tham gia thị trường chứng khoán tiếp tục cao."
     },
     {
-      "title": "Động lực tăng trưởng mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm",
+      "title": "Giá vàng đảo chiều tăng mạnh 1,2 triệu đồng/lượng chiều 9/9",
       "impact": "↑",
-      "note": "Kỳ vọng tăng trưởng cao nhờ nâng hiệu quả sử dụng vốn củng cố triển vọng lợi nhuận doanh nghiệp niêm yết."
-    },
-    {
-      "title": "Giá vàng biến động mạnh hai chiều, chênh lệch với thế giới thu hẹp còn 5 triệu đồng/lượng",
-      "impact": "→",
-      "note": "Vàng giảm rồi đảo chiều tăng 1,2 triệu đồng/lượng trong ngày; chênh lệch thu hẹp giảm bớt sức hút đầu cơ cạnh tranh với kênh cổ phiếu."
+      "note": "Sau khi lao dốc sáng, giá vàng bất ngờ tăng mạnh chiều 9/9, xóa sạch mức giảm—dấu hiệu recovery nhưng vẫn cho thấy tính biến động cao của thị trường."
     }
   ]
 }
