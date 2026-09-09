@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-09",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường phiên 9/9 chịu áp lực từ nhóm trụ khi VIC và VHM lao dốc khiến VN-Index đánh mất sắc xanh, đồng thời sắc đỏ lan rộng cho thấy áp lực bán gia tăng. Tâm lý thận trọng được củng cố bởi khảo sát liên ngân hàng: các thành viên vẫn tin vào tăng trưởng kinh tế và điều hành của NHNN nhưng dè chừng với triển vọng chứng khoán và bất động sản, trong bối cảnh dòng tiền toàn cầu chuyển sang phòng thủ, rút ròng khỏi cổ phiếu để vào trái phiếu và hàng hóa. Ở chiều tích cực, nền tảng trung hạn vẫn vững: hơn 2 triệu tài khoản mở mới từ đầu năm nâng tổng số lên 13,8 triệu (gần 14% dân số), cùng kỳ vọng các động lực tăng trưởng mới có thể bổ sung 2,8-3,7 điểm phần trăm cho GDP mỗi năm. Rủi ro ngắn hạn là nhịp rung lắc do phân hóa mạnh giữa các nhóm ngành và sự phụ thuộc vào cổ phiếu trụ; nhà đầu tư nên ưu tiên nhóm có dòng tiền ổn định (ngân hàng đang phân hóa nhưng vẫn có mã bứt phá) và hạn chế dùng đòn bẩy cao.",
+  "summary_vi": "Bức tranh phiên 9/9 nghiêng về thận trọng: VN-Index đánh mất sắc xanh cuối phiên khi VIC và VHM lao dốc, độ rộng thị trường xấu đi và ngay cả nhóm ngân hàng cũng phân hóa mạnh (chỉ 9/28 mã tăng). Yếu tố vĩ mô đáng chú ý nhất là tâm lý tổ chức: khảo sát liên ngân hàng cho thấy các thành viên vẫn tin vào tăng trưởng kinh tế và năng lực điều hành của NHNN, nhưng dè chừng rõ rệt với chứng khoán và bất động sản — trùng với xu hướng dòng tiền toàn cầu chuyển sang phòng thủ, rút ròng khỏi cổ phiếu để vào trái phiếu và hàng hóa (ETF hàng hóa hút ròng tuần thứ 5 liên tiếp, hơn 2,3 tỷ USD). Ở chiều hỗ trợ, nền tảng trung hạn vẫn tích cực: gần 229,8 nghìn tài khoản mở mới trong tháng 8 nâng tổng số lên gần 13,9 triệu (hơn 2 triệu tài khoản từ đầu năm, tương đương gần 14% dân số), trong khi các động lực tăng trưởng mới được kỳ vọng bổ sung 2,8-3,7 điểm phần trăm cho GDP mỗi năm. Hàm ý cho cổ phiếu: chỉ số vẫn phụ thuộc quá nhiều vào vài mã trụ nên rủi ro rung lắc ngắn hạn còn cao; ưu tiên doanh nghiệp có dòng tiền và câu chuyện lợi nhuận rõ ràng, hạn chế đòn bẩy và tránh mua đuổi ở nhóm bất động sản vốn hóa lớn cho tới khi dòng tiền tổ chức quay lại.",
   "top": [
     {
-      "title": "Cổ phiếu trụ quay đầu ép điểm số, VN-Index mất sắc xanh cuối phiên",
+      "title": "Cổ phiếu trụ ép điểm số, VN-Index mất sắc xanh cuối phiên",
       "impact": "↓",
-      "note": "VIC và VHM lao dốc kéo chỉ số giảm, sắc đỏ lan rộng xác nhận áp lực bán gia tăng."
+      "note": "VIC và VHM lao dốc kéo chỉ số đảo chiều, sắc đỏ lan rộng cho thấy áp lực bán thực sự chứ không chỉ là điều chỉnh kỹ thuật."
     },
     {
-      "title": "Dòng tiền toàn cầu phòng thủ, rút ròng mạnh khỏi cổ phiếu",
+      "title": "Dòng tiền toàn cầu phòng thủ, rút ròng mạnh khỏi cổ phiếu sang trái phiếu và hàng hóa",
       "impact": "↓",
-      "note": "Vốn ngoại dịch chuyển sang trái phiếu và hàng hóa làm giảm khẩu vị rủi ro với thị trường mới nổi như Việt Nam."
+      "note": "Khẩu vị rủi ro toàn cầu suy giảm thường kéo theo áp lực bán ròng của khối ngoại tại các thị trường cận biên như Việt Nam."
     },
     {
-      "title": "Niềm tin giới liên ngân hàng giảm, dè chừng chứng khoán và bất động sản",
+      "title": "Niềm tin liên ngân hàng giảm, dè chừng chứng khoán và bất động sản",
       "impact": "↓",
-      "note": "Tổ chức tài chính thận trọng hơn với hai nhóm vốn hóa lớn nhất thị trường, hạn chế dòng tiền ngắn hạn."
+      "note": "Các tổ chức tài chính thận trọng với hai nhóm chiếm tỷ trọng vốn hóa lớn nhất, làm chậm dòng tiền lớn vào thị trường."
     },
     {
-      "title": "Thêm 2 triệu tài khoản chứng khoán từ đầu năm 2026, đạt 13,8 triệu",
+      "title": "Thêm hơn 2 triệu tài khoản chứng khoán từ đầu năm, tổng số gần 13,9 triệu",
       "impact": "↑",
-      "note": "Nền tảng nhà đầu tư mở rộng lên gần 14% dân số, hỗ trợ thanh khoản và chiều sâu thị trường."
+      "note": "Số mở mới tháng 8 hồi phục sau đáy tháng 7, mở rộng nền tảng nhà đầu tư và hỗ trợ thanh khoản trung hạn."
     },
     {
-      "title": "Động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm",
+      "title": "Động lực tăng trưởng mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm",
       "impact": "↑",
-      "note": "Kỳ vọng tăng trưởng hai con số nhờ hiệu quả sử dụng vốn củng cố triển vọng lợi nhuận doanh nghiệp trung hạn."
+      "note": "Kỳ vọng tăng trưởng cao nhờ nâng hiệu quả sử dụng vốn củng cố triển vọng lợi nhuận doanh nghiệp niêm yết."
     },
     {
-      "title": "Giá vàng biến động mạnh, chênh lệch với thế giới thu hẹp còn 5 triệu đồng/lượng",
+      "title": "Giá vàng biến động mạnh hai chiều, chênh lệch với thế giới thu hẹp còn 5 triệu đồng/lượng",
       "impact": "→",
-      "note": "Vàng đảo chiều liên tục trong phiên nhưng chênh lệch thu hẹp giúp giảm áp lực đầu cơ hút vốn khỏi chứng khoán."
+      "note": "Vàng giảm rồi đảo chiều tăng 1,2 triệu đồng/lượng trong ngày; chênh lệch thu hẹp giảm bớt sức hút đầu cơ cạnh tranh với kênh cổ phiếu."
     }
   ]
 }
