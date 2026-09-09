@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-09",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Tâm lý thị trường nghiêng về tích cực khi blue-chips giữ nhịp tốt, áp lực bán yếu và nhóm dầu khí được hỗ trợ bởi giá dầu thế giới tăng. Câu chuyện vĩ mô trung hạn khá thuận lợi với kỳ vọng dòng vốn thụ động vào Việt Nam có thể đạt tới 4,45 tỷ USD sau nâng hạng, cùng các động lực tăng trưởng mới được đánh giá có thể bổ sung 2,8-3,7 điểm phần trăm cho GDP mỗi năm — tạo nền cho nhóm ngân hàng, chứng khoán và bất động sản. Mặt bằng lãi suất tiết kiệm vẫn phân hóa mạnh giữa các kỳ hạn, trong khi giá vàng điều chỉnh giảm có thể giúp dòng tiền dịch chuyển sang kênh cổ phiếu. Rủi ro ngắn hạn đến từ lợi suất trái phiếu Mỹ tăng, đề xuất hạ mạnh ngưỡng miễn thuế hàng nhập khẩu giá trị nhỏ gây áp lực lên bán lẻ/thương mại điện tử, và tình trạng phân hóa khiến chỉ số dễ giằng co quanh vùng kháng cự. Nhà đầu tư nên ưu tiên cổ phiếu đầu ngành có câu chuyện cơ bản rõ ràng, hạn chế mua đuổi ở nhóm đã tăng nóng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường phiên 9/9 chịu áp lực từ nhóm trụ khi VIC và VHM lao dốc khiến VN-Index đánh mất sắc xanh, đồng thời sắc đỏ lan rộng cho thấy áp lực bán gia tăng. Tâm lý thận trọng được củng cố bởi khảo sát liên ngân hàng: các thành viên vẫn tin vào tăng trưởng kinh tế và điều hành của NHNN nhưng dè chừng với triển vọng chứng khoán và bất động sản, trong bối cảnh dòng tiền toàn cầu chuyển sang phòng thủ, rút ròng khỏi cổ phiếu để vào trái phiếu và hàng hóa. Ở chiều tích cực, nền tảng trung hạn vẫn vững: hơn 2 triệu tài khoản mở mới từ đầu năm nâng tổng số lên 13,8 triệu (gần 14% dân số), cùng kỳ vọng các động lực tăng trưởng mới có thể bổ sung 2,8-3,7 điểm phần trăm cho GDP mỗi năm. Rủi ro ngắn hạn là nhịp rung lắc do phân hóa mạnh giữa các nhóm ngành và sự phụ thuộc vào cổ phiếu trụ; nhà đầu tư nên ưu tiên nhóm có dòng tiền ổn định (ngân hàng đang phân hóa nhưng vẫn có mã bứt phá) và hạn chế dùng đòn bẩy cao.",
   "top": [
     {
-      "title": "Dòng vốn thụ động vào Việt Nam có thể đạt 4,45 tỷ USD",
-      "impact": "↑",
-      "note": "Kỳ vọng vốn ngoại giải ngân theo lộ trình nâng hạng là lực đỡ mạnh cho thanh khoản và nhóm vốn hóa lớn."
-    },
-    {
-      "title": "Blue-chips giữ nhịp tốt, cổ phiếu dầu khí nổi bật",
-      "impact": "↑",
-      "note": "Áp lực bán rất nhẹ và trụ blue-chips vững giúp chỉ số duy trì xu hướng đi lên."
-    },
-    {
-      "title": "Động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm/năm",
-      "impact": "↑",
-      "note": "Triển vọng tăng trưởng hai con số củng cố định giá dài hạn cho ngân hàng, bất động sản và hạ tầng."
-    },
-    {
-      "title": "Đề xuất hạ ngưỡng miễn thuế hàng nhập khẩu giá trị nhỏ về 100.000 đồng",
+      "title": "Cổ phiếu trụ quay đầu ép điểm số, VN-Index mất sắc xanh cuối phiên",
       "impact": "↓",
-      "note": "Tăng chi phí và thủ tục cho thương mại điện tử, logistics và bán lẻ hàng nhập khẩu."
+      "note": "VIC và VHM lao dốc kéo chỉ số giảm, sắc đỏ lan rộng xác nhận áp lực bán gia tăng."
     },
     {
-      "title": "Giá vàng lao dốc khi lợi suất trái phiếu kho bạc Mỹ tăng",
-      "impact": "→",
-      "note": "Vàng giảm có thể đẩy dòng tiền sang cổ phiếu, nhưng lợi suất Mỹ tăng lại tạo áp lực lên tỷ giá và vốn ngoại."
+      "title": "Dòng tiền toàn cầu phòng thủ, rút ròng mạnh khỏi cổ phiếu",
+      "impact": "↓",
+      "note": "Vốn ngoại dịch chuyển sang trái phiếu và hàng hóa làm giảm khẩu vị rủi ro với thị trường mới nổi như Việt Nam."
     },
     {
-      "title": "Lãi suất tiết kiệm phân hóa mạnh ở kỳ hạn 3-6 tháng",
+      "title": "Niềm tin giới liên ngân hàng giảm, dè chừng chứng khoán và bất động sản",
+      "impact": "↓",
+      "note": "Tổ chức tài chính thận trọng hơn với hai nhóm vốn hóa lớn nhất thị trường, hạn chế dòng tiền ngắn hạn."
+    },
+    {
+      "title": "Thêm 2 triệu tài khoản chứng khoán từ đầu năm 2026, đạt 13,8 triệu",
+      "impact": "↑",
+      "note": "Nền tảng nhà đầu tư mở rộng lên gần 14% dân số, hỗ trợ thanh khoản và chiều sâu thị trường."
+    },
+    {
+      "title": "Động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm",
+      "impact": "↑",
+      "note": "Kỳ vọng tăng trưởng hai con số nhờ hiệu quả sử dụng vốn củng cố triển vọng lợi nhuận doanh nghiệp trung hạn."
+    },
+    {
+      "title": "Giá vàng biến động mạnh, chênh lệch với thế giới thu hẹp còn 5 triệu đồng/lượng",
       "impact": "→",
-      "note": "Mặt bằng lãi suất chưa có xu hướng rõ ràng nên chưa tạo cú hích hay áp lực đáng kể lên dòng tiền vào chứng khoán."
+      "note": "Vàng đảo chiều liên tục trong phiên nhưng chênh lệch thu hẹp giúp giảm áp lực đầu cơ hút vốn khỏi chứng khoán."
     }
   ]
 }
