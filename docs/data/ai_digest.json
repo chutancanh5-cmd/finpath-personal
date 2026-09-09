@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-09",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam gặp áp lực bán mạnh trong phiên 9/9 khi dòng tiền tự doanh liên tục bán ròng (phiên thứ 7), khối ngoại cũng quay lại bán ròng lần thứ 3 liên tiếp. Niềm tin nhà đầu tư suy yếu rõ rệt với triển vọng chứng khoán giảm 1,49 điểm xuống 4,95 điểm, bất động sản giảm 1,06 điểm xuống 4 điểm (thấp nhất). Cổ phiếu trụ VHM, VIC yếu đi. Dù cụm ngân hàng có mã tăng (SGB +8%, TCB +1,41%), không đủ bù đắp áp lực bán từ các cổ phiếu hạng nặng.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay 9/9 chịu áp lực bán ròng mạnh từ cả tự doanh (phiên thứ 7 liên tiếp) và khối ngoại (3 phiên liên tiếp), phản ánh niềm tin suy giảm với triển vọng chứng khoán giảm 1,49 điểm so với tháng 8. Thanh khoản tiếp tục suy yếu với HOSE chỉ 17,3 ngàn tỷ đồng/tháng (so với 30 ngàn tỷ đồng bình thường). VN-Index giảm 3,32 điểm khi VIC, VHM lao dốc. Dù vậy, các chuyên gia kỳ vọng chuyển đổi mô hình kinh tế dựa công nghệ có thể đóng góp thêm 2,8-3,7% GDP hàng năm, nhưng rủi ro điều chỉnh ngắn hạn vẫn căng thẳng.",
   "top": [
     {
-      "title": "Tự doanh và khối ngoại cùng nối dài chuỗi bán ròng",
+      "title": "Tự doanh, khối ngoại cùng bán ròng liên tiếp",
       "impact": "↓",
-      "note": "Tự doanh bán ròng phiên thứ 7 liên tiếp: mua 350 tỷ đ, bán 609 tỷ đ tại HOSE. Bán ròng VIX 179 tỷ đ, MCH 20.5 tỷ đ, ACB 17.5 tỷ đ. Khối ngoại bán ròng 275 tỷ đ phiên thứ 3 liên tiếp - xóa sạch kỳ vọng hút vốn tháng 8."
+      "note": "Tự doanh bán ròng 7 phiên liên tiếp (mua 350 tỷ đ, bán 609 tỷ đ trên HOSE), VIX bị bán ròng 179 tỷ đ; khối ngoại bán ròng 275 tỷ đ. Dòng vốn rút khỏi thị trường, đặc biệt từ các quỹ."
     },
     {
-      "title": "Niềm tin giảm mạnh, ngân hàng dè chừng chứng khoán, BĐS",
+      "title": "Niềm tin giảm mạnh với chứng khoán và BĐS",
       "impact": "↓",
-      "note": "Triển vọng chứng khoán giảm 1,49 điểm xuống 4,95 điểm (gần mức trung tính), bất động sản giảm 1,06 điểm xuống 4 điểm (thấp nhất). Các thành viên liên ngân hàng lo tác động thị trường tài chính quốc tế, xác suất Fed tăng lãi tháng 9 và căng thẳng Mỹ-Iran gia tăng bất định."
+      "note": "Triển vọng chứng khoán 3 tháng tới chỉ 4,95 điểm, giảm 1,49 điểm so với tháng 8; BĐS chỉ 4 điểm (thấp nhất). Các ngân hàng dè chừng tài sản rủi ro cao."
     },
     {
-      "title": "Cổ phiếu trụ 'ép' điểm số khi VHM, VIC suy yếu",
+      "title": "Thanh khoản suy giảm đáng kể trên HOSE",
       "impact": "↓",
-      "note": "VHM giảm 2,04%, VIC giảm 0,76%, lấy đi hơn 5 điểm từ VN-Index. VN-Index kết phiên giảm 3,32 điểm (-0,18%) xuống 1.827 điểm. Dòng tiền vào VN30 yếu, giá trị khớp lệnh cả ngày 8.020 tỷ đ, giảm 10% so với trung bình 10 phiên."
+      "note": "Tháng 8 ghi nhận 17,3 ngàn tỷ đồng giao dịch (so với 17,7 ngàn tỷ đ tháng 7), giảm hơn 40% so với mức bình thường 30 ngàn tỷ đồng. Dù tháng 8 mở thêm 229,8k tài khoản, thanh khoản thực tế suy yếu."
     },
     {
-      "title": "Cổ phiếu TRC bị bán tháo trước chia cổ tức 300%",
+      "title": "TRC bị bán mạnh trước chia cổ tức 300%",
       "impact": "↓",
-      "note": "TRC giảm 4,2% xuống 82.200 đ, phiên giảm thứ 4 liên tiếp. Khối lượng khớp lệnh tăng đột biến lên 358.500 cổ phiếu. Vốn hóa còn 2.466 tỷ đ. Bán tháo ngay trước ngày đăng ký cuối 16/9 để chốt danh sách nhận cổ phiếu thưởng."
+      "note": "Cổ phiếu TRC giảm 4,2% xuống 82.200 đ/cp, là phiên giảm thứ 4 liên tiếp; khối lượng khớp lệnh tăng đột biến 358.500 cổ phiếu. Vốn hóa còn 2.466 tỷ đ. Nhà đầu tư lo ngại về giá trị sau tách cổ."
     },
     {
-      "title": "Một cổ phiếu ngân hàng tăng 8%, có lúc tăng trần 14,4%",
+      "title": "Fed: Dịch chuyển dự trữ USD sang vàng bị phóng đại",
+      "impact": "→",
+      "note": "Nhà kinh tế trưởng Fed Colin Weiss chỉ ra sự tăng giá vàng 2024-2025 chủ yếu từ nhu cầu tư nhân, không phải dịch chuyển dự trữ chính phủ. Giảm bớt lo ngại về kỳ vọng dòng vốn vào vàng từ quốc gia."
+    },
+    {
+      "title": "Động lực tăng trưởng GDP thêm 2,8-3,7% mỗi năm",
       "impact": "↑",
-      "note": "SGB tăng trần 8% lên 13.500 đ, sáng phiên có lúc tăng 14,4% lên 14.300 đ. TCB tăng 1,41% lên 32.400 đ, VCB tăng 1,03% lên 58.700 đ, STB tăng 0,79%. Tín hiệu tích cực từ nhóm ngân hàng giữa thị trường khó khăn."
-    },
-    {
-      "title": "Giá vàng miếng chiều 9/9 đảo chiều tăng 1,2 triệu đ/lượng",
-      "impact": "↑",
-      "note": "Chiều: giá vàng miếng tăng 1,2 triệu đ, lên 143,6-146,6 triệu đ/lượng tại SJC. Vàng nhẫn trơn tăng lên 143,1-146,1 triệu đ/lượng. Vàng quốc tế hồi phục lên 4.400 USD/ounce (+55 USD), xóa sạch mức giảm 1,2 triệu đ sáng nay."
+      "note": "Chuyên gia Viện Chiến lược Tài chính (Bộ Tài chính) cho rằng dự địa tăng trưởng từ công nghệ, đổi mới sáng tạo, dữ liệu, ESG và hiệu quả sử dụng tài nguyên. Mục tiêu tăng trưởng hai con số 2026-2030 cần thay đổi cách tạo ra giá trị từ đầu vào sang năng suất."
     }
   ]
 }
