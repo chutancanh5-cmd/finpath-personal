@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-09",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tin hôm nay nghiêng về tích cực với chủ đề nâng hạng thị trường: dòng vốn ngoại theo FTSE GEIS cùng việc Fubon tái phân bổ đang chảy mạnh vào nhóm vốn hóa lớn, dẫn đầu là cổ phiếu ngân hàng. Chính phủ ban hành Nghị quyết 262/NQ-CP yêu cầu đa dạng hóa thị trường vốn và cải cách tổng thể thị trường tài chính, củng cố kỳ vọng chính sách trung hạn, trong khi quy mô vốn hóa HOSE đã đạt gần 68,84% GDP với 52 doanh nghiệp tỷ USD và các công ty chứng khoán tiếp tục tăng vốn để mở rộng dư địa margin. Ở chiều rủi ro ngắn hạn, 253 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong 12 tháng tới tạo áp lực thanh khoản lên nhóm bất động sản, còn làn sóng chứng chỉ tiền gửi lãi suất 7-8%/năm cho thấy chi phí vốn đang nhích lên và cạnh tranh trực tiếp với dòng tiền vào chứng khoán. Nhà đầu tư nên ưu tiên nhóm ngân hàng - chứng khoán hưởng lợi từ dòng vốn nâng hạng, đồng thời thận trọng với doanh nghiệp có đòn bẩy trái phiếu cao.",
+  "summary_vi": "Tâm lý thị trường nghiêng về tích cực khi blue-chips giữ nhịp tốt, áp lực bán yếu và nhóm dầu khí được hỗ trợ bởi giá dầu thế giới tăng. Câu chuyện vĩ mô trung hạn khá thuận lợi với kỳ vọng dòng vốn thụ động vào Việt Nam có thể đạt tới 4,45 tỷ USD sau nâng hạng, cùng các động lực tăng trưởng mới được đánh giá có thể bổ sung 2,8-3,7 điểm phần trăm cho GDP mỗi năm — tạo nền cho nhóm ngân hàng, chứng khoán và bất động sản. Mặt bằng lãi suất tiết kiệm vẫn phân hóa mạnh giữa các kỳ hạn, trong khi giá vàng điều chỉnh giảm có thể giúp dòng tiền dịch chuyển sang kênh cổ phiếu. Rủi ro ngắn hạn đến từ lợi suất trái phiếu Mỹ tăng, đề xuất hạ mạnh ngưỡng miễn thuế hàng nhập khẩu giá trị nhỏ gây áp lực lên bán lẻ/thương mại điện tử, và tình trạng phân hóa khiến chỉ số dễ giằng co quanh vùng kháng cự. Nhà đầu tư nên ưu tiên cổ phiếu đầu ngành có câu chuyện cơ bản rõ ràng, hạn chế mua đuổi ở nhóm đã tăng nóng.",
   "top": [
     {
-      "title": "Dòng tiền nâng hạng FTSE và Fubon tái phân bổ đổ vào cổ phiếu ngân hàng",
+      "title": "Dòng vốn thụ động vào Việt Nam có thể đạt 4,45 tỷ USD",
       "impact": "↑",
-      "note": "Dòng vốn ngoại mua ròng quy mô lớn tập trung vào bluechip ngân hàng, hỗ trợ trực tiếp chỉ số."
+      "note": "Kỳ vọng vốn ngoại giải ngân theo lộ trình nâng hạng là lực đỡ mạnh cho thanh khoản và nhóm vốn hóa lớn."
     },
     {
-      "title": "Chính phủ yêu cầu đa dạng hóa thị trường vốn, cải cách tổng thể thị trường tài chính",
+      "title": "Blue-chips giữ nhịp tốt, cổ phiếu dầu khí nổi bật",
       "impact": "↑",
-      "note": "Nghị quyết 262/NQ-CP củng cố kỳ vọng cải cách, nâng chất lượng và chiều sâu thị trường chứng khoán."
+      "note": "Áp lực bán rất nhẹ và trụ blue-chips vững giúp chỉ số duy trì xu hướng đi lên."
     },
     {
-      "title": "253 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong 12 tháng tới",
+      "title": "Động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm/năm",
+      "impact": "↑",
+      "note": "Triển vọng tăng trưởng hai con số củng cố định giá dài hạn cho ngân hàng, bất động sản và hạ tầng."
+    },
+    {
+      "title": "Đề xuất hạ ngưỡng miễn thuế hàng nhập khẩu giá trị nhỏ về 100.000 đồng",
       "impact": "↓",
-      "note": "Áp lực trả nợ lớn đe dọa thanh khoản nhóm bất động sản và ngân hàng cho vay liên quan."
+      "note": "Tăng chi phí và thủ tục cho thương mại điện tử, logistics và bán lẻ hàng nhập khẩu."
     },
     {
-      "title": "Nở rộ chứng chỉ tiền gửi dưới 6 tháng lãi suất 7-8%/năm",
-      "impact": "↓",
-      "note": "Chi phí huy động tăng hút dòng tiền nhàn rỗi khỏi kênh cổ phiếu và bào mòn NIM ngân hàng."
+      "title": "Giá vàng lao dốc khi lợi suất trái phiếu kho bạc Mỹ tăng",
+      "impact": "→",
+      "note": "Vàng giảm có thể đẩy dòng tiền sang cổ phiếu, nhưng lợi suất Mỹ tăng lại tạo áp lực lên tỷ giá và vốn ngoại."
     },
     {
-      "title": "Vốn hóa HOSE đạt 8,84 triệu tỷ đồng với 52 doanh nghiệp tỷ USD",
-      "impact": "↑",
-      "note": "Quy mô và số lượng cổ phiếu tỷ USD tăng giúp thị trường đáp ứng tốt hơn tiêu chí của quỹ ngoại."
-    },
-    {
-      "title": "Công ty chứng khoán sắp có vốn điều lệ vượt 33.000 tỷ đồng",
-      "impact": "↑",
-      "note": "Tăng vốn mở rộng dư địa cho vay margin, hỗ trợ thanh khoản thị trường nhưng pha loãng ngắn hạn."
+      "title": "Lãi suất tiết kiệm phân hóa mạnh ở kỳ hạn 3-6 tháng",
+      "impact": "→",
+      "note": "Mặt bằng lãi suất chưa có xu hướng rõ ràng nên chưa tạo cú hích hay áp lực đáng kể lên dòng tiền vào chứng khoán."
     }
   ]
 }
