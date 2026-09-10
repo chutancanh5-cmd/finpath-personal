@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường VN đối mặt áp lực vĩ mô từ lạm phát toàn cầu khi giá hàng hóa tiến sát đỉnh 18 năm (dầu +30%, khí đốt gấp đôi) do xung đột Mỹ-Iran và nhu cầu AI. Kỳ vọng về chứng khoán và bất động sản suy giảm mạnh (chứng khoán -1,49 điểm, BĐS 4/10). Tuy nhiên, FDI vào Bắc Ninh mạnh (17,69 tỷ USD, điện tử +201%) và các kênh tài chính mới cho hạ tầng tạo động lực dài hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay đối mặt với áp lực từ lạm phát toàn cầu khi giá hàng hóa tiến sát đỉnh 18 năm (dầu +30%, khí đốt gấp đôi) do xung đột Mỹ-Iran và nhu cầu AI. Kỳ vọng về chứng khoán và bất động sản suy giảm mạnh (chứng khoán -1,49 điểm, BĐS 4/10). Tuy nhiên, FDI vào Bắc Ninh mạnh (17,69 tỷ USD, điện tử +201%) và dòng ngoại tiếp tục gom mạnh, tạo cân bằng trong ngắn hạn.",
   "top": [
     {
       "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát toàn cầu",
@@ -10,14 +10,19 @@
       "note": "Chỉ số hàng hóa tiến sát mức tháng 8/2008 trước khủng hoảng Lehman Brothers. Giá dầu thô cao hơn 30% so với trước xung đột Mỹ-Iran, giá khí đốt châu Âu và châu Á tăng gấp hơn 2 lần do gián đoạn eo biển Hormuz. Nếu lạm phát toàn cầu quay trở lại, các ngân hàng trung ương sẽ khó nới lỏng chính sách tiền tệ như dự kiến."
     },
     {
+      "title": "Kỳ vọng chứng khoán, BĐS yếu, nhà đầu tư thận trọng",
+      "impact": "↓",
+      "note": "Triển vọng chứng khoán trong 3 tháng tới giảm mạnh 1,49 điểm xuống 4,95/10, bất động sản thấp nhất 4/10. Các thành viên TTLNH cẩn trọng với tác động lãi suất/tỷ giá quốc tế (4,6/10), lo ngại Fed và các ngân hàng trung ương lớn ra quyết định tháng 9."
+    },
+    {
       "title": "FDI vào Bắc Ninh 17,69 tỷ USD, ngành điện tử tăng 201%",
       "impact": "↑",
       "note": "8 tháng đầu 2026, Bắc Ninh thu hút 3,2 tỷ USD FDI mới (cấp mới 1,08 tỷ + điều chỉnh vốn 2,1 tỷ USD), lũy kế 17,69 tỷ USD. Sản xuất sản phẩm điện tử, quang học, linh kiện tăng 201,47%, giá trị sản xuất khu vực FDI 2,089 triệu tỷ đồng tăng 18,11%."
     },
     {
-      "title": "Kỳ vọng chứng khoán, BĐS yếu, nhà đầu tư thận trọng",
+      "title": "Phạt doanh nghiệp BĐS vì công bố sai thông tin trái phiếu",
       "impact": "↓",
-      "note": "Triển vọng chứng khoán trong 3 tháng tới giảm mạnh 1,49 điểm xuống 4,95/10, bất động sản thấp nhất 4/10. Các thành viên TTLNH cẩn trọng với tác động lãi suất/tỷ giá quốc tế (4,6/10), lo ngại Fed và các ngân hàng trung ương lớn ra quyết định tháng 9."
+      "note": "Ủy ban Chứng khoán Nhà nước phạt loạt doanh nghiệp xây dựng/BĐS: Signo Land phạt 85 triệu vì chậm công bố, 3-2 Building phạt 150 triệu vì công bố sai lệch lợi nhuận (quý IV ghi 27,6 tỷ nhưng năm 2025 chỉ 14,9 tỷ đồng). Vấn đề governance cần cảnh báo."
     },
     {
       "title": "Kênh tài chính mới cho hạ tầng tại VIFC-HCMC",
@@ -25,14 +30,9 @@
       "note": "Trái phiếu đô thị và công trình được định vị kênh huy động vốn mới dài hạn trong và ngoài nước cho dự án hạ tầng trọng điểm. Nhằm giảm áp lực phụ thuộc vào ngân sách và tín dụng ngân hàng, đồng thời hình thành sản phẩm nền tảng đầu tiên của VIFC-HCMC."
     },
     {
-      "title": "Ô tô điện KIM LONG bàn giao lô đầu sang Thái Lan",
-      "impact": "↑",
-      "note": "Bàn giao 9 xe buýt điện KIMLONGB30-EV cho Thái Lan, xuất cảng 18/9/2026, đợt đầu trong 113 xe theo hợp đồng. Tỷ lệ nội địa hóa 60%, mục tiêu 90% cuối 2026, khẳng định năng lực sản xuất ô tô điện Made in Vietnam."
-    },
-    {
-      "title": "EVF nhận 20 triệu USD từ Proparco cho tài chính khí hậu",
-      "impact": "↑",
-      "note": "Khoản vay cấp cao 20 triệu USD từ Proparco (AFD Pháp) hỗ trợ tài chính khí hậu và doanh nghiệp nhỏ do phụ nữ lãnh đạo. 50% vốn cho dự án khí hậu, 50% cho WSME, tiếp nối khoản vay 10 triệu USD năm 2021."
+      "title": "Khối ngoại mua ròng 386 tỷ, tập trung VIC & FPT",
+      "impact": "→",
+      "note": "Khối ngoại mua ròng 386 tỷ đồng toàn thị trường, gom VIC và FPT tổng khoảng 467 tỷ đồng. VN-Index tăng 2 điểm lên 1.829 điểm, nhưng thanh khoản HOSE chỉ 13.000 tỷ đồng cho thấy dòng tiền ổn định chứ chưa mạnh, thể hiện thái độ cảnh báo của khối ngoại."
     }
   ]
 }
