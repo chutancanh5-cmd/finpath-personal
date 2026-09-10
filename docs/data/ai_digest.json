@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán nhân tín hiệu tích cực từ khối ngoại và tự doanh quay lại mua (400 tỷ và 288 tỷ đồng) ngay trước thềm nâng hạng FTSE Russell, cùng triển vọng FDI lớn từ Thái Lan (KCN Đà Nẵng 105 triệu USD) và xuất khẩu công nghệ xanh, nhưng áp lực lạm phát toàn cầu từ xung đột Mỹ-Iran (dầu tăng 30%, khí đốt tăng 2 lần) đe dọa làm thắt chặt chính sách tiền tệ toàn cầu. Thanh khoản vẫn thấp và cơ hội giao dịch ngắn hạn mỏng, thị trường chưa tìm được lực đẩy vượt vùng 1.850 điểm mặc dù khối ngoại quay lại.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay cho thấy những tín hiệu lẫn lộn: tỷ giá USD/VND tiếp tục giảm 4 tháng liên tiếp hỗ trợ xuất khẩu, khối ngoại trở lại mua ròng 400 tỷ đồng, và FDI mới từ WHA (Thái Lan) đầu tư KCN 105 triệu USD tại Đà Nẵng. Tuy nhiên, áp lực lạm phát từ giá hàng hóa tăng sát đỉnh 18 năm, sự crash mạnh của cổ phiếu KAI lên UPCoM (giảm 41% sau 2 phiên do lợi nhuận 62,6% chưa thực hiện), và thanh khoản thị trường vẫn ở mức thấp khiến nhà đầu tư cảnh báo cơ hội ngắn hạn đang cạn kiệt.",
   "top": [
     {
-      "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát toàn cầu",
+      "title": "Tỷ giá USD/VND giảm 4 tháng, về sát đáy 1 năm",
+      "impact": "↑",
+      "note": "USD/VND trên thị trường liên ngân hàng giảm 1,5% từ đầu năm xuống 25.900 đồng/USD, thấp nhất trong 1 năm. Dòng vốn FDI thực hiện khoảng 17,25 tỷ USD trong 8 tháng, cải thiện cung ngoại tệ; nhập siêu giảm mạnh còn 113 triệu USD tháng 8. Diễn biến hỗ trợ xuất khẩu và doanh nghiệp hoạt động ngoại tệ."
+    },
+    {
+      "title": "Giá hàng hóa tăng sát đỉnh 18 năm, mối đe dọa lạm phát",
       "impact": "↓",
-      "note": "Chỉ số hàng hóa tiến sát mức 8/2008 (khủng hoảng tài chính), hiện thấp hơn kỷ lục 474 điểm khoảng 10%. Xung đột Mỹ-Iran đẩy giá dầu thô tăng 30%, khí đốt châu Âu và châu Á tăng gấp hơn 2 lần, đe dọa lạm phát toàn cầu và khiến các ngân hàng trung ương khó nới lỏng chính sách tiền tệ."
+      "note": "Chỉ số giá hàng hóa toàn cầu tiến sát mức tháng 8/2008, hiện thấp hơn kỷ lục 474 điểm khoảng 10% do xung đột Mỹ-Iran, nhu cầu AI, và đồng USD yếu. Giá dầu thô cao hơn 30%, khí đốt tăng gấp 2 lần so với trước xung đột. Sẽ tạo áp lực khiến các ngân hàng trung ương khó nới lỏng chính sách tiền tệ."
     },
     {
-      "title": "Dòng tiền ngoại và tự doanh quay lại mua trước nâng hạng",
-      "impact": "↑",
-      "note": "Khối ngoại mua ròng khoảng 386 tỷ đồng sau 3 phiên bán liên tiếp, tự doanh CTCK mua ròng 288 tỷ đồng trên HoSE. VHM được mua mạnh nhất (35 tỷ), tiếp theo FPT (30 tỷ), VIC (28 tỷ), VNM (26 tỷ), phản ánh kỳ vọng dòng tiền từ nâng hạng FTSE Russell."
+      "title": "Cổ phiếu KAI lên UPCoM nhưng crash 41% trong 2 phiên",
+      "impact": "↓",
+      "note": "KAI bắt đầu giao dịch tại giá tham chiếu 15.000 đồng/cổ phiếu, mở cửa tại trần 21.000 đồng, rồi giảm xuống 12.300 đồng sau 2 phiên. Vốn hóa mất 6.525 tỷ đồng. Nguyên nhân: lợi nhuận trước thuế tăng 155% nhưng 62,6% chưa thực hiện (không phải dòng tiền thực). Khối lượng giao dịch cực kỳ thấp (0,1% cổ phiếu)."
     },
     {
-      "title": "USD/VND xuống sát đáy 1 năm, hỗ trợ từ FDI",
+      "title": "Khối ngoại mua ròng 400 tỷ, VN-Index tăng nhẹ",
       "impact": "→",
-      "note": "Tỷ giá USD/VND trên thị trường liên ngân hàng giảm 1,5% xuống 25.900 đồng/USD, giá bán tại ngân hàng thương mại giảm 1,05% xuống 26.100 đồng/USD. Dịa giảm được hỗ trợ bởi FDI thực hiện 17,25 tỷ USD trong 8 tháng đầu năm và nhập siêu tháng 8 thu hẹp còn 113 triệu USD."
+      "note": "Khối ngoại quay lại mua ròng hơn 400 tỷ đồng sau 3 phiên bán, VN-Index tăng 2,11 điểm lên 1.829,23 điểm (tăng 0,12%). Tuy nhiên, thị trường vẫn chưa vượt qua vùng 1.850 điểm, thanh khoản giảm 7% so với phiên trước, biên độ giao dịch hẹp. Bộ mặt tích cực nhưng không có lực đẩy mạnh."
     },
     {
-      "title": "Tập đoàn Thái Lan đề xuất KCN 105 triệu USD tại Đà Nẵng",
+      "title": "WHA (Thái Lan) đầu tư khu công nghiệp 105 triệu USD tại Đà Nẵng",
       "impact": "↑",
-      "note": "Tập đoàn WHA (Thái Lan) đề xuất xây dựng KCN WHA Đà Nẵng quy mô 400 hectares với tổng vốn đầu tư 2.709 tỷ đồng (105 triệu USD) tại xã Thăng Bình và Đồng Dương. Hướng tới ô tô, cơ khí, điện, điện tử, viễn thông, y tế, công nghệ cao, logistics."
+      "note": "Tập đoàn WHA đề xuất đầu tư xây dựng KCN WHA Đà Nẵng quy mô 400 ha với tổng vốn 2.709 tỷ đồng (105 triệu USD) tại xã Thăng Bình và Đồng Dương. Hướng tới ô tô, cơ khí, điện tử, viễn thông, y tế, công nghệ cao, logistics. Bước tiến quan trọng cho FDI vào miền Trung."
     },
     {
-      "title": "Động lực tăng trưởng mới: GDP tăng 2,8-3,7 điểm %/năm",
+      "title": "KIM LONG xuất khẩu 113 xe buýt điện sang Thái Lan",
       "impact": "↑",
-      "note": "Hội thảo \"Xác lập mô hình tăng trưởng mới gắn với mục tiêu tăng trưởng hai con số\" do Bộ Tài chính tổ chức. Nhấn mạnh cần chuyển từ gia tăng đầu vào sang dựa vào năng suất, công nghệ, đổi mới sáng tạo, tham gia chuỗi giá trị có giá trị gia tăng cao."
-    },
-    {
-      "title": "KIM LONG MOTOR xuất khẩu 9 xe buýt điện sang Thái Lan",
-      "impact": "↑",
-      "note": "KIM LONG MOTOR bàn giao lô 9 xe buýt thuần điện KIMLONGB30-EV cho INNOPOWER (Thái Lan), đợt đầu trong hợp đồng 113 xe năm 2026, xuất cảng Chân Mây ngày 18/9. Nội địa hóa hiện 60%+, mục tiêu 90% cuối năm 2026."
+      "note": "KIM LONG MOTOR hoàn tất bàn giao lô 9 xe buýt thuần điện KIMLONGB30-EV cho INNOPOWER (Thái Lan), đợt đầu trong hợp đồng 113 xe, xuất cảng 18/9. Nội địa hóa hiện 60%, mục tiêu 90% cuối 2026. Khẳng định năng lực sản xuất và xuất khẩu Made in Vietnam."
     }
   ]
 }
