@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đứng trước áp lực từ lạm phát hàng hóa toàn cầu (dầu +30%, khí đốt +100%) do xung đột Mỹ-Iran, với rủi ro Fed phải tăng lãi suất và triển vọng chứng khoán suy giảm mạnh (4,95/10 điểm). Tuy nhiên, các nguồn FDI lớn (WHA 105M USD), xuất khẩu sản phẩm xanh, và công cụ tài chính mới (trái phiếu đô thị) mở lối cho tăng trưởng kinh tế dài hạn.",
+  "summary_vi": "Thị trường nhận tín hiệu tích cực từ nâng hạng FTSE Russell (21/9) và dòng vốn FDI tăng (Thái Lan đề xuất đầu tư 105 triệu USD KCN Đà Nẵng), tuy áp lực bán ngoại bắt đầu hạ nhiệt. Tuy nhiên, giá hàng hóa tiến sát đỉnh 18 năm đe dọa tăng lạm phát toàn cầu, trong khi triển vọng bất động sản và chứng khoán được nhà đầu tư xem thận trọng. Tăng trưởng hai con số đòi hỏi cơ cấu lại động lực từ công nghệ và đổi mới sáng tạo.",
   "top": [
+    {
+      "title": "Nâng hạng FTSE Russell: Kỳ vọng dòng vốn quốc tế",
+      "impact": "↑",
+      "note": "Việt Nam được nâng lên thị trường mới nổi thứ cấp ngày 21/9. Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng từ 0,34-0,35% (tháng 3) lên 0,49-0,50% (tháng 8). Áp lực bán ngoại hạ nhiệt: bán ròng tháng 8 chỉ 1.400 tỷ đồng (giảm 88,6% so với tháng 7)."
+    },
     {
       "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát toàn cầu",
       "impact": "↓",
-      "note": "Chỉ số hàng hóa quốc tế tiến sát mức tháng 8/2008 (khủng hoảng Lehman), với dầu thô tăng 30% và khí đốt tăng gấp 2 lần kể từ xung đột Mỹ-Iran; áp lực lạm phát đe dọa các ngân hàng trung ương không thể nới lỏng chính sách tiền tệ như dự kiến, ảnh hưởng lãi suất toàn cầu."
+      "note": "Chỉ số giá hàng hóa gần đạt mức 474 điểm (đỉnh 2008), hiện thấp hơn ~10%. Dầu thô tăng 30%, khí đốt châu Âu-Á tăng gấp 2 lần kể từ xung đột Mỹ-Iran. AI, xe điện và chuyển sang điện tăng nhu cầu kim loại, đe dọa đảo ngược xu hướng hạ lạm phát toàn cầu."
     },
     {
-      "title": "Thành viên liên ngân hàng cẩn trọng chứng khoán và bất động sản",
+      "title": "Động lực tăng GDP: Công nghệ, đổi mới sáng tạo thêm 2,8-3,7 điểm %",
+      "impact": "↑",
+      "note": "Theo Bộ Tài chính, tăng trưởng hai con số đòi hỏi thay đổi từ gia tăng đầu vào sang dựa vào năng suất, công nghệ, đổi mới sáng tạo. Chuyên gia nhấn mạnh dư địa động lực truyền thống đang thu hẹp, cạnh tranh quốc tế ngày càng dựa vào công nghệ và chuỗi giá trị gia tăng cao."
+    },
+    {
+      "title": "Thái Lan đề xuất FDI xây dựng KCN Đà Nẵng 105 triệu USD, 400 ha",
+      "impact": "↑",
+      "note": "Tập đoàn WHA đề xuất đầu tư 2.709 tỷ đồng (105 triệu USD) xây dựng KCN WHA Đà Nẵng 400 ha tại xã Thăng Bình và Đồng Dương, thu hút ô tô, cơ khí, điện, điện tử, viễn thông, công nghệ cao."
+    },
+    {
+      "title": "Triển vọng bất động sản và chứng khoán yếu, thị trường liên ngân hàng thận trọng",
       "impact": "↓",
-      "note": "Triển vọng chứng khoán 3 tháng tới đạt 4,95/10 điểm (giảm 1,49 điểm so với tháng 8), bất động sản chỉ 4/10 điểm (thấp nhất); thận trọng về tác động thị trường tài chính quốc tế và căng thẳng Mỹ-Iran."
+      "note": "Khảo sát thành viên liên ngân hàng: bất động sản đạt 4 điểm (thấp nhất, giảm 1,06 điểm), chứng khoán đạt 4,95 điểm (giảm mạnh 1,49 điểm so với tháng 8). Thận trọng với tác động thị trường tài chính quốc tế (4,6 điểm)."
     },
     {
-      "title": "WHA (Thái Lan) đề xuất FDI xây dựng KCN Đà Nẵng 400 hectare",
+      "title": "EVF nhận 20 triệu USD từ Proparco: Tài chính khí hậu và hỗ trợ WSME",
       "impact": "↑",
-      "note": "Tập đoàn WHA đề xuất đầu tư 2.709 tỷ đồng (tương đương 105 triệu USD) xây dựng Khu công nghiệp WHA Đà Nẵng 400 ha, ưu tiên công nghiệp ô tô, cơ khí, điện, điện tử, viễn thông, công nghiệp công nghệ cao."
-    },
-    {
-      "title": "Fed khó tăng lãi suất nhưng rủi ro tồn tại nếu lạm phát bất ngờ",
-      "impact": "↓",
-      "note": "Khảo sát Reuters: đa số chuyên gia dự báo Fed giữ lãi suất ngày 15-16/9 và cả năm, nhưng số chuyên gia dự báo tăng lãi đã tăng lên; rủi ro Fed phải tăng lãi nếu CPI tháng 8 (công bố 11/9) bất ngờ tăng cao."
-    },
-    {
-      "title": "KIM LONG MOTOR xuất khẩu xe buýt điện sang Thái Lan",
-      "impact": "↑",
-      "note": "KIM LONG MOTOR bàn giao 9 xe city buýt thuần điện KIMLONGB30-EV cho INNOPOWER Thái Lan (đợt 1 của 113 xe), nội địa hóa 60% với mục tiêu 90% cuối 2026, xuất cảng 18/9."
-    },
-    {
-      "title": "TP.HCM triển khai trái phiếu đô thị/công trình huy động vốn",
-      "impact": "↑",
-      "note": "VIFC-HCMC triển khai phát hành trái phiếu đô thị và trái phiếu công trình để huy động vốn dài hạn cho hạ tầng, giảm áp lực lên ngân sách và tín dụng ngân hàng."
+      "note": "Proparco (AFD - Pháp) cấp khoản vay 20 triệu USD cho EVF (gấp đôi khoản 10 triệu USD năm 2021). 50% dành cho dự án khí hậu, 50% hỗ trợ doanh nghiệp vừa-nhỏ do phụ nữ lãnh đạo/sở hữu (WSME)."
     }
   ]
 }
