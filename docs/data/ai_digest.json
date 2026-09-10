@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-10",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt với sức ép từ lãi suất Fed duy trì cao và sự suy giảm mạnh niềm tin của các thành viên liên ngân hàng (chứng khoán giảm từ 6.44 xuống 4,95 điểm). Tuy vậy, một số tín hiệu tích cực xuất hiện ở các mặt hàng xuất khẩu (tiêu tăng mạnh) và hỗ trợ chính sách (gói vốn khí hậu 20 triệu USD, định hướng tăng trưởng GDP 2-3 con số). Dòng tiền ngoại và tự doanh tiếp tục bán ròng, tạo sức cán trong ngắn hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực vĩ mô từ lạm phát CPI 8 tháng 4,45% và niềm tin nhà đầu tư giảm mạnh (chứng khoán 4,95 điểm, bất động sản 4 điểm). Khối lớn bán ròng liên tiếp phản ánh tâm lý thận trọng, trong khi Fed giữ lãi suất là điểm tích cực cho thị trường mới nổi. Áp lực lạm phát từ năng lượng và xung đột địa chính trị vẫn là rủi ro chính.",
   "top": [
     {
-      "title": "Fed giữ nguyên lãi suất đến hết 2026",
+      "title": "Niềm tin thị trường suy giảm, dè chừng chứng khoán, bất động sản",
       "impact": "↓",
-      "note": "UOB dự báo Fed sẽ giữ lãi suất ở mức cao dù lạm phát đã hạ nhẹ xuống 3,4% (tháng 7), cao hơn mục tiêu 2%. Lãi suất cao kéo dài gây áp lực lên thị trường mới nổi như Việt Nam qua tỷ giá, dòng vốn đầu tư."
+      "note": "Triển vọng thị trường chứng khoán 3 tháng tới đạt 4,95 điểm (gần ngưỡng trung lập), giảm 1,49 điểm so với tháng 8; bất động sản chỉ 4 điểm (thấp nhất), giảm 1,06 điểm. Nhà đầu tư thận trọng với tác động thị trường quốc tế (4,6 điểm) hơn triển vọng kinh tế thế giới (5,1 điểm)."
     },
     {
-      "title": "Niềm tin chứng khoán giảm mạnh, thấp nhất kể từ tháng 8",
+      "title": "Lạm phát CPI tiến sát mục tiêu kiểm soát năm",
       "impact": "↓",
-      "note": "Triển vọng thị trường chứng khoán của giới liên ngân hàng giảm 1,49 điểm xuống 4,95 điểm (gần ngưỡng trung lập). Bất động sản còn thấp hơn ở 4 điểm, phản ánh sự dè chừng sâu đối với tài sản. Dòng tiền tự doanh bán ròng 7 phiên liên tiếp."
+      "note": "CPI bình quân 8 tháng tăng 4,45%, với dự báo hai kịch bản khoảng 4,5% và 5% cho năm 2026. Áp lực chủ yếu từ giá xăng dầu tăng; xung đột địa chính trị có thể gia tăng giá năng lượng, chi phí vận tải và nguyên liệu nhập khẩu."
     },
     {
-      "title": "Giá tiêu tăng mạnh, mốc 140.000 đ/kg tái xuất hiện",
+      "title": "Fed dự báo giữ nguyên lãi suất đến hết 2026",
       "impact": "↑",
-      "note": "Giá hồ tiêu bất ngờ tăng 2.000-4.000 đ/kg sau chuỗi đi ngang, mốc 140.000 đ/kg xuất hiện tại Đắk Nông và Đắk Lắk. Giá tiêu thế giới ổn định (5.750-6.929 USD/tấn), tạo cơ hội xuất khẩu lợi cho doanh nghiệp nông sản."
+      "note": "Nền kinh tế Mỹ duy trì khả năng chống chịu tốt, tăng trưởng quý 2 đạt 1,5% theo quý (quý tăng trưởng thứ 5 liên tiếp). Lạm phát CPI Mỹ giảm xuống 3,4-3,5% nhưng vẫn cao hơn mục tiêu 2% của Fed."
     },
     {
-      "title": "Proparco cho vay 20 triệu USD cho tài chính khí hậu",
+      "title": "Khối lớn bán ròng liên tiếp, tự doanh lần thứ 7 liên tiếp",
+      "impact": "↓",
+      "note": "Khối tự doanh và khối ngoại tiếp tục đồng thuận bán ròng. Dòng tiền này phản ánh tâm lý thận trọng của cộng đồng đầu tư, là tín hiệu yếu cho triển vọng ngắn hạn."
+    },
+    {
+      "title": "Giá tiêu xuất khẩu tăng mạnh, mốc 140.000 đ/kg xuất hiện",
       "impact": "↑",
-      "note": "Gói tín dụng cấp cao từ Proparco (AFD, Pháp) được cấp cho EVF, trong đó 50% (10 triệu USD) dành cho dự án khí hậu, 50% còn lại cho doanh nghiệp vừa và nhỏ do phụ nữ lãnh đạo. Thể hiện cam kết vốn quốc tế cho tăng trưởng xanh tại Việt Nam."
+      "note": "Giá tiêu trong nước bất ngờ tăng 2.000-4.000 đ/kg sau chuỗi ngày đi ngang, mốc 140.000 đ/kg xuất hiện tại Đắk Nông và Đắk Lắk. Giá tiêu đen xuất khẩu loại 500-550 g/l dao động 5.990-6.050 USD/tấn."
     },
     {
-      "title": "Mục tiêu tăng trưởng GDP 2 con số cần động lực mới",
+      "title": "Proparco cấp vốn 20 triệu USD cho tài chính khí hậu và DSMME",
       "impact": "↑",
-      "note": "Hội thảo Bộ Tài chính định hướng các động lực tăng trưởng mới (AI, đổi mới sáng tạo, hiệu quả sử dụng vốn) có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm/năm. Phản ánh quyết tâm chính sách hỗ trợ mô hình tăng trưởng bền vững."
-    },
-    {
-      "title": "Xung đột Mỹ-Iran kéo vàng lên 4.400 USD/ounce",
-      "impact": "→",
-      "note": "Giá vàng quốc tế hồi phục lên 4.402 USD/ounce (+1%, sau 3 phiên giảm) nhờ nhu cầu trú ẩn an toàn từ xung đột Mỹ-Iran, dù đồng USD suy yếu. Trong nước vàng miếng SJC ổn định quanh 142,4-145,4 triệu đ/lượng, chênh lệch nội-ngoại hẹp còn khoảng 5 triệu đ/lượng."
+      "note": "Khoản vay 20 triệu USD từ Proparco cho EVF: 50% cho dự án khí hậu, 50% hỗ trợ doanh nghiệp vừa nhỏ do phụ nữ lãnh đạo. Tiếp nối khoản vay 10 triệu USD năm 2021, thúc đẩy tăng trưởng xanh và phát triển bền vững."
     }
   ]
 }
