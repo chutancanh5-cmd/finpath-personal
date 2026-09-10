@@ -5,34 +5,34 @@
   "summary_vi": "Thị trường chứng khoán có hồi phục tích cực (VN-Index +5,6% tháng 8, quỹ mở lợi nhuận >10%), nhưng niềm tin của giới liên ngân hàng đối với triển vọng chứng khoán giảm mạnh (từ 6,44 xuống 4,95 điểm). Bất động sản chạm đáy niềm tin. Toàn cầu: Fed giữ nguyên lãi suất, lạm phát vẫn cao trên 3%, xung đột Mỹ-Iran tạo bất định. Dài hạn, Việt Nam cần chuyển sang mô hình tăng trưởng dựa công nghệ, đổi mới sáng tạo (+2,8-3,7% GDP/năm).",
   "top": [
     {
-      "title": "Niềm tin giảm mạnh, giới liên ngân hàng dè chừng chứng khoán, bất động sản",
+      "title": "Niềm tin giảm mạnh, ngân hàng dè chừng chứng khoán, bất động sản",
       "impact": "↓",
       "note": "Triển vọng thị trường bất động sản 4 điểm (thấp nhất), chứng khoán 4,95 điểm giảm 1,49 điểm so với tháng 8. Đánh giá tác động tài chính quốc tế cũng thấp 4,6 điểm. Sự thận trọng này phản ánh lo ngại về sự truyền dẫn biến động lãi suất, tỷ giá từ bên ngoài."
     },
     {
-      "title": "UOB dự báo Fed giữ nguyên lãi suất đến hết 2026, lạm phát vẫn cao",
-      "impact": "→",
+      "title": "Fed giữ nguyên lãi suất, kinh tế Mỹ mạnh nhưng lạm phát cao",
+      "impact": "↑",
       "note": "Nền kinh tế Mỹ tăng trưởng 1,5% quý 2 (quý 5 liên tiếp), nhưng CPI vẫn ở 3,4% (tháng 7), cao hơn mục tiêu 2% của Fed. Lãi suất cao kéo dài tác động đến định giá tài sản và chi phí vốn toàn cầu."
     },
     {
-      "title": "VN-Index tăng 5,6% tháng 8, quỹ mở cổ phiếu lợi nhuận >10% 1 tháng",
+      "title": "VN-Index tăng 5,6% tháng 8, quỹ mở lợi nhuận >10% 1 tháng",
       "impact": "↑",
       "note": "Hôm 28/8/2026, VINACAPITAL-VEOF tăng 13,41%, VLGF tăng 13,09%, nhiều quỹ khác đạt 10,18%-12,92%. Điểm chung: tỷ trọng cổ phiếu cao, tập trung ngân hàng (MBB, CTG, VCB) và vốn hóa lớn (HPG, MWG) - những nhóm dẫn động hồi phục."
     },
     {
-      "title": "Bộ Tài chính Mỹ khẳng định can thiệp thị trường trái phiếu, tỷ giá để phục vụ chính sách",
-      "impact": "→",
+      "title": "Mỹ can thiệp thị trường trái phiếu, tỷ giá để phục vụ chính sách",
+      "impact": "↓",
       "note": "Bộ trưởng Bessent (8/9) ủng hộ dùng bảng cân đối tài chính Mỹ như công cụ chính sách đối ngoại, kể cả can thiệp tỷ giá yên. Tăng bất định về chính sách thương mại, lãi suất toàn cầu trong giai đoạn tới."
     },
     {
-      "title": "Động lực tăng trưởng GDP 2,8-3,7% yêu cầu chuyển đổi mô hình dựa công nghệ, AI",
+      "title": "Động lực mới giúp GDP tăng thêm 2,8-3,7% từ công nghệ, AI",
       "impact": "↑",
       "note": "Hội thảo Bộ Tài chính (8/9): tỷ lệ doanh nghiệp Việt tham gia chuỗi giá trị toàn cầu giảm từ 35% (2009) xuống 18% (2023). Cần năng lực mới: dữ liệu, minh bạch, ESG, AI. Mục tiêu tăng trưởng 2 con số phải từ năng suất, không chỉ gia tăng đầu vào."
     },
     {
-      "title": "EVF hợp tác Proparco vay 20 triệu USD cho tài chính khí hậu, doanh nghiệp nữ lãnh đạo",
+      "title": "EVF vay 20 triệu USD cho tài chính khí hậu, nữ doanh nhân",
       "impact": "↑",
-      "note": "Proparco (AFD Pháp) cung cấp vay cấp cao 20 triệu USD: 50% cho dự án khí hậu, 50% cho WSME (Women-led SMEs). Tiếp nối khoản vay 10 triệu USD 2021. Thúc đẩy tăng trưởng xanh, tài chính bao trùm tại Việt Nam."
+      "note": "Proparco (AFD Pháp) cung cấp vay cấp cao 20 triệu USD cho EVF: 50% cho dự án khí hậu, 50% cho WSME (Women-led SMEs). Tiếp nối vay 10 triệu USD 2021. Thúc đẩy tăng trưởng xanh, tài chính bao trùm tại Việt Nam."
     }
   ]
 }
