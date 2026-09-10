@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường nhận tín hiệu tích cực từ nâng hạng FTSE Russell (21/9) và dòng vốn FDI tăng (Thái Lan đề xuất đầu tư 105 triệu USD KCN Đà Nẵng), tuy áp lực bán ngoại bắt đầu hạ nhiệt. Tuy nhiên, giá hàng hóa tiến sát đỉnh 18 năm đe dọa tăng lạm phát toàn cầu, trong khi triển vọng bất động sản và chứng khoán được nhà đầu tư xem thận trọng. Tăng trưởng hai con số đòi hỏi cơ cấu lại động lực từ công nghệ và đổi mới sáng tạo.",
+  "summary_vi": "Việt Nam sắp được FTSE nâng hạng (21/9) mở ra cơ hội vốn ngoại, nhưng lực cầu hiện chưa mạnh khi khối ngoại vẫn bán ròng. Lạm phát toàn cầu tăng áp lực từ xung đột Trung Đông và USD yếu, đe dọa sẽ kéo ngân hàng trung ương từ bỏ kế hoạch nới lỏng. Tích cực hơn, FDI Thái Lan 105 triệu USD vào Đà Nẵng và định hướng tăng trưởng mới từ công nghệ/đổi mới sáng tạo cho thấy định hướng công nghiệp hóa nâng cao. Rủi ro là nhà đầu tư trong nước thận trọng với BĐS và chứng khoán, thanh khoản thị trường thấp.",
   "top": [
     {
-      "title": "Nâng hạng FTSE Russell: Kỳ vọng dòng vốn quốc tế",
+      "title": "FTSE nâng hạng Việt Nam, nhưng vốn ngoại chưa hộ pháp",
       "impact": "↑",
-      "note": "Việt Nam được nâng lên thị trường mới nổi thứ cấp ngày 21/9. Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng từ 0,34-0,35% (tháng 3) lên 0,49-0,50% (tháng 8). Áp lực bán ngoại hạ nhiệt: bán ròng tháng 8 chỉ 1.400 tỷ đồng (giảm 88,6% so với tháng 7)."
+      "note": "FTSE Russell sẽ nâng Việt Nam lên thị trường mới nổi thứ cấp vào 21/9/2026. Tuy nhiên, vốn ngoại vẫn bán ròng 93.600 tỷ đồng từ đầu năm, chỉ giảm xuống 1.400 tỷ đồng ở tháng 8. Dòng vốn sẽ phân bổ theo lộ trình, không ngay tức thời, trong khi thị trường thanh khoản thấp tại 18.700 tỷ đồng/phiên."
     },
     {
-      "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát toàn cầu",
+      "title": "Giá hàng hóa tiến sát đỉnh 18 năm, xung đột Trung Đông thắt chặt lạm phát",
       "impact": "↓",
-      "note": "Chỉ số giá hàng hóa gần đạt mức 474 điểm (đỉnh 2008), hiện thấp hơn ~10%. Dầu thô tăng 30%, khí đốt châu Âu-Á tăng gấp 2 lần kể từ xung đột Mỹ-Iran. AI, xe điện và chuyển sang điện tăng nhu cầu kim loại, đe dọa đảo ngược xu hướng hạ lạm phát toàn cầu."
+      "note": "Giá hàng hóa toàn cầu đang ở gần mức 474 điểm từ tháng 7/2008, hiện thấp hơn ~10%. Xung đột Mỹ-Iran kể từ cuối tháng 2 đã đóng cửa eo biển Hormuz, giá dầu thô tăng 30%, khí đốt châu Á tăng gấp 2 lần. Sự gia tăng này đe dọa làm bật lại lạm phát toàn cầu, khiến các ngân hàng trung ương khó thực hiện kế hoạch nới lỏng chính sách tiền tệ."
     },
     {
-      "title": "Động lực tăng GDP: Công nghệ, đổi mới sáng tạo thêm 2,8-3,7 điểm %",
+      "title": "Chính sách luật ngân hàng mới có hiệu lực ngay",
+      "impact": "→",
+      "note": "Chủ tịch nước công bố Lệnh về Luật sửa đổi Luật Ngân hàng Nhà nước, Luật Phòng chống rửa tiền và Luật Các tổ chức tín dụng sáng 10/9/2026, nhằm nâng cao quản trị rủi ro và tuân thủ tiêu chuẩn quốc tế, ảnh hưởng đến chi phí vận hành hệ thống ngân hàng."
+    },
+    {
+      "title": "FDI Thái Lan 105 triệu USD vào Đà Nẵng, công nghiệp ô tô và high-tech",
       "impact": "↑",
-      "note": "Theo Bộ Tài chính, tăng trưởng hai con số đòi hỏi thay đổi từ gia tăng đầu vào sang dựa vào năng suất, công nghệ, đổi mới sáng tạo. Chuyên gia nhấn mạnh dư địa động lực truyền thống đang thu hẹp, cạnh tranh quốc tế ngày càng dựa vào công nghệ và chuỗi giá trị gia tăng cao."
+      "note": "Tập đoàn WHA (Thái Lan) đề xuất đầu tư Khu công nghiệp WHA Đà Nẵng với vốn 2.709 tỷ đồng (105 triệu USD), quy mô 400 ha. Ưu tiên ô tô, cơ khí, điện, điện tử, high-tech, logistics trên 400 ha tại xã Thăng Bình và Đồng Dương. Dự án đã được UBND Đà Nẵng phê duyệt."
     },
     {
-      "title": "Thái Lan đề xuất FDI xây dựng KCN Đà Nẵng 105 triệu USD, 400 ha",
+      "title": "Động lực tăng trưởng mới: công nghệ, sáng tạo có thể giúp GDP +2.8-3.7% hàng năm",
       "impact": "↑",
-      "note": "Tập đoàn WHA đề xuất đầu tư 2.709 tỷ đồng (105 triệu USD) xây dựng KCN WHA Đà Nẵng 400 ha tại xã Thăng Bình và Đồng Dương, thu hút ô tô, cơ khí, điện, điện tử, viễn thông, công nghệ cao."
+      "note": "Hội thảo Bộ Tài chính (8/9) nhấn mạnh mục tiêu tăng trưởng 2 con số cần chuyển từ tăng đầu vào sang dựa vào năng suất, công nghệ, đổi mới sáng tạo, chuyển đổi số. Phó Viện trưởng VCSP Nguyễn Quốc Anh cho rằng các động lực mới có thể giúp GDP tăng thêm 2.8-3.7 điểm phần trăm mỗi năm."
     },
     {
-      "title": "Triển vọng bất động sản và chứng khoán yếu, thị trường liên ngân hàng thận trọng",
+      "title": "Thị trường liên ngân hàng cảnh báo cẩn trọng với BĐS và chứng khoán",
       "impact": "↓",
-      "note": "Khảo sát thành viên liên ngân hàng: bất động sản đạt 4 điểm (thấp nhất, giảm 1,06 điểm), chứng khoán đạt 4,95 điểm (giảm mạnh 1,49 điểm so với tháng 8). Thận trọng với tác động thị trường tài chính quốc tế (4,6 điểm)."
-    },
-    {
-      "title": "EVF nhận 20 triệu USD từ Proparco: Tài chính khí hậu và hỗ trợ WSME",
-      "impact": "↑",
-      "note": "Proparco (AFD - Pháp) cấp khoản vay 20 triệu USD cho EVF (gấp đôi khoản 10 triệu USD năm 2021). 50% dành cho dự án khí hậu, 50% hỗ trợ doanh nghiệp vừa-nhỏ do phụ nữ lãnh đạo/sở hữu (WSME)."
+      "note": "Khảo sát tháng 9 cho thấy triển vọng BĐS chỉ 4 điểm (thấp nhất), giảm 1,06 điểm so với tháng 8; chứng khoán 4,95 điểm gần ngưỡng trung lập, nhưng giảm mạnh 1,49 điểm so với tháng trước. Nhà đầu tư cẩn trọng với tác động thị trường tài chính quốc tế (4,6 điểm) trong bối cảnh Fed sắp họp chính sách."
     }
   ]
 }
