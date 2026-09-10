@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Fed dự báo giữ nguyên lãi suất đến hết 2026 với kinh tế Mỹ tăng trưởng 1,5% quý II, hỗ trợ tiềm năng toàn cầu. VN-Index hồi phục 5,6% tháng 8 với quỹ mở lợi nhuận >10%; Việt Nam đặt mục tiêu tăng trưởng 2 con số dựa trên năng suất, công nghệ, AI. Tuy vậy, niềm tin nội địa suy giảm mạnh (chứng khoán -1,49 điểm, bất động sản ở mức thấp), khối tự doanh bán ròng 7 phiên liên tiếp, tạo áp lực ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt với sức ép từ lãi suất Fed duy trì cao và sự suy giảm mạnh niềm tin của các thành viên liên ngân hàng (chứng khoán giảm từ 6.44 xuống 4,95 điểm). Tuy vậy, một số tín hiệu tích cực xuất hiện ở các mặt hàng xuất khẩu (tiêu tăng mạnh) và hỗ trợ chính sách (gói vốn khí hậu 20 triệu USD, định hướng tăng trưởng GDP 2-3 con số). Dòng tiền ngoại và tự doanh tiếp tục bán ròng, tạo sức cán trong ngắn hạn.",
   "top": [
     {
-      "title": "Niềm tin thị trường suy giảm mạnh, bất động sản ở mức thấp nhất",
+      "title": "Fed giữ nguyên lãi suất đến hết 2026",
       "impact": "↓",
-      "note": "Triển vọng chứng khoán 3 tháng tới 4,95 điểm giảm 1,49 điểm so với tháng 8, bất động sản chỉ 4 điểm (thấp nhất 10 nội dung khảo sát). Giới liên ngân hàng dè chừng thị trường tài sản, lo ngại ảnh hưởng từ thị trường tài chính quốc tế (4,6 điểm), biến động lãi suất và tỷ giá."
+      "note": "UOB dự báo Fed sẽ giữ lãi suất ở mức cao dù lạm phát đã hạ nhẹ xuống 3,4% (tháng 7), cao hơn mục tiêu 2%. Lãi suất cao kéo dài gây áp lực lên thị trường mới nổi như Việt Nam qua tỷ giá, dòng vốn đầu tư."
     },
     {
-      "title": "Fed giữ nguyên lãi suất đến hết 2026, kinh tế Mỹ tăng 1,5% quý II",
-      "impact": "↑",
-      "note": "UOB dự báo Fed giữ nguyên lãi suất trong nửa cuối 2026. Nền kinh tế Mỹ tăng trưởng 1,5% theo quý (Q2 2026), lạm phát CPI 3,4-3,5%, cao hơn target 2% của Fed nhưng có đà giảm. Hỗ trợ tích cực cho dòng vốn toàn cầu."
-    },
-    {
-      "title": "Mục tiêu tăng trưởng 2 con số dựa năng suất, công nghệ, AI, ESG",
-      "impact": "↑",
-      "note": "Bộ Tài chính tổ chức hội thảo xác lập mô hình tăng trưởng mới 2026-2030, có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm. Chuyển từ gia tăng đầu vào sang năng suất, dữ liệu, minh bạch, ESG, AI trên nền tảng dữ liệu đáng tin cậy."
-    },
-    {
-      "title": "Khối tự doanh bán ròng 7 phiên liên tiếp, áp lực ngắn hạn mạnh",
+      "title": "Niềm tin chứng khoán giảm mạnh, thấp nhất kể từ tháng 8",
       "impact": "↓",
-      "note": "Tự doanh bán ròng liên tiếp 7 phiên giao dịch, khối ngoại cũng bán ròng. Tài khoản mới tăng 229,8 ngàn trong tháng 8 nhưng chưa đủ bù lấy áp lực bán từ hai khối nhà đầu tư chính."
+      "note": "Triển vọng thị trường chứng khoán của giới liên ngân hàng giảm 1,49 điểm xuống 4,95 điểm (gần ngưỡng trung lập). Bất động sản còn thấp hơn ở 4 điểm, phản ánh sự dè chừng sâu đối với tài sản. Dòng tiền tự doanh bán ròng 7 phiên liên tiếp."
     },
     {
-      "title": "VN-Index tăng 5,6% tháng 8, quỹ mở lợi nhuận hơn 10% trong 1 tháng",
+      "title": "Giá tiêu tăng mạnh, mốc 140.000 đ/kg tái xuất hiện",
       "impact": "↑",
-      "note": "VN-Index tăng 5,6% trong tháng 8, nhiều quỹ mở cổ phiếu ghi nhận lợi nhuận trên 10% chỉ trong 1 tháng (VEOF 13,41%, VLGF 13,09%, nhiều quỹ khác 10,18%-12,92%). Phục hồi tập trung vào vốn hóa lớn và ngân hàng (MBB, CTG, VCB, HPG, MWG)."
+      "note": "Giá hồ tiêu bất ngờ tăng 2.000-4.000 đ/kg sau chuỗi đi ngang, mốc 140.000 đ/kg xuất hiện tại Đắk Nông và Đắk Lắk. Giá tiêu thế giới ổn định (5.750-6.929 USD/tấn), tạo cơ hội xuất khẩu lợi cho doanh nghiệp nông sản."
     },
     {
-      "title": "Tỷ lệ DN Việt trong chuỗi giá trị toàn cầu giảm còn 18%",
-      "impact": "↓",
-      "note": "Tỷ lệ doanh nghiệp Việt tham gia chuỗi giá trị toàn cầu giảm từ 35% năm 2009 xuống 18% năm 2023, doanh nghiệp nước ngoài chiếm 73% xuất khẩu Việt Nam. Cạnh tranh quốc tế gay gắt đòi hỏi doanh nghiệp nâng cấp năng lực để nắm giữ phần giá trị cao hơn."
+      "title": "Proparco cho vay 20 triệu USD cho tài chính khí hậu",
+      "impact": "↑",
+      "note": "Gói tín dụng cấp cao từ Proparco (AFD, Pháp) được cấp cho EVF, trong đó 50% (10 triệu USD) dành cho dự án khí hậu, 50% còn lại cho doanh nghiệp vừa và nhỏ do phụ nữ lãnh đạo. Thể hiện cam kết vốn quốc tế cho tăng trưởng xanh tại Việt Nam."
+    },
+    {
+      "title": "Mục tiêu tăng trưởng GDP 2 con số cần động lực mới",
+      "impact": "↑",
+      "note": "Hội thảo Bộ Tài chính định hướng các động lực tăng trưởng mới (AI, đổi mới sáng tạo, hiệu quả sử dụng vốn) có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm/năm. Phản ánh quyết tâm chính sách hỗ trợ mô hình tăng trưởng bền vững."
+    },
+    {
+      "title": "Xung đột Mỹ-Iran kéo vàng lên 4.400 USD/ounce",
+      "impact": "→",
+      "note": "Giá vàng quốc tế hồi phục lên 4.402 USD/ounce (+1%, sau 3 phiên giảm) nhờ nhu cầu trú ẩn an toàn từ xung đột Mỹ-Iran, dù đồng USD suy yếu. Trong nước vàng miếng SJC ổn định quanh 142,4-145,4 triệu đ/lượng, chênh lệch nội-ngoại hẹp còn khoảng 5 triệu đ/lượng."
     }
   ]
 }
