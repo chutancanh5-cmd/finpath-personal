@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay đối mặt với áp lực từ lạm phát toàn cầu khi giá hàng hóa tiến sát đỉnh 18 năm (dầu +30%, khí đốt gấp đôi) do xung đột Mỹ-Iran và nhu cầu AI. Kỳ vọng về chứng khoán và bất động sản suy giảm mạnh (chứng khoán -1,49 điểm, BĐS 4/10). Tuy nhiên, FDI vào Bắc Ninh mạnh (17,69 tỷ USD, điện tử +201%) và dòng ngoại tiếp tục gom mạnh, tạo cân bằng trong ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đứng trước áp lực từ lạm phát hàng hóa toàn cầu (dầu +30%, khí đốt +100%) do xung đột Mỹ-Iran, với rủi ro Fed phải tăng lãi suất và triển vọng chứng khoán suy giảm mạnh (4,95/10 điểm). Tuy nhiên, các nguồn FDI lớn (WHA 105M USD), xuất khẩu sản phẩm xanh, và công cụ tài chính mới (trái phiếu đô thị) mở lối cho tăng trưởng kinh tế dài hạn.",
   "top": [
     {
       "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát toàn cầu",
       "impact": "↓",
-      "note": "Chỉ số hàng hóa tiến sát mức tháng 8/2008 trước khủng hoảng Lehman Brothers. Giá dầu thô cao hơn 30% so với trước xung đột Mỹ-Iran, giá khí đốt châu Âu và châu Á tăng gấp hơn 2 lần do gián đoạn eo biển Hormuz. Nếu lạm phát toàn cầu quay trở lại, các ngân hàng trung ương sẽ khó nới lỏng chính sách tiền tệ như dự kiến."
+      "note": "Chỉ số hàng hóa quốc tế tiến sát mức tháng 8/2008 (khủng hoảng Lehman), với dầu thô tăng 30% và khí đốt tăng gấp 2 lần kể từ xung đột Mỹ-Iran; áp lực lạm phát đe dọa các ngân hàng trung ương không thể nới lỏng chính sách tiền tệ như dự kiến, ảnh hưởng lãi suất toàn cầu."
     },
     {
-      "title": "Kỳ vọng chứng khoán, BĐS yếu, nhà đầu tư thận trọng",
+      "title": "Thành viên liên ngân hàng cẩn trọng chứng khoán và bất động sản",
       "impact": "↓",
-      "note": "Triển vọng chứng khoán trong 3 tháng tới giảm mạnh 1,49 điểm xuống 4,95/10, bất động sản thấp nhất 4/10. Các thành viên TTLNH cẩn trọng với tác động lãi suất/tỷ giá quốc tế (4,6/10), lo ngại Fed và các ngân hàng trung ương lớn ra quyết định tháng 9."
+      "note": "Triển vọng chứng khoán 3 tháng tới đạt 4,95/10 điểm (giảm 1,49 điểm so với tháng 8), bất động sản chỉ 4/10 điểm (thấp nhất); thận trọng về tác động thị trường tài chính quốc tế và căng thẳng Mỹ-Iran."
     },
     {
-      "title": "FDI vào Bắc Ninh 17,69 tỷ USD, ngành điện tử tăng 201%",
+      "title": "WHA (Thái Lan) đề xuất FDI xây dựng KCN Đà Nẵng 400 hectare",
       "impact": "↑",
-      "note": "8 tháng đầu 2026, Bắc Ninh thu hút 3,2 tỷ USD FDI mới (cấp mới 1,08 tỷ + điều chỉnh vốn 2,1 tỷ USD), lũy kế 17,69 tỷ USD. Sản xuất sản phẩm điện tử, quang học, linh kiện tăng 201,47%, giá trị sản xuất khu vực FDI 2,089 triệu tỷ đồng tăng 18,11%."
+      "note": "Tập đoàn WHA đề xuất đầu tư 2.709 tỷ đồng (tương đương 105 triệu USD) xây dựng Khu công nghiệp WHA Đà Nẵng 400 ha, ưu tiên công nghiệp ô tô, cơ khí, điện, điện tử, viễn thông, công nghiệp công nghệ cao."
     },
     {
-      "title": "Phạt doanh nghiệp BĐS vì công bố sai thông tin trái phiếu",
+      "title": "Fed khó tăng lãi suất nhưng rủi ro tồn tại nếu lạm phát bất ngờ",
       "impact": "↓",
-      "note": "Ủy ban Chứng khoán Nhà nước phạt loạt doanh nghiệp xây dựng/BĐS: Signo Land phạt 85 triệu vì chậm công bố, 3-2 Building phạt 150 triệu vì công bố sai lệch lợi nhuận (quý IV ghi 27,6 tỷ nhưng năm 2025 chỉ 14,9 tỷ đồng). Vấn đề governance cần cảnh báo."
+      "note": "Khảo sát Reuters: đa số chuyên gia dự báo Fed giữ lãi suất ngày 15-16/9 và cả năm, nhưng số chuyên gia dự báo tăng lãi đã tăng lên; rủi ro Fed phải tăng lãi nếu CPI tháng 8 (công bố 11/9) bất ngờ tăng cao."
     },
     {
-      "title": "Kênh tài chính mới cho hạ tầng tại VIFC-HCMC",
+      "title": "KIM LONG MOTOR xuất khẩu xe buýt điện sang Thái Lan",
       "impact": "↑",
-      "note": "Trái phiếu đô thị và công trình được định vị kênh huy động vốn mới dài hạn trong và ngoài nước cho dự án hạ tầng trọng điểm. Nhằm giảm áp lực phụ thuộc vào ngân sách và tín dụng ngân hàng, đồng thời hình thành sản phẩm nền tảng đầu tiên của VIFC-HCMC."
+      "note": "KIM LONG MOTOR bàn giao 9 xe city buýt thuần điện KIMLONGB30-EV cho INNOPOWER Thái Lan (đợt 1 của 113 xe), nội địa hóa 60% với mục tiêu 90% cuối 2026, xuất cảng 18/9."
     },
     {
-      "title": "Khối ngoại mua ròng 386 tỷ, tập trung VIC & FPT",
-      "impact": "→",
-      "note": "Khối ngoại mua ròng 386 tỷ đồng toàn thị trường, gom VIC và FPT tổng khoảng 467 tỷ đồng. VN-Index tăng 2 điểm lên 1.829 điểm, nhưng thanh khoản HOSE chỉ 13.000 tỷ đồng cho thấy dòng tiền ổn định chứ chưa mạnh, thể hiện thái độ cảnh báo của khối ngoại."
+      "title": "TP.HCM triển khai trái phiếu đô thị/công trình huy động vốn",
+      "impact": "↑",
+      "note": "VIFC-HCMC triển khai phát hành trái phiếu đô thị và trái phiếu công trình để huy động vốn dài hạn cho hạ tầng, giảm áp lực lên ngân sách và tín dụng ngân hàng."
     }
   ]
 }
