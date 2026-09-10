@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán hôm nay có tín hiệu tích cực khi VN-Index hồi phục +0,12% lên 1.829,25 điểm, khối ngoại và tự doanh CTCK mua ròng lần lượt 386 và 288 tỷ đồng ngay trước thời điểm nâng hạng FTSE Russell chính thức. Tuy nhiên, cơ hội ngắn hạn khá mỏng với thanh khoản rất thấp và rủi ro gia tăng từ lạm phát toàn cầu (giá hàng hóa tiến sát đỉnh 18 năm do xung đột Mỹ-Iran). Các chuyên gia từ thị trường liên ngân hàng cảnh báo thận trọng hơn với triển vọng bất động sản (4 điểm) và chứng khoán (4,95 điểm), nhưng đầu tư FDI lớn từ Thái Lan (KCN 105 triệu USD) và tác động tích cực của Apple vào ngành công nghệ tiêu dùng cho thấy dòng tiền vẫn chảy vào các cơ hội chiến lược.",
+  "summary_vi": "Thị trường chứng khoán nhân tín hiệu tích cực từ khối ngoại quay lại mua ròng 386 tỷ đồng và tự doanh mua ròng 288 tỷ đồng ngay trước thềm nâng hạng FTSE Russell, cùng kỳ vọng tăng trưởng từ FDI lớn (KCN 105 triệu USD từ Thái Lan) và xuất khẩu công nghệ xanh. Tuy nhiên, áp lực lạm phát toàn cầu từ xung đột Mỹ-Iran (dầu tăng 30%, khí đốt tăng gấp 2 lần) và kỳ vọng thị trường bất động sản/chứng khoán giảm mạnh (4 và 4,95 điểm) làm hạn chế triển vọng ngắn hạn; thanh khoản vẫn thấp, cơ hội đầu cơ mỏng.",
   "top": [
     {
-      "title": "VN-Index tăng 2,11 điểm, nâng hạng FTSE Russell chính thức",
-      "impact": "↑",
-      "note": "VN-Index tăng 0,12% lên 1.829,25 điểm, khối ngoại mua ròng 386 tỷ đồng, tự doanh CTCK mua ròng 288 tỷ đồng ngay trước thềm nâng hạng FTSE Russell. Nhịp mua này dự kiến mở ra cơ hội hút vốn quốc tế dài hạn."
-    },
-    {
-      "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát toàn cầu gia tăng",
+      "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát toàn cầu",
       "impact": "↓",
-      "note": "Chỉ số giá hàng hóa gần mức tháng 8/2008, tăng do xung đột Mỹ-Iran (eo biển Hormuz gần đóng cửa), nhu cầu AI/xe điện tăng. Giá dầu cao hơn 30%, khí đốt tăng gấp hơn 2 lần so với trước xung đột. Rủi ro lạm phát quay lại có thể kìm hãm các ngân hàng trung ương nới lỏng chính sách tiền tệ."
+      "note": "Chỉ số hàng hóa tiến sát mức cao tháng 8/2008 (khủng hoảng tài chính), xung đột Mỹ-Iran đẩy giá dầu tăng 30%, khí đốt tăng gấp 2 lần, đe dọa lạm phát toàn cầu và hạn chế sự nới lỏng tiền tệ của các NHTW."
     },
     {
-      "title": "Tập đoàn WHA (Thái Lan) đầu tư KCN WHA Đà Nẵng 105 triệu USD",
+      "title": "Dòng tiền ngoại và tự doanh quay lại mua trước nâng hạng",
       "impact": "↑",
-      "note": "KCN 400 ha, tổng vốn 2.709 tỷ đồng (105 triệu USD), ưu tiên ô tô, cơ khí, điện tử, viễn thông, công nghệ cao, logistics. Đầu tư FDI lớn từ nhà điều hành khu công nghiệp quốc tế hàng đầu khẳng định sự nỗ lực chuyển đổi công nghiệp."
+      "note": "Khối ngoại mua ròng 386 tỷ đồng, tự doanh CTCK mua ròng 288 tỷ đồng trên HoSE với VHM (35 tỷ), FPT (30 tỷ), VIC (28 tỷ) được mua mạnh nhất, phản ánh kỳ vọng dòng tiền từ nâng hạng FTSE Russell."
     },
     {
-      "title": "Thị trường liên ngân hàng cảnh báo thận trọng: BĐS và CK rủi ro",
+      "title": "Bất động sản và chứng khoán kỳ vọng giảm mạnh",
       "impact": "↓",
-      "note": "Triển vọng bất động sản đạt 4 điểm (thấp nhất), chứng khoán 4,95 điểm (gần trung lập) giảm 1,49 điểm so với tháng 8. Cảnh báo mối quan tâm tác động từ tài chính quốc tế qua lãi suất, tỷ giá, đặc biệt trước các cuộc họp chính sách Fed tháng 9."
+      "note": "Bất động sản đạt 4 điểm (thấp nhất, giảm 1,06 vs tháng 8), chứng khoán 4,95 điểm (giảm mạnh 1,49 vs tháng trước), phản ánh thận trọng lớn với triển vọng lợi nhuận và nhu cầu tài sản."
     },
     {
-      "title": "Apple tác động tích cực: DGW tăng trần, MWG tăng 1,82%",
+      "title": "Tập đoàn Thái Lan đề xuất KCN 105 triệu USD tại Đà Nẵng",
       "impact": "↑",
-      "note": "DGW tăng trần với thanh khoản gấp 5 lần sau công bố iPhone mới của Apple. MWG tăng 1,82%, chiếm 50% thị phần Apple tại Việt Nam, sản phẩm Apple chiếm 40% doanh thu ngành ICT. Dòng tiền tập trung vào công nghệ tiêu dùng và phân phối."
+      "note": "WHA đề xuất KCN WHA Đà Nẵng quy mô 400 ha (2.709 tỷ đồng) tại xã Thăng Bình, Đồng Dương, hướng tới ô tô, cơ khí, điện, điện tử, công nghệ cao, logistics, khẳng định sự chú ý FDI vào cơ sở hạ tầng."
     },
     {
-      "title": "FPT phát hành 171 triệu cổ phiếu thưởng tỷ lệ 10%",
+      "title": "Chứng khoán có tín hiệu đáng chú ý trước nâng hạng",
+      "impact": "→",
+      "note": "Khối ngoại bất ngờ quay lại mua ròng 400 tỷ đồng sau 3 phiên bán, VN-Index tăng 2,11 điểm (0,12%) lên 1.829 điểm nhưng thanh khoản giảm 7%, thị trường vẫn chưa tìm lực đẩy vượt vùng 1.850 điểm."
+    },
+    {
+      "title": "KIM LONG MOTOR xuất khẩu xe buýt điện sang Thái Lan",
       "impact": "↑",
-      "note": "Ngày 22/09 sẽ chốt danh sách cổ đông phát hành 171 triệu cổ phiếu thưởng với tỷ lệ 10% (100 cổ phiếu được nhận thêm 10 cổ phiếu). Vốn điều lệ tăng từ 17,143 tỷ lên 18,858 tỷ đồng, tiếp tục chính sách chia cổ tức cho cổ đông năm 2026."
+      "note": "Bàn giao lô 9 xe buýt thuần điện KIMLONGB30-EV cho INNOPOWER (Thái Lan), đợt đầu của 113 xe, nội địa hóa 60% (mục tiêu 90%), xuất cảng ngày 18/9, thể hiện năng lực sản xuất công nghệ xanh \"Made in Vietnam\"."
     }
   ]
 }
