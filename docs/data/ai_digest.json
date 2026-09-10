@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tiếp tục ổn định nhưng thanh khoản rất thấp, cơ hội ngắn hạn mỏng. Tín hiệu tích cực từ nâng hạng FTSE Russell (21/9) mở ra kỳ vọng dòng vốn ngoại, kèm theo các dự án FDI mạnh (WHA 105 triệu USD khu công nghiệp) và chiến lược tăng trưởng công nghệ. Tuy nhiên, áp lực từ lạm phát toàn cầu (giá hàng hóa tiến sát đỉnh 18 năm), xung đột Mỹ-Iran, và lo ngại từ thị trường quốc tế khiến nhà đầu tư cẩn trọng, triển vọng bất động sản và chứng khoán ngắn hạn yếu.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận những tín hiệu tích cực từ nước ngoài (dòng tiền vào 386 tỷ VND, tự doanh CTCK mua lại 288 tỷ VND) trước khi nâng hạng FTSE Russell. Tuy nhiên, giá hàng hóa tiến sát đỉnh 18 năm (do xung đột Mỹ-Iran, nhu cầu AI) tạo áp lực lạm phát toàn cầu. Kỳ vọng của thị trường về chứng khoán (4,95/10, giảm 1,49 điểm) và bất động sản (4/10) đều yếu hơn. Các hành động công ty tích cực (FPT phát hành 171 triệu cổ phiếu thưởng) và đầu tư nước ngoài (khu công nghiệp 105 triệu USD) vẫn hỗ trợ triển vọng dài hạn.",
   "top": [
     {
-      "title": "Nâng hạng FTSE Russell: Kỳ vọng dòng vốn ngoại",
+      "title": "Nâng hạng FTSE Russell, dòng tiền ngoại vào mạnh",
       "impact": "↑",
-      "note": "Việt Nam được FTSE Russell nâng từ thị trường biên giới lên thị trường mới nổi thứ cấp ngày 21/9. Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng từ 0,34-0,35% (tháng 3) lên 0,49-0,50% (tháng 8). Dòng tiền sẽ được phân bổ theo lộ trình, dự báo kỳ vọng cao về dòng vốn quốc tế đổ vào."
+      "note": "Khối ngoại mua ròng 386 tỷ đồng, tự doanh CTCK bất ngờ mua ròng 288 tỷ đồng trên HoSE ngay trước khi thị trường chính thức được nâng hạng theo tiêu chuẩn FTSE Russell. VNI-Index tăng 2,11 điểm lên 1.829,25 điểm."
     },
     {
-      "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát",
+      "title": "Giá hàng hóa tiến sát đỉnh 18 năm, lạm phát toàn cầu tăng",
       "impact": "↓",
-      "note": "Chỉ số giá hàng hóa thế giới tiến sát mức tháng 8/2008 (434 điểm, chỉ thấp hơn kỷ lục 474 điểm khoảng 10%). Xung đột Mỹ-Iran khiến eo biển Hormuz gần như bị đóng cửa, giá dầu thô cao hơn 30% so với trước xung đột. Giá khí đốt châu Âu, châu Á tăng gấp hơn 2 lần. Áp lực lạm phát có nguy cơ đảo ngược xu hướng hạ nhiệt, chặn khả năng các NHTW nới lỏng chính sách tiền tệ."
+      "note": "Chỉ số hàng hóa tiến sát mức 8/2008, dầu thô cao hơn 30% kể từ xung đột Mỹ-Iran (>101 USD/thùng), khí đốt tăng gấp hơn 2 lần. Nhu cầu AI, xe điện cùng căng thẳng địa chính trị đẩy giá lên, đe dọa lạm phát toàn cầu quay lại."
     },
     {
-      "title": "WHA (Thái Lan) đầu tư KCN Đà Nẵng 105 triệu USD",
+      "title": "FPT phát hành 171 triệu cổ phiếu thưởng 10%",
       "impact": "↑",
-      "note": "Tập đoàn WHA (Thái Lan) đề xuất đầu tư xây dựng KCN WHA Đà Nẵng với tổng vốn 2.709 tỷ đồng (105 triệu USD), quy mô 400 ha tại xã Thăng Bình và Đồng Dương. Khu công nghiệp đa ngành ưu tiên ô tô, cơ khí, điện, điện tử, viễn thông, logistics. Dự kiến bàn giao trong năm 2026."
+      "note": "FPT sẽ phát hành 171 triệu cổ phiếu thưởng với tỷ lệ 10% (100 cổ phiếu nhận 10 cổ phiếu mới). Chốt danh sách cổ đông ngày 22/09, vốn điều lệ tăng từ 17,143 tỷ lên 18,858 tỷ đồng."
     },
     {
-      "title": "Chiến lược tăng trưởng GDP 2 con số: Tập trung công nghệ",
+      "title": "Kỳ vọng về chứng khoán và bất động sản suy giảm",
+      "impact": "↓",
+      "note": "Triển vọng bất động sản đạt 4,0/10 (thấp nhất), chứng khoán 4,95/10 (giảm 1,49 điểm so với tháng 8). Các thành viên thị trường liên ngân hàng thận trọng với tác động từ lợi suất Kho bạc Mỹ tăng và biến động tỷ giá."
+    },
+    {
+      "title": "Tập đoàn Thái Lan WHA đầu tư khu công nghiệp 105 triệu USD tại Đà Nẵng",
       "impact": "↑",
-      "note": "Bộ Tài chính tổ chức hội thảo 8/9 về mô hình tăng trưởng mới giai đoạn 2026-2030. Chuyên gia cho rằng các động lực tăng trưởng mới (công nghệ, đổi mới sáng tạo, chuyển đổi số, nâng cao năng suất) có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm. Dự địa động lực truyền thống đang thu hẹp, cạnh tranh toàn cầu dựa nhiều trên công nghệ và năng suất."
+      "note": "WHA Group đề xuất đầu tư khu công nghiệp 400 hectares tại Đà Nẵng, tổng vốn 2.709 tỷ đồng (105 triệu USD). Tập trung lĩnh vực ô tô, cơ khí, điện tử, viễn thông, hỗ trợ tăng trưởng và tạo việc làm."
     },
     {
-      "title": "Kỳ vọng bất động sản, chứng khoán yếu, lo ngại quốc tế",
-      "impact": "↓",
-      "note": "Khảo sát các thành viên thị trường liên ngân hàng tháng 9 cho thấy triển vọng bất động sản 4/10 điểm (thấp nhất), chứng khoán 4,95 điểm (gần trung tính, giảm 1,49 điểm so với tháng 8). Tác động thị trường tài chính quốc tế được đánh giá 4,6 điểm. Nhà đầu tư thận trọng với tác động từ lãi suất, tỷ giá và dòng vốn toàn cầu trong bối cảnh tháng 9 có cuộc họp chính sách Fed."
-    },
-    {
-      "title": "Thanh khoản thấp, cơ hội ngắn hạn mỏng",
-      "impact": "↓",
-      "note": "Thị trường đang tạm nghỉ tích lũy trên nền thanh khoản rất thấp (4 phiên chừng lại với biên độ hẹp). Vùng hỗ trợ VNI quanh 1820 điểm. Động lực từ đầu cơ yếu, rủi ro lớn hơn cơ hội ngắn hạn. Dòng tiền dài hạn chưa có động lực đủ mạnh để mua lại, triển vọng gia tăng thanh khoản khá mờ mịt."
+      "title": "EVF và Proparco hợp tác tín dụng 20 triệu USD cho tài chính xanh",
+      "impact": "↑",
+      "note": "Proparco cấp vay 20 triệu USD cho EVF, 50% cho dự án khí hậu, 50% hỗ trợ doanh nghiệp vừa và nhỏ do phụ nữ lãnh đạo. Mở rộng kênh huy động vốn dài hạn cho phát triển bền vững."
     }
   ]
 }
