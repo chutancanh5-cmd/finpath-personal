@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Lãi suất tiếp tục tăng trong nước và toàn cầu khi BOJ nâng mức tối thiểu, Fed thắt chặt, các ngân hàng nội tăng lãi suất huy động (4.7-7.6%/năm), tạo áp lực lên định giá cổ phiếu. Triển vọng chứng khoán và bất động sản suy yếu (điểm đánh giá giảm mạnh), cạnh tranh địa chính trị (căng thẳng Mỹ-Iran) gia tăng rủi ro. Tuy nhiên, dòng FDI mạnh vào sản xuất công nghệ cao (Bắc Ninh 17.69 tỷ USD, điện tử-quang học +201%), thị trường vốn phát triển (trái phiếu đô thị), và công ty công nghệ tăng trưởng mạnh (FPT +18% lợi nhuận) cung cấp yếu tố cân bằng tích cực.",
+  "summary_vi": "Thị trường được hỗ trợ bởi dòng FDI mạnh (Bắc Ninh 17,69 tỷ USD tích lũy 8 tháng, công nghệ +201%) và tiến triển công nghiệp mũi nhọn (ô tô điện xuất khẩu), nhưng đối mặt áp lực từ lãi suất toàn cầu cao, lo ngại lạm phát, và tâm lý cảnh báo (chứng khoán -1,49 điểm, BĐS xuống 4/10). Các doanh nghiệp xây dựng bị phạt do vi phạm công bố thông tin, trong khi Chính phủ xác định mô hình tăng trưởng mới dựa công nghệ và đổi mới sáng tạo.",
   "top": [
     {
-      "title": "Lãi suất toàn cầu và nội địa tiếp tục tăng",
-      "impact": "↓",
-      "note": "BOJ tăng 4 lần lên 1% kể từ tháng 7/2024, Fed thắt chặt, các ngân hàng Việt nâng lãi suất huy động lên 4.7-7.6%/năm cho kỳ hạn 3-12 tháng, gia tăng chi phí vốn tạo áp lực đánh giá cổ phiếu."
-    },
-    {
-      "title": "Triển vọng chứng khoán và bất động sản suy yếu",
-      "impact": "↓",
-      "note": "Điểm đánh giá thị trường chứng khoán giảm 1.49 điểm xuống 4.95/10, bất động sản xuống 4.0/10, thành viên thị trường liên ngân hàng thận trọng hơn với tác động từ thị trường tài chính quốc tế (4.6/10)."
-    },
-    {
-      "title": "FDI mạnh vào sản xuất công nghệ cao",
+      "title": "FDI chảy mạnh vào công nghệ cao, Bắc Ninh 17,69 tỷ USD",
       "impact": "↑",
-      "note": "Bắc Ninh hút 17.69 tỷ USD vốn đầu tư tích lũy trong 8 tháng 2026, ngành sản xuất điện tử quang học tăng 201.47%, giá trị sản xuất khu FDI tăng 18.11% so với cùng kỳ."
+      "note": "Bắc Ninh thu hút 17,69 tỷ USD tổng vốn đầu tư (8 tháng 2026), ngành điện tử-quang học-linh kiện tăng 201,47%, giá trị sản xuất FDI 2,089 triệu tỷ đồng tăng 18,11%."
     },
     {
-      "title": "Thị trường vốn phát triển, giảm áp lực tín dụng",
+      "title": "Ô tô điện KIM LONG xuất khẩu sang Thái Lan 113 xe",
       "impact": "↑",
-      "note": "VIFC-HCMC phát hành trái phiếu đô thị, nhu cầu vốn trung dài hạn tăng 11.1% so với ngắn hạn 6.9%, giúp san sẻ gánh nặng tài trợ dài hạn cho hệ thống ngân hàng."
+      "note": "Bàn giao 9 xe buýt điện KIMLONGB30-EV đầu tiên cho Thái Lan, xuất cảng 18/9/2026. Tỷ lệ nội địa hóa 60%, mục tiêu 90% cuối 2026, khẳng định sức cạnh tranh sản xuất ô tô điện Made in Vietnam."
     },
     {
-      "title": "Công ty công nghệ tăng trưởng mạnh",
-      "impact": "↑",
-      "note": "FPT công bố H1 2026 doanh thu 26.269 tỷ đồng tăng 12.6%, lợi nhuận 5.714 tỷ đồng tăng 18.1%, EPS tăng 13.4%, khối công nghệ chiếm 88% doanh thu của tập đoàn."
-    },
-    {
-      "title": "Căng thẳng địa chính trị gia tăng rủi ro",
+      "title": "Kỳ vọng chứng khoán, BĐS giảm mạnh, nhà đầu tư cảnh báo",
       "impact": "↓",
-      "note": "Xung đột Mỹ-Iran kéo giá vàng lên 4.400 USD/ounce thể hiện cầu mua trú ẩn an toàn, lợi suất trái phiếu Kho bạc Mỹ tăng, giá dầu thô tiếp tục cao, gia tăng bất định lạm phát và tác động tiêu cực đến thị trường rủi ro."
+      "note": "Triển vọng chứng khoán giảm 1,49 điểm xuống 4,95/10, bất động sản 4/10 (thấp nhất). Thành viên liên ngân hàng thận trọng với tác động lãi suất/tỷ giá quốc tế (4,6/10), lo ngại tháng 9 Fed ra quyết định chính sách."
+    },
+    {
+      "title": "Công ty xây dựng phạt 150 triệu vì công bố sai lợi nhuận",
+      "impact": "↓",
+      "note": "UBCKNN phạt Công ty Đầu tư Xây dựng 3-2: báo cáo quý IV lợi nhuận 27,6 tỷ đồng nhưng kiểm toán chỉ 14,9 tỷ đồng, báo cáo hợp nhất công bố 39,4 tỷ nhưng thực tế 26,3 tỷ đồng."
+    },
+    {
+      "title": "BOJ tăng lãi 4 lần, Fed cứng rắn, lạm phát quay trở lại",
+      "impact": "↓",
+      "note": "BOJ nâng từ 0,1% lên 1,0% kể từ 7/2024, Fed thắt chặt, lạm phát toàn cầu quay trở lại do xung đột Trung Đông. Chi phí vốn tăng, dòng tiền tập trung vào AI, bán dẫn, gây biến động thị trường."
+    },
+    {
+      "title": "Chính phủ xác định tăng trưởng 2 con số 2026-2030 dựa công nghệ",
+      "impact": "↑",
+      "note": "Hội thảo về mô hình tăng trưởng mới: chuyển từ gia tăng đầu vào sang dựa năng suất, công nghệ, đổi mới sáng tạo. Các động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm/năm."
     }
   ]
 }
