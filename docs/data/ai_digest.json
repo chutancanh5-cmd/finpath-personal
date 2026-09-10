@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-10",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực vĩ mô từ lạm phát CPI 8 tháng 4,45% và niềm tin nhà đầu tư giảm mạnh (chứng khoán 4,95 điểm, bất động sản 4 điểm). Khối lớn bán ròng liên tiếp phản ánh tâm lý thận trọng, trong khi Fed giữ lãi suất là điểm tích cực cho thị trường mới nổi. Áp lực lạm phát từ năng lượng và xung đột địa chính trị vẫn là rủi ro chính.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam cân bằng giữa áp lực vĩ mô (CPI 4,45%, Fed giữ lãi suất cao, niềm tin giảm mạnh, lãi suất vay lên 7,8%/năm) và cơ hội (xuất khẩu hàng hóa tốt, chính sách tài chính xanh, động lực tăng trưởng từ công nghệ). Khối lớn bán ròng 7 phiên liên tiếp phản ánh tâm lý thận trọng ngắn hạn, nhưng cơ chế tài chính phát triển và chuyển đổi số mở ra tiềm năng trung dài hạn.",
   "top": [
     {
       "title": "Niềm tin thị trường suy giảm, dè chừng chứng khoán, bất động sản",
       "impact": "↓",
-      "note": "Triển vọng thị trường chứng khoán 3 tháng tới đạt 4,95 điểm (gần ngưỡng trung lập), giảm 1,49 điểm so với tháng 8; bất động sản chỉ 4 điểm (thấp nhất), giảm 1,06 điểm. Nhà đầu tư thận trọng với tác động thị trường quốc tế (4,6 điểm) hơn triển vọng kinh tế thế giới (5,1 điểm)."
+      "note": "Triển vọng thị trường chứng khoán 3 tháng tới đạt 4,95 điểm (gần ngưỡng trung lập), giảm 1,49 điểm so với tháng 8; bất động sản chỉ 4 điểm (thấp nhất), giảm 1,06 điểm. Khối tự doanh bán ròng lần thứ 7 liên tiếp, khối ngoại cũng đồng thuận bán ròng, phản ánh tâm lý thận trọng từ các nhà đầu tư nội bộ."
     },
     {
-      "title": "Lạm phát CPI tiến sát mục tiêu kiểm soát năm",
+      "title": "Lạm phát CPI 4,45% + Fed giữ lãi suất cao đến hết 2026",
       "impact": "↓",
-      "note": "CPI bình quân 8 tháng tăng 4,45%, với dự báo hai kịch bản khoảng 4,5% và 5% cho năm 2026. Áp lực chủ yếu từ giá xăng dầu tăng; xung đột địa chính trị có thể gia tăng giá năng lượng, chi phí vận tải và nguyên liệu nhập khẩu."
+      "note": "CPI bình quân 8 tháng tăng 4,45%, với dự báo kịch bản 4,5-5% cho năm 2026; Fed dự kiến giữ lãi suất đến hết 2026 khi lạm phát Mỹ vẫn 3,4-3,5%, cao hơn mục tiêu 2%. Áp lực từ giá xăng dầu, chi phí vận tải, nguyên liệu nhập khẩu và xung đột Mỹ-Iran là rủi ro 4 tháng cuối năm."
     },
     {
-      "title": "Fed dự báo giữ nguyên lãi suất đến hết 2026",
-      "impact": "↑",
-      "note": "Nền kinh tế Mỹ duy trì khả năng chống chịu tốt, tăng trưởng quý 2 đạt 1,5% theo quý (quý tăng trưởng thứ 5 liên tiếp). Lạm phát CPI Mỹ giảm xuống 3,4-3,5% nhưng vẫn cao hơn mục tiêu 2% của Fed."
-    },
-    {
-      "title": "Khối lớn bán ròng liên tiếp, tự doanh lần thứ 7 liên tiếp",
+      "title": "Lãi suất ngân hàng cao 7,8%/năm, áp lực chi phí cho doanh nghiệp",
       "impact": "↓",
-      "note": "Khối tự doanh và khối ngoại tiếp tục đồng thuận bán ròng. Dòng tiền này phản ánh tâm lý thận trọng của cộng đồng đầu tư, là tín hiệu yếu cho triển vọng ngắn hạn."
+      "note": "ACB dẫn đầu lãi suất 12 tháng 7,8%/năm, Sacombank 7,5%/năm, Big4 6,8%/năm; kỳ hạn 6 tháng dao động 4,65-7,6%/năm. Lãi suất cao tạo áp lực chi phí tài chính cho doanh nghiệp vay, nhất là trong bối cảnh Fed giữ lãi suất toàn cầu ở mức cao."
     },
     {
-      "title": "Giá tiêu xuất khẩu tăng mạnh, mốc 140.000 đ/kg xuất hiện",
+      "title": "Giá tiêu xuất khẩu tăng mạnh, cao su bứt phá",
       "impact": "↑",
-      "note": "Giá tiêu trong nước bất ngờ tăng 2.000-4.000 đ/kg sau chuỗi ngày đi ngang, mốc 140.000 đ/kg xuất hiện tại Đắk Nông và Đắk Lắk. Giá tiêu đen xuất khẩu loại 500-550 g/l dao động 5.990-6.050 USD/tấn."
+      "note": "Giá tiêu trong nước bất ngờ tăng 2.000-4.000 đ/kg sau chuỗi ngày đi ngang, mốc 140.000 đ/kg xuất hiện tại Đắk Nông và Đắk Lắk; tiêu đen xuất khẩu 500-550 g/l dao động 5.990-6.050 USD/tấn. Cao su cũng bứt phá, tín hiệu tích cực cho doanh nghiệp xuất khẩu nông, lâm sản trong quý 4."
+    },
+    {
+      "title": "Động lực tăng trưởng mới từ công nghệ, đổi mới sáng tạo",
+      "impact": "↑",
+      "note": "Chuyên gia Bộ Tài chính dự báo các động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm/năm qua ứng dụng dữ liệu, ESG, AI thay vì chỉ tăng đầu vào; doanh nghiệp Việt tham gia chuỗi giá trị toàn cầu chỉ còn 18% (2023) so với 35% (2009), mở cơ hội chuyên sâu lên giá trị cao."
     },
     {
       "title": "Proparco cấp vốn 20 triệu USD cho tài chính khí hậu và DSMME",
       "impact": "↑",
-      "note": "Khoản vay 20 triệu USD từ Proparco cho EVF: 50% cho dự án khí hậu, 50% hỗ trợ doanh nghiệp vừa nhỏ do phụ nữ lãnh đạo. Tiếp nối khoản vay 10 triệu USD năm 2021, thúc đẩy tăng trưởng xanh và phát triển bền vững."
+      "note": "Khoản vay 20 triệu USD từ Proparco cho EVF: 50% (10 triệu USD) cho dự án khí hậu, 50% hỗ trợ doanh nghiệp vừa nhỏ do phụ nữ lãnh đạo/sở hữu (WSME). Tiếp nối khoản vay 10 triệu USD năm 2021, thúc đẩy tăng trưởng xanh và phát triển bền vững."
     }
   ]
 }
