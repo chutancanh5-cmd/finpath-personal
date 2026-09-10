@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay cho thấy những tín hiệu lẫn lộn: tỷ giá USD/VND tiếp tục giảm 4 tháng liên tiếp hỗ trợ xuất khẩu, khối ngoại trở lại mua ròng 400 tỷ đồng, và FDI mới từ WHA (Thái Lan) đầu tư KCN 105 triệu USD tại Đà Nẵng. Tuy nhiên, áp lực lạm phát từ giá hàng hóa tăng sát đỉnh 18 năm, sự crash mạnh của cổ phiếu KAI lên UPCoM (giảm 41% sau 2 phiên do lợi nhuận 62,6% chưa thực hiện), và thanh khoản thị trường vẫn ở mức thấp khiến nhà đầu tư cảnh báo cơ hội ngắn hạn đang cạn kiệt.",
+  "summary_vi": "Thị trường có tín hiệu hồi phục với VN-Index tăng 2,11 điểm và dòng tiền lớn quay đầu mua ròng (khối ngoại mua 393 tỷ đồng, tự doanh mua 296 tỷ đồng). Tuy nhiên, nền tảng yếu với thanh khoản rất thấp, cơ hội ngắn hạn cạn kiệt sau đợt chốt lời mạnh, áp lực từ lạm phát hàng hóa toàn cầu (tiến sát đỉnh 18 năm) và IPO KAI thất bại (giảm 41% từ mức cao). Tín hiệu tích cực đến từ FDI mới (khu công nghiệp 105 triệu USD từ Thái Lan), nguồn vốn bền vững (20 triệu USD cho khí hậu), chiến lược tăng trưởng hai con số (2026-2030), và đồng nội tệ mạnh (tỷ giá USD/VND giảm 1,5% từ đầu năm).",
   "top": [
     {
-      "title": "Tỷ giá USD/VND giảm 4 tháng, về sát đáy 1 năm",
+      "title": "VN-Index hồi phục, dòng tiền lớn quay đầu mua ròng",
       "impact": "↑",
-      "note": "USD/VND trên thị trường liên ngân hàng giảm 1,5% từ đầu năm xuống 25.900 đồng/USD, thấp nhất trong 1 năm. Dòng vốn FDI thực hiện khoảng 17,25 tỷ USD trong 8 tháng, cải thiện cung ngoại tệ; nhập siêu giảm mạnh còn 113 triệu USD tháng 8. Diễn biến hỗ trợ xuất khẩu và doanh nghiệp hoạt động ngoại tệ."
+      "note": "VN-Index đóng cửa 1.829,23 điểm, tăng 2,11 điểm. Khối ngoại mua ròng 393 tỷ đồng (VIC: gần 249 tỷ, FPT: gần 220 tỷ); khối tự doanh mua ròng 296 tỷ đồng sau chuỗi bán ròng liên tiếp. 280 mã tăng giá (16 tăng trần), DGW tăng do Apple ra mắt iPhone mới, MWG tăng 1,82% (chiếm 50% thị phần Apple Việt Nam)."
     },
     {
-      "title": "Giá hàng hóa tăng sát đỉnh 18 năm, mối đe dọa lạm phát",
+      "title": "Thanh khoản thấp, cơ hội ngắn hạn cạn kiệt",
       "impact": "↓",
-      "note": "Chỉ số giá hàng hóa toàn cầu tiến sát mức tháng 8/2008, hiện thấp hơn kỷ lục 474 điểm khoảng 10% do xung đột Mỹ-Iran, nhu cầu AI, và đồng USD yếu. Giá dầu thô cao hơn 30%, khí đốt tăng gấp 2 lần so với trước xung đột. Sẽ tạo áp lực khiến các ngân hàng trung ương khó nới lỏng chính sách tiền tệ."
+      "note": "Thị trường ổn định trên mặt bằng mới nhưng thanh khoản rất thấp. Đợt chốt lời mạnh nhất đã qua (ngày 7/9), vùng hỗ trợ VNI quanh 1.820 điểm. Rủi ro lớn hơn cơ hội ngắn hạn, dòng tiền đầu cơ không có 'đất diễn', các cổ phiếu bùng lên không hình thành xu thế rõ ràng."
     },
     {
-      "title": "Cổ phiếu KAI lên UPCoM nhưng crash 41% trong 2 phiên",
+      "title": "Giá hàng hóa tiến sát đỉnh 18 năm, áp lực lạm phát toàn cầu",
       "impact": "↓",
-      "note": "KAI bắt đầu giao dịch tại giá tham chiếu 15.000 đồng/cổ phiếu, mở cửa tại trần 21.000 đồng, rồi giảm xuống 12.300 đồng sau 2 phiên. Vốn hóa mất 6.525 tỷ đồng. Nguyên nhân: lợi nhuận trước thuế tăng 155% nhưng 62,6% chưa thực hiện (không phải dòng tiền thực). Khối lượng giao dịch cực kỳ thấp (0,1% cổ phiếu)."
+      "note": "Chỉ số hàng hóa tiến sát mức đầu tháng 8/2008 (thấp hơn kỷ lục khoảng 10%). Xung đột Mỹ-Iran khiến eo biển Hormuz gần như bị đóng cửa. Giá dầu cao hơn 30% so với trước xung đột, khí đốt châu Âu và châu Á tăng gấp hơn 2 lần. Nhu cầu AI và xe điện thúc đẩy nhu cầu kim loại, rủi ro lạm phát toàn cầu có thể đảo ngược xu hướng hạ nhiệt."
     },
     {
-      "title": "Khối ngoại mua ròng 400 tỷ, VN-Index tăng nhẹ",
-      "impact": "→",
-      "note": "Khối ngoại quay lại mua ròng hơn 400 tỷ đồng sau 3 phiên bán, VN-Index tăng 2,11 điểm lên 1.829,23 điểm (tăng 0,12%). Tuy nhiên, thị trường vẫn chưa vượt qua vùng 1.850 điểm, thanh khoản giảm 7% so với phiên trước, biên độ giao dịch hẹp. Bộ mặt tích cực nhưng không có lực đẩy mạnh."
-    },
-    {
-      "title": "WHA (Thái Lan) đầu tư khu công nghiệp 105 triệu USD tại Đà Nẵng",
+      "title": "Tỷ giá USD/VND giảm, đồng nội tệ mạnh",
       "impact": "↑",
-      "note": "Tập đoàn WHA đề xuất đầu tư xây dựng KCN WHA Đà Nẵng quy mô 400 ha với tổng vốn 2.709 tỷ đồng (105 triệu USD) tại xã Thăng Bình và Đồng Dương. Hướng tới ô tô, cơ khí, điện tử, viễn thông, y tế, công nghệ cao, logistics. Bước tiến quan trọng cho FDI vào miền Trung."
+      "note": "USD/VND giảm 1,5% từ đầu năm xuống 25.900 đồng; tỷ giá trung tâm tăng 1,86% lên 25.591 đồng. FDI thực hiện 8 tháng đạt 17,25 tỷ USD, nhập siêu tháng 8 chỉ 113 triệu USD (thu hẹp từ 3,57 tỷ USD tháng 7). Dòng vốn, nguồn cung ngoại tệ và mặt bằng lãi suất VND tạo lực đỡ cho đồng nội tệ."
     },
     {
-      "title": "KIM LONG xuất khẩu 113 xe buýt điện sang Thái Lan",
+      "title": "FDI khu công nghiệp 105 triệu USD từ Thái Lan",
       "impact": "↑",
-      "note": "KIM LONG MOTOR hoàn tất bàn giao lô 9 xe buýt thuần điện KIMLONGB30-EV cho INNOPOWER (Thái Lan), đợt đầu trong hợp đồng 113 xe, xuất cảng 18/9. Nội địa hóa hiện 60%, mục tiêu 90% cuối 2026. Khẳng định năng lực sản xuất và xuất khẩu Made in Vietnam."
+      "note": "Tập đoàn WHA Thái Lan đề xuất đầu tư KCN WHA Đà Nẵng, quy mô 400 ha, tổng vốn 2.709 tỷ đồng (~105 triệu USD), tại xã Thăng Bình và Đồng Dương. Ưu tiên thu hút ô tô, cơ khí, điện, điện tử, viễn thông, công nghệ cao, logistics. Giúp tạo việc làm và thúc đẩy tăng trưởng kinh tế địa phương."
+    },
+    {
+      "title": "Chiến lược tăng trưởng hai con số 2026-2030",
+      "impact": "↑",
+      "note": "Hội thảo của Bộ Tài chính xác lập mô hình tăng trưởng mới. Chuyên gia: dư địa động lực truyền thống thu hẹp, các động lực mới có thể giúp GDP tăng thêm 2,8-3,7 điểm phần trăm mỗi năm, dựa vào công nghệ, năng suất, đổi mới sáng tạo, tham gia chuỗi giá trị gia tăng cao, không chỉ gia tăng đầu vào."
     }
   ]
 }
