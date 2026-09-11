@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán tháo mạnh ngày 11/9 với VN-Index rơi 34 điểm (-1.86%) xuống 1,795.21 điểm, 28/30 VN30 cùng giảm trước sự kiện nâng hạng FTSE Russell (21/9) khi lực cầu yếu không hấp thụ cung tăng (thanh khoản tăng 36-41% nhưng chỉ 15 ngàn tỷ đồng). Cấu trúc xuất khẩu phụ thuộc vào FDI (80.1%, hơn 300 tỷ USD) làm lép vế doanh nghiệp Việt (19.9%, 74 tỷ USD). Tâm lý tiêu cực bao trùm khi doanh nghiệp gặp khó khăn (Vạn Hương Investoco lỗ 96 tỷ, nợ 26.6 ngàn tỷ), mặc dù chính phủ tìm cách cải cách.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận diễn biến tiêu cực hôm nay khi VN-Index rơi mạnh 1,86% xuống dưới mốc 1.800 điểm do áp lực bán tháo đồng loạt trên toàn diện. Nhà đầu tư thực hiện chốt lời trước sự kiện nâng hạng FTSE Russell ngày 21/9, trong khi mặt bằng lãi suất cao và tâm lý né tránh rủi ro từ thị trường quốc tế tạo áp lực. Thách thức cấu trúc kinh tế khi doanh nghiệp FDI chiếm 80,1% giá trị xuất khẩu trong khi doanh nghiệp Việt Nam chỉ đạt 19,9%, phản ánh khó khăn của khu vực nội địa.",
   "top": [
     {
-      "title": "VN-Index rơi 34 điểm xuống 1,795.21, tuột dưới 1.800",
+      "title": "VN-Index rơi khỏi mốc 1.800 điểm, giảm 1,86%",
       "impact": "↓",
-      "note": "VN-Index giảm 34 điểm (-1.86%) xuống 1,795.21 điểm, 28/30 VN30 cùng giảm (-2.03%), 571 mã giảm vs 208 mã tăng. Thanh khoản HoSE 15.2 ngàn tỷ đồng tăng so với hôm qua nhưng lực cầu yếu, lực bán chiều tăng 41% so với sáng."
+      "note": "Chỉ số chính giảm 34 điểm xuống 1.795,21 điểm; HNX-Index giảm 2,04% xuống 272,68 điểm. Độ rộng thị trường sắc đỏ áp đảo với 571 mã giảm vs 208 mã tăng. Thanh khoản HoSE đạt hơn 15.200 tỷ đồng."
     },
     {
-      "title": "Thanh khoản chiều tăng 41%, bán tháo lan rộng",
+      "title": "Áp lực bán tháo tăng vọt, nhà đầu tư chốt lời trước nâng hạng FTSE",
       "impact": "↓",
-      "note": "Thanh khoản HoSE buổi chiều 8.928 tỷ đồng (+41% so với sáng, cao nhất 7 phiên). 150 cổ phiếu (~44% thị trường) giảm trên 1%, 131 mã giảm từ 2% trở lên (tăng từ 66 mã buổi sáng). Biên độ giảm mạnh xác nhận bán tháo thực sự khi nhà đầu tư hạ giá để thoát."
+      "note": "Thanh khoản HSX tăng 36% so với hôm qua lên mức cao nhất 7 phiên (khoảng 15.300 tỷ đồng), 59% giao dịch tập trung buổi chiều. VN-Index phá vỡ ngưỡng 1.800 điểm ngay trước sự kiện nâng hạng ngày 21/9, cho thấy chốt lời trước sự kiện."
     },
     {
-      "title": "FDI chiếm 80.1% giá trị xuất khẩu, doanh nghiệp Việt 19.9%",
+      "title": "Blue-chips giảm đồng loạt, VIC, VHM, VCB dẫn đầu",
       "impact": "↓",
-      "note": "Khối FDI 8 tháng xuất khẩu hơn 300 tỷ USD (tăng 27%), doanh nghiệp trong nước chỉ hơn 74 tỷ USD (tăng 7.4%). Khoảng cách rộng thêm so với năm ngoái, doanh nghiệp Việt gặp khó khăn do chi phí tuân thủ cao, quy chuẩn chặt chẽ hơn."
+      "note": "Tất cả 28/30 cổ phiếu VN30 giảm; VIC giảm 1,78%, VHM giảm 1,5%, VCB giảm 1,36%, BID giảm 2,06%, TCB giảm 2,47%, VPB giảm 2%, GAS giảm 2,01%. Nhóm trụ cột này lấy đi hơn 11,76 điểm từ chỉ số."
     },
     {
-      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ đồng, lỗ 96 tỷ",
+      "title": "Tâm lý nhà đầu tư thay đổi đột ngột do yếu tố quốc tế",
       "impact": "↓",
-      "note": "Chủ khu du lịch Đồi Rồng Hải Phòng có nợ phải trả gần 26.6 ngàn tỷ đồng (hơn 1 tỷ USD), lỗ 96 tỷ đồng nửa đầu 2026 so với lãi 226 tỷ năm 2025. Nợ gấp 8.78 lần vốn chủ sở hữu hơn 3 ngàn tỷ, chiếm 90% tổng tài sản."
+      "note": "Áp lực bán xuất hiện sớm từ sáng do chịu ảnh hưởng từ thị trường châu Á điều chỉnh mạnh, giá dầu cao, tâm lý né tránh rủi ro toàn cầu, cùng sức ép từ mặt bằng lãi suất trong nước."
     },
     {
-      "title": "MVI Life doanh thu giảm 9%, lợi nhuận giảm 13%",
+      "title": "Doanh nghiệp FDI chiếm 80,1% giá trị xuất khẩu, doanh nghiệp Việt chỉ 19,9%",
       "impact": "↓",
-      "note": "Doanh thu phí bảo hiểm gộp gần 869 tỷ đồng giảm 9%, lợi nhuận sau thuế gần 153 tỷ đồng giảm 13%. Chi phí bồi thường tăng 66% lên hơn 577 tỷ đồng, chủ yếu từ bảo hiểm hỗn hợp."
+      "note": "Trong 8 tháng 2026, khối FDI xuất khẩu hơn 300 tỷ USD (tăng 27%) chiếm 80,1% tổng kim ngạch, trong khi doanh nghiệp trong nước chỉ xuất khẩu 74 tỷ USD (tăng 7,4%). Khoảng cách này rộng thêm so với 2025, thể hiện khó khăn của doanh nghiệp nội địa."
     },
     {
-      "title": "Thủ tướng yêu cầu đơn giản quy trình giải thể doanh nghiệp",
+      "title": "Tỉnh Quảng Ninh nâng mục tiêu tăng trưởng quý 3 lên 15,48%",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng (10/9) yêu cầu Bộ Tài chính rút gọn quy trình giải thể, phá sản doanh nghiệp trong Luật Phát triển DNMVV. Mục tiêu tháo gỡ điểm nghẽn hành lang pháp lý hướng tới tăng trưởng hai con số."
+      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3 từ 15,41% lên 15,48%, hướng tới mục tiêu 9 tháng 12,56% và cả năm 13,21%. Các ngành công nghiệp chế biến, chế tạo được xác định là trụ cột quan trọng."
     }
   ]
 }
