@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang trong giai đoạn giằng co và tích lũy, với các tín hiệu kinh tế vĩ mô khá tích cực nhưng chịu áp lực từ chính sách tiền tệ thắt chặt toàn cầu (ECB tăng lãi suất lên 2.5%, 4 NHTW lớn tăng hoặc chuẩn bị tăng) và giá dầu tăng cao do căng thẳng eo biển Hormuz (101,21 USD/thùng, mức cao nhất từ 22/5). VND mạnh lên (USD/VND xuống gần mức thấp 1 năm ở 25.900 đồng) hỗ trợ xuất khẩu, FDI vốn đăng ký vẫn cao (40,6 tỷ USD), nhưng thanh khoản thị trường hẹp và nhà đầu tư thận trọng. Sự bao gồm Việt Nam vào chỉ số FTSE vào 21/9 dự kiến tạo động lực dòng tiền khoảng 230 triệu USD.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Dòng tiền ngoại quay lại mua mạnh (VIC 249 tỷ đ, FPT 220 tỷ đ), tỷ giá USD giảm 4 tháng liên tiếp xuống 25.900 đ/USD tạo thuận lợi cho xuất khẩu. FDI vốn đăng ký tăng mạnh 55,4% lên 40,6 tỷ USD và FTSE GEIS sắp chính thức vào 21/9 hứa hẹn hút dòng vốn mới. Tuy nhiên, lãi suất vay bất động sản tăng lên 12-14%/năm (cao nhất kể từ Q1-2023) trong khi nợ vay ngành BĐS tăng 20%, gây áp lực tài chính đáng kể.",
   "top": [
     {
-      "title": "ECB tăng lãi suất 25 bps lên 2.5%, chính sách thắt chặt toàn cầu",
+      "title": "Lãi suất vay BĐS lên 12-14%/năm, nợ vay tăng 20%",
       "impact": "↓",
-      "note": "Ngân hàng Trung ương châu Âu nâng lãi suất tiền gửi chủ chốt từ 2.25% lên 2.5%, thêm 4 ngân hàng trung ương lớn khác tăng hoặc chuẩn bị tăng lãi suất, tạo áp lực lên các thị trường mới nổi như Việt Nam thông qua tác động lãi suất quốc tế và dòng vốn."
+      "note": "Lãi suất cho vay mua nhà phổ biến ở mức 12-14%/năm (cao nhất kể từ Q1-2023), nợ vay doanh nghiệp BĐS tăng hơn 20%, trái phiếu phát hành mới lên 13,5%/năm. Lạm phát tháng 8 tăng 4,89%, lạm phát cơ bản 4,55% làm khó giảm mặt bằng lãi suất trong ngắn hạn."
     },
     {
-      "title": "Giá dầu Brent lên 101,21 USD/thùng do căng thẳng Hormuz",
-      "impact": "↓",
-      "note": "Dầu Brent đóng cửa ở 101,21 USD/thùng, mức cao nhất kể từ 22/5, tăng gần 25% trong hơn 1 tháng do giao tranh quanh eo biển Hormuz bùng phát, gây áp lực lạm phát ở phương Tây, khí đốt tăng, và tăng chi phí nhập khẩu năng lượng của Việt Nam."
-    },
-    {
-      "title": "USD/VND xuống sát đáy 1 năm, lợi ích cho xuất khẩu",
+      "title": "Tỷ giá USD/VND giảm 4 tháng liên tiếp xuống 25.900 đ/USD",
       "impact": "↑",
-      "note": "USD/VND giảm 4 tháng liên tiếp xuống 25.900 đồng/USD (gần mức thấp 1 năm), thúc đẩy bởi nhập siêu hẹp (113 triệu USD tháng 8 từ 3,57 tỷ USD tháng 7) và FDI giải ngân 17,25 tỷ USD trong 8 tháng, giúp các doanh nghiệp xuất khẩu cạnh tranh tốt hơn trên thị trường quốc tế."
+      "note": "USD/VND trên thị trường liên ngân hàng giảm 1,5% xuống 25.900 đ/USD (đáy 1 năm), nhập siêu hẹp 113 triệu USD tháng 8 (từ 3,57 tỷ USD tháng 7), FDI giải ngân 17,25 tỷ USD trong 8 tháng. Đồng nội tệ mạnh hỗ trợ lợi nhuận xuất khẩu."
     },
     {
-      "title": "FDI vốn đăng ký 40,6 tỷ USD, tăng 55,4% so với cùng kỳ",
+      "title": "FDI vốn đăng ký tăng 55,4% lên 40,6 tỷ USD, FTSE vào 21/9",
       "impact": "↑",
-      "note": "FDI vốn đăng ký 8 tháng đầu năm 2026 đạt 40,6 tỷ USD, tăng 55,4% so với cùng kỳ. Tập đoàn WHA Thái Lan đề xuất đầu tư 105 triệu USD cho KCN WHA Đà Nẵng 400 ha với ưu tiên ô tô, cơ khí, điện, điện tử, công nghệ cao, logistics, phản ánh niềm tin lâu dài vào kinh tế Việt Nam."
+      "note": "Vốn FDI đăng ký tăng 55,4% so với cùng kỳ, đạt 40,6 tỷ USD, giải ngân tăng 12% lên 17,3 tỷ USD. FTSE Global Equity Index Series chính thức có hiệu lực 21/9/2026, dự kiến hút khoảng 10% trong 2,3 tỷ USD (~230 triệu USD) từ các quỹ đầu tư thụ động."
     },
     {
-      "title": "FTSE inclusion từ 21/9, dòng vốn chỉ số dự kiến ~230 triệu USD",
+      "title": "WHA (Thái Lan) đầu tư 105 triệu USD xây KCN 400 ha Đà Nẵng",
       "impact": "↑",
-      "note": "Việt Nam được bao gồm vào chỉ số FTSE Global Equity Index Series có hiệu lực từ 21/9/2026, dự kiến thu hút khoảng 10% trong tổng 2,3 tỷ USD (~230 triệu USD) từ các quỹ đầu tư thụ động mô phỏng chỉ số, tạo động lực dòng tiền dương cho thị trường."
+      "note": "Tập đoàn WHA đề xuất đầu tư KCN WHA Đà Nẵng với tổng vốn 2.709 tỷ đồng (105 triệu USD), quy mô 400 ha tại xã Thăng Bình và Đồng Dương, ưu tiên ô tô, cơ khí, điện, điện tử, logistics, công nghệ cao, phản ánh niềm tin vào tiềm năng kinh tế Việt Nam."
     },
     {
-      "title": "VN-Index giằng co tại 1.829 điểm, thanh khoản thấp",
+      "title": "Khối ngoại/tự doanh mua ròng mạnh VIC, FPT",
+      "impact": "↑",
+      "note": "Khối ngoại quay lại mua ròng 393 tỷ đ ngày 10/9 (sau 3 ngày bán ròng), VIC mua ròng 249 tỷ đ, FPT 220 tỷ đ. Khối tự doanh mua ròng 296 tỷ đ gồm VHM (35 tỷ đ), FPT (30 tỷ đ), VIC (28 tỷ đ), tín hiệu nhà đầu tư lớn quay lại mua."
+    },
+    {
+      "title": "Vàng ETF toàn cầu đạt kỷ lục 4.186 tấn, dòng vốn 18 tỷ USD tháng 8",
       "impact": "→",
-      "note": "VN-Index đóng cửa 1.829,23 điểm, tăng nhẹ 2 điểm, trong khi thanh khoản toàn thị trường chỉ 14.000 tỷ đồng, ngoại tệ mua ròng 401,2 tỷ đồng nhưng sự căng thẳng giữa phe mua-bán vẫn rõ. Nhà đầu tư nên hạn chế giao dịch lướt sóng, vùng hỗ trợ quan trọng tại 1.790 điểm."
+      "note": "Lượng vàng nắm giữ ETF đạt 4.186 tấn ngày 28/8 (Bắc Mỹ 2.086, Âu 1.501, Á 524 tấn). Dòng vốn mới 18 tỷ USD tháng 8 (thứ 2 lịch sử, tăng 121 tấn), tổng AUM tăng 16% lên 615 tỷ USD, phản ánh nhu cầu trú ẩn an toàn toàn cầu cao."
     }
   ]
 }
