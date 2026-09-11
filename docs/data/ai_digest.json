@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay gặp áp lực bán tháo mạnh với VN-Index giảm 1,86% xuống 1795,21 điểm, thanh khoản yếu (15.000 tỷ đồng) trước sự kiện nâng hạng FTSE vào 21/9. Bên cạnh những rủi ro chốt lời ngắn hạn, Việt Nam tiếp tục đón những tín hiệu tích cực từ chính sách cải cách doanh nghiệp, mục tiêu tăng trưởng 2 con số, và cơ hội từ nâng hạng FTSE Russell. Tuy nhiên, khối FDI tiếp tục thống trị xuất khẩu với 80,1% thị phần trong khi doanh nghiệp trong nước chỉ tăng 7,4%, phản ánh sự phân hóa trong nền kinh tế.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Ngày 11/9, TTCK Việt Nam chịu áp lực bán tháo mạnh với VN-Index rơi 34 điểm (-1,86%) xuống 1.795,21 điểm, tuột dưới mốc 1.800 do tâm lý chốt lời trước nâng hạng FTSE Russell (21/9) khi thanh khoản yếu (15.000 tỷ đồng) không hấp thụ được cung tăng. Cấu trúc xuất khẩu phụ thuộc vào FDI (80,1% trong 8 tháng, hơn 300 tỷ USD) trong khi doanh nghiệp trong nước (19,9%, 74 tỷ USD) gặp khó khăn do chi phí tuân thủ. Một số doanh nghiệp lớn như Vạn Hương Investoco thua lỗ 96 tỷ đồng với nợ 26,6 ngàn tỷ. Tuy vậy, chính phủ đẩy nhanh cải cách môi trường kinh doanh với đơn giản hóa quy trình hỗ trợ doanh nghiệp.",
   "top": [
     {
-      "title": "VN-Index rơi xuống 1800 điểm, áp lực bán tháo tăng vọt",
+      "title": "VN-Index rơi 34 điểm, tuột dưới 1.800",
       "impact": "↓",
-      "note": "VN-Index giảm 34,02 điểm (-1,86%) xuống 1795,21 điểm, 28/30 cổ phiếu VN30 cùng giảm, thanh khoản HoSE chỉ 15.000 tỷ đồng cho thấy lực cầu chưa đủ mạnh để hấp thụ áp lực bán."
+      "note": "VN-Index giảm 34 điểm (-1,86%) xuống 1.795,21 điểm, 28/30 VN30 đều giảm, VN30-Index -2,03%. Thanh khoản HoSE 15.000 tỷ đồng, lực cầu yếu không hấp thụ cung tăng. Tâm lý chốt lời trước nâng hạng FTSE Russell (21/9)."
     },
     {
-      "title": "Vạn Hương Investoco nợ hơn 1 tỷ USD, lỗ 96 tỷ đồng nửa đầu năm",
+      "title": "Blue-chips 'đỏ đậm', thanh khoản chiều tăng 41%",
       "impact": "↓",
-      "note": "Chủ dự án Đồi Rồng có nợ phải trả 26,6 ngàn tỷ đồng (hơn 1 tỷ USD), lỗ 96 tỷ đồng trong 6 tháng đầu 2026, dư nợ tương đương 8,78 lần vốn chủ sở hữu."
+      "note": "BID -2,06%, TCB -2,47%, VPB -2%, GAS -2,01%, VIC -1,78% giảm mạnh. Thanh khoản HoSE buổi chiều 8.928 tỷ đồng (+41% so với sáng, cao nhất 7 phiên), 131 mã giảm từ 2% trở lên, tăng từ 66 mã buổi sáng."
     },
     {
-      "title": "Việt Nam nâng hạng FTSE Russell, mở cơ hội lớn cho doanh nghiệp",
+      "title": "FDI xuất khẩu 300 tỷ USD, chiếm 80,1%, doanh nghiệp Việt 19,9%",
+      "impact": "↓",
+      "note": "Khối FDI 8 tháng xuất khẩu hơn 300 tỷ USD (tăng 27%), doanh nghiệp trong nước chỉ hơn 74 tỷ USD (tăng 7,4%). Khoảng cách rộng thêm, doanh nghiệp Việt khó khăn do chi phí tuân thủ cao, quy chuẩn chặt chẽ."
+    },
+    {
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ, lỗ 96 tỷ đồng",
+      "impact": "↓",
+      "note": "Chủ dự án Đồi Rồng Hải Phòng có nợ 26,6 ngàn tỷ đồng (hơn 1 tỷ USD), lỗ 96 tỷ đồng nửa đầu 2026 so với lãi 226 tỷ năm 2025. Hệ số nợ/vốn 8,78 lần, nợ chiếm 90% tổng tài sản, tăng 476 tỷ so với đầu năm."
+    },
+    {
+      "title": "Bán tháo diễn ra rộng, 150 cổ phiếu giảm trên 1%",
+      "impact": "↓",
+      "note": "Thanh khoản HSX tăng 36% lên 15,3 ngàn tỷ đồng, 150 cổ phiếu (~44% thị trường) giảm trên 1%. Biên độ giảm mạnh xác nhận bên bán liên tục hạ giá để thoát, tâm lý ngắn hạn đồng loạt thay đổi từ dòng tiền ngoại."
+    },
+    {
+      "title": "Thủ tướng đơn giản quy trình giải thể, phá sản doanh nghiệp",
       "impact": "↑",
-      "note": "Từ 21/9, Việt Nam chính thức nâng hạng thành thị trường mới nổi thứ cấp của FTSE Russell, doanh nghiệp Việt có cơ hội lọt vào radar các quỹ mới nổi trên FTSE Emerging Index (2.250+ cổ phiếu)."
-    },
-    {
-      "title": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3 lên 15,48%",
-      "impact": "↑",
-      "note": "Quảng Ninh nâng mục tiêu tăng trưởng GRDP quý 3 lên 15,48%, hướng tới 9 tháng 12,56% và cả năm 13,21%, khẳng định vị thế là cực tăng trưởng quan trọng của khu vực phía Bắc."
-    },
-    {
-      "title": "FDI chiếm 80,1% giá trị xuất khẩu, doanh nghiệp trong nước tụt lại",
-      "impact": "→",
-      "note": "Trong 8 tháng qua, khu vực FDI xuất khẩu 300 tỷ USD (tăng 27%) chiếm 80,1% tổng kim ngạch, khu vực trong nước chỉ 74 tỷ USD (tăng 7,4%), khoảng cách ngày càng rộng."
-    },
-    {
-      "title": "Thủ tướng đề xuất đơn giản quy trình giải thể, phá sản doanh nghiệp",
-      "impact": "↑",
-      "note": "Thủ tướng yêu cầu Bộ Tài chính rút gọn quy trình giải thể và phá sản, góp phần tháo gỡ điểm nghẽn môi trường kinh doanh và hỗ trợ doanh nghiệp nhỏ vừa."
+      "note": "Thủ tướng Lê Minh Hưng (10/9) yêu cầu Bộ Tài chính rút gọn quy trình giải thể, phá sản trong Luật Phát triển doanh nghiệp nhỏ và vừa. Mục tiêu tháo gỡ điểm nghẽn, hướng tăng trưởng hai con số."
     }
   ]
 }
