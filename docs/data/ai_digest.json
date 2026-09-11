@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Việt Nam vừa được FTSE nâng hạng, mở ra dòng vốn ngoại hơn 6-9 tỷ USD giai đoạn 2026-2027. Tuy nhiên, khối FDI đang chiếm ưu thế lớn (80,1% xuất khẩu) trong khi doanh nghiệp nội địa chỉ đạt 19,9%, phản ánh áp lực cạnh tranh. Chính sách được cải thiện thông qua đơn giản hóa thủ tục doanh nghiệp và mục tiêu tăng trưởng GDP thêm 2,8-3,7 điểm % mỗi năm. Tỷ giá USD/VND giảm 1,5% hỗ trợ khả năng tiếp cận vốn ngoại. Tuy vậy, thị trường toàn cầu có dấu hiệu khó khăn với P/E cao, có thể tạo sóng gió ngắn hạn.",
+  "summary_vi": "Việt Nam sắp nhận dòng vốn FTSE Russell lên 8 tỷ USD sau nâng hạng, kéo theo đồng VND tăng giá (tỷ giá USD/VND giảm 4 tháng liên tiếp xuống 25.900), tạo động lực tích cực cho TTCK. Tuy nhiên, FDI thống trị 80,1% xuất khẩu (>300 tỷ USD, +27%) trong khi doanh nghiệp Việt chỉ chiếm 19,9% (>74 tỷ USD, +7,4%), gây lo ngại về cạnh tranh lâu dài. Các chuyên gia cảnh báo rủi ro từ lãi suất toàn cầu tăng có thể kích hoạt vòng xoáy giảm giá trên diện rộng.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng Việt Nam, kỳ vọng dòng vốn 6-9 tỷ USD",
+      "title": "Dòng vốn FTSE Russell lên 8 tỷ USD sau nâng hạng",
       "impact": "↑",
-      "note": "Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng từ 0,329% lên 0,49%; ETF thụ động nhận 1,8 tỷ USD, đầu tư chủ động 5-8 tỷ USD. Phân bổ từ 21/9/2026 đến 09/2027. 27 mã được chọn nhưng một số cổ phiếu lớn như MWG, MBB, TCB bị loại do room nước ngoài hạn chế."
+      "note": "Sau khi Việt Nam được FTSE Russell nâng hạng, ước tính khoảng 1,8 tỷ USD từ quỹ ETF thụ động và 5-8 tỷ USD từ quỹ chủ động sẽ được phân bổ vào cổ phiếu Việt Nam. Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng lên 0,49% (từ 0,329%). Quá trình phân bổ vốn bắt đầu từ 21/9/2026 và hoàn tất 9/2027."
     },
     {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại",
+      "title": "FDI áp đảo 80,1% xuất khẩu, doanh nghiệp Việt chỉ 19,9%",
       "impact": "↓",
-      "note": "FDI xuất khẩu 300+ tỷ USD trong 8 tháng, tăng 27% với 80,1% tổng kimngạch. Doanh nghiệp nội địa chỉ 74 tỷ USD, tăng 7,4% với 19,9%. Khoảng cách ngày càng rộng, phản ánh doanh nghiệp Việt khó cạnh tranh quốc tế."
+      "note": "8 tháng năm 2026, khối FDI xuất khẩu hơn 300 tỷ USD (+27%), chiếm 80,1% tổng giá trị, trong khi doanh nghiệp trong nước chỉ xuất khẩu hơn 74 tỷ USD (+7,4%), chiếm 19,9%. Khoảng cách mở rộng, cho thấy doanh nghiệp Việt ngày càng khó khăn khi tham gia thị trường quốc tế do yêu cầu quy chuẩn chất lượng cao."
+    },
+    {
+      "title": "SGI Capital cảnh báo rủi ro thị trường toàn cầu",
+      "impact": "↓",
+      "note": "Theo SGI Capital, thị trường có thể kích hoạt xu hướng giảm giá và vòng xoáy hạ đòn bẩy trên diện rộng khi lãi suất tăng cao trùng với thời gian đáo hạn nhiều khoản vay cũ. S&P 500 ở định giá cao với P/E 25-26 lần, tháng trước bầu cử Mỹ lịch sử có diễn biến thận trọng với điều chỉnh giảm 10-15%."
+    },
+    {
+      "title": "Tỷ giá USD/VND giảm 4 tháng liên tiếp sát đáy một năm",
+      "impact": "↑",
+      "note": "Tỷ giá USD/VND trên thị trường liên ngân hàng giảm 1,5% từ đầu năm xuống 25.900 đồng/USD, sát đáy một năm. Sự giảm phản ánh dòng FDI mạnh (17,25 tỷ USD 8 tháng) và nhập siêu thu hẹp (113 triệu USD tháng 8). Đà giảm còn kéo dài nhờ dòng vốn ngoại cùng mặt bằng lãi suất VND cao."
+    },
+    {
+      "title": "Quảng Ninh điều chỉnh mục tiêu tăng trưởng quý 3 lên 15,48%",
+      "impact": "↑",
+      "note": "Thành phố Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3/2026 lên 15,48%, hướng tới mục tiêu 9 tháng đạt 12,56% và cả năm 13,21%. Mức phấn đấu nhằm đưa các động lực tăng trưởng trở lại đúng quỹ đạo, đặc biệt từ công nghiệp chế biến, chế tạo."
     },
     {
       "title": "Thủ tướng yêu cầu đơn giản hóa thủ tục giải thể doanh nghiệp",
       "impact": "↑",
-      "note": "Lê Minh Hưng chủ trì làm việc về 4 dự án luật (Luật Đầu tư, Đấu thầu, Ngân sách, Phát triển DN nhỏ vừa), yêu cầu Bộ Tài chính đơn giản, rút gọn quy trình để tháo gỡ điểm nghẽn, tạo không gian phát triển mới."
-    },
-    {
-      "title": "Động lực tăng trưởng mới có thể giúp GDP tăng 2,8-3,7% mỗi năm",
-      "impact": "↑",
-      "note": "Hội thảo ngày 8/9 của Bộ Tài chính nhấn mạnh chuyển từ tăng đầu vào sang dựa vào năng suất, công nghệ, đổi mới sáng tạo để đạt mục tiêu tăng trưởng 2 con số giai đoạn 2026-2030."
-    },
-    {
-      "title": "Tỷ giá USD/VND giảm 1,5%, hỗ trợ dòng vốn ngoại",
-      "impact": "↑",
-      "note": "USD/VND giảm 4 tháng liên tiếp xuống 25.900 đồng/USD (giảm 1,5% từ đầu năm); áp lực thương mại giảm mạnh (nhập siêu tháng 8 chỉ 113 triệu USD); FDI thực hiện 17,25 tỷ USD trong 8 tháng 2026."
-    },
-    {
-      "title": "Thị trường toàn cầu có dấu hiệu khó khăn, cảnh báo rủi ro",
-      "impact": "↓",
-      "note": "P/E S&P 500 cao 25-26 lần; tốc độ tăng trưởng sẽ chậm vào 2027. Các tháng trước bầu cử Mỹ thường gây điều chỉnh 10-15%. Giai đoạn không thuận lợi cho thị trường chứng khoán toàn cầu và các kênh đầu tư."
+      "note": "Thủ tướng Lê Minh Hưng chủ trì cuộc làm việc về dự án Luật Phát triển doanh nghiệp nhỏ và vừa ngày 10/9, yêu cầu Bộ Tài chính rút gọn quy trình giải thể và phá sản nhằm tháo gỡ điểm nghẽn, hoàn thiện hành lang pháp lý hỗ trợ tăng trưởng hai con số."
     }
   ]
 }
