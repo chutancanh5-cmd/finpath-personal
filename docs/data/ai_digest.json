@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Ngày 11/9, TTCK Việt Nam chịu áp lực bán tháo mạnh với VN-Index rơi 34 điểm (-1,86%) xuống 1.795,21 điểm, tuột dưới mốc 1.800 do tâm lý chốt lời trước nâng hạng FTSE Russell (21/9) khi thanh khoản yếu (15.000 tỷ đồng) không hấp thụ được cung tăng. Cấu trúc xuất khẩu phụ thuộc vào FDI (80,1% trong 8 tháng, hơn 300 tỷ USD) trong khi doanh nghiệp trong nước (19,9%, 74 tỷ USD) gặp khó khăn do chi phí tuân thủ. Một số doanh nghiệp lớn như Vạn Hương Investoco thua lỗ 96 tỷ đồng với nợ 26,6 ngàn tỷ. Tuy vậy, chính phủ đẩy nhanh cải cách môi trường kinh doanh với đơn giản hóa quy trình hỗ trợ doanh nghiệp.",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực bán tháo mạnh ngày 11/9 với VN-Index rơi 34 điểm (-1.86%) xuống 1,795.21 điểm, 28/30 VN30 cùng giảm trước sự kiện nâng hạng FTSE Russell (21/9) khi lực cầu yếu không hấp thụ cung tăng (thanh khoản tăng 36-41% nhưng chỉ 15 ngàn tỷ đồng). Cấu trúc xuất khẩu phụ thuộc vào FDI (80.1%, hơn 300 tỷ USD) làm lép vế doanh nghiệp Việt (19.9%, 74 tỷ USD). Tâm lý tiêu cực bao trùm khi doanh nghiệp gặp khó khăn (Vạn Hương Investoco lỗ 96 tỷ, nợ 26.6 ngàn tỷ), mặc dù chính phủ tìm cách cải cách.",
   "top": [
     {
-      "title": "VN-Index rơi 34 điểm, tuột dưới 1.800",
+      "title": "VN-Index rơi 34 điểm xuống 1,795.21, tuột dưới 1.800",
       "impact": "↓",
-      "note": "VN-Index giảm 34 điểm (-1,86%) xuống 1.795,21 điểm, 28/30 VN30 đều giảm, VN30-Index -2,03%. Thanh khoản HoSE 15.000 tỷ đồng, lực cầu yếu không hấp thụ cung tăng. Tâm lý chốt lời trước nâng hạng FTSE Russell (21/9)."
+      "note": "VN-Index giảm 34 điểm (-1.86%) xuống 1,795.21 điểm, 28/30 VN30 cùng giảm (-2.03%), 571 mã giảm vs 208 mã tăng. Thanh khoản HoSE 15.2 ngàn tỷ đồng tăng so với hôm qua nhưng lực cầu yếu, lực bán chiều tăng 41% so với sáng."
     },
     {
-      "title": "Blue-chips 'đỏ đậm', thanh khoản chiều tăng 41%",
+      "title": "Thanh khoản chiều tăng 41%, bán tháo lan rộng",
       "impact": "↓",
-      "note": "BID -2,06%, TCB -2,47%, VPB -2%, GAS -2,01%, VIC -1,78% giảm mạnh. Thanh khoản HoSE buổi chiều 8.928 tỷ đồng (+41% so với sáng, cao nhất 7 phiên), 131 mã giảm từ 2% trở lên, tăng từ 66 mã buổi sáng."
+      "note": "Thanh khoản HoSE buổi chiều 8.928 tỷ đồng (+41% so với sáng, cao nhất 7 phiên). 150 cổ phiếu (~44% thị trường) giảm trên 1%, 131 mã giảm từ 2% trở lên (tăng từ 66 mã buổi sáng). Biên độ giảm mạnh xác nhận bán tháo thực sự khi nhà đầu tư hạ giá để thoát."
     },
     {
-      "title": "FDI xuất khẩu 300 tỷ USD, chiếm 80,1%, doanh nghiệp Việt 19,9%",
+      "title": "FDI chiếm 80.1% giá trị xuất khẩu, doanh nghiệp Việt 19.9%",
       "impact": "↓",
-      "note": "Khối FDI 8 tháng xuất khẩu hơn 300 tỷ USD (tăng 27%), doanh nghiệp trong nước chỉ hơn 74 tỷ USD (tăng 7,4%). Khoảng cách rộng thêm, doanh nghiệp Việt khó khăn do chi phí tuân thủ cao, quy chuẩn chặt chẽ."
+      "note": "Khối FDI 8 tháng xuất khẩu hơn 300 tỷ USD (tăng 27%), doanh nghiệp trong nước chỉ hơn 74 tỷ USD (tăng 7.4%). Khoảng cách rộng thêm so với năm ngoái, doanh nghiệp Việt gặp khó khăn do chi phí tuân thủ cao, quy chuẩn chặt chẽ hơn."
     },
     {
-      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ, lỗ 96 tỷ đồng",
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ đồng, lỗ 96 tỷ",
       "impact": "↓",
-      "note": "Chủ dự án Đồi Rồng Hải Phòng có nợ 26,6 ngàn tỷ đồng (hơn 1 tỷ USD), lỗ 96 tỷ đồng nửa đầu 2026 so với lãi 226 tỷ năm 2025. Hệ số nợ/vốn 8,78 lần, nợ chiếm 90% tổng tài sản, tăng 476 tỷ so với đầu năm."
+      "note": "Chủ khu du lịch Đồi Rồng Hải Phòng có nợ phải trả gần 26.6 ngàn tỷ đồng (hơn 1 tỷ USD), lỗ 96 tỷ đồng nửa đầu 2026 so với lãi 226 tỷ năm 2025. Nợ gấp 8.78 lần vốn chủ sở hữu hơn 3 ngàn tỷ, chiếm 90% tổng tài sản."
     },
     {
-      "title": "Bán tháo diễn ra rộng, 150 cổ phiếu giảm trên 1%",
+      "title": "MVI Life doanh thu giảm 9%, lợi nhuận giảm 13%",
       "impact": "↓",
-      "note": "Thanh khoản HSX tăng 36% lên 15,3 ngàn tỷ đồng, 150 cổ phiếu (~44% thị trường) giảm trên 1%. Biên độ giảm mạnh xác nhận bên bán liên tục hạ giá để thoát, tâm lý ngắn hạn đồng loạt thay đổi từ dòng tiền ngoại."
+      "note": "Doanh thu phí bảo hiểm gộp gần 869 tỷ đồng giảm 9%, lợi nhuận sau thuế gần 153 tỷ đồng giảm 13%. Chi phí bồi thường tăng 66% lên hơn 577 tỷ đồng, chủ yếu từ bảo hiểm hỗn hợp."
     },
     {
-      "title": "Thủ tướng đơn giản quy trình giải thể, phá sản doanh nghiệp",
+      "title": "Thủ tướng yêu cầu đơn giản quy trình giải thể doanh nghiệp",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng (10/9) yêu cầu Bộ Tài chính rút gọn quy trình giải thể, phá sản trong Luật Phát triển doanh nghiệp nhỏ và vừa. Mục tiêu tháo gỡ điểm nghẽn, hướng tăng trưởng hai con số."
+      "note": "Thủ tướng Lê Minh Hưng (10/9) yêu cầu Bộ Tài chính rút gọn quy trình giải thể, phá sản doanh nghiệp trong Luật Phát triển DNMVV. Mục tiêu tháo gỡ điểm nghẽn hành lang pháp lý hướng tới tăng trưởng hai con số."
     }
   ]
 }
