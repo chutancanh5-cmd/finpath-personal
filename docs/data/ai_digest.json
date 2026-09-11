@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực bán mạnh với VN-Index xuyên thủng mốc 1.800 điểm (giảm 1,86% phiên, 3,12% tuần), tâm lý nhà đầu tư yếu trước sự kiện nâng hạng FTSE Russell ngày 21/9. Lực cầu chưa đủ mạnh hấp thụ cung tăng khi thanh khoản chỉ đạt 15 ngàn tỷ đồng, kết hợp sức ép từ mặt bằng lãi suất cao. Lo ngại cấu trúc kinh tế khi FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt chỉ 19,9%, cùng rủi ro tài chính từ các doanh nghiệp lớn.",
+  "summary_vi": "Phiên 11/9 ghi nhận áp lực bán ròng từ khối ngoại (777 tỷ đồng) và tự doanh (94 tỷ đồng), VN-Index phá vỡ mốc 1.800 điểm với 28/30 cổ phiếu VN30 giảm. Thị trường đối mặt sức ép chốt lời trước sự kiện nâng hạng FTSE Russell (21/9), khi thanh khoản cao nhưng đến từ áp lực bán. Bên cạnh đó, nợ của các công ty bất động sản lớn (Vạn Hương Investoco nợ 26,6 ngàn tỷ) và sự yếu kém của doanh nghiệp Việt trong cạnh tranh xuất khẩu (FDI chiếm 80% xuất khẩu) tiếp tục làm nặng tâm lý thị trường.",
   "top": [
     {
-      "title": "VN-Index rơi khỏi 1.800 điểm, giảm 3,12% tuần",
+      "title": "Khối ngoại xả nhóm ngân hàng 777 tỷ, tự doanh bán ròng",
       "impact": "↓",
-      "note": "VN-Index giảm 57,87 điểm (-3,12%) tuần xuống 1.795,21 điểm; HNX-Index giảm 9,85 điểm (-3,49%). Phiên 11/9 giảm 34 điểm (-1,86%), 571 mã giảm vs 208 mã tăng; thanh khoản HoSE 15.200 tỷ đồng."
+      "note": "Khối ngoại bán ròng 777 tỷ đồng tập trung ở nhóm ngân hàng (STB xả 229 tỷ, MBB 140 tỷ, VPB 123 tỷ); khối tự doanh cũng bán ròng 94 tỷ đồng. Áp lực bán từ cả hai dòng tiền lớn."
     },
     {
-      "title": "Bán tháo lớn, thanh khoản tăng 36-41%",
+      "title": "VN-Index phá vỡ 1.800 điểm, VN30 giảm 2,03%",
       "impact": "↓",
-      "note": "Thanh khoản HSX tăng 36% so với hôm qua lên cao nhất 7 phiên (15.300 tỷ đồng), 59% tập trung buổi chiều. 131 cổ phiếu giảm từ 2% trở lên; VN30 giảm 2,03% với 28/30 mã đỏ, cho thấy áp lực bán đồng loạt."
+      "note": "VN-Index giảm 1,86% xuống 1.795,21 điểm (mất 34 điểm) trong phiên cuối tuần; toàn tuần giảm 3,12%. Tất cả 28/30 cổ phiếu VN30 đều giảm, thanh khoản HoSE 15.000 tỷ đồng nhưng không đủ để hấp thụ lượng cung."
     },
     {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt chỉ 19,9%",
+      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại",
       "impact": "↓",
-      "note": "Khối FDI xuất khẩu hơn 300 tỷ USD (tăng 27%) trong 8 tháng, chiếm 80,1% tổng kim ngạch; doanh nghiệp nội địa chỉ 74 tỷ USD (tăng 7,4%). Khoảng cách rộng thêm so với 2025, phản ánh khó khăn cạnh tranh của doanh nghiệp Việt."
+      "note": "8 tháng qua, khối FDI xuất khẩu 300 tỷ USD (tăng 27%), chiếm 80,1% tổng kim ngạch; doanh nghiệp trong nước chỉ 74 tỷ USD (tăng 7,4%), chiếm 19,9%. Khoảng cách tiếp tục rộng thêm so với năm trước."
     },
     {
-      "title": "Vạn Hương Investoco nợ phải trả hơn 1 tỷ USD",
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ, lỗ 96 tỷ nửa năm",
       "impact": "↓",
-      "note": "Chủ dự án Đồi Rồng có gần 26.600 ngàn tỷ đồng nợ phải trả cuối tháng 6/2026, lỗ 96 tỷ đồng nửa đầu 2026; nợ gấp 8,78 lần vốn chủ sở hữu, chiếm 90% tổng tài sản."
+      "note": "Nợ phải trả 26,6 ngàn tỷ đồng (gấp 8,78 lần vốn chủ sở hữu), lỗ sau thuế 96 tỷ đồng H1 2026; lợi nhuận chưa phân phối âm 24 tỷ đồng. Nợ chiếm 90% tổng tài sản."
     },
     {
-      "title": "Chốt lời trước nâng hạng FTSE Russell ngày 21/9",
+      "title": "Thanh khoản chiều tăng 63%, áp lực bán tháo mạnh",
+      "impact": "↓",
+      "note": "Thanh khoản rổ VN30 chiều tăng 63% so với sáng, toàn sàn HoSE tăng 41%. Có 131 cổ phiếu giảm từ 2% trở lên (buổi sáng chỉ 66 mã), xác nhận bán tháo trên diện rộng."
+    },
+    {
+      "title": "Quảng Ninh nâng mục tiêu tăng trưởng Q3 lên 15,48%",
       "impact": "↑",
-      "note": "Sự kiện nâng hạng thị trường lên thị trường mới nổi thứ cấp ngày 21/9 vốn kỳ vọng là chất xúc tác lớn, nhưng kỳ vọng đã được phản ánh trước đó, dẫn đến chốt lời gia tăng trước sự kiện."
-    },
-    {
-      "title": "Quảng Ninh nâng mục tiêu tăng trưởng quý 3 lên 15,48%",
-      "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản GRDP quý 3 lên 15,48%, hướng tới mục tiêu 9 tháng 12,56% và cả năm 13,21%. Công nghiệp chế biến, chế tạo được xác định là trụ cột quan trọng duy trì tăng tốc."
+      "note": "Quảng Ninh điều chỉnh kịch bản GRDP quý 3 lên 15,48%, hướng tới mục tiêu 9 tháng 12,56% và cả năm 13,21%; tập trung vào công nghiệp chế biến, chế tạo."
     }
   ]
 }
