@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "TTCK Việt Nam đối mặt áp lực vĩ mô từ lạm phát cao toàn cầu: ECB tăng lãi suất lên 2,5%, dự báo lạm phát eurozone 2,5% năm tới, giá dầu Brent vọt lên 107,63 USD/thùng, dầu WTI vượt 100 USD/thùng do xung đột Mỹ-Iran kéo dài — khiến chứng khoán Mỹ giảm 4 phiên liên tiếp. Tuy có điểm sáng từ FDI tăng đăng ký 55,4% (40,6 tỷ USD) và tỷ giá VND ổn định, nhưng rủi ro lớn là doanh nghiệp Việt chỉ chiếm 19,9% xuất khẩu, phụ thuộc 80,1% vào FDI, tiềm ẩn bất ổn lâu dài cho tăng trưởng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam cân bằng giữa tích cực và rủi ro: tích cực từ nâng hạng FTSE (dự kiến ~230 triệu USD dòng vốn ETF từ 21/9), cải cách pháp lý giải thể doanh nghiệp, và sức mạnh của FDI; nhưng chịu áp lực từ tình hình địa geopolitical (chiến tranh Mỹ-Iran đẩy giá dầu tăng 6%, lạm phát eurozone 2,5% năm tới) và sự tụt lại của doanh nghiệp nội địa (FDI chiếm 80,1% xuất khẩu so với 19,9% của doanh nghiệp trong nước).",
   "top": [
     {
-      "title": "ECB tăng lãi suất, lạm phát eurozone dự báo 2,5% năm tới",
-      "impact": "↓",
-      "note": "ECB nâng lãi suất tiền gửi từ 2,25% lên 2,5% (10/9), dự báo lạm phát eurozone 2,5% năm 2027 (tăng 0,2 điểm % so với dự báo trước); lợi suất trái phiếu Đức 10 năm tăng lên 3,5% do căng thẳng Trung Đông đẩy giá năng lượng cao."
-    },
-    {
-      "title": "Chứng khoán Mỹ rơi tự do, dầu nhảy 6%+",
-      "impact": "↓",
-      "note": "S&P 500 -0,58% (7.591,7 điểm), Nasdaq -0,65% (26.081,72 điểm), Dow Jones -0,6% (52.064,1 điểm); dầu WTI +6,69% lên 102,48 USD/thùng (cao nhất từ tháng 5), dầu Brent +6,34% lên 107,63 USD/thùng do thị trường kỳ vọng xung đột Mỹ-Iran kéo dài, PPI Mỹ tháng 8 tăng 0,4%."
-    },
-    {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt chỉ 19,9%",
-      "impact": "↓",
-      "note": "8 tháng năm 2026, FDI xuất khẩu hơn 300 tỷ USD (+27%), chiếm 80,1% tổng kim ngạch xuất khẩu; doanh nghiệp trong nước 74 tỷ USD (+7,4%), chiếm 19,9% — khoảng cách rộng thêm so với năm 2025, cho thấy sự phụ thuộc nguy hiểm vào khu vực FDI."
-    },
-    {
-      "title": "Vốn FDI đăng ký tăng 55,4%, giải ngân tăng 12%",
+      "title": "Nâng hạng FTSE tạo cơ hội dòng vốn thụ động mới",
       "impact": "↑",
-      "note": "8 tháng đầu năm 2026, vốn FDI đăng ký tăng 55,4% đạt 40,6 tỷ USD, vốn FDI giải ngân tăng 12% lên 17,3 tỷ USD; PMI sản xuất tăng lên 53,3 điểm tháng 8, duy trì trên 50 điểm lần thứ 14 liên tiếp, hỗ trợ kỳ vọng phục hồi sản xuất."
+      "note": "Rổ chỉ số FTSE GEIS có hiệu lực từ 21/9, dự kiến quỹ ETF thụ động sẽ đón nhận ~10% × 2,3 tỷ USD (tương đương ~230 triệu USD); là tác nhân hỗ trợ TTCK Việt Nam trong tháng 9 và quý 4."
     },
     {
-      "title": "USD/VND giảm 1,5%, tỷ giá ổn định sát đáy một năm",
-      "impact": "↑",
-      "note": "USD/VND liên ngân hàng giảm 1,5% xuống 25.900 đ/USD từ đầu năm, giá bán USD ngân hàng giảm 1,05% xuống 26.100 đ/USD, giảm 4 tháng liên tiếp; nhập siêu tháng 8 chỉ 113 triệu USD (giảm từ 3,57 tỷ USD tháng 7) phản ánh cơ cấu thương mại cải thiện."
+      "title": "FDI chiếm 80,1% xuất khẩu - doanh nghiệp Việt lạc lối",
+      "impact": "↓",
+      "note": "8 tháng 2026: FDI xuất khẩu 300 tỷ USD (tăng 27%) chiếm 80,1%; doanh nghiệp trong nước chỉ 74 tỷ USD (tăng 7,4%) chiếm 19,9%; khoảng cách đang rộng, phản ánh doanh nghiệp Việt ngày càng khó trong cạnh tranh quốc tế."
     },
     {
-      "title": "WHA Thái Lan đề xuất KCN 400 ha, vốn 105 triệu USD tại Đà Nẵng",
+      "title": "Chứng khoán Mỹ giảm, dầu tăng 6%, lạm phát cao kéo dài",
+      "impact": "↓",
+      "note": "Phiên 10/9, Dow Jones -0,6%, S&P 500 -0,58%, Nasdaq -0,65%; dầu Brent +6,34% lên 107,63 USD/thùng, dầu WTI +6,69% lên 102,48 USD/thùng do chiến tranh Mỹ-Iran; ECB dự báo lạm phát eurozone 2,5% năm 2027, tạo áp lực toàn cầu."
+    },
+    {
+      "title": "Thủ tướng đơn giản quy trình giải thể doanh nghiệp",
       "impact": "↑",
-      "note": "Tập đoàn WHA (Thái Lan) đề xuất đầu tư KCN WHA Đà Nẵng 400 ha tại xã Thăng Bình, Đồng Dương, thành phố Đà Nẵng, tổng vốn 2.709 tỷ đồng (105 triệu USD), hướng tới ô tô, cơ khí, điện tử, logistics — tín hiệu FDI tiếp tục tin tưởng môi trường đầu tư Việt Nam."
+      "note": "Thủ tướng Lê Minh Hưng (10/9) yêu cầu Bộ Tài chính rút gọn quy trình giải thể, phá sản trong dự án Luật Phát triển doanh nghiệp nhỏ và vừa; góp phần tháo gỡ điểm nghẽn, tạo dư địa phát triển cho mục tiêu tăng trưởng hai con số."
+    },
+    {
+      "title": "FDI Thái Lan đầu tư 105 triệu USD khu công nghiệp Đà Nẵng",
+      "impact": "↑",
+      "note": "Tập đoàn WHA đề xuất KCN WHA Đà Nẵng: 400 ha, 2.709 tỷ đồng (105 triệu USD) tại xã Thăng Bình và Đồng Dương; thu hút ô tô, cơ khí, điện tử, viễn thông; tiếp tục khẳng định sức hút FDI của Việt Nam."
+    },
+    {
+      "title": "VND mạnh hơn 4 tháng liên tiếp, tỷ giá ổn định",
+      "impact": "↑",
+      "note": "Ngày 10/9, USD/VND liên ngân hàng 25.900 VND/USD (-1,5% từ đầu năm); nhập siêu tháng 8 chỉ 113 triệu USD (từ 3,57 tỷ USD tháng 7), FDI giải ngân 17,25 tỷ USD trong 8 tháng; VND vẫn là đồng tiền ổn định nhất trong khu vực."
     }
   ]
 }
