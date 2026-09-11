@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán toàn cầu chịu áp lực từ lạm phát cao kéo dài (ECB dự báo 2,5%, dầu Brent 107,63 USD) và chứng khoán Mỹ giảm 4 phiên liên tiếp, trong khi Việt Nam tăng cường các động lực tăng trưởng (Quảng Ninh nâng mục tiêu 15,48%, WHA đầu tư 105 triệu USD ở Đà Nẵng) và cải cách quy trình kinh doanh. Tuy nhiên, rủi ro cấu trúc vẫn cao: FDI chiếm 80,1% xuất khẩu trong khi doanh nghiệp nội địa chỉ 19,9% (tăng 7,4% so với FDI tăng 27%), phản ánh sự phục thuộc cao và khó khăn của DN Việt trong cạnh tranh quốc tế. Đồng VND mạnh lên nhưng sẽ chịu áp lực từ tác động lạm phát toàn cầu.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực vĩ mô từ ngoài nước khi ECB tăng lãi suất giữa lạm phát cao, giá dầu nhảy vọt lên 107 USD/thùng do chiến tranh Mỹ-Iran kéo dài, và chứng khoán Mỹ liên tiếp bán tháo. Trong nước, áp lực 253.000 tỷ đồng trái phiếu sắp đáo hạn cùng với tình trạng FDI áp đảo (80% xuất khẩu) thể hiện cấu trúc kinh tế còn yếu kém. Tuy nhiên, tỷ giá tốt và chính sách cải cách thủ tục kinh doanh vẫn mang tín hiệu hỗ trợ ngắn hạn.",
   "top": [
     {
-      "title": "Chứng khoán Mỹ giảm 4 phiên liên tiếp, dầu tăng 6,34%",
+      "title": "Áp lực đáo hạn 253.000 tỷ đồng trái phiếu trong 12 tháng tới",
       "impact": "↓",
-      "note": "Dow Jones giảm 0,6% xuống 52.064,1 điểm, S&P 500 giảm 0,58% xuống 7.591,7 điểm, Nasdaq giảm 0,65% xuống 26.081,72 điểm. Dầu Brent tăng 6,34% lên 107,63 USD/thùng, dầu WTI tăng 6,69% lên 102,48 USD/thùng (lần đầu vượt 100 USD kể từ tháng 5). Xung đột Mỹ-Iran kéo dài 7 tháng, giá dầu WTI tăng 52,9% kể từ cuối tháng 2."
+      "note": "253.000 tỷ đồng trái phiếu doanh nghiệp sẽ đáo hạn, cao hơn 65% so với giá trị giao dịch 12 tháng qua (~153.000 tỷ), tạo áp lực tái cấp vốn lớn đặc biệt ở bất động sản; ACB phải trả 21.720 tỷ đồng."
     },
     {
-      "title": "ECB tăng lãi suất lần 2 trong năm, cảnh báo lạm phát cao kéo dài",
+      "title": "FDI chiếm 80,1% giá trị xuất khẩu, doanh nghiệp Việt tụt lại",
       "impact": "↓",
-      "note": "ECB nâng lãi suất ngày 10/9, dự báo tỷ lệ lạm phát eurozone năm 2027 là 2,5% (cao hơn 0,2 điểm phần trăm so với dự báo 2,3%). Lợi suất trái phiếu chính phủ Đức kỳ hạn 10 năm tăng lên 3,5%. Cơ sở điều chỉnh tăng dự báo là căng thẳng Trung Đông đẩy giá năng lượng lên cao."
+      "note": "Khối FDI xuất khẩu 300 tỷ USD (+27%), chiếm 80,1% tổng kim ngạch; doanh nghiệp trong nước chỉ 74 tỷ USD (+7,4%), chiếm 19,9%. Khoảng cách lớn và ngày càng rộng thể hiện cấu trúc kinh tế phụ thuộc quá nhiều vào vốn nước ngoài."
     },
     {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại ở 19,9%",
+      "title": "ECB tăng lãi suất lần 2 năm nay, cảnh báo lạm phát cao kéo dài",
       "impact": "↓",
-      "note": "8 tháng 2026, khu vực FDI xuất khẩu hơn 300 tỷ USD (tăng 27%), chiếm 80,1% kim ngạch. Doanh nghiệp trong nước chỉ xuất khẩu hơn 74 tỷ USD (tăng 7,4%), chiếm 19,9%. Khoảng cách rộng thêm so với cùng kỳ năm 2025. DN Việt ngày càng khó tham gia thị trường quốc tế, chi phí tuân thủ tăng (hóa đơn điện tử, thuế, an toàn lao động) tạo 'hai nền kinh tế độc lập'."
+      "note": "ECB tăng lãi suất giữa dự báo lạm phát eurozone năm tới 2,5% (tăng từ 2,3%); căng thẳng Trung Đông đẩy giá dầu lên. Lợi suất trái phiếu Đức 10 năm tăng 6 điểm phần trăm lên 3,5%."
     },
     {
-      "title": "Quảng Ninh nâng mục tiêu tăng trưởng GRDP Q3 lên 15,48%",
-      "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3/2026 lên 15,48%, với mục tiêu 9 tháng 12,56% và cả năm 13,21%. Tập trung đưa các động lực tăng trưởng trở lại đúng quỹ đạo, nhất là công nghiệp chế biến, chế tạo, tạo giá trị gia tăng trực tiếp cho GRDP."
+      "title": "Chứng khoán Mỹ giảm 4 phiên, giá dầu vượt 100 USD/thùng",
+      "impact": "↓",
+      "note": "Dow Jones giảm 0,6%, S&P 500 giảm 0,58%, Nasdaq giảm 0,65%; bán tháo trái phiếu kho bạc Mỹ. Dầu Brent tăng 6,34% lên 107,63 USD/thùng, dầu WTI tăng 6,69% lên 102,48 USD/thùng, vượt 100 USD/thùng lần đầu từ tháng 5."
     },
     {
-      "title": "WHA (Thái Lan) đề xuất đầu tư KCN 105 triệu USD ở Đà Nẵng, 400 ha",
+      "title": "Tỷ giá USD/VND về sát đáy 1 năm, giảm 4 tháng liên tiếp",
       "impact": "↑",
-      "note": "Tập đoàn WHA (Thái Lan) đề xuất xây dựng KCN WHA Đà Nẵng, quy mô 400 ha tại xã Thăng Bình và Đồng Dương, tổng vốn đầu tư 2.709 tỷ đồng (tương đương 105 triệu USD). Ưu tiên công nghiệp ô tô, cơ khí, điện, điện tử, viễn thông, y tế, công nghệ cao, logistics. Tín hiệu tích cực về thu hút FDI và phát triển cơ sở hạ tầng công nghiệp."
+      "note": "USD/VND giảm 1,5% từ đầu năm xuống 25.900 đồng/USD, sát đáy một năm. FDI thực hiện đạt 17,25 tỷ USD trong 8 tháng; nhập siêu thu hẹp còn 113 triệu USD tháng 8. Hỗ trợ doanh nghiệp xuất khẩu."
     },
     {
-      "title": "Thủ tướng rút gọn quy trình giải thể, phá sản doanh nghiệp",
+      "title": "Quảng Ninh điều chỉnh mục tiêu tăng trưởng GRDP quý 3 lên 15,48%",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng sáng 10/9 yêu cầu Bộ Tài chính đơn giản, rút gọn quy trình giải thể, thủ tục phá sản DN nhỏ-vừa trong Luật Phát triển doanh nghiệp nhỏ và vừa. Mục tiêu tháo gỡ điểm nghẽn, hoàn thiện hành lang pháp lý, tạo dư địa phát triển mới hỗ trợ mục tiêu tăng trưởng 2 con số."
+      "note": "Quảng Ninh nâng mục tiêu GRDP quý 3 từ 15,41% lên 15,48%, hướng tới 12,56% 9 tháng và 13,21% cả năm. Công nghiệp chế biến, chế tạo là trụ cột; tập trung bảo đảm chuỗi sản xuất không gián đoạn."
     }
   ]
 }
