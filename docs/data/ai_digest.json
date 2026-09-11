@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ toàn cầu: VN-Index giảm 0,87% với 44% cổ phiếu sụt giảm quá 1%, ngành ngân hàng (VPB -0,73%, MBB -1,24%, SHB -1,70%, TCB -1,23%) và bất động sản (NVL, DXG giảm trên 3,5%) bị bán ròng do lo lạm phát; dầu WTI tăng 102 USD/thùng, ECB tăng lãi suất lần 2 năm với dự báo lạm phát eurozone 2,5% năm tới. Đồng thời, FDI chiếm 80,1% xuất khẩu kéo xa doanh nghiệp trong nước chỉ 19,9%. Tuy vậy, chính phủ tích cực cải thiện môi trường kinh doanh, Quảng Ninh tăng trưởng 15,48% đem lại tín hiệu tích cực dài hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Việt Nam vừa được FTSE nâng hạng, mở ra dòng vốn ngoại hơn 6-9 tỷ USD giai đoạn 2026-2027. Tuy nhiên, khối FDI đang chiếm ưu thế lớn (80,1% xuất khẩu) trong khi doanh nghiệp nội địa chỉ đạt 19,9%, phản ánh áp lực cạnh tranh. Chính sách được cải thiện thông qua đơn giản hóa thủ tục doanh nghiệp và mục tiêu tăng trưởng GDP thêm 2,8-3,7 điểm % mỗi năm. Tỷ giá USD/VND giảm 1,5% hỗ trợ khả năng tiếp cận vốn ngoại. Tuy vậy, thị trường toàn cầu có dấu hiệu khó khăn với P/E cao, có thể tạo sóng gió ngắn hạn.",
   "top": [
     {
-      "title": "VN-Index giảm 0,87%, 44% cổ phiếu sụt giảm quá 1%",
-      "impact": "↓",
-      "note": "VN-Index rơi xuống sát 1800 điểm, giảm 0,87%, VN30-Index giảm 1,2% với 27 mã đỏ và chỉ 3 mã xanh. Áp lực bán mạnh từ đầu phiên khiến 44% cổ phiếu sụt giảm quá 1% giá trị."
-    },
-    {
-      "title": "ECB tăng lãi suất, lạm phát châu Âu dự báo 2,5% năm tới",
-      "impact": "↓",
-      "note": "ECB tăng lãi suất lần thứ 2 năm 2026, dự báo lạm phát eurozone 2025 là 2,5% (tăng từ 2,3%). Giá dầu Brent gần 108 USD/thùng, lợi suất trái phiếu Đức 10 năm tăng lên 3,5%."
-    },
-    {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp trong nước tụt lại",
-      "impact": "↓",
-      "note": "Khối FDI xuất khẩu 300 tỷ USD (+27%), chiếm 80,1% tổng kim ngạch xuất khẩu. Doanh nghiệp trong nước 74 tỷ USD (+7,4%), chiếm 19,9%. Khoảng cách mở rộng so với năm ngoái, doanh nghiệp Việt ngày càng khó tham gia thị trường quốc tế."
-    },
-    {
-      "title": "Ngân hàng xả hàng do lo tăng lãi suất huy động, bất động sản giảm mạnh",
-      "impact": "↓",
-      "note": "Ngân hàng hút 994 tỷ đồng nhưng bộ tứ đầu bảng VPB (-0,73%), MBB (-1,24%), SHB (-1,70%), TCB (-1,23%) đồng loạt giảm, phản ánh tâm lý xả hàng do lo ngại tăng lãi suất huy động ảnh hưởng biên lãi suất. Bất động sản hút 750 tỷ nhưng NVL, DXG sụt trên 3,5%, VHM (-1,37%) chịu áp lực bán ròng ngoại lớn nhất toàn thị trường."
-    },
-    {
-      "title": "Thủ tướng đơn giản thủ tục giải thể doanh nghiệp",
+      "title": "FTSE Russell nâng hạng Việt Nam, kỳ vọng dòng vốn 6-9 tỷ USD",
       "impact": "↑",
-      "note": "Thủ tướng yêu cầu Bộ Tài chính rút gọn quy trình giải thể, phá sản doanh nghiệp nhằm tháo gỡ điểm nghẽn, khơi thông nguồn lực phát triển bền vững."
+      "note": "Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng từ 0,329% lên 0,49%; ETF thụ động nhận 1,8 tỷ USD, đầu tư chủ động 5-8 tỷ USD. Phân bổ từ 21/9/2026 đến 09/2027. 27 mã được chọn nhưng một số cổ phiếu lớn như MWG, MBB, TCB bị loại do room nước ngoài hạn chế."
     },
     {
-      "title": "Quảng Ninh điều chỉnh GRDP quý 3 lên 15,48%",
+      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại",
+      "impact": "↓",
+      "note": "FDI xuất khẩu 300+ tỷ USD trong 8 tháng, tăng 27% với 80,1% tổng kimngạch. Doanh nghiệp nội địa chỉ 74 tỷ USD, tăng 7,4% với 19,9%. Khoảng cách ngày càng rộng, phản ánh doanh nghiệp Việt khó cạnh tranh quốc tế."
+    },
+    {
+      "title": "Thủ tướng yêu cầu đơn giản hóa thủ tục giải thể doanh nghiệp",
       "impact": "↑",
-      "note": "Quảng Ninh nâng kịch bản tăng trưởng GRDP quý 3 lên 15,48%, hướng tới 9 tháng 12,56% và cả năm 13,21%, đánh dấu bước tăng tốc phát triển ở khu vực phía Bắc."
+      "note": "Lê Minh Hưng chủ trì làm việc về 4 dự án luật (Luật Đầu tư, Đấu thầu, Ngân sách, Phát triển DN nhỏ vừa), yêu cầu Bộ Tài chính đơn giản, rút gọn quy trình để tháo gỡ điểm nghẽn, tạo không gian phát triển mới."
+    },
+    {
+      "title": "Động lực tăng trưởng mới có thể giúp GDP tăng 2,8-3,7% mỗi năm",
+      "impact": "↑",
+      "note": "Hội thảo ngày 8/9 của Bộ Tài chính nhấn mạnh chuyển từ tăng đầu vào sang dựa vào năng suất, công nghệ, đổi mới sáng tạo để đạt mục tiêu tăng trưởng 2 con số giai đoạn 2026-2030."
+    },
+    {
+      "title": "Tỷ giá USD/VND giảm 1,5%, hỗ trợ dòng vốn ngoại",
+      "impact": "↑",
+      "note": "USD/VND giảm 4 tháng liên tiếp xuống 25.900 đồng/USD (giảm 1,5% từ đầu năm); áp lực thương mại giảm mạnh (nhập siêu tháng 8 chỉ 113 triệu USD); FDI thực hiện 17,25 tỷ USD trong 8 tháng 2026."
+    },
+    {
+      "title": "Thị trường toàn cầu có dấu hiệu khó khăn, cảnh báo rủi ro",
+      "impact": "↓",
+      "note": "P/E S&P 500 cao 25-26 lần; tốc độ tăng trưởng sẽ chậm vào 2027. Các tháng trước bầu cử Mỹ thường gây điều chỉnh 10-15%. Giai đoạn không thuận lợi cho thị trường chứng khoán toàn cầu và các kênh đầu tư."
     }
   ]
 }
