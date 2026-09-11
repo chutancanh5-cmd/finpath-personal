@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán hôm nay tiếp tục áp lực với VN-Index giảm 0,87%, nhưng các dòng vốn ngoài từ nâng hạng FTSE Russell (5-8 tỷ USD) sắp tới mang lạc quan cho triển vọng dài hạn. Các yếu tố vĩ mô cân bằng: tăng trưởng kinh tế ở Quảng Ninh (15,48%) và cải thiện môi trường doanh nghiệp, nhưng doanh nghiệp Việt gặp khó khăn với FDI chiếm 80,1% xuất khẩu. Rủi ro tăng lãi suất và hạ đòn bẩy có thể tác động tiêu cực trong tương lai gần.",
+  "summary_vi": "Thị trường hôm nay diễn biến trái chiều: Việt Nam chính thức được FTSE Russell nâng hạng với kỳ vọng 1,8-8 tỷ USD dòng vốn ngoại sắp bước vào từ 21/9/2026, hỗ trợ tích cực dài hạn. Tuy nhiên, áp lực bán ngắn hạn vẫn thống trị (VN-Index -0,87%, 457 mã giảm), khối FDI và tự doanh biến động bất ổn. Cơ cấu xuất khẩu tập trung FDI 80,1% đang áp lực doanh nghiệp trong nước; chính phủ ứng phó qua nâng tương tương vùng (Quảng Ninh 15,48% quý 3) và cải cách thủ tục doanh nghiệp. Rủi ro hạ đòn bẩy toàn thị trường và tăng lãi suất Mỹ vẫn ẩn chứa.",
   "top": [
     {
-      "title": "Dòng vốn FTSE Russell dự kiến 5-8 tỷ USD",
+      "title": "FTSE Russell nâng hạng VN, 1,8-8 tỷ USD sắp vào",
       "impact": "↑",
-      "note": "FTSE nâng hạng Việt Nam, dòng vốn ETF thụ động khoảng 1,8 tỷ USD và vốn chủ động 5-8 tỷ USD sẽ được phân bổ từ ngày 21/9/2026 trong 4 giai đoạn đến 09/2027. Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng từ 0,329% lên 0,49%."
+      "note": "Tỷ trọng Việt Nam trong FTSE Emerging All Cap Index tăng từ 0,329% lên 0,49% (tăng 50%). Ước tính 1,8 tỷ USD từ ETF thụ động + 5-8 tỷ USD dòng vốn chủ động sẽ phân bổ từ 21/09/2026 đến 09/2027. Danh sách 27 mã gồm các cổ phiếu thanh khoản tốt; một số vốn hóa lớn (MWG, MBB, TCB, REE) không được chọn do room nước ngoài hạn chế."
     },
     {
-      "title": "Thị trường chứng khoán hôm nay tiếp tục giảm",
+      "title": "VN-Index giảm 0,87%, 457 mã giảm - áp lực bán tiếp diễn",
       "impact": "↓",
-      "note": "VN-Index giảm 0,87% xuống 1.813,28 điểm, HNX-Index mất 1% ở 275,58 điểm. Độ rộng thị trường âm với 457 mã giảm vs 159 mã tăng. Hầu hết nhóm ngành bị sắc đỏ bao trùm (FPT -1,74%, VIX -1,81%, HDB -2,37%, VNM -2,44%)."
+      "note": "Giữa phiên 11/9, VN-Index tạm ở 1.813,28 điểm (-0,87%), HNX-Index mất 1% dừng 275,58 điểm. Độ rộng thị trường âm: 457 mã giảm vs 159 mã tăng. Hầu hết nhóm ngành sắc đỏ: FPT -1,74%, ELC -4,35%, VIX -1,81%, HDB -2,37%, VCK -2,49%, VNM -2,44%, ACV -2%. Năng lượng, phân bón tương đối nhưng lực nâng hạn chế."
     },
     {
-      "title": "FDI chiếm 80,1% giá trị xuất khẩu, doanh nghiệp Việt chỉ 19,9%",
+      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt ngày càng khó",
       "impact": "↓",
-      "note": "Trong 8 tháng qua, FDI xuất khẩu hơn 300 tỷ USD tăng 27%, còn doanh nghiệp nội địa chỉ xuất khẩu hơn 74 tỷ USD tăng 7,4%. Khoảng cách giữa hai khu vực tiếp tục mở rộng, doanh nghiệp Việt gặp khó khăn hơn khi tham gia thị trường quốc tế."
+      "note": "8 tháng 2026, khu vực FDI xuất khẩu hơn 300 tỷ USD (tăng 27%), chiếm 80,1% tổng kim ngạch. Khu vực doanh nghiệp trong nước chỉ 74 tỷ USD (tăng 7,4%), chiếm 19,9%. Khoảng cách với năm ngoái rộng thêm do FDI tạo quy trình khép kín, tiêu chuẩn chất lượng cao hơn, trong khi chi phí tuân thủ (hóa đơn điện tử, thuế, an toàn lao động) gia tăng áp lực doanh nghiệp nội địa."
     },
     {
-      "title": "SGI Capital cảnh báo xu hướng giảm và hạ đòn bẩy",
+      "title": "SGI Capital: Rủi ro hạ đòn bẩy toàn thị trường",
       "impact": "↓",
-      "note": "Tốc độ tăng trưởng sẽ chậm lại vào 2027 khi nhiều khoản vay dài hạn cũ hết hạn và phải tái tài trợ ở mức lãi suất cao. S&P 500 vẫn ở vùng đắt với P/E 25-26 lần. Những tháng trước bầu cử giữa nhiệm kỳ tại Mỹ là giai đoạn thị trường thận trọng với điều chỉnh trung bình 10-15%."
+      "note": "Lần tăng lãi suất FED 2022-2023 đang vào giai đoạn tác động thực tế lớn khi nhiều khoản vay dài hạn cũ (đã cố định ở lãi suất thấp) hết hạn và phải tái tài trợ ở mức cao hơn. S&P 500 định giá P/E 25-26 lần ở vùng đắt. Tốc độ tăng trưởng sẽ chậm dần vào 2027. Tháng trước bầu cử giữa nhiệm kỳ Mỹ là giai đoạn thị trường thận trọng với điều chỉnh trung bình 10-15%."
     },
     {
-      "title": "Quảng Ninh nâng mục tiêu tăng trưởng quý 3 lên 15,48%",
+      "title": "Quảng Ninh nâng tương tương quý 3 lên 15,48%",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3 lên 15,48%, hướng tới 12,56% cho 9 tháng và 13,21% cho cả năm. Công nghiệp chế biến, chế tạo tiếp tục là trụ cột tăng trưởng."
+      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3/2026 lên 15,48%, hướng mục tiêu 9 tháng 12,56% và cả năm 13,21%. Công nghiệp chế biến, chế tạo là trụ cột; ưu tiên phát huy công suất nhà máy, đảm bảo chuỗi sản xuất không gián đoạn để tạo giá trị gia tăng trực tiếp cho GRDP."
     },
     {
-      "title": "Thủ tướng yêu cầu đơn giản quy trình doanh nghiệp",
+      "title": "Chính phủ cải cách giải thể, phá sản doanh nghiệp",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng yêu cầu Bộ Tài chính đơn giản, rút gọn quy trình giải thể và phá sản cho doanh nghiệp. 4 dự án luật tác động lớn đến môi trường đầu tư, kinh doanh nhằm tháo gỡ điểm nghẽn và hỗ trợ tăng trưởng hai con số."
+      "note": "Thủ tướng Lê Minh Hưng (10/9) yêu cầu Bộ Tài chính đơn giản, rút gọn quy trình giải thể và phá sản cho doanh nghiệp nhỏ và vừa. Nhấn mạnh: gia nhập thị trường đã khó, chấm dứt hoạt động còn khó hơn. 4 dự án luật (Đầu tư, Đấu thầu, Ngân sách, Phát triển DNNN) tác động lớn đến môi trường đầu tư, hướng tới tăng trưởng hai con số."
     }
   ]
 }
