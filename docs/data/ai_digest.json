@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực với VN-Index giảm 0.87% do bán tháo rộng rãi (457 mã giảm vs 159 mã tăng). Tuy nhiên, tín hiệu tích cực là nâng hạng FTSE Russell được dự báo sẽ đưa 7-9.8 tỷ USD vốn ngoại vào thị trường trong 12 tháng tới. Rủi ro đến từ các doanh nghiệp lớn gặp khó khăn (Vạn Hương nợ 26.6 ngàn tỷ đồng), cảnh báo về rủi ro toàn cầu từ kỳ bầu cử Mỹ, và mất cơ hội xuất khẩu cho khối FDI (chiếm 80.1% giá trị). Cải cách quy trình hành chính và tăng trưởng kinh tế địa phương mang lại hy vọng ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực ngắn hạn (VN-Index -0,87%, HNX -1%, 457 mã giảm) do khối ngoại vẫn bán ròng. Tuy nhiên, nâng hạng FTSE Russell mở ra tơn vọng dòng vốn 1,8-8 tỷ USD trong 12 tháng tới. Thách thức cơ cấu là doanh nghiệp Việt bị nhấn chìm bởi FDI (chiếm 80,1% xuất khẩu) trong bối cảnh sở hữu nước ngoài ở mức thấp kỷ lục 46 tỷ USD, song cải cách hành chính và tăng trưởng địa phương mang lại hy vọng.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng Việt Nam, đưa 7-9.8 tỷ USD vào thị trường",
+      "title": "VN-Index giảm 0,87%, HNX -1% giữa bán tháo rộng rãi",
+      "impact": "↓",
+      "note": "VN-Index 1.813,28 điểm (-0,87%), HNX-Index 275,58 điểm (-1%), 457 mã giảm chỉ 159 mã tăng. Nhóm vốn hóa lớn VHM, VCB, HDB lấy đi 3 điểm; lực đỡ từ dầu khí (GAS, PVD, PVT) chỉ đưa ~1,5 điểm."
+    },
+    {
+      "title": "FTSE nâng hạng VN, 1,8-8 tỷ USD sắp vào thị trường",
       "impact": "↑",
-      "note": "Nâng tỷ trọng Việt Nam trong FTSE Emerging All Cap Index lên 0.49%, tăng 50%. Ước tính 1.8 tỷ USD từ quỹ ETF thụ động và 5-8 tỷ USD từ vốn chủ động. Phân bổ theo 4 giai đoạn từ 21/9/2026 đến tháng 9/2027, tuy nhiên 27 mã được chọn chỉ là những cổ phiếu có room nước ngoài còn lại."
+      "note": "FTSE Russell tăng tỷ trọng Việt Nam lên 0,49% (tăng 50% từ 0,329%), đưa 27 cổ phiếu vào rổ chỉ số. Ước tính 1,8 tỷ USD từ ETF thụ động + 5-8 tỷ USD từ quỹ chủ động, triển khai 4 giai đoạn từ 21/9/2026 đến 9/2027."
     },
     {
-      "title": "Nhịp đập thị trường 11/09: Sức ép chưa hạ nhiệt",
+      "title": "Sở hữu nước ngoài mỏng kỷ lục: chỉ 46 tỷ USD (16% vốn hóa)",
+      "impact": "→",
+      "note": "Theo BIDV (9/6/2026), nhà đầu tư nước ngoài nắm 46 tỷ USD so với 242 tỷ USD nhà đầu tư trong nước. Mức thấp kỷ lục khi khối ngoại duy trì bán ròng ở ASEAN, thách thức trước khi gia nhập FTSE Emerging Index (2.250+ cổ phiếu, 9,42 nghìn tỷ USD)."
+    },
+    {
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ, lỗ 96 tỷ H1",
       "impact": "↓",
-      "note": "VN-Index giảm 0.87% xuống 1,813.28 điểm, HNX-Index mất 1%. Độ rộng thị trường âm chiều với 457 mã giảm và 159 mã tăng. Lực đỡ từ nhóm dầu khí và phân bón hạn chế khi VHM, VCB, HDB mất 3 điểm chỉ số."
+      "note": "Chủ Khu du lịch Đồi Rồng báo lỗ 96 tỷ đồng nửa đầu 2026 (so với lãi 226 tỷ cùng kỳ 2025). Nợ phải trả 26,6 ngàn tỷ đồng (1 tỷ USD), gấp 8,78 lần vốn chủ, chiếm 90% tổng tài sản; lợi nhuận chưa phân phối -24 tỷ đồng."
     },
     {
-      "title": "Vạn Hương Investoco nợ 26.6 ngàn tỷ, lỗ 96 tỷ nửa đầu năm",
-      "impact": "↓",
-      "note": "Chủ dự án Đồi Rồng (Hải Phòng) báo lỗ 96 tỷ đồng H1 2026 (so với lãi 226 tỷ năm trước). Nợ phải trả gần 26.6 ngàn tỷ đồng (tương đương 1 tỷ USD), gấp 8.78 lần vốn chủ sở hữu, chiếm 90% tổng tài sản. Lợi nhuận chưa phân phối trở về âm 24 tỷ đồng."
-    },
-    {
-      "title": "FDI tăng nhanh, doanh nghiệp Việt tụt lại trong xuất khẩu",
-      "impact": "↓",
-      "note": "Khối FDI chiếm 80.1% giá trị xuất khẩu (8 tháng 2026, 300 tỷ USD, tăng 27%), trong khi doanh nghiệp trong nước chỉ 19.9% (74 tỷ USD, tăng 7.4%). Khoảng cách ngày càng rộng, thể hiện khó khăn của doanh nghiệp Việt trong cạnh tranh toàn cầu."
-    },
-    {
-      "title": "SGI Capital cảnh báo thị trường có thể kích hoạt xu hướng giảm",
-      "impact": "↓",
-      "note": "S&P 500 ở P/E 25-26 lần vùng đắt, tốc độ tăng trưởng lợi nhuận sẽ chậm vào 2027. Kỳ bầu cử giữa nhiệm kỳ Mỹ (tháng 11) có thể gây mức điều chỉnh 10-15% trên thị trường toàn cầu. Rủi ro từ chu kỳ tăng lãi suất kéo dài khi nhiều khoản vay đã đáo hạn."
-    },
-    {
-      "title": "Thủ tướng yêu cầu đơn giản hóa quy trình doanh nghiệp",
+      "title": "Quảng Ninh nâng mục tiêu GRDP Q3 lên 15,48%",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng chỉ đạo rút gọn, đơn giản hóa quy trình giải thể, thủ tục phá sản doanh nghiệp. Dự án Luật Phát triển doanh nghiệp nhỏ và vừa nhằm tháo gỡ điểm nghẽn, hoàn thiện hành lang pháp lý, hỗ trợ hướng tới mục tiêu tăng trưởng hai con số."
+      "note": "Thành phố điều chỉnh kịch bản tăng trưởng kinh tế Q3 từ 15,41% lên 15,48%, hướng tới 12,56% (9 tháng) và 13,21% (cả năm). Tăng tốc nhằm khẳng định vị thế cực tăng trưởng của phía Bắc."
+    },
+    {
+      "title": "Thủ tướng yêu cầu đơn giản hóa thủ tục giải thể doanh nghiệp",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng chủ trì làm việc 4 dự án luật sửa đổi (Luật Đầu tư, Luật Đấu thầu, Luật Ngân sách, Luật Phát triển DNVV) nhằm tháo gỡ điểm nghẽn, hoàn thiện hành lang pháp lý, tạo dư địa phát triển hướng tới tăng trưởng hai con số."
     }
   ]
 }
