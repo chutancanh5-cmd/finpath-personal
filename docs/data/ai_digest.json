@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực kép từ rủi ro nội bộ và áp lực toàn cầu. Bất động sản tiếp tục là \"điểm nóng\" với 253.000 tỷ đồng trái phiếu doanh nghiệp sắp đáo hạn, doanh nghiệp nội bộ yếu khi FDI chiếm 80% giá trị xuất khẩu (+27% vs +7,4% nội tệ). Từ ngoài nước, lạm phát dai dẳng (ECB tăng lãi, dầu tăng 6%) và chứng khoán Mỹ giảm 4 phiên liên tiếp gia tăng áp lực, mặc dù tỷ giá VND mạnh lên và Quảng Ninh hướng tới tăng trưởng 13,21% năm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực từ tình hình quốc tế: ECB tăng lãi suất, lạm phát eurozone dự báo 2,5% (cao hơn 0,2 điểm %), giá dầu tăng 6% do căng thẳng Mỹ-Iran kéo dài. Chứng khoán Mỹ giảm 4 phiên liên tiếp tạo áp lực toàn cầu. Tuy vậy, trong nước vẫn có tín hiệu tích cực: Quảng Ninh tăng trưởng GRDP quý 3 đạt 15,48%, thủ tướng yêu cầu đơn giản quy trình kinh doanh, FDI thực hiện 17,25 tỷ USD trong 8 tháng. Rủi ro cấu trúc: FDI chiếm 80,1% xuất khẩu còn doanh nghiệp trong nước 19,9%, phản ánh sự phân hóa năng lực cạnh tranh.",
   "top": [
     {
-      "title": "TPDN sắp đáo hạn 253.000 tỷ đồng, bất động sản là \"điểm nóng\"",
+      "title": "ECB tăng lãi suất, cảnh báo lạm phát cao kéo dài",
       "impact": "↓",
-      "note": "253.000 tỷ đồng trái phiếu doanh nghiệp sắp đáo hạn trong 12 tháng (cao hơn 65% so với giá trị giao dịch 12 tháng gần nhất ~153.000 tỷ). Áp lực tái cơ cấu dòng tiền lớn đặc biệt tại nhóm bất động sản; ACB đứng đầu với 21.720 tỷ đồng trái phiếu đáo hạn."
+      "note": "ECB tăng lãi suất lần thứ hai năm nay; dự báo lạm phát eurozone 2,5% năm tới (cao hơn 0,2 điểm %), giá dầu Brent tăng gần 108 USD/thùng do căng thẳng Trung Đông. Lạm phát cao dai dẳng tạo sức ép lên tài sản rủi ro và chứng khoán toàn cầu."
     },
     {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp nội tụt lại",
+      "title": "Chứng khoán Mỹ giảm 4 phiên liên tiếp, giá dầu tăng 6%",
       "impact": "↓",
-      "note": "Khối FDI xuất khẩu 300 tỷ USD tăng 27% trong 8 tháng, chiếm 80,1% tổng kim ngạch; doanh nghiệp trong nước chỉ 74 tỷ USD tăng 7,4%, chiếm 19,9%. Khoảng cách đang rộng thêm thể hiện cấu trúc kinh tế phụ thuộc quá nhiều vào FDI."
+      "note": "Dow Jones giảm 0,6%, S&P 500 giảm 0,58%, Nasdaq giảm 0,65% trong phiên 10/9. Giá dầu WTI tăng 6,69% lên 102,48 USD/thùng (lần đầu vượt 100 USD/thùng kể từ tháng 5). Geopolitical risk từ chiến tranh Mỹ-Iran kéo dài 7 tháng gây bất ổn toàn cầu."
     },
     {
-      "title": "Chứng khoán Mỹ giảm 4 phiên, dầu vượt 100 USD/thùng",
-      "impact": "↓",
-      "note": "Dow Jones -0,6% (52.064,1 điểm), S&P 500 -0,58% (7.591,7 điểm), Nasdaq -0,65% (26.081,72 điểm). Bán tháo trái phiếu Mỹ. Dầu Brent tăng 6,34% lên 107,63 USD/thùng, WTI tăng 6,69% lên 102,48 USD, vượt 100 USD/thùng lần đầu từ tháng 5 do chiến tranh Mỹ-Iran kéo dài."
+      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt 19,9%",
+      "impact": "→",
+      "note": "8 tháng 2026: FDI xuất khẩu 300 tỷ USD (tăng 27%), doanh nghiệp trong nước 74 tỷ USD (tăng 7,4%). Sự phân hóa cho thấy doanh nghiệp Việt ngày càng khó cạnh tranh do hạn chế quy chuẩn chất lượng và chi phí tuân thủ tăng (hóa đơn điện tử, thuế, OSH)."
     },
     {
-      "title": "ECB tăng lãi suất, dự báo lạm phát eurozone 2,5%",
-      "impact": "↓",
-      "note": "ECB tăng lãi suất lần thứ 2 năm 2026, dự báo lạm phát eurozone năm tới 2,5% (tăng từ 2,3%). Lợi suất trái phiếu chính phủ Đức 10 năm tăng 6 điểm phần trăm lên 3,5%; căng thẳng Trung Đông đẩy giá năng lượng lên cao."
-    },
-    {
-      "title": "Quảng Ninh hướng tới tăng trưởng GRDP 13,21% cả năm 2026",
+      "title": "Quảng Ninh nâng tăng trưởng GRDP quý 3 lên 15,48%",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh mục tiêu GRDP quý 3 lên 15,48%, hướng tới 12,56% trong 9 tháng và 13,21% cả năm. Công nghiệp chế biến, chế tạo là trụ cột; tập trung đưa động lực tăng trưởng trở lại đúng quỹ đạo và bứt phá ở những lĩnh vực có khả năng tăng tốc."
+      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng quý 3 lên 15,48%, hướng tới 12,56% cả 9 tháng và 13,21% cả năm. Công nghiệp chế biến, chế tạo tiếp tục là trụ cột, khẳng định Quảng Ninh là cực tăng trưởng quan trọng phía Bắc."
     },
     {
-      "title": "Thủ tướng yêu cầu rút gọn quy trình giải thể doanh nghiệp",
+      "title": "Thủ tướng yêu cầu đơn giản quy trình kinh doanh",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng yêu cầu Bộ Tài chính đơn giản, rút gọn quy trình giải thể và thủ tục phá sản cho doanh nghiệp. Phát biểu: \"Tránh để doanh nghiệp gia nhập thị trường đã khó, chấm dứt hoạt động còn khó hơn\". Cải thiện môi trường kinh doanh, tháo gỡ điểm nghẽn pháp lý."
+      "note": "Thủ tướng Lê Minh Hưng chủ trì làm việc về 4 dự án luật (sửa đổi Luật Đầu tư, Luật Đấu thầu, Luật Ngân sách, Luật Phát triển SME), yêu cầu Bộ Tài chính đơn giản hóa quy trình giải thể, thủ tục phá sản doanh nghiệp nhằm tháo gỡ điểm nghẽn cho tăng trưởng hai con số."
+    },
+    {
+      "title": "USD/VND giảm sát đáy một năm",
+      "impact": "→",
+      "note": "8 tháng 2026 USD/VND giảm 1,5% xuống 25.900 đồng/USD; tỷ giá trung tâm tăng 1,86% lên 25.591 đồng/USD. Sự phân kỳ phản ánh cải thiện cân cân ngoại tệ (nhập siêu tháng 8 chỉ 113 triệu USD, FDI thực hiện 17,25 tỷ USD), nhưng dư địa giảm sâu."
     }
   ]
 }
