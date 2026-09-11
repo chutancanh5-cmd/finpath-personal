@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Phiên 11/9 ghi nhận áp lực bán ròng từ khối ngoại (777 tỷ đồng) và tự doanh (94 tỷ đồng), VN-Index phá vỡ mốc 1.800 điểm với 28/30 cổ phiếu VN30 giảm. Thị trường đối mặt sức ép chốt lời trước sự kiện nâng hạng FTSE Russell (21/9), khi thanh khoản cao nhưng đến từ áp lực bán. Bên cạnh đó, nợ của các công ty bất động sản lớn (Vạn Hương Investoco nợ 26,6 ngàn tỷ) và sự yếu kém của doanh nghiệp Việt trong cạnh tranh xuất khẩu (FDI chiếm 80% xuất khẩu) tiếp tục làm nặng tâm lý thị trường.",
+  "summary_vi": "Phiên giao dịch 11/9 ghi nhận áp lực bán mạnh khi VN-Index xuyên thủng mốc 1,800 điểm, giảm 34 điểm. Khối ngoại xả 777 tỷ đồng nhóm ngân hàng (STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ) trong khi tự doanh bán 94 tỷ. Cả tuần VN-Index giảm 3.12%, HNX giảm 3.49%. Trên bình diện vĩ mô, lực cầu yếu khi thanh khoản chỉ 15,000 tỷ đồng, doanh nghiệp FDI tiếp tục \"ăn dị\" với tăng 27% xuất khẩu (chiếm 80.1%), còn doanh nghiệp trong nước tăng 7.4%.",
   "top": [
     {
-      "title": "Khối ngoại xả nhóm ngân hàng 777 tỷ, tự doanh bán ròng",
+      "title": "VN-Index xuyên thủng 1,800 điểm, giảm 34 điểm",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 777 tỷ đồng tập trung ở nhóm ngân hàng (STB xả 229 tỷ, MBB 140 tỷ, VPB 123 tỷ); khối tự doanh cũng bán ròng 94 tỷ đồng. Áp lực bán từ cả hai dòng tiền lớn."
+      "note": "VN-Index đóng cửa 1.795,21 điểm giảm 1,86%, xuyên thủng mốc 1,800 điểm lần đầu. Cả tuần chỉ số giảm 57,87 điểm (-3,12%), HNX-Index giảm 9,85 điểm (-3,49%). 28/30 cổ phiếu VN30 cùng giảm."
     },
     {
-      "title": "VN-Index phá vỡ 1.800 điểm, VN30 giảm 2,03%",
+      "title": "Khối ngoại xả mạnh nhóm ngân hàng 777 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 1,86% xuống 1.795,21 điểm (mất 34 điểm) trong phiên cuối tuần; toàn tuần giảm 3,12%. Tất cả 28/30 cổ phiếu VN30 đều giảm, thanh khoản HoSE 15.000 tỷ đồng nhưng không đủ để hấp thụ lượng cung."
+      "note": "Khối ngoại mạnh tay xả 777 tỷ đồng tập trung vào ngân hàng: STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ. Tự doanh cũng bán ròng 94 tỷ đồng. BSR được khối ngoại gom 110 tỷ đồng."
     },
     {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại",
+      "title": "Loạt cổ phiếu vốn hóa lớn giảm sâu",
       "impact": "↓",
-      "note": "8 tháng qua, khối FDI xuất khẩu 300 tỷ USD (tăng 27%), chiếm 80,1% tổng kim ngạch; doanh nghiệp trong nước chỉ 74 tỷ USD (tăng 7,4%), chiếm 19,9%. Khoảng cách tiếp tục rộng thêm so với năm trước."
+      "note": "VIC giảm 1,78%, VHM 1,5%, VCB 1,36%, BID 2,06%, CTG 1,96%, TCB 2,47%, VPB 2%, GAS 2,01%. Thanh khoản rổ VN30 tăng 63% so với buổi sáng, chứng tỏ áp lực bán mạnh vào chiều."
     },
     {
-      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ, lỗ 96 tỷ nửa năm",
-      "impact": "↓",
-      "note": "Nợ phải trả 26,6 ngàn tỷ đồng (gấp 8,78 lần vốn chủ sở hữu), lỗ sau thuế 96 tỷ đồng H1 2026; lợi nhuận chưa phân phối âm 24 tỷ đồng. Nợ chiếm 90% tổng tài sản."
+      "title": "FDI chiếm 80,1% giá trị xuất khẩu, doanh nghiệp Việt tụt lại",
+      "impact": "→",
+      "note": "8 tháng 2026, khu vực FDI xuất khẩu 300 tỷ USD tăng 27%, khu vực trong nước 74 tỷ USD tăng 7,4%. Doanh nghiệp Việt gặp khó khăn về hóa đơn điện tử, thuế, an toàn lao động làm tăng chi phí tuân thủ."
     },
     {
-      "title": "Thanh khoản chiều tăng 63%, áp lực bán tháo mạnh",
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ đồng, lỗ 96 tỷ H1/2026",
       "impact": "↓",
-      "note": "Thanh khoản rổ VN30 chiều tăng 63% so với sáng, toàn sàn HoSE tăng 41%. Có 131 cổ phiếu giảm từ 2% trở lên (buổi sáng chỉ 66 mã), xác nhận bán tháo trên diện rộng."
+      "note": "Chủ Khu du lịch Đồi Rồng có nợ phải trả 26,6 ngàn tỷ đồng (tương đương hơn 1 tỷ USD), lỗ sau thuế 96 tỷ đồng nửa đầu năm. Nợ chiếm 90% tổng tài sản, gấp 8,78 lần vốn chủ sở hữu."
     },
     {
-      "title": "Quảng Ninh nâng mục tiêu tăng trưởng Q3 lên 15,48%",
-      "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản GRDP quý 3 lên 15,48%, hướng tới mục tiêu 9 tháng 12,56% và cả năm 13,21%; tập trung vào công nghiệp chế biến, chế tạo."
+      "title": "Thanh khoản yếu mặc dù áp lực bán mạnh",
+      "impact": "↓",
+      "note": "HoSE khớp lệnh 15,000 tỷ đồng phiên 11/9, tuy tăng 36% so với hôm qua nhưng chỉ chiếm mức cao nhất 7 phiên. Lực cầu chưa đủ để hấp thụ lượng cung gia tăng, tâm lý suy yếu."
     }
   ]
 }
