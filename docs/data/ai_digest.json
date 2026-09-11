@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực bán mạnh với VN-Index tuột dưới 1.800 điểm, khối ngoại bán ròng 777 tỷ đồng tập trung vào nhóm ngân hàng (STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ). Rủi ro nợ xấu tiềm ẩn từ các doanh nghiệp lớn (Vạn Hương Investoco nợ 26.6 ngàn tỷ đồng, gấp 8.78 lần vốn chủ). Tuy vậy, TPBank được chấp thuận tăng vốn 4.161 tỷ với lợi nhuận tốt (tăng trưởng tín dụng 9.62%), và Quảng Ninh điều chỉnh mục tiêu tăng trưởng Q3 lên 15.48% cho thấy dấu hiệu tích cực từ phía vĩ mô.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam trải qua tuần giảm mạnh với VN-Index xuyên thủng mốc 1.800 điểm, giảm 3,12% do áp lực bán tháo gia tăng. Khối ngoại xả 777 tỷ đồng tập trung vào nhóm ngân hàng, phản ánh tâm lý tiêu cực. Song song đó, doanh nghiệp Việt đối mặt thách thức khi FDI chiếm 80,1% kim ngạch xuất khẩu, để lại những lo ngại về cơ cấu kinh tế. Một số tín hiệu tích cực từ SBV (tỷ giá ổn định) và hoạt động tăng vốn ngân hàng chưa đủ bù đắp rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Khối ngoại xả nhóm ngân hàng 777 tỷ đồng",
+      "title": "VN-Index xuyên thủng 1.800 điểm, áp lực bán tháo tăng vọt",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 777 tỷ đồng, tập trung xả ngân hàng: STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ. Tự doanh cũng bán ròng 94 tỷ đồng, thể hiện áp lực từ các nhà đầu tư lớn."
+      "note": "VN-Index giảm 1,86% xuống 1.795,21 điểm trong phiên 11/9, tuần giảm 3,12%. Thanh khoản HoSE buổi chiều tăng 41% với 284 mã giảm giá, phản ánh tâm lý suy yếu đồng loạt khi nhóm blue-chips (VIC, VHM, VCB, BID, TCB, GAS) đều giảm từ 1,36% đến 2,47%."
     },
     {
-      "title": "VN-Index thủng 1.800 điểm, áp lực bán tháo tăng vọt",
+      "title": "Khối ngoại xả 777 tỷ đồng, tập trung ngân hàng",
       "impact": "↓",
-      "note": "VN-Index giảm 1.86% xuống 1.795.21 điểm, 28/30 cổ phiếu VN30 cùng giảm. Thanh khoản HoSE đạt 15.3k tỷ, nhưng 131 mã giảm từ 2% trở lên cho thấy hành động bán tháo đồng loạt."
+      "note": "Phiên 11/9, khối ngoại bán ròng 777 tỷ đồng tập trung ở nhóm ngân hàng: STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ. Khối tự doanh cũng bán ròng 94 tỷ đồng với HPG 56 tỷ và MBB 26 tỷ, cho thấy sự thỏa thuận bán mạnh từ cả hai dòng tiền."
     },
     {
-      "title": "Rơi 34 điểm trước sự kiện nâng hạng FTSE Russell (21/9)",
+      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại",
       "impact": "↓",
-      "note": "VN-Index rơi 34 điểm trong phiên cuối tuần trước thời điểm nâng hạng thị trường mới nổi của FTSE Russell. Áp lực chốt lời tăng khi kỳ vọng sự kiện đã được phản ánh trước đó."
+      "note": "Trong 8 tháng 2026, khu vực FDI xuất khẩu hơn 300 tỷ USD tăng 27%, trong khi doanh nghiệp trong nước chỉ 74 tỷ USD tăng 7,4%. Chuyên gia cảnh báo doanh nghiệp Việt khó khăn hơn do chi phí tuân thủ hóa đơn điện tử, thuế, an toàn lao động tăng, tạo nên \"hai nền kinh tế độc lập\"."
     },
     {
-      "title": "Chủ Đồi Rồng nợ 26.6 ngàn tỷ đồng, gấp 8.78 lần vốn chủ",
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ đồng, lỗ 96 tỷ",
       "impact": "↓",
-      "note": "Vạn Hương Investoco nợ phải trả 26.6 ngàn tỷ đồng (tăng 476 tỷ so với đầu năm), lỗ 96 tỷ đồng nửa đầu 2026. Tỷ lệ nợ/vốn chủ rất cao, tiềm ẩn rủi ro nợ xấu cho hệ thống ngân hàng."
+      "note": "CTCP Đầu tư Du lịch Vạn Hương (chủ Đồi Rồng Hải Phòng) báo lỗ 96 tỷ đồng trong nửa đầu 2026 so với lãi 226 tỷ cùng kỳ 2025. Nợ phải trả 26,6 ngàn tỷ đồng (tương đương >1 tỷ USD), gấp 8,78 lần vốn chủ sở hữu, chiếm 90% tổng tài sản."
     },
     {
-      "title": "TPBank được chấp thuận tăng vốn 4.161 tỷ đồng",
+      "title": "Tỷ giá ổn định, SBV kiềm chế lãi suất thành công",
       "impact": "↑",
-      "note": "Ngân hàng Tiên Phong được NHNN chấp thuận tăng vốn điều lệ 4.161 tỷ đồng qua phát hành cổ tức 15%. Lợi nhuận trước thuế nửa đầu 2026 đạt 4.668 tỷ đồng, tăng trưởng tín dụng 9.62%, NPL dưới 1.5%."
+      "note": "Tỷ giá tự do giảm xuống thấp hơn tỷ giá chính thức (hiếm khi xảy ra), nhập siêu giảm mạnh tháng 8. SBV nới trần tín dụng khách hàng lên 38-52% vốn tự có để hỗ trợ đại dự án, tạo điều kiện ổn định cho hệ thống ngân hàng."
     },
     {
-      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15.48%",
+      "title": "TPBank tăng vốn 4.161 tỷ đồng, lợi nhuận tăng trưởng",
       "impact": "↑",
-      "note": "Thành phố Quảng Ninh nâng kịch bản tăng trưởng GRDP quý 3 lên 15.48%, hướng tới 12.56% cho 9 tháng và 13.21% cả năm 2026, thể hiện tăng tốc từ động lực công nghiệp chế biến, chế tạo."
+      "note": "NHNN chấp thuận TPBank tăng vốn điều lệ thêm 4.161 tỷ đồng lên trên 31.901 tỷ đồng qua phát hành 416 triệu cổ phiếu với tỷ lệ 15%. Nửa đầu 2026, TPBank lợi nhuận trước thuế 4.668 tỷ đồng tăng trưởng tín dụng 9,62%, NPL dưới 1,5%."
     }
   ]
 }
