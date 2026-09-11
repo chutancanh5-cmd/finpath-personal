@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực từ tình hình quốc tế: ECB tăng lãi suất, lạm phát eurozone dự báo 2,5% (cao hơn 0,2 điểm %), giá dầu tăng 6% do căng thẳng Mỹ-Iran kéo dài. Chứng khoán Mỹ giảm 4 phiên liên tiếp tạo áp lực toàn cầu. Tuy vậy, trong nước vẫn có tín hiệu tích cực: Quảng Ninh tăng trưởng GRDP quý 3 đạt 15,48%, thủ tướng yêu cầu đơn giản quy trình kinh doanh, FDI thực hiện 17,25 tỷ USD trong 8 tháng. Rủi ro cấu trúc: FDI chiếm 80,1% xuất khẩu còn doanh nghiệp trong nước 19,9%, phản ánh sự phân hóa năng lực cạnh tranh.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam giảm sâu do áp lực từ giá năng lượng toàn cầu tăng mạnh (dầu WTI 102 USD/thùng, Brent 107 USD/thùng) kết hợp với cảnh báo lạm phát cao kéo dài từ ECB. VN-Index giảm 0,87% nhưng 44% cổ phiếu sụt >1%, cổ phiếu trụ chịu áp lực mạnh. Thêm vào đó, doanh nghiệp Việt gặp khó khăn khi FDI chiếm 80,1% giá trị xuất khẩu, tuy chính sách cải thiện môi trường từ Thủ tướng và tăng trưởng Quảng Ninh mang tín hiệu tích cực.",
   "top": [
     {
-      "title": "ECB tăng lãi suất, cảnh báo lạm phát cao kéo dài",
+      "title": "Thị trường chứng khoán Việt giảm sâu, cổ phiếu trụ lao dốc",
       "impact": "↓",
-      "note": "ECB tăng lãi suất lần thứ hai năm nay; dự báo lạm phát eurozone 2,5% năm tới (cao hơn 0,2 điểm %), giá dầu Brent tăng gần 108 USD/thùng do căng thẳng Trung Đông. Lạm phát cao dai dẳng tạo sức ép lên tài sản rủi ro và chứng khoán toàn cầu."
+      "note": "VN-Index giảm 0,87%, nhưng 44% cổ phiếu sụt giảm >1%; VN30-Index giảm 1,2% với chỉ 3 mã xanh và 27 mã đỏ; các cổ phiếu trụ lớn giảm mạnh: TCX -2,78%, VNM -2,44%, HDB -2,37%, VRE -2,27%; thị trường châu Á cũng chịu sức ép (Nhật -2,14%, Hàn -1,74%)"
     },
     {
-      "title": "Chứng khoán Mỹ giảm 4 phiên liên tiếp, giá dầu tăng 6%",
+      "title": "Giá dầu toàn cầu tăng mạnh, lạm phát cao kéo dài",
       "impact": "↓",
-      "note": "Dow Jones giảm 0,6%, S&P 500 giảm 0,58%, Nasdaq giảm 0,65% trong phiên 10/9. Giá dầu WTI tăng 6,69% lên 102,48 USD/thùng (lần đầu vượt 100 USD/thùng kể từ tháng 5). Geopolitical risk từ chiến tranh Mỹ-Iran kéo dài 7 tháng gây bất ổn toàn cầu."
+      "note": "Giá dầu WTI lên 102 USD/thùng, Brent lên 107 USD/thùng; ECB tăng lãi suất lần 2 năm 2026 với dự báo lạm phát eurozone 2026 là 2,5% (tăng 0,2pp); lợi suất trái phiếu Đức 10 năm lên 3,5%"
     },
     {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt 19,9%",
-      "impact": "→",
-      "note": "8 tháng 2026: FDI xuất khẩu 300 tỷ USD (tăng 27%), doanh nghiệp trong nước 74 tỷ USD (tăng 7,4%). Sự phân hóa cho thấy doanh nghiệp Việt ngày càng khó cạnh tranh do hạn chế quy chuẩn chất lượng và chi phí tuân thủ tăng (hóa đơn điện tử, thuế, OSH)."
+      "title": "FDI chiếm 80,1% giá trị xuất khẩu, doanh nghiệp Việt yếu lại",
+      "impact": "↓",
+      "note": "Khối FDI xuất khẩu 300+ tỷ USD (tăng 27%), chiếm 80,1% tổng kim ngạch; doanh nghiệp trong nước 74+ tỷ USD (tăng 7,4%), chỉ 19,9%; khoảng cách mở rộng so với 9 tháng năm 2025"
     },
     {
-      "title": "Quảng Ninh nâng tăng trưởng GRDP quý 3 lên 15,48%",
+      "title": "Quảng Ninh điều chỉnh tăng trưởng lên 15,48%",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng quý 3 lên 15,48%, hướng tới 12,56% cả 9 tháng và 13,21% cả năm. Công nghiệp chế biến, chế tạo tiếp tục là trụ cột, khẳng định Quảng Ninh là cực tăng trưởng quan trọng phía Bắc."
+      "note": "GRDP Q3 2026 được điều chỉnh lên 15,48%, mục tiêu 9 tháng đạt 12,56%, cả năm 13,21%; ưu tiên công nghiệp chế biến, chế tạo để tạo đà bứt phá"
     },
     {
-      "title": "Thủ tướng yêu cầu đơn giản quy trình kinh doanh",
+      "title": "Thủ tướng yêu cầu đơn giản quy trình giải thể doanh nghiệp",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng chủ trì làm việc về 4 dự án luật (sửa đổi Luật Đầu tư, Luật Đấu thầu, Luật Ngân sách, Luật Phát triển SME), yêu cầu Bộ Tài chính đơn giản hóa quy trình giải thể, thủ tục phá sản doanh nghiệp nhằm tháo gỡ điểm nghẽn cho tăng trưởng hai con số."
+      "note": "Thủ tướng Lê Minh Hưng yêu cầu Bộ Tài chính đơn giản, rút gọn quy trình giải thể, thủ tục phá sản; nhằm tháo gỡ điểm nghẽn hành lang pháp lý, hỗ trợ mục tiêu tăng trưởng hai con số"
     },
     {
-      "title": "USD/VND giảm sát đáy một năm",
-      "impact": "→",
-      "note": "8 tháng 2026 USD/VND giảm 1,5% xuống 25.900 đồng/USD; tỷ giá trung tâm tăng 1,86% lên 25.591 đồng/USD. Sự phân kỳ phản ánh cải thiện cân cân ngoại tệ (nhập siêu tháng 8 chỉ 113 triệu USD, FDI thực hiện 17,25 tỷ USD), nhưng dư địa giảm sâu."
+      "title": "Transimex chi trả cổ tức 12%, vốn điều lệ tăng lên",
+      "impact": "↑",
+      "note": "Ngày 28/9/2026 chốt danh sách cổ đông; cổ tức tiền mặt 5% (500 đồng/cổ phiếu, ~86,4 tỷ đồng), cổ phiếu thưởng 7% (100:7, ~12,1 triệu cổ phiếu); vốn điều lệ tăng từ 1.727 tỷ lên 1.848 tỷ đồng"
     }
   ]
 }
