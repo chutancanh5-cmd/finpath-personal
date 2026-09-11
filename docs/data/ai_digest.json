@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán giảm mạnh với VN-Index tuột khỏi 1.800 điểm (-1,86%) khi dòng tiền ngoại bán ròng 777 tỷ đồng, tập trung vào ngân hàng. Mặt bằng lãi suất cao ép sức mua, trong khi doanh nghiệp trong nước tụt lại so với FDI (chiếm chỉ 19,9% xuất khẩu). Rủi ro gia tăng từ những doanh nghiệp lớn như Vạn Hương nợ gần 1 tỷ USD, mặc dù TPBank khỏe mạnh.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực bán mạnh với VN-Index tuột dưới 1.800 điểm, khối ngoại bán ròng 777 tỷ đồng tập trung vào nhóm ngân hàng (STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ). Rủi ro nợ xấu tiềm ẩn từ các doanh nghiệp lớn (Vạn Hương Investoco nợ 26.6 ngàn tỷ đồng, gấp 8.78 lần vốn chủ). Tuy vậy, TPBank được chấp thuận tăng vốn 4.161 tỷ với lợi nhuận tốt (tăng trưởng tín dụng 9.62%), và Quảng Ninh điều chỉnh mục tiêu tăng trưởng Q3 lên 15.48% cho thấy dấu hiệu tích cực từ phía vĩ mô.",
   "top": [
     {
-      "title": "VN-Index thủng 1.800 điểm, giảm 1,86%",
+      "title": "Khối ngoại xả nhóm ngân hàng 777 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index rơi xuống 1.795,21 điểm (-1,86%), tuần giảm 3,12%. 28/30 VN30-Index giảm, thanh khoản HoSE 15.000 tỷ đồng cho thấy lực cầu yếu, áp lực bán tháo tăng vọt trong buổi chiều."
+      "note": "Khối ngoại bán ròng 777 tỷ đồng, tập trung xả ngân hàng: STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ. Tự doanh cũng bán ròng 94 tỷ đồng, thể hiện áp lực từ các nhà đầu tư lớn."
     },
     {
-      "title": "Khối ngoại bán ròng 777 tỷ đồng, tập trung vào ngân hàng",
+      "title": "VN-Index thủng 1.800 điểm, áp lực bán tháo tăng vọt",
       "impact": "↓",
-      "note": "Khối ngoại xả mạnh STB (229 tỷ đồng), MBB (140 tỷ đồng), VPB (123 tỷ đồng). Tự doanh cũng bán ròng 94 tỷ đồng. Hai dòng tiền lớn đều áp lực bán, khối ngân hàng bị ảnh hưởng nặng nhất."
+      "note": "VN-Index giảm 1.86% xuống 1.795.21 điểm, 28/30 cổ phiếu VN30 cùng giảm. Thanh khoản HoSE đạt 15.3k tỷ, nhưng 131 mã giảm từ 2% trở lên cho thấy hành động bán tháo đồng loạt."
     },
     {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt chỉ 19,9%",
+      "title": "Rơi 34 điểm trước sự kiện nâng hạng FTSE Russell (21/9)",
       "impact": "↓",
-      "note": "Khu vực FDI xuất khẩu 300 tỷ USD (tăng 27%), khu vực trong nước 74 tỷ USD (tăng 7,4%). Khoảng cách rộng thêm do doanh nghiệp Việt gặp khó khăn, chi phí tuân thủ tăng."
+      "note": "VN-Index rơi 34 điểm trong phiên cuối tuần trước thời điểm nâng hạng thị trường mới nổi của FTSE Russell. Áp lực chốt lời tăng khi kỳ vọng sự kiện đã được phản ánh trước đó."
     },
     {
-      "title": "Vạn Hương Investoco nợ 26.6 ngàn tỷ đồng (1 tỷ USD)",
+      "title": "Chủ Đồi Rồng nợ 26.6 ngàn tỷ đồng, gấp 8.78 lần vốn chủ",
       "impact": "↓",
-      "note": "Nợ phải trả 26.6 ngàn tỷ đồng (tương đương 1 tỷ USD), lỗ 96 tỷ đồng nửa đầu 2026. Tỷ lệ nợ 8,78 lần vốn chủ sở hữu, chiếm 90% tổng tài sản."
+      "note": "Vạn Hương Investoco nợ phải trả 26.6 ngàn tỷ đồng (tăng 476 tỷ so với đầu năm), lỗ 96 tỷ đồng nửa đầu 2026. Tỷ lệ nợ/vốn chủ rất cao, tiềm ẩn rủi ro nợ xấu cho hệ thống ngân hàng."
     },
     {
-      "title": "TPBank được NHNN chấp thuận tăng vốn 4.161 tỷ đồng",
+      "title": "TPBank được chấp thuận tăng vốn 4.161 tỷ đồng",
       "impact": "↑",
-      "note": "NHNN chấp thuận tăng vốn điều lệ thêm 4.161 tỷ đồng lên 31.901 tỷ đồng qua phát hành cổ phiếu tỷ lệ 15%. Lợi nhuận trước thuế nửa năm 4.668 tỷ, tăng trưởng tín dụng 9,62%, NPL dưới 1,5%."
+      "note": "Ngân hàng Tiên Phong được NHNN chấp thuận tăng vốn điều lệ 4.161 tỷ đồng qua phát hành cổ tức 15%. Lợi nhuận trước thuế nửa đầu 2026 đạt 4.668 tỷ đồng, tăng trưởng tín dụng 9.62%, NPL dưới 1.5%."
     },
     {
-      "title": "Quảng Ninh đặt mục tiêu tăng trưởng Q3 15,48%",
+      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15.48%",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP Q3 lên 15,48%, phấn đấu cả năm 13,21%. Công nghiệp chế biến, chế tạo là trụ cột tăng trưởng khu vực."
+      "note": "Thành phố Quảng Ninh nâng kịch bản tăng trưởng GRDP quý 3 lên 15.48%, hướng tới 12.56% cho 9 tháng và 13.21% cả năm 2026, thể hiện tăng tốc từ động lực công nghiệp chế biến, chế tạo."
     }
   ]
 }
