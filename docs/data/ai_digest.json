@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chứng kiến áp lực bán mạnh mẽ ngày 11/9 khi VN-Index giảm 0,87% xuống sát 1800 điểm, với 44% cổ phiếu sụt giảm quá 1%, phản ánh tâm lý xả hàng liên quan đến lạm phát cao và căng thẳng địa geopolitics làm giá dầu tăng. ECB tăng lãi suất lần thứ 2 năm 2026 và cảnh báo lạm phát dai dẳng 2,5% năm tới. Tuy vậy, chính sách cải thiện môi trường kinh doanh và triển vọng tăng trưởng hai con số vẫn là tia sáng cho tương lai dài hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ toàn cầu: VN-Index giảm 0,87% với 44% cổ phiếu sụt giảm quá 1%, ngành ngân hàng (VPB -0,73%, MBB -1,24%, SHB -1,70%, TCB -1,23%) và bất động sản (NVL, DXG giảm trên 3,5%) bị bán ròng do lo lạm phát; dầu WTI tăng 102 USD/thùng, ECB tăng lãi suất lần 2 năm với dự báo lạm phát eurozone 2,5% năm tới. Đồng thời, FDI chiếm 80,1% xuất khẩu kéo xa doanh nghiệp trong nước chỉ 19,9%. Tuy vậy, chính phủ tích cực cải thiện môi trường kinh doanh, Quảng Ninh tăng trưởng 15,48% đem lại tín hiệu tích cực dài hạn.",
   "top": [
     {
       "title": "VN-Index giảm 0,87%, 44% cổ phiếu sụt giảm quá 1%",
@@ -20,9 +20,9 @@
       "note": "Khối FDI xuất khẩu 300 tỷ USD (+27%), chiếm 80,1% tổng kim ngạch xuất khẩu. Doanh nghiệp trong nước 74 tỷ USD (+7,4%), chiếm 19,9%. Khoảng cách mở rộng so với năm ngoái, doanh nghiệp Việt ngày càng khó tham gia thị trường quốc tế."
     },
     {
-      "title": "Vàng miếng lao dốc 1,6 triệu đồng/lượng",
+      "title": "Ngân hàng xả hàng do lo tăng lãi suất huy động, bất động sản giảm mạnh",
       "impact": "↓",
-      "note": "Vàng miếng SJC giảm từ mức mở cửa 143,6-146,6 triệu đồng/lượng xuống còn 142-145 triệu đồng/lượng. Các thương hiệu lớn (Phú Quý, Bảo Tín Minh Châu, BTMH, DOJI) đồng loạt hạ nhiệt cùng mức."
+      "note": "Ngân hàng hút 994 tỷ đồng nhưng bộ tứ đầu bảng VPB (-0,73%), MBB (-1,24%), SHB (-1,70%), TCB (-1,23%) đồng loạt giảm, phản ánh tâm lý xả hàng do lo ngại tăng lãi suất huy động ảnh hưởng biên lãi suất. Bất động sản hút 750 tỷ nhưng NVL, DXG sụt trên 3,5%, VHM (-1,37%) chịu áp lực bán ròng ngoại lớn nhất toàn thị trường."
     },
     {
       "title": "Thủ tướng đơn giản thủ tục giải thể doanh nghiệp",
