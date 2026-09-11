@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực ngắn hạn (VN-Index -0,87%, HNX -1%, 457 mã giảm) do khối ngoại vẫn bán ròng. Tuy nhiên, nâng hạng FTSE Russell mở ra tơn vọng dòng vốn 1,8-8 tỷ USD trong 12 tháng tới. Thách thức cơ cấu là doanh nghiệp Việt bị nhấn chìm bởi FDI (chiếm 80,1% xuất khẩu) trong bối cảnh sở hữu nước ngoài ở mức thấp kỷ lục 46 tỷ USD, song cải cách hành chính và tăng trưởng địa phương mang lại hy vọng.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam trải qua phiên giao dịch suy yếu với VN-Index giảm 1,86% xuống 1795,21 điểm, khối ngoại bán ròng mạnh 846 tỷ đồng tập trung vào các cổ phiếu ngân hàng. Áp lực bán tháo tăng vọt trong phiên chiều khi thanh khoản tăng 41%. Bên cạnh đó, doanh nghiệp trong nước gặp khó khăn khi khối FDI chiếm 80,1% giá trị xuất khẩu (tăng 27%) còn doanh nghiệp Việt chỉ tăng 7,4%. Giá vàng cũng điều chỉnh mạnh giảm 1,6-2,1 triệu đồng/lượng. Tín hiệu tích cực từ Quảng Ninh (mục tiêu GRDP Q3 tăng 15,48%) không đủ để bù đắp áp lực bán ròng ngắn hạn.",
   "top": [
     {
-      "title": "VN-Index giảm 0,87%, HNX -1% giữa bán tháo rộng rãi",
+      "title": "Khối ngoại bán ròng 846 tỷ đồng, VN-Index giảm 34 điểm",
       "impact": "↓",
-      "note": "VN-Index 1.813,28 điểm (-0,87%), HNX-Index 275,58 điểm (-1%), 457 mã giảm chỉ 159 mã tăng. Nhóm vốn hóa lớn VHM, VCB, HDB lấy đi 3 điểm; lực đỡ từ dầu khí (GAS, PVD, PVT) chỉ đưa ~1,5 điểm."
+      "note": "Khối ngoại bán ròng 846 tỷ đồng trên 3 sàn, tập trung vào STB (~230 tỷ), MBB (~141 tỷ), VPB (~134 tỷ), VHM (~94 tỷ). VN-Index mất 34 điểm, giá trị khớp lệnh HoSE 15.250 tỷ đồng."
     },
     {
-      "title": "FTSE nâng hạng VN, 1,8-8 tỷ USD sắp vào thị trường",
-      "impact": "↑",
-      "note": "FTSE Russell tăng tỷ trọng Việt Nam lên 0,49% (tăng 50% từ 0,329%), đưa 27 cổ phiếu vào rổ chỉ số. Ước tính 1,8 tỷ USD từ ETF thụ động + 5-8 tỷ USD từ quỹ chủ động, triển khai 4 giai đoạn từ 21/9/2026 đến 9/2027."
-    },
-    {
-      "title": "Sở hữu nước ngoài mỏng kỷ lục: chỉ 46 tỷ USD (16% vốn hóa)",
-      "impact": "→",
-      "note": "Theo BIDV (9/6/2026), nhà đầu tư nước ngoài nắm 46 tỷ USD so với 242 tỷ USD nhà đầu tư trong nước. Mức thấp kỷ lục khi khối ngoại duy trì bán ròng ở ASEAN, thách thức trước khi gia nhập FTSE Emerging Index (2.250+ cổ phiếu, 9,42 nghìn tỷ USD)."
-    },
-    {
-      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ, lỗ 96 tỷ H1",
+      "title": "VN-Index thủng 1800 điểm, VN30 giảm 2,03%",
       "impact": "↓",
-      "note": "Chủ Khu du lịch Đồi Rồng báo lỗ 96 tỷ đồng nửa đầu 2026 (so với lãi 226 tỷ cùng kỳ 2025). Nợ phải trả 26,6 ngàn tỷ đồng (1 tỷ USD), gấp 8,78 lần vốn chủ, chiếm 90% tổng tài sản; lợi nhuận chưa phân phối -24 tỷ đồng."
+      "note": "VN-Index đóng cửa giảm 1,86% xuống 1795,21 điểm, VN30-Index giảm 2,03%. Thanh khoản rổ VN30 tăng 63% so với buổi sáng, toàn sàn HoSE tăng 41%. 131 mã giảm từ 2% trở lên trong phiên chiều."
     },
     {
-      "title": "Quảng Ninh nâng mục tiêu GRDP Q3 lên 15,48%",
-      "impact": "↑",
-      "note": "Thành phố điều chỉnh kịch bản tăng trưởng kinh tế Q3 từ 15,41% lên 15,48%, hướng tới 12,56% (9 tháng) và 13,21% (cả năm). Tăng tốc nhằm khẳng định vị thế cực tăng trưởng của phía Bắc."
+      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại",
+      "impact": "↓",
+      "note": "Khối FDI xuất khẩu 300+ tỷ USD, tăng 27%, chiếm 80,1% tổng kim ngạch. Doanh nghiệp trong nước xuất khẩu 74+ tỷ USD, tăng 7,4%, chiếm 19,9%. Khoảng cách ngày rộng thêm so với năm ngoái."
     },
     {
-      "title": "Thủ tướng yêu cầu đơn giản hóa thủ tục giải thể doanh nghiệp",
+      "title": "Giá vàng miếng SJC lao dốc 1,6-2,1 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Vàng miếng SJC giảm 1,6 triệu đồng/lượng, xuống còn 142-145 triệu đồng/lượng. So với mức đỉnh 147,1 triệu đồng, giá giảm tổng cộng 2,1 triệu đồng/lượng chiều bán ra."
+    },
+    {
+      "title": "Quảng Ninh điều chỉnh GRDP Q3 lên 15,48%",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng chủ trì làm việc 4 dự án luật sửa đổi (Luật Đầu tư, Luật Đấu thầu, Luật Ngân sách, Luật Phát triển DNVV) nhằm tháo gỡ điểm nghẽn, hoàn thiện hành lang pháp lý, tạo dư địa phát triển hướng tới tăng trưởng hai con số."
+      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP Q3 lên 15,48%, hướng tới 12,56% cho 9 tháng và 13,21% cả năm. Công nghiệp chế biến, chế tạo tiếp tục là trụ cột quan trọng."
+    },
+    {
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ đồng, lỗ 96 tỷ nửa đầu năm",
+      "impact": "↓",
+      "note": "Vạn Hương Investoco (chủ Đồi Rồng) có nợ phải trả 26,6 ngàn tỷ đồng (1 tỷ USD) (gấp 8,78 lần vốn chủ sở hữu), lỗ 96 tỷ đồng nửa đầu 2026 (so với lãi 226 tỷ năm trước). Nợ trái phiếu 10,8 ngàn tỷ, vay ngân hàng 1,5 ngàn tỷ đồng."
     }
   ]
 }
