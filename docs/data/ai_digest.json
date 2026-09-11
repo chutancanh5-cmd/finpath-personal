@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Phiên giao dịch 11/9 ghi nhận áp lực bán mạnh khi VN-Index xuyên thủng mốc 1,800 điểm, giảm 34 điểm. Khối ngoại xả 777 tỷ đồng nhóm ngân hàng (STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ) trong khi tự doanh bán 94 tỷ. Cả tuần VN-Index giảm 3.12%, HNX giảm 3.49%. Trên bình diện vĩ mô, lực cầu yếu khi thanh khoản chỉ 15,000 tỷ đồng, doanh nghiệp FDI tiếp tục \"ăn dị\" với tăng 27% xuất khẩu (chiếm 80.1%), còn doanh nghiệp trong nước tăng 7.4%.",
+  "summary_vi": "Thị trường chứng khoán gặp áp lực mạnh ngày 11/9, VN-Index rơi 1.86% xuống 1.795,21 điểm (thủng 1.800). Khối ngoại bán ròng 777 tỷ ở nhóm ngân hàng, chốt lời trước nâng hạng FTSE Russell ngày 21/9. Có tin tích cực từ TPBank (tăng vốn 4.161 tỷ) và Quảng Ninh (Q3 tăng 15.48%), nhưng bán tháo rộng rãi khiến cần thêm thời gian hấp thụ cung. Khoảng cách giữa FDI (80.1% xuất khẩu) và doanh nghiệp VN (19.9%) mở rộng là rủi ro dài hạn cho tăng trưởng bền vững.",
   "top": [
     {
-      "title": "VN-Index xuyên thủng 1,800 điểm, giảm 34 điểm",
+      "title": "VN-Index thủng 1.800 điểm, giảm 1.86%",
       "impact": "↓",
-      "note": "VN-Index đóng cửa 1.795,21 điểm giảm 1,86%, xuyên thủng mốc 1,800 điểm lần đầu. Cả tuần chỉ số giảm 57,87 điểm (-3,12%), HNX-Index giảm 9,85 điểm (-3,49%). 28/30 cổ phiếu VN30 cùng giảm."
+      "note": "VN-Index đóng cửa tại 1.795,21 điểm, giảm 34,02 điểm. 28/30 cổ phiếu VN30 cùng giảm, thanh khoản HoSE tăng 41% so với sáng cho thấy áp lực bán tháo thực sự lên thị trường."
     },
     {
-      "title": "Khối ngoại xả mạnh nhóm ngân hàng 777 tỷ đồng",
+      "title": "Khối ngoại bán ròng 777 tỷ, tập trung ở ngân hàng",
       "impact": "↓",
-      "note": "Khối ngoại mạnh tay xả 777 tỷ đồng tập trung vào ngân hàng: STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ. Tự doanh cũng bán ròng 94 tỷ đồng. BSR được khối ngoại gom 110 tỷ đồng."
+      "note": "Khối ngoại bán ròng 777 tỷ đồng trong phiên 11/9, tập trung xả nhóm ngân hàng (STB: 229 tỷ, MBB: 140 tỷ, VPB: 123 tỷ). Dòng tiền quốc tế chốt lời trước sự kiện nâng hạng FTSE Russell ngày 21/9."
     },
     {
-      "title": "Loạt cổ phiếu vốn hóa lớn giảm sâu",
-      "impact": "↓",
-      "note": "VIC giảm 1,78%, VHM 1,5%, VCB 1,36%, BID 2,06%, CTG 1,96%, TCB 2,47%, VPB 2%, GAS 2,01%. Thanh khoản rổ VN30 tăng 63% so với buổi sáng, chứng tỏ áp lực bán mạnh vào chiều."
+      "title": "TPBank được chấp thuận tăng vốn 4.161 tỷ đồng",
+      "impact": "↑",
+      "note": "Ngân hàng Tiên Phong (TPB) nhận Công văn 8301/NHNN-QLGS ngày 10/9 chấp thuận tăng vốn tối đa 4.161 tỷ đồng qua phát hành 416 triệu cổ phiếu từ lợi nhuận lũy kế. Nếu hoàn tất, vốn điều lệ sẽ tăng từ 27.740 tỷ lên 31.901 tỷ đồng."
     },
     {
-      "title": "FDI chiếm 80,1% giá trị xuất khẩu, doanh nghiệp Việt tụt lại",
-      "impact": "→",
-      "note": "8 tháng 2026, khu vực FDI xuất khẩu 300 tỷ USD tăng 27%, khu vực trong nước 74 tỷ USD tăng 7,4%. Doanh nghiệp Việt gặp khó khăn về hóa đơn điện tử, thuế, an toàn lao động làm tăng chi phí tuân thủ."
+      "title": "Bán tháo rộng rãi, áp lực tăng vọt",
+      "impact": "↓",
+      "note": "Thanh khoản HoSE tăng 41% so với sáng, 59% giao dịch dồn vào buổi chiều. Áp lực bán lan rộng trên diện rộng, 131 cổ phiếu giảm từ 2% trở lên (buổi sáng chỉ 66 mã), cho thấy bán tháo đồng loạt không phải ép trụ."
     },
     {
-      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ đồng, lỗ 96 tỷ H1/2026",
+      "title": "FDI chiếm 80.1% xuất khẩu, doanh nghiệp VN tụt lại",
       "impact": "↓",
-      "note": "Chủ Khu du lịch Đồi Rồng có nợ phải trả 26,6 ngàn tỷ đồng (tương đương hơn 1 tỷ USD), lỗ sau thuế 96 tỷ đồng nửa đầu năm. Nợ chiếm 90% tổng tài sản, gấp 8,78 lần vốn chủ sở hữu."
+      "note": "Trong 8 tháng 2026, khu vực FDI xuất khẩu hơn 300 tỷ USD (tăng 27%), chiếm 80.1% tổng kim ngạch. Khu vực trong nước chỉ xuất khẩu 74 tỷ USD (tăng 7.4%), chiếm 19.9%. Khoảng cách mở rộng cho thấy doanh nghiệp Việt gặp khó khăn hơn trong thị trường quốc tế."
     },
     {
-      "title": "Thanh khoản yếu mặc dù áp lực bán mạnh",
-      "impact": "↓",
-      "note": "HoSE khớp lệnh 15,000 tỷ đồng phiên 11/9, tuy tăng 36% so với hôm qua nhưng chỉ chiếm mức cao nhất 7 phiên. Lực cầu chưa đủ để hấp thụ lượng cung gia tăng, tâm lý suy yếu."
+      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15.48%",
+      "impact": "↑",
+      "note": "Thành phố Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3/2026 lên 15.48%, hướng tới mục tiêu 9 tháng đạt 12.56% và cả năm 13.21%. Động lực chủ yếu từ công nghiệp chế biến, chế tạo duy trì công suất cao."
     }
   ]
 }
