@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-09-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Lạm phát toàn cầu và xung đột Trung Đông tạo áp lực lên thị trường: ECB tăng lãi suất 2,5%, dầu leo thang lên 107,63 USD/thùng, chứng khoán Mỹ giảm 4 phiên liên tiếp. Trong nước, vàng giảm phản ánh áp lực lạm phát, nhưng FDI chiếm 80,1% xuất khẩu (DN Việt chỉ 19,9%) là mối lo cấu trúc kinh tế. Tuy nhiên, cải cách quy trình giải thể/phá sản và khoảng cách tỷ giá được kiểm soát cân bằng với các rủi ro, tạo triển vọng trung tính.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Áp lực từ lạm phát toàn cầu gia tăng khi ECB nâng lãi suất lên 2,5%, dầu bùng phát 102-108 USD/thùng do căng thẳng Mỹ-Iran, chứng khoán Mỹ giảm 4 phiên liên tiếp gây sức ép lên TTCK toàn cầu. Trong nước, doanh nghiệp chỉ chiếm 19,9% xuất khẩu so với FDI 80,1%, phản ánh cấu trúc kinh tế lệch lạc. Tuy nhiên, Chính phủ tập trung cải cách quy trình giải thể doanh nghiệp và tiếp tục thu hút FDI để hỗ trợ mục tiêu tăng trưởng 2 con số, giúp giảm bớt rủi ro ngắn hạn từ áp lực macro.",
   "top": [
     {
       "title": "ECB tăng lãi suất, cảnh báo lạm phát cao kéo dài",
@@ -21,13 +21,13 @@
     },
     {
       "title": "Giá vàng xuống mức thấp nhất trong 3 tuần",
-      "impact": "↑",
+      "impact": "↓",
       "note": "Vàng miếng SJC sáng 11/9 giảm 1,6 triệu đồng/lượng xuống 142 triệu đồng mua vào, 145 triệu đồng bán ra. Vàng thế giới giảm 86 USD/ounce xuống 4.316 USD/ounce. Giá dầu tăng làm gia tăng kỳ vọng Fed tăng lãi suất, đồng USD và lợi suất trái phiếu 10 năm Mỹ tăng gây áp lực lên vàng."
     },
     {
-      "title": "Tỷ giá USD/VND giảm 4 tháng, về sát đáy một năm",
-      "impact": "↓",
-      "note": "USD/VND trên thị trường liên ngân hàng giảm 4 tháng liên tiếp, từ đầu năm giảm 1,5% xuống 25.900 đồng/USD (10/9). Tỷ giá trung tâm tăng 1,86% lên 25.591 đồng/USD (phân kỳ với thị trường). FDI thực hiện 17,25 tỷ USD trong 8 tháng hỗ trợ đồng nội tệ, nhập siêu tháng 8 chỉ 113 triệu USD từ 3,57 tỷ USD tháng 7, dư địa giảm sâu."
+      "title": "Thái Lan đề xuất đầu tư KCN 105 triệu USD tại Đà Nẵng",
+      "impact": "↑",
+      "note": "Tập đoàn WHA (Thái Lan) đề xuất xây dựng KCN WHA Đà Nẵng, quy mô 400 ha tại xã Thăng Bình và Đồng Dương (Đà Nẵng), tổng vốn đầu tư dự kiến 2.709 tỷ đồng (tương đương 105 triệu USD). Ưu tiên các ngành ô tô, cơ khí, điện, điện tử, logistics, thân thiện môi trường. Tín hiệu tích cực về dòng FDI và phát triển hạ tầng công nghiệp."
     },
     {
       "title": "Thủ tướng đơn giản quy trình giải thể, phá sản doanh nghiệp",
