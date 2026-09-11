@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Áp lực lạm phát và lãi suất gia tăng từ phương Tây (ECB nâng lãi suất lên 2,5%, dự báo lạm phát eurozone 2,5% năm 2027) kết hợp giá dầu vọt lên 107 USD/thùng do chiến tranh Mỹ-Iran kéo dài, khiến chứng khoán Mỹ giảm 4 phiên liên tiếp. Tuy nhiên, Việt Nam được hỗ trợ bởi FDI đăng ký tăng 55,4% (40,6 tỷ USD trong 8 tháng), đồng nội tệ mạnh (USD/VND giảm 1,5%), kinh tế tăng toàn diện (IIP +11,9%, xuất khẩu +22,4%), và dòng vốn sắp tăng từ chỉ số FTSE GEIS từ 21/9.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực từ tác động toàn cầu: ECB nâng lãi suất lên 2,5%, dự báo lạm phát eurozone 2,5%, giá dầu Brent vọt 6,34% lên 107,63 USD/thùng do chiến tranh Mỹ-Iran kéo dài, khiến chứng khoán Mỹ giảm 4 phiên liên tiếp. Tuy nhiên, yếu tố địa phương tích cực: FDI chiếm 80,1% xuất khẩu (tăng 27%), đồng VND tăng giá (USD/VND -1,5% xuống 25.900 đồng) nhờ FDI thực hiện 17,25 tỷ USD 8 tháng, nhập siêu thu hẹp chỉ 113 triệu USD tháng 8. Dòng vốn dự kiến tăng khi FTSE GEIS có hiệu lực từ 21/9 với quy mô 2,3 tỷ USD.",
   "top": [
     {
-      "title": "ECB tăng lãi suất 25 bps, cảnh báo lạm phát cao kéo dài",
+      "title": "Chứng khoán Mỹ giảm 4 phiên, dầu tăng 6%",
       "impact": "↓",
-      "note": "ECB nâng lãi suất từ 2,25% lên 2,5% ngày 10/9; dự báo lạm phát eurozone 2,5% năm 2027 (tăng 0,2% so với dự báo trước); lợi suất trái phiếu Đức 10 năm tăng lên 3,5%; áp lực tăng lãi suất toàn cầu sẽ gia tăng sức ép lên định giá cổ phiếu."
+      "note": "Dow Jones -0,6% (52.064,1 điểm), S&P 500 -0,58% (7.591,7 điểm), Nasdaq -0,65% (26.081,72 điểm); dầu Brent +6,34% lên 107,63 USD/thùng, dầu WTI +6,69% lên 102,48 USD/thùng do chiến tranh Mỹ-Iran kéo dài, PPI Mỹ tháng 8 tăng 0,4%."
     },
     {
-      "title": "Dầu thô tăng vọt hơn 6%, WTI vượt 100 USD lần đầu từ tháng 5",
+      "title": "ECB tăng lãi suất lên 2,5%, cảnh báo lạm phát cao kéo dài",
       "impact": "↓",
-      "note": "Dầu Brent tăng 6,34% lên 107,63 USD/thùng; dầu WTI tăng 6,69% lên 102,48 USD/thùng; từ khi chiến tranh Mỹ-Iran bắt đầu cuối tháng 2, dầu WTI tăng 52,9% (từ đầu năm tăng 78,5%); giá năng lượng cao kéo theo lạm phát toàn cầu."
+      "note": "ECB nâng lãi suất tiền gửi từ 2,25% lên 2,5% ngày 10/9, dự báo lạm phát eurozone 2,5% năm tới (tăng 0,2 điểm % so với dự báo trước); lợi suất trái phiếu chính phủ Đức kỳ hạn 10 năm tăng lên 3,5% do căng thẳng Trung Đông đẩy giá năng lượng cao."
     },
     {
-      "title": "Chứng khoán Mỹ giảm 4 phiên, S&P 500 mất 0,58%, Nasdaq mất 0,65%",
-      "impact": "↓",
-      "note": "Dow Jones giảm 316,56 điểm (-0,6%) còn 52.064,1; S&P 500 giảm 0,58% còn 7.591,7; Nasdaq giảm 0,65% còn 26.081,72; bán tháo lợi suất trái phiếu Mỹ tạo sức ép mạnh lên định giá công nghệ; rủi ro truyền tải tới các thị trường mới nổi."
-    },
-    {
-      "title": "FDI vốn đăng ký tăng 55,4%, vốn giải ngân tăng 12% trong 8 tháng",
+      "title": "USD/VND giảm 1,5% xuống 25.900 đồng, sát đáy một năm",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 8 tháng đầu năm 2026 tăng 55,4% lên 40,6 tỷ USD; vốn giải ngân tăng 12% đạt 17,25 tỷ USD; tác động tích cực đến nguồn cung ngoại tệ, cân bằng thương mại, và triển vọng tăng trưởng kinh tế dài hạn."
+      "note": "USD/VND liên ngân hàng giảm 1,5% xuống 25.900 đ/USD từ đầu năm, giá bán USD ngân hàng giảm 1,05% xuống 26.100 đ/USD, đã giảm 4 tháng liên tiếp; phản ánh FDI thực hiện 17,25 tỷ USD 8 tháng, nhập siêu tháng 8 chỉ 113 triệu USD."
     },
     {
-      "title": "USD/VND giảm 1,5% xuống 25.900 đ/USD, sát đáy một năm",
+      "title": "FDI tiến nhanh, doanh nghiệp Việt tụt lại trong xuất khẩu",
       "impact": "↑",
-      "note": "USD/VND liên ngân hàng giảm 1,5% xuống 25.900 đ/USD; giá bán USD ngân hàng giảm 1,05% xuống 26.100 đ/USD; đã giảm 4 tháng liên tiếp; đồng nội tệ mạnh phản ánh cải thiện cân bằng ngoại tệ và tăng tính hấp dẫn của tài sản Việt Nam."
+      "note": "FDI xuất khẩu hơn 300 tỷ USD (tăng 27%), chiếm 80,1% tổng kim ngạch xuất khẩu; doanh nghiệp trong nước hơn 74 tỷ USD (tăng 7,4%), chiếm 19,9%; khoảng cách rộng hơn so với cùng kỳ năm trước."
     },
     {
-      "title": "FTSE GEIS có hiệu lực 21/9, kỳ vọng dòng vốn từ quỹ thụ động",
+      "title": "Ông lớn Thái Lan đề xuất khu công nghiệp 105 triệu USD tại Đà Nẵng",
       "impact": "↑",
-      "note": "Rổ chỉ số FTSE Global Equity Index Series có hiệu lực từ 21/9/2026; kỳ vọng mở dòng vốn từ quỹ đầu tư thụ động mô phỏng chỉ số với quy mô khoảng 10% trong tổng 2,3 tỷ USD; tín hiệu tích cực mở dòng vốn nước ngoài lớn vào thị trường chứng khoán Việt Nam."
+      "note": "Tập đoàn WHA Thái Lan đề xuất đầu tư KCN WHA Đà Nẵng 400 ha (xã Thăng Bình, Đồng Dương, TP Đà Nẵng), tổng vốn 2.709 tỷ đồng (105 triệu USD), thu hút ô tô, cơ khí, điện, điện tử, viễn thông, y tế."
+    },
+    {
+      "title": "Quỹ ETF vàng toàn cầu nắm giữ vàng cao kỷ lục dù giá chưa về đỉnh",
+      "impact": "→",
+      "note": "Lượng vàng ETF đạt 4.186 tấn (28/8), dòng tiền 18 tỷ USD tháng 8 (thứ 2 lịch sử), AUM tăng 16% lên 615 tỷ USD; giá vàng vẫn thấp hơn 20% so với đỉnh, phản ánh kỳ vọng về kinh tế toàn cầu."
     }
   ]
 }
