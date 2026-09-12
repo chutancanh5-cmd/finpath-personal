@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-12",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tuần giao dịch 7-11/9: Áp lực bán lớn từ khối ngoại (777 tỷ đồng) và tự doanh (94 tỷ đồng), tập trung nhóm ngân hàng. Lãi suất liên ngân hàng vẫn cao (qua đêm 1,5%, 1 tháng 5,5%/năm) dù thanh khoản hạ nhiệt. Tích cực: Agribank hỗ trợ tín dụng ưu đãi khoảng 100.000 tỷ đồng cho SMEs công nghiệp chế biến, Quảng Ninh bứt phá lên 15,48%, GDP(PPP) Việt Nam 1.838 tỷ USD vươn hướng top 20 thế giới. Rủi ro: Áp lực bán ngoại, lạm phát dầu tăng 8,7-9,4%.",
+  "summary_vi": "Dữ liệu vĩ mô tuần này cho thấy các tín hiệu tích cực về tăng trưởng dài hạn (GDP(PPP) Việt Nam 2.025 tỷ USD năm 2026, Quảng Ninh hướng 15,48% quý 3) và hỗ trợ tín dụng cho sản xuất, nhưng ngắn hạn thị trường chứng khoán đối mặt áp lực bán ròng lớn từ nhà đầu tư ngoại (777 tỷ đồng ngày 11/09). Lãi suất huy động vẫn neo cao (1 tháng 5,5%/năm) do nhu cầu vốn mạnh, tạo sức ép lên chi phí vốn doanh nghiệp. Giá dầu tăng 8,7-9,4% từ căng thẳng Vùng Vịnh là rủi ro lạm phát ngắn hạn.",
   "top": [
     {
       "title": "Khối ngoại xả mạnh ngân hàng, tự doanh bán ròng",
       "impact": "↓",
-      "note": "Phiên 11/09, khối ngoại bán ròng 777 tỷ đồng, tập trung xả ngân hàng: STB -229 tỷ, MBB -140 tỷ, VPB -123 tỷ. Khối tự doanh cũng bán ròng 94 tỷ đồng. Áp lực bán từ cả hai dòng tiền lớn là tín hiệu tiêu cực."
+      "note": "Phiên 11/09, khối ngoại bán ròng 777 tỷ đồng, tập trung xả ngân hàng: STB -229 tỷ, MBB -140 tỷ, VPB -123 tỷ. Khối tự doanh cũng bán ròng 94 tỷ đồng, tạo áp lực bán ròng từ cả hai dòng tiền lớn."
     },
     {
-      "title": "Lãi suất liên ngân hàng ở mức cao",
+      "title": "Lãi suất liên ngân hàng ở mức cao dù thanh khoản hạ nhiệt",
       "impact": "→",
-      "note": "Lãi suất liên ngân hàng: qua đêm 1,5%, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%/năm. Huy động tăng nhanh hơn tín dụng giúp áp lực thanh khoản hạ nhiệt, nhưng mặt bằng lãi suất vẫn cao do nhu cầu vốn nền kinh tế tăng mạnh."
+      "note": "Lãi suất liên ngân hàng: qua đêm 1,5%, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%/năm. Dù huy động tăng nhanh hơn tín dụng giúp áp lực thanh khoản hạ nhiệt, nhưng mặt bằng lãi suất vẫn cao do nhu cầu vốn nền kinh tế mạnh."
     },
     {
-      "title": "Agribank hỗ trợ tín dụng lớn cho công nghiệp chế biến",
+      "title": "Agribank hỗ trợ tín dụng ưu đãi cho sản xuất",
       "impact": "↑",
-      "note": "Agribank triển khai chính sách tín dụng ưu đãi với quy mô ~100.000 tỷ đồng cho SMEs (ưu tiên ~15.000 tỷ) và ~5.000 tỷ cho FDI. Giảm lãi suất 0,6-0,8%/năm cho ngành công nghiệp chế biến, chế tạo, hỗ trợ các nhà máy phát huy công suất sản xuất."
+      "note": "Agribank triển khai chính sách 2026 với ~100.000 tỷ đồng cho SMEs (ưu tiên ~15.000 tỷ) và ~5.000 tỷ cho FDI, giảm lãi suất 0,6-0,8%/năm cho công nghiệp chế biến chế tạo, tạo điều kiện phát huy công suất sản xuất."
     },
     {
-      "title": "GDP(PPP) Việt Nam vượt qua các nước, hướng top 20 thế giới",
+      "title": "GDP(PPP) Việt Nam 2.025 tỷ USD năm 2026, vượt Thái Lan",
       "impact": "↑",
-      "note": "Năm 2025 GDP(PPP) Việt Nam 1.838 tỷ USD (xếp thứ 24 thế giới, thứ 3 ASEAN). Dự báo 2026 sẽ đạt 2.025 tỷ USD, vượt Thái Lan lên thứ 2 trong ASEAN. Cho thấy tiềm lực kinh tế dài hạn vẫn tích cực."
+      "note": "Năm 2025 GDP(PPP) Việt Nam 1.838 tỷ USD (xếp 24 thế giới, 3 ASEAN), dự báo 2026 đạt 2.025 tỷ USD vượt Thái Lan lên vị trí thứ 2 ASEAN, phản ánh tiềm lực kinh tế dài hạn."
     },
     {
-      "title": "Quảng Ninh bứt phá tăng trưởng quý 3",
+      "title": "Quảng Ninh điều chỉnh kịch bản tăng trưởng quý 3 lên 15,48%",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3 lên 15,48%, mục tiêu 9 tháng 12,56%, cả năm 13,21%. Thành phố tập trung đưa các động lực tăng trưởng trở lại đúng quỹ đạo, nhất là công nghiệp chế biến, chế tạo."
+      "note": "Quảng Ninh điều chỉnh GRDP quý 3 lên 15,48% (9 tháng 12,56%, cả năm 13,21%), tập trung bứt phá công nghiệp chế biến chế tạo để tạo giá trị gia tăng và không gián đoạn chuỗi sản xuất."
     },
     {
-      "title": "Giá dầu tăng 8,7-9,4% do căng thẳng Vùng Vịnh",
+      "title": "Giá dầu tăng 8,7-9,4% do căng thẳng quân sự Vùng Vịnh",
       "impact": "↓",
-      "note": "Tuần 11/9, dầu Brent tăng 8,7%, dầu WTI tăng 9,4% do xung đột quân sự leo thang ở Vùng Vịnh. Giá dầu Brent đóng cửa 104,61 USD/thùng, WTI 100,05 USD/thùng. Áp lực lạm phát từ giá dầu cao là rủi ro tiêu cực cho thị trường."
+      "note": "Tuần này dầu Brent tăng 8,7%, WTI tăng 9,4% lên 104,61 USD/thùng và 100,05 USD/thùng do xung đột quân sự leo thang Vùng Vịnh, tạo rủi ro lạm phát ngắn hạn cho thị trường."
     }
   ]
 }
