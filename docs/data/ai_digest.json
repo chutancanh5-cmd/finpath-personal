@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "VN-Index rơi dưới 1800 điểm do áp lực bán mạnh từ khối ngoại và tự doanh, với lãi suất ngân hàng vẫn cao bất chấp thanh khoản hạ nhiệt. Tuy nhiên, nền kinh tế vĩ mô cho tín hiệu tích cực với GDP(PPP) vượt bậc (xếp 24 thế giới), nhu cầu tuyển dụng cao ở các cực tăng trưởng, và doanh nghiệp lớn vẫn tự tin nâng hạn mức tín dụng. Rủi ro điều chỉnh ngắn hạn cao, nhưng các yếu tố cơ bản hỗ trợ sự phục hồi dài hạn.",
+  "summary_vi": "Thị trường chứng khoán hôm nay chứng kiến áp lực bán mạnh với VN-Index thủng mốc 1800 điểm (xuống 1795), khối ngoại bán ròng 777 tỷ đồng tập trung vào nhóm ngân hàng. Tuy vậy, dữ liệu vĩ mô tích cực cho thấy kinh tế Việt Nam tiếp tục tăng trưởng (GDP PPP đã vượt Hà Lan, Thụy Sỹ) và Quảng Ninh nâng mục tiêu Q3 lên 15,48%. Áp lực thanh khoản hạ nhiệt song lãi suất huy động vẫn cao, tăng chi phí vốn cho doanh nghiệp vay.",
   "top": [
     {
-      "title": "VN-Index thủng 1800, áp lực bán tăng",
+      "title": "VN-Index thủng mốc 1800, giảm 34 điểm",
       "impact": "↓",
-      "note": "VN-Index rơi xuống 1795,21 điểm (giảm 34 điểm), vừa xuyên thủng mốc 1800 quan trọng. Chiều rộng thị trường tiêu cực với 16/18 ngành giảm điểm, Hóa chất giảm mạnh nhất. Phe bán hoàn toàn làm chủ tình hình."
+      "note": "VN-Index giảm xuống 1795,21 điểm, vượt qua ngưỡng 1800 điểm quan trọng. Độ rộng thị trường nghiêng về tiêu cực với 16/18 ngành giảm, khối ngoại bán ròng trên HSX tạo áp lực chốt lời mạnh."
     },
     {
-      "title": "Khối ngoại xả mạnh nhóm ngân hàng",
+      "title": "Khối ngoại bán ròng 777 tỷ, tự doanh cũng bán ròng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 777 tỷ đồng ngày 11/9, tập trung xả STB (229 tỷ), MBB (140 tỷ), VPB (123 tỷ). Khối tự doanh cũng bán ròng 94 tỷ đồng. Dòng tiền đồng thuận xả tại mực cao."
+      "note": "Phiên 11/09, khối ngoại bán ròng 777 tỷ đồng chủ yếu ở nhóm ngân hàng (STB -229 tỷ, MBB -140 tỷ, VPB -123 tỷ), tự doanh bán ròng 94 tỷ. Đây là tín hiệu dòng tiền bán chiếm ưu thế đồng thuận."
     },
     {
-      "title": "Lãi suất huy động neo cao",
+      "title": "GDP(PPP) Việt Nam vượt Hà Lan, Thụy Sỹ, xếp thứ 24 thế giới",
+      "impact": "↑",
+      "note": "Năm 2025, GDP(PPP) Việt Nam đạt 1.838 tỷ USD xếp 24 thế giới. Năm 2026 dự báo 2.025 tỷ USD, sắp vượt Úc, Ba Lan, xếp 2 ASEAN. Phản ánh sức mạnh kinh tế toàn cầu của Việt Nam."
+    },
+    {
+      "title": "Quảng Ninh nâng mục tiêu tăng trưởng Q3 lên 15,48%",
+      "impact": "↑",
+      "note": "Quảng Ninh điều chỉnh GRDP Q3 15,48% nhằm đạt 9 tháng 12,56% và cả năm 13,21%. Ưu tiên công nghiệp chế biến, chế tạo phát huy công suất, tạo giá trị gia tăng cho GRDP."
+    },
+    {
+      "title": "Chủ khu du lịch Đồi Rồng nợ 26.6 nghìn tỷ đồng",
+      "impact": "↓",
+      "note": "Vạn Hương Investoco nợ phải trả 26.6 nghìn tỷ đồng (hơn 1 tỷ USD), gấp 8,78 lần vốn chủ sở hữu. Nửa đầu 2026 lỗ 96 tỷ đồng, lợi nhuận chưa phân phối âm 24 tỷ đồng."
+    },
+    {
+      "title": "Lãi suất huy động neo cao dù thanh khoản hạ nhiệt",
       "impact": "→",
-      "note": "Lãi suất liên ngân hàng: qua đêm 1,5%, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%/năm. Huy động vốn tăng nhanh hơn tín dụng làm áp lực thanh khoản hạ nhiệt, nhưng mặt bằng lãi suất vẫn cao do nhu cầu vốn nền kinh tế tăng mạnh."
-    },
-    {
-      "title": "GDP(PPP) Việt Nam xếp thứ 24 thế giới",
-      "impact": "↑",
-      "note": "GDP(PPP) năm 2025 đạt 1.838 tỷ USD (xếp 24 thế giới, thứ 3 ASEAN). Dự báo năm 2026 đạt 2.025 tỷ USD, sắp vượt Thái Lan thành thứ 2 ASEAN."
-    },
-    {
-      "title": "Nhu cầu lao động cao ở Đồng Nai",
-      "impact": "↑",
-      "note": "Đồng Nai cần hơn 4.000 lao động trong tháng 9/2026, lao động phổ thông chiếm hơn 85%. Cho thấy sản xuất vẫn nóng, doanh nghiệp tiếp tục mở rộng quy mô."
-    },
-    {
-      "title": "DPG phê duyệt hạn mức tín dụng 11.150 tỷ",
-      "impact": "↑",
-      "note": "DPG thông qua hạn mức tín dụng 11,150 tỷ đồng tại 4 ngân hàng: BIDV 5,250 tỷ, Techcombank 2,700 tỷ, NCB 3,100 tỷ, Vietcombank phần còn lại cho giai đoạn 2026-2027."
+      "note": "Lãi suất liên ngân hàng: qua đêm 1,5%, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%/năm. Áp lực thanh khoản giảm do huy động tăng nhanh hơn tín dụng, nhưng lãi suất huy động vẫn cao do nhu cầu vốn mạnh."
     }
   ]
 }
