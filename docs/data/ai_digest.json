@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tuần giao dịch tiêu cực với VN-Index xuyên thủng 1.800 điểm, giảm 57,87 điểm (-3,12%) khi áp lực bán tháo gia tăng trên diện rộng, thanh khoản tăng vọt 41% buổi chiều. Khối ngoại liên tục xả với bán ròng 1.575 tỷ tuần + 777 tỷ ngày 11/9 tập trung vào nhóm ngân hàng, phản ánh rủi ro rút vốn. Cơ cấu kinh tế đáng lo khi FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại 19,9%. Mặc dù GDP(PPP) dự báo tích cực (2.025 tỷ USD 2026), nhưng rủi ro ngắn hạn từ tâm lý thị trường suy yếu vẫn áp đảo.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam gặp sức ép lớn với VN-Index thủng 1.800 điểm, giảm 57,87 điểm (-3,12%) do áp lực bán tháo từ khối ngoại xả bán ròng 1.575 tỷ trong tuần. Doanh nghiệp FDI tăng tốc với 80,1% xuất khẩu trong khi doanh nghiệp nội địa chỉ chiếm 19,9%, phản ánh cấu trúc kinh tế bất cân. Tuy GDP nominal sắp vượt Úc, Ba Lan (2.025 tỷ USD dự báo 2026), rủi ro ngắn hạn từ tâm lý tiêu cực vẫn áp đảo nhà đầu tư.",
   "top": [
     {
-      "title": "VN-Index xuyên thủng 1.800, tuần giảm 3,12%",
+      "title": "VN-Index thủng 1.800, tuần giảm 3,12%",
       "impact": "↓",
-      "note": "VN-Index giảm 57,87 điểm xuống 1.795,21 điểm, HNX-Index giảm 9,85 điểm (-3,49%). Ngày 11/9 chỉ số giảm 1,86%, thanh khoản HoSE tăng 41%, 284 mã giảm giá trong đó 131 mã giảm từ 2% trở lên, VIC/VHM/VCB/BID/TCB/GAS đều đỏ sâu 1,36-2,47%."
+      "note": "VN-Index giảm 57,87 điểm xuống 1.795,21 điểm, HNX-Index giảm 9,85 điểm (-3,49%). Ngày 11/9 chỉ số giảm 1,86% với thanh khoản HoSE tăng 41%, 284 mã giảm giá trong đó 131 mã giảm từ 2%, VIC 1,78%, VHM 1,5%, VCB 1,36%, BID 2,06%, TCB 2,47% giảm."
     },
     {
-      "title": "Khối ngoại bán ròng 1.575 tỷ tuần, ngày 11/9 xả 777 tỷ",
+      "title": "Khối ngoại bán ròng 1.575 tỷ tuần, xả nhóm ngân hàng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 1.638 tỷ HoSE trong tuần 7-11/9. Ngày 11/9 riêng bán ròng 777 tỷ tập trung nhóm ngân hàng: STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ. Khối tự doanh cũng bán ròng 94 tỷ, cho thấy sự thỏa thuận bán mạnh từ cả hai dòng tiền lớn."
+      "note": "Khối ngoại bán ròng 1.638 tỷ HoSE tuần 7-11/9. Ngày 11/9 bán ròng 777 tỷ tập trung ngân hàng: STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ, VHM 94 tỷ. Khối tự doanh cũng bán ròng 94 tỷ, HPG 56 tỷ bị bán sâu nhất."
     },
     {
       "title": "GDP(PPP) Việt Nam 1.838 tỷ USD, sắp vượt Úc, Ba Lan",
       "impact": "↑",
-      "note": "Năm 2025, GDP(PPP) Việt Nam đạt 1.838 tỷ USD, xếp thứ 3 ASEAN và thứ 24 thế giới, vượt Hà Lan (1.350 tỷ USD) và Thụy Sỹ (1.090 tỷ USD). Dự báo 2026 đạt 2.025 tỷ USD, vượt Thái Lan, tiến vào top 20 nền kinh tế lớn nhất thế giới."
+      "note": "Năm 2025 GDP(PPP) VN đạt 1.838 tỷ USD (xếp 3 ASEAN, 24 thế giới), vượt Hà Lan, Thụy Sỹ. IMF dự báo 2026 đạt 2.025 tỷ USD, vượt Thái Lan lên vị trí 2 ASEAN, tiến top 20 nền kinh tế lớn nhất thế giới."
     },
     {
       "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt tụt lại",
       "impact": "↓",
-      "note": "8 tháng 2026, khu vực FDI xuất khẩu hơn 300 tỷ USD tăng 27%, chiếm 80,1% tổng kim ngạch. Doanh nghiệp trong nước chỉ xuất khẩu 74 tỷ USD tăng 7,4%, chiếm 19,9%. Chi phí tuân thủ (hóa đơn điện tử, thuế, ATLĐ) tăng làm khó khăn, tạo nên \"hai nền kinh tế độc lập\"."
+      "note": "8 tháng 2026, FDI xuất khẩu 300 tỷ USD tăng 27% (80,1% tổng), doanh nghiệp nội địa 74 tỷ USD tăng 7,4% (19,9%). Chi phí tuân thủ tăng (hóa đơn điện tử, thuế, ATLĐ) làm tạo \"hai nền kinh tế độc lập\", doanh nghiệp Việt khó tham gia thị trường quốc tế."
     },
     {
-      "title": "VanEck ETF (~520 triệu USD) điều chỉnh danh mục, bán VIC, SSI",
+      "title": "VanEck ETF (~520 triệu USD) cơ cấu danh mục, bán VIC, SSI",
       "impact": "→",
-      "note": "VNM ETF thêm SSB (mua 13,2 triệu cổ phiếu), bán toàn bộ CEO, bán VIC (12 triệu USD tương đương 1,3 triệu cp), bán SSI (3,2 triệu USD tương đương 3,9 triệu cp). Điều chỉnh kết thúc ngày 18/9."
+      "note": "VNM ETF đợt review quý 3 thêm SSB (mua 13,2 triệu cp), bán CEO toàn bộ, bán VIC (12 triệu USD ~ 1,3 triệu cp), bán SSI (3,2 triệu USD ~ 3,9 triệu cp). Mua thêm HPG, VPL. Cơ cấu hoàn thành ngày 18/9."
     },
     {
-      "title": "TPBank tăng vốn 4.161 tỷ, lợi nhuận trước thuế 4.668 tỷ",
-      "impact": "↑",
-      "note": "NHNN chấp thuận TPBank tăng vốn điều lệ 4.161 tỷ lên trên 31.901 tỷ qua phát hành 416 triệu cổ phiếu tỷ lệ 15%. Nửa đầu 2026 lợi nhuận trước thuế 4.668 tỷ, tăng trưởng tín dụng 9,62%, NPL dưới 1,5%."
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ, lỗ 96 tỷ nửa đầu",
+      "impact": "↓",
+      "note": "CTCP Đầu tư Du lịch Vạn Hương (chủ Đồi Rồng) nợ phải trả 26,6 ngàn tỷ đồng (tăng 476 tỷ), lỗ 96 tỷ nửa đầu 2026 (ngược với lãi 226 tỷ cùng kỳ 2025). Nợ tương đương 8,78 lần vốn chủ sở hữu 3 ngàn tỷ, chiếm 90% tổng tài sản."
     }
   ]
 }
