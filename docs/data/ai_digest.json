@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-12",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán VN chịu áp lực từ kỳ vọng Fed tăng lãi suất ngày 16/09 khi lạm phát tăng, dẫn VN-Index rơi dưới 1.800 điểm và gây rủi ro điều chỉnh ngắn hạn. Tuy nhiên, nền kinh tế cơ sở vẫn mạnh với Quảng Ninh hướng tới tăng trưởng 15,48% quý 3 và Việt Nam được dự báo GDP(PPP) 2.025 tỷ USD năm 2026, sắp vượt Thái Lan. Nhóm ngân hàng giữ lãi suất huy động cao (7-7,8%/năm) giữa nhu cầu vốn mạnh, nhưng áp lực từ các doanh nghiệp bất động sản (Dragon Hill lỗ 96 tỷ đồng, nợ 26.6 ngàn tỷ) vẫn tiềm ẩn rủi ro tài chính.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán đang chịu áp lực lớn từ kỳ vọng Fed tăng lãi suất ngày 16/09, khiến VN-Index thủng dưới 1800, khối ngoại xả ròng 777 tỷ đồng. Tuy nhiên, nền tảng kinh tế vĩ mô vẫn ổn định với Quảng Ninh tăng tăng trưởng Q3 lên 15,48%, GDP(PPP) Việt Nam vượt các nước phát triển, và NHNN tiếp tục hỗ trợ tăng trưởng. Ngắn hạn cần chú ý rủi ro điều chỉnh, nhưng dài hạn triển vọng vẫn tích cực.",
   "top": [
     {
-      "title": "Fed sẽ tăng lãi suất trước áp lực lạm phát",
+      "title": "Fed tăng lãi suất 16/09, VN-Index dưới 1800",
       "impact": "↓",
-      "note": "Giới đầu tư nghiêng về khả năng Chủ tịch Fed Kevin Warsh tăng lãi suất tại cuộc họp chính sách ngày 16/09/2026 sau khi số liệu lạm phát mới không xoa dịu lo ngại; VN-Index trải qua tuần giao dịch biến động, rơi xuống dưới 1.800 điểm."
+      "note": "Giới đầu tư kỳ vọng Chủ tịch Fed Kevin Warsh tăng lãi suất tại họp chính sách 16/09. VN-Index rơi xuống 1795,21 điểm, khối ngoại xả ròng 777 tỷ đồng. Áp lực bán gia tăng, phe bán hoàn toàn làm chủ tình hình."
     },
     {
-      "title": "VN-Index thủng mốc 1.800 với áp lực bán mạnh",
+      "title": "VIC, VHM kéo VN-Index thủng 1800",
       "impact": "↓",
-      "note": "VN-Index đóng cửa tại 1.795,21 điểm, giảm 34 điểm; VIC và VHM gây sức ép lớn (lấy đi 20 và 5,4 điểm); 16/18 ngành giảm điểm với ngành Hóa chất giảm mạnh nhất; khối ngoại bán ròng 777 tỷ đồng trên HSX."
+      "note": "VN-Index đóng cửa 1795,21 điểm (-34 điểm). VIC lấy đi 20 điểm, VHM lấy đi 5,4 điểm, cộng loạt cổ phiếu ngân hàng (CTG, TCB, MBB, VPB, LPB, BID) gây áp lực. 16/18 ngành giảm điểm, ngành Hóa chất giảm mạnh nhất."
     },
     {
-      "title": "Quảng Ninh nâng mục tiêu tăng trưởng quý 3 lên 15,48%",
+      "title": "Quảng Ninh tăng tăng trưởng Q3 lên 15,48%",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3 lên 15,48%, hướng tới mục tiêu 12,56% cho 9 tháng và 13,21% cả năm; công nghiệp chế biến, chế tạo tiếp tục là trụ cột tăng trưởng chính."
+      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP Q3 lên 15,48%, hướng tới mục tiêu 12,56% (9 tháng) và 13,21% (cả năm). Công nghiệp chế biến, chế tạo là trụ cột tăng trưởng chính."
     },
     {
-      "title": "Lãi suất huy động ngân hàng neo cao 7-7,8%/năm",
+      "title": "Thống đốc: cơ cấu tài chính phải đa dạng, không chỉ tín dụng",
       "impact": "→",
-      "note": "ACB niêm yết cao nhất 7,8%/năm kỳ hạn 12 tháng, Sacombank 7,5%/năm; 9 ngân hàng áp dụng 7%/năm trở lên; lãi suất vẫn cao dù áp lực thanh khoản hạ nhiệt, phản ánh nhu cầu vốn mạnh của nền kinh tế."
+      "note": "NHNN hỗ trợ cơ cấu phù hợp giữa vốn chủ sở hữu, tín dụng ngân hàng, đầu tư công, PPP, thị trường vốn, ODA. NHNN đã ổn định lãi suất, giảm lãi suất cho vay, hỗ trợ tăng trưởng tín dụng 2 con số."
     },
     {
-      "title": "GDP(PPP) Việt Nam sắp vượt Thái Lan trong khối ASEAN",
+      "title": "GDP(PPP) Việt Nam 1.838 tỷ USD, vượt Hà Lan, Thụy Sỹ",
       "impact": "↑",
-      "note": "GDP(PPP) Việt Nam 1.838 tỷ USD năm 2025 (thứ 3 ASEAN, thứ 24 thế giới); IMF dự báo 2026 đạt 2.025 tỷ USD, vượt Thái Lan (1.963 tỷ), xếp thứ 2 ASEAN chỉ sau Indonesia."
+      "note": "Năm 2025, Việt Nam xếp thứ 3 ASEAN (1.838 tỷ USD), thứ 24 thế giới. Dự báo 2026 đạt 2.025 tỷ USD, vượt Thái Lan (1.963 tỷ USD), tiến vào top 20 nền kinh tế lớn nhất thế giới."
     },
     {
-      "title": "Dragon Hill resort chủ nợ 26.6 ngàn tỷ, lỗ 96 tỷ nửa đầu năm",
-      "impact": "↓",
-      "note": "Văn Hương Investoco (chủ Khu du lịch Đồi Rồng) báo lỗ 96 tỷ đồng H1 2026 (so với lãi 226 tỷ H1 2025); nợ phải trả 26.6 ngàn tỷ đồng (tương đương 1+ tỷ USD), 8,78 lần vốn chủ sở hữu, 90% tổng tài sản."
+      "title": "Lãi suất ngân hàng phân hóa: ACB 7,8%, quốc doanh 6,8%",
+      "impact": "→",
+      "note": "ACB dẫn đầu 7,8%/năm (kỳ hạn 12 tháng), Sacombank 7,5%, LPBank và Saigonbank 7,2%, 9 ngân hàng từ 7%/năm trở lên. Quốc doanh (Agribank, BIDV, Vietcombank, VietinBank) duy trì 6,8%. Cạnh tranh lãi suất huy động gia tăng."
     }
   ]
 }
