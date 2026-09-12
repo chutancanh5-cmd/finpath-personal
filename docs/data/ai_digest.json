@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực bán mạnh từ khối ngoại (1.575 tỷ đồng) trong tuần qua, khiến VN-Index giảm 3,12% xuống 1.795 điểm, đặc biệt nhóm ngân hàng bị xả mạnh. Khả năng Fed tăng lãi suất 87% cuối tháng này làm tăng rủi ro dòng tiền ngoại trên toàn cầu. Doanh nghiệp Việt Nam đang tụt lại trong xuất khẩu khi FDI chiếm 80,1% giá trị kim ngạch. Tuy nhiên, GDP(PPP) Việt Nam đạt 1.838 tỷ USD xếp thứ 24 thế giới, dự báo vượt Thái Lan năm 2026, thể hiện triển vọng kinh tế dài hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực từ lạm phát Mỹ tăng trở lại (CPI tháng 8 tăng 0,4%), khiến Fed có khả năng 87-90% sẽ tăng lãi suất tuần tới. Khối ngoại bán ròng 1.575 tỷ đồng trong tuần, gây áp lực lên chỉ số. Tuy vậy, kinh tế Việt Nam vẫn có tín hiệu tích cực: GDP(PPP) đạt 1.838 tỷ USD, vào top 20 thế giới; giá dầu tăng 9% hỗ trợ ngành dầu khí. Tuy nhiên, thách thức dài hạn nổi bật: doanh nghiệp FDI chiếm 80,1% giá trị xuất khẩu, trong khi doanh nghiệp Việt Nam gặp khó khăn tham gia thị trường quốc tế.",
   "top": [
     {
-      "title": "VN-Index giảm 3,12%, xuyên thủng 1.800 điểm",
+      "title": "Lạm phát Mỹ tăng, Fed sắp tăng lãi suất",
       "impact": "↓",
-      "note": "VN-Index đóng cửa tại 1.795,21 điểm (giảm 57,87 điểm), HNX-Index giảm 9,85 điểm (-3,49%). Phiên 11/9 giảm 1,86% với áp lực bán gia tăng trên diện rộng, VIC gây sức ép hơn 7 điểm."
+      "note": "CPI tháng 8 tăng 0,4% tháng trước, 3,4% năm trước; CPI cơ bản tăng 0,3%, cao nhất kể từ tháng 4. Khả năng Fed tăng lãi suất trong cuộc họp 15-16/9 đã nâng lên 87-90%. Lãi suất cao hơn sẽ khiến VND yếu, dòng vốn nước ngoài quy tập sang những nước có lãi suất cao hơn."
     },
     {
-      "title": "Khối ngoại bán ròng 1.575 tỷ đồng tuần, xả mạnh ngân hàng",
+      "title": "Khối ngoại bán ròng mạnh trong tuần",
       "impact": "↓",
-      "note": "Tuần 7-11/9: khối ngoại bán ròng 1.638 tỷ đồng trên HoSE, ngày 11/9 bán ròng 777 tỷ. STB bị xả 229 tỷ đồng, MBB 140 tỷ, VPB 123 tỷ, VHM 94 tỷ, VCB và HDB cũng chịu áp lực bán ròng."
+      "note": "Khối ngoại bán ròng 1.575 tỷ đồng trong tuần 7-11/9 (bán ròng 1.638 tỷ trên HoSE), tập trung vào nhóm ngân hàng: STB bị xả 229 tỷ, MBB 140 tỷ, VPB 123 tỷ. Áp lực bán ròng liên tục tác động tiêu cực đến chỉ số."
     },
     {
-      "title": "VanEck Vietnam ETF cơ cấu danh mục: bán VIC, SSI",
-      "impact": "→",
-      "note": "VNM ETF (~520 triệu USD) cơ cấu danh mục tuần kết 18/9: bán VIC 12 triệu USD (~1,3 triệu cổ phiếu), SSI 3,2 triệu USD (~3,9 triệu cổ phiếu), CEO toàn bộ, mua SSB 13,2 triệu cổ phiếu."
-    },
-    {
-      "title": "Fed khả năng tăng lãi suất 87% tuần tới",
-      "impact": "↓",
-      "note": "CPI Mỹ tháng 8 tăng 0,4% tháng, 3,4% năm; CPI lõi tăng 0,3% tháng, 2,4% năm. Thị trường tương lai đặt cược 87% Fed tăng lãi suất phiên 15-16/9 (tăng từ 70%), gây áp lực lên tài sản rủi ro toàn cầu."
-    },
-    {
-      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt chỉ 19,9%",
-      "impact": "↓",
-      "note": "8 tháng 2026: FDI xuất khẩu hơn 300 tỷ USD (tăng 27%), doanh nghiệp nội địa 74 tỷ USD (tăng 7,4%). Khoảng cách ngày rộng thêm do doanh nghiệp Việt gặp chi phí tuân thủ cao hơn."
-    },
-    {
-      "title": "GDP(PPP) Việt Nam 1.838 tỷ USD, sắp vượt Thái Lan",
+      "title": "GDP(PPP) Việt Nam vào top 20 thế giới",
       "impact": "↑",
-      "note": "2025: GDP(PPP) Việt Nam 1.838 tỷ USD (thứ 24 thế giới, thứ 3 ASEAN). IMF dự báo 2026 đạt 2.025 tỷ USD, vượt Thái Lan 1.963 tỷ USD, xếp 2 ASEAN, tiến top 20 toàn cầu."
+      "note": "GDP(PPP) Việt Nam năm 2025 đạt 1.838 tỷ USD (thứ 24 thế giới). Năm 2026 dự báo đạt 2.025 tỷ USD, sẽ vượt Thái Lan (1.963 tỷ USD), xếp thứ hai ASEAN. Tín hiệu tích cực cho triển vọng kinh tế dài hạn."
+    },
+    {
+      "title": "Giá dầu tăng 9% trong tuần do xung đột",
+      "impact": "↑",
+      "note": "Giá dầu Brent tăng 8,7%, WTI tăng 9,4% trong tuần do xung đột quân sự leo thang ở Vùng Vịnh, nhưng giảm 2,8-2,4% phiên cuối khi Iran báo có nỗ lực ngoại giao. Tích cực cho các doanh nghiệp dầu khí Việt Nam."
+    },
+    {
+      "title": "FDI chiếm 80% giá trị xuất khẩu, doanh nghiệp Việt tụt lại",
+      "impact": "↓",
+      "note": "Trong 8 tháng, khu vực FDI xuất khẩu 300 tỷ USD (tăng 27%, chiếm 80,1%), khu vực trong nước chỉ 74 tỷ USD (tăng 7,4%, chiếm 19,9%). Khoảng cách ngày rộng thêm so với 2025, cho thấy doanh nghiệp Việt gặp khó khăn với các tiêu chuẩn hóa đơn điện tử, thuế, an toàn lao động."
+    },
+    {
+      "title": "ETF VNM 520 triệu USD cơ cấu danh mục quý 3",
+      "impact": "→",
+      "note": "VanEck Vectors Vietnam ETF (VNM) thêm SSB, dự mua 13,2 triệu cổ phiếu; mua thêm HPG, VPL. Bán toàn bộ CEO; bán mạnh VIC (1,3 triệu cổ phiếu) và SSI (3,9 triệu cổ phiếu). Hoạt động cơ cấu kết thúc phiên 18/9. Tác động cấu trúc về giao dịch."
     }
   ]
 }
