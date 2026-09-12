@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-12",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực giảm khi VN-Index xuyên thủng 1800 điểm và khối ngoại bán ròng 777 tỷ, tuy nhiên nền kinh tế vĩ mô ghi nhận tín hiệu khởi sắc với GDP(PPP) Việt Nam đạt 1.838 tỷ USD vượt Hà Lan, Thụy Sỹ, Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15,48%, và Agribank đẩy mạnh tín dụng ưu đãi cho công nghiệp chế biến. Lãi suất huy động vẫn ở mức cao (1,5%-5,5%) mặc dù áp lực thanh khoản giảm bớt.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "VN-Index rơi dưới 1800 điểm do áp lực bán mạnh từ khối ngoại và tự doanh, với lãi suất ngân hàng vẫn cao bất chấp thanh khoản hạ nhiệt. Tuy nhiên, nền kinh tế vĩ mô cho tín hiệu tích cực với GDP(PPP) vượt bậc (xếp 24 thế giới), nhu cầu tuyển dụng cao ở các cực tăng trưởng, và doanh nghiệp lớn vẫn tự tin nâng hạn mức tín dụng. Rủi ro điều chỉnh ngắn hạn cao, nhưng các yếu tố cơ bản hỗ trợ sự phục hồi dài hạn.",
   "top": [
     {
-      "title": "VN-Index xuyên thủng 1800 điểm",
+      "title": "VN-Index thủng 1800, áp lực bán tăng",
       "impact": "↓",
-      "note": "VN-Index giảm 34 điểm xuống 1795,21, xuyên thủng ngưỡng 1800, với 16/18 ngành giảm điểm, lực bán gia tăng từ nửa cuối phiên chiều."
+      "note": "VN-Index rơi xuống 1795,21 điểm (giảm 34 điểm), vừa xuyên thủng mốc 1800 quan trọng. Chiều rộng thị trường tiêu cực với 16/18 ngành giảm điểm, Hóa chất giảm mạnh nhất. Phe bán hoàn toàn làm chủ tình hình."
     },
     {
-      "title": "GDP(PPP) Việt Nam vượt Hà Lan, Thụy Sỹ",
-      "impact": "↑",
-      "note": "Năm 2025, GDP(PPP) Việt Nam đạt 1.838 tỷ USD, xếp 24 thế giới, thứ 3 ASEAN, vượt Hà Lan và Thụy Sỹ; 2026 dự báo 2.025 tỷ USD vượt Thái Lan."
-    },
-    {
-      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15,48%",
-      "impact": "↑",
-      "note": "Quảng Ninh nâng mục tiêu GRDP Q3/2026 lên 15,48%, hướng tới 12,56% cả 9 tháng và 13,21% cả năm, tập trung bứt phá công nghiệp chế biến, chế tạo."
-    },
-    {
-      "title": "Agribank đẩy mạnh tín dụng ưu đãi công nghiệp",
-      "impact": "↑",
-      "note": "Agribank triển khai chính sách 2026 với quy mô SMEs 100.000 tỷ (dành 15.000 tỷ ưu tiên), FDI 5.000 tỷ + 100 triệu USD, giảm lãi suất 0,6%-0,8%/năm, duy trì suốt thời hạn vay."
-    },
-    {
-      "title": "Khối ngoại xả 777 tỷ, tự doanh bán ròng",
+      "title": "Khối ngoại xả mạnh nhóm ngân hàng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 777 tỷ đồng ngày 11/9 tập trung xả ngân hàng (STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ), tự doanh bán ròng 94 tỷ đồng."
+      "note": "Khối ngoại bán ròng 777 tỷ đồng ngày 11/9, tập trung xả STB (229 tỷ), MBB (140 tỷ), VPB (123 tỷ). Khối tự doanh cũng bán ròng 94 tỷ đồng. Dòng tiền đồng thuận xả tại mực cao."
     },
     {
-      "title": "Lãi suất huy động neo cao 1,5%-5,5%",
+      "title": "Lãi suất huy động neo cao",
       "impact": "→",
-      "note": "Lãi suất liên ngân hàng: qua đêm 1,5%/năm, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%; hạ nhiệt nhưng vẫn cao do nhu cầu vốn nền kinh tế tăng mạnh."
+      "note": "Lãi suất liên ngân hàng: qua đêm 1,5%, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%/năm. Huy động vốn tăng nhanh hơn tín dụng làm áp lực thanh khoản hạ nhiệt, nhưng mặt bằng lãi suất vẫn cao do nhu cầu vốn nền kinh tế tăng mạnh."
+    },
+    {
+      "title": "GDP(PPP) Việt Nam xếp thứ 24 thế giới",
+      "impact": "↑",
+      "note": "GDP(PPP) năm 2025 đạt 1.838 tỷ USD (xếp 24 thế giới, thứ 3 ASEAN). Dự báo năm 2026 đạt 2.025 tỷ USD, sắp vượt Thái Lan thành thứ 2 ASEAN."
+    },
+    {
+      "title": "Nhu cầu lao động cao ở Đồng Nai",
+      "impact": "↑",
+      "note": "Đồng Nai cần hơn 4.000 lao động trong tháng 9/2026, lao động phổ thông chiếm hơn 85%. Cho thấy sản xuất vẫn nóng, doanh nghiệp tiếp tục mở rộng quy mô."
+    },
+    {
+      "title": "DPG phê duyệt hạn mức tín dụng 11.150 tỷ",
+      "impact": "↑",
+      "note": "DPG thông qua hạn mức tín dụng 11,150 tỷ đồng tại 4 ngân hàng: BIDV 5,250 tỷ, Techcombank 2,700 tỷ, NCB 3,100 tỷ, Vietcombank phần còn lại cho giai đoạn 2026-2027."
     }
   ]
 }
