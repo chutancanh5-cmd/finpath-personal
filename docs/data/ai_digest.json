@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-12",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dữ liệu vĩ mô tuần này cho thấy các tín hiệu tích cực về tăng trưởng dài hạn (GDP(PPP) Việt Nam 2.025 tỷ USD năm 2026, Quảng Ninh hướng 15,48% quý 3) và hỗ trợ tín dụng cho sản xuất, nhưng ngắn hạn thị trường chứng khoán đối mặt áp lực bán ròng lớn từ nhà đầu tư ngoại (777 tỷ đồng ngày 11/09). Lãi suất huy động vẫn neo cao (1 tháng 5,5%/năm) do nhu cầu vốn mạnh, tạo sức ép lên chi phí vốn doanh nghiệp. Giá dầu tăng 8,7-9,4% từ căng thẳng Vùng Vịnh là rủi ro lạm phát ngắn hạn.",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục tăng trưởng vững (GDP PPP vượt top 20 thế giới, Quảng Ninh điều chỉnh GRDP 15,48%), hệ thống ngân hàng giảm áp lực thanh khoản khi huy động vốn tăng nhanh. Tuy nhiên, khối ngoại xả mạnh nhóm ngân hàng (777 tỷ đồng), giá vàng giảm sâu và các quỹ tự bảo thủ cho thấy lo ngại rủi ro từ chứng khoán toàn cầu kéo dài.",
   "top": [
     {
-      "title": "Khối ngoại xả mạnh ngân hàng, tự doanh bán ròng",
+      "title": "GDP(PPP) Việt Nam vượt Hà Lan, Thụy Sỹ, tiến top 20 thế giới",
+      "impact": "↑",
+      "note": "Năm 2025, GDP(PPP) Việt Nam đạt 1.838 tỷ USD (top 24 thế giới, top 3 ASEAN). Năm 2026 dự báo 2.025 tỷ USD, vượt Thái Lan để xếp top 2 ASEAN. Tăng trưởng kinh tế vững chắc nâng vị thế quốc tế, tạo dư địa cho thị trường chứng khoán dài hạn."
+    },
+    {
+      "title": "Quảng Ninh điều chỉnh GRDP quý 3 lên 15,48%",
+      "impact": "↑",
+      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng quý 3/2026 từ 15,41% lên 15,48%, mục tiêu 9 tháng 12,56% và cả năm 13,21%. Công nghiệp chế biến, chế tạo là trụ cột, cho thấy cực tăng trưởng phía Bắc duy trì động lực mạnh mẽ."
+    },
+    {
+      "title": "Agribank hỗ trợ tín dụng ưu đãi công nghiệp chế biến, chế tạo",
+      "impact": "↑",
+      "note": "Agribank triển khai chính sách năm 2026 với quy mô giải ngân lớn (~5.000 tỷ FDI, 100.000 tỷ SMEs), giảm lãi suất 0,6-0,8%/năm cho ngành chế biến, chế tạo. Duy trì mức lãi ưu đãi suốt thời hạn vay giúp doanh nghiệp chủ động hoạch định tài chính."
+    },
+    {
+      "title": "Khối ngoại xả 777 tỷ nhóm ngân hàng, áp lực bán ròng mạnh",
       "impact": "↓",
-      "note": "Phiên 11/09, khối ngoại bán ròng 777 tỷ đồng, tập trung xả ngân hàng: STB -229 tỷ, MBB -140 tỷ, VPB -123 tỷ. Khối tự doanh cũng bán ròng 94 tỷ đồng, tạo áp lực bán ròng từ cả hai dòng tiền lớn."
+      "note": "Phiên 11/09, khối ngoại bán ròng 777 tỷ tập trung vào ngân hàng: STB -229 tỷ, MBB -140 tỷ, VPB -123 tỷ. Khối tự doanh cũng bán ròng 94 tỷ. Dấu hiệu lo ngại rủi ro toàn cầu, kéo áp lực lên thị trường chứng khoán trong ngắn hạn."
     },
     {
-      "title": "Lãi suất liên ngân hàng ở mức cao dù thanh khoản hạ nhiệt",
-      "impact": "→",
-      "note": "Lãi suất liên ngân hàng: qua đêm 1,5%, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%/năm. Dù huy động tăng nhanh hơn tín dụng giúp áp lực thanh khoản hạ nhiệt, nhưng mặt bằng lãi suất vẫn cao do nhu cầu vốn nền kinh tế mạnh."
-    },
-    {
-      "title": "Agribank hỗ trợ tín dụng ưu đãi cho sản xuất",
+      "title": "Lãi suất huy động hạ nhiệt, áp lực thanh khoản giảm",
       "impact": "↑",
-      "note": "Agribank triển khai chính sách 2026 với ~100.000 tỷ đồng cho SMEs (ưu tiên ~15.000 tỷ) và ~5.000 tỷ cho FDI, giảm lãi suất 0,6-0,8%/năm cho công nghiệp chế biến chế tạo, tạo điều kiện phát huy công suất sản xuất."
+      "note": "Huy động vốn tăng nhanh hơn tín dụng giúp áp lực thanh khoản hệ thống giảm. Lãi suất liên ngân hàng hạ nhiệt: qua đêm 1,5%, 1 tháng 5,5%/năm. Thị trường bình ổn sau kỳ nghỉ 2/9, cải thiện khả năng tiếp cận vốn của doanh nghiệp."
     },
     {
-      "title": "GDP(PPP) Việt Nam 2.025 tỷ USD năm 2026, vượt Thái Lan",
-      "impact": "↑",
-      "note": "Năm 2025 GDP(PPP) Việt Nam 1.838 tỷ USD (xếp 24 thế giới, 3 ASEAN), dự báo 2026 đạt 2.025 tỷ USD vượt Thái Lan lên vị trí thứ 2 ASEAN, phản ánh tiềm lực kinh tế dài hạn."
-    },
-    {
-      "title": "Quảng Ninh điều chỉnh kịch bản tăng trưởng quý 3 lên 15,48%",
-      "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh GRDP quý 3 lên 15,48% (9 tháng 12,56%, cả năm 13,21%), tập trung bứt phá công nghiệp chế biến chế tạo để tạo giá trị gia tăng và không gián đoạn chuỗi sản xuất."
-    },
-    {
-      "title": "Giá dầu tăng 8,7-9,4% do căng thẳng quân sự Vùng Vịnh",
+      "title": "Giá vàng miếng giảm 3,1 triệu/lượng trong 1 tuần",
       "impact": "↓",
-      "note": "Tuần này dầu Brent tăng 8,7%, WTI tăng 9,4% lên 104,61 USD/thùng và 100,05 USD/thùng do xung đột quân sự leo thang Vùng Vịnh, tạo rủi ro lạm phát ngắn hạn cho thị trường."
+      "note": "Giá vàng miếng SJC giảm từ 149,1 triệu xuống 146 triệu đồng/lượng, lỗ cho nhà đầu tư 6,1 triệu/lượng khi tính chênh mua-bán. Dấu hiệu nhà đầu tư rút vốn khỏi tài sản truyền thống, lo ngại rủi ro chứng khoán toàn cầu."
     }
   ]
 }
