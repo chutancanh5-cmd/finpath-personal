@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-12",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán ghi nhận áp lực bán mạnh khi VN-Index thủng mốc 1800 điểm, khối ngoại xả ròng 777 tỷ đồng tập trung vào ngành ngân hàng. Lãi suất huy động neo cao (1,5%-5,5%) làm tăng chi phí tài chính doanh nghiệp. Tuy nhiên nền kinh tế vĩ mô có dấu hiệu tích cực: GDP(PPP) Việt Nam 1.838 tỷ USD xếp 24 thế giới, Agribank hỗ trợ công nghiệp chế biến với giảm lãi suất. Nhà đầu tư cần cân bằng rủi ro ngắn hạn với cơ hội tín dụng ưu đãi.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực giảm khi VN-Index xuyên thủng 1800 điểm và khối ngoại bán ròng 777 tỷ, tuy nhiên nền kinh tế vĩ mô ghi nhận tín hiệu khởi sắc với GDP(PPP) Việt Nam đạt 1.838 tỷ USD vượt Hà Lan, Thụy Sỹ, Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15,48%, và Agribank đẩy mạnh tín dụng ưu đãi cho công nghiệp chế biến. Lãi suất huy động vẫn ở mức cao (1,5%-5,5%) mặc dù áp lực thanh khoản giảm bớt.",
   "top": [
     {
-      "title": "VN-Index thủng mốc 1800 điểm",
+      "title": "VN-Index xuyên thủng 1800 điểm",
       "impact": "↓",
-      "note": "VN-Index xuống 1795,21 điểm, giảm hơn 34 điểm; thủng ngưỡng hỗ trợ 1800, lực bán gia tăng từ chiều; 16/18 ngành giảm điểm."
+      "note": "VN-Index giảm 34 điểm xuống 1795,21, xuyên thủng ngưỡng 1800, với 16/18 ngành giảm điểm, lực bán gia tăng từ nửa cuối phiên chiều."
     },
     {
-      "title": "Khối ngoại bán ròng 777 tỷ, xả mạnh ngân hàng",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 777 tỷ đồng ngày 11/9, tập trung xả nhóm ngân hàng: STB bị xả 229 tỷ, MBB rút 140 tỷ, VPB rút 123 tỷ đồng."
-    },
-    {
-      "title": "Lãi suất huy động tăng mạnh 1,5%-5,5%",
-      "impact": "↓",
-      "note": "Lãi suất liên ngân hàng sau kỳ nghỉ 2/9: qua đêm 1,5%, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%/năm; chi phí tài chính doanh nghiệp tăng."
-    },
-    {
-      "title": "Vạn Hương nợ 26,6 ngàn tỷ, lỗ 96 tỷ",
-      "impact": "↓",
-      "note": "Chủ dự án Đồi Rồng nợ phải trả 26,6 ngàn tỷ đồng (hơn 1 tỷ USD) cuối tháng 6, nửa đầu 2026 lỗ 96 tỷ; nợ 8,78 lần vốn chủ sở hữu."
-    },
-    {
-      "title": "GDP(PPP) Việt Nam 1.838 tỷ USD",
+      "title": "GDP(PPP) Việt Nam vượt Hà Lan, Thụy Sỹ",
       "impact": "↑",
-      "note": "GDP(PPP) 2025 đạt 1.838 tỷ USD, xếp 24 thế giới, thứ 3 ASEAN, vượt Hà Lan và Thụy Sỹ; 2026 dự báo 2.025 tỷ USD vượt Thái Lan."
+      "note": "Năm 2025, GDP(PPP) Việt Nam đạt 1.838 tỷ USD, xếp 24 thế giới, thứ 3 ASEAN, vượt Hà Lan và Thụy Sỹ; 2026 dự báo 2.025 tỷ USD vượt Thái Lan."
     },
     {
-      "title": "Agribank hỗ trợ công nghiệp chế biến 2026",
+      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15,48%",
       "impact": "↑",
-      "note": "Agribank triển khai chính sách năm 2026: gói SMEs 100.000 tỷ (dành 15.000 tỷ ưu tiên), gói FDI 5.000 tỷ + 100 triệu USD; giảm lãi suất 0,6-0,8%/năm cho FDI."
+      "note": "Quảng Ninh nâng mục tiêu GRDP Q3/2026 lên 15,48%, hướng tới 12,56% cả 9 tháng và 13,21% cả năm, tập trung bứt phá công nghiệp chế biến, chế tạo."
+    },
+    {
+      "title": "Agribank đẩy mạnh tín dụng ưu đãi công nghiệp",
+      "impact": "↑",
+      "note": "Agribank triển khai chính sách 2026 với quy mô SMEs 100.000 tỷ (dành 15.000 tỷ ưu tiên), FDI 5.000 tỷ + 100 triệu USD, giảm lãi suất 0,6%-0,8%/năm, duy trì suốt thời hạn vay."
+    },
+    {
+      "title": "Khối ngoại xả 777 tỷ, tự doanh bán ròng",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 777 tỷ đồng ngày 11/9 tập trung xả ngân hàng (STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ), tự doanh bán ròng 94 tỷ đồng."
+    },
+    {
+      "title": "Lãi suất huy động neo cao 1,5%-5,5%",
+      "impact": "→",
+      "note": "Lãi suất liên ngân hàng: qua đêm 1,5%/năm, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%; hạ nhiệt nhưng vẫn cao do nhu cầu vốn nền kinh tế tăng mạnh."
     }
   ]
 }
