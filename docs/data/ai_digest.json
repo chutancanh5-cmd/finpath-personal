@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Tuần giao dịch chịu áp lực bán ròng mạnh từ khối ngoại (1.575 tỷ đồng), tập trung xả nhóm ngân hàng, kết hợp rủi ro macro khi CPI Mỹ tháng 8 tăng 0,4% tháng, Fed bất đồng về tăng lãi suất. Xuất khẩu bất lợi khi FDI chiếm 80,1% giá trị (300 tỷ USD, tăng 27%) trong khi doanh nghiệp Việt chỉ 19,9% (74 tỷ USD, tăng 7,4%), doanh nghiệp trong nước gặp khó khăn cạnh tranh. Lạm phát toàn cầu leo thang khi giá dầu tăng 9% do xung đột Vùng Vịnh. Tích cực là GDP(PPP) Việt Nam 2025 = 1.838 tỷ USD (thứ 24 thế giới), 2026 dự báo 2.025 tỷ USD vào top 20.",
+  "summary_vi": "Tuần giao dịch chịu áp lực bán ròng từ khối ngoại (1.575 tỷ đồng trên HoSE), lạm phát Mỹ gia tăng (CPI +0.4% tháng 8) tăng kỳ vọng Fed tăng lãi suất làm rủi ro tăng chi phí vốn. Cấu trúc xuất khẩu bất lợi khi FDI chiếm 80.1% giá trị (300 tỷ USD) còn doanh nghiệp Việt chỉ 19.9% (74 tỷ USD), khiến các doanh nghiệp trong nước tụt lại trong cuộc đua. Tích cực hơn là GDP(PPP) Việt Nam đạt 1.838 tỷ USD năm 2025 (thứ 24 thế giới) và dự báo 2.025 tỷ USD năm 2026 sắp vào top 20.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 1.575 tỷ đồng tuần 7-11/9, xả nhóm ngân hàng",
+      "title": "Khối ngoại bán ròng 1.575 tỷ đồng HoSE tuần 7-11/9",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 1.575 tỷ đồng tuần 7-11/9 (trên HoSE 1.638 tỷ), tập trung xả STB (229 tỷ), MBB (140 tỷ), VPB (123 tỷ), và các mã bluechip VHM, VNM, VCI, HDB bị áp lực 49-94 tỷ đồng. Ngược chiều, khối tự doanh cũng bán ròng 94 tỷ đồng."
+      "note": "Khối ngoại bán ròng 1.575 tỷ đồng trên HoSE, bán 22 tỷ HNX, mua 85 tỷ UPCoM. Nhóm ngân hàng bị xả mạnh (STB -229 tỷ, MBB -140 tỷ, VPB -123 tỷ). Ngày 11/9 riêng bán ròng 777 tỷ đồng. VN-Index giảm 57.87 điểm (-3.12%) tuần này xuống 1.795.21 điểm."
     },
     {
-      "title": "CPI Mỹ tăng 0,4% tháng 8, Fed bất đồng tăng lãi suất",
+      "title": "CPI Mỹ tháng 8 tăng 0.4%, lạm phát cơ bản tăng tốc",
       "impact": "↓",
-      "note": "CPI Mỹ tháng 8 tăng 0,4% tháng (từ +0,1% tháng 7), tăng 3,4% năm, nguyên nhân chủ yếu từ giá xăng tăng 3,9% chiếm hơn 1/3 mức tăng. CPI cơ bản tăng 0,3% tháng, mức cao nhất kể từ tháng 4. Giới chuyên gia vẫn bất đồng quan điểm về Fed tăng lãi suất tuần tới."
+      "note": "CPI Mỹ tháng 8 tăng 0.4% tháng/tháng (so với +0.1% tháng 7), CPI cơ bản tăng 0.3% (cao nhất kể từ tháng 4, so với dự báo 0.2%). Lạm phát năm tăng 3.4%, giá xăng vọt 3.9%. Thị trường nâng kỳ vọng Fed tăng lãi suất tuần tới lên 87%."
     },
     {
-      "title": "FDI chiếm 80,1% xuất khẩu 8 tháng, doanh nghiệp Việt tụt lại",
+      "title": "FDI xuất khẩu 300 tỷ USD (80.1%), doanh nghiệp Việt tụt lại",
       "impact": "↓",
-      "note": "8 tháng qua, khối FDI xuất khẩu hơn 300 tỷ USD (+27%), chiếm 80,1% tổng kim ngạch. Doanh nghiệp trong nước xuất khẩu 74 tỷ USD (+7,4%), chiếm 19,9%, khoảng cách ngày rộng thêm. DNV gặp khó khăn do yêu cầu hóa đơn điện tử, thuế, an toàn lao động làm tăng chi phí tuân thủ."
+      "note": "Khối FDI 8 tháng 2026 xuất khẩu hơn 300 tỷ USD tăng 27%, chiếm 80.1% tổng kim ngạch. Doanh nghiệp trong nước chỉ 74 tỷ USD tăng 7.4% (19.9%). Khoảng cách rộng thêm so với cùng kỳ 2025, do doanh nghiệp Việt gặp khó khăn hóa đơn điện tử, thuế, tiêu chuẩn lao động."
     },
     {
-      "title": "Giá dầu tăng 8,7-9,4% tuần này do xung đột Vùng Vịnh",
+      "title": "Vạn Hương (Đồi Rồng) nợ 26.6 ngàn tỷ đồng, H1 lỗ 96 tỷ",
       "impact": "↓",
-      "note": "Dầu Brent tăng 8,7% tuần (chốt 104,61 USD/thùng), dầu WTI tăng 9,4% (chốt 100,05 USD/thùng) vì xung đột quân sự Vùng Vịnh leo thang. Iran đề nghị đàm phán tại Oman về eo biển Hormuz, nhưng giá dầu cao tạo áp lực lạm phát, kéo lãi suất toàn cầu tăng."
+      "note": "CTCP Đầu tư Du lịch Vạn Hương cuối tháng 6 có 26.6 ngàn tỷ đồng nợ phải trả (tăng 476 tỷ so với đầu năm), tương đương 8.78 lần vốn chủ sở hữu. Nửa đầu 2026 lỗ 96 tỷ đồng (cùng kỳ 2025 lãi 226 tỷ). LNST chưa phân phối âm 24 tỷ đồng."
     },
     {
-      "title": "GDP(PPP) Việt Nam 2025 = 1.838 tỷ USD (thứ 24 thế giới, thứ 3 ASEAN)",
+      "title": "GDP(PPP) Việt Nam 1.838 tỷ USD, vượt Hà Lan Thụy Sỹ",
       "impact": "↑",
-      "note": "Theo IMF, GDP(PPP) Việt Nam 2025 = 1.838 tỷ USD, xếp thứ 24 thế giới, thứ 3 ASEAN (sau Indonesia 5.047 tỷ USD, Thái Lan 1.880 tỷ USD), vượt Hà Lan, Thụy Sỹ. Năm 2026 dự báo đạt 2.025 tỷ USD, vượt Thái Lan xếp thứ 2 ASEAN, tiến vào top 20 nền kinh tế lớn nhất thế giới."
+      "note": "Năm 2025, GDP(PPP) Việt Nam 1.838 tỷ USD xếp thứ 24 thế giới, thứ 3 ASEAN (sau Indonesia 5.047 tỷ, Thái Lan 1.880 tỷ). Năm 2026 dự báo 2.025 tỷ USD vượt Thái Lan xếp thứ 2 ASEAN, tiến vào top 20 nền kinh tế lớn nhất thế giới."
     },
     {
-      "title": "Quảng Ninh nâng mục tiêu tăng trưởng Q3 2026 lên 15,48%",
+      "title": "Quảng Ninh điều chỉnh GRDP Q3 lên 15.48%, cả năm 13.21%",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3/2026 lên 15,48%, hướng tới mục tiêu 9 tháng 12,56% và cả năm 13,21%. Công nghiệp chế biến, chế tạo là trụ cột, tập trung đưa các động lực tăng trưởng trở lại đúng quỹ đạo và bứt phá ở những lĩnh vực có khả năng tăng tốc."
+      "note": "Thành phố Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3 lên 15.48%, hướng tới 12.56% cho 9 tháng và 13.21% cả năm. Công nghiệp chế biến, chế tạo là trụ cột, ưu tiên tạo điều kiện nhà máy phát huy công suất để tạo giá trị gia tăng trực tiếp."
     }
   ]
 }
