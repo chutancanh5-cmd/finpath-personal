@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-12",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam tiếp tục tăng trưởng vững (GDP PPP vượt top 20 thế giới, Quảng Ninh điều chỉnh GRDP 15,48%), hệ thống ngân hàng giảm áp lực thanh khoản khi huy động vốn tăng nhanh. Tuy nhiên, khối ngoại xả mạnh nhóm ngân hàng (777 tỷ đồng), giá vàng giảm sâu và các quỹ tự bảo thủ cho thấy lo ngại rủi ro từ chứng khoán toàn cầu kéo dài.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán ghi nhận áp lực bán mạnh khi VN-Index thủng mốc 1800 điểm, khối ngoại xả ròng 777 tỷ đồng tập trung vào ngành ngân hàng. Lãi suất huy động neo cao (1,5%-5,5%) làm tăng chi phí tài chính doanh nghiệp. Tuy nhiên nền kinh tế vĩ mô có dấu hiệu tích cực: GDP(PPP) Việt Nam 1.838 tỷ USD xếp 24 thế giới, Agribank hỗ trợ công nghiệp chế biến với giảm lãi suất. Nhà đầu tư cần cân bằng rủi ro ngắn hạn với cơ hội tín dụng ưu đãi.",
   "top": [
     {
-      "title": "GDP(PPP) Việt Nam vượt Hà Lan, Thụy Sỹ, tiến top 20 thế giới",
-      "impact": "↑",
-      "note": "Năm 2025, GDP(PPP) Việt Nam đạt 1.838 tỷ USD (top 24 thế giới, top 3 ASEAN). Năm 2026 dự báo 2.025 tỷ USD, vượt Thái Lan để xếp top 2 ASEAN. Tăng trưởng kinh tế vững chắc nâng vị thế quốc tế, tạo dư địa cho thị trường chứng khoán dài hạn."
-    },
-    {
-      "title": "Quảng Ninh điều chỉnh GRDP quý 3 lên 15,48%",
-      "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng quý 3/2026 từ 15,41% lên 15,48%, mục tiêu 9 tháng 12,56% và cả năm 13,21%. Công nghiệp chế biến, chế tạo là trụ cột, cho thấy cực tăng trưởng phía Bắc duy trì động lực mạnh mẽ."
-    },
-    {
-      "title": "Agribank hỗ trợ tín dụng ưu đãi công nghiệp chế biến, chế tạo",
-      "impact": "↑",
-      "note": "Agribank triển khai chính sách năm 2026 với quy mô giải ngân lớn (~5.000 tỷ FDI, 100.000 tỷ SMEs), giảm lãi suất 0,6-0,8%/năm cho ngành chế biến, chế tạo. Duy trì mức lãi ưu đãi suốt thời hạn vay giúp doanh nghiệp chủ động hoạch định tài chính."
-    },
-    {
-      "title": "Khối ngoại xả 777 tỷ nhóm ngân hàng, áp lực bán ròng mạnh",
+      "title": "VN-Index thủng mốc 1800 điểm",
       "impact": "↓",
-      "note": "Phiên 11/09, khối ngoại bán ròng 777 tỷ tập trung vào ngân hàng: STB -229 tỷ, MBB -140 tỷ, VPB -123 tỷ. Khối tự doanh cũng bán ròng 94 tỷ. Dấu hiệu lo ngại rủi ro toàn cầu, kéo áp lực lên thị trường chứng khoán trong ngắn hạn."
+      "note": "VN-Index xuống 1795,21 điểm, giảm hơn 34 điểm; thủng ngưỡng hỗ trợ 1800, lực bán gia tăng từ chiều; 16/18 ngành giảm điểm."
     },
     {
-      "title": "Lãi suất huy động hạ nhiệt, áp lực thanh khoản giảm",
-      "impact": "↑",
-      "note": "Huy động vốn tăng nhanh hơn tín dụng giúp áp lực thanh khoản hệ thống giảm. Lãi suất liên ngân hàng hạ nhiệt: qua đêm 1,5%, 1 tháng 5,5%/năm. Thị trường bình ổn sau kỳ nghỉ 2/9, cải thiện khả năng tiếp cận vốn của doanh nghiệp."
-    },
-    {
-      "title": "Giá vàng miếng giảm 3,1 triệu/lượng trong 1 tuần",
+      "title": "Khối ngoại bán ròng 777 tỷ, xả mạnh ngân hàng",
       "impact": "↓",
-      "note": "Giá vàng miếng SJC giảm từ 149,1 triệu xuống 146 triệu đồng/lượng, lỗ cho nhà đầu tư 6,1 triệu/lượng khi tính chênh mua-bán. Dấu hiệu nhà đầu tư rút vốn khỏi tài sản truyền thống, lo ngại rủi ro chứng khoán toàn cầu."
+      "note": "Khối ngoại bán ròng 777 tỷ đồng ngày 11/9, tập trung xả nhóm ngân hàng: STB bị xả 229 tỷ, MBB rút 140 tỷ, VPB rút 123 tỷ đồng."
+    },
+    {
+      "title": "Lãi suất huy động tăng mạnh 1,5%-5,5%",
+      "impact": "↓",
+      "note": "Lãi suất liên ngân hàng sau kỳ nghỉ 2/9: qua đêm 1,5%, 1 tuần 3%, 2 tuần 3,8%, 1 tháng 5,5%/năm; chi phí tài chính doanh nghiệp tăng."
+    },
+    {
+      "title": "Vạn Hương nợ 26,6 ngàn tỷ, lỗ 96 tỷ",
+      "impact": "↓",
+      "note": "Chủ dự án Đồi Rồng nợ phải trả 26,6 ngàn tỷ đồng (hơn 1 tỷ USD) cuối tháng 6, nửa đầu 2026 lỗ 96 tỷ; nợ 8,78 lần vốn chủ sở hữu."
+    },
+    {
+      "title": "GDP(PPP) Việt Nam 1.838 tỷ USD",
+      "impact": "↑",
+      "note": "GDP(PPP) 2025 đạt 1.838 tỷ USD, xếp 24 thế giới, thứ 3 ASEAN, vượt Hà Lan và Thụy Sỹ; 2026 dự báo 2.025 tỷ USD vượt Thái Lan."
+    },
+    {
+      "title": "Agribank hỗ trợ công nghiệp chế biến 2026",
+      "impact": "↑",
+      "note": "Agribank triển khai chính sách năm 2026: gói SMEs 100.000 tỷ (dành 15.000 tỷ ưu tiên), gói FDI 5.000 tỷ + 100 triệu USD; giảm lãi suất 0,6-0,8%/năm cho FDI."
     }
   ]
 }
