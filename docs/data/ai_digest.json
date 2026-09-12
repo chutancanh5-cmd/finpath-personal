@@ -2,27 +2,17 @@
   "_opus": true,
   "date": "2026-09-12",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường có tín hiệu tích cực từ tăng trưởng vĩ mô (GDP(PPP) vượt các nước phát triển, Quảng Ninh 15,48% quý 3) và hỗ trợ tài chính (Agribank 100+ ngàn tỷ), nhưng cân bằng bởi áp lực từ bộ phận bất động sản (Vạn Hương lỗ 96 tỷ, nợ 1 tỷ USD) và dòng tiền ngoại xả mạnh (777 tỷ ngân hàng). Thanh khoản hệ thống cải thiện nhưng lãi suất huy động vẫn cao; nhu cầu lao động sản xuất phục hồi tích cực.",
+  "summary_vi": "Kinh tế Việt Nam tiếp tục khởi sắc với GDP(PPP) dự báo tăng 10% năm 2026 vào top 20 thế giới, Agribank cấp 105.000 tỷ tín dụng ưu đãi cho sản xuất, Quảng Ninh bứt phá 15,48% quý 3, tuy nhiên áp lực từ khối ngoại bán ròng 777 tỷ, rủi ro bất động sản từ Vạn Hương nợ 26,6 ngàn tỷ, và cảnh báo rủi ro toàn cầu từ quỹ nội giữ tiền mặt cao làm cân bằng triển vọng.",
   "top": [
     {
-      "title": "GDP(PPP) Việt Nam vượt Hà Lan, Thụy Sỹ, sắp vượt Úc, Ba Lan",
+      "title": "Agribank giải ngân 105.000 tỷ tín dụng ưu đãi cho sản xuất-chế tạo",
       "impact": "↑",
-      "note": "Năm 2025 GDP(PPP) Việt Nam đạt 1.838 tỷ USD (thứ 3 ASEAN, thứ 24 thế giới); dự báo 2026 đạt 2.025 tỷ USD, vượt Thái Lan lên vị trí thứ 2 ASEAN và sắp tiến vào top 20 nền kinh tế lớn nhất thế giới."
+      "note": "Agribank cấp ~100.000 tỷ VND cho SMEs (15.000 tỷ cho đối tượng ưu tiên) + ~5.000 tỷ VND + 100 triệu USD cho FDI, với lãi suất giảm 0,6-0,8%/năm. Cơ chế lãi suất ưu đãi cố định toàn thời hạn khoản vay giúp DN tối ưu dòng tiền, thúc đẩy công nghiệp hỗ trợ-phụ trợ."
     },
     {
-      "title": "Vạn Hương Investoco nợ 1 tỷ USD, lỗ 96 tỷ nửa đầu năm",
-      "impact": "↓",
-      "note": "Chủ dự án Đồi Rồng có tổng nợ phải trả 26,6 ngàn tỷ đồng cuối tháng 6/2026, tỷ lệ nợ/vốn chủ sở hữu 8,78 lần; lỗ sau thuế nửa đầu năm 96 tỷ đồng so với lãi 226 tỷ đồng nửa đầu 2025."
-    },
-    {
-      "title": "Khối ngoại xả 777 tỷ tập trung nhóm ngân hàng",
-      "impact": "↓",
-      "note": "Phiên 11/09 khối ngoại bán ròng 777 tỷ đồng, trong đó xả mạnh STB 229 tỷ, MBB 140 tỷ, VPB 123 tỷ; đồng thời tự doanh cũng bán ròng 94 tỷ, bán HPG 56 tỷ."
-    },
-    {
-      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15,48%",
+      "title": "GDP(PPP) Việt Nam vượt các nước phát triển, vào top 20 thế giới",
       "impact": "↑",
-      "note": "Quảng Ninh nâng mục tiêu GRDP quý 3 lên 15,48% để hướng tới tăng trưởng 9 tháng đạt 12,56% và cả năm 13,21%, tập trung vào công nghiệp chế biến, chế tạo."
+      "note": "Năm 2025 GDP(PPP) 1.838 tỷ USD (thứ 3 ASEAN, thứ 24 thế giới), dự báo 2026 tăng 10% lên 2.025 tỷ USD, vượt Thái Lan xếp thứ 2 ASEAN. Indonesia dẫn đầu 5.449 tỷ USD, Việt Nam tiệm cận top 20 nền kinh tế lớn nhất thế giới."
     },
     {
       "title": "Agribank hỗ trợ tín dụng ưu đãi Công nghiệp chế biến",
@@ -30,9 +20,19 @@
       "note": "Agribank triển khai chính sách khách hàng 2026 với quy mô giải ngân lớn: doanh nghiệp FDI ~5.000 tỷ VND + 100 triệu USD (giảm lãi suất 0,6-0,8%/năm), doanh nghiệp SME ~100.000 tỷ VND (trong đó 15.000 tỷ cho đối tượng ưu tiên)."
     },
     {
-      "title": "DPG hạn mức tín dụng 11,150 tỷ tại 4 ngân hàng",
+      "title": "Khối ngoại bán ròng 777 tỷ, xả mạnh nhóm ngân hàng",
       "impact": "↓",
-      "note": "Tập đoàn Đạt Phương thông qua hạn mức tín dụng 11,150 tỷ đồng giai đoạn 2026-2027: BIDV 5,250 tỷ, Techcombank 2,700 tỷ, NCB 3,100 tỷ; dùng bất động sản của Tổng Giám đốc làm tài sản bảo đảm."
+      "note": "Phiên 11/9, khối ngoại bán ròng 777 tỷ đồng tập trung nhóm ngân hàng: STB xả 229 tỷ, MBB xả 140 tỷ, VPB xả 123 tỷ, VHM xả 94 tỷ. Khối tự doanh cũng bán ròng 94 tỷ (HPG 56 tỷ, MBB 26 tỷ), báo hiệu áp lực bán mạnh từ cả hai dòng tiền lớn."
+    },
+    {
+      "title": "Quỹ nội TBLF giữ 72% tiền mặt, lo ngại rủi ro toàn cầu",
+      "impact": "↓",
+      "note": "Quỹ TBLF chỉ cấp ~28% tài sản vào cổ phiếu (DRI 5,01%, TLG 4,83%, FMC 4,12%, VIP 4,11% NAV). Tháng 8/2026 tăng NAV 1,32%, thấp hơn VN-Index 5,55%, phản ánh e dè trước rủi ro chứng khoán toàn cầu."
+    },
+    {
+      "title": "Vạn Hương Investoco nợ 26,6 ngàn tỷ, lỗ 96 tỷ nửa đầu năm",
+      "impact": "↓",
+      "note": "Vạn Hương Investoco (chủ Khu du lịch Đồi Rồng Hải Phòng) có nợ 26,6 ngàn tỷ đồng (8,78 lần vốn chủ sở hữu), lỗ sau thuế 96 tỷ đồng nửa đầu 2026 (so với lãi 226 tỷ cùng kỳ 2025). Lợi nhuận chưa phân phối âm 24 tỷ, tỷ lệ nợ/tài sản 90%, báo hiệu rủi ro sâu trong bất động sản-du lịch."
     }
   ]
 }
