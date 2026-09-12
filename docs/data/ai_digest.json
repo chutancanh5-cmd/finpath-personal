@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-12",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang đối mặt áp lực từ nhiều phía: khối ngoại bán ròng 777 tỷ đồng ngành ngân hàng (11/9), lạm phát Mỹ tăng trở lại (CPI +0.4% tháng 8, +3.4% năm) tăng kỳ vọng Fed tăng lãi suất, đồng thời doanh nghiệp nội địa gặp khó khăn (chỉ chiếm 19.9% xuất khẩu so với FDI 80.1%). Tích cực hơn là GDP(PPP) Việt Nam 1.838 tỷ USD năm 2025 (thứ 24 thế giới) và dự báo 2.025 tỷ USD năm 2026 vượt Thái Lan, cùng tăng trưởng Quảng Ninh bứt phá 15.48% quý 3.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường Việt Nam hôm nay phản ánh sự cân bằng giữa tích cực và rủi ro. Tích cực là GDP(PPP) Việt Nam tiếp tục tăng trưởng mạnh (dự báo 2.025 tỷ USD năm 2026), Agribank tung chính sách tín dụng ưu đãi lớn, Quảng Ninh nâng mục tiêu tăng trưởng. Tuy nhiên, áp lực bán ròng từ khối ngoại (777 tỷ đồng) cảnh báo lo ngại; doanh nghiệp Việt chỉ chiếm 19,9% xuất khẩu (FDI 80,1%) và lạm phát toàn cầu tăng lại tạo rủi ro Fed tăng lãi suất.",
   "top": [
     {
-      "title": "Khối ngoại xả mạnh ngân hàng, bán ròng 777 tỷ ngày 11/9",
-      "impact": "↓",
-      "note": "Ngày 11/9 khối ngoại bán ròng 777 tỷ đồng tập trung vào ngân hàng: STB -229 tỷ, MBB -140 tỷ, VPB -123 tỷ. Tự doanh cũng bán ròng 94 tỷ đồng. Áp lực bán đồng thuận từ hai dòng tiền lớn nhất thị trường."
-    },
-    {
-      "title": "CPI Mỹ tháng 8 tăng 0.4% tháng/tháng, lạm phát tăng trở lại",
-      "impact": "↓",
-      "note": "CPI Mỹ tháng 8 tăng 0.4% tháng (so với +0.1% tháng 7), CPI cơ bản tăng 0.3% (cao nhất từ tháng 4). Lạm phát tăng 3.4% so năm trước, giá xăng vọt 3.9%. Thị trường nâng kỳ vọng Fed tăng lãi suất tuần tới."
-    },
-    {
-      "title": "FDI chiếm 80.1% xuất khẩu (300 tỷ USD), doanh nghiệp Việt 19.9%",
-      "impact": "↓",
-      "note": "8 tháng 2026: khối FDI xuất khẩu hơn 300 tỷ USD tăng 27%, doanh nghiệp trong nước chỉ 74 tỷ USD tăng 7.4%. Doanh nghiệp Việt gặp khó khăn hóa đơn điện tử, thuế, an toàn lao động, khoảng cách cạnh tranh rộng thêm."
-    },
-    {
-      "title": "Vạn Hương Investoco nợ 26.6 ngàn tỷ đồng, H1/2026 lỗ 96 tỷ",
-      "impact": "↓",
-      "note": "CTCP Đầu tư Du lịch Vạn Hương (Khu du lịch Đồi Rồng) cuối tháng 6 nợ phải trả 26.6 ngàn tỷ đồng (tăng 476 tỷ so đầu năm), tương đương 8.78 lần vốn chủ sở hữu. Nửa đầu 2026 lỗ 96 tỷ đồng, LNST chưa phân phối âm 24 tỷ đồng."
-    },
-    {
-      "title": "GDP(PPP) Việt Nam 1.838 tỷ USD 2025, 2026 dự báo 2.025 tỷ USD",
+      "title": "GDP(PPP) Việt Nam 1.838 tỷ USD (2025), dự báo 2.025 tỷ USD (2026)",
       "impact": "↑",
-      "note": "Năm 2025: GDP(PPP) Việt Nam 1.838 tỷ USD xếp thứ 24 thế giới, thứ 3 ASEAN. Năm 2026 dự báo 2.025 tỷ USD vượt Thái Lan (1.963 tỷ), xếp thứ 2 ASEAN, tiến vào top 20 nền kinh tế lớn nhất thế giới."
+      "note": "Theo IMF, GDP(PPP) Việt Nam năm 2025 đạt khoảng 1.838 tỷ USD, xếp thứ 24 thế giới và thứ 3 ASEAN. Năm 2026 dự báo đạt 2.025 tỷ USD, vượt Thái Lan lên vị trí thứ 2 ASEAN. Đà tăng trưởng mạnh phản ánh sức khỏe cơ bản của nền kinh tế."
     },
     {
-      "title": "Quảng Ninh điều chỉnh GRDP quý 3 lên 15.48%, cả năm 13.21%",
+      "title": "Agribank triển khai chính sách tín dụng ưu đãi 2026 lớn",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản tăng trưởng GRDP quý 3 lên 15.48%, hướng tới 12.56% cho 9 tháng và 13.21% cả năm. Công nghiệp chế biến, chế tạo là trụ cột, ưu tiên tạo điều kiện nhà máy phát huy công suất để tạo giá trị gia tăng."
+      "note": "Agribank dành ~5.000 tỷ đồng + 100 triệu USD cho khối FDI, 100.000 tỷ đồng cho SMEs. Lãi suất ưu đãi từ 0,6-0,8%/năm cho FDI, tập trung ngành công nghiệp chế biến, chế tạo. Cơ chế duy trì lãi suất ưu đãi suốt thời hạn khoản vay giúp doanh nghiệp tối ưu chi phí tài chính."
+    },
+    {
+      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3/2026 lên 15,48%",
+      "impact": "↑",
+      "note": "Tỉnh Quảng Ninh nâng kịch bản tăng trưởng GRDP quý 3 lên 15,48% nhằm đạt mục tiêu 9 tháng 12,56% và cả năm 13,21%. Công nghiệp chế biến, chế tạo tiếp tục trụ cột, thể hiện bứt phá quanh cực tăng trưởng phía Bắc."
+    },
+    {
+      "title": "Khối ngoại bán ròng 777 tỷ đồng, tự doanh bán 94 tỷ đồng",
+      "impact": "↓",
+      "note": "Phiên 11/09, khối ngoại xả mạnh nhóm ngân hàng (STB -229 tỷ đồng, MBB -140 tỷ đồng, VPB -123 tỷ đồng), bán ròng tổng 777 tỷ đồng. Khối tự doanh cũng quay sang bán ròng 94 tỷ đồng. Áp lực bán đồng thuận từ hai dòng tiền lớn cảnh báo rủi ro."
+    },
+    {
+      "title": "FDI chiếm 80,1% xuất khẩu, doanh nghiệp Việt 19,9%",
+      "impact": "↓",
+      "note": "8 tháng 2026, FDI xuất khẩu hơn 300 tỷ USD tăng 27%, chiếm 80,1% tổng kim ngạch. Doanh nghiệp Việt chỉ xuất khẩu hơn 74 tỷ USD tăng 7,4%, chiếm 19,9%. Khoảng cách rộng thêm so với năm ngoái, thể hiện doanh nghiệp Việt ngày càng khó khăn trong cạnh tranh quốc tế."
+    },
+    {
+      "title": "Vạn Hương Investoco nợ 26.6 ngàn tỷ đồng, lỗ 96 tỷ đồng",
+      "impact": "↓",
+      "note": "CTCP Đầu tư Du lịch Vạn Hương (Đồi Rồng, Hải Phòng) báo lỗ sau thuế hơn 96 tỷ đồng nửa đầu 2026. Nợ phải trả đạt 26.6 ngàn tỷ đồng (tương đương hơn 1 tỷ USD), tăng 476 tỷ từ đầu năm. Khủng hoảng thanh khoản, khả năng thanh toán ngắn hạn đã giảm."
     }
   ]
 }
