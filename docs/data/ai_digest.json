@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-13",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực lớn từ kỳ vọng Fed tăng lãi suất vào 16/09, khối ngoại xả bán mạnh khiến dòng tiền thoát ra dứt khoát. VN-Index rơi xuống 1.795 điểm dưới mốc 1.800, với 16/18 ngành giảm điểm, các cổ phiếu vốn hoá lớn như VIC, VHM, nhóm ngân hàng bị áp lực nặng. Dù GDP(PPP) Việt Nam có tín hiệu tích cực sắp vào top 20 thế giới, nhưng rủi ro điều chỉnh ngắn hạn vẫn ở mức cao.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam rơi vào tâm lý bi quan khi VN-Index thủng mốc 1800 điểm; Fed dự kiến tăng lãi suất tuần tới tạo áp lực từ nước ngoài. Bù đắp một phần là các điểm sáng từ phía tăng trưởng vùng (Quảng Ninh 15,48%Q3, Đồng Nai tuyển 4.000 lao động) và đầu tư cơ sở hạ tầng năng lượng 20.700 tỷ đồng, nhưng chưa đủ đưa thị trường ra khỏi áp lực điều chỉnh ngắn hạn.",
   "top": [
     {
-      "title": "Fed dự kiến tăng lãi suất ngày 16/09",
+      "title": "VN-Index thủng mốc 1800 điểm, tâm lý bán tháo gia tăng",
       "impact": "↓",
-      "note": "Giới đầu tư kỳ vọng Chủ tịch Fed Kevin Warsh tăng lãi suất tại cuộc họp chính sách ngày 16/09, sau khi số liệu lạm phát không thể xoa dịu lo ngại, tạo áp lực trên toàn thị trường chứng khoán toàn cầu."
+      "note": "Phiên 11/9, VN-Index giảm 34 điểm xuống 1795,21 điểm, thủng ngưỡng 1800 với khối lượng giao dịch tăng mạnh; 16/18 ngành giảm; áp lực bán chủ động gia tăng, rủi ro điều chỉnh ngắn hạn ở mức cao. Chỉ số kiểm tra Fibonacci Retracement 50% (1780-1800 điểm) trong bối cảnh MACD thu hẹp."
     },
     {
-      "title": "VN-Index thủng mốc 1.800 điểm",
+      "title": "Fed có khả năng tăng lãi suất 16/9, lạm phát chưa hạ nhiệt",
       "impact": "↓",
-      "note": "VN-Index giảm 34 điểm xuống đóng cửa ở 1.795,21 điểm, với 16/18 ngành giảm điểm, trong đó ngành Hóa chất giảm mạnh nhất. Áp lực bán gia tăng chứng tỏ dòng tiền thoát ra dứt khoát."
+      "note": "Dự kiến 16/9, Fed có thể nâng lãi suất; lạm phát mới nhất không xoa dịu lo ngại áp lực giá; giá dầu tăng vọt, lợi suất trái phiếu kho bạc Mỹ đi lên gây áp lực trên tài sản rủi ro toàn cầu."
     },
     {
-      "title": "Khối ngoại xả bán 777 tỷ đồng",
-      "impact": "↓",
-      "note": "Khối nhà đầu tư nước ngoài tiếp tục xả 777 tỷ đồng tập trung ở nhóm cổ phiếu vốn hoá lớn, phản ánh sự thận trọng trong bối cảnh lãi suất toàn cầu tăng."
-    },
-    {
-      "title": "MSN giảm 3,2%, vốn hoá mất 15.300 tỷ đồng",
-      "impact": "↓",
-      "note": "Cổ phiếu MSN giảm từ 77.000 đồng xuống 66.500 đồng/cổ phiếu từ đầu năm, vốn hoá thị trường giảm 15.300 tỷ đồng. Chủ tịch Nguyễn Đăng Quang tài sản xuống 981 triệu USD, rớt khỏi danh sách tỷ phú USD."
-    },
-    {
-      "title": "Vạn Hương Investoco nợ 26.6 ngàn tỷ đồng",
-      "impact": "↓",
-      "note": "Chủ dự án Đồi Rồng báo lỗ 96 tỷ đồng H1 2026, tổng nợ phải trả 26.6 ngàn tỷ đồng tương đương 1 tỷ USD, gấp 8.78 lần vốn chủ sở hữu, chiếm 90% tổng tài sản."
-    },
-    {
-      "title": "GDP(PPP) Việt Nam vượt Thái Lan, sắp top 20",
+      "title": "Quảng Ninh nâng kịch bản tăng trưởng Q3 lên 15,48%",
       "impact": "↑",
-      "note": "IMF dự báo GDP(PPP) Việt Nam 2026 đạt 2.025 tỷ USD, tăng từ 1.838 tỷ USD năm 2025, vượt Thái Lan 1.963 tỷ USD để xếp thứ 2 ASEAN, tiến vào top 20 nền kinh tế thế giới."
+      "note": "Quảng Ninh điều chỉnh mục tiêu GRDP Q3/2026 lên 15,48%, hướng tới 12,56% cho 9 tháng và 13,21% cả năm; ưu tiên công nghiệp chế biến, chế tạo và tạo điều kiện phát huy công suất nhà máy."
+    },
+    {
+      "title": "MSN mất 15.300 tỷ vốn hoá, chủ tịch rớt khỏi danh sách tỷ phú",
+      "impact": "↓",
+      "note": "Chủ tịch Masan Nguyễn Đăng Quang rớt khỏi danh sách tỷ phú USD (tài sản xuống 981 triệu USD); MSN giảm 3,2% về 66.500 đồng/cp, thấp nhất gần 1 tháng; từ đầu năm giảm từ 77.000 đồng, vốn hoá thị trường mất hơn 15.300 tỷ đồng."
+    },
+    {
+      "title": "Đầu tư lưới điện 20.700 tỷ đồng cho Đồng bằng sông Cửu Long",
+      "impact": "↑",
+      "note": "EVN phối hợp triển khai 8 dự án lưới điện truyền tải (500kV, 220kV), 4 dự án 110kV và lưới trung hạ áp với tổng vốn 20.700 tỷ đồng tới 2030; sản lượng điện Cần Thơ 8 tháng ước 4.510 triệu kWh, tăng 6,5% YoY."
+    },
+    {
+      "title": "Vạn Hương Investoco nợ 26.6 ngàn tỷ, lỗ 96 tỷ nửa đầu năm",
+      "impact": "↓",
+      "note": "Chủ khu du lịch Đồi Rồng (Hải Phòng) có nợ phải trả cuối tháng 6 gần 26.6 ngàn tỷ đồng (tương đương 1 tỷ USD), tăng 476 tỷ so đầu năm; báo lỗ sau thuế 96 tỷ đồng nửa đầu 2026, nợ chiếm 90% tổng tài sản."
     }
   ]
 }
