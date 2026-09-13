@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-14",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ lạm phát toàn cầu và khả năng Fed tăng lãi suất cao hơn dự kiến, khiến VN-Index liên tục điều chỉnh và thủng mốc tâm lý 1.800 điểm. Mặc dù có tín hiệu tích cực từ nâng hạng MSCI (ETF mua ròng 246 triệu USD) và tăng trưởng kinh tế vững chắc (GDP PPP sắp vượt Thái Lan), nhưng áp lực lãi suất cao và tình trạng DN Việt yếu trong xuất khẩu (FDI chiếm 80,1% giá trị) tạo rủi ro ngắn hạn cho định giá cổ phiếu.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam vẫn chịu áp lực kép từ lạm phát quốc tế (lãi suất Mỹ 10 năm chạm 4.989%, giá dầu tăng vọt) và tâm lý nội địa bi quan (VN-Index thủng 1.800 điểm). Tuy nhiên, cơ hội cân bằng xuất hiện từ nâng hạng MSCI (246 triệu USD giải ngân 18/9) và FDI sản xuất mạnh (7 tỷ USD vào nhà xưởng), cùng triển vọng dài hạn tốt (GDP PPP sắp vượt Thái Lan). Kết quả họp Fed tuần tới sẽ quyết định xu hướng ngắn hạn.",
   "top": [
     {
-      "title": "Lạm phát, Fed tăng lãi suất, dầu leo thang",
-      "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm đạt 4,989% (cao nhất kể từ 26/10/2023), giá dầu tăng do xung đột Vùng Vịnh với các cuộc tấn công liên tiếp vào tàu chở dầu. Fed có khả năng tăng lãi suất cao hơn dự kiến, tác động tiêu cực đến định giá TTCK Việt Nam qua tăng chi phí vốn."
-    },
-    {
-      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan",
+      "title": "Dòng tiền nâng hạng: 246 triệu USD giải ngân 18/9",
       "impact": "↑",
-      "note": "GDP (PPP) Việt Nam dự báo đạt 1.838 tỷ USD năm 2025, khoảng cách với Thái Lan (1.880 tỷ USD) chỉ còn 42 tỷ USD (2%). Năm 2026 Việt Nam dự kiến tăng lên 2.025 tỷ USD vượt Thái Lan, vị trí thứ 2 Đông Nam Á, phản ánh tiếng lực tăng trưởng kinh tế dài hạn."
+      "note": "Các ETF ngoại (FTSE, Xtrackers, VanEck, Fubon) tổng mua 450 triệu USD, bán 204 triệu USD, mua ròng 246 triệu USD trong đợt tái cơ cấu trước nâng hạng chính thức ngày 21/9/2026. VPB nhận 33 triệu USD mua vào nhiều nhất, hỗ trợ thanh khoản ngành ngân hàng."
     },
     {
-      "title": "ETF MSCI nâng hạng mua ròng 246 triệu USD",
-      "impact": "↑",
-      "note": "Đợt tái cơ cấu danh mục ngày 18/9: các ETF (FTSE, Xtrackers, VanEck, Fubon) tổng mua 450 triệu USD, bán 204 triệu USD, mua ròng 246 triệu USD. VPB nhận 33 triệu USD mua vào, hỗ trợ tăng thanh khoản ngành ngân hàng."
-    },
-    {
-      "title": "VN-Index thủng 1.800 điểm, triển vọng kém",
+      "title": "Áp lực lạm phát: Lãi suất Mỹ 4.989%, dầu tăng chóng mặt",
       "impact": "↓",
-      "note": "VN-Index giảm 3,12% tuần trước, thủng 1.800 điểm (rơi 1.795,21 điểm). Mẫu hình Big Black Candle xuất hiện, khối lượng vượt trung bình 20 phiên thể hiện tâm lý bi quan. Vùng hỗ trợ tiếp theo 1.770-1.780 điểm, kết cục phụ thuộc họp Fed."
+      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm tuần qua chạm 4.989%, cao nhất kể từ 26/10/2023; giá dầu WTI và Brent tăng do xung đột Vùng Vịnh gia tăng. Fed có khả năng tăng lãi suất, tác động tiêu cực đến định giá cổ phiếu qua chi phí vốn cao hơn."
     },
     {
-      "title": "FDI 7 tỷ USD vào bất động sản công nghiệp",
-      "impact": "↑",
-      "note": "266 dự án nhà xưởng trong 468 dự án FDI sản xuất mới thu hút 7 tỷ USD (66,2% tổng vốn FDI sản xuất). Cuối năm dự kiến 1.900 ha đất công nghiệp, 700.000 m2 nhà kho xây sẵn, 1 triệu m2 nhà xưởng xây sẵn tại các khu vực trọng điểm."
-    },
-    {
-      "title": "FDI áp đảo 80% xuất khẩu, DN Việt yếu",
+      "title": "VN-Index thủng 1.800 điểm, tâm lý bi quan",
       "impact": "↓",
-      "note": "8 tháng: khu vực FDI xuất 300+ tỷ USD (chiếm 80,1%), tăng 27%; khu vực trong nước 74+ tỷ USD (chiếm 19,9%), tăng 7,4%. DN Việt ngày càng khó tham gia thị trường quốc tế, tạo bế tắc cấu trúc kinh tế dài hạn."
+      "note": "VN-Index giảm 3,12% tuần trước, rơi 1.795,21 điểm, thất bại lần thứ 10 trong nỗ lực vượt 1.800 điểm. Big Black Candle xuất hiện với khối lượng vượt trung bình 20 phiên. Vùng hỗ trợ tiếp theo 1.770-1.780 điểm, xu hướng phụ thuộc kết quả họp Fed."
+    },
+    {
+      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, Top 22 toàn cầu",
+      "impact": "↑",
+      "note": "IMF dự báo GDP (PPP) Việt Nam năm 2025 đạt 1.838 tỷ USD, khoảng cách Thái Lan (1.880 tỷ USD) chỉ 42 tỷ USD. Năm 2026 Việt Nam sẽ tăng 2.025 tỷ USD vượt Thái Lan, trở thành nền kinh tế thứ 2 Đông Nam Á, phản ánh sức tăng trưởng kinh tế dài hạn."
+    },
+    {
+      "title": "FDI sản xuất: 7 tỷ USD vào nhà xưởng, 1.900 ha đất",
+      "impact": "↑",
+      "note": "266/468 dự án FDI sản xuất mới (56,8%) là nhà xưởng, thu hút hơn 7 tỷ USD (66,2% vốn FDI). Cuối năm dự kiến thêm 1.900 ha đất công nghiệp, 700.000 m2 nhà kho xây sẵn, 1 triệu m2 nhà xưởng xây sẵn tại miền Bắc và miền Nam."
+    },
+    {
+      "title": "FDI chiếm 80,1% xuất khẩu, DN Việt tụt lại 19,9%",
+      "impact": "↓",
+      "note": "8 tháng 2026: khu vực FDI xuất 300 tỷ USD (chiếm 80,1%), tăng 27%; khu vực nội địa 74 tỷ USD (chiếm 19,9%), tăng 7,4%. DN Việt gặp khó khăn cạnh tranh quốc tế, tạo nên hai nền kinh tế độc lập."
     }
   ]
 }
