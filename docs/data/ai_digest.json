@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-13",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực mạnh khi VN-Index tuần qua giảm 3,12% xuống 1.795 điểm, thủng mốc tâm lý 1.800 điểm, cùng với dòng bán ròng quyết liệt từ khối ngoại. Rủi ro ngắn hạn gia tăng khi xác suất Fed tăng lãi suất lên gần 90%, có thể hạn chế dòng vốn vào thị trường. Tuy nhiên, kinh tế vĩ mô vẫn cho tín hiệu tích cực từ mục tiêu tăng trưởng 15,48% của Quảng Ninh, chính sách tiền tệ hỗ trợ của NHNN và đầu tư mạnh vào năng lượng.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực vĩ mô mạnh khi dầu tăng vọt do xung đột Vùng Vịnh, kéo theo lạm phát cao và kỳ vọng Fed tăng lãi suất 0,25% ngày 16/9 với xác suất 90%. VN-Index giảm 57,87 điểm (3,12%) xuống 1.795,21 điểm, thủng mốc tâm lý 1.800, với bán ròng ngoại 777 tỷ đồng. Nhịp tăng ngắn hạn từ cuối tháng 7 đã đạt đỉnh gần 1.880 điểm; vùng hỗ trợ tiếp theo ở 1.770-1.780 điểm. Tuy động lực kinh tế vẫn tích cực (Quảng Ninh mục tiêu 15,48%, nhu cầu lao động mạnh), rủi ro ngắn hạn cao.",
   "top": [
     {
-      "title": "VN-Index rơi xuống 1.795 điểm, thủng mốc 1.800",
+      "title": "Giá dầu leo thang, lợi suất trái phiếu Mỹ lên 4,989%",
       "impact": "↓",
-      "note": "Tuần 7-11/9, VN-Index giảm 3,12% xuống 1.795,21 điểm chính thức thủng mốc tâm lý 1.800 điểm; HNX-Index giảm 3,49%, UPCoM-Index lùi 1,47%; vùng hỗ trợ tiếp theo quan sát ở 1.770-1.780 điểm."
+      "note": "Xung đột eo biển Hormuz và tấn công hạ tầng Saudi Arabia khiến giá dầu tăng chóng mặt; lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm ngày 11/9 đạt 4,989%, cao nhất kể từ 26/10/2023, gây áp lực lạm phát lên tài sản rủi ro."
     },
     {
-      "title": "Áp lực bán ròng mạnh từ khối ngoại",
+      "title": "VN-Index lùi xuống 1.795,21, thủng mốc 1.800 điểm",
       "impact": "↓",
-      "note": "Khối ngoại xả ròng 777 tỷ đồng trong phiên 11/9, VN30 có 28/30 mã giảm giá, thanh khoản sụt giảm, phiên cuối tuần mất 34,02 điểm chỉ trong một ngày."
+      "note": "Tuần 7-11/9, VN-Index mất 57,87 điểm (3,12%) xuống 1.795,21 điểm; HNX-Index giảm 3,49% về 272,68 điểm, UPCoM-Index lùi 1,47% về 126,47 điểm; phiên 11/9 mất 34,02 điểm, VN30 có 28/30 mã giảm giá."
     },
     {
-      "title": "Fed tăng lãi suất xác suất 90% ngày 16/9",
+      "title": "Khối ngoại xả ròng 777 tỷ đồng, thanh khoản sụt giảm",
       "impact": "↓",
-      "note": "Xác suất Fed tăng lãi suất 0,25 điểm phần trăm ngày 15-16/9 lên gần 90% theo công cụ FedWatch của CME; chỉ tiêu lạm phát PCE và CPI vẫn ở mức cao, tạo áp lực lên thị trường chứng khoán."
+      "note": "Phiên 11/9, khối ngoại bán ròng 777 tỷ đồng tập trung vào nhóm cổ phiếu trụ cột; thanh khoản sụt giảm, mô hình Big Black Candle xuất hiện cho thấy tâm lý nhà đầu tư bi quan."
     },
     {
-      "title": "Quảng Ninh điều chỉnh GRDP Q3 lên 15,48%",
-      "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh mục tiêu GRDP quý 3 lên 15,48%; mục tiêu 9 tháng đạt 12,56%, cả năm đạt 13,21%; công nghiệp chế biến chế tạo là trụ cột chính."
+      "title": "Fed có 90% xác suất tăng lãi suất 0,25% ngày 16/9",
+      "impact": "↓",
+      "note": "Công cụ FedWatch của CME đánh giá xác suất Fed tăng lãi suất 0,25 điểm phần trăm tại cuộc họp 15-16/9 lên gần 90%; chỉ tiêu lạm phát PCE và CPI ở mức cao, quan điểm của Chủ tịch Warsh không thuận lợi cho kiểm soát lạm phát."
     },
     {
-      "title": "NHNN giảm lãi suất cho vay, tăng tín dụng hỗ trợ tăng trưởng",
+      "title": "Quảng Ninh nâng GRDP quý 3 lên 15,48%",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước giảm lãi suất cho vay, tăng trưởng tín dụng hiệu quả hướng vào các động lực tăng trưởng; cơ cấu nguồn lực đa dạng giữa vốn chủ sở hữu, tín dụng, đầu tư công và ODA."
+      "note": "Quảng Ninh điều chỉnh mục tiêu tăng trưởng GRDP quý 3 lên 15,48%; mục tiêu 9 tháng 12,56%, cả năm 13,21%; trụ cột là công nghiệp chế biến, chế tạo."
     },
     {
-      "title": "EVN đầu tư 20.700 tỷ đồng cho lưới điện 2026-2030",
+      "title": "Nhu cầu lao động Đồng Nai hơn 4.000 lao động/tháng",
       "impact": "↑",
-      "note": "EVN triển khai 8 dự án lưới điện truyền tải (500kV, 220kV), 4 dự án 110kV với tổng vốn 20.700 tỷ đồng; sản lượng điện 8 tháng 2026 tăng 6,5%, nhà máy Ô Môn I sẽ chuyển sang khí Lô B từ quý 3/2027."
+      "note": "Tháng 9/2026, các doanh nghiệp Đồng Nai cần tuyển hơn 4.000 lao động; lao động phổ thông chiếm 85%, kỹ thuật và chuyên môn 15%; tháng 8 nhu cầu lên 13.000 lao động, cho thấy sản xuất sôi động."
     }
   ]
 }
