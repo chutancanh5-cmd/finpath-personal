@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-13",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tuần qua chịu áp lực bán ồ ạt, VN-Index mất 58 điểm xuyên thủng mốc 1.800 do khối ngoại bán ròng quyết liệt. Fed sắp tăng lãi suất (xác suất 90%) trên bối cảnh lạm phát vẫn cao. Rủi ro bất động sản gia tăng khi Vạn Hương nợ 26,6 ngàn tỷ đồng và lỗ 96 tỷ trong H1/2026. Điểm sáng: Quảng Ninh tăng trưởng 15,48% Q3, EVN đầu tư 20.700 tỷ lưới điện, nhu cầu lao động cao ở Đông bằng Sông Cửu Long.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực mạnh khi VN-Index tuần qua giảm 3,12% xuống 1.795 điểm, thủng mốc tâm lý 1.800 điểm, cùng với dòng bán ròng quyết liệt từ khối ngoại. Rủi ro ngắn hạn gia tăng khi xác suất Fed tăng lãi suất lên gần 90%, có thể hạn chế dòng vốn vào thị trường. Tuy nhiên, kinh tế vĩ mô vẫn cho tín hiệu tích cực từ mục tiêu tăng trưởng 15,48% của Quảng Ninh, chính sách tiền tệ hỗ trợ của NHNN và đầu tư mạnh vào năng lượng.",
   "top": [
     {
-      "title": "VN-Index mất 58 điểm, xuyên thủng 1.800",
+      "title": "VN-Index rơi xuống 1.795 điểm, thủng mốc 1.800",
       "impact": "↓",
-      "note": "VN-Index giảm 57,87 điểm (3,12%) xuống 1.795,21 điểm; HNX-Index giảm 3,49% xuống 272,68 điểm; khối ngoại bán ròng quyết liệt, thanh khoản sụt giảm, 28/30 cổ phiếu VN30 giảm giá."
+      "note": "Tuần 7-11/9, VN-Index giảm 3,12% xuống 1.795,21 điểm chính thức thủng mốc tâm lý 1.800 điểm; HNX-Index giảm 3,49%, UPCoM-Index lùi 1,47%; vùng hỗ trợ tiếp theo quan sát ở 1.770-1.780 điểm."
     },
     {
-      "title": "Fed sắp tăng lãi suất trong cuộc họp 15-16/9",
+      "title": "Áp lực bán ròng mạnh từ khối ngoại",
       "impact": "↓",
-      "note": "Thị trường đánh giá xác suất 90% Fed tăng lãi suất 0,25% vào 15-16/9; dữ liệu lạm phát PCE, CPI vẫn ở mức cao, áp lực lên thị trường toàn cầu."
+      "note": "Khối ngoại xả ròng 777 tỷ đồng trong phiên 11/9, VN30 có 28/30 mã giảm giá, thanh khoản sụt giảm, phiên cuối tuần mất 34,02 điểm chỉ trong một ngày."
     },
     {
-      "title": "73 cổ phiếu bị cắt margin, PLP bị xử do chậm công bố BCTC",
+      "title": "Fed tăng lãi suất xác suất 90% ngày 16/9",
       "impact": "↓",
-      "note": "HOSE đưa PLP vào danh sách cắt margin vì chậm công bố BCTC bán niên 2026 quá 5 ngày; tổng 73 cổ phiếu bị cắt margin, gia tăng rủi ro thanh khoản thị trường."
+      "note": "Xác suất Fed tăng lãi suất 0,25 điểm phần trăm ngày 15-16/9 lên gần 90% theo công cụ FedWatch của CME; chỉ tiêu lạm phát PCE và CPI vẫn ở mức cao, tạo áp lực lên thị trường chứng khoán."
     },
     {
-      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15,48%",
+      "title": "Quảng Ninh điều chỉnh GRDP Q3 lên 15,48%",
       "impact": "↑",
-      "note": "Quảng Ninh (cực tăng trưởng Bắc Bộ) mục tiêu GRDP Q3 tăng 15,48%, hướng tới 9 tháng 12,56% và cả năm 13,21%; công nghiệp chế biến là trụ cột tăng trưởng."
+      "note": "Quảng Ninh điều chỉnh mục tiêu GRDP quý 3 lên 15,48%; mục tiêu 9 tháng đạt 12,56%, cả năm đạt 13,21%; công nghiệp chế biến chế tạo là trụ cột chính."
     },
     {
-      "title": "EVN đầu tư 20.700 tỷ cho lưới điện Cửu Long tới 2030",
+      "title": "NHNN giảm lãi suất cho vay, tăng tín dụng hỗ trợ tăng trưởng",
       "impact": "↑",
-      "note": "EVN triển khai 8 dự án lưới điện truyền tải (500kV, 220kV), 4 dự án 110kV với tổng vốn 20.700 tỷ đồng; sản lượng điện Cần Thơ 8 tháng tăng 6,5% lên 4.510 triệu kWh."
+      "note": "Ngân hàng Nhà nước giảm lãi suất cho vay, tăng trưởng tín dụng hiệu quả hướng vào các động lực tăng trưởng; cơ cấu nguồn lực đa dạng giữa vốn chủ sở hữu, tín dụng, đầu tư công và ODA."
     },
     {
-      "title": "Chủ Đồi Rồng nợ 26,6 ngàn tỷ, lỗ 96 tỷ H1/2026",
-      "impact": "↓",
-      "note": "Vạn Hương Investoco lỗ 96 tỷ đồng H1/2026; nợ phải trả 26,6 ngàn tỷ đồng (tương đương hơn 1 tỷ USD), gấp 8,78 lần vốn chủ sở hữu, chiếm 90% tổng tài sản."
+      "title": "EVN đầu tư 20.700 tỷ đồng cho lưới điện 2026-2030",
+      "impact": "↑",
+      "note": "EVN triển khai 8 dự án lưới điện truyền tải (500kV, 220kV), 4 dự án 110kV với tổng vốn 20.700 tỷ đồng; sản lượng điện 8 tháng 2026 tăng 6,5%, nhà máy Ô Môn I sẽ chuyển sang khí Lô B từ quý 3/2027."
     }
   ]
 }
