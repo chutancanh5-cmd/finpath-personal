@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-13",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam rơi vào điều chỉnh mạnh khi VN-Index mất mốc 1.800 điểm tâm lý, xuống 1.795 điểm (-3,1% tuần này), phản ánh lo ngại về khả năng Fed tăng lãi suất vào 16/9. Khối ngoại bán ròng gần 1.600 tỷ đồng, tạo áp lực dòng vốn. Dù tín dụng vẫn tăng 10,24% (20,5 triệu tỷ đồng) hỗ trợ tăng trưởng 2 con số, nhưng rủi ro lớn nằm ở khả năng Fed bước vào chu kỳ thắt chặt kéo dài, tác động tiêu cực đến USD, tỷ giá và cơ cấu danh mục của nhà đầu tư nước ngoài.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ sự lo ngại tăng lãi suất của FED ngày 16/9 và giá dầu leo thang do xung đột Vùng Vịnh, khiến VN-Index mất mốc tâm lý 1.800 điểm, khối ngoại xả ròng khoảng 1.600 tỷ đồng. Tuy nhiên, tín dụng vẫn tăng trưởng khỏe 10,24%, FDI sản xuất mạnh với nhà xưởng hút 7 tỷ USD, và chính phủ khởi động dự án hạ tầng Vành đai 5 (288 tỷ đồng) tạo dư địa dài hạn. Nhà đầu tư nên duy trì thận trọng chờ tín hiệu xác nhận từ FED.",
   "top": [
     {
-      "title": "Fed dự kiến tăng lãi suất 16/9, áp lực đột ngột lên thị trường",
+      "title": "FED khả năng tăng lãi suất ngày 16/9, áp lực lên thị trường",
       "impact": "↓",
-      "note": "Chủ tịch Fed Kevin Warsh được kỳ vọng sẽ tăng lãi suất tại cuộc họp chính sách 16/9, sau khi số liệu lạm phát gần đây không xoa dịu lo ngại. Rủi ro lớn hơn là khả năng Fed bước vào chu kỳ thắt chặt kéo dài, gây áp lực lên USD, tỷ giá, dòng vốn ngoại và chứng khoán Việt Nam."
+      "note": "Chủ tịch Fed Kevin Warsh có khả năng tăng lãi suất tại cuộc họp ngày 16/9 sau khi số liệu lạm phát không xoa dịu lo ngại. Rủi ro lớn hơn là chu kỳ thắt chặt kéo dài gây áp lực lên USD, tỷ giá, dòng vốn ngoại và chứng khoán Việt Nam."
     },
     {
-      "title": "VN-Index thủng mốc 1.800, xuống 1.795 điểm sau nhịp bán mạnh",
+      "title": "Giá dầu leo thang mạnh, lạm phát gia tăng",
       "impact": "↓",
-      "note": "VN-Index giảm 3,1% trong tuần (mất ~58 điểm), rơi xuống 1.795 điểm, mất mốc tâm lý 1.800 điểm lần thứ 10 liên tiếp. Phiên cuối tuần có 28/30 mã VN30 giảm giá. Hỗ trợ tiếp theo dự kiến ở vùng 1.770-1.780 điểm (gần đường MA50 = 1.781 điểm)."
+      "note": "Các cuộc tấn công gia tăng ở Vùng Vịnh đẩy giá dầu WTI và Brent tăng chóng mặt. Lợi suất trái phiếu T-bond Mỹ 10 năm đạt 4,989% (mức cao nhất từ 26/10/2023), mối lo lạm phát toàn cầu tăng từ giá năng lượng leo thang."
     },
     {
-      "title": "Khối ngoại bán ròng gần 1.600 tỷ đồng, dòng vốn suy yếu",
+      "title": "VN-Index thủng mốc tâm lý 1.800 điểm",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng trong 4-5 phiên gần đây tổng cộng ~1.600 tỷ đồng, phản ánh dòng vốn đầu tư nước ngoài suy yếu giữa lo ngại về tăng lãi suất Fed và định giá thị trường mới nổi."
+      "note": "VN-Index giảm 3,1% xuống 1.795 điểm trong tuần, thủng mốc tâm lý 1.800 sau 10 phiên nỗ lực. Khối ngoại bán ròng 4/5 phiên, tổng khoảng 1.600 tỷ đồng. Chuyên gia dự báo vùng hỗ trợ 1.770-1.780, phụ thuộc kết quả họp FED giữa tuần."
     },
     {
-      "title": "Tín dụng tăng trưởng 10,24%, cơ cấu tập trung vào lĩnh vực ưu tiên",
+      "title": "FDI sản xuất mạnh, nhà xưởng hút 7 tỷ USD",
       "impact": "↑",
-      "note": "Dư nợ tín dụng toàn hệ thống đạt 20,5 triệu tỷ đồng ngày 28/8, tăng 10,24% so với cuối 2025. Trong đó 77,3% phục vụ sản xuất kinh doanh. Thống đốc Phạm Đức Ấn khẳng định NHNN nỗ lực hỗ trợ tăng trưởng kinh tế 2 con số."
+      "note": "Trong 468 dự án FDI sản xuất mới, 266 dự án nhà xưởng chiếm 56,8% tổng số dự án, thu hút hơn 7 tỷ USD (tương đương 66,2% tổng vốn FDI sản xuất đăng ký mới). Thị trường bất động sản công nghiệp dự kiến đón 1.900 ha đất, 700.000 m2 nhà kho, 1 triệu m2 nhà xưởng xây sẵn cuối năm."
     },
     {
-      "title": "Ring Road 5 được Quốc hội thông qua, 288.268 tỷ đồng đầu tư hạ tầng",
+      "title": "Tín dụng tăng trưởng 10,24%, hỗ trợ kinh tế",
       "impact": "↑",
-      "note": "Quốc hội phê duyệt chủ trương đầu tư Vành đai 5 Thủ đô, dài 349 km qua 7 tỉnh thành. Tổng mức đầu tư 288.268 tỷ đồng, triển khai từ 2027, phấn đấu hoàn thành trước 2035. Dự án kết nối các cực công nghiệp đang tăng trưởng nhanh."
+      "note": "Đến 28/8/2026, dư nợ tín dụng toàn hệ thống đạt 20,5 triệu tỷ đồng, tăng 10,24% so với cuối 2025. Cơ cấu tín dụng tập trung vào lĩnh vực sản xuất kinh doanh với 77,3% dư nợ, hỗ trợ tăng trưởng kinh tế 2 con số và kiểm soát lạm phát."
     },
     {
-      "title": "Giá dầu tăng do xung đột Vùng Vịnh, lợi suất trái phiếu Mỹ chạm 4,989%",
-      "impact": "↓",
-      "note": "Giá dầu WTI và Brent leo thang khi các cuộc tấn công vào tàu chở dầu ở eo biển Hormuz và hạ tầng dầu khí Saudi Arabia gia tăng. Lợi suất trái phiếu kho bạc Mỹ 10 năm chạm 4,989% (cao nhất từ 26/10/2023), phản ánh lo ngại về lạm phát toàn cầu."
+      "title": "Vành đai 5 Hà Nội khởi động, 288 tỷ đồng đầu tư hạ tầng",
+      "impact": "↑",
+      "note": "Quốc hội thông qua Vành đai 5 - Vùng Thủ đô Hà Nội, dài 349 km qua 7 tỉnh, tổng mức đầu tư khoảng 288.268 tỷ đồng. Chuẩn bị từ 2026, triển khai từ 2027, hoàn thành trước 2035. Dự án mở rộng không gian công nghiệp, logistics, đô thị và tạo dư địa tăng trưởng kinh tế dài hạn."
     }
   ]
 }
