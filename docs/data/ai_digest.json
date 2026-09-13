@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-13",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam tăng trưởng khá theo IMF (GDP PPP sắp vượt Thái Lan, tiến Top 22 toàn cầu) và FDI mạnh (7 tỷ USD vào dự án nhà xưởng). Tuy nhiên thị trường chứng khoán chịu áp lực điều chỉnh mạnh (VN-Index rơi 3,1% tuần này, mất mốc 1.800 điểm), trong khi căng thẳng địa chính trị Vùng Vịnh đẩy giá dầu tăng, Fed có khả năng tăng lãi suất tuần tới. Doanh nghiệp nội địa đối diện thách thức khi FDI chiếm 80% giá trị xuất khẩu.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực ngắn hạn mạnh từ kỳ vọng Fed tăng lãi suất (16/9) và bán tháo liên tục (VN-Index rơi dưới 1800, khối ngoại bán 777 tỷ), trong khi căng thẳng Vùng Vịnh đẩy giá dầu tăng kéo lạm phát. Mặc dù triển vọng dài hạn tích cực với nâng hạng FTSE Russell (21/9), GDP PPP sắp vượt Thái Lan, và FDI mạnh 7 tỷ USD vào dự án nhà xưởng, nhưng rủi ro ngắn hạn sẽ quyết định tuần tới; doanh nghiệp nội địa cũng đối diện thách thức khi FDI chiếm 80% xuất khẩu.",
   "top": [
     {
-      "title": "Fed khả năng tăng lãi suất 16/9, lạm phát không hạ nhiệt",
+      "title": "Fed tăng lãi suất 16/9, lạm phát từ dầu leo thang",
       "impact": "↓",
-      "note": "Giới đầu tư nghiêng về khả năng Fed tăng lãi suất tại cuộc họp chính sách ngày 16/09/2026. Lợi suất trái phiếu kho bạc Mỹ 10 năm đạt 4,989% (cao nhất từ 26/10/2023), áp lực lạm phát vẫn tồn tại, sẽ tác động mạnh đến toàn cầu và thị trường Việt Nam."
+      "note": "Giới đầu tư kỳ vọng Fed tăng lãi suất tại cuộc họp 16/9/2026, lợi suất trái phiếu kho bạc Mỹ 10 năm đạt 4,989% (cao nhất từ 26/10/2023), các cuộc tấn công Vùng Vịnh đẩy giá dầu tăng mạnh — áp lực lạm phát toàn cầu sẽ là tác động tiêu cực trực tiếp đến thị trường mới nổi Việt Nam."
     },
     {
-      "title": "VN-Index giảm 3,1% tuần này, mất mốc tâm lý 1.800",
+      "title": "VN-Index thủng 1800 điểm, khối ngoại bán ròng 777 tỷ",
       "impact": "↓",
-      "note": "VN-Index khép tuần tại 1.795,46 điểm, giảm gần 58 điểm (3,1%), 28/30 cổ phiếu VN30 đóng sắc đỏ. Chuyên gia dự báo thị trường sẽ giằng co 1.780-1.800 điểm trong 1-2 phiên đầu tuần, diễn biến phụ thuộc kết quả họp Fed."
+      "note": "VN-Index giảm 1,86% xuống 1.795,21 điểm sau 10 phiên thất bại đột phá 1800, khối ngoại bán ròng 777 tỷ đồng, mô hình nến Big Black Candle trên cả VN-Index và HNX-Index — triển vọng ngắn hạn kém sắc, hỗ trợ tiếp tục 1770-1780."
     },
     {
-      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, Top 22 toàn cầu",
+      "title": "Nâng hạng FTSE Russell (21/9), GDP PPP vượt Thái Lan",
       "impact": "↑",
-      "note": "Theo dự báo IMF, GDP (PPP) Việt Nam 2025 đạt khoảng 1.838 tỷ USD, cách Thái Lan (1.880 tỷ USD) chỉ 42 tỷ USD. Năm 2026, Việt Nam dự báo lên 2.025 tỷ USD, vươn lên vị trí thứ hai Đông Nam Á, phản ánh động lực tăng trưởng kinh tế mạnh."
+      "note": "Việt Nam dự kiến được FTSE Russell nâng hạng từ cận biên lên thị trường mới nổi thứ cấp từ 21/9/2026, GDP (PPP) 2025 đạt 1.838 tỷ USD sắp vượt Thái Lan (1.880 tỷ USD), dự báo 2026 lên 2.025 tỷ USD — sự kiện tích cực hỗ trợ dòng vốn ngoại dài hạn."
     },
     {
-      "title": "FDI mạnh, 7 tỷ USD đổ vào dự án nhà xưởng 2026-2027",
+      "title": "FDI hút 7 tỷ USD dự án nhà xưởng, lợi thế sản xuất",
       "impact": "↑",
-      "note": "Trong 468 dự án FDI sản xuất, 266 là nhà xưởng (56,8%) hút khoảng 7 tỷ USD (66,2% tổng vốn FDI sản xuất). Năm 2026 dự kiến đón 1.900 ha đất công nghiệp, 700.000 m2 nhà kho xây sẵn, 1 triệu m2 xưởng xây sẵn, thể hiện sức hấp dẫn Việt Nam về đầu tư sản xuất."
+      "note": "Trong 468 dự án FDI sản xuất, 266 là nhà xưởng (56,8%) thu hút hơn 7 tỷ USD (66,2% tổng FDI sản xuất), năm 2026 dự kiến đón 1.900 ha đất công nghiệp, 700.000 m2 nhà kho, 1 triệu m2 nhà xưởng — phản ánh sức hấp dẫn Việt Nam về đầu tư sản xuất, dịch chuyển chuỗi cung ứng."
     },
     {
-      "title": "Giá dầu leo thang, căng thẳng Vùng Vịnh tăng rủi ro",
-      "impact": "↓",
-      "note": "Các cuộc tấn công gia tăng ở Vùng Vịnh, eo biển Hormuz, hạ tầng Saudi Arabia đẩy giá dầu WTI, Brent tăng chóng mặt. Nỗ lực ngoại giao giải quyết xung đột Mỹ-Iran rơi vào bế tắc, khả năng xung đột kéo dài gây rủi ro nguồn cung năng lượng từ Trung Đông."
+      "title": "Tỷ giá USD ổn định, triển vọng tăng 6-12 tháng",
+      "impact": "→",
+      "note": "Tỷ giá trung tâm NHNN ổn định 25.596 đồng/USD, các ngân hàng niêm yết 25.730-26.110, Citi dự báo USD tăng trong 6-12 tháng nhờ sức hấp dẫn lãi suất thực Mỹ nhưng ngắn hạn có áp lực từ rủi ro địa chính trị Vùng Vịnh."
     },
     {
-      "title": "FDI chiếm 80% xuất khẩu, doanh nghiệp nội địa tụt lại",
-      "impact": "↓",
-      "note": "Khối FDI xuất khẩu 300 tỷ USD tăng 27% (8 tháng 2026), chiếm 80,1% tổng giá trị, trong khi doanh nghiệp trong nước chỉ xuất 74 tỷ USD tăng 7,4%. Khoảng cách đang rộng thêm so với năm trước, thể hiện thách thức cạnh tranh của doanh nghiệp nội địa trên thị trường quốc tế."
+      "title": "Insider buying SSI + DPG tăng hạn mức tín dụng 11.150 tỷ",
+      "impact": "↑",
+      "note": "Nguyễn Hồng Nam (em trai Chủ tịch SSI) mua 5 triệu cổ phiếu SSI từ 26/8-11/9, chi hơn 100 tỷ đồng nâng sở hữu lên 17,43 triệu cổ phiếu; DPG thông qua hạn mức tín dụng 11.150 tỷ đồng tại 4 ngân hàng (BIDV 5.250, Techcombank 2.700, NCB 3.100 tỷ) — tín hiệu lạc quan từ insider và leverage doanh nghiệp."
     }
   ]
 }
