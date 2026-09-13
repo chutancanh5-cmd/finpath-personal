@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng vượt trội với GDP sắp vượt Thái Lan (2.025 tỷ USD dự báo 2026) và FDI mạnh vào công nghiệp (7 tỷ USD). Tín dụng tăng 10,24% với 77,3% phục vụ sản xuất kinh doanh. Tuy nhiên, thị trường chứng khoán chịu áp lực khi VN-Index thủng mốc 1.800 điểm (-3,1%), và rủi ro lạm phát từ khả năng Fed tăng lãi suất ngày 16/9 cùng giá dầu leo thang ở Vùng Vịnh có thể kìm hãm lợi suất ngắn hạn.",
+  "summary_vi": "Nền kinh tế Việt Nam tăng trưởng khá theo IMF (GDP PPP sắp vượt Thái Lan, tiến Top 22 toàn cầu) và FDI mạnh (7 tỷ USD vào dự án nhà xưởng). Tuy nhiên thị trường chứng khoán chịu áp lực điều chỉnh mạnh (VN-Index rơi 3,1% tuần này, mất mốc 1.800 điểm), trong khi căng thẳng địa chính trị Vùng Vịnh đẩy giá dầu tăng, Fed có khả năng tăng lãi suất tuần tới. Doanh nghiệp nội địa đối diện thách thức khi FDI chiếm 80% giá trị xuất khẩu.",
   "top": [
     {
-      "title": "VN-Index thủng mốc tâm lý 1.800 điểm, giảm 3,1% trong tuần",
+      "title": "Fed khả năng tăng lãi suất 16/9, lạm phát không hạ nhiệt",
       "impact": "↓",
-      "note": "VN-Index khép tuần tại 1.795,46 điểm, giảm 58 điểm (-3,1%) từ tuần trước, mất mốc tâm lý 1.800 sau 10 phiên nỗ lực đột phá. Áp lực bán đặc biệt mạnh trong phiên cuối tuần, 28/30 cổ phiếu VN30 đóng cửa sắc đỏ. Các chuyên gia dự báo thị trường giằng co 1.780-1.800 điểm 1-2 phiên tới."
+      "note": "Giới đầu tư nghiêng về khả năng Fed tăng lãi suất tại cuộc họp chính sách ngày 16/09/2026. Lợi suất trái phiếu kho bạc Mỹ 10 năm đạt 4,989% (cao nhất từ 26/10/2023), áp lực lạm phát vẫn tồn tại, sẽ tác động mạnh đến toàn cầu và thị trường Việt Nam."
     },
     {
-      "title": "Fed tăng lãi suất 16/9, lợi suất trái phiếu Mỹ lên 4,989%",
+      "title": "VN-Index giảm 3,1% tuần này, mất mốc tâm lý 1.800",
       "impact": "↓",
-      "note": "Giới đầu tư nghiêng về khả năng Chủ tịch Fed Kevin Warsh tăng lãi suất tại cuộc họp 16/9/2026, sau dữ liệu lạm phát không xoa dịu lo ngại. Lợi suất trái phiếu kho bạc Mỹ 10 năm lên 4,989%, mức cao nhất kể từ 26/10/2023. Rủi ro từ chu kỳ thắt chặt tiền tệ toàn cầu tác động đến tỷ giá và dòng vốn ngoại."
+      "note": "VN-Index khép tuần tại 1.795,46 điểm, giảm gần 58 điểm (3,1%), 28/30 cổ phiếu VN30 đóng sắc đỏ. Chuyên gia dự báo thị trường sẽ giằng co 1.780-1.800 điểm trong 1-2 phiên đầu tuần, diễn biến phụ thuộc kết quả họp Fed."
     },
     {
-      "title": "Giá dầu leo thang mạnh, xung đột Vùng Vịnh kéo dài",
+      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, Top 22 toàn cầu",
+      "impact": "↑",
+      "note": "Theo dự báo IMF, GDP (PPP) Việt Nam 2025 đạt khoảng 1.838 tỷ USD, cách Thái Lan (1.880 tỷ USD) chỉ 42 tỷ USD. Năm 2026, Việt Nam dự báo lên 2.025 tỷ USD, vươn lên vị trí thứ hai Đông Nam Á, phản ánh động lực tăng trưởng kinh tế mạnh."
+    },
+    {
+      "title": "FDI mạnh, 7 tỷ USD đổ vào dự án nhà xưởng 2026-2027",
+      "impact": "↑",
+      "note": "Trong 468 dự án FDI sản xuất, 266 là nhà xưởng (56,8%) hút khoảng 7 tỷ USD (66,2% tổng vốn FDI sản xuất). Năm 2026 dự kiến đón 1.900 ha đất công nghiệp, 700.000 m2 nhà kho xây sẵn, 1 triệu m2 xưởng xây sẵn, thể hiện sức hấp dẫn Việt Nam về đầu tư sản xuất."
+    },
+    {
+      "title": "Giá dầu leo thang, căng thẳng Vùng Vịnh tăng rủi ro",
       "impact": "↓",
-      "note": "Các cuộc tấn công gia tăng ở eo biển Hormuz và hạ tầng dầu khí Saudi Arabia xảy ra liên tiếp. Ngoại giao chấm dứt cuộc chiến Mỹ-Iran bước vào tháng thứ 7 và rơi vào bế tắc. Giá dầu WTI và Brent tăng chóng mặt, khiến nguồn cung phục hồi chậm và áp lực lạm phát tăng."
+      "note": "Các cuộc tấn công gia tăng ở Vùng Vịnh, eo biển Hormuz, hạ tầng Saudi Arabia đẩy giá dầu WTI, Brent tăng chóng mặt. Nỗ lực ngoại giao giải quyết xung đột Mỹ-Iran rơi vào bế tắc, khả năng xung đột kéo dài gây rủi ro nguồn cung năng lượng từ Trung Đông."
     },
     {
-      "title": "GDP PPP Việt Nam sắp vượt Thái Lan, tiến tới Top 2 ASEAN",
-      "impact": "↑",
-      "note": "GDP PPP Việt Nam năm 2025 đạt 1.838 tỷ USD, chỉ cách Thái Lan 42 tỷ USD (2%). Năm 2026 dự kiến 2.025 tỷ USD, vươn lên vị trí thứ 2 Đông Nam Á sau Indonesia (5.449 tỷ USD). Nền kinh tế duy trì tăng trưởng vượt trội so với các nước cùng khu vực."
-    },
-    {
-      "title": "Dự án nhà xưởng hút 7 tỷ USD FDI sản xuất",
-      "impact": "↑",
-      "note": "Trong 468 dự án FDI sản xuất mới, 266 dự án nhà xưởng chiếm 56,8% số lượng và thu hút khoảng 7 tỷ USD, tương đương 66,2% tổng vốn FDI sản xuất đăng ký mới. Cuối năm dự kiến đón 1.900 ha đất công nghiệp, 700.000 m2 nhà kho xây sẵn. Cho thấy xu hướng dịch chuyển sản xuất sang Việt Nam mạnh mẽ."
-    },
-    {
-      "title": "Tín dụng tăng trưởng 10,24%, hỗ trợ tăng trưởng kinh tế",
-      "impact": "↑",
-      "note": "Đến 28/8/2026, dư nợ tín dụng toàn hệ thống đạt 20,5 triệu tỷ đồng, tăng 10,24% so với cuối 2025. Cơ cấu tín dụng 77,3% phục vụ sản xuất kinh doanh, hỗ trợ các lĩnh vực ưu tiên và động lực tăng trưởng theo chủ trương Chính phủ."
+      "title": "FDI chiếm 80% xuất khẩu, doanh nghiệp nội địa tụt lại",
+      "impact": "↓",
+      "note": "Khối FDI xuất khẩu 300 tỷ USD tăng 27% (8 tháng 2026), chiếm 80,1% tổng giá trị, trong khi doanh nghiệp trong nước chỉ xuất 74 tỷ USD tăng 7,4%. Khoảng cách đang rộng thêm so với năm trước, thể hiện thách thức cạnh tranh của doanh nghiệp nội địa trên thị trường quốc tế."
     }
   ]
 }
