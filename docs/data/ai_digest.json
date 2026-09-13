@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-13",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt rủi ro từ kỳ vọng Fed tăng lãi suất 90% khả năng vào tuần tới, các chỉ số giảm và kiểm tra đáy cũ tháng 07-08. Các cổ phiếu vốn hóa lớn như Masan, VIC chịu áp lực bán từ ETF cơ cấu. Mặc dù vậy, các dấu hiệu tích cực từ phía chính sách (EVN đầu tư 20.700 tỷ lưới điện, Quảng Ninh tăng tốc tăng trưởng 15,48% Q3) có thể hỗ trợ phục hồi ngắn hạn nếu lo ngại Fed xoa dịu.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tuần qua chịu áp lực bán ồ ạt, VN-Index mất 58 điểm xuyên thủng mốc 1.800 do khối ngoại bán ròng quyết liệt. Fed sắp tăng lãi suất (xác suất 90%) trên bối cảnh lạm phát vẫn cao. Rủi ro bất động sản gia tăng khi Vạn Hương nợ 26,6 ngàn tỷ đồng và lỗ 96 tỷ trong H1/2026. Điểm sáng: Quảng Ninh tăng trưởng 15,48% Q3, EVN đầu tư 20.700 tỷ lưới điện, nhu cầu lao động cao ở Đông bằng Sông Cửu Long.",
   "top": [
     {
-      "title": "Fed 90% khả năng tăng lãi suất 0,25% vào 15-16/9",
+      "title": "VN-Index mất 58 điểm, xuyên thủng 1.800",
       "impact": "↓",
-      "note": "Thị trường đánh giá xác suất Fed tăng lãi suất 0,25 điểm phần trăm vào 15-16/9 lên gần 90%; dữ liệu lạm phát PCE, CPI vẫn ở mức cao không cho thấy dấu hiệu hạ nhiệt."
+      "note": "VN-Index giảm 57,87 điểm (3,12%) xuống 1.795,21 điểm; HNX-Index giảm 3,49% xuống 272,68 điểm; khối ngoại bán ròng quyết liệt, thanh khoản sụt giảm, 28/30 cổ phiếu VN30 giảm giá."
     },
     {
-      "title": "VN-Index rơi dưới 1.800 điểm, HNX kiểm tra đáy tháng 07",
+      "title": "Fed sắp tăng lãi suất trong cuộc họp 15-16/9",
       "impact": "↓",
-      "note": "VN-Index xuất hiện mẫu Big Black Candle, kiểm tra Fibonacci Retracement 50% (vùng 1.780-1.800 điểm); HNX-Index giảm phiên thứ 3 liên tiếp, kiểm tra đáy tháng 07/2026 (vùng 265-273 điểm)."
+      "note": "Thị trường đánh giá xác suất 90% Fed tăng lãi suất 0,25% vào 15-16/9; dữ liệu lạm phát PCE, CPI vẫn ở mức cao, áp lực lên thị trường toàn cầu."
     },
     {
-      "title": "ETF cơ cấu bán ròng VIC tổng giá trị 860,3 tỷ đồng",
+      "title": "73 cổ phiếu bị cắt margin, PLP bị xử do chậm công bố BCTC",
       "impact": "↓",
-      "note": "Các ETF cơ cấu sẽ bán ròng VIC tổng giá trị khoảng 860,3 tỷ đồng (tương đương 1 phiên giao dịch); VIC, VHM vượt ngưỡng giới hạn tỷ trọng 10% theo quy tắc FTSE Vietnam 30."
+      "note": "HOSE đưa PLP vào danh sách cắt margin vì chậm công bố BCTC bán niên 2026 quá 5 ngày; tổng 73 cổ phiếu bị cắt margin, gia tăng rủi ro thanh khoản thị trường."
     },
     {
-      "title": "Masan (MSN) vốn hóa giảm 15.300 tỷ, \"rớt\" khỏi danh sách tỷ phú",
-      "impact": "↓",
-      "note": "MSN giảm từ 77.000 đồng xuống 66.500 đồng/cp (11/9 giảm 3,2%), vốn hóa giảm 15.300 tỷ đồng từ đầu năm; ông Nguyễn Đăng Quang từ 1 tỷ USD xuống 981 triệu USD."
-    },
-    {
-      "title": "EVN triển khai 8 dự án lưới điện, vốn 20.700 tỷ đồng tới 2030",
+      "title": "Quảng Ninh điều chỉnh tăng trưởng Q3 lên 15,48%",
       "impact": "↑",
-      "note": "EVN phối hợp triển khai 8 dự án lưới điện truyền tải 500kV/220kV, 4 dự án 110kV với tổng vốn 20.700 tỷ đồng; sản lượng điện thương phẩm tại Cần Thơ tăng 6,5% (8 tháng đạt 4.510 triệu kWh)."
+      "note": "Quảng Ninh (cực tăng trưởng Bắc Bộ) mục tiêu GRDP Q3 tăng 15,48%, hướng tới 9 tháng 12,56% và cả năm 13,21%; công nghiệp chế biến là trụ cột tăng trưởng."
     },
     {
-      "title": "Quảng Ninh nâng mục tiêu tăng trưởng GRDP Q3 lên 15,48%",
+      "title": "EVN đầu tư 20.700 tỷ cho lưới điện Cửu Long tới 2030",
       "impact": "↑",
-      "note": "Quảng Ninh (cực tăng trưởng Bắc Bộ) điều chỉnh kịch bản tăng trưởng GRDP Q3/2026 lên 15,48%, hướng tới 12,56% cho 9 tháng và 13,21% cả năm 2026."
+      "note": "EVN triển khai 8 dự án lưới điện truyền tải (500kV, 220kV), 4 dự án 110kV với tổng vốn 20.700 tỷ đồng; sản lượng điện Cần Thơ 8 tháng tăng 6,5% lên 4.510 triệu kWh."
+    },
+    {
+      "title": "Chủ Đồi Rồng nợ 26,6 ngàn tỷ, lỗ 96 tỷ H1/2026",
+      "impact": "↓",
+      "note": "Vạn Hương Investoco lỗ 96 tỷ đồng H1/2026; nợ phải trả 26,6 ngàn tỷ đồng (tương đương hơn 1 tỷ USD), gấp 8,78 lần vốn chủ sở hữu, chiếm 90% tổng tài sản."
     }
   ]
 }
