@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam được kỳ vọng lớn sau quyết định nâng hạng của FTSE Russell từ 21/9, có thể kích hoạt hơn 1,45 tỷ USD dòng vốn mới chủ yếu vào ngân hàng. Nền kinh tế vĩ mô khỏe với GDP (PPP) sắp vượt Thái Lan từ 2026 và dòng FDI vào sản xuất mạnh hơn 7 tỷ USD. Tuy nhiên, áp lực từ giá dầu tăng lên 107 USD/thùng, khả năng Fed tăng lãi suất 90% vào 15-16/9, và khoảng cách xuất khẩu ngày càng lớn giữa khu vực FDI và doanh nghiệp Việt cần được chú ý.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt sự trái chiều giữa cơ hội dài hạn và áp lực ngắn hạn. Từ 21/9, nâng hạng FTSE Russell (cận biên → thị trường mới nổi thứ cấp) dự kiến kích hoạt 1,45 tỷ USD vốn thụ động và mở ra dư địa tăng trưởng cho ngân hàng và doanh nghiệp. Tuy nhiên, khối ngoại bán ròng 1.570 tỷ đồng, thanh khoản suy yếu (HOSE giảm 10,7%), giá dầu thế giới leo thang 100+ USD/thùng, và cấu trúc xuất khẩu mất cân bằng (FDI 80,1%, doanh nghiệp trong nước 19,9%) đang tạo áp lực ngắn hạn. Cuộc họp chính sách Fed ngày 16/9 là yếu tố rủi ro quan trọng.",
   "top": [
     {
       "title": "FTSE Russell nâng hạng thị trường Việt từ 21/9",
       "impact": "↑",
-      "note": "Thị trường chứng khoán Việt Nam được nâng hạng từ cận biên lên mới nổi thứ cấp kích hoạt khoảng 1,45 tỷ USD dòng vốn thụ động (SSI). VPBank huy động 1,44 tỷ USD từ 15 tổ chức tài chính quốc tế, HDBank 721 triệu USD, tạo cơ hội lớn cho khu vực ngân hàng."
+      "note": "Thị trường chứng khoán Việt Nam được nâng hạng từ cận biên lên mới nổi thứ cấp kích hoạt khoảng 1,45 tỷ USD dòng vốn thụ động. VPBank huy động 1,44 tỷ USD từ 15 tổ chức tài chính quốc tế, HDBank 721 triệu USD, tạo cơ hội lớn cho khu vực ngân hàng."
     },
     {
-      "title": "GDP PPP Việt Nam vượt Thái Lan từ 2026",
+      "title": "Khối ngoại bán ròng 1.570 tỷ, thanh khoản suy yếu",
+      "impact": "↓",
+      "note": "Nhà đầu tư nước ngoài bán ròng 1.570,7 tỷ đồng trên cả 3 sàn. Giá trị giao dịch khớp lệnh HOSE bình quân 12.676 tỷ đồng/phiên, giảm 10,70%. VIC (-16,4 điểm), VHM (-4,3 điểm), nhóm ngân hàng (-14,6 điểm) gây áp lực lớn lên chỉ số."
+    },
+    {
+      "title": "Giá dầu Brent vượt 107 USD/thùng, tăng 9% trong tuần",
+      "impact": "↓",
+      "note": "Giá dầu Brent tăng lên 107,7 USD/thùng (tăng 2,9%), dầu WTI 102,8 USD/thùng (tăng 2,8%). Tuần trước giá tăng 9%, trên 100 USD/thùng do căng thẳng Mỹ-Iran, tạo áp lực chi phí sản xuất và logistics."
+    },
+    {
+      "title": "GDP PPP Việt Nam sắp vượt Thái Lan từ 2026",
       "impact": "↑",
-      "note": "Theo IMF, GDP PPP Việt Nam 2026 dự báo đạt 2.025 tỷ USD, sắp vượt Thái Lan 1.963 tỷ USD. Năm 2025 khoảng cách chỉ 42 tỷ USD, Việt Nam sẽ giữ vị trí thứ 2 Đông Nam Á sau Indonesia 5.449 tỷ USD."
+      "note": "Theo IMF, GDP PPP Việt Nam 2026 dự báo 2.025 tỷ USD, vượt Thái Lan 1.963 tỷ USD. Năm 2025 khoảng cách 42 tỷ USD, Việt Nam sẽ giữ vị trí thứ 2 Đông Nam Á sau Indonesia 5.449 tỷ USD."
     },
     {
-      "title": "Giá dầu leo thang lên trên 100 USD/thùng",
-      "impact": "↓",
-      "note": "Giá dầu Brent tăng lên gần 107,7 USD/thùng, giá dầu WTI đạt 102,8 USD/thùng (tăng 2,8%), phản ánh căng thẳng địa geopolitics giữa Mỹ - Iran và tạo áp lực lạm phát toàn cầu mặc dù Tổng thống Trump dự báo xung đột sắp kết thúc."
-    },
-    {
-      "title": "FDI công nghiệp hút 7 tỷ USD, 1.900 ha đất",
+      "title": "FDI công nghiệp hút 7 tỷ USD, 1.900 ha đất cuối năm",
       "impact": "↑",
-      "note": "266 dự án nhà xưởng (56,8% trong 468 dự án FDI mới) thu hút hơn 7 tỷ USD, chiếm 66,2% tổng FDI sản xuất. Cuối năm dự kiến đón 1.900 ha đất công nghiệp, 700.000 m2 kho xây sẵn và 1 triệu m2 xưởng."
+      "note": "266 dự án nhà xưởng (56,8% trong 468 dự án FDI) thu hút hơn 7 tỷ USD, chiếm 66,2% tổng FDI sản xuất. Cuối 2026 dự kiến đón 1.900 ha đất công nghiệp, 700.000 m2 kho xây sẵn và 1 triệu m2 xưởng tại miền Bắc và Nam."
     },
     {
-      "title": "Fed tăng lãi suất xác suất 90%, lợi suất 10 năm gần 5%",
+      "title": "Doanh nghiệp Việt tụt lại, FDI chiếm 80,1% xuất khẩu",
       "impact": "↓",
-      "note": "Cuộc họp 15-16/9 của Fed có khả năng tăng lãi suất 90%. Lợi suất trái phiếu kho bạc 10 năm tiến gần 4,989%, cao nhất kể từ 26/10/2023. Nợ công Mỹ vượt 40 nghìn tỷ USD tạo áp lực lạm phát."
-    },
-    {
-      "title": "Doanh nghiệp Việt tụt lại trong xuất khẩu so FDI",
-      "impact": "↓",
-      "note": "8 tháng qua, khu vực FDI xuất khẩu hơn 300 tỷ USD (+27%), chiếm 80,1% tổng kim ngạch. Khu vực doanh nghiệp trong nước chỉ hơn 74 tỷ USD (+7,4%), chiếm 19,9%. Khoảng cách rộng thêm so 2025, cho thấy sự phân hóa sâu giữa hai khu vực."
+      "note": "8 tháng qua, khu vực FDI xuất khẩu 300+ tỷ USD (tăng 27%), chiếm 80,1%. Doanh nghiệp trong nước chỉ 74 tỷ USD (tăng 7,4%), chiếm 19,9%. Khoảng cách rộng thêm so 2025, thể hiện khó khăn của doanh nghiệp nội địa tham gia thị trường quốc tế."
     }
   ]
 }
