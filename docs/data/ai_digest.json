@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-14",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường vĩ mô tích cực với GDP (PPP) 2026 dự báo 2,025 tỷ USD sẽ vượt Thái Lan (1,963 tỷ USD) và FTSE thêm 27 cổ phiếu VN, giải ngân 240 triệu USD tuần đầu với triển vọng 4,45 tỷ USD từ Vanguard. MWG tăng doanh thu 30% (129,4 ngàn tỷ đồng 8 tháng) cho thấy tiêu dùng mạnh. Khối ngoại mua ròng 812 tỷ đồng gom ngân hàng. Tuy nhiên, nhóm vừa/nhỏ bán tháo kịch (Midcap -1,76%, 10 mã kịch sàn) và rủi ro Fed tăng lãi suất 87% (15-16/9) có thể gây áp lực lạm phát.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường hôm nay có tín hiệu hỗn hợp: các doanh nghiệp bán lẻ (MWG, DMX) tăng trưởng mạnh 30%, FDI lớn từ TikTok (980 triệu USD), nâng hạng FTSE dự kiến kéo 240 triệu USD vào Việt Nam, và GDP (PPP) sắp vượt Thái Lan; tuy nhiên cổ phiếu vừa-nhỏ điều chỉnh mạnh (Midcap -1.76%), nhóm GELEX giảm sàn do vấn đề pháp lý, và Fed sắp họp tăng lãi suất 87% gây áp lực macro. Cân bằng giữa động lực tích cực từ FDI, tăng trưởng nội sinh nhưng rủi ro ngắn hạn từ điều chỉnh và lạm phát.",
   "top": [
     {
-      "title": "GDP (PPP) Việt Nam vượt Thái Lan, top 22 toàn cầu",
+      "title": "MWG doanh thu tăng 30% trong 8 tháng, Bách Hóa Xanh vượt kế hoạch mở mới",
       "impact": "↑",
-      "note": "GDP (PPP) 2025: 1,838 tỷ USD, chênh Thái Lan 42 tỷ USD (~2%). Dự báo 2026: Việt Nam 2,025 tỷ USD sẽ vượt Thái Lan (1,963 tỷ USD), lên vị trí thứ hai Đông Nam Á, tiến top 22 toàn cầu — tích cực triển vọng dài hạn nền kinh tế."
+      "note": "MWG doanh thu 129.4 ngàn tỷ đồng tăng 30%; DMX 86.8 ngàn tỷ đồng tăng 29%. Bách Hóa Xanh doanh thu 40.1 ngàn tỷ tăng 32%, mở thêm 1,160 cửa hàng hoàn thành năm kế hoạch và vượt mục tiêu. Sự phục hồi mạnh ở bán lẻ hỗ trợ tăng trưởng kinh tế nội sinh."
     },
     {
-      "title": "FTSE giải ngân 240 triệu USD vào 27 cổ phiếu Việt Nam",
+      "title": "TikTok Việt Nam đầu tư 980 triệu USD vào logistics, thương mại số lên 10 tỷ USD/năm",
       "impact": "↑",
-      "note": "Các quỹ mô phỏng chỉ số FTSE dự kiến giải ngân 240 triệu USD vào 18/09/2026, trước khi chỉ số mới có hiệu lực 21/09. Nếu tỷ trọng Việt Nam tăng 0,95% trong FTSE Emerging All Cap tháng 9/2027, quỹ Vanguard riêng có thể giải ngân 4,45 tỷ USD toàn lộ trình — ủng hộ mạnh dòng vốn ngoại."
+      "note": "Swift Logistics (công ty con TikTok) cấp Giấy chứng nhận đầu tư 980 triệu USD ngày 07/09, TikTok Shop 25 triệu USD. Dự kiến logistics 1-2 tỷ USD/năm, TikTok Payment 45 triệu người dùng VN, thương mại điện tử trên 10 tỷ USD/năm. FDI chất lượng cao từ nền tảng công nghệ hàng đầu."
     },
     {
-      "title": "MWG tăng doanh thu 30%, Bách Hóa Xanh vượt kế hoạch",
+      "title": "FTSE nâng hạng 27 cổ phiếu Việt Nam, dòng vốn ngoại 240-4,450 triệu USD",
       "impact": "↑",
-      "note": "Doanh thu MWG 8 tháng 2026: 129,4 ngàn tỷ đồng (+30% YoY), DMX 86,8 ngàn tỷ (+29%). Bách Hóa Xanh 40,1 ngàn tỷ (+32%), mở 1.160 cửa hàng mới (đến 3.719 cửa hàng 14/9) — tiêu dùng bán lẻ mạnh, vượt kế hoạch năm."
+      "note": "27 cổ phiếu VN (VCB, VIC, VHM, BID, HPG, FPT, GEX, VNM v.v.) được thêm vào chỉ số FTSE. Đợt đầu 18/9: ~240 triệu USD. Nếu tỷ trọng VN tăng 0.95% năm 2027, chỉ quỹ Vanguard có thể đổ 4.45 tỷ USD. Dòng vốn tỉ lệ lớn vào những cổ phiếu blue-chip hàng đầu."
     },
     {
-      "title": "Cổ phiếu vừa/nhỏ bán tháo kịch sàn, 149 mã giảm 1%+",
+      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, tiến tới Top 22 toàn cầu",
+      "impact": "↑",
+      "note": "GDP (PPP) 2025 VN 1.838 tỷ USD sắp vượt Thái Lan 1.880 tỷ USD (chênh lệch 42 tỷ USD = 2%). Dự báo 2026 VN 2.025 tỷ USD vượt Thái Lan 1.963 tỷ USD. Xếp hạng thế giới từ 23 lên 22. Phản ánh tăng trưởng kinh tế bền vững của Việt Nam."
+    },
+    {
+      "title": "Nhóm GELEX (GEX, GEL, GEE) giảm sàn, liên quan vấn đề pháp lý",
       "impact": "↓",
-      "note": "Chỉ số Midcap -1,76%, Smallcap -0,77%, toàn sàn HoSE 149 mã giảm từ 1% trở lên. Kịch sàn: GEE (164,1 tỷ khớp), GEL (127,7 tỷ), GEX (556,5 tỷ). Giao dịch nhóm giảm chiếm 32,2% tổng sàn — tâm lý cá nhân yếu, rủi ro điều chỉnh."
+      "note": "GEX giảm 6.89%, GEL -6.91%, GEE -6.94%, rơi vùng giá thấp nhất 1-1.5 năm. GEE giảm 56% từ đỉnh tháng 5. Sự kiện: EEMC (công ty con) công bố khởi tố bị can ông Đặng Phan Tường (thành viên HĐQT). Thanh khoản cao (GEX 24.5 triệu cổ phiếu, GEE 2.8 triệu, GEL 4.9 triệu)."
     },
     {
-      "title": "Khối ngoại mua ròng 812 tỷ đồng, gom mạnh ngân hàng",
-      "impact": "↑",
-      "note": "Khối ngoại mua ròng 812 tỷ đồng toàn thị trường ngày 14/9. Mua mạnh: VPB (149 tỷ), MBB (136 tỷ), TCB (131 tỷ), FPT (117 tỷ). Bán: HPG (170 tỷ), VIC (77 tỷ), VNM (64 tỷ) — ủng hộ blue-chip ngân hàng."
-    },
-    {
-      "title": "Fed họp 15-16/9, xác suất tăng lãi suất 87%",
+      "title": "Cổ phiếu vừa-nhỏ điều chỉnh mạnh, 10 mã giảm sàn, rủi ro systemic tăng",
       "impact": "↓",
-      "note": "Cuộc họp FOMC tuần này với xác suất tăng lãi suất 87% theo CME FedWatch (tăng từ 67% tuần trước). Giá dầu tăng gây lo ngại lạm phát. Vàng giảm 0,7% xuống 4.317 USD/ounce 14/9, giảm 1,8% tuần trước — rủi ro thắt chặt toàn cầu."
+      "note": "Midcap -1.76%, Smallcap -0.77%. 10 mã giảm sàn bán dữ dội: GEE 164.1 tỷ đồng, GEL 127.7 tỷ, GEX 556.5 tỷ. VIX -4.91% (1,056 tỷ), NVL -2.05%, VND -3.63%, PNJ -3.75%. Nhóm nhỏ-vừa chiếm 32.2% khối lượng HSX. Chỉ số thanh khoản tăng nhưng sắc đỏ áp đảo (455 mã giảm vs 203 tăng)."
     }
   ]
 }
