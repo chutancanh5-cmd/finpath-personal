@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam vẫn chịu áp lực kép từ lạm phát quốc tế (lãi suất Mỹ 10 năm chạm 4.989%, giá dầu tăng vọt) và tâm lý nội địa bi quan (VN-Index thủng 1.800 điểm). Tuy nhiên, cơ hội cân bằng xuất hiện từ nâng hạng MSCI (246 triệu USD giải ngân 18/9) và FDI sản xuất mạnh (7 tỷ USD vào nhà xưởng), cùng triển vọng dài hạn tốt (GDP PPP sắp vượt Thái Lan). Kết quả họp Fed tuần tới sẽ quyết định xu hướng ngắn hạn.",
+  "summary_vi": "GDP (PPP) Việt Nam gần vượt Thái Lan, tiến tới Top 22 toàn cầu — tín hiệu tích cực vĩ mô. Tuy nhiên, Fed gần chắc tăng lãi suất (90% xác suất) ngày 15-16/9, kéo giá vàng giảm và tăng áp lực ngoại tệ. Dòng FDI mạnh (chiếm 80% xuất khẩu) nhưng doanh nghiệp nội tệ tụt lại (20%), phản ánh sức cạnh tranh kém. Giá dầu, lãi suất Mỹ tăng do xung đột Vùng Vịnh — rủi ro lạm phát ngắn hạn.",
   "top": [
     {
-      "title": "Dòng tiền nâng hạng: 246 triệu USD giải ngân 18/9",
+      "title": "GDP (PPP) Việt Nam vượt Thái Lan, tiến Top 22 toàn cầu",
       "impact": "↑",
-      "note": "Các ETF ngoại (FTSE, Xtrackers, VanEck, Fubon) tổng mua 450 triệu USD, bán 204 triệu USD, mua ròng 246 triệu USD trong đợt tái cơ cấu trước nâng hạng chính thức ngày 21/9/2026. VPB nhận 33 triệu USD mua vào nhiều nhất, hỗ trợ thanh khoản ngành ngân hàng."
+      "note": "GDP (PPP) VN 2025: 1.838 tỷ USD, kém Thái Lan 42 tỷ USD (2%). Dự báo 2026: VN 2.025 tỷ USD sẽ lên Top 2 Đông Nam Á, sau Indonesia (5.449 tỷ USD)."
     },
     {
-      "title": "Áp lực lạm phát: Lãi suất Mỹ 4.989%, dầu tăng chóng mặt",
+      "title": "Fed gần chắc tăng lãi suất tuần 15-16/9, vàng giảm 2%",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm tuần qua chạm 4.989%, cao nhất kể từ 26/10/2023; giá dầu WTI và Brent tăng do xung đột Vùng Vịnh gia tăng. Fed có khả năng tăng lãi suất, tác động tiêu cực đến định giá cổ phiếu qua chi phí vốn cao hơn."
+      "note": "Xác suất Fed tăng lãi suất đạt gần 90%. Giá vàng giảm 2% trong tuần, nợ công Mỹ hơn 40 nghìn tỷ USD tạo áp lực bán trái phiếu kho bạc."
     },
     {
-      "title": "VN-Index thủng 1.800 điểm, tâm lý bi quan",
+      "title": "FDI chiếm 80.1% xuất khẩu, doanh nghiệp nội tệ chỉ 19.9%",
       "impact": "↓",
-      "note": "VN-Index giảm 3,12% tuần trước, rơi 1.795,21 điểm, thất bại lần thứ 10 trong nỗ lực vượt 1.800 điểm. Big Black Candle xuất hiện với khối lượng vượt trung bình 20 phiên. Vùng hỗ trợ tiếp theo 1.770-1.780 điểm, xu hướng phụ thuộc kết quả họp Fed."
+      "note": "Khối FDI xuất khẩu 300 tỷ USD (tăng 27%), doanh nghiệp trong nước 74 tỷ USD (tăng 7.4%). Khoảng cách rộng thêm, hai nền kinh tế độc lập, doanh nghiệp nội lực yếu."
     },
     {
-      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, Top 22 toàn cầu",
+      "title": "Dự án nhà xưởng hút 7 tỷ USD FDI sản xuất",
       "impact": "↑",
-      "note": "IMF dự báo GDP (PPP) Việt Nam năm 2025 đạt 1.838 tỷ USD, khoảng cách Thái Lan (1.880 tỷ USD) chỉ 42 tỷ USD. Năm 2026 Việt Nam sẽ tăng 2.025 tỷ USD vượt Thái Lan, trở thành nền kinh tế thứ 2 Đông Nam Á, phản ánh sức tăng trưởng kinh tế dài hạn."
+      "note": "266 dự án nhà xưởng trong 468 dự án FDI mới (56.8%), thu hút 7 tỷ USD (66.2% tổng FDI sản xuất). Cuối năm dự kiến 1.900 ha đất công nghiệp, 700.000 m² nhà kho xây sẵn."
     },
     {
-      "title": "FDI sản xuất: 7 tỷ USD vào nhà xưởng, 1.900 ha đất",
-      "impact": "↑",
-      "note": "266/468 dự án FDI sản xuất mới (56,8%) là nhà xưởng, thu hút hơn 7 tỷ USD (66,2% vốn FDI). Cuối năm dự kiến thêm 1.900 ha đất công nghiệp, 700.000 m2 nhà kho xây sẵn, 1 triệu m2 nhà xưởng xây sẵn tại miền Bắc và miền Nam."
-    },
-    {
-      "title": "FDI chiếm 80,1% xuất khẩu, DN Việt tụt lại 19,9%",
+      "title": "Dầu, lãi suất Mỹ tăng mạnh do xung đột Vùng Vịnh",
       "impact": "↓",
-      "note": "8 tháng 2026: khu vực FDI xuất 300 tỷ USD (chiếm 80,1%), tăng 27%; khu vực nội địa 74 tỷ USD (chiếm 19,9%), tăng 7,4%. DN Việt gặp khó khăn cạnh tranh quốc tế, tạo nên hai nền kinh tế độc lập."
+      "note": "Cuộc tấn công gia tăng ở eo biển Hormuz đẩy dầu WTI, Brent tăng. Lãi suất trái phiếu kho bạc Mỹ 10 năm lên 4.989% (cao nhất từ 26/10/2023)."
+    },
+    {
+      "title": "MSB: Insider mua 20 triệu cổ phiếu gần 300 tỷ đồng",
+      "impact": "→",
+      "note": "Ông Trần Anh Đức chi gần 300 tỷ đồng mua vào, nâng sở hữu lên 0.53% vốn MSB. H1 2026 MSB lợi nhuận trước thuế 3.423 tỷ đồng, tăng 8% YoY."
     }
   ]
 }
