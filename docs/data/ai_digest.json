@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường hôm nay được hỗ trợ bởi dòng tiền ngoại mạnh (mua ròng 812 tỷ đồng, tập trung ngân hàng) và triển vọng vĩ mô tích cực (GDP PPP sắp vượt Thái Lan, FDI lớn từ TikTok). Tuy nhiên, những yếu tố rủi ro từ bên ngoài như kỳ vọng Fed tăng lãi suất 87% và xung đột Mỹ-Iran kéo áp lực lạm phát năng lượng cân bằng triển vọng dương. Khối mid/small-cap chịu bán mạnh là tín hiệu cảnh báo trước sự kiện chính sách tiền tệ lớn tuần tới.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đang trong trạng thái hỗn hợp: cổ phiếu vừa và nhỏ chịu áp lực bán mạnh (giao dịch chiếm 32,2% toàn sàn) trong khi blue-chips ổn định trở lại. Nền tảng vĩ mô vẫn tích cực với GDP (PPP) sắp vượt Thái Lan (chuẩn bị vào top 22 toàn cầu), FDI lớn từ TikTok (1 tỷ USD) và BIDV dành 1-1,5 triệu tỷ đồng cho Hà Nội 5 năm tới. Tuy nhiên, lo ngại lạm phát gia tăng (giá dầu tăng, xác suất Fed tăng lãi suất 87%) tạo rủi ro ngắn hạn cho thị trường.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng 812 tỷ đồng, tập trung gom ngân hàng",
-      "impact": "↑",
-      "note": "Khối ngoại mua ròng 812 tỷ đồng trên toàn thị trường, tập trung vào VPB (149 tỷ), MBB (136 tỷ), TCB (131 tỷ), FPT (117 tỷ). HPG bị bán ròng mạnh nhất 170 tỷ. Dòng tiền ngoại tích cực là tín hiệu hỗ trợ tăng trưởng tín dụng ngân hàng."
-    },
-    {
-      "title": "GDP (PPP) Việt Nam 1.838 tỷ USD năm 2025, sắp vượt Thái Lan",
-      "impact": "↑",
-      "note": "GDP (PPP) Việt Nam 2025 đạt 1.838 tỷ USD, chỉ cách Thái Lan (1.880 tỷ USD) 42 tỷ USD (2,2%). IMF dự báo 2026 Việt Nam đạt 2.025 tỷ USD sẽ vượt Thái Lan 1.963 tỷ USD, lên vị trí #2 ASEAN."
-    },
-    {
-      "title": "TikTok đầu tư 980 triệu USD logistics, 1 tỷ USD tổng quy mô FDI",
-      "impact": "↑",
-      "note": "Tokgistic Pte. Ltd. được cấp Giấy chứng nhận đầu tư ngày 07/09/2026 với vốn 980 triệu USD cho Swift Logistics (50 năm). Cộng TikTok Shop 25 triệu USD, tổng FDI 1 tỷ USD hướng tới 1-2 tỷ đơn hàng/năm, 45 triệu người dùng TikTok Payment, thương mại số 10 tỷ USD."
-    },
-    {
-      "title": "Fed 87% xác suất tăng lãi suất tuần 15-16/9, áp lực toàn cầu",
+      "title": "Cổ phiếu vừa và nhỏ chịu áp lực bán mạnh",
       "impact": "↓",
-      "note": "Xác suất Fed tăng lãi suất tại cuộc họp 15-16/9 tăng từ 67% lên 87% do dầu cao kéo lạm phát. Giá vàng giảm 0,7% xuống 4.317 USD/ounce. Thắt chặt tiền tệ Mỹ tạo rủi ro chảy vốn khỏi thị trường mới nổi."
+      "note": "Midcap -1,76%, Smallcap -0,77%, toàn sàn 149 mã giảm từ 1% trở lên, 10 mã kịch sàn. Thanh khoản nhóm cổ phiếu giảm sâu chiếm 32,2% tổng sàn HoSE, tín hiệu tâm lý yếu ở các nhà đầu tư nhỏ lẻ."
     },
     {
-      "title": "Mid/small-cap bán tháo kịch sàn, 149 mã HoSE giảm từ 1% trở lên",
-      "impact": "↓",
-      "note": "Chỉ số Midcap giảm 1,76%, Smallcap giảm 0,77%. 10 mã kịch sàn gồm GEX (556,5 tỷ đồng), GEE (164,1 tỷ), GEL (127,7 tỷ). Nhóm giảm từ 2% trở lên chiếm 28,8% giá trị khớp toàn sàn, tín hiệu áp lực bán dữ dội."
-    },
-    {
-      "title": "BIDV cấp 1-1,5 triệu tỷ đồng tín dụng cho Hà Nội 2026-2030",
+      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, top 22 toàn cầu",
       "impact": "↑",
-      "note": "BIDV dự kiến dành 1-1,5 triệu tỷ đồng tín dụng cho Hà Nội 5 năm tới. Trước đó 2021-2025 đã bố trí 270 triệu tỷ đồng (tăng bình quân 23%/năm) cho hạ tầng-giao thông-năng lượng. Chính sách tín dụng mở rộng hỗ trợ tăng trưởng đô thị."
+      "note": "GDP (PPP) năm 2025: 1.838 tỷ USD (chỉ chênh 42 tỷ USD so với Thái Lan 1.880 tỷ USD). Dự báo 2026: Việt Nam 2.025 tỷ USD, vượt lên vị trí 2 trong Đông Nam Á."
+    },
+    {
+      "title": "TikTok đầu tư 1 tỷ USD FDI vào Việt Nam",
+      "impact": "↑",
+      "note": "Swift Logistics (980 triệu USD, giai đoạn 2026-2027), TikTok Shop (25 triệu USD). Logistics dự kiến 1-2 tỷ đơn hàng/năm, thanh toán số phục vụ 45 triệu người dùng, thương mại điện tử trên 10 tỷ USD/năm."
+    },
+    {
+      "title": "BIDV dành 1-1,5 triệu tỷ đồng tín dụng cho Hà Nội 5 năm",
+      "impact": "↑",
+      "note": "BIDV là tổ chức tín dụng lớn nhất Hà Nội (15-17% tổng vốn địa bàn), đã dành hơn 270 nghìn tỷ đồng (2021-2025) cho hạ tầng, giao thông, năng lượng, đô thị và tín dụng xanh."
+    },
+    {
+      "title": "Cuộc họp Fed 15-16/9 ảnh hưởng giá vàng và lãi suất",
+      "impact": "↓",
+      "note": "Giá vàng giảm 0,7% xuống 4.317 USD/ounce hôm 14/9, giảm 1,8% tuần trước. Xác suất Fed tăng lãi suất 87% (tăng từ 67%). Giá dầu tăng gây lo ngại lạm phát kéo dài."
+    },
+    {
+      "title": "Khối ngoại mua ròng 812 tỷ đồng, gom ngân hàng",
+      "impact": "↑",
+      "note": "Khối ngoại mua ròng 812 tỷ đồng. Mua mạnh VPB (149 tỷ), MBB (136 tỷ), TCB (131 tỷ), FPT (117 tỷ). Bán ròng HPG (170 tỷ). Tín hiệu tích cực từ nhà đầu tư nước ngoài."
     }
   ]
 }
