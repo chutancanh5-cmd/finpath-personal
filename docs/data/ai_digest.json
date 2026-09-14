@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nâng hạng FTSE giải ngân ~240 triệu USD vào 27 cổ phiếu Việt Nam trong tuần, FDI từ TikTok 1 tỷ USD (logistics Swift 980M USD, thương mại số), GDP (PPP) sắp vượt Thái Lan. Doanh nghiệp tăng trưởng mạnh (MWG +30% doanh thu). Tuy nhiên, phiên 14/9 thị trường giảm mạnh với cổ phiếu vừa/nhỏ sụt sàn kịch liệt (Midcap -1,76%, 455 mã giảm, 10 mã chạm sàn), rủi ro điều chỉnh cao hơn mức hỗ trợ từ bluechip.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam có dấu hiệu tích cực từ khối ngoại mua ròng 800+ tỷ đồng và khoảng 240 triệu USD ETF sắp giải ngân trước nâng hạng FTSE, cùng với tăng trưởng kinh tế mạnh (du lịch, bán lẻ, FDI). Tuy nhiên, giá dầu Brent lên gần 108 USD/thùng do gián đoạn Saudi Arabia tạo áp lực lạm phát, lãi suất ngân hàng cao (7,8%/năm) cạnh tranh với cổ phiếu, và VN-Index giảm điểm khiến nhà đầu tư thận trọng. Cơ hội nâng hạng bị kìm hãm bởi rủi ro điều chỉnh ngắn hạn.",
   "top": [
     {
-      "title": "Nâng hạng FTSE: 240 triệu USD tuần đầu vào 27 cổ phiếu Việt Nam",
+      "title": "Khối ngoại mua ròng 800+ tỷ trước nâng hạng FTSE",
       "impact": "↑",
-      "note": "27 cổ phiếu Việt Nam được thêm vào chỉ số FTSE, quỹ mô phỏng dự kiến giải ngân khoảng 240 triệu USD trong đợt đầu (18/9), chính thức có hiệu lực 21/9. Nếu tỷ trọng Việt Nam tăng lên 0,95% tháng 9/2027, dòng tiền từ Vanguard có thể lên tới 4,45 tỷ USD toàn bộ lộ trình."
+      "note": "Nhà đầu tư nước ngoài mua ròng 812,5 tỷ đồng (821,7 tỷ khớp lệnh), đồng thời khoảng 240 triệu USD ETF dự kiến giải ngân vào 27 cổ phiếu Việt Nam ngày 18/9 trước khi chính thức nâng hạng ngày 21/9."
     },
     {
-      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, lên vị trí thứ 2 khu vực",
-      "impact": "↑",
-      "note": "GDP (PPP) Việt Nam 2025 đạt 1.838 tỷ USD, chỉ kém Thái Lan (1.880 tỷ USD) 42 tỷ USD (2%). Dự báo 2026 Việt Nam đạt 2.025 tỷ USD sẽ vượt Thái Lan (1.963 tỷ USD), xếp thứ 2 Đông Nam Á sau Indonesia (5.449 tỷ USD)."
-    },
-    {
-      "title": "TikTok đầu tư 1 tỷ USD tại Việt Nam: Swift Logistics 980 triệu USD, TikTok Shop 25 triệu USD",
-      "impact": "↑",
-      "note": "TikTok thông qua Tokgistic Pte. Ltd. (Singapore) được cấp Giấy chứng nhận đầu tư Swift Logistics với vốn đăng ký 980 triệu USD, thời hạn 50 năm. Cộng TikTok Shop 25 triệu USD. Logistics dự kiến 1-2 tỷ đơn hàng/năm, TikTok Payment phục vụ 45 triệu người dùng, thương mại số trên 10 tỷ USD/năm."
-    },
-    {
-      "title": "MWG tăng trưởng 30%, Bách Hóa Xanh mở 1.160 cửa hàng trong 8 tháng",
-      "impact": "↑",
-      "note": "MWG công bố doanh thu 129,4 ngàn tỷ đồng trong 8 tháng 2026, tăng 30%. Bách Hóa Xanh tăng gần 32% với 40,1 ngàn tỷ đồng, mở 1.160 cửa hàng mới, hiện có 3.719 cửa hàng, hoàn thành kế hoạch năm."
-    },
-    {
-      "title": "Cổ phiếu vừa nhỏ giảm kịch sàn, 10 mã sàn sàn, rủi ro độ rộng gia tăng",
+      "title": "Giá dầu Brent lên gần 108 USD/thùng do gián đoạn Saudi Arabia",
       "impact": "↓",
-      "note": "Chỉ số Midcap giảm 1,76%, Smallcap giảm 0,77%. Toàn sàn HoSE 455 mã giảm vs 203 mã tăng. Có 10 mã giảm kịch sàn (GEX khớp 556,5 tỷ đồng, GEE khớp 164,1 tỷ, GEL khớp 127,7 tỷ), VIX giảm 4,91%, NVL giảm 2,05%, 149 mã giảm ≥1% trên HoSE."
+      "note": "Sau khi Ả Rập Saudi đóng tuyến đường ống quan trọng, giá dầu tăng mạnh tạo sức ép lên cân đối ngân sách, kiểm soát lạm phát, tỷ giá; giới hạn dư địa ổn định lãi suất hỗ trợ tăng trưởng GDP."
     },
     {
-      "title": "SSB tăng trần 6,83%, được thêm MarketVector Vietnam Local Index",
+      "title": "MWG tăng trưởng 30%, Bách Hóa Xanh vượt kế hoạch mở 1000 cửa hàng",
       "impact": "↑",
-      "note": "SeABank SSB tăng hết biên độ 6,83% lên 19.550 đồng, thanh khoản tăng vọt 5,6 triệu đơn vị, dư mua giá trần >1,5 triệu cổ phiếu. Giá cao nhất 3 năm, vốn hóa 67.815 tỷ đồng, do được thêm vào danh mục MarketVector Vietnam Local Index."
+      "note": "MWG đạt doanh thu 129,4 ngàn tỷ đồng tăng 30% trong 8 tháng, Bách Hóa Xanh 40,1 ngàn tỷ tăng 32%, hoàn thành và vượt kế hoạch mở mới toàn năm, dẫn dắt tăng trưởng bán lẻ."
+    },
+    {
+      "title": "Du lịch Việt Nam hướng 25-27 triệu khách quốc tế, 1.125-1.230 triệu tỷ doanh thu năm 2026",
+      "impact": "↑",
+      "note": "Bộ Văn hóa đặt kịch bản phát triển du lịch gắn mục tiêu tăng trưởng hai con số, hướng tới 90 tỷ USD năm 2030, với thị trường Trung Quốc, Hàn Quốc, Ấn Độ, Nga là động lực chính."
+    },
+    {
+      "title": "TikTok đầu tư 1 tỷ USD, Swift Logistics 980 triệu USD vào Việt Nam",
+      "impact": "↑",
+      "note": "Tokgistic (nhà đầu tư Singapore) được cấp Giấy chứng nhận đầu tư cho dự án Swift Logistics với tổng vốn đăng ký 980 triệu USD, hoạt động 50 năm, bổ sung vốn FDI chất lượng cao vào logistics, thanh toán số, thương mại điện tử."
+    },
+    {
+      "title": "VN-Index giảm, lãi suất ngân hàng cao 7,8%/năm cạnh tranh với cổ phiếu",
+      "impact": "↓",
+      "note": "VN-Index giảm gần 7 điểm còn 1788,23 điểm, 14/18 ngành giảm, áp lực phân phối vẫn hiện hữu; lãi suất 12 tháng cao nhất ACB 7,8%/năm hấp dẫn nhà đầu tư thận trọng."
     }
   ]
 }
