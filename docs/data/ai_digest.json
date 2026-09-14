@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận áp lực bán tháo ở mid/small-cap ngày hôm nay (Midcap -1,76%, 10 mã kịch sàn), khi cuộc họp Fed tuần này (15-16/9) có xác suất tăng lãi suất 87% tạo lo ngại lạm phát từ giá dầu cao. Tuy nhiên, triển vọng kinh tế dài hạn vẫn tích cực: GDP (PPP) Việt Nam sắp vượt Thái Lan, và vốn FDI từ TikTok (980 triệu USD logistics) mở rộng mạnh mẽ tạo hỗ trợ.",
+  "summary_vi": "Thị trường hôm nay được hỗ trợ bởi dòng tiền ngoại mạnh (mua ròng 812 tỷ đồng, tập trung ngân hàng) và triển vọng vĩ mô tích cực (GDP PPP sắp vượt Thái Lan, FDI lớn từ TikTok). Tuy nhiên, những yếu tố rủi ro từ bên ngoài như kỳ vọng Fed tăng lãi suất 87% và xung đột Mỹ-Iran kéo áp lực lạm phát năng lượng cân bằng triển vọng dương. Khối mid/small-cap chịu bán mạnh là tín hiệu cảnh báo trước sự kiện chính sách tiền tệ lớn tuần tới.",
   "top": [
     {
-      "title": "Mid/small-cap bán tháo kịch sàn 10 mã, Midcap -1,76%",
-      "impact": "↓",
-      "note": "149 mã HoSE giảm từ 1% trở lên, 10 mã kịch sàn gồm GEE (khớp 164,1 tỷ đồng), GEL (127,7 tỷ), GEX (556,5 tỷ). Nhóm giảm từ 2% trở lên chiếm 28,8% giá trị khớp toàn sàn HoSE."
-    },
-    {
-      "title": "Fed meeting 15-16/9 tăng lãi suất xác suất 87%, áp lực lạm phát",
-      "impact": "↓",
-      "note": "Xác suất Fed tăng lãi suất tăng từ 67% lên 87% do giá dầu cao kéo lạm phát. Vàng giảm 0,7% xuống 4.317 USD/ounce. Thắt chặt tiền tệ Mỹ rủi ro lôi kéo vốn ngoại khỏi thị trường mới nổi."
-    },
-    {
-      "title": "GDP PPP Việt Nam 2025 đạt 1.838 tỷ USD, sắp vượt Thái Lan",
+      "title": "Khối ngoại mua ròng 812 tỷ đồng, tập trung gom ngân hàng",
       "impact": "↑",
-      "note": "GDP (PPP) 2025 Việt Nam 1.838 tỷ USD chênh Thái Lan (1.880 tỷ USD) chỉ 42 tỷ USD. IMF dự báo 2026 Việt Nam 2.025 tỷ USD sẽ vượt Thái Lan 1.963 tỷ USD, lên vị trí #2 ASEAN sau Indonesia."
+      "note": "Khối ngoại mua ròng 812 tỷ đồng trên toàn thị trường, tập trung vào VPB (149 tỷ), MBB (136 tỷ), TCB (131 tỷ), FPT (117 tỷ). HPG bị bán ròng mạnh nhất 170 tỷ. Dòng tiền ngoại tích cực là tín hiệu hỗ trợ tăng trưởng tín dụng ngân hàng."
     },
     {
-      "title": "TikTok Tokgistic vốn đăng ký 980 triệu USD logistics tại Việt Nam",
+      "title": "GDP (PPP) Việt Nam 1.838 tỷ USD năm 2025, sắp vượt Thái Lan",
       "impact": "↑",
-      "note": "Tokgistic Pte. Ltd. (Singapore) được cấp Giấy chứng nhận đầu tư ngày 07/09/2026 với vốn 980 triệu USD cho Swift Logistics. Quy mô: 1-2 tỷ đơn hàng logistics/năm, TikTok Payment phục vụ 45 triệu người dùng, thương mại số 10 tỷ USD GMV/năm."
+      "note": "GDP (PPP) Việt Nam 2025 đạt 1.838 tỷ USD, chỉ cách Thái Lan (1.880 tỷ USD) 42 tỷ USD (2,2%). IMF dự báo 2026 Việt Nam đạt 2.025 tỷ USD sẽ vượt Thái Lan 1.963 tỷ USD, lên vị trí #2 ASEAN."
     },
     {
-      "title": "Chiến tranh Mỹ-Iran 6+ tháng, dự trữ dầu suy giảm rủi ro tăng giá",
+      "title": "TikTok đầu tư 980 triệu USD logistics, 1 tỷ USD tổng quy mô FDI",
+      "impact": "↑",
+      "note": "Tokgistic Pte. Ltd. được cấp Giấy chứng nhận đầu tư ngày 07/09/2026 với vốn 980 triệu USD cho Swift Logistics (50 năm). Cộng TikTok Shop 25 triệu USD, tổng FDI 1 tỷ USD hướng tới 1-2 tỷ đơn hàng/năm, 45 triệu người dùng TikTok Payment, thương mại số 10 tỷ USD."
+    },
+    {
+      "title": "Fed 87% xác suất tăng lãi suất tuần 15-16/9, áp lực toàn cầu",
       "impact": "↓",
-      "note": "Dầu được vận chuyển qua tuyến thay thế nhưng dự trữ toàn cầu suy giảm. Nếu dự trữ cạn kiệt, giá năng lượng có thể tăng mạnh, buộc Fed duy trì thắt chặt và gia tăng áp lực lạm phát toàn cầu."
+      "note": "Xác suất Fed tăng lãi suất tại cuộc họp 15-16/9 tăng từ 67% lên 87% do dầu cao kéo lạm phát. Giá vàng giảm 0,7% xuống 4.317 USD/ounce. Thắt chặt tiền tệ Mỹ tạo rủi ro chảy vốn khỏi thị trường mới nổi."
     },
     {
-      "title": "Quảng Ninh điều chỉnh tăng mục tiêu GRDP quý 3 lên 15,48%",
+      "title": "Mid/small-cap bán tháo kịch sàn, 149 mã HoSE giảm từ 1% trở lên",
+      "impact": "↓",
+      "note": "Chỉ số Midcap giảm 1,76%, Smallcap giảm 0,77%. 10 mã kịch sàn gồm GEX (556,5 tỷ đồng), GEE (164,1 tỷ), GEL (127,7 tỷ). Nhóm giảm từ 2% trở lên chiếm 28,8% giá trị khớp toàn sàn, tín hiệu áp lực bán dữ dội."
+    },
+    {
+      "title": "BIDV cấp 1-1,5 triệu tỷ đồng tín dụng cho Hà Nội 2026-2030",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản GRDP quý 3 lên 15,48%, hướng tới 12,56% cho 9 tháng và 13,21% cả năm. Tập trung công nghiệp chế biến/chế tạo tăng tốc, khẳng định vị thế cực tăng trưởng phía Bắc."
+      "note": "BIDV dự kiến dành 1-1,5 triệu tỷ đồng tín dụng cho Hà Nội 5 năm tới. Trước đó 2021-2025 đã bố trí 270 triệu tỷ đồng (tăng bình quân 23%/năm) cho hạ tầng-giao thông-năng lượng. Chính sách tín dụng mở rộng hỗ trợ tăng trưởng đô thị."
     }
   ]
 }
