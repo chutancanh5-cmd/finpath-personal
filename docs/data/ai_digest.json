@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Phiên 14/9 thị trường điều chỉnh (VN-Index -0.39%, HNX -0.27%) do áp lực bán cổ phiếu vừa/nhỏ (455 mã giảm, 32.2% khối lượng HSX), khối ngoại bắt đáy bluechip ổn định tâm lý. Tích cực từ dòng vốn FTSE (~240 triệu USD tuần này), tăng trưởng MWG 30% và Bách Hóa Xanh 32%, FDI TikTok 980 triệu USD, GDP (PPP) sắp vượt Thái Lan. Rủi ro ngắn hạn từ bán tháo mid/smallcap và kỳ vọng Fed tăng lãi suất (87% xác suất, 15-16/9).",
+  "summary_vi": "Thị trường ghi nhận dòng vốn ngoài tích cực từ nâng hạng FTSE (~240 triệu USD) và FDI lớn (TikTok Logistics 980 triệu USD), đồng thời tăng trưởng doanh nghiệp ở mức tốt (MWG +30%, GDP PPP sắp vượt Thái Lan). Tuy nhiên, áp lực từ cổ phiếu vừa và nhỏ giảm kịch sàn (Midcap -1,76%, Smallcap -0,77%), rủi ro lạm phát khi Fed sắp họp với khả năng tăng lãi 87%, và độ rộng thị trường yếu đang là những yếu tố cân bằng triển vọng ngắn hạn.",
   "top": [
     {
-      "title": "Cổ phiếu vừa/nhỏ bán tháo mạnh, 10 mã kịch sàn",
+      "title": "Nâng hạng FTSE: 240 triệu USD chảy vào 27 cổ phiếu Việt Nam",
+      "impact": "↑",
+      "note": "27 cổ phiếu Việt Nam được thêm vào chỉ số FTSE (VCB, VIC, VHM, BID, HPG, FPT, GEX, SSB, VNM v.v.), quỹ mô phỏng giải ngân khoảng 240 triệu USD trong đợt đầu (18/9). Chính thức có hiệu lực từ 21/9. Nếu tỷ trọng Việt Nam tăng lên 0,95% tháng 9/2027, dòng tiền từ riêng Vanguard có thể lên tới 4,45 tỷ USD."
+    },
+    {
+      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, lên top 22 toàn cầu",
+      "impact": "↑",
+      "note": "GDP (PPP) Việt Nam 2025 đạt khoảng 1.838 tỷ USD, chỉ cách Thái Lan (1.880 tỷ USD) 42 tỷ USD (~2%). Dự báo 2026 Việt Nam đạt 2.025 tỷ USD sẽ vượt Thái Lan (1.963 tỷ USD), xếp thứ 2 khu vực Đông Nam Á sau Indonesia."
+    },
+    {
+      "title": "Cổ phiếu vừa nhỏ giảm kịch sàn, rủi ro độ rộng gia tăng",
       "impact": "↓",
-      "note": "Midcap -1.76%, Smallcap -0.77%. GEX, GEE, GEL giảm sàn với khối lượng: GEE 164.1 tỷ đ, GEL 127.7 tỷ đ, GEX 556.5 tỷ đ. Cổ phiếu không VN30 giảm ≥1% chiếm 32.2% tổng khối lượng HSX. Nhiều mã như VIX (-4.91%), PNJ (-3.75%), VND (-3.63%) bán tháo mạnh."
+      "note": "Midcap giảm 1,76%, Smallcap giảm 0,77%; 10 mã giảm kịch sàn (GEE, GEL, GEX), VIX giảm 4,91%, NVL giảm 2,05%. Tổng cộng 149 mã giảm ≥1% trên HoSE, cho thấy diễn biến rất tệ ở nhóm vừa và nhỏ dù bluechip ổn định."
     },
     {
-      "title": "Nâng hạng FTSE: ~240 triệu USD cho 27 cổ phiếu Việt tuần này",
-      "impact": "↑",
-      "note": "27 cổ phiếu (VCB, VIC, VHM, BID, HPG, VPB, FPT, GEX, HDB, SSB, VNM...) thêm vào FTSE Emerging All Cap từ 21/9. Quỹ mô phỏng chỉ số giải ngân dự kiến 240 triệu USD vào 18/9. Nếu tỷ trọng Việt Nam lên 0.95% năm 2027, quỹ Vanguard có thể đưa 4.45 tỷ USD."
-    },
-    {
-      "title": "MWG tăng trưởng 30%, Bách Hóa Xanh vượt kế hoạch",
-      "impact": "↑",
-      "note": "MWG 8 tháng 2026 doanh thu 129.4 ngàn tỷ đ (+30% YoY). DMX 86.8 ngàn tỷ (+29%), Bách Hóa Xanh 40.1 ngàn tỷ (+32%). Bách Hóa Xanh mở 1,160 cửa hàng mới (hiện 3,719), hoàn thành kế hoạch cả năm sớm."
-    },
-    {
-      "title": "Swift Logistics (TikTok) được phê duyệt 980 triệu USD",
-      "impact": "↑",
-      "note": "Tokgistic (Singapore) cấp Giấy chứng nhận 7/9/2026 cho dự án Swift Logistics vốn 980 triệu USD, thời hạn 50 năm. Cộng TikTok Shop 25 triệu USD (4/2026), tổng FDI hơn 1 tỷ USD cho logistics, thanh toán số, thương mại điện tử."
-    },
-    {
-      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, Top 22 thế giới",
-      "impact": "↑",
-      "note": "IMF dự báo GDP (PPP) Việt Nam 2025 đạt 1.838 tỷ USD, chỉ cách Thái Lan (1.880 tỷ USD) 42 tỷ USD (~2%). Năm 2026 Việt Nam dự kiến 2.025 tỷ USD, vượt lên vị trí 2 Đông Nam Á sau Indonesia (5.449 tỷ USD)."
-    },
-    {
-      "title": "Fed tuần này có thể tăng lãi suất, xác suất 87%",
+      "title": "Fed họp 15-16/9: Khả năng tăng lãi suất 87%, áp lực lạm phát",
       "impact": "↓",
-      "note": "Cuộc họp Fed 15-16/9 xác suất tăng lãi suất tăng lên 87% từ 67% một tuần trước. Giá dầu tăng mạnh gây lo ngại lạm phát. Vàng giảm 0.7% xuống 4.317 USD/ounce trong ngày, USD tăng 20-25 đồng."
+      "note": "Cuộc họp chính sách tiền tệ Fed diễn ra 15-16/9. Xác suất Fed tăng lãi suất đã tăng lên 87% (từ 67% một tuần trước) do lo ngại lạm phát từ giá dầu tăng. Giá vàng giao ngay giảm 0,7% xuống 4.317 USD/ounce, giảm 1,8% trong tuần."
+    },
+    {
+      "title": "MWG tăng trưởng doanh thu 30%, Bách Hóa Xanh vượt kế hoạch",
+      "impact": "↑",
+      "note": "MWG công bố doanh thu 129,4 ngàn tỷ đồng trong 8 tháng, tăng 30% so với cùng kỳ. Bách Hóa Xanh tăng gần 32%, mở hơn 1.000 cửa hàng mới, hiện có 3.719 cửa hàng (tăng 1.160 so với đầu năm), hoàn thành kế hoạch cả năm."
+    },
+    {
+      "title": "SSB tăng trần 6,83%, được thêm vào MarketVector Vietnam Index",
+      "impact": "↑",
+      "note": "SeABank SSB tăng hết biên độ 6,83% lên 19.550 đồng, thanh khoản 5,6 triệu đơn vị, dư mua trần >1,5 triệu cổ phiếu. Mức giá cao nhất 3 năm, vốn hóa 67.815 tỷ đồng. Do được thêm vào danh mục MarketVector Vietnam Local Index."
     }
   ]
 }
