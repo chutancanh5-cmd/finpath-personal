@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-09-14",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Nâng hạng từ FTSE Russell từ 21/9 sẽ kích hoạt khoảng 1,45 tỷ USD dòng vốn thụ động, tập trung vào ngân hàng Việt. GDP PPP Việt Nam dự báo vượt Thái Lan từ 2026 và FDI công nghiệp hút 7 tỷ USD cơ hội lớn. Tuy nhiên, Fed có xác suất 90% tăng lãi suất vào 15-16/9 giữa áp lực lạm phát, tạo rủi ro biến động thị trường ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam được kỳ vọng lớn sau quyết định nâng hạng của FTSE Russell từ 21/9, có thể kích hoạt hơn 1,45 tỷ USD dòng vốn mới chủ yếu vào ngân hàng. Nền kinh tế vĩ mô khỏe với GDP (PPP) sắp vượt Thái Lan từ 2026 và dòng FDI vào sản xuất mạnh hơn 7 tỷ USD. Tuy nhiên, áp lực từ giá dầu tăng lên 107 USD/thùng, khả năng Fed tăng lãi suất 90% vào 15-16/9, và khoảng cách xuất khẩu ngày càng lớn giữa khu vực FDI và doanh nghiệp Việt cần được chú ý.",
   "top": [
     {
       "title": "FTSE Russell nâng hạng thị trường Việt từ 21/9",
@@ -13,6 +13,11 @@
       "title": "GDP PPP Việt Nam vượt Thái Lan từ 2026",
       "impact": "↑",
       "note": "Theo IMF, GDP PPP Việt Nam 2026 dự báo đạt 2.025 tỷ USD, sắp vượt Thái Lan 1.963 tỷ USD. Năm 2025 khoảng cách chỉ 42 tỷ USD, Việt Nam sẽ giữ vị trí thứ 2 Đông Nam Á sau Indonesia 5.449 tỷ USD."
+    },
+    {
+      "title": "Giá dầu leo thang lên trên 100 USD/thùng",
+      "impact": "↓",
+      "note": "Giá dầu Brent tăng lên gần 107,7 USD/thùng, giá dầu WTI đạt 102,8 USD/thùng (tăng 2,8%), phản ánh căng thẳng địa geopolitics giữa Mỹ - Iran và tạo áp lực lạm phát toàn cầu mặc dù Tổng thống Trump dự báo xung đột sắp kết thúc."
     },
     {
       "title": "FDI công nghiệp hút 7 tỷ USD, 1.900 ha đất",
@@ -27,12 +32,7 @@
     {
       "title": "Doanh nghiệp Việt tụt lại trong xuất khẩu so FDI",
       "impact": "↓",
-      "note": "8 tháng qua, khu vực FDI xuất khẩu 300 tỷ USD (+27%), chiếm 80,1% tổng kim ngạch. Khu vực doanh nghiệp trong nước chỉ 74 tỷ USD (+7,4%), chiếm 19,9%. Khoảng cách rộng thêm so 2025."
-    },
-    {
-      "title": "Hội nghị Luân Đôn: Chiến lược nâng tầm thị trường vốn",
-      "impact": "↑",
-      "note": "Hội nghị Ngày Thị trường vốn Việt Nam 2026 tại Luân Đôn quy tụ 300 đại biểu, chủ đề 'Động lực kỷ nguyên tăng trưởng mới'. Khẳng định nỗ lực nâng hạng, thu hút dòng vốn ngoại và đa dạng hóa kênh huy động quốc tế."
+      "note": "8 tháng qua, khu vực FDI xuất khẩu hơn 300 tỷ USD (+27%), chiếm 80,1% tổng kim ngạch. Khu vực doanh nghiệp trong nước chỉ hơn 74 tỷ USD (+7,4%), chiếm 19,9%. Khoảng cách rộng thêm so 2025, cho thấy sự phân hóa sâu giữa hai khu vực."
     }
   ]
 }
