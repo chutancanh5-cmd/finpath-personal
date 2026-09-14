@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-14",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đứng trước viễn cảnh tương phản: triển vọng dài hạn tích cực từ GDP (PPP) sắp vượt Thái Lan, dòng FDI chất lượng cao hơn 7 tỷ USD vào nhà xưởng, và sự quan tâm gia tăng của nhà đầu tư nước ngoài sau nâng hạng. Tuy nhiên, rủi ro ngắn hạn lớn từ Fed chuẩn bị tăng lãi suất (xác suất ~90%), áp lực lạm phát VN gia tăng với dư địa kiểm soát CPI gần như không còn, và VN-Index đã rơi dưới 1.800 điểm. Cân bằng giữa yếu tố tích cực dài hạn và áp lực tiêu cực ngắn hạn yêu cầu nhà đầu tư thận trọng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nâng hạng FTSE Russell (21/9) là sự kiện macro chính, kích hoạt dòng vốn ngoại vào 27 cổ phiếu Việt. FDI nhà xưởng (7 tỷ USD), tăng trưởng khu vực (Quảng Ninh 15,48%) và triển vọng GDP PPP vượt Thái Lan (2.025 tỷ USD, 2026) hỗ trợ định giá. Tuy nhiên, kỳ vọng Fed tăng lãi suất có thể tạo áp lực ngắn hạn.",
   "top": [
     {
-      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, tiến tới Top 22 toàn cầu",
+      "title": "Nâng hạng FTSE Russell từ 21/9",
       "impact": "↑",
-      "note": "IMF dự báo GDP (PPP) VN năm 2025 đạt 1.838 tỷ USD, sắp vượt Thái Lan (1.880 tỷ USD) với chỉ khoảng cách 42 tỷ USD (2%). Năm 2026, VN dự kiến tăng lên 2.025 tỷ USD, vượt Thái Lan để đứng vị trí thứ hai trong Đông Nam Á sau Indonesia (5.449 tỷ USD), khẳng định vị thế kinh tế vùng và tiềm năng tăng trưởng lâu dài."
+      "note": "FTSE Russell chính thức nâng hạng Việt Nam từ thị trường cận biên lên thị trường mới nổi thứ cấp, có hiệu lực từ 21/9/2026. Sự kiện kích hoạt tái cơ cấu danh mục từ các quỹ theo dõi chỉ số quốc tế, dòng vốn ngoại bổ sung đáng kể cho 27 cổ phiếu Việt được đưa vào FTSE Global All Cap Index."
     },
     {
-      "title": "FDI nhà xưởng hút hơn 7 tỷ USD trong 468 dự án sản xuất mới",
+      "title": "SSB vào MarketVector Vietnam Local Index & FTSE Global All Cap",
       "impact": "↑",
-      "note": "Trong tổng 468 dự án FDI sản xuất đăng ký mới, 266 dự án nhà xưởng chiếm 56,8%, thu hút khoảng 7 tỷ USD tương đương 66,2% tổng vốn FDI sản xuất. Cuối năm 2026 dự kiến đón 1.900 ha đất công nghiệp, 700.000 m² nhà kho và 1 triệu m² nhà xưởng, phản ánh dòng vốn chất lượng cao đang dịch chuyển vào Việt Nam."
+      "note": "SSB là cổ phiếu duy nhất được thêm vào MarketVector Vietnam Local Index quý 3/2026 (VanEck mua mới 13,2 triệu cổ phiếu), đồng thời vào FTSE Global All Cap Index từ 21/9/2026. Cổ phiếu tăng trần 14/9 lên 19.550 đồng, vốn hóa gần 68.000 tỷ đồng, cao nhất trong 3 năm."
     },
     {
-      "title": "Nhà đầu tư Vương quốc Anh tăng quan tâm thị trường VN sau nâng hạng",
+      "title": "GDP PPP Việt Nam 2026 dự kiến vượt Thái Lan",
       "impact": "↑",
-      "note": "Thứ trưởng Bộ Tài chính Nguyễn Đức Chi nhấn mạnh dòng vốn quốc tế đang dịch chuyển mạnh mẽ, VN kiên định mục tiêu ổn định kinh tế vĩ mô, cải thiện môi trường đầu tư, thúc đẩy đổi mới sáng tạo, chuyển đổi số và tăng trưởng xanh. Sự nâng cấp quan hệ lên Đối tác chiến lược toàn diện tạo dư địa hợp tác trong thị trường vốn, tài chính xanh, fintech, tài trợ thương mại."
+      "note": "Theo IMF, GDP (PPP) Việt Nam năm 2026 dự kiến đạt 2.025 tỷ USD, vượt Thái Lan (1.963 tỷ USD) để vươn lên vị trí thứ 2 ASEAN. Năm 2025, Việt Nam đạt 1.838 tỷ USD, chỉ kém Thái Lan 42 tỷ USD (2%). Tín hiệu kinh tế dài hạn khẳng định tiềm năng tăng trưởng."
     },
     {
-      "title": "Fed chuẩn bị tăng lãi suất với xác suất khoảng 90%",
-      "impact": "↓",
-      "note": "Cuộc họp chính sách tiền tệ Fed diễn ra 15-16/9/2026 với xác suất tăng lãi suất gần 90%. Lạm phát Mỹ vẫn trên mục tiêu 2%, lợi suất trái phiếu 10 năm tiến sát 5% — mức có thể đe dọa xu hướng tăng điểm của thị trường Phố Wall. Động thái này có thể khởi động chu kỳ thắt chặt mới, tác động lên dòng chảy vốn quốc tế vào thị trường mới nổi."
+      "title": "FDI nhà xưởng thu hút 7 tỷ USD",
+      "impact": "↑",
+      "note": "Trong 468 dự án FDI sản xuất mới, 266 dự án nhà xưởng chiếm 56,8%, thu hút hơn 7 tỷ USD (66,2% tổng vốn FDI sản xuất). Cuối năm 2026 dự kiến đón 1.900 ha đất công nghiệp, gần 700.000 m² nhà kho và 1 triệu m² nhà xưởng, hỗ trợ giá trị gia tăng và thu hút ngành sản xuất công nghệ cao."
     },
     {
-      "title": "Áp lực lạm phát VN gia tăng, dư địa kiểm soát CPI gần như không còn",
-      "impact": "↓",
-      "note": "MBS cảnh báo lạm phát nửa cuối 2026 gia tăng từ yếu tố ngoại tệ và nội tại. Bộ Tài chính cập nhật 3 kịch bản CPI 2026 ở mức 4,5%, 5% và 5,5%. Ngân hàng Nhà nước dự báo bình quân năm 4,5-5,5%. Giá hàng hóa, năng lượng, chi phí vận chuyển và yếu tố tiền tệ cùng tạo sức ép, ảnh hưởng khả năng kiểm soát giá cả."
+      "title": "Quảng Ninh nâng mục tiêu GRDP năm 13,21%",
+      "impact": "↑",
+      "note": "Thành phố Quảng Ninh điều chỉnh kịch bản GRDP Q3/2026 lên 15,48%, hướng tới 9 tháng 12,56% và cả năm 13,21%. Động lực chính từ công nghiệp chế biến, chế tạo, hỗ trợ tăng trưởng khu vực miền Bắc và các công ty liên quan."
     },
     {
-      "title": "VN-Index rơi dưới 1.800 điểm, MBS cảnh báo kịch bản xuống dưới 1.700",
-      "impact": "↓",
-      "note": "Chỉ số VN-Index trải qua tuần giao dịch biến động rồi rơi dưới mốc 1.800 điểm. MBS cảnh báo thị trường chưa xuất hiện động lực hỗ trợ đủ mạnh, cần tính đến kịch bản VN-Index lùi sâu dưới 1.700 điểm. VIC, VHM cùng nhóm ngân hàng gây sức ép lớn lên chỉ số, phản ánh tâm lý nhà đầu tư ít tích cực trong ngắn hạn."
+      "title": "UK investors quan tâm, hợp tác vốn và fintech",
+      "impact": "↑",
+      "note": "Các nhà đầu tư Vương quốc Anh bày tỏ quan tâm cao sau nâng hạng FTSE Russell. Thứ trưởng Bộ Tài chính nhấn mạnh hợp tác về thị trường vốn, tài chính xanh, fintech, tài trợ thương mại, phát triển trung tâm tài chính quốc tế, mở rộng dòng vốn ngoại chất lượng cao."
     }
   ]
 }
