@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường Việt Nam đứng trước những yếu tố vĩ mô hỗn tạp: dòng vốn FDI chất lượng cao tiếp tục chảy vào (LNG Long Sơn >1,5 tỷ USD, nhà xưởng >7 tỷ USD) và dự báo GDP (PPP) sắp vượt Thái Lan năm 2026, khẳng định vị thế trong khu vực. Tuy nhiên, rủi ro ngắn hạn gia tăng từ Fed dự kiến tăng lãi suất tuần này (90% xác suất) và BOJ có thể thắt chặt chính sách, tạo \"tác động kép\" lên thanh khoản toàn cầu. Áp lực lạm phát nội địa gia tăng (CPI dự báo 4,5%-5,5% năm 2026) làm hạn chế dư địa chính sách tiền tệ của NHNN, trong khi VN-Index hiện có nguy cơ lùi dưới 1.700 điểm.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đứng trước viễn cảnh tương phản: triển vọng dài hạn tích cực từ GDP (PPP) sắp vượt Thái Lan, dòng FDI chất lượng cao hơn 7 tỷ USD vào nhà xưởng, và sự quan tâm gia tăng của nhà đầu tư nước ngoài sau nâng hạng. Tuy nhiên, rủi ro ngắn hạn lớn từ Fed chuẩn bị tăng lãi suất (xác suất ~90%), áp lực lạm phát VN gia tăng với dư địa kiểm soát CPI gần như không còn, và VN-Index đã rơi dưới 1.800 điểm. Cân bằng giữa yếu tố tích cực dài hạn và áp lực tiêu cực ngắn hạn yêu cầu nhà đầu tư thận trọng.",
   "top": [
     {
-      "title": "GDP (PPP) Việt Nam vượt Thái Lan, vị trí thứ 2 Đông Nam Á",
+      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, tiến tới Top 22 toàn cầu",
       "impact": "↑",
-      "note": "GDP (PPP) Việt Nam dự báo năm 2026 đạt 2.025 tỷ USD, vượt Thái Lan (1.963 tỷ USD), chỉ sau Indonesia (5.449 tỷ USD). Năm 2025, Việt Nam đạt 1.838 tỷ USD, chỉ kém Thái Lan 42 tỷ USD (2%), thể hiện tốc độ tăng trưởng mạnh trong khu vực."
+      "note": "IMF dự báo GDP (PPP) VN năm 2025 đạt 1.838 tỷ USD, sắp vượt Thái Lan (1.880 tỷ USD) với chỉ khoảng cách 42 tỷ USD (2%). Năm 2026, VN dự kiến tăng lên 2.025 tỷ USD, vượt Thái Lan để đứng vị trí thứ hai trong Đông Nam Á sau Indonesia (5.449 tỷ USD), khẳng định vị thế kinh tế vùng và tiềm năng tăng trưởng lâu dài."
     },
     {
-      "title": "Fed tăng lãi suất tuần này, xác suất 90%",
+      "title": "FDI nhà xưởng hút hơn 7 tỷ USD trong 468 dự án sản xuất mới",
+      "impact": "↑",
+      "note": "Trong tổng 468 dự án FDI sản xuất đăng ký mới, 266 dự án nhà xưởng chiếm 56,8%, thu hút khoảng 7 tỷ USD tương đương 66,2% tổng vốn FDI sản xuất. Cuối năm 2026 dự kiến đón 1.900 ha đất công nghiệp, 700.000 m² nhà kho và 1 triệu m² nhà xưởng, phản ánh dòng vốn chất lượng cao đang dịch chuyển vào Việt Nam."
+    },
+    {
+      "title": "Nhà đầu tư Vương quốc Anh tăng quan tâm thị trường VN sau nâng hạng",
+      "impact": "↑",
+      "note": "Thứ trưởng Bộ Tài chính Nguyễn Đức Chi nhấn mạnh dòng vốn quốc tế đang dịch chuyển mạnh mẽ, VN kiên định mục tiêu ổn định kinh tế vĩ mô, cải thiện môi trường đầu tư, thúc đẩy đổi mới sáng tạo, chuyển đổi số và tăng trưởng xanh. Sự nâng cấp quan hệ lên Đối tác chiến lược toàn diện tạo dư địa hợp tác trong thị trường vốn, tài chính xanh, fintech, tài trợ thương mại."
+    },
+    {
+      "title": "Fed chuẩn bị tăng lãi suất với xác suất khoảng 90%",
       "impact": "↓",
-      "note": "Cuộc họp Fed 15-16/9 được thị trường dự báo 90% xác suất tăng lãi suất. Lợi suất T10 năm tiến sát 5%, mức cao nhất nhiều năm, có thể đe dọa xu hướng tăng điểm thị trường chứng khoán."
+      "note": "Cuộc họp chính sách tiền tệ Fed diễn ra 15-16/9/2026 với xác suất tăng lãi suất gần 90%. Lạm phát Mỹ vẫn trên mục tiêu 2%, lợi suất trái phiếu 10 năm tiến sát 5% — mức có thể đe dọa xu hướng tăng điểm của thị trường Phố Wall. Động thái này có thể khởi động chu kỳ thắt chặt mới, tác động lên dòng chảy vốn quốc tế vào thị trường mới nổi."
     },
     {
-      "title": "Dự án LNG Long Sơn với TotalEnergies, vốn >1,5 tỷ USD",
-      "impact": "↑",
-      "note": "T&T Energy Group và TotalEnergies Gas & Power Activities ký MOU phát triển dự án LNG Long Sơn (điện khí + cung cấp khí LNG). TotalEnergies làm nhà đầu tư chính, đầu tư nhà máy điện và hạ tầng LNG, phản ánh dòng vốn FDI chất lượng cao vào năng lượng."
-    },
-    {
-      "title": "Áp lực lạm phát gia tăng, CPI dự báo 4,5%-5,5%",
+      "title": "Áp lực lạm phát VN gia tăng, dư địa kiểm soát CPI gần như không còn",
       "impact": "↓",
-      "note": "Bộ Tài chính cập nhật 3 kịch bản CPI năm 2026 ở 4,5%, 5% và 5,5%. NHNN dự báo 4,5%-5,5%. Áp lực từ giá hàng hóa, năng lượng, chi phí vận chuyển và yếu tố tiền tệ hạn chế dư địa kiểm soát lạm phát."
+      "note": "MBS cảnh báo lạm phát nửa cuối 2026 gia tăng từ yếu tố ngoại tệ và nội tại. Bộ Tài chính cập nhật 3 kịch bản CPI 2026 ở mức 4,5%, 5% và 5,5%. Ngân hàng Nhà nước dự báo bình quân năm 4,5-5,5%. Giá hàng hóa, năng lượng, chi phí vận chuyển và yếu tố tiền tệ cùng tạo sức ép, ảnh hưởng khả năng kiểm soát giá cả."
     },
     {
-      "title": "FDI sản xuất: 266 dự án nhà xưởng hút >7 tỷ USD",
-      "impact": "↑",
-      "note": "Trong 468 dự án FDI sản xuất mới, 266 dự án nhà xưởng (56,8%), thu hút >7 tỷ USD (66,2% tổng FDI sản xuất). Cuối năm kỳ vọng đón ~1.900 ha đất công nghiệp + 700.000 m2 nhà kho + 1 triệu m2 nhà xưởng xây sẵn."
-    },
-    {
-      "title": "Nâng hạng thị trường, Anh tăng quan tâm đầu tư",
-      "impact": "↑",
-      "note": "Thứ trưởng Bộ Tài chính Nguyễn Đức Chi khẳng định sự quan tâm từ cộng đồng tài chính quốc tế đối với Việt Nam tăng lên sau nâng cấp quan hệ lên Đối tác chiến lược toàn diện. Hai nước duy trì nhiều dư địa hợp tác trong vốn, tài chính xanh, fintech, tài trợ thương mại."
+      "title": "VN-Index rơi dưới 1.800 điểm, MBS cảnh báo kịch bản xuống dưới 1.700",
+      "impact": "↓",
+      "note": "Chỉ số VN-Index trải qua tuần giao dịch biến động rồi rơi dưới mốc 1.800 điểm. MBS cảnh báo thị trường chưa xuất hiện động lực hỗ trợ đủ mạnh, cần tính đến kịch bản VN-Index lùi sâu dưới 1.700 điểm. VIC, VHM cùng nhóm ngân hàng gây sức ép lớn lên chỉ số, phản ánh tâm lý nhà đầu tư ít tích cực trong ngắn hạn."
     }
   ]
 }
