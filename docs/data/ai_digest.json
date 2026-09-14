@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-14",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hưởng lợi từ dòng vốn FDI lớn (TikTok 1 tỷ USD+, công nghiệp 7 tỷ USD) và tăng trưởng kinh tế mạnh (GDP PPP sắp vượt Thái Lan), tuy nhiên áp lực từ Fed tăng lãi suất (87% xác suất 15-16/9) và lo ngại lạm phát từ giá năng lượng cao gây rủi ro ngắn hạn. Dòng tiền ngoại dương (204 tỷ đồng) khiến triển vọng cân bằng lợi ích lâu dài với thách thức ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận áp lực bán tháo ở nhóm mid/small-cap (Midcap -1,76%, Smallcap -0,77%), trong khi rủi ro từ cuộc họp Fed 15-16/9 (xác suất tăng lãi suất 87%) và cuộc chiến Mỹ-Iran kéo dài đe dọa giá năng lượng. Tuy nhiên, nền tảng tăng trưởng vẫn hỗ trợ từ FDI mạnh mẽ (TikTok 1 tỷ USD, nhà xưởng 7 tỷ USD) và triển vọng GDP PPP Việt Nam vượt Thái Lan.",
   "top": [
     {
-      "title": "TikTok cam kết đầu tư 1 tỷ USD logistics, thanh toán, thương mại",
-      "impact": "↑",
-      "note": "TikTok khu vực Đông Nam Á đăng ký dự án Swift Logistics 980 triệu USD và TikTok Shop 25 triệu USD. Quy mô: logistics 1-2 tỷ đơn hàng/năm, TikTok Payment phục vụ 45 triệu người dùng, thương mại số 10 tỷ USD GMV/năm - FDI chất lượng cao vào hạ tầng kỹ thuật số."
-    },
-    {
-      "title": "GDP PPP Việt Nam sắp vượt Thái Lan lên vị trí #2 ASEAN",
-      "impact": "↑",
-      "note": "GDP PPP Việt Nam 2025 đạt 1.838 tỷ USD sát Thái Lan (1.880 tỷ USD, chênh 42 tỷ USD). IMF dự báo 2026 Việt Nam đạt 2.025 tỷ USD vượt Thái Lan (1.963), lên vị trí thứ 2 ASEAN sau Indonesia (5.449 tỷ USD)."
-    },
-    {
-      "title": "Fed 15-16/9 tăng lãi suất 87%, áp lực lạm phát tăng",
+      "title": "Mid/small-cap bán tháo kịch sàn 10 mã, Midcap -1,76%",
       "impact": "↓",
-      "note": "Xác suất Fed tăng lãi suất tăng từ 67% lên 87%. Giá dầu cao gây lo lạm phát; giá vàng giảm 0.7% xuống 4.317 USD/ounce. Thắt chặt tiền tệ Mỹ có thể kéo vốn ngoại khỏi thị trường chứng khoán mới nổi như Việt Nam."
+      "note": "149 mã HoSE giảm từ 1% trở lên, 10 mã giảm kịch sàn gồm GEE (164,1 tỷ đồng), GEL (127,7 tỷ), GEX (556,5 tỷ). VIX giảm 4,91% (1.056,5 tỷ khớp). Nhóm giảm từ 2% trở lên chiếm 28,8% giá trị khớp HoSE."
     },
     {
-      "title": "FDI sản xuất nhà xưởng 266 dự án, 7 tỷ USD vốn mới",
+      "title": "Fed meeting 15-16/9 tăng lãi suất 87% xác suất",
+      "impact": "↓",
+      "note": "Xác suất Fed tăng lãi suất tăng từ 67% lên 87%. Giá dầu cao kéo lạm phát; vàng giảm 0,7% xuống 4.317 USD/ounce. Thắt chặt tiền tệ Mỹ có thể kéo vốn ngoại khỏi thị trường mới nổi."
+    },
+    {
+      "title": "GDP PPP Việt Nam sắp vượt Thái Lan lên #2 ASEAN",
       "impact": "↑",
-      "note": "Trong 468 dự án FDI sản xuất, 266 nhà xưởng (56,8%) thu hút 7 tỷ USD (66,2% tổng). Cuối năm dự kiến 1.900 ha đất công nghiệp + 700.000 m² nhà kho + 1 triệu m² nhà xưởng xây sẵn - FDI chuyển dịch sản xuất vào Việt Nam mạnh mẽ."
+      "note": "GDP PPP Việt Nam 2025 đạt 1.838 tỷ USD, chênh Thái Lan (1.880 tỷ USD) chỉ 42 tỷ USD. IMF dự báo 2026 Việt Nam 2.025 tỷ USD vượt Thái Lan 1.963 tỷ USD, lên vị trí #2 ASEAN sau Indonesia."
     },
     {
-      "title": "Quảng Ninh nâng mục tiêu tăng trưởng Q3 lên 15,48%",
+      "title": "TikTok đầu tư 1 tỷ USD logistics, thanh toán, thương mại",
       "impact": "↑",
-      "note": "Quảng Ninh điều chỉnh kịch bản GRDP quý 3 lên 15,48%, hướng tới 12,56% cả 9 tháng và 13,21% toàn năm. Động lực từ công nghiệp chế biến, chế tạo - bứt phá khu vực phía Bắc."
+      "note": "TikTok Shop 25 triệu USD, Swift Logistics 980 triệu USD. Quy mô: logistics 1-2 tỷ đơn hàng/năm, TikTok Payment phục vụ 45 triệu người dùng, thương mại số 10 tỷ USD GMV/năm."
     },
     {
-      "title": "Thị trường 14/9: rung lắc phân hóa, ngoại mua ròng 204 tỷ đồng",
-      "impact": "→",
-      "note": "VN-Index giảm 4,41 điểm (-0,25%) xuống 1.790,8 điểm. Năng lượng +1,89% (BSR, PVS, PVT), tài chính xanh (SSB trần, TCB), bất động sản -1,21% (VIC -2,14%). Khối ngoại mua ròng 204,32 tỷ đồng trên ba sàn."
+      "title": "Chiến tranh Mỹ-Iran 6+ tháng, dầu tăng lạm phát",
+      "impact": "↓",
+      "note": "Dầu vẫn đến thị trường qua tuyến thay thế nhưng dự trữ toàn cầu suy giảm. Nếu dự trữ không đủ bù, giá năng lượng tăng mạnh, buộc Fed duy trì thắt chặt, tăng áp lực lạm phát toàn cầu."
+    },
+    {
+      "title": "FDI nhà xưởng 266 dự án, 7 tỷ USD vốn mới",
+      "impact": "↑",
+      "note": "Trong 468 dự án FDI sản xuất, 266 nhà xưởng (56,8%) thu hút 7 tỷ USD (66,2% tổng). Cuối năm dự kiến 1.900 ha đất công nghiệp + 700.000 m² nhà kho + 1 triệu m² nhà xưởng."
     }
   ]
 }
