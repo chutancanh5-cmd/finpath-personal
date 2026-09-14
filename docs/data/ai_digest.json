@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận áp lực bán tháo ở nhóm mid/small-cap (Midcap -1,76%, Smallcap -0,77%), trong khi rủi ro từ cuộc họp Fed 15-16/9 (xác suất tăng lãi suất 87%) và cuộc chiến Mỹ-Iran kéo dài đe dọa giá năng lượng. Tuy nhiên, nền tảng tăng trưởng vẫn hỗ trợ từ FDI mạnh mẽ (TikTok 1 tỷ USD, nhà xưởng 7 tỷ USD) và triển vọng GDP PPP Việt Nam vượt Thái Lan.",
+  "summary_vi": "Thị trường ghi nhận áp lực bán tháo ở mid/small-cap ngày hôm nay (Midcap -1,76%, 10 mã kịch sàn), khi cuộc họp Fed tuần này (15-16/9) có xác suất tăng lãi suất 87% tạo lo ngại lạm phát từ giá dầu cao. Tuy nhiên, triển vọng kinh tế dài hạn vẫn tích cực: GDP (PPP) Việt Nam sắp vượt Thái Lan, và vốn FDI từ TikTok (980 triệu USD logistics) mở rộng mạnh mẽ tạo hỗ trợ.",
   "top": [
     {
       "title": "Mid/small-cap bán tháo kịch sàn 10 mã, Midcap -1,76%",
       "impact": "↓",
-      "note": "149 mã HoSE giảm từ 1% trở lên, 10 mã giảm kịch sàn gồm GEE (164,1 tỷ đồng), GEL (127,7 tỷ), GEX (556,5 tỷ). VIX giảm 4,91% (1.056,5 tỷ khớp). Nhóm giảm từ 2% trở lên chiếm 28,8% giá trị khớp HoSE."
+      "note": "149 mã HoSE giảm từ 1% trở lên, 10 mã kịch sàn gồm GEE (khớp 164,1 tỷ đồng), GEL (127,7 tỷ), GEX (556,5 tỷ). Nhóm giảm từ 2% trở lên chiếm 28,8% giá trị khớp toàn sàn HoSE."
     },
     {
-      "title": "Fed meeting 15-16/9 tăng lãi suất 87% xác suất",
+      "title": "Fed meeting 15-16/9 tăng lãi suất xác suất 87%, áp lực lạm phát",
       "impact": "↓",
-      "note": "Xác suất Fed tăng lãi suất tăng từ 67% lên 87%. Giá dầu cao kéo lạm phát; vàng giảm 0,7% xuống 4.317 USD/ounce. Thắt chặt tiền tệ Mỹ có thể kéo vốn ngoại khỏi thị trường mới nổi."
+      "note": "Xác suất Fed tăng lãi suất tăng từ 67% lên 87% do giá dầu cao kéo lạm phát. Vàng giảm 0,7% xuống 4.317 USD/ounce. Thắt chặt tiền tệ Mỹ rủi ro lôi kéo vốn ngoại khỏi thị trường mới nổi."
     },
     {
-      "title": "GDP PPP Việt Nam sắp vượt Thái Lan lên #2 ASEAN",
+      "title": "GDP PPP Việt Nam 2025 đạt 1.838 tỷ USD, sắp vượt Thái Lan",
       "impact": "↑",
-      "note": "GDP PPP Việt Nam 2025 đạt 1.838 tỷ USD, chênh Thái Lan (1.880 tỷ USD) chỉ 42 tỷ USD. IMF dự báo 2026 Việt Nam 2.025 tỷ USD vượt Thái Lan 1.963 tỷ USD, lên vị trí #2 ASEAN sau Indonesia."
+      "note": "GDP (PPP) 2025 Việt Nam 1.838 tỷ USD chênh Thái Lan (1.880 tỷ USD) chỉ 42 tỷ USD. IMF dự báo 2026 Việt Nam 2.025 tỷ USD sẽ vượt Thái Lan 1.963 tỷ USD, lên vị trí #2 ASEAN sau Indonesia."
     },
     {
-      "title": "TikTok đầu tư 1 tỷ USD logistics, thanh toán, thương mại",
+      "title": "TikTok Tokgistic vốn đăng ký 980 triệu USD logistics tại Việt Nam",
       "impact": "↑",
-      "note": "TikTok Shop 25 triệu USD, Swift Logistics 980 triệu USD. Quy mô: logistics 1-2 tỷ đơn hàng/năm, TikTok Payment phục vụ 45 triệu người dùng, thương mại số 10 tỷ USD GMV/năm."
+      "note": "Tokgistic Pte. Ltd. (Singapore) được cấp Giấy chứng nhận đầu tư ngày 07/09/2026 với vốn 980 triệu USD cho Swift Logistics. Quy mô: 1-2 tỷ đơn hàng logistics/năm, TikTok Payment phục vụ 45 triệu người dùng, thương mại số 10 tỷ USD GMV/năm."
     },
     {
-      "title": "Chiến tranh Mỹ-Iran 6+ tháng, dầu tăng lạm phát",
+      "title": "Chiến tranh Mỹ-Iran 6+ tháng, dự trữ dầu suy giảm rủi ro tăng giá",
       "impact": "↓",
-      "note": "Dầu vẫn đến thị trường qua tuyến thay thế nhưng dự trữ toàn cầu suy giảm. Nếu dự trữ không đủ bù, giá năng lượng tăng mạnh, buộc Fed duy trì thắt chặt, tăng áp lực lạm phát toàn cầu."
+      "note": "Dầu được vận chuyển qua tuyến thay thế nhưng dự trữ toàn cầu suy giảm. Nếu dự trữ cạn kiệt, giá năng lượng có thể tăng mạnh, buộc Fed duy trì thắt chặt và gia tăng áp lực lạm phát toàn cầu."
     },
     {
-      "title": "FDI nhà xưởng 266 dự án, 7 tỷ USD vốn mới",
+      "title": "Quảng Ninh điều chỉnh tăng mục tiêu GRDP quý 3 lên 15,48%",
       "impact": "↑",
-      "note": "Trong 468 dự án FDI sản xuất, 266 nhà xưởng (56,8%) thu hút 7 tỷ USD (66,2% tổng). Cuối năm dự kiến 1.900 ha đất công nghiệp + 700.000 m² nhà kho + 1 triệu m² nhà xưởng."
+      "note": "Quảng Ninh điều chỉnh kịch bản GRDP quý 3 lên 15,48%, hướng tới 12,56% cho 9 tháng và 13,21% cả năm. Tập trung công nghiệp chế biến/chế tạo tăng tốc, khẳng định vị thế cực tăng trưởng phía Bắc."
     }
   ]
 }
