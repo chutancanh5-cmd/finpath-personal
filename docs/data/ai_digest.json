@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hiện không có động lực hỗ trợ ngắn hạn với thanh khoản rơi mức thấp nhất kể từ đầu năm và khối ngoại tiếp tục bán ròng mạnh, trong khi rủi ro từ khả năng Fed tăng lãi suất 87% có thể gây lây lan. Tuy nhiên, các yếu tố tích cực dài hạn như nâng hạng FTSE Russell (21/9), GDP PPP sắp vượt Thái Lan, và vốn FDI sản xuất mạnh vẫn hỗ trợ triển vọng cơ bản.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực ngắn hạn từ khả năng Fed tăng lãi suất 87% (15-16/9) và áp lực lạm phát trong nước (CPI dự kiến 4.5-5.5%), kết hợp với thanh khoản suy yếu mức thấp nhất năm và khối ngoại bán ròng 1.570,7 tỷ đồng. Tuy nhiên, các yếu tố tích cực dài hạn như GDP PPP vượt Thái Lan, vốn FDI sản xuất 7 tỷ USD và dự án LNG Long Sơn 1.5 tỷ USD vẫn hỗ trợ triển vọng cơ bản.",
   "top": [
     {
-      "title": "Nâng hạng FTSE Russell — vốn ngoại chảy vào",
-      "impact": "↑",
-      "note": "Thị trường Việt Nam nâng hạng từ cận biên lên mới nổi thứ cấp từ 21/9/2026. SSI Research dự báo sự kiện kích hoạt khoảng 1.45 tỷ USD dòng vốn thụ động. Ngân hàng được kỳ vọng trở thành điểm đến quan trọng, với VPBank vừa huy động 1.44 tỷ USD vay hợp vốn liên kết bền vững."
-    },
-    {
-      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan",
-      "impact": "↑",
-      "note": "Theo IMF, GDP PPP Việt Nam năm 2025 đạt khoảng 1.838 tỷ USD, chỉ cách Thái Lan 42 tỷ USD. Dự báo 2026, GDP PPP Việt Nam sẽ tăng lên 2.025 tỷ USD, vươn lên vị trí thứ 2 Đông Nam Á (sau Indonesia 5.449 tỷ USD), cho thấy đà tăng trưởng kinh tế vững chắc."
-    },
-    {
-      "title": "Thị trường yếu — khối ngoại bán ròng 1.57 tỷ đồng",
+      "title": "MBS cảnh báo VN-Index có thể lùi dưới 1.700 điểm",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 1.570,7 tỷ đồng trên cả 3 sàn tuần qua. Thanh khoản khớp lệnh bình quân HOSE đạt 12.676 tỷ đồng/phiên, giảm 10.70% và thấp nhất kể từ đầu năm. VIC, VHM, ngân hàng gây áp lực lớn lên chỉ số, cho thấy nhà đầu tư ít kỳ vọng thị trường có sóng."
+      "note": "MBS nhận định thị trường chưa có động lực hỗ trợ đủ mạnh; cuộc họp Fed 15-16/9 có xác suất tăng lãi suất gần 90%, BOJ họp 18-19/9 có thể tạo 'tác động kép' lên dòng chảy vốn toàn cầu, kết hợp áp lực lạm phát trong nước."
     },
     {
-      "title": "CPI Mỹ tăng 3.4%, Fed khả năng 87% tăng lãi suất",
+      "title": "GDP (PPP) Việt Nam sắp vượt Thái Lan, Top 22 toàn cầu",
+      "impact": "↑",
+      "note": "Theo IMF, GDP PPP Việt Nam 2025 đạt 1.838 tỷ USD, chỉ cách Thái Lan 42 tỷ USD (khoảng 2%). Dự báo 2026, Việt Nam tăng lên 2.025 tỷ USD để vươn lên vị trí thứ 2 Đông Nam Á sau Indonesia 5.449 tỷ USD."
+    },
+    {
+      "title": "Khối ngoại bán ròng 1.570,7 tỷ đồng, thanh khoản thấp nhất năm",
       "impact": "↓",
-      "note": "CPI toàn phần Mỹ tháng 8 tăng 0.4% tháng trước, 3.4% năm trước (đúng dự báo). CPI lõi tăng 0.3% tháng (cao hơn 0.1 điểm dự báo), tăng 2.4% năm. Thị trường lãi suất tương lai đặt cược khả năng 87% Fed tăng lãi suất ngày 15-16/9 (tăng từ 70% trước). ECB tăng thêm 0.25% lên 2.5%, cao nhất kể từ tháng 4/2025."
+      "note": "Thanh khoản HOSE giảm 10,70% xuống 12.676 tỷ đồng/phiên, thấp nhất kể từ đầu năm; khối ngoại bán ròng 1.570,7 tỷ trên cả 3 sàn. Áp lực chủ yếu từ BĐS (VIC -16,4 điểm, VHM -4,3 điểm) và nhóm ngân hàng (-14,6 điểm)."
     },
     {
-      "title": "FDI sản xuất mạnh — 7 tỷ USD vào nhà xưởng",
+      "title": "Dự án LNG Long Sơn với TotalEnergies, vốn 1.5 tỷ USD",
       "impact": "↑",
-      "note": "Trong 468 dự án FDI sản xuất mới đăng ký, 266 dự án nhà xưởng chiếm 56.8% số lượng, thu hút hơn 7 tỷ USD (66.2% tổng vốn). Thị trường bất động sản công nghiệp dự kỳ duy trì đà tích cực 12-24 tháng tới nhờ dòng vốn FDI chất lượng cao và dịch chuyển sản xuất trong khu vực."
+      "note": "T&T Energy Group và TotalEnergies Gas & Power Activities ký MOU phát triển nhà máy điện khí LNG Long Sơn; TotalEnergies là nhà đầu tư, đồng phát triển, cung cấp khí LNG và chủ trì tài chính dự án tổng vốn hơn 1.5 tỷ USD."
     },
     {
-      "title": "MSB — tín hiệu tích cực từ người trong lòng",
+      "title": "FDI nhà xưởng thu hút 7 tỷ USD, chiếm 66,2% vốn sản xuất",
       "impact": "↑",
-      "note": "Ông Trần Anh Đức (con Chủ tịch MSB) mua 20 triệu cổ phiếu MSB với ~300 tỷ đồng, nâng sở hữu lên 0.53%. Nửa đầu 2026, MSB có lợi nhuận trước thuế hợp nhất gần 3.423 tỷ đồng, tăng gần 8% so cùng kỳ năm trước."
+      "note": "Trong 468 dự án FDI sản xuất mới, 266 dự án nhà xưởng chiếm 56,8%; thu hút hơn 7 tỷ USD tương đương 66,2% tổng vốn. Cuối năm dự kiến đón 1.900 ha đất công nghiệp, 700.000 m2 nhà kho và 1 triệu m2 nhà xưởng xây sẵn."
+    },
+    {
+      "title": "CPI 2026 áp lực tăng, dự báo 4,5-5,5%",
+      "impact": "↓",
+      "note": "Bộ Tài chính cập nhật 3 kịch bản lạm phát 2026 lần lượt 4,5%, 5% và 5,5%; NHNN dự báo 4,5-5,5%. Áp lực từ giá hàng hóa, năng lượng, chi phí vận chuyển; dư địa kiểm soát CPI gần như không còn trong những tháng cuối năm."
     }
   ]
 }
