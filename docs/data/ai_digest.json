@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP (PPP) Việt Nam gần vượt Thái Lan, tiến tới Top 22 toàn cầu — tín hiệu tích cực vĩ mô. Tuy nhiên, Fed gần chắc tăng lãi suất (90% xác suất) ngày 15-16/9, kéo giá vàng giảm và tăng áp lực ngoại tệ. Dòng FDI mạnh (chiếm 80% xuất khẩu) nhưng doanh nghiệp nội tệ tụt lại (20%), phản ánh sức cạnh tranh kém. Giá dầu, lãi suất Mỹ tăng do xung đột Vùng Vịnh — rủi ro lạm phát ngắn hạn.",
+  "summary_vi": "Thị trường Việt chịu áp lực ngắn hạn khi VN-Index giảm và nhà đầu tư bi quan trước kỳ vọng Fed tăng lãi suất (xác suất 90%) và giá dầu leo thang. Tuy nhiên, kinh tế dài hạn vẫn mạnh mẽ với GDP (PPP) sắp vượt Thái Lan và FDI chảy mạnh vào công nghiệp (hơn 7 tỷ USD). Thách thức là doanh nghiệp Việt tụt lại so với FDI, chiếm chỉ 20% xuất khẩu.",
   "top": [
     {
-      "title": "GDP (PPP) Việt Nam vượt Thái Lan, tiến Top 22 toàn cầu",
+      "title": "Dầu tăng, Fed sắp tăng lãi suất",
+      "impact": "↓",
+      "note": "Giá dầu WTI và Brent tăng do tấn công ở Vùng Vịnh. Xác suất Fed tăng lãi suất trong cuộc họp ngày 15-16/9 lên gần 90%. Lợi suất trái phiếu kho bạc Mỹ 10 năm đạt 4,989% - mức cao nhất kể từ 26/10/2023. Đây là rủi ro lớn cho TTCK Việt khi nhà đầu tư rút vốn khỏi thị trường mới nổi."
+    },
+    {
+      "title": "VN-Index và HNX-Index đều giảm, tâm lý bi quan",
+      "impact": "↓",
+      "note": "VN-Index xuất hiện mẫu hình Big Black Candle (phiên 11/9) với khối lượng vượt mức trung bình 20 phiên, kiểm tra ngưỡng Fibonacci 50% (1.780-1.800 điểm). HNX-Index giảm phiên thứ 3 liên tiếp, kiểm tra đáy cũ tháng 7/2026. MACD trên cả hai chỉ số đều kém sắc."
+    },
+    {
+      "title": "FDI chiếm 80% xuất khẩu, doanh nghiệp Việt lao đao",
+      "impact": "↓",
+      "note": "Khối FDI xuất khẩu hơn 300 tỷ USD (tăng 27%), chiếm 80,1% tổng kim ngạch. Khu vực trong nước chỉ xuất khẩu hơn 74 tỷ USD (tăng 7,4%), chiếm 19,9%. Khoảng cách ngày càng rộng do doanh nghiệp Việt gặp khó khăn với tiêu chuẩn về hóa đơn điện tử, thuế, an toàn lao động."
+    },
+    {
+      "title": "GDP (PPP) sắp vượt Thái Lan, lên 2.025 tỷ USD năm 2026",
       "impact": "↑",
-      "note": "GDP (PPP) VN 2025: 1.838 tỷ USD, kém Thái Lan 42 tỷ USD (2%). Dự báo 2026: VN 2.025 tỷ USD sẽ lên Top 2 Đông Nam Á, sau Indonesia (5.449 tỷ USD)."
+      "note": "GDP (PPP) Việt Nam 2025 đạt 1.838 tỷ USD, sắp vượt Thái Lan (1.880 tỷ USD, chỉ hơn 42 tỷ USD). Dự báo 2026, GDP (PPP) Việt Nam tăng lên 2.025 tỷ USD, vượt Thái Lan để xếp thứ 2 Đông Nam Á. Thành tích này phản ánh tăng trưởng kinh tế bền vững."
     },
     {
-      "title": "Fed gần chắc tăng lãi suất tuần 15-16/9, vàng giảm 2%",
-      "impact": "↓",
-      "note": "Xác suất Fed tăng lãi suất đạt gần 90%. Giá vàng giảm 2% trong tuần, nợ công Mỹ hơn 40 nghìn tỷ USD tạo áp lực bán trái phiếu kho bạc."
-    },
-    {
-      "title": "FDI chiếm 80.1% xuất khẩu, doanh nghiệp nội tệ chỉ 19.9%",
-      "impact": "↓",
-      "note": "Khối FDI xuất khẩu 300 tỷ USD (tăng 27%), doanh nghiệp trong nước 74 tỷ USD (tăng 7.4%). Khoảng cách rộng thêm, hai nền kinh tế độc lập, doanh nghiệp nội lực yếu."
-    },
-    {
-      "title": "Dự án nhà xưởng hút 7 tỷ USD FDI sản xuất",
+      "title": "FDI công nghiệp mạnh: 7 tỷ USD vào nhà xưởng",
       "impact": "↑",
-      "note": "266 dự án nhà xưởng trong 468 dự án FDI mới (56.8%), thu hút 7 tỷ USD (66.2% tổng FDI sản xuất). Cuối năm dự kiến 1.900 ha đất công nghiệp, 700.000 m² nhà kho xây sẵn."
+      "note": "Trong 468 dự án FDI sản xuất mới, 266 dự án (56,8%) là nhà xưởng, thu hút hơn 7 tỷ USD (66,2% tổng FDI). Cuối năm dự kiến đón 1.900 ha đất công nghiệp, 700.000 m2 nhà kho và 1 triệu m2 nhà xưởng xây sẵn. Đây là tiền đề cho tăng trưởng xuất khẩu dài hạn."
     },
     {
-      "title": "Dầu, lãi suất Mỹ tăng mạnh do xung đột Vùng Vịnh",
+      "title": "Vàng giảm 2%, Fed tăng lãi suất khó tránh",
       "impact": "↓",
-      "note": "Cuộc tấn công gia tăng ở eo biển Hormuz đẩy dầu WTI, Brent tăng. Lãi suất trái phiếu kho bạc Mỹ 10 năm lên 4.989% (cao nhất từ 26/10/2023)."
-    },
-    {
-      "title": "MSB: Insider mua 20 triệu cổ phiếu gần 300 tỷ đồng",
-      "impact": "→",
-      "note": "Ông Trần Anh Đức chi gần 300 tỷ đồng mua vào, nâng sở hữu lên 0.53% vốn MSB. H1 2026 MSB lợi nhuận trước thuế 3.423 tỷ đồng, tăng 8% YoY."
+      "note": "Giá vàng giảm 2% trong tuần vừa qua, giữ được ngưỡng hỗ trợ 4.300 USD/oz. Xác suất Fed tăng lãi suất trong cuộc họp ngày 15-16/9 tăng lên gần 90%. Nợ công Mỹ hơn 40 nghìn tỷ USD đang tạo áp lực, khiến nhà đầu tư thận trọng với kim loại quý."
     }
   ]
 }
