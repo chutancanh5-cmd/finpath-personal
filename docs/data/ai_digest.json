@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường tích cực với nhóm ngân hàng tái xuất, VN-Index giành lại mốc 1800, khối ngoại mua ròng ~460 tỷ đồng. FTSE Russell nâng hạng từ 21/9 tạo động lực bổ sung; FDI chiếm 80% xuất khẩu với tăng trưởng 26,9%. Tuy nhiên, giá dầu dự báo 85–91 USD/thùng năm 2026 gây áp lực vĩ mô lên lạm phát, cân đối ngân sách. Tích cực hơn, TikTok bơm 1 tỷ USD FDI qua Swift Logistics, mục tiêu du lịch 90 tỷ USD vào 2030 mở rộng triển vọng dài hạn.",
+  "summary_vi": "GDP quý II đạt 8.39% (đỉnh 15-16 năm), FDI đăng ký 34 tỷ USD tăng 61%, FTSE Russell nâng hạng từ 21/09 kỳ vọng tăng dòng vốn ngoài; sản xuất công nghiệp +11.9%, xuất khẩu FDI +26.9% cho thấy tăng trưởng vững chắc. Giá dầu Brent dự báo 85-91 USD/thùng gây sức ép lạm phát ngắn hạn, nhưng các dòng FDI mạnh (TikTok 1 tỷ USD, Swift Logistics 980 triệu USD) và du lịch 25-27 triệu khách quốc tế vẫn hỗ trợ triển vọng tích cực.",
   "top": [
     {
-      "title": "Ngân hàng tái xuất, VN-Index 1800, khối ngoại mua ròng",
+      "title": "GDP quý II 8.39%, FDI 34 tỷ USD +61%",
       "impact": "↑",
-      "note": "7 trong 10 mã đỡ điểm VN-Index là ngân hàng; VCB +1,71%, BID +2,1%, CTG +2,18%; thanh khoản ngân hàng chiếm 33,7% HoSE (tăng từ 25,1%); khối ngoại mua ròng gần 460 tỷ đồng nửa đầu phiên."
+      "note": "GDP 6 tháng 2026 đạt 8.18%, quý II đạt 8.39% (mức đỉnh 15-16 năm qua), IMF nâng dự báo tăng trưởng toàn năm 8.2%. Dòng vốn FDI đăng ký vượt 34 tỷ USD, tăng 61%, hơn nửa địa phương tăng trưởng trên 8%."
     },
     {
-      "title": "FTSE Russell nâng hạng từ 21/9 kích thích ngoại tệ",
+      "title": "FTSE Russell nâng hạng từ 21/09, sản xuất +11.9%",
       "impact": "↑",
-      "note": "Nâng hạng từ 21/09/2026 với phân bổ ban đầu 10%; dự kiến tạo động lực tham gia từ nhà đầu tư nước ngoài; kết hợp tăng trưởng ổn định (sản xuất 11,9%, PMI 53,3, đầu tư công 18,5%) hỗ trợ triển vọng thị trường."
+      "note": "FTSE Russell triển khai nâng hạng từ 21/09/2026 (tỷ trọng phân bổ ban đầu 10%), kỳ vọng tăng dòng vốn nhà đầu tư nước ngoài. Sản xuất công nghiệp tăng 11.9% từ đầu năm, PMI sản xuất tăng 53.3 điểm (cao nhất kể từ tháng 2)."
     },
     {
-      "title": "Giá dầu 85–91 USD/thùng, áp lực vĩ mô không nhỏ",
+      "title": "Xuất khẩu FDI 300.37 tỷ USD +26.9%",
+      "impact": "↑",
+      "note": "8 tháng năm 2026: xuất khẩu hàng hóa 374.84 tỷ USD (+22.4%), trong đó FDI 300.37 tỷ USD (+26.9%), chiếm 80.1% tổng xuất khẩu. Kinh tế nội địa 74.47 tỷ USD (+7.4%), tháng 8 xuất khẩu tăng 26% so cùng kỳ năm trước."
+    },
+    {
+      "title": "Giá dầu Brent 85-91 USD/thùng gây sức ép lạm phát",
       "impact": "↓",
-      "note": "EIA dự báo 91 USD/thùng, HSBC 90 USD; Việt Nam nhập khẩu năng lượng ròng; giá dầu cao gây áp lực lên cân đối ngân sách, kiểm soát lạm phát, tỷ giá, dữ địa lãi suất."
+      "note": "Dự báo giá Brent bình quân năm 2026: EIA 91 USD/thùng, HSBC 90 USD/thùng, Goldman Sachs 85 USD/thùng. Giá dầu cao kéo dài tạo sức ép cân đối ngân sách, kiểm soát lạm phát, tỷ giá, hạn chế dư địa ổn định lãi suất hỗ trợ tăng trưởng."
     },
     {
-      "title": "GELEX khẳng định độc lập, GEX +5%, GEE gần trần",
+      "title": "Ngân hàng tái xuất, thanh khoản 33.7%",
       "impact": "↑",
-      "note": "GELEX chính thức xác nhận vụ ông Đặng Phan Tường phát sinh trước khi ông tham gia; hoạt động công ty không bị ảnh hưởng; nhà đầu tư ổn định tâm lý, dòng tiền trở lại nhóm."
+      "note": "Ngân hàng phiên 15/09: VCB +1.71%, BID +2.1%, CTG +2.18%, TCB +0.94%, VPB +1.47%. Thanh khoản ngân hàng chiếm 33.7% tổng giá trị sàn HoSE (tăng từ 25.1%), VN-Index giành lại 1.800, khối ngoại mua ròng 800 tỷ đồng."
     },
     {
-      "title": "TikTok bơm 1 tỷ USD FDI qua Swift Logistics",
+      "title": "TikTok 1 tỷ USD, du lịch 25-27M khách, mục tiêu 90 tỷ USD 2030",
       "impact": "↑",
-      "note": "Tokgistic cấp phép dự án Swift Logistics vốn 980 triệu USD, kỳ hạn 50 năm; cộng TikTok Shop 25 triệu USD; logistics hướng 1–2 tỷ đơn hàng/năm, thương mại số >10 tỷ USD/năm."
-    },
-    {
-      "title": "Du lịch hướng mục tiêu 90 tỷ USD vào 2030",
-      "impact": "↑",
-      "note": "Năm 2026 mục tiêu 25–27 triệu khách quốc tế, 150–153 triệu khách nội địa, thu 1.125.000–1.230.000 tỷ đồng; tập trung thị trường Trung Quốc, Hàn Quốc, Ấn Độ, Nga."
+      "note": "TikTok Shop 25 triệu USD (cấp phép 04/2026), Swift Logistics 980 triệu USD (cấp phép 07/09/2026). Du lịch 2026: 25-27 triệu khách quốc tế, 150-153 triệu khách nội địa, tổng thu 1.125.000-1.230.000 tỷ đồng; lộ trình mục tiêu 90 tỷ USD năm 2030."
     }
   ]
 }
