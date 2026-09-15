@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam được hỗ trợ mạnh bởi nâng hạng FTSE Russell với 240 triệu USD quỹ ngoại dự kiến đổ vào 27 cổ phiếu, FDI từ TikTok 980 triệu USD vào logistics, và tiêu dùng nội địa mạnh (MWG +30%, Bách Hóa Xanh vượt kế hoạch). Tuy nhiên, Fed sắp tăng lãi suất 0,25 điểm phần trăm và dầu Brent dự báo 85-91 USD/thùng tạo áp lực vĩ mô lên lạm phát, tỷ giá và chính sách tiền tệ. Thị trường cân bằng giữa cơ hội cấu trúc dài hạn từ nâng hạng và rủi ro vĩ mô ngắn hạn từ lãi suất toàn cầu và giá năng lượng.",
+  "summary_vi": "Fed dự kiến tăng lãi suất 0,25 điểm phần trăm lên 3,75-4% vào 15-16/9 (85% nhà kinh tế dự báo), tạo rủi ro rút vốn khỏi thị trường mới nổi Việt Nam. Giá dầu Brent tăng gần 108 USD/thùng gây sức ép lạm phát và cân đối ngân sách kéo dài. Tuy nhiên, nâng hạng FTSE Russell mở cơ hội mua lớn 240 triệu USD vào 27 cổ phiếu Việt ngày 18/9, trong khi FDI TikTok (980 triệu USD logistics) và du lịch hướng 90 tỷ USD năm 2030 hỗ trợ tăng trưởng. Cân bằng giữa rủi ro macro ngắn hạn và cơ hội cấu trúc dài hạn.",
   "top": [
     {
-      "title": "Fed tăng lãi suất 0,25 điểm, sức ép lên vốn ngoại EM",
+      "title": "Fed tăng lãi suất 0,25 điểm phần trăm lên 3,75-4%",
       "impact": "↓",
-      "note": "85% nhà kinh tế (86 trong 101 khảo sát Reuters) dự báo Fed tăng lãi suất lên 3,75-4% vào ngày 15-16/9, đợt tăng đầu tiên kể từ tháng 7/2023; sự tăng lãi suất khiến các nhà đầu tư tìm kiếm lợi suất cao hơn từ USD, dẫn tới rủi ro rút vốn từ thị trường mới nổi như Việt Nam."
+      "note": "85% nhà kinh tế (86 trong 101 khảo sát Reuters) dự báo Fed tăng lãi suất thêm 0,25 điểm phần trăm vào cuộc họp 15-16/9, lần tăng đầu tiên kể từ tháng 7/2023; sức ép lên vốn ngoại thị trường mới nổi khi nhà đầu tư tìm kiếm lợi suất cao từ USD."
     },
     {
-      "title": "Quỹ ngoại mua 240 triệu USD trước nâng hạng FTSE",
-      "impact": "↑",
-      "note": "Các quỹ ETF giải ngân 240 triệu USD vào 27 cổ phiếu Việt Nam, VPB được mua nhiều nhất 32,8 triệu USD, VHM 30,85 triệu USD, MCH 22,1 triệu USD, FPT 21,48 triệu USD; nâng hạng FTSE Russell chính thức có hiệu lực từ 21/9/2026."
-    },
-    {
-      "title": "Dầu Brent lên gần 108 USD/thùng, áp lực lạm phát Việt Nam",
+      "title": "Dầu Brent tăng gần 108 USD/thùng, áp lực lạm phát kéo dài",
       "impact": "↓",
-      "note": "Dầu Brent gần 108 USD/thùng do Saudi Arabia đóng tuyến ống cùng lo ngại gián đoạn nguồn cung; dự báo giá bình quân năm 2026 ở 85-91 USD/thùng sẽ tạo sức ép lạm phát, cân đối ngân sách, tỷ giá và hạn chế dàn dẽo chính sách tiền tệ để hỗ trợ tăng trưởng."
+      "note": "Dầu Brent lên gần 108 USD/thùng do Saudi Arabia đóng tuyến ống chiếu chính, lo ngại gián đoạn nguồn cung tại eo Hormuz; dự báo EIA 91 USD/thùng, HSBC 90 USD/thùng bình quân năm 2026 gây sức ép lạm phát, cân đối ngân sách Việt Nam nhập khẩu ròng năng lượng."
     },
     {
-      "title": "MWG tăng trưởng 30%, Bách Hóa Xanh vượt 1.000 cửa hàng",
+      "title": "Quỹ ngoại giải ngân 240 triệu USD vào 27 cổ phiếu Việt",
       "impact": "↑",
-      "note": "CTCP Đầu tư Thế Giới Di Động (MWG) doanh thu 129,4 ngàn tỷ đồng tăng 30% trong 8 tháng; Bách Hóa Xanh doanh thu 40,1 ngàn tỷ tăng 32%, mở 1.160 cửa hàng mới với tổng 3.719 cửa hàng hoạt động, thể hiện tiêu dùng nội địa vẫn khảe."
+      "note": "Các quỹ ETF mô phỏng chỉ số FTSE giải ngân 240 triệu USD (hơn 6.000 tỷ đồng) vào 27 cổ phiếu Việt ngày 18/9; VPB 32,8 triệu USD, VHM 30,85 triệu USD, MCH 22,1 triệu USD, FPT 21,48 triệu USD được mua mạnh nhất trước nâng hạng 21/9."
     },
     {
-      "title": "TikTok Việt Nam đầu tư 980 triệu USD vào logistics",
+      "title": "TikTok đầu tư 980 triệu USD dự án Swift Logistics",
       "impact": "↑",
-      "note": "Tokgistic Pte. Ltd. được cấp Giấy chứng nhận đăng ký cho dự án Swift Logistics với vốn 980 triệu USD, thời hạn 50 năm; kết hợp TikTok Shop (25 triệu USD) và thương mại số hướng tới 10 tỷ USD doanh số mỗi năm, phục vụ 45 triệu người dùng Việt Nam."
+      "note": "Tokgistic Pte. Ltd. được cấp Giấy chứng nhận đầu tư dự án Swift Logistics với vốn 980 triệu USD, hoạt động 50 năm; kết hợp TikTok Shop (25 triệu USD) và thương mại số hướng tới trên 10 tỷ USD giao dịch mỗi năm, phục vụ 45 triệu người dùng Việt Nam."
     },
     {
-      "title": "Du lịch Việt Nam mục tiêu 90 tỷ USD năm 2030",
+      "title": "MSR xây dựng chuỗi vonfram chiến lược từ tài nguyên đến chế biến",
       "impact": "↑",
-      "note": "Năm 2026 hướng 25-27 triệu khách quốc tế, 150-153 triệu khách nội địa, 1,125-1,230 ngàn tỷ đồng doanh thu; du lịch là động lực mục tiêu GDP tăng 10% năm 2026, tập trung thị trường Trung Quốc, Hàn Quốc, Ấn Độ, Nga."
+      "note": "Almonty (nền tảng vonfram ngoài Trung Quốc) được Jefferies định giá 7,6 tỷ USD; CTCP Masan High-Tech Materials (MSR) xây dựng chuỗi từ khai thác đến chế biến vonfram với giá trị thể hiện rõ qua sản lượng, lợi nhuận, dòng tiền."
+    },
+    {
+      "title": "Du lịch Việt Nam hướng 27 triệu khách quốc tế, 90 tỷ USD năm 2030",
+      "impact": "↑",
+      "note": "Năm 2026 mục tiêu 25-27 triệu khách quốc tế, 150-153 triệu khách nội địa, tổng thu 1.125-1.230 nghìn tỷ đồng; du lịch là động lực hỗ trợ GDP tăng 10% năm 2026, tập trung thu hút Trung Quốc, Hàn Quốc, Ấn Độ, Nga."
     }
   ]
 }
