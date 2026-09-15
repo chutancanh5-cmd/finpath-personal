@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hưởng lợi từ sự phục hồi mạnh của ngành ngân hàng, khối ngoại mua ròng mạnh trong bối cảnh FTSE Russell chuẩn bị nâng hạng từ 21/09. Các chỉ số vĩ mô cơ bản ổn định (sản xuất công nghiệp 11,9%, PMI 53,3, tiêu dùng 7,6%, đầu tư công 18,5%), doanh nghiệp lớn báo lãi cao (PV GAS 11.700 tỷ). Tuy nhiên, rủi ro tồn tại từ mặt bằng lãi suất cao và giá dầu tăng (dự báo 85-91 USD/thùng) có thể gây áp lực lên chi phí vốn và kiểm soát lạm phát.",
+  "summary_vi": "Thị trường phục hồi tốt với nhóm ngân hàng tái xuất và khối ngoại mua ròng mạnh. Tăng trưởng kinh tế duy trì ổn định (sản xuất công nghiệp 11,9%, PMI 53,3, tiêu dùng 7,6%, đầu tư công 18,5%), FDI tăng 26,9% chiếm 80,1% xuất khẩu. ABBank chuẩn bị niêm yết, đầu tư nước ngoài lớn như Swift Logistics (980 triệu USD) tăng cường. Tuy nhiên, lãi suất liên ngân hàng vẫn cao và giá dầu dự báo 85-91 USD/thùng tạo áp lực vĩ mô cần theo dõi.",
   "top": [
     {
-      "title": "Ngân hàng tái xuất, VN-Index mốc 1800, khối ngoại mua ròng mạnh",
+      "title": "Ngân hàng tái xuất, VN-Index giành lại mốc 1800, khối ngoại mua ròng",
       "impact": "↑",
-      "note": "VN30-Index tăng 0,78%, 7 trong 10 cổ phiếu đỡ điểm nhiều nhất là ngân hàng (VCB +1,71%, BID +2,1%, CTG +2,18%). Thanh khoản ngân hàng chiếm 33,7% tổng khớp lệnh HoSE (tăng từ 25,1% hôm trước), tăng tuyệt đối 522 tỷ đồng. Khối ngoại mua ròng hơn 800 tỷ đồng phiên 14/09."
+      "note": "Ngân hàng dẫn đầu với 7 trong 10 cổ phiếu đỡ điểm nhiều nhất: VCB +1,71%, BID +2,1%, CTG +2,18%, TCB +0,94%, VPB +1,47%. Thanh khoản ngân hàng chiếm 33,7% tổng khớp lệnh HoSE (tăng từ 25,1%), tăng tuyệt đối 522 tỷ đồng. Khối ngoại mua ròng hơn 800 tỷ đồng phiên 14/09."
     },
     {
-      "title": "PV GAS lãi 11.700 tỷ đồng sau 8 tháng 2026",
+      "title": "ABBank được NHNN chấp thuận tăng vốn lên 26.833,3 tỷ đồng",
       "impact": "↑",
-      "note": "Doanh thu hợp nhất hơn 108.100 tỷ đồng, lợi nhuận trước thuế 14.500 tỷ đồng, lợi nhuận sau thuế gần 11.700 tỷ đồng. Hoàn thành 75% dự báo lợi nhuận cả năm, nộp ngân sách 7.000 tỷ đồng. Chuẩn bị phát 6.000 tỷ đồng cổ tức cho cổ đông."
+      "note": "Tăng vốn thêm 10.765,5 tỷ đồng qua: chào bán cổ phiếu 8.033,9 tỷ, phát hành từ lợi nhuận 1.928,1 tỷ, cấp CBNV 803,4 tỷ. Tạo nguồn lực tăng trưởng 2025-2028 và mở đường niêm yết cổ phiếu ABB trên HOSE."
     },
     {
-      "title": "ABBank tăng vốn lên 26.833 tỷ đồng",
+      "title": "FDI tăng 26,9%, chiếm 80,1% tổng kim ngạch xuất khẩu",
       "impact": "↑",
-      "note": "NHNN chấp thuận tăng vốn thêm 10.765,5 tỷ đồng gồm: chào bán cổ phiếu 8.033,9 tỷ, phát hành từ lợi nhuận giữ lại 1.928,1 tỷ, cấp cho CBNV 803,4 tỷ. Lộ trình tăng vốn phục vụ tăng trưởng 2025-2028 và niêm yết trên HOSE."
+      "note": "8 tháng 2026, FDI đạt 300,37 tỷ USD (tăng 26,9% so cùng kỳ), kinh tế nội địa 74,47 tỷ USD (tăng 7,4%). Tháng 8 riêng, FDI tăng 3,4%, kinh tế nội địa tăng 2,2%, xuất khẩu tổng 54,79 tỷ USD."
     },
     {
-      "title": "FTSE Russell nâng hạng từ 21/09, khả năng tăng trưởng duy trì",
+      "title": "Tăng trưởng kinh tế duy trì, PMI cao nhất 7 tháng",
       "impact": "↑",
-      "note": "Sản xuất công nghiệp tăng 11,9%, PMI sản xuất 53,3 (cao nhất kể từ tháng 2), tiêu dùng tăng 7,6%, đầu tư công tăng 18,5% lên 546,8 nghìn tỷ đồng (50,5% kế hoạch năm). FTSE triển khai nâng hạng với tỷ trọng ban đầu 10% tạo động lực cho nhà đầu tư nước ngoài."
+      "note": "Sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI sản xuất 53,3 điểm (cao nhất kể từ tháng 2). Bán lẻ và dịch vụ tăng 7,6% YTD, giải ngân đầu tư công 546,8 nghìn tỷ đồng, hoàn thành 50,5% kế hoạch năm (cao hơn 48,3% cùng kỳ)."
     },
     {
-      "title": "Giá dầu dự báo 85-91 USD/thùng, thách thức chính sách tiền tệ",
+      "title": "Swift Logistics đầu tư 980 triệu USD, thương mại số 10 tỷ USD/năm",
+      "impact": "↑",
+      "note": "Tokgistic Pte. Ltd. (Singapore) được cấp Giấy chứng nhận đầu tư dự án Swift Logistics với vốn đăng ký 980 triệu USD, kỳ hạn 50 năm. Thương mại số định hướng tổng giá trị giao dịch 10 tỷ USD/năm, logistics 1-2 tỷ đơn hàng/năm."
+    },
+    {
+      "title": "Giá dầu dự báo 85-91 USD/thùng, áp lực vĩ mô lớn",
       "impact": "↓",
-      "note": "Giá Brent bình quân năm 2026 dự báo 85-91 USD/thùng (EIA 91, HSBC 90, BoA 83, Goldman 85). Với nền kinh tế có độ mở lớn và nhập khẩu ròng năng lượng, giá dầu cao kéo dài gây áp lực lên cân đối ngân sách, kiểm soát lạm phát, tỷ giá và dự phòng ổn định lãi suất hỗ trợ tăng trưởng."
-    },
-    {
-      "title": "SSB tăng 40%, vào FTSE Global All Cap Index từ 21/09",
-      "impact": "↑",
-      "note": "SSB tăng gần 40% trong vòng 1 tháng, vốn hóa đạt 72.500 tỷ đồng, kịch trần 20.900 đồng/cp (cao nhất 3 năm). Được thêm vào MarketVector Vietnam Local Index (VanEck mua ~13,2 triệu cp) và FTSE Global All Cap Index (có hiệu lực 21/09)."
+      "note": "Giá Brent bình quân 2026 dự báo 85-91 USD/thùng (EIA 91, HSBC 90, BoA 83, Goldman 85) do rủi ro Saudi Arabia và eo Hormuz. Với nền kinh tế độ mở lớn nhập khẩu ròng năng lượng, gây áp lực lên cân đối ngân sách, lạm phát, tỷ giá và dịch vụ ổn định lãi suất."
     }
   ]
 }
