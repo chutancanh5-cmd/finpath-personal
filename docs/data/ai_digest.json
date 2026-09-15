@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận điểm sáng với dòng tiền ngoại trở lại mạnh (720 tỷ đồng), kỳ vọng nâng hạng FTSE từ 21/09 tạo thêm động lực, đồng thời kinh tế vẫn tăng trưởng tích cực (sản xuất +11,9%, PMI 53,3 điểm). Tuy nhiên, rủi ro vĩ mô từ Fed sắp tăng lãi suất (xác suất >90% ngày 18/09), tỷ giá USD tăng áp lực gần 90 đồng, và giá dầu duy trì 85-91 USD/thùng gây sức ép lạm phát, đòi hỏi nhà đầu tư cần cân bằng cơ hội ngắn hạn với rủi ro vĩ mô.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam có dấu hiệu phục hồi mạnh hôm nay với VN-Index tăng 1.28%, nhờ dòng tiền ngoại quay trở lại (mua ròng 720 tỷ đồng). Việt Nam sắp được FTSE nâng hạng từ 21/09, kỳ vọng tạo thêm dòng vốn chỉ số từ các quỹ ngoại. Tăng trưởng kinh tế vẫn ổn định với sản xuất công nghiệp tăng 11.9%, PMI lên 53.3, xuất khẩu tăng 26%. Tuy nhiên, áp lực vĩ mô đáng chú ý: tỷ giá tăng ~90 đồng, giá dầu dự báo 85-91 USD/thùng năm 2026 gây sức ép lên lạm phát và hạn chế dự địa chính sách tiền tệ.",
   "top": [
     {
       "title": "FTSE Russell nâng hạng từ 21/09",
       "impact": "↑",
-      "note": "Triển khai nâng hạng theo từng giai đoạn bắt đầu 21/09/2026 được kỳ vọng tạo động lực cho nhà đầu tư nước ngoài, với tỷ trọng phân bổ ban đầu 10% và nâng dần đến 20%, hỗ trợ định giá thị trường chứng khoán Việt Nam."
+      "note": "FTSE triển khai nâng hạng theo từng giai đoạn bắt đầu 21/09 với tỷ trọng phân bổ ban đầu 10%, kỳ vọng tạo động lực bổ sung cho nhà đầu tư nước ngoài, dòng vốn sẽ giải ngân từng bước"
     },
     {
-      "title": "Khối ngoại tiếp tục mua ròng mạnh",
+      "title": "Khối ngoại mua ròng 720 tỷ đồng phiên 15/09",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng hơn 720 tỷ đồng trong phiên 15/09, tập trung chủ yếu vào cổ phiếu ngân hàng: VCB (~240 tỷ đồng), BSR (~160 tỷ đồng), và các mã BID, TCB, MBB, CTG, SSB, HDB; diễn ra là phiên mua ròng thứ hai liên tiếp, cho thấy tâm lý nhà đầu tư nước ngoài cải thiện."
+      "note": "Khối ngoại mua ròng hơn 720 tỷ đồng trong phiên 15/09 (phiên mua ròng thứ 2 liên tiếp), tập trung chủ yếu ở cổ phiếu ngân hàng VCB (~240 tỷ đồng) và BSR (~160 tỷ đồng)"
     },
     {
-      "title": "Sản xuất công nghiệp tăng trưởng mạnh",
+      "title": "PVS trúng gói thầu ước trị 3 tỷ USD tại Qatar",
       "impact": "↑",
-      "note": "Sản xuất công nghiệp tăng 11,9% tính từ đầu năm, PMI ngành sản xuất tăng lên 53,3 điểm (mức cao nhất kể từ tháng 2), tổng mức bán lẻ tăng 7,6% từ đầu năm, giải ngân đầu tư công tăng 18,5%, cho thấy hoạt động kinh tế tiếp tục duy trì ổn định."
+      "note": "PTSC M&C (công ty con PVS) nhận Thư trao thầu từ QatarEnergy cho dự án Maydan Mahzam Redevelopment Project, gói thầu EPIC-1 ước giá 3 tỷ USD, dự kiến ký hợp đồng chính thức tháng 10/2026"
     },
     {
-      "title": "Fed dự kiến tăng lãi suất 0,25% ngày 18/09",
+      "title": "Tỷ giá USD/VND tăng ~90 đồng trong 2 phiên",
       "impact": "↓",
-      "note": "Lạm phát tháng 8 của Mỹ cao hơn kỳ vọng, thị trường đặt cược xác suất tăng lãi suất 0,25 điểm phần trăm của Fed vào ngày 18/09/2026 ở mức hơn 90%, gây áp lực lên các thị trường mới nổi và tỷ giá USD toàn cầu."
+      "note": "Tỷ giá tăng từ ~25.7k lên ~26k VND/USD trong phiên 14-15/09, tỷ giá trên thị trường liên ngân hàng chốt phiên 14/9 ở 25.995 VND, NHNN rút bớt thanh khoản để kiểm soát áp lực lạm phát"
     },
     {
-      "title": "Tỷ giá USD/VND tăng, Ngân hàng Nhà nước rút thanh khoản",
+      "title": "Giá dầu dự báo 85-91 USD/thùng năm 2026",
       "impact": "↓",
-      "note": "Tỷ giá USD/VND trên thị trường liên ngân hàng tăng gần 65 đồng trong phiên 14/09 lên 25.995 VND, trong hai phiên 14-15/09 tỷ giá tại các ngân hàng tăng khoảng 90 đồng; Ngân hàng Nhà nước rút bớt thanh khoản, tỷ giá đại diện tăng 0,34-0,35%, gây áp lực lên chi phí nhập khẩu và dự phòng chính sách tiền tệ."
+      "note": "EIA, HSBC dự báo giá Brent bình quân năm 2026 ở 85-91 USD/thùng; giá dầu cao kéo dài gây sức ép lên cân đối ngân sách, kiểm soát lạm phát, tỷ giá và hạn chế dự địa ổn định lãi suất hỗ trợ tăng trưởng"
     },
     {
-      "title": "Giá dầu duy trì vùng cao 85-91 USD/thùng",
-      "impact": "↓",
-      "note": "Giá dầu tăng mạnh do các cuộc tấn công hạ tầng năng lượng Saudi Arabia và rủi ro tại eo Hormuz; dự báo giá Brent bình quân năm 2026 ở vùng 85-91 USD/thùng tạo sức ép vĩ mô đáng kể với Việt Nam (nhập khẩu năng lượng ròng), gây áp lực lạm phát, cân đối ngân sách và dự phòng chính sách tiền tệ để hỗ trợ tăng trưởng."
+      "title": "VN-Index phục hồi +1.28% lên 1.811 điểm",
+      "impact": "↑",
+      "note": "VN-Index tăng 22,92 điểm lên 1.811 điểm phiên 15/09 sau khi rơi dưới 1.800 điểm; nhóm dầu khí tăng mạnh (BSR, PVD, PVS, PVC), nhóm ngân hàng và chứng khoán hồi phục"
     }
   ]
 }
