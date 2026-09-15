@@ -2,22 +2,22 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam nhận tín hiệu tích cực từ việc FTSE Russell nâng hạng (bắt đầu 21/9), khối ngoại tiếp tục mua ròng 730 tỷ đồng, và nền kinh tế vĩ mô duy trì đà tăng trưởng mạnh mẽ với sản xuất công nghiệp +11,9%, PMI 53,3 và đầu tư công +18,5%. Tuy nhiên, giá dầu dự báo 85-91 USD/thùng năm 2026 vẫn gây sức ép lên lạm phát và tỷ giá trong ngắn hạn.",
+  "summary_vi": "FTSE Russell tái phân loại thị trường từ 21/09 là yếu tố kích hoạt quan trọng, kỳ vọng dòng vốn nước ngoài tăng. Kinh tế vĩ mô vẫn giữ đà tốt: sản xuất công nghiệp +11,9%, PMI 53,3 (cao nhất 5 tháng), bán lẻ +7,6%, giải ngân đầu tư công +18,5%. Khối ngoại quay lại mua ròng mạnh 730 tỷ đồng, các cổ phiếu lớn tăng. Tuy nhiên, giá dầu dự báo 85-91 USD/thùng năm 2026 tạo áp lực lạm phát và độ mở kinh tế cao kéo dài sẽ hạn chế dư địa chính sách tiền tệ.",
   "top": [
     {
-      "title": "FTSE nâng hạng Việt Nam, tăng dòng vốn nước ngoài",
+      "title": "FTSE nâng hạng từ 21/09",
       "impact": "↑",
-      "note": "FTSE Russell triển khai nâng hạng theo từng giai đoạn bắt đầu từ 21/09 với tỷ trọng phân bổ ban đầu 10%, được kỳ vọng tạo động lực cho nhà đầu tư nước ngoài tham gia thị trường."
+      "note": "FTSE Russell triển khai tái phân loại từ thị trường cận biên lên thứ cấp mới nổi, bắt đầu từ ngày 21/09 với tỷ trọng 10% ban đầu. Kỳ vọng dòng tiền nước ngoài tăng theo từng giai đoạn."
     },
     {
-      "title": "Khối ngoại mua ròng 730 tỷ đồng, VCB được mua 228 tỷ đồng",
+      "title": "Kinh tế vĩ mô tích cực",
       "impact": "↑",
-      "note": "VN-Index tăng 22 điểm lên 1.811 điểm, dòng tiền nước ngoài mua ròng 730 tỷ đồng trên toàn thị trường, BSR và BID cũng được gom mạnh với 158 tỷ đồng và 125 tỷ đồng."
+      "note": "Sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI tháng 8 tăng 53,3 điểm (cao nhất kể từ tháng 2). Tổng mức bán lẻ tăng 7,6% từ đầu năm, giải ngân đầu tư công tăng 18,5% lên 546,8 nghìn tỷ đồng."
     },
     {
-      "title": "Động lực tăng trưởng vĩ mô duy trì ổn định",
+      "title": "Khối ngoại mua ròng 730 tỷ, VN-Index +22 điểm",
       "impact": "↑",
-      "note": "Sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI sản xuất 53,3 (cao nhất kể từ tháng 2), giải ngân đầu tư công tăng 18,5% so với cùng kỳ, hoàn thành 50,5% kế hoạch năm."
+      "note": "Khối ngoại mua ròng 730 tỷ đồng, với VCB được mua 228 tỷ, BSR 158 tỷ, BID 125 tỷ. VN-Index chốt 1.811 điểm tăng 22 điểm, thanh khoản HoSE hơn 16.600 tỷ đồng."
     },
     {
       "title": "Giá dầu cao: 85-91 USD/thùng gây sức ép vĩ mô",
@@ -25,14 +25,14 @@
       "note": "Các tổ chức quốc tế nâng dự báo giá Brent năm 2026 lên 85-91 USD/thùng do rủi ro gián đoạn nguồn cung, gây sức ép lên cân đối ngân sách, kiểm soát lạm phát và tỷ giá."
     },
     {
-      "title": "FDI mạnh: xuất khẩu 8 tháng 374,84 tỷ USD, tăng 22,4%",
+      "title": "FDI mạnh: xuất khẩu 8 tháng 374,84 tỷ USD",
       "impact": "↑",
-      "note": "Xuất khẩu 8 tháng 2026 đạt 374,84 tỷ USD (+22,4% YoY), trong đó FDI chiếm 80,1% (300,37 tỷ USD, +26,9%), kinh tế nội địa 74,47 tỷ USD (+7,4%)."
+      "note": "Xuất khẩu 8 tháng 2026 đạt 374,84 tỷ USD (+22,4% so với cùng kỳ), FDI chiếm 80,1% (300,37 tỷ USD, +26,9%), kinh tế nội địa 74,47 tỷ USD (+7,4%)."
     },
     {
-      "title": "TikTok đầu tư hơn 1 tỷ USD vào Việt Nam",
+      "title": "TikTok đầu tư hơn 1 tỷ USD",
       "impact": "↑",
-      "note": "Swift Logistics (Tokgistic) được cấp Giấy chứng nhận đầu tư ngày 7/9 với vốn 980 triệu USD, cộng với TikTok Shop (25 triệu USD), tổng đầu tư TikTok ecosystem vượt 1 tỷ USD."
+      "note": "Swift Logistics (Tokgistic) được cấp Giấy chứng nhận đầu tư ngày 7/9 với vốn 980 triệu USD, cộng với TikTok Shop (25 triệu USD), tổng ecosystem vượt 1 tỷ USD cho logistics, thanh toán số, thương mại điện tử."
     }
   ]
 }
