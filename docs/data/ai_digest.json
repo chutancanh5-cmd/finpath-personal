@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế duy trì tăng trưởng ổn định với sản xuất công nghiệp tăng 11,9%, PMI 53,3 điểm, giải ngân đầu tư công tăng 18,5%. FTSE Russell nâng hạng từ 21/09 sắp tạo cơ hội hút 6-8 tỷ USD dòng vốn ngoài. Dòng FDI tiếp tục mạnh từ các dự án lớn (TikTok 1 tỷ USD, xuất khẩu FDI tăng 26,9%). Tuy nhiên, lãi suất vẫn ở mức cao và giá dầu 85-91 USD dự báo tạo áp lực lạm phát, tỷ giá trong ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam bước vào giai đoạn mới với nâng hạng từ FTSE Russell (21/9), kỳ vọng dòng vốn ngoại 6-8 tỷ USD. Sản xuất công nghiệp tăng 11,9%, bán lẻ tăng 7,6%, giải ngân công tăng 18,5% - nền tảng tăng trưởng ổn định. Các dự án FDI lớn từ TikTok (1 tỷ USD) và động lực từ vốn hóa ngành (SSB, ABBank) tạo sức đẩy tích cực. Tuy nhiên, áp lực từ lãi suất cao, dầu dự báo 85-91 USD/thùng và sự siết tiền tệ toàn cầu vẫn là rủi ro cần theo dõi ngắn hạn.",
   "top": [
     {
-      "title": "Tăng trưởng kinh tế duy trì ổn định, PMI 53,3 điểm cao nhất từ tháng 2",
+      "title": "FTSE Russell nâng hạng 21/09: chuyển thị trường thứ cấp mới nổi",
       "impact": "↑",
-      "note": "Sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI ngành sản xuất tăng 53,3 điểm (cao nhất kể từ tháng 2), tổng mức bán lẻ tăng 7,6%, giải ngân đầu tư công tăng 18,5% lên 546,8 nghìn tỷ đồng, hoàn thành 50,5% kế hoạch năm"
+      "note": "Thị trường VN chính thức nâng hạng từ cận biên lên thứ cấp mới nổi theo FTSE Russell (21/9/2026), dự kiến hút 6-8 tỷ USD dòng vốn ngoại với phân bổ ban đầu 10% - mở ra cơ hội tham gia dài hạn nếu chất lượng kinh tế được duy trì."
     },
     {
-      "title": "Nâng hạng FTSE Russell 21/09: 6-8 tỷ USD dòng vốn ngoài",
+      "title": "SSB SeABank thêm vào MarketVector, FTSE Global All Cap Index",
       "impact": "↑",
-      "note": "FTSE Russell triển khai nâng hạng theo giai đoạn bắt đầu 21/09, tái phân loại thị trường VN từ cận biên lên mới nổi thứ cấp. Tổng giám đốc ABS dự báo dòng vốn ngoài 6-8 tỷ USD có thể chảy vào, tạo động lực cho nhà đầu tư ngoài tham gia"
+      "note": "SSB tăng 40% trong 1 tháng lên 20.900 đồng/cp, vốn hóa 72.500 tỷ đồng; được VanEck thêm vào MarketVector Vietnam Local Index (mua 13,2 triệu cp) và FTSE Global All Cap Index cùng 26 cổ phiếu VN (21/9/2026), tạo cầu ngoại mạnh."
     },
     {
-      "title": "Xuất khẩu FDI tăng mạnh: 300,37 tỷ USD trong 8 tháng, chiếm 80,1% tổng",
+      "title": "TikTok Logistics 980 triệu USD FDI, tổng ecosystem 1+ tỷ USD",
       "impact": "↑",
-      "note": "FDI đạt 300,37 tỷ USD trong 8 tháng 2026, tăng 26,9% so cùng kỳ, tháng 8 xuất khẩu đạt 54,79 tỷ USD tăng 3,2% so tháng trước, khu vực FDI chiếm 80,1% tổng kim ngạch xuất khẩu"
+      "note": "Swift Logistics (Tokgistic từ Singapore) được cấp giấy đầu tư 980 triệu USD hoạt động 50 năm; tổng FDI TikTok ecosystem tối thiểu 1 tỷ USD, hướng tới 1-2 tỷ đơn hàng logistics/năm, phục vụ 45 triệu người dùng payment, thương mại số 10+ tỷ USD/năm."
     },
     {
-      "title": "Giá dầu Brent 85-91 USD/thùng: áp lực lạm phát, tỷ giá, lãi suất",
+      "title": "Tăng trưởng kinh tế ổn định: sản xuất+11,9%, PMI 53,3, giải ngân+18,5%",
+      "impact": "↑",
+      "note": "Sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI ngành sản xuất 53,3 điểm (cao nhất tháng 2), bán lẻ tăng 7,6%, giải ngân đầu tư công tăng 18,5% lên 546,8 nghìn tỷ đồng (50,5% kế hoạch) - nền tảng tăng trưởng chắc chắn dù lãi suất cao."
+    },
+    {
+      "title": "Dầu tăng 85-91 USD/thùng: áp lực lạm phát, tỷ giá, lãi suất",
       "impact": "↓",
-      "note": "Giá dầu tăng do rủi ro gián đoạn nguồn cung Trung Đông, các tổ chức quốc tế dự báo Brent bình quân 2026 ở 85-91 USD/thùng, tạo sức ép kiểm soát lạm phát, tỷ giá, hạn chế dư địa ổn định lãi suất hỗ trợ tăng trưởng"
+      "note": "Giá Brent dự báo 85-91 USD/thùng năm 2026 do tấn công hạ tầng Saudi Arabia và rủi ro eo Hormuz; VN nhập khẩu ròng dầu, tạo sức ép kiểm soát lạm phát, tỷ giá, hạn chế dư địa ổn định lãi suất hỗ trợ tăng trưởng."
     },
     {
-      "title": "ABBank được chấp thuận tăng vốn 10.765,5 tỷ đồng, lộ trình niêm yết HOSE",
+      "title": "ABBank tăng vốn 10.765 tỷ đồng, vốn lên 26.833 tỷ, lộ trình niêm yết HOSE",
       "impact": "↑",
-      "note": "NHNN chấp thuận tăng vốn điều lệ 10.765,5 tỷ đồng qua 3 cấu phần: chào bán cổ đông 8.033,9 tỷ, phát hành từ lợi nhuận 1.928,1 tỷ, phát hành cho CBNV 803,4 tỷ, nâng vốn lên 26.833,3 tỷ đồng"
-    },
-    {
-      "title": "Thâm hụt thương mại thu hẹp: tháng 8 chỉ còn 0,1 tỷ USD",
-      "impact": "↑",
-      "note": "Thâm hụt thương mại tháng 8 thu hẹp còn 0,1 tỷ USD, so với 3,6 tỷ USD tháng 7 và 2,1 tỷ USD bình quân 6-8, giúp giảm bớt áp lực từ khu vực đối ngoại cho kinh tế"
+      "note": "NHNN chấp thuận ABBank tăng vốn điều lệ 10.765,5 tỷ đồng từ 16.067,8 tỷ lên 26.833,3 tỷ đồng qua chào bán cổ đông 8.033,9 tỷ, phát hành từ lợi nhuận 1.928,1 tỷ, phát hành CBNV 803,4 tỷ - tạo nguồn lực tăng trưởng 2025-2028 và lộ trình niêm yết."
     }
   ]
 }
