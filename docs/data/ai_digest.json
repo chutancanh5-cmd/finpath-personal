@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nâng hạng FTSE Russell kích hoạt 240 triệu USD từ quỹ ngoại vào 27 cổ phiếu, FDI lớn TikTok 980 triệu USD hướng tới 10 tỷ USD doanh số thương mại số, bán lẻ tăng 30% thể hiện cơ hội tích cực. Tuy nhiên, dầu cao 85-91 USD/thùng gây sức ép lạm phát, nợ công Mỹ 40 nghìn tỷ USD tạo lo ngại vốn ngoại. Thị trường cân bằng giữa cơ hội nâng hạng và rủi ro vĩ mô quốc tế.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam được hỗ trợ mạnh bởi nâng hạng FTSE Russell với 240 triệu USD quỹ ngoại dự kiến đổ vào 27 cổ phiếu, FDI từ TikTok 980 triệu USD vào logistics, và tiêu dùng nội địa mạnh (MWG +30%, Bách Hóa Xanh vượt kế hoạch). Tuy nhiên, Fed sắp tăng lãi suất 0,25 điểm phần trăm và dầu Brent dự báo 85-91 USD/thùng tạo áp lực vĩ mô lên lạm phát, tỷ giá và chính sách tiền tệ. Thị trường cân bằng giữa cơ hội cấu trúc dài hạn từ nâng hạng và rủi ro vĩ mô ngắn hạn từ lãi suất toàn cầu và giá năng lượng.",
   "top": [
+    {
+      "title": "Fed tăng lãi suất 0,25 điểm, sức ép lên vốn ngoại EM",
+      "impact": "↓",
+      "note": "85% nhà kinh tế (86 trong 101 khảo sát Reuters) dự báo Fed tăng lãi suất lên 3,75-4% vào ngày 15-16/9, đợt tăng đầu tiên kể từ tháng 7/2023; sự tăng lãi suất khiến các nhà đầu tư tìm kiếm lợi suất cao hơn từ USD, dẫn tới rủi ro rút vốn từ thị trường mới nổi như Việt Nam."
+    },
     {
       "title": "Quỹ ngoại mua 240 triệu USD trước nâng hạng FTSE",
       "impact": "↑",
-      "note": "Các quỹ ETF giải ngân 240 triệu USD vào 27 cổ phiếu Việt Nam, VPB được mua nhiều nhất 32,8 triệu USD, VHM 30,85 triệu USD, MCH 22,1 triệu USD, FPT 21,48 triệu USD; nâng hạng FTSE chính thức có hiệu lực từ 21/9."
+      "note": "Các quỹ ETF giải ngân 240 triệu USD vào 27 cổ phiếu Việt Nam, VPB được mua nhiều nhất 32,8 triệu USD, VHM 30,85 triệu USD, MCH 22,1 triệu USD, FPT 21,48 triệu USD; nâng hạng FTSE Russell chính thức có hiệu lực từ 21/9/2026."
     },
     {
-      "title": "TikTok Việt Nam dành 980 triệu USD FDI cho logistics",
-      "impact": "↑",
-      "note": "Swift Logistics nhận 980 triệu USD vốn đăng ký với thời hạn 50 năm; TikTok Shop (25 triệu USD) và dự án thương mại số hướng tới 10 tỷ USD doanh số mỗi năm, mục tiêu phục vụ 45 triệu người dùng Việt Nam."
-    },
-    {
-      "title": "MWG tăng trưởng doanh thu 30%, Bách Hóa Xanh vượt kế hoạch",
-      "impact": "↑",
-      "note": "MWG doanh thu 129.4 ngàn tỷ đồng tăng 30%, DMX 86.8 ngàn tỷ tăng 29%, Bách Hóa Xanh 40.1 ngàn tỷ tăng 32% trong 8 tháng; Bách Hóa Xanh mở 1.160 cửa hàng mới, tổng 3.719 cửa hàng hoạt động."
-    },
-    {
-      "title": "Dầu cao 85-91 USD/thùng gây áp lực lạm phát",
+      "title": "Dầu Brent lên gần 108 USD/thùng, áp lực lạm phát Việt Nam",
       "impact": "↓",
-      "note": "Dầu Brent dự báo bình quân năm 2026 ở 85-91 USD/thùng do lo ngại sự đứt đoạn nguồn cung từ tấn công hạ tầng năng lượng Saudi Arabia; gây sức ép lạm phát, cân đối ngân sách, khó khăn cho chính sách tiền tệ hỗ trợ tăng trưởng."
+      "note": "Dầu Brent gần 108 USD/thùng do Saudi Arabia đóng tuyến ống cùng lo ngại gián đoạn nguồn cung; dự báo giá bình quân năm 2026 ở 85-91 USD/thùng sẽ tạo sức ép lạm phát, cân đối ngân sách, tỷ giá và hạn chế dàn dẽo chính sách tiền tệ để hỗ trợ tăng trưởng."
+    },
+    {
+      "title": "MWG tăng trưởng 30%, Bách Hóa Xanh vượt 1.000 cửa hàng",
+      "impact": "↑",
+      "note": "CTCP Đầu tư Thế Giới Di Động (MWG) doanh thu 129,4 ngàn tỷ đồng tăng 30% trong 8 tháng; Bách Hóa Xanh doanh thu 40,1 ngàn tỷ tăng 32%, mở 1.160 cửa hàng mới với tổng 3.719 cửa hàng hoạt động, thể hiện tiêu dùng nội địa vẫn khảe."
+    },
+    {
+      "title": "TikTok Việt Nam đầu tư 980 triệu USD vào logistics",
+      "impact": "↑",
+      "note": "Tokgistic Pte. Ltd. được cấp Giấy chứng nhận đăng ký cho dự án Swift Logistics với vốn 980 triệu USD, thời hạn 50 năm; kết hợp TikTok Shop (25 triệu USD) và thương mại số hướng tới 10 tỷ USD doanh số mỗi năm, phục vụ 45 triệu người dùng Việt Nam."
     },
     {
       "title": "Du lịch Việt Nam mục tiêu 90 tỷ USD năm 2030",
       "impact": "↑",
-      "note": "Năm 2026 hướng 25-27 triệu khách quốc tế, 150-153 triệu khách nội địa, 1,125-1,230 triệu tỷ đồng doanh thu; du lịch được xác định là động lực góp vào mục tiêu GDP tăng 10% năm 2026, tập trung thị trường Trung Quốc, Hàn Quốc, Ấn Độ, Nga."
-    },
-    {
-      "title": "Nợ công Mỹ 40 nghìn tỷ USD, thị trường lo ngại",
-      "impact": "↓",
-      "note": "Chính quyền Trump dựa vào tăng trưởng kinh tế để xử lý nợ công nhưng thị trường không tin tưởng; các chính sách kinh tế dân túy từ cả hai đảng đi theo hướng ngược lại, tạo lo ngại tác động lên dòng vốn ngoại vào thị trường mới nổi."
+      "note": "Năm 2026 hướng 25-27 triệu khách quốc tế, 150-153 triệu khách nội địa, 1,125-1,230 ngàn tỷ đồng doanh thu; du lịch là động lực mục tiêu GDP tăng 10% năm 2026, tập trung thị trường Trung Quốc, Hàn Quốc, Ấn Độ, Nga."
     }
   ]
 }
