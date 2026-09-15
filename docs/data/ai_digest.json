@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tháng 9 mang tin lạc quan với FTSE Russell nâng hạng Việt Nam (21/9), kỳ vọng tăng dòng vốn nước ngoài; tuy vậy, nhịp cầu từ bên ngoài suy yếu vì lãi suất Mỹ có xu hướng tăng và đồng USD mạnh hơn, tạo áp lực lên tỷ giá VND. Giá dầu cao (85–91 USD/thùng dự báo) cũng gây sức ép vĩ mô cho kiểm soát lạm phát và ổn định tỷ giá. Trong nước, nền kinh tế vẫn tăng trưởng ổn định với sản xuất, bán lẻ, đầu tư công tiếp tục hỗ trợ.",
+  "summary_vi": "Thị trường Việt Nam hôm nay ghi nhận tín hiệu tích cực từ sự hồi phục của VN-Index (+1,28%) và dòng ngoại mua ròng 730 tỷ đồng, trong khi FTSE nâng hạng (21/09) sắp diễn ra. Tuy nhiên, các rủi ro vĩ mô như chiến lược tiền tệ của Fed bất ổn giữa áp lực chính trị từ Trump, tỷ giá tăng nhanh, và giá dầu cao kéo dài đang tạo áp lực lên chi phí vốn và lạm phát.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng từ 21/9, khởi động nâng cấp chỉ số",
+      "title": "FTSE nâng hạng từ 21/09 tạo động lực NĐT nước ngoài",
       "impact": "↑",
       "note": "Việt Nam được nâng hạng từ ngày 21/9 theo từng giai đoạn với tỷ trọng phân bổ ban đầu 10%, kỳ vọng tạo thêm động lực cho nhà đầu tư nước ngoài tham gia thị trường với dòng vốn giải ngân từng bước trong dài hạn."
     },
     {
-      "title": "Lãi suất Mỹ căng thẳng: Lạm phát cao, thị trường đặt cược Fed tăng 0,25%",
+      "title": "Tỷ giá USD/VND tăng 90 đồng, áp lực lên chi phí vốn",
       "impact": "↓",
-      "note": "Lạm phát Mỹ tháng 8 cao hơn kỳ vọng, thị trường tăng đặt cược Fed tăng lãi suất 0,25% lên trên 90% trong cuộc họp FOMC bắt đầu 15/9, trong khi Trump đe dọa leo thang chiến tranh thương mại nếu chính sách tiền tệ không nới lỏng, tạo áp lực lên USD và các thị trường mới nổi."
+      "note": "Trong 2 phiên 14-15/09, tỷ giá USD tại các ngân hàng tăng khoảng 90 đồng. Trên thị trường liên ngân hàng, tỷ giá USD/VND bật tăng 65 đồng trong phiên 14/09 chốt 25.995 VND. Ngân hàng Nhà nước rút bớt thanh khoản để kiểm soát áp lực tỷ giá."
     },
     {
-      "title": "Tỷ giá USD/VND tăng nhanh, NHNN rút bớt thanh khoản kiểm soát",
+      "title": "Fed 15-16/09: Chính sách tiền tệ bất ổn giữa áp lực chính trị",
       "impact": "↓",
-      "note": "Tỷ giá USD/VND tăng khoảng 90 đồng trong hai phiên 14–15/9 (hiện tỷ giá chuyển khoản phổ biến 25.800–26.220 VND/USD), NHNN đang rút bớt thanh khoản để kiểm soát áp lực đồng tiền, phản ánh thách thức từ chính sách tiền tệ toàn cầu."
+      "note": "Thị trường đặt cược 90% khả năng Fed tăng lãi suất 0,25 điểm phần trăm ngày 17/09, nhưng Tổng thống Trump đã nhiều lần thúc ép nới lỏng chính sách tiền tệ và đe dọa leo thang chiến tranh thương mại nếu không nới lỏng. Chủ tịch Fed Warsh ở vị thế khó khăn."
     },
     {
-      "title": "Giá dầu cao 85–91 USD/thùng gây sức ép vĩ mô cho kiểm soát lạm phát",
-      "impact": "↓",
-      "note": "Giá dầu Brent dự báo bình quân 2026 ở 85–91 USD/thùng (EIA 91, HSBC 90, Goldman Sachs 85 USD) do lo ngại nguồn cung Trung Đông, tạo sức ép lên cân đối ngân sách, lạm phát và dư địa ổn định lãi suất của Việt Nam, nước nhập khẩu ròng năng lượng."
-    },
-    {
-      "title": "Động lực tăng trưởng duy trì tháng 8: Sản xuất 11,9%, bán lẻ 7,6%, đầu tư công 546,8 nghìn tỷ đồng",
+      "title": "PVS trúng gói thầu 3 tỷ USD tại Qatar",
       "impact": "↑",
-      "note": "Nền kinh tế Việt Nam duy trì tăng trưởng ổn định tháng 8 với sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI 53,3 điểm (cao nhất từ tháng 2), tổng mức bán lẻ tăng 7,6% từ đầu năm, và giải ngân đầu tư công tăng 18,5% lên 546,8 nghìn tỷ đồng (50,5% kế hoạch năm), hỗ trợ nhịp đầu tư và tiêu dùng."
+      "note": "Ngày 13/09, công ty con PTSC M&C (sở hữu 100% vốn PVS) nhận Thư trao thầu từ QatarEnergy cho dự án Maydan Mahzam Redevelopment Project, gói thầu EPIC-1 MM Greenfield Installation & Brownfield Modifications, hợp đồng chính thức dự kiến ký kết tháng 10/2026."
     },
     {
-      "title": "PVS trúng thầu EPC 3 tỷ USD tại Qatar, nâng cao vị thế dầu khí Việt Nam",
+      "title": "Giá dầu cao 85-91 USD/thùng, áp lực lạm phát và lãi suất",
+      "impact": "↓",
+      "note": "Giá dầu tăng mạnh do lo ngại gián đoạn nguồn cung từ tấn công hạ tầng Saudi Arabia. Các tổ chức quốc tế nâng dự báo giá Brent năm 2026 lên 85-91 USD/thùng (EIA: 91, HSBC: 90, Goldman Sachs: 85 USD/thùng). Giá dầu cao gây sức ép lên cân đối ngân sách, kiểm soát lạm phát, tỷ giá."
+    },
+    {
+      "title": "VN-Index hồi phục 1,28%, khối ngoại mua ròng liên tiếp",
       "impact": "↑",
-      "note": "Công ty con PVS (PTSC M&C) nhận Thư trao thầu từ QatarEnergy cho gói thầu \"EPIC-1 MM Greenfield Installation & Brownfield Modifications\" với phạm vi thiết kế, mua sắm, thi công, lắp đặt ngoài khơi; hợp đồng dự kiến ký tháng 10/2026, khẳng định năng lực doanh nghiệp dầu khí Việt Nam trên sân khấu quốc tế."
+      "note": "Phiên 15/09, VN-Index tăng 22,92 điểm lên 1.811,15 điểm sau khi rơi xuống dưới 1.800 phiên trước. Khối ngoại mua ròng hơn 730 tỷ đồng, phiên thứ hai liên tiếp mua ròng với tâm điểm là VCB (~230 tỷ đồng) và BSR (~160 tỷ đồng)."
     }
   ]
 }
