@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-16",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục được hỗ trợ bởi quá trình nâng hạng FTSE Russell (từ 21/9) và quay trở lại của khối ngoại mua ròng mạnh (731,9 tỷ đồng), tập trung ở nhóm ngân hàng và các cổ phiếu vốn hóa lớn. Tuy nhiên, áp lực vĩ mô từ Fed sắp tăng lãi suất, giá dầu thế giới cao (85-91 USD/thùng) và tỷ giá USD/VND tăng nhanh vẫn là những rủi ro cần theo dõi trong ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận sắc xanh trong phiên giao dịch hôm nay với sự quay trở lại của dòng tiền ngoại (mua ròng 731,9 tỷ đồng), nhất là vào nhóm ngân hàng chuẩn bị cho quá trình nâng hạng FTSE Russell từ 21/9. Tuy vậy, rủi ro vĩ mô vẫn diễn ra từ khía cạnh ngoại sinh: Fed dự kiến tăng lãi suất (xác suất 90%), giá dầu tăng do lo ngại nguồn cung tại Trung Đông, và tỷ giá USD tăng nhanh khiến NHNN phải rút thanh khoản. Tăng trưởng kinh tế vẫn ổn định (sản xuất công nghiệp +11,9%, PMI 53,3) nhưng lãi suất cao hạn chế dư địa chính sách.",
   "top": [
     {
-      "title": "SSB tăng kịch trần - nâng hạng FTSE & MSCI",
+      "title": "Khối ngoại mua ròng trở lại trước nâng hạng FTSE",
       "impact": "↑",
-      "note": "SSB tăng kịch trần 2 phiên liên tiếp (14-15/9) với biên độ +6,91%, tăng 40% trong 1 tháng. Được FTSE Russell đưa vào FTSE Global All Cap Index với hiệu lực 21/9/2026 và MSCI đưa vào MSCI Frontier Markets Index từ 1/9/2026."
+      "note": "Nhà đầu tư nước ngoài mua ròng 731,9 tỷ đồng (phiên mua ròng thứ 2 liên tiếp), tập trung chủ yếu cổ phiếu ngân hàng VCB (~240 tỷ đồng), BSR (~160 tỷ đồng), BID, TCB, MBB, CTG, SSB, HDB. Dòng tiền ngoại này phản ánh kỳ vọng hưởng lợi từ quá trình nâng hạng FTSE Russell."
     },
     {
-      "title": "Khối ngoại mua ròng 731,9 tỷ đồng",
+      "title": "SSB tăng kịch trần lần 2, hưởng lợi nâng hạng FTSE Russell",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 731,9 tỷ đồng (692,5 tỷ khớp lệnh) phiên 15/9, tập trung ở ngân hàng VCB (~240 tỷ), BSR (~160 tỷ), BID, CTG, LPB, SSB. VN-Index tăng 23 điểm lên 1.811,15."
+      "note": "SSB tăng kịch biên độ +6,91% đóng cửa 20.900 đồng/cp, tăng 40% chỉ trong 1 tháng (từ giữa tháng 8), lên đỉnh 3 năm. Cổ phiếu vào FTSE Global All Cap Index (hiệu lực 21/9) và MSCI Frontier Markets Index (từ 1/9). Nhà đầu tư nước ngoài mua ròng 5,2 triệu cổ phiếu SSB với giá trị 92 tỷ đồng ngày 15/9."
     },
     {
-      "title": "Dragon Capital: Tăng trưởng kinh tế duy trì ổn định",
+      "title": "PVS trúng gói thầu 3 tỷ USD tại Qatar",
       "impact": "↑",
-      "note": "Sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI ngành sản xuất 53,3 điểm (cao nhất kể từ tháng 2), tổng mức bán lẻ tăng 7,6%, giải ngân đầu tư công tăng 18,5% lên 546,8 nghìn tỷ đồng (50,5% kế hoạch năm)."
+      "note": "Công ty con PTSC M&C (100% vốn PVS) nhận thư trao thầu từ QatarEnergy cho dự án Maydan Mahzam (MM Project), gói thầu EPIC-1 trị giá 3 tỷ USD, phạm vi thiết kế, mua sắm, thi công, lắp đặt ngoài khơi, hoán cải và nâng cấp cụm mỏ MM. Hợp đồng chính thức dự kiến ký tháng 10/2026."
     },
     {
-      "title": "PVS trúng gói thầu Qatar ước trị giá 3 tỷ USD",
-      "impact": "↑",
-      "note": "PTSC M&C (công ty con 100% của PVS) nhận Thư trao thầu từ QatarEnergy ngày 13/09 cho dự án Maydan Mahzam Redevelopment Project, gói EPIC-1 ước trị giá 3 tỷ USD, dự kiến ký hợp đồng tháng 10/2026."
-    },
-    {
-      "title": "Fed tăng lãi suất - xung đột chính sách",
+      "title": "Fed dự kiến tăng lãi suất 0,25% với xác suất 90%",
       "impact": "↓",
-      "note": "Thị trường kỳ vọng Fed tăng lãi suất 0,25 điểm phần trăm ngày 17/9 với xác suất hơn 90%, trong khi ông Trump liên tục gây áp lực nới lỏng chính sách tiền tệ để hỗ trợ tăng trưởng."
+      "note": "Thị trường đặt cược tăng lãi suất 0,25 điểm phần trăm tại cuộc họp Fed (ngày 17/9) với xác suất trên 90%, sau khi báo cáo lạm phát tháng 8 của Mỹ nóng hơn kỳ vọng. Chủ tịch Fed Warsh đối mặt áp lực từ Tổng thống Trump yêu cầu nới lỏng chính sách tiền tệ và từ thị trường kỳ vọng tăng lãi suất. Quyết định này sẽ ảnh hưởng đến chiến lược tiền tệ VN."
     },
     {
-      "title": "Giá dầu cao 85-91 USD/thùng gây sức ép vĩ mô",
+      "title": "Giá dầu tăng mạnh do lo ngại nguồn cung, dự báo 85-91 USD/thùng",
       "impact": "↓",
-      "note": "Các tổ chức quốc tế nâng dự báo giá Brent bình quân năm 2026 lên 85-91 USD/thùng (EIA 91, HSBC 90, BoA 83, Goldman Sachs 85 USD). Áp lực lên cân đối ngân sách, kiểm soát lạm phát, tỷ giá và dự phòng ổn định lãi suất."
+      "note": "Giá dầu tăng do tấn công hạ tầng năng lượng Saudi Arabia và rủi ro tuyến vận chuyển Trung Đông. EIA dự báo Brent bình quân 2026 ở 91 USD/thùng, HSBC 90 USD/thùng, BoA 83 USD/thùng nửa cuối năm. Việt Nam là nước nhập khẩu năng lượng ròng, dầu cao kéo dài gây sức ép lạm phát, tỷ giá, lãi suất, hạn chế dư địa ổn định."
+    },
+    {
+      "title": "Tỷ giá tăng 90 đồng trong 2 phiên, NHNN rút thanh khoản",
+      "impact": "↓",
+      "note": "Tỷ giá USD/VND tăng 90 đồng trong 2 phiên (14-15/9), đạt cao nhất 25.995 VND phiên 14/9. Giá mua chuyển khoản phổ biến khoảng 25.800-25.835 VND, bán 26.170-26.220 VND. Sự tăng tỷ giá này khiến NHNN rút bớt thanh khoản nhằm ổn định đồng tiền, giảm dư địa chính sách tiền tệ."
     }
   ]
 }
