@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường ghi nhận phiên tích cực 15/09 với khối ngoại mua ròng 730 tỷ đồng chuẩn bị cho nâng hạng FTSE Russell từ 21/09. Tuy nhiên, rủi ro vĩ mô gia tăng từ Fed (87% xác suất tăng lãi 15-16/9), ECB (tăng 0.25% lên 2.5%), giá dầu cao (85-91 USD/thùng), và tỷ giá tăng nhanh (90 đồng/USD trong 2 phiên). Cân cả cơ hội từ dòng vốn ngoại và rủi ro từ chính sách tiền tệ co lại.",
+  "summary_vi": "Thị trường ghi nhận tín hiệu tích cực với FTSE nâng hạng kích hoạt, khối ngoại mua ròng liên tiếp 2 phiên và VN-Index tăng 23 điểm. Kinh tế tăng trưởng ổn định (PMI 53.3, xuất khẩu +22.4%), các doanh nghiệp có tiến triển nổi bật (PVS trúng 3 tỷ USD, ABBank tăng vốn). Tuy nhiên lãi suất cao, tỷ giá tăng nhanh và giá dầu dự báo 85-91 USD/thùng tạo áp lực ngắn hạn cần quản lý.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng 730 tỷ đồng, VN-Index tăng 23 điểm",
+      "title": "PVS trúng thầu 3 tỷ USD tại Qatar",
       "impact": "↑",
-      "note": "Phiên 15/09 khối ngoại mua ròng 730 tỷ đồng (phiên thứ 2 liên tiếp), tập trung vào VCB (~230 tỷ đồng), BSR (~160 tỷ đồng). VN-Index tăng 23 điểm lên 1,811.15 điểm với 470 mã tăng vs 220 mã giảm, HNX-Index tăng 2 điểm lên 274 điểm."
+      "note": "Ngày 13/09, công ty con PTSC M&C của PVS nhận Thư trao thầu từ QatarEnergy cho gói EPIC-1 MM Redevelopment Project, ước giá 3 tỷ USD, hợp đồng dự kiến ký tháng 10/2026 — khẳng định năng lực tổng thầu EPC trong cạnh tranh quốc tế."
     },
     {
-      "title": "FTSE Russell nâng hạng từ 21/09, tỷ trọng 10%",
+      "title": "Kinh tế Việt Nam tăng trưởng ổn định giữa lãi suất cao",
       "impact": "↑",
-      "note": "Nâng hạng triển khai từng giai đoạn bắt đầu 21/09/2026 với tỷ trọng phân bổ ban đầu 10%, dòng vốn được giải ngân từng bước. Cùng lúc, tăng trưởng công nghiệp 11.9% từ đầu năm, PMI sản xuất tháng 8 đạt 53.3 (cao nhất kể từ tháng 2)."
+      "note": "Tháng 8 sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI 53.3 điểm (cao nhất kể từ tháng 2), bán lẻ +7.6%, giải ngân đầu tư công tăng 18.5% đạt 546.8 nghìn tỷ đồng (50.5% kế hoạch năm) — nhu cầu nội địa và đầu tư công hỗ trợ tăng trưởng."
     },
     {
-      "title": "PVS trúng gói thầu Qatar ước trị giá 3 tỷ USD",
+      "title": "FDI tăng mạnh thúc đẩy xuất khẩu 22.4% 8 tháng",
       "impact": "↑",
-      "note": "Công ty con PTSC M&C (100% vốn của PVS) nhận Thư trao thầu từ QatarEnergy ngày 13/09, đảm nhận gói EPIC-1 MM Greenfield Installation & Brownfield Modifications với phạm vi thiết kế, mua sắm, thi công, lắp đặt ngoài khơi. Hợp đồng chính thức dự kiến ký tháng 10/2026."
+      "note": "8 tháng 2026 khu vực FDI tăng 26.9% đạt 300.37 tỷ USD (chiếm 80.1% tổng kim ngạch), kinh tế nội địa tăng 7.4% đạt 74.47 tỷ USD — dòng vốn nước ngoài vẫn là động lực chính, song nhu cầu nâng cấp doanh nghiệp nội địa."
     },
     {
-      "title": "Fed 87% xác suất tăng lãi suất, ECB tăng 0.25%",
-      "impact": "↓",
-      "note": "Sau số liệu CPI tháng 8 Mỹ, thị trường lãi suất tương lai nâng xác suất Fed tăng lãi tại cuộc họp 15-16/9 lên 87% (từ ~70%). ECB tăng lãi suất 0.25 điểm phần trăm lên 2.5%, cao nhất kể từ tháng 4/2025. BOJ họp 18-19/9, có nguy cơ thắt chặt tiền tệ."
+      "title": "Khối ngoại mua ròng 730 tỷ liên tiếp 2 phiên",
+      "impact": "↑",
+      "note": "Phiên 15/09 VN-Index tăng 23 điểm lên 1.811.15, 470 mã tăng vs 220 mã giảm, khối ngoại mua ròng hơn 730 tỷ đồng tâm điểm VCB (~230 tỷ) và BSR (~160 tỷ) — tín hiệu dòng tiền dương trước tuần nâng hạng FTSE 21/09."
     },
     {
-      "title": "Giá dầu Brent dự báo 85-91 USD/thùng năm 2026",
+      "title": "Tỷ giá USD tăng 90 đồng, NHNN rút thanh khoản",
       "impact": "↓",
-      "note": "Giá dầu tăng do lo ngại gián đoạn nguồn cung từ tấn công hạ tầng Saudi Arabia. Các tổ chức quốc tế dự báo Brent: EIA 91, HSBC 90, BofA 83, Goldman Sachs 85 USD/thùng năm 2026. Mức cao sẽ tạo áp lực lên lạm phát, tỷ giá, cân đối ngân sách Việt Nam."
+      "note": "Hai phiên 14-15/09 tỷ giá USD/VND tăng ~90 đồng, thị trường liên ngân hàng tăng 65 đồng phiên 14/09 lên 25.995 VND, giá bán phổ biến 26.170-26.220 VND — NHNN rút thanh khoản, tỷ giá tăng tạo áp lực kiểm soát lạm phát."
     },
     {
-      "title": "Tỷ giá USD/VND tăng 90 đồng trong 2 phiên",
+      "title": "Fed tăng lãi suất 87%, dầu 85-91 USD/thùng",
       "impact": "↓",
-      "note": "Trong 14-15/9, tỷ giá USD/VND tăng ~90 đồng, từ ~25.905 lên 25.825-26.220 VND/USD. Thị trường liên ngân hàng tăng 65 đồng phiên 14/9 lên 25.995 VND. NHNN rút bớt thanh khoản để kiểm soát áp lực tỷ giá trong bối cảnh tỷ giá điều hành cùng tăng."
+      "note": "CPI Mỹ tháng 8 tăng 3.4% yoy (lõi 2.4%), xác suất Fed tăng lãi suất cuộc họp 15-16/09 lên 87%; giá Brent dự báo năm 2026 85-91 USD/thùng — áp lực tiền tệ toàn cầu và giá năng lượng cao cản dùng kiểm soát lạm phát trong nước."
     }
   ]
 }
