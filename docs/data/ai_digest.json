@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-15",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường Việt Nam hôm nay ghi nhận tín hiệu tích cực từ sự hồi phục của VN-Index (+1,28%) và dòng ngoại mua ròng 730 tỷ đồng, trong khi FTSE nâng hạng (21/09) sắp diễn ra. Tuy nhiên, các rủi ro vĩ mô như chiến lược tiền tệ của Fed bất ổn giữa áp lực chính trị từ Trump, tỷ giá tăng nhanh, và giá dầu cao kéo dài đang tạo áp lực lên chi phí vốn và lạm phát.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận điểm sáng với dòng tiền ngoại trở lại mạnh (720 tỷ đồng), kỳ vọng nâng hạng FTSE từ 21/09 tạo thêm động lực, đồng thời kinh tế vẫn tăng trưởng tích cực (sản xuất +11,9%, PMI 53,3 điểm). Tuy nhiên, rủi ro vĩ mô từ Fed sắp tăng lãi suất (xác suất >90% ngày 18/09), tỷ giá USD tăng áp lực gần 90 đồng, và giá dầu duy trì 85-91 USD/thùng gây sức ép lạm phát, đòi hỏi nhà đầu tư cần cân bằng cơ hội ngắn hạn với rủi ro vĩ mô.",
   "top": [
     {
-      "title": "FTSE nâng hạng từ 21/09 tạo động lực NĐT nước ngoài",
+      "title": "FTSE Russell nâng hạng từ 21/09",
       "impact": "↑",
-      "note": "Việt Nam được nâng hạng từ ngày 21/9 theo từng giai đoạn với tỷ trọng phân bổ ban đầu 10%, kỳ vọng tạo thêm động lực cho nhà đầu tư nước ngoài tham gia thị trường với dòng vốn giải ngân từng bước trong dài hạn."
+      "note": "Triển khai nâng hạng theo từng giai đoạn bắt đầu 21/09/2026 được kỳ vọng tạo động lực cho nhà đầu tư nước ngoài, với tỷ trọng phân bổ ban đầu 10% và nâng dần đến 20%, hỗ trợ định giá thị trường chứng khoán Việt Nam."
     },
     {
-      "title": "Tỷ giá USD/VND tăng 90 đồng, áp lực lên chi phí vốn",
-      "impact": "↓",
-      "note": "Trong 2 phiên 14-15/09, tỷ giá USD tại các ngân hàng tăng khoảng 90 đồng. Trên thị trường liên ngân hàng, tỷ giá USD/VND bật tăng 65 đồng trong phiên 14/09 chốt 25.995 VND. Ngân hàng Nhà nước rút bớt thanh khoản để kiểm soát áp lực tỷ giá."
-    },
-    {
-      "title": "Fed 15-16/09: Chính sách tiền tệ bất ổn giữa áp lực chính trị",
-      "impact": "↓",
-      "note": "Thị trường đặt cược 90% khả năng Fed tăng lãi suất 0,25 điểm phần trăm ngày 17/09, nhưng Tổng thống Trump đã nhiều lần thúc ép nới lỏng chính sách tiền tệ và đe dọa leo thang chiến tranh thương mại nếu không nới lỏng. Chủ tịch Fed Warsh ở vị thế khó khăn."
-    },
-    {
-      "title": "PVS trúng gói thầu 3 tỷ USD tại Qatar",
+      "title": "Khối ngoại tiếp tục mua ròng mạnh",
       "impact": "↑",
-      "note": "Ngày 13/09, công ty con PTSC M&C (sở hữu 100% vốn PVS) nhận Thư trao thầu từ QatarEnergy cho dự án Maydan Mahzam Redevelopment Project, gói thầu EPIC-1 MM Greenfield Installation & Brownfield Modifications, hợp đồng chính thức dự kiến ký kết tháng 10/2026."
+      "note": "Khối ngoại mua ròng hơn 720 tỷ đồng trong phiên 15/09, tập trung chủ yếu vào cổ phiếu ngân hàng: VCB (~240 tỷ đồng), BSR (~160 tỷ đồng), và các mã BID, TCB, MBB, CTG, SSB, HDB; diễn ra là phiên mua ròng thứ hai liên tiếp, cho thấy tâm lý nhà đầu tư nước ngoài cải thiện."
     },
     {
-      "title": "Giá dầu cao 85-91 USD/thùng, áp lực lạm phát và lãi suất",
-      "impact": "↓",
-      "note": "Giá dầu tăng mạnh do lo ngại gián đoạn nguồn cung từ tấn công hạ tầng Saudi Arabia. Các tổ chức quốc tế nâng dự báo giá Brent năm 2026 lên 85-91 USD/thùng (EIA: 91, HSBC: 90, Goldman Sachs: 85 USD/thùng). Giá dầu cao gây sức ép lên cân đối ngân sách, kiểm soát lạm phát, tỷ giá."
-    },
-    {
-      "title": "VN-Index hồi phục 1,28%, khối ngoại mua ròng liên tiếp",
+      "title": "Sản xuất công nghiệp tăng trưởng mạnh",
       "impact": "↑",
-      "note": "Phiên 15/09, VN-Index tăng 22,92 điểm lên 1.811,15 điểm sau khi rơi xuống dưới 1.800 phiên trước. Khối ngoại mua ròng hơn 730 tỷ đồng, phiên thứ hai liên tiếp mua ròng với tâm điểm là VCB (~230 tỷ đồng) và BSR (~160 tỷ đồng)."
+      "note": "Sản xuất công nghiệp tăng 11,9% tính từ đầu năm, PMI ngành sản xuất tăng lên 53,3 điểm (mức cao nhất kể từ tháng 2), tổng mức bán lẻ tăng 7,6% từ đầu năm, giải ngân đầu tư công tăng 18,5%, cho thấy hoạt động kinh tế tiếp tục duy trì ổn định."
+    },
+    {
+      "title": "Fed dự kiến tăng lãi suất 0,25% ngày 18/09",
+      "impact": "↓",
+      "note": "Lạm phát tháng 8 của Mỹ cao hơn kỳ vọng, thị trường đặt cược xác suất tăng lãi suất 0,25 điểm phần trăm của Fed vào ngày 18/09/2026 ở mức hơn 90%, gây áp lực lên các thị trường mới nổi và tỷ giá USD toàn cầu."
+    },
+    {
+      "title": "Tỷ giá USD/VND tăng, Ngân hàng Nhà nước rút thanh khoản",
+      "impact": "↓",
+      "note": "Tỷ giá USD/VND trên thị trường liên ngân hàng tăng gần 65 đồng trong phiên 14/09 lên 25.995 VND, trong hai phiên 14-15/09 tỷ giá tại các ngân hàng tăng khoảng 90 đồng; Ngân hàng Nhà nước rút bớt thanh khoản, tỷ giá đại diện tăng 0,34-0,35%, gây áp lực lên chi phí nhập khẩu và dự phòng chính sách tiền tệ."
+    },
+    {
+      "title": "Giá dầu duy trì vùng cao 85-91 USD/thùng",
+      "impact": "↓",
+      "note": "Giá dầu tăng mạnh do các cuộc tấn công hạ tầng năng lượng Saudi Arabia và rủi ro tại eo Hormuz; dự báo giá Brent bình quân năm 2026 ở vùng 85-91 USD/thùng tạo sức ép vĩ mô đáng kể với Việt Nam (nhập khẩu năng lượng ròng), gây áp lực lạm phát, cân đối ngân sách và dự phòng chính sách tiền tệ để hỗ trợ tăng trưởng."
     }
   ]
 }
