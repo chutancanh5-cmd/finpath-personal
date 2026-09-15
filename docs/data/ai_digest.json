@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "FTSE Russell tái phân loại thị trường từ 21/09 là yếu tố kích hoạt quan trọng, kỳ vọng dòng vốn nước ngoài tăng. Kinh tế vĩ mô vẫn giữ đà tốt: sản xuất công nghiệp +11,9%, PMI 53,3 (cao nhất 5 tháng), bán lẻ +7,6%, giải ngân đầu tư công +18,5%. Khối ngoại quay lại mua ròng mạnh 730 tỷ đồng, các cổ phiếu lớn tăng. Tuy nhiên, giá dầu dự báo 85-91 USD/thùng năm 2026 tạo áp lực lạm phát và độ mở kinh tế cao kéo dài sẽ hạn chế dư địa chính sách tiền tệ.",
+  "summary_vi": "Nâng hạng FTSE Russell từ 21/9 mở ra dòng vốn ngoại mạnh mẽ, hỗ trợ tăng trưởng duy trì ổn định với sản xuất công nghiệp +11.9% và giải ngân đầu tư công +18.5%. Dòng tiền chảy vào blue-chips, đặc biệt ngân hàng và dầu khí, làm thanh khoản VN30 tăng 60%. Tuy nhiên, giá dầu tăng mạnh (dự báo 85-91 USD/thùng) tạo áp lực lạm phát và tỷ giá, NHNN phải rút thanh khoản kiểm soát. FDI vẫn mạnh mẽ với xuất khẩu tăng 26%, các dự án lớn như PVS-Qatar và Tokgistic đạt 1 tỷ USD.",
   "top": [
     {
-      "title": "FTSE nâng hạng từ 21/09",
+      "title": "Nâng hạng FTSE Russell - Tăng trưởng duy trì ổn định",
       "impact": "↑",
-      "note": "FTSE Russell triển khai tái phân loại từ thị trường cận biên lên thứ cấp mới nổi, bắt đầu từ ngày 21/09 với tỷ trọng 10% ban đầu. Kỳ vọng dòng tiền nước ngoài tăng theo từng giai đoạn."
+      "note": "FTSE bắt đầu nâng hạng theo từng giai đoạn từ 21/09, sản xuất công nghiệp tăng 11.9% từ đầu năm, PMI ngành sản xuất tăng 53.3 điểm (cao nhất kể từ tháng 2), giải ngân đầu tư công tăng 18.5% lên 546.8 nghìn tỷ đồng, hoàn thành 50.5% kế hoạch năm."
     },
     {
-      "title": "Kinh tế vĩ mô tích cực",
+      "title": "Dòng tiền mạnh vào cổ phiếu blue-chips",
       "impact": "↑",
-      "note": "Sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI tháng 8 tăng 53,3 điểm (cao nhất kể từ tháng 2). Tổng mức bán lẻ tăng 7,6% từ đầu năm, giải ngân đầu tư công tăng 18,5% lên 546,8 nghìn tỷ đồng."
+      "note": "Thanh khoản VN30 chiều nay tăng 60% so với phiên sáng, BSR kịch trần tăng 4.82%, GAS tăng 6.65%, VCB +2.56%, BID +2.94%, CTG +2.35%, TCB +1.1%, 24/30 cổ phiếu VN30 tăng giá."
     },
     {
-      "title": "Khối ngoại mua ròng 730 tỷ, VN-Index +22 điểm",
+      "title": "PVS trúng thầu EPC tại Qatar, giá trị lên 3 tỷ USD",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 730 tỷ đồng, với VCB được mua 228 tỷ, BSR 158 tỷ, BID 125 tỷ. VN-Index chốt 1.811 điểm tăng 22 điểm, thanh khoản HoSE hơn 16.600 tỷ đồng."
+      "note": "PTSC (mã PVS) nhận Thư trao thầu (LOA) gói thầu EPIC-1 dự án Maydan Mahzam từ QatarEnergy, phạm vi thiết kế, mua sắm, thi công và lắp đặt ngoài khơi, hợp đồng chính thức ký dự kiến tháng 10/2026."
     },
     {
-      "title": "Giá dầu cao: 85-91 USD/thùng gây sức ép vĩ mô",
+      "title": "Giá dầu tăng mạnh, áp lực lạm phát và tỷ giá",
       "impact": "↓",
-      "note": "Các tổ chức quốc tế nâng dự báo giá Brent năm 2026 lên 85-91 USD/thùng do rủi ro gián đoạn nguồn cung, gây sức ép lên cân đối ngân sách, kiểm soát lạm phát và tỷ giá."
+      "note": "Giá Brent dự báo 85-91 USD/thùng năm 2026 do tấn công hạ tầng năng lượng Saudi Arabia, gây sức ép lên cân đối ngân sách, kiểm soát lạm phát, tỷ giá USD/VND, NHNN rút thanh khoản, tỷ giá tăng 90 đồng trong 2 phiên 14-15/9."
     },
     {
-      "title": "FDI mạnh: xuất khẩu 8 tháng 374,84 tỷ USD",
+      "title": "Xuất khẩu tăng 26%, FDI chiếm 80% kim ngạch",
       "impact": "↑",
-      "note": "Xuất khẩu 8 tháng 2026 đạt 374,84 tỷ USD (+22,4% so với cùng kỳ), FDI chiếm 80,1% (300,37 tỷ USD, +26,9%), kinh tế nội địa 74,47 tỷ USD (+7,4%)."
+      "note": "Tháng 8 xuất khẩu hàng hóa tăng 26.0%, khu vực FDI (kể cả dầu thô) tăng 29.2%, tính 8 tháng năm 2026 FDI đạt 300.37 tỷ USD, chiếm 80.1% tổng kim ngạch xuất khẩu 374.84 tỷ USD."
     },
     {
-      "title": "TikTok đầu tư hơn 1 tỷ USD",
+      "title": "FDI công nghệ, logistics: Tokgistic và TikTok đạt 1 tỷ USD",
       "impact": "↑",
-      "note": "Swift Logistics (Tokgistic) được cấp Giấy chứng nhận đầu tư ngày 7/9 với vốn 980 triệu USD, cộng với TikTok Shop (25 triệu USD), tổng ecosystem vượt 1 tỷ USD cho logistics, thanh toán số, thương mại điện tử."
+      "note": "Tokgistic Pte. Ltd. (Singapore) được cấp Giấy chứng nhận đầu tư dự án Swift Logistics 980 triệu USD, TikTok Shop 25 triệu USD, tổng ~1 tỷ USD cho logistics, thanh toán số, e-commerce, dự kiến phục vụ 45 triệu người dùng Việt Nam."
     }
   ]
 }
