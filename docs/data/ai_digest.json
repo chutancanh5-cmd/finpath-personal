@@ -1,38 +1,38 @@
 {
-  "_opus": false,
+  "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tiền ngoại duy trì tích cực với phiên mua ròng thứ 3 liên tiếp (265 tỷ đồng), lượng vàng ETF toàn cầu lập kỷ lục 4.223 tấn, và SSB tăng 48% phản ánh dòng tiền ngành ngân hàng mạnh. Giá vàng trong nước cũng tăng 600 nghìn đồng. Tuy VN-Index hôm nay giảm nhẹ -0,06% do tâm lý thận trọng trước Fed, nhưng đây là rung lắc chứ không phải xu hướng giảm. Rủi ro ngắn hạn từ Fed có thể tăng lãi suất do bùng nổ đầu tư AI gây áp lực lạm phát.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường ghi nhận dòng vốn ngoại khá tích cực (mua ròng 265 tỷ đồng phiên 16/9, phiên thứ 3 liên tiếp), phát hành trái phiếu doanh nghiệp tháng 8 lập kỷ lục 55 ngàn tỷ đồng, và vàng ETF toàn cầu lên kỷ lục 4.223 tấn. Tuy nhiên, rủi ro macro gia tăng từ lo ngại AI tạo áp lực lạm phát tại Mỹ khiến Fed khó điều hành, kèm theo tín hiệu cảnh báo từ lãnh đạo SSB (thoái vốn) và rủi ro vỡ nợ từ DRH Holdings (506,9 tỷ đồng trái phiếu quá hạn), làm tâm lý nhà đầu tư còn thận trọng.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng liên tiếp lần thứ 3, 265 tỷ đồng phiên 16/9",
-      "impact": "↑",
-      "note": "Khối ngoại mua đạt 2.747 tỷ đồng - bán 2.482 tỷ đồng = mua ròng 265 tỷ đồng. Đây là phiên mua ròng thứ 3 liên tiếp (phiên trước 259,3 tỷ đồng). Dòng vốn ngoại duy trì trạng thái tích cực với thị trường Việt Nam, mặc dù giá trị có phần khiêm tốn hơn những nhịp mua đầu tuần."
-    },
-    {
-      "title": "SSB phá đỉnh lịch sử 22.350 đồng, tăng 48% trong chưa đầy 1 tháng",
-      "impact": "↑",
-      "note": "Từ mức 15.100 đồng (20/8) lên 22.350 đồng/cổ phiếu (16/9), tăng 48%. Khối lượng giao dịch rất lớn, giao dịch thỏa thuận vượt 167 triệu đơn vị trong gần 1 tháng, phiên 14/9 có 38 triệu cổ phiếu thỏa thuận với giá 690 tỷ đồng."
-    },
-    {
-      "title": "Lượng vàng ETF toàn cầu lập kỷ lục 4.223 tấn, nhu cầu đầu tư tăng",
-      "impact": "↑",
-      "note": "Đến ngày 11/9, lượng vàng các quỹ ETF nắm giữ lên 4.223 tấn, kỷ lục chưa từng có. Khoảng nửa từ ETF Bắc Mỹ. Xu hướng 2025-2026 cho thấy lượng vàng ETF tăng cùng với giá, tín hiệu tích cực về nhu cầu đầu tư toàn cầu."
-    },
-    {
-      "title": "VN-Index giảm 1,04 điểm (-0,06%), tâm lý thận trọng trước Fed",
+      "title": "Fed khó điều hành do AI gây áp lực lạm phát",
       "impact": "↓",
-      "note": "VN-Index kết phiên giảm 1,04 điểm (-0,06%) xuống 1.810,11 điểm. Độ rộng xấu với 360 mã giảm trên 301 mã tăng. Thanh khoản 16.300 tỷ đồng giảm so với phiên trước. Tâm lý thận trọng bao trùm trước quyết định lãi suất Fed."
+      "note": "Bùng nổ đầu tư AI vào chip, trung tâm dữ liệu, điện năng và hạ tầng tại Mỹ. Chủ tịch Fed Kevin Warsh và Thống đốc Michael Barr cảnh báo AI có thể gây lạm phát ngắn hạn, Barr xếp quá trình xây dựng AI nhanh vào nhóm cú sốc (cùng thuế quan, xung đột Trung Đông)."
     },
     {
-      "title": "Fed gặp khó điều hành do bùng nổ đầu tư AI, áp lực lạm phát ngắn hạn",
+      "title": "DRH Holdings có 506,9 tỷ đồng trái phiếu quá hạn chưa trả",
       "impact": "↓",
-      "note": "Bùng nổ đầu tư AI vào chip, trung tâm dữ liệu, điện năng và hạ tầng ở Mỹ tạo áp lực lạm phát. Fed Barr xếp quá trình xây dựng AI nhanh vào nhóm cú sốc cùng thuế quan và xung đột Trung Đông. Khó khăn cho Fed trong cân bằng tăng năng suất dài hạn và kiềm chế lạm phát ngắn hạn."
+      "note": "Lô DRHH224001 (410 tỷ đồng) quá hạn từ tháng 2/2024 mới trả 1,5 tỷ đồng. Lô DRHH222001 còn 98,4 tỷ đồng chưa trả. Nửa đầu năm DRH lỗ 39 tỷ đồng, tình trạng nợ công ty rất căng thẳng."
     },
     {
-      "title": "Giá vàng miếng SJC tăng 600 nghìn đồng/lượng, niêm yết 142,9-145,4 triệu",
+      "title": "SSB phá đỉnh 22.350 đồng, lãnh đạo bán vốn",
+      "impact": "↓",
+      "note": "SSB tăng 48% từ 15.100 lên 22.350 đồng chỉ trong chưa đầy 1 tháng, nhưng Phó Tổng Giám đốc Bùi Quốc Hiệu vừa đăng ký bán 56.000 cổ phiếu (18/9-16/10), tín hiệu cảnh báo từ nhân sự cấp cao."
+    },
+    {
+      "title": "Phát hành trái phiếu doanh nghiệp tháng 8 cao nhất từ 2021: 55 ngàn tỷ đồng",
       "impact": "↑",
-      "note": "Vàng miếng SJC tăng 600 nghìn đồng/lượng lên 142,9 triệu (mua) - 145,4 triệu (bán), tương đương +0,41%. Mức tăng kém so với vàng thế giới (+0,75%), nhưng cho thấy dòng tiền đầu tư vàng trong nước tích cực sau 2 phiên giảm."
+      "note": "46 lô trái phiếu được phát hành trong tháng 8/2026 với giá trị hơn 55 ngàn tỷ đồng, gấp 2,6 lần tháng 7 và là mức cao nhất trong các tháng 8 kể từ 2021, cho thấy dòng vốn huy động doanh nghiệp rất mạnh."
+    },
+    {
+      "title": "Quỹ ETF vàng toàn cầu nắm kỷ lục 4.223 tấn, nhu cầu đầu tư tăng",
+      "impact": "↑",
+      "note": "Lượng vàng các quỹ ETF nắm giữ lên 4.223 tấn (đến 11/9), lập kỷ lục chưa từng có. Khoảng nửa từ ETF Bắc Mỹ. Xu hướng 2025-2026 cho thấy vàng ETF tăng cùng giá, tín hiệu tích cực nhu cầu đầu tư kim loại quý toàn cầu."
+    },
+    {
+      "title": "Khối ngoại mua ròng 3 phiên liên tiếp, 265 tỷ đồng phiên 16/9",
+      "impact": "↑",
+      "note": "Khối ngoại mua 2.747 tỷ đồng, bán 2.482 tỷ đồng = mua ròng 265 tỷ đồng, là phiên mua ròng thứ 3 liên tiếp (phiên trước 259,3 tỷ đồng). Dòng vốn ngoại duy trì tích cực dù giá trị có phần khiêm tốn."
     }
   ]
 }
