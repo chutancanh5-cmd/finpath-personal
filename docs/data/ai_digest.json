@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận dòng vốn ngoại khá tích cực (mua ròng 265 tỷ đồng phiên 16/9, phiên thứ 3 liên tiếp), phát hành trái phiếu doanh nghiệp tháng 8 lập kỷ lục 55 ngàn tỷ đồng, và vàng ETF toàn cầu lên kỷ lục 4.223 tấn. Tuy nhiên, rủi ro macro gia tăng từ lo ngại AI tạo áp lực lạm phát tại Mỹ khiến Fed khó điều hành, kèm theo tín hiệu cảnh báo từ lãnh đạo SSB (thoái vốn) và rủi ro vỡ nợ từ DRH Holdings (506,9 tỷ đồng trái phiếu quá hạn), làm tâm lý nhà đầu tư còn thận trọng.",
+  "summary_vi": "Fed nâng lãi suất 0,25% lên 3,75-4% (lần đầu trong 3 năm), gây áp lực vàng thế giới giảm xuống 4.265 USD/oz. Thị trường chứng khoán VN vẫn giằng co (VN-Index 1.810 điểm) nhưng khối ngoại duy trì mua ròng tích cực (265 tỷ đồng). Hoạt động doanh nghiệp sôi động: phát hành trái phiếu tháng 8 lập kỷ lục 55 ngàn tỷ đồng, vàng ETF toàn cầu đạt 4.223 tấn. Rủi ro ngắn hạn từ lãi suất cao có thể kìm hãm tăng trưởng và kéo vốn ra khỏi thị trường mới nổi.",
   "top": [
     {
-      "title": "Fed khó điều hành do AI gây áp lực lạm phát",
+      "title": "Fed tăng lãi suất 0,25%, vàng thế giới giảm xuống 4.265 USD/oz",
       "impact": "↓",
-      "note": "Bùng nổ đầu tư AI vào chip, trung tâm dữ liệu, điện năng và hạ tầng tại Mỹ. Chủ tịch Fed Kevin Warsh và Thống đốc Michael Barr cảnh báo AI có thể gây lạm phát ngắn hạn, Barr xếp quá trình xây dựng AI nhanh vào nhóm cú sốc (cùng thuế quan, xung đột Trung Đông)."
+      "note": "Fed nâng lãi suất quỹ liên bang lên 3,75-4% (tăng 0,25 điểm phần trăm), được 100% thành viên FOMC ủng hộ, lần đầu tăng kể từ 7/2023. Giá vàng giao ngay giảm 30 USD/oz (-0,7%) xuống 4.265 USD/oz, biên độ dao động phiên này hơn 130 USD/oz."
     },
     {
-      "title": "DRH Holdings có 506,9 tỷ đồng trái phiếu quá hạn chưa trả",
-      "impact": "↓",
-      "note": "Lô DRHH224001 (410 tỷ đồng) quá hạn từ tháng 2/2024 mới trả 1,5 tỷ đồng. Lô DRHH222001 còn 98,4 tỷ đồng chưa trả. Nửa đầu năm DRH lỗ 39 tỷ đồng, tình trạng nợ công ty rất căng thẳng."
-    },
-    {
-      "title": "SSB phá đỉnh 22.350 đồng, lãnh đạo bán vốn",
-      "impact": "↓",
-      "note": "SSB tăng 48% từ 15.100 lên 22.350 đồng chỉ trong chưa đầy 1 tháng, nhưng Phó Tổng Giám đốc Bùi Quốc Hiệu vừa đăng ký bán 56.000 cổ phiếu (18/9-16/10), tín hiệu cảnh báo từ nhân sự cấp cao."
-    },
-    {
-      "title": "Phát hành trái phiếu doanh nghiệp tháng 8 cao nhất từ 2021: 55 ngàn tỷ đồng",
+      "title": "Khối ngoại mua ròng 265 tỷ đồng, tự doanh cũng tích cực",
       "impact": "↑",
-      "note": "46 lô trái phiếu được phát hành trong tháng 8/2026 với giá trị hơn 55 ngàn tỷ đồng, gấp 2,6 lần tháng 7 và là mức cao nhất trong các tháng 8 kể từ 2021, cho thấy dòng vốn huy động doanh nghiệp rất mạnh."
+      "note": "Phiên 16/09, khối ngoại mua 2.747 tỷ đồng, bán 2.482 tỷ đồng, mua ròng 265 tỷ đồng. SBT mua ròng mạnh nhất 231 tỷ, tiếp FPT 119 tỷ, BSR 113 tỷ, MBB 96 tỷ. Tự doanh công ty chứng khoán cũng quay lại mua ròng."
     },
     {
-      "title": "Quỹ ETF vàng toàn cầu nắm kỷ lục 4.223 tấn, nhu cầu đầu tư tăng",
+      "title": "Cổ phiếu SeABank SSB tăng 48% trong chưa đầy 1 tháng",
       "impact": "↑",
-      "note": "Lượng vàng các quỹ ETF nắm giữ lên 4.223 tấn (đến 11/9), lập kỷ lục chưa từng có. Khoảng nửa từ ETF Bắc Mỹ. Xu hướng 2025-2026 cho thấy vàng ETF tăng cùng giá, tín hiệu tích cực nhu cầu đầu tư kim loại quý toàn cầu."
+      "note": "SSB tăng từ 15.100 đồng (20/8) lên 22.350 đồng/cổ phiếu, xác lập đỉnh lịch sử mới. Phiên 14/9 ghi nhận 38 triệu cổ phiếu thỏa thuận, tổng giá trị ~690 tỷ đồng, 3 phiên tăng trần liên tiếp."
     },
     {
-      "title": "Khối ngoại mua ròng 3 phiên liên tiếp, 265 tỷ đồng phiên 16/9",
+      "title": "Phát hành trái phiếu doanh nghiệp tháng 8 đạt 55 ngàn tỷ đồng, cao nhất từ 2021",
       "impact": "↑",
-      "note": "Khối ngoại mua 2.747 tỷ đồng, bán 2.482 tỷ đồng = mua ròng 265 tỷ đồng, là phiên mua ròng thứ 3 liên tiếp (phiên trước 259,3 tỷ đồng). Dòng vốn ngoại duy trì tích cực dù giá trị có phần khiêm tốn."
+      "note": "46 lô trái phiếu riêng lẻ được phát hành trong tháng 8/2026 với giá trị hơn 55 ngàn tỷ đồng, gấp 2,6 lần tháng 7 và là mức cao nhất trong các tháng 8 kể từ 2021."
+    },
+    {
+      "title": "Quỹ ETF vàng nắm kỷ lục 4.223 tấn, nhu cầu đầu tư toàn cầu tăng",
+      "impact": "↑",
+      "note": "Lượng vàng các quỹ ETF nắm giữ đạt 4.223 tấn (đến 11/9), lập kỷ lục chưa từng có, khoảng nửa từ ETF Bắc Mỹ. Xu hướng 2025-2026 cho thấy vàng ETF tăng cùng giá, phản ánh nhu cầu đầu tư kim loại quý mạnh từ nhà đầu tư tổ chức."
+    },
+    {
+      "title": "Vingroup được giao mở rộng đường Rừng Sác từ 6 lên 10 làn xe",
+      "impact": "↑",
+      "note": "Tuyến đường Rừng Sác kết nối TP.HCM đến siêu dự án ven biển của Vingroup dự kiến mở rộng từ 6 lên 10 làn xe. TP.HCM giao Công ty CP Đô thị Du lịch Cần Giờ (thành viên Vingroup) nghiên cứu, lập báo cáo đề xuất. Dự án siêu đô thị ước tính 10 tỷ USD."
     }
   ]
 }
