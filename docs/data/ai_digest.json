@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-16",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam phân hóa mạnh với tâm lý thận trọng trước quyết định lãi suất của Fed hôm nay (17/9), VN-Index giảm nhẹ 1 điểm trong ngày. Khối ngoại vẫn mua ròng 259,3 tỷ đồng nhưng độ rộng xấu với 360 mã giảm so với 301 mã tăng. Tín hiệu tích cực đến từ các dự án lớn của Vingroup (dự án siêu đô thị 10 tỷ USD, khoản tài trợ 200 triệu USD cho VinFast) và sự mở cửa của thị trường tài sản mã hóa, nhưng bị cân bằng bởi rủi ro vĩ mô về lãi suất toàn cầu và các vấn đề nợ nân của các doanh nghiệp trong nước.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam rơi vào trạng thái thận trọng trước quyết định lãi suất sắp tới của Fed, VN-Index gần như đi ngang tại 1.810 điểm. Khối ngoại vẫn duy trì dòng mua ròng 265 tỷ đồng, cho thấy sự tích cực từ nhà đầu tư quốc tế. VPS tiếp tục dẫn đầu ngành chứng khoán về nộp ngân sách Nhà nước năm thứ 3 liên tiếp. Tuy nhiên, rủi ro tiềm ẩn vẫn tồn tại khi DRH Holdings chưa thanh toán 507 tỷ đồng trái phiếu quá hạn, phản ánh áp lực từ các công ty yếu kém.",
   "top": [
     {
-      "title": "Fed gặp khó với AI trong chính sách lãi suất",
-      "impact": "↓",
-      "note": "AI được kỳ vọng giảm lạm phát dài hạn nhưng khiến bài toán tăng trưởng, lạm phát, lãi suất trở nên khó hơn ngay từ hiện tại; Fed đối mặt cuộc bùng nổ đầu tư vào chip, trung tâm dữ liệu với quy mô chưa từng có, tạo áp lực vĩ mô lên toàn bộ thị trường khối ngoại."
+      "title": "Khối ngoại mua ròng giữa sự thận trọng",
+      "impact": "↑",
+      "note": "Nhà đầu tư nước ngoài mua ròng 265 tỷ đồng, tự doanh CTCK cũng mua ròng 594 tỷ đồng trên HOSE. SBT được mua ròng mạnh nhất với 231 tỷ đồng, cho thấy dòng vốn ngoại vẫn tích cực dù thị trường thận trọng trước Fed."
     },
     {
-      "title": "Khối ngoại mua ròng thứ 3 liên tiếp nhưng VN-Index vẫn giảm",
+      "title": "Thị trường nín thở chờ quyết định Fed",
       "impact": "→",
-      "note": "Khối ngoại mua ròng 259,3 tỷ đồng, giao dịch khớp lệnh mua ròng 18,9 tỷ đồng, tuy nhiên VN-Index giảm 1 điểm xuống 1.810,11 điểm với độ rộng xấu (194 mã giảm, 116 mã tăng), phản ánh phân hóa sâu sắc và tâm lý thận trọng."
+      "note": "VN-Index giảm nhẹ 1 điểm xuống 1.810 điểm, thanh khoản giảm với 14.845 tỷ đồng giao dịch. Nhà đầu tư cẩn trọng trước thông báo lãi suất của Cục Dự trữ Liên bang Mỹ, độ rộng xấu với 194 mã giảm so với 116 mã tăng."
     },
     {
-      "title": "Vingroup đề xuất dự án siêu đô thị 10 tỷ USD, mở rộng đường Rừng Sác",
+      "title": "VPS dẫn đầu ngành chứng khoán nộp ngân sách",
       "impact": "↑",
-      "note": "Vingroup đề xuất mở rộng tuyến đường Rừng Sác từ 6 lên 10 làn xe kết nối TP.HCM với dự án ven biển trị giá 10 tỷ USD; UBND TP.HCM đã chấp thuận giao Công ty CP Đô thị Du lịch Cần Giờ (thành viên Tập đoàn Vingroup) lập báo cáo đề xuất chủ trương đầu tư."
+      "note": "VPS được vinh danh dẫn đầu khối CTCK nộp ngân sách Nhà nước năm thứ 3 liên tiếp, nộp 2.848 tỷ đồng trong năm tài chính 2025 chiếm gần 20% tổng mức nộp Top 15 doanh nghiệp ngành chứng khoán, khẳng định vị thế quán quân môi giới."
     },
     {
-      "title": "VinFast Việt Nam huy động 200 triệu USD từ 3 định chế tài chính quốc tế",
-      "impact": "↑",
-      "note": "VinFast Việt Nam (công ty con của Vingroup) nhận khoản tài trợ 200 triệu USD từ SACE (Italia), Barclays Bank, BNP Paribas và HSBC; đây là giao dịch đầu tiên thành công trong Chương trình New Push Strategy của SACE, khẳng định tiềm năng trong lĩnh vực giao thông xanh."
-    },
-    {
-      "title": "DRH Holdings còn 507 tỷ đồng trái phiếu quá hạn chưa trả",
+      "title": "DRH Holdings chưa thanh toán 507 tỷ trái phiếu quá hạn",
       "impact": "↓",
-      "note": "DRH Holdings có 2 lô trái phiếu quá hạn với tổng gốc còn lại gần 506,9 tỷ đồng; với lô DRHH222001, DRH phải thanh toán 157,6 tỷ đồng nhưng chỉ trả 59,2 tỷ đồng, còn nợ 98,4 tỷ đồng; nửa đầu năm 2026 công ty tiếp tục lỗ gần 39 tỷ đồng, tạo rủi ro tín dụng cho thị trường."
+      "note": "DRH Holdings còn gần 507 tỷ đồng gốc trái phiếu chưa trả, trong đó lô DRHH224001 có 408.5 tỷ đồng chưa thanh toán và đã quá hạn từ tháng 2/2024. Công ty nửa đầu năm 2026 lỗ gần 39 tỷ đồng, phản ánh tình trạng tài chính khó khăn."
     },
     {
-      "title": "Việt Nam mở cửa thị trường tài sản mã hóa, tổ chức dịch vụ được cấp phép năm 2026",
-      "impact": "↑",
-      "note": "Bộ Tài chính khẳng định đã xây dựng khuôn khổ pháp lý thí điểm, những tổ chức cung cấp dịch vụ tài sản mã hóa đầu tiên sẽ được cấp phép đi vào hoạt động trong năm 2026; Việt Nam tham khảo kinh nghiệm FMA và các cơ quan quản lý EU với chú trọng quản lý rủi ro, bảo vệ nhà đầu tư và phòng chống rửa tiền."
+      "title": "Giá vàng miếng tăng 600.000 đồng/lượng",
+      "impact": "→",
+      "note": "Giá vàng miếng SJC tăng 600.000 đồng lên 142,9 - 145,9 triệu đồng/lượng, tương đương tăng 0,41%, tăng chậm hơn vàng thế giới (+0,75%). Phản ánh bất ổn toàn cầu và sự tìm kiếm tài sản an toàn từ nhà đầu tư."
+    },
+    {
+      "title": "Tỷ giá USD/VND dự báo tiếp tục giảm",
+      "impact": "→",
+      "note": "Vietcap dự báo tỷ giá USD/VND có thể tiếp tục giảm trong tháng 9 nhờ đồng VND tăng giá trên thị trường ngoại tệ tự do, giá vàng trong nước giảm và dòng vốn FDI duy trì tích cực, tạo áp lực giảm cho đôla Mỹ."
     }
   ]
 }
