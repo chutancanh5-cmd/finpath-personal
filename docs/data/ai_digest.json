@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-16",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam rơi vào trạng thái thận trọng trước quyết định lãi suất sắp tới của Fed, VN-Index gần như đi ngang tại 1.810 điểm. Khối ngoại vẫn duy trì dòng mua ròng 265 tỷ đồng, cho thấy sự tích cực từ nhà đầu tư quốc tế. VPS tiếp tục dẫn đầu ngành chứng khoán về nộp ngân sách Nhà nước năm thứ 3 liên tiếp. Tuy nhiên, rủi ro tiềm ẩn vẫn tồn tại khi DRH Holdings chưa thanh toán 507 tỷ đồng trái phiếu quá hạn, phản ánh áp lực từ các công ty yếu kém.",
+  "summary_vi": "Dòng vốn ngoại tiếp tục mua ròng cho thị trường, VPS vẫn giữ vị thế dẫn đầu ngành chứng khoán với nộp ngân sách 2.848 tỷ đồng, nhưng áp lực vĩ mô từ bùng nổ đầu tư AI tạo rủi ro lạm phát, lãi suất ngắn hạn cho Fed. Trong nước còn rủi ro nợ xấu từ DRH Holdings với 506,9 tỷ đồng trái phiếu quá hạn chưa thanh toán.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng giữa sự thận trọng",
+      "title": "Khối ngoại mua ròng, tự doanh quay lại",
       "impact": "↑",
-      "note": "Nhà đầu tư nước ngoài mua ròng 265 tỷ đồng, tự doanh CTCK cũng mua ròng 594 tỷ đồng trên HOSE. SBT được mua ròng mạnh nhất với 231 tỷ đồng, cho thấy dòng vốn ngoại vẫn tích cực dù thị trường thận trọng trước Fed."
+      "note": "Khối ngoại mua ròng 265 tỷ đồng ngày 16/09 (mua 2.747 tỷ - bán 2.482 tỷ), là phiên mua ròng tiếp theo sau nhịp mua tích cực tuần trước. Tự doanh CTCK cũng quay lại mua ròng. SBT được mua ròng mạnh nhất 231 tỷ đồng, theo sau FPT 119 tỷ, BSR 113 tỷ."
     },
     {
-      "title": "Thị trường nín thở chờ quyết định Fed",
-      "impact": "→",
-      "note": "VN-Index giảm nhẹ 1 điểm xuống 1.810 điểm, thanh khoản giảm với 14.845 tỷ đồng giao dịch. Nhà đầu tư cẩn trọng trước thông báo lãi suất của Cục Dự trữ Liên bang Mỹ, độ rộng xấu với 194 mã giảm so với 116 mã tăng."
-    },
-    {
-      "title": "VPS dẫn đầu ngành chứng khoán nộp ngân sách",
+      "title": "VPS dẫn đầu nộp ngân sách 2.848 tỷ đồng",
       "impact": "↑",
-      "note": "VPS được vinh danh dẫn đầu khối CTCK nộp ngân sách Nhà nước năm thứ 3 liên tiếp, nộp 2.848 tỷ đồng trong năm tài chính 2025 chiếm gần 20% tổng mức nộp Top 15 doanh nghiệp ngành chứng khoán, khẳng định vị thế quán quân môi giới."
+      "note": "VPS nộp 2.848 tỷ đồng vào ngân sách năm tài chính 2025, chiếm gần 20% tổng mức nộp của top 15 doanh nghiệp ngành chứng khoán. Đây là năm thứ ba liên tiếp VPS giữ vị trí quán quân nộp ngân sách trong khối CTCK."
     },
     {
-      "title": "DRH Holdings chưa thanh toán 507 tỷ trái phiếu quá hạn",
+      "title": "AI tạo rủi ro lạm phát, áp lực lãi suất",
       "impact": "↓",
-      "note": "DRH Holdings còn gần 507 tỷ đồng gốc trái phiếu chưa trả, trong đó lô DRHH224001 có 408.5 tỷ đồng chưa thanh toán và đã quá hạn từ tháng 2/2024. Công ty nửa đầu năm 2026 lỗ gần 39 tỷ đồng, phản ánh tình trạng tài chính khó khăn."
+      "note": "Bùng nổ đầu tư vào chip, trung tâm dữ liệu, điện năng từ AI tạo áp lực lạm phát ngắn hạn, khiến Fed phải đối diện bài toán tăng trưởng, lạm phát và lãi suất phức tạp hơn. Mặc dù dài hạn AI kỳ vọng giúp kiềm chế lạm phát qua nâng cao năng suất."
     },
     {
-      "title": "Giá vàng miếng tăng 600.000 đồng/lượng",
-      "impact": "→",
-      "note": "Giá vàng miếng SJC tăng 600.000 đồng lên 142,9 - 145,9 triệu đồng/lượng, tương đương tăng 0,41%, tăng chậm hơn vàng thế giới (+0,75%). Phản ánh bất ổn toàn cầu và sự tìm kiếm tài sản an toàn từ nhà đầu tư."
+      "title": "Vingroup mở rộng đường Rừng Sác từ 6 lên 10 làn xe",
+      "impact": "↑",
+      "note": "Tuyến đường xuyên rừng kết nối TP.HCM với siêu dự án ven biển của Vingroup dự kiến được mở rộng từ 6 lên 10 làn xe. Nút giao đa tầng nối cao tốc Bến Lức – Long Thành (xã Bình Khánh) đang thi công khẩn trương, là cửa ngõ quan trọng cho dòng lưu thông từ mạng lưới cao tốc."
     },
     {
-      "title": "Tỷ giá USD/VND dự báo tiếp tục giảm",
+      "title": "DRH Holdings: 506,9 tỷ đồng trái phiếu quá hạn",
+      "impact": "↓",
+      "note": "Hai lô trái phiếu của DRH đều quá hạn, tổng số gốc chưa trả 506,9 tỷ đồng. Lô DRHH222001 (lãi suất 11%) phải trả 157,6 tỷ nhưng chỉ trả 59,2 tỷ, còn 98,4 tỷ. Lô DRHH224001 (lãi suất 12%, đáo hạn tháng 2/2024) phải trả 410 tỷ nhưng từ khi đáo hạn chỉ trả 1,5 tỷ, còn 408,5 tỷ."
+    },
+    {
+      "title": "Chứng khoán Funan đổi tên LIVAS, tăng vốn gấp đôi",
       "impact": "→",
-      "note": "Vietcap dự báo tỷ giá USD/VND có thể tiếp tục giảm trong tháng 9 nhờ đồng VND tăng giá trên thị trường ngoại tệ tự do, giá vàng trong nước giảm và dòng vốn FDI duy trì tích cực, tạo áp lực giảm cho đôla Mỹ."
+      "note": "FNS dự kiến đổi tên thành LIVAS, tăng gấp đôi vốn điều lệ lên 926 tỷ đồng. HĐQT thay loạt nhân sự: miễn nhiệm Tổng Giám đốc Nguyễn Thị Đoan Thùy từ 15/09, bổ nhiệm Huỳnh Minh Tuấn làm Tổng Giám đốc. Sẽ tổ chức ĐHĐCĐ bất thường ngày 27/10 để phê chuẩn."
     }
   ]
 }
