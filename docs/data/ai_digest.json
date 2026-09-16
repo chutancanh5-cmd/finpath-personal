@@ -1,38 +1,38 @@
 {
-  "_opus": true,
+  "_opus": false,
   "date": "2026-09-17",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường Việt Nam đang rơi vào tâm lý thận trọng trước triển vọng Fed tăng lãi suất, khi AI tạo áp lực lạm phát ở Mỹ. Khối ngoại vẫn mua ròng nhưng giá trị giảm, thanh khoản yếu và độ rộng xấu. SHS khuyến cáo điều chỉnh có thể xuống vùng 1.900 điểm, trong bối cảnh rủi ro tín dụng doanh nghiệp tăng (DRH không thể thanh toán 506,9 tỷ nợ) và chính sách thuế mới bất lợi.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường hôm nay cho thấy sự phân hóa sâu sắc giữa các yếu tố tích cực và rủi ro tiêu cực. SSB phá đỉnh lịch sử với mức tăng 48%, khối ngoại tiếp tục mua ròng; tuy nhiên VN-Index lùi về 1.810 điểm với 360 mã giảm, đồng thời các cảnh báo từ chứng khoán SHS về định giá cao và sự chuẩn bị của Fed tăng lãi suất tạo áp lực tiêu cực ngắn hạn. Rủi ro chính đến từ tâm lý thận trọng của nhà đầu tư trước quyết định chính sách toàn cầu.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng 265 tỷ nhưng giảm trước quyết định Fed",
+      "title": "SSB phá đỉnh lịch sử 22.350 đồng/cổ phiếu",
       "impact": "→",
-      "note": "Khối ngoại mua đạt 2.747 tỷ đồng - bán 2.482 tỷ đồng = mua ròng 265 tỷ đồng. SBT mua ròng 231 tỷ (nổi bật nhất). Đây là phiên mua ròng thứ 3 liên tiếp nhưng giá trị giảm so với những nhịp mua khá tích cực trước đó, cho thấy dòng tiền ngoại dần mất đà."
+      "note": "SSB tích lũy tăng 48% trong chưa đầy 1 tháng (từ 15.100 đồng ngày 20/8 lên 22.350 đồng); Phó TGĐ SeABank Bùi Quốc Hiệu đăng ký bán 56.000 cổ phiếu từ 18/9 đến 16/10, gợi ý nhà quản lý đã lấy lời sau khoảng tăng mạnh."
     },
     {
-      "title": "SHS dự báo VN-Index có thể xuống vùng 1.900 điểm",
-      "impact": "↓",
-      "note": "SHS khuyến nghị nhà đầu tư thận trọng hơn với gia tăng tỷ trọng. Nhóm Vingroup chiếm 24,7% vốn hóa toàn thị trường (105 tỷ USD trên 424 tỷ USD). Mặc dù mức định giá P/E 10,6 lần, P/B 1,65 lần là hợp lý, thị trường sẽ phân hóa sâu do thanh khoản chưa cải thiện rõ."
+      "title": "Khối ngoại mua ròng 265 tỷ đồng phiên 16/09",
+      "impact": "↑",
+      "note": "Khối ngoại tiếp tục phiên mua ròng thứ 2 liên tiếp với mua 2.747 tỷ đồng, bán 2.482 tỷ đồng; SBT được mua ròng mạnh nhất 231 tỷ đồng, FPT 119 tỷ đồng, BSR 113 tỷ đồng, thể hiện dòng vốn ngoại vẫn tích cực với TTCK VN."
     },
     {
-      "title": "AI tạo áp lực lạm phát Mỹ, Fed gặp khó khăn chính sách",
+      "title": "VN-Index giảm 1 điểm, tâm lý thận trọng bao trùm",
       "impact": "↓",
-      "note": "Mỹ bùng nổ đầu tư chip, trung tâm dữ liệu vì AI, nhưng tạo áp lực tăng trưởng và lạm phát ngắn hạn. Fed phải cân bằng giữa tăng năng suất dài hạn vs kiềm chế lạm phát ngay, rủi ro tăng lãi suất sẽ rút vốn ngoài khỏi thị trường Việt Nam."
+      "note": "Phiên 16/09, VN-Index kết phiên giảm 1,04 điểm (-0,06%) xuống 1.810,11 điểm; độ rộng xấu với 360 mã giảm, 301 mã tăng; thanh khoản sụt giảm còn 11.9 ngàn tỷ đồng, phản ánh tâm lý thận trọng trước thời điểm Fed công bố lãi suất."
     },
     {
-      "title": "Thanh khoản yếu, độ rộng xấu, phân hóa sâu phiên 16/9",
+      "title": "SHS cảnh báo VN-Index có thể xuống 1.900 điểm",
       "impact": "↓",
-      "note": "VN-Index giảm 1,04 điểm (-0,06%) xuống 1.810,11 điểm; HNX-Index giảm 0,91 điểm. Khối lượng khớp lệnh 16.300 tỷ đồng (giảm so với trước). Độ rộng 360 mã giảm vs 301 mã tăng. Tâm lý thận trọng bao trùm, VCB, GAS, VHM, BID là mã kéo chỉ số xuống."
+      "note": "Chứng khoán SHS phát hiện Vingroup chiếm 24,7% vốn hóa toàn thị trường (105 tỷ USD trên 424 tỷ USD); phần còn lại có P/E ~10,6 lần, P/B ~1,65 lần; SHS khuyến nghị nhà đầu tư thận trọng gia tăng tỷ trọng, ưu tiên giải ngân khi có nhịp điều chỉnh."
     },
     {
-      "title": "DRH Holdings còn 506,9 tỷ trái phiếu quá hạn chưa thanh toán",
+      "title": "AI tạo áp lực lên Fed và lạm phát ngắn hạn",
       "impact": "↓",
-      "note": "Hai lô trái phiếu DRH đã quá hạn. Lô DRHH222001 phải trả 157,6 tỷ đồng nhưng chỉ trả 59,2 tỷ (còn 98,4 tỷ). Lô DRHH224001 phải trả 410 tỷ đồng nhưng chỉ trả 1,5 tỷ (còn 408,5 tỷ, quá hạn từ tháng 2/2024). Nửa đầu năm công ty lỗ 39 tỷ, phản ánh rủi ro tín dụng doanh nghiệp tăng."
+      "note": "Mỹ bùng nổ đầu tư vào chip, trung tâm dữ liệu, điện, hạ tầng cho AI; Fed coi AI vừa là lực lượng giảm phát dài hạn nhưng gây khó khăn cho bài toán tăng trưởng/lạm phát/lãi suất ngắn hạn; Chủ tịch Warsh và Thống đốc Barr đều cảnh báo tác động này."
     },
     {
-      "title": "Quy định thuế tiêu thụ đặc biệt cho hàng không xuất khẩu",
-      "impact": "↓",
-      "note": "Bộ Tài chính ban hành Thông tư 136/2026, quy định rõ nghĩa vụ nộp thuế tiêu thụ đặc biệt cho hàng mua để xuất khẩu nhưng không xuất khẩu, tiêu thụ trong nước. Chính sách mới có thể tăng chi phí cho doanh nghiệp, ảnh hưởng lợi nhuận."
+      "title": "Vingroup được giao nâng cấp đường Rừng Sác lên 10 làn",
+      "impact": "↑",
+      "note": "Từ tháng 4/2026, UBND TP.HCM chấp thuận giao Công ty CP Đô thị Du lịch Cần Giờ (thành viên Vingroup) nghiên cứu nâng cấp đường Rừng Sác từ 6 lên 10 làn xe, kết nối TP.HCM với siêu dự án ven biển trị giá 10 tỷ USD."
     }
   ]
 }
