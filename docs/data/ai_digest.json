@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-16",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường Việt Nam đón vui với sự nâng hạng FTSE Russell từ 21/9 và dòng tiền ngoại quay lại mua vào các cổ phiếu ngân hàng lớn, đặc biệt SSB tăng 40% trong 1 tháng. Tuy nhiên, rủi ro từ chứng khoán Mỹ giảm liên tiếp, giá dầu tăng mạnh quá 100 USD/thùng và lạm phát toàn cầu gia tăng khiến áp lực lãi suất cao vẫn tồn tại, thách thức khả năng hỗ trợ tăng trưởng của chính sách tiền tệ Việt Nam trong ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Dòng vốn ngoại quay trở lại mạnh mẽ với FTSE nâng hạng VN (từ 21/9) và các chỉ số quốc tế, hỗ trợ dòng mua vào cổ phiếu như SSB. PVS trúng hợp đồng 3 tỷ USD tại Qatar khẳng định năng lực toàn cầu. Tăng trưởng kinh tế duy trì ổn định: sản xuất +11,9%, tiêu dùng +7,6%, đầu tư công +18,5%. Tuy nhiên, tỷ giá USD tăng nhanh và NHNN rút thanh khoản phản ánh áp lực lạm phát, yêu cầu quản lý rủi ro.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng từ 21/9 kích thích dòng vốn ngoại",
+      "title": "PVS trúng gói thầu 3 tỷ USD tại Qatar",
       "impact": "↑",
-      "note": "FTSE Russell đưa 27 cổ phiếu Việt Nam vào FTSE Global All Cap Index từ 21/9/2026, trong đó SSB được nâng hạng dù từng bị MSCI thêm vào Frontier Markets (từ 1/9). Dòng vốn sẽ được giải ngân từng bước, bắt đầu với tỷ trọng 10%, mở rộng cơ hội tham gia của nhà đầu tư ngoại."
+      "note": "Công ty con PTSC M&C nhận Thư trao thầu từ QatarEnergy cho gói EPIC-1 MM Greenfield Installation & Brownfield Modifications trị giá 3 tỷ USD, dự kiến ký kết hợp đồng tháng 10/2026. Khẳng định năng lực EPC toàn cầu, mở rộng cơ hội tăng trưởng."
     },
     {
-      "title": "Khối ngoại mua ròng lần 2 liên tiếp, tập trung cổ phiếu ngân hàng",
+      "title": "SSB dẫn dòng tiền ngoại, được thêm chỉ số quốc tế",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng hơn 720 tỷ đồng trong phiên 15/9, tập trung ở VCB (~240 tỷ), BSR (~160 tỷ). Top 10 mua ròng mạnh bao gồm nhiều ngân hàng: BID, TCB, MBB, CTG, SSB, HDB. Đây là phiên thứ 2 mua ròng liên tiếp, cho thấy sự quay lại của dòng tiền sau thời gian bán ròng kéo dài."
+      "note": "SSB tăng kịch trần 15/9 (+6,91%), 4 phiên tăng liên tiếp (~40% trong 1 tháng). Được thêm vào FTSE Global All Cap (21/9), MSCI Frontier Markets (1/9), MarketVector VN Local Index (18/9). Dòng tiền ngoại mua ròng 5,2 triệu cp (~92 tỷ đồng), dự kiến dòng tiền ~9,2 triệu USD từ VNM ETF."
     },
     {
-      "title": "SSB tăng kịch trần 2 phiên, +40% trong 1 tháng",
+      "title": "Tăng trưởng kinh tế duy trì ổn định trong bối cảnh lãi suất cao",
       "impact": "↑",
-      "note": "SSB tăng biên độ +6,91% ngày 15/9 (mức giá 20.900 đồng), tăng kịch trần cả ngày 14-15/9. Từ giữa tháng 8, SSB ghi nhận mức tăng 40% chỉ trong 1 tháng, vốn hóa đạt hơn 71 nghìn tỷ đồng. Lực mua mạnh từ nhà đầu tư ngoại (mua ròng hơn 92 tỷ đồng ngày 15/9)."
+      "note": "Sản xuất công nghiệp tăng 11,9% từ đầu năm, PMI tăng lên 53,3 điểm (cao nhất từ tháng 2). Tổng mức bán lẻ và doanh thu dịch vụ tăng 7,6%, giải ngân đầu tư công tăng 18,5% đạt 546,8 nghìn tỷ đồng (hoàn thành 50,5% kế hoạch). FTSE nâng hạng từ 21/9 kỳ vọng tăng dòng vốn nước ngoài."
     },
     {
-      "title": "Chứng khoán Mỹ giảm liên 2 phiên, dầu tăng quá 100 USD/thùng",
+      "title": "Tỷ giá USD/VND tăng nhanh, NHNN rút thanh khoản",
       "impact": "↓",
-      "note": "Dow Jones giảm 0,63%, S&P 500 giảm 0,45%, Nasdaq giảm 0,78% trong phiên 15/9. Dầu WTI tăng 4,4% lên 105,83 USD/thùng, Brent tăng 2,9% lên 108,75 USD/thùng. Từ đầu tháng, dầu tăng hơn 20% do xung đột Mỹ-Iran. Lợi suất trái phiếu kho bạc Mỹ 10 năm tăng lên 5%, áp lực lạm phát gia tăng toàn cầu."
+      "note": "Tỷ giá USD tăng ~65 đồng ngày 14/9 lên 25.995 VND, tiếp tục tăng ~90 đồng ngày 15/9 (0,34-0,35% trong 2 phiên). NHNN chủ động rút bớt thanh khoản. Áp lực từ dầu leo thang, lo lạm phát toàn cầu, Fed có thể tăng lãi suất."
     },
     {
-      "title": "Sản xuất công nghiệp Việt Nam tăng 11,9%, PMI tăng 53,3 điểm",
+      "title": "Almonty định giá 7,6 tỷ USD - Tham chiếu giá trị cho MSR",
       "impact": "↑",
-      "note": "Dragon Capital nhận định tăng trưởng Việt Nam được duy trì ổn định. Sản xuất công nghiệp tăng 11,9% tính từ đầu năm, PMI ngành sản xuất tăng 53,3 điểm (cao nhất kể từ tháng 2). Giải ngân đầu tư công tăng 18,5% lên 546,8 nghìn tỷ đồng (hoàn thành 50,5% kế hoạch năm)."
+      "note": "Nền tảng vonfram Almonty Industries được Jefferies định giá khoảng 7,6 tỷ USD. MSR (Masan High-Tech Materials) xây dựng chuỗi từ tài nguyên, khai thác đến chế biến, nâng cao tiềm năng định giá doanh nghiệp vonfram Việt Nam trong bối cảnh cạnh tranh toàn cầu."
     },
     {
-      "title": "PVS trúng gói thầu ước trị 3 tỷ USD tại Qatar",
+      "title": "KIM LONG MOTOR mở rộng xuất khẩu vào thị trường Thái Lan",
       "impact": "↑",
-      "note": "PTSC M&C (công ty con PVS sở hữu 100% vốn) nhận Thư trao thầu từ QatarEnergy ngày 13/9 cho dự án Maydan Mahzam Redevelopment. Gói thầu \"EPIC-1 MM Greenfield Installation & Brownfield Modifications\" gồm thiết kế, mua sắm, thi công, lắp đặt, đấu nối, chạy thử. Hợp đồng chính thức dự kiến ký tháng 10/2026."
+      "note": "15/9 tổ chức lễ ra mắt xe bus thương hiệu KIM LONG tại Bangkok cùng đối tác KIJSETTHI Mobility (nhà phân phối từ 4/2026). KIJSETTHI đã hoàn thiện hệ thống showroom, trạm dịch vụ ủy quyền, kho phụ tùng trên toàn quốc. Thúc đẩy kết nối kinh tế, thương mại giữa doanh nghiệp hai quốc gia."
     }
   ]
 }
