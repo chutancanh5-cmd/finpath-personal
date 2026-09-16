@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-16",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tuần sắp tới là tuần quyết định vĩ mô với Fed và BOJ công bố quyết định lãi suất (17-18/9). Nâng hạng thị trường chứng khoán VN sắp đến sẽ tăng dòng tiền ngoại, nhưng rủi ro từ Fed có thể tăng lãi suất và kỳ vọng thị trường về BOJ vẫn cao. USD/VND dự báo giảm nhờ FDI tích cực, và VN cần chính sách cạnh tranh linh hoạt để tiếp tục thu hút FDI công nghệ.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phân hóa mạnh với tâm lý thận trọng trước quyết định lãi suất của Fed hôm nay (17/9), VN-Index giảm nhẹ 1 điểm trong ngày. Khối ngoại vẫn mua ròng 259,3 tỷ đồng nhưng độ rộng xấu với 360 mã giảm so với 301 mã tăng. Tín hiệu tích cực đến từ các dự án lớn của Vingroup (dự án siêu đô thị 10 tỷ USD, khoản tài trợ 200 triệu USD cho VinFast) và sự mở cửa của thị trường tài sản mã hóa, nhưng bị cân bằng bởi rủi ro vĩ mô về lãi suất toàn cầu và các vấn đề nợ nân của các doanh nghiệp trong nước.",
   "top": [
     {
-      "title": "Nâng hạng VN tăng dòng tiền ngoại, cân bằng rủi ro Fed",
-      "impact": "↑",
-      "note": "VN sắp bước vào câu chuyện nâng hạng, đi vào thị trường tài chính toàn cầu lớn hơn với dòng vốn ngoại mạnh hơn. Fed sắp công bố quyết định lãi suất sáng 17/9, có khả năng tăng lãi suất, nhưng dòng tiền từ nâng hạng có thể hỗ trợ cân bằng."
-    },
-    {
-      "title": "USD/VND tiếp tục giảm, FDI vẫn tích cực",
-      "impact": "↑",
-      "note": "Vietcap dự báo USD/VND tiếp tục giảm trong tháng 9 nhờ VND tăng giá trên thị trường ngoại tệ tự do và FDI tích cực. Phát hành trái phiếu tháng 8/2026 tăng 49,2% MoM lên 27,8 nghìn tỷ đồng, lợi suất TPCP kỳ hạn 5 năm và 10 năm tăng 5 điểm cơ bản lên 4,25% và 4,41%."
-    },
-    {
-      "title": "BOJ decision 17-18/9 có rủi ro thất vọng thị trường",
+      "title": "Fed gặp khó với AI trong chính sách lãi suất",
       "impact": "↓",
-      "note": "Đồng yên tăng lên mức cao 152,89 yên/USD nhờ kỳ vọng BOJ tăng lãi suất lên 2% trong 2027, nhưng hiện giảm xuống 155,3 yên/USD vì thị trường lo ngại BOJ sẽ thất vọng trong cuộc họp 17-18/9, có nguy cơ cao đồng yên giảm mạnh trở lại."
+      "note": "AI được kỳ vọng giảm lạm phát dài hạn nhưng khiến bài toán tăng trưởng, lạm phát, lãi suất trở nên khó hơn ngay từ hiện tại; Fed đối mặt cuộc bùng nổ đầu tư vào chip, trung tâm dữ liệu với quy mô chưa từng có, tạo áp lực vĩ mô lên toàn bộ thị trường khối ngoại."
     },
     {
-      "title": "AI tạo áp lực lãi suất cho Fed",
+      "title": "Khối ngoại mua ròng thứ 3 liên tiếp nhưng VN-Index vẫn giảm",
       "impact": "→",
-      "note": "Nước Mỹ đầu tư vào chip, trung tâm dữ liệu, điện, hạ tầng với quy mô chưa từng có do AI, khiến bài toán tăng trưởng, lạm phát, lãi suất của Fed trở nên khó hơn. Fed đang xem xét liệu AI có tạo làn sóng tăng năng suất bền vững hay chỉ là cú sốc tạm thời như thuế quan và xung đột Trung Đông."
+      "note": "Khối ngoại mua ròng 259,3 tỷ đồng, giao dịch khớp lệnh mua ròng 18,9 tỷ đồng, tuy nhiên VN-Index giảm 1 điểm xuống 1.810,11 điểm với độ rộng xấu (194 mã giảm, 116 mã tăng), phản ánh phân hóa sâu sắc và tâm lý thận trọng."
     },
     {
-      "title": "Chính sách cạnh tranh linh hoạt giúp thu hút FDI công nghệ",
+      "title": "Vingroup đề xuất dự án siêu đô thị 10 tỷ USD, mở rộng đường Rừng Sác",
       "impact": "↑",
-      "note": "VN cần cân bằng quản lý cạnh tranh với thúc đẩy đổi mới, đầu tư để thu hút FDI công nghệ, tránh sai lầm của EU. Năng suất bình quân EU chỉ ở mức khoảng một nửa so với Mỹ, một phần do hệ thống quy định phức tạp và sự phân mảnh thị trường."
+      "note": "Vingroup đề xuất mở rộng tuyến đường Rừng Sác từ 6 lên 10 làn xe kết nối TP.HCM với dự án ven biển trị giá 10 tỷ USD; UBND TP.HCM đã chấp thuận giao Công ty CP Đô thị Du lịch Cần Giờ (thành viên Tập đoàn Vingroup) lập báo cáo đề xuất chủ trương đầu tư."
     },
     {
-      "title": "VPS dẫn đầu ngành chứng khoán về nộp ngân sách",
+      "title": "VinFast Việt Nam huy động 200 triệu USD từ 3 định chế tài chính quốc tế",
       "impact": "↑",
-      "note": "VPS được vinh danh số 1 nộp ngân sách trong khối công ty chứng khoán và Top 23 doanh nghiệp tư nhân nộp ngân sách lớn nhất toàn quốc lần thứ 3 liên tiếp. Năm 2025 nộp 2,848 tỷ đồng, chiếm gần 20% tổng mức nộp của Top 15 doanh nghiệp ngành chứng khoán."
+      "note": "VinFast Việt Nam (công ty con của Vingroup) nhận khoản tài trợ 200 triệu USD từ SACE (Italia), Barclays Bank, BNP Paribas và HSBC; đây là giao dịch đầu tiên thành công trong Chương trình New Push Strategy của SACE, khẳng định tiềm năng trong lĩnh vực giao thông xanh."
+    },
+    {
+      "title": "DRH Holdings còn 507 tỷ đồng trái phiếu quá hạn chưa trả",
+      "impact": "↓",
+      "note": "DRH Holdings có 2 lô trái phiếu quá hạn với tổng gốc còn lại gần 506,9 tỷ đồng; với lô DRHH222001, DRH phải thanh toán 157,6 tỷ đồng nhưng chỉ trả 59,2 tỷ đồng, còn nợ 98,4 tỷ đồng; nửa đầu năm 2026 công ty tiếp tục lỗ gần 39 tỷ đồng, tạo rủi ro tín dụng cho thị trường."
+    },
+    {
+      "title": "Việt Nam mở cửa thị trường tài sản mã hóa, tổ chức dịch vụ được cấp phép năm 2026",
+      "impact": "↑",
+      "note": "Bộ Tài chính khẳng định đã xây dựng khuôn khổ pháp lý thí điểm, những tổ chức cung cấp dịch vụ tài sản mã hóa đầu tiên sẽ được cấp phép đi vào hoạt động trong năm 2026; Việt Nam tham khảo kinh nghiệm FMA và các cơ quan quản lý EU với chú trọng quản lý rủi ro, bảo vệ nhà đầu tư và phòng chống rửa tiền."
     }
   ]
 }
