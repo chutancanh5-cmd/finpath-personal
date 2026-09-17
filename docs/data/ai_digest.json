@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường có tín hiệu tích cực từ dự báo tăng trưởng dài hạn 6,2%/năm (cao nhất ASEAN) và cơ hội huy động vốn từ DN FDI (nhu cầu vốn 38,5 triệu tỷ đồng giai đoạn 2026-2030), nhưng đối diện áp lực lạm phát/chi phí từ căng thẳng Trung Đông: giá dầu diesel lập kỷ lục 221 USD/thùng, giá khí châu Âu tăng 156% so với cùng kỳ (28 USD/MMBtu). Fed đối mặt bài toán lạm phát mới từ bùng nổ đầu tư AI, trong khi rủi ro nợ công ty (DRH 506,9 tỷ quá hạn) đe dọa thị trường trái phiếu.",
+  "summary_vi": "Kinh tế Việt Nam được dự báo tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á, nhưng bối cảnh toàn cầu đang sôi động với căng thẳng Trung Đông đẩy giá dầu Brent lên 107,6 USD/thùng và khí TTF châu Âu lên 82,8 EUR/MWh. Thị trường chứng khoán Việt Nam vừa được FTSE nâng hạng (tháng 9/2026) và đang chào đón cơ hội FDI mở rộng với nhu cầu vốn 38,5 triệu tỷ đồng giai đoạn 2026-2030. Tuy nhiên, rủi ro lạm phát từ sốc năng lượng có thể làm suy yếu triển vọng ngắn hạn, đặc biệt khi các doanh nghiệp đối mặt với áp lực chi phí tăng.",
   "top": [
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN 6,2%/năm đến 2035",
+      "title": "Việt Nam tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á đến 2035",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam tăng 6,2%/năm, cao nhất trong 6 nước: Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%, được hỗ trợ nhu cầu chip AI, xuất khẩu sản xuất và đầu tư."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố ngày 16/9: Việt Nam dự báo tăng trưởng bình quân 6,2%/năm trong 10 năm tới, cao hơn Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%), Thái Lan (2,2%). Tăng trưởng được hỗ trợ bởi nhu cầu chip AI, xuất khẩu hàng sản xuất và đà tăng đầu tư."
     },
     {
-      "title": "Phó Chủ tịch UBCKNN: DN FDI chỉ 10 công ty trên sàn, cơ hội IPO lớn",
-      "impact": "↑",
-      "note": "Nhu cầu vốn nền kinh tế 2026-2030 ước tính 38,5 triệu tỷ đồng (7,7 triệu tỷ đồng/năm); UBCKNN khuyến khích DN FDI có chiến lược dài hạn tiếp cận thị trường chứng khoán huy động vốn qua IPO."
-    },
-    {
-      "title": "Giá dầu diesel lập kỷ lục 221 USD/thùng, dầu Brent 107,6 USD do gián đoạn Saudi Arabia",
+      "title": "Căng thẳng Trung Đông, dầu Brent 107,6 USD/thùng",
       "impact": "↓",
-      "note": "Đường ống Đông-Tây Saudi Arabia bị tấn công gây gián đoạn; chênh lệch giá dầu Thượng Hải và Brent 21 USD/thùng (mức hiếm thấy); giá khí TTF châu Âu 82,8 EUR/MWh, tăng 156% so với cùng kỳ (28 USD/MMBtu cao gần 10 lần Henry Hub Mỹ)."
+      "note": "Đường ống Đông-Tây của Saudi Arabia bị gián đoạn ngày 15/09 do tấn công của nhóm vũ trang thân Iran tại Iraq, khiến dầu Brent tăng lên 107,6 USD/thùng. EIA dự báo sản lượng và xuất khẩu dầu khó bình thường hóa trước quý 2/2027. Lưu lượng tàu qua eo biển Hormuz sụt giảm, tạo áp lực lên thị trường năng lượng toàn cầu."
     },
     {
-      "title": "Giá lưu huỳnh tăng 251-269% do gián đoạn nguồn cung Trung Đông",
-      "impact": "↑",
-      "note": "Giá lưu huỳnh tại Trung Quốc 1.038 USD/tấn (+216% YoY), Trung Đông 1.000 USD/tấn (+251%), Canada 1.025 USD/tấn (+269%); chi phí năng lượng Mỹ tương đối ổn định, cơ hội cho phân bón Việt Nam xuất khẩu cạnh tranh."
-    },
-    {
-      "title": "Vingroup mở rộng đường Rừng Sác từ 6 lên 10 làn xe, kết nối siêu đô thị 10 tỷ USD",
-      "impact": "↑",
-      "note": "UBND TP.HCM giao Công ty CP Đô thị Du lịch Cần Giờ (thành viên Vingroup) nâng cấp mở rộng đường Rừng Sác từ 6 lên 10 làn xe, kết nối TP.HCM đến siêu dự án ven biển trị giá 10 tỷ USD."
-    },
-    {
-      "title": "DRH Holdings nợ 506,9 tỷ đồng trái phiếu quá hạn, lỗ 39 tỷ nửa đầu năm",
+      "title": "Khí TTF châu Âu 82,8 EUR/MWh, tăng 156% so với cùng kỳ",
       "impact": "↓",
-      "note": "Lô DRHH224001 (phát hành 410 tỷ, lãi 12%/năm, đáo hạn 2/2024) còn nợ 408,5 tỷ; lô DRHH222001 (230 tỷ, lãi 11%) còn 98,4 tỷ; nửa đầu 2026 công ty lỗ gần 39 tỷ."
+      "note": "Giá khí TTF châu Âu ngày 15/09/2026 đạt khoảng 82,8 EUR/MWh (tương đương ~28 USD/MMBtu), tăng 34% so với 1 tháng trước và 156% so với cùng kỳ năm trước. Rủi ro gián đoạn LNG từ Trung Đông, sự cố Na Uy, và nhu cầu tích trữ mùa đông gây áp lực lớn lên thị trường châu Âu và châu Á."
+    },
+    {
+      "title": "Chứng khoán Việt Nam được FTSE nâng hạng mới nổi thứ cấp",
+      "impact": "↑",
+      "note": "Thị trường chứng khoán Việt Nam được FTSE Russell nâng hạng lên nhóm mới nổi thứ cấp từ tháng 9/2026. Sự kiện này hỗ trợ tăng khả năng tiếp cận của dòng vốn quốc tế, mở rộng cơ hội cho nhà đầu tư nước ngoài và các doanh nghiệp FDI tiếp cận thị trường vốn Việt Nam."
+    },
+    {
+      "title": "FDI cơ hội niêm yết, nhu cầu vốn 38,5 triệu tỷ đồng 2026-2030",
+      "impact": "↑",
+      "note": "Phó Chủ tịch UBCKNN Hoàng Văn Thu: chỉ 10 doanh nghiệp FDI niêm yết, dư địa rất lớn. Nhu cầu vốn 2026-2030 ước tính 38,5 triệu tỷ đồng (bình quân 7,7 triệu tỷ/năm). Chính phủ định hướng khuyến khích doanh nghiệp FDI có chiến lược sản xuất, kinh doanh dài hạn tiếp cận thị trường chứng khoán qua IPO."
+    },
+    {
+      "title": "DRH Holdings 506,9 tỷ đồng trái phiếu quá hạn",
+      "impact": "↓",
+      "note": "DRH Holdings có 2 lô trái phiếu quá hạn với tổng gốc còn lại 506,9 tỷ đồng. Lô DRHH222001 (230 tỷ, 11%/năm) chưa trả 98,4 tỷ từ kỳ 11/09. Lô DRHH224001 (410 tỷ, đáo hạn 2/2024) mới trả 1,5 tỷ tính đến 07/08, còn nợ 408,5 tỷ. H1 2025 công ty lỗ 39 tỷ đồng, cảnh báo rủi ro tín dụng."
     }
   ]
 }
