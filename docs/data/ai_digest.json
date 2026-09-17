@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay ghi nhận đà tăng khá với VN-Index vượt 1.820 điểm, được hỗ trợ bởi dòng vốn ngoại (Brookland Group, Vanguard dự kiến đẩy 2.247 tỷ USD) và chính sách lỏng tín dụng từ NHNN cho các lĩnh vực bất động sản nhất định. Tuy nhiên, tỷ giá USD/VND lập đỉnh mới 25.632 đồng sau quyết định Fed tăng lãi suất, gây áp lực khiếm tài khóa nước ngoài ngắn hạn. Triển vọng dài hạn vẫn tích cực khi Việt Nam được dự báo dẫn đầu tăng trưởng Đông Nam Á (6,2%/năm đến 2035).",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phản ứng tích cực bất ngờ trước quyết định tăng lãi suất của Fed, với VN-Index tăng 14.82 điểm nhờ dòng vốn ngoại mạnh mẽ. Các yếu tố vĩ mô dài hạn cũng được củng cố khi Việt Nam được dự báo dẫn đầu tăng trưởng Đông Nam Á (6,2%/năm) và Ngân hàng Nhà nước đã nới lỏng kiểm soát tín dụng bất động sản. Tuy nhiên, sự yếu lại của đồng Việt (25.632 VND/USD - mức cao nhất) và áp lực từ lãi suất toàn cầu tăng đang tạo thách thức ngắn hạn cho các cổ phiếu có chi phí nhập khẩu cao.",
   "top": [
     {
-      "title": "Tỷ giá trung tâm lập đỉnh mới sau quyết định Fed tăng lãi suất",
+      "title": "Fed tăng lãi suất 25bp, tỷ giá VND/USD lập đỉnh 25.632",
       "impact": "↓",
-      "note": "NHNN niêm yết tỷ giá trung tâm 25.632 đồng/USD, mức cao nhất từ trước đến nay, tăng 6 đồng so với hôm qua. Fed vừa nâng lãi suất lên 3,75-4% (lần đầu tăng từ tháng 7/2023), gây áp lực khiếm tài khóa ngoài và chi phí vay ngoại tệ."
+      "note": "Cục Dự trữ liên bang Mỹ nâng lãi suất tham chiếu thêm 25 điểm cơ bản lên 3,75-4% (lần đầu tăng kể từ tháng 7/2023). Ngân hàng Nhà nước niêm yết tỷ giá trung tâm 25.632 VND/USD, mức cao nhất từ trước đến nay, tăng 6 đồng so với hôm trước, tạo áp lực chi phí vay ngoại tệ và mua nhập khẩu."
     },
     {
-      "title": "Vanguard dự kiến đẩy khoảng 2.247 tỷ USD vào Việt Nam",
+      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á 6,2%/năm",
       "impact": "↑",
-      "note": "Theo SSI, 4 quỹ Vanguard FTSE: Total International Stock ETF (~835 triệu USD từ tài sản 646,2 tỷ USD), Emerging Markets ETF (~795 triệu USD từ tài sản 162,3 tỷ USD), Total International Stock Market Index Trust II (~425 triệu USD), All-World funds (~80 triệu USD) dự kiến giải ngân cho Việt Nam trong 12 tháng (9/2026 - 9/2027)."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam đạt tăng trưởng bình quân 6,2%/năm giai đoạn 2025-2035, cao nhất 6 nước lớn nhất Đông Nam Á (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%), được hỗ trợ bởi nhu cầu chip bán dẫn AI, xuất khẩu sản xuất và đầu tư."
     },
     {
-      "title": "VN-Index đóng cửa vượt 1.820 điểm",
+      "title": "NHNN nới lỏng tín dụng khách sạn, khu du lịch 2026",
       "impact": "↑",
-      "note": "VN-Index tăng 14,82 điểm lên 1.824,93 điểm, VN30 có 27/30 mã xanh với blue-chips giữ giá ổn định; 365 mã toàn sàn tăng giá (11 mã trần) áp đảo 213 mã giảm, dòng tiền chảy mạnh sang mid-cap và small-cap."
+      "note": "Ngân hàng Nhà nước ban hành Công văn 8509/NHNN-CSTT (16/9/2026) quyết định không tính dư nợ tín dụng tăng thêm của nhà hàng, khách sạn, khu du lịch, sinh thái, nghỉ dưỡng vào giám sát tín dụng bất động sản năm 2026, tạo dư địa tín dụng cho lĩnh vực du lịch nhà ở."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á (6,2%/năm)",
+      "title": "VN-Index tăng 14.82 điểm, 365 mã tăng giá",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam tăng 6,2%/năm đến 2035, cao nhất trong 6 nước: Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%, vượt bình quân 4,8% cao hơn 1,4 điểm phần trăm."
+      "note": "VN-Index đóng cửa tại 1.824,93 điểm (tăng 14.82 điểm), vượt mốc 1.820 với 365 mã tăng, 213 mã giảm (11 mã trần, 7 mã sàn). Sắc xanh bao phủ chứng khoán, ngân hàng, bất động sản; HNX-Index tăng 1.72, UPCoM tăng 0.39 điểm, thể hiện sức mua mạnh từ nhà đầu tư."
     },
     {
-      "title": "NHNN tách khách sạn, du lịch khỏi tín dụng bất động sản 2026",
+      "title": "BIG: CEO bán 1.34M cổ phiếu, giá tăng trần +14%",
       "impact": "↑",
-      "note": "Công văn NHNN 8509/NHNN-CSTT (16/9): từ 1/1-31/12/2026, không tính dư nợ tín dụng tăng thêm của nhà hàng, khách sạn, khu du lịch, sinh thái, nghỉ dưỡng vào kiểm soát tăng trưởng bất động sản, nở rộng dư địa tín dụng cho lĩnh vực du lịch."
+      "note": "Tổng Giám đốc Võ Phi Nhật Huy bán 1.340.900 cổ phiếu cho quỹ Brookland Group (35 năm kinh nghiệm, hoạt động 24 quốc gia) qua thỏa thuận. Thay vì bán tháo, BIG tăng kịch trần +14% lên 5.700 đồng/cp với thanh khoản lịch sử, thể hiện sức hấp dẫn của cổ phiếu Việt với nhà đầu tư ngoài."
     },
     {
-      "title": "Brookland Group trở cổ đông lớn BIG, cổ phiếu tăng trần +14%",
-      "impact": "↑",
-      "note": "Tổng Giám đốc BIG (UPCoM) bán 1.340.900 cổ phiếu cho quỹ Brookland Group (35 năm kinh nghiệm, 24 quốc gia) thông qua thỏa thuận; BIG tăng kịch trần +14% lên 5.700 đồng/cp thanh khoản lịch sử, ông Huy vẫn giữ 16,09% vốn."
+      "title": "Hệ thống quỹ Việt Nam chỉ 835.000 tỷ (6,5% GDP)",
+      "impact": "↓",
+      "note": "Hệ thống quỹ đầu tư và quỹ hưu trí Việt Nam (cuối quý 1 năm 2026) có tổng giá trị tài sản quản lý hơn 835.000 tỷ đồng, tương đương 6,5% GDP. Con số này rất nhỏ so với quốc tế: Úc 230% GDP, Mỹ 151% GDP, Singapore 82% GDP, cho thấy hệ thống quỹ còn yếu và cần phát triển nguồn vốn đầu tư dài hạn."
     }
   ]
 }
