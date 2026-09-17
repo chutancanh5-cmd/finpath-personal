@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực lạm phát ngắn hạn từ giá dầu tăng kỷ lục do xung đột Trung Đông, song có nền tảng tăng trưởng vĩ mô mạnh mẽ với dự báo 6,2%/năm dẫn đầu khu vực. Khối FDI là động lực kinh tế lớn nhưng đại diện thị trường hạn chế, tạo cơ hội cổ phiếu hóa. Sửa đổi bộ máy công ty và tăng cung cấp vốn cho thị trường tiếp tục.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực vĩ mô từ lạm phát leo thang (4,45%, tăng từ 3,25% năm ngoái) do giá dầu toàn cầu tăng mạnh 14% khi căng thẳng Trung Đông tiếp tục, khiến giá xăng dầu nội địa tăng 12,3% tháng 8. Cục Dự trữ Liên bang Mỹ (FED) nâng lãi suất lên 3,75-4%, tạo áp lực lên tài sản riskier và cổ phiếu ngân hàng. Dù Việt Nam được dự báo tăng trưởng 6,2%/năm (cao nhất khu vực) nhờ nhu cầu chip AI và xuất khẩu, nhưng ngắn hạn các áp lực lạm phát, lãi suất cao, và rủi ro tài chính doanh nghiệp sẽ là trở ngại.",
   "top": [
     {
-      "title": "Giá dầu lập kỷ lục do gián đoạn đường ống Saudi Arabia",
-      "impact": "↓",
-      "note": "Giá diesel lập kỷ lục 221 USD/thùng; đường ống Đông-Tây bị đóng cửa do tấn công. Tạo áp lực lạm phát trong 4 tháng cuối năm, giá xăng dầu nội địa tháng 8 tăng 12,3% tháng/tháng và 26% năm/năm."
-    },
-    {
-      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á 6,2% đến năm 2035",
+      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners ngày 16/9: Việt Nam 6,2%/năm, cao hơn Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, supported bởi AI chip, xuất khẩu sản xuất."
+      "note": "Báo cáo từ Bain & Company, DBS Bank, Vriens & Partners ngày 16/9 dự báo Việt Nam tăng trưởng bình quân 6,2%/năm (2026-2035), cao nhất trong 6 nước; hỗ trợ từ nhu cầu chip bán dẫn liên quan AI, xuất khẩu hàng sản xuất, và đà tăng đầu tư."
     },
     {
-      "title": "Khối FDI tạo 3/4 xuất khẩu nhưng chỉ 0,15% vốn hóa thị trường",
+      "title": "Áp lực lạm phát tăng những tháng cuối năm",
+      "impact": "↓",
+      "note": "Lạm phát 8 tháng 2026 tăng 4,45% so với cùng kỳ (năm trước 3,25%); giá dầu toàn cầu tăng 77% từ đầu năm lên 107 USD/thùng, giá xăng dầu nội địa tăng 12,3% tháng 8 so với tháng 7 (cao nhất kể từ tháng 5)."
+    },
+    {
+      "title": "Giá dầu lập kỷ lục do gián đoạn vận chuyển",
+      "impact": "↓",
+      "note": "Giá dầu diesel New York lập kỷ lục 221 USD/thùng; đường ống Đông-Tây của Saudi Arabia bị các nhóm vũ trang thân Iran tấn công khiến phải đóng cửa; giá hợp đồng dầu thô Thượng Hải cao hơn dầu Brent 21 USD/thùng."
+    },
+    {
+      "title": "FED tăng lãi suất, áp lực lên thị trường",
+      "impact": "↓",
+      "note": "Cục Dự trữ Liên bang Mỹ nâng lãi suất thêm 25 điểm cơ bản lên 3,75-4%, phạm vi mục tiêu; các quan chức FED kỳ vọng cần ít nhất thêm 1 lần tăng trong năm 2026, áp lực lên cổ phiếu."
+    },
+    {
+      "title": "Nâng hạng FTSE Russell, cơ hội phát triển thị trường",
       "impact": "↑",
-      "note": "CEO SSI: FDI giải ngân kỷ lục 27,6 tỷ USD, 9 năm không có doanh nghiệp FDI mới niêm yết. Chỉ ~10 doanh nghiệp FDI trên ~1.600 niêm yết, cơ hội cổ phiếu hóa lớn."
+      "note": "Việt Nam được FTSE Russell nâng hạng lên nhóm mới nổi thứ cấp từ tháng 9/2026; đang nghiên cứu phương án giao dịch xuyên trưa để mở rộng khả năng tiếp cận vốn nước ngoài."
     },
     {
-      "title": "Áp lực lạm phát 4 tháng cuối năm từ giá dầu và vật liệu xây dựng",
-      "impact": "↓",
-      "note": "MBS: CPI 8 tháng +4,45%, áp lực từ giá dầu (cao nhất 4 tháng 107 USD/thùng), vật liệu xây dựng, tỷ giá. Giá thép tăng do nhu cầu hạ tầng, bất động sản."
-    },
-    {
-      "title": "Chứng khoán Funan đổi tên LIVAS, tăng vốn lên 926 tỷ đồng",
-      "impact": "→",
-      "note": "FNS thay lãnh đạo (CEO mới Huỳnh Minh Tuấn), ĐHĐCĐ bất thường 27/10 để miễn/bầu HĐQT, BKS, tăng gấp đôi vốn điều lệ thành 926 tỷ đồng."
-    },
-    {
-      "title": "AI làm khó bài toán tiền tệ Fed dù kỳ vọng giảm phát dài hạn",
-      "impact": "↓",
-      "note": "AI gây bùng nổ đầu tư chip, trung tâm dữ liệu quy mô lớn tại Mỹ. Tăng tăng trưởng, áp lực lạm phát ngay hôm nay nhưng tiềm năng tăng năng suất dài hạn, Fed đối mặt nghịch lý."
+      "title": "Vingroup nâng cấp hạ tầng giao thông lớn",
+      "impact": "↑",
+      "note": "Vingroup đề xuất nâng cấp tuyến đường Rừng Sác từ 6 lên 10 làn xe kết nối TP.HCM tới siêu dự án ven biển 10 tỷ USD; nút giao đa tầng nối cao tốc Bến Lức-Long Thành đang triển khai tại xã Bình Khánh, TP.HCM."
     }
   ]
 }
