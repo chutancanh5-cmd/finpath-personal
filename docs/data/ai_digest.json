@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Việt Nam dự báo tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á nhờ nhu cầu chip AI và xuất khẩu sản xuất, tín hiệu tích cực cho nền kinh tế. Fed tăng lãi suất 0,25% lên 3,75-4% (lần đầu từ 7/2023) tạo áp lực lãi suất toàn cầu và giảm giá vàng. AI vừa là động lực tăng trưởng vừa gây áp lực lạm phát-lãi suất ngắn hạn, đặt Fed trước thách thức vĩ mô. Khối ngoại mua ròng 265 tỷ nhưng VN-Index giữ thái độ thận trọng quanh 1.810 điểm. Rủi ro DRH Holdings với 507 tỷ trái phiếu quá hạn chưa trả cần theo dõi.",
+  "summary_vi": "Thị trường Việt Nam hiện đối diện sự cộng hưởng giữa tích cực và rủi ro. Fed tăng lãi suất 0.25% lên 3.75-4% và dự báo tiếp tục thắt chặt, gây áp lực lên định giá cổ phiếu toàn cầu. Tuy vậy, Việt Nam được dự báo dẫn đầu tăng trưởng Đông Nam Á với 6.2%/năm nhờ nhu cầu chip AI và xuất khẩu sản xuất. Khối ngoại tiếp tục mua ròng trên các sàn, trong khi doanh nghiệp huy động vốn thông qua phát hành trái phiếu ở mức cao nhất 5 năm (55 ngàn tỷ đồng tháng 8). Rủi ro từ tín dụng vẫn tiềm ẩn khi DRH Holdings nợ hơn 507 tỷ đồng trái phiếu quá hạn.",
   "top": [
     {
-      "title": "Fed tăng lãi suất 0,25% lên 3,75-4%, vàng giảm 30 USD/oz",
+      "title": "Fed tăng lãi suất, dự báo tiếp tục thắt chặt chính sách",
       "impact": "↓",
-      "note": "Fed nâng lãi suất quỹ liên bang lên 3,75-4% (tăng 0,25 điểm phần trăm) ngày 16/9, được 100% thành viên FOMC ủng hộ, lần đầu tăng kể từ tháng 7/2023. Giá vàng giao ngay giảm 30 USD/oz (-0,7%) xuống 4.265 USD/oz, biên độ dao động phiên này hơn 130 USD/oz."
+      "note": "Fed tăng lãi suất quỹ liên bang thêm 0.25 điểm phần trăm lên 3.75-4%, đánh dấu lần đầu tăng kể từ 7/2023. Chỉ số Dow Jones giảm 1.21%, S&P 500 giảm 0.45%. Chủ tịch Fed Kevin Warsh phát tín hiệu rủi ro lạm phát chưa giảm bớt, có thể cần tăng thêm. Áp lực lãi suất cao sẽ làm khó khăn cho định giá tài sản và dòng vốn vào thị trường mới nổi."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á 6,2%/năm đến 2035",
+      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố 16/9 dự báo Việt Nam tăng trưởng bình quân 6,2%/năm đến 2035, cao nhất trong 6 nền kinh tế lớn Đông Nam Á (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%), hưởng lợi từ nhu cầu chip bán dẫn AI, xuất khẩu sản xuất và đầu tư."
+      "note": "Theo báo cáo của Bain & Company, DBS Bank và Vriens & Partners công bố 16/9, Việt Nam dự báo tăng trưởng 6.2%/năm giai đoạn 2026-2035, cao nhất trong 6 nền kinh tế Đông Nam Á (bình quân khu vực 4.8%/năm). Được hỗ trợ bởi nhu cầu chip bán dẫn AI, xuất khẩu hàng sản xuất, và đà tăng đầu tư."
     },
     {
-      "title": "Khối ngoại mua ròng 265 tỷ đồng, SBT mạnh nhất 231 tỷ",
+      "title": "Phát hành trái phiếu doanh nghiệp tháng 8 cao nhất 5 năm",
       "impact": "↑",
-      "note": "Phiên 16/9, khối ngoại mua 2.747 tỷ đồng, bán 2.482 tỷ đồng, mua ròng 265 tỷ đồng, tiếp tục xu hướng mua tích cực tuần trước. SBT mua ròng mạnh nhất 231 tỷ, sau đó FPT 119 tỷ, BSR 113 tỷ, MBB 96 tỷ. Tự doanh công ty chứng khoán cũng quay lại mua ròng."
+      "note": "Quy mô phát hành trái phiếu riêng lẻ tháng 8/2026 đạt hơn 55 ngàn tỷ đồng (46 lô), gấp 2.6 lần tháng 7 và là mức cao nhất kể từ 2021. Phản ánh doanh nghiệp tích cực huy động vốn để đầu tư, mặc dù môi trường lãi suất cao."
     },
     {
-      "title": "AI gây khó cho Fed: vừa tăng trưởng vừa áp lực lạm phát-lãi suất",
-      "impact": "↓",
-      "note": "Thống đốc Fed Michael Barr nhận định AI vừa là động lực tăng trưởng (từ bùng nổ đầu tư kinh doanh liên quan AI) vừa là cú sốc tăng lạm phát-lãi suất cùng thuế quan và xung đột Trung Đông, khiến quá trình đưa lạm phát về mục tiêu trở nên khó khăn hơn."
+      "title": "Khối ngoại mua ròng mạnh, tự doanh quay lại mua",
+      "impact": "↑",
+      "note": "Phiên 16/09, nhà đầu tư nước ngoài mua ròng 265 tỷ đồng (mua 2.747 tỷ, bán 2.482 tỷ) và khối tự doanh công ty chứng khoán cũng quay lại mua ròng. Dòng vốn thông minh vẫn tích cực với TTCK VN, đặc biệt mua mạnh SSB (231 tỷ), FPT (119 tỷ), BSR (113 tỷ)."
     },
     {
-      "title": "DRH Holdings còn 507 tỷ trái phiếu chưa trả, quá hạn từ 2024",
-      "impact": "↓",
-      "note": "DRH Holdings còn 506,9 tỷ đồng gốc chưa trả từ 2 lô trái phiếu quá hạn (lô DRHH222001 quá hạn 11/9 còn 98,4 tỷ; lô DRHH224001 quá hạn từ 2/2024 còn 408,5 tỷ). Nửa đầu năm 2026 công ty lỗ gần 39 tỷ đồng."
-    },
-    {
-      "title": "VN-Index giằng co quanh 1.810, tâm lý thị trường thận trọng",
+      "title": "Khoảng tỷ đô vàng ETF toàn cầu xác lập kỷ lục mới",
       "impact": "→",
-      "note": "Phiên 17/9, VN-Index giằng co trong vùng 1.805-1.817, chốt ở 1.810,11 điểm gần như không đổi so với hôm qua. 11/18 ngành giảm điểm, thanh khoản thấp, nhà đầu tư chờ bứt phá rõ ràng khỏi vùng kháng cự 1.825 điểm với thanh khoản bùng nổ."
+      "note": "Lượng vàng trong các quỹ ETF toàn cầu lên 4.223 tấn tính đến 11/9 (kỷ lục), trong đó khoảng 1 nửa tại Bắc Mỹ. Cho thấy nhu cầu đầu tư vàng tăng mạnh toàn cầu, phản ánh tìm kiếm tài sản an toàn và lo ngại lạm phát."
+    },
+    {
+      "title": "DRH Holdings nợ 507 tỷ đồng trái phiếu quá hạn",
+      "impact": "↓",
+      "note": "DRH nợ gốc trái phiếu gần 507 tỷ đồng (từ 2 lô quá hạn từ 2/2024). Lô DRHH222001 còn 98.4 tỷ chưa trả; lô DRHH224001 còn 408.5 tỷ chưa thanh toán. Nửa đầu năm công ty lỗ gần 39 tỷ đồng. Tiềm ẩn rủi ro tín dụng, cảnh báo áp lực thanh khoản trong thị trường tín dụng doanh nghiệp."
     }
   ]
 }
