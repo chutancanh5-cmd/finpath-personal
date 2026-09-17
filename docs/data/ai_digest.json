@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được tín hiệu tích cực từ nâng hạng FTSE Russell (từ 21/9) và dự báo tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á đến 2035, tạo nền tảng cho vốn ngoại dài hạn. Tuy nhiên, áp lực vĩ mô tăng từ Fed nâng lãi suất 0,25 điểm lên 3,75-4%, kéo theo tỷ giá VND/USD lập đỉnh mới (25.632), nhà đầu tư ngoại bán ròng 395 tỷ đồng và rút khỏi những cổ phiếu vốn hóa lớn. Chính phủ thực hiện các biện pháp hỗ trợ như nới tín dụng du lịch và thúc đẩy hợp tác ASEAN-Trung Quốc.",
+  "summary_vi": "TTCK VN chính thức được nâng hạng thị trường mới nổi thứ cấp (có hiệu lực 21/9), mở ra cơ hội dòng tiền quốc tế; song Fed tăng lãi suất 0,25 điểm lên 3,75-4% lần đầu kể từ 2023, tạo áp lực lên tỷ giá (lên 25.632 đồng/USD) và dòng vốn ngoại ngắn hạn. Dự báo tăng trưởng 6,2%/năm của VN (cao nhất Đông Nam Á 2026-2035) và dự án LNG Quỳnh Lập 2,2 tỷ USD đang triển khai tích cực hỗ trợ kỳ vọng dài hạn, nhưng khối ngoại bán ròng 395 tỷ đồng phản ánh rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng Việt Nam từ 21/9",
+      "title": "TTCK VN nâng hạng thị trường mới nổi thứ cấp",
       "impact": "↑",
-      "note": "Từ ngày 21/9/2026, Việt Nam được nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp theo phân loại FTSE Russell Global Equity Index Series, kỳ vọng sẽ mở ra dòng vốn ngoại lớn từ các quỹ đầu tư toàn cầu (Vanguard, BlackRock, etc)."
+      "note": "Từ 21/9/2026, Việt Nam được nâng hạng từ thị trường cận biên lên mới nổi thứ cấp theo FTSE Russell; Hội nghị 18/9 thông báo chính thức với các quỹ toàn cầu (Vanguard, BlackRock) tham dự; mở cửa lưu lượng chỉ số và dòng vốn dài hạn."
     },
     {
-      "title": "Việt Nam tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á",
+      "title": "Fed tăng lãi suất 0,25 điểm lên 3,75-4%",
+      "impact": "↓",
+      "note": "Fed nâng lãi suất tham chiếu 0,25 điểm lên 3,75-4% (lần đầu kể từ 7/2023); Chủ tịch Kevin Warsh nhấn mạnh sẵn sàng tiếp tục tăng; tạo áp lực lên tỷ giá, chi phí vốn quốc tế và thanh khoản ngoại tệ."
+    },
+    {
+      "title": "Tỷ giá trung tâm lập đỉnh mới 25.632 đồng/USD",
+      "impact": "↓",
+      "note": "NHNN niêm yết tỷ giá 25.632 đồng/USD (17/9), mức cao nhất từ trước; tăng 6 đồng so với 16/9; Vietcombank tăng 45 đồng, BIDV tăng 10 đồng; phản ánh sức ép từ Fed tăng lãi suất."
+    },
+    {
+      "title": "VN dẫn đầu tăng trưởng Đông Nam Á 2026-2035",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam tăng trưởng bình quân 6,2%/năm đến 2035, cao hơn Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%, được hỗ trợ bởi nhu cầu chip bán dẫn AI và xuất khẩu sản xuất."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo VN tăng 6,2%/năm, cao nhất 6 nước (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%); được hỗ trợ nhu cầu chip AI, xuất khẩu."
     },
     {
-      "title": "Fed tăng lãi suất lên 3,75-4%",
-      "impact": "↓",
-      "note": "Cục Dự trữ Liên bang Mỹ (Fed) nâng lãi suất tham chiếu thêm 0,25 điểm cơ bản lên 3,75-4% (lần đầu kể từ tháng 7/2023), kèm thông điệp tiếp tục tăng nếu lạm phát chưa hạ nhiệt, tạo áp lực lên tỷ giá VND, chi phí vốn quốc tế và thanh khoản ngoại tệ."
-    },
-    {
-      "title": "Tỷ giá VND/USD lập đỉnh mới 25.632",
-      "impact": "↓",
-      "note": "Ngân hàng Nhà nước niêm yết tỷ giá trung tâm ngày 17/9 ở mức 25.632 đồng/USD (tăng 6 đồng), mức cao nhất từ trước đến nay; biên độ ±5% cho phép giao dịch 24.350-26.914 đồng/USD, phản ánh áp lực từ quyết định tăng lãi suất Fed."
-    },
-    {
-      "title": "Nhà đầu tư ngoại bán ròng 395 tỷ đồng",
-      "impact": "↓",
-      "note": "Khối ngoại quay đầu bán ròng 395 tỷ đồng, xả VHM (186 tỷ), VIC (184 tỷ), VIX (160 tỷ) tổng 500+ tỷ; mua HDB (143 tỷ), MBB (119 tỷ), FPT (118 tỷ), thể hiện dòng vốn chuyển từ bất động sản sang ngân hàng."
-    },
-    {
-      "title": "Quỹ hưu trí tăng 14,5%/năm giai đoạn 2026-2030",
+      "title": "Dự án LNG Quỳnh Lập 2,2 tỷ USD triển khai tích cực",
       "impact": "↑",
-      "note": "Bộ Tài chính đặt mục tiêu quy mô tổng tài sản quỹ hưu trí bổ sung tăng bình quân 14,5%/năm trong 2026-2030, nhằm huy động vốn dài hạn cho hạ tầng, chuyển đổi số, công nghiệp công nghệ cao, chuyển đổi năng lượng."
+      "note": "Liên danh PV Power, NASU, nhà đầu tư Hàn Quốc; Công ty CTCP Điện LNG Quỳnh Lập thành lập 14/9; Báo cáo FS và quy hoạch chi tiết 1/500 dự kiến hoàn thành tháng 10; giải phóng mặt bằng đang triển khai."
+    },
+    {
+      "title": "Khối ngoại bán ròng 395 tỷ đồng, xả VHM/VIC",
+      "impact": "↓",
+      "note": "NĐTNN quay đầu bán ròng 395 tỷ đồng 17/9; bán ròng VHM (186 tỷ), VIC (184 tỷ), VIX (160 tỷ) tổng hơn 500 tỷ; mua ròng HDB (143 tỷ), MBB (119 tỷ), FPT (118 tỷ); phản ánh lo ngại từ Fed."
     }
   ]
 }
