@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường hỗn hợp giữa những tín hiệu tích cực dài hạn và áp lực ngắn hạn. Việt Nam được dự báo tăng trưởng 6,2%/năm đến 2035 (cao nhất ASEAN-6), nhưng khối ngoại quay đầu bán ròng 395 tỷ đồng ngay sau quyết định tăng lãi suất 25 bps của FED. Tỷ giá lập đỉnh mới 25.632 VND/USD, áp lực đến các ngành nhập khẩu. Tuy nhiên, giá dầu Brent vượt 100 USD/thùng hỗ trợ nhóm năng lượng, Vingroup đẩy nhanh dự án hạ tầng lớn và ngân hàng nới lỏng tín dụng du lịch.",
+  "summary_vi": "Fed tăng lãi suất 0.25% lên 3.75-4% tạo áp lực ngắn hạn; khối ngoại bán ròng 395 tỷ đồng và tỷ giá trung tâm lập đỉnh mới 25.632 VND/USD. Tuy nhiên TTCK Việt Nam bật tăng 13 điểm và giá dầu Brent hồi phục trên 100 USD hỗ trợ ngành khí. Dài hạn, Việt Nam dẫn đầu khu vực tăng trưởng 6,2%/năm.",
   "top": [
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN-6",
-      "impact": "↑",
-      "note": "Báo cáo của Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam tăng trưởng 6,2%/năm giai đoạn 2026-2035, vượt Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%, cao hơn 1,4 điểm phần trăm so với bình quân ASEAN-6 (4,8%), tạo nền tảng dài hạn cho thị trường chứng khoán."
-    },
-    {
-      "title": "Khối ngoại bán ròng 395 tỷ đồng sau quyết định FED",
+      "title": "Fed tăng lãi suất 0.25%, tín hiệu tiếp tục thắt",
       "impact": "↓",
-      "note": "Phiên 17/9, nhà đầu tư nước ngoài quay đầu bán ròng 395 tỷ đồng, bán mạnh VHM (186 tỷ), VIC (184 tỷ), VIX (160 tỷ). Mua chủ yếu vào HDB (143 tỷ), MBB (119 tỷ), FPT (118 tỷ), thể hiện sự điều chỉnh danh mục sau tin tăng lãi suất của FED."
+      "note": "Fed nâng lãi suất mục tiêu lên 3.75-4% (tăng 25 bps), lần đầu tiên kể từ tháng 7/2023. Chủ tịch Fed phát tín hiệu sẽ tiếp tục tăng nếu lạm phát không hạ bền vững, tạo áp lực tỷ giá và dòng vốn quốc tế."
     },
     {
-      "title": "Tỷ giá lập đỉnh mới, chuỗi rủi ro đang rõ",
+      "title": "Khối ngoại quay đầu bán ròng 395 tỷ đồng",
       "impact": "↓",
-      "note": "Ngân hàng Nhà nước niêm yết tỷ giá trung tâm 25.632 VND/USD (17/9), đỉnh lịch sử, tăng 6 đồng so với hôm qua. Sau quyết định tăng lãi suất 25 bps lên 3,75-4% của FED, đôla tăng áp lực, gây khó khăn cho các doanh nghiệp nhập khẩu."
+      "note": "NĐTNN bán ròng 395 tỷ đồng toàn thị trường phiên 17/9: bán mạnh VHM (186 tỷ), VIC (184 tỷ), VIX (160 tỷ); mua chủ yếu HDB (143 tỷ), MBB (119 tỷ), FPT (118 tỷ)."
     },
     {
-      "title": "Dầu Brent vượt 100 USD/thùng hỗ trợ năng lượng",
-      "impact": "↑",
-      "note": "Giá dầu Brent tăng >75% so với đầu năm 2026, lên 107-108 USD/thùng (cao nhất kể từ tháng 5). Mặc dù cổ phiếu dầu khí trễ hơn, 10/11 mã còn thấp hơn đỉnh >20%, nhưng OIL, PVT, BSR đã tăng >30%, mở cơ hội hồi phục cho nhóm năng lượng."
+      "title": "Tỷ giá trung tâm lập đỉnh 25.632 VND/USD",
+      "impact": "↓",
+      "note": "Ngân hàng Nhà nước niêm yết tỷ giá trung tâm 25.632 VND/USD (17/9), mức cao nhất từ trước đến nay, tăng 6 đồng so với hôm qua. Vietcombank, BIDV, Techcombank nâng giá USD theo đó."
     },
     {
-      "title": "Meey Global nộp hồ sơ IPO trên Nasdaq",
+      "title": "VNI bật tăng 13 điểm, thanh khoản HSX +27%",
       "impact": "↑",
-      "note": "Meey Global Corp (16/9) nộp công khai hồ sơ F-1 lên SEC, dự kiến niêm yết trên Nasdaq Capital Market với mã 'MEEY'. ARC Group Securities làm sole book-running manager, thể hiện sự mở cửa của doanh nghiệp bất động sản Việt Nam ra thị trường quốc tế."
+      "note": "Phiên 17/9, VNI tăng 13 điểm lên 1.823 điểm (+0.7%), tỷ lệ tăng/giảm 1,75/1; quá nửa thị trường duy trì đỉnh hoặc chỉ thấp 1-2 bước giá. Thanh khoản HSX tăng 27%, cho thấy bên mua tự tin."
     },
     {
-      "title": "Vingroup mở rộng dự án, NHNN nới lỏng tín dụng du lịch",
+      "title": "Giá dầu Brent vượt 100 USD, hỗ trợ ngành năng lượng",
       "impact": "↑",
-      "note": "Vingroup đề xuất mở rộng đường Rừng Sác từ 6 lên 10 làn xe kết nối siêu dự án ven biển 10 tỷ USD. NHNN (16/9) loại trừ tín dụng khách sạn, khu du lịch, sinh thái, nghỉ dưỡng khỏi hạn chế bất động sản năm 2026, hỗ trợ phục hồi ngành dịch vụ và du lịch."
+      "note": "Dầu Brent tăng >75% so với đầu năm 2026, đạt 107-108 USD/thùng (cao nhất kể từ tháng 5). OIL, PVT, BSR tăng >30%; dầu khí dần thoát khỏi \"thị trường gấu\" với giá mục tiêu hồi phục."
+    },
+    {
+      "title": "Việt Nam dẫn đầu ASEAN-6 với tăng trưởng 6,2%/năm",
+      "impact": "↑",
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam tăng trưởng 6,2%/năm giai đoạn 2026-2035, vượt tất cả 5 nước còn lại ASEAN-6, cao hơn bình quân khu vực 1,4 điểm phần trăm."
     }
   ]
 }
