@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực vĩ mô từ lạm phát leo thang (4,45%, tăng từ 3,25% năm ngoái) do giá dầu toàn cầu tăng mạnh 14% khi căng thẳng Trung Đông tiếp tục, khiến giá xăng dầu nội địa tăng 12,3% tháng 8. Cục Dự trữ Liên bang Mỹ (FED) nâng lãi suất lên 3,75-4%, tạo áp lực lên tài sản riskier và cổ phiếu ngân hàng. Dù Việt Nam được dự báo tăng trưởng 6,2%/năm (cao nhất khu vực) nhờ nhu cầu chip AI và xuất khẩu, nhưng ngắn hạn các áp lực lạm phát, lãi suất cao, và rủi ro tài chính doanh nghiệp sẽ là trở ngại.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục hưởng lợi từ nâng hạng FTSE (từ tháng 9/2026) với dự báo dòng tiền đến 10 tỷ USD trong 12 tháng tới, hỗ trợ triển vọng tăng trưởng 6,2%/năm đến 2035 — cao nhất trong 6 nước ASEAN lớn. Tuy nhiên, áp lực lạm phát từ giá dầu tăng 77% từ đầu năm (hiện 107 USD/thùng) và gián đoạn chuỗi cung toàn cầu sẽ là thách thức ngắn hạn. Một số công ty như DRH vẫn đối mặt khó khăn về nợ xấu.",
   "top": [
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á",
+      "title": "10 tỷ USD từ FTSE rebalancing vào thị trường VN",
       "impact": "↑",
-      "note": "Báo cáo từ Bain & Company, DBS Bank, Vriens & Partners ngày 16/9 dự báo Việt Nam tăng trưởng bình quân 6,2%/năm (2026-2035), cao nhất trong 6 nước; hỗ trợ từ nhu cầu chip bán dẫn liên quan AI, xuất khẩu hàng sản xuất, và đà tăng đầu tư."
+      "note": "FTSE tính toán 2,21 tỷ USD từ ETF phân bổ vào cổ phiếu VN; VIC nhận 690 triệu USD (32%), VHM 247 triệu USD (12%), HPG 142 triệu USD, VPB 97 triệu USD, FPT 96 triệu USD. Thomas Nguyen (SSI) dự báo con số thực tế có thể lên tới 10 tỷ USD trong 12 tháng tới."
     },
     {
-      "title": "Áp lực lạm phát tăng những tháng cuối năm",
-      "impact": "↓",
-      "note": "Lạm phát 8 tháng 2026 tăng 4,45% so với cùng kỳ (năm trước 3,25%); giá dầu toàn cầu tăng 77% từ đầu năm lên 107 USD/thùng, giá xăng dầu nội địa tăng 12,3% tháng 8 so với tháng 7 (cao nhất kể từ tháng 5)."
-    },
-    {
-      "title": "Giá dầu lập kỷ lục do gián đoạn vận chuyển",
-      "impact": "↓",
-      "note": "Giá dầu diesel New York lập kỷ lục 221 USD/thùng; đường ống Đông-Tây của Saudi Arabia bị các nhóm vũ trang thân Iran tấn công khiến phải đóng cửa; giá hợp đồng dầu thô Thượng Hải cao hơn dầu Brent 21 USD/thùng."
-    },
-    {
-      "title": "FED tăng lãi suất, áp lực lên thị trường",
-      "impact": "↓",
-      "note": "Cục Dự trữ Liên bang Mỹ nâng lãi suất thêm 25 điểm cơ bản lên 3,75-4%, phạm vi mục tiêu; các quan chức FED kỳ vọng cần ít nhất thêm 1 lần tăng trong năm 2026, áp lực lên cổ phiếu."
-    },
-    {
-      "title": "Nâng hạng FTSE Russell, cơ hội phát triển thị trường",
+      "title": "Tăng trưởng 6,2%/năm — cao nhất ASEAN",
       "impact": "↑",
-      "note": "Việt Nam được FTSE Russell nâng hạng lên nhóm mới nổi thứ cấp từ tháng 9/2026; đang nghiên cứu phương án giao dịch xuyên trưa để mở rộng khả năng tiếp cận vốn nước ngoài."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners dự báo VN tăng trưởng bình quân 6,2%/năm đến 2035, cao hơn 1,4 điểm so với mức bình quân 4,8% của 6 nước ASEAN. Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%."
     },
     {
-      "title": "Vingroup nâng cấp hạ tầng giao thông lớn",
+      "title": "Áp lực lạm phát từ giá dầu cao trong 4 tháng cuối năm",
+      "impact": "↓",
+      "note": "Giá dầu Brent tăng 77% từ đầu năm lên 107 USD/thùng (đầu tháng 9). Xăng dầu nội địa tăng 12,3% tháng 8 so với tháng 7 (+26% YoY). CPI 8 tháng đầu năm tăng 4,45%, cao hơn cùng kỳ năm ngoái (3,25%). Căng thẳng Trung Đông tiếp tục leo thang."
+    },
+    {
+      "title": "Giá dầu diesel lập kỷ lục 221 USD/thùng",
+      "impact": "↓",
+      "note": "Dầu diesel siêu thấp lưu huỳnh tại New York lập kỷ lục 221 USD/thùng do gián đoạn đường ống Đông-Tây (tuyến xuất khẩu dầu chủ chốt của Saudi Arabia). Chênh lệch giá dầu thô tại Thượng Hải vs Brent là 21 USD/thùng, mức hiếm thấy."
+    },
+    {
+      "title": "FTSE nâng hạng + cân nhắc phiên xuyên trưa",
       "impact": "↑",
-      "note": "Vingroup đề xuất nâng cấp tuyến đường Rừng Sác từ 6 lên 10 làn xe kết nối TP.HCM tới siêu dự án ven biển 10 tỷ USD; nút giao đa tầng nối cao tốc Bến Lức-Long Thành đang triển khai tại xã Bình Khánh, TP.HCM."
+      "note": "FTSE Russell nâng hạng VN lên nhóm mới nổi thứ cấp từ tháng 9/2026. VN cân nhắc mở rộng giờ giao dịch xuyên trưa để cạnh tranh với các sàn quốc tế nới giờ vận hành."
+    },
+    {
+      "title": "DRH Holdings nợ 506,9 tỷ đồng gốc trái phiếu",
+      "impact": "↓",
+      "note": "Hai lô trái phiếu của DRH đã quá hạn: lô DRHH224001 (đáo hạn tháng 2/2024) còn nợ 408,5 tỷ đồng gốc (lãi 12%/năm); lô DRHH222001 còn nợ 98,4 tỷ đồng. Nửa đầu năm DRH lỗ gần 39 tỷ đồng."
     }
   ]
 }
