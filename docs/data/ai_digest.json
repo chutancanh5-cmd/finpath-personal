@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường phải cân bằng giữa áp lực lạm phát từ giá dầu cao (107 USD/thùng, +77% từ đầu năm) và rủi ro lãi suất toàn cầu do AI làm khó Fed, nhưng được hỗ trợ bởi triển vọng tăng trưởng mạnh dài hạn (6,2%/năm) và động thái huy động vốn quốc tế 1 tỷ USD. Đầu tư cơ sở hạ tầng lớn của Vingroup cung cấp động lực ngắn hạn, mặc dù rủi ro nợ doanh nghiệp vẫn cần theo dõi.",
+  "summary_vi": "Việt Nam được dự báo dẫn đầu tăng trưởng Đông Nam Á với 6,2%/năm (2026-2035), với động lực từ FDI và AI; tuy nhiên áp lực lạm phát từ giá dầu cao (107 USD/thùng, +77% từ đầu năm) và CPI tăng 4,45% gây thách thức kinh doanh ngắn hạn. Chính phủ bổ sung nguồn lực qua trái phiếu quốc tế 1 tỷ USD, trong khi Vingroup khởi động siêu dự án 10 tỷ USD tại Rừng Sác. Thị trường chứng khoán cần cân bằng tăng trưởng dài hạn với kiểm soát lạm phát ngắn hạn.",
   "top": [
     {
-      "title": "Lạm phát tăng từ giá dầu cao",
-      "impact": "↓",
-      "note": "Giá dầu Brent tăng lên 107 USD/thùng (đầu tháng 9, +77% từ đầu năm) do căng thẳng Trung Đông. Giá xăng dầu nội địa tháng 8 tăng 12,3% so tháng 7, tăng 26% so cùng kỳ. CPI 8 tháng tăng 4,45% so cùng kỳ (năm 2025 tăng 3,25%). Áp lực giá vật liệu xây dựng từ nhu cầu hạ tầng. Lạm phát cao hạn chế giảm lãi suất, áp lực lên định giá cổ phiếu."
-    },
-    {
-      "title": "Triển vọng tăng trưởng 6,2%/năm tới 2035",
+      "title": "Việt Nam dẫn đầu tăng trưởng 6,2%/năm trong 10 năm tới",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners: Việt Nam dẫn đầu 6 nước Đông Nam Á với 6,2%/năm trong 10 năm tới (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%). Hỗ trợ từ nhu cầu chip AI, xuất khẩu sản xuất, đầu tư gia tăng. Triển vọng dài hạn mạnh hỗ trợ định giá cổ phiếu."
+      "note": "Báo cáo Bain & Company, DBS Bank và Vriens & Partners ngày 16/9 dự báo Việt Nam đạt 6,2%/năm (2026-2035), cao nhất trong 6 nền kinh tế Đông Nam Á. Tín hiệu tích cực cho cổ phiếu, đặc biệt nhóm tiêu dùng và bán lẻ."
     },
     {
-      "title": "Phát hành trái phiếu Chính phủ USD 1 tỷ USD",
+      "title": "Chính phủ phát hành trái phiếu quốc tế 1 tỷ USD lần đầu 10 năm",
       "impact": "↑",
-      "note": "Việt Nam xem xét phát hành trái phiếu Chính phủ kỳ hạn 10 năm bằng USD, quy mô 1 tỷ USD, lần đầu sau 10+ năm. Bổ sung nguồn lực cho tăng trưởng, giảm sức ép hệ thống tài chính. Tích cực cho thanh khoản tiền tệ."
+      "note": "Bộ Tài chính cân nhắc phát hành trái phiếu Chính phủ USD kỳ hạn 10 năm, quy mô 1 tỷ USD. Lần cuối là 2014 với lợi tức 4,8%. Bổ sung vốn cho nền kinh tế giữa áp lực cân đối hệ thống tài chính trong nước."
     },
     {
-      "title": "AI tăng lạm phát ngắn hạn, giảm phát dài hạn",
+      "title": "Giá dầu lập kỷ lục 221 USD/thùng do căng thẳng Trung Đông",
       "impact": "↓",
-      "note": "Bùng nổ đầu tư AI tại Mỹ (chip, trung tâm dữ liệu, điện năng) tạo áp lực tăng trưởng và lạm phát ngắn hạn. Fed cân nhắc liệu AI có tạo làn sóng năng suất bền vững hay không. AI có thể kiềm chế lạm phát dài hạn nhưng khiến lãi suất toàn cầu cao hơn hiện nay. Áp lực lãi suất quốc tế ảnh hưởng xấu đến TTCK VN."
+      "note": "Đường ống Đông-Tây của Saudi Arabia bị tấn công, giá dầu diesel siêu thấp lập kỷ lục 221 USD/thùng (tuần 16/9). Dầu Brent 108 USD/thùng. Áp lực mạnh lên giá xăng dầu nội địa và lạm phát Việt Nam."
     },
     {
-      "title": "Vingroup mở rộng đường Rừng Sác 6 lên 10 làn",
+      "title": "Lạm phát dự kiến tăng áp lực trong 4 tháng cuối năm",
+      "impact": "↓",
+      "note": "MBS cảnh báo CPI tăng 4,45% (8 tháng 2026) và dự báo áp lực lạm phát còn mạnh: giá dầu +77% từ đầu năm lên 107 USD, xăng dầu nội địa +31%, giá vật liệu xây dựng tăng. Rủi ro kinh doanh, lợi nhuận doanh nghiệp bị ép."
+    },
+    {
+      "title": "Vingroup khởi động mở rộng siêu dự án 10 tỷ USD ven biển",
       "impact": "↑",
-      "note": "Tuyến đường Rừng Sác kết nối TP.HCM với siêu dự án ven biển Vingroup dự kiến mở rộng từ 6 lên 10 làn xe. UBND TP.HCM giao Công ty CP Đô thị Du lịch Cần Giờ (Vingroup) nghiên cứu lập báo cáo đề xuất. Đầu tư hạ tầng lớn hỗ trợ tăng trưởng kinh tế, tích cực cho bất động sản và xây dựng."
+      "note": "Tuyến đường Rừng Sác sẽ mở rộng từ 6 lên 10 làn xe, kết nối TP.HCM với siêu dự án ven biển của Vingroup. Nút giao đa tầng nối cao tốc Bến Lức – Long Thành đang thi công khẩn trương. Tín hiệu mạnh cho bất động sản cao cấp."
     },
     {
-      "title": "Rủi ro nợ: DRH nợ 506,9 tỷ trái phiếu quá hạn",
-      "impact": "↓",
-      "note": "DRH Holdings nợ gốc 506,9 tỷ đồng trái phiếu quá hạn. Lô DRHH224001 (410 tỷ gốc): chỉ trả 1,5 tỷ, còn nợ 408,5 tỷ (quá hạn từ 2/2024). Công ty đang lỗ (nửa đầu năm lỗ 39 tỷ). Rủi ro tín dụng công ty, cảnh báo về tình trạng tài chính doanh nghiệp bất động sản."
+      "title": "CEO SSI: FDI tạo 3/4 xuất khẩu nhưng chỉ 0,15% vốn hóa",
+      "impact": "→",
+      "note": "Tại hội thảo SSI ngày 17/9, CEO Nguyễn Đức Thông chỉ ra: FDI giải ngân 27,6 tỷ USD/năm và tạo hơn 3/4 kim ngạch xuất khẩu, nhưng chỉ chiếm 0,15% vốn hóa thị trường chứng khoán. Chỉ 10 doanh nghiệp FDI niêm yết, 9 năm không có thêm. Cơ hội cải thiện cơ cấu nhà đầu tư."
     }
   ]
 }
