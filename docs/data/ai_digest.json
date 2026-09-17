@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam được dự báo tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á, nhưng bối cảnh toàn cầu đang sôi động với căng thẳng Trung Đông đẩy giá dầu Brent lên 107,6 USD/thùng và khí TTF châu Âu lên 82,8 EUR/MWh. Thị trường chứng khoán Việt Nam vừa được FTSE nâng hạng (tháng 9/2026) và đang chào đón cơ hội FDI mở rộng với nhu cầu vốn 38,5 triệu tỷ đồng giai đoạn 2026-2030. Tuy nhiên, rủi ro lạm phát từ sốc năng lượng có thể làm suy yếu triển vọng ngắn hạn, đặc biệt khi các doanh nghiệp đối mặt với áp lực chi phí tăng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Việt Nam tiếp tục tăng trưởng dẫn đầu ASEAN (6,2%/năm đến 2035) và nhận lộ trình nâng hạng từ FTSE Russell cùng xem xét giao dịch xuyên trưa, mở rộng cơ hội FDI với nhu cầu vốn 38,5 triệu tỷ đồng giai đoạn 2026-2030. Căng thẳng Trung Đông đẩy giá dầu Brent lên 107,6 USD/thùng và khí TTF lên 82,8 EUR/MWh, tạo áp lực lạm phát toàn cầu nhưng cơ hội cho doanh nghiệp phân bón Việt Nam. Rủi ro từ vỡ nợ DRH (507 tỷ đồng) cần theo dõi, nhưng triển vọng macroeconomic của Việt Nam vẫn mạnh mẽ.",
   "top": [
     {
       "title": "Việt Nam tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á đến 2035",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố ngày 16/9: Việt Nam dự báo tăng trưởng bình quân 6,2%/năm trong 10 năm tới, cao hơn Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%), Thái Lan (2,2%). Tăng trưởng được hỗ trợ bởi nhu cầu chip AI, xuất khẩu hàng sản xuất và đà tăng đầu tư."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố ngày 16/9: Việt Nam dự báo tăng trưởng bình quân 6,2%/năm trong 10 năm tới, cao nhất trong 6 nước lớn ASEAN, vượt Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%), Thái Lan (2,2%). Tăng trưởng được hỗ trợ bởi nhu cầu chip AI, xuất khẩu hàng sản xuất và đà tăng đầu tư."
     },
     {
-      "title": "Căng thẳng Trung Đông, dầu Brent 107,6 USD/thùng",
-      "impact": "↓",
-      "note": "Đường ống Đông-Tây của Saudi Arabia bị gián đoạn ngày 15/09 do tấn công của nhóm vũ trang thân Iran tại Iraq, khiến dầu Brent tăng lên 107,6 USD/thùng. EIA dự báo sản lượng và xuất khẩu dầu khó bình thường hóa trước quý 2/2027. Lưu lượng tàu qua eo biển Hormuz sụt giảm, tạo áp lực lên thị trường năng lượng toàn cầu."
-    },
-    {
-      "title": "Khí TTF châu Âu 82,8 EUR/MWh, tăng 156% so với cùng kỳ",
-      "impact": "↓",
-      "note": "Giá khí TTF châu Âu ngày 15/09/2026 đạt khoảng 82,8 EUR/MWh (tương đương ~28 USD/MMBtu), tăng 34% so với 1 tháng trước và 156% so với cùng kỳ năm trước. Rủi ro gián đoạn LNG từ Trung Đông, sự cố Na Uy, và nhu cầu tích trữ mùa đông gây áp lực lớn lên thị trường châu Âu và châu Á."
-    },
-    {
-      "title": "Chứng khoán Việt Nam được FTSE nâng hạng mới nổi thứ cấp",
+      "title": "FTSE Russell nâng hạng, xem xét giao dịch xuyên trưa",
       "impact": "↑",
-      "note": "Thị trường chứng khoán Việt Nam được FTSE Russell nâng hạng lên nhóm mới nổi thứ cấp từ tháng 9/2026. Sự kiện này hỗ trợ tăng khả năng tiếp cận của dòng vốn quốc tế, mở rộng cơ hội cho nhà đầu tư nước ngoài và các doanh nghiệp FDI tiếp cận thị trường vốn Việt Nam."
+      "note": "Thị trường chứng khoán Việt Nam được FTSE Russell nâng hạng lên nhóm mới nổi thứ cấp từ tháng 9/2026. Đồng thời, các sở giao dịch lớn trên thế giới kéo dài khung giờ vận hành, Việt Nam đang nghiên cứu phiên giao dịch xuyên trưa để tăng thanh khoản và cạnh tranh."
     },
     {
-      "title": "FDI cơ hội niêm yết, nhu cầu vốn 38,5 triệu tỷ đồng 2026-2030",
-      "impact": "↑",
-      "note": "Phó Chủ tịch UBCKNN Hoàng Văn Thu: chỉ 10 doanh nghiệp FDI niêm yết, dư địa rất lớn. Nhu cầu vốn 2026-2030 ước tính 38,5 triệu tỷ đồng (bình quân 7,7 triệu tỷ/năm). Chính phủ định hướng khuyến khích doanh nghiệp FDI có chiến lược sản xuất, kinh doanh dài hạn tiếp cận thị trường chứng khoán qua IPO."
-    },
-    {
-      "title": "DRH Holdings 506,9 tỷ đồng trái phiếu quá hạn",
+      "title": "Căng thẳng Trung Đông, dầu tăng cao nhưng cơ hội phân bón",
       "impact": "↓",
-      "note": "DRH Holdings có 2 lô trái phiếu quá hạn với tổng gốc còn lại 506,9 tỷ đồng. Lô DRHH222001 (230 tỷ, 11%/năm) chưa trả 98,4 tỷ từ kỳ 11/09. Lô DRHH224001 (410 tỷ, đáo hạn 2/2024) mới trả 1,5 tỷ tính đến 07/08, còn nợ 408,5 tỷ. H1 2025 công ty lỗ 39 tỷ đồng, cảnh báo rủi ro tín dụng."
+      "note": "Đường ống Đông-Tây Saudi Arabia bị gián đoạn, dầu Brent tăng 107,6 USD/thùng, dầu diesel New York lập kỷ lục 221 USD/thùng. Khí TTF châu Âu 82,8 EUR/MWh (tăng 156% so với cùng kỳ). Giá lưu huỳnh tăng 216-269% so với cùng kỳ, gây khó khăn cho nhà máy ammonia, urê châu Âu và tạo cơ hội cho doanh nghiệp phân bón Việt Nam."
+    },
+    {
+      "title": "FDI mở rộng niêm yết, nhu cầu vốn 38,5 triệu tỷ đồng 2026-2030",
+      "impact": "↑",
+      "note": "Phó Chủ tịch UBCKNN Hoàng Văn Thu: chỉ 10 doanh nghiệp FDI niêm yết trên sàn, dư địa còn rất lớn. Nhu cầu vốn 2026-2030 ước tính 38,5 triệu tỷ đồng (bình quân 7,7 triệu tỷ/năm). Chính phủ khuyến khích doanh nghiệp FDI có chiến lược sản xuất, kinh doanh dài hạn tiếp cận thị trường chứng khoán qua IPO."
+    },
+    {
+      "title": "Fed khó khăn với AI, tăng rủi ro lạm phát ngắn hạn",
+      "impact": "↓",
+      "note": "Mỹ trải qua bùng nổ đầu tư vào chip, trung tâm dữ liệu, điện năng không kỳ trước do AI, với quy mô chưa từng có. AI gặp nghịch lý: có thể giảm phát dài hạn nhưng khiến bài toán tăng trưởng, lạm phát, lãi suất khó hơn ngay hiện tại, làm phức tạp chính sách tiền tệ của Fed."
+    },
+    {
+      "title": "DRH Holdings quá hạn 506,9 tỷ đồng trái phiếu",
+      "impact": "↓",
+      "note": "DRH Holdings có 2 lô trái phiếu quá hạn với tổng gốc còn lại 506,9 tỷ đồng. Lô DRHH222001 (230 tỷ, 11%/năm) chưa trả 98,4 tỷ. Lô DRHH224001 (410 tỷ, đáo hạn 2/2024) mới trả 1,5 tỷ tính đến 07/08, còn nợ 408,5 tỷ. H1 2025 công ty lỗ 39 tỷ đồng, cảnh báo rủi ro tín dụng."
     }
   ]
 }
