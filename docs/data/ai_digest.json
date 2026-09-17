@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "TTCK VN chính thức được nâng hạng lên thị trường mới nổi thứ cấp từ 21/9, sự kiện chiến lược kích thích dòng vốn ngoại dài hạn. Dự báo tăng trưởng 6,2%/năm (cao nhất Đông Nam Á 2026-2035) và dự án LNG Quỳnh Lập 2,2 tỷ USD triển khai tích cực hỗ trợ triển vọng doanh nghiệp. Dòng tiền quay về nhóm tài chính/ngân hàng, VN-Index hồi phục +0,7%. Rủi ro ngắn hạn từ Fed tăng lãi suất 0,25% (lên 3,75-4%) gây áp lực tỷ giá (25.632 đ/USD), nhưng VN sẵn sàng ứng phó.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Fed tăng lãi suất 0,25% lần đầu sau 3 năm đặt áp lực lên tỷ giá và dòng vốn, song niêm yết lên FTSE Russell mở ra cơ hội hấp dẫn với nhà đầu tư nước ngoài. Thị trường phục hồi mạnh ngay sau quyết định Fed, nhóm tài chính hút mạnh dòng tiền, nhưng rủi ro tỷ giá và dòng vốn ngắn hạn vẫn cần theo dõi sát sao.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng VN lên thị trường mới nổi thứ cấp",
-      "impact": "↑",
-      "note": "Chính thức có hiệu lực từ 21/9/2026; Hội nghị 18/9 thông báo với sự tham dự của các quỹ toàn cầu (Vanguard, BlackRock, ngân hàng lưu ký); đây là sự kiện chiến lược kích thích dòng vốn chỉ số và dòng vốn dài hạn vào TTCK VN."
-    },
-    {
-      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á giai đoạn 2026-2035",
-      "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners dự báo VN tăng 6,2%/năm, cao nhất trong nhóm 6 nước (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%); được hỗ trợ bởi nhu cầu chip AI, xuất khẩu sản xuất và đầu tư FDI."
-    },
-    {
-      "title": "VN-Index hồi phục, dòng tiền tập trung nhóm tài chính",
-      "impact": "↑",
-      "note": "VN-Index tăng 12,66 điểm (+0,7%) lên 1.822,77 điểm phiên 17/9; nhóm chứng khoán dẫn đầu (VCI +3,9%, SSI +2,92%), ngân hàng mạnh (VPB +2,17%, CTG +1,78%); thanh khoản HoSE cải thiện rõ rệt, 601,6 triệu cổ phiếu được khớp lệnh."
-    },
-    {
-      "title": "Fed tăng lãi suất 0,25 điểm lên 3,75-4%, áp lực ngắn hạn",
+      "title": "Fed tăng lãi suất 0,25%, áp lực tỷ giá gia tăng",
       "impact": "↓",
-      "note": "Fed nâng lãi suất tham chiếu 0,25 điểm lên 3,75-4%, lần đầu kể từ 7/2023; Chủ tịch Kevin Warsh nhấn mạnh sẵn sàng tiếp tục tăng nếu lạm phát chưa hạ nhiệt; tạo áp lực lên tỷ giá, chi phí vốn quốc tế, thanh khoản ngoại tệ."
+      "note": "Cục Dự trữ Liên bang Mỹ nâng lãi suất điều hành từ 3,50-3,75% lên 3,75-4%, lần đầu tăng sau hơn 3 năm. Ngân hàng Nhà nước niêm yết tỷ giá trung tâm 25.632 VND/USD, mức cao nhất từ trước đến nay, tăng 6 đồng; áp lực lên tỷ giá tiếp tục trong giai đoạn nhu cầu ngoại tệ cao cuối năm."
     },
     {
-      "title": "Tỷ giá trung tâm lập đỉnh mới 25.632 đồng/USD",
-      "impact": "↓",
-      "note": "Ngân hàng Nhà nước niêm yết tỷ giá 25.632 đồng/USD (17/9), mức cao nhất từ trước đến nay; tăng 6 đồng so với 16/9; Vietcombank tăng 45 đồng, BIDV tăng 10 đồng; phản ánh sức ép từ Fed tăng lãi suất và tìm kiếm USD của thị trường."
-    },
-    {
-      "title": "Dự án LNG Quỳnh Lập 2,2 tỷ USD triển khai tích cực",
+      "title": "Nâng hạng FTSE Russell: cơ hội hấp dẫn dòng vốn ngoại",
       "impact": "↑",
-      "note": "Liên danh PV Power, NASU và nhà đầu tư Hàn Quốc; Công ty CTCP Điện LNG Quỳnh Lập thành lập 14/9; Báo cáo FS và quy hoạch chi tiết 1/500 dự kiến hoàn thành tháng 10; giải phóng mặt bằng đang triển khai song song, mở ra cơ hội FDI dài hạn."
+      "note": "Thị trường chứng khoán Việt Nam chính thức được nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp theo phân loại FTSE Russell, hiệu lực từ ngày 21/9/2026. Sự kiện mở ra cơ hội hấp dẫn với các quỹ đầu tư quốc tế lớn (Vanguard, BlackRock)."
+    },
+    {
+      "title": "VN-Index phục hồi mạnh, nhóm tài chính dẫn đầu",
+      "impact": "↑",
+      "note": "VN-Index tăng 12,66 điểm (+0,7%) lên 1.822 điểm, độ rộng thị trường 200 mã tăng. Nhóm chứng khoán khởi sắc với VCI tăng 3,9%, SSI tăng 2,92%; nhóm ngân hàng VPB tăng 2,17%, đóng góp gần 1 điểm vào chỉ số. Thanh khoản HSX tăng 27%, phản ánh dòng tiền tự tin."
+    },
+    {
+      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á",
+      "impact": "↑",
+      "note": "Báo cáo Bain & Company, DBS Bank và Vriens & Partners công bố ngày 16/9 dự báo Việt Nam đạt tốc độ tăng trưởng 6,2%/năm trong 10 năm đến 2035, cao nhất trong nhóm 6 nền kinh tế Đông Nam Á lớn, hỗ trợ triển vọng dài hạn của thị trường."
+    },
+    {
+      "title": "Giá dầu Brent hồi phục trên 100 USD/thùng",
+      "impact": "↑",
+      "note": "Giá dầu Brent tăng 75% từ đầu năm 2026, trở lại vùng 107-108 USD/thùng. Nhóm cổ phiếu dầu khí khởi sắc trở lại, hỗ trợ từ giá dầu dù vẫn chưa thoát khỏi trạng thái thị trường gấu so với đỉnh."
+    },
+    {
+      "title": "Meey Global chuẩn bị IPO trên Nasdaq",
+      "impact": "→",
+      "note": "Meey Global Corp nộp công khai hồ sơ đăng ký chứng khoán theo Mẫu F-1 lên SEC để chào bán cổ phiếu lần đầu, dự kiến niêm yết trên Nasdaq Capital Market với mã 'MEEY'. Sự kiện cho thấy sự quan tâm của nhà đầu tư nước ngoài đối với startup công nghệ Việt Nam."
     }
   ]
 }
