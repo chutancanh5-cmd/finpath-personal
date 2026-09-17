@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay nhận được tín hiệu tích cực từ dự báo tăng trưởng 6,2%/năm (cao nhất SEA) và nâng hạng FTSE Russell, song đối diện rủi ro từ giá năng lượng tăng mạnh (dầu Brent 107,6 USD/thùng, khí châu Âu tăng 34%), doanh nghiệp nợ nần (DRH vỡ nợ 506,9 tỷ). Dự án hạ tầng Vingroup mở rộng đường Rừng Sác hỗ trợ bất động sản ngắn hạn, nhưng lạm phát chi phí từ giá dầu cao vẫn là mối lo chính.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán phản ứng tích cực trước quyết định tăng lãi suất 25 điểm phần trăm của FED, thanh khoản tăng vọt 50%. Báo cáo dự báo Việt Nam sẽ dẫn đầu tăng trưởng trong khu vực Đông Nam Á với 6,2%/năm đến 2035. Tuy nhiên, căng thẳng Trung Đông đẩy giá năng lượng tăng cao, trong khi rủi ro tài chính từ DRH Holdings lưu 507 tỷ đồng trái phiếu quá hạn vẫn là mối quan ngại.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng VN, phiên xuyên trưa được nghiên cứu",
+      "title": "Thị trường tăng mạnh sau tin FED tăng lãi suất",
       "impact": "↑",
-      "note": "FTSE Russell nâng Việt Nam lên nhóm mới nổi thứ cấp từ tháng 9/2026, mở rộng cơ hội thu hút dòng vốn quốc tế. Các sở giao dịch quốc tế đang nối rộng giờ giao dịch; Việt Nam cân nhắc phiên xuyên trưa để cạnh tranh."
+      "note": "Mặc dù FED tăng lãi suất 25 điểm phần trăm, thị trường sáng 17/9 phản ứng tích cực với thanh khoản tăng vọt 50%. VN30-Index tăng 0,88%, 26 mã xanh/3 mã đỏ. Kết phiên có 198 mã tăng/102 mã giảm trên sàn chứng khoán."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng 6 nền kinh tế SEA",
+      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố ngày 16/9: Việt Nam dự báo tăng trưởng 6,2%/năm (2026-2035), cao nhất trong khu vực, vượt Philippines (5,8%), Indonesia (5,4%). Được hỗ trợ bởi nhu cầu chip AI, xuất khẩu sản xuất và đầu tư tăng."
+      "note": "Báo cáo của Bain & Company, DBS Bank, Vriens & Partners công bố ngày 16/9 dự báo Việt Nam tăng trưởng 6,2%/năm trong 10 năm đến 2035, cao nhất trong 6 nền kinh tế lớn Đông Nam Á (Philippines 5,8%, Indonesia 5,4%)."
     },
     {
-      "title": "Căng thẳng Trung Đông đẩy giá năng lượng, dầu Brent 107,6 USD/thùng",
+      "title": "Chứng khoán Funan tăng vốn gấp đôi lên 926 tỷ đồng",
+      "impact": "→",
+      "note": "Chứng khoán Funan (FNS) sắp đổi tên thành LIVA (LIVAS), tăng gấp đôi vốn điều lệ lên hơn 926 tỷ đồng. ĐHĐCĐ bất thường dự kiến 27/10 để miễn nhiệm và bầu bổ sung toàn bộ HĐQT, Ban Kiểm soát."
+    },
+    {
+      "title": "Căng thẳng Trung Đông đẩy giá năng lượng lên cao",
+      "impact": "→",
+      "note": "Giá Brent tăng lên 107,6 USD/thùng do gián đoạn đường ống Đông-Tây Saudi Arabia. Giá lưu huỳnh tại Trung Quốc đạt 1.038 USD/tấn, tăng 216% so với cùng kỳ; khí TTF châu Âu tăng lên 82,8 EUR/MWh, tăng 34% so với một tháng trước."
+    },
+    {
+      "title": "DRH Holdings còn 507 tỷ đồng trái phiếu quá hạn",
       "impact": "↓",
-      "note": "Đường ống Đông-Tây Saudi Arabia bị gián đoạn, giá dầu Brent lên 107,6 USD/thùng (15/9); khí TTF châu Âu 82,8 EUR/MWh, tăng 34% so với 1 tháng trước; giá lưu huỳnh tăng 216-269% YoY. Áp lực lạm phát chi phí cho nền kinh tế Việt Nam."
+      "note": "DRH Holdings còn gần 506,9 tỷ đồng trái phiếu chưa trả. Lô DRHH224001 đã quá hạn từ tháng 2/2024, chỉ trả 1,5 tỷ đồng so với 410 tỷ phải thanh toán. Nửa đầu năm công ty tiếp tục lỗ gần 39 tỷ đồng."
     },
     {
-      "title": "Giá dầu lập kỷ lục tại Trung Quốc, chênh lệch Brent 21 USD/thùng",
-      "impact": "↓",
-      "note": "Giá dầu diesel siêu thấp lưu huỳnh tại New York lập kỷ lục 221 USD/thùng; hợp đồng tương lai dầu thô Thượng Hải giao dịch 21 USD/thùng cao hơn Brent. Rủi ro chuỗi cung ứng toàn khu vực do tuyến Biển Đỏ bị xáo trộn."
-    },
-    {
-      "title": "Vingroup mở rộng dự án Rừng Sác thành 10 làn xe, siêu đô thị 10 tỷ USD",
-      "impact": "↑",
-      "note": "UBND TP.HCM giao Công ty CP Đô thị Du lịch Cần Giờ (Vingroup) dự án nâng cấp đường Rừng Sác từ 6 lên 10 làn xe kết nối siêu dự án ven biển. Nút giao đa tầng Bến Lức – Long Thành đang hoàn thiện, hỗ trợ logistics và bất động sản."
-    },
-    {
-      "title": "DRH Holdings vỡ nợ trái phiếu hơn 506,9 tỷ đồng, quá hạn từ 2024",
-      "impact": "↓",
-      "note": "DRH Holdings còn nợ gốc 506,9 tỷ đồng trái phiếu quá hạn; lô DRHH224001 (410 tỷ gốc, quá hạn từ 2/2024) chỉ trả 1,5 tỷ, còn 408,5 tỷ. Công ty lỗ gần 39 tỷ nửa đầu năm. Ảnh hưởng uy tín thị trường trái phiếu doanh nghiệp."
+      "title": "Chứng khoán AIS thay toàn bộ ban lãnh đạo",
+      "impact": "→",
+      "note": "Chứng khoán AIS công bố Phạm Anh Cường và Bùi Thị Huyền nắm tổng cộng 85,15% vốn. Phạm Anh Cường làm Giám đốc điều hành từ 14/9. ĐHĐCĐ bất thường 7/10 sẽ miễn nhiệm toàn bộ 3 HĐQT và 3 BKS hiện tại."
     }
   ]
 }
