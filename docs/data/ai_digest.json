@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam có nhiều tín hiệu tích cực: Việt Nam dẫn đầu tăng trưởng 6,2%/năm trong 6 nền kinh tế Đông Nam Á, dòng tiền ngoại mua ròng 265 tỷ đồng, cổ phiếu ngân hàng SSB bứt phá 48% lên đỉnh lịch sử, ngành chứng khoán tái cấu trúc (Funan tăng vốn gấp đôi lên 926 tỷ). Rủi ro từ Fed tăng lãi suất 0,25% lên 3,75-4% và phát tín hiệu tiếp tục thắt chặt, kéo theo chứng khoán Mỹ giảm, có thể tạo áp lực ngắn hạn. Ngoài ra, rủi ro tín dụng từ DRH Holdings nợ 507 tỷ đồng trái phiếu quá hạn cần chú ý.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Việt Nam được dự báo tăng trưởng 6,2%/năm đến 2035, dẫn đầu Đông Nam Á, với nhu cầu vốn được bổ sung qua phát hành trái phiếu quốc tế 1 tỷ USD lần đầu sau 10 năm và thị trường vốn trong nước hoạt động sôi động (55 ngàn tỷ/tháng 8). Tuy nhiên, Fed vừa tăng lãi suất 0,25 điểm lên 3,75-4% và tín hiệu còn tăng nữa trong năm, tạo áp lực lên thị trường chứng khoán. Rủi ro từ nợ xấu doanh nghiệp như DRH Holdings (506,9 tỷ chưa trả) cần theo dõi.",
   "top": [
     {
       "title": "Việt Nam dẫn đầu tăng trưởng SE Asia 6,2%/năm đến 2035",
@@ -10,9 +10,9 @@
       "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố 16/9 dự báo Việt Nam tăng trưởng bình quân 6,2%/năm trong 10 năm đến 2035, dẫn đầu 6 nền kinh tế Đông Nam Á: Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%. Cao hơn 1,4 điểm phần trăm so với bình quân khu vực 4,8%/năm. Nhân tố tích cực: nhu cầu chip bán dẫn AI, xuất khẩu sản xuất, dòng đầu tư tăng."
     },
     {
-      "title": "Fed tăng lãi suất 0,25% lên 3,75-4%, tín hiệu tiếp tục thắt chặt",
+      "title": "Fed tăng lãi suất 0,25 điểm lên 3,75-4%, tín hiệu tiếp tục thắt chặt",
       "impact": "↓",
-      "note": "FOMC bỏ phiếu 12/0 tăng lãi suất quỹ liên bang 0,25 điểm phần trăm lên 3,75-4% ngày 16/9, lần đầu tăng sau 7/2023. Chủ tịch Fed Kevin Warsh phát tín hiệu sẽ có thêm 1 đợt tăng nữa trong năm 2026, nhấn mạnh lạm phát vẫn cao và chưa đạt tiêu chuẩn giảm. Rủi ro: có thể kéo dòng tiền từ các thị trường mới nổi."
+      "note": "FOMC bỏ phiếu 12/0 tăng lãi suất quỹ liên bang thêm 0,25 điểm phần trăm lên 3,75-4% ngày 16/9, lần đầu tăng sau hơn 3 năm. Chủ tịch Fed Kevin Warsh phát tín hiệu sẽ có thêm 1 đợt tăng nữa trong năm 2026, nhấn mạnh lạm phát vẫn cao và chưa đạt tiêu chuẩn giảm. Rủi ro: có thể kéo dòng tiền từ các thị trường mới nổi."
     },
     {
       "title": "Khối ngoại mua ròng 265 tỷ, tự doanh cũng quay lại mua",
@@ -25,9 +25,9 @@
       "note": "SeABank (SSB) tăng trần 3 phiên liên tiếp, vọt lên 22.350 đồng/cổ phiếu lập vùng đỉnh lịch sử. Tính từ 15.100 đồng (20/8), tích lũy tăng 48% chỉ trong chưa đầy một tháng. Phiên 16/9 ghi nhận 6,2 triệu cổ phiếu khớp lệnh. Khối lượng thỏa thuận từ cuối tháng 8 vượt 167 triệu đơn vị, cho thấy sức mạnh của ngành ngân hàng."
     },
     {
-      "title": "Funan đổi tên LIVA, tăng vốn gấp đôi lên 926 tỷ đồng",
+      "title": "Việt Nam phát hành trái phiếu quốc tế 1 tỷ USD lần đầu sau 10 năm",
       "impact": "↑",
-      "note": "HĐQT Chứng khoán Funan (FNS) 14/9 thông qua đổi tên thành Chứng khoán LIVA (LIVAS), tăng vốn điều lệ gấp đôi lên hơn 926 tỷ đồng. Miễn nhiệm TGĐ Nguyễn Thị Đoan Thùy, bổ nhiệm Huỳnh Minh Tuấn làm TGĐ. ĐHĐCĐ bất thường 27/10 sẽ bầu bổ sung HĐQT, BKS và sửa điều lệ. Tín hiệu tích cực cho tái cấu trúc ngành chứng khoán."
+      "note": "Bộ Tài chính đang cân nhắc phát hành trái phiếu Chính phủ bằng USD kỳ hạn 10 năm, quy mô khoảng 1 tỷ USD. Đây sẽ là lần đầu tiên Việt Nam huy động vốn qua kênh trái phiếu quốc tế sau hơn một thập kỷ (lần gần nhất 2014 với lãi suất coupon 4,8%). Động thái này bổ sung vốn cho nền kinh tế khi hệ thống tài chính trong nước chịu sức ép cân đối giữa huy động và cho vay trung, dài hạn."
     },
     {
       "title": "DRH Holdings nợ 507 tỷ trái phiếu quá hạn, tiếp tục lỗ",
