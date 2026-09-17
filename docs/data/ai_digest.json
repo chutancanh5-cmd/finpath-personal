@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "TTCK VN chính thức được nâng hạng thị trường mới nổi thứ cấp (có hiệu lực 21/9), mở ra cơ hội dòng tiền quốc tế; song Fed tăng lãi suất 0,25 điểm lên 3,75-4% lần đầu kể từ 2023, tạo áp lực lên tỷ giá (lên 25.632 đồng/USD) và dòng vốn ngoại ngắn hạn. Dự báo tăng trưởng 6,2%/năm của VN (cao nhất Đông Nam Á 2026-2035) và dự án LNG Quỳnh Lập 2,2 tỷ USD đang triển khai tích cực hỗ trợ kỳ vọng dài hạn, nhưng khối ngoại bán ròng 395 tỷ đồng phản ánh rủi ro ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "TTCK VN chính thức được nâng hạng lên thị trường mới nổi thứ cấp từ 21/9, sự kiện chiến lược kích thích dòng vốn ngoại dài hạn. Dự báo tăng trưởng 6,2%/năm (cao nhất Đông Nam Á 2026-2035) và dự án LNG Quỳnh Lập 2,2 tỷ USD triển khai tích cực hỗ trợ triển vọng doanh nghiệp. Dòng tiền quay về nhóm tài chính/ngân hàng, VN-Index hồi phục +0,7%. Rủi ro ngắn hạn từ Fed tăng lãi suất 0,25% (lên 3,75-4%) gây áp lực tỷ giá (25.632 đ/USD), nhưng VN sẵn sàng ứng phó.",
   "top": [
     {
-      "title": "TTCK VN nâng hạng thị trường mới nổi thứ cấp",
+      "title": "FTSE Russell nâng hạng VN lên thị trường mới nổi thứ cấp",
       "impact": "↑",
-      "note": "Từ 21/9/2026, Việt Nam được nâng hạng từ thị trường cận biên lên mới nổi thứ cấp theo FTSE Russell; Hội nghị 18/9 thông báo chính thức với các quỹ toàn cầu (Vanguard, BlackRock) tham dự; mở cửa lưu lượng chỉ số và dòng vốn dài hạn."
+      "note": "Chính thức có hiệu lực từ 21/9/2026; Hội nghị 18/9 thông báo với sự tham dự của các quỹ toàn cầu (Vanguard, BlackRock, ngân hàng lưu ký); đây là sự kiện chiến lược kích thích dòng vốn chỉ số và dòng vốn dài hạn vào TTCK VN."
     },
     {
-      "title": "Fed tăng lãi suất 0,25 điểm lên 3,75-4%",
+      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á giai đoạn 2026-2035",
+      "impact": "↑",
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners dự báo VN tăng 6,2%/năm, cao nhất trong nhóm 6 nước (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%); được hỗ trợ bởi nhu cầu chip AI, xuất khẩu sản xuất và đầu tư FDI."
+    },
+    {
+      "title": "VN-Index hồi phục, dòng tiền tập trung nhóm tài chính",
+      "impact": "↑",
+      "note": "VN-Index tăng 12,66 điểm (+0,7%) lên 1.822,77 điểm phiên 17/9; nhóm chứng khoán dẫn đầu (VCI +3,9%, SSI +2,92%), ngân hàng mạnh (VPB +2,17%, CTG +1,78%); thanh khoản HoSE cải thiện rõ rệt, 601,6 triệu cổ phiếu được khớp lệnh."
+    },
+    {
+      "title": "Fed tăng lãi suất 0,25 điểm lên 3,75-4%, áp lực ngắn hạn",
       "impact": "↓",
-      "note": "Fed nâng lãi suất tham chiếu 0,25 điểm lên 3,75-4% (lần đầu kể từ 7/2023); Chủ tịch Kevin Warsh nhấn mạnh sẵn sàng tiếp tục tăng; tạo áp lực lên tỷ giá, chi phí vốn quốc tế và thanh khoản ngoại tệ."
+      "note": "Fed nâng lãi suất tham chiếu 0,25 điểm lên 3,75-4%, lần đầu kể từ 7/2023; Chủ tịch Kevin Warsh nhấn mạnh sẵn sàng tiếp tục tăng nếu lạm phát chưa hạ nhiệt; tạo áp lực lên tỷ giá, chi phí vốn quốc tế, thanh khoản ngoại tệ."
     },
     {
       "title": "Tỷ giá trung tâm lập đỉnh mới 25.632 đồng/USD",
       "impact": "↓",
-      "note": "NHNN niêm yết tỷ giá 25.632 đồng/USD (17/9), mức cao nhất từ trước; tăng 6 đồng so với 16/9; Vietcombank tăng 45 đồng, BIDV tăng 10 đồng; phản ánh sức ép từ Fed tăng lãi suất."
-    },
-    {
-      "title": "VN dẫn đầu tăng trưởng Đông Nam Á 2026-2035",
-      "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo VN tăng 6,2%/năm, cao nhất 6 nước (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%); được hỗ trợ nhu cầu chip AI, xuất khẩu."
+      "note": "Ngân hàng Nhà nước niêm yết tỷ giá 25.632 đồng/USD (17/9), mức cao nhất từ trước đến nay; tăng 6 đồng so với 16/9; Vietcombank tăng 45 đồng, BIDV tăng 10 đồng; phản ánh sức ép từ Fed tăng lãi suất và tìm kiếm USD của thị trường."
     },
     {
       "title": "Dự án LNG Quỳnh Lập 2,2 tỷ USD triển khai tích cực",
       "impact": "↑",
-      "note": "Liên danh PV Power, NASU, nhà đầu tư Hàn Quốc; Công ty CTCP Điện LNG Quỳnh Lập thành lập 14/9; Báo cáo FS và quy hoạch chi tiết 1/500 dự kiến hoàn thành tháng 10; giải phóng mặt bằng đang triển khai."
-    },
-    {
-      "title": "Khối ngoại bán ròng 395 tỷ đồng, xả VHM/VIC",
-      "impact": "↓",
-      "note": "NĐTNN quay đầu bán ròng 395 tỷ đồng 17/9; bán ròng VHM (186 tỷ), VIC (184 tỷ), VIX (160 tỷ) tổng hơn 500 tỷ; mua ròng HDB (143 tỷ), MBB (119 tỷ), FPT (118 tỷ); phản ánh lo ngại từ Fed."
+      "note": "Liên danh PV Power, NASU và nhà đầu tư Hàn Quốc; Công ty CTCP Điện LNG Quỳnh Lập thành lập 14/9; Báo cáo FS và quy hoạch chi tiết 1/500 dự kiến hoàn thành tháng 10; giải phóng mặt bằng đang triển khai song song, mở ra cơ hội FDI dài hạn."
     }
   ]
 }
