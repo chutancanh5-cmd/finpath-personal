@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Fed nâng lãi suất 0,25% lên 3,75-4% (lần đầu trong 3 năm), gây áp lực vàng thế giới giảm xuống 4.265 USD/oz. Thị trường chứng khoán VN vẫn giằng co (VN-Index 1.810 điểm) nhưng khối ngoại duy trì mua ròng tích cực (265 tỷ đồng). Hoạt động doanh nghiệp sôi động: phát hành trái phiếu tháng 8 lập kỷ lục 55 ngàn tỷ đồng, vàng ETF toàn cầu đạt 4.223 tấn. Rủi ro ngắn hạn từ lãi suất cao có thể kìm hãm tăng trưởng và kéo vốn ra khỏi thị trường mới nổi.",
+  "summary_vi": "Việt Nam dự báo tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á nhờ nhu cầu chip AI và xuất khẩu sản xuất, tín hiệu tích cực cho nền kinh tế. Fed tăng lãi suất 0,25% lên 3,75-4% (lần đầu từ 7/2023) tạo áp lực lãi suất toàn cầu và giảm giá vàng. AI vừa là động lực tăng trưởng vừa gây áp lực lạm phát-lãi suất ngắn hạn, đặt Fed trước thách thức vĩ mô. Khối ngoại mua ròng 265 tỷ nhưng VN-Index giữ thái độ thận trọng quanh 1.810 điểm. Rủi ro DRH Holdings với 507 tỷ trái phiếu quá hạn chưa trả cần theo dõi.",
   "top": [
     {
-      "title": "Fed tăng lãi suất 0,25%, vàng thế giới giảm xuống 4.265 USD/oz",
+      "title": "Fed tăng lãi suất 0,25% lên 3,75-4%, vàng giảm 30 USD/oz",
       "impact": "↓",
-      "note": "Fed nâng lãi suất quỹ liên bang lên 3,75-4% (tăng 0,25 điểm phần trăm), được 100% thành viên FOMC ủng hộ, lần đầu tăng kể từ 7/2023. Giá vàng giao ngay giảm 30 USD/oz (-0,7%) xuống 4.265 USD/oz, biên độ dao động phiên này hơn 130 USD/oz."
+      "note": "Fed nâng lãi suất quỹ liên bang lên 3,75-4% (tăng 0,25 điểm phần trăm) ngày 16/9, được 100% thành viên FOMC ủng hộ, lần đầu tăng kể từ tháng 7/2023. Giá vàng giao ngay giảm 30 USD/oz (-0,7%) xuống 4.265 USD/oz, biên độ dao động phiên này hơn 130 USD/oz."
     },
     {
-      "title": "Khối ngoại mua ròng 265 tỷ đồng, tự doanh cũng tích cực",
+      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á 6,2%/năm đến 2035",
       "impact": "↑",
-      "note": "Phiên 16/09, khối ngoại mua 2.747 tỷ đồng, bán 2.482 tỷ đồng, mua ròng 265 tỷ đồng. SBT mua ròng mạnh nhất 231 tỷ, tiếp FPT 119 tỷ, BSR 113 tỷ, MBB 96 tỷ. Tự doanh công ty chứng khoán cũng quay lại mua ròng."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố 16/9 dự báo Việt Nam tăng trưởng bình quân 6,2%/năm đến 2035, cao nhất trong 6 nền kinh tế lớn Đông Nam Á (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%), hưởng lợi từ nhu cầu chip bán dẫn AI, xuất khẩu sản xuất và đầu tư."
     },
     {
-      "title": "Cổ phiếu SeABank SSB tăng 48% trong chưa đầy 1 tháng",
+      "title": "Khối ngoại mua ròng 265 tỷ đồng, SBT mạnh nhất 231 tỷ",
       "impact": "↑",
-      "note": "SSB tăng từ 15.100 đồng (20/8) lên 22.350 đồng/cổ phiếu, xác lập đỉnh lịch sử mới. Phiên 14/9 ghi nhận 38 triệu cổ phiếu thỏa thuận, tổng giá trị ~690 tỷ đồng, 3 phiên tăng trần liên tiếp."
+      "note": "Phiên 16/9, khối ngoại mua 2.747 tỷ đồng, bán 2.482 tỷ đồng, mua ròng 265 tỷ đồng, tiếp tục xu hướng mua tích cực tuần trước. SBT mua ròng mạnh nhất 231 tỷ, sau đó FPT 119 tỷ, BSR 113 tỷ, MBB 96 tỷ. Tự doanh công ty chứng khoán cũng quay lại mua ròng."
     },
     {
-      "title": "Phát hành trái phiếu doanh nghiệp tháng 8 đạt 55 ngàn tỷ đồng, cao nhất từ 2021",
-      "impact": "↑",
-      "note": "46 lô trái phiếu riêng lẻ được phát hành trong tháng 8/2026 với giá trị hơn 55 ngàn tỷ đồng, gấp 2,6 lần tháng 7 và là mức cao nhất trong các tháng 8 kể từ 2021."
+      "title": "AI gây khó cho Fed: vừa tăng trưởng vừa áp lực lạm phát-lãi suất",
+      "impact": "↓",
+      "note": "Thống đốc Fed Michael Barr nhận định AI vừa là động lực tăng trưởng (từ bùng nổ đầu tư kinh doanh liên quan AI) vừa là cú sốc tăng lạm phát-lãi suất cùng thuế quan và xung đột Trung Đông, khiến quá trình đưa lạm phát về mục tiêu trở nên khó khăn hơn."
     },
     {
-      "title": "Quỹ ETF vàng nắm kỷ lục 4.223 tấn, nhu cầu đầu tư toàn cầu tăng",
-      "impact": "↑",
-      "note": "Lượng vàng các quỹ ETF nắm giữ đạt 4.223 tấn (đến 11/9), lập kỷ lục chưa từng có, khoảng nửa từ ETF Bắc Mỹ. Xu hướng 2025-2026 cho thấy vàng ETF tăng cùng giá, phản ánh nhu cầu đầu tư kim loại quý mạnh từ nhà đầu tư tổ chức."
+      "title": "DRH Holdings còn 507 tỷ trái phiếu chưa trả, quá hạn từ 2024",
+      "impact": "↓",
+      "note": "DRH Holdings còn 506,9 tỷ đồng gốc chưa trả từ 2 lô trái phiếu quá hạn (lô DRHH222001 quá hạn 11/9 còn 98,4 tỷ; lô DRHH224001 quá hạn từ 2/2024 còn 408,5 tỷ). Nửa đầu năm 2026 công ty lỗ gần 39 tỷ đồng."
     },
     {
-      "title": "Vingroup được giao mở rộng đường Rừng Sác từ 6 lên 10 làn xe",
-      "impact": "↑",
-      "note": "Tuyến đường Rừng Sác kết nối TP.HCM đến siêu dự án ven biển của Vingroup dự kiến mở rộng từ 6 lên 10 làn xe. TP.HCM giao Công ty CP Đô thị Du lịch Cần Giờ (thành viên Vingroup) nghiên cứu, lập báo cáo đề xuất. Dự án siêu đô thị ước tính 10 tỷ USD."
+      "title": "VN-Index giằng co quanh 1.810, tâm lý thị trường thận trọng",
+      "impact": "→",
+      "note": "Phiên 17/9, VN-Index giằng co trong vùng 1.805-1.817, chốt ở 1.810,11 điểm gần như không đổi so với hôm qua. 11/18 ngành giảm điểm, thanh khoản thấp, nhà đầu tư chờ bứt phá rõ ràng khỏi vùng kháng cự 1.825 điểm với thanh khoản bùng nổ."
     }
   ]
 }
