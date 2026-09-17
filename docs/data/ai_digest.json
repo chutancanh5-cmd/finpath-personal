@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Fed tăng lãi suất 25 điểm lên 3,75-4% và phát tín hiệu sẵn sàng tiếp tục tăng, làm áp lực lên tỷ giá VND/USD lập đỉnh mới 25.632 đ/USD. Khối ngoại bán ròng 395 tỷ đ, chủ yếu vào VHM, VIC, VIX (tổng 530 tỷ đ), phản ánh sự thận trọng trước tỷ giá tăng. Tuy nhiên VN-Index vẫn tăng 12.66 điểm (1.822,77) với thanh khoản tăng 27%, dòng tiền nội địa còn tự tin. Việt Nam dẫn đầu tăng trưởng Đông Nam Á (6,2%/năm), quỹ hưu trí mục tiêu tăng 14,5%/năm, hỗ trợ triển vọng dài hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được những tín hiệu tích cực từ nâng hạng FTSE Russell (từ 21/9) và dự báo tăng trưởng dẫn đầu khu vực (6,2%/năm), song áp lực vĩ mô tăng từ quyết định nâng lãi suất Fed (0,25 điểm lên 3,75-4%) kéo theo tỷ giá lập đỉnh mới. Chính phủ chủ động nới lỏng tín dụng bất động sản cho du lịch và thúc đẩy hợp tác ASEAN-Trung Quốc. IPO của Meey Global lên Nasdaq thể hiện cơ hội cho doanh nghiệp công nghệ Việt Nam.",
   "top": [
     {
-      "title": "Fed tăng lãi suất 25 điểm, tín hiệu tiếp tục tăng",
-      "impact": "↓",
-      "note": "Fed nâng lãi suất thêm 25 điểm cơ bản lên 3,75-4%, lần đầu tăng kể từ tháng 7/2023. Chủ tịch Kevin Warsh cho rằng lạm phát quá cao và phát tín hiệu sẵn sàng tiếp tục tăng nếu lạm phát không hạ bền vững. Tác động: tăng chi phí vốn quốc tế, áp lực lên ngoại tệ các nước mới nổi."
-    },
-    {
-      "title": "Tỷ giá trung tâm lập đỉnh mới 25.632 đ/USD",
-      "impact": "↓",
-      "note": "Ngân hàng Nhà nước niêm yết 25.632 đ/USD ngày 17/9, tăng 6 đ so với 16/9, mức cao nhất từ trước đến nay. Biên độ ±5% là 24.350-26.914 đ/USD. Các ngân hàng thương mại điều chỉnh tăng: Vietcombank +45 đ lên 25.815-26.225 đ; BIDV +10 đ; Techcombank +12 đ."
-    },
-    {
-      "title": "Khối ngoại bán ròng 395 tỷ đồng, blue-chips bị xả",
-      "impact": "↓",
-      "note": "NĐTNN phiên 17/9 bán ròng 395 tỷ đ toàn thị trường. Áp lực chiều bán: VHM 186 tỷ đ, VIC 184 tỷ đ, VIX 160 tỷ đ (tổng 530 tỷ đ). Chiều mua kém: HDB 143 tỷ đ, MBB 119 tỷ đ, FPT 118 tỷ đ. Dòng vốn ngoại rút khỏi cổ phiếu lớn, phản ánh phản ứng trước Fed tăng lãi."
-    },
-    {
-      "title": "VN-Index tăng 12.66 điểm, thanh khoản tăng 27%",
+      "title": "FTSE Russell nâng hạng Việt Nam từ 21/9",
       "impact": "↑",
-      "note": "Phiên 17/9, VN-Index tăng 12.66 điểm lên 1.822,77. HNX-Index +0.68 lên 273.9; UPCoM-Index +0.18 lên 126.16. Thanh khoản HSX tăng 27% lên ~15.200 tỷ đ. Tỷ lệ tăng/giảm 1,75/1, quá nửa thị trường giữ mức cao hoặc thấp hơn 1-2 bước giá, chứng tỏ dòng tiền nội địa tự tin."
+      "note": "Từ ngày 21/9/2026, Việt Nam được nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp theo phân loại FTSE Russell Global Equity Index Series, kỳ vọng tăng dòng vốn ngoại vào thị trường chứng khoán Việt Nam."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng 6 nước Đông Nam Á",
+      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á 6,2%/năm",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company-DBS Bank-Vriens & Partners (16/9) dự báo Việt Nam tăng trưởng bình quân 6,2%/năm giai đoạn 2026-2035, dẫn đầu 6 nước (Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%). Hỗ trợ bởi nhu cầu chip bán dẫn AI, xuất khẩu sản xuất, đầu tư tăng."
+      "note": "Theo báo cáo của Bain & Company, DBS Bank và Vriens & Partners ngày 16/9, Việt Nam được dự báo tăng trưởng bình quân 6,2%/năm trong 10 năm đến 2035, cao hơn Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%) và Thái Lan (2,2%)."
     },
     {
-      "title": "Quỹ hưu trí mục tiêu tăng 14,5% mỗi năm 2026-2030",
+      "title": "Fed nâng lãi suất lên 3,75-4%, có thể tiếp tục tăng",
+      "impact": "↓",
+      "note": "Cục Dự trữ Liên bang Mỹ nâng lãi suất tham chiếu thêm 0,25 điểm cơ bản lên 3,75-4%, lần đầu tiên kể từ tháng 7/2023, kèm tín hiệu tiếp tục thắt chặt nếu lạm phát chưa hạ nhiệt, tạo áp lực lên tỷ giá, chi phí vốn quốc tế và dòng vốn vào Việt Nam."
+    },
+    {
+      "title": "Tỷ giá trung tâm lập đỉnh 25.632 đồng/USD",
+      "impact": "↓",
+      "note": "Ngân hàng Nhà nước niêm yết tỷ giá trung tâm ngày 17/9 ở mức 25.632 đồng/USD (tăng 6 đồng so với hôm qua), mức cao nhất từ trước đến nay, biên độ ±5% cho phép giao dịch 24.350 - 26.914 đồng/USD, tạo áp lực lên chi phí nhập khẩu và lạm phát."
+    },
+    {
+      "title": "Meey Global nộp hồ sơ IPO lên SEC",
       "impact": "↑",
-      "note": "Phó Vụ trưởng Vụ Các định chế tài chính Bộ Tài chính (Phạm Thị Thanh Tâm) công bố mục tiêu quy mô tổng tài sản quỹ hưu trí tăng bình quân 14,5%/năm trong 2026-2030. Quy mô hiện tại: hơn 835.000 tỷ đ (6,5% GDP). Hỗ trợ huy động vốn dài hạn cho hạ tầng, chuyển đổi số, công nghiệp công nghệ cao, năng lượng."
+      "note": "Meey Global Corp (công ty mẹ của Meey Land hoạt động bất động sản số tại Việt Nam) nộp hồ sơ đăng ký chứng khoán theo Mẫu F-1 lên SEC ngày 16/9, dự kiến niêm yết trên Nasdaq Capital Market với mã MEEY, thể hiện cơ hội vốn lớn cho startup công nghệ Việt Nam."
+    },
+    {
+      "title": "NHNN nới lỏng tín dụng du lịch, khách sạn",
+      "impact": "↑",
+      "note": "Ngân hàng Nhà nước điều chỉnh kiểm soát tín dụng bất động sản năm 2026 (Công văn 8509): các tổ chức tín dụng không phải tính dư nợ tăng thêm từ 1/1-31/12/2026 đối với khách sạn, khu du lịch, sinh thái, nghỉ dưỡng vào dư nợ BĐS khi kiểm soát tăng trưởng, hỗ trợ phục hồi du lịch."
     }
   ]
 }
