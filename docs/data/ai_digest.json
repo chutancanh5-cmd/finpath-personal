@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chứng kiến nhiều tín hiệu tích cực khi sắp được nâng hạng FTSE Russell lên thị trường mới nổi thứ cấp từ 21/9, kéo theo cam kết vốn lớn từ Vanguard (10-12 nghìn tỷ USD), BlackRock (15 nghìn tỷ USD) và các quỹ đầu tư toàn cầu. Phiên 17/9 với VN-Index tăng 12,66 điểm và dòng tiền HSX tăng 27% phản ánh tâm lý tích cực của nhà đầu tư. Dự báo tăng trưởng 6,2%/năm tới 2035 xác nhận Việt Nam dẫn đầu Đông Nam Á. Tuy nhiên, Fed tăng lãi suất 0,25% lên 3,75-4% tạo rủi ro về tỷ giá và dòng vốn quốc tế cần quản lý chủ động.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được bước ngoặt lớn với việc chính thức được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp từ 21/9/2026, kéo theo cam kết giải ngân từ Vanguard (~10-12 nghìn tỷ USD AUM) và BlackRock (>15 nghìn tỷ USD AUM). Bên cạnh đó, VN được dự báo tăng trưởng 6,2%/năm tới 2035, cao nhất Đông Nam Á. Tuy nhiên, Fed vừa tăng lãi suất 0,25% lên 3,75-4% tạo áp lực tỷ giá và chi phí vốn quốc tế — yếu tố cần quản lý chủ động.",
   "top": [
     {
-      "title": "TTCK VN nâng hạng FTSE Russell lên EM thứ cấp",
+      "title": "FTSE Russell nâng hạng TTCK VN, Vanguard-BlackRock cam kết vốn",
       "impact": "↑",
-      "note": "Từ 21/9/2026, TTCK Việt Nam chính thức nâng hạng từ frontier sang emerging market thứ cấp theo FTSE Russell, kết thúc 26 năm hoạt động tại hạng thấp hơn. Hội nghị ngày 18/9 tập hợp Vanguard, BlackRock, các quỹ đầu tư quốc tế để công bố sự kiện, mở ra không gian tăng trưởng mới."
+      "note": "Từ 21/9/2026, TTCK Việt Nam chính thức mang trạng thái thị trường mới nổi thứ cấp. Quỹ chỉ số thị trường mới nổi của Vanguard (quản lý khoảng 10-12 nghìn tỷ USD) cam kết giải ngân và thêm cổ phiếu VN vào rổ danh mục. BlackRock (quản lý hơn 15 nghìn tỷ USD) cũng tham dự đoàn khách. Sự kiện mở ra chu kỳ phát triển mới chất lượng hơn cho thị trường."
     },
     {
-      "title": "Vanguard, BlackRock cam kết giải ngân vào cổ phiếu VN",
+      "title": "VN dẫn đầu tăng trưởng ĐNÁ 6,2%/năm tới 2035",
       "impact": "↑",
-      "note": "Quỹ chỉ số thị trường mới nổi của Vanguard (quản lý 10-12 nghìn tỷ USD tài sản) cam kết giải ngân và thêm cổ phiếu Việt Nam từ 21/9/2026. BlackRock (quản lý hơn 15 nghìn tỷ USD) cùng FTSE Russell cam kết hỗ trợ toàn diện TTCK Việt Nam."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners ngày 16/9 dự báo VN tăng trưởng bình quân 6,2%/năm trong 10 năm tới (2026-2035), vượt Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%. Được hỗ trợ bởi nhu cầu chip AI, xuất khẩu sản xuất và đà tăng đầu tư."
     },
     {
-      "title": "VN-Index tăng 12,66 điểm, dòng tiền HSX +27%",
-      "impact": "↑",
-      "note": "VN-Index kết phiên 17/9 tại 1822,77 điểm, tăng 12,66 điểm so với phiên trước. Thanh khoản HSX tăng 27% với tỷ lệ up/down 1,75/1, cho thấy dòng tiền tự tin. Nhóm ngân hàng dẫn dắt: VPB +2,17%, CTG +1,78%."
+      "title": "Fed tăng lãi suất 0,25% lên 3,75-4%, áp lực USD",
+      "impact": "↓",
+      "note": "Ngày 16/9/2026, Fed tăng lãi suất điều hành thêm 0,25 điểm phần trăm lần đầu tiên sau hơn 3 năm, đưa mức mục tiêu lên 3,75-4%, kèm thông điệp để ngỏ khả năng tiếp tục thắt chặt nếu lạm phát chưa hạ. Tạo áp lực lên tỷ giá USD/VND trong giai đoạn nhu cầu ngoại tệ VN bước vào cao điểm cuối năm."
     },
     {
-      "title": "VN tăng trưởng 6,2%/năm tới 2035, cao nhất ĐNÁ",
+      "title": "Dự án LNG Quỳnh Lập 2,2 tỷ USD bắt đầu triển khai",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners ngày 16/9: Việt Nam dự báo tăng trưởng bình quân 6,2%/năm giai đoạn tới 2035, cao hơn Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%."
+      "note": "Nhà máy nhiệt điện LNG Quỳnh Lập (liên danh PV Power, NASU, đối tác Hàn Quốc, tổng vốn ~2,2 tỷ USD) vừa thành lập Công ty Cổ phần Điện LNG Quỳnh Lập ngày 14/9. FS (Feasibility Study) và Quy hoạch chi tiết 1/500 dự kiến hoàn thành tháng 10. Dự án FDI lớn hỗ trợ tăng trưởng dài hạn."
     },
     {
-      "title": "Meey Land chuẩn bị IPO trên Nasdaq",
+      "title": "Meey Global nộp hồ sơ IPO lên SEC, mã MEEY",
       "impact": "↑",
-      "note": "Meey Global Corp nộp hồ sơ F-1 lên SEC Mỹ ngày 16/9, dự kiến IPO trên Nasdaq Capital Market với mã MEEY. Công ty mẹ của Meey Land (bất động sản số, dữ liệu thông minh) tìm cách tiếp cận vốn toàn cầu."
+      "note": "Meey Global Corp (công ty mẹ của Meey Land) thông báo 16/9 nộp công khai hồ sơ đăng ký chứng khoán theo Mẫu F-1 lên SEC Mỹ, dự kiến IPO trên Nasdaq Capital Market với mã giao dịch MEEY. Nền tảng bất động sản số và dữ liệu thông minh tìm tiếp cận vốn toàn cầu."
     },
     {
-      "title": "Fed tăng lãi suất 0,25% lên 3,75-4%",
+      "title": "VN-Index tăng 12,66 điểm, nhóm ngân hàng dẫn dắt",
       "impact": "→",
-      "note": "Fed ngày 16/9 tăng lãi suất lần đầu sau >3 năm, thêm 0,25 điểm lên 3,75-4%. Trong bối cảnh nhu cầu ngoại tệ VN bước vào cao điểm cuối năm, có thể tạo sức ép tỷ giá. Tuy nhiên VN có nền tảng kinh tế tốt, NHNN và Chính phủ có kinh nghiệm quản lý linh hoạt."
+      "note": "Phiên 17/9, VN-Index kết phiên 1.822,77 điểm, tăng 12,66 điểm. Nhóm ngân hàng dẫn dắt với 7/10 cổ phiếu tác động tích cực nhất, trong đó VPB đóng góp 1 điểm, theo sau là CTG, SSB, LPB, BID, HDB, VCB. Nhóm chứng khoán và bất động sản giảm nhiệt so với phiên sáng."
     }
   ]
 }
