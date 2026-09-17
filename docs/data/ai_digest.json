@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tương phản giữa động lực tích cực và rủi ro ngắn hạn: nâng hạng FTSE Russell (tháng 9/2026) kỳ vọng hút 10 tỷ USD dòng vốn ngoại trong 12 tháng, kết hợp với dự báo tăng trưởng 6,2%/năm đến 2035 (cao nhất ASEAN), nhưng áp lực lạm phát từ giá dầu tăng 77% từ đầu năm và gián đoạn chuỗi cung Trung Đông đặt ra thách thức chi phí lớn. Các dự án hạ tầng Vingroup (mở rộng đường Rừng Sác) hỗ trợ bất động sản, nhưng nợ xấu công ty như DRH (507 tỷ chưa trả) đòi sự cẩn trọng.",
+  "summary_vi": "Thị trường có tín hiệu tích cực từ dự báo tăng trưởng dài hạn 6,2%/năm (cao nhất ASEAN) và cơ hội huy động vốn từ DN FDI (nhu cầu vốn 38,5 triệu tỷ đồng giai đoạn 2026-2030), nhưng đối diện áp lực lạm phát/chi phí từ căng thẳng Trung Đông: giá dầu diesel lập kỷ lục 221 USD/thùng, giá khí châu Âu tăng 156% so với cùng kỳ (28 USD/MMBtu). Fed đối mặt bài toán lạm phát mới từ bùng nổ đầu tư AI, trong khi rủi ro nợ công ty (DRH 506,9 tỷ quá hạn) đe dọa thị trường trái phiếu.",
   "top": [
     {
-      "title": "FTSE upgrade: 2,21 tỷ USD từ ETF, tối đa 10 tỷ USD trong 12 tháng",
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN 6,2%/năm đến 2035",
       "impact": "↑",
-      "note": "Sau kỳ rà soát 8/2026, FTSE Russell nâng tỷ trọng VN lên 0,49-0,50% trong FTSE Emerging All Cap Index, phân bổ 2,21 tỷ USD từ các quỹ ETF; VIC hưởng 690 triệu USD (32%), VHM 247 triệu USD (12%), HPG 142 triệu USD. Thomas Nguyen (SSI) dự báo dòng tiền thực tế có thể lên tới 10 tỷ USD."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam tăng 6,2%/năm, cao nhất trong 6 nước: Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%, được hỗ trợ nhu cầu chip AI, xuất khẩu sản xuất và đầu tư."
     },
     {
-      "title": "Việt Nam dẫn đầu ASEAN với tăng trưởng 6,2%/năm",
+      "title": "Phó Chủ tịch UBCKNN: DN FDI chỉ 10 công ty trên sàn, cơ hội IPO lớn",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9/2026) dự báo VN tăng trưởng bình quân 6,2%/năm giai đoạn 2026-2035, cao hơn 1,4 điểm so với bình quân ASEAN 4,8%; vượt Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%."
+      "note": "Nhu cầu vốn nền kinh tế 2026-2030 ước tính 38,5 triệu tỷ đồng (7,7 triệu tỷ đồng/năm); UBCKNN khuyến khích DN FDI có chiến lược dài hạn tiếp cận thị trường chứng khoán huy động vốn qua IPO."
     },
     {
-      "title": "Giá dầu lập kỷ lục 221 USD/thùng, tăng 77% từ đầu năm",
+      "title": "Giá dầu diesel lập kỷ lục 221 USD/thùng, dầu Brent 107,6 USD do gián đoạn Saudi Arabia",
       "impact": "↓",
-      "note": "Dầu diesel siêu thấp lưu huỳnh tại New York lập kỷ lục 221 USD/thùng (Argus) do gián đoạn đường ống Đông-Tây của Saudi Arabia bị tấn công; dầu Brent 108 USD/thùng, chênh lệch tại Thượng Hải 21 USD/thùng so với Brent (mức hiếm thấy), tăng 77% YTD."
+      "note": "Đường ống Đông-Tây Saudi Arabia bị tấn công gây gián đoạn; chênh lệch giá dầu Thượng Hải và Brent 21 USD/thùng (mức hiếm thấy); giá khí TTF châu Âu 82,8 EUR/MWh, tăng 156% so với cùng kỳ (28 USD/MMBtu cao gần 10 lần Henry Hub Mỹ)."
     },
     {
-      "title": "Áp lực lạm phát đẩy cao 4 tháng cuối năm",
-      "impact": "↓",
-      "note": "MBS cảnh báo: giá dầu Brent 107 USD/thùng (đầu 9/2026), xăng dầu nội địa tháng 8 tăng 12,3% tháng 7 (+26% YoY); giá vật liệu xây dựng, thép tăng do nhu cầu công trình; CPI 8 tháng đầu năm 4,45% (so với 3,25% cùng kỳ), áp lực tỷ giá và tín dụng tiếp diễn."
-    },
-    {
-      "title": "Vingroup mở rộng đường Rừng Sác từ 6 lên 10 làn xe",
+      "title": "Giá lưu huỳnh tăng 251-269% do gián đoạn nguồn cung Trung Đông",
       "impact": "↑",
-      "note": "UBND TP.HCM giao Công ty CP Đô thị Du lịch Cần Giờ (thành viên Vingroup) nâng cấp đoạn nối đường 15B và mở rộng đường Rừng Sác từ 6 lên 10 làn xe, kết nối TP.HCM đến siêu dự án ven biển trị giá 10 tỷ USD, hỗ trợ bất động sản/xây dựng."
+      "note": "Giá lưu huỳnh tại Trung Quốc 1.038 USD/tấn (+216% YoY), Trung Đông 1.000 USD/tấn (+251%), Canada 1.025 USD/tấn (+269%); chi phí năng lượng Mỹ tương đối ổn định, cơ hội cho phân bón Việt Nam xuất khẩu cạnh tranh."
     },
     {
-      "title": "DRH Holdings nợ 506,9 tỷ đồng trái phiếu quá hạn",
+      "title": "Vingroup mở rộng đường Rừng Sác từ 6 lên 10 làn xe, kết nối siêu đô thị 10 tỷ USD",
+      "impact": "↑",
+      "note": "UBND TP.HCM giao Công ty CP Đô thị Du lịch Cần Giờ (thành viên Vingroup) nâng cấp mở rộng đường Rừng Sác từ 6 lên 10 làn xe, kết nối TP.HCM đến siêu dự án ven biển trị giá 10 tỷ USD."
+    },
+    {
+      "title": "DRH Holdings nợ 506,9 tỷ đồng trái phiếu quá hạn, lỗ 39 tỷ nửa đầu năm",
       "impact": "↓",
-      "note": "DRH Holdings còn nợ 506,9 tỷ đồng gốc hai lô trái phiếu quá hạn: lô DRHH224001 (phát hành 410 tỷ, lãi 12%/năm, đáo hạn 2/2024) còn 408,5 tỷ chưa trả; lô DRHH222001 (230 tỷ, lãi 11%, quá hạn) còn 98,4 tỷ; nửa đầu năm 2026 lỗ gần 39 tỷ đồng."
+      "note": "Lô DRHH224001 (phát hành 410 tỷ, lãi 12%/năm, đáo hạn 2/2024) còn nợ 408,5 tỷ; lô DRHH222001 (230 tỷ, lãi 11%) còn 98,4 tỷ; nửa đầu 2026 công ty lỗ gần 39 tỷ."
     }
   ]
 }
