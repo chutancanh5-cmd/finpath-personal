@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chịu áp lực từ quyết định tăng lãi suất của Fed (0,25% lên 3,75-4% ngày 16/9), lần đầu tăng hơn 3 năm, với tín hiệu tiếp tục thắt chặt chính sách. Tuy nhiên, triển vọng dài hạn Việt Nam vẫn mạnh với dự báo 6,2%/năm dẫn đầu Đông Nam Á, dòng vốn ngoại duy trì tích cực (mua ròng 265 tỷ), và nhu cầu vàng toàn cầu vẫn tăng vọt.",
+  "summary_vi": "Thị trường tài chính Việt Nam nhận tín hiệu hỗn hợp: huy động vốn ngoại qua phát hành trái phiếu quốc tế 1 tỷ USD (lần đầu sau 10+ năm) và dự báo tăng trưởng 6,2%/năm dẫn đầu SE Asia tạo yếu tố tích cực. Fed tăng lãi suất 0,25% lên 3,75-4% với tín hiệu tiếp tục thắt chặt, chứng khoán Mỹ giảm do lo ngại lạm phát cao kéo dài, tạo áp lực lên các thị trường mới nổi. Phát hành trái phiếu doanh nghiệp tháng 8 đạt 55 nghìn tỷ đồng cao nhất từ 2021 cho thấy nhu cầu vốn mạnh, nhưng rủi ro tín dụng nổi lên qua DRH Holdings nợ 507 tỷ đồng trái phiếu quá hạn.",
   "top": [
+    {
+      "title": "Việt Nam phát hành trái phiếu quốc tế 1 tỷ USD lần đầu hơn 10 năm",
+      "impact": "↑",
+      "note": "Phát hành trái phiếu chính phủ USD kỳ hạn 10 năm, quy mô khoảng 1 tỷ USD (lần đầu kể từ 2014), bổ sung nguồn lực cho nền kinh tế trong bối cảnh hệ thống tài chính trong nước chịu áp lực cân đối huy động và cho vay trung, dài hạn."
+    },
+    {
+      "title": "Việt Nam dẫn đầu tăng trưởng SE Asia 6,2%/năm đến 2035",
+      "impact": "↑",
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố 16/9 dự báo Việt Nam 6,2%/năm, cao hơn 1,4 điểm phần trăm so với bình quân khu vực 4,8%/năm, vượt Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%), Thái Lan (2,2%). Nhân tố: nhu cầu chip bán dẫn AI, xuất khẩu sản xuất, đầu tư liên tiếp."
+    },
     {
       "title": "Fed tăng lãi suất 0,25% lên 3,75-4%, phát tín hiệu tiếp tục thắt chặt",
       "impact": "↓",
-      "note": "Ủy ban FOMC bỏ phiếu 12/0 tăng lãi suất quỹ liên bang thêm 0,25 điểm phần trăm lên 3,75-4% ngày 16/9, lần đầu kể từ 7/2023. Chủ tịch Warsh nhấn mạnh lạm phát vẫn ở mức quá cao, khả năng có thêm một đợt tăng trong năm. Động thái làm Dow Jones giảm 1,21%, S&P 500 giảm 0,45%."
+      "note": "FOMC bỏ phiếu 12/0 tăng lãi suất quỹ liên bang 0,25 điểm phần trăm lên 3,75-4% ngày 16/9, lần đầu sau 7/2023, phát tín hiệu có thêm 1 đợt tăng nữa trong năm. Chủ tịch Warsh nhấn mạnh lạm phát quá cao, chưa có tiêu chuẩn đáp ứng yêu cầu giảm rủi ro."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á 6,2%/năm đến 2035",
+      "title": "Phát hành trái phiếu doanh nghiệp tháng 8 đạt 55 nghìn tỷ đồng cao nhất 2021",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners công bố 16/9 dự báo Việt Nam 6,2%/năm, cao hơn 1,4 điểm phần trăm so với bình quân khu vực 4,8%/năm, vượt Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%), Thái Lan (2,2%). Nhân tố chính: nhu cầu chip bán dẫn AI, xuất khẩu sản xuất, đầu tư FDI."
+      "note": "HNX ghi nhận 46 lô được phát hành trong tháng 8/2026, giá trị hơn 55 nghìn tỷ đồng, gấp gần 2,6 lần tháng 7 và trở thành mức cao nhất trong các tháng 8 kể từ 2021, phản ánh nhu cầu huy động vốn từ doanh nghiệp mạnh."
     },
     {
-      "title": "Khối ngoại mua ròng 265 tỷ đồng, tự doanh cũng quay lại mua",
-      "impact": "↑",
-      "note": "Phiên 16/9, nhà đầu tư nước ngoài mua 2.747 tỷ, bán 2.482 tỷ, mua ròng 265 tỷ đồng. Khối tự doanh công ty chứng khoán quay lại mua ròng. Riêng cổ phiếu: SBT mua ròng 231 tỷ, FPT 119 tỷ, BSR 113 tỷ, MBB 96 tỷ, MCH 95 tỷ. Dòng vốn thông minh duy trì trạng thái tích cực."
-    },
-    {
-      "title": "Các quỹ ETF nắm giữ vàng kỷ lục 4.223 tấn",
-      "impact": "↑",
-      "note": "Đến 11/9, lượng vàng trong các quỹ ETF toàn cầu đạt 4.223 tấn, lập kỷ lục lịch sử, khoảng nửa tại Bắc Mỹ. Phản ánh nhu cầu đầu tư vàng tăng rõ rệt, khác biệt với giai đoạn 2022-2024 khi giá tăng nhưng lượng tích lũy giảm. Giá vàng miếng trong nước tăng 600 nghìn đồng/lượng phiên 16/9."
-    },
-    {
-      "title": "AI đặt Fed vào tình thế khó xử ngắn hạn",
+      "title": "Chứng khoán Mỹ giảm sau tín hiệu thắt chặt của Fed",
       "impact": "↓",
-      "note": "Bùng nổ đầu tư AI vào chip, trung tâm dữ liệu, điện năng làm tăng lạm phát hiện tại. Mặc dù AI dự báo giảm lạm phát dài hạn, nó tạo nghịch lý: áp lực tăng giá ngắn hạn khiến bài toán lãi suất phức tạp hơn, có thể buộc Fed tăng lãi suất mạnh hơn dự kiến."
+      "note": "Dow Jones mất 631,21 điểm (-1,21%, còn 51.461,9 điểm), S&P 500 giảm 0,45% (7.551,81 điểm), Nasdaq trượt 0,01% (25.978,42 điểm). Nhà đầu tư lo rằng Fed vẫn phản ứng chậm với lạm phát, có thể buộc tăng lãi suất mạnh hơn về sau."
     },
     {
       "title": "DRH Holdings còn 507 tỷ đồng trái phiếu quá hạn chưa trả",
       "impact": "↓",
-      "note": "Hai lô trái phiếu DRH đều quá hạn: DRHH222001 còn nợ 98,4 tỷ đồng gốc (30 tỷ lãi), DRHH224001 còn nợ 408,5 tỷ đồng gốc (đã quá hạn từ 2/2024). Nửa đầu năm công ty lỗ 39 tỷ, gây rủi ro cho nhà đầu tư trái phiếu doanh nghiệp."
+      "note": "Hai lô trái phiếu DRH quá hạn: DRHH222001 còn nợ 98,4 tỷ đồng gốc, DRHH224001 còn nợ 408,5 tỷ đồng gốc (đã quá hạn từ tháng 2/2024, lãi suất 12%/năm). Công ty tiếp tục lỗ 39 tỷ nửa đầu năm, gây rủi ro cho nhà đầu tư trái phiếu doanh nghiệp."
     }
   ]
 }
