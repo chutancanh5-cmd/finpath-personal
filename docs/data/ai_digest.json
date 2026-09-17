@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-17",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được những tín hiệu tích cực từ nâng hạng FTSE Russell (từ 21/9) và dự báo tăng trưởng dẫn đầu khu vực (6,2%/năm), song áp lực vĩ mô tăng từ quyết định nâng lãi suất Fed (0,25 điểm lên 3,75-4%) kéo theo tỷ giá lập đỉnh mới. Chính phủ chủ động nới lỏng tín dụng bất động sản cho du lịch và thúc đẩy hợp tác ASEAN-Trung Quốc. IPO của Meey Global lên Nasdaq thể hiện cơ hội cho doanh nghiệp công nghệ Việt Nam.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được tín hiệu tích cực từ nâng hạng FTSE Russell (từ 21/9) và dự báo tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á đến 2035, tạo nền tảng cho vốn ngoại dài hạn. Tuy nhiên, áp lực vĩ mô tăng từ Fed nâng lãi suất 0,25 điểm lên 3,75-4%, kéo theo tỷ giá VND/USD lập đỉnh mới (25.632), nhà đầu tư ngoại bán ròng 395 tỷ đồng và rút khỏi những cổ phiếu vốn hóa lớn. Chính phủ thực hiện các biện pháp hỗ trợ như nới tín dụng du lịch và thúc đẩy hợp tác ASEAN-Trung Quốc.",
   "top": [
     {
       "title": "FTSE Russell nâng hạng Việt Nam từ 21/9",
       "impact": "↑",
-      "note": "Từ ngày 21/9/2026, Việt Nam được nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp theo phân loại FTSE Russell Global Equity Index Series, kỳ vọng tăng dòng vốn ngoại vào thị trường chứng khoán Việt Nam."
+      "note": "Từ ngày 21/9/2026, Việt Nam được nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp theo phân loại FTSE Russell Global Equity Index Series, kỳ vọng sẽ mở ra dòng vốn ngoại lớn từ các quỹ đầu tư toàn cầu (Vanguard, BlackRock, etc)."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng Đông Nam Á 6,2%/năm",
+      "title": "Việt Nam tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á",
       "impact": "↑",
-      "note": "Theo báo cáo của Bain & Company, DBS Bank và Vriens & Partners ngày 16/9, Việt Nam được dự báo tăng trưởng bình quân 6,2%/năm trong 10 năm đến 2035, cao hơn Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%) và Thái Lan (2,2%)."
+      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam tăng trưởng bình quân 6,2%/năm đến 2035, cao hơn Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%, được hỗ trợ bởi nhu cầu chip bán dẫn AI và xuất khẩu sản xuất."
     },
     {
-      "title": "Fed nâng lãi suất lên 3,75-4%, có thể tiếp tục tăng",
+      "title": "Fed tăng lãi suất lên 3,75-4%",
       "impact": "↓",
-      "note": "Cục Dự trữ Liên bang Mỹ nâng lãi suất tham chiếu thêm 0,25 điểm cơ bản lên 3,75-4%, lần đầu tiên kể từ tháng 7/2023, kèm tín hiệu tiếp tục thắt chặt nếu lạm phát chưa hạ nhiệt, tạo áp lực lên tỷ giá, chi phí vốn quốc tế và dòng vốn vào Việt Nam."
+      "note": "Cục Dự trữ Liên bang Mỹ (Fed) nâng lãi suất tham chiếu thêm 0,25 điểm cơ bản lên 3,75-4% (lần đầu kể từ tháng 7/2023), kèm thông điệp tiếp tục tăng nếu lạm phát chưa hạ nhiệt, tạo áp lực lên tỷ giá VND, chi phí vốn quốc tế và thanh khoản ngoại tệ."
     },
     {
-      "title": "Tỷ giá trung tâm lập đỉnh 25.632 đồng/USD",
+      "title": "Tỷ giá VND/USD lập đỉnh mới 25.632",
       "impact": "↓",
-      "note": "Ngân hàng Nhà nước niêm yết tỷ giá trung tâm ngày 17/9 ở mức 25.632 đồng/USD (tăng 6 đồng so với hôm qua), mức cao nhất từ trước đến nay, biên độ ±5% cho phép giao dịch 24.350 - 26.914 đồng/USD, tạo áp lực lên chi phí nhập khẩu và lạm phát."
+      "note": "Ngân hàng Nhà nước niêm yết tỷ giá trung tâm ngày 17/9 ở mức 25.632 đồng/USD (tăng 6 đồng), mức cao nhất từ trước đến nay; biên độ ±5% cho phép giao dịch 24.350-26.914 đồng/USD, phản ánh áp lực từ quyết định tăng lãi suất Fed."
     },
     {
-      "title": "Meey Global nộp hồ sơ IPO lên SEC",
-      "impact": "↑",
-      "note": "Meey Global Corp (công ty mẹ của Meey Land hoạt động bất động sản số tại Việt Nam) nộp hồ sơ đăng ký chứng khoán theo Mẫu F-1 lên SEC ngày 16/9, dự kiến niêm yết trên Nasdaq Capital Market với mã MEEY, thể hiện cơ hội vốn lớn cho startup công nghệ Việt Nam."
+      "title": "Nhà đầu tư ngoại bán ròng 395 tỷ đồng",
+      "impact": "↓",
+      "note": "Khối ngoại quay đầu bán ròng 395 tỷ đồng, xả VHM (186 tỷ), VIC (184 tỷ), VIX (160 tỷ) tổng 500+ tỷ; mua HDB (143 tỷ), MBB (119 tỷ), FPT (118 tỷ), thể hiện dòng vốn chuyển từ bất động sản sang ngân hàng."
     },
     {
-      "title": "NHNN nới lỏng tín dụng du lịch, khách sạn",
+      "title": "Quỹ hưu trí tăng 14,5%/năm giai đoạn 2026-2030",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước điều chỉnh kiểm soát tín dụng bất động sản năm 2026 (Công văn 8509): các tổ chức tín dụng không phải tính dư nợ tăng thêm từ 1/1-31/12/2026 đối với khách sạn, khu du lịch, sinh thái, nghỉ dưỡng vào dư nợ BĐS khi kiểm soát tăng trưởng, hỗ trợ phục hồi du lịch."
+      "note": "Bộ Tài chính đặt mục tiêu quy mô tổng tài sản quỹ hưu trí bổ sung tăng bình quân 14,5%/năm trong 2026-2030, nhằm huy động vốn dài hạn cho hạ tầng, chuyển đổi số, công nghiệp công nghệ cao, chuyển đổi năng lượng."
     }
   ]
 }
