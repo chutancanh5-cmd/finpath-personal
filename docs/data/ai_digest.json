@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-18",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam sắp được nâng hạng lên nhóm mới nổi thứ cấp (21/9) hỗ trợ dòng vốn quốc tế khoảng 240 triệu USD trong tuần đầu. Tín dụng tiếp tục được nới lỏng mạnh với dư nợ 20,5 triệu tỷ đồng (+10,24%). Tuy nhiên, Fed tăng lãi suất 0,25% (lần đầu từ 2023) tạo áp lực lên đồng USD và chi phí vốn quốc tế. Giá vàng lập đỉnh cao tuần phản ánh lo ngại lạm phát. Ngắn hạn cần quan sát chất lượng doanh nghiệp và biến động tỷ giá.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Fed tăng lãi suất lần đầu kể từ 2023 tạo áp lực tỷ giá và chi phí vốn quốc tế; đối lập lại, tín dụng trong nước tăng mạnh 10,24% sau 8 tháng (1,9 triệu tỷ đồng), hỗ trợ tăng trưởng. Nâng hạng thị trường là cơ hội thu hút vốn ngoài nước, cùng kỳ vọng từ IPO Meey Global. Rủi ro ngắn hạn từ sức ép ngoại tệ và vấn đề thanh khoản ở một số doanh nghiệp lớn cần theo dõi.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng TTCK VN ngày 21/9",
-      "impact": "↑",
-      "note": "FTSE Russell chính thức nâng hạng thị trường chứng khoán Việt Nam từ cận biên lên nhóm mới nổi thứ cấp vào ngày 21/9/2026, kỳ vọng dòng tiền nước ngoài giải ngân ~240 triệu USD trong tuần đầu, mở rộng kênh tiếp cận vốn quốc tế cho doanh nghiệp VN."
-    },
-    {
-      "title": "Fed tăng lãi suất 0,25% lần đầu từ 2023",
+      "title": "Fed tăng lãi suất 0,25 điểm phần trăm",
       "impact": "↓",
-      "note": "Ngân hàng Dự trữ Liên bang Mỹ ngày 16/9/2026 tăng lãi suất thêm 0,25 điểm %, nâng mức lãi suất mục tiêu lên 3,75%-4%, gửi tín hiệu sẽ tiếp tục tăng nếu lạm phát chưa hạ, tạo áp lực lên đồng USD mạnh lên và chi phí vốn quốc tế, ảnh hưởng dòng vốn tại nền kinh tế mở như Việt Nam."
+      "note": "Fed nâng lãi suất mục tiêu lên 3,75%-4% vào 16/9, lần đầu tiên kể từ năm 2023, và tín hiệu có thể tăng tiếp. Tăng chi phí vốn quốc tế, áp lực lên dòng vốn, tỷ giá và thanh khoản cho các nền kinh tế mới nổi như Việt Nam."
     },
     {
-      "title": "NHNN nới lỏng tín dụng, tăng trưởng vượt mốc 10%",
+      "title": "Tín dụng toàn hệ thống tăng 10,24% sau 8 tháng",
       "impact": "↑",
-      "note": "Dư nợ tín dụng toàn hệ thống đạt 20,5 triệu tỷ đồng vào cuối tháng 8/2026, tăng 10,24% so với cuối năm 2025, tổng cộng tăng hơn 1,9 triệu tỷ đồng từ đầu năm. NHNN liên tiếp điều chỉnh theo hướng mở rộng dư địa tín dụng, tạo điều kiện dòng vốn ngân hàng chảy vào các lĩnh vực sản xuất kinh doanh và các động lực tăng trưởng."
+      "note": "Dư nợ tín dụng đạt khoảng 20,5 triệu tỷ đồng vào cuối tháng 8/2026 (tăng 1,9 triệu tỷ đồng so với cuối năm 2025), hỗ trợ các lĩnh vực sản xuất, kinh doanh (77,3% dư nợ). Tạo điều kiện doanh nghiệp huy động vốn cho đầu tư và tăng trưởng."
     },
     {
-      "title": "Giá vàng lập đỉnh cao trong tuần, SJC 144-147 triệu đồng/lượng",
+      "title": "Nâng hạng thị trường vốn Việt Nam",
       "impact": "↑",
-      "note": "Giá vàng trong nước tăng 1,2-1,5 triệu đồng/lượng trong tuần 18/9, SJC niêm yết mua/bán ở 144/147 triệu đồng/lượng, áp sát ngưỡng đỉnh cao nhất từng ghi nhận. Giá vàng thế giới tiến sát 4.350 USD/ounce phản ánh lo ngại lạm phát toàn cầu và bất ổn địa chính trị."
-    },
-    {
-      "title": "Phạt 10 doanh nghiệp 1,3 tỷ đồng vì vi phạm trái phiếu",
-      "impact": "↓",
-      "note": "Thanh tra Chứng khoán Nhà nước phạt 10 doanh nghiệp tổng cộng 1,33 tỷ đồng (14-15/9), trong đó 8 vụ liên quan chào bán hoặc công bố thông tin trái phiếu. Cao nhất là 350 triệu đồng với DN dự kiến phát hành 1.500 tỷ đồng trái phiếu khi tỷ lệ nợ/vốn chủ đã lên 7,07 lần, cảnh báo rủi ro chất lượng doanh nghiệp."
+      "note": "Phó Chủ tịch UBCKNN khẳng định nâng hạng là bước khởi đầu, cần tiếp tục mở rộng quy mô và chất lượng. Kỳ vọng thị trường minh bạch, hiệu quả sẽ thu hút thêm dòng vốn trong và ngoài nước."
     },
     {
       "title": "Meey Global nộp hồ sơ IPO lên SEC",
       "impact": "↑",
-      "note": "Meey Global Corp (công ty mẹ Meey Land) nộp công khai hồ sơ đăng ký chứng khoán Mẫu F-1 lên SEC ngày 16/9/2026, dự kiến niêm yết trên Nasdaq Capital Market với mã 'MEEY', mở rộng kênh tiếp cận vốn quốc tế cho doanh nghiệp bất động sản số Việt Nam."
+      "note": "Meey Global Corp (công ty mẹ của Meey Land) nộp hồ sơ chào bán cổ phiếu lần đầu ra công chúng theo Mẫu F-1 ngày 16/9/2026, dự kiến niêm yết trên Nasdaq Capital Market với mã MEEY. Tín hiệu tích cực cho FDI và cấp vốn cho bất động sản công nghệ."
+    },
+    {
+      "title": "Bamboo Capital (BCG) gặp khó về dòng tiền và thanh khoản",
+      "impact": "↓",
+      "note": "ĐHĐCĐ bất thường hôm 17/9 ghi nhận hàng chục câu hỏi về cổ phiếu, dòng tiền và nguy cơ phá sản. Mặc dù TGĐ bác bỏ khả năng giải thể, việc mất tư cách công ty đại chúng ảnh hưởng tới niềm tin thị trường và khả năng tiếp cận vốn."
+    },
+    {
+      "title": "Thanh tra Chứng khoán phạt 10 doanh nghiệp 1,33 tỷ đồng",
+      "impact": "→",
+      "note": "8 trong 10 vụ liên quan chào bán trái phiếu, mức phạt cao nhất 350 triệu đồng cho công ty dự định phát hành 1.500 tỷ đồng trái phiếu khi tỷ lệ nợ đã lên 7,07 lần vốn chủ. Tăng cường kỷ luật, bảo vệ nhà đầu tư khỏi doanh nghiệp có tình trạng tài chính yếu."
     }
   ]
 }
