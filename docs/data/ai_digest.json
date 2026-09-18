@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-18",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay rung lắc trong bối cảnh Fed tăng lãi suất 0,25% lần đầu tiên sau 3 năm, tạo áp lực tỷ giá và dòng vốn. Tuy nhiên, các yếu tố tích cực như dự báo tăng trưởng 6,2%/năm dẫn đầu Đông Nam Á, gần 200 triệu USD chờ đổ vào, và các chính sách nới lỏng tín dụng đang giữ cân bằng. Nhà đầu tư cần theo dõi sát áp lực ngoại tệ cuối năm song kỳ vọng tăng trưởng lâu dài vẫn lạc quan.",
+  "summary_vi": "Fed tăng lãi suất 0,25% lên 3,75%-4% (lần đầu sau 3 năm) tạo áp lực lên đồng USD và dòng vốn thị trường mới nổi, song chứng khoán Mỹ hồi phục mạnh giảm lo lắng lây nhiễm. Việt Nam được dự báo dẫn đầu SEA với tăng trưởng 6,2%/năm đến 2035, kèm theo chính sách hỗ trợ mở rộng tín dụng bất động sản và dự kiến vẫn có gần 200 triệu USD chảy vào thị trường trong tháng này.",
   "top": [
     {
-      "title": "Fed tăng lãi suất 0,25% lên 3,75%-4%",
+      "title": "Fed tăng lãi suất lần đầu sau 3 năm, áp lực lên dòng vốn EM",
       "impact": "↓",
-      "note": "Ngày 16/9/2026, Fed tăng lãi suất điều hành 0,25 điểm phần trăm lần đầu tiên sau 3 năm, đưa mức mục tiêu lên 3,75%-4%. Lợi suất trái phiếu kho bạc Mỹ 10 năm vượt 5%, tạo áp lực lên các nền kinh tế mới nổi qua tỷ giá, dòng vốn và chi phí vốn."
+      "note": "Ngày 16/9/2026, Fed tăng lãi suất điều hành 0,25 điểm phần trăm lên 3,75%-4%, lần đầu tiên kể từ tháng 7/2023. Chủ tịch Kevin Warsh phát tín hiệu Fed có thể tăng thêm một lần nữa năm nay nếu lạm phát chưa hạ nhiệt, khiến đồng USD mạnh lên vượt 100 DXY, tạo áp lực lên tỷ giá và dòng vốn quốc tế tại các nền kinh tế mới nổi như Việt Nam."
     },
     {
       "title": "Việt Nam dẫn đầu tăng trưởng 6,2%/năm ở Đông Nam Á",
       "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank, Vriens & Partners (16/9) dự báo Việt Nam tăng trưởng 6,2%/năm trong 10 năm tới (đến 2035), cao nhất trong 6 nền kinh tế lớn Đông Nam Á, vượt Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%), Thái Lan (2,2%)."
-    },
-    {
-      "title": "Gần 200 triệu USD chờ đổ vào chứng khoán Việt Nam tháng 9",
-      "impact": "↑",
-      "note": "Mặc dù lãi suất USD cao tạo áp lực tỷ giá, dòng vốn quốc tế vẫn chờ đổ vào thị trường chứng khoán Việt Nam trong tháng này. Lãi suất USD cao gia tăng sức hấp dẫn của tài sản định giá bằng USD, song nhà đầu tư vẫn nhắm vào cơ hội tăng trưởng ở các nền kinh tế mới nổi."
+      "note": "Báo cáo của Bain & Company, DBS Bank và Vriens & Partners ngày 16/9 dự báo Việt Nam đạt tốc độ tăng trưởng bình quân 6,2% mỗi năm trong 10 năm tới (đến 2035), cao nhất trong 6 nền kinh tế lớn Đông Nam Á, vượt Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%), Thái Lan (2,2%)."
     },
     {
       "title": "Du lịch, nhà hàng, khách sạn loại trừ khỏi hạn mức tín dụng BĐS 2026",
       "impact": "↑",
-      "note": "Ngày 16/9, NHNN ban hành công văn 8509/NHNN-CSTT cho phép 25 tổ chức tín dụng (VietinBank, Agribank, BIDV, MSB, SACOMBANK, Eximbank, v.v.) không tính dư nợ cho nhà hàng, khách sạn, khu du lịch vào hạn mức tín dụng bất động sản, tạo dư địa cấp tín dụng cho các lĩnh vực này từ 1/1/2026 đến 31/12/2026."
+      "note": "Ngày 16/9, NHNN ban hành công văn 8509/NHNN-CSTT cho phép 25 tổ chức tín dụng không tính dư nợ cho nhà hàng, khách sạn, khu du lịch, sinh thái, nghỉ dưỡng vào hạn mức tín dụng bất động sản, tạo dư địa cấp tín dụng thêm từ 1/1/2026 đến 31/12/2026 cho các ngân hàng gồm VietinBank, Agribank, BIDV, MSB, SACOMBANK, Eximbank và các ngân hàng khác."
     },
     {
-      "title": "SSI tăng vốn điều lệ lên 30.032,94 tỷ đồng",
+      "title": "Gần 200 triệu USD chờ đổ vào chứng khoán Việt Nam tháng 9",
       "impact": "↑",
-      "note": "Ngày 17/9, HĐQT SSI phê duyệt tăng vốn điều lệ từ 25.030,89 tỷ đồng lên 30.032,94 tỷ đồng (tăng 5.002 tỷ đồng, tương ứng 20%), từ phát hành 500.204.581 cổ phiếu. Ông Nguyễn Hồng Nam (thành viên HĐQT) cũng mua thêm 5 triệu cổ phiếu, nâng sở hữu lên 17,43 triệu cổ phiếu."
+      "note": "Mặc dù lãi suất USD cao tạo áp lực tỷ giá, các phân tích chứng khoán dự kiến gần 200 triệu USD chảy vào thị trường chứng khoán Việt Nam trong tháng 9/2026, cho thấy nhà đầu tư vẫn chủ động giải ngân bắt cơ hội tăng trưởng tại các nền kinh tế mới nổi."
     },
     {
-      "title": "Lãi suất vay thế chấp nhà Mỹ tăng lên 6,97%",
-      "impact": "↓",
-      "note": "Ngày 16/9, theo Hiệp hội Ngân hàng cho vay thế chấp nhà (MBA), lãi suất vay thế chấp nhà Mỹ kỳ hạn 30 năm tăng 12 điểm cơ bản lên 6,97%, cao nhất kể từ tháng 5/2025. Mốc 7% được dự báo sẽ khiến người mua nhà Mỹ chùn bước, suy yếu nhu cầu bất động sản."
+      "title": "Chứng khoán Mỹ phục hồi mạnh, S&P 500 tăng 1,14%, Nasdaq tăng 1,69%",
+      "impact": "↑",
+      "note": "Phiên 17/9, chứng khoán Mỹ hồi phục sau 3 phiên giảm liên tiếp, với Dow Jones tăng 316,14 điểm (+0,61%) lên 51.778,04 điểm, S&P 500 tăng 1,14% lên 7.637,76 điểm, Nasdaq tăng 1,69% lên 26.418,3 điểm, khi lợi suất trái phiếu Mỹ sụt giảm và giá dầu thô xuống thang, giải tỏa tâm lý thận trọng và giảm lo lắng về lây nhiễm sang thị trường mới nổi."
+    },
+    {
+      "title": "Dự án nhiệt điện LNG Quỳnh Lập 2,2 tỷ USD tiến độ tích cực",
+      "impact": "↑",
+      "note": "Sau 4 tháng khởi công, dự án nhà máy nhiệt điện LNG Quỳnh Lập (Nghệ An) trị giá gần 2,2 tỷ USD do liên danh PV Power, NASU và nhà đầu tư Hàn Quốc thực hiện đang có tiến độ tích cực. Liên danh đã thành lập Công ty Cổ phần Điện LNG Quỳnh Lập (đăng ký 14/9), báo cáo khả thi và quy hoạch chi tiết dự kiến hoàn thành tháng 10, thúc đẩy dự án đầu tư lớn hỗ trợ tăng trưởng kinh tế."
     }
   ]
 }
