@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-18",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đón nhận tín hiệu tích cực từ chứng khoán Mỹ hồi phục mạnh và các chính sách hỗ trợ nội bộ, nhưng phải đối mặt áp lực ngắn hạn từ Fed tăng lãi suất 0,25%. Việt Nam dẫn đầu tăng trưởng Đông Nam Á (6,2%/năm), NHNN mở rộng tín dụng bất động sản cho 25 ngân hàng, các dự án đầu tư lớn đang triển khai. Rủi ro tỷ giá và dòng vốn quốc tế cần theo dõi sát sao trong bối cảnh nhu cầu ngoại tệ cao điểm cuối năm.",
+  "summary_vi": "Fed tăng lãi suất 0,25% (lần đầu sau 3 năm) tạo áp lực lãi suất và ngoại tệ toàn cầu; tuy nhiên nhà đầu tư trong nước Việt Nam đang dần trở thành lực định giá chính khi khối ngoại bán ròng 11,4 tỷ USD trong 2 năm nhưng VN-Index vẫn tăng 35,2% trong 1 năm qua. NHNN mở rộng dư địa tín dụng cho du lịch, nhà hàng, khách sạn giúp hỗ trợ tăng trưởng. Rủi ro từ căng thẳng địa chính trị (Trung Quốc giảm trái phiếu kho bạc Mỹ) và chênh lệch chính sách lãi suất giữa các ngân hàng trung ương.",
   "top": [
     {
-      "title": "Fed tăng lãi suất 0,25% lần đầu sau 3 năm",
+      "title": "Fed tăng lãi suất 0,25%, tín hiệu tiếp tục thắt chặt",
       "impact": "↓",
-      "note": "Ngày 16/9/2026, Fed tăng lãi suất điều hành 0,25 điểm phần trăm lên 3,75%-4%, lần đầu tiên kể từ tháng 7/2023. Phát tín hiệu có thể tăng thêm nếu lạm phát chưa hạ nhiệt, tạo áp lực lên tỷ giá, chi phí vốn quốc tế và dòng vốn tại thị trường mới nổi như Việt Nam."
+      "note": "Fed tăng lãi suất mục tiêu lên 3,75-4% ngày 16/9 (lần đầu sau hơn 3 năm) và phát tín hiệu có thể tăng tiếp thêm nếu lạm phát chưa hạ; tạo áp lực tỷ giá và thanh khoản cho Việt Nam đặc biệt vào cuối năm khi nhu cầu ngoại tệ cao điểm."
     },
     {
-      "title": "Chứng khoán Mỹ phục hồi mạnh trên nhiều sàn",
+      "title": "Nhà đầu tư trong nước trở lực định giá chính TTCK VN",
       "impact": "↑",
-      "note": "Phiên 17/9, Dow Jones tăng 0,61% lên 51.778,04 điểm, S&P 500 tăng 1,14% lên 7.637,76 điểm, Nasdaq tăng 1,69% lên 26.418,3 điểm, khi lợi suất trái phiếu Mỹ sụt giảm giải tỏa tâm lý thận trọng và giảm lo lắng lây nhiễm sang thị trường mới nổi."
+      "note": "Khối ngoại bán ròng 11,4 tỷ USD trong 2024-2026, tỷ lệ sở hữu giảm từ 22% (cuối 2019) xuống 12% (giữa 2026); VN-Index vẫn tăng 35,2% trong 1 năm (vượt Nasdaq +28%), cho thấy nhà đầu tư nội đã hấp thụ hết dòng vốn bán ra."
     },
     {
-      "title": "VN-Index tăng 12,66 điểm, nhóm ngân hàng kéo dắt",
+      "title": "NHNN loại trừ du lịch, nhà hàng khỏi hạn mức tín dụng BĐS",
       "impact": "↑",
-      "note": "Phiên 17/9, VN-Index kết phiên tại 1.822,77 điểm (tăng 12,66 điểm), thanh khoản cải thiện. Lực cầu bắt đáy tạo điểm tựa ở vùng hỗ trợ 1.800 điểm, 7 trong 10 cổ phiếu tác động tích cực nhất là cổ phiếu ngân hàng: VPB, CTG, SSB, LPB, BID, HDB, VCB."
+      "note": "NHNN cho phép 25 ngân hàng loại trừ cho vay nhà hàng, khách sạn, khu du lịch khỏi tăng trưởng tín dụng bất động sản năm 2026, mở rộng dư địa hỗ trợ tăng trưởng kinh tế và các lĩnh vực dịch vụ."
     },
     {
-      "title": "NHNN loại trừ tín dụng du lịch khỏi hạn mức BĐS 2026",
+      "title": "Chứng khoán Mỹ phục hồi mạnh, giảm lo lắng lạm phát",
       "impact": "↑",
-      "note": "Ngày 16/9, NHNN ban hành công văn 8509/NHNN-CSTT cho phép 25 tổ chức tín dụng không tính dư nợ nhà hàng, khách sạn, khu du lịch vào hạn mức tín dụng bất động sản năm 2026, mở rộng dư địa cụp ứng vốn cho VietinBank, Agribank, BIDV, MSB, SACOMBANK, Eximbank và các ngân hàng khác."
+      "note": "Thị trường Mỹ tăng trong phiên 17/9 (Dow Jones +0,61% lên 51.778 điểm, S&P 500 +1,14%, Nasdaq +1,69%) khi lợi suất trái phiếu và giá dầu giảm, tạo tín hiệu phục hồi cho thị trường quốc tế."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng 6,2%/năm Đông Nam Á",
-      "impact": "↑",
-      "note": "Báo cáo Bain & Company, DBS Bank và Vriens & Partners ngày 16/9 dự báo Việt Nam đạt tốc độ tăng trưởng 6,2% mỗi năm trong 10 năm tới (đến 2035), cao nhất 6 nền kinh tế SEA, vượt Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%."
+      "title": "Trung Quốc giảm trái phiếu kho bạc Mỹ xuống đáy 18 năm",
+      "impact": "↓",
+      "note": "Trung Quốc giảm nắm giữ trái phiếu Kho bạc Mỹ xuống mức thấp nhất kể từ tháng 8/2008, phản ánh căng thẳng địa chính trị Mỹ-Trung ngày càng sâu sắc, tạo rủi ro cho thị trường mới nổi."
     },
     {
-      "title": "Dự án LNG Quỳnh Lập 2,2 tỷ USD tiến độ tích cực",
-      "impact": "↑",
-      "note": "Dự án nhà máy nhiệt điện LNG Quỳnh Lập (Nghệ An) 2,2 tỷ USD do PV Power, NASU và đầu tư Hàn Quốc thực hiện đã thành lập công ty con (đăng ký 14/9). Báo cáo khả thi và quy hoạch chi tiết dự kiến hoàn tháng 10, giải phóng mặt bằng đang triển khai, thúc đẩy đầu tư toàn xã hội."
+      "title": "BOE giữ nguyên lãi suất trong khi Fed, ECB, BOJ tăng",
+      "impact": "↓",
+      "note": "BOE duy trì lãi suất 3,75% ngày 17/9 dù lạm phát cao; trong khi Fed tăng 0,25%, ECB tăng lần thứ hai năm nay, BOJ sắp tăng; chênh lệch chính sách gây rối loạn tỷ giá và dòng vốn quốc tế."
     }
   ]
 }
