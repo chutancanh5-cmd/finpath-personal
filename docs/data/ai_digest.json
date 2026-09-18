@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-18",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay có tâm lý tích cực với sự kỳ vọng nâng hạng của FTSE Russell vào ngày 21/9, dự kiến thu hút khoảng 240 triệu USD dòng vốn nước ngoài. NHNN tiếp tục nới lỏng tiền tệ, dư nợ tín dụng toàn hệ thống đạt 20,5 triệu tỷ đồng (tăng 10,24% so với cuối 2025), hỗ trợ tăng trưởng kinh tế. Tuy nhiên, quyết định của Fed tăng lãi suất 0,25 điểm phần trăm vào ngày 16/9 sẽ tạo áp lực lên tỷ giá và lãi suất trong nước trong ngắn hạn. Các dự án đầu tư nước ngoài lớn như Nhà máy LNG Quỳnh Lập (~2,2 tỷ USD) tiếp tục triển khai tích cực, là tín hiệu dương cho tăng trưởng dài hạn.",
+  "summary_vi": "Nâng hạng FTSE Russell (21/9) mở đường hút vốn nước ngoài ~240 triệu USD; tín dụng tăng 10,24% với 1,9 triệu tỷ đồng mới chảy vào nền kinh tế. Tuy nhiên, Fed tăng lãi suất 0,25 điểm tạo sức ép lên tỷ giá và dòng vốn ngắn hạn. Siêu dự án LNG Quỳnh Lập (2,2 tỷ USD) được triển khai tích cực, cơ sở hạ tầng tài chính tiếp tục được hoàn thiện.",
   "top": [
     {
-      "title": "NHNN nới lỏng tiền tệ, dư nợ tín dụng tăng 10,24%",
+      "title": "FTSE Russell nâng hạng Việt Nam lên nhóm mới nổi (21/9)",
       "impact": "↑",
-      "note": "Dư nợ tín dụng toàn hệ thống đạt 20,5 triệu tỷ đồng vào 28/8, tăng 10,24% so với cuối 2025, tăng 1,9 triệu tỷ đồng trong 8 tháng đầu năm; NHNN tiếp tục nới lỏng chính sách tiền tệ để tạo dư địa tín dụng phục vụ tăng trưởng kinh tế."
+      "note": "Nâng hạng từ cận biên lên nhóm mới nổi thứ cấp chính thức 21/9; dự tính dòng tiền nước ngoài khoảng 240 triệu USD trong tuần đầu; mở rộng cơ hội tiếp cận thị trường vốn quốc tế."
     },
     {
-      "title": "Nâng hạng chứng khoán VN, dòng vốn nước ngoài 240 triệu USD tuần đầu",
+      "title": "Tín dụng tăng 10,24%, NHNN bơm 1,9 triệu tỷ đồng/8 tháng",
       "impact": "↑",
-      "note": "FTSE Russell nâng hạng Việt Nam từ cận biên lên nhóm mới nổi thứ cấp ngày 21/9, dòng tiền quốc tế dự kiến khoảng 240 triệu USD trong tuần đầu; tác động tích cực ngắn hạn nhưng thị trường sau đó phụ thuộc yếu tố nội tại."
+      "note": "Dư nợ toàn hệ thống 20,5 triệu tỷ đồng (28/8), tăng 10,24% so với cuối 2025; 77,3% dư nợ phục vụ sản xuất kinh doanh; NHNN tiếp tục nới lỏng chính sách để hỗ trợ tăng trưởng."
     },
     {
-      "title": "Fed tăng lãi suất 0,25%, tạo áp lực lên kinh tế mới nổi",
+      "title": "Fed tăng lãi suất 0,25 điểm, tác động lên tỷ giá và dòng vốn Việt Nam",
       "impact": "↓",
-      "note": "Fed tăng lãi suất 0,25 điểm phần trăm lên 3,75-4% ngày 16/9, lần đầu kể từ 2023; Việt Nam là nền kinh tế mở, phụ thuộc nhiều xuất khẩu và dòng vốn quốc tế, sự tăng lãi suất của Fed sẽ làm thay đổi kỳ vọng lãi suất, tỷ giá toàn cầu."
+      "note": "Fed tăng lãi suất lên 3,75-4% ngày 16/9, lần đầu tiên kể từ 2023; tạo sức ép lên tỷ giá VN khi nhu cầu ngoại tệ cao điểm cuối năm; có thể hút vốn ra khỏi các nền kinh tế mở."
     },
     {
-      "title": "Áp lực VND từ Fed, NHNN sẵn sàng kiểm soát",
-      "impact": "→",
-      "note": "Fed tăng lãi suất 0,25 điểm cơ bản trong giai đoạn nhu cầu ngoại tệ Việt Nam cao đỉnh cuối năm, có thể tạo áp lực lên tỷ giá; NHNN có kinh nghiệm điều hành linh hoạt để chủ động nhận diện và kiểm soát tác động phù hợp."
-    },
-    {
-      "title": "Chứng khoán Mỹ hồi phục, Nasdaq +1,69%",
+      "title": "Chứng khoán Mỹ bật tăng, Dow +0,61%, S&P 500 +1,14%, Nasdaq +1,69%",
       "impact": "↑",
-      "note": "Dow Jones tăng 0,61%, S&P 500 tăng 1,14%, Nasdaq tăng 1,69% ngày 17/9 khi lợi suất trái phiếu kho bạc sụt giảm và giá dầu xuống thang; thị trường hồi phục sau ba phiên giảm liên tiếp."
+      "note": "Lợi suất trái phiếu kho bạc Mỹ giảm, giá dầu thô giảm; nhà đầu tư lạc quan Fed bắt tay xử lý lạm phát; tính lạc quan này có tác động tích cực lên các thị trường châu Á."
     },
     {
-      "title": "Siêu dự án LNG Quỳnh Lập 2,2 tỷ USD tiến độ tích cực",
+      "title": "NYSE chúc mừng Việt Nam, xác nhận vị thế quốc tế",
       "impact": "↑",
-      "note": "Dự án Nhà máy nhiệt điện LNG Quỳnh Lập (~2,2 tỷ USD) do liên danh PV Power, NASU và đại gia Hàn Quốc đầu tư, tiến độ tích cực, FS và quy hoạch chi tiết dự kiến hoàn thành tháng 10; công tác giải phóng mặt bằng đang triển khai song song."
+      "note": "Sàn NYSE gửi thông điệp chúc mừng nâng hạng; FTSE Russell đánh giá Việt Nam là 'câu chuyện tăng trưởng đáng chú ý ở khu vực châu Á'; xác nhận mong muốn hợp tác lâu dài."
+    },
+    {
+      "title": "Siêu dự án LNG Quỳnh Lập 2,2 tỷ USD triển khai tích cực",
+      "impact": "↑",
+      "note": "Liên danh PV Power, NASU, đại gia Hàn Quốc; thành lập công ty thực hiện (14/9); quy hoạch và báo cáo khả thi dự hoàn tháng 10; giải phóng mặt bằng song song diễn hành."
     }
   ]
 }
