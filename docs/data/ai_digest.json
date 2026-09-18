@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-18",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam duy trì sắc xanh với khối ngoại mua ròng 1.224 tỷ đồng và thanh khoản đạt mức cao nhất 2 tháng. Hệ thống ngân hàng tung gói tín dụng 407 nghìn tỷ đồng hỗ trợ DNNVV, dư nợ tín dụng cho DNNVV tăng 12,4% vượt tăng trưởng chung. Mặc dù Fed nâng lãi suất lần đầu từ 2023 có thể tạo áp lực tỷ giá, NHNN có công cụ và kinh nghiệm điều tiết. Cấu trúc nhà đầu tư tổ chức đang phát triển tích cực, và kết nối vùng mở rộng cơ hội phát triển kinh tế dài hạn.",
+  "summary_vi": "Nâng hạng FTSE Russell từ 21/9 là sự kiện trọng đại, kỳ vọng vốn ngoại tăng mạnh khi Vanguard sẽ đầu tư 2,5 tỷ USD (65 nghìn tỷ đồng). Khối ngoại đã bứt phá với mua ròng 966 tỷ đồng chuẩn bị cho nâng hạng. Tuy nhiên, áp lực lãi suất toàn cầu từ Fed (0,25 điểm cơ bản) và BOJ (mức cao nhất 31 năm) có thể tạo thách thức với tỷ giá và thanh khoản ngắn hạn. Liên kết vùng giữa TPHCM và 7 tỉnh thành mở ra cơ hội phát triển chuỗi giá trị dài hạn.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng 1.224 tỷ đồng, thanh khoản HoSE cao nhất 2 tháng",
+      "title": "Nâng hạng FTSE Russell từ 21/9 - sự kiện trọng đại",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 1.224 tỷ đồng trong phiên 18/9. Thanh khoản HoSE đạt 22.011 tỷ đồng, mức cao nhất trong 2 tháng. Cổ phiếu được mua ròng mạnh nhất: HPG (251 tỷ), PNJ (247 tỷ), SHB (221 tỷ), STB (202 tỷ), NVL (201 tỷ)."
+      "note": "Từ 21/9, thị trường VN chính thức nâng hạng thành 'thị trường mới nổi thứ cấp' theo FTSE Russell, đánh dấu bước tiến sau 30 năm phát triển. Sự kiện tạo kỳ vọng vốn ngoại tăng và phục vụ nền tảng phát triển thị trường chứng khoán."
     },
     {
-      "title": "VN-Index tăng tích cực, 406 mã tăng vượt 233 mã giảm",
+      "title": "Vanguard dự kiến đầu tư 2,5 tỷ USD vào Việt Nam",
       "impact": "↑",
-      "note": "VN-Index tăng gần 17 điểm (+0,93%), HNX-Index tăng 0,96%. Độ rộng thị trường tích cực với 406 mã tăng so với 233 mã giảm. Nhóm tài chính dẫn đầu với +1,58%, bất động sản và công nghiệp cũng tăng tích cực."
+      "note": "Trong năm tới, Vanguard (quỹ quản lý 13.000 tỷ USD toàn cầu) sẽ đầu tư khoảng 2,5 tỷ USD (tương đương 65.000 tỷ đồng) vào VN thông qua các danh mục đầu tư dài hạn, đánh dấu sự tin tưởng lớn của nhà đầu tư tổ chức toàn cầu."
     },
     {
-      "title": "19 ngân hàng tung gói tín dụng 407 nghìn tỷ cho DNNVV",
+      "title": "Khối ngoại mua ròng 966 tỷ - chuẩn bị nâng hạng",
       "impact": "↑",
-      "note": "Dư nợ tín dụng cho DNNVV đạt 4,1 triệu tỷ đồng, tăng 12,4% so với cuối 2025 (cao hơn tăng trưởng tín dụng chung 10,24%). 19 TCTD tung gói 407 nghìn tỷ đồng với lãi suất ưu đãi, các ngân hàng đang tích cực đổi mới phương thức cho vay, đơn giản hóa thủ tục."
+      "note": "Phiên 18/9, khối ngoại mua ròng 966 tỷ đồng (cao nhất từ đầu tháng 9), gom mạnh PNJ (247 tỷ), SHB (221 tỷ), HPG (209 tỷ), STB (202 tỷ), NVL (201 tỷ). Đây là phiên cuối cùng các quỹ ETF ngoại tái cơ cấu danh mục trước nâng hạng."
     },
     {
-      "title": "Fed nâng lãi suất 25 bps, rủi ro tỷ giá nhưng NHNN có công cụ kiểm soát",
+      "title": "Fed tăng lãi suất 0,25 điểm, BOJ tăng mức cao nhất 31 năm",
+      "impact": "↓",
+      "note": "Fed nâng lãi suất lên 3,75-4% với tín hiệu tiếp tục tăng nếu lạm phát chưa hạ. BOJ tăng lên mức cao nhất 31 năm nhưng đồng yên suy yếu (USD/JPY tăng 1,1% lên 157,7 yên) do 2 thành viên BOJ phản đối. Áp lực này tác động trực tiếp lên tỷ giá và thanh khoản các nền kinh tế mới nổi."
+    },
+    {
+      "title": "Liên kết vùng TPHCM - 7 tỉnh thành phát triển chuỗi giá trị",
       "impact": "→",
-      "note": "Fed tăng lãi suất lần đầu tiên kể từ 2023, đưa mức lãi suất mục tiêu lên 3,75-4%. Điều này có thể tạo áp lực lên tỷ giá VND/USD và dòng vốn. Tuy nhiên các chuyên gia nhấn mạnh NHNN có công cụ thanh khoản, lãi suất và thị trường ngoại hối để điều tiết tác động không mang tính cơ học."
+      "note": "TPHCM tổ chức hội nghị kết nối với 7 tỉnh thành (Đông Nam bộ, ĐBSCL) để liên kết theo chuỗi giá trị: công nghiệp công nghệ cao, nông nghiệp-thủy sản, logistics. Mục tiêu phát triển cân bằng vùng, tăng sức cạnh tranh tổng thể so với từng địa phương riêng lẻ."
     },
     {
-      "title": "Cơ cấu nhà đầu tư chuyển đổi, người giàu Việt giao tài sản quản lý chuyên nghiệp",
-      "impact": "↑",
-      "note": "Hiện tỷ lệ nhà đầu tư tổ chức 25-30%, nhà đầu tư cá nhân 70-75%. Dragon Capital CEO cho rằng cơ cấu này sẽ thay đổi khi tích lũy tài sản tăng. Trong 2 năm gần đây, số hợp đồng quản lý tài sản với người giàu Việt Nam tăng đáng kể."
-    },
-    {
-      "title": "TPHCM kết nối 7 tỉnh thành, phát triển chuỗi giá trị vùng",
-      "impact": "↑",
-      "note": "TPHCM chủ trì hội nghị kết nối đầu tư với các tỉnh thành vùng ĐBSCL. Chuyển từ xúc tiến riêng lẻ sang liên kết theo chuỗi giá trị: công nghiệp công nghệ cao, nông nghiệp-thủy sản, năng lượng. Kết nối này giúp nâng cao sức cạnh tranh toàn vùng so với phát triển riêng lẻ."
+      "title": "VN-Index rung lắc - cấu trúc phân hóa, cần đồng thuận",
+      "impact": "→",
+      "note": "Phiên 18/9, VN-Index giảm 0,39% xuống 1.815,66 điểm do áp lực chốt lời. Xét cả tuần, VN-Index tăng 20,45 điểm (1,14%), HNX-Index tăng 2,61 điểm (0,96%). Thị trường phục hồi nhưng cấu trúc vẫn phân hóa, cần sự đồng thuận rõ rệt giữa các nhóm cổ phiếu."
     }
   ]
 }
