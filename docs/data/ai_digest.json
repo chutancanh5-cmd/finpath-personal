@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-18",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Fed tăng lãi suất 0,25% lần đầu kể từ 2023, tín hiệu tiếp tục thắt chặt, tạo sức ép lên tỷ giá và chi phí vốn quốc tế. Tuy nhiên, nhà đầu tư nội địa thay thế khối ngoại bán ròng 11,4 tỷ USD, đẩy VN-Index lập đỉnh lịch sử với mức tăng 35,2%/năm. Các công ty lớn (SSI, Meey) mở rộng quy mô; Chính phủ và NHNN sẵn sàng ứng phó. Cân bằng giữa tăng trưởng nội sinh mạnh mẽ và rủi ro ngoại sinh.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Việt Nam được nâng hạng FTSE Russell lên thị trường mới nổi thứ cấp (hiệu lực 21/9) là cột mốc chiến lược sau 26 năm, mở ra chương đầu tư quốc tế mới. Tuy vậy, Fed tăng lãi suất 0,25% (lần đầu 3 năm) và phát tín hiệu tiếp tục siết chặt tạo áp lực ngắn hạn lên dòng vốn mới nổi và tỷ giá. Điểm sáng là nhà đầu tư trong nước trở thành lực định giá chính, Meey Global sắp IPO Nasdaq, LNG Quỳnh Lập 2,2 tỷ USD triển khai, và MDP tạo cạnh tranh hạ tầng thanh toán.",
   "top": [
     {
-      "title": "Fed tăng lãi suất 0,25%, tín hiệu tiếp tục thắt chặt",
+      "title": "Việt Nam nâng hạng FTSE Russell lên thị trường mới nổi",
+      "impact": "↑",
+      "note": "Từ 21/9/2026, Việt Nam chính thức nâng hạng từ Thị trường Cận biên lên Thị trường Mới nổi thứ cấp. NYSE gửi lời chúc: \"Một cột mốc được tạo dựng qua nhiều năm. Một chương mới mở ra cho Việt Nam và vị thế của Việt Nam trên bản đồ thị trường vốn toàn cầu\". Tín hiệu hấp dẫn dòng vốn quốc tế lâu dài sau 26 năm hoạt động."
+    },
+    {
+      "title": "Fed tăng lãi suất, tín hiệu tiếp tục siết chặt",
       "impact": "↓",
-      "note": "Ngân hàng Dự trữ Liên bang Mỹ ngày 16/9 nâng lãi suất cơ bản từ 3,50% lên 3,75-4%, lần đầu tiên kể từ 2023. Ba thành viên MPC bỏ phiếu tăng 0,25% lên 4%, cho thấy sức ép từ lạm phát. Fed tín hiệu có thể tiếp tục tăng, tạo sức ép lên tỷ giá đồng Việt Nam, chi phí vốn quốc tế, và dòng vốn ngoại vào thị trường mới nổi."
+      "note": "Fed tăng lãi suất 0,25 điểm phần trăm lên 3,75-4% ngày 16/9/2026 (lần đầu sau 3 năm), ba thành viên MPC bỏ phiếu tăng lên 4%. Chủ tịch Kevin Warsh phát tín hiệu tiếp tục tăng vì lạm phát quá cao. Sự mạnh lên của đồng USD tạo sức ép lên tỷ giá, chi phí vốn quốc tế, và dòng vốn ngoại vào nền kinh tế mở như Việt Nam."
     },
     {
-      "title": "Nhà đầu tư nội địa thay thế khối ngoại, VN-Index lập đỉnh",
+      "title": "Nhà đầu tư trong nước thay thế khối ngoại, VN-Index lập đỉnh",
       "impact": "↑",
-      "note": "Khối ngoại bán ròng khoảng 11,4 tỷ USD trong 2024-2026, tỷ lệ sở hữu giảm từ 22% (2019) xuống 12% (2026). Dòng tiền nội địa hấp thụ toàn bộ bán ra, đẩy VN-Index lập nhiều đỉnh lịch sử, mức tăng 1 năm +35,2% vượt Nasdaq +28%, thể hiện cơ cấu nhà đầu tư thay đổi nâng cao ổn định thị trường."
+      "note": "Khối ngoại bán ròng khoảng 11,4 tỷ USD trong 2024-2026, tỷ lệ sở hữu giảm từ 22% (cuối 2019) xuống 12% (giữa 2026). Dòng tiền nội địa hấp thụ toàn bộ bán ra, đẩy VN-Index lập đỉnh lịch sử, mức sinh lời 1 năm +35,2% vượt Nasdaq +28%, khẳng định cơ cấu nhà đầu tư nâng cao ổn định thị trường."
     },
     {
-      "title": "SSI tăng vốn điều lệ lên 30.000 tỷ đồng, tỷ lệ +20%",
+      "title": "Meey Global nộp đơn IPO lên SEC, chào Nasdaq",
       "impact": "↑",
-      "note": "Hội đồng quản trị SSI phê duyệt tăng vốn điều lệ từ 25.030,89 tỷ lên 30.032,94 tỷ đồng (tăng 5.002 tỷ, +20%), thông qua phát hành 500.204.581 cổ phiếu từ nguồn vốn chủ sở hữu. Giấy phép điều chỉnh được cấp 9/9, thể hiện quá trình mở rộng quy mô và sức chịu đựng tăng vốn của công ty chứng khoán hàng đầu."
+      "note": "Meey Global Corp nộp công khai hồ sơ đăng ký chứng khoán mẫu F-1 lên SEC ngày 16/9/2026, dự kiến niêm yết Nasdaq Capital Market với mã MEEY. Đơn vị bảo lãnh chính là ARC Group Securities LLC. Meey Global vận hành hệ sinh thái bất động sản số và dữ liệu thông minh tại Việt Nam."
     },
     {
-      "title": "MDP được cấp phép thanh toán liên ngân hàng, đối thủ mới của Napas",
+      "title": "LNG Quỳnh Lập 2,2 tỷ USD được triển khai tích cực",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước cấp giấy phép cho Công ty Cổ phần Thanh toán số MobiFone (MDP) vận hành hệ thống thanh toán liên ngân hàng, sau hơn 10 năm Napas gần như độc quyền. MDP thành lập 27/6/2025, vốn 300 tỷ đồng, liên danh Mobifone 51%, One Mount 38%, Techcombank 11%, tạo cạnh tranh và đa dạng hóa hạ tầng thanh toán."
+      "note": "Liên danh PV Power, NASU, và đại gia Hàn Quốc dự án Nhà máy nhiệt điện LNG Quỳnh Lập gần 2,2 tỷ USD. Công ty Cổ phần Điện LNG Quỳnh Lập thành lập ngày 14/9/2026, Sở Tài chính hoàn thiện dự thảo hợp đồng dự án. Quy hoạch chi tiết 1/500 dự kiến hoàn thành tháng 10, giải phóng mặt bằng song song."
     },
     {
-      "title": "Meey Global nộp hồ sơ IPO lên SEC, chuẩn bị chào Nasdaq",
+      "title": "MDP được cấp phép thanh toán, đối thủ mới Napas",
       "impact": "↑",
-      "note": "Công ty Meey Global Corp nộp công khai hồ sơ đăng ký chứng khoán mẫu F-1 lên SEC vào 16/9, dự kiến niêm yết trên Nasdaq Capital Market với mã 'MEEY', đơn vị bảo lãnh ARC Group Securities LLC. Đây là cơ hội tiếp cận vốn quốc tế và nâng vị thế của doanh nghiệp bất động sản số Việt Nam."
-    },
-    {
-      "title": "Chính phủ, NHNN chủ động ổn định vĩ mô trước Fed tăng lãi",
-      "impact": "↑",
-      "note": "Với nền tảng kinh tế hiện có và kinh nghiệm điều hành linh hoạt, Chính phủ và Ngân hàng Nhà nước sẵn sàng nhận diện và kiểm soát tác động từ Fed. Dự kỳ Việt Nam sẽ chủ động củng cố nguồn ngoại tệ, giữ vững ổn định vĩ mô trong bối cảnh nhu cầu ngoại tệ bước vào cao điểm cuối năm."
+      "note": "Ngân hàng Nhà nước cấp giấy phép Công ty Cổ phần Thanh toán số MobiFone (MDP) vận hành hệ thống thanh toán liên ngân hàng. MDP thành lập 27/6/2025, vốn điều lệ 300 tỷ đồng, liên danh MobiFone 51%, One Mount 38%, Techcombank 11%. Lần đầu trong 10 năm có đối thủ cạnh tranh với Napas, đa dạng hóa hạ tầng thanh toán."
     }
   ]
 }
