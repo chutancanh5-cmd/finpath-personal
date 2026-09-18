@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-18",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Fed tăng lãi suất 0,25% lên 3,75%-4% (lần đầu sau 3 năm) tạo áp lực lên đồng USD và dòng vốn thị trường mới nổi, song chứng khoán Mỹ hồi phục mạnh giảm lo lắng lây nhiễm. Việt Nam được dự báo dẫn đầu SEA với tăng trưởng 6,2%/năm đến 2035, kèm theo chính sách hỗ trợ mở rộng tín dụng bất động sản và dự kiến vẫn có gần 200 triệu USD chảy vào thị trường trong tháng này.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đón nhận tín hiệu tích cực từ chứng khoán Mỹ hồi phục mạnh và các chính sách hỗ trợ nội bộ, nhưng phải đối mặt áp lực ngắn hạn từ Fed tăng lãi suất 0,25%. Việt Nam dẫn đầu tăng trưởng Đông Nam Á (6,2%/năm), NHNN mở rộng tín dụng bất động sản cho 25 ngân hàng, các dự án đầu tư lớn đang triển khai. Rủi ro tỷ giá và dòng vốn quốc tế cần theo dõi sát sao trong bối cảnh nhu cầu ngoại tệ cao điểm cuối năm.",
   "top": [
     {
-      "title": "Fed tăng lãi suất lần đầu sau 3 năm, áp lực lên dòng vốn EM",
+      "title": "Fed tăng lãi suất 0,25% lần đầu sau 3 năm",
       "impact": "↓",
-      "note": "Ngày 16/9/2026, Fed tăng lãi suất điều hành 0,25 điểm phần trăm lên 3,75%-4%, lần đầu tiên kể từ tháng 7/2023. Chủ tịch Kevin Warsh phát tín hiệu Fed có thể tăng thêm một lần nữa năm nay nếu lạm phát chưa hạ nhiệt, khiến đồng USD mạnh lên vượt 100 DXY, tạo áp lực lên tỷ giá và dòng vốn quốc tế tại các nền kinh tế mới nổi như Việt Nam."
+      "note": "Ngày 16/9/2026, Fed tăng lãi suất điều hành 0,25 điểm phần trăm lên 3,75%-4%, lần đầu tiên kể từ tháng 7/2023. Phát tín hiệu có thể tăng thêm nếu lạm phát chưa hạ nhiệt, tạo áp lực lên tỷ giá, chi phí vốn quốc tế và dòng vốn tại thị trường mới nổi như Việt Nam."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng 6,2%/năm ở Đông Nam Á",
+      "title": "Chứng khoán Mỹ phục hồi mạnh trên nhiều sàn",
       "impact": "↑",
-      "note": "Báo cáo của Bain & Company, DBS Bank và Vriens & Partners ngày 16/9 dự báo Việt Nam đạt tốc độ tăng trưởng bình quân 6,2% mỗi năm trong 10 năm tới (đến 2035), cao nhất trong 6 nền kinh tế lớn Đông Nam Á, vượt Philippines (5,8%), Indonesia (5,4%), Malaysia (4,3%), Singapore (2,7%), Thái Lan (2,2%)."
+      "note": "Phiên 17/9, Dow Jones tăng 0,61% lên 51.778,04 điểm, S&P 500 tăng 1,14% lên 7.637,76 điểm, Nasdaq tăng 1,69% lên 26.418,3 điểm, khi lợi suất trái phiếu Mỹ sụt giảm giải tỏa tâm lý thận trọng và giảm lo lắng lây nhiễm sang thị trường mới nổi."
     },
     {
-      "title": "Du lịch, nhà hàng, khách sạn loại trừ khỏi hạn mức tín dụng BĐS 2026",
+      "title": "VN-Index tăng 12,66 điểm, nhóm ngân hàng kéo dắt",
       "impact": "↑",
-      "note": "Ngày 16/9, NHNN ban hành công văn 8509/NHNN-CSTT cho phép 25 tổ chức tín dụng không tính dư nợ cho nhà hàng, khách sạn, khu du lịch, sinh thái, nghỉ dưỡng vào hạn mức tín dụng bất động sản, tạo dư địa cấp tín dụng thêm từ 1/1/2026 đến 31/12/2026 cho các ngân hàng gồm VietinBank, Agribank, BIDV, MSB, SACOMBANK, Eximbank và các ngân hàng khác."
+      "note": "Phiên 17/9, VN-Index kết phiên tại 1.822,77 điểm (tăng 12,66 điểm), thanh khoản cải thiện. Lực cầu bắt đáy tạo điểm tựa ở vùng hỗ trợ 1.800 điểm, 7 trong 10 cổ phiếu tác động tích cực nhất là cổ phiếu ngân hàng: VPB, CTG, SSB, LPB, BID, HDB, VCB."
     },
     {
-      "title": "Gần 200 triệu USD chờ đổ vào chứng khoán Việt Nam tháng 9",
+      "title": "NHNN loại trừ tín dụng du lịch khỏi hạn mức BĐS 2026",
       "impact": "↑",
-      "note": "Mặc dù lãi suất USD cao tạo áp lực tỷ giá, các phân tích chứng khoán dự kiến gần 200 triệu USD chảy vào thị trường chứng khoán Việt Nam trong tháng 9/2026, cho thấy nhà đầu tư vẫn chủ động giải ngân bắt cơ hội tăng trưởng tại các nền kinh tế mới nổi."
+      "note": "Ngày 16/9, NHNN ban hành công văn 8509/NHNN-CSTT cho phép 25 tổ chức tín dụng không tính dư nợ nhà hàng, khách sạn, khu du lịch vào hạn mức tín dụng bất động sản năm 2026, mở rộng dư địa cụp ứng vốn cho VietinBank, Agribank, BIDV, MSB, SACOMBANK, Eximbank và các ngân hàng khác."
     },
     {
-      "title": "Chứng khoán Mỹ phục hồi mạnh, S&P 500 tăng 1,14%, Nasdaq tăng 1,69%",
+      "title": "Việt Nam dẫn đầu tăng trưởng 6,2%/năm Đông Nam Á",
       "impact": "↑",
-      "note": "Phiên 17/9, chứng khoán Mỹ hồi phục sau 3 phiên giảm liên tiếp, với Dow Jones tăng 316,14 điểm (+0,61%) lên 51.778,04 điểm, S&P 500 tăng 1,14% lên 7.637,76 điểm, Nasdaq tăng 1,69% lên 26.418,3 điểm, khi lợi suất trái phiếu Mỹ sụt giảm và giá dầu thô xuống thang, giải tỏa tâm lý thận trọng và giảm lo lắng về lây nhiễm sang thị trường mới nổi."
+      "note": "Báo cáo Bain & Company, DBS Bank và Vriens & Partners ngày 16/9 dự báo Việt Nam đạt tốc độ tăng trưởng 6,2% mỗi năm trong 10 năm tới (đến 2035), cao nhất 6 nền kinh tế SEA, vượt Philippines 5,8%, Indonesia 5,4%, Malaysia 4,3%, Singapore 2,7%, Thái Lan 2,2%."
     },
     {
-      "title": "Dự án nhiệt điện LNG Quỳnh Lập 2,2 tỷ USD tiến độ tích cực",
+      "title": "Dự án LNG Quỳnh Lập 2,2 tỷ USD tiến độ tích cực",
       "impact": "↑",
-      "note": "Sau 4 tháng khởi công, dự án nhà máy nhiệt điện LNG Quỳnh Lập (Nghệ An) trị giá gần 2,2 tỷ USD do liên danh PV Power, NASU và nhà đầu tư Hàn Quốc thực hiện đang có tiến độ tích cực. Liên danh đã thành lập Công ty Cổ phần Điện LNG Quỳnh Lập (đăng ký 14/9), báo cáo khả thi và quy hoạch chi tiết dự kiến hoàn thành tháng 10, thúc đẩy dự án đầu tư lớn hỗ trợ tăng trưởng kinh tế."
+      "note": "Dự án nhà máy nhiệt điện LNG Quỳnh Lập (Nghệ An) 2,2 tỷ USD do PV Power, NASU và đầu tư Hàn Quốc thực hiện đã thành lập công ty con (đăng ký 14/9). Báo cáo khả thi và quy hoạch chi tiết dự kiến hoàn tháng 10, giải phóng mặt bằng đang triển khai, thúc đẩy đầu tư toàn xã hội."
     }
   ]
 }
