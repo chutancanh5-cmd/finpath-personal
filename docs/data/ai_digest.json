@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-18",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chứng kiến sự thay đổi cơ cấu khi nhà đầu tư trong nước thay thế khối ngoại, đẩy VN-Index lập đỉnh lịch sử với mức tăng +35,2% trong 1 năm. Tuy nhiên, Fed tăng lãi suất lần đầu tiên sau 3 năm (0,25%) tạo sức ép lên tỷ giá và thanh khoản khi nhu cầu ngoại tệ Việt Nam vào cao điểm cuối năm. Các chỉ số vĩ mô trong nước như hạ tầng thanh toán (MDP được cấp phép), chứng khoán (SSI tăng vốn) có chiều hướng tích cực, song rủi ro từ sự thắt chặt tiền tệ toàn cầu vẫn đòi sự chủ động quản lý.",
+  "summary_vi": "Fed tăng lãi suất 0,25% lần đầu kể từ 2023, tín hiệu tiếp tục thắt chặt, tạo sức ép lên tỷ giá và chi phí vốn quốc tế. Tuy nhiên, nhà đầu tư nội địa thay thế khối ngoại bán ròng 11,4 tỷ USD, đẩy VN-Index lập đỉnh lịch sử với mức tăng 35,2%/năm. Các công ty lớn (SSI, Meey) mở rộng quy mô; Chính phủ và NHNN sẵn sàng ứng phó. Cân bằng giữa tăng trưởng nội sinh mạnh mẽ và rủi ro ngoại sinh.",
   "top": [
     {
-      "title": "Fed tăng lãi suất, tạo sức ép lên Việt Nam",
+      "title": "Fed tăng lãi suất 0,25%, tín hiệu tiếp tục thắt chặt",
       "impact": "↓",
-      "note": "Fed nâng lãi suất thêm 0,25% lên 3,75-4% ngày 16/9 (lần đầu sau 3 năm), phát tín hiệu có thể tiếp tục tăng nếu lạm phát chưa hạ. Động thái này tạo áp lực lên tỷ giá và thanh khoản tại Việt Nam, đặc biệt khi nhu cầu ngoại tệ bước vào cao điểm cuối năm, mặc dù Chính phủ và NHNN có kinh nghiệm điều hành linh hoạt để kiểm soát."
+      "note": "Ngân hàng Dự trữ Liên bang Mỹ ngày 16/9 nâng lãi suất cơ bản từ 3,50% lên 3,75-4%, lần đầu tiên kể từ 2023. Ba thành viên MPC bỏ phiếu tăng 0,25% lên 4%, cho thấy sức ép từ lạm phát. Fed tín hiệu có thể tiếp tục tăng, tạo sức ép lên tỷ giá đồng Việt Nam, chi phí vốn quốc tế, và dòng vốn ngoại vào thị trường mới nổi."
     },
     {
-      "title": "Nhà đầu tư trong nước thay thế khối ngoại, VN-Index lập đỉnh lịch sử",
+      "title": "Nhà đầu tư nội địa thay thế khối ngoại, VN-Index lập đỉnh",
       "impact": "↑",
-      "note": "Khối ngoại đã bán ròng khoảng 11,4 tỷ USD trong 3 năm (2024-8M2026), giảm tỷ lệ sở hữu từ 22% xuống 12%, nhưng nhà đầu tư trong nước hấp thụ hết dòng tiền này. VN-Index tăng +35,2% trong 1 năm, vượt Nasdaq (28%), lập đỉnh lịch sử, với nhà đầu tư trong nước trở thành lực định giá chính thị trường."
+      "note": "Khối ngoại bán ròng khoảng 11,4 tỷ USD trong 2024-2026, tỷ lệ sở hữu giảm từ 22% (2019) xuống 12% (2026). Dòng tiền nội địa hấp thụ toàn bộ bán ra, đẩy VN-Index lập nhiều đỉnh lịch sử, mức tăng 1 năm +35,2% vượt Nasdaq +28%, thể hiện cơ cấu nhà đầu tư thay đổi nâng cao ổn định thị trường."
     },
     {
-      "title": "MDP được cấp phép, hạ tầng thanh toán có thêm cạnh tranh",
+      "title": "SSI tăng vốn điều lệ lên 30.000 tỷ đồng, tỷ lệ +20%",
       "impact": "↑",
-      "note": "Sau 1 thập kỷ Napas gần như độc quyền, Ngân hàng Nhà nước cấp giấy phép cho Công ty Cổ phần Thanh toán số MobiFone (MDP, thành lập 27/6/2025 với vốn 300 tỷ đồng) vận hành hệ thống thanh toán liên ngân hàng quy mô lớn, tạo cạnh tranh lành mạnh và nâng cao chất lượng hạ tầng tài chính."
+      "note": "Hội đồng quản trị SSI phê duyệt tăng vốn điều lệ từ 25.030,89 tỷ lên 30.032,94 tỷ đồng (tăng 5.002 tỷ, +20%), thông qua phát hành 500.204.581 cổ phiếu từ nguồn vốn chủ sở hữu. Giấy phép điều chỉnh được cấp 9/9, thể hiện quá trình mở rộng quy mô và sức chịu đựng tăng vốn của công ty chứng khoán hàng đầu."
     },
     {
-      "title": "BOE giữ nguyên lãi suất dù lạm phát cao",
-      "impact": "→",
-      "note": "Ủy ban Chính sách tiền tệ BOE bỏ phiếu 6-3 giữ nguyên lãi suất ở 3,75% ngày 17/9, trái chiều Fed (vừa tăng) và ECB (tăng gần đây). Ba thành viên muốn tăng 0,25%, nhưng BOE đánh giá sức ép lạm phát từ năng lượng còn hạn chế; sự khác biệt chính sách này thể hiện bất đồng toàn cầu về cách tiếp cận lạm phát."
-    },
-    {
-      "title": "Chứng khoán Mỹ hồi phục mạnh",
+      "title": "MDP được cấp phép thanh toán liên ngân hàng, đối thủ mới của Napas",
       "impact": "↑",
-      "note": "Phiên 17/9, Dow Jones +0,61% (51.778 điểm), S&P 500 +1,14% (7.637,76 điểm), Nasdaq +1,69% (26.418,3 điểm), sau 3 phiên giảm liên tiếp. Phục hồi do lợi suất trái phiếu Mỹ giảm và giá dầu giảm, truyền tải tâm lý \"giải tỏa\" khi nhà đầu tư tin Fed giải quyết vấn đề lạm phát dai dẳng."
+      "note": "Ngân hàng Nhà nước cấp giấy phép cho Công ty Cổ phần Thanh toán số MobiFone (MDP) vận hành hệ thống thanh toán liên ngân hàng, sau hơn 10 năm Napas gần như độc quyền. MDP thành lập 27/6/2025, vốn 300 tỷ đồng, liên danh Mobifone 51%, One Mount 38%, Techcombank 11%, tạo cạnh tranh và đa dạng hóa hạ tầng thanh toán."
     },
     {
-      "title": "SSI tăng vốn điều lệ vượt 30 tỷ đồng",
+      "title": "Meey Global nộp hồ sơ IPO lên SEC, chuẩn bị chào Nasdaq",
       "impact": "↑",
-      "note": "Hội đồng quản trị SSI thông qua tăng vốn điều lệ từ 25.030,89 tỷ đồng lên 30.032,94 tỷ đồng (tăng 5.002 tỷ đồng, gần 20%) thông qua phát hành 500.204.581 cổ phiếu từ vốn chủ sở hữu, đánh dấu quy mô vốn chính thức vượt 30 tỷ đồng, nâng cao năng lực ngành chứng khoán."
+      "note": "Công ty Meey Global Corp nộp công khai hồ sơ đăng ký chứng khoán mẫu F-1 lên SEC vào 16/9, dự kiến niêm yết trên Nasdaq Capital Market với mã 'MEEY', đơn vị bảo lãnh ARC Group Securities LLC. Đây là cơ hội tiếp cận vốn quốc tế và nâng vị thế của doanh nghiệp bất động sản số Việt Nam."
+    },
+    {
+      "title": "Chính phủ, NHNN chủ động ổn định vĩ mô trước Fed tăng lãi",
+      "impact": "↑",
+      "note": "Với nền tảng kinh tế hiện có và kinh nghiệm điều hành linh hoạt, Chính phủ và Ngân hàng Nhà nước sẵn sàng nhận diện và kiểm soát tác động từ Fed. Dự kỳ Việt Nam sẽ chủ động củng cố nguồn ngoại tệ, giữ vững ổn định vĩ mô trong bối cảnh nhu cầu ngoại tệ bước vào cao điểm cuối năm."
     }
   ]
 }
