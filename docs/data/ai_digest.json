@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-18",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Fed tăng lãi suất 0,25% tạo áp lực trên các nền kinh tế mở như Việt Nam, nhưng NHNN nới lỏng tín dụng (bơm 1,9 triệu tỷ đồng) và nâng hạng thị trường chứng khoán hỗ trợ tăng trưởng. Ngành ngân hàng tư nhân cho thấy sức khỏe tốt, mặc dù rủi ro trái phiếu đang gia tăng. Nhìn chung, TTCK Việt Nam vẫn được hỗ trợ bởi các chính sách kích thích trong nước.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam bước vào giai đoạn mới khi chính thức được nâng hạng lên Emerging Market từ tháng 9/2026, kỳ vọng thanh khoản tăng 3-4 tỷ USD/ngày và thu hút dòng vốn quốc tế. Tuy nhiên, Fed tăng lãi suất 0,25% lần đầu tiên sau 3 năm gây sức ép lên tỷ giá và chi phí vốn khi nhu cầu ngoại tệ VN vào cao điểm cuối năm. Rủi ro trái phiếu vẫn tiềm ẩn khi 10 doanh nghiệp bị phạt vì vi phạm quy định phát hành, với trường hợp tỷ lệ nợ lên 7,07 lần vốn.",
   "top": [
     {
-      "title": "Fed tăng lãi suất 0,25% lần đầu sau 3 năm",
+      "title": "Nâng hạng lên Emerging Market – cơ hội thu hút dòng vốn quốc tế",
+      "impact": "↑",
+      "note": "Việt Nam chính thức bước vào nhóm thị trường mới nổi thứ cấp (Secondary Emerging Market) từ tháng 9/2026 theo FTSE Russell. Bà Fiona Bassett, Tổng Giám đốc FTSE Russell, nhấn mạnh đây là bước tiến quan trọng trong hội nhập sâu hơn với thị trường vốn quốc tế và mở ra thêm một điểm đến cho dòng vốn toàn cầu."
+    },
+    {
+      "title": "Thanh khoản chứng khoán VN dự báo tăng 3-4 tỷ USD/ngày",
+      "impact": "↑",
+      "note": "Chuyên gia Morgan Stanley dự báo thanh khoản chứng khoán Việt Nam có thể lên 3-4 tỷ USD/ngày nhờ nâng hạng thị trường. Nâng hạng là nền tảng để Việt Nam thu hút trở lại sự quan tâm của dòng vốn trong môi trường cạnh tranh của thị trường vốn châu Á."
+    },
+    {
+      "title": "Fed tăng lãi suất 0,25%, áp lực lên tỷ giá và thanh khoản VN",
       "impact": "↓",
-      "note": "Cục Dự trữ Liên bang Mỹ ngày 16/9 tăng lãi suất 0,25 điểm lên 3,75-4%, lần đầu sau 3 năm, tín hiệu tiếp tục tăng nếu lạm phát không giảm bền vững. Tác động: tăng sức mạnh đồng USD, chi phí vốn quốc tế, áp lực trên dòng vốn và tỷ giá các nền kinh tế mở như Việt Nam trong bối cảnh nhu cầu ngoại tệ cao điểm cuối năm."
+      "note": "Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất lên 3,75-4% vào ngày 16/9/2026, lần đầu tiên sau hơn 3 năm. Động thái này tạo sức ép lên tỷ giá và thanh khoản VN khi nhu cầu ngoại tệ đang vào cao điểm cuối năm, đồng thời tăng chi phí vốn quốc tế cho các doanh nghiệp."
     },
     {
-      "title": "NHNN nới lỏng tín dụng bơm 1,9 triệu tỷ đồng",
-      "impact": "↑",
-      "note": "Tính đến cuối tháng 8/2026, dư nợ tín dụng toàn hệ thống đạt 20,5 triệu tỷ đồng, tăng 10,24% so với cuối năm 2025. Trong 8 tháng đầu năm, dư nợ tăng thêm hơn 1,9 triệu tỷ đồng. NHNN liên tiếp điều chỉnh chính sách mở rộng dư địa tín dụng để hỗ trợ các động lực tăng trưởng và tháo gỡ nút thắt về nguồn vốn."
-    },
-    {
-      "title": "Nâng hạng thị trường chứng khoán Việt Nam",
-      "impact": "↑",
-      "note": "Phó Chủ tịch UBCKNN Bùi Hoàng Hải khẳng định đây là cột mốc quan trọng cho phát triển thị trường vốn và hội nhập tài chính quốc tế. Thị trường minh bạch, vận hành hiệu quả sẽ thu hút thêm dòng vốn trong và ngoài nước, hỗ trợ doanh nghiệp huy động vốn dài hạn cho đầu tư và đổi mới sáng tạo."
-    },
-    {
-      "title": "Meey Global nộp hồ sơ IPO lên Nasdaq",
-      "impact": "↑",
-      "note": "Ngày 16/9/2026, Meey Global Corp (công ty mẹ của Meey Land) nộp công khai hồ sơ F-1 lên SEC, dự kiến niêm yết trên Nasdaq Capital Market với mã MEEY. Đợt chào bán dự kiến phụ thuộc điều kiện thị trường, mở ra cơ hội huy động vốn quốc tế cho doanh nghiệp bất động sản số Việt Nam."
-    },
-    {
-      "title": "VPBank nộp ngân sách 6.883 tỷ đồng, tăng 17,7%",
-      "impact": "↑",
-      "note": "Năm 2025, VPBank nộp ngân sách 6.883 tỷ đồng, tăng 1.037 tỷ đồng (17,7% so với 2024), đứng top 2 ngân hàng tư nhân và top 7 toàn ngành. Giai đoạn 2021-2025, VPBank nộp tổng cộng 31.159 tỷ đồng (1,2 tỷ USD). Nộp ngân sách cao phản ánh lợi nhuận tốt, sức khỏe tài chính của ngân hàng tư nhân."
-    },
-    {
-      "title": "10 doanh nghiệp bị phạt vì trái phiếu, tỷ lệ nợ lên 7,07 lần",
+      "title": "10 doanh nghiệp bị phạt hơn 1,33 tỷ đồng, rủi ro trái phiếu vẫn tiềm ẩn",
       "impact": "↓",
-      "note": "Thanh tra Chứng khoán Nhà nước phạt 10 doanh nghiệp gần 1,33 tỷ đồng, 8 trường hợp liên quan trái phiếu. Mức phạt cao nhất 350 triệu đồng: Công ty Phú Quốc chào bán 1.500 tỷ đồng trái phiếu khi nợ 28.46 ngàn tỷ đồng, vốn chủ 4,23 ngàn tỷ đồng (tỷ lệ nợ 7,07 lần). Báo hiệu rủi ro tín dụng trái phiếu gia tăng cần kiểm soát chặt."
+      "note": "Thanh tra Chứng khoán Nhà nước công bố quyết định xử phạt 10 doanh nghiệp với tổng mức phạt gần 1,33 tỷ đồng, trong đó 8 trường hợp liên quan đến trái phiếu. Mức phạt cao nhất là 350 triệu đồng cho trường hợp phát hành 1.500 tỷ đồng trái phiếu khi tỷ lệ nợ đã lên 7,07 lần vốn chủ sở hữu."
+    },
+    {
+      "title": "Bamboo Capital mất tư cách công ty đại chúng, nguy cơ thanh toán được đặt câu hỏi",
+      "impact": "↓",
+      "note": "Tại ĐHĐCĐ bất thường ngày 17/9/2026, Tổng Giám đốc Ng Wee Siong của Bamboo Capital khẳng định công ty không giải thể hay phá sản, nhưng thừa nhận việc mất tư cách công ty đại chúng tác động thực tế đến niềm tin thị trường và khả năng tiếp cận vốn. Cổ đông chưa nhận được con số cụ thể về dòng tiền còn lại."
+    },
+    {
+      "title": "VPBank nộp ngân sách tăng 17,7%, đóng góp 1,2 tỷ USD trong 5 năm",
+      "impact": "↑",
+      "note": "VPBank top 7 toàn ngành và top 2 ngân hàng tư nhân nộp ngân sách Nhà nước lớn nhất năm 2025 với mức đóng góp 6.883 tỷ đồng, tăng 1.037 tỷ đồng (17,7%) so với năm 2024. Trong giai đoạn 2021-2025, VPBank nộp tổng cộng 31.159 tỷ đồng (1,2 tỷ USD), tương ứng bình quân 6.200 tỷ đồng mỗi năm."
     }
   ]
 }
