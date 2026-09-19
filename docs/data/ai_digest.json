@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường Việt Nam hưởng lợi từ nâng hạng FTSE Russell (21/9) với dòng vốn ngoại dự kiến 1,5-2,5 tỷ USD, bổ sung thêm Vanguard sẽ đầu tư 2,5 tỷ USD. Lợi nhuận doanh nghiệp tăng 48% quý 2 tạo nền tảng cơ bản mạnh. Tuy nhiên, Fed nâng lãi suất 0,25% và lãi suất huy động trong nước ở mức cao tạo áp lực lên tỷ giá và chi phí vốn ngắn hạn.",
+  "summary_vi": "Lợi nhuận doanh nghiệp tăng mạnh 48% và nâng hạng FTSE Russell mở ra dòng vốn ETF 1.5-2 tỷ USD, hỗ trợ đà tăng của VN-Index. Fed tăng lãi suất 0.25% lên 3.75-4% tạo áp lực tỷ giá và thanh khoản trong giai đoạn nhu cầu ngoại tệ cao điểm cuối năm. Chính phủ tăng độc lập Ngân hàng Nhà nước trong điều hành chính sách tiền tệ từ 2026-2030, mục tiêu kiểm soát lạm phát. Nhu cầu huy động vốn 1.100 tỷ USD cho mục tiêu tăng trưởng 10% mở ra cơ hội đầu tư lớn.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng thị trường Việt Nam từ 21/9",
+      "title": "Lợi nhuận Q2 tăng 48%, nâng hạng FTSE mở dòng vốn ETF 1.5-2 tỷ USD",
       "impact": "↑",
-      "note": "Nâng từ thị trường cận biên lên thị trường mới nổi thứ cấp. Dòng vốn ETF thụ động dự kiến 1,5 tỷ USD trong 12 tháng tới, cộng thêm dòng vốn chủ động kỳ vọng lớn hơn."
+      "note": "Lợi nhuận doanh nghiệp niêm yết tăng khoảng 48% so với cùng kỳ năm trước trong quý 2/2026, vượt xa dự báo tăng 20% cả năm. Dòng vốn ETF ngoại từ nâng hạng FTSE Russell có thể đạt 1.5-2 tỷ USD, tạo lực đẩy mạnh cho thị trường."
     },
     {
-      "title": "Vanguard dự kiến đầu tư 2,5 tỷ USD vào Việt Nam",
-      "impact": "↑",
-      "note": "Giám đốc Vanguard khu vực Á-Thái Bình Dương Duncan Burns công bố Vanguard sẽ đầu tư khoảng 2,5 tỷ USD vào Việt Nam trong một năm tới, cao hơn dự báo trước đó (1-2 tỷ USD)."
-    },
-    {
-      "title": "Lợi nhuận doanh nghiệp tăng 48% quý 2",
-      "impact": "↑",
-      "note": "Lợi nhuận các doanh nghiệp niêm yết tăng 48% quý 2/2026 so với cùng kỳ năm trước, cao hơn dự báo 20% cho cả năm 2026. Kỳ vọng đà tăng tiếp tục quý 3-4."
-    },
-    {
-      "title": "Fed tăng lãi suất lần đầu trong 3 năm",
+      "title": "Fed tăng lãi suất lên 3.75-4%, áp lực tỷ giá cuối năm",
       "impact": "↓",
-      "note": "Fed nâng mức lãi suất mục tiêu lên 3,75-4% (tăng 0,25 điểm cơ bản), phát tín hiệu khả năng tiếp tục tăng nếu lạm phát chưa hạ nhiệt. Áp lực lên tỷ giá VND và chi phí vốn quốc tế."
+      "note": "Cục Dự trữ Liên bang Mỹ tăng lãi suất 0.25 điểm cơ bản lần đầu tiên kể từ 2023, đưa mức lãi suất mục tiêu lên 3.75-4%, để ngỏ khả năng tăng tiếp nếu lạm phát chưa hạ, tạo sức ép lên tỷ giá và thanh khoản của các nền kinh tế mới nổi như Việt Nam."
     },
     {
-      "title": "Tiền gửi dân cư tại ngân hàng đạt kỷ lục 11,22 triệu tỷ đồng",
-      "impact": "→",
-      "note": "Tiền gửi dân cư tại ngân hàng đạt 11,22 triệu tỷ đồng (mức cao nhất từ trước đến nay). Lãi suất huy động duy trì cao (một số ngân hàng 9-10%/năm kỳ hạn dài) phản ánh nhu cầu vốn tăng cuối năm."
-    },
-    {
-      "title": "VN-Index tăng 1,14% tuần 14-18/09, nhóm ngân hàng dẫn đầu",
+      "title": "VN-Index tuần 14-18/9 tăng 1.14%, nhóm ngân hàng/dầu khí tỏa sáng",
       "impact": "↑",
-      "note": "VN-Index tăng từ 1.795 lên 1.815,66 điểm. Nhóm ngân hàng (SSB +4,4 điểm, VCB +3 điểm) và dầu khí (BSR +2,9 điểm, GAS +2,8 điểm) dẫn dắt bất chấp biến động toàn cầu."
+      "note": "VN-Index tăng từ 1.795 lên 1.816 điểm (tăng 1.14%), VN30 tăng 1.42% lên 1.964,17 điểm. Nhóm ngân hàng dẫn dắt với SSB góp 4.4 điểm, VCB 3 điểm, dầu khí khỏe với BSR 2.9 điểm, GAS 2.8 điểm, phục hồi nhờ cơ cấu danh mục ETF."
+    },
+    {
+      "title": "Chính phủ tăng độc lập NHNN, chuyển sang điều hành theo giá 2026-2030",
+      "impact": "→",
+      "note": "Giai đoạn 2026-2030, Chính phủ định hướng tăng tính độc lập Ngân hàng Nhà nước Việt Nam trong chính sách tiền tệ, chuyển dần từ điều hành theo khối lượng sang điều hành theo giá, sử dụng công cụ gián tiếp, mục tiêu kiểm soát lạm phát."
+    },
+    {
+      "title": "Cần huy động 1.100 tỷ USD vốn cho mục tiêu tăng trưởng 10%",
+      "impact": "↑",
+      "note": "CEO Techcombank TS. Jens Lottner khẳng định nhu cầu hình thành vốn cho mục tiêu tăng trưởng 10% có thể lên tới khoảng 1.100 tỷ USD, mở ra cơ hội đầu tư lớn được thảo luận tại Techcombank Investment Summit 2026 ngày 19/9."
+    },
+    {
+      "title": "FDI đóng góp gần 80% xuất khẩu nhưng chỉ 0,15% thị trường chứng khoán",
+      "impact": "→",
+      "note": "Doanh nghiệp FDI đóng góp gần 80% kim ngạch xuất khẩu trong 8 tháng 2026 (299,53 tỷ USD) nhưng chỉ chiếm khoảng 0,15% toàn thị trường chứng khoán, đặt ra câu hỏi về kết nối sâu hơn giữa khối FDI và nguồn vốn nội địa."
     }
   ]
 }
