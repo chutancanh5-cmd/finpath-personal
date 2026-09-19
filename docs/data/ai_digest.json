@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-19",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Việt Nam nâng hạng FTSE Russell từ 21/9 mở ra cánh cửa dòng vốn ngoại khủng, với Vanguard dự kiến đầu tư 2.5 tỷ USD trong 12 tháng tới và ETF ngoại dự kiến 1.5 tỷ USD. Lợi nhuận doanh nghiệp niêm yết tăng 48% quý 2, vượt dự báo đầu năm khoảng 20%, tạo nền tảng hỗ trợ thị trường. Tuy nhiên, Fed tăng lãi suất 0.25 điểm đẩy lợi suất 10 năm vượt 5%, tạo áp lực tỷ giá. Chính phủ chủ động tăng độc lập NHNN, chuyển chính sách tiền tệ sang điều hành giá để kiểm soát lạm phát.",
+  "summary_vi": "Thị trường Việt Nam hưởng lợi từ nâng hạng FTSE Russell (21/9) với dòng vốn ngoại dự kiến 1,5-2,5 tỷ USD, bổ sung thêm Vanguard sẽ đầu tư 2,5 tỷ USD. Lợi nhuận doanh nghiệp tăng 48% quý 2 tạo nền tảng cơ bản mạnh. Tuy nhiên, Fed nâng lãi suất 0,25% và lãi suất huy động trong nước ở mức cao tạo áp lực lên tỷ giá và chi phí vốn ngắn hạn.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng: Dòng vốn ngoại kỷ lục",
+      "title": "FTSE Russell nâng hạng thị trường Việt Nam từ 21/9",
       "impact": "↑",
-      "note": "Vanguard dự kiến đầu tư 2.5 tỷ USD vào Việt Nam trong 12 tháng tới (cao hơn dự báo trước 1-2 tỷ USD). Dòng vốn thụ động từ ETF dự kiến 1.5 tỷ USD, dòng vốn chủ động được kỳ vọng lớn hơn, tạo động lực cho thị trường."
+      "note": "Nâng từ thị trường cận biên lên thị trường mới nổi thứ cấp. Dòng vốn ETF thụ động dự kiến 1,5 tỷ USD trong 12 tháng tới, cộng thêm dòng vốn chủ động kỳ vọng lớn hơn."
     },
     {
-      "title": "Lợi nhuận doanh nghiệp tăng 48%, vượt kỳ vọng",
+      "title": "Vanguard dự kiến đầu tư 2,5 tỷ USD vào Việt Nam",
       "impact": "↑",
-      "note": "Lợi nhuận doanh nghiệp niêm yết quý 2 tăng 48% so với cùng kỳ năm trước, vượt dự báo đầu năm khoảng 20%. Kỳ vọng tăng tiếp quý 3-4, tạo nền tảng hỗ trợ định giá cổ phiếu."
+      "note": "Giám đốc Vanguard khu vực Á-Thái Bình Dương Duncan Burns công bố Vanguard sẽ đầu tư khoảng 2,5 tỷ USD vào Việt Nam trong một năm tới, cao hơn dự báo trước đó (1-2 tỷ USD)."
     },
     {
-      "title": "Fed tăng lãi suất, áp lực tỷ giá tăng",
+      "title": "Lợi nhuận doanh nghiệp tăng 48% quý 2",
+      "impact": "↑",
+      "note": "Lợi nhuận các doanh nghiệp niêm yết tăng 48% quý 2/2026 so với cùng kỳ năm trước, cao hơn dự báo 20% cho cả năm 2026. Kỳ vọng đà tăng tiếp tục quý 3-4."
+    },
+    {
+      "title": "Fed tăng lãi suất lần đầu trong 3 năm",
       "impact": "↓",
-      "note": "Fed tăng lãi suất 0.25 điểm lên 3.75-4%, lợi suất trái phiếu 10 năm vượt 5%. Tạo sức ép lên tỷ giá thị trường mới nổi khi nhu cầu ngoại tệ Việt Nam bước vào cao điểm cuối năm."
+      "note": "Fed nâng mức lãi suất mục tiêu lên 3,75-4% (tăng 0,25 điểm cơ bản), phát tín hiệu khả năng tiếp tục tăng nếu lạm phát chưa hạ nhiệt. Áp lực lên tỷ giá VND và chi phí vốn quốc tế."
     },
     {
-      "title": "Chính phủ tăng độc lập NHNN, điều hành giá",
+      "title": "Tiền gửi dân cư tại ngân hàng đạt kỷ lục 11,22 triệu tỷ đồng",
       "impact": "→",
-      "note": "Giai đoạn 2026-2030: Tăng độc lập NHNN, chuyển điều hành tiền tệ từ khối lượng sang giá, sử dụng công cụ gián tiếp. Tỷ giá tiếp tục thả nổi có quản lý để hấp thu cú sốc và kiểm soát lạm phát."
+      "note": "Tiền gửi dân cư tại ngân hàng đạt 11,22 triệu tỷ đồng (mức cao nhất từ trước đến nay). Lãi suất huy động duy trì cao (một số ngân hàng 9-10%/năm kỳ hạn dài) phản ánh nhu cầu vốn tăng cuối năm."
     },
     {
-      "title": "Tiền gửi đạt kỷ lục 11.22 triệu tỷ đồng",
-      "impact": "→",
-      "note": "Tiền gửi dân cư tại ngân hàng đạt 11.22 triệu tỷ đồng (kỷ lục). Lãi suất huy động tăng cao: PVcomBank 10%/năm (kỳ hạn 12-13 tháng), MSB 9%/năm, phản ánh nhu cầu vốn mạnh."
-    },
-    {
-      "title": "Mỹ đầu tư 450 triệu USD vào vonfram",
+      "title": "VN-Index tăng 1,14% tuần 14-18/09, nhóm ngân hàng dẫn đầu",
       "impact": "↑",
-      "note": "Mỹ đầu tư 450 triệu USD vào Elmet Group cho chuỗi cung ứng vonfram. Trung Quốc chiếm 85% cung cấp toàn cầu. Masan High-Tech Materials (MSR) có cơ hội chế biến sâu vonfram tại Việt Nam."
+      "note": "VN-Index tăng từ 1.795 lên 1.815,66 điểm. Nhóm ngân hàng (SSB +4,4 điểm, VCB +3 điểm) và dầu khí (BSR +2,9 điểm, GAS +2,8 điểm) dẫn dắt bất chấp biến động toàn cầu."
     }
   ]
 }
