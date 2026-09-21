@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-21",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam bước vào giai đoạn mới sau khi chính thức được nâng hạng lên thị trường mới nổi thứ cấp của FTSE Russell từ phiên 21/9. Dòng tiền ngoại mua ròng gần 1 ngàn tỷ đồng trước sự kiện, mở ra cơ hội tái định giá. Cùng lúc, xuất nhập khẩu vượt 825 tỷ USD (tăng 30%), các khoản FDI lớn (Bestway 100 triệu USD, vonfram Mỹ 450 triệu USD) cho thấy nền tảng kinh tế vẫn tương đối vững. Tuy nhiên, Fed vừa tăng lãi suất lên 3.75-4%, tạo áp lực ngắn hạn lên tỷ giá, thanh khoản và khả năng cải thiện dòng tiền vào chứng khoán.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đón nhận kỳ vọng lớn từ quyết định nâng hạng FTSE (Secondary Emerging Market) chính thức có hiệu lực ngày 21/9, với dòng vốn ngoại đón đầu bằng mua ròng mạnh +2.639 tỷ đồng (tuần mạnh nhất kể từ cuối tháng 2/2026). Tuy nhiên, áp lực từ làn sóng thắt chặt tiền tệ toàn cầu (Fed nâng lãi suất 0,25% lên 3,75-4%, ECB, BOJ, BOE cũng tăng) đẩy lãi suất cho vay nội địa lên 10,7%/năm, làm tăng chi phí vốn doanh nghiệp. Rủi ro ngắn hạn từ hiện tượng rút vốn quỹ cổ phiếu toàn cầu (cao nhất 9 tháng) có thể kiềm chế lợi nhuận, song tín hiệu tăng trưởng kỷ lục từ Masan (+52% doanh thu) và dòng vốn FDI lớn (Bestway 100M USD) cho thấy nền kinh tế vẫn có sức hút.",
   "top": [
     {
-      "title": "Nâng hạng FTSE Russell: xu thế dòng tiền",
+      "title": "Việt Nam nâng hạng FTSE lên Secondary Emerging Market",
       "impact": "↑",
-      "note": "Từ phiên 21/9, TTCK VN chính thức nâng hạng lên thị trường mới nổi thứ cấp. Phiên 18/9, khối ngoại mua ròng gần 1 ngàn tỷ đồng trước khi quyết định có hiệu lực. VN-Index bảo vệ thành công vùng hỗ trợ 1780, phục hồi tốt. Chuyên gia kỳ vọng thử thách 1845-1850 điểm trong ngắn hạn, cần sự thay đổi rõ nét từ dòng tiền dài hạn."
+      "note": "Ngày 21/9, quyết định nâng hạng chính thức có hiệu lực, kết thúc hành trình ~10 năm từ Frontier Market. Vanguard (quản lý ~13.000 tỷ USD) dự kiến phân bổ khoảng 2,5 tỷ USD (~65.000 tỷ đồng) vào Việt Nam với cam kết dài hạn, mở rộng khả năng tiếp cận vốn quốc tế."
     },
     {
-      "title": "Fed tăng lãi suất, áp lực tỷ giá VN",
+      "title": "Khối ngoại mua ròng tuần mạnh nhất 7 tháng qua",
+      "impact": "↑",
+      "note": "Tuần vừa qua khối ngoại mua ròng +2.639 tỷ đồng, đánh dấu tuần mạnh nhất kể từ cuối tháng 2/2026. Tập trung gom các cổ phiếu vốn hóa lớn: FPT (+571 tỷ), HDB (+462 tỷ), BSR (+423 tỷ), cho thấy sự tự tin vào cơ hội tái định giá sau nâng hạng."
+    },
+    {
+      "title": "Masan Group tăng trưởng kỷ lục 52% trong 8 tháng",
+      "impact": "↑",
+      "note": "MSN 8 tháng đạt doanh thu 77,023 tỷ đồng (+52% YoY), lợi nhuận sau thuế 8,518 tỷ đồng (gấp 2,2 lần cùng kỳ). Nâng kế hoạch doanh thu 2026 từ 93,5-98 tỷ lên 98-105 tỷ đồng, cho thấy hiệu suất kinh doanh và tiềm năng tăng trưởng doanh nghiệp VN."
+    },
+    {
+      "title": "Fed tăng lãi suất, phát tín hiệu tiếp tục thắt chặt",
       "impact": "↓",
-      "note": "Fed tăng 0.25% lên 3.75-4% ngày 16/9, phát tín hiệu sẵn sàng tiếp tục thắt chặt. Dòng vốn toàn cầu thắt lại, USD mạnh lên tạo áp lực lên nền kinh tế mới nổi, trong đó Việt Nam. Nhu cầu ngoại tệ VN bước vào cao điểm cuối năm, nguy cơ tăng sức ép tỷ giá và thanh khoản."
+      "note": "Fed nâng lãi suất thêm 0,25 điểm cơ bản lên 3,75-4% tuần trước, phần lớn thành viên FOMC dự kiến có thể tăng thêm ít nhất 1 lần năm nay. ECB nâng 25 điểm, BOJ từ 1% lên 1,25%, BOE giữ 3,75% nhưng 3/9 thành viên ủng hộ tăng, tạo sức ép lên VND."
     },
     {
-      "title": "Xuất nhập khẩu vượt 825 tỷ USD, tăng 30%",
-      "impact": "↑",
-      "note": "Tính đến 15/9, tổng kim ngạch XNK đã vượt 825 tỷ USD, tăng gần 30% so với cùng kỳ 2025. Máy vi tính/điện tử/linh kiện dẫn dắt với 110 tỷ USD. Tăng trưởng xuất khẩu dẫn đầu bởi công nghiệp chế biến/chế tạo, tín hiệu tích cực cho công nghiệp hóa, tuy cán cân thương mại vẫn nhập siêu 23.5 tỷ USD."
+      "title": "Lãi suất cho vay bình quân toàn hệ thống lên 10,7%/năm",
+      "impact": "↓",
+      "note": "Lãi suất cho vay bình quân tăng 0,2 điểm % so tháng 7 và tăng ~3%/năm so 1 năm trước. Chênh lệch giữa ngân hàng lớn (BIDV 7,59%, Woori 5,98%), làm tăng chi phí vốn cho doanh nghiệp; lãi suất cho vay USD bình quân 4,1-5,4%/năm."
     },
     {
-      "title": "Đầu tư vonfram Mỹ 450 triệu USD",
-      "impact": "↑",
-      "note": "Bộ Quốc phòng Mỹ ngày 14/9 công bố khoản đầu tư 450 triệu USD cho Elmet Group để củng cố chuỗi cung ứng vonfram trong nước, giảm phụ thuộc Trung Quốc (chiếm 85% cung toàn cầu). Mở cơ hội cho Masan High-Tech Materials phát triển chế biến sâu vonfram tại Việt Nam, phục vụ bán dẫn, hàng không, quốc phòng."
-    },
-    {
-      "title": "Nhà máy Bestway khánh thành, FDI 100 triệu USD",
-      "impact": "↑",
-      "note": "Chiều 19/9, Nhà máy Công nghệ Thể thao Bestway Cần Thơ khánh thành giai đoạn 1 với vốn 100 triệu USD (2.600 tỷ đồng), diện tích 280.000m². Năng lực sản xuất 22 triệu sản phẩm/năm, dự tính tạo 6.000 việc làm. Dự kiến hoàn thành giai đoạn 3 sẽ có 530.000m² sàn, tín hiệu tích cực cho FDI."
-    },
-    {
-      "title": "Chính phủ tăng độc lập NHNN 2026-2030",
-      "impact": "↑",
-      "note": "Chính phủ định hướng giai đoạn 2026-2030: tăng tính độc lập Ngân hàng Nhà nước, chuyển từ điều hành theo khối lượng sang giá, sử dụng công cụ gián tiếp, duy trì tỷ giá thả nổi có quản lý. Cải cách này hướng đến ổn định lạm phát, kiềm chế đồng tiền, phù hợp với bối cảnh Fed tăng lãi suất."
+      "title": "Rút vốn quỹ cổ phiếu toàn cầu cao nhất 9 tháng",
+      "impact": "↓",
+      "note": "Quỹ cổ phiếu toàn cầu rút ròng 23,21 tỷ USD trong tuần (cao nhất 9 tháng). Mỹ rút ròng 31,44 tỷ USD (tuần thứ 4 liên tiếp), thị trường mới nổi rút ròng 1,61 tỷ USD (tuần thứ 2 liên tiếp), cho thấy lo ngại nhà đầu tư trước tình hình toàn cầu."
     }
   ]
 }
