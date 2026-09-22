@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực vĩ mô nặng nề: nhập siêu lập đỉnh 30 năm (23,5 tỷ USD) tạo áp lực tỷ giá, Fed tăng lãi suất thắt chặt điều kiện tài chính toàn cầu. Thanh khoản sụt mạnh chỉ 14.000 tỷ đồng khiến phục hồi yếu. Lạm phát kiểm soát (4,45%) nhưng lực cầu yếu. Trên mặt tích cực, Alibaba đầu tư hạ tầng AI (20 GW đến 2032) và TP.HCM định hướng tăng trưởng 2 con số, nhưng rủi ro ngắn hạn vẫn chiếm ưu thế.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt với nhiều thách thức vĩ mô: cán cân thương mại bị sức ép với nhập siêu 2,8 tỷ USD (nhập khẩu tăng 7,16% vs xuất khẩu 2,4%), thanh khoản thị trường suy yếu chỉ 14.000 tỷ đồng, lạm phát 4.45% nằm trong mục tiêu nhưng có dấu hiệu tiềm ẩn, và Fed tăng lãi suất 0,25 điểm cơ bản tạo sức ép lên đồng USD. Tuy vậy, TP.HCM tuyên bố hướng tới tăng trưởng 2 con số trong 3 tháng cuối năm là tín hiệu tích cực.",
   "top": [
     {
-      "title": "Nhập siêu lập đỉnh 30 năm",
+      "title": "Nhập khẩu tăng gấp 3 xuất khẩu, nhập siêu 2,8 tỷ USD",
       "impact": "↓",
-      "note": "Đến 15/9/2026, Việt Nam nhập siêu 23,5 tỷ USD (cao nhất 30 năm), đảo chiều hoàn toàn từ xuất siêu 13,3 tỷ USD cùng kỳ 2025. Khối FDI xuất siêu 8,7 tỷ USD nhưng doanh nghiệp trong nước nhập siêu 32,2 tỷ USD. Máy vi tính/điện tử nhập siêu 64,2 tỷ USD. Áp lực lên tỷ giá, lãi suất và chất lượng tăng trưởng."
+      "note": "Nửa đầu tháng 9, kim ngạch xuất khẩu 26,02 tỷ USD tăng 2,4% nhưng nhập khẩu 28,84 tỷ USD tăng 7,16%, tạo nhập siêu 2,82 tỷ USD. Chênh lệch tốc độ cho thấy nhu cầu nhập khẩu phục hồi nhanh hơn xuất khẩu, gây sức ép lên cán cân thương mại ngắn hạn."
     },
     {
-      "title": "Fed tăng lãi suất 0,25% lên 3,75-4%",
+      "title": "Thanh khoản thị trường sụt mạnh, chỉ 14.000 tỷ đồng",
       "impact": "↓",
-      "note": "Cục Dự trữ Liên bang Mỹ tăng lãi suất lần đầu kể từ 2023, đi kèm thông điệp để ngỏ khả năng tiếp tục thắt chặt. Sự mạnh lên của đồng USD làm tăng chi phí vốn quốc tế và tạo áp lực lên dòng vốn, tỷ giá các nước mới nổi như Việt Nam."
+      "note": "Giá trị khớp lệnh ba sàn bất ngờ sụt mạnh chỉ 14.000 tỷ đồng ngày 22/9, là vùng rất thấp thường xuất hiện khi thị trường vắng bóng thông tin hỗ trợ, gây lo ngại về độ tin cậy của đà hồi phục."
     },
     {
-      "title": "Thanh khoản giảm mạnh, VN-Index phục hồi yếu",
-      "impact": "→",
-      "note": "VN-Index tăng 17 điểm lên 1.816,93 nhưng thanh khoản ba sàn sụt mạnh chỉ 14.000 tỷ đồng (rất thấp). VIC và VHM đóng góp 16 điểm trong tổng 17 điểm tăng. Phục hồi phụ thuộc vào cổ phiếu trụ không phải lực cầu rộng."
+      "title": "Fed tăng lãi suất, tạo sức ép lên ngoại tệ Việt Nam",
+      "impact": "↓",
+      "note": "Fed tăng lãi suất thêm 0,25 điểm cơ bản lên 3,75-4%, đồng USD mạnh lên tạo áp lực lên dòng vốn và tỷ giá tại các nền kinh tế mới nổi. Việt Nam cần chủ động củng cố nguồn ngoại tệ giữa nhu cầu cao điểm cuối năm."
     },
     {
-      "title": "TP.HCM vào chặng nước rút để tăng trưởng 2 con số",
+      "title": "CPI 4.45% nằm trong mục tiêu nhưng có dấu hiệu tiềm ẩn",
+      "impact": "↓",
+      "note": "Lạm phát bình quân 8 tháng 2026 là 4.45% nằm trong mục tiêu khoảng 4.5%, nhưng bóc tách theo tháng cho thấy bức tranh khác: 3 tháng qua giá gần như không nhúc nhích, 71 điểm cơ bản hạ nhiệt chỉ đến từ nền so sánh chứ không phải mặt bằng giá giảm."
+    },
+    {
+      "title": "TP.HCM hướng tới tăng trưởng 2 con số, 3 tháng cuối năm là giai đoạn nước rút",
       "impact": "↑",
-      "note": "Chủ tịch UBND TP.HCM Nguyễn Văn Được khẳng định 3 tháng cuối 2026 là giai đoạn nước rút, quyết định. Luật Phát triển đô thị được ban hành 24/8 mở đường cho thành phố bứt phá, 38 Nghị quyết thông qua hỗ trợ tăng trưởng."
+      "note": "Chủ tịch Nguyễn Văn Được phát biểu ngày 22/9 rằng 3 tháng cuối 2026 là giai đoạn nước rút quyết định, Thành phố đặt mục tiêu tăng trưởng 2 con số. Luật Phát triển đô thị được ban hành tạo cơ sở cho bứt phá."
     },
     {
-      "title": "Alibaba ra mắt chip AI Zhenwu V900, nâng công suất 20 GW",
-      "impact": "↑",
-      "note": "Alibaba công bố chip AI mới mạnh gấp 3 lần chip Zhenwu M890, kế hoạch nâng công suất trung tâm dữ liệu toàn cầu lên 20 GW đến 2032. Cổ phiếu tăng 3% phản ánh tham vọng AI/hạ tầng công nghệ."
-    },
-    {
-      "title": "Lạm phát 8 tháng tăng 4,45%, lực cầu yếu",
-      "impact": "→",
-      "note": "CPI bình quân 8 tháng 2026 tăng 4,45% so với cùng kỳ, nằm trong mục tiêu 4,5%. Tuy nhiên, bóc tách theo tháng cho thấy mặt bằng giá quý III gần như không nhúc nhích, hạ nhiệt chủ yếu từ nền so sánh cao. Gợi ý lực cầu yếu."
+      "title": "Tiền gửi thanh toán giảm 10% so với cùng kỳ năm ngoái",
+      "impact": "↓",
+      "note": "Tiền gửi thanh toán của cá nhân cuối quý II/2026 là 1,22 triệu tỷ đồng, giảm khoảng 130.000 tỷ đồng (gần 10%) so với quý II/2025. Cho thấy người dân có thể chuyển tiền sang các kênh đầu tư khác hoặc nhu cầu thanh toán giảm."
     }
   ]
 }
