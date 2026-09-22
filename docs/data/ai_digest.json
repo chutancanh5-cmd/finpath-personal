@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-22",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường được nâng hạng FTSE Russell lên Emerging Secondary mở cơ hội thu hút vốn ngoại dài hạn, nhưng ngắn hạn vẫn chịu sức ép từ nhập siêu kỷ lục 23,5 tỷ USD và Fed tăng lãi suất 0.25 điểm cơ bản. VN-Index phục hồi nhẹ nhờ blue-chips, tuy nhiên thanh khoản cực thấp (~10,8 ngàn tỷ đồng) và lãi suất khó giảm phản ánh tâm lý nhà đầu tư thận trọng giữa những rủi ro vĩ mô.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực vĩ mô nặng nề: nhập siêu lập đỉnh 30 năm (23,5 tỷ USD) tạo áp lực tỷ giá, Fed tăng lãi suất thắt chặt điều kiện tài chính toàn cầu. Thanh khoản sụt mạnh chỉ 14.000 tỷ đồng khiến phục hồi yếu. Lạm phát kiểm soát (4,45%) nhưng lực cầu yếu. Trên mặt tích cực, Alibaba đầu tư hạ tầng AI (20 GW đến 2032) và TP.HCM định hướng tăng trưởng 2 con số, nhưng rủi ro ngắn hạn vẫn chiếm ưu thế.",
   "top": [
     {
-      "title": "Thị trường được nâng hạng FTSE Russell thành Emerging Secondary",
-      "impact": "↑",
-      "note": "Ngày 21/9/2026, TTCK Việt Nam chính thức được FTSE Russell nâng hạng từ Frontier Market lên Emerging Secondary, mở cơ hội thu hút dòng vốn quốc tế dài hạn và nâng cao vị thế thị trường trong mắt nhà đầu tư nước ngoài."
-    },
-    {
-      "title": "Nhập siêu lập đỉnh 30 năm, đạt 23,5 tỷ USD đến giữa tháng 9",
+      "title": "Nhập siêu lập đỉnh 30 năm",
       "impact": "↓",
-      "note": "Từ đầu năm đến 15/9, xuất khẩu tăng 23,2% lên 400,8 tỷ USD nhưng nhập khẩu tăng 36% lên 424,3 tỷ USD, tạo nhập siêu 23,5 tỷ USD (cao nhất 30 năm), đặt áp lực lên tỷ giá, lãi suất và tốc độ tăng trưởng."
+      "note": "Đến 15/9/2026, Việt Nam nhập siêu 23,5 tỷ USD (cao nhất 30 năm), đảo chiều hoàn toàn từ xuất siêu 13,3 tỷ USD cùng kỳ 2025. Khối FDI xuất siêu 8,7 tỷ USD nhưng doanh nghiệp trong nước nhập siêu 32,2 tỷ USD. Máy vi tính/điện tử nhập siêu 64,2 tỷ USD. Áp lực lên tỷ giá, lãi suất và chất lượng tăng trưởng."
     },
     {
-      "title": "Fed tăng lãi suất 0.25 điểm cơ bản lên 3.75-4%, mở khả năng tiếp tục tăng",
+      "title": "Fed tăng lãi suất 0,25% lên 3,75-4%",
       "impact": "↓",
-      "note": "Cục Dự trữ Liên bang Mỹ tăng lãi suất lần đầu kể từ năm 2023 với thông điệp tiếp tục có thể tăng nếu lạm phát không hạ bền vững, gây sức ép lên chi phí vốn quốc tế và dòng vốn tại các thị trường mới nổi như Việt Nam."
+      "note": "Cục Dự trữ Liên bang Mỹ tăng lãi suất lần đầu kể từ 2023, đi kèm thông điệp để ngỏ khả năng tiếp tục thắt chặt. Sự mạnh lên của đồng USD làm tăng chi phí vốn quốc tế và tạo áp lực lên dòng vốn, tỷ giá các nước mới nổi như Việt Nam."
     },
     {
-      "title": "VN-Index phục hồi tăng 17,26 điểm lên 1.816,93 điểm nhờ blue-chips",
+      "title": "Thanh khoản giảm mạnh, VN-Index phục hồi yếu",
       "impact": "→",
-      "note": "Phiên 22/9, VN-Index tăng 0,96% do VIC, VHM, MSN và các cổ phiếu lớn đồng loạt tăng, tuy nhiên thanh khoản cực thấp chỉ ~10,8 ngàn tỷ đồng cho thấy lực mua còn hạn chế."
+      "note": "VN-Index tăng 17 điểm lên 1.816,93 nhưng thanh khoản ba sàn sụt mạnh chỉ 14.000 tỷ đồng (rất thấp). VIC và VHM đóng góp 16 điểm trong tổng 17 điểm tăng. Phục hồi phụ thuộc vào cổ phiếu trụ không phải lực cầu rộng."
     },
     {
-      "title": "HDBank được NHNN chấp thuận tăng vốn điều lệ 22.015 tỷ đồng",
+      "title": "TP.HCM vào chặng nước rút để tăng trưởng 2 con số",
       "impact": "↑",
-      "note": "Ngân hàng TMCP Phát triển TP.HCM (HDB) nhận được Công văn NHNN chấp thuận tăng vốn điều lệ thêm 22.015 tỷ đồng, nâng tổng vốn lên 72.069 tỷ đồng, tăng cường năng lực tài chính cho ngành ngân hàng."
+      "note": "Chủ tịch UBND TP.HCM Nguyễn Văn Được khẳng định 3 tháng cuối 2026 là giai đoạn nước rút, quyết định. Luật Phát triển đô thị được ban hành 24/8 mở đường cho thành phố bứt phá, 38 Nghị quyết thông qua hỗ trợ tăng trưởng."
     },
     {
-      "title": "Lãi suất vay mua nhà khó giảm mạnh, có thể duy trì cao đến 2027",
-      "impact": "↓",
-      "note": "Các chuyên gia dự báo mặt bằng lãi suất khó giảm từ nay đến hết Q1/2027 do chính sách tiền tệ quốc tế và trong nước, tạo sức ép lên nhu cầu và giá bất động sản, ảnh hưởng tiêu cực tới ngành BĐS."
+      "title": "Alibaba ra mắt chip AI Zhenwu V900, nâng công suất 20 GW",
+      "impact": "↑",
+      "note": "Alibaba công bố chip AI mới mạnh gấp 3 lần chip Zhenwu M890, kế hoạch nâng công suất trung tâm dữ liệu toàn cầu lên 20 GW đến 2032. Cổ phiếu tăng 3% phản ánh tham vọng AI/hạ tầng công nghệ."
+    },
+    {
+      "title": "Lạm phát 8 tháng tăng 4,45%, lực cầu yếu",
+      "impact": "→",
+      "note": "CPI bình quân 8 tháng 2026 tăng 4,45% so với cùng kỳ, nằm trong mục tiêu 4,5%. Tuy nhiên, bóc tách theo tháng cho thấy mặt bằng giá quý III gần như không nhúc nhích, hạ nhiệt chủ yếu từ nền so sánh cao. Gợi ý lực cầu yếu."
     }
   ]
 }
