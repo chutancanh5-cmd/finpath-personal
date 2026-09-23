@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngân hàng Phát triển Châu Á nâng dự báo tăng trưởng GDP Việt Nam lên 7,8%, cao nhất khu vực Đông Nam Á, trong khi thị trường chứng khoán được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp mở cơ hội hút dòng vốn quốc tế. Các ngân hàng đang chuyển sang cho vay SME dựa trên đánh giá dòng tiền thay vì chỉ dựa tài sản bảo đảm, hỗ trợ mở rộng tín dụng cho khu vực này. Tuy nhiên, lạm phát vẫn ở 4,45%, lãi suất trái phiếu doanh nghiệp duy trì mức cao 9,5%/năm gây áp lực tài chính cho doanh nghiệp.",
+  "summary_vi": "ADB nâng dự báo tăng trưởng GDP Việt Nam lên 7,8%, vượt kỳ vọng nhờ sản xuất chế biến mạnh, tiêu dùng nội địa và FDI ổn định. Nâng xếp hạng thị trường chứng khoán và thị trường trái phiếu mở thêm dòng vốn quốc tế cho nền kinh tế. Các dự án đầu tư lớn tiếp tục triển khai (VinSpeed, Agribank-PVEP), công ty lớn có lợi nhuận tăng vọt (MSN). Tuy nhiên, lạm phát 4,3% và tín dụng tăng nhanh 10,24% yêu cầu kiểm soát chặt; tâm lý thị trường yếu ngắn hạn (VN-Index, blue-chips giảm).",
   "top": [
     {
-      "title": "ADB nâng dự báo GDP Việt Nam 2026 lên 7,8%",
+      "title": "ADB nâng dự báo GDP 7,8%",
       "impact": "↑",
-      "note": "Ngân hàng Phát triển Châu Á nâng dự báo tăng trưởng kinh tế Việt Nam năm 2026 từ 7,2% lên 7,8%, cao nhất trong nhóm các nền kinh tế lớn Đông Nam Á. Dự báo năm 2027 cũng được nâng từ 7% lên 7,6%. Tăng trưởng được duy trì từ sản xuất chế biến, chế tạo, nhu cầu trong nước, đầu tư công và FDI."
+      "note": "ADB nâng dự báo tăng trưởng GDP Việt Nam 2026 từ 7,2% lên 7,8%, cao hơn 0,6 điểm phần trăm; GDP 6 tháng đầu năm 2026 tăng 8,2% so với 7,5% cùng kỳ 2025; động lực từ công nghiệp chế biến chế tạo, tiêu dùng trong nước tăng mạnh, FDI duy trì ổn định."
     },
     {
-      "title": "TTCK Việt Nam được FTSE Russell nâng hạng thị trường",
+      "title": "Nâng xếp hạng, thị trường trái phiếu mở dòng vốn",
       "impact": "↑",
-      "note": "Thị trường chứng khoán Việt Nam chính thức nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp với hiệu lực từ 21/9/2026. Quyết định được công bố tại kỳ đánh giá tháng 9/2025 và khẳng định lại tháng 4/2026, mở cơ hội tiếp cận từ các quỹ đầu tư quốc tế lớn như Vanguard, BlackRock, Goldman Sachs."
+      "note": "Nâng xếp hạng thị trường chứng khoán mở cơ hội tiếp cận dòng vốn quốc tế; thị trường trái phiếu có thể mở thêm dòng vốn cho nền kinh tế khoảng 38 triệu tỷ đồng, giúp doanh nghiệp và Chính phủ tiếp cận vốn với kỳ hạn dài hơn, chi phí thấp hơn."
     },
     {
-      "title": "CPI 8 tháng năm 2026 tăng 4,45%, mặt bằng giá ổn định",
-      "impact": "→",
-      "note": "CPI bình quân 8 tháng năm 2026 tăng 4,45% so với cùng kỳ, nằm trong mục tiêu khoảng 4,5%. Tuy nhiên so với tháng 12/2025, mặt bằng giá chỉ tăng 3,61% (tháng 5) xuống 3,57% (tháng 8), cho thấy áp lực giá cả đang giảm nhưng cần duy trì theo dõi."
+      "title": "VinSpeed + Siemens hợp đồng 1 tỷ EUR đường sắt",
+      "impact": "↑",
+      "note": "VinSpeed và Siemens Mobility ký hợp đồng trị giá 1 tỷ Euro (khoảng 1,15 tỷ USD) để phát triển hai tuyến đường sắt tốc độ cao Hà Nội - Quảng Ninh và Bến Thành - Cần Giờ; VinSpeed xây dựng, Siemens cung cấp 10 đoàn tàu Velaro Novo."
     },
     {
-      "title": "Lãi suất trái phiếu doanh nghiệp duy trì cao 9,5%/năm",
+      "title": "MSN lợi nhuận tăng vọt, giá mục tiêu trên 110,000",
+      "impact": "↑",
+      "note": "Tập đoàn Masan ghi nhận lợi nhuận sau thuế 8,518 tỷ đồng trong 8 tháng đầu năm 2026, gấp 2,2 lần cùng kỳ; doanh thu thuần 77,023 tỷ đồng tăng 52%; các định chế tài chính nâng giá mục tiêu MSN lên trên 110,000 đồng/cp."
+    },
+    {
+      "title": "Lạm phát 4,3% và tín dụng tăng 10,24%",
       "impact": "↓",
-      "note": "Lãi suất trái phiếu doanh nghiệp bình quân gia quyền 8 tháng năm 2026 duy trì ở 9,5%/năm (so với 7,3% năm 2025), nhóm bất động sản lên tới 10,5%/năm. Tổng giá trị phát hành đạt gần 384,2 nghìn tỷ đồng, gây áp lực tài chính đặc biệt cho ngành bất động sản."
+      "note": "ADB nâng dự báo lạm phát năm 2026 từ 3,7% lên 4,3% do áp lực cầu và chi phí năng lượng nhập khẩu; tín dụng cả nước tăng 10,24% trong 8 tháng đầu năm yêu cầu kiểm soát chặt để bảo đảm ổn định tài chính vĩ mô."
     },
     {
-      "title": "Ngân hàng chuyển sang cho vay SME dựa dòng tiền",
-      "impact": "↑",
-      "note": "Các ngân hàng giảm phụ thuộc vào tài sản bảo đảm, chuyển sang đánh giá dòng tiền và khả năng trả nợ. Vietcombank tín dụng SME tăng 13,5% trong 8 tháng (cao hơn 7,8% tăng chung); Agribank 90% khách hàng doanh nghiệp là SME (60% dư nợ), triển khai 70.000 tỷ đồng tín dụng 2 năm tới."
-    },
-    {
-      "title": "TP Hồ Chí Minh mục tiêu tăng trưởng 13,5% quý IV",
-      "impact": "↑",
-      "note": "TP Hồ Chí Minh dự kiến tăng trưởng 13,5% trong quý 4/2026, với tập trung tháo gỡ điểm nghẽn, khơi thông nguồn lực. Đã hoàn thành 3/4 mục tiêu năm, cần đạt các chỉ tiêu còn lại trong quý cuối."
+      "title": "VN-Index giảm, blue-chips sụt",
+      "impact": "↓",
+      "note": "Loạt cổ phiếu vốn hóa lớn giảm giá đáng kể ngày 23/9; VN30 giảm 0,53% với 22 mã giảm; VIC giảm 3,2%, VHM giảm 1,73%, VCB giảm 0,68%, lấy đi 15 điểm VN-Index, phản ánh tâm lý thị trường yếu."
     }
   ]
 }
