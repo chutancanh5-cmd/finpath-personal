@@ -7,7 +7,7 @@ Tu lay du lieu cong khai, KHONG phu thuoc thu muc macro/:
     co do tuoi feed va khu trung theo noi dung. Truoc 25/08/2026 chi co 3 feed,
     trong do 2 la CafeF -> CafeF hong mot buoi la muc tin trong tron.
   - Regime score tu VNINDEX (vnstock) + FRED (CPI/Fed/10Y/USD/dau/VIX)
-  - Tom tat + sentiment bang Sonnet 5 (neu co ANTHROPIC_API_KEY con credit)
+  - Tom tat + sentiment bang Haiku 4.5 (neu co ANTHROPIC_API_KEY con credit)
 Key doc tu bien moi truong: FRED_API_KEY, ANTHROPIC_API_KEY (GitHub Secrets).
 
 Usage: python update_news.py [--push]
@@ -183,7 +183,7 @@ def regime(fred_key):
     return {"score": score, "label": label, "note": note.strip(), "rows": rows}
 
 
-# ---------------------------------------------------------------- AI digest (Sonnet 5)
+# ---------------------------------------------------------------- AI digest (Haiku 4.5)
 _SCHEMA = {
     "type": "object",
     "properties": {
