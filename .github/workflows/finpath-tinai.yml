@@ -36,7 +36,7 @@ jobs:
         run: python3 updater/update_news.py --check-new
 
   # Tom tat tin tuc = HAIKU 4.5 (quyet dinh 2026-09-09). Cac bot khac (phan tich
-  # ky thuat, vi mo phan tang) van dung Opus 5 vi can suy luan nang.
+  # ky thuat, vi mo phan tang) van dung Opus 5.5 vi can suy luan nang.
   digest:
     needs: check
     if: needs.check.outputs.has_new == 'true'
