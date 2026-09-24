@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-24",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "ADB nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 7,8% (cao nhất ASEAN) nhờ tăng trưởng thực tế 8,2% H1 và FDI ổn định. Tuy nhiên, lạm phát dự báo 4,3%, áp lực từ Fed (tăng lãi suất), giá dầu cao (9x USD/thùng) và khối ngoại bán ròng hơn 1.000 tỷ đồng tạo áp lực ngắn hạn. VN-Index giảm 0,84% do nhóm bluechip suy yếu, phản ánh sự thận trọng của thị trường. Sự cân bằng giữa tăng trưởng tích cực và những thách thức vĩ mô đòi hỏi điều hành kinh tế vĩ mô thận trọng.",
+  "summary_vi": "ADB nâng dự báo tăng trưởng Việt Nam lên 7,8% nhờ hiệu suất H1/2026 vượt kỳ vọng (8,2%), đồng thời VinSpeed ký hợp đồng 1,15 tỷ USD với Siemens để xây dựng dự án đường sắt tốc độ cao. Tuy nhiên, thị trường đối mặt với áp lực từ tăng lãi suất Fed dẫn tới đồng USD mạnh, khối ngoại bán ròng 1 ngàn tỷ đồng, và dự báo lạm phát 4,3% nâng cao rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng GDP 2026 lên 7,8%",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam 2026 lên 7,8%",
       "impact": "↑",
-      "note": "ADB điều chỉnh tăng dự báo GDP Việt Nam 2026 từ 7,2% lên 7,8% (cao nhất ASEAN lớn), dựa trên tăng trưởng thực tế H1 2026 đạt 8,2%. Động lực chính: sản xuất chế biến mở rộng, tiêu dùng nội địa tăng mạnh, FDI ổn định."
+      "note": "ADB nâng dự báo GDP Việt Nam 2026 từ 7,2% lên 7,8%, cao nhất Đông Nam Á, sau khi kinh tế đạt 8,2% tăng trưởng trong H1/2026 (so với 7,5% cùng kỳ 2025). Tăng trưởng được hỗ trợ bởi sản xuất chế biến-chế tạo, tiêu dùng trong nước và FDI ổn định."
     },
     {
-      "title": "Khối ngoại bán ròng hơn 1.000 tỷ đồng ngày 23/9",
+      "title": "Fed tăng lãi suất, giá vàng giảm 71-73 USD/oz",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bất ngờ bán ròng 1.057 tỷ đồng (1.017 tỷ từ khớp lệnh) trên HOSE 23/9, thách thức kỳ vọng hút vốn hậu nâng hạng thị trường, phản ánh sự thận trọng dù có tín hiệu tích cực."
+      "note": "Giá vàng thế giới xuống 4.288-4.289 USD/oz, giảm 71-73 USD/oz (1,6%), khi lợi suất trái phiếu kho bạc Mỹ tăng vì các quan chức Fed cảnh báo tiếp tục tăng lãi suất. Chỉ số USD tăng lên 101, tạo áp lực trên tỷ giá VND và hút vốn qua trái phiếu Mỹ."
     },
     {
-      "title": "VinSpeed ký hợp đồng 1 tỷ Euro xây dựng đường sắt cao tốc",
+      "title": "VinSpeed ký hợp đồng 1 tỷ EUR (1,15 tỷ USD) với Siemens",
       "impact": "↑",
-      "note": "22/9, VinSpeed (Phạm Nhật Vượng) ký hợp đồng 1 tỷ Euro (khoảng 1,15 tỷ USD) với Siemens Mobility xây dựng tuyến Hà Nội-Quảng Ninh và Bến Thành-Cần Giờ, tàu Velaro Novo 350km/h tiết kiệm 30% năng lượng."
+      "note": "VinSpeed và Siemens Mobility ký hợp đồng trọn gói 1 tỷ EUR để phát triển 2 tuyến đường sắt tốc độ cao Hà Nội-Quảng Ninh và Bến Thành-Cần Giờ, cung cấp 10 đoàn tàu Velaro Novo tiết kiệm 30% năng lượng."
     },
     {
-      "title": "Lạm phát dự báo 2026 ở mức 4,3%",
+      "title": "Khối ngoại bán ròng 1,04 ngàn tỷ đồng phiên 23/9",
       "impact": "↓",
-      "note": "ADB nâng dự báo lạm phát 2026 từ mức trước lên 4,3%, động lực từ áp lực cầu, chi phí năng lượng và nhập khẩu gia tăng, hạn chế dư địa điều hành tiền tệ của NHNN."
+      "note": "Khối ngoại bất ngờ bán ròng 1,04 ngàn tỷ đồng (bán 2,51 ngàn tỷ, mua 1,47 ngàn tỷ) phiên 23/9, thách thức kỳ vọng hút vốn quốc tế sau khi thị trường được nâng hạng chính thức."
     },
     {
-      "title": "VN-Index giảm 0,84% do khối ngoại bán ròng bluechip",
-      "impact": "↓",
-      "note": "23/9, VN-Index giảm 15,28 điểm (-0,84%) xuống 1.801,65 điểm, VIC (-3,2%), VHM (-1,73%) lấy đi 15 điểm, phản ánh sự phụ thuộc chỉ số vào nhóm vốn hóa lớn trước áp lực bán nước ngoài."
+      "title": "Lạm phát Việt Nam dự báo 4,3% trong năm 2026",
+      "impact": "→",
+      "note": "ADB nâng dự báo lạm phát từ mức thấp hơn lên 4,3% năm 2026 (4% năm 2027), do áp lực cầu duy trì, chi phí năng lượng và nhập khẩu tăng cao, tạo rủi ro cho ổn định kinh tế vĩ mô."
     },
     {
-      "title": "Dầu cao trên 9x USD/thùng, Fed tín hiệu tăng lãi suất",
+      "title": "Tỷ phú Phạm Thu Hương và Phạm Thuý Hằng mất 230 triệu USD",
       "impact": "↓",
-      "note": "Q4 2026, dầu dự kiến ở vùng 9x USD/thùng do xung đột Trung Đông tiếp tục gián đoạn, Fed dự báo tăng lãi suất 25 bps, DXY nâng lên 98-103 điểm - áp lực chi phí nhập khẩu, lạm phát cao hơn cho Việt Nam."
+      "note": "Tài sản bà Phạm Thu Hương giảm 134,3 triệu USD (3%) và bà Phạm Thuý Hằng giảm 94,4 triệu USD (3%) trong ngày 23/9, phản ánh điều chỉnh giá trị tài sản tại các công ty liên kết (Vingroup)."
     }
   ]
 }
