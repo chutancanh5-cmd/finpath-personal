@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-23",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Việt Nam chính thức nâng hạng lên thị trường mới nổi thứ cấp của FTSE Russell (21/9), mở cơ hội vốn quốc tế; tuy nhiên, Fed tăng lãi suất 0,25 điểm cơ bản lên 3,75-4% đẩy USD mạnh lên, tạo sức ép lên tỷ giá và chi phí vốn. Nhập siêu 2,8 tỷ USD nửa đầu tháng 9 và tiền gửi thanh toán giảm 10% YoY phản ánh áp lực ngắn hạn, song khối ngoại bắt đầu mua ròng và TP.HCM hướng tới tăng trưởng 2 con số là tín hiệu tích cực.",
+  "date": "2026-09-24",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam bước vào giai đoạn mới sau khi được FTSE Russell nâng hạng từ cận biên lên Mới nổi Thứ cấp (21/9), tạo sức hút mạnh mẽ cho vốn nước ngoài chất lượng cao. ADB nâng dự báo tăng trưởng GDP sau kết quả vượt kỳ vọng nửa đầu năm, nhưng cảnh báo lạm phát 4,3% năm 2026 và áp lực tín dụng cần giám sát chặt chẽ. Ngắn hạn, thị trường chịu áp lực điều chỉnh kỹ thuật: khối ngoại bán ròng 875 tỷ, VNI gãy trend, quỹ ETF DCVFMVN DIAMOND bị rút vốn — tuy nhiên tự doanh và các dự án FDI lớn vẫn xây dựng niềm tin dài hạn.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng thị trường mới nổi thứ cấp",
+      "title": "FTSE Russell nâng hạng thị trường Việt Nam lên Mới nổi Thứ cấp",
       "impact": "↑",
-      "note": "Ngày 21/9/2026, TTCK Việt Nam chính thức được nâng hạng lên thị trường mới nổi thứ cấp, mở rộng khả năng tiếp cận của các quỹ đầu tư quốc tế và tạo cơ hội cho dòng vốn ngoại, mặc dù mức độ tác động thực tế trong 3-6 tháng tới vẫn phụ thuộc vào điều kiện kinh tế toàn cầu."
+      "note": "Từ 21/9/2026, Việt Nam được nâng hạng từ thị trường Cận biên lên Mới nổi Thứ cấp, kéo theo yêu cầu cao hơn về minh bạch, kỷ luật công bố thông tin và khả năng đối chiếu dữ liệu. Động thái này mở rộng tiếp cận với các quỹ chỉ số lớn và nhà đầu tư tổ chức quốc tế, tạo đà dài hạn cho thị trường."
     },
     {
-      "title": "Fed tăng lãi suất, USD mạnh lên 1,4% trong 1 tháng",
-      "impact": "↓",
-      "note": "Fed tăng lãi suất mục tiêu lên 3,75-4% và tín hiệu tiếp tục tăng, đẩy Dollar Index tăng 1,4% trong 1 tháng qua, gây sức ép lên tỷ giá và chi phí vốn ngoại ngay khi Việt Nam bước vào cao điểm nhu cầu ngoại tệ cuối năm."
-    },
-    {
-      "title": "Nhập khẩu tăng 7,16%, xuất khẩu 2,4%, nhập siêu 2,82 tỷ USD",
-      "impact": "↓",
-      "note": "Nửa đầu tháng 9, kim ngạch xuất khẩu 26,02 tỷ USD tăng 2,4% nhưng nhập khẩu 28,84 tỷ USD tăng 7,16%, tạo nhập siêu 2,82 tỷ USD. Chênh lệch tốc độ chứng tỏ nhu cầu nhập khẩu phục hồi nhanh hơn xuất khẩu, gây sức ép lên cân cân thương mại ngắn hạn."
-    },
-    {
-      "title": "Khối ngoại mua ròng 70 tỷ, tự doanh mua ròng 74 tỷ",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam nhưng cảnh báo lạm phát",
       "impact": "↑",
-      "note": "Phiên 22/09, khối ngoại mua ròng 70 tỷ đồng và tự doanh mua ròng 74 tỷ đồng (khiêm tốn nhưng đồng thuận), lực mua tập trung vào các mã vốn hóa lớn như SBT (+130 tỷ), MCH (+68 tỷ), VIC, VNM, MSN, cho thấy tín hiệu bắt đầu khoanh lại sau thời gian dài bán ròng."
+      "note": "ADB nâng dự báo tăng trưởng GDP dựa trên kết quả vượt kỳ vọng H1/2026, do chế biến-chế tạo mở rộng, tiêu dùng trong nước tăng mạnh, và FDI ổn định. Lạm phát dự báo 4,3% năm 2026 và 4% năm 2027. Khuyến nghị Việt Nam điều hành vĩ mô thận trọng để kiềm chế lạm phát và đảm bảo ổn định tài chính."
     },
     {
-      "title": "TP.HCM hướng tới tăng trưởng 2 con số, 3 tháng là nước rút",
-      "impact": "↑",
-      "note": "Chủ tịch Nguyễn Văn Được phát biểu 22/9 rằng 3 tháng cuối 2026 là giai đoạn nước rút quyết định, TP.HCM đặt mục tiêu tăng trưởng 2 con số. Luật Phát triển đô thị được ban hành 24/8 và 38 Nghị quyết thông qua tạo cơ sở pháp lý cho bứt phá."
-    },
-    {
-      "title": "KDH sắp bị loại khỏi rổ VN-Diamond",
+      "title": "Quỹ DCVFMVN DIAMOND bị rút vốn liên tiếp sau nâng hạng",
       "impact": "↓",
-      "note": "Mirae Asset dự báo KDH sẽ bị loại khỏi VN-Diamond do không đạt yêu cầu tỷ lệ FOL tối thiểu 65%, ước tính 4,2 triệu cổ phiếu sẽ bị bán ra bởi các quỹ mô phỏng theo chỉ số, chỉ số VN-Diamond sau rà soát tháng 10 giữ nguyên 17 mã, không có mã mới vào."
+      "note": "Dòng tiền quỹ ETF DCVFMVN DIAMOND (mã FUEVFVND) bị rút ròng trong cả 3 phiên 21, 22, 23/9, đặc biệt phiên 23/9 với giá trị rút ròng gần 48 tỷ đồng. Lũy kế tháng 9 rút ròng 41 tỷ đồng; năm 2026 tính chung rút ròng khoảng 913 tỷ đồng, phản ánh tâm lý cảnh báo bất chấp bối cảnh nâng hạng tích cực."
+    },
+    {
+      "title": "VNI gãy trend, áp lực bán loang rộng toàn thị trường",
+      "impact": "↓",
+      "note": "VNI giảm mạnh phiên 24/9 với áp lực bán từ blue-chips đến penny stock. Nhóm trụ: VIC -2,54%, VHM -4,11%, BID -1,24%, CTG -1,79%. Thanh khoản thấp (HSX 13,4k tỷ không tính thỏa thuận); hiệu quả bắt đáy chưa nổi bật, áp lực cắt lỗ gia tăng — tín hiệu kỹ thuật xấu trên ngắn hạn."
+    },
+    {
+      "title": "Khối ngoại bán ròng, tự doanh mua ròng VPB mạnh",
+      "impact": "→",
+      "note": "Khối ngoại bán ròng 875 tỷ đồng toàn thị trường, với VHM dẫn đầu bán ròng 350 tỷ. Tự doanh mua ròng 280 tỷ với lực mua đột biến VPB (160 tỷ đồng). Dòng tiền trái chiều phản ánh sự khác biệt nhận thức: khối ngoại rút vốn trong bối cảnh điều chỉnh kỹ thuật, tự doanh định giá cơ hội bên trong."
+    },
+    {
+      "title": "MSR ký kết hợp tác chiến lược với Elmet, mở lối vào thị trường Mỹ",
+      "impact": "↑",
+      "note": "Masan High-Tech Materials (UPCoM: MSR) công bố Elmet Group (NASDAQ: ELMT) sẽ mua 4,99% cổ phần MSR và ký thỏa thuận dài hạn cung ứng vonfram cho thị trường Bắc Mỹ. Giao dịch khẳng định vị thế MSR trong chuỗi cung ứng khoáng sản chiến lược toàn cầu, mở cơ hội tăng trưởng từ bán dẫn, hàng không vũ trụ, năng lượng."
     }
   ]
 }

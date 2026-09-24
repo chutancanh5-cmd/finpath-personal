@@ -7,7 +7,7 @@ Tu lay du lieu cong khai, KHONG phu thuoc thu muc macro/:
     co do tuoi feed va khu trung theo noi dung. Truoc 25/08/2026 chi co 3 feed,
     trong do 2 la CafeF -> CafeF hong mot buoi la muc tin trong tron.
   - Regime score tu VNINDEX (vnstock) + FRED (CPI/Fed/10Y/USD/dau/VIX)
-  - Tom tat + sentiment bang Sonnet 5 (neu co ANTHROPIC_API_KEY con credit)
+  - Tom tat + sentiment bang Haiku 4.5 (neu co ANTHROPIC_API_KEY con credit)
 Key doc tu bien moi truong: FRED_API_KEY, ANTHROPIC_API_KEY (GitHub Secrets).
 
 Usage: python update_news.py [--push]
@@ -183,7 +183,7 @@ def regime(fred_key):
     return {"score": score, "label": label, "note": note.strip(), "rows": rows}
 
 
-# ---------------------------------------------------------------- AI digest (Sonnet 5)
+# ---------------------------------------------------------------- AI digest (Haiku 4.5)
 _SCHEMA = {
     "type": "object",
     "properties": {
@@ -219,7 +219,7 @@ def ai_digest(items, key):
         client = anthropic.Anthropic(api_key=key, timeout=60.0, max_retries=1)
         resp = client.messages.create(
             # Tin tuc -> Haiku 4.5 (quyet dinh 2026-09-09). Cac phan can suy luan nang
-            # (phan tich ky thuat, vi mo) van giu Opus 5.
+            # (phan tich ky thuat, vi mo) van giu Opus 5.5.
             model="claude-haiku-4-5-20251001", max_tokens=2000,
             messages=[{"role": "user", "content": prompt}],
             output_config={"format": {"type": "json_schema", "schema": _SCHEMA}})
@@ -420,7 +420,7 @@ def _khoi_tin_cho_ai(items):
 def ai_diem_chinh(items, key):
     """AI tom tat + cham sac thai cho tung tin sap ban Discord, goi truc tiep qua API
     SDK (ton credit). Tin tuc dung HAIKU 4.5 (quyet dinh 2026-09-09: phan tin tuc do
-    Haiku tom tat, phan can suy luan nang -- ky thuat, vi mo -- moi dung Opus 5).
+    Haiku tom tat, phan can suy luan nang -- ky thuat, vi mo -- moi dung Opus 5.5).
 
     -> dict {title: {"y_chinh", "sac_thai"}}; rong neu khong co key hoac AI loi --
     nguoi goi roi ve load_moi_summaries() (Claude thue bao qua CLI) roi moi toi desc tho."""
