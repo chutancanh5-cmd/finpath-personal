@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-25",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ lãi suất toàn cầu tăng cao (T-bond 30 năm lên 5,501%, cao nhất 22 năm) với Dow Jones giảm 3 phiên liên tiếp. Tuy nhiên, ADB nâng dự báo tăng trưởng GDP Việt Nam nhờ chế biến mở rộng và tiêu dùng mạnh. Cơ hội chiến lược mới nổi từ dự án đường sắt 350 km/h trị giá 67 tỷ USD và hợp tác xuất khẩu vonfram vào thị trường Mỹ. Ngắn hạn, áp lực lạm phát (dự báo 4,3%) và rút vốn ngoại vẫn chi phối, yêu cầu nhà đầu tư thận trọng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay có tín hiệu tích cực từ ADB nâng dự báo tăng trưởng GDP và dự án đường sắt cao tốc Bắc-Nam trị giá 67 tỷ USD, nhưng đối mặt áp lực từ nợ toàn cầu kỷ lục (365 tỷ USD), lãi suất trái phiếu toàn cầu tăng cao, và cảnh báo lạm phát 4,3%, khiến 14 công ty chứng khoán có nguy cơ không hoàn thành kế hoạch lợi nhuận năm 2026.",
   "top": [
     {
-      "title": "Dow Jones giảm 3 phiên, lãi suất T-bond tăng cao kỷ lục",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam",
+      "impact": "↑",
+      "note": "ADB nâng dự báo GDP nhờ tăng trưởng vượt kỳ vọng H1 2026, động lực từ chế biến-chế tạo mở rộng, FDI ổn định, tiêu dùng tăng mạnh. Lạm phát dự báo 4,3% năm 2026 và 4% năm 2027, với lo ngại áp lực cầu và chi phí năng lượng."
+    },
+    {
+      "title": "Dự án đường sắt cao tốc Bắc-Nam 67 tỷ USD",
+      "impact": "↑",
+      "note": "Việt Nam hợp tác công nghệ với Đức cho tuyến cao tốc: 1.541 km, tốc độ 350 km/h, 23 ga hành khách, 05 ga hàng hóa. Dự án được Quốc hội thông qua, định hướng chuyển giao công nghệ đường sắt tốc độ cao."
+    },
+    {
+      "title": "Nợ toàn cầu chạm kỷ lục 365 tỷ USD",
       "impact": "↓",
-      "note": "Dow Jones giảm 0,31%, lợi suất T-bond 30 năm tăng lên 5,501% (cao nhất tháng 6/2004), kỳ hạn 10 năm lên 5,223% (cao nhất tháng 6/2007). Áp lực bán tháo từ thị trường trái phiếu toàn cầu đẩy vốn ngoại rút khỏi thị trường mới nổi."
+      "note": "Nợ toàn cầu tăng 10.000 tỷ USD trong H1 2026 lên 365 tỷ USD, chủ yếu từ thị trường mới nổi. Nợ ở mức 310% GDP, chính phủ và doanh nghiệp phi tài chính nắm phần lớn, gây lo ngại về ổn định tài chính toàn cầu."
     },
     {
-      "title": "ADB nâng dự báo GDP Việt Nam, lạm phát dự báo 4,3% năm 2026",
-      "impact": "↑",
-      "note": "ADB nâng dự báo tăng trưởng GDP Việt Nam dựa trên tăng trưởng vượt kỳ vọng nửa đầu năm 2026. Động lực từ chế biến-chế tạo mở rộng, tiêu dùng nội địa tăng mạnh, FDI duy trì ổn định. Lạm phát dự báo 4,3% năm 2026 và 4% năm 2027."
-    },
-    {
-      "title": "Tổng nợ toàn cầu chạm kỷ lục trên 365.000 tỷ USD",
+      "title": "Dow Jones giảm 3 phiên, lợi suất trái phiếu cao kỷ lục",
       "impact": "↓",
-      "note": "Nợ toàn cầu tăng hơn 10.000 tỷ USD trong nửa đầu 2026, lên mức kỷ lục 365.000 tỷ USD, chủ yếu từ thị trường mới nổi (Trung Quốc dẫn đầu), đạt 310% GDP toàn cầu. Gây lo ngại về tài chính toàn cầu."
+      "note": "Dow Jones giảm 0,31%, S&P500 giảm 0,02%, Nasdaq tăng 0,01%. Lợi suất trái phiếu 30 năm Mỹ tăng lên 5,501% (cao nhất từ 6/2004), 10 năm lên 5,223% (cao nhất từ 6/2007), đè nặng thị trường."
     },
     {
-      "title": "Elmet Group (Mỹ) đầu tư 4,99% MSR, cung ứng vonfram dài hạn",
+      "title": "14 công ty chứng khoán nguy cơ không hoàn thành KH lợi nhuận",
+      "impact": "↓",
+      "note": "ROAA toàn ngành giảm từ 5,6% (2025) xuống 4,3% (H1 2026). Biên lợi nhuận cho vay ký quỹ giảm từ 6,9% xuống dưới 5%, chi phí vốn tăng 5,9%, thu nhập từ đầu tư cổ phiếu suy giảm, tác động mạnh đặc biệt lên VIX, TVS, VDS, CTS."
+    },
+    {
+      "title": "Elmet Group mua 4.99% MSR, hợp tác vonfram dài hạn",
       "impact": "↑",
-      "note": "Masan High-Tech Materials (UPCoM: MSR) công bố hợp tác chiến lược với Elmet Group (NASDAQ: ELMT), bao gồm đầu tư cổ phần chiến lược và thỏa thuận cung ứng vonfram dài hạn cho thị trường Bắc Mỹ, mở rộng cơ hội xuất khẩu khoáng sản chiến lược."
-    },
-    {
-      "title": "Việt Nam hợp tác Đức dự án tuyến cao tốc 350 km/h trị giá 67 tỷ USD",
-      "impact": "↑",
-      "note": "Bộ Xây dựng Việt Nam làm việc với doanh nghiệp đường sắt hàng đầu Đức, chuyển giao công nghệ dự án đường sắt tốc độ cao trục Bắc-Nam, tuyến dài 1.541 km, tốc độ 350 km/h, 23 ga hành khách, 05 ga hàng hóa, dự kiến kích thích giải ngân công và phục hồi kinh tế 2026-2027."
-    },
-    {
-      "title": "Dòng tiền ngoại bán ròng, SSI khuyến cảo thận trọng ngắn hạn",
-      "impact": "→",
-      "note": "Nhà đầu tư nước ngoài tiếp tục bán ròng, giá trị khớp lệnh chỉ khoảng 12.000 tỷ đồng/phiên. VN-Index đứng trước ngưỡng 1.800 điểm, dòng tiền suy yếu. SSI khuyến cảo giảm tỷ trọng cổ phiếu, hạn chế margin, chốt lời sớm, chờ đợi những phiên rung lắc mạnh để mua vào nhóm ngân hàng."
+      "note": "Elmet (NASDAQ: ELMT, Mỹ) mua 4.99% cổ phần MSR (UPCoM) và ký kết hợp tác cung ứng vonfram dài hạn cho thị trường Mỹ. Vonfram là vật liệu chiến lược cho bán dẫn, hàng không vũ trụ, năng lượng, ô tô, hợp kim công nghệ cao."
     }
   ]
 }
