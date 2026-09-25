@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam tích cực (ADB nâng dự báo GDP do tăng trưởng vượt kỳ vọng nửa đầu năm) nhưng chịu áp lực vĩ mô toàn cầu gia tăng: nợ toàn cầu kỷ lục 365 nghìn tỷ USD, lợi suất T-bond Mỹ tăng chóng mặt (10 năm 5,223% cao nhất 19 năm). FDI chiến lược vẫn chảy vào (SMBC, Elmet) nhưng rủi ro call margin nội bộ (Kosy 4 triệu cổ phiếu) cần canh chừng. Lạm phát YoY 4,45% ở mục tiêu nhưng tín hiệu kinh tế chậm lại.",
+  "summary_vi": "Thị trường Việt Nam hôm nay lên âm (-0.03%) với bức tranh phân hóa rõ rệt, độ rộng 308 mã giảm so với 243 tăng. Động lực tích cực từ dự báo ADB nâng tăng trưởng GDP nhờ H1/2026 vượt kỳ vọng (công nghiệp chế biến-chế tạo, tiêu dùng nội địa, FDI ổn định) nhưng bị cân bằng bởi áp lực vĩ mô toàn cầu gia tăng: nợ toàn cầu 365 nghìn tỷ USD (quý thứ 6 liên tiếp tăng), lợi suất T-bond 10 năm 5.223% cao nhất từ 2007. Lạm phát 4.45% YoY ở mục tiêu nhưng tín hiệu kinh tế có dấu hiệu chậm lại. Rủi ro ngắn hạn từ bán giải chấp Kosy (~4 triệu cổ phiếu) cần canh chừng.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng GDP Việt Nam",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam",
       "impact": "↑",
-      "note": "ADB nâng dự báo tăng trưởng 2026 do tăng trưởng vượt kỳ vọng nửa đầu năm, thúc đẩy bởi công nghiệp chế biến chế tạo mở rộng, tiêu dùng nội địa tăng mạnh, FDI ổn định. Lạm phát dự báo 4,3% năm 2026, 4% năm 2027. ADB khuyến nghị Việt Nam tiếp tục điều hành vĩ mô thận trọng, nâng hiệu quả đầu tư công, phát triển thị trường vốn."
+      "note": "ADB nâng dự báo tăng trưởng GDP 2026 nhờ tăng trưởng vượt kỳ vọng H1/2026, động lực từ công nghiệp chế biến-chế tạo mở rộng, tiêu dùng nội địa tăng mạnh, FDI ổn định. Lạm phát dự báo 4.3% năm 2026 và 4% năm 2027."
     },
     {
       "title": "Nợ toàn cầu chạm kỷ lục 365 nghìn tỷ USD",
       "impact": "↓",
-      "note": "Tổng nợ toàn cầu tăng lên hơn 365 nghìn tỷ USD (cuối Q2/2026), tăng 10 nghìn tỷ USD trong 6 tháng đầu năm (quý thứ 6 liên tiếp tăng). Nợ từ chi tiêu cơ cấu cho y tế, năng lượng, AI, công nghệ, quốc phòng chứ không phải sốc cụ thể nào, tạo áp lực tín dụng toàn cầu dài hạn."
+      "note": "Tổng nợ toàn cầu hơn 365 nghìn tỷ USD (cuối Q2/2026), tăng 10 nghìn tỷ USD trong 6 tháng đầu năm, quý thứ 6 liên tiếp tăng. Chi tiêu cơ cấu dài hạn cho y tế, năng lượng, AI, công nghệ, quốc phòng chứ không phải sốc cụ thể, tạo áp lực tín dụng toàn cầu."
     },
     {
-      "title": "Lợi suất T-bond Mỹ tăng mạnh, áp lực tài sản rủi ro",
+      "title": "Lợi suất T-bond Mỹ tăng mạnh lên mức cao 15+ năm",
       "impact": "↓",
-      "note": "Lợi suất T-bond 30 năm tăng ~10 bps lên 5,501% (cao nhất kể từ 6/2004), 10 năm lên 5,223% (cao nhất kể từ 6/2007). Áp lực bán tháo trái phiếu chính phủ toàn cầu do chiến tranh Vùng Vịnh đẩy giá năng lượng tăng dữ dội, tạo áp lực lên định giá cổ phiếu và tài sản rủi ro."
+      "note": "Lợi suất T-bond 30 năm tăng ~10 bps lên 5.501% (cao nhất từ 6/2004), 10 năm lên 5.223% (cao nhất từ 6/2007). Làn sóng bán tháo trái phiếu chính phủ toàn cầu do chiến tranh Vùng Vịnh đẩy giá năng lượng tăng, tạo áp lực lên định giá tài sản rủi ro."
     },
     {
-      "title": "SMBC Nhật Bản chi 425 triệu USD nâng VPBank lên 20%",
+      "title": "SMBC Nhật Bản chi ~425 triệu USD nâng VPBank lên 20%",
       "impact": "↑",
-      "note": "SMBC (Sumitomo Mitsui Banking Corp) đàm phán nâng sở hữu VPBank từ 15% hiện nay lên khoảng 20%, chi khoảng 425 triệu USD, muốn hoàn tất trong 2026 nhưng còn bất đồng định giá. Tín hiệu tích cực FDI ngân hàng vào Việt Nam, tiếp cận thị trường ngân hàng tăng trưởng nhanh nhất châu Á với khách hàng cá nhân và doanh nghiệp tài sản gia tăng."
+      "note": "SMBC (Sumitomo Mitsui Banking Corp) đàm phán nâng sở hữu VPBank từ 15% lên khoảng 20%, chi khoảng 425 triệu USD, muốn hoàn tất năm 2026. Tín hiệu tích cực của FDI ngân hàng vào thị trường ngân hàng tăng trưởng nhanh nhất châu Á."
     },
     {
-      "title": "Gia đình Chủ tịch Kosy bị call margin 4 triệu cổ phiếu",
+      "title": "Gia đình Chủ tịch Kosy bị gọi margin ~4 triệu cổ phiếu",
       "impact": "↓",
-      "note": "Gia đình Chủ tịch Nguyễn Việt Cường (Kosy) bị call margin gần 4 triệu cổ phiếu KOS từ 5 công ty chứng khoán: KIS 285.000, PBSV 130.400, Nhất Việt 105.800, bà Hằng 441.600, ông Kiên 353.600, Leo Regulus 1.811.200. Áp lực bán giải chấp lớn từ nội bộ, rủi ro thanh khoản cổ phiếu."
+      "note": "Gia đình Chủ tịch Nguyễn Việt Cường bị 5 công ty chứng khoán bán giải chấp gần 4 triệu cổ phiếu KOS từ vào tháng 9: KIS 285.000, PBSV 130.400, Nhất Việt 105.800, bà Hằng 441.600, ông Kiên 353.600, Leo Regulus 1.811.200. Áp lực bán giải chấp lớn từ nội bộ trong bối cảnh giá giảm."
     },
     {
-      "title": "Elmet Mỹ mua 4,99% MSR, hợp đồng vonfram dài hạn",
-      "impact": "↑",
-      "note": "Elmet Group (NASDAQ: ELMT) mua 4,99% cổ phần MSR (Masan High-Tech Materials, UPCoM), ký thỏa thuận cung ứng vonfram dài hạn cho thị trường Mỹ. MSR là nền tảng khai thác chế biến vonfram tích hợp hiếm hoi thế giới, nối kết nguồn tài nguyên Việt với chuỗi cung ứng chiến lược toàn cầu trong bối cảnh nhu cầu bán dẫn, hàng không vũ trụ, năng lượng, ô tô gia tăng."
+      "title": "VN-Index -0.03%, độ rộng 308 giảm vs 243 tăng",
+      "impact": "→",
+      "note": "VN-Index dừng 1,774.57 điểm (-0.03%), HNX-Index giảm 0.28%, UPCoM-Index giảm 0.88%. Độ rộng thị trường 308 mã giảm so với 243 mã tăng; nhóm trụ chưa tạo hướng đi rõ ràng, VHM tăng 1.83% nhưng VIC giảm 0.78%."
     }
   ]
 }
