@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tăng trưởng Việt Nam được ADB nâng dự báo nhờ hiệu suất nửa đầu năm vượt kỳ vọng, nhưng lạm phát vẫn cao (4.3%) và áp lực tín dụng tồn tại. Toàn cầu, nợ công lập kỷ lục hơn 365 nghìn tỷ USD và làn sóng bán tháo trái phiếu chính phủ (lợi suất kho bạc Mỹ 10 năm 5.223%) tạo áp lực lên tâm lý thị trường. Tuy vậy, khối ngoại giảm bán ròng và các khoản đầu tư chiến lược nước ngoài vào khoáng sản cho thấy sự quan tâm tiếp tục với các lĩnh vực có giá trị.",
+  "summary_vi": "FDI kỷ lục 17.2 tỷ USD vào TP.HCM và ADB nâng dự báo GDP phản ánh sức hút của Việt Nam, nhưng lạm phát 4.3%, nợ toàn cầu tăng 365 nghìn tỷ USD và thị trường chứng khoán phân hóa là áp lực ngắn hạn. Khối ngoại tiếp tục bán ròng ~210 tỷ đồng.",
   "top": [
     {
-      "title": "ADB nâng dự báo GDP nhưng cảnh báo lạm phát và tín dụng",
-      "impact": "→",
-      "note": "ADB nâng dự báo tăng trưởng nhờ chế biến-chế tạo mở rộng, tiêu dùng nội địa tăng mạnh, FDI ổn định. Lạm phát dự báo 4.3% năm 2026 và 4.0% năm 2027 do áp lực cầu tiếp tục và chi phí năng lượng, nhập khẩu gia tăng. ADB khuyến cáo Việt Nam tiếp tục điều hành vĩ mô thận trọng để kiềm chế lạm phát."
-    },
-    {
-      "title": "Nợ toàn cầu vượt kỷ lục 365 nghìn tỷ USD",
-      "impact": "↓",
-      "note": "Nợ toàn cầu tăng 10 nghìn tỷ USD trong 6 tháng đầu 2026, bằng gần một nửa cùng kỳ 2025. Đây là quý thứ 6 liên tiếp nợ tăng, không phải do khủng hoảng mà từ chi tiêu cấu trúc cho y tế, năng lượng, AI, công nghệ thông tin, quốc phòng. Theo IIF, nợ sẽ tiếp tục tồn tại do tính chất chi tiêu mang tính cơ cấu."
-    },
-    {
-      "title": "Lợi suất trái phiếu kho bạc Mỹ lập đỉnh mới",
-      "impact": "↓",
-      "note": "Lợi suất kho bạc Mỹ 30 năm tăng lên 5.501% (cao nhất kể từ tháng 6/2004), 10 năm lên 5.223% (cao nhất kể từ tháng 6/2007) sau nhiều tháng bán tháo liên tục. Làn sóng bán tháo được thúc đẩy bởi chiến tranh Vùng Vịnh đẩy giá năng lượng tăng dữ dội, gây áp lực tâm lý risk-off toàn cầu."
-    },
-    {
-      "title": "Lạm phát Việt Nam vẫn cao mặc dù dường như hạ nhiệt",
-      "impact": "↓",
-      "note": "CPI 8 tháng 2026 tăng 4.45% YoY nhưng phân tích tháng nên thấy: từ tháng 5 (3.61%) đến tháng 8 (3.57%) giá cả gần như đứng yên. Hạ nhiệt chỉ do base effect (nền so sánh tháng 6-8/2025 cao hơn), không phải giá rẻ đi. Lạm phát vẫn tiềm ẩn ép lợi nhuận doanh nghiệp."
-    },
-    {
-      "title": "Elmet (Mỹ) đầu tư chiến lược vào MSR vonfram",
+      "title": "ADB nâng dự báo GDP do tăng trưởng vượt kỳ vọng",
       "impact": "↑",
-      "note": "Elmet Group (NASDAQ: ELMT) mua 4.99% cổ phần MSR Masan High-Tech Materials và ký hợp tác cung ứng vonfram dài hạn cho thị trường Mỹ. MSR định vị là nền tảng chế biến khoáng sản chiến lược toàn cầu, kết nối nguồn tài nguyên Việt Nam với ngành bán dẫn, hàng không vũ trụ, năng lượng, ô tô, hợp kim chuyên dụng."
+      "note": "ADB nâng dự báo GDP Việt Nam sau tăng trưởng vượt kỳ vọng nửa đầu năm 2026, được thúc đẩy bởi công nghiệp chế biến chế tạo và tiêu dùng nội địa. Tuy nhiên, lạm phát dự báo 4.3% năm 2026 là rủi ro cần kiểm soát."
     },
     {
-      "title": "Khối ngoại giảm bán ròng, chọn lọc mua vào",
+      "title": "FDI kỷ lục 17.2 tỷ USD vào TP.HCM",
+      "impact": "↑",
+      "note": "TP.HCM hút 17.2 tỷ USD FDI trong 9 tháng 2026, vượt 56.6% kế hoạch năm (11 tỷ USD) và tăng 318.9% so với cùng kỳ. Dòng vốn tập trung vào công nghệ cao, bán dẫn, AI với quy mô bình quân dự án 307.5 triệu USD, gấp 12 lần mục tiêu ban đầu."
+    },
+    {
+      "title": "Nợ toàn cầu tăng kỷ lục 365 nghìn tỷ USD",
+      "impact": "↓",
+      "note": "Tổng nợ toàn cầu đạt hơn 365 nghìn tỷ USD (cuối tháng 6/2026), tăng 10 nghìn tỷ USD trong 6 tháng đầu năm. Khác với cuộc khủng hoảng cụ thể, nợ tăng do chi tiêu cơ cấu dài hạn cho AI, năng lượng, y tế, quốc phòng."
+    },
+    {
+      "title": "VN-Index tăng nhẹ nhưng phân hóa mạnh",
       "impact": "→",
-      "note": "Khối ngoại bán ròng ~210 tỷ đồng phiên 25/9 (hạ nhiệt so với trước). Mua mạnh SBT (247 tỷ), BSR (108 tỷ), DCM (45 tỷ) nhưng bán TCB (115 tỷ), MSB (98 tỷ), HPG (79 tỷ). Cho thấy lựa chọn sắc sảo trong từng mã, dòng tiền nước ngoài vẫn ổn định."
+      "note": "VN-Index 25/9 tăng 10 điểm lên 1.785 nhưng độ rộng âm (308 giảm/243 tăng). Khối ngoại bán ròng ~210 tỷ đồng: mua ròng SBT (247 tỷ) nhưng bán ròng TCB (115 tỷ), phản ánh sự giằng co."
+    },
+    {
+      "title": "Vàng SJC giảm 1.1 triệu đồng/lượng",
+      "impact": "→",
+      "note": "Giá vàng miếng SJC 25/9 xuống 141.4-144.4 triệu đồng/lượng (giảm 1.1 triệu so với 23/9). Vàng nhẫn 9999 giảm chỉ nửa (500-800 nghìn đồng/lượng), cho thấy phân hóa cầu giữa hai loại hình."
+    },
+    {
+      "title": "MSR nhận đầu tư từ Elmet Group, Mỹ",
+      "impact": "↑",
+      "note": "MSR ký hợp tác chiến lược với Elmet Group (NASDAQ: ELMT), công ty Mỹ chuyên vonfram. Elmet mua 4.99% cổ phần MSR, ký thỏa thuận cung ứng vonfram dài hạn với sản lượng cam kết cho thị trường Bắc Mỹ."
     }
   ]
 }
