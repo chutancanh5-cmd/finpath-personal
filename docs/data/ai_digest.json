@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tăng trưởng kinh tế Việt Nam vượt kỳ vọng, ADB nâng dự báo GDP nhờ công nghiệp chế biến, tiêu dùng nội địa và FDI ổn định. Lãi suất liên ngân hàng giảm xuống 1%/năm cải thiện thanh khoản. Tuy nhiên, lãi suất cho vay mua nhà tăng lên 8.4-10.7%/năm gây áp lực người vay, trái phiếu toàn cầu bán tháo (lợi suất 10 năm Mỹ vượt 5% cao nhất 20 năm), nợ toàn cầu kỷ lục 365.000 tỷ USD, và ngành chứng khoán gặp khó khăn.",
+  "summary_vi": "Kinh tế Việt Nam có tín hiệu tích cực (ADB nâng dự báo GDP nhờ tăng trưởng vượt kỳ vọng, thanh khoản cải thiện khi lãi suất qua đêm giảm từ 7% xuống 1%) nhưng bị cân bằng bởi áp lực lãi suất cho vay cao (8.4-10.7%/năm tăng từ mức 6.7-9%/năm). Toàn cầu, lợi suất trái phiếu Mỹ chạm kỷ lục 5.223% (10 năm, cao nhất từ 2007) gây áp lực định giá cổ phiếu, hỗ trợ rủi ro ngắn hạn lên thị trường.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng Việt Nam",
+      "title": "Lãi suất liên ngân hàng giảm mạnh, thanh khoản cải thiện",
       "impact": "↑",
-      "note": "ADB nâng dự báo tăng trưởng GDP Việt Nam do kết quả vượt kỳ vọng nửa đầu 2026, động lực từ công nghiệp chế biến mở rộng, tiêu dùng trong nước tăng mạnh, và FDI ổn định. Lạm phát dự báo 4.3% năm 2026 và 4% năm 2027 nhưng ADB khuyến nghị tiếp tục củng cố ổn định vĩ mô."
+      "note": "Lãi suất VND qua đêm giảm từ 7%/năm (21/9) xuống 1%/năm (24/9) chỉ trong 3 phiên, kỳ hạn 1 tuần 5.1%, 1 tháng 6.15%. NHNN hút ròng 4.500 tỷ đồng qua OMO, giảm quy mô hỗ trợ do thanh khoản tốt hơn."
     },
     {
-      "title": "Lãi suất cho vay mua nhà tiếp tục tăng",
-      "impact": "↓",
-      "note": "Lãi suất cho vay bình quân tháng 8 tăng 0.1-0.2%/năm lên 8.4-10.7%/năm; so với tháng 12/2025 tăng 1.7%/năm và so với 1 năm trước tăng 2.9%/năm. Techcombank lãi suất 11.2%/năm, chênh lệch lãi suất giữa tiền gửi và cho vay đạt 4%, gây áp lực trả nợ lên người vay."
-    },
-    {
-      "title": "Làn sóng bán tháo trái phiếu chính phủ toàn cầu",
-      "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm tăng 10 điểm cơ bản lên 5.223% (cao nhất từ 6/2007), kỳ hạn 30 năm lên 5.501% (cao nhất từ 6/2004). Thị trường trái phiếu toàn cầu chịu áp lực bán liên tục dù Nasdaq đạt mức cao kỷ lục nhờ đầu tư AI."
-    },
-    {
-      "title": "Lãi suất liên ngân hàng giảm xuống 1%/năm",
+      "title": "ADB nâng dự báo tăng trưởng GDP Việt Nam",
       "impact": "↑",
-      "note": "Lãi suất VND liên ngân hàng giảm mạnh, lãi suất qua đêm từ 7% (21/9) xuống 1%/năm (24/9), kỳ hạn 1 tháng ở 6.15%/năm, cải thiện thanh khoản thị trường. NHNN hút ròng hơn 4.500 tỷ đồng qua kênh OMO."
+      "note": "ADB nâng dự báo GDP do tăng trưởng vượt kỳ vọng nửa đầu 2026, động lực từ chế biến chế tạo, tiêu dùng nội địa, và FDI ổn định. Dự báo lạm phát 4.3% năm 2026, 4% năm 2027."
     },
     {
-      "title": "Tổng nợ toàn cầu chạm mức kỷ lục 365.000 tỷ USD",
+      "title": "Lãi suất cho vay mua nhà tăng liên tục, gánh nặng người vay",
       "impact": "↓",
-      "note": "Nợ toàn cầu tăng hơn 10.000 tỷ USD trong nửa đầu năm 2026, chạm mức kỷ lục 365.000 tỷ USD, chủ yếu từ thị trường mới nổi, gây lo ngại về tài chính toàn cầu và tiềm ẩn rủi ro hệ thống."
+      "note": "Lãi suất cho vay bình quân tăng từ 6.7-9%/năm (12/2025) lên 8.4-10.7%/năm (8/2026), tăng bình quân 1.7%/năm trong 8 tháng. Techcombank 11.2%/năm. Chi phí vốn cá nhân vay mua nhà gia tăng đáng kể, áp lực trả nợ cao hơn."
     },
     {
-      "title": "14 công ty chứng khoán khó hoàn thành KH lợi nhuận",
+      "title": "Lợi suất trái phiếu Mỹ chạm kỷ lục, áp lực toàn cầu",
       "impact": "↓",
-      "note": "ROAA toàn ngành giảm từ 5.6% năm 2025 xuống 4.3% nửa đầu 2026 do chi phí vốn tăng làm thu hẹp biên lợi nhuận cho vay ký quỹ, và mặt bằng định giá cổ phiếu suy giảm. Biên lợi nhuận cho vay ký quỹ giảm từ 6.9% Q4/2024 xuống dưới 5% Q2/2026."
+      "note": "Lợi suất trái phiếu kho bạc Mỹ 30 năm lên 5.501% (cao nhất kể từ 6/2004), 10 năm 5.223% (cao nhất kể từ 6/2007). Làn sóng bán tháo trái phiếu kéo dài, từng tăng 10 điểm cơ bản trong phiên 24/9, tạo áp lực định giá cổ phiếu toàn cầu."
+    },
+    {
+      "title": "Novaland: nhà đầu tư nội bộ đăng ký bán cổ phiếu",
+      "impact": "↓",
+      "note": "Diamond Properties (quản lý của Chủ tịch Bùi Cao Nhật Quân) đăng ký bán 2.7 triệu cổ phiếu NVL từ 29/9 đến 9/10, tỷ lệ sở hữu giảm từ 7.536% xuống 7.424%. Novaland cũng chào bán 800.7 triệu cổ phiếu mới cho cổ đông hiện hữu (tỷ lệ 3:1)."
+    },
+    {
+      "title": "MSR nhận đầu tư chiến lược từ Elmet Group (Mỹ)",
+      "impact": "↑",
+      "note": "Elmet Group (NASDAQ: ELMT) sẽ mua 4.99% cổ phần Masan High-Tech Materials (UPCoM: MSR), ký kết hợp tác cung ứng vonfram dài hạn cho thị trường Mỹ. Đánh dấu bước tiến của MSR hướng tới nhà chế biến khoáng sản thiết yếu hàng đầu thế giới."
     }
   ]
 }
