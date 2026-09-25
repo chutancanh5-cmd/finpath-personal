@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường được hỗ trợ bởi lãi suất liên ngân hàng giảm mạnh xuống 1%/năm (từ 7% trong 3 phiên), tạo điều kiện thanh khoản tích cực. Tuy nhiên, áp lực lạm phát vẫn cao (4.3% dự báo 2026) và làn sóng bán tháo trái phiếu kho bạc toàn cầu (lợi suất Mỹ chạm 5.5%) là rủi ro lớn. Các tín hiệu tích cực từ hợp tác đầu tư lớn (đường sắt cao tốc 67 tỷ USD, Elmet/MSR) và nâng dự báo GDP của ADB giúp cân bằng. Ngành chứng khoán chịu áp lực từ biên lợi nhuận cho vay ký quỹ thu hẹp, với 14 công ty có nguy cơ không đạt kế hoạch lợi nhuận.",
+  "summary_vi": "Thị trường Việt Nam nhận tín hiệu tích cực từ ADB nâng dự báo tăng trưởng 2026 và NHNN giảm lãi suất liên ngân hàng xuống 1%, giảm chi phí tài chính cho DN. Tuy nhiên, ngành chứng khoán chịu áp lực khi ROAA giảm mạnh do chi phí vốn tăng, và làn sóng bán tháo trái phiếu Mỹ (lợi suất 10 năm vượt 5%) tạo rủi ro từ thị trường toàn cầu.",
   "top": [
     {
-      "title": "Lãi suất liên ngân hàng giảm mạnh xuống 1%",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam 2026",
       "impact": "↑",
-      "note": "Lãi suất VND qua đêm giảm xuống 1%/năm (từ 7% ngày 21/9, 4.4% ngày 22/9, 2.5% ngày 23/9), kỳ hạn 1 tuần 5.1%/năm, 2 tuần 5.2%/năm, 1 tháng 6.15%/năm. NHNN hút ròng 598 tỷ đồng qua OMO."
+      "note": "ADB nâng dự báo GDP do tăng trưởng vượt kỳ vọng H1/2026, với động lực từ công nghiệp chế biến mở rộng, tiêu dùng trong nước tăng mạnh, FDI duy trì ổn định. Dự báo lạm phát 4,3% năm 2026, 4% năm 2027. Tín hiệu vĩ mô tích cực cho TTCK VN."
     },
     {
-      "title": "Bán tháo trái phiếu kho bạc toàn cầu",
+      "title": "Lãi suất liên ngân hàng giảm xuống 1%/năm",
+      "impact": "↑",
+      "note": "Lãi suất VND qua đêm giảm từ 7% (21/9) xuống 1% (24/9), chỉ 3 phiên giảm 6 điểm %. Lãi suất 1 tuần 5,1%, 1 tháng 6,15%. NHNN rút bớt hỗ trợ thanh khoản OMO, chỉ chào thầu 1.000 tỷ đồng/kỳ hạn. Dễ tính tiếp tục cải thiện cho các DN vay tiền."
+    },
+    {
+      "title": "Bán tháo trái phiếu chính phủ toàn cầu tiếp tục",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ 30 năm tăng lên 5.501% (cao nhất từ tháng 6/2004), kỳ hạn 10 năm lên 5.223% (cao nhất từ tháng 6/2007), tăng hơn 10 điểm cơ bản trong phiên 24/9."
+      "note": "Lợi suất kho bạc Mỹ 10 năm tăng lên 5,223% (cao nhất từ 6/2007), 30 năm đạt 5,501% (cao nhất từ 6/2004). Làn sóng bán tháo tiếp tục trong tháng 9, tạo áp lực lên thị trường tài chính toàn cầu và tiềm ẩn rủi ro cho TTCK Việt Nam qua kênh đầu tư quốc tế."
     },
     {
-      "title": "ADB nâng dự báo tăng trưởng VN 2026",
+      "title": "14 công ty chứng khoán nguy cơ không hoàn thành kế hoạch lợi nhuận",
+      "impact": "↓",
+      "note": "ROAA ngành giảm từ 5,6% (2025) xuống 4,3% (H1/2026). Biên lợi nhuận cho vay ký quỹ thu hẹp từ 6,9% (Q4/2024) xuống dưới 5% (Q2/2026), chi phí vốn tăng lên 5,9%. VIX chịu ảnh hưởng mạnh nhất, ROAA giảm gần 18%, thu nhập từ đầu tư cổ phiếu giảm khoảng 300 tỷ đồng."
+    },
+    {
+      "title": "Dự báo KQKD quý 3: Phân hóa rõ rệt giữa các ngành",
       "impact": "→",
-      "note": "ADB nâng dự báo tăng trưởng GDP nhờ tăng trưởng vượt kỳ vọng nửa đầu 2026. Lạm phát dự báo 4.3% năm 2026 và 4% năm 2027. Khuyến nghị Việt Nam nâng hiệu quả đầu tư công và phát triển thị trường vốn."
+      "note": "VCBS dự báo lợi nhuận 54 DN quý III/2026 phân hóa: BSR +446% (5.744 tỷ đồng) nhờ sản lượng tăng, biên lọc dầu cải thiện; VHM +243% (15.230 tỷ đồng); PVT +133% (614 tỷ đồng); MSN +121% (4.117 tỷ đồng). Ngược lại, 3 công ty chứng khoán trong danh sách dự báo lợi nhuận sụt giảm."
     },
     {
-      "title": "Hợp tác đường sắt cao tốc 350 km/h Bắc-Nam",
+      "title": "Elmet Group đầu tư chiến lược vào MSR, mở rộng thị trường Mỹ",
       "impact": "↑",
-      "note": "Bộ Xây dựng thảo luận với Đức về dự án đường sắt tốc độ cao Bắc-Nam, chiều dài khoảng 1.541 km, tốc độ 350 km/h, gồm 23 ga hành khách và 05 ga hàng hóa, trị giá 67 tỷ USD."
-    },
-    {
-      "title": "Elmet Group mua 4.99% cổ phần MSR",
-      "impact": "↑",
-      "note": "Elmet Group (NASDAQ: ELMT) mua 4.99% cổ phần MSR, ký kết hợp tác cung ứng vonfram dài hạn cho thị trường Mỹ. Đánh dấu bước tiến trong hành trình MSR trở thành nhà chế biến khoáng sản chiến lược đáng tin cậy hàng đầu thế giới."
-    },
-    {
-      "title": "14 CTCK nguy cơ không hoàn thành kế hoạch lợi nhuận",
-      "impact": "↓",
-      "note": "ROAA ngành CTCK giảm từ 5.6% năm 2025 xuống 4.3% nửa đầu 2026. Biên lợi nhuận cho vay ký quỹ giảm từ khoảng 6.9% xuống dưới 5%, chi phí vốn tăng lên khoảng 5.9%, gây áp lực lớn."
+      "note": "Elmet Group (NASDAQ: ELMT) mua 4,99% cổ phần MSR và ký kết cung ứng vonfram dài hạn cho Mỹ. Giao dịch chiến lược giúp MSR trở thành nhà chế biến khoáng sản chiến lược hàng đầu thế giới cho bán dẫn, hàng không vũ trụ, năng lượng, ô tô, hợp kim chuyên dụng."
     }
   ]
 }
