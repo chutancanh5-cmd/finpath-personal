@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-25",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Vĩ mô tích cực từ FDI TP.HCM hút kỷ lục 17,2 tỷ USD (vượt 56,6% kế hoạch cả năm) và ADB nâng dự báo GDP. SMBC nâng sở hữu VPBank lên ~20%, BVBank tăng vốn 10,000 tỷ đ chuẩn bị tín dụng mở rộng. Tuy nhiên cảnh báo từ lạm phát 4,3% (ADB), nợ toàn cầu tăng kỷ lục 365 nghìn tỷ USD, VN-Index yếu (-1,68% tuần). Tín hiệu rủi ro từ PNJ lỗ kỷ lục, insider bán cổ phiếu.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Việt Nam ghi nhận FDI kỷ lục 17,2 tỷ USD trong 9 tháng, vượt 56,6% so với kế hoạch cả năm, hỗ trợ ADB nâng dự báo tăng trưởng sau khoảng tăng trưởng vượt kỳ vọng nửa đầu năm. Tuy nhiên, khối ngoại và tự doanh bán ròng mạnh (282 tỷ đồng), phản ánh lo ngại về lạm phát (dự báo 4,3%) và áp lực tín dụng. Nợ toàn cầu tăng kỷ lục 365 nghìn tỷ USD tạo rủi ro vĩ mô ngắn hạn.",
   "top": [
     {
-      "title": "TP.HCM hút FDI kỷ lục 17,2 tỷ USD",
+      "title": "FDI TP.HCM 9 tháng vượt kế hoạch 56,6%, đạt 17,2 tỷ USD",
       "impact": "↑",
-      "note": "TP.HCM nhận 17,2 tỷ USD FDI trong 9 tháng 2026, vượt 56,6% kế hoạch cả năm (11 tỷ USD) và tăng 318,9% so cùng kỳ 2025. Dự án lớn: Cảng quốc tế Cần Giờ hơn 5 tỷ USD, trung tâm dữ liệu hàng tỷ USD, khu phức hợp Thủ Thiêm. Vốn FDI bình quân 307,5 triệu USD/dự án (gấp 12 lần mục tiêu)."
+      "note": "Vốn FDI đổ vào TP.HCM 9 tháng năm 2026 đạt 17,2 tỷ USD, vượt 56,6% so với kế hoạch cả năm 11 tỷ USD, tăng 318,9% so với cùng kỳ năm ngoái. Các dự án lớn bao gồm Cảng quốc tế Cần Giờ (hơn 5 tỷ USD), trung tâm dữ liệu hàng tỷ USD; vốn bình quân đăng ký 307,5 triệu USD/dự án, gấp 12 lần so với mục tiêu."
     },
     {
-      "title": "SMBC nâng sở hữu VPBank lên ~20%",
+      "title": "ADB nâng dự báo tăng trưởng VN nhưng cảnh báo lạm phát, áp lực tín dụng",
       "impact": "↑",
-      "note": "SMBC (Nhật Bản) thảo luận nâng sở hữu VPBank từ ~15% lên ~20%, cuộc đàm phán ở giai đoạn nâng cao hướng tới hoàn tất năm 2026. VPB tăng 4% lên 23,000 đ/cp, có lúc tăng trần 23.600 đ/cp, tín hiệu FDI mạnh vào ngành tài chính."
+      "note": "Tăng trưởng kinh tế Việt Nam vượt kỳ vọng nửa đầu năm 2026, động lực từ công nghiệp chế biến chế tạo, tiêu dùng trong nước mạnh, FDI ổn định. Lạm phát dự báo 4,3% năm 2026, áp lực từ cầu duy trì và chi phí năng lượng, nhập khẩu gia tăng; ADB khuyến nghị điều hành kinh tế vĩ mô thận trọng, nâng hiệu quả đầu tư công."
     },
     {
-      "title": "ADB nâng dự báo GDP Việt Nam",
-      "impact": "↑",
-      "note": "ADB nâng dự báo GDP Việt Nam do tăng trưởng vượt kỳ vọng nửa đầu 2026, động lực từ sản xuất, tiêu dùng mạnh và FDI ổn định. Tuy nhiên cảnh báo lạm phát dự báo 4,3% (2026) và 4% (2027) do áp lực cầu, chi phí năng lượng và nhập khẩu tăng."
-    },
-    {
-      "title": "BVBank tăng vốn lên gần 10,000 tỷ đ",
-      "impact": "↑",
-      "note": "BVBank được NHNN & UBCKNN chấp thuận tăng vốn từ 6,400 tỷ lên gần 10,000 tỷ đ, phát hành 320 triệu cp tỷ lệ 2:1 giá 10,000 đ/cp (ngày đăng ký cuối 24/9/2026). Được Fitch xếp hạng B+ triển vọng ổn định, chuẩn bị tăng trưởng tín dụng."
-    },
-    {
-      "title": "Nợ toàn cầu tăng kỷ lục 365 nghìn tỷ USD",
+      "title": "Khối ngoại và tự doanh bán ròng 282 tỷ đồng phiên 25/9",
       "impact": "↓",
-      "note": "Tổng nợ toàn cầu đạt kỷ lục 365 nghìn tỷ USD (cuối 6/2026), tăng 10 nghìn tỷ USD 6 tháng đầu năm, quý 6 liên tiếp tăng. Chi tiêu cơ cấu (y tế, năng lượng, AI, công nghệ, quốc phòng) tạo áp lực nợ dài hạn. Rủi ro cho thị trường toàn cầu và TTCK Việt Nam."
+      "note": "Phiên 25/9 chứng kiến áp lực xả hàng từ hai dòng vốn lớn: khối ngoại bán ròng 203 tỷ đồng (xả mạnh TCB 98 tỷ, MSB 98 tỷ, HPG 79 tỷ, VIC 78 tỷ, CTG 62 tỷ); khối tự doanh bán ròng 79 tỷ đồng (TCB 147 tỷ, EIB 79 tỷ). Mua ròng tập trung: SBT 247 tỷ, BSR 108 tỷ."
     },
     {
-      "title": "PNJ lỗ kỷ lục, insider bán 9 triệu cp",
+      "title": "SMBC nâng sở hữu VPBank lên 20%, VPB tăng hết biên độ",
+      "impact": "↑",
+      "note": "Sumitomo Mitsui Banking Corporation (SMBC) đang thảo luận nâng tỷ lệ sở hữu tại VPBank từ khoảng 15% lên 20%, dự kiến hoàn tất trong năm nay. Thay vì phát hành riêng lẻ, SMBC xem xét mua trực tiếp trên thị trường; cổ phiếu VPB tăng lên 23.600 đồng (tăng hết biên độ), đóng cửa 23.000 đồng (tăng 4%)."
+    },
+    {
+      "title": "PNJ: em trai chủ tịch bán 9 triệu cp, cổ phiếu giảm 61% từ đỉnh",
       "impact": "↓",
-      "note": "Ông Cao Ngọc Duy (em bà Cao Thị Ngọc Dung - chủ tịch PNJ) đăng ký bán 9 triệu cp (1-30/10/2026), dự kiến thu ~300 tỷ đ. Cổ phiếu PNJ giảm 61% từ đỉnh tháng 1 (33,000 đ/cp hiện tại). Tín hiệu rủi ro từ lỗ kỷ lục của công ty và bán tháo của người nội bộ."
+      "note": "Ông Cao Ngọc Duy (em trai bà Cao Thị Ngọc Dung - Chủ tịch PNJ) đăng ký bán 9 triệu cổ phiếu PNJ (~300 tỷ đồng) từ 1/10 đến 30/10 để giải quyết nhu cầu tài chính cá nhân; giảm sở hữu từ 2,7% xuống 0,94%. Cổ phiếu PNJ đang dừng 33.000 đồng/cp, giảm 61% so với đỉnh cuối tháng 1; PNJ trình kế hoạch lỗ kỷ lục."
+    },
+    {
+      "title": "Nợ toàn cầu tăng kỷ lục 365 nghìn tỷ USD, tăng 10 nghìn tỷ USD trong 6 tháng",
+      "impact": "↓",
+      "note": "Tổng nợ toàn cầu tăng lên kỷ lục hơn 365 nghìn tỷ USD tính đến cuối tháng 6 năm 2026 (6 quý liên tiếp tăng). Nợ tăng 10 nghìn tỷ USD trong 6 tháng đầu năm (bằng gần nửa so với cùng kỳ năm 2025), thúc đẩy bởi chi tiêu cơ cấu cho y tế, năng lượng, AI, công nghệ thông tin, quốc phòng; IIF cảnh báo nợ sẽ tiếp tục tồn tại."
     }
   ]
 }
