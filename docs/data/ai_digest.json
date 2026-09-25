@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường Việt Nam nhận tín hiệu tích cực từ ADB nâng dự báo tăng trưởng 2026 và NHNN giảm lãi suất liên ngân hàng xuống 1%, giảm chi phí tài chính cho DN. Tuy nhiên, ngành chứng khoán chịu áp lực khi ROAA giảm mạnh do chi phí vốn tăng, và làn sóng bán tháo trái phiếu Mỹ (lợi suất 10 năm vượt 5%) tạo rủi ro từ thị trường toàn cầu.",
+  "summary_vi": "Thị trường ghi nhận tín hiệu tích cực từ đầu tư nước ngoài (SMBC mua 600+ triệu cổ phiếu VPB nâng tỷ lệ lên 20%) và dự báo kinh tế (ADB nâng dự báo tăng trưởng), nhưng các áp lực vĩ mô lớn xuất hiện: bán tháo trái phiếu toàn cầu đẩy lợi suất Mỹ 10 năm vượt 5% (cao nhất 12 năm) và ngành chứng khoán suy giảm (14 CTCK có nguy cơ không hoàn thành KH 2026 do ROAA giảm từ 5,6% xuống 4,3%). Lãi suất liên ngân hàng sụt mạnh xuống 1%/năm nhưng NHNN rút bớt thanh khoản, điều chỉnh rủi ro tín dụng.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng Việt Nam 2026",
+      "title": "SMBC thảo luận mua 600+ triệu cổ phiếu VPB nâng tỷ lệ lên 20%",
       "impact": "↑",
-      "note": "ADB nâng dự báo GDP do tăng trưởng vượt kỳ vọng H1/2026, với động lực từ công nghiệp chế biến mở rộng, tiêu dùng trong nước tăng mạnh, FDI duy trì ổn định. Dự báo lạm phát 4,3% năm 2026, 4% năm 2027. Tín hiệu vĩ mô tích cực cho TTCK VN."
+      "note": "SMBC đang đàm phán nâng tỷ lệ sở hữu VPBank từ mức hiện tại lên khoảng 20%, trong đó bao gồm khả năng mua trực tiếp trên sàn hơn 600 triệu cổ phiếu. Định giá dự kiến cao hơn đáng kể so với giá thị trường, tương tự năm 2023 khi SMBC chấp nhận trả cao hơn 40% giá thị trường. Dự doanh giao dịch hoàn tất trong năm 2026."
     },
     {
-      "title": "Lãi suất liên ngân hàng giảm xuống 1%/năm",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam 2026 nhưng cảnh báo lạm phát",
       "impact": "↑",
-      "note": "Lãi suất VND qua đêm giảm từ 7% (21/9) xuống 1% (24/9), chỉ 3 phiên giảm 6 điểm %. Lãi suất 1 tuần 5,1%, 1 tháng 6,15%. NHNN rút bớt hỗ trợ thanh khoản OMO, chỉ chào thầu 1.000 tỷ đồng/kỳ hạn. Dễ tính tiếp tục cải thiện cho các DN vay tiền."
+      "note": "Tăng trưởng kinh tế Việt Nam vượt kỳ vọng trong nửa đầu 2026 với động lực từ chế biến chế tạo, tiêu dùng nội địa và FDI ổn định. ADB dự báo lạm phát ở mức 4,3% năm 2026 và 4% năm 2027, với áp lực cầu tiếp tục duy trì và chi phí năng lượng, nhập khẩu gia tăng. ADB khuyến nghị điều hành kinh tế vĩ mô thận trọng."
     },
     {
-      "title": "Bán tháo trái phiếu chính phủ toàn cầu tiếp tục",
-      "impact": "↓",
-      "note": "Lợi suất kho bạc Mỹ 10 năm tăng lên 5,223% (cao nhất từ 6/2007), 30 năm đạt 5,501% (cao nhất từ 6/2004). Làn sóng bán tháo tiếp tục trong tháng 9, tạo áp lực lên thị trường tài chính toàn cầu và tiềm ẩn rủi ro cho TTCK Việt Nam qua kênh đầu tư quốc tế."
-    },
-    {
-      "title": "14 công ty chứng khoán nguy cơ không hoàn thành kế hoạch lợi nhuận",
-      "impact": "↓",
-      "note": "ROAA ngành giảm từ 5,6% (2025) xuống 4,3% (H1/2026). Biên lợi nhuận cho vay ký quỹ thu hẹp từ 6,9% (Q4/2024) xuống dưới 5% (Q2/2026), chi phí vốn tăng lên 5,9%. VIX chịu ảnh hưởng mạnh nhất, ROAA giảm gần 18%, thu nhập từ đầu tư cổ phiếu giảm khoảng 300 tỷ đồng."
-    },
-    {
-      "title": "Dự báo KQKD quý 3: Phân hóa rõ rệt giữa các ngành",
+      "title": "Lãi suất liên ngân hàng sụt mạnh xuống 1%/năm, NHNN rút bớt thanh khoản",
       "impact": "→",
-      "note": "VCBS dự báo lợi nhuận 54 DN quý III/2026 phân hóa: BSR +446% (5.744 tỷ đồng) nhờ sản lượng tăng, biên lọc dầu cải thiện; VHM +243% (15.230 tỷ đồng); PVT +133% (614 tỷ đồng); MSN +121% (4.117 tỷ đồng). Ngược lại, 3 công ty chứng khoán trong danh sách dự báo lợi nhuận sụt giảm."
+      "note": "Lãi suất VND qua đêm giảm từ 7% (21/9) xuống 1% (24/9), chỉ 3 phiên giảm 6 điểm %. Lãi suất 1 tuần 5,1%/năm, 1 tháng 6,15%/năm. NHNN chỉ chào thầu 1.000 tỷ đồng/kỳ hạn OMO, tổng cộng các tổ chức tín dụng chỉ trúng thầu 598 tỷ đồng, thể hiện sự thu hẹp quy mô hỗ trợ thanh khoản."
     },
     {
-      "title": "Elmet Group đầu tư chiến lược vào MSR, mở rộng thị trường Mỹ",
-      "impact": "↑",
-      "note": "Elmet Group (NASDAQ: ELMT) mua 4,99% cổ phần MSR và ký kết cung ứng vonfram dài hạn cho Mỹ. Giao dịch chiến lược giúp MSR trở thành nhà chế biến khoáng sản chiến lược hàng đầu thế giới cho bán dẫn, hàng không vũ trụ, năng lượng, ô tô, hợp kim chuyên dụng."
+      "title": "Làn sóng bán tháo trái phiếu toàn cầu: lợi suất Mỹ vượt 5% mức cao nhất 12 năm",
+      "impact": "↓",
+      "note": "Thị trường trái phiếu toàn cầu chịu áp lực bán liên tục trong nhiều tháng. Phiên 24/9, lợi suất kho bạc Mỹ kỳ hạn 10 năm tăng hơn 10 điểm cơ bản lên 5,223% (cao nhất từ tháng 6/2007), kỳ hạn 30 năm đạt 5,501% (cao nhất từ tháng 6/2004). Làn sóng bán tháo tiếp tục tạo rủi ro cho TTCK Việt Nam."
+    },
+    {
+      "title": "14 công ty chứng khoán có nguy cơ không hoàn thành KH lợi nhuận 2026",
+      "impact": "↓",
+      "note": "ROAA toàn ngành chứng khoán giảm từ 5,6% (2025) xuống 4,3% (H1/2026). Biên lợi nhuận cho vay ký quỹ thu hẹp từ 6,9% (Q4/2024) xuống dưới 5% (Q2/2026), chi phí vốn tăng lên 5,9%. Các công ty như VIX, TVS, VDS, CTS chịu ảnh hưởng mạnh, ROAA giảm gần 18%, thu nhập từ đầu tư cổ phiếu giảm."
+    },
+    {
+      "title": "CTCK dự báo KQKD quý 3: Phân hóa rõ rệt giữa các ngành",
+      "impact": "→",
+      "note": "VCBS dự báo lợi nhuận 54 DN quý III/2026 phân hóa: BSR +446% (5.744 tỷ đồng), VHM +243% (15.230 tỷ đồng), PVT +133% (614 tỷ đồng), MSN +121% (4.117 tỷ đồng). Trong khi đó, 3 công ty chứng khoán trong danh sách dự báo lợi nhuận sụt giảm do biên lợi nhuận và thu nhập đầu tư giảm."
     }
   ]
 }
