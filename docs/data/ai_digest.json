@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-25",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực bán mạnh từ khối ngoại kể từ nâng hạng, chỉ số VN-Index mất mốc 1800 điểm trong bối cảnh rủi ro tài chính toàn cầu gia tăng. Tổng nợ toàn cầu chạm kỷ lục 365.000 tỷ USD, đặc biệt tại các thị trường mới nổi. Tuy nhiên, ADB nâng dự báo tăng trưởng kinh tế Việt Nam và nền kinh tế toàn cầu cho thấy sức chống chịu trước áp lực lãi suất cao, hỗ trợ từ làn sóng đầu tư AI.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đứng trước áp lực bán mạnh từ khối ngoại (bán ròng 2.600 tỷ đồng kể từ nâng hạng), khiến VN-Index thủng mốc tâm lý 1.800 điểm về 1.775 điểm với dòng tiền suy yếu chỉ 12.000 tỷ/phiên. Áp lực macro tiếp tục từ nợ toàn cầu kỷ lục 365.000 tỷ USD, lợi suất trái phiếu Mỹ tăng cao (30 năm 5,501%), và kỳ vọng Fed tăng thêm lãi suất. Các tín hiệu tích cực (ADB nâng GDP, hợp tác MSR, dự án đường sắt 67 tỷ USD) không đủ bù đắp áp lực ngắn hạn.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 2.600 tỷ đồng sau nâng hạng",
+      "title": "Khối ngoại bán ròng 2.600 tỷ đồng sau nâng hạng FTSE",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 2.600 tỷ đồng kể từ khi Việt Nam chính thức gia nhập danh sách thị trường mới nổi thứ cấp của FTSE Russell (18/9), xóa sạch lợi nhuận từ mua ròng tuần trước, phiên 24/9 bán ròng gần 900 tỷ đồng; tổng bán ròng từ đầu năm lên tới 95.000 tỷ đồng."
+      "note": "Nhà đầu tư nước ngoài tiếp tục bán ròng gần 900 tỷ đồng phiên 24/9, nâng tổng giá trị rút vốn từ 18/9 (nâng hạng) lên 2.600 tỷ đồng, xóa sạch thành quả mua ròng của tuần trước. Tổng bán ròng từ đầu năm 2026 lên tới xấp xỉ 95.000 tỷ đồng."
     },
     {
-      "title": "Tổng nợ toàn cầu chạm kỷ lục trên 365.000 tỷ USD",
+      "title": "Dòng tiền suy yếu, VN-Index mất mốc 1.800 điểm nguy hiểm",
       "impact": "↓",
-      "note": "Nợ toàn cầu tăng hơn 10.000 tỷ USD trong nửa đầu năm 2026, lên 365.000 tỷ USD, chủ yếu từ thị trường mới nổi (tăng 6.500 tỷ USD), dẫn đầu là Trung Quốc; nợ hiện ở mức 310% GDP, gây lo ngại về ổn định tài chính toàn cầu."
+      "note": "Giá trị khớp lệnh hôm nay chỉ quanh 12.000 tỷ đồng/phiên, thấp hơn cả trước nâng hạng. VN-Index giảm 26 điểm (-1,47%) phiên 24/9, thủng mốc 1.800 điểm về 1.775 điểm. SSI khuyến cáo nhà đầu tư hạ tỷ trọng cổ phiếu, giới hạn margin, chốt lời sớm để bảo vệ thành quả."
     },
     {
-      "title": "VN-Index thủng 1800 điểm, rơi về 1775 điểm",
+      "title": "Nợ toàn cầu chạm kỷ lục 365.000 tỷ USD, Trung Quốc dẫn đầu",
       "impact": "↓",
-      "note": "VN-Index giảm 26,5 điểm (-1,47%) phiên 24/9, mất các vùng hỗ trợ quan trọng, đóng cửa tại 1.775,09 điểm. Độ rộng thị trường nghiêng về sắc đỏ 15/18 ngành, trong đó Dầu khí giảm mạnh nhất."
+      "note": "Viện Tài chính Quốc tế (IIF) báo cáo nợ toàn cầu tăng hơn 10.000 tỷ USD trong nửa đầu 2026 lên mức kỷ lục 365.000 tỷ USD, tương ứng 310% GDP. Nợ tại các thị trường mới nổi tăng 6.500 tỷ USD lên hơn 110.000 tỷ USD, Trung Quốc dẫn đầu."
     },
     {
-      "title": "ADB nâng dự báo tăng trưởng Việt Nam",
+      "title": "Lợi suất trái phiếu Mỹ tăng cao kỷ lục, vàng giảm 12,5 USD/oz",
+      "impact": "↓",
+      "note": "Lợi suất kho bạc Mỹ 30 năm tăng lên 5,501% (cao nhất kể từ 6/2004), 10 năm lên 5,223% (cao nhất từ 6/2007). Giá vàng thế giới giảm xuống 4.275,5 USD/oz do USD mạnh lên, kỳ vọng Fed tăng thêm lãi suất cuối tháng 10."
+    },
+    {
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam 2026",
       "impact": "↑",
-      "note": "ADB nâng dự báo tăng trưởng GDP năm 2026 nhờ tăng trưởng vượt kỳ vọng trong nửa đầu năm, hỗ trợ bởi công nghiệp chế biến, tiêu dùng nội địa và dòng FDI ổn định. ADB dự báo lạm phát 4,3% năm 2026 và 4% năm 2027, nhận định nên tiếp tục ổn định kinh tế vĩ mô."
+      "note": "ADB nâng dự báo tăng trưởng GDP 2026 nhờ tăng trưởng vượt kỳ vọng nửa đầu năm, động lực từ chế tạo, tiêu dùng nội địa, FDI ổn định. Tuy nhiên ADB cảnh báo lạm phát 4,3% (2026) và 4% (2027), áp lực cầu tiếp tục, chi phí năng lượng gia tăng."
     },
     {
-      "title": "Kinh tế toàn cầu trụ vững dưới áp lực lãi suất cao",
+      "title": "Dự án đường sắt cao tốc Bắc-Nam 67 tỷ USD, chuyển giao công nghệ Đức",
       "impact": "↑",
-      "note": "Nền kinh tế toàn cầu chứng tỏ sức mạnh để chống chịu lãi suất cao, thị trường chứng khoán Mỹ vượt qua khó khăn tốt hơn dự báo với lợi nhuận doanh nghiệp ổn định; làn sóng đầu tư AI kỳ vọng thúc đẩy năng suất trong nhiều năm tới."
-    },
-    {
-      "title": "Trump yêu cầu Fed hạ lãi suất xuống 1%",
-      "impact": "↓",
-      "note": "Tổng thống Trump liên tục đòi Fed hạ lãi suất từ mức 3,75% hiện nay xuống 1%; các nhà phân tích cảnh báo nếu thực hiện, thị trường tài chính có thể bị xáo trộn, chi phí vay của Chính phủ Mỹ cao hơn, đồng USD có nguy cơ lao dốc."
+      "note": "Bộ Xây dựng thăm các tập đoàn đường sắt hàng đầu Đức chuyển giao công nghệ dự án đường sắt tốc độ cao trục Bắc-Nam, dài 1.541 km, tốc độ 350 km/h, trị giá 67 tỷ USD, gồm 23 ga hành khách và 5 ga hàng hóa, đã được Quốc hội thông qua."
     }
   ]
 }
