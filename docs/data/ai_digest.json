@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-25",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam vượt kỳ vọng với ADB nâng dự báo tăng trưởng, tuy nhiên áp lực chi phí vốn tăng mạnh (lãi suất cho vay 8,4-10,7%) và làn sóng bán tháo trái phiếu toàn cầu (lợi suất 10 năm Mỹ lên 5,223%) tạo áp lực cổ phiếu. Ngành chứng khoán suy giảm với 14 CTCK có nguy cơ không hoàn thành lợi nhuận 2026. Lãi suất liên ngân hàng giảm mạnh xuống 1% mang tín hiệu thanh khoản tốt.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt nhiều áp lực vĩ mô: lãi suất cho vay tăng liên tục (8.4-10.7%/năm, Techcombank 11.2%/năm) gia tăng chi phí vốn, đặc biệt áp lực lên bất động sản. Lạm phát 4.45% kéo dài, khiến Fed Mỹ duy trì lãi suất cao (3.75%), đẩy USD và lợi suất trái phiếu Mỹ vượt 5% (cao nhất từ 2004-2007), gây áp lực tỷ giá VND. Ngành chứng khoán suy yếu với ROAA giảm từ 5.6% xuống 4.3%, 14 công ty có nguy cơ không hoàn thành KH lợi nhuận. Mặc dù lãi suất liên ngân hàng giảm xuống 1% và Masan thu 3,300 tỷ từ bán MSR, áp lực tiêu cực vẫn chiếm ưu thế.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng Việt Nam 2026",
+      "title": "Lãi suất cho vay tiếp tục tăng cao",
+      "impact": "↓",
+      "note": "Lãi suất cho vay bình quân tăng từ 6.7-9%/năm (tháng 12/2025) lên 8.4-10.7%/năm (tháng 8/2026), tăng tổng cộng 1.7%/năm kể từ đầu năm. Techcombank tháng 8 lên 11.2%/năm, tăng 0.6% so tháng trước. Chênh lệch tiền gửi-cho vay lên 4%. Áp lực chi phí vốn, đặc biệt lên bất động sản và khách hàng vay vốn."
+    },
+    {
+      "title": "Lợi suất trái phiếu Mỹ vượt 5%, USD mạnh lên",
+      "impact": "↓",
+      "note": "Lợi suất 10 năm Mỹ vượt 5.223% (cao nhất từ tháng 6/2007), 30 năm lên 5.501% (cao nhất từ tháng 6/2004). USD mạnh lên trong tuần, khiến vàng giảm 2%. Áp lực tỷ giá VND, nhập khẩu gia tăng chi phí, lạm phát nhập khẩu tăng."
+    },
+    {
+      "title": "14 công ty chứng khoán suy yếu, ROAA giảm mạnh",
+      "impact": "↓",
+      "note": "ROAA ngành giảm từ 5.6% năm 2025 xuống 4.3% nửa đầu 2026. Biên lợi nhuận cho vay ký quỹ giảm từ khoảng 6.9% quý 4/2024 xuống dưới 5% quý 2/2026, trong khi chi phí vốn tăng lên 5.9%. VIX chịu ảnh hưởng mạnh nhất, ROAA lũy kế giảm 18%, thu nhập đầu tư cổ phiếu giảm 0.3 nghìn tỷ."
+    },
+    {
+      "title": "Lạm phát duy trì cao 4.45%, áp lực lãi suất",
+      "impact": "↓",
+      "note": "CPI bình quân 8 tháng 2026 tăng 4.45% so cùng kỳ, nằm trong mục tiêu khoảng 4.5%. Tuy nhiên so với tháng 12/2025, tháng 5 tăng 3.61%, tháng 8 tăng 3.57%, cho thấy áp lực lạm phát vẫn đáng kể. ADB dự báo lạm phát 4.3% năm 2026, 4% năm 2027."
+    },
+    {
+      "title": "Lãi suất liên ngân hàng giảm xuống 1%, thanh khoản cải thiện",
       "impact": "↑",
-      "note": "Tăng trưởng kinh tế Việt Nam vượt kỳ vọng trong nửa đầu 2026 với động lực từ công nghiệp chế biến chế tạo, tiêu dùng nội địa và FDI ổn định. ADB dự báo lạm phát 4,3% năm 2026 và 4% năm 2027. Áp lực cầu tiếp tục duy trì, chi phí năng lượng và nhập khẩu gia tăng."
+      "note": "Lãi suất qua đêm VND giảm xuống 1%/năm từ 7%/năm (ngày 21/9) chỉ trong 3 phiên. Lãi suất 1 tuần 5.1%, 2 tuần 5.2%, 1 tháng 6.15%. NHNN hút ròng 4,500 tỷ qua OMO, thu hẹp quy mô hỗ trợ thanh khoản. Tín hiệu tích cực cho thanh khoản thị trường ngắn hạn."
     },
     {
-      "title": "Lãi suất cho vay tiếp tục tăng, áp lực chi phí vốn",
-      "impact": "↓",
-      "note": "Lãi suất cho vay bình quân tăng từ 6,7-9% (tháng 12/2025) lên 8,4-10,7% (tháng 8/2026), tăng 1,7% trong 8 tháng. Techcombank lên tới 11,2%/năm. Chênh lệch lãi suất tiền gửi - cho vay 4%, hạn chế sức mua và đầu tư."
-    },
-    {
-      "title": "Lãi suất liên ngân hàng sụt giảm 6 điểm % xuống 1%",
+      "title": "Masan bán vốn MSR cho Elmet (Mỹ), thu 3,300 tỷ",
       "impact": "↑",
-      "note": "Lãi suất VND qua đêm giảm từ 7% (21/9) xuống 1% (24/9) trong 3 phiên. Lãi suất 1 tuần ở 5,1%/năm, 1 tháng 6,15%/năm. NHNN chỉ chào thầu 1.000 tỷ đồng/kỳ hạn OMO, tổng trúng thầu 598 tỷ đồng, thể hiện thu hẹp quy mô hỗ trợ thanh khoản."
-    },
-    {
-      "title": "Bán tháo trái phiếu toàn cầu: lợi suất Mỹ vượt 5%",
-      "impact": "↓",
-      "note": "Lợi suất kho bạc Mỹ kỳ hạn 10 năm tăng lên 5,223% (cao nhất từ tháng 6/2007), kỳ hạn 30 năm đạt 5,501% (cao nhất từ tháng 6/2004). Bán tháo trái phiếu liên tục do chiến tranh Vùng Vịnh đẩy giá năng lượng tăng, tác động tiêu cực cổ phiếu toàn cầu."
-    },
-    {
-      "title": "14 công ty chứng khoán có nguy cơ không hoàn thành KH",
-      "impact": "↓",
-      "note": "ROAA ngành giảm từ 5,6% (2025) xuống 4,3% (H1/2026). Biên lợi nhuận cho vay ký quỹ thu hẹp từ 6,9% (Q4/2024) xuống dưới 5% (Q2/2026), chi phí vốn tăng 5,9%. VIX, TVS, VDS, CTS chịu ảnh hưởng mạnh, ROAA giảm 18%, thu nhập đầu tư cổ phiếu suy giảm."
-    },
-    {
-      "title": "Giá vàng thế giới tăng nhẹ nhưng sức ép USD mạnh",
-      "impact": "↓",
-      "note": "Giá vàng tăng 0,2% lên 4.288,36 USD/ounce nhưng giảm 2% trong tuần do USD mạnh lên và Fed duy trì lãi suất cao. Lợi suất trái phiếu Mỹ tăng làm giảm sức hấp dẫn vàng. Vàng miếng SJC giảm 1,1 triệu đồng/lượng xuống 141,4-144,4 triệu."
+      "note": "Masan High-Tech Materials (MSR) ký hợp tác chiến lược với Elmet Group (NASDAQ: ELMT). Elmet mua 4.99% cổ phần MSR từ Masan Group, thỏa thuận cung ứng vonfram dài hạn cho thị trường Mỹ. Masan thoái vốn, thu hồi 3,300 tỷ đồng. Mở cửa thị trường Mỹ cho ngành khoáng sản Việt Nam."
     }
   ]
 }
