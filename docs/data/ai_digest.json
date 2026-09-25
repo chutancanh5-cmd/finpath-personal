@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "ADB nâng dự báo tăng trưởng kinh tế Việt Nam nhưng cảnh báo áp lực lạm phát (4.3%) và tín dụng tiếp tục duy trì. Lãi suất trái phiếu toàn cầu tăng mạnh (10 năm Mỹ vượt 5%), tạo rủi ro cho FDI vào các thị trường mới nổi. SMBC tiếp tục tăng cường sự hiện diện tại VPBank với khoản đầu tư 425 triệu USD, phản ánh niềm tin vào thị trường ngân hàng Việt Nam. Tổng nợ toàn cầu chạm kỷ lục 365 nghìn tỷ USD, gây lo ngại về ổn định tài chính, trong khi áp lực lạm phát nội bộ và call margin người nội bộ tiếp tục tạo sức ép ngắn hạn.",
+  "summary_vi": "Kinh tế Việt Nam tích cực (ADB nâng dự báo GDP do tăng trưởng vượt kỳ vọng nửa đầu năm) nhưng chịu áp lực vĩ mô toàn cầu gia tăng: nợ toàn cầu kỷ lục 365 nghìn tỷ USD, lợi suất T-bond Mỹ tăng chóng mặt (10 năm 5,223% cao nhất 19 năm). FDI chiến lược vẫn chảy vào (SMBC, Elmet) nhưng rủi ro call margin nội bộ (Kosy 4 triệu cổ phiếu) cần canh chừng. Lạm phát YoY 4,45% ở mục tiêu nhưng tín hiệu kinh tế chậm lại.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng GDP Việt Nam nhưng cảnh báo lạm phát",
+      "title": "ADB nâng dự báo tăng trưởng GDP Việt Nam",
       "impact": "↑",
-      "note": "ADB nâng dự báo tăng trưởng kinh tế Việt Nam (nửa đầu năm vượt kỳ vọng) với động lực từ chế biến chế tạo, tiêu dùng nội địa và FDI ổn định. Tuy nhiên, cảnh báo lạm phát dự báo 4.3% năm 2026 và 4% năm 2027 do áp lực cầu, chi phí năng lượng và nhập khẩu gia tăng, yêu cầu Việt Nam kìm chế lạm phát và bảo đảm ổn định tài chính vĩ mô."
+      "note": "ADB nâng dự báo tăng trưởng 2026 do tăng trưởng vượt kỳ vọng nửa đầu năm, thúc đẩy bởi công nghiệp chế biến chế tạo mở rộng, tiêu dùng nội địa tăng mạnh, FDI ổn định. Lạm phát dự báo 4,3% năm 2026, 4% năm 2027. ADB khuyến nghị Việt Nam tiếp tục điều hành vĩ mô thận trọng, nâng hiệu quả đầu tư công, phát triển thị trường vốn."
     },
     {
-      "title": "Lãi suất trái phiếu toàn cầu tăng mạnh, ảnh hưởng dòng vốn FDI",
+      "title": "Nợ toàn cầu chạm kỷ lục 365 nghìn tỷ USD",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm tăng vượt mức 5.223% (cao nhất từ tháng 6/2007), 30 năm lên 5.501% (cao nhất từ tháng 6/2004) do bán tháo liên tục. Tăng lãi suất toàn cầu có nguy cơ giảm hấp dẫn các thị trường mới nổi, rủi ro lao dốc cho vốn FDI vào Việt Nam trong bối cảnh cạnh tranh vốn quốc tế."
+      "note": "Tổng nợ toàn cầu tăng lên hơn 365 nghìn tỷ USD (cuối Q2/2026), tăng 10 nghìn tỷ USD trong 6 tháng đầu năm (quý thứ 6 liên tiếp tăng). Nợ từ chi tiêu cơ cấu cho y tế, năng lượng, AI, công nghệ, quốc phòng chứ không phải sốc cụ thể nào, tạo áp lực tín dụng toàn cầu dài hạn."
     },
     {
-      "title": "SMBC nâng sở hữu VPBank lên 20%, đầu tư thêm 425 triệu USD",
+      "title": "Lợi suất T-bond Mỹ tăng mạnh, áp lực tài sản rủi ro",
+      "impact": "↓",
+      "note": "Lợi suất T-bond 30 năm tăng ~10 bps lên 5,501% (cao nhất kể từ 6/2004), 10 năm lên 5,223% (cao nhất kể từ 6/2007). Áp lực bán tháo trái phiếu chính phủ toàn cầu do chiến tranh Vùng Vịnh đẩy giá năng lượng tăng dữ dội, tạo áp lực lên định giá cổ phiếu và tài sản rủi ro."
+    },
+    {
+      "title": "SMBC Nhật Bản chi 425 triệu USD nâng VPBank lên 20%",
       "impact": "↑",
-      "note": "Ngân hàng Sumitomo Mitsui Banking Corp (Nhật Bản) đang thảo luận nâng tỷ lệ sở hữu tại VPBank từ 15% hiện nay lên khoảng 20%, tương ứng đầu tư thêm khoảng 425 triệu USD. Dự kiến hoàn tất trong năm 2026, phản ánh niềm tin nhà đầu tư nước ngoài vào tiềm năng thị trường ngân hàng và sự gia tăng tài sản hộ gia đình Việt Nam."
+      "note": "SMBC (Sumitomo Mitsui Banking Corp) đàm phán nâng sở hữu VPBank từ 15% hiện nay lên khoảng 20%, chi khoảng 425 triệu USD, muốn hoàn tất trong 2026 nhưng còn bất đồng định giá. Tín hiệu tích cực FDI ngân hàng vào Việt Nam, tiếp cận thị trường ngân hàng tăng trưởng nhanh nhất châu Á với khách hàng cá nhân và doanh nghiệp tài sản gia tăng."
     },
     {
-      "title": "Tổng nợ toàn cầu chạm kỷ lục 365 nghìn tỷ USD, lo ngại hệ thống",
+      "title": "Gia đình Chủ tịch Kosy bị call margin 4 triệu cổ phiếu",
       "impact": "↓",
-      "note": "Tổng nợ toàn cầu tăng lên mức kỷ lục hơn 365 nghìn tỷ USD tính đến cuối tháng 6 năm 2026, tăng gần 10 nghìn tỷ USD trong 6 tháng đầu năm. Đây là quý thứ 6 liên tiếp nợ tăng, chủ yếu từ chi tiêu cơ cấu (y tế, năng lượng, AI, công nghệ, quốc phòng), gây lo ngại về ổn định tài chính toàn cầu và rủi ro hệ thống."
+      "note": "Gia đình Chủ tịch Nguyễn Việt Cường (Kosy) bị call margin gần 4 triệu cổ phiếu KOS từ 5 công ty chứng khoán: KIS 285.000, PBSV 130.400, Nhất Việt 105.800, bà Hằng 441.600, ông Kiên 353.600, Leo Regulus 1.811.200. Áp lực bán giải chấp lớn từ nội bộ, rủi ro thanh khoản cổ phiếu."
     },
     {
-      "title": "Trump đòi Fed hạ lãi suất xuống 1%, rủi ro chính sách USD",
-      "impact": "↓",
-      "note": "Tổng thống Trump liên tục đòi Federal Reserve hạ lãi suất từ mức 3.75% hiện nay xuống 1%, lập luận Mỹ xứng đáng mức lãi suất cực thấp. Các nhà phân tích cảnh báo nếu giảm 3 điểm phần trăm sẽ gây xáo trộn thị trường tài chính, tăng lo ngại lạm phát, rủi ro USD lao dốc và chi phí tài trợ Chính phủ Mỹ tăng cao."
-    },
-    {
-      "title": "Gia đình Chủ tịch Kosy bị call margin gần 4 triệu cổ phiếu",
-      "impact": "↓",
-      "note": "Hàng loạt công ty chứng khoán thông báo bán giải chấp tổng cộng gần 4 triệu cổ phiếu KOS trong 1 tuần vừa qua. Chủ tịch Cường bị 3 công ty call margin 521.200 cổ phiếu, vợ bị 3 công ty call margin 441.600 cổ phiếu, em trai bị call margin 353.600 cổ phiếu, công ty con Leo Regulus bị call margin 1.811.200 cổ phiếu. Áp lực thanh khoản từ người nội bộ doanh nghiệp gây tâm lý bán tháo."
+      "title": "Elmet Mỹ mua 4,99% MSR, hợp đồng vonfram dài hạn",
+      "impact": "↑",
+      "note": "Elmet Group (NASDAQ: ELMT) mua 4,99% cổ phần MSR (Masan High-Tech Materials, UPCoM), ký thỏa thuận cung ứng vonfram dài hạn cho thị trường Mỹ. MSR là nền tảng khai thác chế biến vonfram tích hợp hiếm hoi thế giới, nối kết nguồn tài nguyên Việt với chuỗi cung ứng chiến lược toàn cầu trong bối cảnh nhu cầu bán dẫn, hàng không vũ trụ, năng lượng, ô tô gia tăng."
     }
   ]
 }
