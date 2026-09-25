@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận tín hiệu tích cực từ đầu tư nước ngoài (SMBC mua 600+ triệu cổ phiếu VPB nâng tỷ lệ lên 20%) và dự báo kinh tế (ADB nâng dự báo tăng trưởng), nhưng các áp lực vĩ mô lớn xuất hiện: bán tháo trái phiếu toàn cầu đẩy lợi suất Mỹ 10 năm vượt 5% (cao nhất 12 năm) và ngành chứng khoán suy giảm (14 CTCK có nguy cơ không hoàn thành KH 2026 do ROAA giảm từ 5,6% xuống 4,3%). Lãi suất liên ngân hàng sụt mạnh xuống 1%/năm nhưng NHNN rút bớt thanh khoản, điều chỉnh rủi ro tín dụng.",
+  "summary_vi": "Kinh tế Việt Nam vượt kỳ vọng với ADB nâng dự báo tăng trưởng, tuy nhiên áp lực chi phí vốn tăng mạnh (lãi suất cho vay 8,4-10,7%) và làn sóng bán tháo trái phiếu toàn cầu (lợi suất 10 năm Mỹ lên 5,223%) tạo áp lực cổ phiếu. Ngành chứng khoán suy giảm với 14 CTCK có nguy cơ không hoàn thành lợi nhuận 2026. Lãi suất liên ngân hàng giảm mạnh xuống 1% mang tín hiệu thanh khoản tốt.",
   "top": [
     {
-      "title": "SMBC thảo luận mua 600+ triệu cổ phiếu VPB nâng tỷ lệ lên 20%",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam 2026",
       "impact": "↑",
-      "note": "SMBC đang đàm phán nâng tỷ lệ sở hữu VPBank từ mức hiện tại lên khoảng 20%, trong đó bao gồm khả năng mua trực tiếp trên sàn hơn 600 triệu cổ phiếu. Định giá dự kiến cao hơn đáng kể so với giá thị trường, tương tự năm 2023 khi SMBC chấp nhận trả cao hơn 40% giá thị trường. Dự doanh giao dịch hoàn tất trong năm 2026."
+      "note": "Tăng trưởng kinh tế Việt Nam vượt kỳ vọng trong nửa đầu 2026 với động lực từ công nghiệp chế biến chế tạo, tiêu dùng nội địa và FDI ổn định. ADB dự báo lạm phát 4,3% năm 2026 và 4% năm 2027. Áp lực cầu tiếp tục duy trì, chi phí năng lượng và nhập khẩu gia tăng."
     },
     {
-      "title": "ADB nâng dự báo tăng trưởng Việt Nam 2026 nhưng cảnh báo lạm phát",
+      "title": "Lãi suất cho vay tiếp tục tăng, áp lực chi phí vốn",
+      "impact": "↓",
+      "note": "Lãi suất cho vay bình quân tăng từ 6,7-9% (tháng 12/2025) lên 8,4-10,7% (tháng 8/2026), tăng 1,7% trong 8 tháng. Techcombank lên tới 11,2%/năm. Chênh lệch lãi suất tiền gửi - cho vay 4%, hạn chế sức mua và đầu tư."
+    },
+    {
+      "title": "Lãi suất liên ngân hàng sụt giảm 6 điểm % xuống 1%",
       "impact": "↑",
-      "note": "Tăng trưởng kinh tế Việt Nam vượt kỳ vọng trong nửa đầu 2026 với động lực từ chế biến chế tạo, tiêu dùng nội địa và FDI ổn định. ADB dự báo lạm phát ở mức 4,3% năm 2026 và 4% năm 2027, với áp lực cầu tiếp tục duy trì và chi phí năng lượng, nhập khẩu gia tăng. ADB khuyến nghị điều hành kinh tế vĩ mô thận trọng."
+      "note": "Lãi suất VND qua đêm giảm từ 7% (21/9) xuống 1% (24/9) trong 3 phiên. Lãi suất 1 tuần ở 5,1%/năm, 1 tháng 6,15%/năm. NHNN chỉ chào thầu 1.000 tỷ đồng/kỳ hạn OMO, tổng trúng thầu 598 tỷ đồng, thể hiện thu hẹp quy mô hỗ trợ thanh khoản."
     },
     {
-      "title": "Lãi suất liên ngân hàng sụt mạnh xuống 1%/năm, NHNN rút bớt thanh khoản",
-      "impact": "→",
-      "note": "Lãi suất VND qua đêm giảm từ 7% (21/9) xuống 1% (24/9), chỉ 3 phiên giảm 6 điểm %. Lãi suất 1 tuần 5,1%/năm, 1 tháng 6,15%/năm. NHNN chỉ chào thầu 1.000 tỷ đồng/kỳ hạn OMO, tổng cộng các tổ chức tín dụng chỉ trúng thầu 598 tỷ đồng, thể hiện sự thu hẹp quy mô hỗ trợ thanh khoản."
-    },
-    {
-      "title": "Làn sóng bán tháo trái phiếu toàn cầu: lợi suất Mỹ vượt 5% mức cao nhất 12 năm",
+      "title": "Bán tháo trái phiếu toàn cầu: lợi suất Mỹ vượt 5%",
       "impact": "↓",
-      "note": "Thị trường trái phiếu toàn cầu chịu áp lực bán liên tục trong nhiều tháng. Phiên 24/9, lợi suất kho bạc Mỹ kỳ hạn 10 năm tăng hơn 10 điểm cơ bản lên 5,223% (cao nhất từ tháng 6/2007), kỳ hạn 30 năm đạt 5,501% (cao nhất từ tháng 6/2004). Làn sóng bán tháo tiếp tục tạo rủi ro cho TTCK Việt Nam."
+      "note": "Lợi suất kho bạc Mỹ kỳ hạn 10 năm tăng lên 5,223% (cao nhất từ tháng 6/2007), kỳ hạn 30 năm đạt 5,501% (cao nhất từ tháng 6/2004). Bán tháo trái phiếu liên tục do chiến tranh Vùng Vịnh đẩy giá năng lượng tăng, tác động tiêu cực cổ phiếu toàn cầu."
     },
     {
-      "title": "14 công ty chứng khoán có nguy cơ không hoàn thành KH lợi nhuận 2026",
+      "title": "14 công ty chứng khoán có nguy cơ không hoàn thành KH",
       "impact": "↓",
-      "note": "ROAA toàn ngành chứng khoán giảm từ 5,6% (2025) xuống 4,3% (H1/2026). Biên lợi nhuận cho vay ký quỹ thu hẹp từ 6,9% (Q4/2024) xuống dưới 5% (Q2/2026), chi phí vốn tăng lên 5,9%. Các công ty như VIX, TVS, VDS, CTS chịu ảnh hưởng mạnh, ROAA giảm gần 18%, thu nhập từ đầu tư cổ phiếu giảm."
+      "note": "ROAA ngành giảm từ 5,6% (2025) xuống 4,3% (H1/2026). Biên lợi nhuận cho vay ký quỹ thu hẹp từ 6,9% (Q4/2024) xuống dưới 5% (Q2/2026), chi phí vốn tăng 5,9%. VIX, TVS, VDS, CTS chịu ảnh hưởng mạnh, ROAA giảm 18%, thu nhập đầu tư cổ phiếu suy giảm."
     },
     {
-      "title": "CTCK dự báo KQKD quý 3: Phân hóa rõ rệt giữa các ngành",
-      "impact": "→",
-      "note": "VCBS dự báo lợi nhuận 54 DN quý III/2026 phân hóa: BSR +446% (5.744 tỷ đồng), VHM +243% (15.230 tỷ đồng), PVT +133% (614 tỷ đồng), MSN +121% (4.117 tỷ đồng). Trong khi đó, 3 công ty chứng khoán trong danh sách dự báo lợi nhuận sụt giảm do biên lợi nhuận và thu nhập đầu tư giảm."
+      "title": "Giá vàng thế giới tăng nhẹ nhưng sức ép USD mạnh",
+      "impact": "↓",
+      "note": "Giá vàng tăng 0,2% lên 4.288,36 USD/ounce nhưng giảm 2% trong tuần do USD mạnh lên và Fed duy trì lãi suất cao. Lợi suất trái phiếu Mỹ tăng làm giảm sức hấp dẫn vàng. Vàng miếng SJC giảm 1,1 triệu đồng/lượng xuống 141,4-144,4 triệu."
     }
   ]
 }
