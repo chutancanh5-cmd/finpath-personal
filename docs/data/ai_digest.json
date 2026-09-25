@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-25",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "FDI kỷ lục 17.2 tỷ USD vào TP.HCM và ADB nâng dự báo GDP phản ánh sức hút của Việt Nam, nhưng lạm phát 4.3%, nợ toàn cầu tăng 365 nghìn tỷ USD và thị trường chứng khoán phân hóa là áp lực ngắn hạn. Khối ngoại tiếp tục bán ròng ~210 tỷ đồng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay được hỗ trợ bởi ba yếu tố chính: (1) ADB nâng dự báo GDP 2026 cao hơn do tăng trưởng vượt kỳ vọng nửa đầu năm; (2) FDI chạm kỷ lục 17,2 tỷ USD vào TP.HCM, vượt 56,6% kế hoạch năm, tập trung vào công nghệ, bán dẫn và AI; (3) Các ngân hàng như BVBank, VDS công bố tăng vốn để bổ sung dự địa tín dụng. Tuy nhiên, rủi ro từ nợ toàn cầu chạm kỷ lục 365 nghìn tỷ USD và áp lực lạm phát 4,3% năm 2026 vẫn đòi hỏi sự cẩn thận trong chính sách tiền tệ.",
   "top": [
     {
-      "title": "ADB nâng dự báo GDP do tăng trưởng vượt kỳ vọng",
+      "title": "ADB nâng dự báo GDP Việt Nam, cảnh báo lạm phát 4,3%",
       "impact": "↑",
-      "note": "ADB nâng dự báo GDP Việt Nam sau tăng trưởng vượt kỳ vọng nửa đầu năm 2026, được thúc đẩy bởi công nghiệp chế biến chế tạo và tiêu dùng nội địa. Tuy nhiên, lạm phát dự báo 4.3% năm 2026 là rủi ro cần kiểm soát."
+      "note": "ADB nâng dự báo tăng trưởng GDP 2026 do tăng trưởng vượt kỳ vọng nửa đầu năm, động lực từ chế biến chế tạo mở rộng, tiêu dùng nội địa tăng mạnh và FDI ổn định; tuy nhiên lạm phát dự báo 4,3% năm 2026 và 4% năm 2027 do áp lực cầu, chi phí năng lượng và nhập khẩu gia tăng."
     },
     {
-      "title": "FDI kỷ lục 17.2 tỷ USD vào TP.HCM",
+      "title": "FDI vào TP.HCM chạm kỷ lục 17,2 tỷ USD trong 9 tháng",
       "impact": "↑",
-      "note": "TP.HCM hút 17.2 tỷ USD FDI trong 9 tháng 2026, vượt 56.6% kế hoạch năm (11 tỷ USD) và tăng 318.9% so với cùng kỳ. Dòng vốn tập trung vào công nghệ cao, bán dẫn, AI với quy mô bình quân dự án 307.5 triệu USD, gấp 12 lần mục tiêu ban đầu."
+      "note": "TP.HCM thu hút 17,2 tỷ USD FDI trong 9 tháng đầu năm 2026, vượt 56,6% kế hoạch cả năm (11 tỷ USD) và tăng 318,9% so với cùng kỳ; dự án lớn gồm Cảng quốc tế Cần Giờ (5 tỷ USD), các dự án Trung tâm dữ liệu hàng tỷ USD, Khu phức hợp thông minh Thủ Thiêm, tập trung công nghệ, bán dẫn, AI."
     },
     {
-      "title": "Nợ toàn cầu tăng kỷ lục 365 nghìn tỷ USD",
+      "title": "BVBank triển khai tăng vốn lên 10.000 tỷ đồng",
+      "impact": "↑",
+      "note": "BVBank triển khai chào bán 320 triệu cổ phiếu với giá 10.000 đồng/cổ phiếu, tăng vốn từ 6.400 tỷ lên 10.000 tỷ đồng nhằm bổ sung bộ đệm vốn an toàn và tạo dự địa tín dụng; được Fitch xếp hạng IDR B+ triển vọng Ổn định, HOSE chính thức giao dịch BVB."
+    },
+    {
+      "title": "Nợ toàn cầu chạm kỷ lục 365 nghìn tỷ USD",
       "impact": "↓",
-      "note": "Tổng nợ toàn cầu đạt hơn 365 nghìn tỷ USD (cuối tháng 6/2026), tăng 10 nghìn tỷ USD trong 6 tháng đầu năm. Khác với cuộc khủng hoảng cụ thể, nợ tăng do chi tiêu cơ cấu dài hạn cho AI, năng lượng, y tế, quốc phòng."
+      "note": "Tổng nợ toàn cầu đạt hơn 365 nghìn tỷ USD (quý 2/2026), tăng 10 nghìn tỷ USD trong 6 tháng đầu năm, quý thứ 6 liên tiếp tăng; nguyên nhân từ chi tiêu cơ cấu lâu dài cho y tế, năng lượng, AI, công nghệ, quốc phòng chứ không phải cú sốc tức thời, cảnh báo rủi ro tài chính toàn cầu."
     },
     {
-      "title": "VN-Index tăng nhẹ nhưng phân hóa mạnh",
-      "impact": "→",
-      "note": "VN-Index 25/9 tăng 10 điểm lên 1.785 nhưng độ rộng âm (308 giảm/243 tăng). Khối ngoại bán ròng ~210 tỷ đồng: mua ròng SBT (247 tỷ) nhưng bán ròng TCB (115 tỷ), phản ánh sự giằng co."
-    },
-    {
-      "title": "Vàng SJC giảm 1.1 triệu đồng/lượng",
-      "impact": "→",
-      "note": "Giá vàng miếng SJC 25/9 xuống 141.4-144.4 triệu đồng/lượng (giảm 1.1 triệu so với 23/9). Vàng nhẫn 9999 giảm chỉ nửa (500-800 nghìn đồng/lượng), cho thấy phân hóa cầu giữa hai loại hình."
-    },
-    {
-      "title": "MSR nhận đầu tư từ Elmet Group, Mỹ",
+      "title": "MSR ký hợp tác chiến lược với Elmet Group (NASDAQ)",
       "impact": "↑",
-      "note": "MSR ký hợp tác chiến lược với Elmet Group (NASDAQ: ELMT), công ty Mỹ chuyên vonfram. Elmet mua 4.99% cổ phần MSR, ký thỏa thuận cung ứng vonfram dài hạn với sản lượng cam kết cho thị trường Bắc Mỹ."
+      "note": "Masan High-Tech Materials (UPCoM: MSR) ký hợp tác với Elmet Group Co. (NASDAQ: ELMT), Elmet sẽ mua 4,99% cổ phần MSR với định giá vốn chủ sở hữu 2,5 tỷ USD, ký thỏa thuận dài hạn cung ứng vonfram cho thị trường Mỹ, vonfram là khoáng sản thiết yếu cho bán dẫn, hàng không vũ trụ, năng lượng."
+    },
+    {
+      "title": "Khối ngoại giảm bán ròng, mua mạnh SBT 247 tỷ đồng",
+      "impact": "→",
+      "note": "Phiên 25/9, khối ngoại bán ròng 210 tỷ đồng (giảm so với 282 tỷ phiên 24/9), mua mạnh nhất SBT 247 tỷ đồng, tiếp BSR 108 tỷ, VHM 41 tỷ; bán ròng TCB 115 tỷ, MSB 98 tỷ, HPG 79 tỷ, VIC 78 tỷ, chỉ ra tâm lý chọn lọc cẩn trọng của nhà đầu tư ngoài."
     }
   ]
 }
