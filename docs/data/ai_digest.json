@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Việt Nam nâng hạng thị trường từ FTSE Russell hứa hẹn thu hút 6 tỷ USD vốn, trong khi FDI TP.HCM tăng kỷ lục 17,2 tỷ USD (vượt 318,9% so với cùng kỳ) cho các dự án công nghệ cao như cảng Cần Giờ (5 tỷ USD) và trung tâm dữ liệu. ADB nâng dự báo GDP 2026 lên 7,8% và 2027 lên 7,6%. Tuy có áp lực bán từ khối ngoại (203 tỷ đồng) và rủi ro cao trong bất động sản ngoài sàn (nợ 1,63 triệu tỷ đồng), nhưng xu hướng dài hạn vẫn lạc quan với nhu cầu FDI cho năng lượng tái tạo.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đón nhận tín hiệu tích cực từ nâng hạng FTSE Russell (21/9) dự báo thu hút tới 6 tỷ USD vốn, FDI TP.HCM tăng kỷ lục 17,2 tỷ USD (vượt 56,6% kế hoạch cả năm), và ADB nâng dự báo GDP 2026 lên 7,8%, 2027 lên 7,6%. Tuy nhiên áp lực bán mạnh từ khối ngoại (bán ròng 203 tỷ đồng), rủi ro nợ cao từ bất động sản ngoài sàn (1,63 triệu tỷ đồng), và lạm phát dự báo 4,3% năm 2026 yêu cầu canh chừng. Chứng khoán Mỹ tăng (S&P 500 +0,51%, Nasdaq +0,5%) và dầu giảm 2% tạo tâm lý tích cực.",
   "top": [
     {
-      "title": "Vốn FDI TP.HCM kỷ lục: 17,2 tỷ USD trong 9 tháng",
+      "title": "Nâng hạng FTSE Russell mở thêm lựa chọn vốn",
       "impact": "↑",
-      "note": "TP.HCM thu hút 17,2 tỷ USD vốn FDI trong 9 tháng năm 2026, vượt 56,6% mục tiêu cả năm (11 tỷ USD) và tăng 318,9% so với cùng kỳ. Các dự án lớn bao gồm Cảng quốc tế Cần Giờ hơn 5 tỷ USD, các dự án trung tâm dữ liệu hàng tỷ USD, vốn bình quân đạt 307,5 triệu USD/dự án (gấp 12 lần mục tiêu 25 triệu USD), tập trung vào công nghệ, bán dẫn và AI."
+      "note": "FTSE Russell nâng hạng Việt Nam từ thị trường cận biên lên thị trường mới nổi thứ cấp từ 21/9/2026, đưa cổ phiếu Việt Nam vào FTSE Global Equity Index Series theo từng giai đoạn đến 2027. Reuters dự báo có thể thu hút tới 6 tỷ USD vốn vào thị trường chứng khoán."
     },
     {
-      "title": "FTSE Russell nâng hạng Việt Nam từ 21/9/2026",
+      "title": "FDI TP.HCM tăng kỷ lục: 17,2 tỷ USD 9 tháng",
       "impact": "↑",
-      "note": "FTSE Russell tái phân loại Việt Nam từ thị trường cận biên lên thị trường mới nổi thứ cấp, đưa cổ phiếu Việt Nam vào FTSE Global Equity Index Series theo từng giai đoạn đến 2027. Reuters dự báo có thể thu hút tới 6 tỷ USD vốn vào thị trường chứng khoán, mở rộng cơ hội huy động vốn dài hạn cho doanh nghiệp."
+      "note": "TP.HCM thu hút 17,2 tỷ USD (vượt 56,6% kế hoạch cả năm 11 tỷ USD, tăng 318,9% so cùng kỳ), với các dự án Cảng Cần Giờ hơn 5 tỷ USD, các trung tâm dữ liệu hàng tỷ USD, vốn bình quân 307,5 triệu USD/dự án (gấp 12 lần mục tiêu 25 triệu USD)."
     },
     {
-      "title": "Khối ngoại, tự doanh đồng thuận bán ròng 282 tỷ đồng",
+      "title": "ADB nâng dự báo GDP Việt Nam 2026-2027",
+      "impact": "↑",
+      "note": "ADB nâng dự báo tăng trưởng Việt Nam 2026 lên 7,8% và 2027 lên 7,6%, dựa trên tăng trưởng từ công nghiệp chế biến, tiêu dùng nội địa tăng mạnh, FDI ổn định. Lạm phát dự báo 4,3% năm 2026 và 4% năm 2027, áp lực từ cầu và chi phí năng lượng gia tăng."
+    },
+    {
+      "title": "Khối ngoại, tự doanh đồng thuận bán ròng",
       "impact": "↓",
-      "note": "Phiên 25/9, khối ngoại bán ròng 203 tỷ đồng (xả mạnh TCB 98 tỷ đồng, MSB, HPG 79 tỷ đồng, VIC 78 tỷ đồng), khối tự doanh bán ròng 79 tỷ đồng (xả TCB 147 tỷ đồng). Áp lực bán từ hai dòng vốn lớn cho thấy tâm lý thận trọng trong ngắn hạn."
+      "note": "Phiên 25/9, khối ngoại bán ròng 203 tỷ đồng (xả TCB 98 tỷ đồng, HPG 79 tỷ đồng, VIC 78 tỷ đồng), khối tự doanh bán ròng 79 tỷ đồng (xả TCB 147 tỷ đồng), áp lực bán từ hai dòng vốn lớn cho thấy tâm lý thận trọng."
     },
     {
-      "title": "ADB nâng GDP 2026 lên 7,8%, cảnh báo lạm phát",
-      "impact": "→",
-      "note": "ADB nâng dự báo tăng trưởng GDP 2026 lên 7,8% (từ con số thấp hơn) và 2027 lên 7,6%, ghi nhận tăng trưởng vượt kỳ vọng từ công nghiệp chế biến, tiêu dùng nội địa và FDI ổn định. Tuy nhiên cảnh báo lạm phát 4,3% năm 2026 và 4% năm 2027, áp lực cầu và chi phí năng lượng, nhập khẩu gia tăng."
-    },
-    {
-      "title": "FDI tăng tốc yêu cầu năng lượng tái tạo",
-      "impact": "↑",
-      "note": "Các doanh nghiệp FDI lớn (Samsung, Coca-Cola, PepsiCo) tăng tốc sử dụng điện xanh để đáp ứng chuẩn mực quốc tế. Samsung Electronics Việt Nam Thái Nguyên ký hợp đồng mua điện từ nhà máy mặt trời TTC Đức Huệ 2 với sản lượng hơn 5.314 MWh, cùng 8 trường hợp DPPA qua lưới riêng, cho thấy nhu cầu FDI vẫn mạnh mẽ."
-    },
-    {
-      "title": "Bất động sản ngoài sàn: nợ 1,63 triệu tỷ, biểu hiện rủi ro cao",
+      "title": "Bất động sản ngoài sàn: nợ 1,63 triệu tỷ, rủi ro cao",
       "impact": "↓",
-      "note": "Trong 90 pháp nhân địa ốc chưa đại chúng, chưa niêm yết huy động trái phiếu, nợ phải trả đạt 1,63 triệu tỷ đồng, trong đó 10 doanh nghiệp nợ nhất chiếm 55,5% tổng nợ. Lãi lũy kế 61,2 ngàn tỷ đồng nhưng 5 doanh nghiệp có tỷ lệ nợ/vốn chủ vượt 10 lần, rủi ro tín dụng cao."
+      "note": "90 doanh nghiệp địa ốc chưa niêm yết có nợ phải trả 1,63 triệu tỷ đồng, 10 doanh nghiệp nợ nhất chiếm 55,5% tổng nợ. Lợi nhuận 61,2 ngàn tỷ đồng nhưng 5 doanh nghiệp có tỷ lệ nợ/vốn chủ vượt 10 lần, rủi ro tín dụng cao."
+    },
+    {
+      "title": "Vàng trong nước giảm 24,5% từ đỉnh năm",
+      "impact": "↓",
+      "note": "Vàng miếng SJC giảm từ đỉnh 191,3 triệu đồng/lượng (cuối tháng 1) xuống 141,4-144,4 triệu đồng/lượng, người mua từ vùng đỉnh tạm lỗ gần 50 triệu đồng/lượng, phản ánh áp lực từ mối lo lạm phát và lãi suất cao."
     }
   ]
 }
