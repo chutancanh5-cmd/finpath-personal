@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-26",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam tiếp tục tỏa sáng khi ADB nâng dự báo GDP 2026 lên 7,8%, nhờ tăng trưởng rộng từ chế biến, tiêu dùng và FDI; đồng thời Việt Nam được FTSE Russell nâng hạng thị trường mới nổi thứ cấp mở ra tiềm năng 6 tỷ USD dòng vốn. Tuy nhiên áp lực cảnh báo đồng thời xuất hiện: lạm phát dự báo 4,3%, khối ngoại bán ròng 203 tỷ đồng, và nợ của nhóm bất động sản ngoài sàn lên tới 1,63 triệu tỷ đồng. Chính sách tín dụng ưu tiên du lịch (Công văn 8509 NHNN) hướng dòng vốn vào ngành, phù hợp định hướng du lịch thành mũi nhọn vào 2030.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "ADB nâng dự báo GDP Việt Nam lên 7.8% cho 2026 nhờ tăng trưởng rộng từ chế biến, tiêu dùng và FDI ổn định, song cảnh báo lạm phát dự báo 4.3% và áp lực tín dụng. Việt Nam được FTSE Russell nâng hạng thị trường mới nổi thứ cấp từ 21/9, mở ra tiềm năng 6 tỷ USD dòng vốn dài hạn. Tuy nhiên, khối ngoại bán ròng 203 tỷ đồng phiên 25/9 và nợ bất động sản ngoài sàn cao 1.63 triệu tỷ đồng phản ánh thận trọng trước áp lực toàn cầu. Chính sách tín dụng ưu tiên du lịch hỗ trợ mục tiêu 10-12% GDP vào 2030.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng GDP 2026 lên 7,8%",
-      "impact": "↑",
-      "note": "ADB nâng dự báo GDP 2026 lên 7,8% và 2027 ở 7,6%, phản ánh tăng trưởng vượt kỳ vọng nửa đầu năm; động lực từ công nghiệp chế biến, tiêu dùng nội địa mạnh và FDI ổn định; tuy nhiên lạm phát dự báo 4,3% năm 2026 và 4% năm 2027 do áp lực cầu, chi phí năng lượng và nhập khẩu gia tăng."
+      "title": "ADB nâng dự báo GDP 2026 lên 7.8% nhưng cảnh báo lạm phát 4.3%",
+      "impact": "→",
+      "note": "ADB nâng dự báo tăng trưởng GDP 2026 lên 7.8% (và 7.6% năm 2027) nhờ tăng trưởng vượt kỳ vọng nửa đầu năm từ chế biến, tiêu dùng nội địa và FDI. Tuy nhiên lạm phát dự báo 4.3% năm 2026 và 4% năm 2027 do áp lực cầu, chi phí năng lượng và nhập khẩu gia tăng."
     },
     {
-      "title": "Việt Nam nâng hạng thị trường mới nổi thứ cấp từ FTSE Russell",
+      "title": "Việt Nam nâng hạng FTSE thành thị trường mới nổi thứ cấp",
       "impact": "↑",
-      "note": "Từ 21/9/2026, Việt Nam được FTSE Russell tái phân loại từ thị trường cận biên lên thị trường mới nổi thứ cấp, đưa cổ phiếu vào FTSE Global Equity Index Series; có thể thu hút tới 6 tỷ USD dòng vốn, mở ra lựa chọn huy động vốn mới cho bất động sản và thoái vốn cho doanh nghiệp."
+      "note": "Từ 21/9/2026, FTSE Russell nâng Việt Nam từ thị trường cận biên lên thị trường mới nổi thứ cấp, đưa cổ phiếu vào FTSE Global Equity Index Series theo từng giai đoạn đến 2027. Reuters dự báo có thể thu hút tới 6 tỷ USD dòng vốn, mở cơ hội đa dạng hóa nguồn huy động và thoái vốn cho doanh nghiệp."
     },
     {
-      "title": "Khối ngoại và tự doanh bán ròng 282 tỷ đồng phiên 25/9",
+      "title": "Khối ngoại và tự doanh bán ròng 282 tỷ đồng",
       "impact": "↓",
-      "note": "Phiên 25/9 chứng kiến áp lực xả hàng mạnh: khối ngoại bán ròng 203 tỷ đồng (TCB 98 tỷ, HPG 79 tỷ, VIC 78 tỷ, CTG 62 tỷ), khối tự doanh bán ròng 79 tỷ đồng (TCB 147 tỷ, EIB 79 tỷ); cả hai dòng vốn chính đồng thuận giảm sở hữu."
+      "note": "Phiên 25/9, khối ngoại bán ròng 203 tỷ đồng với xả mạnh TCB (98 tỷ), HPG (79 tỷ), VIC (78 tỷ), CTG (62 tỷ); khối tự doanh bán ròng 79 tỷ đồng (TCB 147 tỷ, EIB 79 tỷ, GEE 61 tỷ). Cả hai dòng vốn lớn đồng thuận giảm sở hữu, phản ánh thận trọng trước áp lực toàn cầu."
     },
     {
-      "title": "Tín dụng ưu tiên du lịch - Công văn 8509 NHNN năm 2026",
+      "title": "Tín dụng ưu tiên du lịch - Công văn 8509 NHNN",
       "impact": "↑",
-      "note": "NHNN hướng dòng vốn vào du lịch: tổ chức tín dụng không tính dư nợ tăng thêm cho nhà hàng, khách sạn, khu du lịch vào dư nợ bất động sản từ 1/1 đến 31/12/2026; hỗ trợ mục tiêu Nghị quyết 26: du lịch đóng góp 10-12% GDP, 45-50 triệu lượt khách quốc tế, 80-90 tỷ USD doanh thu vào 2030."
+      "note": "NHNN hướng dòng vốn vào du lịch từ 1/1-31/12/2026, các tổ chức tín dụng không tính dư nợ tăng cho nhà hàng, khách sạn, khu du lịch vào dư nợ bất động sản. Hỗ trợ Nghị quyết 26: du lịch đóng góp 10-12% GDP, 45-50 triệu khách quốc tế, 160 triệu khách nội địa, 80-90 tỷ USD doanh thu vào 2030."
     },
     {
-      "title": "Nhóm bất động sản ngoài sàn: lợi nhuận 61,2 ngàn tỷ nhưng nợ 1,63 triệu tỷ",
+      "title": "Bất động sản ngoài sàn: lợi nhuận 61.2 ngàn tỷ nhưng nợ 1.63 triệu tỷ",
       "impact": "↓",
-      "note": "90 doanh nghiệp bất động sản chưa niêm yết huy động trái phiếu khủng ghi lợi nhuận 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ) nhưng nợ phải trả 1,63 triệu tỷ đồng; 10 doanh nghiệp nợ cao nhất chiếm 55,5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm gần 22%; 5 doanh nghiệp có nợ vượt 10 lần vốn chủ sở hữu."
+      "note": "90 doanh nghiệp bất động sản chưa niêm yết huy động trái phiếu khủng có lợi nhuận H1/2026 đạt 61.2 ngàn tỷ đồng (gấp 10.7 lần cùng kỳ) nhưng nợ phải trả 1.63 triệu tỷ đồng; 10 doanh nghiệp nợ cao nhất chiếm 55.5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm 22%."
     },
     {
-      "title": "Chứng khoán Mỹ tăng, giá dầu giảm 2,14%",
-      "impact": "↑",
-      "note": "S&P 500 tăng 0,51% (7.743,41 điểm), Nasdaq tăng 0,5%, Dow Jones tăng 0,93%; dầu Brent giảm 2,14% xuống 104,32 USD/thùng, dầu WTI giảm 2,33% xuống 92,41 USD/thùng nhờ hy vọng eo biển Hormuz sớm mở cửa; bối cảnh tích cực cho thị trường toàn cầu dù lợi suất trái phiếu kho bạc Mỹ vẫn cao."
+      "title": "Lãi suất toàn cầu cao, Fed lo tăng tiếp tháng 10",
+      "impact": "↓",
+      "note": "Thị trường định giá xác suất Fed tăng lãi suất tháng 10 tới 80%, dầu Brent tăng trở lại trên 104 USD/thùng do lo ngại Mỹ-Iran khó đạt thỏa thuận. Lãi suất cao kéo dài áp lực lạm phát, ảnh hưởng tiêu cực đến thị trường mới nổi như Việt Nam."
     }
   ]
 }
