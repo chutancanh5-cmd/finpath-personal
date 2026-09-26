@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-26",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường rung lắc giữa áp lực bán (khối ngoại xả 203 tỷ đồng, VN-Index tại 1.770-1.800 điểm) và những tín hiệu chính sách tích cực: ADB nâng dự báo GDP 7,8% năm 2026 nhưng cảnh báo lạm phát 4,3%, Chính phủ ưu tiên tín dụng cho du lịch (Nghị quyết 26), quốc tế hỗ trợ FDI vào Nam A Bank (60 triệu USD). Giá dầu giảm từ hy vọng giải quyết căng thẳng Iran-Mỹ hỗ trợ tâm lý toàn cầu. Nhà đầu tư cần thận trọng giữa những cơ hội từ chính sách nhưng vẫn giữ vị thế an toàn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực điều chỉnh với VN-Index dao động quanh vùng 1.770-1.800 điểm, khối ngoại và tự doanh cùng bán ròng gần 280 tỷ đồng. ADB nâng dự báo tăng trưởng GDP lên 7,8% nhưng cảnh báo lạm phát 4,3% và áp lực tín dụng tăng. Chiều tích cực đến từ chính sách ưu tiên tín dụng cho du lịch và các hợp tác quốc tế (Nam A Bank 60 triệu USD). Tuy nhiên, rủi ro từ nợ bất động sản cao (1,63 triệu tỷ đồng), thoái vốn của insiders, và các cảnh báo công ty (KOS giảm sàn 5 phiên, Cảng Phước An lỗ 5.400 tỷ đồng) vẫn là áp lực đáng chú ý.",
   "top": [
     {
-      "title": "ADB nâng dự báo GDP 7,8% (2026) nhưng cảnh báo lạm phát 4,3%",
-      "impact": "↑",
-      "note": "Ngân hàng Phát triển châu Á (ADB) tăng dự báo GDP Việt Nam năm 2026 lên 7,8% (năm 2027: 7,6%), do tăng trưởng vượt kỳ vọng 7-8 tháng đầu từ tiêu dùng mạnh, chế biến chế tạo, FDI ổn định. Tuy nhiên cảnh báo lạm phát 4,3% (2026) và 4% (2027) từ áp lực cầu cao, chi phí năng lượng và nhập khẩu gia tăng."
-    },
-    {
-      "title": "Công văn 8509 ưu tiên tín dụng cho du lịch năm 2026",
-      "impact": "↑",
-      "note": "Ngân hàng Nhà nước (Công văn 8509) từ 1/1-31/12/2026 cho phép các tổ chức tín dụng không tính phần dư nợ tăng cho nhà hàng, khách sạn, khu du lịch vào dư nợ bất động sản, hỗ trợ Nghị quyết 26 với mục tiêu du lịch đóng góp 10-12% GDP, đón 45-50 triệu khách quốc tế năm 2030."
-    },
-    {
-      "title": "Khối ngoại bán ròng 203 tỷ đồng, VN-Index gặp áp lực 1.795",
-      "impact": "↓",
-      "note": "Phiên 25/9/2026: khối ngoại bán ròng 203 tỷ đồng, xả mạnh TCB và MSB (98 tỷ đồng), HPG (79 tỷ đồng), VIC (78 tỷ đồng), CTG (62 tỷ đồng); khối tự doanh bán ròng 79 tỷ đồng. VN-Index gặp lực cản tại 1.795 điểm, dao động tích lũy 1.770-1.800, cần dòng tiền mạnh để bứt phá."
-    },
-    {
-      "title": "Nam A Bank hoàn tất nhận 60 triệu USD từ FMO",
-      "impact": "↑",
-      "note": "Nam A Bank (HOSE: NAB) ngày 25/9/2026 hoàn tất ký kết thỏa thuận nhận 60 triệu USD từ Ngân hàng Phát triển Doanh nghiệp Hà Lan (FMO), khoản vay tín chấp 5 năm ưu tiên dự án xanh, SME, nông nghiệp và các hộ kinh doanh do phụ nữ/giới trẻ làm chủ."
-    },
-    {
-      "title": "ADB: chuyển mạnh sang tăng trưởng dựa trên năng suất",
+      "title": "ADB nâng dự báo GDP 7,8% nhưng cảnh báo lạm phát và áp lực tín dụng",
       "impact": "→",
-      "note": "Giám đốc quốc gia ADB Shantanu Chakraborty nhấn mạnh dư địa chính sách tiền tệ thu hẹp, chính sách tài khóa cần đóng vai trò chính, Việt Nam cần nâng hiệu quả đầu tư công, gia tăng giá trị nội địa từ FDI, chuyển mạnh sang tăng trưởng dựa năng suất cho phát triển lâu dài."
+      "note": "Ngân hàng Phát triển châu Á (ADB) nâng dự báo GDP 2026 lên 7,8% (2027: 7,6%) do tăng trưởng vượt kỳ vọng từ tiêu dùng, chế biến chế tạo, FDI ổn định. Nhưng cảnh báo lạm phát 4,3% (2026) và 4% (2027) từ áp lực cầu cao, chi phí năng lượng và nhập khẩu gia tăng. Khuyến nghị nâng hiệu quả đầu tư công, chuyển sang tăng trưởng dựa năng suất."
     },
     {
-      "title": "Chứng khoán Mỹ tăng, dầu giảm 2% từ hy vọng Iran-Mỹ",
+      "title": "Thị trường rung lắc mạnh, khối ngoại xả ròng 203 tỷ đồng",
+      "impact": "↓",
+      "note": "Tuần qua VN-Index giảm hơn 30,55 điểm, 3/2 phiên giảm. Phiên 25/9: khối ngoại bán ròng 203 tỷ đồng (TCB 98 tỷ, HPG 79 tỷ, VIC 78 tỷ, CTG 62 tỷ), khối tự doanh bán ròng 79 tỷ đồng. VN-Index tại 1.785,11 điểm, dao động 1.770-1.800, gặp lực cản tại 1.795, cần dòng tiền bùng nổ để bứt phá."
+    },
+    {
+      "title": "Nợ bất động sản ngoài sàn 1,63 triệu tỷ đồng, rủi ro tập trung cao",
+      "impact": "↓",
+      "note": "90 pháp nhân BĐS ngoài sàn có lợi nhuận 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ) nhưng nợ phải trả 1,63 triệu tỷ đồng. 10 công ty nợ nhất chiếm 55,5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm 22%. Có 5 trường hợp nợ vượt 10 lần vốn chủ sở hữu, rủi ro tài chính cao."
+    },
+    {
+      "title": "Công văn 8509: Tín dụng du lịch miễn tính vào dư nợ BĐS",
       "impact": "↑",
-      "note": "S&P 500 tăng 0,51% (7.743,41 điểm), Dow Jones tăng 0,93% (51.828,62 điểm), Nasdaq tăng 0,5% (27.068,72 điểm) phiên 25/9/2026. Dầu Brent giảm 2,14% (104,32 USD/thùng), WTI giảm 2,33% (92,41 USD/thùng) do hy vọng eo biển Hormuz mở cửa trở lại sau đề nghị Iran quay về MoU với Mỹ."
+      "note": "Ngân hàng Nhà nước (Công văn 8509) từ 1/1-31/12/2026 các tổ chức tín dụng không tính dư nợ tăng cho nhà hàng, khách sạn, khu du lịch vào dư nợ BĐS, hỗ trợ Nghị quyết 26 với mục tiêu du lịch đóng góp 10-12% GDP, đón 45-50 triệu khách quốc tế, 1,5 triệu buồng lưu trú năm 2030."
+    },
+    {
+      "title": "KOS giảm sàn 5 phiên liên tiếp, bị HOSE yêu cầu giải trình",
+      "impact": "↓",
+      "note": "Cổ phiếu KOS giảm sàn 5 phiên từ 21-25/9/2026, giảm 46% so với đầu năm. Thanh khoản cực thấp (bình quân 332.909 cp/ngày, xuống 1.500 cp ngày 23/9). 2 lãnh đạo công ty bị bán giải chấp. HOSE yêu cầu công bố giải trình trong 24 giờ."
+    },
+    {
+      "title": "Nam A Bank nhận 60 triệu USD từ FMO, ưu tiên dự án xanh và SME",
+      "impact": "↑",
+      "note": "Nam A Bank (HOSE: NAB) ngày 25/9/2026 hoàn tất ký kết 60 triệu USD từ Ngân hàng Phát triển Doanh nghiệp Hà Lan (FMO), vay tín chấp 5 năm, ưu tiên dự án xanh, nông nghiệp, SME, kinh doanh do phụ nữ/giới trẻ làm chủ. Tín hiệu hợp tác quốc tế mạnh mẽ cho ngành ngân hàng."
     }
   ]
 }
