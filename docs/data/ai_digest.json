@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-26",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Kinh tế Việt Nam vẫn duy trì đà tăng trưởng với ADB nâng dự báo GDP 7,8% năm 2026 nhờ động lực từ công nghiệp, tiêu dùng và FDI, trong khi chính sách tín dụng ưu tiên du lịch được triển khai - nhưng thị trường chứng khoán gặp áp lực bán mạnh từ khối ngoại (203 tỷ đồng), nợ cao ở bất động sản ngoài sàn (1,63 triệu tỷ đồng) và những rủi ro cơ thể như KOS giảm sàn 5 phiên liên tiếp khiến tâm lý nhà đầu tư thận trọng.",
+  "summary_vi": "Tuần đầu sau nâng hạng, VN-Index giảm 30+ điểm xuống dưới 1.800 với áp lực bán 2.900 tỷ đồng từ khối ngoại và phân hóa mạnh cổ phiếu vốn hóa lớn. ADB nâng dự báo GDP 7,8% nhưng cảnh báo lạm phát 4,3%, áp lực tín dụng và yêu cầu nâng hiệu quả đầu tư công. Chính sách ưu tiên tín dụng du lịch tích cực, nhưng bất động sản ngoài sàn tích lũy nợ 1,63 triệu tỷ đồng với rủi ro tập trung.",
   "top": [
     {
-      "title": "ADB nâng dự báo GDP Việt Nam 2026 lên 7,8%",
-      "impact": "↑",
-      "note": "ADB nâng dự báo tăng trưởng GDP lên 7,8% năm 2026 (2027: 7,6%), lạm phát dự báo 4,3% (2026) và 4% (2027), nhờ công nghiệp chế biến chế tạo mở rộng, tiêu dùng trong nước tăng mạnh và dòng FDI ổn định; ADB khuyến nghị nâng hiệu quả đầu tư công và tăng tỷ trọng tăng trưởng dựa năng suất."
-    },
-    {
-      "title": "Thị trường chứng khoán giảm 30,55 điểm, khối ngoại bán ròng 203 tỷ",
+      "title": "Tuần nâng hạng: VN-Index giảm 30+, phân hóa cổ phiếu vốn hóa lớn",
       "impact": "↓",
-      "note": "Tuần từ 20-26/9, VN-Index giảm 30,55 điểm qua 3 phiên giảm liên tiếp; phiên 25/9 khối ngoại bán ròng 203 tỷ đồng (TCB 98 tỷ, HPG 79 tỷ, VIC 78 tỷ, CTG 62 tỷ), tự doanh bán ròng 79 tỷ đồng; VN-Index đóng cửa 1.785,11 điểm, gặp lực cản 1.795, cần dòng tiền bùng nổ để bứt phá 1.800."
+      "note": "Tuần 21-25/09, VN-Index giảm hơn 30 điểm xuống dưới 1.800 điểm với 3/5 phiên giảm. Khối ngoại bán ròng 2.900 tỷ đồng. VIC lấy đi 13,9 điểm, VCB 3,3 điểm, SSB 3,2 điểm; TCB và VPB mang về 2,5 và 2,3 điểm. Thanh khoản chỉ 16 ngàn tỷ đồng/phiên."
     },
     {
-      "title": "KOS giảm sàn 5 phiên liên tiếp, bị HOSE yêu cầu giải trình",
-      "impact": "↓",
-      "note": "Cổ phiếu CTCP KOSY (HOSE: KOS) giảm sàn 5 phiên từ 21-25/9/2026, giảm 46% so với đầu năm, thanh khoản cực thấp (bình quân 332.909 cp/ngày xuống còn 1.500 cp ngày 23/9); 2 lãnh đạo công ty bị bán giải chấp; HOSE yêu cầu công bố giải trình trong 24 giờ."
-    },
-    {
-      "title": "Nợ bất động sản ngoài sàn tích lũy 1,63 triệu tỷ đồng",
-      "impact": "↓",
-      "note": "90 pháp nhân BĐS ngoài sàn nợ phải trả 1,63 triệu tỷ đồng, trong đó 10 doanh nghiệp nợ nhất chiếm 55,5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm 22%; có 5 trường hợp nợ vượt 10 lần vốn chủ sở hữu; lợi nhuận cộng gộp 61,2 ngàn tỷ đồng (tăng 10,7 lần) nhưng 2 công ty lỗ lớn (BĐS BNP Global âm 2,08 ngàn tỷ)."
-    },
-    {
-      "title": "Công văn 8509: Tín dụng du lịch không tính vào dư nợ BĐS",
+      "title": "ADB nâng dự báo GDP 7,8% nhưng cảnh báo lạm phát và áp lực tín dụng",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước (Công văn 8509) từ 1/1-31/12/2026 các tổ chức tín dụng không tính dư nợ tăng cho nhà hàng, khách sạn, khu du lịch vào dư nợ BĐS, hỗ trợ Nghị quyết 26 với mục tiêu du lịch đóng góp 10-12% GDP, đón 45-50 triệu khách quốc tế, 1,5 triệu buồng lưu trú năm 2030."
+      "note": "ADB nâng dự báo GDP 2026 lên 7,8% (2027: 7,6%) nhờ công nghiệp chế biến mở rộng, tiêu dùng nội địa tăng mạnh và FDI ổn định. Lạm phát dự báo 4,3% (2026) và 4% (2027). Khuyến nghị nâng hiệu quả đầu tư công, phát triển thị trường vốn, chuyển sang tăng trưởng dựa năng suất."
     },
     {
-      "title": "Nam A Bank nhận 60 triệu USD từ FMO hỗ trợ SME và nông nghiệp",
+      "title": "Chứng khoán rung lắc: VN-Index giảm 30,55 điểm, cảnh báo thoái vốn lãnh đạo",
+      "impact": "↓",
+      "note": "VN-Index giảm 30,55 điểm trong tuần 21-25/09 do áp lực từ nhóm Vingroup, Gelex, ngân hàng. Người nhà lãnh đạo Cao Thị Ngọc Dung (Chủ tịch PNJ) đăng ký bán 9 triệu cổ phiếu. Cảng Phước An (PAP) dự kiến lỗ hơn 5.400 tỷ đồng, không chia cổ tức 2026-2030."
+    },
+    {
+      "title": "Chính sách ưu tiên tín dụng du lịch: Nghị quyết 26 được triển khai",
       "impact": "↑",
-      "note": "Nam A Bank (HOSE: NAB) ngày 25/9/2026 hoàn tất ký kết 60 triệu USD từ Ngân hàng Phát triển Doanh nghiệp Hà Lan (FMO), vay tín chấp kỳ hạn 5 năm, ưu tiên dự án xanh, nông nghiệp, SME, kinh doanh do phụ nữ/giới trẻ làm chủ, tín hiệu hợp tác quốc tế mạnh."
+      "note": "Từ 1/1 đến 31/12/2026, tín dụng du lịch (nhà hàng, khách sạn, khu du lịch) không tính vào dư nợ bất động sản. Mục tiêu 2030: du lịch đóng góp 10-12% GDP, đón 45-50 triệu lượt khách quốc tế, tổng thu 80-90 tỷ USD. Hình thành ba cực tăng trưởng tại Hà Nội, TP.HCM, Đà Nẵng."
+    },
+    {
+      "title": "Bất động sản ngoài sàn: Nợ 1,63 triệu tỷ, lợi nhuận tăng 10,7 lần",
+      "impact": "↓",
+      "note": "90 pháp nhân bất động sản chưa đại chúng nợ phải trả 1,63 triệu tỷ đồng. Lợi nhuận sau thuế 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ) nhưng 10 công ty nợ nhất chiếm 55,5% tổng nợ. Đô thị Du lịch Cần Giờ chiếm gần 22%. Có 5 trường hợp nợ vượt 10 lần vốn chủ."
+    },
+    {
+      "title": "Thượng đỉnh Mỹ-Trung: Gia hạn 2 tháng thỏa thuận, chưa có kết quả cụ thể",
+      "impact": "→",
+      "note": "Chủ tịch Tập Cận Bình thăm Mỹ 23-25/09 thảo luận về địa chính trị, AI, thuế quan. Hai nước gia hạn 2 tháng thỏa thuận đình chiến thương mại. Đại diện thương mại Mỹ cho biết sẽ công bố 'thêm nhiều chi tiết' về cuộc đàm phán vào đầu tuần tới."
     }
   ]
 }
