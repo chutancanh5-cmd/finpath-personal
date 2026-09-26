@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-26",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam có những tín hiệu tích cực từ phía vĩ mô: ADB nâng dự báo tăng trưởng GDP nhờ kết quả vượt kỳ vọng nửa đầu năm, FDI đổ vào TP.HCM đạt kỷ lục 17,2 tỷ USD (vượt 56,6% so với kế hoạch năm). Tuy nhiên, áp lực giảm giá đến từ lo ngại lạm phát kéo dài (mức 4,3% năm 2026), Fed có thể nâng lãi suất tháng 10 gây hạn chế cầu cổ phiếu. Dòng tiền ngoại bán ròng 203 tỷ đồng phiên 25/9 phản ánh lo ngại này, đặc biệt khi giá vàng tiếp tục giảm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ngày 25/9 phản ánh mâu thuẫn giữa động lực tăng trưởng mạnh (FDI vào TP.HCM 17,2 tỷ USD tăng 318,9% so cùng kỳ) với áp lực vĩ mô gia tăng. Khối ngoại bán ròng 203 tỷ đồng và tự doanh bán 79 tỷ đồng, phản ánh lo ngại lạm phát kéo dài. ADB nâng dự báo tăng trưởng nhưng cảnh báo lạm phát 4,3% năm 2026 và rủi ro tín dụng. Giá dầu Brent quay trở lại 104,32 USD/thùng do căng thẳng Mỹ-Iran, đẩy kỳ vọng Fed tăng lãi suất tháng 10 lên 80%, là áp lực lên định giá cổ phiếu ngắn hạn.",
   "top": [
-    {
-      "title": "FDI kỷ lục vào TP.HCM, vượt 56,6% mục tiêu cả năm",
-      "impact": "↑",
-      "note": "9 tháng 2026 TP.HCM thu hút 17,2 tỷ USD FDI (mục tiêu năm 11 tỷ USD, cùng kỳ tăng 318,9%), trong đó Cảng Cần Giờ hơn 5 tỷ USD và các dự án trung tâm dữ liệu hàng tỷ USD. Vốn bình quân 307,5 triệu USD/dự án gấp 12 lần mục tiêu, tập trung bán dẫn, AI, hạ tầng chiến lược."
-    },
-    {
-      "title": "ADB nâng dự báo tăng trưởng GDP Việt Nam",
-      "impact": "↑",
-      "note": "ADB nâng dự báo GDP Việt Nam trong ADO tháng 9/2026 sau tăng trưởng vượt kỳ vọng nửa đầu năm. Động lực: công nghiệp chế biến, tiêu dùng nội địa tăng mạnh, FDI ổn định. Dự báo lạm phát 4,3% (2026) và 4% (2027), khuyến cáo tăng cường kiểm soát vĩ mô."
-    },
-    {
-      "title": "Vàng tụt giá 24,5% từ đỉnh, áp lực lạm phát/lãi suất",
-      "impact": "↓",
-      "note": "Giá vàng miếng SJC giảm từ 191,3 triệu đồng (cuối tháng 1) xuống 141,4-144,4 triệu đồng (26/9), người mua đỉnh lỗ gần 50 triệu đồng/lượng. Vàng thế giới thủng 4.300 USD/oz, hiện 4.278 USD/oz. Kỳ vọng Fed tăng lãi suất tháng 10 gần 80%, dầu thô trên 100 USD/thùng."
-    },
     {
       "title": "Khối ngoại và tự doanh bán ròng 282 tỷ đồng",
       "impact": "↓",
-      "note": "Phiên 25/9 khối ngoại bán ròng 203 tỷ đồng (xả TCB 98 tỷ, HPG 79 tỷ, VIC 78 tỷ, CTG 62 tỷ), khối tự doanh bán ròng 79 tỷ đồng. Áp lực bán kết hợp từ hai khối vốn lớn, chỉ SBT được gom mạnh 247 tỷ đồng."
+      "note": "Phiên 25/9, khối ngoại bán ròng 203 tỷ đồng (xả mạnh TCB -98 tỷ, MSB -98 tỷ, HPG -79 tỷ, VIC -78 tỷ), khối tự doanh bán ròng 79 tỷ đồng (TCB -147 tỷ, EIB -79 tỷ). Cả hai dòng vốn lớn đồng loạt giảm sở hữu, tín hiệu rõ ràng suy giảm tự tin vào thị trường."
     },
     {
-      "title": "MSR hợp tác chiến lược Elmet, cung ứng vonfram cho Mỹ",
+      "title": "FDI vào TP.HCM đạt 17,2 tỷ USD trong 9 tháng, tăng 318,9%",
       "impact": "↑",
-      "note": "Elmet Group (NASDAQ: ELMT) sẽ mua 4,99% cổ phần MSR và ký hợp tác cung ứng vonfram dài hạn cho thị trường Mỹ, định giá vốn MSR khoảng 2,5 tỷ USD, tạo kết nối nguồn tài nguyên toàn cầu cho bán dẫn, hàng không vũ trụ, năng lượng."
+      "note": "9 tháng năm 2026, TP.HCM thu hút 17,2 tỷ USD FDI vượt target 11 tỷ USD (56,6%) và tăng 318,9% so cùng kỳ. Các dự án chiến lược: Cảng Cần Giờ >5 tỷ USD, trung tâm dữ liệu hàng tỷ USD, quy mô bình quân 307,5 triệu USD/dự án gấp 12 lần kế hoạch."
     },
     {
-      "title": "PNJ dự kiến lỗ 6.200 tỷ đồng, nhân sự bán 9 triệu cp",
+      "title": "ADB nâng dự báo tăng trưởng nhưng cảnh báo lạm phát 4,3%",
+      "impact": "→",
+      "note": "ADB nâng dự báo GDP Việt Nam do tăng trưởng vượt kỳ vọng H1 2026 (công nghiệp, tiêu dùng, FDI ổn định), nhưng cảnh báo lạm phát 4,3% năm 2026 và 4% năm 2027 do áp lực cầu, chi phí năng lượng và nhập khẩu gia tăng."
+    },
+    {
+      "title": "PNJ dự kiến lỗ 6.200 tỷ đồng năm 2026, nội bộ bán cổ phiếu",
       "impact": "↓",
-      "note": "PNJ điều chỉnh kế hoạch năm 2026 dự kiến lỗ hơn 6.200 tỷ đồng. Ông Cao Ngọc Duy (em Chủ tịch) đăng ký bán 9 triệu cp từ 1-30/10/2026 (giảm từ 2,7% xuống 0,94% vốn), chỉ sau khi tăng vị thế tháng 7."
+      "note": "PNJ điều chỉnh kế hoạch, dự kiến lỗ hơn 6.200 tỷ đồng năm 2026. Ông Cao Ngọc Duy (em Chủ tịch Cao Thị Ngọc Dung) đăng ký bán 9 triệu cổ phiếu (1-30/10/2026), giảm sở hữu từ 13,8 triệu (2,7%) xuống 4,83 triệu (0,94%), sau khi vừa mua hồi tháng 7."
+    },
+    {
+      "title": "Dầu Brent 104,32 USD/thùng, Fed 80% tăng lãi suất tháng 10",
+      "impact": "↓",
+      "note": "Dầu Brent tăng trở lại 104,32 USD/thùng (tuy giảm 2,14% phiên 25/9 nhưng hồi phục do căng thẳng Mỹ-Iran chưa giải quyết), WTI 92,41 USD/thùng. Áp lực lạm phát tăng kỳ vọng Fed tăng lãi suất tháng 10 lên 80%, là rủi ro lên định giá cổ phiếu."
+    },
+    {
+      "title": "DTR debut trên UPCoM tăng 12,38%, vốn hóa 944 tỷ đồng",
+      "impact": "↑",
+      "note": "Cổ phiếu Đông Tây Land (DTR) chính thức giao dịch 25/9 tăng 12,38% từ giá tham chiếu 10.500 lên 11.800 đồng/cp, vốn hóa từ 840 tỷ lên 944 tỷ đồng, khối lượng ~447 ngàn đơn vị, thể hiện nhu cầu mạnh cho cổ phiếu mới."
     }
   ]
 }
