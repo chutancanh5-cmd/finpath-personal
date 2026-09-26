@@ -2,22 +2,22 @@
   "_opus": true,
   "date": "2026-09-26",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Tuần đầu sau nâng hạng, VN-Index giảm 30+ điểm xuống dưới 1.800 với áp lực bán 2.900 tỷ đồng từ khối ngoại và phân hóa mạnh cổ phiếu vốn hóa lớn. ADB nâng dự báo GDP 7,8% nhưng cảnh báo lạm phát 4,3%, áp lực tín dụng và yêu cầu nâng hiệu quả đầu tư công. Chính sách ưu tiên tín dụng du lịch tích cực, nhưng bất động sản ngoài sàn tích lũy nợ 1,63 triệu tỷ đồng với rủi ro tập trung.",
+  "summary_vi": "Thị trường chứng khoán gặp khó khăn tuần đầu sau nâng hạng FTSE với VN-Index giảm 30+ điểm và khối ngoại bán ròng 2.800 tỷ đồng. ADB nâng dự báo GDP 2026 lên 7,8% nhưng cảnh báo lạm phát 4,3% từ áp lực cầu và chi phí năng lượng. Chính sách ưu tiên du lịch và tài trợ xanh quốc tế tích cực, nhưng người trong cuộc thoái vốn và rủi ro nợ bất động sản (1,63 triệu tỷ) gây lo ngại.",
   "top": [
     {
-      "title": "Tuần nâng hạng: VN-Index giảm 30+, phân hóa cổ phiếu vốn hóa lớn",
+      "title": "Tuần nâng hạng: VN-Index giảm 30+, khối ngoại bán ròng 2.800 tỷ",
       "impact": "↓",
-      "note": "Tuần 21-25/09, VN-Index giảm hơn 30 điểm xuống dưới 1.800 điểm với 3/5 phiên giảm. Khối ngoại bán ròng 2.900 tỷ đồng. VIC lấy đi 13,9 điểm, VCB 3,3 điểm, SSB 3,2 điểm; TCB và VPB mang về 2,5 và 2,3 điểm. Thanh khoản chỉ 16 ngàn tỷ đồng/phiên."
+      "note": "Tuần 21-25/09 là tuần đầu tiên chính thức sau nâng hạng FTSE lên Emerging Market Secondary, VN-Index giảm hơn 30 điểm xuống dưới 1.800 với 3/5 phiên giảm. Khối ngoại bán ròng hơn 2.800 tỷ đồng trên HOSE và HNX. VIC lấy đi 13,9 điểm (mức cao nhất), theo sau VCB 3,3 điểm. Thanh khoản chỉ bình quân 16 ngàn tỷ đồng/phiên."
     },
     {
-      "title": "ADB nâng dự báo GDP 7,8% nhưng cảnh báo lạm phát và áp lực tín dụng",
+      "title": "ADB nâng dự báo GDP 7,8% do tăng trưởng vượt kỳ vọng nửa đầu năm",
       "impact": "↑",
-      "note": "ADB nâng dự báo GDP 2026 lên 7,8% (2027: 7,6%) nhờ công nghiệp chế biến mở rộng, tiêu dùng nội địa tăng mạnh và FDI ổn định. Lạm phát dự báo 4,3% (2026) và 4% (2027). Khuyến nghị nâng hiệu quả đầu tư công, phát triển thị trường vốn, chuyển sang tăng trưởng dựa năng suất."
+      "note": "ADB nâng dự báo GDP 2026 lên 7,8% (2027 điều chỉnh giảm xuống 7,6%) nhờ công nghiệp chế biến mở rộng, tiêu dùng nội địa tăng mạnh và FDI ổn định trong 7-8 tháng đầu năm. Lạm phát dự báo 4,3% (2026) và 4% (2027) do áp lực cầu, chi phí năng lượng và nhập khẩu gia tăng. Khuyến nghị Việt Nam chuyển mạnh sang tăng trưởng dựa năng suất, nâng hiệu quả đầu tư công."
     },
     {
-      "title": "Chứng khoán rung lắc: VN-Index giảm 30,55 điểm, cảnh báo thoái vốn lãnh đạo",
+      "title": "Thoái vốn lãnh đạo: PNJ em Chủ tịch bán 9 triệu cổ phiếu, PAP lỗ 5.400 tỷ",
       "impact": "↓",
-      "note": "VN-Index giảm 30,55 điểm trong tuần 21-25/09 do áp lực từ nhóm Vingroup, Gelex, ngân hàng. Người nhà lãnh đạo Cao Thị Ngọc Dung (Chủ tịch PNJ) đăng ký bán 9 triệu cổ phiếu. Cảng Phước An (PAP) dự kiến lỗ hơn 5.400 tỷ đồng, không chia cổ tức 2026-2030."
+      "note": "Ông Cao Ngọc Duy (em trai Chủ tịch HĐQT Cao Thị Ngọc Dung) đăng ký bán 9 triệu cổ phiếu PNJ, cùng lúc VietinBank Capital bán 7,25 triệu cổ phiếu PET giảm từ 19% xuống 14,31% sở hữu. Cảng Phước An (PAP) dự kiến lỗ hơn 5.400 tỷ đồng, không chia cổ tức 2026-2030. Hiện tượng thoái vốn người trong cuộc gây lo ngại về triển vọng công ty."
     },
     {
       "title": "Chính sách ưu tiên tín dụng du lịch: Nghị quyết 26 được triển khai",
@@ -25,14 +25,14 @@
       "note": "Từ 1/1 đến 31/12/2026, tín dụng du lịch (nhà hàng, khách sạn, khu du lịch) không tính vào dư nợ bất động sản. Mục tiêu 2030: du lịch đóng góp 10-12% GDP, đón 45-50 triệu lượt khách quốc tế, tổng thu 80-90 tỷ USD. Hình thành ba cực tăng trưởng tại Hà Nội, TP.HCM, Đà Nẵng."
     },
     {
-      "title": "Bất động sản ngoài sàn: Nợ 1,63 triệu tỷ, lợi nhuận tăng 10,7 lần",
+      "title": "Bất động sản ngoài sàn: Nợ 1,63 triệu tỷ, 10 công ty chiếm 55,5% tổng nợ",
       "impact": "↓",
-      "note": "90 pháp nhân bất động sản chưa đại chúng nợ phải trả 1,63 triệu tỷ đồng. Lợi nhuận sau thuế 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ) nhưng 10 công ty nợ nhất chiếm 55,5% tổng nợ. Đô thị Du lịch Cần Giờ chiếm gần 22%. Có 5 trường hợp nợ vượt 10 lần vốn chủ."
+      "note": "90 pháp nhân bất động sản chưa đại chúng, chưa niêm yết nợ phải trả 1,63 triệu tỷ đồng. Mặc dù lợi nhuận sau thuế 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ), rủi ro tập trung cao: 10 công ty nợ nhất chiếm 55,5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm riêng 22%. Có 5 công ty nợ vượt 10 lần vốn chủ, gồm BĐS BNP Global âm 2,08 ngàn tỷ đồng."
     },
     {
-      "title": "Thượng đỉnh Mỹ-Trung: Gia hạn 2 tháng thỏa thuận, chưa có kết quả cụ thể",
+      "title": "Thượng đỉnh Mỹ-Trung: Gia hạn 2 tháng thỏa thuận đình chiến, chi tiết sau tuần tới",
       "impact": "→",
-      "note": "Chủ tịch Tập Cận Bình thăm Mỹ 23-25/09 thảo luận về địa chính trị, AI, thuế quan. Hai nước gia hạn 2 tháng thỏa thuận đình chiến thương mại. Đại diện thương mại Mỹ cho biết sẽ công bố 'thêm nhiều chi tiết' về cuộc đàm phán vào đầu tuần tới."
+      "note": "Chủ tịch Tập Cận Bình thăm Mỹ 23-25/09, Tổng thống Trump chủ trì lễ đón. Bộ trưởng Tài chính Mỹ Scott Bessent công bố hai nước gia hạn 2 tháng thỏa thuận đình chiến thương mại. Hai bên thảo luận về địa chính trị, AI, thuế quan nhưng chưa công bố kết quả đột phá. Đại diện thương mại Mỹ Jamieson Greer cho biết 'thêm nhiều chi tiết' sẽ được công bố đầu tuần tới."
     }
   ]
 }
