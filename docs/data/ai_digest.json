@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-09-26",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam tăng trưởng vượt kỳ vọng nửa đầu năm với GDP dự báo 7,8% (ADB nâng), chính sách ưu tiên tín dụng du lịch mở cơ hội. Tuy nhiên, tuần vừa qua thị trường rung lắc mạnh (VN-Index giảm 30,55 điểm) do áp lực bán ròng từ khối ngoại (203 tỷ) và tự doanh (79 tỷ). Rủi ro từ lạm phát dự báo 4,3%, tín dụng tăng nhanh, và nợ cao ở nhóm bất động sản ngoài sàn (1.63 triệu tỷ đồng) yêu cầu quản lý cẩn trọng.",
+  "summary_vi": "ADB nâng dự báo GDP Việt Nam lên 7,8% nhờ tiêu dùng mạnh và FDI ổn định, song cảnh báo lạm phát 4,3% và dư địa tiền tệ thu hẹp. Thị trường chứng khoán trở nên thận trọng tuần qua (VN-Index giảm 30,55 điểm) với cả khối ngoại lẫn tự doanh bán ròng 282 tỷ đồng. Chính sách ưu tiên du lịch (Nghị quyết 26, Công văn 8509) mang tín hiệu tích cực, tuy nhiên áp lực từ thoái vốn người trong cuộc, giảm sàn liên tiếp KOS và nợ cao ở BĐS ngoài sàn (1,63 triệu tỷ) yêu cầu quản lý rủi ro ngắn hạn.",
   "top": [
     {
       "title": "ADB nâng dự báo GDP 7,8% nhưng cảnh báo lạm phát 4,3%",
@@ -32,7 +32,7 @@
     {
       "title": "Bất động sản ngoài sàn: lợi nhuận 61,2 ngàn tỷ nhưng nợ 1,63 triệu tỷ",
       "impact": "→",
-      "note": "90 doanh nghiệp bất động sản chưa niêm yết lợi nhuận H1/2026 đạt 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ) nhưng nợ phải trả 1.63 triệu tỷ đồng; dư nợ trái phiếu 86,6 ngàn tỷ đồng (tăng từ 5,25 ngàn tỷ); 10 doanh nghiệp nợ cao nhất chiếm 55,5% tổng nợ."
+      "note": "90 doanh nghiệp bất động sản chưa niêm yết lợi nhuận H1/2026 đạt 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ) nhưng nợ phải trả 1,63 triệu tỷ đồng; dư nợ trái phiếu 86,6 ngàn tỷ đồng (tăng từ 5,25 ngàn tỷ); 10 doanh nghiệp nợ cao nhất chiếm 55,5% tổng nợ."
     }
   ]
 }
