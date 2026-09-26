@@ -1,23 +1,23 @@
 {
   "_opus": true,
   "date": "2026-09-26",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam hưởng lợi từ FDI kỷ lục (17.2 tỷ USD vào TP.HCM, vượt 56.6% mục tiêu năm) và dự báo GDP được nâng từ ADB nhờ tăng trưởng vượt kỳ vọng nửa đầu năm. Tuy nhiên, áp lực lạm phát kéo dài (dự báo 4.3% năm 2026) từ giá năng lượng cao trên 100 USD/thùng và kỳ vọng Fed tăng lãi suất tháng 10 gần 80% đang kéo giá vàng giảm 24.5%, tạo sức ép lên quản lý vĩ mô. Dòng tiền ngoại bán ròng 203 tỷ đồng kèm rủi ro từ các doanh nghiệp như PNJ dự kiến lỗ 6.200 tỷ phản ánh sự thận trọng của nhà đầu tư.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam có những tín hiệu tích cực từ phía vĩ mô: ADB nâng dự báo tăng trưởng GDP nhờ kết quả vượt kỳ vọng nửa đầu năm, FDI đổ vào TP.HCM đạt kỷ lục 17,2 tỷ USD (vượt 56,6% so với kế hoạch năm). Tuy nhiên, áp lực giảm giá đến từ lo ngại lạm phát kéo dài (mức 4,3% năm 2026), Fed có thể nâng lãi suất tháng 10 gây hạn chế cầu cổ phiếu. Dòng tiền ngoại bán ròng 203 tỷ đồng phiên 25/9 phản ánh lo ngại này, đặc biệt khi giá vàng tiếp tục giảm.",
   "top": [
     {
-      "title": "FDI kỷ lục vào TP.HCM, vượt 56.6% mục tiêu cả năm",
+      "title": "FDI kỷ lục vào TP.HCM, vượt 56,6% mục tiêu cả năm",
       "impact": "↑",
-      "note": "9 tháng 2026 TP.HCM thu hút 17.2 tỷ USD FDI (mục tiêu năm 11 tỷ USD, cùng kỳ tăng 318.9%), trong đó Cảng Cần Giờ hơn 5 tỷ USD và các dự án trung tâm dữ liệu hàng tỷ USD. Vốn bình quân 307.5 triệu USD/dự án gấp 12 lần mục tiêu, tập trung bán dẫn, AI, hạ tầng chiến lược."
+      "note": "9 tháng 2026 TP.HCM thu hút 17,2 tỷ USD FDI (mục tiêu năm 11 tỷ USD, cùng kỳ tăng 318,9%), trong đó Cảng Cần Giờ hơn 5 tỷ USD và các dự án trung tâm dữ liệu hàng tỷ USD. Vốn bình quân 307,5 triệu USD/dự án gấp 12 lần mục tiêu, tập trung bán dẫn, AI, hạ tầng chiến lược."
     },
     {
       "title": "ADB nâng dự báo tăng trưởng GDP Việt Nam",
       "impact": "↑",
-      "note": "ADB nâng dự báo GDP Việt Nam trong ADO tháng 9/2026 sau tăng trưởng vượt kỳ vọng nửa đầu năm. Động lực: công nghiệp chế biến, tiêu dùng nội địa tăng mạnh, FDI ổn định. Dự báo lạm phát 4.3% (2026) và 4% (2027), khuyến cáo tăng cường kiểm soát vĩ mô."
+      "note": "ADB nâng dự báo GDP Việt Nam trong ADO tháng 9/2026 sau tăng trưởng vượt kỳ vọng nửa đầu năm. Động lực: công nghiệp chế biến, tiêu dùng nội địa tăng mạnh, FDI ổn định. Dự báo lạm phát 4,3% (2026) và 4% (2027), khuyến cáo tăng cường kiểm soát vĩ mô."
     },
     {
-      "title": "Vàng tụt giá 24.5% từ đỉnh, áp lực lạm phát/lãi suất",
+      "title": "Vàng tụt giá 24,5% từ đỉnh, áp lực lạm phát/lãi suất",
       "impact": "↓",
-      "note": "Giá vàng miếng SJC giảm từ 191.3 triệu đồng (cuối tháng 1) xuống 141.4-144.4 triệu đồng (26/9), người mua đỉnh lỗ gần 50 triệu đồng/lượng. Vàng thế giới thủng 4.300 USD/oz, hiện 4.278 USD/oz. Kỳ vọng Fed tăng lãi suất tháng 10 gần 80%, dầu thô trên 100 USD/thùng."
+      "note": "Giá vàng miếng SJC giảm từ 191,3 triệu đồng (cuối tháng 1) xuống 141,4-144,4 triệu đồng (26/9), người mua đỉnh lỗ gần 50 triệu đồng/lượng. Vàng thế giới thủng 4.300 USD/oz, hiện 4.278 USD/oz. Kỳ vọng Fed tăng lãi suất tháng 10 gần 80%, dầu thô trên 100 USD/thùng."
     },
     {
       "title": "Khối ngoại và tự doanh bán ròng 282 tỷ đồng",
@@ -25,14 +25,14 @@
       "note": "Phiên 25/9 khối ngoại bán ròng 203 tỷ đồng (xả TCB 98 tỷ, HPG 79 tỷ, VIC 78 tỷ, CTG 62 tỷ), khối tự doanh bán ròng 79 tỷ đồng. Áp lực bán kết hợp từ hai khối vốn lớn, chỉ SBT được gom mạnh 247 tỷ đồng."
     },
     {
-      "title": "Thiên Long vào FTSE Global Equity Index",
+      "title": "MSR hợp tác chiến lược Elmet, cung ứng vonfram cho Mỹ",
       "impact": "↑",
-      "note": "Tập đoàn Thiên Long (TLG) được vinh danh IR Awards 2026 hạng mục Mid Cap, cổ phiếu được FTSE Russell đưa vào nhóm Micro Cap thuộc FTSE Global Equity Index Series. Khẳng định hiệu lực quản trị và mở cơ hội thị trường quốc tế."
+      "note": "Elmet Group (NASDAQ: ELMT) sẽ mua 4,99% cổ phần MSR và ký hợp tác cung ứng vonfram dài hạn cho thị trường Mỹ, định giá vốn MSR khoảng 2,5 tỷ USD, tạo kết nối nguồn tài nguyên toàn cầu cho bán dẫn, hàng không vũ trụ, năng lượng."
     },
     {
       "title": "PNJ dự kiến lỗ 6.200 tỷ đồng, nhân sự bán 9 triệu cp",
       "impact": "↓",
-      "note": "PNJ điều chỉnh kế hoạch năm 2026 dự kiến lỗ hơn 6.200 tỷ đồng. Ông Cao Ngọc Duy (em Chủ tịch) đăng ký bán 9 triệu cp từ 1-30/10/2026 (giảm từ 2.7% xuống 0.94% vốn), chỉ sau khi tăng vị thế tháng 7."
+      "note": "PNJ điều chỉnh kế hoạch năm 2026 dự kiến lỗ hơn 6.200 tỷ đồng. Ông Cao Ngọc Duy (em Chủ tịch) đăng ký bán 9 triệu cp từ 1-30/10/2026 (giảm từ 2,7% xuống 0,94% vốn), chỉ sau khi tăng vị thế tháng 7."
     }
   ]
 }
