@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-26",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "ADB nâng dự báo tăng trưởng GDP Việt Nam lên 7,8% nhờ tăng trưởng vượt kỳ vọng, trong khi thị trường chứng khoán dưới áp lực bán từ khối ngoại bán ròng 203 tỷ đồng và tâm lý thận trọng. Chính phủ ưu tiên tín dụng cho du lịch nhằm đạt mục tiêu 10-12% GDP đóng góp vào 2030, nhưng áp lực lạm phát (4,3% năm 2026) và rủi ro nợ của nhóm bất động sản (1,63 triệu tỷ) vẫn là thách thức cần kiểm soát.",
+  "summary_vi": "Tăng trưởng kinh tế vượt kỳ vọng khiến ADB nâng dự báo GDP 2026 lên 7,8%, trong khi chính sách ưu tiên tín dụng cho du lịch (Công văn 8509) và lợi nhuận bất động sản ngoài sàn tăng 10,7 lần tạo đà tích cực. Tuy nhiên, thị trường chứng khoán chịu áp lực bán từ khối ngoại (203 tỷ đồng) với VN-Index dao động tích lũy tại 1.770-1.800 điểm, kết hợp cảnh báo lạm phát 4,3% năm 2026 và rủi ro nợ cao của nhóm bất động sản (1,63 triệu tỷ đồng) là những thách thức ngắn hạn.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng GDP 2026-2027",
+      "title": "ADB nâng dự báo GDP 2026 lên 7,8%",
       "impact": "↑",
-      "note": "ADB nâng dự báo tăng trưởng từ mức thấp hơn lên 7,8% cho năm 2026 (năm 2027 là 7,6%) do tăng trưởng vượt kỳ vọng nửa đầu năm; động lực từ tiêu dùng mạnh, đầu tư công, FDI ổn định, chế biến chế tạo tiếp tục mở rộng. Tuy nhiên, lạm phát dự báo 4,3% và dư địa chính sách tiền tệ thu hẹp yêu cầu điều hành cẩn thận."
+      "note": "ADB nâng dự báo tăng trưởng lên 7,8% cho năm 2026 (năm 2027: 7,6%) nhờ tăng trưởng vượt kỳ vọng nửa đầu năm, với động lực từ tiêu dùng mạnh, chế biến chế tạo mở rộng, FDI ổn định. ADB khuyến nghị tiếp tục điều hành kinh tế vĩ mô thận trọng để kiềm chế lạm phát 4,3%."
     },
     {
-      "title": "Khối ngoại bán ròng 203 tỷ đồng, VN-Index gặp áp lực",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 203 tỷ đồng trong phiên 25/9, xả mạnh nhất TCB (98 tỷ), HPG (79 tỷ), VIC (78 tỷ), CTG (62 tỷ). VN-Index gặp lực cản tại 1.795 điểm, dao động quanh 1.770-1.800 với tâm lý thận trọng."
-    },
-    {
-      "title": "KOS giảm sàn 5 phiên liên tiếp, HOSE yêu cầu giải trình",
-      "impact": "↓",
-      "note": "CTCP KOSY giảm sàn từ 21-25/09/2026, HOSE yêu cầu giải trình trong 24 giờ. KOS đã giảm 46% so với đầu năm, 2 lãnh đạo bị bán giải chấp do khối lượng giao dịch bình quân 332.909 cp/ngày giảm còn 71.700 cp/phiên."
-    },
-    {
-      "title": "Chính sách tín dụng ưu tiên du lịch 2026",
+      "title": "Chính sách tín dụng ưu tiên du lịch năm 2026",
       "impact": "↑",
-      "note": "Công văn 8509 NHNN (từ 1/1-31/12/2026) không tính dư nợ tăng nhà hàng, khách sạn, khu du lịch vào dư nợ tín dụng bất động sản. Hỗ trợ mục tiêu Nghị quyết 26: du lịch đóng góp 10-12% GDP, đón 45-50 triệu khách quốc tế, 80-90 tỷ USD doanh thu năm 2030."
+      "note": "Công văn 8509 NHNN (hiệu lực 1/1-31/12/2026) không tính dư nợ tăng nhà hàng, khách sạn, khu du lịch vào dư nợ bất động sản, hỗ trợ mục tiêu Nghị quyết 26 về du lịch đóng góp 10-12% GDP, đón 45-50 triệu lượt khách quốc tế vào 2030."
     },
     {
-      "title": "BĐS ngoài sàn: nợ cao, huy động trái phiếu khủng",
+      "title": "Khối ngoại bán ròng 203 tỷ đồng",
       "impact": "↓",
-      "note": "90 pháp nhân BĐS chưa đại chúng chưa niêm yết: lợi nhuận 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ), nợ phải trả 1,63 triệu tỷ đồng. Huy động trái phiếu tăng từ 5,25 ngàn tỷ (30/6/2025) lên 56,35 ngàn tỷ (30/6/2026), 5 công ty nợ vượt 10 lần vốn chủ."
+      "note": "Phiên 25/9: khối ngoại bán ròng 203 tỷ đồng, xả mạnh TCB (98 tỷ đồng), HPG (79 tỷ đồng), VIC (78 tỷ đồng), CTG (62 tỷ đồng); khối tự doanh cũng bán ròng 79 tỷ đồng, cho thấy áp lực điều chỉnh từ các nhà đầu tư lớn."
     },
     {
-      "title": "Thị trường Mỹ tăng, giá dầu Brent giảm 2,14%",
-      "impact": "↑",
-      "note": "S&P 500 +0,51% (7.743,41), Nasdaq +0,5% (27.068,72), Dow +0,93% (51.828,62). Dầu Brent giảm 2,14% xuống 104,32 USD/thùng, WTI giảm 2,33% xuống 92,41 USD do hy vọng eo biển Hormuz mở cửa trở lại, giảm áp lực lạm phát."
+      "title": "VN-Index áp lực tích lũy quanh 1.770-1.800 điểm",
+      "impact": "↓",
+      "note": "VN-Index giảm 1,68% trong tuần, gặp lực cản mạnh tại 1.795 điểm, cần thêm thời gian tích lũy để củng cố nền tảng; dòng tiền chưa cho thấy bùng nổ đồng thuận, tâm lý nhà đầu tư vẫn thận trọng trước áp lực bán."
+    },
+    {
+      "title": "Lạm phát 4,3% năm 2026, áp lực từ năng lượng",
+      "impact": "↓",
+      "note": "ADB dự báo lạm phát 4,3% năm 2026 và 4% năm 2027, áp lực từ cầu tiếp tục cao, chi phí năng lượng và nhập khẩu gia tăng; dư địa chính sách tiền tệ thu hẹp, yêu cầu nâng hiệu quả đầu tư công."
+    },
+    {
+      "title": "BĐS ngoài sàn lợi nhuận tăng mạnh, nợ cao",
+      "impact": "→",
+      "note": "90 pháp nhân BĐS chưa đại chúng, chưa niêm yết ghi lợi nhuận 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ), nhưng nợ phải trả 1,63 triệu tỷ đồng; huy động trái phiếu tăng từ 5,25 ngàn tỷ (30/6/2025) lên 56,35 ngàn tỷ (30/6/2026), với 5 công ty nợ vượt 10 lần vốn."
     }
   ]
 }
