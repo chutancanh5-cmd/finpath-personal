@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "ADB nâng dự báo GDP và FDI TP.HCM kỷ lục 17,2 tỷ USD tạo sáng chiều tích cực, nhưng khối ngoại bán ròng 203 tỷ đồng, PNJ gặp khó kỷ lục, nợ toàn cầu tăng cao 365 nghìn tỷ USD đang gia tăng rủi ro ngắn hạn cho thị trường.",
+  "summary_vi": "Thị trường nhận được tín hiệu tích cực từ việc ADB nâng dự báo tăng trưởng GDP Việt Nam nhờ kết quả nửa đầu năm vượt kỳ vọng, cùng với dòng vốn FDI kỷ lục vào TP.HCM đạt 17,2 tỷ USD (vượt 56,6% kế hoạch). Tuy nhiên, áp lực tiêu cực đến từ khối ngoại bán ròng 203 tỷ đồng, PNJ công bố lỗ 6.200 tỷ đồng năm 2026, và cảnh báo nợ toàn cầu tăng lên mức kỷ lục hơn 365 nghìn tỷ USD. ADB cũng nhắc nhở rủi ro về lạm phát (dự báo 4,3% năm 2026) và áp lực tín dụng cần kiểm soát.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng Việt Nam",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam, tăng trưởng kinh tế vượt kỳ vọng H1 2026",
       "impact": "↑",
-      "note": "ADB nâng dự báo GDP năm 2026 sau khi tăng trưởng vượt kỳ vọng trong nửa đầu năm. Động lực từ công nghiệp chế biến, tiêu dùng trong nước, FDI ổn định. ADB cảnh báo lạm phát 4,3% năm 2026 và 4% năm 2027."
+      "note": "ADB nâng dự báo GDP năm 2026 nhờ tăng trưởng vượt kỳ vọng nửa đầu năm, động lực từ công nghiệp chế biến chế tạo mở rộng, tiêu dùng trong nước tăng mạnh, FDI ổn định. Tuy nhiên ADB cảnh báo lạm phát dự báo 4,3% năm 2026 và 4% năm 2027, áp lực tín dụng, chi phí năng lượng và nhập khẩu gia tăng cần kiểm soát."
     },
     {
-      "title": "FDI TP.HCM 9 tháng đạt 17,2 tỷ USD, vượt 56% kế hoạch",
+      "title": "TP.HCM thu hút FDI kỷ lục 17,2 tỷ USD, vượt 56,6% kế hoạch cả năm 9 tháng đầu",
       "impact": "↑",
-      "note": "9 tháng năm 2026, TP.HCM thu hút 17,2 tỷ USD FDI, vượt 56,6% mục tiêu cả năm (11 tỷ USD), tăng 318,9% so với cùng kỳ. Dự án lớn: Cảng quốc tế Cần Giờ 5 tỷ USD, trung tâm dữ liệu hàng tỷ USD. Vốn bình quân 307,5 triệu USD/dự án."
+      "note": "TP.HCM tiếp nhận 17,2 tỷ USD FDI trong 9 tháng đầu năm 2026 (tăng 318,9% so với cùng kỳ), vượt mục tiêu cả năm 11 tỷ USD. Dự án lớn bao gồm Cảng Cần Giờ hơn 5 tỷ USD, trung tâm dữ liệu hàng tỷ USD, khu phức hợp thông minh, quy mô vốn bình quân 307,5 triệu USD/dự án (gấp 12 lần mục tiêu), tập trung vào công nghệ, bán dẫn, AI."
     },
     {
-      "title": "Khối ngoại bán ròng 203 tỷ, tự doanh bán 79 tỷ phiên 25/9",
+      "title": "PNJ dự kiến lỗ kỷ lục 6.200 tỷ đồng năm 2026, nhân sự nội bộ bán cổ phiếu",
       "impact": "↓",
-      "note": "Phiên 25/9 chứng kiến áp lực xả hàng từ hai dòng vốn lớn. Khối ngoại bán ròng 203 tỷ đồng, xả mạnh TCB (98 tỷ), HPG (79 tỷ), VIC (78 tỷ). Khối tự doanh bán ròng 79 tỷ, xả TCB 147 tỷ, EIB 79 tỷ."
+      "note": "PNJ điều chỉnh kế hoạch kinh doanh với dự kiến lỗ hơn 6.200 tỷ đồng năm 2026. Ông Cao Ngọc Duy (em trai Chủ tịch) đăng ký bán 9 triệu cổ phiếu từ 1-30/10/2026 giải quyết nhu cầu tài chính cá nhân; có thể thu về 300 tỷ đồng. Cổ phiếu PNJ ở mức 33.000 đồng/cp, giảm 61% từ đỉnh cuối tháng 1."
     },
     {
-      "title": "PNJ: cổ đông lớn bán 9 triệu cp, giảm 61% từ đỉnh",
+      "title": "Khối ngoại bán ròng 203 tỷ đồng, tự doanh bán ròng 79 tỷ đồng phiên 25/9",
       "impact": "↓",
-      "note": "Em trai Chủ tịch PNJ bán 9 triệu cổ phiếu (1/10-30/10), doanh số ~300 tỷ đồng. Giảm sở hữu từ 2,7% xuống 0,94%. Cổ phiếu PNJ 33.000 đ/cp giảm 61% so với đỉnh cuối tháng 1; công ty trình kế hoạch lỗ kỷ lục."
+      "note": "Phiên 25/9 chứng kiến áp lực xả hàng từ hai dòng vốn lớn: khối ngoại bán ròng 203 tỷ đồng (xả mạnh TCB 98 tỷ, HPG 79 tỷ, VIC 78 tỷ, CTG 62 tỷ); khối tự doanh bán ròng 79 tỷ đồng trên HOSE (xả mạnh TCB 147 tỷ, EIB 79 tỷ, GEE 61 tỷ). Cơ cấu tiền chỉ gom SBT (247 tỷ), BSR (108 tỷ)."
     },
     {
-      "title": "Elmet (NASDAQ) mua 4,99% MSR, hợp tác vonfram dài hạn",
+      "title": "Nợ toàn cầu tăng lên mức kỷ lục hơn 365 nghìn tỷ USD, 6 quý liên tiếp tăng",
+      "impact": "↓",
+      "note": "IIF báo cáo nợ toàn cầu đạt kỷ lục hơn 365 nghìn tỷ USD tính đến cuối tháng 6/2026, tăng 6 quý liên tiếp. Nợ tăng 10 nghìn tỷ USD trong 6 tháng đầu năm, gấp gần nửa so với cùng kỳ năm trước. Chi tiêu cấu trúc lớn cho y tế, năng lượng, AI, công nghệ IT, quốc phòng; không phải hệ quả của khủng hoảng cụ thể nào."
+    },
+    {
+      "title": "MSR ký kết hợp tác chiến lược với Elmet (NASDAQ), cung ứng vonfram dài hạn Mỹ",
       "impact": "↑",
-      "note": "Elmet Group (NASDAQ: ELMT) mua 4,99% cổ phần MSR, định giá vốn chủ sở hữu 2,5 tỷ USD. Ký hợp tác cung ứng vonfram dài hạn cho thị trường Mỹ, hỗ trợ MSR trở thành nhà chế biến khoáng sản thiết yếu hàng đầu thế giới."
-    },
-    {
-      "title": "Nợ toàn cầu kỷ lục 365 nghìn tỷ USD, 6 quý liên tiếp tăng",
-      "impact": "↓",
-      "note": "Tổng nợ toàn cầu tăng lên 365 nghìn tỷ USD tính cuối tháng 6 năm 2026 (6 quý liên tiếp tăng). Tăng 10 nghìn tỷ USD trong 6 tháng đầu năm, bằng nửa so với cùng kỳ 2025. Thúc đẩy chi tiêu cơ cấu cho y tế, năng lượng, AI, công nghệ, quốc phòng."
+      "note": "MSR công bố hợp tác chiến lược với Elmet Group (NASDAQ: ELMT), doanh nghiệp chuyên cung cấp hợp kim vonfram cho khách hàng Bắc Mỹ. Elmet sẽ mua 4,99% cổ phần MSR từ công ty con Masan, định giá vốn chủ sở hữu MSR là 2,5 tỷ USD; kết nối nguồn khoáng sản toàn cầu với thị trường chiến lược bán dẫn, hàng không vũ trụ, năng lượng, ô tô."
     }
   ]
 }
