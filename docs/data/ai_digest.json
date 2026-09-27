@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-27",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Tuần giao dịch đầu tiên sau nâng hạng FTSE chứng kiến sự cân bằng giữa các yếu tố tích cực và tiêu cực. Thượng đỉnh Mỹ-Trung giảm căng thẳng thương mại (gia hạn 2 tháng, giảm thuế 30 tỷ USD) và ngành điện dự kiến lãi tăng mạnh, nhưng khối ngoại bán ròng 2,8 ngàn tỷ, lãi suất US vượt 5%, và VN-Index chưa phục hồi vượt 1.800 điểm tạo áp lực. Dư địa chính sách tiền tệ thu hẹp là thách thức cho tăng trưởng ngắn hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực mạnh trong tuần trước khi nâng hạng FTSE, với VN-Index không giữ được vùng hỗ trợ 1.800 điểm. Khối ngoại bán ròng mạnh 2,8-2,865 ngàn tỷ đồng do lo ngại lãi suất Mỹ cao (trái phiếu kỳ hạn 10 năm vượt 5%) và dòng vốn suy yếu. Trong khi đó, lợi nhuận công ty bất động sản ngoài sàn tăng vượt bậc nhưng nợ phải trả lên tới 1,63 triệu tỷ đồng với độ tập trung cao, tạo rủi ro hệ thống tiềm ẩn.",
   "top": [
     {
-      "title": "Thượng đỉnh Mỹ-Trung: gia hạn 2 tháng, giảm thuế 30 tỷ USD",
+      "title": "VN-Index rơi khỏi vùng 1.800, khối ngoại bán ròng mạnh",
+      "impact": "↓",
+      "note": "VN-Index giảm 1,68% xuống 1.785,11 điểm trong tuần 21-25/9, không giữ được vùng hỗ trợ quanh 1.800 điểm và dưới đường SMA 50 ngày. Khối ngoại bán ròng 2,865 ngàn tỷ đồng trên HoSE tạo áp lực bán mạnh mẽ, thanh khoản giảm 19,9% so với tuần trước."
+    },
+    {
+      "title": "Lãi suất Mỹ vượt 5%, tạo áp lực dòng vốn ra khỏi VN",
+      "impact": "↓",
+      "note": "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn 10 năm vượt 5%, gây lo ngại về tỷ giá, lãi suất trong nước và dòng vốn đầu tư. Áp lực này kéo dài khiến thị trường chứng khoán khó phục hồi; nhà đầu tư chuyển về các khoản đầu tư lợi suất cao."
+    },
+    {
+      "title": "Bất động sản ngoài sàn nợ 1,63 triệu tỷ đồng, tập trung cao",
+      "impact": "↓",
+      "note": "90 pháp nhân bất động sản chưa niêm yết với lợi nhuận 61,2 ngàn tỷ đồng, nhưng nợ phải trả lên 1,63 triệu tỷ đồng. 10 công ty nợ nhất chiếm 55,5% tổng nợ; Đô thị Du lịch Cần Giờ một mình chiếm 22%. Một số doanh nghiệp nợ vượt quá 10 lần vốn chủ sở hữu, tạo rủi ro tập trung và hệ thống."
+    },
+    {
+      "title": "Thượng đỉnh Mỹ-Trung gia hạn thỏa thuận, giảm căng thẳng ngắn hạn",
       "impact": "↑",
-      "note": "Chủ tịch Tập Cận Bình thăm Washington 23-25/9, hai bên gia hạn 2 tháng thỏa thuận đình chiến thương mại và giảm thuế đối ứng cho khoảng 30 tỷ USD hàng hóa 'không nhạy cảm'; thiết lập Hội đồng Thương mại Mỹ-Trung vào vận hành. Giảm rủi ro địa chính trị, có lợi cho thương mại toàn cầu và nhà đầu tư."
+      "note": "Chủ tịch Tập Cận Bình thăm Washington 23-25/9, gặp Tổng thống Trump ngày 24/9. Hai bên đạt 8 điểm đồng thuận: gia hạn 2 tháng thỏa thuận đình chiến thương mại, giảm thuế đối ứng khoảng 30 tỷ USD hàng hóa không nhạy cảm, thiết lập hội đồng thương mại và đầu tư Mỹ-Trung."
     },
     {
-      "title": "Khối ngoại bán ròng 2,8 ngàn tỷ trong tuần nâng hạng",
-      "impact": "↓",
-      "note": "Tuần 21-25/9, khối ngoại bán ròng hơn 2,8 ngàn tỷ đồng trên HOSE và HNX; đây là tuần đầu tiên thị trường được FTSE chính thức nâng hạng lên Thị trường Mới nổi thứ cấp. Hiện tượng 'tin ra là bán' làm suy yếu chỉ số."
-    },
-    {
-      "title": "VN-Index chưa phục hồi vượt 1.800 điểm, thanh khoản yếu",
-      "impact": "↓",
-      "note": "VN-Index đóng cửa tại 1.785,11 điểm, giảm 1,68%, vẫn chưa lấy lại mốc 1.800 điểm kỹ thuật; thanh khoản nằm dưới mức trung bình 20 phiên, khối ngoại tiếp tục bán ròng. Áp lực điều chỉnh dự kiến còn kéo dài."
-    },
-    {
-      "title": "Lãi suất US 10 năm vượt 5%, tác động dòng vốn ngoại",
-      "impact": "↓",
-      "note": "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn 10 năm vượt ngưỡng 5%, gia tăng lo ngại về tỷ giá, lãi suất trong nước, và thu hút dòng vốn sang các khoản đầu tư lợi nhuận cao khác, gây áp lực bán cổ phiếu."
-    },
-    {
-      "title": "Ngành điện quý 3: lãi ròng tăng ~10%, nhiệt điện tăng 88%",
+      "title": "ADB nâng dự báo tăng trưởng 2026 lên 7,8%, nhấn mạnh năng suất",
       "impact": "↑",
-      "note": "Chứng khoán MB dự báo lợi nhuận ròng quý 3/2026 của doanh nghiệp điện tăng khoảng 10% so với cùng kỳ; nhóm nhiệt điện (POW, NT2, QTP) dẫn dắt tăng trưởng đến 88% khi bù đắp suy giảm sản lượng thủy điện 13% do mưa lũ."
+      "note": "ADB tăng dự báo GDP 2026 lên 7,8% (từ mức trước), giảm nhẹ 2027 xuống 7,6%. Nhận định dư địa chính sách tiền tệ thu hẹp, chính sách tài khóa cần đóng vai trò chính, Việt Nam phải chuyển mạnh sang tăng trưởng dựa trên năng suất và nâng hiệu quả đầu tư công."
     },
     {
-      "title": "Giá vàng miếng SJC giảm 2,2 triệu đồng/lượng trong tuần",
+      "title": "Chỉ báo kỹ thuật xác nhận xu hướng yếu, khó phục hồi ngắn hạn",
       "impact": "↓",
-      "note": "Chốt tuần 21-26/9, giá mua-bán vàng miếng SJC giảm phổ biến 2,2 triệu đồng/lượng mỗi chiều, từ mức 146,6 triệu xuống còn 144,4 triệu đồng/lượng; áp lực từ lãi suất cao và đồng USD mạnh."
+      "note": "MACD cắt xuống đường signal, ADX dưới 20 chỉ thị xu hướng yếu, khối lượng giao dịch dưới mức trung bình 20 phiên. VN-Index nằm dưới Middle Band Bollinger Bands, gần Lower Band, cần thêm thời gian tích lũy quanh vùng 1.770-1.800 điểm để chứng minh sự ổn định."
     }
   ]
 }
