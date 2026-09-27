@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực mạnh trong tuần trước khi nâng hạng FTSE, với VN-Index không giữ được vùng hỗ trợ 1.800 điểm. Khối ngoại bán ròng mạnh 2,8-2,865 ngàn tỷ đồng do lo ngại lãi suất Mỹ cao (trái phiếu kỳ hạn 10 năm vượt 5%) và dòng vốn suy yếu. Trong khi đó, lợi nhuận công ty bất động sản ngoài sàn tăng vượt bậc nhưng nợ phải trả lên tới 1,63 triệu tỷ đồng với độ tập trung cao, tạo rủi ro hệ thống tiềm ẩn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam gặp áp lực bán sau sự kiện nâng hạng FTSE Russell, với khối ngoại bán ròng 2,8 ngàn tỷ đồng và VN-Index mất 1,68% trong tuần. Dòng vốn quốc tế chưa bùng nổ như kỳ vọng, trong khi rủi ro từ nợ địa ốc (1,63 triệu tỷ đồng) và hẹp dư địa chính sách tiền tệ tiếp tục tạo áp lực. Tuy ADB nâng dự báo tăng trưởng 2026 lên 7,8% và thượng đỉnh Mỹ-Trung có tiến triển ổn định, nhưng tâm lý thị trường vẫn thận trọng trong ngắn hạn.",
   "top": [
     {
-      "title": "VN-Index rơi khỏi vùng 1.800, khối ngoại bán ròng mạnh",
+      "title": "FTSE Russell nâng hạng - thị trường chưa phản ứng",
       "impact": "↓",
-      "note": "VN-Index giảm 1,68% xuống 1.785,11 điểm trong tuần 21-25/9, không giữ được vùng hỗ trợ quanh 1.800 điểm và dưới đường SMA 50 ngày. Khối ngoại bán ròng 2,865 ngàn tỷ đồng trên HoSE tạo áp lực bán mạnh mẽ, thanh khoản giảm 19,9% so với tuần trước."
+      "note": "Dù được nâng hạng lên thị trường mới nổi, VN-Index giảm 1,68% trong tuần, mất mốc 1.800 điểm; khối ngoại bán ròng 2,8 ngàn tỷ đồng; thanh khoản giảm 50% so với năm trước. Vanguard dự tăng nắm giữ lên 2,5 tỷ USD nhưng các quỹ chủ động còn chờ đợi."
     },
     {
-      "title": "Lãi suất Mỹ vượt 5%, tạo áp lực dòng vốn ra khỏi VN",
-      "impact": "↓",
-      "note": "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn 10 năm vượt 5%, gây lo ngại về tỷ giá, lãi suất trong nước và dòng vốn đầu tư. Áp lực này kéo dài khiến thị trường chứng khoán khó phục hồi; nhà đầu tư chuyển về các khoản đầu tư lợi suất cao."
+      "title": "Thượng đỉnh Mỹ-Trung: giảm rủi ro leo thang",
+      "impact": "→",
+      "note": "Chủ tịch Tập Cận Bình thăm Washington 23-25/9, hai bên gia hạn thỏa thuận đình chiến 2 tháng, giảm thuế đối ứng khoảng 30 tỷ USD hàng hóa 'không nhạy cảm', thiết lập kênh liên lạc về AI; tạm thời giảm bất ổn địa chính trị."
     },
     {
-      "title": "Bất động sản ngoài sàn nợ 1,63 triệu tỷ đồng, tập trung cao",
-      "impact": "↓",
-      "note": "90 pháp nhân bất động sản chưa niêm yết với lợi nhuận 61,2 ngàn tỷ đồng, nhưng nợ phải trả lên 1,63 triệu tỷ đồng. 10 công ty nợ nhất chiếm 55,5% tổng nợ; Đô thị Du lịch Cần Giờ một mình chiếm 22%. Một số doanh nghiệp nợ vượt quá 10 lần vốn chủ sở hữu, tạo rủi ro tập trung và hệ thống."
-    },
-    {
-      "title": "Thượng đỉnh Mỹ-Trung gia hạn thỏa thuận, giảm căng thẳng ngắn hạn",
+      "title": "ADB nâng dự báo tăng trưởng nhưng cảnh báo hẹp dư địa",
       "impact": "↑",
-      "note": "Chủ tịch Tập Cận Bình thăm Washington 23-25/9, gặp Tổng thống Trump ngày 24/9. Hai bên đạt 8 điểm đồng thuận: gia hạn 2 tháng thỏa thuận đình chiến thương mại, giảm thuế đối ứng khoảng 30 tỷ USD hàng hóa không nhạy cảm, thiết lập hội đồng thương mại và đầu tư Mỹ-Trung."
+      "note": "ADB nâng dự báo tăng trưởng 2026 lên 7,8% (từ 7,6%), nhưng cảnh báo dư địa chính sách tiền tệ đã thu hẹp, chính sách tài khóa cần đóng vai trò chính, Việt Nam cần chuyển sang tăng trưởng dựa năng suất."
     },
     {
-      "title": "ADB nâng dự báo tăng trưởng 2026 lên 7,8%, nhấn mạnh năng suất",
-      "impact": "↑",
-      "note": "ADB tăng dự báo GDP 2026 lên 7,8% (từ mức trước), giảm nhẹ 2027 xuống 7,6%. Nhận định dư địa chính sách tiền tệ thu hẹp, chính sách tài khóa cần đóng vai trò chính, Việt Nam phải chuyển mạnh sang tăng trưởng dựa trên năng suất và nâng hiệu quả đầu tư công."
-    },
-    {
-      "title": "Chỉ báo kỹ thuật xác nhận xu hướng yếu, khó phục hồi ngắn hạn",
+      "title": "Nợ địa ốc ngoài sàn chạm 1,63 triệu tỷ đồng",
       "impact": "↓",
-      "note": "MACD cắt xuống đường signal, ADX dưới 20 chỉ thị xu hướng yếu, khối lượng giao dịch dưới mức trung bình 20 phiên. VN-Index nằm dưới Middle Band Bollinger Bands, gần Lower Band, cần thêm thời gian tích lũy quanh vùng 1.770-1.800 điểm để chứng minh sự ổn định."
+      "note": "90 doanh nghiệp địa ốc chưa đại chúng, chưa niêm yết có tổng nợ 1,63 triệu tỷ đồng; lợi nhuận 61,2 ngàn tỷ (gấp 10,7 lần cùng kỳ); 10 doanh nghiệp nợ nhiều nhất chiếm 55,5% tổng nợ; 5 công ty nợ vượt 10 lần vốn chủ sở hữu, rủi ro hệ thống cao."
+    },
+    {
+      "title": "Nguyễn Đăng Quang trở lại danh sách tỷ phú USD",
+      "impact": "↑",
+      "note": "Chủ tịch Masan trở lại danh sách Forbes với tài sản 1 tỷ USD, đưa số tỷ phú USD Việt Nam lên 8 người; Masan bán 5% cổ phần MSR với giá 124,75 triệu USD, động thái tích cực từ tập đoàn hàng đầu."
+    },
+    {
+      "title": "Thanh khoản thị trường ảm đạm, nhà đầu tư chờ kết quả Q3",
+      "impact": "↓",
+      "note": "Khối lượng giao dịch hàng ngày giảm 50% so với năm trước; chỉ số ADX dưới 20 cho thấy xu hướng yếu; nhà đầu tư thận trọng, chờ báo cáo kinh doanh quý III để tìm tín hiệu khôi phục."
     }
   ]
 }
