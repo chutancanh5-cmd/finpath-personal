@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-27",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tuần này ghi nhận sự trái chiều: ADB nâng dự báo GDP 2026 lên 7,8% và chính sách ưu tiên tín dụng cho du lịch (mục tiêu 10-12% GDP/2030) là những yếu tố tích cực, nhưng VN-Index giảm sau nâng hạng FTSE với khối ngoại bán ròng gần 2,8 ngàn tỷ đồng và thanh khoản yếu (16 ngàn tỷ đồng/phiên). Lạm phát được dự báo 4,3% năm 2026 và áp lực tín dụng vẫn là rủi ro cân nhằng. Giá vàng thế giới suy yếu mạnh, giảm từ đỉnh 5.589 USD xuống 4.285 USD/ounce, với Phố Wall liên tiếp hạ dự báo do lợi suất thực tăng cao.",
+  "summary_vi": "Nền kinh tế Việt Nam trong tuần ghi nhận tín hiệu tích cực với ADB nâng dự báo GDP lên 7,8% dựa tăng trưởng vượt kỳ vọng tiêu dùng, đầu tư và FDI, cùng chính sách ưu tiên tín dụng du lịch (mục tiêu 10-12% GDP năm 2030). Tuy nhiên, thị trường chứng khoán đang phân hóa mạnh khi khối ngoại bán ròng 2,8 ngàn tỷ đồng trong tuần đầu sau nâng hạng FTSE, VN-Index giảm 30 điểm với thanh khoản yếu. ADB cảnh báo áp lực tín dụng, lạm phát 4,3% cần kiểm soát, trong khi nhóm bất động sản ngoài sàn ghi nhận nợ phải trả 1,63 triệu tỷ đồng cao gấp nhiều lần vốn chủ sở hữu.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 7,8%",
+      "title": "ADB nâng dự báo GDP 7,8%, cảnh báo áp lực tín dụng lạm phát",
       "impact": "↑",
-      "note": "ADB điều chỉnh tăng dự báo GDP từ mức trước lên 7,8% cho năm 2026 (dự báo 2027 là 7,6%), nhưng cảnh báo lạm phát 4,3% và áp lực tín dụng. Giám đốc ADB khuyến nghị Việt Nam cần nâng hiệu quả đầu tư công và chuyển sang tăng trưởng dựa trên năng suất."
+      "note": "ADB nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 7,8% từ kỳ vọng trước do tăng trưởng vượt kỳ vọng tiêu dùng, đầu tư, FDI, nhưng cảnh báo lạm phát 4,3% năm 2026 và áp lực tín dụng tăng, khuyến nghị nâng hiệu quả đầu tư công."
     },
     {
-      "title": "Khối ngoại bán ròng 2,8 ngàn tỷ đồng tuần đầu sau nâng hạng FTSE",
-      "impact": "↓",
-      "note": "Tuần 21-25/09, khối ngoại bán ròng hơn 2,8 ngàn tỷ đồng trên hai sàn HOSE và HNX. Đây là tuần giao dịch đầu tiên chính thức sau khi FTSE nâng hạng Việt Nam lên Thị trường Mới nổi thứ cấp."
-    },
-    {
-      "title": "VN-Index lùi dưới 1.800, thanh khoản suy yếu",
-      "impact": "↓",
-      "note": "Tuần 21-25/09, VN-Index ghi nhận 3/5 phiên giảm điểm, lùi hơn 30 điểm về dưới mốc 1.800 điểm. Thanh khoản trung bình chỉ đạt 16 ngàn tỷ đồng/phiên. Áp lực bán tại vùng 1.795 điểm tạo rào cản cho nhịp phục hồi."
-    },
-    {
-      "title": "Phố Wall hạ dự báo vàng, giá giảm từ đỉnh 5.589 xuống 4.285 USD/ounce",
-      "impact": "↓",
-      "note": "Bernstein điều chỉnh mục tiêu giá vàng năm 2030 xuống 5.600 USD/ounce (thấp hơn 500 USD so với dự báo cũ). Giá vàng thế giới giảm mạnh từ đỉnh kỷ lục 5.589 USD/ounce (28/1) xuống 4.285 USD/ounce (25/9) do lợi suất thực tại Mỹ tăng lên 2,7% từ mức 1,7% đầu tháng 3."
-    },
-    {
-      "title": "Chính sách ưu tiên tín dụng cho du lịch, mục tiêu 10-12% GDP/2030",
+      "title": "Chính sách ưu tiên tín dụng du lịch, mục tiêu 10-12% GDP 2030",
       "impact": "↑",
-      "note": "Công văn 8509 của Ngân hàng Nhà nước hướng dòng vốn tín dụng vào du lịch; các tổ chức tín dụng không tính phần dư nợ tăng thêm cho nhà hàng, khách sạn, khu du lịch vào dư nợ bất động sản. Nghị quyết 26 đặt mục tiêu du lịch đóng góp 10-12% GDP vào 2030 với 45-50 triệu lượt khách quốc tế và tổng thu 80-90 tỷ USD."
+      "note": "Công văn 8509 Ngân hàng Nhà nước hướng dòng vốn ưu tiên du lịch: từ 1/1-31/12/2026, tổ chức tín dụng không tính dư nợ tăng nhà hàng, khách sạn, khu du lịch vào bất động sản. Nghị quyết 26 đặt mục tiêu 2030 du lịch đóng góp 10-12% GDP, đón 45-50 triệu khách quốc tế, tổng thu 80-90 tỷ USD."
     },
     {
-      "title": "Cổ phiếu PVP tăng 27% trong 2 tháng, vốn hóa chạm 2.126 tỷ đồng",
+      "title": "Khối ngoại bán ròng 2,8 ngàn tỷ tuần nâng hạng FTSE",
+      "impact": "↓",
+      "note": "Tuần 21-25/09, khối ngoại bán ròng hơn 2,8 ngàn tỷ đồng trên HOSE và HNX, đây là tuần giao dịch đầu tiên chính thức sau khi FTSE nâng hạng Việt Nam lên Thị trường Mới nổi thứ cấp, cho thấy nhà đầu tư nước ngoài vẫn thận trọng."
+    },
+    {
+      "title": "VN-Index giảm 30 điểm, áp lực bán vùng 1.795",
+      "impact": "↓",
+      "note": "Tuần 21-25/09, VN-Index ghi 3/5 phiên giảm, lùi hơn 30 điểm dưới 1.800 điểm, thanh khoản bình quân 16 ngàn tỷ đồng/phiên, áp lực bán tại vùng 1.795 điểm tạo rào cản nhịp phục hồi, nhà đầu tư khuyên kiên nhẫn tích lũy quanh 1.770-1.800 điểm."
+    },
+    {
+      "title": "Bất động sản ngoài sàn: lợi 61,2 ngàn tỷ, nợ 1,63 triệu tỷ",
+      "impact": "↓",
+      "note": "90 doanh nghiệp BĐS chưa đại chúng, chưa niêm yết: lợi nhuận sau thuế 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ), nhưng nợ phải trả 1,63 triệu tỷ đồng, top 10 công ty nợ chiếm 55,5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm gần 22%."
+    },
+    {
+      "title": "PVP tăng 27% trong 2 tháng, vốn hóa 2.126 tỷ đồng",
       "impact": "↑",
-      "note": "PVP (Công ty Vận tải Dầu khí Thái Bình Dương) tăng kịch trần, thiết lập mức giá cao nhất kể từ niêm yết ở 20.500 đồng/cp (+6,8% phiên 25/9), đưa vốn hóa lần đầu chạm 2.126 tỷ đồng. Kế hoạch ĐHĐCĐ bất thường (23/10) trình cổ đông dự án tàu Aframax số 3."
+      "note": "PVP tăng kịch trần, đóng cửa 25/9 tại 20.500 đồng/cp (+6,8%), thiết lập đỉnh lịch sử, vốn hóa lần đầu chạm 2.126 tỷ đồng; diễn biến tích cực diễn ra ngày giao dịch không hưởng quyền ĐHĐCĐ bất thường dự kiến 23/10/2026 thảo luận tàu Aframax số 3."
     }
   ]
 }
