@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-27",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán mạnh (VN-Index giảm 1.68%, khối ngoại bán ròng 2.8 ngàn tỷ đồng) sau nâng hạng FTSE, tác động từ lãi suất Mỹ 10 năm vượt 5%. Tích cực: ADB nâng dự báo GDP 2026 lên 7.8% và lợi nhuận điện quý 3 dự kiến tăng ~10%, nhưng rủi ro vẫn từ nợ cao của bất động sản ngoài sàn (1.63 triệu tỷ đồng).",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Tuần 21-26/9 thị trường trải qua biến động trái chiều: Thượng đỉnh Mỹ-Trung tạo kỳ vọng với 8 điểm đồng thuận giảm thuế 30 tỷ USD, ADB tăng dự báo tăng trưởng 2026 lên 7,8%, nhóm doanh nghiệp điện dự báo tăng lợi nhuận ~10%. Tuy nhiên, áp lực vẫn hiện hữu từ lợi suất T-bond Mỹ vượt 5% (ảnh hưởng lãi suất VN), khối ngoại bán ròng >2.800 tỷ đồng ngay sau nâng hạng FTSE, và giá vàng giảm 2,2 triệu đồng/lượng phản ánh lo ngại toàn cầu.",
   "top": [
     {
-      "title": "VN-Index giảm 1.68%, áp lực bán tại 1795 điểm",
-      "impact": "↓",
-      "note": "Chỉ số giằng co quanh vùng 1770-1800 điểm, gặp kháng cự mạnh tại 1800 điểm, thanh khoản thấp kéo dài. Nhà đầu tư cần kiên nhẫn chờ bứt phá rõ ràng trước khi gia tăng vị thế."
-    },
-    {
-      "title": "Khối ngoại bán ròng 2.8 ngàn tỷ đồng trong tuần nâng hạng",
-      "impact": "↓",
-      "note": "Tuần 21-25/09 là tuần đầu tiên sau khi FTSE nâng hạng thị trường Việt Nam lên thị trường mới nổi thứ cấp, nhưng khối ngoại vẫn bán ròng 2.8 ngàn tỷ đồng, phản ánh lo ngại tái cân bằng danh mục."
-    },
-    {
-      "title": "Lãi suất Mỹ 10 năm vượt 5%, tác động lãi suất và tỷ giá trong nước",
-      "impact": "↓",
-      "note": "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn 10 năm vượt mức 5%, gia tăng lo ngại về tỷ giá, lãi suất và dòng vốn trong bối cảnh FED duy trì lãi suất cao lâu hơn dự kiến."
-    },
-    {
-      "title": "ADB nâng dự báo GDP 2026 lên 7.8%, giảm nhẹ 2027 xuống 7.6%",
+      "title": "Thượng đỉnh Mỹ-Trung: 8 điểm đồng thuận",
       "impact": "↑",
-      "note": "Tăng trưởng toàn diện ở tiêu dùng, đầu tư, FDI và thương mại trong 7-8 tháng đầu năm, nhưng ADB nhấn mạnh cần chuyển mạnh sang tăng trưởng dựa trên năng suất khi dư địa chính sách tiền tệ thu hẹp."
+      "note": "Chủ tịch Tập cùng Tổng thống Trump đạt 8 điểm đồng thuận gồm giảm thuế đối ứng cho 30 tỷ USD hàng hóa 'không nhạy cảm' và thiết lập Hội đồng Thương mại Mỹ-Trung, Hội đồng Đầu tư Mỹ-Trung. Giảm xác suất rủi ro leo thang thương mại, tích cực cho xuất khẩu và FDI Việt Nam."
     },
     {
-      "title": "Lợi nhuận doanh nghiệp điện quý 3 dự kiến tăng ~10%, nhiệt điện dẫn dắt",
-      "impact": "↑",
-      "note": "MBS dự báo lợi nhuận ròng quý 3/2026 tăng khoảng 10% so với cùng kỳ, với POW, NT2, QTP dẫn dắt, bù đắp cho sự suy yếu của thủy điện khi tiêu thụ điện 8 tháng đầu năm tăng 9.7%."
-    },
-    {
-      "title": "Bất động sản ngoài sàn: nợ 1.63 triệu tỷ đồng, tỷ số nợ/vốn nguy hiểm",
+      "title": "Khối ngoại bán ròng >2.800 tỷ đồng sau nâng hạng FTSE",
       "impact": "↓",
-      "note": "90 pháp nhân BĐS chưa niêm yết huy động trái phiếu khủng với nợ 1.63 triệu tỷ đồng, trong khi 10 công ty nợ nhiều nhất chiếm 55.5% tổng nợ, một số có nợ vượt 10 lần vốn chủ sở hữu."
+      "note": "Tuần 21-25/9, lần đầu tiên TTCK VN được FTSE nâng hạng lên Thị trường Mới nổi thứ cấp, khối ngoại đã bán ròng >2.800 tỷ đồng trên HOSE+HNX, phản ánh hiệu ứng 'tin ra là bán' và nhu cầu tái cân bằng kỳ vọng sau nâng hạng."
+    },
+    {
+      "title": "Lợi suất Mỹ vượt 5%, áp lực lãi suất VN tăng",
+      "impact": "↓",
+      "note": "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn 10 năm vượt 5%, gia tăng lo ngại về tỷ giá, lãi suất trong nước và dòng vốn. VN-Index chưa lấy lại mốc 1.800 điểm, khối lượng giao dịch thấp."
+    },
+    {
+      "title": "ADB tăng dự báo tăng trưởng 2026 lên 7,8%",
+      "impact": "↑",
+      "note": "Ngân hàng Phát triển châu Á tăng dự báo tăng trưởng Việt Nam 2026 lên 7,8%, dựa trên tăng trưởng toàn diện từ tiêu dùng, đầu tư, FDI và thương mại, dù dư địa chính sách tiền tệ có dấu hiệu thu hẹp."
+    },
+    {
+      "title": "Doanh nghiệp điện quý 3: lợi nhuận tăng ~10%, POW/NT2/QTP dẫn dắt",
+      "impact": "↑",
+      "note": "MBS dự báo lợi nhuận ròng quý 3/2026 doanh nghiệp điện tăng ~10% cùng kỳ. Nhóm nhiệt điện (POW, NT2, QTP) sẽ dẫn dắt do sản lượng thủy điện giảm 13% vì El Nino, sản lượng nhiệt điện tăng bù đắp nhu cầu."
+    },
+    {
+      "title": "Giá vàng SJC giảm 2,2 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Giá vàng miếng SJC giảm phổ biến 2,2 triệu đồng/lượng trong tuần 21-26/9, hiện niêm yết 141,4 (mua) - 144,4 (bán) triệu đồng/lượng, phản ánh áp lực từ USD tăng giá và lo ngại quốc tế."
     }
   ]
 }
