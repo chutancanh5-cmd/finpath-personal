@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-27",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam tăng trưởng 7.8% được ADB nâng dự báo nhờ tiêu dùng, FDI và công nghiệp mạnh. Chính sách ưu tiên du lịch và hỗ trợ tín dụng ngành này ghi nhận. Tuy nhiên, thị trường chứng khoán đang yếu với VN-Index giảm 1.68% và khối ngoại bán ròng 2.8 ngàn tỷ. Nợ phải trả ngành bất động sản ngoài sàn cao 1.63 triệu tỷ đồng gây rủi ro thanh khoản ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Kinh tế Việt Nam vượt kỳ vọng trong nửa đầu năm khiến ADB nâng dự báo tăng trưởng. Ngân hàng và dầu khí được dự báo tăng lợi nhuận mạnh quý 3 từ lãi suất cao và giá năng lượng. Chính phủ tập trung ưu tiên tín dụng cho du lịch thành ngành mũi nhọn. Tuy nhiên, lạm phát 4.3%, nợ bất động sản ngoài sàn cao 1.63 triệu tỷ đồng và khối ngoại bán ròng 2.8 ngàn tỷ là rủi ro ngắn hạn cần theo dõi.",
   "top": [
     {
-      "title": "ADB nâng dự báo tăng trưởng Việt Nam nhưng cảnh báo áp lực tín dụng",
+      "title": "ADB nâng dự báo tăng trưởng Việt Nam năm 2026",
       "impact": "↑",
-      "note": "ADB nâng dự báo GDP Việt Nam năm 2026 lên 7.8% (trước đó 7.5%), dựa trên tăng trưởng tiêu dùng, FDI ổn định và công nghiệp mở rộng. Lạm phát dự báo 4.3% năm 2026 và 4% năm 2027. Khuyến nghị Việt Nam cần cấu trúc chính sách tài khóa cẩn thận do dư địa tiền tệ thu hẹp."
+      "note": "ADB nâng dự báo GDP Việt Nam nhờ tăng trưởng tiêu dùng, FDI ổn định, công nghiệp mở rộng vượt kỳ vọng trong nửa đầu năm. Lạm phát dự báo 4.3% năm 2026 và 4% năm 2027 do áp lực cầu, chi phí năng lượng và nhập khẩu gia tăng."
     },
     {
-      "title": "2 nhóm ngành được dự báo lợi nhuận tăng trưởng mạnh quý III",
+      "title": "Ngân hàng và dầu khí tăng lợi nhuận quý III/2026",
       "impact": "↑",
-      "note": "VCBS Research dự báo ngân hàng và dầu khí tăng lợi nhuận quý III/2026. Ngân hàng hưởng lợi từ thu nhập lãi, dầu khí từ hoạt động năng lượng: PVS doanh thu +13%, PVD +21%, BSR lợi nhuận cải thiện, PLX hưởng lợi giá xăng dầu tăng. Bán lẻ và điện cũng có hỗ trợ, nhưng ngành chứng khoán kém khả quan do thanh khoản sụt giảm."
+      "note": "VCBS dự báo ngân hàng tăng lợi nhuận từ thu nhập lãi, dầu khí từ hoạt động năng lượng. Cụ thể PVS doanh thu dự kiến +13%, PVD +21% cùng kỳ, BSR lợi nhuận cải thiện, PV GAS hưởng lợi sản lượng khí, LNG huy động gia tăng."
+    },
+    {
+      "title": "Ưu tiên tín dụng cho du lịch, mục tiêu 10-12% GDP vào 2030",
+      "impact": "↑",
+      "note": "Công văn 8509 NHNN từ 1/1 đến 31/12/2026 không tính dư nợ tăng thêm cho khách sạn, nhà hàng, khu du lịch vào dư nợ bất động sản, hỗ trợ du lịch trở thành ngành kinh tế mũi nhọn với mục tiêu 45-50 triệu khách quốc tế, 160 triệu khách nội địa vào 2030."
+    },
+    {
+      "title": "Bất động sản ngoài sàn: Nợ cao 1.63 triệu tỷ đồng, lợi nhuận tăng nhưng rủi ro",
+      "impact": "↓",
+      "note": "90 doanh nghiệp BĐS chưa đại chúng lợi nhuận sau thuế 61.2 ngàn tỷ đồng (gấp 10.7 lần cùng kỳ) nhưng nợ phải trả 1.63 triệu tỷ đồng. 10 doanh nghiệp nợ nhiều nhất chiếm 55.5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm gần 22%, rủi ro tập trung cao."
+    },
+    {
+      "title": "Thượng đỉnh Mỹ-Trung: Gia hạn 2 tháng thỏa thuận đình chiến",
+      "impact": "→",
+      "note": "Chủ tịch Tập Cận Bình thăm Washington 23-25/9, hai nước gia hạn 2 tháng thỏa thuận đình chiến thương mại. Bộ trưởng Tài chính Mỹ Scott Bessent xác nhận, chi tiết về cuộc đàm phán dự kiến công bố tuần sau. USD tăng giá từ triển vọng lãi suất cao lâu hơn."
     },
     {
       "title": "Khối ngoại bán ròng 2.8 ngàn tỷ tuần thị trường lên hạng FTSE",
       "impact": "↓",
-      "note": "Tuần 21-25/09/2026, khối ngoại bán ròng hơn 2.8 ngàn tỷ đồng trên HoSE và HNX. Đây là tuần đầu tiên sau khi FTSE nâng hạng thị trường chứng khoán Việt Nam lên Thị trường Mới nổi thứ cấp, nhưng áp lực bán từ ngoại vẫn tồn tại."
-    },
-    {
-      "title": "VN-Index giảm 1.68% giữa áp lực bán liên tục",
-      "impact": "↓",
-      "note": "VN-Index giảm 1.68% tuần giao dịch sau khi FTSE nâng hạng, với áp lực bán tại vùng cản 1795 điểm. Khối lượng giao dịch thấp dưới trung bình 20 phiên, các chỉ báo MACD, Stochastic cắt xuống đường signal cho thấy triển vọng ngắn hạn tiêu cực."
-    },
-    {
-      "title": "Ngân hàng Nhà nước ưu tiên tín dụng cho du lịch năm 2026",
-      "impact": "↑",
-      "note": "Công văn 8509 của Ngân hàng Nhà nước từ 1/1 đến 31/12/2026 cho phép các tổ chức tín dụng không tính phần dư nợ tăng thêm cho nhà hàng, khách sạn, khu du lịch vào dư nợ bất động sản. Theo sau Nghị quyết 26 đặt mục tiêu du lịch đóng góp 10-12% GDP vào 2030."
-    },
-    {
-      "title": "Nhóm BĐS ngoài sàn nợ 1.63 triệu tỷ, lợi nhuận cao nhưng rủi ro",
-      "impact": "↓",
-      "note": "90 pháp nhân bất động sản chưa đại chúng huy động trái phiếu: lợi nhuận sau thuế 61.2 ngàn tỷ đồng (gấp 10.7 lần cùng kỳ) nhưng nợ phải trả 1.63 triệu tỷ đồng. 10 doanh nghiệp nợ nhiều nhất chiếm 55.5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm 22% — rủi ro thanh khoản ngắn hạn lớn."
+      "note": "Tuần 21-25/09, khối ngoại bán ròng hơn 2.8 ngàn tỷ đồng trên HoSE và HNX. Đây là tuần đầu tiên sau khi FTSE nâng hạng Việt Nam lên Thị trường Mới nổi thứ cấp, nhưng dòng tiền ngoại vẫn có áp lực bán, cho thấy những rủi ro ngắn hạn."
     }
   ]
 }
