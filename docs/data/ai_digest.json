@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-27",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tuần này chịu áp lực bán từ khối ngoại (bán ròng 2,8 ngàn tỷ đồng) ngay trong tuần đầu tiên sau nâng hạng FTSE, khiến VN-Index giảm 30,55 điểm xuống 1.785,11 điểm. Tuy nhiên, các yếu tố vĩ mô tích cực như ADB nâng dự báo GDP 2026 lên 7,8%, tái cấu trúc 300+ mã cổ phiếu từ HNX sang HoSE (hoàn tất trước 31/12/2026), và ưu tiên tín dụng cho du lịch hỗ trợ tăng trưởng dài hạn. Rủi ro chính từ áp lực tín dụng, lạm phát dự báo 4,3%, và tập trung nợ cao ở nhóm bất động sản ngoài sàn (1,63 triệu tỷ đồng).",
+  "summary_vi": "Nền kinh tế Việt Nam có những tín hiệu tích cực từ ADB nâng dự báo GDP 2026 lên 7,8%, chính sách ưu tiên du lịch đóng góp 10-12% GDP năm 2030, và tái cấu trúc 300+ mã cổ phiếu từ HNX sang HoSE tạo không gian thanh khoản mới. Tuy nhiên, thị trường chứng khoán gặp áp lực: VN-Index giảm 1,68%, khối ngoại bán ròng 2,8 ngàn tỷ đồng ngay tuần đầu FTSE nâng hạng, lạm phát dự báo 4,3% tạo rủi ro ngắn hạn, và nhóm bất động sản ngoài sàn nợ 1,63 triệu tỷ đồng.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 2,8 ngàn tỷ sau nâng hạng FTSE",
-      "impact": "↓",
-      "note": "Tuần 21-25/9, khối ngoại bán ròng 2.768 tỷ đồng trên HOSE-HNX, ngay trong tuần đầu tiên thị trường Việt Nam chính thức được FTSE nâng hạng lên Thị trường Mới nổi thứ cấp, phản ánh thái độ thận trọng và lấy lợi nhuận của nhà đầu tư nước ngoài."
-    },
-    {
-      "title": "Novaland/Diamond Properties bán 2,7 triệu cp NVL lần 4",
-      "impact": "↓",
-      "note": "Công ty CP Diamond Properties (liên quan Chủ tịch Novaland Bùi Cao Nhật Quân) đăng ký bán 2,7 triệu cổ phiếu NVL nhằm cân đối danh mục, lần thứ 4 bán ra từ đầu năm 2026, tạo áp lực bán thêm từ nội bộ công ty."
-    },
-    {
-      "title": "ADB nâng dự báo GDP 2026 lên 7,8%",
+      "title": "Đại di cư cổ phiếu HNX sang HoSE mở không gian thanh khoản",
       "impact": "↑",
-      "note": "Ngân hàng Phát triển châu Á nâng dự báo tăng trưởng GDP Việt Nam 2026 từ mục tiêu 10% lên 7,8%, nhờ tăng trưởng vượt kỳ vọng từ tiêu dùng, đầu tư và FDI ổn định; tuy cảnh báo lạm phát 4,3% năm 2026 và áp lực tín dụng cần kiểm soát."
+      "note": "Chuyển 300+ mã cổ phiếu từ HNX sang HoSE hoàn tất trước 31/12/2026, nâng tiêu chuẩn niêm yết khắt khe, tạo cấu trúc thị trường chuyên biệt với HoSE là trung tâm giao dịch duy nhất cho cổ phiếu, mở không gian thanh khoản mới."
     },
     {
-      "title": "Chuyển giao 300+ mã từ HNX sang HoSE trước 31/12",
+      "title": "ADB nâng dự báo GDP 2026 lên 7,8% nhưng cảnh báo lạm phát 4,3%",
       "impact": "↑",
-      "note": "Lộ trình tái cấu trúc thị trường chứng khoán: chuyển toàn bộ hơn 300 mã cổ phiếu niêm yết từ Sở HNX sang HoSE phải hoàn tất trước 31/12/2026, nâng tiêu chuẩn niêm yết khắt khe, tạo cấu trúc thị trường rõ ràng và hiệu quả hơn."
+      "note": "Ngân hàng Phát triển châu Á nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 7,8% nhờ tăng trưởng vượt kỳ vọng từ tiêu dùng, đầu tư, FDI ổn định, nhưng dự báo lạm phát 4,3% năm 2026 và cảnh báo áp lực tín dụng cần kiểm soát."
     },
     {
-      "title": "Ưu tiên tín dụng du lịch đạt mục tiêu 80-90 tỷ USD",
+      "title": "Chính sách ưu tiên du lịch mở dòng tín dụng cho 1,5 triệu buồng lưu trú",
       "impact": "↑",
-      "note": "Công văn 8509 Ngân hàng Nhà nước từ 1/1-31/12/2026 cho phép tổ chức tín dụng không tính dư nợ tăng nhà hàng, khách sạn, khu du lịch vào bất động sản, triển khai Nghị quyết 26 với mục tiêu du lịch 2030 đóng góp 10-12% GDP, đón 45-50 triệu khách quốc tế, thu 80-90 tỷ USD."
+      "note": "Công văn 8509 Ngân hàng Nhà nước từ 1/1-31/12/2026 cho phép tổ chức tín dụng không tính dư nợ tăng nhà hàng, khách sạn, du lịch sinh thái vào bất động sản, triển khai Nghị quyết 26 với mục tiêu du lịch 2030 đóng góp 10-12% GDP, đón 45-50 triệu khách quốc tế, thu 80-90 tỷ USD."
     },
     {
-      "title": "BĐS ngoài sàn nợ 1,63 triệu tỷ, rủi ro tập trung cao",
+      "title": "Khối ngoại bán ròng 2,8 ngàn tỷ dù FTSE vừa nâng hạng Việt Nam",
       "impact": "↓",
-      "note": "90 doanh nghiệp bất động sản chưa đại chúng, chưa niêm yết huy động trái phiếu: lợi nhuận sau thuế 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ), nhưng nợ phải trả 1,63 triệu tỷ đồng với top 10 công ty nợ chiếm 55,5% tổng nợ, tạo rủi ro tập trung cao."
+      "note": "Tuần 21-25/9/2026 (tuần đầu tiên FTSE nâng hạng Việt Nam lên Thị trường Mới nổi thứ cấp), khối ngoại bán ròng 2,8 ngàn tỷ đồng trên HOSE-HNX, phản ánh thái độ lấy lợi nhuận và thận trọng của nhà đầu tư nước ngoài."
+    },
+    {
+      "title": "Ngân hàng và dầu khí tăng lợi nhuận nhưng chứng khoán suy yếu",
+      "impact": "→",
+      "note": "VCBS Research dự báo quý III 2026 ngân hàng và dầu khí ghi nhận tăng trưởng lợi nhuận tích cực (dầu khí PVS, PVD doanh thu tăng 13%, 21%), bán lẻ và điện hỗ trợ, nhưng ngành chứng khoán đối diện triển vọng kém do thanh khoản thị trường sụt giảm."
+    },
+    {
+      "title": "BĐS ngoài sàn nợ 1,63 triệu tỷ, năm doanh nghiệp nợ vượt 10 lần vốn",
+      "impact": "↓",
+      "note": "90 doanh nghiệp bất động sản chưa đại chúng, chưa niêm yết huy động trái phiếu khủng: lợi nhuận sau thuế 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ), nhưng nợ phải trả 1,63 triệu tỷ đồng, năm doanh nghiệp nợ vượt 10 lần vốn chủ, Đô thị Du lịch Cần Giờ chiếm 22% tổng nợ."
     }
   ]
 }
