@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-27",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tuần 21-26/9 thị trường trải qua biến động trái chiều: Thượng đỉnh Mỹ-Trung tạo kỳ vọng với 8 điểm đồng thuận giảm thuế 30 tỷ USD, ADB tăng dự báo tăng trưởng 2026 lên 7,8%, nhóm doanh nghiệp điện dự báo tăng lợi nhuận ~10%. Tuy nhiên, áp lực vẫn hiện hữu từ lợi suất T-bond Mỹ vượt 5% (ảnh hưởng lãi suất VN), khối ngoại bán ròng >2.800 tỷ đồng ngay sau nâng hạng FTSE, và giá vàng giảm 2,2 triệu đồng/lượng phản ánh lo ngại toàn cầu.",
+  "summary_vi": "Tuần giao dịch đầu tiên sau nâng hạng FTSE chứng kiến sự cân bằng giữa các yếu tố tích cực và tiêu cực. Thượng đỉnh Mỹ-Trung giảm căng thẳng thương mại (gia hạn 2 tháng, giảm thuế 30 tỷ USD) và ngành điện dự kiến lãi tăng mạnh, nhưng khối ngoại bán ròng 2,8 ngàn tỷ, lãi suất US vượt 5%, và VN-Index chưa phục hồi vượt 1.800 điểm tạo áp lực. Dư địa chính sách tiền tệ thu hẹp là thách thức cho tăng trưởng ngắn hạn.",
   "top": [
     {
-      "title": "Thượng đỉnh Mỹ-Trung: 8 điểm đồng thuận",
+      "title": "Thượng đỉnh Mỹ-Trung: gia hạn 2 tháng, giảm thuế 30 tỷ USD",
       "impact": "↑",
-      "note": "Chủ tịch Tập cùng Tổng thống Trump đạt 8 điểm đồng thuận gồm giảm thuế đối ứng cho 30 tỷ USD hàng hóa 'không nhạy cảm' và thiết lập Hội đồng Thương mại Mỹ-Trung, Hội đồng Đầu tư Mỹ-Trung. Giảm xác suất rủi ro leo thang thương mại, tích cực cho xuất khẩu và FDI Việt Nam."
+      "note": "Chủ tịch Tập Cận Bình thăm Washington 23-25/9, hai bên gia hạn 2 tháng thỏa thuận đình chiến thương mại và giảm thuế đối ứng cho khoảng 30 tỷ USD hàng hóa 'không nhạy cảm'; thiết lập Hội đồng Thương mại Mỹ-Trung vào vận hành. Giảm rủi ro địa chính trị, có lợi cho thương mại toàn cầu và nhà đầu tư."
     },
     {
-      "title": "Khối ngoại bán ròng >2.800 tỷ đồng sau nâng hạng FTSE",
+      "title": "Khối ngoại bán ròng 2,8 ngàn tỷ trong tuần nâng hạng",
       "impact": "↓",
-      "note": "Tuần 21-25/9, lần đầu tiên TTCK VN được FTSE nâng hạng lên Thị trường Mới nổi thứ cấp, khối ngoại đã bán ròng >2.800 tỷ đồng trên HOSE+HNX, phản ánh hiệu ứng 'tin ra là bán' và nhu cầu tái cân bằng kỳ vọng sau nâng hạng."
+      "note": "Tuần 21-25/9, khối ngoại bán ròng hơn 2,8 ngàn tỷ đồng trên HOSE và HNX; đây là tuần đầu tiên thị trường được FTSE chính thức nâng hạng lên Thị trường Mới nổi thứ cấp. Hiện tượng 'tin ra là bán' làm suy yếu chỉ số."
     },
     {
-      "title": "Lợi suất Mỹ vượt 5%, áp lực lãi suất VN tăng",
+      "title": "VN-Index chưa phục hồi vượt 1.800 điểm, thanh khoản yếu",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn 10 năm vượt 5%, gia tăng lo ngại về tỷ giá, lãi suất trong nước và dòng vốn. VN-Index chưa lấy lại mốc 1.800 điểm, khối lượng giao dịch thấp."
+      "note": "VN-Index đóng cửa tại 1.785,11 điểm, giảm 1,68%, vẫn chưa lấy lại mốc 1.800 điểm kỹ thuật; thanh khoản nằm dưới mức trung bình 20 phiên, khối ngoại tiếp tục bán ròng. Áp lực điều chỉnh dự kiến còn kéo dài."
     },
     {
-      "title": "ADB tăng dự báo tăng trưởng 2026 lên 7,8%",
+      "title": "Lãi suất US 10 năm vượt 5%, tác động dòng vốn ngoại",
+      "impact": "↓",
+      "note": "Lợi suất trái phiếu Chính phủ Mỹ kỳ hạn 10 năm vượt ngưỡng 5%, gia tăng lo ngại về tỷ giá, lãi suất trong nước, và thu hút dòng vốn sang các khoản đầu tư lợi nhuận cao khác, gây áp lực bán cổ phiếu."
+    },
+    {
+      "title": "Ngành điện quý 3: lãi ròng tăng ~10%, nhiệt điện tăng 88%",
       "impact": "↑",
-      "note": "Ngân hàng Phát triển châu Á tăng dự báo tăng trưởng Việt Nam 2026 lên 7,8%, dựa trên tăng trưởng toàn diện từ tiêu dùng, đầu tư, FDI và thương mại, dù dư địa chính sách tiền tệ có dấu hiệu thu hẹp."
+      "note": "Chứng khoán MB dự báo lợi nhuận ròng quý 3/2026 của doanh nghiệp điện tăng khoảng 10% so với cùng kỳ; nhóm nhiệt điện (POW, NT2, QTP) dẫn dắt tăng trưởng đến 88% khi bù đắp suy giảm sản lượng thủy điện 13% do mưa lũ."
     },
     {
-      "title": "Doanh nghiệp điện quý 3: lợi nhuận tăng ~10%, POW/NT2/QTP dẫn dắt",
-      "impact": "↑",
-      "note": "MBS dự báo lợi nhuận ròng quý 3/2026 doanh nghiệp điện tăng ~10% cùng kỳ. Nhóm nhiệt điện (POW, NT2, QTP) sẽ dẫn dắt do sản lượng thủy điện giảm 13% vì El Nino, sản lượng nhiệt điện tăng bù đắp nhu cầu."
-    },
-    {
-      "title": "Giá vàng SJC giảm 2,2 triệu đồng/lượng",
+      "title": "Giá vàng miếng SJC giảm 2,2 triệu đồng/lượng trong tuần",
       "impact": "↓",
-      "note": "Giá vàng miếng SJC giảm phổ biến 2,2 triệu đồng/lượng trong tuần 21-26/9, hiện niêm yết 141,4 (mua) - 144,4 (bán) triệu đồng/lượng, phản ánh áp lực từ USD tăng giá và lo ngại quốc tế."
+      "note": "Chốt tuần 21-26/9, giá mua-bán vàng miếng SJC giảm phổ biến 2,2 triệu đồng/lượng mỗi chiều, từ mức 146,6 triệu xuống còn 144,4 triệu đồng/lượng; áp lực từ lãi suất cao và đồng USD mạnh."
     }
   ]
 }
