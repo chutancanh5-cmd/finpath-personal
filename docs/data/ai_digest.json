@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường VN hôm nay giảm 0,25% do khối ngoại tiếp tục bán ròng, chịu áp lực từ lãi suất trái phiếu Mỹ tăng cao lên 5,17% (mức cao nhất kể từ 2007) và lãi suất vay nhà Mỹ vượt 7%. Bất chấp định giá cổ phiếu thấp lịch sử (P/E 8,8x cho 2027) và nhiều doanh nghiệp báo lợi nhuận xuất sắc, dòng vốn ngoại vẫn rút khỏi thị trường. Tuy vậy, triển vọng dài hạn tích cực khi Việt Nam dẫn đầu tăng trưởng ASEAN với GDP dự báo tiếp tục trên 5%.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực bán từ khối ngoại lần thứ tư liên tiếp, VN-Index giảm 4,43 điểm, phản ánh lo ngại lãi suất Mỹ tăng ảnh hưởng tới dòng vốn quốc tế. Tuy nhiên, cơ bản kinh tế Việt Nam vẫn mạnh mẽ với tăng trưởng 9-9,5% trong 9 tháng dẫn đầu ASEAN, trong khi nhiều doanh nghiệp đạt lợi nhuận kỷ lục. Định giá cổ phiếu đã giảm xuống mức thấp lịch sử, tạo cơ hội tích lũy dài hạn.",
   "top": [
     {
-      "title": "Lãi suất Mỹ tăng cao đe dọa tài chính công ty AI",
+      "title": "Khối ngoại bán ròng phiên thứ tư liên tiếp",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm tăng lên 5,17%, tăng 1% từ đầu năm, cao nhất kể từ 2007. JPMorgan Chase ước tính 4,1 nghìn tỷ USD nợ liên quan đến AI sẽ được phát hành từ nay đến 2030; khi phát hành nợ, các doanh nghiệp phải đưa ra lợi suất cao hơn để thu hút nhà đầu tư."
+      "note": "Khối ngoại bán ròng 221 tỷ đồng tại HOSE ngày 28/9, là phiên bán thứ tư liên tiếp, trong khi VN-Index giảm 4,43 điểm xuống 1.780,68. Áp lực bán mạnh từ ngoại phản ánh tâm lý thận trọng trước biến động toàn cầu."
     },
     {
-      "title": "VN-Index giảm 0,25%, khối ngoại kéo dài chuỗi bán ròng",
+      "title": "Lợi suất trái phiếu kho bạc Mỹ tăng 1% từ đầu năm",
       "impact": "↓",
-      "note": "VN-Index giảm 4,43 điểm (-0,25%) xuống 1.780,68 điểm; HNX-Index giảm 0,9 điểm (-0,33%) xuống 271,31 điểm. Độ rộng thị trường đỏ áp đảo: 456 mã giảm so 250 mã tăng, khối ngoại tiếp tục bán ròng. Thanh khoản hơn 12,4 ngàn tỷ đồng."
+      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm tăng tới 5,17%, tăng khoảng 1 điểm phần trăm từ đầu năm 2026. 4,1 nghìn tỷ USD nợ liên quan AI sẽ được phát hành tới 2030, nhưng chi phí vay tăng sẽ hạn chế dòng vốn toàn cầu vào thị trường chứng khoán."
     },
     {
-      "title": "Định giá thấp lịch sử bất chấp tăng trưởng lợi nhuận tốt",
-      "impact": "→",
-      "note": "Thị trường (ngoài Vingroup) giao dịch P/E 8,8x cho 2027, 6x cho 2028 — mức thấp lịch sử. Tăng trưởng lợi nhuận 9 tháng đầu năm đạt 46%, cả năm kỳ vọng 20-25%. Cổ phiếu chất lượng như HPG lãi +77% nhưng giá giảm 11%; 7 cổ phiếu lớn chiếm 67% danh mục quỹ Pyn Elite Fund."
+      "title": "Pyn Elite Fund: Định giá cổ phiếu thấp kỷ lục",
+      "impact": "↓",
+      "note": "Thị trường giao dịch P/E 8,8 lần cho năm 2027 (trừ Vingroup), định giá cổ phiếu đã giảm xuống mức thấp lịch sử. Mặc dù tăng trưởng lợi nhuận nửa đầu năm đạt 46% và dự kiến 20-25% cả năm, nhưng cân cân thương mại và chiến tranh Iran đã hạn chế tốc độ tăng cung tiền, khiến thị trường trì trệ."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN duy trì trên 5%",
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN trên 5%",
       "impact": "↑",
-      "note": "Việt Nam là câu chuyện về sự bền bỉ với tăng trưởng duy trì trên 5%; Indonesia tăng từ 4% lên ~5%. ASEAN ở giai đoạn chuyển hóa quy mô, dân số, chiều sâu công nghiệp thành khả năng tích lũy vốn. Bloomberg dự báo tăng trưởng toàn cầu chậm lại, các nước phát triển bước vào thời kỳ tăng trưởng thấp hơn."
+      "note": "Việt Nam bền bỉ duy trì tăng trưởng trên 5%, dẫn đầu ASEAN trong bối cảnh tăng trưởng toàn cầu chậm lại. Trong 9 tháng đầu năm 2026, một địa phương đã công bố tăng trưởng GRDP 9-9,5%, phản ánh động lực kinh tế vẫn mạnh."
     },
     {
-      "title": "Hoàn Mỹ lãi 679,4 tỷ đồng, tăng 23%, hoàn tất thanh toán nợ",
+      "title": "Y Khoa Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ trái phiếu",
       "impact": "↑",
-      "note": "Y Khoa Hoàn Mỹ năm 2025 lãi 679,4 tỷ đồng, tăng 23% so 2024, cao nhất từ 2022. Vốn chủ sở hữu tăng 30% lên 2.880 tỷ đồng; hoàn tất thanh toán 1.400 tỷ đồng trái phiếu. Tổng nợ giảm 4,4%, hệ số nợ/vốn chủ cải thiện từ 1,91 lần xuống 1,4 lần."
+      "note": "Y Khoa Hoàn Mỹ báo lãi 679,4 tỷ đồng năm 2025, tăng 23% so với năm trước, cao nhất kể từ 2021. Vốn chủ sở hữu tăng 30% lên 2,88 ngàn tỷ đồng, hoàn tất thanh toán lô trái phiếu 1,4 ngàn tỷ đồng. Chỉ tiêu tài chính cải thiện với hệ số thanh toán ngắn hạn từ 0,66 lên 1,23 lần."
     },
     {
-      "title": "Lãi suất vay nhà Mỹ vượt 7% lần đầu sau 2 năm",
+      "title": "Giá vàng trong nước giảm 2 triệu đồng/lượng",
       "impact": "↓",
-      "note": "Lãi suất vay thế chấp nhà 30 năm Mỹ nhảy lên 7,45% ngày 24/9 (tăng 19 điểm cơ bản trong 1 ngày), lần đầu vượt 7% trong 2 năm. Fed tăng lãi suất 0,25% ngày 16/9. Phát biểu cứng rắn Fed, giá dầu tăng, dữ liệu kinh tế khả quan tạo áp lực lên tài sản rủi ro toàn cầu."
+      "note": "Giá vàng miếng SJC và vàng nhẫn phổ biến 139,4-142,4 triệu đồng/lượng, giảm 2 triệu đồng từ ngày 26/9 (giảm 1,38%), trong khi giá vàng thế giới rơi xuống 4.160 USD/ounce, giảm 3,1%. Tâm lý bán tháo vàng phản ánh lo ngại về tài sản rủi ro."
     }
   ]
 }
