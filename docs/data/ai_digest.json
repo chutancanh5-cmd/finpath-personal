@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-28",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chìm sâu sắc đỏ với VN-Index giảm 0,92% dưới áp lực lãi suất Mỹ nhảy vọt lên 7,45% (cao nhất 2 năm) và tiêu dùng Trung Quốc yếu (bán lẻ chỉ tăng 0,4%). Hai cổ phiếu lớn PNJ và NVL rơi sàn phản ánh rủi ro tài chính mạnh. Tuy vậy, Việt Nam vẫn ghi dấu tích cực khi duy trì tăng trưởng 5%+ dẫn đầu ASEAN, tự chủ công nghệ thiết bị điện 500 kV, và du lịch phục hồi mạnh 60%.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục bứt phá với tăng trưởng dự báo dẫn đầu ASEAN (trên 5%), du lịch và các doanh nghiệp chứng khoán hồi phục mạnh (Y Khoa Hoàn Mỹ lãi 679 tỷ, TCBS vốn vượt 33.000 tỷ). Tuy nhiên, lãi suất Mỹ cao (trái phiếu 10 năm vượt mốc lịch sử, thế chấp nhà >7%) và Fed duy trì thắt chặt áp lực lên thị trường chứng khoán ngắn hạn (VN-Index -0,92%). Thỏa thuận Mỹ-Trung giảm thuế 30 tỷ USD và gia hạn đình chiến tạo kỳ vọng giảm rủi ro địa chính trị, nhưng đà tăng trưởng vẫn phụ thuộc vào xu hướng lãi suất toàn cầu.",
   "top": [
     {
-      "title": "Thị trường sắc đỏ ngày hôm nay, VN-Index giảm 0,92%",
-      "impact": "↓",
-      "note": "VN-Index giảm 0,92% xuống 1.768,71 điểm, HNX-Index giảm 1,19% xuống 268,97 điểm. Độ rộng thị trường nghiêng về bán với 451 mã giảm, chỉ 152 mã tăng, thanh khoảng HOSE 7 ngàn tỷ. VIC, BID, TCB tác động tiêu cực lớn nhất."
-    },
-    {
-      "title": "Lãi suất mua nhà Mỹ vượt 7%, tăng 19 bps trong 1 ngày",
-      "impact": "↓",
-      "note": "Lãi suất 30 năm Mỹ nhảy lên 7,45% (cao nhất 2 năm) từ 7,26% ngày 23/9. Lợi suất trái phiếu kho bạc 10 năm ở mức cao nhất từ tháng 6/2007, 30 năm từ năm 2004. Áp lực chi phí vốn toàn cầu tăng, ảnh hưởng định giá cổ phiếu và dòng vốn FDI."
-    },
-    {
-      "title": "Cổ phiếu tiêu dùng Trung Quốc thất thế, nhu cầu yếu",
-      "impact": "↓",
-      "note": "Chỉ số tiêu dùng Trung Quốc gần mức thấp nhất 10 năm, lợi nhuận thấp hơn dự báo 50%. Doanh số bán lẻ tháng 8 chỉ tăng 0,4%, dự báo tăng trưởng chậm lại. Rủi ro nhu cầu toàn cầu yếu, ảnh hưởng xuất khẩu khu vực."
-    },
-    {
-      "title": "PNJ nằm sàn dự kiến lỗ 6.271 tỷ, NVL 46 triệu cổ phiếu dư bán",
-      "impact": "↓",
-      "note": "PNJ nằm sàn 30.700 đ/cổ phiếu với 26 triệu đơn vị dư bán, dự kiến lỗ 6.271 tỷ đồng năm 2026 do trích lập dự phòng 7.071 tỷ đ. NVL nằm sàn 11.050 đ/đơn vị với 46 triệu cổ phiếu dư bán. Áp lực bán mạnh, cảnh báo rủi ro ngành vàng và bất động sản."
-    },
-    {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN, duy trì trên 5%",
+      "title": "Tăng trưởng dài hạn dẫn đầu ASEAN",
       "impact": "↑",
-      "note": "Theo Bloomberg, Việt Nam tăng trưởng bền bỉ trên 5% trong dài hạn, dẫn đầu ASEAN. ASEAN ở giai đoạn chuyển hóa quy mô dân số thành khả năng tích lũy vốn và thu hút đầu tư vào sản xuất. Triển vọng vĩ mô tích cực."
+      "note": "Việt Nam dự báo tăng trưởng trên 5% dài hạn, bền bỉ hơn các nước ASEAN trong giai đoạn hàng chục năm tới khi các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp hơn; có lợi cho cổ phiếu doanh nghiệp có triển vọng dài hạn."
     },
     {
-      "title": "Việt Nam chế tạo thiết bị điện 500 kV thay nhập khẩu, 82,4 tỷ đồng",
+      "title": "Du lịch bứt phá, Huế đón 6,4 triệu khách +29%",
       "impact": "↑",
-      "note": "EEMC khởi công 28/9 dự án quốc gia chế tạo cuộn kháng bù ngang 500 kV, tổng kinh phí 82,4 tỷ đồng (ngân sách hỗ trợ 22,2 tỷ đ), phối hợp BK Hà Nội. Công suất 120 MVAr, tiêu chuẩn IEC 60076. Tự chủ công nghệ thiết bị điện siêu cao áp, giảm phụ thuộc nhập khẩu."
+      "note": "Doanh thu du lịch Huế 9 tháng đầu năm đạt 15.400 tỷ đồng, tăng 60% cùng kỳ; GRDP thành phố tăng 9-9,5%; điểm sáng cho ngành dịch vụ và bất động sản địa phương."
+    },
+    {
+      "title": "Y Khoa Hoàn Mỹ lãi 679 tỷ, sạch nợ trái phiếu",
+      "impact": "↑",
+      "note": "Năm 2025 lãi 679,4 tỷ đồng tăng 23% YoY, vốn chủ tăng 30% lên 2,88 ngàn tỷ, hoàn tất thanh toán 1,4 ngàn tỷ đồng trái phiếu; doanh nghiệp HNX cải thiện sức khỏe tài chính."
+    },
+    {
+      "title": "TCBS nâng vốn lên 33.293 tỷ, vượt mốc ngân hàng",
+      "impact": "↑",
+      "note": "Công ty chứng khoán Kỹ Thương phát hành 554,8 triệu cổ phiếu trả cổ tức, nâng vốn 5.549 tỷ, vượt vốn điều lệ hàng chục ngân hàng vừa và nhỏ; thể hiện sức bật của thị trường chứng khoán."
+    },
+    {
+      "title": "Chế tạo thiết bị điện 500kV thay nhập khẩu",
+      "impact": "↑",
+      "note": "Dự án quốc gia 82,4 tỷ đồng (22,2 tỷ ngân sách nhà nước) do EEMC chủ trì, chế tạo cuộn kháng bù 500kV công suất 120 MVAr; độc lập công nghệ, giảm rủi ro phụ thuộc nhập khẩu cho hệ thống điện."
+    },
+    {
+      "title": "Lãi suất thế chấp Mỹ vượt 7%, áp lực toàn cầu",
+      "impact": "↓",
+      "note": "Lãi suất vay thế chấp 30 năm Mỹ vượt 7% lần đầu 2 năm (7,45% trên Mortgage News Daily), trái phiếu kho bạc 10 năm ở mức cao nhất từ 2007; Fed giữ lãi suất cao, tăng áp lực lên thị trường chứng khoán toàn cầu và VN-Index điều chỉnh -0,92%."
     }
   ]
 }
