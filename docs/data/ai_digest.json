@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-28",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được nhiều tín hiệu tích cực từ nâng hạng FTSE Russell, tăng trưởng kinh tế đạt 9-9,5%, hoạt động du lịch mạnh (Huế +60% doanh thu) và thỏa thuận Mỹ-Trung giảm căng thẳng thương mại (giảm thuế 30 tỷ USD). Tuy nhiên, mặt bằng lãi suất neo cao tạo áp lực đáng kể đè nén thanh khoản, khiến VN-Index nguy cơ chuyển sang điều chỉnh ngắn hạn, trong khi chỉ nhóm bảo hiểm nổi lên nhờ hưởng lợi từ môi trường lãi suất cao.",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực từ lãi suất Mỹ tăng vượt 7% (cao nhất 2 năm) nhưng được hỗ trợ bởi cải thiện quan hệ Mỹ-Trung (giảm thuế 30 tỷ USD), tăng trưởng kinh tế ổn định (GRDP 9-9,5%, du lịch +60%) và vị thế dẫn đầu ASEAN với tăng trưởng trên 5%. Ngành vàng và bất động sản chịu áp lực bán mạnh, kỹ thuật chỉ báo nguy cơ điều chỉnh ngắn hạn.",
   "top": [
     {
-      "title": "Bảo hiểm nổi lên khi lãi suất cao",
-      "impact": "↑",
-      "note": "BVH tăng kịch trần, tăng 30% trong 2 tháng gần đây. Nhóm bảo hiểm được hưởng lợi từ lãi suất cao nhờ khoản đầu tư khổng lồ vào tiền gửi, trái phiếu. Các cổ phiếu bảo hiểm như BVH, PVI, MIG, BMI, BIC tăng mạnh phiên 28/9."
-    },
-    {
-      "title": "Hoàn Mỹ lãi 679 tỷ đồng, thanh toán xong trái phiếu",
-      "impact": "↑",
-      "note": "Lợi nhuận năm 2025 đạt 679,4 tỷ đồng, tăng 23% so với năm trước, là mức cao nhất kể từ 2022. Hoàn tất thanh toán lô trái phiếu 1,4 ngàn tỷ đồng, cải thiện tình hình tài chính."
-    },
-    {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
-      "impact": "↑",
-      "note": "Việt Nam duy trì tăng trưởng trên 5% trong dài hạn, nổi bật so với các nước ASEAN khác. Khả năng tích lũy vốn và thu hút đầu tư vào sản xuất vẫn bền bỉ."
-    },
-    {
-      "title": "Du lịch Huế tăng 60%, GRDP 9 tháng tăng 9-9,5%",
-      "impact": "↑",
-      "note": "Huế đón 6,4 triệu lượt khách (tăng 29%), doanh thu du lịch đạt 15.400 tỷ đồng (tăng 60%). GRDP 9 tháng đầu năm 2026 ước tăng 9-9,5%, cho thấy nhu cầu tiêu dùng dịch vụ vẫn mạnh."
-    },
-    {
-      "title": "Thỏa thuận Mỹ-Trung giảm thuế 30 tỷ USD",
-      "impact": "↑",
-      "note": "Mỹ và Trung Quốc gia hạn thỏa thuận đình chiến thương mại thêm 2 tháng, đạt thỏa thuận giảm thuế đối ứng trị giá 30 tỷ USD hàng hóa 'không nhạy cảm', giảm rủi ro leo thang."
-    },
-    {
-      "title": "VN-Index nguy cơ chuyển sang điều chỉnh ngắn hạn",
+      "title": "Lãi suất mua nhà Mỹ vượt 7%, tăng 19 bps trong 1 ngày",
       "impact": "↓",
-      "note": "Chỉ số đang tạo đỉnh thấp hơn đỉnh trước, lãi suất trái phiếu kho bạc Mỹ tăng lên mức cao nhất kể từ 2004-2007. VN-Index nguy cơ cao chuyển sang xu hướng điều chỉnh nếu không bứt phá lại ngưỡng 1.815 điểm (MA100)."
+      "note": "Lãi suất 30 năm Mỹ lên 7,45% (cao nhất 2 năm), tăng từ 7,26% ngày 23/9 lên 7,45% ngày 24/9. Lợi suất trái phiếu kho bạc kỳ hạn 10 năm ở mức cao nhất kể từ 2007, 30 năm từ 2004. Áp lực chi phí vốn toàn cầu tăng, ảnh hưởng định giá cổ phiếu và FDI."
+    },
+    {
+      "title": "Mỹ-Trung gia hạn thỏa thuận, giảm thuế 30 tỷ USD",
+      "impact": "↑",
+      "note": "Tập Cận Bình thăm Washington 23-25/9, gặp Trump 24/9. Hai bên gia hạn thỏa thuận thương mại thêm 2 tháng (hết 10/11), cắt giảm thuế đối ứng 30 tỷ USD hàng 'không nhạy cảm', thiết lập hội đồng thương mại/đầu tư Mỹ-Trung. Giảm rủi ro leo thang, hỗ trợ xuất khẩu VN."
+    },
+    {
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN, duy trì trên 5%",
+      "impact": "↑",
+      "note": "Bloomberg dự báo VN tăng trưởng bền bỉ trên 5% trong dài hạn, dẫn đầu ASEAN. Indonesia tăng từ ~4% lên ~5%. Phản ánh sức mạnh cấu trúc kinh tế, khả năng tích lũy vốn và thu hút đầu tư vào sản xuất."
+    },
+    {
+      "title": "PNJ nằm sàn, dự kiến lỗ 6.271 tỷ đồng năm 2026",
+      "impact": "↓",
+      "note": "PNJ nằm sàn 30.700 đ/cổ phiếu (26 triệu đơn vị nằm sàn), NVL nằm sàn 11.050 đ/đơn vị (46 triệu dư bán). PNJ dự kiến lỗ 6.271 tỷ đồng năm 2026 do trích lập dự phòng 7.071 tỷ. Áp lực bán mạnh, tâm lý nhà đầu tư xấu ngành vàng/BĐS."
+    },
+    {
+      "title": "Cổ phiếu tiêu dùng Trung Quốc thất thế, nhu cầu yếu 0,4%/tháng",
+      "impact": "↓",
+      "note": "Chỉ số tiêu dùng TQ gần mức thấp nhất 10 năm, lợi nhuận thấp hơn dự báo 50%. Doanh số bán lẻ tháng 8 chỉ tăng 0,4%. Chỉ số công nghệ/AI gấp 2 lần (2016), phản ánh mất cân đối. Rủi ro nhu cầu toàn cầu yếu, cạnh tranh AI khốc liệt."
+    },
+    {
+      "title": "Huế GRDP 9 tháng tăng 9-9,5%, du lịch tăng 60%",
+      "impact": "↑",
+      "note": "TP.Huế GRDP ước tăng 9-9,5% (thấp mục tiêu 10%), đón 6,4 triệu lượt khách (tăng 29%), doanh thu du lịch 15.400 tỷ đồng (tăng 60% so cùng kỳ). Du lịch phục hồi mạnh, nhu cầu tiêu dùng dịch vụ vẫn sôi động, nền kinh tế chạy tốt."
     }
   ]
 }
