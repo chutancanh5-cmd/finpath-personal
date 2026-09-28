@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-09-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp (21/9) nhưng diễn biến tuần sau không như kỳ vọng, VN-Index mất mốc 1.800 và giảm 1,68% xuống 1.785,11 điểm, thanh khoản ảm đạm. Tuy nhiên, dòng vốn nước ngoài tiếp tục gia tăng với Vanguard kế hoạch đầu tư 2,5 tỷ USD năm nay. Thượng đỉnh Mỹ-Trung (23-25/9) gia hạn thỏa thuận giảm thuế 30 tỷ USD hàng hóa, giảm rủi ro leo thang. ADB nâng dự báo tăng trưởng 2026 lên 7,8% nhưng cảnh báo dư địa chính sách tiền tệ hạn chế, trong khi rủi ro nợ cao từ nhóm địa ốc ngoài sàn (1,63 triệu tỷ đồng).",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chính thức được FTSE Russell nâng hạng lên Emerging Market thứ cấp (21/9), tạo đặc biệt lớn cho dòng vốn ngoại, với Vanguard công bố đầu tư 2,5 tỷ USD năm nay. Tuy nhiên, tuần đầu sau nâng hạng, VN-Index đã mất mốc 1.800 điểm (giảm 1,68%) do lo ngại Fed tăng lãi suất tháng 10 và 12. Thượng đỉnh Mỹ-Trung (23-25/9) gia hạn thỏa thuận thương mại 2 tháng, giảm rủi ro leo thang. ADB nâng dự báo tăng trưởng Việt Nam lên 7,8% năm 2026 nhưng cảnh báo cần chuyển sang tăng trưởng dựa trên năng suất.",
   "top": [
     {
       "title": "Nâng hạng TTCK Việt Nam lên thị trường mới nổi thứ cấp",
@@ -15,14 +15,14 @@
       "note": "Vanguard, công ty quản lý quỹ ETF lớn thứ hai thế giới, công bố bắt đầu đầu tư vào Việt Nam với kế hoạch nâng giá trị nắm giữ cổ phiếu Việt Nam lên 2,5 tỷ USD trong năm 2026. Sự hiện diện của các quỹ thụ động mô phỏng chỉ số FTSE sẽ dẫn đến dòng vốn mới từ quỹ chủ động và nhà đầu tư tổ chức."
     },
     {
+      "title": "Fed có thể tăng lãi suất tháng 10 & 12, áp lực lạm phát tăng",
+      "impact": "↓",
+      "note": "Nhà đầu tư tăng mạnh mức đặt cược vào khả năng Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất trong các cuộc họp tháng 10 và tháng 12, từ dữ liệu lạm phát lớn và tăng trưởng kinh tế Mỹ vững vàng. Lãi suất thực tăng kéo theo đó là áp lực mạnh lên giá vàng (giảm 61 USD/oz tương đương 1,4% trong phiên sáng hôm nay) và tỷ giá đồng USD tăng giá."
+    },
+    {
       "title": "Thượng đỉnh Mỹ-Trung: gia hạn thỏa thuận, giảm thuế 30 tỷ USD",
       "impact": "→",
       "note": "Chủ tịch Tập Cận Bình thăm Washington 23-25/9/2026, gặp Tổng thống Trump, hai bên đạt 8 điểm đồng thuận. Gia hạn 2 tháng hiệp định đình chiến thương mại và thỏa thuận giảm thuế đối ứng khoảng 30 tỷ USD hàng hóa 'không nhạy cảm' mỗi chiều. Giảm xác suất rủi ro leo thang ngắn hạn mặc dù chưa đạt thỏa thuận toàn diện."
-    },
-    {
-      "title": "ADB nâng dự báo tăng trưởng 2026 lên 7,8%, cảnh báo chính sách tiền tệ hẹp",
-      "impact": "→",
-      "note": "ADB nâng dự báo tăng trưởng GDP năm 2026 lên 7,8% (từ 7,6%) và điều chỉnh giảm năm 2027 xuống 7,6%. Tăng trưởng trên diện rộng từ tiêu dùng, đầu tư, FDI, thương mại. Tuy thấp hơn mục tiêu 10%, ADB cảnh báo dư địa chính sách tiền tệ thu hẹp, cần chuyển sang tăng trưởng dựa trên năng suất, chính sách tài khóa cần đóng vai trò chính."
     },
     {
       "title": "VN-Index mất mốc 1.800, giảm 1,68% tuần 21-25/9",
@@ -30,9 +30,9 @@
       "note": "Tuần 21-25/9/2026, VN-Index giảm 30,55 điểm (-1,68%) xuống 1.785,11 điểm với 3 phiên giảm trên 5 phiên. Thị trường không phản ứng tích cực với tin nâng hạng FTSE; khối lượng giao dịch nằm dưới trung bình 20 phiên, MACD cắt xuống. Áp lực bán tại vùng cản 1.795 điểm, nhà đầu tư thận trọng chờ động lực từ kết quả kinh doanh quý III."
     },
     {
-      "title": "Địa ốc ngoài sàn có nợ 1,63 triệu tỷ đồng, 5 công ty nợ vượt 10 lần vốn",
-      "impact": "↓",
-      "note": "Trong 90 doanh nghiệp địa ốc chưa đại chúng, chưa niêm yết, tổng nợ phải trả 1,63 triệu tỷ đồng, lợi nhuận sau thuế 61,2 ngàn tỷ đồng (gấp 10,7 lần cùng kỳ). 10 doanh nghiệp nợ nhiều nhất chiếm 55,5% tổng nợ; 5 công ty nợ vượt 10 lần vốn chủ sở hữu, tiềm ẩn rủi ro hệ thống."
+      "title": "ADB nâng dự báo tăng trưởng 2026 lên 7,8%, cảnh báo chính sách tiền tệ hẹp",
+      "impact": "→",
+      "note": "ADB nâng dự báo tăng trưởng GDP năm 2026 lên 7,8% (từ 7,6%) và điều chỉnh giảm năm 2027 xuống 7,6%. Tăng trưởng trên diện rộng từ tiêu dùng, đầu tư, FDI, thương mại. Tuy thấp hơn mục tiêu 10%, ADB cảnh báo dư địa chính sách tiền tệ thu hẹp, cần chuyển sang tăng trưởng dựa trên năng suất, chính sách tài khóa cần đóng vai trò chính."
     }
   ]
 }
