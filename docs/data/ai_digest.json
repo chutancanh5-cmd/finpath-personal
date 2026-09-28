@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-28",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam nhận tin tích cực lớn khi được nâng hạng từ cận biên lên mới nổi thứ cấp (21/9), dự kiến kéo theo dòng vốn ngoại 180 triệu USD tháng 9 và 1,8 tỷ USD/năm. Kinh tế Việt Nam bền bỉ với tăng trưởng 7,8% năm 2026 (ADB) và duy trì tốc độ trên 5% dài hạn, vượt trội ASEAN. Tuy nhiên, thị trường vẫn đối mặt rủi ro: PNJ suy sụp (giảm 65%, chuyển sang lỗ 6.271 tỷ đồng), BĐS ngoài sàn ghi nhận nợ 1,63 triệu tỷ đồng, và áp lực lãi suất toàn cầu tăng đẩy giá vàng xuống khoảng 61 USD/oz.",
+  "summary_vi": "Việt Nam được nâng hạng FTSE Russell (21/9) từ cận biên lên mới nổi thứ cấp, lộ trình đưa cổ phiếu vào chỉ số toàn cầu 9/2026-9/2027 mở rộng tiếp cận vốn quốc tế. ADB tăng dự báo tăng trưởng 2026 lên 7,8% nhưng cảnh báo dư địa tiền tệ hẹp, cần chuyển sang tăng trưởng dựa năng suất. Áp lực lạm phát toàn cầu và kỳ vọng Fed tăng lãi suất (tháng 10, 12) kéo giá vàng giảm 61 USD/oz, thị trường lãi suất cao hơn lâu hơn. Rủi ro: PNJ \"có biến\" với doanh thu giảm 19,7% (48.660→39.057 tỷ), lợi nhuận chuyển lỗ 6.271 tỷ; BĐS ngoài sàn nợ 1,63 triệu tỷ đồng.",
   "top": [
     {
-      "title": "Việt Nam nâng hạng từ cận biên lên mới nổi thứ cấp",
+      "title": "Việt Nam nâng hạng FTSE Russell: mở tiếp cận vốn quốc tế",
       "impact": "↑",
-      "note": "FTSE Russell nâng hạng thị trường Việt Nam ngày 21/9/2026, cổ phiếu Việt Nam được đưa vào các chỉ số toàn cầu từ tháng 9/2026 đến 9/2027. MBS ước tính dòng vốn thụ động 180 triệu USD trong kỳ cơ cấu tháng 9 và 1,8 tỷ USD trong một năm."
+      "note": "FTSE Russell nâng hạng thị trường Việt Nam ngày 21/9/2026 từ cận biên lên mới nổi thứ cấp, cổ phiếu Việt Nam được đưa vào các chỉ số toàn cầu giai đoạn tháng 9/2026 đến tháng 9/2027, mở rộng tiếp cận cho quỹ thụ động và chủ động quốc tế."
     },
     {
-      "title": "PNJ suy sụp với lỗ 6.271 tỷ đồng năm 2026",
-      "impact": "↓",
-      "note": "PNJ điều chỉnh doanh thu từ 48.660 tỷ xuống 39.057 tỷ, lợi nhuận từ lãi 3.409 tỷ chuyển sang lỗ dự kiến 6.271 tỷ đồng. Giá cổ phiếu giảm 65% kể từ tháng 3, lượng cầu (1,2 triệu) không đủ hấp thụ áp lực bán (25 triệu chỉ lệnh)."
-    },
-    {
-      "title": "ADB tăng dự báo tăng trưởng 2026 lên 7,8%",
-      "impact": "↑",
-      "note": "Ngân hàng Phát triển châu Á nâng dự báo tăng trưởng Việt Nam năm 2026 lên 7,8%, và điều chỉnh giảm năm 2027 xuống 7,6%. Tăng trưởng diễn ra khá toàn diện ở tiêu dùng, đầu tư, FDI và thương mại."
-    },
-    {
-      "title": "Thượng đỉnh Mỹ-Trung: Gia hạn thỏa thuận 2 tháng",
+      "title": "ADB tăng dự báo 7,8% nhưng cảnh báo tiền tệ hẹp",
       "impact": "→",
-      "note": "Bộ trưởng Tài chính Mỹ Scott Bessent xác nhận hai nước nhất trí gia hạn 2 tháng thỏa thuận đình chiến thương mại. Hai bên cắt giảm thuế đối với khoảng 30 tỷ USD hàng hóa không nhạy cảm, thiết lập đối thoại về AI."
+      "note": "ADB tăng dự báo tăng trưởng 2026 lên 7,8% (giảm 2027 xuống 7,6%), nhưng chỉ ra dư địa chính sách tiền tệ đã thu hẹp, chính sách tài khóa cần đóng vai trò lực đẩy chính, Việt Nam cần nâng hiệu quả đầu tư công và gia tăng giá trị nội địa từ FDI."
     },
     {
-      "title": "BĐS ngoài sàn: Nợ phải trả 1,63 triệu tỷ đồng",
+      "title": "PNJ suy sụp: doanh thu giảm 19,7%, lợi nhuận chuyển lỗ",
       "impact": "↓",
-      "note": "90 doanh nghiệp bất động sản chưa đại chúng, chưa niêm yết có nợ phải trả 1,63 triệu tỷ đồng. 10 doanh nghiệp nợ nhiều nhất chiếm 55,5% tổng nợ, riêng Đô thị Du lịch Cần Giờ chiếm gần 22%."
+      "note": "PNJ giảm hết biên độ, xuyên thủng đáy 30.750 đồng (lùi vùng thấp nhất 6 năm). Doanh thu năm 2026 điều chỉnh từ 48.660 tỷ xuống 39.057 tỷ đồng, lợi nhuận từ lãi 3.409 tỷ chuyển sang lỗ 6.271 tỷ, vốn hóa kéo xuống 15.700 tỷ đồng, 25 triệu chỉ lệnh bán sàn nhưng chỉ khớp 1,2 triệu."
     },
     {
-      "title": "Giá vàng giảm mạnh vì áp lực lãi suất Mỹ tăng",
+      "title": "Vàng giảm 61 USD/oz, lãi suất Fed tăng kỳ vọng tháng 10, 12",
       "impact": "↓",
-      "note": "Giá vàng giao ngay giảm gần 61 USD/oz xuống 4.215 USD/oz do kỳ vọng Fed tăng lãi suất tháng 10 và 12. Giá vàng trong nước giảm 1 triệu đồng/lượng xuống 140,4-143,4 triệu đồng (SJC)."
+      "note": "Giá vàng giao ngay giảm gần 61 USD/oz xuống 4.225 USD/oz (giảm 1,4%), bạc giảm 1,7 USD/oz xuống 62,8 USD/oz (giảm 2,6%) do kỳ vọng Fed tăng lãi suất tháng 10, 12 kết hợp giá dầu tăng hơn 1% tạo áp lực lạm phát, lợi suất trái phiếu cao."
+    },
+    {
+      "title": "Thượng đỉnh Mỹ-Trung: gia hạn 2 tháng thỏa thuận",
+      "impact": "→",
+      "note": "Bộ trưởng Tài chính Mỹ Scott Bessent xác nhận Mỹ-Trung nhất trí gia hạn 2 tháng thỏa thuận đình chiến thương mại, cắt giảm thuế đối với 30 tỷ USD hàng hóa không nhạy cảm, thiết lập Hội đồng Thương mại-Đầu tư và kênh AI, nhưng chưa đạt thỏa thuận toàn diện."
+    },
+    {
+      "title": "BĐS ngoài sàn: nợ 1,63 triệu tỷ, 10 công ty chiếm 55,5%",
+      "impact": "↓",
+      "note": "90 doanh nghiệp bất động sản chưa đại chúng, chưa niêm yết có nợ phải trả 1,63 triệu tỷ đồng, lợi nhuận 6 tháng đạt 61.2 ngàn tỷ (gấp 10,7 lần cùng kỳ). 10 công ty nợ nhiều nhất chiếm 55,5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm gần 22%, một số công ty nợ vượt 10 lần vốn chủ."
     }
   ]
 }
