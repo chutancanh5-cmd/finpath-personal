@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chịu áp lực bán từ khối ngoại (xả ròng 251 tỷ đồng) và kho bạc hút ròng 27.000 tỷ qua trái phiếu chính phủ, khiến VN-Index mất gần 10 điểm, banking và chứng khoán dẫn đầu sắc đỏ. Tuy nhiên, nước ta vừa được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp (21/9) và ADB nâng dự báo tăng trưởng 2026 lên 7,8%, tạo nền tảng tích cực dài hạn. Cuộc gặp thượng đỉnh Mỹ-Trung gia hạn thỏa thuận thương mại 2 tháng làm giảm rủi ro leo thang ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nâng hạng thị trường của FTSE Russell (từ cận biên lên mới nổi thứ cấp) là bước tiến lớn mở rộng tiếp cận vốn quốc tế, kỳ vọng tăng dòng đầu tư từ các quỹ thụ động trong 12 tháng tới. Kinh tế Việt Nam duy trì tăng trưởng 7,8% theo ADB, dẫn đầu ASEAN nhưng cần chuyển sang tăng trưởng dựa năng suất. Thượng đỉnh Mỹ-Trung đạt thỏa thuận giảm thuế 30 tỷ USD, giảm rủi ro leo thang thương mại ngắn hạn. Tuy nhiên, lo ngại lạm phát và kỳ vọng Fed tăng lãi suất tháng 10-12 tạo áp lực lên thị trường vàng và kỳ vọng lãi suất toàn cầu.",
   "top": [
     {
       "title": "FTSE Russell nâng hạng: Mở rộng dòng vốn ngoại",
       "impact": "↑",
-      "note": "Ngày 21/9/2026, FTSE Russell nâng hạng Việt Nam từ cận biên lên mới nổi thứ cấp. Cổ phiếu Việt Nam sẽ được đưa vào các bộ chỉ số toàn cầu từ tháng 9/2026 đến 9/2027. Mở rộng khả năng tiếp cận của các quỹ đầu tư quốc tế, đặc biệt quỹ mô phỏng chỉ số, tạo dòng vốn mới có cấu trúc."
+      "note": "Ngày 21/9/2026, FTSE Russell nâng hạng Việt Nam từ cận biên lên mới nổi thứ cấp. Cổ phiếu Việt Nam được đưa vào chỉ số toàn cầu từ tháng 9/2026 đến 9/2027 theo lộ trình từng giai đoạn. Mở rộng khả năng tiếp cận của quỹ thụ động và quỹ chủ động quốc tế, đặc biệt mô phỏng chỉ số, tạo dòng vốn mới có cấu trúc."
     },
     {
-      "title": "Khối ngoại xả ròng 251 tỷ, ngân hàng dẫn đầu bán",
-      "impact": "↓",
-      "note": "Khối ngoại xả ròng hơn 251 tỷ đồng trong phiên 28/9, các cổ phiếu ngân hàng TCB (-1,5%, 220 tỷ khớp lệnh), VPB (-1,09%, 135 tỷ), HDB (-1,08%, 96 tỷ), SHB (-1,29%, 87 tỷ) cùng chịu áp lực bán mạnh, phản ánh tâm lý phòng thủ trên diện rộng."
-    },
-    {
-      "title": "ADB nâng dự báo GDP 7,8% cho 2026",
+      "title": "Thượng đỉnh Mỹ-Trung: Gia hạn 2 tháng thỏa thuận, giảm 30 tỷ USD",
       "impact": "↑",
-      "note": "ADB vừa nâng dự báo tăng trưởng GDP 2026 lên 7,8% (từ mức thấp hơn) và điều chỉnh 7,6% cho 2027. Tăng trưởng trên diện rộng từ tiêu dùng, đầu tư, FDI và thương mại, mặc dù thấp hơn mục tiêu 10% nhưng vẫn là điểm sáng tăng trưởng nổi bật ASEAN."
+      "note": "Chủ tịch Tập Cận Bình thăm Mỹ 23-25/9/2026, hai bên gia hạn 2 tháng thỏa thuận đình chiến thương mại, nhất trí giảm thuế thuận lợi cho 30 tỷ USD hàng hóa không nhạy cảm mỗi chiều. Thiết lập Hội đồng Thương mại và Hội đồng Đầu tư Mỹ-Trung. Giảm rủi ro leo thang ngắn hạn, hỗ trợ xuất khẩu Việt."
     },
     {
-      "title": "Kho bạc hút ròng 27.000 tỷ qua trái phiếu 10 năm",
-      "impact": "↓",
-      "note": "Kho bạc Nhà nước hút ròng hơn 27.000 tỷ đồng qua trái phiếu chính phủ kỳ hạn 10 năm, rút bớt thanh khoản lưu thông khỏi thị trường cổ phiếu và kích hoạt tâm lý phòng thủ diện rộng, làm sâu thêm đà giảm."
-    },
-    {
-      "title": "Thượng đỉnh Mỹ-Trung: Gia hạn 2 tháng, giảm 30 tỷ USD",
-      "impact": "→",
-      "note": "Chủ tịch Tập Cận Bình thăm Mỹ 23-25/9/2026, hai bên nhất trí 8 điểm đồng thuận gồm giảm thuế thuận lợi cho 30 tỷ USD hàng hóa 'không nhạy cảm' mỗi chiều, thiết lập Hội đồng Thương mại Mỹ-Trung và Hội đồng Đầu tư. Giảm rủi ro leo thang ngắn hạn cho thương mại."
-    },
-    {
-      "title": "Việt Nam dẫn đầu ASEAN tăng trưởng dài hạn",
+      "title": "ADB nâng dự báo tăng trưởng 7,8% năm 2026, nhấn mạnh năng suất",
       "impact": "↑",
-      "note": "Theo dự báo Bloomberg, Việt Nam duy trì tăng trưởng trên 5% trong hàng chục năm tới. ASEAN ở giai đoạn chuyển hóa quy mô dân số thành tích lũy vốn, Việt Nam bền bỉ dẫn đầu khu vực so với Indonesia và các nước khác."
+      "note": "ADB nâng dự báo tăng trưởng GDP 2026 lên 7,8%, dự báo 2027 là 7,6% (dưới mục tiêu 10%). Tăng trưởng trên diện rộng từ tiêu dùng, đầu tư, FDI và thương mại. Nhấn mạnh cần chuyển mạnh sang tăng trưởng dựa năng suất, nâng hiệu quả đầu tư công, tăng giá trị nội địa từ FDI."
+    },
+    {
+      "title": "Hoàn Mỹ báo lãi 679,4 tỷ năm 2025, thanh toán 1,4 ngàn tỷ trái phiếu",
+      "impact": "↑",
+      "note": "Lợi nhuận 679,4 tỷ đồng tăng 23% so năm trước, cao nhất từ 2022. Vốn chủ tăng 30% lên 2,88 ngàn tỷ, hoàn tất thanh toán 1,4 ngàn tỷ trái phiếu. Tỷ lệ thanh toán lãi 4,91 lần tăng từ 4,76 lần, nợ/vốn chủ giảm từ 1,91 lần xuống 1,4 lần."
+    },
+    {
+      "title": "Việt Nam dẫn đầu ASEAN tăng trưởng dài hạn, bền bỉ trên 5%",
+      "impact": "↑",
+      "note": "Dự báo Bloomberg về tăng trưởng dài hạn hàng chục năm: Việt Nam bền bỉ duy trì tăng trưởng trên 5%, dẫn đầu ASEAN. Indonesia tăng từ 4% lên 5%. ASEAN ở giai đoạn chuyển hóa quy mô dân số và chiều sâu công nghiệp thành tích lũy vốn."
+    },
+    {
+      "title": "Giá vàng giảm 61 USD/oz, lo ngại lạm phát và Fed tăng lãi suất",
+      "impact": "↓",
+      "note": "Giá vàng giao ngay giảm 61 USD/oz (1,4%) xuống 4.215-4.225 USD/oz. Bạc giảm 1,7 USD/oz (2,6%) còn 62,8 USD/oz. Áp lực từ kỳ vọng Fed tăng lãi suất tháng 10 và 12 do tăng trưởng Mỹ vững chắc. Lợi suất trái phiếu Mỹ tăng, lãi suất thực tăng, tỷ giá USD mạnh."
     }
   ]
 }
