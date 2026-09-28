@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-28",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Việt Nam nâng hạng lên thị trường mới nổi thứ cấp (21/9) mở cơ hội kêu gọi vốn quốc tế, với Vanguard nâng nắm giữ cổ phiếu lên 2,5 tỷ USD năm 2026 và quỹ ETF FTSE sắp theo. Tuy nhiên, khối ngoại bán ròng 2,8 ngàn tỷ đồng tuần đầu nâng hạng phản ánh lo ngại ngắn hạn; lạm phát toàn cầu và triển vọng Fed tăng lãi suất áp lực lên vàng (giảm 1,4% xuống 4.225 USD/oz) và tâm lý thị trường. Ngân hàng nội địa như LPBank chia cổ tức 30% (cao nhất hệ thống) cho thấy sức khỏe tài chính, song rủi ro từ nợ bất động sản 1,63 triệu tỷ đồng vẫn tồn tại. ADB tăng dự báo GDP 2026 lên 7,8% vẫn hỗ trợ triển vọng kinh tế trung hạn.",
+  "summary_vi": "Tuần giao dịch mở ra với những tín hiệu vĩ mô phức tạp: sự kiện nâng hạng thị trường chứng khoán Việt Nam lên Secondary Emerging của FTSE Russell (21/9) đánh dấu bước ngoặt chiến lược, mở cánh cửa đón dòng vốn quốc tế lớn; đồng thời, thỏa thuận Mỹ-Trung giảm thuế 30 tỷ USD giảm rủi ro leo thang thương mại. Tuy nhiên, áp lực lãi suất từ kỳ vọng Fed tăng lãi suất tháng 10-12 kéo giá vàng xuống 1.4% tuần, và lo ngại nợ bất động sản ngoài sàn (1.63 triệu tỷ đồng) đặt thêm áp lực lên định giá cổ phiếu.",
   "top": [
     {
-      "title": "Nâng hạng thị trường: FTSE Russell chính thức công bố 21/9/2026",
+      "title": "Việt Nam nâng hạng FTSE Secondary Emerging Market",
       "impact": "↑",
-      "note": "FTSE Russell nâng Việt Nam từ thị trường cận biên (Frontier) lên thị trường mới nổi thứ cấp (Secondary EM) ngày 21/9/2026. Cổ phiếu Việt Nam sẽ được đưa vào các bộ chỉ số toàn cầu FTSE theo từng giai đoạn từ tháng 9/2026 đến tháng 9/2027. Vanguard thông báo bắt đầu đầu tư vào Việt Nam, nâng giá trị nắm giữ cổ phiếu Việt Nam lên mức 2,5 tỷ USD trong năm nay; các quỹ ETF mô phỏng chỉ số FTSE cũng sẽ tăng giá trị nắm giữ tương tự. Mở rộng khả năng tiếp cận thị trường cho các quỹ đầu tư quốc tế, đặc biệt là quỹ thụ động."
+      "note": "FTSE Russell chính thức nâng hạng thị trường Việt Nam từ Frontier lên Secondary Emerging từ 21/9/2026, với lộ trình đưa cổ phiếu Việt Nam vào các bộ chỉ số toàn cầu từ tháng 9/2026 đến tháng 9/2027, mở rộng khả năng tiếp cận của các quỹ đầu tư quốc tế, đặc biệt là các quỹ thụ động, dự kiến lôi kéo dòng vốn FDI lớn vào thị trường."
     },
     {
-      "title": "Khối ngoại bán ròng 2,8 ngàn tỷ đồng tuần đầu nâng hạng",
+      "title": "Mỹ-Trung ký thỏa thuận giảm thuế $30 tỷ, hạ escalation",
+      "impact": "↑",
+      "note": "Thượng đỉnh Mỹ-Trung ngày 24-25/9 tại Washington đạt 8 điểm đồng thuận, hai bên áp dụng mức thuế thuận lợi hơn đối với khoảng 30 tỷ USD hàng hóa 'không nhạy cảm' ở mỗi chiều, thiết lập các cơ chế tham vấn thường xuyên về thương mại, đầu tư và AI, giảm đáng kể rủi ro leo thang chiến tranh thương mại ảnh hưởng tới chuỗi cung ứng Việt Nam."
+    },
+    {
+      "title": "LPBank báo lợi nhuận 14.269 triệu tỷ đồng, chia cổ tức 30%",
+      "impact": "↑",
+      "note": "LPBank công bố năm 2025 lợi nhuận trước thuế 14.269 triệu tỷ đồng (tăng 17% YoY), tổng tài sản hợp nhất vượt 605 triệu tỷ đồng (tăng 19%), trả cổ tức tiền mặt cao nhất hệ thống 30% tương ứng ~9 triệu tỷ đồng ngày 25/5/2026, phản ánh sức khỏe tài chính ngân hàng và khả năng quản trị vốn hiệu quả."
+    },
+    {
+      "title": "Giá vàng thế giới giảm 1.4% tuần do kỳ vọng Fed tăng lãi",
       "impact": "↓",
-      "note": "Tuần 21-25/9/2026 (tuần đầu tiên chứng khoán Việt Nam chính thức được nâng hạng), khối ngoại bán ròng hơn 2,8 ngàn tỷ đồng trên hai sàn HOSE và HNX. Dù Vanguard và quỹ ETF sắp vào, khối ngoại hiện tại vẫn thể hiện sự thận trọng bán ròng thay vì đổ vào mạnh như kỳ vọng, tạo áp lực trực tiếp lên tâm lý thị trường ngắn hạn."
+      "note": "Giá vàng giao ngay giảm ~61 USD/oz xuống 4.215 USD/oz (giảm 1.4% so tuần trước), áp lực từ kỳ vọng Cục Dự trữ Liên bang Mỹ (Fed) tăng lãi suất tháng 10 và tháng 12 giữa lạm phát cao và tăng trưởng Mỹ vững vàng, tín hiệu lãi suất cao ảnh hưởng tới định giá cổ phiếu ngành công nghiệp."
     },
     {
-      "title": "Giá vàng giảm 1,4% do Fed dự kiến tăng lãi suất tháng 10-12",
+      "title": "Nợ BĐS ngoài sàn tăng vọt: 1.63 triệu tỷ đồng",
       "impact": "↓",
-      "note": "Giá vàng giao ngay giảm gần 61 USD/oz (-1,4%), giao dịch ở mức 4.225 USD/oz. Giá bạc giảm 1,7 USD/oz (-2,6%) xuống 62,8 USD/oz. Áp lực đến từ kỳ vọng Fed tăng lãi suất trong các cuộc họp tháng 10 và 12 và dữ liệu lạm phát cao, kéo lợi suất trái phiếu Mỹ lên cao và tăng lãi suất thực, tiêu cực cho tài sản rủi ro."
+      "note": "90 doanh nghiệp BĐS chưa niêm yết, chưa đại chúng nhưng huy động trái phiếu khủng có tổng nợ phải trả 1.63 triệu tỷ đồng, mặc dù lợi nhuận sau thuế H1/2026 đạt 61.2 triệu tỷ đồng (gấp 10.7 lần YoY), phản ánh rủi ro nợ cao tập trung trong khu vực BĐS ngoài sàn có thể ảnh hưởng tới ổn định tài chính hệ thống."
     },
     {
-      "title": "ADB nâng dự báo tăng trưởng GDP 2026 lên 7,8%, năm 2027 xuống 7,6%",
-      "impact": "↑",
-      "note": "Giám đốc ADB tại Việt Nam Shantanu Chakraborty nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 7,8% (từ mức trước đó), điều chỉnh năm 2027 xuống 7,6%. Tăng trưởng 7-8 tháng đầu năm 2026 diễn ra toàn diện từ tiêu dùng, đầu tư, FDI và thương mại. Dù thấp hơn mục tiêu 10% của chính phủ, đây vẫn là một trong những điểm sáng tăng trưởng của khu vực Đông Nam Á."
-    },
-    {
-      "title": "LPBank chia cổ tức tiền mặt 30%, lợi nhuận 2025 tăng 17%",
-      "impact": "↑",
-      "note": "LPBank hoàn tất thanh toán cổ tức tiền mặt với tỷ lệ 30% (gần 9.000 tỷ đồng), cao nhất hệ thống ngân hàng năm 2026. Năm 2025, lợi nhuận trước thuế đạt 14.269 tỷ đồng, tăng 17% so với năm trước. Tổng tài sản hợp nhất vượt 605 nghìn tỷ đồng, tăng 19%. Cân bằng giữa mục tiêu mở rộng hoạt động và mang lại giá trị cao cho cổ đông."
-    },
-    {
-      "title": "Thượng đỉnh Mỹ-Trung 23-25/9: gia hạn 2 tháng thỏa thuận đình chiến",
-      "impact": "→",
-      "note": "Chủ tịch Tập Cận Bình thăm cấp Nhà nước Washington 23-25/9/2026, gặp Tổng thống Trump ngày 24/9. Hai bên nhất trí gia hạn 2 tháng thỏa thuận đình chiến thương mại, áp dụng mức thuế thuận lợi hơn đối với 30 tỷ USD hàng hóa 'không nhạy cảm' mỗi chiều, thiết lập đối thoại về AI. Tiếp tục đưa Hội đồng Thương mại Mỹ-Trung và Hội đồng Đầu tư Mỹ-Trung vào vận hành. Chưa có đột phá nhưng giảm rủi ro leo thang xung đột thương mại ngắn hạn."
+      "title": "PCB chào bán riêng lẻ giá cao 62% so thị giá",
+      "impact": "↓",
+      "note": "PVcomBank chốt giá chào bán riêng lẻ 300 triệu cổ phiếu ở 13.628 đồng/cổ phiếu (cao 62.24% so thị giá 8.400 đồng/cổ phiếu ngày 25/9), dự huy động >4 triệu tỷ đồng nâng vốn lên 12 triệu tỷ đồng, nhưng cổ phiếu đã mất 27% kể từ khi lên sàn UPCoM ngày 12/8 xuống mức thấp kỷ lục, phản ánh sự mất niềm tin thị trường."
     }
   ]
 }
