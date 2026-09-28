@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Việt Nam được nâng hạng FTSE Russell (21/9) từ cận biên lên mới nổi thứ cấp, lộ trình đưa cổ phiếu vào chỉ số toàn cầu 9/2026-9/2027 mở rộng tiếp cận vốn quốc tế. ADB tăng dự báo tăng trưởng 2026 lên 7,8% nhưng cảnh báo dư địa tiền tệ hẹp, cần chuyển sang tăng trưởng dựa năng suất. Áp lực lạm phát toàn cầu và kỳ vọng Fed tăng lãi suất (tháng 10, 12) kéo giá vàng giảm 61 USD/oz, thị trường lãi suất cao hơn lâu hơn. Rủi ro: PNJ \"có biến\" với doanh thu giảm 19,7% (48.660→39.057 tỷ), lợi nhuận chuyển lỗ 6.271 tỷ; BĐS ngoài sàn nợ 1,63 triệu tỷ đồng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Tuần này ghi dấu ấn tích cực với nâng hạng FTSE Russell (21/9) vào thị trường mới nổi thứ cấp, nâng dự báo tăng trưởng 2026 lên 7.8%, dẫn đầu ASEAN với tăng trưởng trên 5%, và thỏa thuận Mỹ-Trung gia hạn 2 tháng với giảm thuế 30 tỷ USD. Tuy vậy, thị trường chứng khoán vẫn chịu áp lực ngắn hạn từ kỳ vọng Fed tăng lãi suất (tháng 10, 12) và tín hiệu yếu của VN-Index (đỉnh thấp hơn), đòi hỏi nhà đầu tư cân nhắc giữa lạc quan dài hạn và rủi ro đơn kỳ.",
   "top": [
     {
-      "title": "Việt Nam nâng hạng FTSE Russell: mở tiếp cận vốn quốc tế",
+      "title": "Nâng hạng FTSE Russell lên thị trường mới nổi thứ cấp",
       "impact": "↑",
-      "note": "FTSE Russell nâng hạng thị trường Việt Nam ngày 21/9/2026 từ cận biên lên mới nổi thứ cấp, cổ phiếu Việt Nam được đưa vào các chỉ số toàn cầu giai đoạn tháng 9/2026 đến tháng 9/2027, mở rộng tiếp cận cho quỹ thụ động và chủ động quốc tế."
+      "note": "Ngày 21/9, FTSE Russell chính thức nâng hạng thị trường chứng khoán Việt Nam từ thị trường cận biên lên thị trường mới nổi thứ cấp, cổ phiếu Việt được đưa vào các bộ chỉ số toàn cầu từ tháng 9/2026 đến 9/2027 theo lộ trình từng giai đoạn. Nâng hạng mở rộng khả năng tiếp cận dòng vốn quốc tế, đặc biệt từ các quỹ chỉ số thụ động, tạo đòn bẩy tích cực cho cổ phiếu Việt."
     },
     {
-      "title": "ADB tăng dự báo 7,8% nhưng cảnh báo tiền tệ hẹp",
-      "impact": "→",
-      "note": "ADB tăng dự báo tăng trưởng 2026 lên 7,8% (giảm 2027 xuống 7,6%), nhưng chỉ ra dư địa chính sách tiền tệ đã thu hẹp, chính sách tài khóa cần đóng vai trò lực đẩy chính, Việt Nam cần nâng hiệu quả đầu tư công và gia tăng giá trị nội địa từ FDI."
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN với mức trên 5%",
+      "impact": "↑",
+      "note": "Bloomberg dự báo tăng trưởng toàn cầu chậm lại, nhưng Việt Nam bền bỉ duy trì tăng trưởng trên 5%, dẫn đầu khu vực ASEAN trong dài hạn khi các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp hơn. Tăng trưởng từ tiêu dùng, đầu tư, FDI và thương mại tạo nền tảng vĩ mô vững chắc."
     },
     {
-      "title": "PNJ suy sụp: doanh thu giảm 19,7%, lợi nhuận chuyển lỗ",
+      "title": "ADB nâng dự báo tăng trưởng 2026 lên 7.8%",
+      "impact": "↑",
+      "note": "Giám đốc ADB tại Việt Nam công bố tăng dự báo tăng trưởng 2026 lên 7.8% (từ 7.6%), giảm 2027 xuống 7.6%. Tăng trưởng được hỗ trợ bởi sự mở rộng rộng từ tiêu dùng, đầu tư, FDI và thương mại trong 7-8 tháng đầu năm, phản ánh sức khỏe kinh tế vừa vặn của Việt Nam."
+    },
+    {
+      "title": "Mỹ-Trung gia hạn thỏa thuận, giảm thuế 30 tỷ USD",
+      "impact": "↑",
+      "note": "Chủ tịch Tập thăm Washington 23-25/9, gặp Trump 24/9, hai nước gia hạn 2 tháng thỏa thuận đình chiến thương mại và nhất trí giảm thuế 30 tỷ USD hàng hóa 'không nhạy cảm' theo mỗi chiều, cùng thiết lập đối thoại về AI. Thỏa thuận giảm rủi ro thương mại ngắn hạn cho Việt Nam và các quốc gia liên quan."
+    },
+    {
+      "title": "Fed dự tăng lãi suất, áp lực lên vàng",
       "impact": "↓",
-      "note": "PNJ giảm hết biên độ, xuyên thủng đáy 30.750 đồng (lùi vùng thấp nhất 6 năm). Doanh thu năm 2026 điều chỉnh từ 48.660 tỷ xuống 39.057 tỷ đồng, lợi nhuận từ lãi 3.409 tỷ chuyển sang lỗ 6.271 tỷ, vốn hóa kéo xuống 15.700 tỷ đồng, 25 triệu chỉ lệnh bán sàn nhưng chỉ khớp 1,2 triệu."
+      "note": "Thị trường đặt cược mạnh Fed tăng lãi suất tháng 10, 12 trên nền tảng lạm phát cao và tăng trưởng Mỹ vững. Giá vàng giảm khoảng 61 USD/oz trong tuần xuống 4.225 USD/oz (giảm 1.4%), phản ánh kỳ vọng lãi suất cao hơn lâu hơn tạo áp lực lên tài sản rủi ro."
     },
     {
-      "title": "Vàng giảm 61 USD/oz, lãi suất Fed tăng kỳ vọng tháng 10, 12",
+      "title": "VN-Index hình thành đỉnh thấp hơn, xu hướng suy yếu",
       "impact": "↓",
-      "note": "Giá vàng giao ngay giảm gần 61 USD/oz xuống 4.225 USD/oz (giảm 1,4%), bạc giảm 1,7 USD/oz xuống 62,8 USD/oz (giảm 2,6%) do kỳ vọng Fed tăng lãi suất tháng 10, 12 kết hợp giá dầu tăng hơn 1% tạo áp lực lạm phát, lợi suất trái phiếu cao."
-    },
-    {
-      "title": "Thượng đỉnh Mỹ-Trung: gia hạn 2 tháng thỏa thuận",
-      "impact": "→",
-      "note": "Bộ trưởng Tài chính Mỹ Scott Bessent xác nhận Mỹ-Trung nhất trí gia hạn 2 tháng thỏa thuận đình chiến thương mại, cắt giảm thuế đối với 30 tỷ USD hàng hóa không nhạy cảm, thiết lập Hội đồng Thương mại-Đầu tư và kênh AI, nhưng chưa đạt thỏa thuận toàn diện."
-    },
-    {
-      "title": "BĐS ngoài sàn: nợ 1,63 triệu tỷ, 10 công ty chiếm 55,5%",
-      "impact": "↓",
-      "note": "90 doanh nghiệp bất động sản chưa đại chúng, chưa niêm yết có nợ phải trả 1,63 triệu tỷ đồng, lợi nhuận 6 tháng đạt 61.2 ngàn tỷ (gấp 10,7 lần cùng kỳ). 10 công ty nợ nhiều nhất chiếm 55,5% tổng nợ, Đô thị Du lịch Cần Giờ chiếm gần 22%, một số công ty nợ vượt 10 lần vốn chủ."
+      "note": "Từ đầu tháng 9 đến nay, VN-Index liên tục hình thành các đỉnh sau thấp hơn đỉnh trước, cho thấy xu hướng ngắn hạn suy yếu mặc dù thị trường toàn cầu tăng mạnh (Nasdaq +16.5%, Hàn Quốc +68%). Dòng tiền tập trung vào nhóm cổ phiếu hưởng lợi từ giá hàng hóa, cảnh báo cần cân nhắc rủi ro đơn kỳ."
     }
   ]
 }
