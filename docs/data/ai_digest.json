@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-28",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán hôm 28/9 chịu áp lực từ khối ngoại bán ròng 221 tỷ đồng và lãi suất Mỹ vượt 7%, làm tăng rủi ro vĩ mô. Định giá P/E chỉ 8,8x (thấp lịch sử) nhưng cầu yếu do lo ngại cân bằng thương mại và chiến tranh Iran kìm cung tiền. Những ánh sáng từ dự án Ô Môn III 12 tỷ USD cho PTSC, nhóm bảo hiểm mạnh (BVH tăng hết biên độ), và Việt Nam dẫn đầu ASEAN vẫn chưa đủ đảo chiều tâm lý.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay ghi nhận áp lực điều chỉnh mạnh với VN-Index giảm 0.25%, khối ngoại tiếp tục bán ròng 221 tỷ đồng. Lãi suất Mỹ vượt ngưỡng 7% lần đầu 2 năm, tạo sức ép lên tâm lý nhà đầu tư toàn cầu. Tuy vậy, ngành năng lượng được hỗ trợ bởi dự án Ô Môn III quy mô 12 tỷ USD, nhóm bảo hiểm tăng mạnh nhờ lãi suất cao, còn cơ bản vĩ mô dài hạn của Việt Nam vẫn tích cực với tăng trưởng kỳ vọng trên 5%.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 221 tỷ, VPB bị xả 200 tỷ",
+      "title": "VN-Index giảm, khối ngoại bán ròng 221 tỷ đồng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng khoảng 221 tỷ đồng trên toàn thị trường, VPB dẫn danh sách bị bán ròng 200 tỷ đồng, BVH bị bán ròng 114 tỷ đồng, CTG 74 tỷ đồng. VN-Index giảm 4,43 điểm xuống 1.780 điểm, sức ép từ rút vốn ngoài."
+      "note": "VN-Index giảm 4,43 điểm (-0,25%) xuống 1.780,68 điểm; HNX-Index giảm 0,9 điểm (-0,33%) xuống 271,31 điểm. 456 mã giảm, 250 mã tăng. Khối ngoại bán ròng khoảng 221 tỷ đồng toàn thị trường, VPB bị bán ròng 200 tỷ đồng (lớn nhất)."
     },
     {
-      "title": "Lãi suất Mỹ vượt 7% lần đầu sau 2 năm",
+      "title": "PTSC nhận gói EPC dự án Ô Môn III 34.333 tỷ đồng",
+      "impact": "↑",
+      "note": "Liên danh Doosan Enerbility - PTSC (PVS) được chọn thực hiện gói EPC Dự án Nhà máy điện khí Ô Môn III, tổng vốn 34.333 tỷ đồng. Chuỗi dự án Lô B - Ô Môn toàn bộ 12 tỷ USD (314.814 tỷ đồng), dự án trọng đại quốc gia hỗ trợ chiến lược năng lượng."
+    },
+    {
+      "title": "Lãi suất Mỹ vượt 7%, Fed tăng lãi suất",
       "impact": "↓",
-      "note": "Lãi suất vay thế chấp nhà 30 năm Mỹ nhảy vọt lên 7,45% ngày 24/9, vượt ngưỡng 7% lần đầu trong khoảng 2 năm. Sự kết hợp phát biểu cứng rắn Fed, giá dầu tăng và dữ liệu kinh tế tích cực tạo áp lực lên lợi suất trái phiếu, ảnh hưởng xấu tới dòng vốn quốc tế."
+      "note": "Lãi suất vay thế chấp nhà ở Mỹ (30 năm, cố định) vượt 7% lần đầu 2 năm, lên mức 7,45%. Fed vừa tăng lãi suất 0,25% hôm 16/9 (đầu tiên 3+ năm), kết hợp phát biểu cứng rắn tạo áp lực lãi suất toàn cầu."
     },
     {
-      "title": "P/E 8,8x nhưng thị trường trì trệ, cầu yếu",
+      "title": "BVH tăng 6.98%, nhóm bảo hiểm tăng mạnh",
+      "impact": "↑",
+      "note": "BVH (Bảo Việt) tăng hết biên độ 6,98% lên 73.600 đồng/cổ phiếu, thanh khoản 3,4 triệu cổ phiếu (cao nhất 4 năm). Nhóm bảo hiểm (BVH, PVI, MIG, BMI, BIC) tăng mạnh, lãi suất cao tích cực cho thu nhập đầu tư."
+    },
+    {
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
+      "impact": "↑",
+      "note": "Việt Nam dự báo duy trì tăng trưởng trên 5% trong hàng chục năm tới, dẫn đầu ASEAN trong khi nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp. Cơ bản vĩ mô dài hạn tích cực."
+    },
+    {
+      "title": "Giá vàng giảm sâu, vàng thế giới xuống 4.160 USD/oz",
       "impact": "↓",
-      "note": "Thị trường ngoài Vingroup giao dịch P/E 8,8x theo dự báo 2027 (thấp lịch sử), nhưng cổ phiếu các doanh nghiệp tốt vẫn giảm giá. Cán cân thương mại và chiến tranh Iran kìm nén cung tiền, trong khi nhu cầu tín dụng vẫn cao, tạo thiếu hụt thanh khoản."
-    },
-    {
-      "title": "PTSC nhận gói EPC dự án Ô Môn III 12 tỷ USD",
-      "impact": "↑",
-      "note": "Liên danh Doosan Enerbility - PTSC (PVS) được lựa chọn thực hiện gói EPC Nhà máy Ô Môn III, tổng vốn 34.333 tỷ đồng, thuộc chuỗi Lô B - Ô Môn 12 tỷ USD. Cơ hội kinh doanh khủng cho dầu khí và hạ tầng năng lượng Việt Nam."
-    },
-    {
-      "title": "BVH tăng hết biên độ 6,98%, thanh khoản cao nhất 4 năm",
-      "impact": "↑",
-      "note": "BVH tăng hết biên độ 6,98% lên 73.600 đồng/cổ phiếu (cao nhất kể từ 4/2026), 3,4 triệu cổ phiếu sang tay - thanh khoản cao nhất 4 năm. Tăng 30% trong 2 tháng, nhóm bảo hiểm hưởng lợi từ lãi suất cao."
-    },
-    {
-      "title": "Việt Nam dẫn đầu ASEAN tăng trưởng trên 5% dài hạn",
-      "impact": "↑",
-      "note": "Theo Bloomberg, Việt Nam bền bỉ duy trì tăng trưởng trên 5%, dẫn đầu các nền kinh tế ASEAN trong dài hạn. Triển vọng kinh tế 20-25% tăng trưởng lợi nhuận cả năm được đánh giá tích cực, cung cấp nền tảng cho thị trường dài hạn."
+      "note": "Giá vàng trong nước giảm 2 triệu đồng/lượng (từ 140,4-143,4 xuống 139,4-142,4 triệu đồng/lượng). Vàng thế giới rơi xuống 4.160 USD/oz, phản ánh áp lực trên tài sản an toàn."
     }
   ]
 }
