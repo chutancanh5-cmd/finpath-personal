@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường Việt Nam nhận được những tín hiệu tích cực từ việc được nâng hạng lên thị trường mới nổi thứ cấp (FTSE Russell), dự báo tăng trưởng 7,8% năm 2026 (ADB) và vị trí dẫn đầu ASEAN với tăng trưởng trên 5%. Tuy nhiên, áp lực lãi suất Mỹ tăng (kỳ vọng Fed tăng tháng 10-12) làm giá vàng giảm mạnh 1-1,1 triệu đồng/lượng, cùng với các rủi ro cấu trúc từ nợ cao ở bất động sản ngoài sàn (1,63 triệu tỷ đồng) và thanh khoản suy giảm. Cuộc thượng đỉnh Mỹ-Trung gia hạn 2 tháng thỏa thuận giảm rủi ro địa chính trị ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Việt Nam được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp ngày 21/9, mở rộng kênh tiếp cận vốn quốc tế cho doanh nghiệp niêm yết. ADB nâng dự báo tăng trưởng GDP 2026 lên 7,8% (năm 2027 là 7,6%), với Việt Nam dẫn đầu tăng trưởng ASEAN nhờ quy mô kinh tế và năng lực tích lũy vốn. Thượng đỉnh Mỹ-Trung (23-25/9) ở Washington gia hạn 2 tháng thỏa thuận đình chiến thương mại, giảm rủi ro leo thang. Tuy nhiên áp lực lạm phát cao và kỳ vọng Fed tăng lãi suất khiến giá vàng giảm mạnh 1-1,1 triệu đồng/lượng.",
   "top": [
     {
-      "title": "Việt Nam nâng hạng FTSE Russell lên thị trường mới nổi thứ cấp",
+      "title": "Việt Nam nâng hạng FTSE Russell thứ cấp",
       "impact": "↑",
-      "note": "Ngày 21/9/2026, FTSE Russell chính thức nâng hạng thị trường chứng khoán Việt Nam từ thị trường cận biên lên thị trường mới nổi thứ cấp. Cổ phiếu Việt sẽ được đưa vào các bộ chỉ số toàn cầu theo từng giai đoạn từ tháng 9/2026 đến 9/2027, mở rộng khả năng tiếp cận dòng vốn quốc tế cho doanh nghiệp niêm yết, đặc biệt từ các quỹ mô phỏng chỉ số."
+      "note": "Ngày 21/9/2026, FTSE Russell nâng hạng thị trường chứng khoán Việt Nam từ cận biên lên mới nổi thứ cấp. Cổ phiếu Việt được đưa vào chỉ số toàn cầu từ 9/2026 đến 9/2027, mở rộng tiếp cận vốn quốc tế cho doanh nghiệp, đặc biệt quỹ mô phỏng chỉ số."
     },
     {
-      "title": "ADB nâng dự báo tăng trưởng Việt Nam lên 7,8% năm 2026",
+      "title": "ADB nâng dự báo GDP 2026 lên 7,8%",
       "impact": "↑",
-      "note": "Giám đốc quốc gia ADB tại Việt Nam công bố tăng dự báo tăng trưởng 2026 lên 7,8% (từ 7,6%) và giảm 2027 xuống 7,6%. Tăng trưởng được hỗ trợ bởi sự mở rộng toàn diện từ tiêu dùng, đầu tư, FDI và thương mại trong 7-8 tháng đầu năm, xác nhận sức khỏe kinh tế vững chắc."
+      "note": "Giám đốc quốc gia ADB công bố tăng dự báo tăng trưởng 2026 lên 7,8%, giảm 2027 xuống 7,6%. Tăng trưởng hỗ trợ từ tiêu dùng, đầu tư, FDI, thương mại toàn diện 7-8 tháng đầu năm, cao nhất ASEAN."
     },
     {
-      "title": "Việt Nam dẫn đầu ASEAN với tăng trưởng duy trì trên 5% dài hạn",
+      "title": "Việt Nam dẫn đầu ASEAN tăng trưởng dài hạn",
       "impact": "↑",
-      "note": "Bloomberg dự báo tăng trưởng toàn cầu chậm lại, nhưng Việt Nam bền bỉ duy trì tăng trưởng trên 5%, dẫn đầu ASEAN trong dài hạn khi các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp hơn. ASEAN ở giai đoạn quy mô dân số và chiều sâu công nghiệp có thể chuyển hóa thành tích lũy vốn."
+      "note": "Bloomberg dự báo Việt Nam duy trì tăng trưởng trên 5% dài hạn, dẫn đầu ASEAN khi tăng trưởng toàn cầu chậm lại. ASEAN ở giai đoạn quy mô và chiều sâu công nghiệp có thể chuyển hóa thành tích lũy vốn."
     },
     {
-      "title": "Mỹ-Trung gia hạn 2 tháng thỏa thuận, giảm thuế 30 tỷ USD",
+      "title": "Mỹ-Trung gia hạn 2 tháng thỏa thuận",
       "impact": "→",
-      "note": "Chủ tịch Tập Cận Bình thăm Washington 23-25/9/2026, gặp Tổng thống Trump 24/9. Hai nước gia hạn 2 tháng thỏa thuận đình chiến thương mại và nhất trí giảm thuế đối ứng 30 tỷ USD hàng hóa không nhạy cảm, cùng thiết lập kênh đối thoại AI. Giảm rủi ro thương mại ngắn hạn cho Việt Nam."
+      "note": "Tập Cận Bình thăm Washington 23-25/9, gặp Trump 24/9. Hai nước gia hạn 2 tháng thỏa thuận đình chiến thương mại, giảm thuế 30 tỷ USD hàng không nhạy cảm, thiết lập kênh AI. Giảm rủi ro thương mại ngắn hạn."
     },
     {
-      "title": "LPBank chia cổ tức tiền mặt 30% - cao nhất hệ thống",
+      "title": "Thị trường bia Việt tăng trưởng 6,6% dài hạn",
       "impact": "↑",
-      "note": "LPBank chia cổ tức tiền mặt tỷ lệ 30% (9.000 tỷ đồng) năm 2026, cao nhất hệ thống ngân hàng. Năm 2025 LPBank đạt lợi nhuận trước thuế 14.269 tỷ đồng (tăng 17%) với tổng tài sản hợp nhất 605 nghìn tỷ đồng (tăng 19%), khẳng định sức khỏe tài chính của ngành."
+      "note": "Thị trường bia Việt năm 2025 đạt 10,17 tỷ USD, dự kiến 19,27 tỷ USD năm 2035 (CAGR 6,6%). SAB sở hữu nền tảng thương hiệu vững, nhưng đối mặt áp lực thay đổi hành vi tiêu dùng và tăng thuế tiêu thụ đặc biệt."
     },
     {
-      "title": "Giá vàng giảm mạnh 1-1,1 triệu đồng/lượng, áp lực từ lãi suất Mỹ",
+      "title": "Vàng giảm 1-1,1 triệu/lượng, áp lực lãi suất Mỹ",
       "impact": "↓",
-      "note": "Giá vàng miếng SJC giảm 1 triệu đồng/lượng sáng 28/9, xuống 140,4 triệu đồng/lượng (mức thấp 1 tháng). Giá vàng quốc tế giảm 61 USD/oz tuần này xuống 4.225 USD/oz do áp lực từ lợi suất trái phiếu Mỹ tăng, kỳ vọng Fed tăng lãi suất tháng 10-12."
+      "note": "Vàng miếng SJC giảm 1 triệu đồng/lượng 28/9, xuống 140,4 triệu đồng/lượng mua, 143,4 triệu bán (thấp nhất 1 tháng). Quốc tế giảm 61 USD/oz xuống 4.225 USD/oz do lợi suất trái phiếu Mỹ tăng, kỳ vọng Fed tăng lãi suất tháng 10-12."
     }
   ]
 }
