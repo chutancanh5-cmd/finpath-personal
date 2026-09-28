@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-28",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ dòng vốn ngoại bán ròng phiên thứ 4 liên tiếp và lợi suất trái phiếu Mỹ tăng lên 5,17%, nhưng được hỗ trợ bởi tăng trưởng kinh tế bền bỉ trên 5% dẫn đầu ASEAN và kết quả kinh doanh xuất sắc (Y Khoa Hoàn Mỹ lãi 679,4 tỷ đồng, tăng 23%). Các dự án công nghiệp chiến lược như sản xuất thiết bị điện 500 kV với kinh phí 82,4 tỷ đồng thể hiện sự phát triển công nghiệp trong nước, cân đối rủi ro ngắn hạn từ áp lực lãi suất toàn cầu.",
+  "summary_vi": "Nền tảng kinh tế Việt Nam mạnh với tăng trưởng 20-25% năm nay và định giá cổ phiếu ở mức thấp lịch sử (P/E 4,8-8,8 lần), nhưng áp lực bên ngoài từ lãi suất Mỹ tăng lên 5,17% (cao nhất 2007) và dòng vốn ngoại bán ròng 4 phiên liên tiếp đang kìm hãm sự phục hồi. Chính sách mở rộng hợp tác kinh tế khu cửa khẩu và tự chủ công nghệ thiết bị điện là tín hiệu tích cực cân bằng với rủi ro ngắn hạn.",
   "top": [
     {
       "title": "Khối ngoại bán ròng phiên thứ 4 liên tiếp",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 221 tỷ đồng ngày 28/9 (bán 1.682 tỷ vs mua 1.462 tỷ đ), là phiên bán thứ tư liên tiếp. TCB bị bán mạnh nhất 164 tỷ đ, VN-Index giảm 4,43 điểm xuống 1.780,68 điểm. Áp lực bán nước ngoài liên tiếp phản ánh lo ngại về tác động từ lãi suất Mỹ tăng cao."
+      "note": "Khối ngoại bán ròng 221 tỷ đồng ngày 28/9 (bán 1.682 tỷ vs mua 1.462 tỷ đ), là phiên bán thứ tư liên tiếp. TCB bị bán mạnh nhất 164 tỷ đ, VN-Index giảm 4,43 điểm xuống 1.780,68 điểm với 456 mã giảm. Phản ánh lo ngại về tác động từ lãi suất Mỹ tăng cao."
     },
     {
-      "title": "Lãi suất Mỹ tăng cao đe dọa chi phí vay toàn cầu",
+      "title": "Lợi suất trái phiếu kho bạc Mỹ tăng lên 5,17% cao nhất 2007",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm tăng tới 5,17%, tăng 1 điểm phần trăm từ đầu 2026, mức cao nhất kể từ 2007. JPMorgan ước 4,1 nghìn tỷ USD nợ liên quan AI sẽ phát hành tới 2030, chi phí vay tăng sẽ cạnh tranh vốn với thị trường chứng khoán."
+      "note": "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm tăng tới 5,17%, tăng 1 điểm phần trăm từ đầu 2026, mức cao nhất kể từ 2007. JPMorgan ước 4.100 tỷ USD nợ liên quan AI sẽ phát hành tới 2030, chi phí vay tăng sẽ cạnh tranh vốn với thị trường chứng khoán Việt Nam."
     },
     {
-      "title": "Lãi suất mua nhà Mỹ vượt 7% lần đầu trong 2 năm",
+      "title": "Lãi suất mua nhà Mỹ vượt 7% lần đầu 2 năm",
       "impact": "↓",
-      "note": "Lãi suất vay thế chấp 30 năm tăng vọt lên 7,45% ngày 24/9, tăng 19 điểm cơ bản trong 1 ngày, mức cao nhất trong 2 năm. Sự khắt khe về điều kiện tài chính toàn cầu sẽ làm suy yếu xu hướng đầu tư."
+      "note": "Lãi suất vay thế chấp nhà 30 năm tăng vọt lên 7,45% ngày 24/9, tăng 19 điểm cơ bản chỉ trong 1 ngày, cao nhất 2 năm. Phiên 23/9 ở 7,26%, phản ánh sự khắt khe về điều kiện tài chính toàn cầu sẽ làm suy yếu xu hướng đầu tư."
     },
     {
-      "title": "Y Khoa Hoàn Mỹ lãi 679,4 tỷ đ, sạch nợ trái phiếu",
-      "impact": "↑",
-      "note": "Y Khoa Hoàn Mỹ báo lãi 679,4 tỷ đồng năm 2025, tăng 23% so với 2024, cao nhất từ 2021. Vốn chủ tăng 30% lên 2,88 ngàn tỷ đ, hoàn tất thanh toán 1,4 ngàn tỷ đ nợ trái phiếu. Hệ số thanh toán ngắn hạn từ 0,66 lên 1,23 lần, ROE 24%, phản ánh sức khỏe tài chính cải thiện."
+      "title": "Thị trường Việt Nam định giá rẻ kỷ lục nhưng bị bán tháo",
+      "impact": "↓",
+      "note": "Thị trường ngoài Vingroup giao dịch ở P/E 8,8 lần năm 2026, giảm xuống 6 lần năm 2027 và 4,8 lần năm 2028 - mức thấp lịch sử. Tuy nhiên cán cân thương mại và chiến tranh Iran hạn chế dòng tiền lưu thông, khiến lợi nhuận tăng 46% nửa đầu năm vẫn không hỗ trợ giá cổ phiếu."
     },
     {
       "title": "Việt Nam dẫn đầu tăng trưởng ASEAN trên 5%",
       "impact": "↑",
-      "note": "Việt Nam duy trì tăng trưởng trên 5%, dẫn đầu ASEAN trong dài hạn, dự báo tăng trưởng bền bỉ trong hàng chục năm tới. ASEAN ở giai đoạn tích lũy vốn mạnh, hấp dẫn đầu tư sản xuất, tạo nền tảng tăng trưởng lợi nhuận doanh nghiệp dài hạn."
+      "note": "Việt Nam duy trì tăng trưởng trên 5%, dẫn đầu ASEAN trong dài hạn, tăng trưởng kinh tế dự báo bền bỉ trong hàng chục năm tới. Tăng trưởng lợi nhuận nửa đầu năm 2026 đạt 46%, dự báo cả năm 20-25%, tạo nền tảng bền vững."
     },
     {
       "title": "Việt Nam chế tạo thiết bị điện 500 kV thay nhập khẩu",
       "impact": "↑",
-      "note": "EEMC khởi công dự án 82,4 tỷ đồng (ngân sách nhà nước 22,2 tỷ đ), chế tạo cuộn kháng bù 500 kV thay thế hoàn toàn nhập khẩu. Công suất 120 MVAr đáp ứng chuẩn quốc tế IEC 60076, thể hiện nâng cao năng lực công nghiệp trong nước."
+      "note": "EEMC khởi công dự án 82.400 tỷ đồng (ngân sách nhà nước 22.200 tỷ đ), chế tạo cuộn kháng bù ngang 500 kV công suất 120 MVAr thay thế hoàn toàn nhập khẩu, đáp ứng chuẩn IEC 60076. Nâng cao độc lập công nghệ và giảm chi phí nhập khẩu."
     }
   ]
 }
