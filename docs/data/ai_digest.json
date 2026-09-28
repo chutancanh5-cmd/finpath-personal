@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường VN được nâng hạng FTSE Russell lên mới nổi thứ cấp (21/9) mở rộng tiếp cận vốn quốc tế, trong khi duy trì tăng trưởng trên 5% dẫn đầu ASEAN. Tuy nhiên, lãi suất Mỹ vọt lên 7,45% (mortgage 30 năm) và tiêu dùng Trung Quốc suy yếu (bán lẻ tháng 8 chỉ +0,4%) tạo áp lực ngắn hạn, khiến VN-Index có nguy cơ chuyển sang điều chỉnh nếu không vượt được MA100 ở 1.815 điểm.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Việt Nam nâng hạng thị trường chứng khoán lên thị trường mới nổi thứ cấp mở rộng tiếp cận dòng vốn quốc tế. Tuy lãi suất Mỹ vượt 7% tạo áp lực lãi suất toàn cầu, nhưng giảm tension Mỹ-Trung qua thượng đỉnh và cam kết tăng trưởng ASEAN 5%+ là yếu tố tích cực cân bằng. Rủi ro chính từ nợ BĐS ngoài sàn lên 1,63 triệu tỷ đồng khi doanh thu bán lẻ chậm tăng.",
   "top": [
     {
-      "title": "Việt Nam nâng hạng FTSE Russell lên thị trường mới nổi thứ cấp",
+      "title": "Việt Nam nâng hạng thị trường mới nổi thứ cấp",
       "impact": "↑",
-      "note": "Ngày 21/9/2026, FTSE Russell nâng hạng VN từ thị trường cận biên lên mới nổi thứ cấp, lộ trình đưa cổ phiếu VN vào các chỉ số toàn cầu từ 9/2026 đến 9/2027. Mở rộng khả năng tiếp cận của các quỹ đầu tư quốc tế, đặc biệt quỹ thụ động (index fund)."
+      "note": "FTSE Russell nâng Việt Nam từ thị trường cận biên lên thị trường mới nổi thứ cấp (21/9/2026). Cổ phiếu VN được đưa vào các chỉ số toàn cầu FTSE Russell theo lộ trình từ tháng 9/2026 đến 9/2027, mở rộng đáng kể khả năng tiếp cận dòng vốn quốc tế cho doanh nghiệp niêm yết."
     },
     {
-      "title": "Lãi suất mortgage Mỹ vượt 7% lần đầu trong 2 năm",
+      "title": "Lãi suất vay thế chấp Mỹ vượt 7%, Fed tiếp tục tăng",
       "impact": "↓",
-      "note": "Lãi suất vay thế chấp nhà Mỹ kỳ hạn 30 năm nhảy từ 7,26% (23/9) lên 7,45% (24/9), lợi suất trái phiếu kho bạc 10 năm ở mức cao nhất kể từ 2007. Phản ánh kỳ vọng Fed tăng lãi suất 66-93% trong 4-6 tháng tới, tác động tiêu cực đến tâm lý rủi ro toàn cầu."
+      "note": "Lãi suất trung bình 30 năm đạt 7,45% (24/9), lần đầu vượt 7% sau 2 năm. Fed tăng 0,25% vào 16/9, dự báo tăng thêm 66% tháng 10 và 93% tháng 12. Tăng áp lực lãi suất toàn cầu, gây rủi ro cho dòng vốn ưa thích rủi ro vào thị trường mới nổi."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN trong dài hạn",
+      "title": "Hoàn Mỹ báo lãi 679 tỷ, sạch nợ trái phiếu",
       "impact": "↑",
-      "note": "VN duy trì tăng trưởng trên 5% bền bỉ, khác biệt so với các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp hơn, trong khi ASEAN đang ở giai đoạn chuyển hóa quy mô và dân số thành tích lũy vốn."
+      "note": "Y Khoa Hoàn Mỹ lãi 679,4 tỷ năm 2025, tăng 23% và cao nhất kể từ 2021. Hoàn tất thanh toán 1,4 ngàn tỷ trái phiếu, vốn chủ tăng 30% lên 2,88 ngàn tỷ. ROE 24%, ROA 10%, hệ số thanh khoản ngắn hạn cải thiện từ 0,66 lên 1,23."
     },
     {
-      "title": "Cổ phiếu tiêu dùng Trung Quốc ở mức thấp 10 năm",
-      "impact": "↓",
-      "note": "Doanh thu bán lẻ Trung Quốc tháng 8 chỉ tăng 0,4%, sức mua nội địa yếu. Nhà đầu tư dồn vốn vào cổ phiếu AI, bán mạnh cổ phiếu tiêu dùng, phản ánh mất cân đối kinh tế Trung Quốc, ảnh hưởng đến các nước xuất khẩu như VN."
-    },
-    {
-      "title": "Hoàn Mỹ báo lãi 679,4 tỷ đồng, sạch nợ trái phiếu 1,4 ngàn tỷ",
+      "title": "Thượng đỉnh Mỹ-Trung: Giảm rủi ro thương mại",
       "impact": "↑",
-      "note": "Y Khoa Hoàn Mỹ (HMC) năm 2025 lãi hơn 679,4 tỷ đồng (+23% so với 2024), mức cao nhất từ 2021. ROE 24%, ROA 10%, đã hoàn tất thanh toán trái phiếu 1,4 ngàn tỷ, khả năng thanh toán tốt với hệ số nợ/vốn giảm từ 1,91 lần xuống 1,4 lần."
+      "note": "Mỹ-Trung gia hạn thỏa thuận đình chiến thêm 2 tháng (đến 10/11/2026). Cắt giảm thuế 30 tỷ USD hàng hóa \"không nhạy cảm\", thiết lập cơ chế đối thoại AI. Giảm xác suất leo thang căng thẳng thương mại trong ngắn hạn."
     },
     {
-      "title": "VN-Index nguy cơ chuyển sang điều chỉnh ngắn hạn",
+      "title": "Nhóm BĐS ngoài sàn: Nợ cao, rủi ro tài chính",
       "impact": "↓",
-      "note": "VN-Index tạo đỉnh sau thấp hơn đỉnh trước kể từ đầu tháng 9, lợi suất trái phiếu chính phủ toàn cầu leo thang. Nếu không sớm vượt MA100 ở 1.815 điểm, chỉ số nguy cơ cao chuyển từ xu hướng tăng sang điều chỉnh đáng kể."
+      "note": "90 pháp nhân BĐS chưa niêm yết ghi nhận lãi 61,2 ngàn tỷ đồng nhưng nợ phải trả lên 1,63 triệu tỷ đồng. 10 doanh nghiệp nợ nhiều nhất chiếm 55,5% tổng nợ. Rủi ro thanh khoản tiềm ẩn khi doanh thu bán lẻ chỉ tăng 0,4%."
+    },
+    {
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
+      "impact": "↑",
+      "note": "Tăng trưởng VN dự báo duy trì trên 5% trong 10 năm tới, khác biệt so với nền kinh tế phát triển đang chậm lại. Lợi thế từ quy mô dân số, chiều sâu công nghiệp và khả năng tích lũy vốn."
     }
   ]
 }
