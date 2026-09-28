@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực từ lãi suất Mỹ tăng vượt 7% (cao nhất 2 năm) nhưng được hỗ trợ bởi cải thiện quan hệ Mỹ-Trung (giảm thuế 30 tỷ USD), tăng trưởng kinh tế ổn định (GRDP 9-9,5%, du lịch +60%) và vị thế dẫn đầu ASEAN với tăng trưởng trên 5%. Ngành vàng và bất động sản chịu áp lực bán mạnh, kỹ thuật chỉ báo nguy cơ điều chỉnh ngắn hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chìm sâu sắc đỏ với VN-Index giảm 0,92% dưới áp lực lãi suất Mỹ nhảy vọt lên 7,45% (cao nhất 2 năm) và tiêu dùng Trung Quốc yếu (bán lẻ chỉ tăng 0,4%). Hai cổ phiếu lớn PNJ và NVL rơi sàn phản ánh rủi ro tài chính mạnh. Tuy vậy, Việt Nam vẫn ghi dấu tích cực khi duy trì tăng trưởng 5%+ dẫn đầu ASEAN, tự chủ công nghệ thiết bị điện 500 kV, và du lịch phục hồi mạnh 60%.",
   "top": [
+    {
+      "title": "Thị trường sắc đỏ ngày hôm nay, VN-Index giảm 0,92%",
+      "impact": "↓",
+      "note": "VN-Index giảm 0,92% xuống 1.768,71 điểm, HNX-Index giảm 1,19% xuống 268,97 điểm. Độ rộng thị trường nghiêng về bán với 451 mã giảm, chỉ 152 mã tăng, thanh khoảng HOSE 7 ngàn tỷ. VIC, BID, TCB tác động tiêu cực lớn nhất."
+    },
     {
       "title": "Lãi suất mua nhà Mỹ vượt 7%, tăng 19 bps trong 1 ngày",
       "impact": "↓",
-      "note": "Lãi suất 30 năm Mỹ lên 7,45% (cao nhất 2 năm), tăng từ 7,26% ngày 23/9 lên 7,45% ngày 24/9. Lợi suất trái phiếu kho bạc kỳ hạn 10 năm ở mức cao nhất kể từ 2007, 30 năm từ 2004. Áp lực chi phí vốn toàn cầu tăng, ảnh hưởng định giá cổ phiếu và FDI."
+      "note": "Lãi suất 30 năm Mỹ nhảy lên 7,45% (cao nhất 2 năm) từ 7,26% ngày 23/9. Lợi suất trái phiếu kho bạc 10 năm ở mức cao nhất từ tháng 6/2007, 30 năm từ năm 2004. Áp lực chi phí vốn toàn cầu tăng, ảnh hưởng định giá cổ phiếu và dòng vốn FDI."
     },
     {
-      "title": "Mỹ-Trung gia hạn thỏa thuận, giảm thuế 30 tỷ USD",
-      "impact": "↑",
-      "note": "Tập Cận Bình thăm Washington 23-25/9, gặp Trump 24/9. Hai bên gia hạn thỏa thuận thương mại thêm 2 tháng (hết 10/11), cắt giảm thuế đối ứng 30 tỷ USD hàng 'không nhạy cảm', thiết lập hội đồng thương mại/đầu tư Mỹ-Trung. Giảm rủi ro leo thang, hỗ trợ xuất khẩu VN."
+      "title": "Cổ phiếu tiêu dùng Trung Quốc thất thế, nhu cầu yếu",
+      "impact": "↓",
+      "note": "Chỉ số tiêu dùng Trung Quốc gần mức thấp nhất 10 năm, lợi nhuận thấp hơn dự báo 50%. Doanh số bán lẻ tháng 8 chỉ tăng 0,4%, dự báo tăng trưởng chậm lại. Rủi ro nhu cầu toàn cầu yếu, ảnh hưởng xuất khẩu khu vực."
+    },
+    {
+      "title": "PNJ nằm sàn dự kiến lỗ 6.271 tỷ, NVL 46 triệu cổ phiếu dư bán",
+      "impact": "↓",
+      "note": "PNJ nằm sàn 30.700 đ/cổ phiếu với 26 triệu đơn vị dư bán, dự kiến lỗ 6.271 tỷ đồng năm 2026 do trích lập dự phòng 7.071 tỷ đ. NVL nằm sàn 11.050 đ/đơn vị với 46 triệu cổ phiếu dư bán. Áp lực bán mạnh, cảnh báo rủi ro ngành vàng và bất động sản."
     },
     {
       "title": "Việt Nam dẫn đầu tăng trưởng ASEAN, duy trì trên 5%",
       "impact": "↑",
-      "note": "Bloomberg dự báo VN tăng trưởng bền bỉ trên 5% trong dài hạn, dẫn đầu ASEAN. Indonesia tăng từ ~4% lên ~5%. Phản ánh sức mạnh cấu trúc kinh tế, khả năng tích lũy vốn và thu hút đầu tư vào sản xuất."
+      "note": "Theo Bloomberg, Việt Nam tăng trưởng bền bỉ trên 5% trong dài hạn, dẫn đầu ASEAN. ASEAN ở giai đoạn chuyển hóa quy mô dân số thành khả năng tích lũy vốn và thu hút đầu tư vào sản xuất. Triển vọng vĩ mô tích cực."
     },
     {
-      "title": "PNJ nằm sàn, dự kiến lỗ 6.271 tỷ đồng năm 2026",
-      "impact": "↓",
-      "note": "PNJ nằm sàn 30.700 đ/cổ phiếu (26 triệu đơn vị nằm sàn), NVL nằm sàn 11.050 đ/đơn vị (46 triệu dư bán). PNJ dự kiến lỗ 6.271 tỷ đồng năm 2026 do trích lập dự phòng 7.071 tỷ. Áp lực bán mạnh, tâm lý nhà đầu tư xấu ngành vàng/BĐS."
-    },
-    {
-      "title": "Cổ phiếu tiêu dùng Trung Quốc thất thế, nhu cầu yếu 0,4%/tháng",
-      "impact": "↓",
-      "note": "Chỉ số tiêu dùng TQ gần mức thấp nhất 10 năm, lợi nhuận thấp hơn dự báo 50%. Doanh số bán lẻ tháng 8 chỉ tăng 0,4%. Chỉ số công nghệ/AI gấp 2 lần (2016), phản ánh mất cân đối. Rủi ro nhu cầu toàn cầu yếu, cạnh tranh AI khốc liệt."
-    },
-    {
-      "title": "Huế GRDP 9 tháng tăng 9-9,5%, du lịch tăng 60%",
+      "title": "Việt Nam chế tạo thiết bị điện 500 kV thay nhập khẩu, 82,4 tỷ đồng",
       "impact": "↑",
-      "note": "TP.Huế GRDP ước tăng 9-9,5% (thấp mục tiêu 10%), đón 6,4 triệu lượt khách (tăng 29%), doanh thu du lịch 15.400 tỷ đồng (tăng 60% so cùng kỳ). Du lịch phục hồi mạnh, nhu cầu tiêu dùng dịch vụ vẫn sôi động, nền kinh tế chạy tốt."
+      "note": "EEMC khởi công 28/9 dự án quốc gia chế tạo cuộn kháng bù ngang 500 kV, tổng kinh phí 82,4 tỷ đồng (ngân sách hỗ trợ 22,2 tỷ đ), phối hợp BK Hà Nội. Công suất 120 MVAr, tiêu chuẩn IEC 60076. Tự chủ công nghệ thiết bị điện siêu cao áp, giảm phụ thuộc nhập khẩu."
     }
   ]
 }
