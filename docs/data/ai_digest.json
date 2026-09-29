@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang ở tình thế cân bằng giữa tín hiệu tích cực từ nền kinh tế vĩ mô (tăng trưởng dẫn đầu ASEAN trên 5%, ngân hàng lớn mạnh, ngành dầu khí được hỗ trợ bởi giá dầu cao) và rủi ro lãi suất ngắn hạn (liên ngân hàng căng thẳng, chi phí vay tăng). Các nhà đầu tư nên cân nhân cơ hội dài hạn với áp lực tín dụng ngắn hạn và biến động thị trường tài sản.",
+  "summary_vi": "Giá dầu tăng do xung đột Trung Đông hỗ trợ ngành dầu khí, nhưng áp lực lạm phát (vàng giảm) và thanh khoản căng là rủi ro ngắn hạn. NHNN can thiệp OMO dịu lo ngại, các ngân hàng tiếp tục tăng vốn mạnh. Dài hạn, Việt Nam dẫn đầu ASEAN khi chuyển sang mô hình tăng năng suất. Thị trường cân bằng giữa tín hiệu tích cực (lãi cao, tăng vốn) và rủi ro macro (lạm phát, thanh khoản).",
   "top": [
     {
-      "title": "Lãi suất liên ngân hàng tăng cao, ngân hàng không giảm được lãi suất cho vay",
+      "title": "Giá dầu Brent tăng do xung đột Trung Đông",
+      "impact": "↑",
+      "note": "Xung đột Houthi-Saudi Arabia leo thang từ tháng 7, Houthi mở rộng kiểm soát eo Bab el-Mandeb. Giá dầu Brent ghi nhận 106,49 USD/thùng ngày 28/9. Hỗ trợ doanh thu và lợi nhuận ngành dầu khí."
+    },
+    {
+      "title": "Vàng tuột mức 4.200 USD/ounce, chạm đáy 7 tuần",
       "impact": "↓",
-      "note": "Thị trường liên ngân hàng căng thẳng, lãi suất tăng mạnh. Ngân hàng phải tăng lãi suất huy động vốn nên không có dư địa giảm lãi suất cho vay → áp lực chi phí tín dụng lên doanh nghiệp và cá nhân."
+      "note": "Giá vàng rơi xuống 4.124,8 USD/ounce ngày 29/9, giảm 144 USD so với hôm trước (mức thấp 7 tuần). Phản ánh áp lực lạm phát từ dầu cao."
     },
     {
-      "title": "Giá vàng giảm mạnh hơn 100 USD/ounce xuống dưới 4.200 USD/ounce",
-      "impact": "→",
-      "note": "Giá vàng thế giới giảm xuống 4.122 USD/ounce, mức thấp 7 tuần, phá vỡ ngưỡng 4.200 USD → điều chỉnh lớn trên thị trường tài sản phòng hộ."
+      "title": "Lãi suất liên ngân hàng tăng, thanh khoản căng",
+      "impact": "↓",
+      "note": "Thanh khoản thị trường liên ngân hàng rất căng thẳng. Các ngân hàng phải tăng lãi huy động vốn để có tiền cho vay; NHNN can thiệp OMO mua trái phiếu Chính phủ làm dịu lo ngại."
     },
     {
-      "title": "NCB được chấp thuận tăng vốn điều lệ 33.000 tỷ đồng",
+      "title": "NCB được chấp thuận tăng vốn 33.000 tỷ đồng",
       "impact": "↑",
-      "note": "Vốn điều lệ của NCB sẽ tăng từ 29.280 tỷ lên 62.280 tỷ đồng (tăng 112,7%), ngân hàng lọt Top 10 ngân hàng có vốn lớn nhất → hệ thống tài chính Việt Nam lớn mạnh."
+      "note": "NHNN chấp thuận phát hành 3,3 tỷ cổ phiếu với giá 10.000 đồng/cổ phiếu. Vốn điều lệ tăng từ 29.280 tỷ đồng lên 62.280 tỷ đồng (tăng 112,7%), lọt Top 10 ngân hàng lớn nhất."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN, duy trì trên 5% trong dài hạn",
+      "title": "Y Khoa Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ trái phiếu",
       "impact": "↑",
-      "note": "Nền kinh tế Việt Nam bền bỉ với tăng trưởng trên 5% trong khi các nước phát triển chậm lại → triển vọng đầu tư dài hạn tốt cho các cổ phiếu tăng trưởng."
+      "note": "Năm 2025 lãi 679,4 tỷ đồng (tăng 23% so 2024), cao nhất kể từ 2021. Vốn chủ tăng 30% lên 2.880 tỷ đồng, hoàn tất thanh toán 1.400 tỷ đồng trái phiếu."
     },
     {
-      "title": "Giá dầu Brent khoảng 106,49 USD/thùng do căng thẳng Trung Đông",
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
       "impact": "↑",
-      "note": "Xung đột Houthi–Saudi Arabia tại Trung Đông kéo theo lo ngại gián đoạn cung dầu → cổ phiếu dầu khí hưởng lợi từ giá dầu neo cao, lợi nhuận ngành tăng."
-    },
-    {
-      "title": "AgriS (SBT) vượt kế hoạch doanh thu 26.733 tỷ đồng, hoàn thành 101%",
-      "impact": "↑",
-      "note": "Doanh thu 26.733 tỷ đồng hoàn thành 101% kế hoạch, lợi nhuận sau thuế tăng 1,43% → doanh nghiệp nông sản duy trì tăng trưởng trong bối cảnh thị trường biến động."
+      "note": "Bloomberg dự báo Việt Nam duy trì tăng trưởng trên 5%, bền bỉ hơn Indonesia. ASEAN bước vào giai đoạn chuyển đổi năng lực tích lũy vốn, Việt Nam có triển vọng dài hạn tích cực."
     }
   ]
 }
