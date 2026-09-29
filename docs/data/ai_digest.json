@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Giá dầu tăng do xung đột Trung Đông hỗ trợ ngành dầu khí, nhưng áp lực lạm phát (vàng giảm) và thanh khoản căng là rủi ro ngắn hạn. NHNN can thiệp OMO dịu lo ngại, các ngân hàng tiếp tục tăng vốn mạnh. Dài hạn, Việt Nam dẫn đầu ASEAN khi chuyển sang mô hình tăng năng suất. Thị trường cân bằng giữa tín hiệu tích cực (lãi cao, tăng vốn) và rủi ro macro (lạm phát, thanh khoản).",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục nhận các tín hiệu tích cực từ hoạt động mở rộng vốn của các ngân hàng lớn (NCB tăng 33.000 tỷ đồng) và kết quả kinh doanh vượt kế hoạch của các công ty lớn như AgriS. Cổ phiếu dầu khí hưởng lợi từ giá dầu Brent neo cao (106,49 USD/thùng) do căng thẳng Trung Đông. Tuy nhiên, áp lực từ thanh khoản thắt chặt và kỳ vọng lãi suất cao vẫn tạo áp lực trên thị trường, với chuyên gia tài chính nhận định các ngân hàng không có dư địa giảm lãi suất cho vay.",
   "top": [
     {
-      "title": "Giá dầu Brent tăng do xung đột Trung Đông",
+      "title": "NCB được NHNN chấp thuận tăng vốn 33.000 tỷ đồng",
       "impact": "↑",
-      "note": "Xung đột Houthi-Saudi Arabia leo thang từ tháng 7, Houthi mở rộng kiểm soát eo Bab el-Mandeb. Giá dầu Brent ghi nhận 106,49 USD/thùng ngày 28/9. Hỗ trợ doanh thu và lợi nhuận ngành dầu khí."
+      "note": "NHNN chấp thuận NCB phát hành 3,3 tỷ cổ phiếu giá 10.000 đồng/cổ phiếu, nâng vốn điều lệ lên gần 62.280 tỷ đồng (tăng 112,7%), sẽ lọt Top 10 ngân hàng vốn lớn nhất Việt Nam. Đây là lần tăng vốn thứ 5 liên tiếp trong 6 năm."
     },
     {
-      "title": "Vàng tuột mức 4.200 USD/ounce, chạm đáy 7 tuần",
-      "impact": "↓",
-      "note": "Giá vàng rơi xuống 4.124,8 USD/ounce ngày 29/9, giảm 144 USD so với hôm trước (mức thấp 7 tuần). Phản ánh áp lực lạm phát từ dầu cao."
-    },
-    {
-      "title": "Lãi suất liên ngân hàng tăng, thanh khoản căng",
-      "impact": "↓",
-      "note": "Thanh khoản thị trường liên ngân hàng rất căng thẳng. Các ngân hàng phải tăng lãi huy động vốn để có tiền cho vay; NHNN can thiệp OMO mua trái phiếu Chính phủ làm dịu lo ngại."
-    },
-    {
-      "title": "NCB được chấp thuận tăng vốn 33.000 tỷ đồng",
+      "title": "AgriS (SBT) vượt kế hoạch doanh thu, lợi nhuận liên doanh tăng 9 lần",
       "impact": "↑",
-      "note": "NHNN chấp thuận phát hành 3,3 tỷ cổ phiếu với giá 10.000 đồng/cổ phiếu. Vốn điều lệ tăng từ 29.280 tỷ đồng lên 62.280 tỷ đồng (tăng 112,7%), lọt Top 10 ngân hàng lớn nhất."
+      "note": "AgriS báo cáo doanh thu niên độ 2025-2026 đạt 26.733 tỷ đồng (hoàn thành 101% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng (tăng 1,43%), lợi nhuận từ liên doanh đạt 300 tỷ đồng (tăng gần 9 lần), phản ánh hiệu quả chiến lược đầu tư mở rộng hệ sinh thái."
     },
     {
-      "title": "Y Khoa Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ trái phiếu",
+      "title": "Cổ phiếu dầu khí hưởng lợi từ giá dầu cao",
       "impact": "↑",
-      "note": "Năm 2025 lãi 679,4 tỷ đồng (tăng 23% so 2024), cao nhất kể từ 2021. Vốn chủ tăng 30% lên 2.880 tỷ đồng, hoàn tất thanh toán 1.400 tỷ đồng trái phiếu."
+      "note": "Giá dầu Brent giao kỳ hạn ghi nhận 106,49 USD/thùng, được hỗ trợ bởi căng thẳng Trung Đông (Houthi mở rộng kiểm soát Biển Đỏ, Saudi Arabia khôi phục tuyến ống Đông-Tây sau tấn công UAV). Nhóm dầu khí Việt Nam tiếp tục hưởng lợi từ xu hướng này."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
+      "title": "Lãi suất liên ngân hàng căng, ngân hàng không có dư địa giảm lãi suất cho vay",
+      "impact": "→",
+      "note": "TS. Nguyễn Trí Hiếu nhận định các ngân hàng phải huy động vốn với lãi suất cao nên không có khả năng giảm lãi suất cho vay. NHNN can thiệp OMO thêm thanh khoản nhưng động thái này chỉ mang tính cấp thời, không phải xu hướng dài hạn."
+    },
+    {
+      "title": "Giá vàng giảm mạnh xuống dưới 4.200 USD/ounce",
+      "impact": "→",
+      "note": "Giá vàng thế giới giảm 144 USD so với hôm trước, chạm mức 4.122-4.124,8 USD/ounce (mức thấp nhất 7 tuần). Giảm được thúc đẩy bởi kỳ vọng lãi suất cao hơn và lo ngại kinh tế toàn cầu."
+    },
+    {
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN trong dài hạn",
       "impact": "↑",
-      "note": "Bloomberg dự báo Việt Nam duy trì tăng trưởng trên 5%, bền bỉ hơn Indonesia. ASEAN bước vào giai đoạn chuyển đổi năng lực tích lũy vốn, Việt Nam có triển vọng dài hạn tích cực."
+      "note": "Theo dự báo Bloomberg, Việt Nam duy trì mức tăng trưởng trên 5%, bền bỉ hơn Indonesia. ASEAN đang ở giai đoạn quy mô dân số, chiều sâu công nghiệp có thể chuyển hóa thành khả năng tích lũy vốn, thu hút đầu tư sản xuất."
     }
   ]
 }
