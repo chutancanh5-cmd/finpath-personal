@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam giằng co giữa áp lực tiêu cực (khối ngoại rút mạnh qua DR ETF, thanh khoản suy yếu, lãi suất toàn cầu tăng vọt) và tín hiệu tích cực (Y Khoa Hoàn Mỹ lãi cao, doanh nghiệp dầu khí ký gói thầu 3 tỷ USD, triển vọng tăng trưởng dài hạn trên 5%). Nhà đầu tư nên thận trọng với dòng tiền ngoại rút khỏi thị trường nhưng vẫn có cơ hội tại các doanh nghiệp có nền tảng vững chắc.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực kép: lãi suất Mỹ vượt 7% và dòng vốn ngoại yếu (nhà đầu tư Thái bán mạnh DR ETF), tuy nhiên được hỗ trợ bởi tăng trưởng vĩ mô mạnh duy trì trên 5%, các gói thầu lớn (PTSC 3 tỷ USD) và nỗ lực phát triển công nghệ nội địa. Nhà đầu tư nên thận trọng đón nhập, tập trung vào các cổ phiếu tâm điểm có dòng tiền mạnh, đặc biệt ngân hàng và doanh nghiệp hưởng lợi từ đầu tư cơ sở hạ tầng.",
   "top": [
     {
-      "title": "Nhà đầu tư Thái Lan bán mạnh DR ETF Việt Nam",
+      "title": "Lãi suất thế chấp Mỹ vượt 7%, áp lực toàn cầu tăng",
       "impact": "↓",
-      "note": "DR FUEVFVND giảm 40% từ đỉnh Q1/2023 xuống 107,6 triệu đơn vị, DR E1VFVN30 giảm 2/3 xuống 85,7 triệu đơn vị, bán ròng 77 triệu chứng chỉ FUEVFVND và 169 triệu E1VFVN30 trong 3 năm rưỡi"
+      "note": "Lãi suất vay nhà 30 năm vượt 7% lần đầu sau 2 năm, nhảy từ 7,26% (23/9) lên 7,45% (24/9), phản ánh Fed tăng lãi suất 0,25% vào 16/9. Áp lực lãi suất toàn cầu có thể làm suy yếu dòng vốn vào thị trường TTCK Việt Nam."
     },
     {
-      "title": "VN-Index giảm, khối ngoại bán ròng",
+      "title": "Nhà đầu tư Thái bán mạnh DR ETF Việt, tín hiệu dòng vốn yếu",
       "impact": "↓",
-      "note": "VN-Index giảm hơn 4 điểm đóng cửa tại 1780,68 điểm, 13/18 ngành giảm điểm, chỉ số giằng co quanh 1763 điểm, khối ngoại bán ròng trong phiên"
+      "note": "DR FUEVFVND giảm 40% từ Q1/2023 còn 107,6 triệu đơn vị (thấp nhất kể từ 2022), E1VFVN30 giảm 2/3 còn 85,7 triệu đơn vị. Nhà đầu tư Thái bán ròng 77 triệu FUEVFVND và 169 triệu E1VFVN30 trong 3,5 năm, báo hiệu sự thất vọng với triển vọng thị trường Việt."
     },
     {
-      "title": "Y Khoa Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ trái phiếu",
+      "title": "VN-Index giảm nhẹ, áp lực bán tồn tại giữa thanh khoản suy yếu",
+      "impact": "↓",
+      "note": "VN-Index đóng cửa 1780,68 điểm, giảm hơn 4 điểm, 13/18 ngành giảm điểm. Thanh khoản tuần 21-25/09 sụt giảm 14-16%, chỉ có lực cầu bắt đáy quanh 1765 điểm nhưng nền tảng chưa vững chắc."
+    },
+    {
+      "title": "Giá vàng sụt 170 USD/oz, chỉ báo áp lực lạm phát toàn cầu",
+      "impact": "→",
+      "note": "Giá vàng giao ngay giảm 170 USD/oz (4%) còn 4.115,5 USD/oz, bạc giảm 5,6%, do USD tăng và lợi suất trái phiếu Mỹ cao. Áp lực từ chiến tranh Mỹ-Iran kéo các NHTW tăng lãi suất, tạo sức ép trên tài sản quốc tế nhưng duy trì bất ổn về triển vọng kinh tế."
+    },
+    {
+      "title": "PTSC M&C nhận gói thầu 3 tỷ USD từ QatarEnergy",
       "impact": "↑",
-      "note": "Y Khoa Hoàn Mỹ lãi hơn 679,4 tỷ đồng (tăng 23% YoY), vốn chủ tăng 30% lên hơn 2,88 ngàn tỷ đồng, đã hoàn tất thanh toán 1,4 ngàn tỷ đồng trái phiếu"
-    },
-    {
-      "title": "Lãi suất vay nhà Mỹ vượt 7%, tăng 19 bps/ngày",
-      "impact": "↓",
-      "note": "Lãi suất vay thế chấp nhà Mỹ 30 năm tăng từ 7,26% lên 7,45% chỉ sau 1 ngày (24/9), Fed vừa tăng lãi suất 0,25% vào 16/9 lần đầu trong 3 năm"
-    },
-    {
-      "title": "PTSC nhận gói thầu 3 tỷ USD từ QatarEnergy",
-      "impact": "↑",
-      "note": "PTSC M&C nhận gói thầu EPIC-1 với giá trị hơn 3 tỷ USD, thực hiện từ quý IV/2026 đến cuối năm 2031, là dự án có khối lượng công việc lớn nhất trong lịch sử"
+      "note": "PTSC M&C được trao gói thầu EPIC-1 dự án Maydan Mahzam 1 trị giá hơn 3 tỷ USD, thực hiện 2026-2031, là dự án lớn nhất trong lịch sử công ty. Đóng góp tăng trưởng công nghiệp, xuất khẩu dịch vụ kỹ thuật dầu khí, tạo việc làm."
     },
     {
       "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
       "impact": "↑",
-      "note": "Việt Nam duy trì mức tăng trưởng trên 5% trong dài hạn, ASEAN ở giai đoạn có thể chuyển hóa quy mô và dân số thành tích lũy vốn, thu hút đầu tư sản xuất"
+      "note": "Việt Nam duy trì tăng trưởng trên 5% dài hạn, Bloomberg dự báo là bền bỉ giữa bối cảnh tăng trưởng toàn cầu chậm lại. ASEAN có quy mô, dân số, công nghệ có thể chuyển hóa thành tích lũy vốn và đầu tư sản xuất, hỗ trợ nền tảng thị trường VN dài hạn."
     }
   ]
 }
