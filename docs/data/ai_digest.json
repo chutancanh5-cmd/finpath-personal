@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay điều chỉnh nhẹ với VN-Index giảm 0,17% (2,95 điểm xuống 1.777,73) do thanh khoản sụt giảm, tuy nhiên các yếu tố vĩ mô dài hạn khá tích cực. Standard Chartered dự báo GDP quý 3/2026 đạt 8,7% YoY (tăng từ 8,4% quý 2), sản xuất công nghiệp tăng 13,2% và xuất khẩu tăng 27,2%, cho thấy nền kinh tế vẫn duy trì động lực. Dòng tiền nội địa (tự doanh CTCK mua ròng 802 tỷ) hỗ trợ tích cực nhưng bị triệt tiêu bởi áp lực bán ròng 377 tỷ từ khối ngoại. Với chiến lược tăng năng suất qua khoa học công nghệ, thị trường sẽ có cơ hội phục hồi nhưng cần chờ tín hiệu thanh khoản rõ ràng.",
+  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng vững chắc 8,7% quý 3 và 9,5% cả năm theo dự báo Standard Chartered, nhưng thị trường chứng khoán gặp áp lực từ lãi suất tăng cao và thanh khoản suy yếu. Dòng tiền phân hóa mạnh giữa doanh nghiệp có nền tảng tài chính khỏe và các doanh nghiệp phụ thuộc vòng vay. Nhà đầu tư cần thận trọng chọn lọc cổ phiếu có cơ cấu tài chính lành mạnh để chống chịu môi trường lãi suất cao.",
   "top": [
     {
-      "title": "Standard Chartered dự báo GDP Q3 đạt 8,7%, tăng từ 8,4% Q2",
+      "title": "GDP quý 3 dự báo 8,7%, cả năm 9,5%, xuất khẩu tăng 27,2%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8,7% YoY, tăng từ 8,4% quý 2; H2/2026 dự báo 10,6%; GDP cả năm 2026 đạt 9,5%. Sản xuất công nghiệp tăng 13,2%, xuất khẩu Q3 tăng 27,2%, nhập khẩu tăng 40%; lạm phát tháng 9 ở mức 4,5%. Tăng trưởng kinh tế vững chắc hỗ trợ triển vọng lợi nhuận doanh nghiệp."
+      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8,7% YoY (tăng từ 8,4% quý 2), cả năm 9,5%. Sản xuất công nghiệp +13,2%, xuất khẩu Q3 +27,2%, nhập khẩu +40%; lạm phát tháng 9 ở mức 4,5%. Nửa cuối năm GDP tăng 10,6%, phản ánh đà tăng trưởng kinh tế mạnh mẽ bất chấp các thách thức bên ngoài."
     },
     {
-      "title": "Quỹ KIM kỳ vọng 3 nhóm cổ phiếu bứt tốc vượt VN-Index cuối năm",
+      "title": "Thủ tướng khẳng định tăng trưởng bền vững dựa KHCN và chuyển đổi số",
       "impact": "↑",
-      "note": "Quỹ KIM phân bổ vốn theo từng đợt tập trung vào cổ phiếu có động lực tăng trưởng lợi nhuận riêng; kỳ vọng bảo hiểm, vật liệu và các nhóm ngành khác có khả năng vượt trội từ nay đến cuối năm 2026 hoặc đầu năm 2027, phản ánh tin tưởng vào cơ hội hồi phục sau nâng hạng FTSE."
+      "note": "Thủ tướng Lê Minh Hưng chủ trì phiên họp Ban Chỉ đạo Trung ương, nêu rõ tăng trưởng hai con số dài hạn không thể chỉ dựa vào vốn và lao động chi phí thấp, mà phải đến từ khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, định hướng chiến lược phát triển bền vững cho nền kinh tế."
     },
     {
-      "title": "Tự doanh CTCK mua ròng 802 tỷ đồng, VPB mua ròng 388 tỷ",
-      "impact": "↑",
-      "note": "Tự doanh CTCK mua ròng 802 tỷ đồng trên HoSE phiên 29/9; VPB được mua ròng mạnh nhất với 388 tỷ đồng; GMD mua ròng 216 tỷ; TCB mua ròng 112 tỷ. Dòng tiền nội địa hỗ trợ tích cực bù đắp một phần áp lực bán của khối ngoại."
+      "title": "VN-Index giảm nhẹ, thanh khoản sụt 13.500 tỷ, nhà đầu tư thận trọng",
+      "impact": "↓",
+      "note": "VN-Index đóng cửa tại 1777,73 điểm, giảm gần 3 điểm. Thanh khoản toàn thị trường chỉ 13.500 tỷ đồng (mức thấp hiếm gặp); lực bán yếu nhưng dòng tiền nâng đỡ thị trường ở vùng 1770-1800 điểm. Khối ngoại bán ròng ~400 tỷ, tự doanh mua ròng 800+ tỷ. Nhà đầu tư nên giữ tỷ trọng an toàn."
     },
     {
-      "title": "Dầu khí tăng 2-6% do căng thẳng Trung Đông, PVT +6%",
+      "title": "Dầu khí mua mạnh do giá dầu cao, PVT tăng 6% với khối lượng 16 triệu cổ",
       "impact": "↑",
-      "note": "Nhóm dầu khí năng lượng cuối phiên được dòng tiền chú ý: GAS tăng 1,68%, PLX/PVD/PVS tăng trên 2%, PVT tăng 6% với khối lượng giao dịch bùng nổ 16 triệu cổ phiếu. Giá dầu và vận tải dầu khí neo cao do căng thẳng khu vực Trung Đông, tuy rủi ro địa chính trị vẫn còn."
+      "note": "Khối ngoại bất ngờ mua mạnh PVT với khối lượng 16 triệu cổ phiếu, giá tăng 6%. Toàn bộ ngành dầu khí được hỗ trợ: GAS +1,68%, PLX/PVD/PVS +2%, PVT +6%, nhờ kỳ vọng giá dầu thế giới cao và căng thẳng Trung Đông làm tăng chi phí vận tải dầu khí."
     },
     {
-      "title": "AgriS vượt kế hoạch doanh thu, nhà đầu tư nước ngoài tăng tỷ lệ",
-      "impact": "↑",
-      "note": "AgriS hoàn thành doanh thu 26,733 tỷ đồng (vượt 101% kế hoạch); lợi nhuận trước thuế 911 tỷ đồng; lợi nhuận sau thuế 846 tỷ đồng (tăng 1,43%); lợi nhuận liên doanh 300 tỷ đồng (tăng 9 lần). Brilliant Solutions INC (Singapore) trở thành cổ đông lớn với 48,015,592 cổ phiếu (5,30%), mở rộng kết nối quốc tế."
+      "title": "Lãi suất tăng cao tạo phân hóa dòng tiền, lợi doanh nghiệp tiền nợ ít",
+      "impact": "→",
+      "note": "Agriseco phân tích lãi suất cao khiến chi phí vốn gia tăng tạo phân hóa mạnh: áp lực lên doanh nghiệp sử dụng đòn bẩy lớn (xây dựng, hàng không, thép, ô tô, BĐS) nhưng lợi cho doanh nghiệp tiền mặt lớn, nợ thấp, dòng tiền ổn định. VPBank lãi suất tiết kiệm trả trước cao nhất 6,58%/năm kỳ 6 tháng."
     },
     {
-      "title": "HOSE xây dựng chỉ số VNPRIVGRO gồm 30 mã kinh tế tư nhân",
-      "impact": "↑",
-      "note": "HOSE phát triển chỉ số Vietnam Private Growth Index (VNPRIVGRO) gồm 30 mã cổ phiếu từ VNAllshare, doanh nghiệp tư nhân quy mô lớn, thanh khoản tốt, tiềm năng tăng trưởng. Tạo thước đo tham chiếu cho nhà đầu tư và nền tảng phát triển sản phẩm đầu tư, giúp định hướng rõ hơn cho ngành kinh tế tư nhân."
+      "title": "Kosy sụp đổ 7 phiên sàn, mất nửa giá trị, vốn hóa 3.940 tỷ đ",
+      "impact": "↓",
+      "note": "KOS giảm sàn liên tiếp 7 phiên, thị giá xuống 18.200 đ/cp (thấp nhất 6 năm), mất gần nửa giá trị trong 1 tháng. Dư bán lên 21 triệu đơn vị (10% cổ phiếu lưu hành); lực cầu biến mất. Vốn hóa thu hẹp 3.940 tỷ đồng, phản ánh rủi ro lớn tại doanh nghiệp bất động sản."
     }
   ]
 }
