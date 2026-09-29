@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế tiếp tục tăng trưởng mạnh với GDP Q3 dự báo 8.7%, cao hơn quý 2 (8.4%), nhưng thị trường chứng khoán biến động hỗn hợp giữa dòng tiền ngoại bán ròng 380 tỷ và tự doanh mua vào 802 tỷ đồng. Chính sách của Chính phủ tập trung vào khoa học công nghệ và đổi mới sáng tạo thay vì dựa vào vốn/lao động rẻ, phản ánh cam kết với tăng trưởng bền vững dài hạn, tuy nhiên bất động sản vẫn chịu áp lực với NVL, PNJ chất sàn liên tiếp.",
+  "summary_vi": "Báo cáo GDP Q3 của Standard Chartered dự báo 8,7% (tăng từ 8,4% Q2) là tín hiệu tích cực, với nửa năm sau dự báo 10,6%. Tuy nhiên, thị trường chứng khoán gặp áp lực điều chỉnh sau nâng hạng FTSE Russell, khối ngoại bán ròng 400 tỷ đồng và thanh khoản yếu ở 13.500 tỷ. Lãi suất ngân hàng duy trì cao (ACB 7,8%/năm) để kiểm soát lạm phát dự báo 4,5%. Doanh nghiệp nông sản như AgriS duy trì tăng trưởng mạnh với doanh thu vượt 101% kế hoạch.",
   "top": [
     {
-      "title": "GDP Q3 tăng 8.7%, sản xuất công nghiệp +13.2%, xuất khẩu +27.2%",
+      "title": "GDP Q3 dự báo 8,7%, nửa năm sau 10,6%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8.7% so với cùng kỳ năm trước, tăng từ 8.4% quý 2; sản xuất công nghiệp tăng 13.2%, xuất khẩu tăng 27.2%, nhập khẩu tăng 40%, lạm phát duy trì 4.5% quanh mục tiêu."
+      "note": "Standard Chartered dự báo tăng trưởng GDP Q3/2026 đạt 8,7% so với cùng kỳ (tăng từ 8,4% Q2), nửa cuối năm 2026 dự báo 10,6%, năm 2026 giữ 9,5%. Sản xuất công nghiệp dự kiến tăng 13,2%, xuất khẩu 27,2%, lạm phát tháng 9 khoảng 4,5% trong mục tiêu."
     },
     {
-      "title": "Khối ngoại bán ròng 380 tỷ, xả VPB 250 tỷ",
+      "title": "Khối ngoại bán ròng 400 tỷ đồng, tâm điểm VPB",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 377-380 tỷ đồng trong phiên 29/9, tâm điểm bán VPB 250 tỷ đồng (gấp 5-10 lần các mã khác); trái lại khối tự doanh mua ròng mạnh 802 tỷ với VPB nhận 390 tỷ, cho thấy sự phân hóa dòng tiền."
+      "note": "Khối ngoại bán ròng 377-380 tỷ đồng trong phiên 29/9, tâm điểm xả VPB (250-388 tỷ), cùng HPG, ACB, VIC, VHM. Tự doanh mua ròng mạnh 802 tỷ (VPB 390 tỷ, GMD 216 tỷ, TCB 110 tỷ). Tín hiệu lo ngại từ quốc tế sau nâng hạng FTSE Russell."
     },
     {
-      "title": "Thủ tướng: Tăng trưởng bền vững cần công nghệ, đổi mới sáng tạo",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh không thể duy trì tăng trưởng 2 con số chỉ dựa vào vốn và lao động chi phí thấp; con đường bền vững phải đi qua tăng năng suất bằng khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số."
+      "title": "VN-Index giảm, thanh khoản 13.500 tỷ đồng",
+      "impact": "↓",
+      "note": "VN-Index giảm 2,95 điểm (-0,17%) về 1.777,73 điểm phiên 29/9. Ba sàn khớp lệnh 13.500 tỷ đồng (mức thấp hiếm có), cho thấy dòng tiền chưa thấy hấp dẫn. Nhóm ngân hàng, bất động sản, tiêu dùng không thiết yết điều chỉnh, NVL và PNJ chất sàn."
     },
     {
-      "title": "PVT tăng 6%, nhóm dầu khí lên 2%+ do giá dầu cao",
+      "title": "AgriS doanh thu 26,733 tỷ, vượt 101% kế hoạch",
       "impact": "↑",
-      "note": "PVT bật tăng 6% với khối lượng 16 triệu cổ nhờ triển vọng giá dầu cao và căng thẳng Trung Đông; nhóm dầu khí PLX, PVD, PVS tăng trên 2%, GAS tăng 1.68%, được hưởng lợi từ vận tải dầu khí neo cao."
+      "note": "AgriS FY 2025-2026 công bố doanh thu thuần 26,733 tỷ đồng (hoàn thành 101% target), lợi nhuận sau thuế 846 tỷ (+1,43% so với FY trước), lợi nhuận từ liên doanh tăng 9 lần. Brilliant Solutions INC (Singapore) trở thành cổ đông lớn với 5,3% sở hữu (48 triệu cổ phiếu)."
     },
     {
-      "title": "AgriS: doanh thu 26.733 tỷ (vượt 101%), lợi nhuận tăng 1.43%",
-      "impact": "↑",
-      "note": "AgriS báo cáo doanh thu niên độ 2025-2026 đạt 26.733 tỷ đồng vượt 101% kế hoạch; lợi nhuận sau thuế 846 tỷ đồng tăng 1.43%; lợi nhuận từ liên doanh đạt 300 tỷ đồng tăng gần 9 lần so với niên độ trước."
+      "title": "Lãi suất ngân hàng cao, ACB 7,8%/năm kỳ hạn 12 tháng",
+      "impact": "→",
+      "note": "Khảo sát 35 ngân hàng 29/9 cho thấy mặt bằng lãi suất tiếp tục phân hóa. ACB dẫn đầu 7,8%/năm (12 tháng), Sacombank 7,5%, LPBank 7,2%, VPBank 7,1%. Duy trì cao để kiểm soát lạm phát dự báo 4,5% tháng 9, dự báo lãi suất trong nước ổn định hỗ trợ thị trường chứng khoán."
     },
     {
-      "title": "HOSE phát hành chỉ số VNPRIVGRO: 30 mã kinh tế tư nhân",
+      "title": "Dầu khí tăng do căng thẳng Trung Đông, PVT +6%",
       "impact": "↑",
-      "note": "HOSE xây dựng chỉ số VNPRIVGRO gồm 30 mã lựa chọn từ VNAllshare, phản ánh doanh nghiệp kinh tế tư nhân quy mô lớn, thanh khoản tốt và tiềm năng tăng trưởng; tạo thước đo tham chiếu mới và nền tảng phát triển sản phẩm đầu tư."
+      "note": "Nhóm dầu khí-năng lượng cuối phiên được dòng tiền chú ý: GAS +1,68%, PLX/PVD/PVS +2%, PVT +6% với khối lượng bùng nổ 16 triệu cổ. Mua ròng PVT 61 tỷ từ ngoại, do triển vọng giá dầu và vận tải dầu khí neo cao do căng thẳng khu vực Trung Đông."
     }
   ]
 }
