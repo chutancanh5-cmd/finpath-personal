@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì tăng trưởng vững chắc với GDP Q3 dự báo 8,7%, tuy nhiên TTCK chứng khoán chứng kỳ điều chỉnh cân bằng sau nâng hạng FTSE Russell. Dòng tiền trong nước quay trở lại mạnh (tự doanh mua ròng 802 tỷ) nhưng nhà đầu tư nước ngoài vẫn bán ròng 380 tỷ, thanh khoản toàn thị trường còn thấp. Các nhóm ngành như dầu khí, bảo hiểm, vật liệu được kỳ vọng sẽ vượt trội trong những tháng cuối năm, đặc biệt với định hướng phát triển bền vững thông qua công nghệ và đổi mới sáng tạo.",
+  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng trưởng vững chắc với GDP Q3 dự báo 8,7%, xuất khẩu tăng 27,2%, lạm phát kiểm soát ở 4,5%. Chính phủ chỉ rõ cần nâng năng suất qua khoa học công nghệ và chuyển đổi số để duy trì hai con số. Tuy nhiên, cấu trúc thị trường chứng khoán bất cân xứng: chỉ 2-3 cổ phiếu lớn (VIC +356,9%, VHM +104%) kéo tăng thị trường, khối ngoại liên tục bán ròng 380 tỷ, nhiều doanh nghiệp chỉ tăng khiêm tốn, tạo áp lực điều chỉnh ngắn hạn.",
   "top": [
     {
-      "title": "Standard Chartered dự báo GDP Q3/2026 đạt 8,7%, tăng từ 8,4% Q2",
+      "title": "GDP Q3 dự báo 8,7%, xuất khẩu tăng 27,2%, lạm phát 4,5%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP Q3/2026 đạt 8,7% so với cùng kỳ năm trước (tăng từ 8,4% Q2), sản xuất công nghiệp dự kiến tăng 13,2%, lạm phát tháng 9 ở 4,5%, giữ nguyên dự báo tăng trưởng GDP năm 2026 ở mức 9,5%, phản ánh nền kinh tế duy trì động lực mạnh mẽ bất chấp thách thức bên ngoài."
+      "note": "Standard Chartered dự báo GDP Q3/2026 đạt 8,7% so với cùng kỳ (tăng từ 8,4% Q2), sản xuất công nghiệp tăng 13,2%, xuất khẩu tăng 27,2%, nhập khẩu tăng 40%, lạm phát 4,5%, giữ nguyên dự báo GDP năm 2026 ở 9,5%."
     },
     {
-      "title": "Dòng tiền trong nước mua ròng mạnh 802 tỷ, ngoại bán ròng 380 tỷ",
-      "impact": "→",
-      "note": "Tự doanh CTCK mua ròng 802 tỷ đồng (chủ yếu VPB 390 tỷ, GMD 216 tỷ) trong phiên 29/9, trong khi khối ngoại bán ròng 380 tỷ với tâm điểm VPB 250 tỷ. Thanh khoản toàn thị trường chỉ 13.500 tỷ đồng, mức khá thấp cho thấy dòng tiền chưa hồi phục hoàn toàn."
-    },
-    {
-      "title": "Quỹ ngoại VNH ghi nhận hiệu suất tương đối kém trong năm tài chính 2025-2026",
+      "title": "Khối ngoại bán ròng 380 tỷ, xả VPB 250 tỷ",
       "impact": "↓",
-      "note": "VNH báo cáo năm TK kết thúc 30/6/2026 hiệu suất tương đối kém do tập trung bất thường của đợt tăng giá (VIC +356,9%, VHM +104%), trong khi nhà đầu tư nước ngoài duy trì trạng thái bán ròng cả năm. VNH không sở hữu VIC và chỉ duy trì vị thế trung lập VHM, do đó không hưởng lợi từ mức tăng rất mạnh của hai cổ phiếu."
+      "note": "Khối ngoại bán ròng 380 tỷ đồng trong phiên 29/9, VPB là tâm điểm bán ròng với 250 tỷ đồng, lực bán vượt trội so với các mã khác. Dòng tiền nước ngoài âm liên tục phản ánh cẩn trọng sau nâng hạng FTSE, thanh khoản toàn thị trường chỉ 13.500 tỷ còn thấp."
     },
     {
-      "title": "Quỹ KIM dự báo 3 nhóm ngành vượt trội đến cuối 2026/đầu 2027",
-      "impact": "→",
-      "note": "Quỹ KIM kỳ vọng bảo hiểm, vật liệu và các nhóm ngành khác sẽ vượt trội so với thị trường từ nay đến cuối năm 2026 hoặc đầu 2027, tuy nhiên chuyên gia cảnh báo TTCK Việt Nam cần thận trọng sau sự kiện nâng hạng FTSE Russell, mức độ điều chỉnh có thể không quá lớn nếu lãi suất trong nước ổn định."
+      "title": "Quỹ ngoại VNH kém hiệu suất, thị trường bị VIC/VHM kéo",
+      "impact": "↓",
+      "note": "VNH báo cáo hiệu suất tương đối kém năm TK 2025-2026 do tập trung bất thường: VIC +356,9%, VHM +104%, nhưng ngân hàng, bán lẻ, công nghiệp chỉ tăng khiêm tốn. Nhà đầu tư nước ngoài bán ròng cả năm, chỉ cá nhân nội địa mua, cảnh báo thị trường bất cân xứng."
     },
     {
-      "title": "Thủ tướng nêu tầm nhìn phát triển bền vững qua công nghệ và đổi mới sáng tạo",
+      "title": "Thủ tướng: Cần nâng năng suất qua KHCN, chuyển đổi số",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu rằng không thể duy trì tăng trưởng hai con số nhiều năm nếu chỉ dựa vào vốn và lao động chi phí thấp, con đường bền vững là tăng năng suất thông qua khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, chủ trì phiên họp đầu tiên của Ban Chỉ đạo Trung ương về lĩnh vực này."
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh không thể duy trì tăng trưởng 2 con số nếu chỉ dựa vào vốn và lao động chi phí thấp; con đường bền vững là tăng năng suất từ khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số."
     },
     {
-      "title": "AgriS hoàn thành vượt kế hoạch doanh thu, đón nhà đầu tư nước ngoài quay lại",
+      "title": "AgriS vượt kế hoạch 101%, nhà đầu tư Singapore tham gia",
       "impact": "↑",
-      "note": "AgriS hoàn thành 101% kế hoạch doanh thu (26,733 tỷ đồng), lợi nhuận sau thuế tăng 1,43% đạt 846 tỷ đồng. Đồng thời, nhà đầu tư nước ngoài Brilliant Solutions Inc (BSI) từ Singapore trở thành cổ đông lớn với 48,015,592 cổ phiếu (5,30% sở hữu), phản ánh sự quay trở lại của vốn ngoại vào các doanh nghiệp tư nhân quy mô lớn."
+      "note": "AgriS hoàn thành 101% kế hoạch doanh thu (26,733 tỷ đồng), lợi nhuận sau thuế 846 tỷ (tăng 1,43%), lợi nhuận từ công ty liên doanh tăng 9 lần. Brilliant Solutions Inc (BSI) từ Singapore trở thành cổ đông lớn với 48,015,592 cổ phiếu (5,30%)."
+    },
+    {
+      "title": "HOSE phát triển chỉ số VNPRIVGRO 30 mã kinh tế tư nhân",
+      "impact": "↑",
+      "note": "HOSE xây dựng chỉ số VNPRIVGRO gồm 30 mã cổ phiếu từ VNAllshare, phản ánh doanh nghiệp tư nhân quy mô lớn, thanh khoản tốt, tiềm năng tăng trưởng; tạo thước đo tham chiếu mới và nền tảng phát triển sản phẩm đầu tư theo chỉ số."
     }
   ]
 }
