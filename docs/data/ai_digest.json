@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Áp lực lãi suất toàn cầu gia tăng (SoftBank huy động 11,1 tỷ USD với lãi suất lên 9,75%) kết hợp với áp lực từ bất động sản (Novaland -6,8%) là rủi ro chính đối với FDI và chi phí vốn. Tuy vậy, dầu khí được lợi từ giá cao do căng thẳng Trung Đông, nông sản (AgriS vượt kế hoạch 101%) và y tế (Hoàn Mỹ lãi 679 tỷ, sạch nợ) vẫn tạo động lực tích cực. Chiến lược cần phân hóa: tránh các cổ phiếu nhạy cảm với lãi suất, khai thác cơ hội từ dầu khí, nông sản và dịch vụ.",
+  "summary_vi": "Thị trường VN hôm nay cân bằng giữa tín hiệu tích cực (chính sách KHCN/đổi mới sáng tạo của Chính phủ, giá dầu cao hỗ trợ nhóm dầu khí, kết quả kinh doanh tích cực Hoàn Mỹ) và áp lực tiêu cực (lãi suất toàn cầu tăng tạo rủi ro tỷ giá, chi phí vốn quốc tế tăng từ nhu cầu AI, Novaland chịu áp lực bán mạnh). Việt Nam duy trì tăng trưởng 5%+ bền bỉ nhưng cần quản lý rủi ro ngoại hối ngắn hạn.",
   "top": [
     {
-      "title": "Novaland giảm sàn, 65 triệu cổ phiếu chờ bán",
-      "impact": "↓",
-      "note": "Novaland giảm 6,8% xuống 10.300 đồng/cổ phiếu sáng 29/9 với hơn 65 triệu cổ phiếu chờ bán (2,7% tổng lượng lưu hành); vốn hóa bốc hơi 3.700 tỷ đồng sau hai phiên giảm liên tiếp, xuống còn 24.741 tỷ đồng. Sự kiện diễn ra trước đợt phát hành 800,7 triệu cổ phiếu với giá 10.000 đồng/cổ phiếu, phản ánh khó khăn kéo dài của bất động sản."
-    },
-    {
-      "title": "SoftBank huy động 11,1 tỷ USD với lãi suất cao",
-      "impact": "↓",
-      "note": "SoftBank huy động 11,1 tỷ USD phát hành trái phiếu (10 tỷ USD bằng USD, 1,1 tỷ EUR) với lãi suất lên tới 9,75% kỳ hạn 7,5 năm, mức cao nhất từ trước đến nay. Mục đích là tài trợ cho đầu tư quy mô lớn vào OpenAI và AI. Sự kiện phản ánh áp lực lãi suất toàn cầu gia tăng, kéo theo chi phí vốn tăng cho doanh nghiệp FDI vào Việt Nam."
-    },
-    {
-      "title": "Dầu khí hưởng lợi từ giá dầu cao",
+      "title": "SoftBank huy động 11,1 tỷ USD - Chi phí vốn quốc tế tăng",
       "impact": "↑",
-      "note": "Giá dầu được hỗ trợ bởi xung đột Houthi-Saudi Arabia gia tăng: Iran tuyên bố không cho phép tự do hàng hải khi lệnh trừng phạt còn hiệu lực; Houthi mở rộng kiểm soát bờ biển Yemen, tấn công tàu và cơ sở Saudi Arabia; Saudi Arabia vận hành lại tuyến ống Đông-Tây từ 22/9 sau vụ UAV. CPI Mỹ tháng 8 tăng 3,4% năm trên năm, giá xăng đóng góp hơn 1/3 mức tăng."
+      "note": "SoftBank phát hành trái phiếu doanh nghiệp lợi suất cao quy mô lớn nhất thế giới 11,1 tỷ USD (10 tỷ USD + 1,1 tỷ EUR), lãi suất lên đến 9,75% kỳ hạn 7,5 năm, để tài trợ đầu tư OpenAI và AI. Toàn cầu vẫn đầu tư mạnh AI nhưng chi phí vốn tăng, ảnh hưởng quyết định FDI và M&A vào Việt Nam."
     },
     {
-      "title": "AgriS vượt kế hoạch, tăng trưởng nông sản",
+      "title": "Giá dầu neo cao - Nhóm dầu khí VN hưởng lợi",
       "impact": "↑",
-      "note": "AgriS công bố doanh thu thuần niên độ 2025-2026 đạt 26.733 tỷ đồng, hoàn thành 101% mục tiêu, với lợi nhuận trước thuế 911 tỷ đồng (96% kế hoạch) và lợi nhuận sau thuế tăng 1,43% lên 846 tỷ đồng. Lợi nhuận từ liên doanh đạt 300 tỷ đồng, tăng gần 9 lần, phản ánh hiệu quả của chiến lược mở rộng hệ sinh thái."
+      "note": "Giá dầu duy trì cao do xung đột Houthi-Saudi Arabia ở Trung Đông leo thang, CPI Mỹ tháng 8 tăng 3,4% (xăng tăng 3,9%), Saudi Arabia khôi phục lệnh ứng dụng Đông-Tây từ 22/9. Nhóm cổ phiếu dầu khí (GAS, PVD, BSR) được hỗ trợ ngắn hạn."
     },
     {
-      "title": "Y Khoa Hoàn Mỹ lãi 679 tỷ, sạch nợ trái phiếu",
+      "title": "Thủ tướng: Chuyển sang tăng năng suất",
       "impact": "↑",
-      "note": "Y Khoa Hoàn Mỹ báo lãi năm 2025 đạt 679,4 tỷ đồng, tăng 23% so với năm trước (mức cao nhất kể từ 2022); vốn chủ tăng 30% lên 2.880 tỷ đồng; đã thanh toán hoàn tất lô trái phiếu ưu tiên 1.400 tỷ đồng. Nợ phải trả giảm 4,4%; hệ số thanh toán ngắn hạn tăng từ 0,66 lên 1,23 lần, hệ số thanh toán lãi vay tăng từ 4,76 lên 4,91 lần."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu không thể duy trì tăng trưởng 2 con số nếu chỉ dựa vào vốn và lao động chi phí thấp; con đường bền vững là tăng năng suất qua KHCN, đổi mới sáng tạo, chuyển đổi số. Chính sách ưu tiên công nghệ có thể hỗ trợ cổ phiếu công nghệ."
     },
     {
-      "title": "Lãi suất toàn cầu tăng, áp lực tỷ giá",
+      "title": "Novaland áp lực bán - Mất 3.700 tỷ vốn hóa",
       "impact": "↓",
-      "note": "Các ngân hàng trung ương lớn được dự báo tăng lãi suất để kiểm soát lạm phát; biến động tỷ giá trở thành mối quan tâm của doanh nghiệp xuất nhập khẩu và FDI. Xuất nhập khẩu 8 tháng đầu năm 2026 đạt 770,14 tỷ USD (tăng 28,7%), nhập khẩu tăng 35,3%, FDI tăng 12%, nhưng áp lực lãi suất toàn cầu có thể làm chậm tăng trưởng hoạt động này."
+      "note": "NVL giảm 6,8% xuống 10.300 đồng/cp, hơn 65 triệu cổ phiếu chất sàn (2,7% tổng lượng lưu hành), vốn hóa mất 3.700 tỷ đồng trong 2 phiên. Áp lực trước ex-right 30/9 khi doanh nghiệp phát hành 800,7 triệu cổ phiếu với giá 10.000 đồng."
+    },
+    {
+      "title": "Lãi suất toàn cầu tăng - Rủi ro tỷ giá gia tăng",
+      "impact": "↓",
+      "note": "Ngân hàng trung ương lớn phát tín hiệu thắt chặt tiền tệ, biến động tỷ giá trở thành mối lo của doanh nghiệp xuất nhập khẩu và FDI. Tính đến tháng 8, xuất nhập khẩu VN tăng 28,7% nhưng rủi ro ngoại hối gia tăng, doanh nghiệp cần công cụ quản lý tỷ giá tích cực."
+    },
+    {
+      "title": "Hoàn Mỹ lãi cao - Sạch nợ trái phiếu",
+      "impact": "↑",
+      "note": "Y Khoa Hoàn Mỹ báo lãi 679,4 tỷ đồng năm 2025 (tăng 23%, cao nhất kể từ 2021), vốn chủ 2.88 ngàn tỷ đồng (tăng 30%), hoàn tất thanh toán 1.4 ngàn tỷ trái phiếu. ROE 24%, hệ số thanh toán ngắn hạn tăng từ 0,66 lên 1,23 lần."
     }
   ]
 }
