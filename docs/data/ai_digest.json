@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dự báo vĩ mô tích cực với GDP Q3 ước đạt 8.7%, xuất khẩu tăng 27.2%, nhưng thị trường chứng khoán phân hóa rõ rệt: khối ngoại liên tiếp bán ròng 377 tỷ đồng, thanh khoản giảm 30%, loạt cổ phiếu chứng khoán tân binh rơi sâu dưới IPO mất hàng chục tỷ vốn hóa. KOS giảm sàn 7 phiên liên tiếp do khó về vốn. Lãi suất toàn cầu tăng (Fed, ECB, BoJ, BoK) áp lực lên chi phí, tạo shock tâm lý ngắn hạn bất chấp nền tảng kinh tế chưa xấu.",
+  "summary_vi": "Nền kinh tế tiếp tục tăng trưởng mạnh với GDP quý 3 dự báo 8,7% và xuất khẩu tăng 27,2%, nhưng thị trường chứng khoán ghi nhận áp lực khi khối ngoại bán ròng 377 tỷ đồng và chứng khoán mới bị xả hàng chục nghìn tỷ. Sự phân hóa cao (VIC/VHM tăng vọt, ngành khác lag) ảnh hưởng lợi suất quỹ ngoại. Thặng dư thương mại Việt-Mỹ 100 tỷ USD vẫn phụ thuộc 73% FDI, có rủi ro từ chính sách thương mại mới.",
   "top": [
     {
-      "title": "Standard Chartered dự báo GDP Q3 8.7%, GDP năm 9.5%",
+      "title": "GDP quý 3 dự báo 8,7%, xuất khẩu tăng 27,2%",
       "impact": "↑",
-      "note": "Standard Chartered nâng dự báo tăng trưởng GDP quý 3/2026 lên 8.7% so với cùng kỳ năm trước (từ 8.4% quý 2), duy trì dự báo GDP cả năm 2026 ở 9.5%. Xuất khẩu quý 3 dự kiến tăng 27.2%, nhập khẩu tăng 40%, sản xuất công nghiệp tăng 13.2%, lạm phát tháng 9 ở 4.5%."
+      "note": "Standard Chartered dự báo GDP quý 3/2026 tăng 8,7% so với cùng kỳ năm trước (up từ 8,4% Q2), GDP nửa cuối năm 10,6%, toàn năm 9,5%. Xuất khẩu Q3 tăng 27,2%, nhập khẩu tăng 40%, sản xuất công nghiệp tăng 13,2%. Lạm phát tháng 9 ở mức 4,5%, nằm trong mục tiêu kiểm soát."
     },
     {
-      "title": "Loạt chứng khoán tân binh mất hàng chục tỷ vốn hóa",
+      "title": "Chứng khoán mới thủng đáy IPO, mất hàng chục nghìn tỷ vốn hóa",
       "impact": "↓",
-      "note": "TCX (TCBS) giảm từ 46.800 đồng (giá IPO tháng 10/2025) xuống 29.200 đồng, vốn hóa sụt từ 110.000 tỷ xuống 97.200 tỷ đồng. LPS mất 38% so với mức giá IPO tháng 8/2026, vốn hóa còn 28.000 tỷ đồng. VPX và VCK cũng trong nhịp điều chỉnh mạnh."
+      "note": "TCBS giảm 10% so với mức IPO còn 97.200 tỷ đồng. LPS giảm 38% (từ giữa tháng 8/2026), còn 28.000 tỷ đồng. VPX mất 16.000 tỷ đồng vốn hóa (từ 64.000 xuống 47.700 tỷ đồng). VCK ở mức thấp nhất trong năm. Phản ánh trạng thái phân hóa dòng tiền trên thị trường."
     },
     {
-      "title": "Khối ngoại bán ròng 377 tỷ đồng, VPB xả 249 tỷ",
+      "title": "Khối ngoại bán ròng 377 tỷ đồng, VN-Index giảm 3 điểm",
       "impact": "↓",
-      "note": "Nhóm NĐTNN bán ròng 377 tỷ đồng phiên 29/9. VPB bị bán ròng mạnh nhất khoảng 249 tỷ đồng, theo sau HPG (52 tỷ), ACB (51 tỷ), VIC (50 tỷ), VHM (41 tỷ). Thanh khoản HOSE giảm 30% so với hôm qua xuống 10.400 tỷ đồng."
+      "note": "Phiên 29/9, NĐTNN tiếp tục bán ròng 377 tỷ đồng. VN-Index giảm 3 điểm xuống 1.778 điểm. Giá trị khớp lệnh chỉ 10.400 tỷ đồng, thị trường ảm đạm. VPB bị bán ròng mạnh nhất 249 tỷ đồng, tiếp theo HPG (52 tỷ đ), ACB (51 tỷ đ), VIC (50 tỷ đ)."
     },
     {
-      "title": "Thặng dư thương mại Việt-Mỹ vượt 100 tỷ USD",
+      "title": "Thủ tướng: Tăng năng suất qua KHCN, đổi mới sáng tạo, chuyển đổi số",
       "impact": "↑",
-      "note": "Thặng dư thương mại Việt Nam - Mỹ vượt 100 tỷ USD. Tuy nhiên, doanh nghiệp nước ngoài chiếm 73% xuất khẩu VN, trong khi doanh nghiệp nội địa chỉ 18% tham gia chuỗi giá trị toàn cầu (giảm từ 35% năm 2009), phụ thuộc cao vào FDI gia công."
+      "note": "Thủ tướng Lê Minh Hưng chủ trì phiên họp Ban Chỉ đạo Trung ương, nhấn mạnh không thể tăng trưởng hai con số dài hạn nếu chỉ dựa vào vốn và lao động chi phí thấp. Con đường bền vững là tăng năng suất từ khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số. Các động lực truyền thống (đầu tư, tiêu dùng, xuất khẩu) vẫn quan trọng nhưng cần bổ sung."
     },
     {
-      "title": "KOS giảm sàn 7 phiên liên tiếp",
-      "impact": "↓",
-      "note": "Cổ phiếu KOS giảm sàn 7 phiên liên tiếp từ 21/9. Công ty gặp khó khăn về nguồn vốn phục vụ sản xuất kinh doanh, một số công ty chứng khoán giảm tỷ trọng margin với KOS, gây áp lực bán mạnh. Hoạt động cốt lõi (đầu tư, BĐS, năng lượng tái tạo) chưa có biến động bất thường."
+      "title": "Thặng dư thương mại Việt-Mỹ vượt 100 tỷ USD, phụ thuộc 73% FDI",
+      "impact": "→",
+      "note": "Thặng dư thương mại Việt-Mỹ vượt 100 tỷ USD, nhưng doanh nghiệp nước ngoài chiếm 73% xuất khẩu, doanh nghiệp nội địa tham gia chuỗi giá trị toàn cầu chỉ 18% (giảm từ 35% năm 2009). Chính sách thương mại mới của Mỹ tập trung xuất xứ, tiêu chuẩn lao động, môi trường có thể tăng áp lực chi phí ngắn hạn."
     },
     {
-      "title": "Lãi suất toàn cầu tăng, lãi suất VN lên 6.8-7.6%/năm",
-      "impact": "↓",
-      "note": "Fed nâng lãi suất cơ bản +0.25% lên 3.75-4% (lần tăng đầu tiên kể từ 2023), ECB nâng 2.5%, BoJ nâng lên 1% (cao nhất 31 năm), BoK nâng 2.75%. Lãi suất huy động trong nước tăng 6.8-7.6%/năm, cao hơn 2-2.5% so với đầu năm, áp lực chi phí kinh doanh."
+      "title": "AgriS vượt kế hoạch doanh thu, lợi nhuận tăng 1,43%",
+      "impact": "↑",
+      "note": "AgriS (SBT) doanh thu 26,733 tỷ đồng, hoàn thành 101% kế hoạch. Lợi nhuận trước thuế 911 tỷ đồng (96% kế hoạch), lợi nhuận sau thuế tăng 1,43% đạt 846 tỷ đồng. Lợi nhuận từ liên doanh/liên kết tăng gần 9 lần, phản ánh hiệu quả chiến lược mở rộng hệ sinh thái."
     }
   ]
 }
