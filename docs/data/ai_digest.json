@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường VN điều chỉnh nhẹ (-0,17%) dù macro vẫn tích cực: GDP Q3 8,7%, xuất khẩu +27,2%. Lãi suất toàn cầu tăng (Fed +0,25%, lãi suất huy động 6,8%-7,6%) tạo áp lực ngắn hạn. Doanh nghiệp nội tích cực (AgriS +101%) và FDI (Brilliant Solutions 5,3% AgriS) cho thấy chuyển dịch cấu trúc sang năng suất công nghệ. Thị trường sẽ phân hóa rõ rệt giữa các nhóm cổ phiếu.",
+  "summary_vi": "Tăng trưởng kinh tế duy trì vững chắc (GDP Q3 dự báo 8,7%, xuất khẩu tăng 27,2%) nhưng thị trường chứng khoán đang điều chỉnh với dòng tiền yếu và khối ngoại bán ròng. Mặt bằng lãi suất cao toàn cầu tạo động lực cho ngân hàng, tuy nhiên phân hóa cổ phiếu và áp lực margin tại một số công ty gợi ý rủi ro ngắn hạn cần theo dõi sát.",
   "top": [
     {
-      "title": "GDP Q3 dự báo 8,7%, nửa cuối năm 10,6%",
+      "title": "GDP Q3 đạt 8,7%, xuất khẩu tăng 27,2%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP quý 3/2026 đạt 8,7% (tăng từ 8,4% quý 2), nửa cuối năm 2026 đạt 10,6%, dự báo GDP năm 2026 ở 9,5%. Sản xuất công nghiệp +13,2%, xuất khẩu +27,2%, nhập khẩu +40%, lạm phát 4,5% quanh mục tiêu."
+      "note": "Standard Chartered dự báo GDP Q3/2026 của Việt Nam đạt 8,7% so với cùng kỳ năm trước (tăng từ 8,4% Q2), doanh số xuất khẩu tăng 27,2%, nhập khẩu tăng 40%, sản xuất công nghiệp tăng 13,2%. Dự báo GDP nửa cuối 2026 đạt 10,6%, toàn năm 9,5%."
     },
     {
-      "title": "VN-Index giảm 0,17%, khối ngoại bán ròng 377 tỷ",
+      "title": "VN-Index giảm, khối ngoại bán ròng 377 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 2,95 điểm về 1.777,73 điểm, giao dịch chỉ 13,5 ngàn tỷ đồng. Khối ngoại bán ròng 377 tỷ. Nhóm tài chính-ngân hàng (TCB, SHB, CTG, MBB) và bất động sản (VIC, VRE, NVL) sụt giảm."
+      "note": "Phiên 29/09, VN-Index giảm 2,95 điểm (-0,17%) về 1.777,73 điểm, giao dịch yếu với giá trị chỉ 13,5 ngàn tỷ đồng. Khối ngoại bán ròng 377 tỷ đồng. Nhóm tài chính-ngân hàng và bất động sản bị phân hóa mạnh, VIC kéo chỉ số giảm hơn 3 điểm."
     },
     {
-      "title": "Fed nâng lãi suất 0,25%, dự báo 4,5%-4,75% năm 2027",
+      "title": "Ngân hàng huy động vốn dồi dào, trái phiếu lãi suất 9%-9,4%/năm",
+      "impact": "↑",
+      "note": "MB phát hành 1.750 tỷ đồng trái phiếu (2 lô) với lãi suất 9%/năm kỳ hạn 6 năm. VietABank phát hành 1.174 tỷ với lãi suất 9,4%/năm, TPBank phát hành 800 tỷ. Mặt bằng lãi suất huy động cao 6,8%-7,6%/năm, tăng 2-2,5% so với đầu năm."
+    },
+    {
+      "title": "Nhóm dầu khí và nguyên vật liệu tăng tốt",
+      "impact": "↑",
+      "note": "Phiên 29/09, dầu khí (BSR, PVT, PVS, PLX, PVD, PVP, GAS) tăng điểm xuyên suốt cả phiên. Nguyên vật liệu (HPG, GVR, MSR, DPM, DPR, PHR, HDC) cũng ghi nhận tăng tốt, là điểm nhấn khả quan giữa bối cảnh thị trường yếu."
+    },
+    {
+      "title": "KOS giảm sàn 7 phiên liên tiếp, rủi ro thanh khoản",
       "impact": "↓",
-      "note": "Fed nâng lãi suất 0,25% lên 3,75%-4% (16/9), lần đầu kể từ 2023. Kỳ vọng 4-4,25% cuối năm, 4,5-4,75% năm 2027. Mặt bằng lãi suất huy động trong nước cao 6,8%-7,6%/năm, tăng 2-2,5% so với đầu năm."
+      "note": "KOS liên tiếp giảm sàn 7 phiên từ 21-29/09. Ban lãnh đạo thừa nhận gặp khó khăn về nguồn vốn phục vụ sản xuất kinh doanh, các công ty chứng khoán giảm tỷ trọng cấp margin. Dấu hiệu cảnh báo rủi ro thanh khoản và hiệu ứng margin call."
     },
     {
-      "title": "AgriS vượt kế hoạch doanh thu 101%, lợi nhuận liên doanh +9 lần",
+      "title": "AgriS (SBT) vượt kế hoạch, lợi nhuận liên doanh tăng 9 lần",
       "impact": "↑",
-      "note": "AgriS doanh thu 26.733 tỷ đồng (hoàn thành 101% kế hoạch), lợi nhuận sau thuế 846 tỷ (+1,43%). Lợi nhuận từ liên doanh, liên kết đạt 300 tỷ, tăng gần 9 lần, phản ánh hiệu quả chiến lược mở rộng hệ sinh thái."
-    },
-    {
-      "title": "Brilliant Solutions (Singapore) mua 5,3% AgriS",
-      "impact": "↑",
-      "note": "Brilliant Solutions INC công bố trở thành cổ đông 5,3% AgriS với 48.015.592 cổ phiếu. BSI là tổ chức tài chính Singapore tập trung đầu tư vào doanh nghiệp tiềm năng châu Á, phản ánh tín hiệu tích cực với chiến lược tăng trưởng bền vững."
-    },
-    {
-      "title": "Quỹ KIM phân bổ vốn từng đợt, kỳ vọng 3 nhóm ngành vượt trội",
-      "impact": "→",
-      "note": "Quỹ KIM phân bổ vốn từng đợt thay vì giải ngân ồ ạt, tập trung cấu trúc cổ phiếu có động lực tăng trưởng riêng. Kỳ vọng ba nhóm ngành (bảo hiểm, vật liệu) vượt VN-Index từ nay đến cuối 2026/đầu 2027."
+      "note": "AgriS ghi nhận doanh thu thuần 26.733 tỷ đồng (hoàn thành 101% kế hoạch), lợi nhuận trước thuế gần 911 tỷ đồng (hoàn thành 96%), lợi nhuận sau thuế 846 tỷ đồng (tăng 1,43%). Lợi nhuận từ công ty liên doanh, liên kết đạt 300 tỷ đồng, tăng gần 9 lần."
     }
   ]
 }
