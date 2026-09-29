@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "GDP quý 3 dự báo 8,7% (tăng từ 8,4% Q2) và năm 2026 đạt 9,5% theo Standard Chartered, hỗ trợ bởi chiến lược tăng năng suất qua KHCN và đổi mới sáng tạo. Dòng tiền trong nước mua ròng mạnh (~800 tỷ đồng) khi ngoại bán (~400 tỷ đồng), phản ánh trao đổi chiến lược. Dầu khí tăng 2-6% do căng thẳng Trung Đông, song rủi ro địa chính trị còn cao. Lãi suất huy động 7,8% tại một số ngân hàng hạn chế động lực đầu tư dài hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay điều chỉnh nhẹ với VN-Index giảm 0,17% (2,95 điểm xuống 1.777,73) do thanh khoản sụt giảm, tuy nhiên các yếu tố vĩ mô dài hạn khá tích cực. Standard Chartered dự báo GDP quý 3/2026 đạt 8,7% YoY (tăng từ 8,4% quý 2), sản xuất công nghiệp tăng 13,2% và xuất khẩu tăng 27,2%, cho thấy nền kinh tế vẫn duy trì động lực. Dòng tiền nội địa (tự doanh CTCK mua ròng 802 tỷ) hỗ trợ tích cực nhưng bị triệt tiêu bởi áp lực bán ròng 377 tỷ từ khối ngoại. Với chiến lược tăng năng suất qua khoa học công nghệ, thị trường sẽ có cơ hội phục hồi nhưng cần chờ tín hiệu thanh khoản rõ ràng.",
   "top": [
     {
-      "title": "GDP Q3 2026 dự báo 8,7%, năm 2026 đạt 9,5%",
+      "title": "Standard Chartered dự báo GDP Q3 đạt 8,7%, tăng từ 8,4% Q2",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP quý 3/2026 đạt 8,7% so với cùng kỳ năm trước (tăng từ 8,4% quý 2), GDP cả năm 2026 ở 9,5%. Sản xuất công nghiệp dự kiến tăng 13,2%, xuất khẩu tăng 27,2%, nhập khẩu tăng 40%. Lạm phát quanh mục tiêu 4,5%."
+      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8,7% YoY, tăng từ 8,4% quý 2; H2/2026 dự báo 10,6%; GDP cả năm 2026 đạt 9,5%. Sản xuất công nghiệp tăng 13,2%, xuất khẩu Q3 tăng 27,2%, nhập khẩu tăng 40%; lạm phát tháng 9 ở mức 4,5%. Tăng trưởng kinh tế vững chắc hỗ trợ triển vọng lợi nhuận doanh nghiệp."
     },
     {
-      "title": "Dòng tiền trong nước mua mạnh khi ngoại bán",
-      "impact": "→",
-      "note": "Khối ngoại bán ròng 377-400 tỷ đồng, tập trung xả VPB (~250-388 tỷ). Tự doanh CTCK mua ròng mạnh 802 tỷ đồng, gồm VPB (~390 tỷ), GMD (216 tỷ), TCB (112 tỷ). Dòng tiền trong nước hỗ trợ thị trường."
-    },
-    {
-      "title": "Dầu khí tăng 2-6% do triển vọng giá dầu cao",
+      "title": "Quỹ KIM kỳ vọng 3 nhóm cổ phiếu bứt tốc vượt VN-Index cuối năm",
       "impact": "↑",
-      "note": "Nhóm dầu khí năng lượng cuối phiên được dòng tiền chú ý: GAS tăng 1,68%, PLX, PVD, PVS tăng trên 2%, PVT tăng 6% với khối lượng 16 triệu cổ phiếu. Giá dầu và vận tải dầu khí neo cao do căng thẳng khu vực Trung Đông, tuy rủi ro địa chính trị vẫn còn."
+      "note": "Quỹ KIM phân bổ vốn theo từng đợt tập trung vào cổ phiếu có động lực tăng trưởng lợi nhuận riêng; kỳ vọng bảo hiểm, vật liệu và các nhóm ngành khác có khả năng vượt trội từ nay đến cuối năm 2026 hoặc đầu năm 2027, phản ánh tin tưởng vào cơ hội hồi phục sau nâng hạng FTSE."
     },
     {
-      "title": "Thủ tướng: cần tăng năng suất qua KHCN và đổi mới sáng tạo",
+      "title": "Tự doanh CTCK mua ròng 802 tỷ đồng, VPB mua ròng 388 tỷ",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng chủ trì phiên họp Ban Chỉ đạo Trung ương về KHCN, đổi mới sáng tạo, chuyển đổi số. Nhấn mạnh con đường bền vững là tăng năng suất từ KHCN, không thể duy trì tăng 2 con số chỉ dựa vào vốn và lao động chi phí thấp."
+      "note": "Tự doanh CTCK mua ròng 802 tỷ đồng trên HoSE phiên 29/9; VPB được mua ròng mạnh nhất với 388 tỷ đồng; GMD mua ròng 216 tỷ; TCB mua ròng 112 tỷ. Dòng tiền nội địa hỗ trợ tích cực bù đắp một phần áp lực bán của khối ngoại."
     },
     {
-      "title": "HOSE xây dựng chỉ số VNPRIVGRO (30 mã kinh tế tư nhân)",
-      "impact": "→",
-      "note": "HOSE phối hợp xây dựng chỉ số Vietnam Private Growth Index (VNPRIVGRO) gồm 30 mã cổ phiếu được lựa chọn từ VNAllshare, doanh nghiệp tư nhân quy mô lớn, thanh khoản tốt, tiềm năng tăng trưởng. Tạo thước đo tham chiếu và nền tảng phát triển sản phẩm đầu tư theo chỉ số."
-    },
-    {
-      "title": "AgriS (SBT): nhà đầu tư nước ngoài vào, vượt kế hoạch doanh thu",
+      "title": "Dầu khí tăng 2-6% do căng thẳng Trung Đông, PVT +6%",
       "impact": "↑",
-      "note": "Brilliant Solutions INC (tổ chức tài chính Singapore) trở thành cổ đông lớn SBT với 48,015,592 cổ phiếu (5,30%). AgriS vượt kế hoạch doanh thu 26,733 tỷ đồng (hoàn thành 101%), lợi nhuận sau thuế 846 tỷ (tăng 1,43%), lợi nhuận liên doanh 300 tỷ (tăng 9 lần)."
+      "note": "Nhóm dầu khí năng lượng cuối phiên được dòng tiền chú ý: GAS tăng 1,68%, PLX/PVD/PVS tăng trên 2%, PVT tăng 6% với khối lượng giao dịch bùng nổ 16 triệu cổ phiếu. Giá dầu và vận tải dầu khí neo cao do căng thẳng khu vực Trung Đông, tuy rủi ro địa chính trị vẫn còn."
+    },
+    {
+      "title": "AgriS vượt kế hoạch doanh thu, nhà đầu tư nước ngoài tăng tỷ lệ",
+      "impact": "↑",
+      "note": "AgriS hoàn thành doanh thu 26,733 tỷ đồng (vượt 101% kế hoạch); lợi nhuận trước thuế 911 tỷ đồng; lợi nhuận sau thuế 846 tỷ đồng (tăng 1,43%); lợi nhuận liên doanh 300 tỷ đồng (tăng 9 lần). Brilliant Solutions INC (Singapore) trở thành cổ đông lớn với 48,015,592 cổ phiếu (5,30%), mở rộng kết nối quốc tế."
+    },
+    {
+      "title": "HOSE xây dựng chỉ số VNPRIVGRO gồm 30 mã kinh tế tư nhân",
+      "impact": "↑",
+      "note": "HOSE phát triển chỉ số Vietnam Private Growth Index (VNPRIVGRO) gồm 30 mã cổ phiếu từ VNAllshare, doanh nghiệp tư nhân quy mô lớn, thanh khoản tốt, tiềm năng tăng trưởng. Tạo thước đo tham chiếu cho nhà đầu tư và nền tảng phát triển sản phẩm đầu tư, giúp định hướng rõ hơn cho ngành kinh tế tư nhân."
     }
   ]
 }
