@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường hôm nay ghi nhận sự phân hóa mạnh khi khối ngoại tiếp tục bán ròng ~377 tỷ đồng nhưng chọn lọc mua mạnh VPB (388 tỷ), đặc biệt dầu khí hưởng lợi từ giá dầu cao. Thanh khoản yếu chỉ 13.500 tỷ đồng (thấp hiếm có) phản ánh tâm lý nhà đầu tư chưa tối ưu, bất động sản chịu áp lực với NVL/PNJ sàn liên tiếp. Tuy nhiên, dự báo GDP Q3 đạt 8.7%, nửa cuối 2026 đạt 10.6% cùng xuất khẩu tăng 27.2% cho thấy nền kinh tế vẫn có động lực tăng trưởng mạnh bất chấp áp lực ngắn hạn từ tâm lý thị trường yếu.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phiên 29/9 đóng cửa với áp lực giảm điểm, thanh khoản yếu chỉ 13.500 tỷ đồng. Mặc dù triển vọng vĩ mô tích cực (GDP quý 3 dự báo 8.7%, xuất khẩu tăng 27.2%), nhưng dòng tiền ngoại liên tục bán ròng gần 377 tỷ đồng khiến chỉ số chịu áp lực. Sự tập trung quá độ vào VIC (+356.9%) và VHM (+104%) đã che khuất hiệu suất yếu của phần còn lại thị trường, trong khi nhóm dầu khí hưởng lợi từ căng thẳng Trung Đông.",
   "top": [
     {
-      "title": "GDP Q3/2026 dự báo 8.7%, nửa cuối năm dự báo 10.6%",
+      "title": "GDP quý 3 dự báo 8.7%, nửa cuối năm 10.6%, sản xuất công nghiệp 13.2%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo tăng trưởng GDP Q3/2026 đạt 8.7% (tăng từ 8.4% Q2), GDP nửa cuối năm 2026 dự báo 10.6%, giữ nguyên dự báo năm 2026 ở 9.5%, phản ánh nền kinh tế duy trì động lực tăng trưởng mạnh mẽ."
+      "note": "Standard Chartered dự báo tăng trưởng GDP Việt Nam quý 3/2026 đạt 8.7% (tăng từ 8.4% quý 2), nửa cuối năm 2026 là 10.6%, toàn năm 9.5%; sản xuất công nghiệp 13.2%, xuất khẩu 27.2%, lạm phát 4.5% — tín hiệu vĩ mô dương cho nền kinh tế và doanh nghiệp."
     },
     {
-      "title": "Khối ngoại bán ròng 377 tỷ nhưng mua mạnh VPB 388 tỷ",
+      "title": "VN-Index giảm 2.95 điểm, thanh khoản yếu 13.500 tỷ đồng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 377 tỷ đồng tập trung xả VPB, HPG, ACB, VIC, VHM; riêng VPB được mua ròng mạnh nhất 388 tỷ đồng. VN-Index giảm 2.95 điểm (-0.17%) về mức 1.777,73 điểm, bán ròng tạo áp lực lên chỉ số."
+      "note": "Phiên 29/9, VN-Index giảm 2.95 điểm xuống 1.777,73 điểm, HNX-Index giảm 1.4 điểm, ba sàn khớp lệnh chỉ 13.500 tỷ đồng (thấp hiếm có) — dòng tiền yếu phản ánh tâm lý nhà đầu tư chưa quay lại sau sự kiện nâng hạng FTSE."
     },
     {
-      "title": "Thanh khoản thị trường yếu chỉ 13.500 tỷ đồng",
+      "title": "Khối ngoại bán ròng 377 tỷ, mua ròng VPB 388 tỷ cân bằng danh mục",
       "impact": "↓",
-      "note": "Ba sàn khớp lệnh chỉ 13.500 tỷ đồng (thấp hiếm có), phản ánh dòng tiền chưa thấy sự hấp dẫn của thị trường chứng khoán, tâm lý nhà đầu tư chưa tối ưu."
+      "note": "Nhóm nhà đầu tư nước ngoài bán ròng 377 tỷ đồng trong phiên 29/9, tập trung xả VPB, HPG, ACB, VIC, VHM; riêng VPB được mua ròng 388 tỷ để cân bằng danh mục — duy trì xu hướng bán chung cho thị trường trong bối cảnh điều chỉnh."
     },
     {
-      "title": "Xuất nhập khẩu Q3 mạnh, xuất khẩu tăng 27.2%, nhập khẩu tăng 40%",
+      "title": "AgriS (SBT) doanh thu 26.733 tỷ đồng, hoàn thành 101% kế hoạch, lợi nhuận 846 tỷ",
       "impact": "↑",
-      "note": "Standard Chartered ước tính xuất khẩu Q3/2026 tăng 27.2%, nhập khẩu tăng 40%, hoạt động thương mại tiếp tục duy trì tích cực, tạo điều kiện cho tăng trưởng kinh tế năm 2026."
+      "note": "AgriS công bố kết quả FY 2025-26: doanh thu 26.733 tỷ đồng (101% kế hoạch), lợi nhuận trước thuế 911 tỷ đồng (96% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng (+1.43% YoY), lợi nhuận từ công ty liên doanh tăng 9 lần lên 300 tỷ đồng — phản ánh hiệu quả chiến lược đa hoá."
     },
     {
-      "title": "Bất động sản chịu áp lực, NVL/PNJ sàn liên tiếp",
+      "title": "VIC +356.9%, VHM +104% tạo tập trung bất thường, che khuất hiệu suất còn lại",
       "impact": "↓",
-      "note": "NVL chất sàn phiên thứ 2 liên tiếp với dư bán 69 triệu cổ phiếu, PNJ ăn sàn với dư bán 31 triệu cổ, cho thấy áp lực bán mạnh trong nhóm bất động sản."
+      "note": "Quỹ ngoại VNH báo cáo underperformance: VIC tăng 356.9%, VHM tăng 104% trong năm tài chính kết thúc 30/6/2026, nhưng Vietnam All Share Index tăng 32.4% — sự tập trung tạo rủi ro cấu trúc, che khuất tăng trưởng lợi nhuận của ngân hàng, bán lẻ và doanh nghiệp công nghiệp chất lượng cao."
     },
     {
-      "title": "Dầu khí tăng mạnh do giá dầu cao và căng thẳng Trung Đông",
+      "title": "Dầu khí tăng mạnh: PVT +6%, GAS +1.68%, PLX/PVD/PVS +2% do Trung Đông",
       "impact": "↑",
-      "note": "PVT tăng 6%, GAS tăng 1.68%, PLX/PVD/PVS tăng hơn 2% nhờ triển vọng giá dầu cao và vận tải dầu khí neo cao do căng thẳng khu vực Trung Đông, nhóm dầu khí khép lại phiên với sắc xanh xuyên suốt."
+      "note": "Nhóm dầu khí năng lượng tăng mạnh cuối phiên: PVT +6% với khối lượng bùng nổ 16 triệu cổ, GAS +1.68%, PLX/PVD/PVS +2% — được thúc đẩy bởi triển vọng giá dầu cao và vận tải dầu khí neo cao do căng thẳng khu vực Trung Đông."
     }
   ]
 }
