@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay ghi nhận nhiều tín hiệu tích cực với các doanh nghiệp hàng đầu tăng vốn mạnh mẽ (NCB tăng 33.000 tỷ đồng) và công bố lợi nhuận khả quan. Khu kinh tế cửa khẩu Mộc Bài thu hút thêm 800 triệu USD, hỗ trợ tăng trưởng kinh tế dài hạn. Giá dầu neo cao do căng thẳng Trung Đông hỗ trợ nhóm dầu khí. Tuy nhiên, Novaland gặp áp lực bán mạnh trước đợt phát hành cổ phiếu lớn, và rủi ro giả mạo HOSE vẫn tồn tại cần phòng chống.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Việt Nam tiếp tục duy trì tăng trưởng trên 5% với chiến lược tập trung vào KHCN, ĐMST và CĐS để tăng năng suất lâu dài, thay vì chỉ dựa vào vốn rẻ và lao động rẻ. Tuy nhiên, áp lực từ lãi suất toàn cầu cao (SoftBank huy động 11,1 tỷ USD với lãi tới 9,75%) làm tăng chi phí vay cho doanh nghiệp trong ngắn hạn. Dầu khí hưởng lợi từ giá cao do căng thẳng Trung Đông, và phát triển khu kinh tế cửa khẩu Mộc Bài mở ra cơ hội xuất nhập khẩu khu vực.",
   "top": [
     {
-      "title": "NCB tăng vốn điều lệ 33.000 tỷ đồng, vươn lên top 10 ngân hàng",
+      "title": "Chính sách tăng trưởng hướng tới KHCN, ĐMST, CĐS",
       "impact": "↑",
-      "note": "NHNN chấp thuận NCB phát hành 3,3 tỷ cổ phiếu ở 10.000 đồng/cổ phiếu, nâng vốn từ 29.280 lên 62.280 tỷ đồng (tăng 112,7%), chuẩn bị lọt Top 10 nhà băng có vốn lớn nhất. Đây là lần tăng vốn thứ 5 liên tiếp trong 6 năm, phản ánh sức khỏe tài chính mạnh."
+      "note": "Thủ tướng Lê Minh Hưng chủ trì phiên họp Ban Chỉ đạo Trung ương ngày 28/9 về KHCN-ĐMST-CĐS, khẳng định tăng trưởng hai con số không thể duy trì chỉ bằng vốn rẻ và lao động rẻ; con đường bền vững là tăng năng suất qua khoa học công nghệ và đổi mới sáng tạo, hỗ trợ những doanh nghiệp phù hợp định hướng này."
     },
     {
-      "title": "Y Khoa Hoàn Mỹ lãi gần 700 tỷ, cao nhất từ 2021",
+      "title": "Giá dầu cao do xung đột Trung Đông",
       "impact": "↑",
-      "note": "Năm 2025 lãi 679,4 tỷ đồng (tăng 23%), vốn chủ tăng 30% lên 2,88 ngàn tỷ đồng, hoàn tất thanh toán 1.4 ngàn tỷ đồng nợ trái phiếu. ROE 24%, ROA 10% cho thấy khả năng sinh lợi tốt trong ngành y tế."
+      "note": "Giá dầu neo cao do căng thẳng Iran, xung đột Houthi-Saudi Arabia; Saudi Arabia phục hồi tuyến ống Đông-Tây từ 22/9 sau tấn công UAV nhưng lưu lượng thấp, phục hồi mất nhiều tuần. Ngành dầu khí Việt Nam hưởng lợi từ giá cao, mặc dù còn rủi ro gián đoạn chuỗi cung Biển Đỏ."
     },
     {
-      "title": "AgriS hoàn thành vượt kế hoạch doanh thu niên độ 2025-2026",
-      "impact": "↑",
-      "note": "Doanh thu 26,733 tỷ đồng (101% kế hoạch), lợi nhuận trước thuế 911 tỷ đồng (96%), lợi nhuận sau thuế tăng 1,43%. Lợi nhuận từ liên doanh/liên kết tăng 9 lần lên 300 tỷ đồng, phản ánh chiến lược mở rộng hệ sinh thái hiệu quả."
-    },
-    {
-      "title": "Khu kinh tế cửa khẩu Mộc Bài thu hút 800 triệu USD",
-      "impact": "↑",
-      "note": "Khu kinh tế nằm trên biên giới Việt Nam-Campuchia định hướng phát triển thành khu thương mại tự do, cửa khẩu số và cửa khẩu thông minh, kết nối cao tốc TP HCM-Mộc Bài. Đây là chốt giao thương chiến lược với Campuchia và ASEAN."
-    },
-    {
-      "title": "Giá dầu neo cao hỗ trợ cổ phiếu dầu khí",
-      "impact": "↑",
-      "note": "Xung đột Houthi-Saudi Arabia leo thang, Saudi Arabia vận hành lại ống Đông-Tây từ 22/9 sau UAV tấn công. CPI Mỹ tháng 8 tăng 3,4% YoY, giá xăng tăng 3,9% trong tháng. Rủi ro tại eo Bab el-Mandeb và Strait of Hormuz hỗ trợ giá dầu, lợi cho nhóm dầu khí Việt Nam."
-    },
-    {
-      "title": "NVL giảm sàn trước chào bán tăng vốn, 65 triệu cổ phiếu chất sàn",
+      "title": "Lãi suất toàn cầu cao, áp lực chi phí vay",
       "impact": "↓",
-      "note": "Novaland giảm 6,8% xuống 10.300 đồng/cổ phiếu, 65 triệu cổ phiếu (2,7% lưu hành) chờ bán, mất 3.700 tỷ vốn hóa. Công ty chuẩn bị phát hành 800,7 triệu cổ phiếu ở 10.000 đồng huy động 8.007 tỷ đồng, áp lực trước ngày giao dịch không hưởng quyền 30/9."
+      "note": "SoftBank huy động kỷ lục 11,1 tỷ USD trái phiếu lợi suất cao, với lãi suất tối đa 9,75% (kỳ hạn 7,5 năm) do đầu tư AI quy mô lớn; phản ánh áp lực lãi suất toàn cầu cao tăng chi phí vay cho doanh nghiệp Việt Nam."
+    },
+    {
+      "title": "Khu kinh tế cửa khẩu Mộc Bài hướng tới thương mại tự do",
+      "impact": "↑",
+      "note": "Phó Thủ tướng Phạm Gia Túc chủ trì họp ngày 28/9 về thí điểm khu kinh tế cửa khẩu Mộc Bài; Tây Ninh đề xuất lập khu thương mại tự do, thúc đẩy thông quan một cửa một lần dừng với Campuchia, kết nối cao tốc TP HCM-Mộc Bài. Cơ hội mở ra cho logistics và xuất nhập khẩu khu vực."
+    },
+    {
+      "title": "Tăng vốn ngân hàng NCB 112,7%",
+      "impact": "→",
+      "note": "NHNN chấp thuận NCB tăng vốn điều lệ 33.000 tỷ đồng thêm qua phát hành 3,3 tỷ cổ phiếu riêng lẻ giá 10.000 đồng/cổ phiếu, nâng từ 29.280 tỷ lên 62.280 tỷ đồng; hoạt động huy động vốn mạnh của ngân hàng nhưng cũng tăng cung tiền mặt thị trường."
+    },
+    {
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
+      "impact": "↑",
+      "note": "Dự báo Bloomberg cho thấy Việt Nam duy trì tăng trưởng trên 5% trong dài hạn, bền bỉ so với các nước ASEAN khác; Indonesia tăng từ 4% lên khoảng 5%. Triển vọng tích cực cho TTCK Việt Nam từ nay đến hàng chục năm tới."
     }
   ]
 }
