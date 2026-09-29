@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Báo cáo GDP Q3 của Standard Chartered dự báo 8,7% (tăng từ 8,4% Q2) là tín hiệu tích cực, với nửa năm sau dự báo 10,6%. Tuy nhiên, thị trường chứng khoán gặp áp lực điều chỉnh sau nâng hạng FTSE Russell, khối ngoại bán ròng 400 tỷ đồng và thanh khoản yếu ở 13.500 tỷ. Lãi suất ngân hàng duy trì cao (ACB 7,8%/năm) để kiểm soát lạm phát dự báo 4,5%. Doanh nghiệp nông sản như AgriS duy trì tăng trưởng mạnh với doanh thu vượt 101% kế hoạch.",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì tăng trưởng vững chắc với GDP Q3 dự báo 8,7%, tuy nhiên TTCK chứng khoán chứng kỳ điều chỉnh cân bằng sau nâng hạng FTSE Russell. Dòng tiền trong nước quay trở lại mạnh (tự doanh mua ròng 802 tỷ) nhưng nhà đầu tư nước ngoài vẫn bán ròng 380 tỷ, thanh khoản toàn thị trường còn thấp. Các nhóm ngành như dầu khí, bảo hiểm, vật liệu được kỳ vọng sẽ vượt trội trong những tháng cuối năm, đặc biệt với định hướng phát triển bền vững thông qua công nghệ và đổi mới sáng tạo.",
   "top": [
     {
-      "title": "GDP Q3 dự báo 8,7%, nửa năm sau 10,6%",
+      "title": "Standard Chartered dự báo GDP Q3/2026 đạt 8,7%, tăng từ 8,4% Q2",
       "impact": "↑",
-      "note": "Standard Chartered dự báo tăng trưởng GDP Q3/2026 đạt 8,7% so với cùng kỳ (tăng từ 8,4% Q2), nửa cuối năm 2026 dự báo 10,6%, năm 2026 giữ 9,5%. Sản xuất công nghiệp dự kiến tăng 13,2%, xuất khẩu 27,2%, lạm phát tháng 9 khoảng 4,5% trong mục tiêu."
+      "note": "Standard Chartered dự báo GDP Q3/2026 đạt 8,7% so với cùng kỳ năm trước (tăng từ 8,4% Q2), sản xuất công nghiệp dự kiến tăng 13,2%, lạm phát tháng 9 ở 4,5%, giữ nguyên dự báo tăng trưởng GDP năm 2026 ở mức 9,5%, phản ánh nền kinh tế duy trì động lực mạnh mẽ bất chấp thách thức bên ngoài."
     },
     {
-      "title": "Khối ngoại bán ròng 400 tỷ đồng, tâm điểm VPB",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 377-380 tỷ đồng trong phiên 29/9, tâm điểm xả VPB (250-388 tỷ), cùng HPG, ACB, VIC, VHM. Tự doanh mua ròng mạnh 802 tỷ (VPB 390 tỷ, GMD 216 tỷ, TCB 110 tỷ). Tín hiệu lo ngại từ quốc tế sau nâng hạng FTSE Russell."
-    },
-    {
-      "title": "VN-Index giảm, thanh khoản 13.500 tỷ đồng",
-      "impact": "↓",
-      "note": "VN-Index giảm 2,95 điểm (-0,17%) về 1.777,73 điểm phiên 29/9. Ba sàn khớp lệnh 13.500 tỷ đồng (mức thấp hiếm có), cho thấy dòng tiền chưa thấy hấp dẫn. Nhóm ngân hàng, bất động sản, tiêu dùng không thiết yết điều chỉnh, NVL và PNJ chất sàn."
-    },
-    {
-      "title": "AgriS doanh thu 26,733 tỷ, vượt 101% kế hoạch",
-      "impact": "↑",
-      "note": "AgriS FY 2025-2026 công bố doanh thu thuần 26,733 tỷ đồng (hoàn thành 101% target), lợi nhuận sau thuế 846 tỷ (+1,43% so với FY trước), lợi nhuận từ liên doanh tăng 9 lần. Brilliant Solutions INC (Singapore) trở thành cổ đông lớn với 5,3% sở hữu (48 triệu cổ phiếu)."
-    },
-    {
-      "title": "Lãi suất ngân hàng cao, ACB 7,8%/năm kỳ hạn 12 tháng",
+      "title": "Dòng tiền trong nước mua ròng mạnh 802 tỷ, ngoại bán ròng 380 tỷ",
       "impact": "→",
-      "note": "Khảo sát 35 ngân hàng 29/9 cho thấy mặt bằng lãi suất tiếp tục phân hóa. ACB dẫn đầu 7,8%/năm (12 tháng), Sacombank 7,5%, LPBank 7,2%, VPBank 7,1%. Duy trì cao để kiểm soát lạm phát dự báo 4,5% tháng 9, dự báo lãi suất trong nước ổn định hỗ trợ thị trường chứng khoán."
+      "note": "Tự doanh CTCK mua ròng 802 tỷ đồng (chủ yếu VPB 390 tỷ, GMD 216 tỷ) trong phiên 29/9, trong khi khối ngoại bán ròng 380 tỷ với tâm điểm VPB 250 tỷ. Thanh khoản toàn thị trường chỉ 13.500 tỷ đồng, mức khá thấp cho thấy dòng tiền chưa hồi phục hoàn toàn."
     },
     {
-      "title": "Dầu khí tăng do căng thẳng Trung Đông, PVT +6%",
+      "title": "Quỹ ngoại VNH ghi nhận hiệu suất tương đối kém trong năm tài chính 2025-2026",
+      "impact": "↓",
+      "note": "VNH báo cáo năm TK kết thúc 30/6/2026 hiệu suất tương đối kém do tập trung bất thường của đợt tăng giá (VIC +356,9%, VHM +104%), trong khi nhà đầu tư nước ngoài duy trì trạng thái bán ròng cả năm. VNH không sở hữu VIC và chỉ duy trì vị thế trung lập VHM, do đó không hưởng lợi từ mức tăng rất mạnh của hai cổ phiếu."
+    },
+    {
+      "title": "Quỹ KIM dự báo 3 nhóm ngành vượt trội đến cuối 2026/đầu 2027",
+      "impact": "→",
+      "note": "Quỹ KIM kỳ vọng bảo hiểm, vật liệu và các nhóm ngành khác sẽ vượt trội so với thị trường từ nay đến cuối năm 2026 hoặc đầu 2027, tuy nhiên chuyên gia cảnh báo TTCK Việt Nam cần thận trọng sau sự kiện nâng hạng FTSE Russell, mức độ điều chỉnh có thể không quá lớn nếu lãi suất trong nước ổn định."
+    },
+    {
+      "title": "Thủ tướng nêu tầm nhìn phát triển bền vững qua công nghệ và đổi mới sáng tạo",
       "impact": "↑",
-      "note": "Nhóm dầu khí-năng lượng cuối phiên được dòng tiền chú ý: GAS +1,68%, PLX/PVD/PVS +2%, PVT +6% với khối lượng bùng nổ 16 triệu cổ. Mua ròng PVT 61 tỷ từ ngoại, do triển vọng giá dầu và vận tải dầu khí neo cao do căng thẳng khu vực Trung Đông."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu rằng không thể duy trì tăng trưởng hai con số nhiều năm nếu chỉ dựa vào vốn và lao động chi phí thấp, con đường bền vững là tăng năng suất thông qua khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, chủ trì phiên họp đầu tiên của Ban Chỉ đạo Trung ương về lĩnh vực này."
+    },
+    {
+      "title": "AgriS hoàn thành vượt kế hoạch doanh thu, đón nhà đầu tư nước ngoài quay lại",
+      "impact": "↑",
+      "note": "AgriS hoàn thành 101% kế hoạch doanh thu (26,733 tỷ đồng), lợi nhuận sau thuế tăng 1,43% đạt 846 tỷ đồng. Đồng thời, nhà đầu tư nước ngoài Brilliant Solutions Inc (BSI) từ Singapore trở thành cổ đông lớn với 48,015,592 cổ phiếu (5,30% sở hữu), phản ánh sự quay trở lại của vốn ngoại vào các doanh nghiệp tư nhân quy mô lớn."
     }
   ]
 }
