@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ngày 29/9 phản ánh sự đan xen giữa tín hiệu tích cực và rủi ro. Một số doanh nghiệp như SBT, Hoàn Mỹ ghi nhận kết quả kinh doanh tốt, trong khi khu kinh tế cửa khẩu Mộc Bài mở ra cơ hội hợp tác khu vực. Tuy nhiên, áp lực từ lãi suất toàn cầu tăng (lợi suất trái phiếu kho bạc Mỹ 10 năm lên 5,27%), giá dầu nóng (Brent 107 USD/thùng), và rủi ro tỷ giá đang tác động tiêu cực đến doanh nghiệp XNK. Những biến động mạnh của cổ phiếu bất động sản (NVL, KOS) phản ánh lo ngại thị trường ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán ghi nhận tín hiệu trái chiều: một số doanh nghiệp báo kết quả tích cực (AgriS, HM) song bất động sản chìm trong áp lực (Novaland giảm sàn 3.7 ngàn tỷ). Xung đột Trung Đông đẩy giá dầu tăng hỗ trợ cổ phiếu dầu khí, nhưng cũng kéo theo lạm phát toàn cầu tăng (Mỹ +3.4% YoY). Thủ tướng nhấn mạnh cần tăng năng suất qua KHCN và chuyển đổi số để duy trì tăng trưởng hai con số, trong bối cảnh áp lực lãi suất toàn cầu gia tăng.",
   "top": [
     {
-      "title": "Novaland vốn hóa bốc hơi 3.700 tỷ, 65 triệu cổ phiếu chất sàn",
+      "title": "Novaland giảm sàn mạnh, chào bán 8 ngàn tỷ đồng",
       "impact": "↓",
-      "note": "Nhịp giảm sàn liên tiếp khiến vốn hóa NVL rơi từ 24.741 tỷ xuống còn hơn 21 tỷ đồng. Hơn 65 triệu cổ phiếu (2,7% tổng lưu hành) chất bán giá sàn trước khi Novaland phát hành gần 800,7 triệu cổ phiếu phổ thông với giá 10.000 đồng/cp để huy động gần 8.007 tỷ đồng."
+      "note": "NVL giảm hết biên độ 6,8% xuống 10.300 đ/cp, 65 triệu cp chất giá sàn (2,7% tổng cp). Vốn hóa mất 3.7 ngàn tỷ đồng trong 2 phiên. Chào bán 800,7 triệu cp ở 10.000 đ/cp (huy động 8.007 tỷ đồng, tỷ lệ 33,33%)."
     },
     {
-      "title": "AgriS vượt kế hoạch, doanh thu 26,733 tỷ đồng",
-      "impact": "↑",
-      "note": "SBT hoàn thành 101% kế hoạch doanh thu niên độ 2025-2026 với 26,733 tỷ đồng. Lợi nhuận sau thuế tăng 1,43% lên hơn 846 tỷ đồng; lợi nhuận từ các công ty liên doanh đạt 300 tỷ đồng, tăng gần 9 lần, phản ánh hiệu quả chiến lược đầu tư mở rộng hệ sinh thái."
-    },
-    {
-      "title": "Y Khoa Hoàn Mỹ lãi 700 tỷ, sạch nợ trái phiếu",
-      "impact": "↑",
-      "note": "Hoàn Mỹ lãi gần 679,4 tỷ đồng năm 2025, cao nhất kể từ 2021 (tăng 23% so năm trước); vốn chủ tăng 30% lên hơn 2.88 ngàn tỷ đồng và đã hoàn tất thanh toán trái phiếu 1.4 ngàn tỷ. Hệ số thanh toán ngắn hạn tăng từ 0,66 lần lên 1,23 lần."
-    },
-    {
-      "title": "Kosy 7 phiên giảm sàn, 21 triệu cp chất bán giá sàn",
+      "title": "KOS \"nằm sàn\" 7 phiên liên tiếp, giá thấp 6 năm",
       "impact": "↓",
-      "note": "KOS giảm sàn phiên thứ 7 liên tiếp xuống 18.200 đồng/cp (mức thấp nhất 6 năm). Phiên sáng chỉ 300 cổ phiếu được khớp lệnh, trong khi 21 triệu đơn vị (gần 10% tổng cp lưu hành) chất bán giá sàn; vốn hóa thu hẹp còn khoảng 3.940 tỷ đồng."
+      "note": "KOS giảm sàn phiên thứ 7 liên tiếp, giá 18.200 đ/cp (thấp nhất 6 năm kể từ đầu 2020). Chỉ 300 cp khớp lệnh sáng 29/9, 21 triệu cp chất giá sàn (10% tổng cp), thanh khoản sụt giảm mạnh. Gần như chia đôi trong 1 tháng."
     },
     {
-      "title": "Lãi suất toàn cầu tăng, dầu nóng 107 USD/thùng",
-      "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm tăng lên 5,27%, cao nhất kể từ 6/2007. Giá dầu Brent tăng lên gần 107 USD/thùng; xu hướng thắt chặt tiền tệ toàn cầu tạo áp lực lớn cho doanh nghiệp XNK về rủi ro tỷ giá."
+      "title": "Xung đột Trung Đông, Houthi đe dọa tuyến vận tải, dầu khí hưởng lợi",
+      "impact": "→",
+      "note": "Iran tuyên bố không cho phép tự do hàng hải; Houthi tấn công tàu, mở rộng kiểm soát eo Bab el-Mandeb. Saudi Arabia khôi phục ống Đông-Tây từ 22/9 sau vụ tấn công UAV. CPI Mỹ tháng 8 tăng 3,4% YoY, xăng tăng 3,9% trong tháng (hơn 1/3 mức tăng CPI)."
     },
     {
-      "title": "Khu kinh tế cửa khẩu Mộc Bài thu hút 800 triệu USD",
+      "title": "Thủ tướng nhấn mạnh tăng năng suất qua KHCN, chuyển đổi số",
       "impact": "↑",
-      "note": "Phó Thủ tướng Phạm Gia Túc chủ trì họp về mô hình phát triển khu kinh tế cửa khẩu Mộc Bài (biên giới VN-Campuchia), dự kiến lập khu thương mại tự do. SHB cung cấp tài chính cho XNK với tài trợ lên 90% giá trị hợp đồng, hỗ trợ doanh nghiệp nắm bắt cơ hội giao thương khu vực."
+      "note": "Thủ tướng Lê Minh Hưng chủ trì phiên họp Ban Chỉ đạo Trung ương về KHCN, ĐMST, chuyển đổi số 28/9. Nhấn mạnh không thể duy trì tăng trưởng 2 con số nếu chỉ dựa vào vốn và lao động chi phí thấp; con đường bền vững là tăng năng suất."
+    },
+    {
+      "title": "AgriS (SBT) vượt kế hoạch doanh thu, lợi nhuận liên doanh tăng 9 lần",
+      "impact": "↑",
+      "note": "AgriS báo cáo tài chính niên độ 2025-2026: doanh thu 26,733 tỷ đồng (hoàn thành 101%), LNBT 911 tỷ đồng (96%), LNST 846 tỷ đồng (+1,43%). Lợi nhuận liên doanh đạt 300 tỷ đồng, tăng gần 9 lần so với niên độ trước."
+    },
+    {
+      "title": "Hoàn Mỹ lãi cao nhất kể từ 2021, tăng 23%, thanh toán trái phiếu 1,4 ngàn tỷ",
+      "impact": "↑",
+      "note": "Y Khoa Hoàn Mỹ (HM) năm 2025 lãi 679,4 tỷ đồng, tăng 23% so với 2024 (cao nhất kể từ 2021). Vốn chủ tăng 30% lên 2,88 ngàn tỷ đồng. Hoàn tất thanh toán lô trái phiếu 1,4 ngàn tỷ đồng."
     }
   ]
 }
