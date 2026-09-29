@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực kép: lãi suất Mỹ vượt 7% và dòng vốn ngoại yếu (nhà đầu tư Thái bán mạnh DR ETF), tuy nhiên được hỗ trợ bởi tăng trưởng vĩ mô mạnh duy trì trên 5%, các gói thầu lớn (PTSC 3 tỷ USD) và nỗ lực phát triển công nghệ nội địa. Nhà đầu tư nên thận trọng đón nhập, tập trung vào các cổ phiếu tâm điểm có dòng tiền mạnh, đặc biệt ngân hàng và doanh nghiệp hưởng lợi từ đầu tư cơ sở hạ tầng.",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì tăng trưởng 5%+ dẫn đầu ASEAN, được hỗ trợ bởi các dự án lớn (PTSC nhận 3 tỷ USD từ Qatar, thiết bị điện 500 kV) và khu kinh tế cửa khẩu phát triển. Tuy nhiên, áp lực từ bên ngoài gia tăng khi chứng khoán Mỹ đáo ngạc (S&P 500 giảm 0,77%), rủi ro Fed tăng lãi suất 70%, và nhà đầu tư nước ngoài (Thái Lan) rút vốn khỏi ETF Việt Nam mạnh. Thanh khoản thị trường trong nước suy yếu, nhưng dòng tiền tập trung vào ngân hàng và bất động sản.",
   "top": [
     {
-      "title": "Lãi suất thế chấp Mỹ vượt 7%, áp lực toàn cầu tăng",
+      "title": "Chứng khoán Mỹ giảm mạnh, Fed có thể tăng lãi suất",
       "impact": "↓",
-      "note": "Lãi suất vay nhà 30 năm vượt 7% lần đầu sau 2 năm, nhảy từ 7,26% (23/9) lên 7,45% (24/9), phản ánh Fed tăng lãi suất 0,25% vào 16/9. Áp lực lãi suất toàn cầu có thể làm suy yếu dòng vốn vào thị trường TTCK Việt Nam."
+      "note": "S&P 500 giảm 0,77% (phiên xấu nhất kể từ 20/8), Dow giảm 0,67%, Nasdaq giảm 0,925%. Nhà giao dịch đặt cược 70% khả năng Fed tăng lãi suất 0,25 điểm phần trăm trong cuộc họp tháng 10, áp lực từ lợi suất trái phiếu kho bạc Mỹ tăng và lo lạm phát do giá dầu leo thang."
     },
     {
-      "title": "Nhà đầu tư Thái bán mạnh DR ETF Việt, tín hiệu dòng vốn yếu",
+      "title": "Nhà đầu tư Thái Lan rút khỏi ETF Việt Nam mạnh",
       "impact": "↓",
-      "note": "DR FUEVFVND giảm 40% từ Q1/2023 còn 107,6 triệu đơn vị (thấp nhất kể từ 2022), E1VFVN30 giảm 2/3 còn 85,7 triệu đơn vị. Nhà đầu tư Thái bán ròng 77 triệu FUEVFVND và 169 triệu E1VFVN30 trong 3,5 năm, báo hiệu sự thất vọng với triển vọng thị trường Việt."
+      "note": "Nhà đầu tư Thái Lan bán ròng 77 triệu chứng chỉ quỹ FUEVFVND (giảm 40% từ đỉnh Q1/2023, chỉ còn 107,6 triệu đơn vị - thấp nhất kể từ năm 2022) và 169 triệu chứng chỉ quỹ E1VFVN30 (giảm 2/3, chỉ còn 85,7 triệu đơn vị) trong 3 năm rưỡi, đưa lượng nắm giữ xuống mức kỷ lục."
     },
     {
-      "title": "VN-Index giảm nhẹ, áp lực bán tồn tại giữa thanh khoản suy yếu",
-      "impact": "↓",
-      "note": "VN-Index đóng cửa 1780,68 điểm, giảm hơn 4 điểm, 13/18 ngành giảm điểm. Thanh khoản tuần 21-25/09 sụt giảm 14-16%, chỉ có lực cầu bắt đáy quanh 1765 điểm nhưng nền tảng chưa vững chắc."
-    },
-    {
-      "title": "Giá vàng sụt 170 USD/oz, chỉ báo áp lực lạm phát toàn cầu",
-      "impact": "→",
-      "note": "Giá vàng giao ngay giảm 170 USD/oz (4%) còn 4.115,5 USD/oz, bạc giảm 5,6%, do USD tăng và lợi suất trái phiếu Mỹ cao. Áp lực từ chiến tranh Mỹ-Iran kéo các NHTW tăng lãi suất, tạo sức ép trên tài sản quốc tế nhưng duy trì bất ổn về triển vọng kinh tế."
-    },
-    {
-      "title": "PTSC M&C nhận gói thầu 3 tỷ USD từ QatarEnergy",
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN với 5%+",
       "impact": "↑",
-      "note": "PTSC M&C được trao gói thầu EPIC-1 dự án Maydan Mahzam 1 trị giá hơn 3 tỷ USD, thực hiện 2026-2031, là dự án lớn nhất trong lịch sử công ty. Đóng góp tăng trưởng công nghiệp, xuất khẩu dịch vụ kỹ thuật dầu khí, tạo việc làm."
+      "note": "Mức tăng trưởng dự báo của Việt Nam được duy trì trên 5% trong 10 năm tới, dẫn đầu ASEAN trong bối cảnh tăng trưởng toàn cầu chậm lại và các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp hơn, nhờ ưu thế về quy mô, dân số và chiều sâu công nghiệp."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
+      "title": "Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ trái phiếu 1,4 ngàn tỷ",
       "impact": "↑",
-      "note": "Việt Nam duy trì tăng trưởng trên 5% dài hạn, Bloomberg dự báo là bền bỉ giữa bối cảnh tăng trưởng toàn cầu chậm lại. ASEAN có quy mô, dân số, công nghệ có thể chuyển hóa thành tích lũy vốn và đầu tư sản xuất, hỗ trợ nền tảng thị trường VN dài hạn."
+      "note": "Năm 2025, Y Khoa Hoàn Mỹ đạt lợi nhuận 679,4 tỷ đồng (tăng 23% so với năm trước, cao nhất từ 2021), vốn chủ tăng 30% lên 2,88 ngàn tỷ đồng, hoàn tất thanh toán lô trái phiếu 1,4 ngàn tỷ đồng, tổng nợ giảm 4,4%."
+    },
+    {
+      "title": "PTSC nhận gói thầu 3 tỷ USD từ QatarEnergy",
+      "impact": "↑",
+      "note": "PTSC M&C được QatarEnergy trao Gói thầu EPIC-1 (Dự án Maydan Mahzam 1) trị giá hơn 3 tỷ USD, dự kiến triển khai từ quý IV/2026 đến cuối năm 2031, là dự án có quy mô và khối lượng công việc lớn nhất trong lịch sử PTSC M&C."
+    },
+    {
+      "title": "Việt Nam chế tạo thiết bị điện 500 kV thay nhập khẩu",
+      "impact": "↑",
+      "note": "EEMC triển khai dự án R&D quốc gia chế tạo cuộn kháng bù ngang điện áp 500 kV, kinh phí 82,4 tỷ đồng (nhà nước hỗ trợ 22,2 tỷ đồng), từ chỗ phụ thuộc 100% nhập khẩu để làm chủ công nghệ thiết bị điện siêu cao áp."
     }
   ]
 }
