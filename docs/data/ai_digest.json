@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Áp lực vĩ mô từ lãi suất toàn cầu tăng mạnh: Chứng khoán Mỹ giảm 0,67-0,925%, Fed báo hiệu tăng lãi suất 0,25% trong tháng 10, giá vàng quốc tế sụt 4%. Nhà đầu tơ Thái Lan bán mạnh chứng chỉ quỹ Việt Nam, tín hiệu dòng vốn ngoài suy yếu. Doanh nghiệp XNK cần quản lý kỹ rủi ro tỷ giá khi đồng USD mạnh lên cùng lãi suất cao. Tuy nhiên, nước ta duy trì tăng trưởng trên 5% dài hạn dẫn đầu ASEAN và các doanh nghiệp chất lượng như Hoàn Mỹ vẫn báo lãi cao nhất, cân bằng phần nào rủi ro ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Việt Nam duy trì tăng trưởng dẫn đầu ASEAN trên 5% với sự gia tăng FDI mạnh (AgriS, Mộc Bài), còn doanh nghiệp như Hoàn Mỹ đạt lợi nhuận cao và sạch nợ. Tuy nhiên, lãi suất toàn cầu tăng (kho bạc Mỹ 10 năm lên 5,27%, cao nhất 2007) và tỷ giá bất ổn từ áp lực lãi suất đẩy doanh nghiệp phải chủ động quản lý rủi ro ngoại hối. Nhà đầu tư Thái Lan bán tháo ETF Việt Nam và dòng tiền suy yếu tiếp tục tạo áp lực ngắn hạn cho thị trường chứng khoán.",
   "top": [
     {
-      "title": "Chứng khoán Mỹ giảm mạnh do áp lực lãi suất kho bạc",
+      "title": "Lãi suất toàn cầu tăng, rủi ro tỷ giá đe dọa doanh nghiệp",
       "impact": "↓",
-      "note": "Dow Jones -347,11 điểm (-0,67%), S&P 500 -0,77%, Nasdaq -0,925%, phiên giảm mạnh nhất kể từ 20/8. Lợi suất trái phiếu kho bạc Mỹ leo thang, 70% khả năng Fed tăng lãi suất 0,25% trong cuộc họp tháng 10. Áp lực này truyền trực tiếp tới thị trường Việt Nam qua dòng vốn ngoài."
+      "note": "Lãi suất kho bạc Mỹ 10 năm tăng lên 5,27% (cao nhất kể từ tháng 6/2007), tăng 0,09 điểm phần trăm trong phiên 28/9. Mặc dù xuất nhập khẩu tăng 22-35% nhưng doanh nghiệp phải đối mặt rủi ro tỷ giá gia tăng từ các ngân hàng trung ương lớn phát tín hiệu thắt chặt tiền tệ."
     },
     {
-      "title": "Áp lực lãi suất toàn cầu và rủi ro tỷ giá",
+      "title": "Đà bán tháo trái phiếu, dầu tăng làm áp lực lãi suất toàn cầu",
       "impact": "↓",
-      "note": "Các NHTW lớn (Fed, ECB, BOJ) đồng loạt tăng lãi suất. Kim ngạch XNK tăng 28,7% (770,14 tỷ USD sau 8 tháng), nhưng doanh nghiệp phải đối mặt rủi ro tỷ giá khi đồng USD mạnh lên cùng lãi suất cao. Doanh nghiệp XNK cần công cụ quản lý ngoại hối chủ động."
+      "note": "Giá dầu Brent tăng hơn 4% lên gần 109 USD/thùng trong phiên 28/9, gây áp lực bán tháo trái phiếu kho bạc Mỹ. Lợi suất kỳ hạn 2 năm tăng lên 4,96%, 5 phiên liên tiếp kho bạc 10 năm tăng, tổng cộng tăng hơn 0,5 điểm phần trăm kể từ giữa tháng 8."
     },
     {
-      "title": "Giá vàng quốc tế sụt 4%, trong nước giảm 2 triệu đồng/lượng",
+      "title": "Nhà đầu tư Thái Lan rút khỏi thị trường chứng khoán Việt",
       "impact": "↓",
-      "note": "Giá vàng quốc tế: 4.115,5 USD/oz (giảm 170 USD = -4%), thấp nhất kể từ 5/8. Giá vàng SJC, DOJI, PNJ, Bảo Tín Minh Châu: 139,4-142,4 triệu đồng/lượng (giảm 2 triệu = -1,38% so với 26/9). Áp lực từ lãi suất cao và đồng USD mạnh lên làm kim loại quý mất sức hút."
+      "note": "Lượng DR FUEVFVND chỉ còn 107,6 triệu đơn vị (mức thấp nhất kể từ 2022), giảm 40% từ đỉnh Q1/2023. Nhà đầu tư Thái Lan bán ròng 77 triệu chứng chỉ quỹ FUEVFVND và 169 triệu chứng chỉ E1VFVN30 trong 3 năm rưỡi, thể hiện sự mất hứng thú với chứng khoán Việt Nam."
     },
     {
-      "title": "Nhà đầu tơ Thái Lan liên tục bán chứng chỉ quỹ Việt Nam",
-      "impact": "↓",
-      "note": "DR FUEVFVND còn 107,6 triệu đơn vị (thấp nhất kể từ 2022), giảm 40% từ đỉnh Q1/2023. DR E1VFVN30 còn 85,7 triệu đơn vị, bốc hơi 2/3 từ đỉnh. Nhà đầu tơ Thái bán ròng 77 triệu FUEVFVND và 169 triệu E1VFVN30 trong 3 năm rưỡi. Tín hiệu dòng vốn từ Thái Lan yếu đáng lo ngại."
-    },
-    {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn trên 5%",
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN, duy trì trên 5%",
       "impact": "↑",
-      "note": "Tăng trưởng dự báo duy trì trên 5% trong 10 năm tới, dẫn đầu ASEAN trong bối cảnh tăng trưởng toàn cầu chậm lại. Việt Nam có lợi thế dân số, quy mô thị trường và chiều sâu công nghiệp để tích lũy vốn và thu hút FDI sản xuất bền bỉ hơn các nền kinh tế phát triển."
+      "note": "Theo dự báo Bloomberg, Việt Nam bền bỉ với mức tăng trưởng duy trì trên 5% trong dài hạn, trong khi các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp hơn. ASEAN đang ở giai đoạn chuyển hóa quy mô dân số và chiều sâu công nghiệp thành tích lũy vốn."
     },
     {
-      "title": "Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ trái phiếu 1,4 ngàn tỷ",
+      "title": "FDI tăng mạnh, AgriS thu hút cổ đông nước ngoài lớn",
       "impact": "↑",
-      "note": "Y Khoa Hoàn Mỹ năm 2025: lãi 679,4 tỷ đồng (tăng 23% so với năm trước, cao nhất từ 2021), vốn chủ tăng 30% lên 2,88 ngàn tỷ đồng, hoàn tất thanh toán 1,4 ngàn tỷ đồng trái phiếu. ROE 24%, ROA 10%, khả năng thanh toán an toàn."
+      "note": "Brilliant Solutions INC (Singapore) trở thành cổ đông lớn AgriS với 5,30% sở hữu (48 triệu cổ phiếu). Tổng tỷ lệ sở hữu nước ngoài tại AgriS tăng hơn 16% trong một năm, đạt gần 22% tương đương 204 triệu cổ phiếu, thể hiện hứng thú với phát triển dài hạn của doanh nghiệp."
+    },
+    {
+      "title": "Hoàn Mỹ lãi 679,4 tỷ đồng năm 2025, sạch nợ trái phiếu",
+      "impact": "↑",
+      "note": "Năm 2025 lợi nhuận tăng 23% so với năm trước, đạt mức cao nhất kể từ 2021. Vốn chủ sở hữu tăng 30% lên 2.880 tỷ đồng, đã thanh toán toàn bộ lô trái phiếu 1.400 tỷ đồng. Hệ số thanh toán ngắn hạn tăng từ 0,66 lên 1,23 lần, hệ số nợ phải trả trên vốn chủ giảm từ 1,91 lên 1,4 lần."
     }
   ]
 }
