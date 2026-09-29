@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục nhận các tín hiệu tích cực từ hoạt động mở rộng vốn của các ngân hàng lớn (NCB tăng 33.000 tỷ đồng) và kết quả kinh doanh vượt kế hoạch của các công ty lớn như AgriS. Cổ phiếu dầu khí hưởng lợi từ giá dầu Brent neo cao (106,49 USD/thùng) do căng thẳng Trung Đông. Tuy nhiên, áp lực từ thanh khoản thắt chặt và kỳ vọng lãi suất cao vẫn tạo áp lực trên thị trường, với chuyên gia tài chính nhận định các ngân hàng không có dư địa giảm lãi suất cho vay.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam diễn biến trung tính với dòng tiền thận trọng (VN-Index -1,4 điểm), cân cả tín hiệu tích cực lẫn rủi ro. Nhóm dầu khí là điểm sáng khi giá dầu Brent neo ở 106,49 USD/thùng nhờ căng thẳng Trung Đông, AgriS vượt kế hoạch doanh thu 101% và NCB được phê duyệt tăng vốn 33.000 tỷ. Tuy nhiên, áp lực thanh khoản từ việc ngân hàng phải huy động vốn với lãi suất cao hạn chế khả năng giảm lãi suất cho vay, đồng thời giá vàng giảm 100 USD/ounce tạo áp lực tâm lý.",
   "top": [
+    {
+      "title": "Giá dầu Brent 106,49 USD/thùng, nhóm dầu khí tích cực",
+      "impact": "↑",
+      "note": "Căng thẳng Trung Đông kéo giá dầu Brent tăng lên 106,49 USD/thùng. Houthi mở rộng kiểm soát Biển Đỏ, Saudi Arabia khôi phục tuyến ống Đông-Tây từ 22/9 sau tấn công UAV với lưu lượng ban đầu thấp. Nhóm dầu khí Việt Nam hưởng lợi trực tiếp từ xu hướng giá dầu neo cao."
+    },
+    {
+      "title": "Ngân hàng không có dư địa giảm lãi suất cho vay",
+      "impact": "↓",
+      "note": "TS. Nguyễn Trí Hiếu nhận định: các ngân hàng phải huy động vốn với lãi suất cao nên không có khả năng giảm lãi suất cho vay. Tính thanh khoản trên thị trường liên ngân hàng rất căng thẳng; can thiệp OMO của NHNN chỉ mang tính cấp thời, không phải xu hướng dài hạn."
+    },
+    {
+      "title": "AgriS vượt kế hoạch doanh thu 101%, lợi nhuận liên doanh tăng 9 lần",
+      "impact": "↑",
+      "note": "AgriS báo cáo doanh thu niên độ 2025-2026 đạt 26.733 tỷ đồng (hoàn thành 101% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng tăng 1,43%. Lợi nhuận từ liên doanh, liên kết đạt 300 tỷ đồng (tăng gần 9 lần), phản ánh hiệu quả chiến lược mở rộng hệ sinh thái."
+    },
     {
       "title": "NCB được NHNN chấp thuận tăng vốn 33.000 tỷ đồng",
       "impact": "↑",
-      "note": "NHNN chấp thuận NCB phát hành 3,3 tỷ cổ phiếu giá 10.000 đồng/cổ phiếu, nâng vốn điều lệ lên gần 62.280 tỷ đồng (tăng 112,7%), sẽ lọt Top 10 ngân hàng vốn lớn nhất Việt Nam. Đây là lần tăng vốn thứ 5 liên tiếp trong 6 năm."
+      "note": "NHNN chấp thuận NCB phát hành 3,3 tỷ cổ phiếu giá 10.000 đồng/cổ phiếu, nâng vốn điều lệ lên gần 62.280 tỷ đồng (tăng 112,7%), sẽ lọt Top 10 ngân hàng vốn lớn nhất Việt Nam. Đây là lần tăng vốn thứ 5 liên tiếp trong vòng 6 năm (2021-2027)."
     },
     {
-      "title": "AgriS (SBT) vượt kế hoạch doanh thu, lợi nhuận liên doanh tăng 9 lần",
+      "title": "Giá vàng giảm mạnh 144 USD, xuống dưới 4.200 USD/ounce",
+      "impact": "↓",
+      "note": "Giá vàng thế giới giảm 144 USD so với hôm trước, chạm mức 4.122-4.124,8 USD/ounce (mức thấp nhất 7 tuần), tiếp nối đà giảm 2% của tuần trước. Sự phá vỡ ngưỡng tâm lý 4.200 USD tạo áp lực về nhận thức an toàn cho nhà đầu tư."
+    },
+    {
+      "title": "Chiến lược phát triển: KHCN, ĐMST, chuyển đổi số thay thế vốn rẻ",
       "impact": "↑",
-      "note": "AgriS báo cáo doanh thu niên độ 2025-2026 đạt 26.733 tỷ đồng (hoàn thành 101% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng (tăng 1,43%), lợi nhuận từ liên doanh đạt 300 tỷ đồng (tăng gần 9 lần), phản ánh hiệu quả chiến lược đầu tư mở rộng hệ sinh thái."
-    },
-    {
-      "title": "Cổ phiếu dầu khí hưởng lợi từ giá dầu cao",
-      "impact": "↑",
-      "note": "Giá dầu Brent giao kỳ hạn ghi nhận 106,49 USD/thùng, được hỗ trợ bởi căng thẳng Trung Đông (Houthi mở rộng kiểm soát Biển Đỏ, Saudi Arabia khôi phục tuyến ống Đông-Tây sau tấn công UAV). Nhóm dầu khí Việt Nam tiếp tục hưởng lợi từ xu hướng này."
-    },
-    {
-      "title": "Lãi suất liên ngân hàng căng, ngân hàng không có dư địa giảm lãi suất cho vay",
-      "impact": "→",
-      "note": "TS. Nguyễn Trí Hiếu nhận định các ngân hàng phải huy động vốn với lãi suất cao nên không có khả năng giảm lãi suất cho vay. NHNN can thiệp OMO thêm thanh khoản nhưng động thái này chỉ mang tính cấp thời, không phải xu hướng dài hạn."
-    },
-    {
-      "title": "Giá vàng giảm mạnh xuống dưới 4.200 USD/ounce",
-      "impact": "→",
-      "note": "Giá vàng thế giới giảm 144 USD so với hôm trước, chạm mức 4.122-4.124,8 USD/ounce (mức thấp nhất 7 tuần). Giảm được thúc đẩy bởi kỳ vọng lãi suất cao hơn và lo ngại kinh tế toàn cầu."
-    },
-    {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN trong dài hạn",
-      "impact": "↑",
-      "note": "Theo dự báo Bloomberg, Việt Nam duy trì mức tăng trưởng trên 5%, bền bỉ hơn Indonesia. ASEAN đang ở giai đoạn quy mô dân số, chiều sâu công nghiệp có thể chuyển hóa thành khả năng tích lũy vốn, thu hút đầu tư sản xuất."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu không thể tăng trưởng 2 con số dài hạn nếu chỉ dựa vào vốn và lao động chi phí thấp. Chiến lược dài hạn chuyển sang dựa vào năng suất từ KHCN, ĐMST và chuyển đổi số, tạo xu hướng tích cực cho doanh nghiệp công nghệ."
     }
   ]
 }
