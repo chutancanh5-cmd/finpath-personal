@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường VN hôm nay cân bằng giữa tín hiệu tích cực (chính sách KHCN/đổi mới sáng tạo của Chính phủ, giá dầu cao hỗ trợ nhóm dầu khí, kết quả kinh doanh tích cực Hoàn Mỹ) và áp lực tiêu cực (lãi suất toàn cầu tăng tạo rủi ro tỷ giá, chi phí vốn quốc tế tăng từ nhu cầu AI, Novaland chịu áp lực bán mạnh). Việt Nam duy trì tăng trưởng 5%+ bền bỉ nhưng cần quản lý rủi ro ngoại hối ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay ghi nhận nhiều tín hiệu tích cực với các doanh nghiệp hàng đầu tăng vốn mạnh mẽ (NCB tăng 33.000 tỷ đồng) và công bố lợi nhuận khả quan. Khu kinh tế cửa khẩu Mộc Bài thu hút thêm 800 triệu USD, hỗ trợ tăng trưởng kinh tế dài hạn. Giá dầu neo cao do căng thẳng Trung Đông hỗ trợ nhóm dầu khí. Tuy nhiên, Novaland gặp áp lực bán mạnh trước đợt phát hành cổ phiếu lớn, và rủi ro giả mạo HOSE vẫn tồn tại cần phòng chống.",
   "top": [
     {
-      "title": "SoftBank huy động 11,1 tỷ USD - Chi phí vốn quốc tế tăng",
+      "title": "NCB tăng vốn điều lệ 33.000 tỷ đồng, vươn lên top 10 ngân hàng",
       "impact": "↑",
-      "note": "SoftBank phát hành trái phiếu doanh nghiệp lợi suất cao quy mô lớn nhất thế giới 11,1 tỷ USD (10 tỷ USD + 1,1 tỷ EUR), lãi suất lên đến 9,75% kỳ hạn 7,5 năm, để tài trợ đầu tư OpenAI và AI. Toàn cầu vẫn đầu tư mạnh AI nhưng chi phí vốn tăng, ảnh hưởng quyết định FDI và M&A vào Việt Nam."
+      "note": "NHNN chấp thuận NCB phát hành 3,3 tỷ cổ phiếu ở 10.000 đồng/cổ phiếu, nâng vốn từ 29.280 lên 62.280 tỷ đồng (tăng 112,7%), chuẩn bị lọt Top 10 nhà băng có vốn lớn nhất. Đây là lần tăng vốn thứ 5 liên tiếp trong 6 năm, phản ánh sức khỏe tài chính mạnh."
     },
     {
-      "title": "Giá dầu neo cao - Nhóm dầu khí VN hưởng lợi",
+      "title": "Y Khoa Hoàn Mỹ lãi gần 700 tỷ, cao nhất từ 2021",
       "impact": "↑",
-      "note": "Giá dầu duy trì cao do xung đột Houthi-Saudi Arabia ở Trung Đông leo thang, CPI Mỹ tháng 8 tăng 3,4% (xăng tăng 3,9%), Saudi Arabia khôi phục lệnh ứng dụng Đông-Tây từ 22/9. Nhóm cổ phiếu dầu khí (GAS, PVD, BSR) được hỗ trợ ngắn hạn."
+      "note": "Năm 2025 lãi 679,4 tỷ đồng (tăng 23%), vốn chủ tăng 30% lên 2,88 ngàn tỷ đồng, hoàn tất thanh toán 1.4 ngàn tỷ đồng nợ trái phiếu. ROE 24%, ROA 10% cho thấy khả năng sinh lợi tốt trong ngành y tế."
     },
     {
-      "title": "Thủ tướng: Chuyển sang tăng năng suất",
+      "title": "AgriS hoàn thành vượt kế hoạch doanh thu niên độ 2025-2026",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu không thể duy trì tăng trưởng 2 con số nếu chỉ dựa vào vốn và lao động chi phí thấp; con đường bền vững là tăng năng suất qua KHCN, đổi mới sáng tạo, chuyển đổi số. Chính sách ưu tiên công nghệ có thể hỗ trợ cổ phiếu công nghệ."
+      "note": "Doanh thu 26,733 tỷ đồng (101% kế hoạch), lợi nhuận trước thuế 911 tỷ đồng (96%), lợi nhuận sau thuế tăng 1,43%. Lợi nhuận từ liên doanh/liên kết tăng 9 lần lên 300 tỷ đồng, phản ánh chiến lược mở rộng hệ sinh thái hiệu quả."
     },
     {
-      "title": "Novaland áp lực bán - Mất 3.700 tỷ vốn hóa",
+      "title": "Khu kinh tế cửa khẩu Mộc Bài thu hút 800 triệu USD",
+      "impact": "↑",
+      "note": "Khu kinh tế nằm trên biên giới Việt Nam-Campuchia định hướng phát triển thành khu thương mại tự do, cửa khẩu số và cửa khẩu thông minh, kết nối cao tốc TP HCM-Mộc Bài. Đây là chốt giao thương chiến lược với Campuchia và ASEAN."
+    },
+    {
+      "title": "Giá dầu neo cao hỗ trợ cổ phiếu dầu khí",
+      "impact": "↑",
+      "note": "Xung đột Houthi-Saudi Arabia leo thang, Saudi Arabia vận hành lại ống Đông-Tây từ 22/9 sau UAV tấn công. CPI Mỹ tháng 8 tăng 3,4% YoY, giá xăng tăng 3,9% trong tháng. Rủi ro tại eo Bab el-Mandeb và Strait of Hormuz hỗ trợ giá dầu, lợi cho nhóm dầu khí Việt Nam."
+    },
+    {
+      "title": "NVL giảm sàn trước chào bán tăng vốn, 65 triệu cổ phiếu chất sàn",
       "impact": "↓",
-      "note": "NVL giảm 6,8% xuống 10.300 đồng/cp, hơn 65 triệu cổ phiếu chất sàn (2,7% tổng lượng lưu hành), vốn hóa mất 3.700 tỷ đồng trong 2 phiên. Áp lực trước ex-right 30/9 khi doanh nghiệp phát hành 800,7 triệu cổ phiếu với giá 10.000 đồng."
-    },
-    {
-      "title": "Lãi suất toàn cầu tăng - Rủi ro tỷ giá gia tăng",
-      "impact": "↓",
-      "note": "Ngân hàng trung ương lớn phát tín hiệu thắt chặt tiền tệ, biến động tỷ giá trở thành mối lo của doanh nghiệp xuất nhập khẩu và FDI. Tính đến tháng 8, xuất nhập khẩu VN tăng 28,7% nhưng rủi ro ngoại hối gia tăng, doanh nghiệp cần công cụ quản lý tỷ giá tích cực."
-    },
-    {
-      "title": "Hoàn Mỹ lãi cao - Sạch nợ trái phiếu",
-      "impact": "↑",
-      "note": "Y Khoa Hoàn Mỹ báo lãi 679,4 tỷ đồng năm 2025 (tăng 23%, cao nhất kể từ 2021), vốn chủ 2.88 ngàn tỷ đồng (tăng 30%), hoàn tất thanh toán 1.4 ngàn tỷ trái phiếu. ROE 24%, hệ số thanh toán ngắn hạn tăng từ 0,66 lên 1,23 lần."
+      "note": "Novaland giảm 6,8% xuống 10.300 đồng/cổ phiếu, 65 triệu cổ phiếu (2,7% lưu hành) chờ bán, mất 3.700 tỷ vốn hóa. Công ty chuẩn bị phát hành 800,7 triệu cổ phiếu ở 10.000 đồng huy động 8.007 tỷ đồng, áp lực trước ngày giao dịch không hưởng quyền 30/9."
     }
   ]
 }
