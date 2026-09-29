@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường có tín hiệu tích cực từ tăng trưởng kinh tế dài hạn (Việt Nam dẫn đầu ASEAN trên 5%/năm), các dự án đầu tư quốc tế lớn (Qatar 3 tỷ USD, Mộc Bài 800 triệu USD), và kết quả kinh doanh mạnh của các công ty. Tuy nhiên, áp lực vẫn tồn tại từ dòng tiền ngoại rút khỏi các quỹ ETF Việt Nam (Thái Lan bán 246 triệu cổ phiếu trong 3,5 năm) và lãi suất tăng vọt ở Mỹ (trái phiếu kho bạc 10 năm 5,17%) khiến chi phí vay tăng cao cho các doanh nghiệp.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam giằng co giữa áp lực tiêu cực (khối ngoại rút mạnh qua DR ETF, thanh khoản suy yếu, lãi suất toàn cầu tăng vọt) và tín hiệu tích cực (Y Khoa Hoàn Mỹ lãi cao, doanh nghiệp dầu khí ký gói thầu 3 tỷ USD, triển vọng tăng trưởng dài hạn trên 5%). Nhà đầu tư nên thận trọng với dòng tiền ngoại rút khỏi thị trường nhưng vẫn có cơ hội tại các doanh nghiệp có nền tảng vững chắc.",
   "top": [
     {
-      "title": "Khu kinh tế cửa khẩu Mộc Bài mở rộng với cơ chế đặc thù",
-      "impact": "↑",
-      "note": "Phó Thủ tướng Phạm Gia Túc chủ trì cuộc họp phê duyệt đề án thí điểm. Tây Ninh đề xuất lập khu thương mại tự do, mô hình thông quan \"một cửa, một lần dừng\" với Campuchia, kết nối cao tốc TP HCM - Mộc Bài. Nằm trên biên giới Việt - Campuchia, trục giao thông xuyên Á, hứa hẹn hút đầu tư và tăng giao thương."
+      "title": "Nhà đầu tư Thái Lan bán mạnh DR ETF Việt Nam",
+      "impact": "↓",
+      "note": "DR FUEVFVND giảm 40% từ đỉnh Q1/2023 xuống 107,6 triệu đơn vị, DR E1VFVN30 giảm 2/3 xuống 85,7 triệu đơn vị, bán ròng 77 triệu chứng chỉ FUEVFVND và 169 triệu E1VFVN30 trong 3 năm rưỡi"
     },
     {
-      "title": "Y Khoa Hoàn Mỹ lãi 679 tỷ đồng, tăng 23% năm 2025",
+      "title": "VN-Index giảm, khối ngoại bán ròng",
+      "impact": "↓",
+      "note": "VN-Index giảm hơn 4 điểm đóng cửa tại 1780,68 điểm, 13/18 ngành giảm điểm, chỉ số giằng co quanh 1763 điểm, khối ngoại bán ròng trong phiên"
+    },
+    {
+      "title": "Y Khoa Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ trái phiếu",
       "impact": "↑",
-      "note": "Lợi nhuận năm 2025 đạt 679,4 tỷ đồng, cao nhất kể từ năm 2021. Vốn chủ sở hữu tăng 30% lên 2,88 ngàn tỷ đồng, đã thanh toán hoàn toàn 1,4 ngàn tỷ nợ trái phiếu. ROE 24%, ROA 10%, hệ số thanh toán ngắn hạn tăng từ 0,66 lên 1,23 lần, tài chính lành mạnh."
+      "note": "Y Khoa Hoàn Mỹ lãi hơn 679,4 tỷ đồng (tăng 23% YoY), vốn chủ tăng 30% lên hơn 2,88 ngàn tỷ đồng, đã hoàn tất thanh toán 1,4 ngàn tỷ đồng trái phiếu"
+    },
+    {
+      "title": "Lãi suất vay nhà Mỹ vượt 7%, tăng 19 bps/ngày",
+      "impact": "↓",
+      "note": "Lãi suất vay thế chấp nhà Mỹ 30 năm tăng từ 7,26% lên 7,45% chỉ sau 1 ngày (24/9), Fed vừa tăng lãi suất 0,25% vào 16/9 lần đầu trong 3 năm"
+    },
+    {
+      "title": "PTSC nhận gói thầu 3 tỷ USD từ QatarEnergy",
+      "impact": "↑",
+      "note": "PTSC M&C nhận gói thầu EPIC-1 với giá trị hơn 3 tỷ USD, thực hiện từ quý IV/2026 đến cuối năm 2031, là dự án có khối lượng công việc lớn nhất trong lịch sử"
     },
     {
       "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn",
       "impact": "↑",
-      "note": "Bloomberg dự báo tăng trưởng toàn cầu chậm lại trong hàng chục năm tới, nhưng Việt Nam bền bỉ duy trì tăng trưởng trên 5%/năm. Indonesia tăng từ 4% lên xấp xỉ 5%, trong khi các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp."
-    },
-    {
-      "title": "PTSC M&C nhận gói thầu Qatar 3 tỷ USD đến 2031",
-      "impact": "↑",
-      "note": "PTSC M&C (thành viên PETROVIETNAM) được QatarEnergy trao gói thầu EPIC-1 dự án Maydan Mahzam 1 với giá trị hơn 3 tỷ USD, triển khai quý IV/2026 - cuối 2031. Dự án tái phát triển mỏ dầu ngoài khơi, lớn nhất trong lịch sử PTSC M&C."
-    },
-    {
-      "title": "Nhà đầu tư Thái Lan bán ròng chứng chỉ quỹ ETF Việt Nam",
-      "impact": "↓",
-      "note": "Đến 25/9, DR FUEVFVND (mô phỏng DCVFM VNDiamond ETF) chỉ còn 107,6 triệu đơn vị, giảm 40% từ đỉnh Q1/2023 - thấp nhất từ 2022. DR E1VFVN30 \"bốc hơi\" 2/3 còn 85,7 triệu đơn vị. Thái Lan bán ròng 77 triệu cổ phiếu FUEVFVND và 169 triệu E1VFVN30 trong 3,5 năm."
-    },
-    {
-      "title": "Lãi suất trái phiếu kho bạc Mỹ tăng cao đến 5,17%",
-      "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm tăng lên 5,17%, cao nhất từ 2007. JPMorgan Chase ước tính 4,1 nghìn tỷ USD nợ liên quan AI sẽ phát hành tới 2030. Doanh nghiệp vay nợ sẽ phải đưa ra lợi suất cao hơn để thu hút nhà đầu tư, gia tăng chi phí tài chính toàn cầu."
+      "note": "Việt Nam duy trì mức tăng trưởng trên 5% trong dài hạn, ASEAN ở giai đoạn có thể chuyển hóa quy mô và dân số thành tích lũy vốn, thu hút đầu tư sản xuất"
     }
   ]
 }
