@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Tăng trưởng kinh tế vẫn khỏe với GDP quý 3 dự báo 8.7%, năm 2026 đạt 9.5%, lợi nhuận toàn thị trường quý 3 tăng 25% nhưng thị trường cổ phiếu yếu do lãi suất cho vay cao và thiếu thanh khoản. Giá vàng thế giới giảm sâu xuống 4.122 USD/oz do áp lực lạm phát và kỳ vọng lãi suất cao.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP quý 3 đạt 8.7%, lợi nhuận toàn thị trường tăng 25%, nhóm dầu khí (+94%), bán lẻ (+70%), bất động sản (+214%) bùng nổ nhờ giá dầu cao và đà tăng trưởng chung. Chính phủ nhấn mạnh cần KHCN, đổi mới sáng tạo để duy trì tăng trưởng hai con số, trong khi thị trường chứng khoán chịu áp lực từ dòng tiền thận trọng.",
   "top": [
     {
-      "title": "GDP quý 3 dự báo 8.7%, năm 2026 đạt 9.5%",
+      "title": "Lợi nhuận toàn thị trường quý 3 tăng 25%, dầu khí dẫn đầu",
       "impact": "↑",
-      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8.7% (tăng từ 8.4% quý 2), giữ nguyên dự báo toàn năm 2026 ở 9.5%. Các chỉ số kinh tế tháng 9 dự báo sản xuất công nghiệp tăng 13.2%, xuất khẩu tăng 27.2%, lạm phát 4.5%."
+      "note": "Dầu khí tăng lợi nhuận 94%, bất động sản dân cư tăng 214%, bán lẻ tăng 70% nhờ chu kỳ ICT-CE thuận lợi, vận tải tăng 53% từ nhóm cảng nước sâu bứt tốc."
     },
     {
-      "title": "Lợi nhuận toàn thị trường quý 3 tăng 25%",
+      "title": "GDP quý 3 Việt Nam duy trì 8.7%, tăng từ 8.4% quý 2",
       "impact": "↑",
-      "note": "MBS dự báo lợi nhuận quý 3/2026 tăng 25%, trong đó bất động sản dân cư tăng 214%, dầu khí tăng 94% do mặt bằng giá dầu cao, bán lẻ tăng 70%, vận tải tăng 53%."
+      "note": "Standard Chartered dự báo GDP quý 3/2026 đạt 8.7% so với cùng kỳ, GDP năm 2026 duy trì 9.5%. Sản xuất công nghiệp dự kiến tăng 13.2%, xuất khẩu tăng 27.2%, lạm phát quanh 4.5%."
     },
     {
-      "title": "Giá vàng thế giới giảm sâu xuống 4.122 USD/ounce",
-      "impact": "↓",
-      "note": "Giá vàng giao ngay xuống 4.122 USD/ounce (thấp nhất 7 tuần), giảm 144 USD trong ngày 29/9. Nguyên nhân: áp lực từ kỳ vọng lãi suất cao, giá dầu Brent tăng lên 106,49 USD/thùng tạo áp lực lạm phát."
-    },
-    {
-      "title": "Ngân hàng không dư địa hạ lãi suất cho vay",
-      "impact": "↓",
-      "note": "TS. Nguyễn Trí Hiếu nhận định các ngân hàng đang cần vốn, huy động vốn với lãi suất cao nên không có dư địa giảm lãi suất cho vay. Thanh khoản thị trường liên ngân hàng căng thẳng, lãi suất huy động vốn ở mức cao."
-    },
-    {
-      "title": "AgriS (SBT) vượt kế hoạch doanh thu 101%",
+      "title": "Thủ tướng: Cần khoa học công nghệ để duy trì tăng trưởng",
       "impact": "↑",
-      "note": "Doanh thu thuần niên độ 2025-2026 đạt 26.733 tỷ đồng (101% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng, lợi nhuận từ công ty liên doanh 300 tỷ đồng (tăng 9 lần so với niên độ trước)."
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh không thể tăng trưởng 2 con số nếu chỉ dựa vào vốn và lao động chi phí thấp, con đường bền vững là tăng năng suất thông qua KHCN, đổi mới sáng tạo, chuyển đổi số."
     },
     {
-      "title": "KOS 7 phiên liên tiếp giảm sàn do thiếu vốn",
+      "title": "AgriS vượt kế hoạch doanh thu 101%, nhà đầu tư Singapore tham gia",
+      "impact": "↑",
+      "note": "SBT doanh thu 26,733 tỷ đồng (101% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng. BSI (Singapore) công bố sở hữu 48,015,592 cổ phiếu, tương đương 5.30% vốn có quyền biểu quyết."
+    },
+    {
+      "title": "Giá vàng thế giới xuống 4.122 USD/ounce, mức thấp 7 tuần",
       "impact": "↓",
-      "note": "Cổ phiếu KOS giảm sàn liên tiếp 7 phiên (từ 21-29/09). Ban lãnh đạo thừa nhận gặp khó khăn về vốn cho sản xuất kinh doanh, các công ty chứng khoán giảm tỷ trọng margin gây áp lực bán mạnh."
+      "note": "Vàng giảm 144 USD/ounce trong ngày 29/9, xuống mức thấp nhất kể từ đầu tháng 8 do giá dầu Brent tăng lên 106,49 USD/thùng gây áp lực lạm phát, tăng kỳ vọng nâng lãi suất."
+    },
+    {
+      "title": "KOS khó khăn vốn, 7 phiên liên tiếp giảm sàn",
+      "impact": "↓",
+      "note": "Cổ phiếu KOS giảm sàn 7 phiên liên tiếp từ 21-29/09. Ban lãnh đạo thừa nhận gặp khó khăn về vốn sản xuất kinh doanh, các công ty chứng khoán giảm tỷ trọng margin gây áp lực bán."
     }
   ]
 }
