@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối diện áp lực lãi suất toàn cầu tăng mạnh (lợi suất Mỹ 10 năm lên 5,27%, cao nhất 18 năm), khiến dòng tiền suy yếu và VN-Index giảm liên tục. Tuy nhiên, xuất nhập khẩu tăng 28,7% (770 tỷ USD), các doanh nghiệp báo lãi cao (Hoàn Mỹ 679 tỷ đồng), và triển vọng tăng trưởng dài hạn (VN dẫn đầu ASEAN) vẫn cung cấp hỗ trợ. Nhà đầu tư cần cân nhắc cơ hội dài hạn với rủi ro tỷ giá ngắn hạn từ lãi suất biến động.",
+  "summary_vi": "Chính phủ nhấn mạnh tăng trưởng 2 con số phải dựa vào đổi mới công nghệ thay vì chi phí lao động thấp; Việt Nam dẫn đầu ASEAN với tăng trưởng 5%+ bền bỉ. Tuy nhiên, lãi suất toàn cầu tăng vọt (Mỹ 10 năm lên 5,27%), giá dầu tăng 107 USD/thùng gây áp lực lạm phát và rủi ro tỷ giá cho doanh nghiệp VN, giá vàng trong nước lao dốc 3,5 triệu đồng/lượng.",
   "top": [
     {
-      "title": "Lãi suất Mỹ tăng lên mức cao nhất 18 năm",
+      "title": "Thủ tướng: Tăng trưởng cần dựa công nghệ, không chi phí lao động",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng (28/9) khẳng định không thể duy trì 2 con số nếu chỉ dựa vào vốn và lao động chi phí thấp; con đường bền vững là tăng năng suất thông qua khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số. Hướng chính sách này tích cực cho các ngành công nghệ."
+    },
+    {
+      "title": "Việt Nam dẫn đầu ASEAN, tăng trưởng 5%+ dài hạn",
+      "impact": "↑",
+      "note": "Dự báo Bloomberg: Việt Nam duy trì tăng trưởng trên 5% trong dài hạn, dẫn đầu ASEAN, vượt xa các nền kinh tế phát triển. ASEAN đang tích lũy vốn, thu hút FDI vào sản xuất."
+    },
+    {
+      "title": "Lãi suất Mỹ 10 năm lên 5,27%, rủi ro tỷ giá tăng",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu Mỹ kỳ hạn 10 năm tăng lên 5,27%, mức cao nhất kể từ tháng 6/2007. Tăng liên tiếp 5 phiên với tổng mức tăng 0,5 điểm phần trăm từ giữa tháng 8. Áp lực bán tháo trên thị trường trái phiếu chính phủ quốc tế gia tăng theo giá dầu Brent tăng hơn 4% lên gần 109 USD/thùng."
+      "note": "Lợi suất trái phiếu Mỹ 10 năm tăng lên 5,27% (cao nhất từ 6/2007), 2 năm lên 4,96%; tăng liên tiếp 5 phiên với tổng 0,5 điểm phần trăm từ giữa tháng 8. Áp lực này gây rủi ro tỷ giá cho doanh nghiệp xuất nhập khẩu và FDI Việt Nam."
     },
     {
-      "title": "Xuất nhập khẩu tăng 28,7% lên 770 tỷ USD trong 8 tháng",
-      "impact": "↑",
-      "note": "Lũy kế 8 tháng đầu năm 2026, tổng kim ngạch XNK đạt 770,14 tỷ USD tăng 28,7% cùng kỳ; xuất khẩu tăng 22,4%, nhập khẩu tăng 35,3%, vốn FDI thực hiện tăng 12%. Tuy nhiên, lãi suất toàn cầu tăng tạo áp lực tỷ giá cho các doanh nghiệp XNK."
-    },
-    {
-      "title": "Hoàn Mỹ báo lãi 679 tỷ đồng, sạch nợ trái phiếu",
-      "impact": "↑",
-      "note": "CTCP Y Khoa Hoàn Mỹ năm 2025 lãi 679,4 tỷ đồng tăng 23% so với năm trước, mức cao nhất kể từ 2021. Vốn chủ tăng 30% lên 2,88 ngàn tỷ đồng, hoàn tất thanh toán lô trái phiếu 1,4 ngàn tỷ đồng. Hệ số thanh toán ngắn hạn tăng từ 0,66 lên 1,23 lần, nợ giảm 4,4%."
-    },
-    {
-      "title": "Dòng tiền suy yếu, VN-Index giảm liên tục",
+      "title": "Giá dầu tăng 107 USD/thùng, áp lực lạm phát",
       "impact": "↓",
-      "note": "Dòng tiền suy yếu trong tuần 21-25/09, VN-Index giảm hơn 4 điểm phiên 28/9 mặc dù lực cầu bắt đáy hồi phục mạnh vào cuối phiên. PNJ lỗ 61 tỷ đồng trong tháng 7-8, có phiên giảm thứ 5 liên tiếp."
+      "note": "Giá dầu Brent sáng 29/9 tăng hơn 1% lên gần 107 USD/thùng, WTI lên gần 94 USD/thùng, sau Trump bác bỏ đề xuất Iran mở eo biển Hormuz. Áp lực dầu cao dấy lo lạm phát, đẩy lợi suất trái phiếu tăng."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN, duy trì trên 5%",
+      "title": "Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ 1,4 ngàn tỷ",
       "impact": "↑",
-      "note": "Theo dự báo Bloomberg, Việt Nam bền bỉ với mức tăng trưởng duy trì trên 5% trong dài hạn, trong khi các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp hơn. ASEAN đang ở giai đoạn tích lũy vốn và thu hút FDI vào sản xuất."
+      "note": "CTCP Y Khoa Hoàn Mỹ năm 2025 lãi 679,4 tỷ đồng (tăng 23%), vốn chủ lên 2,88 ngàn tỷ đồng (tăng 30%), hoàn tất thanh toán trái phiếu 1,4 ngàn tỷ đồng. Hệ số thanh toán ngắn hạn tăng từ 0,66 lên 1,23 lần, nợ giảm 4,4%."
     },
     {
-      "title": "Khu kinh tế cửa khẩu Mộc Bài thu hút 800 triệu USD",
-      "impact": "↑",
-      "note": "Khu kinh tế cửa khẩu nằm biên giới Việt Nam-Campuchia trên trục giao thông xuyên Á. Phó Thủ tướng Phạm Gia Túc chủ trì cuộc họp thí điểm cơ chế, chính sách. Tây Ninh đề xuất lập khu thương mại tự do, thúc đẩy thông quan 'một cửa, một lần dừng' để tăng khả năng thu hút đầu tư."
+      "title": "Giá vàng trong nước rớt 3,5 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Giá vàng miếng, vàng nhẫn sáng 29/9 giảm 2,4 triệu đồng/lượng so với sáng qua xuống 138-141 triệu đồng/lượng; lũy kế 2 ngày gần 3,5 triệu đồng/lượng. Yếu tố này phản ánh áp lực từ lãi suất cao toàn cầu và lo ngại lạm phát."
     }
   ]
 }
