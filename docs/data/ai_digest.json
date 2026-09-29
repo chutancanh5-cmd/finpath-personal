@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-29",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì đà tăng trưởng mạnh mẽ với GDP Q3 dự báo 8.7%, lợi nhuận toàn thị trường tăng 25% nhờ bất động sản, dầu khí và bán lẻ bùng nổ. Tuy nhiên, áp lực từ giá vàng giảm mạnh (xuống 4.122 USD/oz) do kỳ vọng lãi suất cao khiến thanh khoản thị trường yếu và tâm lý bán áp đảo, đặc biệt tại các doanh nghiệp gặp khó khăn như KOS. Tín hiệu tích cực từ dòng vốn nước ngoài và các doanh nghiệp vượt kế hoạch cho thấy cơ hội đầu tư vẫn còn với những rủi ro ngắn hạn.",
+  "summary_vi": "Nền kinh tế Việt Nam triển vọng mạnh mẽ với GDP quý 3 dự báo đạt 8.7% (tăng từ 8.4% Q2) và xuất khẩu dự kiến tăng 27.2%. Thủ tướng nhấn mạnh chiến lược dài hạn cần tăng năng suất qua công nghệ và đổi mới sáng tạo thay vì chỉ dựa vào vốn và lao động chi phí thấp. Mặc dù giá vàng thế giới giảm mạnh xuống 4.122 USD/oz do áp lực lãi suất, Goldman Sachs vẫn dự báo 4.900 USD/oz trước cuối năm, trong khi thị trường chứng khoán gặp tâm lý chán nản và sự kiện riêng tiêu cực như KOS giảm sàn 7 phiên.",
   "top": [
     {
-      "title": "GDP Q3 Việt Nam dự báo 8.7%, tăng trưởng đà mạnh",
+      "title": "Standard Chartered dự báo GDP Q3 8.7%, xuất khẩu tăng 27.2%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP Q3 đạt 8.7%, tăng từ 8.4% Q2. Tăng trưởng nửa cuối năm dự báo 10.6%, năm 2026 dự báo 9.5%. Sản xuất công nghiệp dự kiến tăng 13.2%, xuất khẩu tăng 27.2%."
+      "note": "GDP Q3/2026 dự báo 8.7% so với cùng kỳ năm ngoái (tăng từ 8.4% Q2), xuất khẩu tăng 27.2%, sản xuất công nghiệp tăng 13.2%, lạm phát 4.5%. H2/2026 dự báo tăng 10.6%, GDP cả năm 2026 đạt 9.5% — duy trì đà tăng trưởng bền vững."
     },
     {
-      "title": "Lợi nhuận toàn thị trường Q3 tăng 25%, dầu khí dẫn đầu",
+      "title": "Thủ tướng: Tăng năng suất qua công nghệ, không chỉ vốn và lao động",
       "impact": "↑",
-      "note": "Dầu khí tăng lợi nhuận 94%, bất động sản dân cư tăng 214%, bán lẻ tăng 70%, ngân hàng tăng 19%. Một số ngành giảm: xây dựng -85%, xuất khẩu -42%, hàng không -40%."
+      "note": "Thủ tướng Lê Minh Hưng chủ trì phiên họp Ban Chỉ đạo về KHCN/ĐMST/CĐS, nhấn mạnh không thể duy trì tăng trưởng 2 con số nếu chỉ dựa vào vốn và lao động chi phí thấp. Con đường bền vững là tăng năng suất từ khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số."
     },
     {
-      "title": "Giá vàng thế giới sụt giảm 4.122 USD/oz, mức thấp 7 tuần",
+      "title": "KOS giảm sàn 7 phiên liên tiếp, khó khăn về vốn",
       "impact": "↓",
-      "note": "Vàng giảm 144 USD/ounce trong ngày 29/9, chạm mức thấp nhất 7 tuần. Nguyên nhân: Giá dầu Brent tăng lên 106,49 USD/thùng gây áp lực lạm phát, tăng kỳ vọng nâng lãi suất từ Fed."
+      "note": "Cổ phiếu KOS giảm sàn 7 phiên liên tiếp từ 21-29/09/2026. Công ty gặp khó khăn về vốn lưu động sản xuất kinh doanh, các công ty chứng khoán giảm tỷ trọng cấp margin khiến áp lực bán mạnh, cảnh báo rủi ro thanh khoản."
     },
     {
-      "title": "KOS khó khăn vốn, 7 phiên liên tiếp giảm sàn",
-      "impact": "↓",
-      "note": "Cổ phiếu KOS giảm sàn 7 phiên liên tiếp từ 21-29/09. Ban lãnh đạo thừa nhận gặp khó khăn về vốn lưu động sản xuất kinh doanh, các công ty chứng khoán giảm tỷ trọng margin gây áp lực bán mạnh."
+      "title": "Giá vàng thế giới xuống 4.122 USD/oz, Goldman Sachs dự báo 4.900 USD/oz",
+      "impact": "→",
+      "note": "Vàng giảm mạnh 144 USD/ounce ngày 29/9, chạm mức thấp 7 tuần. Nguyên nhân: giá dầu Brent 106,49 USD/thùng gây áp lực lạm phát, tăng kỳ vọng Fed nâng lãi suất. Goldman Sachs giữ dự báo vàng đạt 4.900 USD/oz trước cuối 2026, ngân hàng trung ương mua ròng 44 tấn/tháng."
     },
     {
       "title": "Nhà đầu tư Singapore BSI mua 5.30% cổ phiếu AgriS",
       "impact": "↑",
-      "note": "Brilliant Solutions INC công bố sở hữu 48,015,592 cổ phiếu SBT, tương đương 5.30% vốn có quyền biểu quyết. Mở rộng nền tảng cổ đông, kết nối thị trường quốc tế cho chiến lược tăng trưởng dài hạn của AgriS."
+      "note": "Brilliant Solutions INC công bố sở hữu 48.015.592 cổ phiếu SBT (5.30% vốn có quyền biểu quyết). Tổ chức tài chính Singapore tập trung đầu tư doanh nghiệp tiềm năng châu Á, mở rộng nền tảng cổ đông AgriS và kết nối thị trường quốc tế."
     },
     {
-      "title": "AgriS vượt kế hoạch doanh thu 101%, lợi nhuận tăng",
+      "title": "AgriS vượt kế hoạch doanh thu 101%, lợi nhuận liên doanh tăng 9 lần",
       "impact": "↑",
-      "note": "Doanh thu đạt 26,733 tỷ đồng (hoàn thành 101% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng (tăng 1.43%). Lợi nhuận từ công ty liên doanh tăng 9 lần, phản ánh hiệu quả chiến lược đầu tư mở rộng."
+      "note": "AgriS niên độ 2025-2026 doanh thu 26.733 tỷ đồng (hoàn thành 101% kế hoạch), lợi nhuận trước thuế 911 tỷ đồng, lợi nhuận sau thuế 846 tỷ đồng (tăng 1.43%). Lợi nhuận từ công ty liên doanh tăng 9 lần, phản ánh hiệu quả chiến lược đầu tư mở rộng hệ sinh thái."
     }
   ]
 }
