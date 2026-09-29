@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì tăng trưởng 5%+ dẫn đầu ASEAN, được hỗ trợ bởi các dự án lớn (PTSC nhận 3 tỷ USD từ Qatar, thiết bị điện 500 kV) và khu kinh tế cửa khẩu phát triển. Tuy nhiên, áp lực từ bên ngoài gia tăng khi chứng khoán Mỹ đáo ngạc (S&P 500 giảm 0,77%), rủi ro Fed tăng lãi suất 70%, và nhà đầu tư nước ngoài (Thái Lan) rút vốn khỏi ETF Việt Nam mạnh. Thanh khoản thị trường trong nước suy yếu, nhưng dòng tiền tập trung vào ngân hàng và bất động sản.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Áp lực vĩ mô từ lãi suất toàn cầu tăng mạnh: Chứng khoán Mỹ giảm 0,67-0,925%, Fed báo hiệu tăng lãi suất 0,25% trong tháng 10, giá vàng quốc tế sụt 4%. Nhà đầu tơ Thái Lan bán mạnh chứng chỉ quỹ Việt Nam, tín hiệu dòng vốn ngoài suy yếu. Doanh nghiệp XNK cần quản lý kỹ rủi ro tỷ giá khi đồng USD mạnh lên cùng lãi suất cao. Tuy nhiên, nước ta duy trì tăng trưởng trên 5% dài hạn dẫn đầu ASEAN và các doanh nghiệp chất lượng như Hoàn Mỹ vẫn báo lãi cao nhất, cân bằng phần nào rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Chứng khoán Mỹ giảm mạnh, Fed có thể tăng lãi suất",
+      "title": "Chứng khoán Mỹ giảm mạnh do áp lực lãi suất kho bạc",
       "impact": "↓",
-      "note": "S&P 500 giảm 0,77% (phiên xấu nhất kể từ 20/8), Dow giảm 0,67%, Nasdaq giảm 0,925%. Nhà giao dịch đặt cược 70% khả năng Fed tăng lãi suất 0,25 điểm phần trăm trong cuộc họp tháng 10, áp lực từ lợi suất trái phiếu kho bạc Mỹ tăng và lo lạm phát do giá dầu leo thang."
+      "note": "Dow Jones -347,11 điểm (-0,67%), S&P 500 -0,77%, Nasdaq -0,925%, phiên giảm mạnh nhất kể từ 20/8. Lợi suất trái phiếu kho bạc Mỹ leo thang, 70% khả năng Fed tăng lãi suất 0,25% trong cuộc họp tháng 10. Áp lực này truyền trực tiếp tới thị trường Việt Nam qua dòng vốn ngoài."
     },
     {
-      "title": "Nhà đầu tư Thái Lan rút khỏi ETF Việt Nam mạnh",
+      "title": "Áp lực lãi suất toàn cầu và rủi ro tỷ giá",
       "impact": "↓",
-      "note": "Nhà đầu tư Thái Lan bán ròng 77 triệu chứng chỉ quỹ FUEVFVND (giảm 40% từ đỉnh Q1/2023, chỉ còn 107,6 triệu đơn vị - thấp nhất kể từ năm 2022) và 169 triệu chứng chỉ quỹ E1VFVN30 (giảm 2/3, chỉ còn 85,7 triệu đơn vị) trong 3 năm rưỡi, đưa lượng nắm giữ xuống mức kỷ lục."
+      "note": "Các NHTW lớn (Fed, ECB, BOJ) đồng loạt tăng lãi suất. Kim ngạch XNK tăng 28,7% (770,14 tỷ USD sau 8 tháng), nhưng doanh nghiệp phải đối mặt rủi ro tỷ giá khi đồng USD mạnh lên cùng lãi suất cao. Doanh nghiệp XNK cần công cụ quản lý ngoại hối chủ động."
     },
     {
-      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN với 5%+",
+      "title": "Giá vàng quốc tế sụt 4%, trong nước giảm 2 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Giá vàng quốc tế: 4.115,5 USD/oz (giảm 170 USD = -4%), thấp nhất kể từ 5/8. Giá vàng SJC, DOJI, PNJ, Bảo Tín Minh Châu: 139,4-142,4 triệu đồng/lượng (giảm 2 triệu = -1,38% so với 26/9). Áp lực từ lãi suất cao và đồng USD mạnh lên làm kim loại quý mất sức hút."
+    },
+    {
+      "title": "Nhà đầu tơ Thái Lan liên tục bán chứng chỉ quỹ Việt Nam",
+      "impact": "↓",
+      "note": "DR FUEVFVND còn 107,6 triệu đơn vị (thấp nhất kể từ 2022), giảm 40% từ đỉnh Q1/2023. DR E1VFVN30 còn 85,7 triệu đơn vị, bốc hơi 2/3 từ đỉnh. Nhà đầu tơ Thái bán ròng 77 triệu FUEVFVND và 169 triệu E1VFVN30 trong 3 năm rưỡi. Tín hiệu dòng vốn từ Thái Lan yếu đáng lo ngại."
+    },
+    {
+      "title": "Việt Nam dẫn đầu tăng trưởng ASEAN dài hạn trên 5%",
       "impact": "↑",
-      "note": "Mức tăng trưởng dự báo của Việt Nam được duy trì trên 5% trong 10 năm tới, dẫn đầu ASEAN trong bối cảnh tăng trưởng toàn cầu chậm lại và các nền kinh tế phát triển bước vào kỷ nguyên tăng trưởng thấp hơn, nhờ ưu thế về quy mô, dân số và chiều sâu công nghiệp."
+      "note": "Tăng trưởng dự báo duy trì trên 5% trong 10 năm tới, dẫn đầu ASEAN trong bối cảnh tăng trưởng toàn cầu chậm lại. Việt Nam có lợi thế dân số, quy mô thị trường và chiều sâu công nghiệp để tích lũy vốn và thu hút FDI sản xuất bền bỉ hơn các nền kinh tế phát triển."
     },
     {
       "title": "Hoàn Mỹ lãi 679,4 tỷ đồng, sạch nợ trái phiếu 1,4 ngàn tỷ",
       "impact": "↑",
-      "note": "Năm 2025, Y Khoa Hoàn Mỹ đạt lợi nhuận 679,4 tỷ đồng (tăng 23% so với năm trước, cao nhất từ 2021), vốn chủ tăng 30% lên 2,88 ngàn tỷ đồng, hoàn tất thanh toán lô trái phiếu 1,4 ngàn tỷ đồng, tổng nợ giảm 4,4%."
-    },
-    {
-      "title": "PTSC nhận gói thầu 3 tỷ USD từ QatarEnergy",
-      "impact": "↑",
-      "note": "PTSC M&C được QatarEnergy trao Gói thầu EPIC-1 (Dự án Maydan Mahzam 1) trị giá hơn 3 tỷ USD, dự kiến triển khai từ quý IV/2026 đến cuối năm 2031, là dự án có quy mô và khối lượng công việc lớn nhất trong lịch sử PTSC M&C."
-    },
-    {
-      "title": "Việt Nam chế tạo thiết bị điện 500 kV thay nhập khẩu",
-      "impact": "↑",
-      "note": "EEMC triển khai dự án R&D quốc gia chế tạo cuộn kháng bù ngang điện áp 500 kV, kinh phí 82,4 tỷ đồng (nhà nước hỗ trợ 22,2 tỷ đồng), từ chỗ phụ thuộc 100% nhập khẩu để làm chủ công nghệ thiết bị điện siêu cao áp."
+      "note": "Y Khoa Hoàn Mỹ năm 2025: lãi 679,4 tỷ đồng (tăng 23% so với năm trước, cao nhất từ 2021), vốn chủ tăng 30% lên 2,88 ngàn tỷ đồng, hoàn tất thanh toán 1,4 ngàn tỷ đồng trái phiếu. ROE 24%, ROA 10%, khả năng thanh toán an toàn."
     }
   ]
 }
