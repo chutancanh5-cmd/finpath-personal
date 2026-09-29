@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-29",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Lợi nhuận doanh nghiệp quý 3 dự báo tăng 25% với dầu khí tăng 94% và bán lẻ tăng 70%, phản ánh sức mạnh kinh tế. Việt Nam dẫn đầu ASEAN về tăng trưởng dài hạn (trên 5%). Tuy nhiên, thị trường chịu áp lực từ lãi suất cho vay cao (ngân hàng huy động vốn với lãi suất cao nên không dư địa giảm) và giá vàng thế giới mất 144 USD/oz xuống 4.122 USD/oz. Một số cổ phiếu như KOS gặp khó khăn về vốn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Tăng trưởng kinh tế vẫn khỏe với GDP quý 3 dự báo 8.7%, năm 2026 đạt 9.5%, lợi nhuận toàn thị trường quý 3 tăng 25% nhưng thị trường cổ phiếu yếu do lãi suất cho vay cao và thiếu thanh khoản. Giá vàng thế giới giảm sâu xuống 4.122 USD/oz do áp lực lạm phát và kỳ vọng lãi suất cao.",
   "top": [
     {
-      "title": "Lợi nhuận quý 3/2026 tăng 25%, dầu khí +94%, bán lẻ +70%",
+      "title": "GDP quý 3 dự báo 8.7%, năm 2026 đạt 9.5%",
       "impact": "↑",
-      "note": "MBS dự báo lợi nhuận toàn thị trường tăng 25%, với bất động sản dân cư +214%, dầu khí +94%, bán lẻ +70%, vận tải +53%. Ngân hàng tăng 19% do nhóm quốc doanh dẫn dắt, mặc dù NIM vẫn chịu áp lực từ chi phí vốn cao."
+      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8.7% (tăng từ 8.4% quý 2), giữ nguyên dự báo toàn năm 2026 ở 9.5%. Các chỉ số kinh tế tháng 9 dự báo sản xuất công nghiệp tăng 13.2%, xuất khẩu tăng 27.2%, lạm phát 4.5%."
     },
     {
-      "title": "KOS giảm sàn 7 phiên liên tiếp, gặp khó vốn huy động",
-      "impact": "↓",
-      "note": "Cổ phiếu Kosy (HOSE: KOS) giảm sàn liên tục đến phiên 29/09 (7 phiên liên tiếp). Ban lãnh đạo thừa nhận gặp khó khăn về nguồn vốn phục vụ sản xuất kinh doanh, các công ty chứng khoán giảm tỷ trọng cấp margin khiến áp lực bán mạnh hơn."
-    },
-    {
-      "title": "Giá vàng thế giới mất 144 USD/oz, xuống 4.122 USD/oz",
-      "impact": "↓",
-      "note": "Sáng 29/09, giá vàng mất 144 USD/oz, xuống 4.122 USD/oz (sau đó 4.124,8 USD/oz), chạm mức thấp nhất 7 tuần. Nguyên nhân: lãi suất cao dự kiến, giá dầu tăng (106,49 USD/bbl Brent), căng thẳng địa chính trị leo thang."
-    },
-    {
-      "title": "Lãi suất cho vay duy trì cao, không có dư địa giảm",
-      "impact": "↓",
-      "note": "TS. Nguyễn Trí Hiếu: ngân hàng phải huy động vốn với lãi suất cao nên không thể giảm lãi suất cho vay. Thanh khoản thị trường liên ngân hàng căng thẳng; can thiệp OMO của NHNN chỉ cấp thời, không phải xu hướng dài hạn."
-    },
-    {
-      "title": "Việt Nam dẫn đầu ASEAN với tăng trưởng bền bỉ trên 5%",
+      "title": "Lợi nhuận toàn thị trường quý 3 tăng 25%",
       "impact": "↑",
-      "note": "Theo Bloomberg, Việt Nam duy trì tăng trưởng trên 5% dài hạn, là câu chuyện về sự bền bỉ. ASEAN ở giai đoạn quy mô dân số và công nghiệp có thể chuyển hóa thành tích lũy vốn và đầu tư sản xuất."
+      "note": "MBS dự báo lợi nhuận quý 3/2026 tăng 25%, trong đó bất động sản dân cư tăng 214%, dầu khí tăng 94% do mặt bằng giá dầu cao, bán lẻ tăng 70%, vận tải tăng 53%."
     },
     {
-      "title": "Goldman Sachs giữ dự báo vàng 4.900 USD/oz, mua ròng ngân hàng TW cao",
-      "impact": "→",
-      "note": "Goldman Sachs ước tính ngân hàng trung ương mua 44 tấn vàng tháng 7/2026 (gấp 2,6 lần trung bình trước 2022), mức trung bình 3 tháng 91 tấn/tháng. Dự báo vàng có thể đạt 4.900 USD/oz từ nay tới cuối 2026, tuy cảnh báo biến động mạnh theo hai chiều."
+      "title": "Giá vàng thế giới giảm sâu xuống 4.122 USD/ounce",
+      "impact": "↓",
+      "note": "Giá vàng giao ngay xuống 4.122 USD/ounce (thấp nhất 7 tuần), giảm 144 USD trong ngày 29/9. Nguyên nhân: áp lực từ kỳ vọng lãi suất cao, giá dầu Brent tăng lên 106,49 USD/thùng tạo áp lực lạm phát."
+    },
+    {
+      "title": "Ngân hàng không dư địa hạ lãi suất cho vay",
+      "impact": "↓",
+      "note": "TS. Nguyễn Trí Hiếu nhận định các ngân hàng đang cần vốn, huy động vốn với lãi suất cao nên không có dư địa giảm lãi suất cho vay. Thanh khoản thị trường liên ngân hàng căng thẳng, lãi suất huy động vốn ở mức cao."
+    },
+    {
+      "title": "AgriS (SBT) vượt kế hoạch doanh thu 101%",
+      "impact": "↑",
+      "note": "Doanh thu thuần niên độ 2025-2026 đạt 26.733 tỷ đồng (101% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng, lợi nhuận từ công ty liên doanh 300 tỷ đồng (tăng 9 lần so với niên độ trước)."
+    },
+    {
+      "title": "KOS 7 phiên liên tiếp giảm sàn do thiếu vốn",
+      "impact": "↓",
+      "note": "Cổ phiếu KOS giảm sàn liên tiếp 7 phiên (từ 21-29/09). Ban lãnh đạo thừa nhận gặp khó khăn về vốn cho sản xuất kinh doanh, các công ty chứng khoán giảm tỷ trọng margin gây áp lực bán mạnh."
     }
   ]
 }
