@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế vĩ mô nổi bật với Quảng Ninh dẫn đầu cả nước tăng trưởng 12,54% (9 tháng) và 15,04% (quý 3), hỗ trợ từ chính sách nới lỏng FDI. Tuy nhiên, áp lực bán xuất hiện với VN-Index giảm 0,51% và khối ngoại bán ròng VN30, trong khi các cơ hội tăng giá 14-44% vẫn có ở nhóm ngân hàng, công nghệ. Đà tích cực từ tín dụng ngành hàng (bất động sản, dầu khí) được cân bằng bởi tâm lý thận trọng ngắn hạn.",
+  "summary_vi": "Thị trường ngày 30/9 ghi nhận VN-Index giảm 0,51% khi khối ngoại tiếp tục bán ròng, nhưng các tín hiệu vĩ mô vẫn khả quan với Quảng Ninh dẫn đầu tăng trưởng GRDP quý 3 lên 15,04%. Chính sách nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài và hoạt động huy động vốn của doanh nghiệp cho thấy sức sống kinh tế. Nhà đầu tư nên cân bằng áp lực ngắn hạn từ dòng vốn ngoài và các cơ hội vĩ mô lâu dài.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu cả nước: GRDP 12,54% (9 tháng), 15,04% (quý III)",
+      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP quý 3 với mức 15,04%",
       "impact": "↑",
-      "note": "Quảng Ninh tăng trưởng GRDP 12,54% (9 tháng) và 15,04% (quý III/2026), dẫn đầu toàn quốc. Tất cả 12/12 dự án trọng điểm công nghiệp chế tạo hoạt động; tổng vốn đầu tư gần 100.000 tỷ đồng, tăng 17,4% so năm 2025. Động lực vĩ mô mạnh cho tăng trưởng kinh tế."
+      "note": "GRDP quý 3/2026 tăng 15,04% (dẫn đầu cả nước), 9 tháng tăng 12,54%; công nghiệp chế biến, chế tạo vốn 100.000 tỷ đồng; 12/12 dự án trọng điểm đi vào hoạt động theo kế hoạch."
     },
     {
-      "title": "Bộ Tài chính nới lỏng FDI, thúc đẩy nâng hạng thị trường chứng khoán",
-      "impact": "↑",
-      "note": "Bộ Tài chính đề xuất nới lỏng điều kiện tiếp cận thị trường cho nhà đầu tư nước ngoài theo lộ trình, đảm bảo công khai minh bạch. Khắc phục hạn chế danh mục ngành nghề, thúc đẩy nâng hạng thị trường, không phân biệt đối xử. Hỗ trợ kinh tế xanh và kinh tế số."
-    },
-    {
-      "title": "VN-Index giảm 0,51%, khối ngoại bán ròng VN30 kéo dài",
+      "title": "VN-Index giảm 0,51% khi khối ngoại bán ròng nhóm VN30",
       "impact": "↓",
-      "note": "VN-Index giảm 9,11 điểm (-0,51%) xuống 1.768,72 điểm; HNX-Index tăng 1,73 điểm (+0,64%). Khối ngoại tiếp tục bán ròng nhóm VN30 (17 mã giảm vs 10 mã tăng). Thị trường phân hóa với 339 mã giảm, 329 mã tăng. Áp lực bán mạnh cuối phiên 30/9."
+      "note": "VN-Index giảm 9,11 điểm xuống 1.768,62 điểm; khối ngoại bán ròng khoảng 910 tỷ đồng toàn thị trường, tự doanh CTCK bán ròng LPB (-496 tỷ), GMD (-59 tỷ), TCB (-51 tỷ)."
     },
     {
-      "title": "10 cổ phiếu tiềm năng tăng 14-44% trong 12 tháng tới",
+      "title": "Cổ phiếu PET tăng 46% trong một tuần, vượt 100% từ đầu năm",
       "impact": "↑",
-      "note": "VCB, VPB, TCB và các mã ngân hàng, công nghệ, viễn thông, FMCG tiềm năng tăng 14-44%. VCB kỳ vọng NIM 2,76%, nợ xấu 0,61%, bao phủ 279,2%; VPB tăng trưởng tín dụng 30,8%, tổng tài sản +29,6%; lợi nhuận trước thuế 6 tháng VPB +65,2%."
+      "note": "PET (Petrosetco) chốt phiên 30/9 ở 57.000 đồng, tăng hơn 5% trong phiên, vốn hóa vượt 8.800 tỷ đồng; VietinBank Capital giảm sở hữu từ 19% xuống 14,31%."
     },
     {
-      "title": "PET tăng 46% trong tuần, Aqua City nhận thông tin tích cực",
+      "title": "Bộ Tài chính đề xuất nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài",
       "impact": "↑",
-      "note": "PET (Petrosetco) tăng 46% trong 1 tuần, từ đầu năm tăng 100%, sát 57.000 đồng/cp (cao nhất lịch sử); giao dịch 97 triệu cổ phiếu (962 tỷ đồng). Khối ngoại mua ròng 4,95 triệu cổ phiếu (49 tỷ đồng). NVL thoát sàn 10.200 đồng: UBND Đồng Nai phê duyệt giá đất Aqua City, 7/8 phân khu không phải nộp thêm tiền sử dụng đất."
+      "note": "Dự thảo Luật sửa đổi Luật Đầu tư nới lỏng theo lộ trình, không phân biệt đối xử, thúc đẩy nâng hạng thị trường chứng khoán, bổ sung hình thức hỗ trợ phát triển chuỗi cung ứng và kinh tế xanh."
     },
     {
-      "title": "Ngân hàng phát hành 194.000 tỷ đồng trái phiếu (8 tháng 2026)",
+      "title": "F88 huy động 781,9 tỷ đồng từ phát hành công khai trên UPCoM",
       "impact": "↑",
-      "note": "Khối ngân hàng phát hành 194.000 tỷ đồng trái phiếu, chiếm 50,6% tổng giá trị phát hành trái phiếu doanh nghiệp toàn thị trường. SACOMBANK phát hành 781.9 tỷ đồng; F88 phát hành 11,013,200 cổ phiếu mang về 781.9 tỷ đồng, vốn điều lệ tăng 2.312,65 tỷ đồng. Đa dạng hóa vốn hỗ trợ tăng trưởng tín dụng bền vững."
+      "note": "F88 phát hành 11,013,200 cổ phiếu, huy động 781,9 tỷ đồng nâng vốn điều lệ lên 2.312,65 tỷ đồng; lợi nhuận trước thuế cả năm 2026 dự báo vượt 30% kế hoạch năm."
+    },
+    {
+      "title": "10 cổ phiếu ngân hàng, công nghệ có tiềm năng tăng giá 14-44% trong 12 tháng",
+      "impact": "↑",
+      "note": "VCB kỳ vọng NIM 2,76% và lợi nhuận trước thuế tăng 21,6%; VPB dự phóng tăng trưởng tín dụng 30,8%, lợi nhuận 6 tháng tăng 65,2%; TCB phục hồi hoạt động cho vay khách hàng."
     }
   ]
 }
