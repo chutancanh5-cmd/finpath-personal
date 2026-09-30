@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế vĩ mô duy trì đà tích cực với Quảng Ninh tăng trưởng 15.04% quý III (dẫn đầu cả nước), trong khi chính sách hỗ trợ gồm nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài, mở rộng kết nối CTCK với Singapore. Tuy nhiên, dòng tiền ngoại liên tục bán ròng (phiên thứ 6 liên tiếp) với khối lượng 910 tỷ đồng khiến VN-Index giảm 0.51%, tạo áp lực ngắn hạn bất chấp nền tảng kinh tế vẫn bền vững. Ngành tài chính tiếp tục bổ sung vốn thông qua phát hành trái phiếu (194 ngàn tỷ đồng) và tăng vốn từ doanh nghiệp như F88.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường gặp áp lực khi khối ngoại tiếp tục bán ròng lần thứ 6 liên tiếp với 910 tỷ đồng, VN-Index giảm 9,11 điểm (-0,51%) xuống 1.768,62 điểm, dòng tiền nội eo hẹp chưa có dấu hiệu đảo chiều. Tuy kinh tế vĩ mô vẫn tích cực với Quảng Ninh tăng trưởng 15,04% quý 3 (dẫn đầu cả nước) và các chính sách hỗ trợ như nới lỏng tiếp cận FDI, nhưng áp lực bán tạm lấn áp lực tích cực ngắn hạn.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng 15.04% quý III",
-      "impact": "↑",
-      "note": "GRDP quý III/2026 tăng 15.04% (cao nhất cả nước), 9 tháng tăng 12.54%. Công nghiệp chế biến, chế tạo là trụ cột với 12 dự án trọng điểm hoạt động, vốn đầu tư ~100 ngàn tỷ đồng tăng 17.4% so với cùng kỳ 2025, thúc đẩy tăng trưởng kinh tế vĩ mô."
+      "title": "Khối ngoại bán ròng 6 phiên liên tiếp, VN-Index giảm 0,51%",
+      "impact": "↓",
+      "note": "VN-Index giảm 9,11 điểm xuống 1.768,62 điểm; khối ngoại bán ròng 910 tỷ đồng, tự doanh CTCK bán ròng 8,14 tỷ đồng. LPB bị bán ròng 496 tỷ, GMD bán ròng 59 tỷ, TCB bán ròng 51 tỷ. Thanh khoản eo hẹp, dòng tiền nội chưa đảo chiều rõ rệt, tạo áp lực ngắn hạn."
     },
     {
-      "title": "Khối ngoại bán ròng phiên thứ 6 liên tiếp, VN-Index giảm 9.11 điểm",
-      "impact": "↓",
-      "note": "VN-Index giảm 9.11 điểm xuống 1.768.62 điểm (-0.51%); khối ngoại bán ròng 910 tỷ đồng, tự doanh CTCK bán ròng 8.14 tỷ đồng với LPB bị bán mạnh (-496 tỷ), GMD (-59 tỷ), TCB (-51 tỷ). Dòng tiền trong nước chưa đảo chiều, tạo rủi ro ngắn hạn."
+      "title": "Quảng Ninh tăng trưởng GRDP 15,04% quý 3, dẫn đầu cả nước",
+      "impact": "↑",
+      "note": "Quảng Ninh tăng trưởng GRDP 15,04% quý 3/2026 (cao nhất cả nước) và 12,54% cả 9 tháng. Năm thứ 2 liên tiếp dẫn đầu quý 3, vượt 2,16 điểm phần trăm so với cùng kỳ 2025. Động lực từ công nghiệp chế biến chế tạo với 12 dự án trọng điểm, vốn đầu tư gần 100.000 tỷ đồng tăng 17,4%."
+    },
+    {
+      "title": "Toàn bộ cổ phiếu HNX chuyển sang HOSE từ 28/12/2026",
+      "impact": "→",
+      "note": "Ngày 23/12/2026 là phiên giao dịch cuối cùng tại HNX, tạm ngừng 24-25/12, chuyên sang HOSE từ 28/12/2026. Sắp xếp lại toàn bộ TTCK cổ phiếu theo Thông tư 139/2025/TT-BTC. Yêu cầu nhà đầu tư chuẩn bị, phối hợp với các sở giao dịch."
     },
     {
       "title": "Nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài",
       "impact": "↑",
-      "note": "Bộ Tài chính đề xuất sửa đổi Luật Đầu tư thực hiện Nghị quyết 10 Bộ Chính trị, mở rộng tiếp cận thị trường theo lộ trình, không phân biệt đối xử, thúc đẩy nâng hạng thị trường chứng khoán, hỗ trợ kinh tế xanh và kinh tế số."
+      "note": "Bộ Tài chính đề xuất sửa Luật Đầu tư mở rộng tiếp cận TTCK cho FDI theo lộ trình, không phân biệt đối xử, thực hiện Nghị quyết 10 Bộ Chính trị. Thúc đẩy nâng hạng TTCK, hỗ trợ kinh tế xanh, kinh tế số, đa dạng hóa sản phẩm."
     },
     {
-      "title": "SACOMBANK phát hành trái phiếu, ngân hàng phát hành 194 ngàn tỷ",
+      "title": "Ngân hàng phát hành 194.000 tỷ đồng trái phiếu, chiếm 50,6% thị trường",
       "impact": "↑",
-      "note": "Chiến lược kết hợp tiền gửi và phát hành trái phiếu cho dài hạn; tính lũy kế 8 tháng, ngành ngân hàng phát hành 194 ngàn tỷ đồng trái phiếu (50.6% tổng thị trường). Tín dụng tăng nhanh, khoảng cách vốn-tín dụng lên 2 triệu tỷ đồng."
-    },
-    {
-      "title": "F88 huy động 781.9 tỷ đồng từ phát hành cổ phiếu",
-      "impact": "↑",
-      "note": "11.013.200 cổ phiếu chào bán công chúng giao dịch trên UPCoM, tổng vốn 781.9 tỷ đồng nâng vốn điều lệ lên 2.312.65 tỷ đồng. Lợi nhuận trước thuế năm 2026 dự báo vượt 30% kế hoạch, tiếp tục triển khai chuyển niêm yết HOSE."
+      "note": "Lũy kế 8 tháng năm 2026, khối ngân hàng phát hành 194.000 tỷ đồng trái phiếu, chiếm 50,6% tổng giá trị phát hành toàn thị trường. SACOMBANK phát hành trái phiếu dài hạn, kết hợp với tiền gửi. Tín dụng tăng nhanh, khoảng cách vốn-tín dụng lên 2 triệu tỷ đồng."
     },
     {
       "title": "CTCK Việt Nam được đề xuất làm nhà tạo lập thị trường Singapore",
       "impact": "↑",
-      "note": "Chủ tịch Uỷ ban Chứng khoán Nhà nước đề nghị MAS hỗ trợ CTCK Việt Nam tham gia vai trò market maker, phát triển sản phẩm DR. Mở rộng kết nối thị trường vốn hai nước, huy động vốn quốc tế cho doanh nghiệp Việt Nam, tạo hệ sinh thái hỗ trợ phát hành DR."
+      "note": "Chủ tịch SSC đề nghị MAS hỗ trợ CTCK Việt Nam tham gia vai trò market maker, phát triển sản phẩm DR. Mở cơ hội huy động vốn quốc tế cho doanh nghiệp, tăng cường kết nối thị trường vốn hai nước, tạo hệ sinh thái hỗ trợ phát hành DR."
     }
   ]
 }
