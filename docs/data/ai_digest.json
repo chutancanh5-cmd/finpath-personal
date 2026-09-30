@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường vĩ mô Việt Nam đối mặt áp lực lạm phát chi phí đẩy và lãi suất cao từ các ngân hàng trung ương toàn cầu, khiến thanh khoản suy yếu và dòng vốn ngoài yếu. Mặc dù tăng trưởng GDP quý 3 đạt 8,7% và Quảng Ninh dẫn đầu cả nước với 12,54%, nhưng nhập siêu tháng 9, tâm lý risk-off (vàng tăng 2,5 triệu/lượng) và yếu tố mùa vụ tháng 10 đặt ra rủi ro ngắn hạn.",
+  "summary_vi": "Kinh tế Việt Nam duy trì động lực tăng trưởng với GDP quý 3 dự báo 8.7% (nửa cuối năm 10.6%), xuất nhập khẩu tăng 29.44%, và FDI như dự án Vũng Áng II (2.2 tỷ USD) hỗ trợ mạnh. Tuy nhiên, tháng 10 vẫn gặp áp lực từ lạm phát chi phí đẩy, lãi suất cao, và dòng tiền chuyển sang Thái Lan, Singapore. Nhà đầu tư cần cân bằng giữa nền tảng kinh tế vững chắc và rủi ro ngắn hạn từ mùa vụ.",
   "top": [
     {
-      "title": "GDP Q3 đạt 8,7%, nửa cuối 2026 dự báo 10,6%",
+      "title": "Standard Chartered: GDP quý 3 8.7%, nửa cuối năm tăng 10.6%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP Q3/2026 tăng 8,7% YoY (so với 8,4% Q2), nửa cuối 2026 tăng 10,6%, cả năm 2026 đạt 9,5%, phản ánh đà tăng trưởng tiếp tục bất chấp thách thức bên ngoài"
+      "note": "Standard Chartered dự báo GDP quý 3/2026 Việt Nam 8.7% (tăng từ 8.4% quý 2), nửa cuối năm 10.6%, năm 2026 giữ mức 9.5%. Sản xuất công nghiệp quý 3 dự kiến 13.2%, xuất khẩu +27.2%, nhập khẩu +40%."
     },
     {
-      "title": "Quảng Ninh dẫn đầu cả nước với GRDP 12,54%",
+      "title": "Quảng Ninh dẫn đầu cả nước GRDP 12.54%, công nghiệp mạnh",
       "impact": "↑",
-      "note": "Trong 9 tháng 2026, GRDP Quảng Ninh đạt 12,54%, Q3 tăng 15,04%, dẫn đầu toàn quốc; 12/12 dự án trọng điểm công nghiệp chế biến, chế tạo đi vào hoạt động, vốn gần 100.000 tỷ đồng tăng 17,4% YoY"
+      "note": "GRDP Quảng Ninh 9 tháng 2026 đạt 12.54% (hàng đầu cả nước), quý 3 tăng 15.04%. 12 dự án trọng điểm đã hoạt động với tổng vốn khoảng 100.000 tỷ đồng, tăng 17.4% so với cùng kỳ."
     },
     {
-      "title": "Lạm phát chi phí đẩy và lãi suất cao tạo áp lực",
-      "impact": "↓",
-      "note": "Các ngân hàng trung ương toàn cầu (Fed, BOJ, ECB) thực hiện chính sách tiền tệ thắt chặt, lạm phát chi phí đẩy và lãi suất mức cao tiếp tục gây trở ngại cho TTCK Việt Nam, sức ép lên dòng tiền"
-    },
-    {
-      "title": "Thanh khoản suy yếu, dòng vốn ngoài không đáng kể",
-      "impact": "↓",
-      "note": "Thanh khoản TTCK Việt Nam mức thấp nhất kể từ đầu năm; dòng vốn ngoài yếu, Singapore hút 75 triệu USD, Thái Lan 41 triệu USD tuần qua, Việt Nam hút ròng không đáng kể"
-    },
-    {
-      "title": "FTSE nâng hạng Việt Nam lên thị trường mới nổi thứ cấp",
+      "title": "Vũng Áng II (2.2 tỷ USD, 1.300 MW) chính thức khánh thành tổ máy 1",
       "impact": "↑",
-      "note": "FTSE nâng hạng Việt Nam, mở thêm dư địa kết nối vốn quốc tế dài hạn, nhưng theo MBS chưa đủ để lấn át sức ép vĩ mô toàn cầu trong ngắn hạn"
+      "note": "Nhà máy Nhiệt điện Vũng Áng II (VAPCO) khởi công 2021, tổng vốn 2.2 tỷ USD, khánh thành tổ máy 1 ngày 18/9/2025, là dự án FDI trọng điểm tại KKT Vũng Áng."
     },
     {
-      "title": "Nhập siêu tháng 9 2,82 tỷ USD và vàng tăng 2,5 triệu/lượng",
+      "title": "MBS cảnh báo tháng 10: lịch sử giảm 2% bình quân, 4 năm liên tiếp giảm",
       "impact": "↓",
-      "note": "Tháng 9 nhập siêu 2,82 tỷ USD (nhập khẩu tăng 7,16%, xuất khẩu tăng 2,4%); giá vàng tăng mạnh 2,5 triệu đồng/lượng lên 140,5-143,5 triệu đồng/lượng, phản ánh tâm lý risk-off"
+      "note": "MBS nhận định tháng 10 lịch sử không thuận lợi (giảm bình quân >2%, đã giảm 4 năm liên tiếp từ 2022). Áp lực từ lạm phát chi phí đẩy, lãi suất cao, thanh khoản suy yếu."
+    },
+    {
+      "title": "Dòng tiền ETF rút khỏi cổ phiếu Mỹ, Việt Nam hút ròng yếu",
+      "impact": "↓",
+      "note": "ETF cổ phiếu Mỹ rút ròng 641 triệu USD (tuần rút đầu tiên sau 2 tuần vào). Singapore hút 75 triệu USD, Thái Lan 41 triệu USD, Việt Nam hút ròng không đáng kể, phản ánh sự thận trọng với cổ phiếu."
+    },
+    {
+      "title": "Xuất nhập khẩu tăng 29.44% (825.19 tỷ USD), mục tiêu GDP 10%+/năm",
+      "impact": "↑",
+      "note": "Tổng kim ngạch xuất nhập khẩu 9M 2026 đạt 825.19 tỷ USD (+29.44%). Tô Lâm nêu mục tiêu tăng trưởng GDP bình quân >10%/năm giai đoạn 2026-2030, giải quyết cân cân thương mại Mỹ."
     }
   ]
 }
