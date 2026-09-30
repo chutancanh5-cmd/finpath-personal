@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán hôm nay ghi nhận sự phân hóa khi VN-Index giảm 9.11 điểm do khối ngoại tiếp tục bán ròng phiên thứ 6 liên tiếp. Tuy nhiên những tín hiệu tích cực đang nổi lên: Chính phủ đề xuất nới lỏng điều kiện tiếp cận thị trường cho nhà đầu tư nước ngoài, CTCK Việt Nam có cơ hội tham gia thị trường Singapore. Kinh tế Quảng Ninh tăng trưởng GRDP 15,04% quý III (dẫn đầu cả nước), ngành ngân hàng đa dạng hóa nguồn vốn với 194.000 tỷ đồng phát hành trái phiếu trong 8 tháng.",
+  "summary_vi": "Thị trường chứng khoán hôm nay ghi nhận áp lực từ dòng tiền ngoại bán ròng liên tiếp, tuy nhiên các tin vĩ mô tích cực như tăng trưởng cao của Quảng Ninh (15,04% Q3), đề xuất nới lỏng FDI, và lợi nhuận doanh nghiệp tăng trưởng mạnh (F88 vượt 30% kế hoạch) cho thấy nền tảng kinh tế vẫn khỏe. Các sáng kiến mở cửa thị trường cho nhà đầu tư nước ngoài và hợp tác quốc tế (market maker Singapore) tạo dư địa tích cực dài hạn, nhưng áp lực giảm giá (vàng -7,3 triệu/lượng) đặt ra rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Nới lỏng điều kiện tiếp cận thị trường cho nhà đầu tư nước ngoài",
+      "title": "Quảng Ninh tăng GRDP Q3 15,04%, dẫn đầu cả nước",
       "impact": "↑",
-      "note": "Bộ Tài chính đề xuất nới lỏng điều kiện tiếp cận thị trường cho nhà đầu tư nước ngoài, thể chế hóa Nghị quyết số 10 của Bộ Chính trị, không phân biệt đối xử để thúc đẩy nâng hạng thị trường chứng khoán và hỗ trợ dòng vốn FDI."
+      "note": "Quảng Ninh ghi nhận GRDP quý III/2026 tăng 15,04% và 9 tháng đạt 12,54%, dẫn đầu cả nước. Các dự án công nghiệp chế biến chế tạo 12/12 đã đi vào hoạt động với vốn đầu tư gần 100.000 tỷ đồng, tăng 17,4% so với cùng kỳ 2025. Tín hiệu tích cực cho đà tăng trưởng kinh tế."
     },
     {
-      "title": "Khối ngoại bán ròng phiên thứ 6 liên tiếp",
+      "title": "Bộ Tài chính đề xuất nới lỏng FDI, mở rộng tiếp cận thị trường",
+      "impact": "↑",
+      "note": "Dự thảo Luật sửa đổi Luật Đầu tư đề xuất mở rộng tiếp cận thị trường cho nhà đầu tư nước ngoài theo lộ trình, không phân biệt đối xử với doanh nghiệp trong nước, thúc đẩy kinh tế xanh, kinh tế số. Mục tiêu thúc đẩy nâng hạng thị trường chứng khoán Việt Nam."
+    },
+    {
+      "title": "F88 huy động 781,9 tỷ đồng, lợi nhuận vượt 30% kế hoạch",
+      "impact": "↑",
+      "note": "F88 hoàn tất chào bán ra công chúng 11.013.200 cổ phiếu với tổng giá trị 781,9 tỷ đồng, nâng vốn điều lệ lên 2.312,65 tỷ đồng. Lợi nhuận trước thuế cả năm 2026 dự báo vượt hơn 30% kế hoạch năm. Doanh nghiệp tiếp tục triển khai kế hoạch chuyển niêm yết HOSE."
+    },
+    {
+      "title": "Khối ngoại bán ròng phiên 6 liên tiếp, VN-Index -0,51%",
       "impact": "↓",
-      "note": "VN-Index giảm 9.11 điểm (-0,51%) về 1.768,62 điểm. Khối ngoại bán ròng khoảng 910 tỷ đồng, tự doanh CTCK bán ròng mạnh nhất tại LPB 496 tỷ đồng, phản ánh áp lực bán trên thị trường."
+      "note": "Phiên 30/09, VN-Index giảm 9,11 điểm (-0,51%) xuống 1.768,62 điểm. Khối ngoại bán ròng khoảng 910 tỷ đồng, là phiên bán ròng thứ 6 liên tiếp. Tự doanh bán ròng mạnh nhất tại LPB (-496 tỷ) nhưng mua ròng tại VPB (+386 tỷ). Thanh khoản eo hẹp cho thấy động lực từ dòng tiền nội chưa có dấu hiệu đảo chiều."
     },
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP quý III",
-      "impact": "↑",
-      "note": "Quảng Ninh dẫn đầu cả nước với tăng trưởng GRDP quý III 15,04%, 9 tháng đạt 12,54%. Công nghiệp chế biến, chế tạo tăng 17,4%, các dự án trọng điểm đầu tư gần 100.000 tỷ đồng, phản ánh đà tăng trưởng kinh tế vẫn khỏe khoắn."
+      "title": "Giá vàng miếng SJC giảm 7,3 triệu đồng/lượng trong tháng 9",
+      "impact": "↓",
+      "note": "Giá mua vàng miếng SJC phổ biến 141,1 triệu đồng/lượng trong phiên 30/9. So với giá đầu tháng (148,4 triệu đồng/lượng), người mua thiệt 7,3 triệu đồng/lượng. Trong tháng 9, giá vàng miếng giảm phổ biến 4,3 triệu đồng/lượng, phản ánh áp lực thị trường."
     },
     {
-      "title": "SACOMBANK đa dạng hóa nguồn vốn",
+      "title": "CTCK Việt Nam đề xuất trở thành market maker tại Singapore",
       "impact": "↑",
-      "note": "SACOMBANK phát hành trái phiếu để đa dạng hóa nguồn vốn. Toàn hệ thống ngân hàng phát hành 194.000 tỷ đồng trái phiếu trong 8 tháng (50,6% phát hành doanh nghiệp), cung cấp dòng vốn dài hạn cho kinh tế."
-    },
-    {
-      "title": "CTCK Việt Nam trở thành nhà tạo lập thị trường Singapore",
-      "impact": "↑",
-      "note": "Chủ tịch UBCKNN đề xuất CTCK Việt Nam tham gia vai trò market maker tại Singapore, phát triển sản phẩm chứng chỉ lưu ký (DR) để mở rộng tiếp cận thị trường Singapore và huy động vốn quốc tế cho doanh nghiệp."
-    },
-    {
-      "title": "F88 huy động 781.9 tỷ đồng, lợi nhuận vượt kế hoạch",
-      "impact": "↑",
-      "note": "F88 phát hành 11.013.200 cổ phiếu huy động 781.9 tỷ đồng, lợi nhuận trước thuế 2026 dự báo vượt 30% kế hoạch năm. Doanh nghiệp tiếp tục triển khai chuyển sang niêm yết HOSE để mở rộng cơ sở nhà đầu tư."
+      "note": "Chủ tịch UBCK Vũ Thị Chân Phương đề xuất các công ty chứng khoán Việt Nam tham gia vai trò nhà tạo lập thị trường (market maker) tại Singapore. Sáng kiến góp phần tăng cường kết nối, phát triển chứng chỉ lưu ký (DR) và hỗ trợ doanh nghiệp Việt Nam tiếp cận hiệu quả hơn với thị trường vốn quốc tế."
     }
   ]
 }
