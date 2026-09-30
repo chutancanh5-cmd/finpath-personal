@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang cân bằng giữa những yếu tố tích cực (GDP Q3 dự báo 8.7%, các doanh nghiệp tài chính lành mạnh hưởng lợi lãi suất cao) và rủi ro từ chính sách tiền tệ toàn cầu (FED, BoJ tăng lãi suất tạo áp lực dòng vốn). Khối ngoại tiếp tục bán ròng trong khi các nhà đầu tư trong nước gom hàng, tuy nhiên tình trạng sụp đổ của một số cổ phiếu (Kosy mất 50% trong 1 tháng) cảnh báo rủi ro biên về thanh khoản và quản trị công ty.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực từ lãi suất toàn cầu tăng cao (Fed, BoJ, ECB đều nâng), cộng với chứng khoán Mỹ giảm liên tiếp và lợi suất trái phiếu 30 năm vượt mức cao 24 năm. Tuy nhiên, triển vọng GDP quý 3 dự báo 8,7% và các chính sách hỗ trợ tăng trưởng mang lại yếu tố tích cực, trong khi các doanh nghiệp tiền nhiều, nợ ít có cơ hội hưởng lợi từ môi trường lãi suất cao.",
   "top": [
     {
-      "title": "Lãi suất Mỹ tăng cao, áp lực lên chứng khoán toàn cầu",
-      "impact": "↓",
-      "note": "Dow Jones giảm 0.26%, lợi suất trái phiếu 30 năm tăng lên 5.585% (cao nhất 24 năm), vượt 5.6% trong phiên, áp lực giảm lên dòng vốn quốc tế và chứng khoán Việt Nam."
-    },
-    {
-      "title": "GDP Q3 2026 dự báo 8.7%, tiếp tục tăng trưởng mạnh",
+      "title": "GDP quý 3 dự báo tăng 8,7%, khẳng định đà tăng trưởng bền vững",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP Q3 đạt 8.7% (tăng từ 8.4% Q2), H2 2026 đạt 10.6%, toàn năm 9.5%, xuất khẩu Q3 tăng 27.2%, nhập khẩu tăng 40%, phản ánh nền kinh tế bền vững."
+      "note": "Standard Chartered dự báo GDP quý 3/2026 đạt 8,7% (so với cùng kỳ năm trước), tăng từ 8,4% trong quý 2. Sản xuất công nghiệp dự kiến +13,2%, xuất khẩu +27,2%. Dự báo toàn năm 2026 giữ nguyên 9,5%, phản ánh nền kinh tế Việt Nam tiếp tục duy trì động lực tăng trưởng bất chấp bất định toàn cầu."
     },
     {
-      "title": "Kosy (KOS) liên tục giảm sàn 7 phiên, vốn hóa rơi 50%",
+      "title": "Fed, BoJ, ECB tăng lãi suất, áp lực đẩy lợi suất trái phiếu lên mức cao 19-24 năm",
       "impact": "↓",
-      "note": "Cổ phiếu KOS xuống 18.200 đồng/cp (thấp nhất 6 năm), mất gần 50% giá trị chỉ trong 1 tháng, dư bán sàn 21 triệu đơn vị (10% tổng lưu hành), vốn hóa còn 3.940 tỷ đồng."
+      "note": "Fed tăng 25bp lên 3,75-4,00% ngày 17/9, BoJ tăng 0,25% lên 1,25% ngày 18/9 (cao nhất từ 1995). Lợi suất trái phiếu Mỹ 30 năm vượt 5,6% (cao nhất 24 năm), kỳ hạn 10 năm vượt 5,29% (cao nhất 19 năm), tạo áp lực bán tháo do lo ngại lạm phát cao và nợ công lớn."
     },
     {
-      "title": "Doanh nghiệp tiền nhiều nợ ít hưởng lợi từ lãi suất cao",
+      "title": "Chứng khoán Mỹ giảm phiên thứ 2 liên tiếp, Dow Jones -0,26%, Nasdaq -0,09%",
+      "impact": "↓",
+      "note": "Chỉ số Dow Jones giảm 131,59 điểm (-0,26%), S&P 500 giảm 0,16%, Nasdaq giảm 0,09%. Áp lực từ leo thang lợi suất trái phiếu kho bạc lấn át tác động tích cực từ làn sóng AI và lợi nhuận doanh nghiệp."
+    },
+    {
+      "title": "Lãi suất tăng cao tạo cơ hội cho doanh nghiệp 'tiền nhiều, nợ ít'",
       "impact": "↑",
-      "note": "Agriseco nhận định các công ty có lượng tiền mặt lớn, ít phụ thuộc vốn vay sẽ duy trì kết quả kinh doanh tốt hơn so với thị trường, đồng thời hưởng lợi từ lãi suất tiền gửi tăng."
+      "note": "Agriseco Research đánh giá cao các doanh nghiệp có lượng tiền mặt và đầu tư tài chính lớn, nợ vay thấp, dòng tiền ổn định — họ có thể hưởng lợi từ lợi suất tiền gửi tăng cao, trong khi các ngành thâm dụng vốn (xây dựng, hàng không, thép, ô tô) chịu áp lực từ chi phí lãi vay tăng."
     },
     {
-      "title": "FED, BoJ tăng lãi suất, tỷ giá chịu tác động",
-      "impact": "↓",
-      "note": "FED tăng 25 bps lên 3.75%-4% (17/9), BoJ tăng lên 1.25% (cao nhất kể từ 4/1995), tỷ giá USD/VND đã hạ nhiệt về cuối tháng nhưng vẫn chịu sức ép từ chênh lệch lãi suất toàn cầu."
+      "title": "SHS chi trả cổ tức tiền mặt 5% cộng phát hành cổ phiếu thưởng 5%",
+      "impact": "↑",
+      "note": "SHS chi trả cổ tức năm 2025 tỷ lệ 5% mệnh giá (500 đồng/cổ phiếu), tổng giá trị 449,73 tỷ đồng, ngày thanh toán 16/10/2026. Dự kiến phát hành cổ phiếu thưởng tỷ lệ 5%, đạt 44,973,111 cổ phiếu. Doanh thu 2025 đạt 3.669 tỷ đồng, lợi nhuận trước thuế 1.649,4 tỷ đồng."
     },
     {
-      "title": "Khối ngoại bán ròng 380 tỷ đồng, tự doanh gom mạnh",
-      "impact": "→",
-      "note": "Khối ngoại bán ròng 380 tỷ (tâm điểm VPB 250 tỷ), tự doanh mua ròng 800 tỷ, phản ánh phân hóa mạnh giữa dòng vốn ngoài (bán áp lực lãi suất) và trong nước (tích cực hơn)."
+      "title": "AgriS (SBT) hưởng lợi từ nhà đầu tư nước ngoài, mở rộng nền tảng cổ đông",
+      "impact": "↑",
+      "note": "Brilliant Solutions INC (BSI, Singapore) công bố sở hữu 48,015,592 cổ phiếu AgriS (5,30% cổ phiếu có quyền biểu quyết). BSI là tổ chức tài chính tập trung đầu tư vào doanh nghiệp quy mô lớn, chiến lược tăng trưởng bền vững ở châu Á. Sự tham gia này mở rộng nền tảng cổ đông, kết nối nguồn lực và thị trường quốc tế cho AgriS."
     }
   ]
 }
