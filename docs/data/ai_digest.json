@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Kinh tế vĩ mô vẫn tăng trưởng mạnh mẽ với Quảng Ninh đạt 15,04% GRDP quý 3 và các dự án quy mô gần 100.000 tỷ đồng vận hành đầy đủ, nhưng thị trường chứng khoán chịu áp lực từ thanh khoản khan hiếm khi dòng tiền chưa cải thiện rõ rệ. Giá dầu toàn cầu sụt giảm do Saudi Arabia khôi phục xuất khẩu, khiến nhóm năng lượng đánh mất các điểm lớn (GAS -1,53%, PVD -1,58%). Lãi suất Mỹ dự kiến tiếp tục tăng, tạo sức ép lên đồng USD và hàng hóa quý, tạo rủi ro cho thị trường ngắn hạn dù các doanh nghiệp vẫn tăng trưởng tốt.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Quảng Ninh dẫn đầu tăng trưởng với 15,04% quý 3 và 12,54% trong 9 tháng, phản ánh nền kinh tế vĩ mô vẫn khỏe mạnh. Thanh khoản thị trường chứng khoán suy giảm nhưng kỳ vọng sẽ cải thiện, với nhiều doanh nghiệp tăng trưởng mạnh (F88 lợi nhuận vượt 30% kế hoạch, MCH vào VN30). Tuy nhiên, giá dầu thế giới giảm mạnh đang gây áp lực lên nhóm dầu khí, PNJ thủng đáy 5 năm. Cơ hội tái định giá có thể xuất hiện nếu dòng tiền quay trở lại khi định giá hiện tại đã không còn cao.",
   "top": [
-    {
-      "title": "Thanh khoản thị trường khan hiếm",
-      "impact": "↓",
-      "note": "Dòng tiền chưa có sự cải thiện rõ rệ, tâm lý thận trọng của nhà đầu tư khiến mặt bằng giao dịch bị ảnh hưởng, tạo áp lực lớn lên thị trường chứng khoán Việt Nam. Thanh khoản không phải vấn đề chỉ 3 tháng cuối năm mà cần theo dõi xuyên suốt trong thời gian tới."
-    },
     {
       "title": "Quảng Ninh dẫn đầu tăng trưởng toàn quốc",
       "impact": "↑",
-      "note": "Quảng Ninh đạt tăng trưởng GRDP 15,04% quý 3 và 12,54% trong 9 tháng, xếp thứ 1 cả nước. Tất cả 12 dự án công nghiệp chế biến, chế tạo quy mô gần 100.000 tỷ đồng đã vận hành, tăng 17,4% so với cùng kỳ 2025."
+      "note": "Quảng Ninh tăng trưởng GRDP 15,04% quý 3/2026 và 12,54% trong 9 tháng, xếp thứ nhất cả nước. Công nghiệp chế biến/chế tạo là trụ cột tăng trưởng với vốn đầu tư gần 100.000 tỷ đồng, tăng 17,4% so với cùng kỳ năm 2025. Kết quả nổi bật này xảy ra trong bối cảnh Quảng Ninh trở thành thành phố trực thuộc Trung ương từ 1/9/2026."
     },
     {
-      "title": "Cổ phiếu dầu khí sụt giảm theo giá dầu toàn cầu",
-      "impact": "↓",
-      "note": "Giá dầu thế giới sụt giảm mạnh khi xuất khẩu Saudi Arabia từ Biển Đỏ khôi phục nhờ đường ống Đông-Tây tái hoạt động. Các cổ phiếu dầu khí giảm đồng loạt: GAS -1,53%, PLX -1,65%, PVD -1,58%. PNJ thủng đáy 5 năm."
-    },
-    {
-      "title": "F88 lợi nhuận vượt kế hoạch, chuẩn bị lên HOSE",
+      "title": "F88 hoàn tất IPO trên UPCoM, lợi nhuận vượt 30% kế hoạch",
       "impact": "↑",
-      "note": "F88 hoàn tất chào bán công khai 11.013.200 cổ phiếu, thu được 781,9 tỷ đồng. Lợi nhuận trước thuế cả năm 2026 dự báo vượt 30% kế hoạch năm. Công ty triển khai phương án chuyển niêm yết từ UPCoM sang HOSE để mở rộng cơ sở nhà đầu tư."
+      "note": "F88 hoàn tất chào bán công chúng 11,013,200 cổ phiếu trên UPCoM, tổng vốn thu về 781.9 tỷ đồng, nâng vốn điều lệ lên 2,312.65 tỷ đồng. Lợi nhuận trước thuế cả năm 2026 dự báo vượt hơn 30% kế hoạch năm. Công ty chuẩn bị chuyển niêm yết lên HOSE."
     },
     {
-      "title": "MCH gia nhập VN30 với chiến lược quốc tế",
+      "title": "MCH gia nhập VN30, tâm điểm định giá lại cổ phiếu tiêu dùng",
       "impact": "↑",
-      "note": "Masan Consumer (MCH) chính thức gia nhập rổ VN30 và được các bộ chỉ số toàn cầu chú ý. Công ty hiện diện trong 98% hộ gia đình Việt Nam, sở hữu 35 thương hiệu, khả năng tạo dòng tiền mạnh, chuẩn bị mở rộng toàn cầu."
+      "note": "Masan Consumer (MCH) chính thức gia nhập rổ chỉ số VN30 và được chú ý bởi các bộ chỉ số toàn cầu. Doanh nghiệp hiện diện trong 98% hộ gia đình Việt Nam, sở hữu 35 thương hiệu bao gồm 5 thương hiệu mạnh: CHIN-SU, Nam Ngư, Omachi, Kokomi, Wake-up 247. Vị thế dẫn đầu ngành gia vị và thứ hai phân khúc thực phẩm tiện lợi tạo cơ sở tái định giá trên thị trường vốn."
     },
     {
-      "title": "Fed dự kiến tiếp tục tăng lãi suất",
+      "title": "Thanh khoản suy giảm, nhà đầu tư thận trọng trước hỗn loạn toàn cầu",
       "impact": "→",
-      "note": "Giá vàng tăng 0,86% lên 4.171,42 USD/ounce sáng 30/9, nhưng đà phục hồi bị hạn chế bởi đồng USD tăng và lợi suất trái phiếu Mỹ tăng. Thị trường gia tăng đặt cược Fed tiếp tục nâng lãi suất, áp chế vàng, hàng hóa và ảnh hưởng đến chi phí nhập khẩu."
+      "note": "Thanh khoản thị trường không ghi nhận sự cải thiện rõ rệ sau những biến động từ Fed, tỷ giá, căng thẳng Trung Đông. Tâm lý nhà đầu tư vẫn thận trọng làm ảnh hưởng mặt bằng giao dịch. Chuyên gia SSI kỳ vọng thanh khoản sẽ phục hồi trong thời gian tới, đồng thời nhấn mạnh định giá hiện tại không còn ở mức cao như trước, trong khi kết quả kinh doanh nhiều doanh nghiệp vẫn tăng trưởng."
+    },
+    {
+      "title": "Dầu khí đồng loạt giảm, PNJ thủng đáy 5 năm",
+      "impact": "↓",
+      "note": "Giá dầu thế giới sụt giảm mạnh do xuất khẩu dầu Saudi Arabia hồi phục qua đường ống Đông - Tây. Nhóm dầu khí giảm sàn, bao gồm GAS (-1,53%), BSR (-1,85%), PLX (-1,65%), PVT (-2,81%), PVD (-1,58%); HNX có PVC (-2,4%), PTV (-6,5%). PNJ giảm liên tiếp 3 phiên và rơi xuống mức thấp nhất kể từ tháng 10/2020, thủng đáy 5 năm."
+    },
+    {
+      "title": "AgriS đón đầu tư nước ngoài, mở rộng nền tảng cổ đông chiến lược",
+      "impact": "↑",
+      "note": "Brilliant Solutions INC (BSI), công ty tài chính có trụ sở tại Singapore, trở thành cổ đông lớn của AgriS với sở hữu 48,015,592 cổ phiếu (5,30% số lượng có quyền biểu quyết). Đầu tư của BSI hướng vào các doanh nghiệp vốn hóa lớn, chiến lược tăng trưởng bền vững, phạm vi hoạt động toàn cầu. Khoản đầu tư tạo tiền đề kết nối nguồn lực, đối tác, thị trường quốc tế cho AgriS."
     }
   ]
 }
