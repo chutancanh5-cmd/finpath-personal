@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam tiếp tục duy trì động lực tăng trưởng mạnh với dự báo GDP quý 3 đạt 8,7%, nửa cuối năm 10,6%, mục tiêu 10%/năm giai đoạn 2026-2030. Xuất nhập khẩu lũy kế tăng 29,44% nhưng phát sinh nhập siêu 2,82 tỷ USD tháng 9. Các ngân hàng trung ương toàn cầu (Fed, BoJ, ECB) tiếp tục tăng lãi suất, tạo áp lực lên tỷ giá và chi phí tài chính. Cải thiện môi trường kinh doanh (cắt giảm thủ tục hải quan) và sự vào thị trường của Tesla là những tín hiệu khởi sắc, nhưng thị trường VN hút ròng vốn không đáng kể so với khu vực và có rủi ro cụ thể từ cảnh báo lợi nhuận.",
+  "summary_vi": "Kinh tế Việt Nam duy trì động lực tăng trưởng mạnh với dự báo GDP quý 3 đạt 8.7%, nửa cuối năm 10.6%, GDP năm 2026 khoảng 9.5%, xuất khẩu tăng 27.2% và sản xuất công nghiệp tăng 13.2%. Tuy nhiên, áp lực lãi suất của Fed tăng cao đẩy USD và lợi suất trái phiếu Mỹ lên, tạo rủi ro cho ngoại tệ. Tesla vào Việt Nam mở cơ hội cho ngành ô tô điện, nhưng dòng vốn ngoại vẫn còn yếu với khối ngoại bán ròng 400 tỷ đồng. Kết quả kinh doanh doanh nghiệp có dấu hiệu phân hóa mạnh khi một số cổ phiếu gặp áp lực lớn.",
   "top": [
     {
-      "title": "GDP quý 3 duy trì 8,7%, nửa cuối năm 10,6%",
+      "title": "GDP quý 3 đạt 8.7%, GDP năm 2026 khoảng 9.5%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 của Việt Nam đạt 8,7% so với cùng kỳ năm trước, tăng từ 8,4% quý 2. Dự báo nửa cuối năm 2026 đạt 10,6%, giữ nguyên dự báo cả năm 9,5%. Sản xuất công nghiệp dự kiến tăng 13,2%, xuất khẩu quý 3 tăng 27,2%, nhập khẩu tăng 40%, lạm phát duy trì 4,5% quanh ngưỡng mục tiêu."
+      "note": "Standard Chartered dự báo GDP quý 3/2026 tăng 8.7% so với cùng kỳ năm trước (tăng từ 8.4% quý 2), nửa cuối năm 10.6%, GDP năm 2026 toàn năm 9.5%. Sản xuất công nghiệp dự kiến tăng 13.2%, xuất khẩu +27.2% giúp nền kinh tế duy trì đà tăng trưởng vững chắc bất chấp thách thức từ môi trường bên ngoài."
     },
     {
-      "title": "Chỉ số toàn cầu tăng mạnh, thị trường châu Á vượt kỳ vọng",
+      "title": "Fed tiếp tục nâng lãi suất, USD và lợi suất trái phiếu Mỹ gia tăng",
+      "impact": "↓",
+      "note": "Lãi suất trái phiếu Mỹ và đồng USD tăng đồng loạt, thị trường dự báo Fed tiếp tục nâng lãi suất. Giá vàng giao ngay tăng 0.86% lên 4.171,42 USD/ounce nhưng bị hạn chế bởi USD mạnh. Đây là yếu tố tiêu cực ảnh hưởng đến ngoại tệ, vàng, và kỳ vọng kiếm lợi khi áp lực lãi suất quốc tế gia tăng."
+    },
+    {
+      "title": "Tesla chính thức vào thị trường Việt Nam",
       "impact": "↑",
-      "note": "Dow Jones tăng 7,8%, S&P 500 tăng 13,1%, Nasdaq tăng 16,5% từ đầu năm, còn cách đỉnh lịch sử chưa tới 1%. Châu Âu tăng 7,7%. Châu Á tăng mạnh: Nhật Bản +32%, Hàn Quốc +68%, Đài Loan +66%, thị trường mới nổi +23,6%. Tổng Bí thư Tô Lâm đặt mục tiêu tăng trưởng GDP bình quân 10%/năm giai đoạn 2026-2030."
+      "note": "Tesla vào Việt Nam tạo cạnh tranh và cơ hội lớn cho ngành ô tô điện. Chuyên gia Phạm Chi Lan phân tích sự vào của Tesla sẽ thay đổi cơ cấu thị trường ô tô điện, mở dư địa cho các đối thủ địa phương và tăng tiềm năng phát triển ngành công nghiệp này."
     },
     {
-      "title": "PNJ công bố lỗ kỷ lục 6.271 tỷ đồng, phát hành 550 triệu cổ phiếu",
+      "title": "PNJ kế hoạch lỗ kỷ lục 6.271 tỷ đồng năm 2026",
       "impact": "↓",
-      "note": "PNJ điều chỉnh kế hoạch kinh doanh 2026 với lỗ kỷ lục 6.271 tỷ đồng do trích lập dự phòng từ chính sách thu đổi hàng hóa. Chào bán riêng lẻ tối đa 550 triệu cổ phiếu phổ thông từ Q4/2026 đến Q2/2027, dùng 60% tiền thu được để thực hiện kế hoạch kinh doanh điều chỉnh, hoàn nhập 4.600 tỷ vào lợi nhuận chưa phân phối."
+      "note": "CTCP Vàng bạc Đá quý Phú Nhuận (PNJ) công bố kế hoạch lỗ kỷ lục 6.271 tỷ đồng năm 2026 do trích lập dự phòng tổn thất từ chính sách thu đổi hàng hóa đã bán. Đồng thời chào bán riêng lẻ 550 triệu cổ phiếu từ quý IV/2026 đến quý II/2027, gây giãn loãng cổ đông hiện hữu."
     },
     {
-      "title": "Dòng tiền hút vào khu vực, Việt Nam hút ròng không đáng kể",
+      "title": "Khối ngoại bán ròng 400 tỷ đồng, Việt Nam hút vốn yếu",
       "impact": "↓",
-      "note": "Dòng vốn ETF cổ phiếu Mỹ rút ròng 641 triệu USD, ETF trái phiếu Mỹ hút vào 9,1 tỷ USD. Tại khu vực, Singapore hút 75 triệu USD, Thái Lan 41 triệu USD trong tuần qua. Dòng vốn ETF cổ phiếu ngoài Mỹ hút vào 15 tỷ USD, nhưng Việt Nam hút ròng không đáng kể so với các nước khác trong khu vực."
+      "note": "Phiên giao dịch gần đây khối ngoại ghi nhận bán ròng gần 400 tỷ đồng (VPB là tâm điểm bán), trong khi dữ liệu ETF cho thấy Việt Nam hút vốn ròng không đáng kể. Động thái rút vốn phản ánh thận trọng của nhà đầu tư khi lãi suất Mỹ tăng cao, tạo áp lực lên TTCK."
     },
     {
-      "title": "Thủ tục hải quan được cắt giảm, hỗ trợ ngành vận tải ô tô",
+      "title": "AgriS (SBT) nhận đầu tư từ quỹ Singapore, cổ đông chiến lược",
       "impact": "↑",
-      "note": "Bộ Tài chính đề xuất điều chỉnh danh mục 12 nhóm hàng phải làm thủ tục hải quan, loại trừ điều hòa nhiệt độ công suất 24.000-90.000 BTU riêng cho phương tiện vận tải. Quyết định giảm quy trình hành chính, tạo điều kiện thuận lợi cho hoạt động nhập khẩu linh kiện phương tiện."
-    },
-    {
-      "title": "Lãi suất toàn cầu tăng, áp lực lên tỷ giá USD/VND",
-      "impact": "↓",
-      "note": "Fed tăng lãi suất +25 điểm cơ bản lên 3,75%-4,00% (17/9), BoJ tăng 0,25% lên 1,25% mức cao nhất kể từ tháng 4/1995 (18/9), ECB cũng tăng (10/9). USD/VND chịu áp lực từ chênh lệch lãi suất cao, dòng vốn quốc tế khó tìm. Cuối tháng 9 tỷ giá hạ nhiệt nhờ cung ngoại tệ từ FDI và thương mại, nhưng rủi ro tiếp tục từ lãi suất toàn cầu."
+      "note": "Brilliant Solutions INC (BSI) từ Singapore công bố là cổ đông lớn của AgriS với sở hữu 48.015.592 cổ phiếu, tương ứng 5.30% cổ phiếu có quyền biểu quyết. Sự vào của cổ đông chiến lược nước ngoài mở thêm dư địa kết nối nguồn lực, đối tác và thị trường quốc tế cho giai đoạn tăng trưởng mới."
     }
   ]
 }
