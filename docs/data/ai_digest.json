@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế quý 3/2026 ghi nhận tăng trưởng mạnh mẽ với GDP 8,7% (dự báo cả năm 9,5%). Quảng Ninh dẫn đầu cả nước với GRDP 15,04% quý 3, trở thành thành phố trực thuộc Trung ương. Tuy nhiên, tháng 10 lịch sử khó khăn, lạm phát chi phí đẩy và mặt bằng lãi suất cao tiếp tục gây áp lực ngắn hạn. Cổ phiếu dầu khí giảm mạnh do giá dầu thế giới sụt, trong khi các doanh nghiệp lớn chia cổ tức hấp dẫn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường phản ánh sự cân bằng giữa tín hiệu tích cực về tăng trưởng kinh tế (Quảng Ninh dẫn đầu cả nước với tăng 15,04% quý 3, tài chính doanh nghiệp khỏe như F88 huy động 781.9 tỷ) và áp lực vĩ mô (lạm phát chi phí, lãi suất cao, nhập siêu 2,82 tỷ USD). Dầu khí sụt giảm mạnh do giá dầu thế giới rơi, PNJ thủng đáy 5 năm, tháng 10 được cảnh báo khó khăn. Tuy nhiên, nhà đầu tư nước ngoài tham gia (AgriS), các công trình trọng điểm năng lượng thành công (Vũng Áng II 2,2 tỷ USD), và chính sách chia cổ tức (SHS 450 tỷ) hỗ trợ triển vọng dài hạn.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu GRDP 15,04% quý 3",
+      "title": "Quảng Ninh tăng trưởng 15,04% quý 3, dẫn đầu cả nước",
       "impact": "↑",
-      "note": "Quảng Ninh tăng 15,04% quý 3 (tăng 2,16 điểm phần trăm so với 12,88% quý 3/2025), dẫn đầu cả nước trong 9 tháng (12,54%). Trở thành thành phố trực thuộc Trung ương từ 1/9. Công nghiệp chế biến, chế tạo là động lực chính với 12/12 dự án trọng điểm đi vào hoạt động, vốn đầu tư gần 100.000 tỷ đồng, tăng 17,4%."
+      "note": "GRDP quý 3/2026 đạt 15,04%, tính 9 tháng 12,54%, dẫn đầu cả nước. Thành phố trở thành thành phố trực thuộc trung ương từ 1/9/2026, với 12 dự án công nghiệp tổng vốn ~100.000 tỷ đồng tăng 17,4% so với cùng kỳ năm 2025."
     },
     {
-      "title": "Standard Chartered: GDP quý 3 đạt 8,7%, năm 2026 là 9,5%",
-      "impact": "↑",
-      "note": "Dự báo GDP quý 3/2026 đạt 8,7% (tăng từ 8,4% quý 2), nửa cuối năm 10,6%, giữ nguyên dự báo cả năm 9,5%. Sản xuất công nghiệp tăng 13,2%, xuất khẩu tăng 27,2%, nhập khẩu tăng 40%, lạm phát 4,5%. Chính sách hỗ trợ tăng trưởng được kỳ vọng duy trì."
-    },
-    {
-      "title": "Cổ phiếu dầu khí giảm mạnh, PNJ thủng đáy 5 năm",
+      "title": "Giá dầu thế giới sụt giảm, dầu khí đỏ sàn hàng loạt, PNJ thủng đáy 5 năm",
       "impact": "↓",
-      "note": "Giá dầu thế giới sụt giảm do xuất khẩu dầu Saudi Arabia từ Biển Đỏ hồi phục (đường ống Đông-Tây nối lại). GAS giảm 1,53%, BSR giảm 1,85%, PLX giảm 1,65%, PVT giảm 2,81%, PVD giảm 1,58%. PNJ giảm sàn lần 3 liên tiếp, rơi xuống mức thấp nhất kể từ tháng 10/2020."
+      "note": "Giá dầu thế giới sụt giảm do xuất khẩu dầu Saudi Arabia từ Biển Đỏ hồi phục. GAS giảm 1,53%, BSR -1,85%, PLX -1,65%, PVT -2,81%, PVC -2,4%, PTV -6,5%, POS -2%. PNJ giảm sàn lần thứ 3 liên tiếp, thủng đáy 5 năm (từ tháng 10/2020)."
     },
     {
-      "title": "MBS cảnh báo tháng 10 khó khăn, thanh khoản suy yếu",
+      "title": "F88 huy động 781.9 tỷ đồng, lợi nhuận vượt kế hoạch 30%, kế hoạch niêm yết HOSE",
+      "impact": "↑",
+      "note": "Chào bán công chúng 11,013,200 cổ phiếu giao dịch UPCoM, huy động 781.9 tỷ đồng, vốn điều lệ nâng lên 2,312.65 tỷ đồng. Lợi nhuận trước thuế năm 2026 dự báo vượt 30% kế hoạch. Kế hoạch chuyển niêm yết HOSE đang triển khai."
+    },
+    {
+      "title": "Tháng 10 cảnh báo khó khăn, giảm bình quân 2% trong 10 năm, 4 năm liên tiếp đều giảm",
       "impact": "↓",
-      "note": "Tháng 10 lịch sử không thuận lợi (giảm 4 tháng liên tiếp kể từ 2022-2026, giảm bình quân hơn 2%). Lạm phát chi phí đẩy, mặt bằng lãi suất cao gây trở ngại. Thanh khoản suy yếu ở mức thấp nhất kể từ đầu năm 2026, dòng tiền co cụm vào cổ phiếu hàng hóa và phòng thủ."
+      "note": "MBS cảnh báo tháng 10 không tốt: giảm bình quân 2%, 4 năm liên tiếp (2022-2026) đều giảm điểm. Lạm phát chi phí đẩy, lãi suất cao gây trở ngại, dòng tiền suy yếu, thanh khoản ở vùng thấp nhất kể từ đầu năm."
     },
     {
-      "title": "SHS chi trả cổ tức 5%, tổng 449,73 tỷ đồng",
+      "title": "Vàng tăng giá 1-1,3 triệu đồng/lượng lên 143-144 triệu đồng/lượng",
       "impact": "↑",
-      "note": "Chi trả cổ tức năm 2025 tỷ lệ 5% tiền mặt (500 đồng/cổ phiếu), tổng giá trị 449,73 tỷ đồng, ngày đăng ký 9/10/2026, thanh toán 16/10/2026. Phát hành cổ phiếu thưởng tỷ lệ 5% (100:5), tương ứng 44.973.111 cổ phiếu chia sẻ giá trị cổ đông."
+      "note": "Sáng 30/9, vàng nhẫn tăng 1 triệu đồng/lượng, buổi trưa tăng thêm 0,2-0,5 triệu tùy doanh nghiệp. SJC, PNJ, Bảo Tín Minh Châu, DOJI niêm yết 140-143,8 triệu đồng/lượng. Phản ánh nhu cầu tài sản an toàn trong bối cảnh lạm phát cao."
     },
     {
-      "title": "AgriS (SBT) đón cổ đông nước ngoài Brilliant Solutions",
+      "title": "Nhà máy nhiệt điện Vũng Áng II 2,2 tỷ USD khánh thành, tạo tiền đề siêu dự án 1,98 tỷ USD",
       "impact": "↑",
-      "note": "Brilliant Solutions INC (Singapore) trở thành cổ đông lớn của AgriS với 48.015.592 cổ phiếu, sở hữu 5,30% vốn. Cổ đông nước ngoài gia tăng sở hữu, mở rộng kết nối nguồn lực, đối tác và thị trường quốc tế cho AgriS."
+      "note": "Tổ máy 1 Nhà máy Nhiệt điện BOT Vũng Áng II khánh thành ngày 18/9/2025, công suất 1.300+ MW. Mái vòm thép 50.000m2 bị sập bão 10/2025 được sửa chữa thành công. Công trình trọng điểm năng lượng quốc gia tạo tiền đề phát triển siêu dự án 1,98 tỷ USD."
     }
   ]
 }
