@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận các tín hiệu vĩ mô tích cực trong quý cuối năm khi Quảng Ninh dẫn đầu cả nước về tăng trưởng GRDP (15,04% quý 3), các công trình FDI trọng điểm hoàn thành (Vũng Áng II 2,2 tỷ USD), và các công cụ đầu tư mới (VNPRIVGRO) được ra mắt nhằm nâng cao giá trị nhóm cổ phiếu chất lượng cao. Tuy nhiên, dòng tiền ngoài đang yếu, khiến thị trường phân hóa rõ nét với áp lực bán trên nhóm blue-chip, đòi hỏi nhà đầu tư cân nhân giữa tăng trưởng kinh tế bền vững và rủi ro ngắn hạn từ dòng tiền.",
+  "summary_vi": "Quảng Ninh dẫn đầu tăng trưởng kinh tế 15,04% quý 3 với động lực từ công nghiệp chế biến-chế tạo, tạo đà tích cực cho các doanh nghiệp sản xuất. MCH gia nhập VN30 mở cơ hội định giá lại và hỗ trợ từ các bộ chỉ số toàn cầu. F88 lợi nhuận vượt 30% kế hoạch, chuẩn bị niêm yết HOSE, AgriS đón nhà đầu tư nước ngoài (BSI Singapore 5,3%), khẳng định sức hút FDI. Tuy nhiên, dòng tiền đứng ngoài hôm 30/9 gây áp lực: VN-Index giảm 0,51%, GAS -3,42%, BSR -3,38%, cảnh báo rủi ro ngắn hạn trong bối cảnh thị trường phân hóa.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu cả nước về tăng trưởng GRDP quý 3",
+      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP 15,04% quý 3",
       "impact": "↑",
-      "note": "Quảng Ninh ghi nhận GRDP quý 3/2026 tăng 15,04% (cao nhất cả nước), 9 tháng tăng 12,54%. Công nghiệp chế biến-chế tạo là trụ cột với 12/12 dự án trọng điểm đi vào sản xuất, vốn đầu tư toàn ngành tăng 17,4% so với cùng kỳ năm 2025, phản ánh đà tăng trưởng bền vững và lực kéo mạnh từ khu vực công nghiệp cho toàn nền kinh tế."
+      "note": "GRDP Quảng Ninh quý III/2026 đạt 15,04%, dẫn đầu cả nước; 9 tháng đạt 12,54%. Công nghiệp chế biến-chế tạo là trụ cột, 12/12 dự án trọng điểm với tổng vốn gần 100.000 tỷ đồng tăng 17,4% so với cùng kỳ 2025. Thành phố vừa lên địa vị trực thuộc Trung ương từ 1/9/2026, đà tăng trưởng duy trì ở mức cao, hỗ trợ tích cực cho các doanh nghiệp công nghiệp."
     },
     {
-      "title": "HoSE ra mắt chỉ số VNPRIVGRO, quy tụ 30 cổ phiếu tư nhân quy mô lớn",
+      "title": "MCH gia nhập VN30, cơ hội tái định giá",
       "impact": "↑",
-      "note": "Chỉ số VNPRIVGRO bao gồm 30 cổ phiếu từ khu vực kinh tế tư nhân có thanh khoản tốt và tỷ lệ sở hữu nhà nước không vượt 15%, với giới hạn 8 cổ phiếu/ngành (GICS cấp 2) để đảm bảo đa dạng. Công cụ đầu tư mới này tạo nền tảng phát triển các sản phẩm theo chỉ số, hỗ trợ tái định giá cho nhóm cổ phiếu tư nhân chất lượng cao."
+      "note": "Masan Consumer (MCH) chính thức gia nhập rổ VN30, được chú ý bởi các bộ chỉ số toàn cầu. Công ty có 98% độ phủ tiếp cận hộ gia đình Việt, dẫn đầu gia vị, thứ 2 phân khúc thực phẩm tiện lợi. Danh mục 35 thương hiệu, 5 thương hiệu mạnh (CHIN-SU, Nam Ngư, Omachi...), tạo dòng tiền mạnh, mở đà tái định giá từ hiệu ứng chỉ số."
     },
     {
-      "title": "F88 hoàn tất chào bán 11 triệu cổ phiếu, chuẩn bị lên HOSE",
-      "impact": "↑",
-      "note": "F88 hoàn tất chào bán ra công chúng 11,013,200 cổ phiếu, ghi nhận lợi nhuận trước thuế năm 2026 vượt hơn 30% kế hoạch năm, thu về ~781,9 tỷ đồng. Vốn điều lệ tăng lên 2,312.65 tỷ đồng; công ty tiếp tục triển khai niêm yết HOSE, phản ánh sức khỏe mạnh của ngành tài chính tiêu dùng."
-    },
-    {
-      "title": "VN-Index giảm 0,51% khi dòng tiền ngoài đứng ngoài, phân hóa sâu",
+      "title": "Dòng tiền đứng ngoài, thị trường suy yếu",
       "impact": "↓",
-      "note": "VN-Index đóng cửa giảm 0,51%; rổ VN30 có 22/28 mã giảm, gồm các blue-chip như VHM giảm 1,86% (trượt 1,15% chiều nay), GAS giảm 3,42%, BSR giảm 3,38%. Thanh khoản HOSE tăng 26,94% nhưng phân hóa rõ nét (309 tăng, 266 giảm), cho thấy dòng tiền ngoài yếu và rủi ro ngắn hạn trên nhóm cổ phiếu trụ cột."
+      "note": "VN-Index chiều 30/9 giảm 0,51% dù có 309 mã tăng, 266 mã giảm. VN30 có 22 mã giảm vs 6 mã tăng. Blue-chips giảm mạnh: GAS -3,42%, BSR -3,38%, VHM -1,86% (giảm 1,15% chiều nay), VCB mất toàn bộ mức tăng sáng. Chỉ VPB tăng 1,96% khi thanh khoản chiều bùng nổ gấp 4,5 lần sáng. Dòng tiền chung rút sang, áp lực bán tại nhóm năng lượng, rủi ro ngắn hạn."
     },
     {
-      "title": "MCH chính thức gia nhập rổ chỉ số VN30, tái định giá cổ phiếu FMCG",
+      "title": "F88 lợi nhuận vượt kế hoạch 30%, chuẩn bị HOSE",
       "impact": "↑",
-      "note": "Masan Consumer (MCH) chính thức gia nhập VN30 với tư cách doanh nghiệp dẫn đầu ngành FMCG, hiện diện trong 98% hộ gia đình Việt Nam. Công ty sở hữu 35 thương hiệu trong đó 5 thương hiệu mạnh (CHIN-SU, Nam Ngư, Omachi, Kokomi, Wake-up 247), doanh thu tăng trưởng ấn tượng, khả năng tạo dòng tiền mạnh, được chú ý bởi các chỉ số toàn cầu."
+      "note": "F88 hoàn tất phát hành 11,013,200 cổ phiếu, giao dịch UPCoM từ 30/9, tổng vốn điều lệ tăng từ 1,077 tỷ lên 2,312.65 tỷ đồng. Lợi nhuận trước thuế cả năm 2026 dự báo vượt 30% kế hoạch năm. Đợt chào bán thu 781,9 tỷ đồng, chuẩn bị niêm yết HOSE mở rộng cơ sở nhà đầu tư, dòng vốn dài hạn."
     },
     {
-      "title": "Nhà máy Nhiệt điện Vũng Áng II (2,2 tỷ USD) chính thức phát điện",
+      "title": "Thông tư 138/2026 từ 1/10: bảo vệ nhà đầu tư trái phiếu",
+      "impact": "→",
+      "note": "Thông tư 138/2026/TT-BTC chính thức có hiệu lực từ 1/10/2026, thay thế Thông tư 30/2023. Siết chặt xác định tư cách nhà đầu tư, ưu tiên tuyệt đối lệnh khách hàng, bảo vệ quyền lợi, thiết lập 'bộ lọc' an toàn cho phát hành, thành viên giao dịch và nhà đầu tư. Thể chế hóa, giảm rủi ro nhưng có thể hạn chế hoạt động ngắn hạn."
+    },
+    {
+      "title": "AgriS (SBT) đón nhà đầu tư chiến lược nước ngoài",
       "impact": "↑",
-      "note": "Nhà máy Nhiệt điện Vũng Áng II (VAPCO) 2 tổ máy công suất 1.300+ MW, vốn đầu tư 2,2 tỷ USD theo hình thức BOT, tổ máy số 1 khánh thành ngày 18/9/2025, phát điện đúng lịch. Công ty đã khắc phục sự cố bão (sập mái vòm 50.000m2) thông qua tăng cường độ chịu lực, khẳng định khả năng thực hiện các siêu dự án FDI trọng điểm và hỗ trợ tăng trưởng kinh tế dài hạn."
+      "note": "Brilliant Solutions INC (BSI, Singapore) trở thành cổ đông lớn AgriS với 48,015,592 cổ phiếu (5,30%). BSI là tổ chức tài chính khu vực châu Á, tiêu chí đầu tư hướng tới doanh nghiệp vốn hóa lớn, tăng trưởng bền vững, phạm vi toàn cầu. Khoản đầu tư mở rộng nền tảng cổ đông, kết nối nguồn lực quốc tế, khẳng định sức hút FDI của Việt Nam."
     }
   ]
 }
