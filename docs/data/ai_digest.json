@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quảng Ninh dẫn đầu tăng trưởng kinh tế 15,04% quý 3 với động lực từ công nghiệp chế biến-chế tạo, tạo đà tích cực cho các doanh nghiệp sản xuất. MCH gia nhập VN30 mở cơ hội định giá lại và hỗ trợ từ các bộ chỉ số toàn cầu. F88 lợi nhuận vượt 30% kế hoạch, chuẩn bị niêm yết HOSE, AgriS đón nhà đầu tư nước ngoài (BSI Singapore 5,3%), khẳng định sức hút FDI. Tuy nhiên, dòng tiền đứng ngoài hôm 30/9 gây áp lực: VN-Index giảm 0,51%, GAS -3,42%, BSR -3,38%, cảnh báo rủi ro ngắn hạn trong bối cảnh thị trường phân hóa.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Khối ngoại bán ròng 910 tỷ đồng gây áp lực ngắn hạn, VN-Index giảm 9,11 điểm về 1.768, thanh khoản thấp ~15.000 tỷ đồng. Tuy nhiên, tín hiệu vĩ mô từ Quảng Ninh tăng trưởng GRDP 15,04% quý 3 (dẫn đầu cả nước), cơ cấu thị trường cải thiện (VNPRIVGRO index, Circular 138 bảo vệ nhà đầu tư), và hiệu suất doanh nghiệp mạnh (F88 lợi nhuận vượt 30%, MCH gia nhập VN30, AgriS đón FDI) cân bằng rủi ro, tạo nền tảng cho phục hồi trung hạn.",
   "top": [
+    {
+      "title": "Khối ngoại bán ròng 910 tỷ đồng, VN-Index lùi 9,11 điểm",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 910 tỷ đồng trên toàn thị trường. VN-Index đóng cửa 1.768 điểm, giảm 9,11 điểm. VHM bị xả mạnh nhất với 329 tỷ đồng bán ròng, TCB 156 tỷ đồng, VIC 82 tỷ đồng. Thanh khoản duy trì mức thấp với tổng giá trị giao dịch HoSE hơn 15.000 tỷ đồng, tâm lý thận trọng tiếp tục chi phối."
+    },
     {
       "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP 15,04% quý 3",
       "impact": "↑",
-      "note": "GRDP Quảng Ninh quý III/2026 đạt 15,04%, dẫn đầu cả nước; 9 tháng đạt 12,54%. Công nghiệp chế biến-chế tạo là trụ cột, 12/12 dự án trọng điểm với tổng vốn gần 100.000 tỷ đồng tăng 17,4% so với cùng kỳ 2025. Thành phố vừa lên địa vị trực thuộc Trung ương từ 1/9/2026, đà tăng trưởng duy trì ở mức cao, hỗ trợ tích cực cho các doanh nghiệp công nghiệp."
+      "note": "GRDP Quảng Ninh quý III/2026 đạt 15,04% (dẫn đầu cả nước), 9 tháng đạt 12,54%. Tăng trưởng cao hơn 2,16 điểm so với cùng kỳ 2025. Công nghiệp chế biến-chế tạo là trụ cột, 12/12 dự án trọng điểm đi vào hoạt động với tổng vốn gần 100.000 tỷ đồng tăng 17,4% so với cùng kỳ 2025."
     },
     {
-      "title": "MCH gia nhập VN30, cơ hội tái định giá",
+      "title": "HoSE ra mắt VNPRIVGRO, quy tụ 30 cổ phiếu lớn tăng trưởng cao",
       "impact": "↑",
-      "note": "Masan Consumer (MCH) chính thức gia nhập rổ VN30, được chú ý bởi các bộ chỉ số toàn cầu. Công ty có 98% độ phủ tiếp cận hộ gia đình Việt, dẫn đầu gia vị, thứ 2 phân khúc thực phẩm tiện lợi. Danh mục 35 thương hiệu, 5 thương hiệu mạnh (CHIN-SU, Nam Ngư, Omachi...), tạo dòng tiền mạnh, mở đà tái định giá từ hiệu ứng chỉ số."
+      "note": "Chỉ số VNPRIVGRO gồm 30 cổ phiếu thành phần từ VNAllshare, thanh khoản tốt, tỷ lệ sở hữu nhà nước ≤15%, tỷ trọng tối đa 10%/cổ phiếu, 15% nhóm liên quan, 40% cùng ngành GICS. Cung cấp thước đo tham chiếu mới và nền tảng phát triển các sản phẩm đầu tư theo chỉ số trong tương lai."
     },
     {
-      "title": "Dòng tiền đứng ngoài, thị trường suy yếu",
-      "impact": "↓",
-      "note": "VN-Index chiều 30/9 giảm 0,51% dù có 309 mã tăng, 266 mã giảm. VN30 có 22 mã giảm vs 6 mã tăng. Blue-chips giảm mạnh: GAS -3,42%, BSR -3,38%, VHM -1,86% (giảm 1,15% chiều nay), VCB mất toàn bộ mức tăng sáng. Chỉ VPB tăng 1,96% khi thanh khoản chiều bùng nổ gấp 4,5 lần sáng. Dòng tiền chung rút sang, áp lực bán tại nhóm năng lượng, rủi ro ngắn hạn."
-    },
-    {
-      "title": "F88 lợi nhuận vượt kế hoạch 30%, chuẩn bị HOSE",
+      "title": "F88 phát hành 11 triệu cổ phiếu, lợi nhuận vượt kế hoạch 30%",
       "impact": "↑",
-      "note": "F88 hoàn tất phát hành 11,013,200 cổ phiếu, giao dịch UPCoM từ 30/9, tổng vốn điều lệ tăng từ 1,077 tỷ lên 2,312.65 tỷ đồng. Lợi nhuận trước thuế cả năm 2026 dự báo vượt 30% kế hoạch năm. Đợt chào bán thu 781,9 tỷ đồng, chuẩn bị niêm yết HOSE mở rộng cơ sở nhà đầu tư, dòng vốn dài hạn."
+      "note": "F88 hoàn tất chào bán 11,013,200 cổ phiếu, giao dịch UPCoM từ 30/9, huy động 781,9 tỷ đồng, vốn điều lệ tăng lên 2.312,65 tỷ đồng. Lợi nhuận trước thuế cả năm 2026 dự báo vượt 30% kế hoạch năm. Đang triển khai chuyển sang niêm yết HOSE mở rộng cơ sở nhà đầu tư."
     },
     {
-      "title": "Thông tư 138/2026 từ 1/10: bảo vệ nhà đầu tư trái phiếu",
-      "impact": "→",
-      "note": "Thông tư 138/2026/TT-BTC chính thức có hiệu lực từ 1/10/2026, thay thế Thông tư 30/2023. Siết chặt xác định tư cách nhà đầu tư, ưu tiên tuyệt đối lệnh khách hàng, bảo vệ quyền lợi, thiết lập 'bộ lọc' an toàn cho phát hành, thành viên giao dịch và nhà đầu tư. Thể chế hóa, giảm rủi ro nhưng có thể hạn chế hoạt động ngắn hạn."
-    },
-    {
-      "title": "AgriS (SBT) đón nhà đầu tư chiến lược nước ngoài",
+      "title": "Circular 138/2026 từ 1/10 siết chặt bảo vệ nhà đầu tư trái phiếu",
       "impact": "↑",
-      "note": "Brilliant Solutions INC (BSI, Singapore) trở thành cổ đông lớn AgriS với 48,015,592 cổ phiếu (5,30%). BSI là tổ chức tài chính khu vực châu Á, tiêu chí đầu tư hướng tới doanh nghiệp vốn hóa lớn, tăng trưởng bền vững, phạm vi toàn cầu. Khoản đầu tư mở rộng nền tảng cổ đông, kết nối nguồn lực quốc tế, khẳng định sức hút FDI của Việt Nam."
+      "note": "Thông tư 138/2026/TT-BTC chính thức có hiệu lực từ 1/10/2026, thay thế Thông tư 30/2023. Quy định bắt buộc xác định tư cách nhà đầu tư, ưu tiên tuyệt đối lệnh khách hàng, bảo vệ tối đa quyền lợi, thiết lập 'bộ lọc' an toàn cho phát hành, thành viên giao dịch và nhà đầu tư, giảm rủi ro hệ thống."
+    },
+    {
+      "title": "MCH chính thức gia nhập VN30, cơ hội tái định giá",
+      "impact": "↑",
+      "note": "Masan Consumer (MCH) chính thức gia nhập rổ VN30, tiếp cận danh sách chỉ số toàn cầu. Công ty có 98% độ phủ hộ gia đình, sở hữu 35 thương hiệu trong đó 5 thương hiệu mạnh (CHIN-SU, Nam Ngư, Omachi, Kokomi, Wake-up 247), dẫn đầu gia vị, thứ 2 thực phẩm tiện lợi, tạo dòng tiền mạnh."
     }
   ]
 }
