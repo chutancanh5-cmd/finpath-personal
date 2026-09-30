@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay cho thấy sự phân hóa rõ ràng khi dòng tiền yếu khiến VN-Index giảm nhẹ 0,51% với gần 100 cổ phiếu lỗ hơn 1%, trong khi vĩ mô có tín hiệu tích cực từ Quảng Ninh dẫn đầu tăng trưởng 15,04% quý III và các doanh nghiệp tiếp tục tăng vốn qua IPO. Áp lực ngắn hạn từ thiếu thanh khoản vẫn cần chú ý, nhưng kỳ vọng về cải thiện dòng tiền trong thời gian tới có thể tạo động lực phục hồi cho thị trường.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận các tín hiệu vĩ mô tích cực trong quý cuối năm khi Quảng Ninh dẫn đầu cả nước về tăng trưởng GRDP (15,04% quý 3), các công trình FDI trọng điểm hoàn thành (Vũng Áng II 2,2 tỷ USD), và các công cụ đầu tư mới (VNPRIVGRO) được ra mắt nhằm nâng cao giá trị nhóm cổ phiếu chất lượng cao. Tuy nhiên, dòng tiền ngoài đang yếu, khiến thị trường phân hóa rõ nét với áp lực bán trên nhóm blue-chip, đòi hỏi nhà đầu tư cân nhân giữa tăng trưởng kinh tế bền vững và rủi ro ngắn hạn từ dòng tiền.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP 15,04% quý III",
+      "title": "Quảng Ninh dẫn đầu cả nước về tăng trưởng GRDP quý 3",
       "impact": "↑",
-      "note": "Quảng Ninh tăng trưởng 15,04% trong quý III/2026, cao hơn 2,16 điểm phần trăm so với 2025 và dẫn đầu cả nước trong 9 tháng với 12,54%. Động lực chính từ công nghiệp, xây dựng, dịch vụ với 12/12 dự án trọng điểm hoàn thành, vốn ~100.000 tỷ đồng tăng 17,4% so với 2025."
+      "note": "Quảng Ninh ghi nhận GRDP quý 3/2026 tăng 15,04% (cao nhất cả nước), 9 tháng tăng 12,54%. Công nghiệp chế biến-chế tạo là trụ cột với 12/12 dự án trọng điểm đi vào sản xuất, vốn đầu tư toàn ngành tăng 17,4% so với cùng kỳ năm 2025, phản ánh đà tăng trưởng bền vững và lực kéo mạnh từ khu vực công nghiệp cho toàn nền kinh tế."
     },
     {
-      "title": "Dòng tiền rút khỏi, thị trường từ từ trượt dần",
+      "title": "HoSE ra mắt chỉ số VNPRIVGRO, quy tụ 30 cổ phiếu tư nhân quy mô lớn",
+      "impact": "↑",
+      "note": "Chỉ số VNPRIVGRO bao gồm 30 cổ phiếu từ khu vực kinh tế tư nhân có thanh khoản tốt và tỷ lệ sở hữu nhà nước không vượt 15%, với giới hạn 8 cổ phiếu/ngành (GICS cấp 2) để đảm bảo đa dạng. Công cụ đầu tư mới này tạo nền tảng phát triển các sản phẩm theo chỉ số, hỗ trợ tái định giá cho nhóm cổ phiếu tư nhân chất lượng cao."
+    },
+    {
+      "title": "F88 hoàn tất chào bán 11 triệu cổ phiếu, chuẩn bị lên HOSE",
+      "impact": "↑",
+      "note": "F88 hoàn tất chào bán ra công chúng 11,013,200 cổ phiếu, ghi nhận lợi nhuận trước thuế năm 2026 vượt hơn 30% kế hoạch năm, thu về ~781,9 tỷ đồng. Vốn điều lệ tăng lên 2,312.65 tỷ đồng; công ty tiếp tục triển khai niêm yết HOSE, phản ánh sức khỏe mạnh của ngành tài chính tiêu dùng."
+    },
+    {
+      "title": "VN-Index giảm 0,51% khi dòng tiền ngoài đứng ngoài, phân hóa sâu",
       "impact": "↓",
-      "note": "VN-Index giảm 0,51% với gần 100 cổ phiếu lỗ hơn 1% giá trị. VN30 có 22 mã tụt giá: VHM giảm 1,15%, GAS -3,42%, BSR -3,38%, BID chỉ +0,14%, phản ánh áp lực bán mạnh ở các blue-chip và yếu đuối của dòng tiền lớn."
+      "note": "VN-Index đóng cửa giảm 0,51%; rổ VN30 có 22/28 mã giảm, gồm các blue-chip như VHM giảm 1,86% (trượt 1,15% chiều nay), GAS giảm 3,42%, BSR giảm 3,38%. Thanh khoản HOSE tăng 26,94% nhưng phân hóa rõ nét (309 tăng, 266 giảm), cho thấy dòng tiền ngoài yếu và rủi ro ngắn hạn trên nhóm cổ phiếu trụ cột."
     },
     {
-      "title": "F88 tăng vốn 781,9 tỷ đồng từ IPO, lợi nhuận vượt kế hoạch 30%",
+      "title": "MCH chính thức gia nhập rổ chỉ số VN30, tái định giá cổ phiếu FMCG",
       "impact": "↑",
-      "note": "F88 hoàn tất IPO thêm 11,013,200 cổ phiếu trên UPCoM, thu tổng cộng 781,9 tỷ đồng; dự báo lợi nhuận trước thuế cả năm 2026 vượt hơn 30% kế hoạch. Vốn điều lệ nâng lên 2,312.65 tỷ đồng, hỗ trợ hoạt động kinh doanh dịch vụ cho vay cốt lõi."
+      "note": "Masan Consumer (MCH) chính thức gia nhập VN30 với tư cách doanh nghiệp dẫn đầu ngành FMCG, hiện diện trong 98% hộ gia đình Việt Nam. Công ty sở hữu 35 thương hiệu trong đó 5 thương hiệu mạnh (CHIN-SU, Nam Ngư, Omachi, Kokomi, Wake-up 247), doanh thu tăng trưởng ấn tượng, khả năng tạo dòng tiền mạnh, được chú ý bởi các chỉ số toàn cầu."
     },
     {
-      "title": "MCH chính thức gia nhập VN30",
+      "title": "Nhà máy Nhiệt điện Vũng Áng II (2,2 tỷ USD) chính thức phát điện",
       "impact": "↑",
-      "note": "Masan Consumer trở thành thành viên của VN30, là lãnh đạo ngành FMCG Việt Nam với độ phủ 98% hộ gia đình. Sở hữu danh mục 35 thương hiệu trong đó 5 thương hiệu mạnh (CHIN-SU, Nam Ngư, Omachi, Kokomi, Wake-up 247), tạo cơ hội tái định giá và hấp dẫn nhà đầu tư toàn cầu."
-    },
-    {
-      "title": "Chứng khoán HD chuẩn bị IPO 121,8 triệu cổ phiếu",
-      "impact": "↑",
-      "note": "HDS dự kiến IPO 121,8 triệu cổ phiếu ở mức giá tối thiểu 12.252 đồng/cổ phiếu, tính đến quý IV/2026. Nhà đầu tư mua qua 2 đại lý SSI và HSC, vốn điều lệ tăng từ 10.961 tỷ lên 12.178 tỷ đồng, mang dòng tiền mới vào thị trường và nâng quy mô ngành."
-    },
-    {
-      "title": "Nhà máy Vũng Áng II khánh thành, tạo tiền đề dự án 1,98 tỷ USD",
-      "impact": "↑",
-      "note": "Dự án FDI trọng điểm Nhà máy Nhiệt điện Vũng Áng II (vốn 2,2 tỷ USD, 2 tổ máy 1.300+ MW) đã khánh thành tổ máy 1 vào 18/9/2025 và khắc phục sự cố sập mái vòm, tạo tiền đề phát triển siêu dự án mới trị giá hơn 1,98 tỷ USD."
+      "note": "Nhà máy Nhiệt điện Vũng Áng II (VAPCO) 2 tổ máy công suất 1.300+ MW, vốn đầu tư 2,2 tỷ USD theo hình thức BOT, tổ máy số 1 khánh thành ngày 18/9/2025, phát điện đúng lịch. Công ty đã khắc phục sự cố bão (sập mái vòm 50.000m2) thông qua tăng cường độ chịu lực, khẳng định khả năng thực hiện các siêu dự án FDI trọng điểm và hỗ trợ tăng trưởng kinh tế dài hạn."
     }
   ]
 }
