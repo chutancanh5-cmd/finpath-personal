@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP quý 3 dự báo 8,7%, xuất nhập khẩu 9 tháng tăng 29,44%. Thanh khoản hệ thống ngân hàng dồi dào khi lãi suất liên ngân hàng qua đêm giảm xuống 0,2%/năm. Dự án Nhà máy Nhiệt điện Vũng Áng II (2,2 tỷ USD) khánh thành tổ máy 1, khẳng định vai trò FDI trọng điểm. Tuy nhiên, dòng vốn ngoài nước đang chuyển hướng vào Thái Lan và Singapore, tạo áp lực ngắn hạn lên thị trường cổ phiếu.",
+  "summary_vi": "Nền kinh tế Việt Nam trong quý 3/2026 tiếp tục duy trì động lực tăng trưởng vững chắc với GDP dự báo 8,7%, Quảng Ninh dẫn đầu 12,54%, và mục tiêu tăng trưởng 10%/năm được thiết lập. Dự án Nhà máy Vũng Áng II (2,2 tỷ USD) hoàn thành tổ máy 1 minh chứng cho FDI chất lượng. Tuy nhiên, cảnh báo từ dòng vốn ETF dịch chuyển sang Thái Lan-Singapore và PNJ gặp khó (kế hoạch lỗ 6.271 tỷ) cho thấy những rủi ro ngắn hạn. Giá vàng tăng 2,5 triệu/lượng phản ánh tâm lý thận trọng giữa cuộc chiến tranh Mỹ-Iran.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 8,7%, nửa cuối năm dự báo 10,6%",
+      "title": "GDP Q3 dự báo 8,7%, nửa cuối 2026 tăng 10,6%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP quý 3/2026 đạt 8,7% YoY (tăng từ 8,4% quý 2), nửa cuối 2026 tăng 10,6%, toàn năm 9,5%. Sản xuất công nghiệp +13,2%, xuất khẩu +27,2%, nhập khẩu +40%, lạm phát 4,5%."
+      "note": "Standard Chartered dự báo GDP Q3/2026 đạt 8,7% so với cùng kỳ năm trước (tăng từ 8,4% Q2). Sản xuất công nghiệp Q3: 13,2%, xuất khẩu: 27,2%, nhập khẩu: 40%, lạm phát: 4,5%. Đà tăng trưởng duy trì vững chắc trong bối cảnh cuộc chiến tranh Mỹ-Iran."
     },
     {
-      "title": "Quảng Ninh dẫn đầu với GRDP 12,54% trong 9 tháng",
+      "title": "Quảng Ninh dẫn đầu cả nước với GRDP 12,54%",
       "impact": "↑",
-      "note": "Tốc độ tăng trưởng GRDP Quảng Ninh đạt 12,54%, xếp thứ 1 cả nước, quý 3 tăng tới 15,04%. Động lực từ công nghiệp chế biến, chế tạo; 12 dự án trọng điểm có tổng vốn gần 100.000 tỷ đồng, tăng 17,4%."
+      "note": "Trong 9 tháng 2026, GRDP Quảng Ninh đạt 12,54%, Q3 đạt 15,04%, dẫn đầu toàn quốc. 12/12 dự án trọng điểm công nghiệp chế biến, chế tạo đi vào hoạt động, vốn đầu tư gần 100.000 tỷ đồng tăng 17,4% so với cùng kỳ năm 2025."
     },
     {
-      "title": "Lãi suất liên ngân hàng qua đêm giảm 0,2%, thanh khoản dồi dào",
+      "title": "Nhà máy Vũng Áng II hoàn thành tổ máy 1",
       "impact": "↑",
-      "note": "Lãi suất VND liên ngân hàng qua đêm giảm 0,30% xuống 0,20%/năm, mức thấp nhất từ tháng 1/2024. NHNN chào thầu 12.000 tỷ đồng, các tổ chức tín dụng trúng thầu 9.814 tỷ đồng ở 4,5%/năm."
+      "note": "Dự án BOT 2,2 tỷ USD hoàn thành tổ máy 1 vào 18/9/2025, công suất tổng 1.300+ MW từ 2 tổ máy. Mặc dù bão tháng 10/2025 làm sập mái kho than rộng 50.000m2, công ty lập tức sửa chữa bằng vật liệu bền hơn, minh chứng cho khả năng xử lý sự cố của FDI chất lượng."
     },
     {
-      "title": "Nhà máy Nhiệt điện Vũng Áng II (2,2 tỷ USD) khánh thành tổ máy 1",
-      "impact": "↑",
-      "note": "Tổ máy 1 Nhà máy Nhiệt điện BOT Vũng Áng II khánh thành 18/9/2025, công suất 1.300 MW, tổng vốn 2,2 tỷ USD. Dự án FDI trọng điểm tại KKT Vũng Áng, là công trình năng lượng cấp quốc gia."
+      "title": "Giá vàng miếng tăng 2,5 triệu/lượng",
+      "impact": "→",
+      "note": "Giá vàng miếng SJC tăng 2,2-2,5 triệu/lượng chỉ sau một đêm, đến mức 140,5-143,5 triệu đồng/lượng. Tăng giá phản ánh nhu cầu tìm kiếm an toàn giữa bối cảnh cuộc chiến tranh Mỹ-Iran và tăng lãi suất toàn cầu từ Fed, BOJ, ECB."
     },
     {
-      "title": "Dòng tiền ngoại chảy sang Thái Lan 41 triệu USD, Singapore 75 triệu USD",
+      "title": "Dòng vốn ETF chảy khỏi Việt Nam sang Thái-Singapore",
       "impact": "↓",
-      "note": "ETF cổ phiếu Mỹ rút ròng 641 triệu USD. Singapore hút gần 75 triệu USD, Thái Lan 41 triệu USD tuần qua. Việt Nam hút ròng không đáng kể, phản ánh dòng vốn quốc tế đang phân bổ lại."
+      "note": "Tuần qua, Singapore hút vốn ETF 75 triệu USD, Thái Lan 41 triệu USD, trong khi Việt Nam hút ròng không đáng kể. ETF cổ phiếu Mỹ rút ròng 641 triệu USD, phản ánh tâm lý risk-off trở lại, ưu tiên dòng vốn sang các thị trường khác thay vì thị trường mới nổi."
     },
     {
-      "title": "Nhập khẩu tháng 9 tăng 7,16%, gấp 3 lần xuất khẩu +2,4%, nhập siêu 2,82 tỷ USD",
+      "title": "PNJ kế hoạch lỗ kỷ lục 6.271 tỷ đồng",
       "impact": "↓",
-      "note": "Nhập khẩu tháng 9 đạt 28,84 tỷ USD (tăng 7,16%), xuất khẩu đạt 26,02 tỷ USD (tăng 2,4%), tạo nhập siêu 2,82 tỷ USD, tuy 9 tháng toàn cộng tăng 29,44% nhưng có áp lực cân bằng ngắn hạn."
+      "note": "PNJ điều chỉnh kế hoạch 2026 sang kế hoạch lỗ 6.271 tỷ đồng do trích lập dự phòng cho chính sách thu đổi hàng hóa đã bán. Chào bán riêng lẻ 550 triệu cổ phiếu để tăng vốn, cảnh báo về rủi ro kinh doanh và sức cầu khách hàng ngắn hạn."
     }
   ]
 }
