@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam duy trì động lực tăng trưởng mạnh với dự báo GDP quý 3 đạt 8.7%, nửa cuối năm 10.6%, GDP năm 2026 khoảng 9.5%, xuất khẩu tăng 27.2% và sản xuất công nghiệp tăng 13.2%. Tuy nhiên, áp lực lãi suất của Fed tăng cao đẩy USD và lợi suất trái phiếu Mỹ lên, tạo rủi ro cho ngoại tệ. Tesla vào Việt Nam mở cơ hội cho ngành ô tô điện, nhưng dòng vốn ngoại vẫn còn yếu với khối ngoại bán ròng 400 tỷ đồng. Kết quả kinh doanh doanh nghiệp có dấu hiệu phân hóa mạnh khi một số cổ phiếu gặp áp lực lớn.",
+  "summary_vi": "Tăng trưởng GDP quý 3 duy trì ở 8.7%, nửa cuối năm dự báo 10.6%, sản xuất công nghiệp tăng 13.2% và xuất khẩu tăng 27.2% thể hiện tín hiệu mạnh từ kinh tế; Tesla vào Việt Nam mở cơ hội cho ô tô điện và nhà đầu tư nước ngoài tham gia AgriS hỗ trợ tăng trưởng. Tuy nhiên, nhập siêu 2,82 tỷ USD tháng 9, dòng vốn ngoại chuyển sang Singapore/Thái Lan, và lỗ kỷ lục 6.271 tỷ của PNJ cho thấy các rủi ro trong ngắn hạn.",
   "top": [
     {
-      "title": "GDP quý 3 đạt 8.7%, GDP năm 2026 khoảng 9.5%",
+      "title": "GDP quý 3 đạt 8.7%, nửa cuối năm dự báo 10.6%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP quý 3/2026 tăng 8.7% so với cùng kỳ năm trước (tăng từ 8.4% quý 2), nửa cuối năm 10.6%, GDP năm 2026 toàn năm 9.5%. Sản xuất công nghiệp dự kiến tăng 13.2%, xuất khẩu +27.2% giúp nền kinh tế duy trì đà tăng trưởng vững chắc bất chấp thách thức từ môi trường bên ngoài."
+      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8.7% (tăng từ 8.4% quý 2), nửa cuối năm 10.6%, giữ nguyên toàn năm 9.5%; sản xuất công nghiệp tăng 13.2%, xuất khẩu tăng 27.2%."
     },
     {
-      "title": "Fed tiếp tục nâng lãi suất, USD và lợi suất trái phiếu Mỹ gia tăng",
+      "title": "PNJ lỗ kỷ lục 6.271 tỷ do trích lập dự phòng chính sách thu đổi",
       "impact": "↓",
-      "note": "Lãi suất trái phiếu Mỹ và đồng USD tăng đồng loạt, thị trường dự báo Fed tiếp tục nâng lãi suất. Giá vàng giao ngay tăng 0.86% lên 4.171,42 USD/ounce nhưng bị hạn chế bởi USD mạnh. Đây là yếu tố tiêu cực ảnh hưởng đến ngoại tệ, vàng, và kỳ vọng kiếm lợi khi áp lực lãi suất quốc tế gia tăng."
+      "note": "PNJ điều chỉnh kế hoạch kinh doanh 2026 với lỗ kỷ lục 6.271 tỷ đồng do trích lập dự phòng tổn thất từ chính sách thu đổi hàng hóa, chào bán riêng lẻ 550 triệu cổ phiếu."
     },
     {
-      "title": "Tesla chính thức vào thị trường Việt Nam",
+      "title": "Dòng vốn ngoại chuyển sang Singapore 75 triệu USD, Thái Lan 41 triệu USD",
+      "impact": "↓",
+      "note": "ETF cổ phiếu Mỹ rút ròng 641 triệu USD, Singapore hút vốn gần 75 triệu USD và Thái Lan 41 triệu USD, Việt Nam hút ròng không đáng kể, phản ánh dòng vốn quốc tế phân bổ lại."
+    },
+    {
+      "title": "Nhập khẩu tháng 9 tăng 7,16% cao gấp 3 lần xuất khẩu, nhập siêu 2,82 tỷ USD",
+      "impact": "↓",
+      "note": "Nhập khẩu tháng 9 đạt 28,84 tỷ USD (tăng 7,16%), xuất khẩu đạt 26,02 tỷ USD (tăng 2,4%), tạo nhập siêu 2,82 tỷ USD, phản ánh áp lực cân bằng thương mại."
+    },
+    {
+      "title": "AgriS (SBT) đón nhà đầu tư nước ngoài Singapore, cổ đông chiến lược",
       "impact": "↑",
-      "note": "Tesla vào Việt Nam tạo cạnh tranh và cơ hội lớn cho ngành ô tô điện. Chuyên gia Phạm Chi Lan phân tích sự vào của Tesla sẽ thay đổi cơ cấu thị trường ô tô điện, mở dư địa cho các đối thủ địa phương và tăng tiềm năng phát triển ngành công nghiệp này."
+      "note": "Brilliant Solutions INC (Singapore) trở thành cổ đông lớn AgriS với 5.30% sở hữu (48,015,592 cổ phiếu), mở kết nối nguồn lực, đối tác và thị trường quốc tế."
     },
     {
-      "title": "PNJ kế hoạch lỗ kỷ lục 6.271 tỷ đồng năm 2026",
-      "impact": "↓",
-      "note": "CTCP Vàng bạc Đá quý Phú Nhuận (PNJ) công bố kế hoạch lỗ kỷ lục 6.271 tỷ đồng năm 2026 do trích lập dự phòng tổn thất từ chính sách thu đổi hàng hóa đã bán. Đồng thời chào bán riêng lẻ 550 triệu cổ phiếu từ quý IV/2026 đến quý II/2027, gây giãn loãng cổ đông hiện hữu."
-    },
-    {
-      "title": "Khối ngoại bán ròng 400 tỷ đồng, Việt Nam hút vốn yếu",
-      "impact": "↓",
-      "note": "Phiên giao dịch gần đây khối ngoại ghi nhận bán ròng gần 400 tỷ đồng (VPB là tâm điểm bán), trong khi dữ liệu ETF cho thấy Việt Nam hút vốn ròng không đáng kể. Động thái rút vốn phản ánh thận trọng của nhà đầu tư khi lãi suất Mỹ tăng cao, tạo áp lực lên TTCK."
-    },
-    {
-      "title": "AgriS (SBT) nhận đầu tư từ quỹ Singapore, cổ đông chiến lược",
+      "title": "Tesla chính thức vào Việt Nam, thị trường ô tô điện chào đón cạnh tranh",
       "impact": "↑",
-      "note": "Brilliant Solutions INC (BSI) từ Singapore công bố là cổ đông lớn của AgriS với sở hữu 48.015.592 cổ phiếu, tương ứng 5.30% cổ phiếu có quyền biểu quyết. Sự vào của cổ đông chiến lược nước ngoài mở thêm dư địa kết nối nguồn lực, đối tác và thị trường quốc tế cho giai đoạn tăng trưởng mới."
+      "note": "Tesla vào Việt Nam tạo cạnh tranh mạnh cho ngành ô tô điện, mở dư địa cho đối thủ địa phương và tăng tiềm năng phát triển ngành công nghiệp."
     }
   ]
 }
