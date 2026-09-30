@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế hôm nay có tín hiệu tích cực từ tăng trưởng GRDP Quảng Ninh vượt kỳ vọng (15,04% quý 3) và được FTSE nâng hạng. Tuy nhiên áp lực từ lạm phát chi phí đẩy, lãi suất cao và yếu tố mùa vụ tháng 10 vẫn gây lo ngại cho thị trường. Nhập siêu 2,82 tỷ USD tháng 9 cần theo dõi để cân bằng thương mại với các đối tác lớn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nền kinh tế quý 3/2026 ghi nhận tăng trưởng mạnh mẽ với GDP 8,7% (dự báo cả năm 9,5%). Quảng Ninh dẫn đầu cả nước với GRDP 15,04% quý 3, trở thành thành phố trực thuộc Trung ương. Tuy nhiên, tháng 10 lịch sử khó khăn, lạm phát chi phí đẩy và mặt bằng lãi suất cao tiếp tục gây áp lực ngắn hạn. Cổ phiếu dầu khí giảm mạnh do giá dầu thế giới sụt, trong khi các doanh nghiệp lớn chia cổ tức hấp dẫn.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP quý 3",
+      "title": "Quảng Ninh dẫn đầu GRDP 15,04% quý 3",
       "impact": "↑",
-      "note": "Tốc độ tăng trưởng GRDP quý 3/2026 đạt 15,04%, 9 tháng đạt 12,54%, dẫn đầu cả nước. Công nghiệp chế biến, chế tạo là trụ cột với 12/12 dự án trọng điểm đã hoạt động, tổng vốn đầu tư gần 100.000 tỷ đồng, tăng 17,4% so với 2025."
+      "note": "Quảng Ninh tăng 15,04% quý 3 (tăng 2,16 điểm phần trăm so với 12,88% quý 3/2025), dẫn đầu cả nước trong 9 tháng (12,54%). Trở thành thành phố trực thuộc Trung ương từ 1/9. Công nghiệp chế biến, chế tạo là động lực chính với 12/12 dự án trọng điểm đi vào hoạt động, vốn đầu tư gần 100.000 tỷ đồng, tăng 17,4%."
+    },
+    {
+      "title": "Standard Chartered: GDP quý 3 đạt 8,7%, năm 2026 là 9,5%",
+      "impact": "↑",
+      "note": "Dự báo GDP quý 3/2026 đạt 8,7% (tăng từ 8,4% quý 2), nửa cuối năm 10,6%, giữ nguyên dự báo cả năm 9,5%. Sản xuất công nghiệp tăng 13,2%, xuất khẩu tăng 27,2%, nhập khẩu tăng 40%, lạm phát 4,5%. Chính sách hỗ trợ tăng trưởng được kỳ vọng duy trì."
     },
     {
       "title": "Cổ phiếu dầu khí giảm mạnh, PNJ thủng đáy 5 năm",
       "impact": "↓",
-      "note": "Nhóm dầu khí giảm sàn do giá dầu thế giới sụt giảm khi xuất khẩu dầu Saudi Arabia từ Biển Đỏ hồi phục. GAS -1,53%, BSR -1,85%, PLX -1,65%, PVT -2,81%, PVD -1,58%. PNJ giảm sàn lần 3 liên tiếp, rơi xuống mức thấp nhất kể từ tháng 10/2020."
+      "note": "Giá dầu thế giới sụt giảm do xuất khẩu dầu Saudi Arabia từ Biển Đỏ hồi phục (đường ống Đông-Tây nối lại). GAS giảm 1,53%, BSR giảm 1,85%, PLX giảm 1,65%, PVT giảm 2,81%, PVD giảm 1,58%. PNJ giảm sàn lần 3 liên tiếp, rơi xuống mức thấp nhất kể từ tháng 10/2020."
     },
     {
-      "title": "FTSE nâng hạng VN, MBS cảnh báo tháng 10 khó khăn",
-      "impact": "→",
-      "note": "FTSE nâng hạng Việt Nam lên thị trường mới nổi thứ cấp, tín hiệu tích cực. Tuy nhiên MBS thận trọng về tháng 10: 10 năm qua VN-Index giảm bình quân 2%, 4 năm liên tiếp (2022-2026) đều giảm. Áp lực từ lạm phát chi phí đẩy, lãi suất cao và dòng tiền suy yếu."
+      "title": "MBS cảnh báo tháng 10 khó khăn, thanh khoản suy yếu",
+      "impact": "↓",
+      "note": "Tháng 10 lịch sử không thuận lợi (giảm 4 tháng liên tiếp kể từ 2022-2026, giảm bình quân hơn 2%). Lạm phát chi phí đẩy, mặt bằng lãi suất cao gây trở ngại. Thanh khoản suy yếu ở mức thấp nhất kể từ đầu năm 2026, dòng tiền co cụm vào cổ phiếu hàng hóa và phòng thủ."
     },
     {
-      "title": "Nhà máy Vũng Áng II (2,2 tỷ USD) thành công",
+      "title": "SHS chi trả cổ tức 5%, tổng 449,73 tỷ đồng",
       "impact": "↑",
-      "note": "Nhà máy Nhiệt điện BOT Vũng Áng II vốn 2,2 tỷ USD, 2 tổ máy công suất 1.300+ MW được khánh thành 18/9/2025. Dù bão tháng 10/2025 làm sập vòm thép kho than 50.000m2 nhưng đã sửa chữa thành công, tạo tiền đề cho siêu dự án 1,98 tỷ USD tiếp theo."
+      "note": "Chi trả cổ tức năm 2025 tỷ lệ 5% tiền mặt (500 đồng/cổ phiếu), tổng giá trị 449,73 tỷ đồng, ngày đăng ký 9/10/2026, thanh toán 16/10/2026. Phát hành cổ phiếu thưởng tỷ lệ 5% (100:5), tương ứng 44.973.111 cổ phiếu chia sẻ giá trị cổ đông."
     },
     {
-      "title": "SHS chi trả cổ tức tiền mặt 5% + cổ phiếu thưởng 5%",
+      "title": "AgriS (SBT) đón cổ đông nước ngoài Brilliant Solutions",
       "impact": "↑",
-      "note": "SHS chi trả cổ tức năm 2025 tỷ lệ 5% tiền mặt (500 đồng/cổ phiếu), tổng giá trị 449.73 tỷ đồng, ngày thanh toán 16/10/2026. Đồng thời phát hành cổ phiếu thưởng tỷ lệ 5%, tương ứng 44.973.111 cổ phiếu."
-    },
-    {
-      "title": "AgriS đón nhà đầu tư tổ chức nước ngoài BSI",
-      "impact": "↑",
-      "note": "Brilliant Solutions INC (Singapore) trở thành cổ đông lớn của AgriS (SBT) với 48.015.592 cổ phiếu, sở hữu 5,30% vốn. BSI tập trung đầu tư vào các doanh nghiệp tiềm năng khu vực châu Á, cho thấy sự quan tâm của vốn nước ngoài tới công ty nông nghiệp Việt."
+      "note": "Brilliant Solutions INC (Singapore) trở thành cổ đông lớn của AgriS với 48.015.592 cổ phiếu, sở hữu 5,30% vốn. Cổ đông nước ngoài gia tăng sở hữu, mở rộng kết nối nguồn lực, đối tác và thị trường quốc tế cho AgriS."
     }
   ]
 }
