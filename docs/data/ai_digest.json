@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ngày 30/9 ghi nhận VN-Index giảm 0,51% khi khối ngoại tiếp tục bán ròng, nhưng các tín hiệu vĩ mô vẫn khả quan với Quảng Ninh dẫn đầu tăng trưởng GRDP quý 3 lên 15,04%. Chính sách nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài và hoạt động huy động vốn của doanh nghiệp cho thấy sức sống kinh tế. Nhà đầu tư nên cân bằng áp lực ngắn hạn từ dòng vốn ngoài và các cơ hội vĩ mô lâu dài.",
+  "summary_vi": "Thị trường ghi nhận áp lực bán từ khối ngoại (bán ròng 910 tỷ) khiến VN-Index giảm 0,51%, trong khi hệ thống ngân hàng đối mặt với khoảng cách vốn-tín dụng lên 2 triệu tỷ đồng. Tuy nhiên, kinh tế vĩ mô có tín hiệu khả quan từ Quảng Ninh dẫn đầu cả nước về tăng trưởng GRDP (15,04% quý 3), kết hợp với các chính sách mở cửa nhà đầu tư nước ngoài và sắp xếp lại thị trường HNX→HOSE sắp diễn ra.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP quý 3 với mức 15,04%",
+      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP 15,04% quý 3/2026",
       "impact": "↑",
-      "note": "GRDP quý 3/2026 tăng 15,04% (dẫn đầu cả nước), 9 tháng tăng 12,54%; công nghiệp chế biến, chế tạo vốn 100.000 tỷ đồng; 12/12 dự án trọng điểm đi vào hoạt động theo kế hoạch."
+      "note": "GRDP quý 3/2026 của Quảng Ninh đạt 15,04% (dẫn đầu cả nước), 9 tháng đạt 12,54%. Công nghiệp chế biến, chế tạo là trụ cột với 12 dự án trọng điểm đi vào hoạt động, vốn đầu tư gần 100.000 tỷ đồng tăng 17,4% so với cùng kỳ 2025."
     },
     {
-      "title": "VN-Index giảm 0,51% khi khối ngoại bán ròng nhóm VN30",
+      "title": "Sắp xếp lại thị trường: Toàn bộ HNX chuyển sang HOSE 28/12/2026",
+      "impact": "↑",
+      "note": "Ngày giao dịch cuối tại HNX là 23/12/2026; tạm ngừng giao dịch 24-25/12/2026 đối với cổ phiếu chuyển giao; phiên giao dịch đầu tiên tại HOSE là 28/12/2026. Từ đó toàn bộ cổ phiếu niêm yết sẽ tổ chức giao dịch tại HOSE."
+    },
+    {
+      "title": "Khối ngoại bán ròng 910 tỷ, VN-Index giảm 0,51%",
       "impact": "↓",
-      "note": "VN-Index giảm 9,11 điểm xuống 1.768,62 điểm; khối ngoại bán ròng khoảng 910 tỷ đồng toàn thị trường, tự doanh CTCK bán ròng LPB (-496 tỷ), GMD (-59 tỷ), TCB (-51 tỷ)."
+      "note": "VN-Index giảm 9,11 điểm xuống 1.768,72 điểm (-0,51%); khối ngoại bán ròng 910 tỷ đồng toàn thị trường, tự doanh CTCK bán ròng mạnh nhất LPB (-496 tỷ), GMD (-59 tỷ), TCB (-51 tỷ). Đây là phiên thứ 3 liên tiếp giảm điểm."
     },
     {
-      "title": "Cổ phiếu PET tăng 46% trong một tuần, vượt 100% từ đầu năm",
-      "impact": "↑",
-      "note": "PET (Petrosetco) chốt phiên 30/9 ở 57.000 đồng, tăng hơn 5% trong phiên, vốn hóa vượt 8.800 tỷ đồng; VietinBank Capital giảm sở hữu từ 19% xuống 14,31%."
+      "title": "Ngân hàng phát hành 194.000 tỷ đồng trái phiếu, khoảng cách vốn-tín dụng 2 triệu tỷ",
+      "impact": "→",
+      "note": "Tính lũy kế 8 tháng 2026, khối ngân hàng phát hành hơn 194.000 tỷ đồng trái phiếu (50,6% tổng thị trường). Khoảng cách giữa quy mô tín dụng và huy động toàn hệ thống lên 2 triệu tỷ đồng, phản ánh áp lực cân cân nguồn vốn để hỗ trợ nhu cầu tín dụng mở rộng."
     },
     {
       "title": "Bộ Tài chính đề xuất nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài",
       "impact": "↑",
-      "note": "Dự thảo Luật sửa đổi Luật Đầu tư nới lỏng theo lộ trình, không phân biệt đối xử, thúc đẩy nâng hạng thị trường chứng khoán, bổ sung hình thức hỗ trợ phát triển chuỗi cung ứng và kinh tế xanh."
+      "note": "Dự thảo Luật sửa đổi Luật Đầu tư mở rộng tiếp cận thị trường FDI theo lộ trình, không phân biệt đối xử, thúc đẩy nâng hạng thị trường chứng khoán, bổ sung hình thức hỗ trợ phát triển chuỗi cung ứng, sản xuất công nghệ và kinh tế xanh."
     },
     {
-      "title": "F88 huy động 781,9 tỷ đồng từ phát hành công khai trên UPCoM",
+      "title": "MCH gia nhập VN30, cơ hội tái định giá từ chỉ số toàn cầu",
       "impact": "↑",
-      "note": "F88 phát hành 11,013,200 cổ phiếu, huy động 781,9 tỷ đồng nâng vốn điều lệ lên 2.312,65 tỷ đồng; lợi nhuận trước thuế cả năm 2026 dự báo vượt 30% kế hoạch năm."
-    },
-    {
-      "title": "10 cổ phiếu ngân hàng, công nghệ có tiềm năng tăng giá 14-44% trong 12 tháng",
-      "impact": "↑",
-      "note": "VCB kỳ vọng NIM 2,76% và lợi nhuận trước thuế tăng 21,6%; VPB dự phóng tăng trưởng tín dụng 30,8%, lợi nhuận 6 tháng tăng 65,2%; TCB phục hồi hoạt động cho vay khách hàng."
+      "note": "Masan Consumer (MCH) chính thức gia nhập VN30 và được chú ý bởi chỉ số toàn cầu. Công ty có mạng lưới phân phối đến 98% hộ gia đình Việt Nam, sở hữu 35 thương hiệu trong đó 5 thương hiệu mạnh (CHIN-SU, Nam Ngư, Omachi, Kokomi, Wake-up 247)."
     }
   ]
 }
