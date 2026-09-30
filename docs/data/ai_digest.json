@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay giằng co quanh tham chiếu nhưng có dấu hiệu lạc quan từ các yếu tố vĩ mô. Quảng Ninh dẫn đầu cả nước với tăng trưởng GRDP 15,04% quý 3 và 12,54% cả 9 tháng, doanh nghiệp tư nhân tiếp tục tăng trưởng mạnh (F88 vượt 30% kế hoạch), đồng thời FTSE nâng hạng Việt Nam lên thị trường mới nổi cấp hai. Tuy vậy, giá dầu thế giới sụt giảm kéo khối dầu khí sụt giá mạnh, PNJ thủng đáy 5 năm, và thanh khoản vẫn không cải thiện rõ rệ mặc dù đã tăng 26,94% so với phiên trước. Tâm lý thận trọng kéo theo rủi ro ngắn hạn cho thị trường.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế Quảng Ninh dẫn đầu với tăng trưởng GRDP 15,04% quý 3 và 12,54% cộng dồn 9 tháng; thị trường vốn có tín hiệu tích cực từ MCH gia nhập VN30, F88 chào bán thành công 781,9 tỷ đồng với lợi nhuận vượt 30% kế hoạch, và VNPRIVGRO hỗ trợ doanh nghiệp tư nhân. Tuy nhiên thanh khoản vẫn yếu kém, giá dầu giảm kéo khối dầu khí sụt mạnh, PNJ thủng đáy 5 năm; dòng tiền là yếu tố then chốt cho phục hồi thị trường.",
   "top": [
     {
       "title": "Quảng Ninh dẫn đầu tăng trưởng kinh tế cả nước",
       "impact": "↑",
-      "note": "GRDP quý 3/2026 tăng 15,04% (cao nhất cả nước), 9 tháng tăng 12,54%. Công nghiệp, xây dựng, dịch vụ là động lực chính; 12 dự án công nghiệp tổng vốn gần 100.000 tỷ đồng tăng 17,4% so cùng kỳ 2025. Dấu hiệu vị thế mới thành phố trực thuộc phát huy tác dụng tích cực cho đầu tư FDI."
+      "note": "GRDP quý 3/2026 tăng 15,04%, cộng dồn 9 tháng tăng 12,54%, dẫn đầu cả nước; công nghiệp chế biến, chế tạo là động lực chính với 12 dự án tổng vốn gần 100.000 tỷ đồng tăng 17,4% so cùng kỳ 2025."
     },
     {
-      "title": "F88 phát hành thêm cổ phiếu, lợi nhuận vượt kế hoạch",
+      "title": "MCH gia nhập VN30, định giá lại cổ phiếu FMCG hàng đầu",
       "impact": "↑",
-      "note": "F88 phát hành 11.013.200 cổ phiếu gọi được 781,9 tỷ đồng, nâng vốn điều lệ lên 2.312,65 tỷ đồng. Lợi nhuận trước thuế năm 2026 dự báo vượt hơn 30% kế hoạch năm. Doanh nghiệp tiếp tục bổ sung nguồn vốn và triển khai chuyển sang niêm yết HOSE."
+      "note": "Cổ phiếu MCH chính thức gia nhập rổ VN30, doanh nghiệp FMCG lớn nhất Việt Nam với 35 thương hiệu, hiện diện 98% hộ gia đình, doanh thu tăng trưởng ấn tượng, khả năng tạo dòng tiền mạnh."
     },
     {
-      "title": "Cổ phiếu dầu khí giảm mạnh, PNJ thủng đáy 5 năm",
+      "title": "F88 chào bán thành công, lợi nhuận vượt kế hoạch 30%",
+      "impact": "↑",
+      "note": "F88 phát hành 11.013.200 cổ phiếu gọi được 781,9 tỷ đồng, nâng vốn điều lệ lên 2.312,65 tỷ đồng; lợi nhuận trước thuế cả năm 2026 dự báo vượt hơn 30% kế hoạch năm, tiếp tục triển khai chuyển niêm yết HOSE."
+    },
+    {
+      "title": "Giá dầu giảm, khối dầu khí đồng loạt rơi tự do",
       "impact": "↓",
-      "note": "Khối dầu khí đồng loạt giảm do giá dầu thế giới sụt giảm (Saudi Arabia xuất khẩu nhanh trở lại qua đường ống Đông-Tây). GAS giảm 1,53%, BSR giảm 1,85%, PLX giảm 1,65%, PVT giảm 2,81%, PVD giảm 1,58%. PNJ giảm sàn phiên thứ 3 liên tiếp, chạm đáy 5 năm (tháng 10/2020), là áp lực lớn nhất lên thị trường."
+      "note": "Giá dầu thế giới sụt giảm do xuất khẩu Saudi Arabia hồi phục qua đường ống Đông-Tây; GAS giảm 1,53%, BSR giảm 1,85%, PLX giảm 1,65%, PVT giảm 2,81%; PNJ giảm sàn phiên 3 liên tiếp, thủng đáy 5 năm (tháng 10/2020)."
     },
     {
-      "title": "HoSE xây dựng chỉ số VNPRIVGRO 30 cổ phiếu tư nhân",
-      "impact": "↑",
-      "note": "Sở HoSE phối hợp xây dựng Chỉ số các cổ phiếu kinh tế tư nhân tăng trưởng (Vietnam Private Growth Index – VNPRIVGRO) gồm 30 cổ phiếu thành phần, sở hữu nhà nước không quá 15%, giới hạn 8 cổ phiếu tối đa trên mỗi nhóm ngành. Tạo nền tảng phát triển sản phẩm đầu tư chỉ số trong tương lai, hỗ trợ các quỹ đầu tư chứng khoán."
+      "title": "Thanh khoản vẫn yếu, dòng tiền chưa cải thiện rõ rệ",
+      "impact": "↓",
+      "note": "Thanh khoản tạo tác động bất lợi cho TTCK khi Fed tăng lãi suất và có căng thẳng Trung Đông; dòng tiền chưa cải thiện rõ rệ mặc dù giao dịch HOSE tăng 26,94% phiên trước, tâm lý nhà đầu tư vẫn thận trọng."
     },
     {
-      "title": "FTSE nâng hạng Việt Nam lên thị trường mới nổi cấp hai",
-      "impact": "↑",
-      "note": "FTSE chính thức nâng hạng thị trường chứng khoán Việt Nam lên thị trường mới nổi thứ cấp (Secondary Emerging Market). Dù là tín hiệu tích cực quốc tế, theo MBS vẫn chưa đủ để lấn át sức ép từ lạm phát chi phí và lãi suất cao toàn cầu."
-    },
-    {
-      "title": "SHS chi trả cổ tức 5% năm 2025 và phát hành cổ phiếu thưởng 5%",
-      "impact": "↑",
-      "note": "CTCK SHS chi trả cổ tức năm 2025 bằng tiền mặt 5% (500 đồng/cổ phiếu), tổng giá trị 449,73 tỷ đồng, ngày đăng ký 09/10/2026, thanh toán 16/10/2026. Đồng thời phát hành cổ phiếu thưởng tỷ lệ 5% từ nguồn vốn chủ sở hữu, chia sẻ thành quả tăng trưởng với cổ đông."
+      "title": "VNPRIVGRO: chỉ số mới cho doanh nghiệp tư nhân tăng trưởng",
+      "impact": "→",
+      "note": "HoSE xây dựng chỉ số VNPRIVGRO gồm 30 cổ phiếu kinh tế tư nhân thanh khoản tốt, sở hữu nhà nước không quá 15%, giới hạn 8 cổ phiếu tối đa trên mỗi nhóm ngành, nền tảng phát triển sản phẩm đầu tư chỉ số."
     }
   ]
 }
