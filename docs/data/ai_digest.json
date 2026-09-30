@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường hôm nay diễn biến giằng co: VN-Index giảm -0.51% do áp lực bán cuối tháng và khối ngoại bán ròng nhóm VN30, song lạc quan được tạo bởi nâng hạng FTSE Russell lên mới nổi thứ cấp (hiệu lực 21/9) và đăng cai ASF AGM 30/9-3/10. Kinh tế thực tiếp tục khỏe với Quảng Ninh dẫn đầu GRDP quý 3 (15,04%). Chính sách mở cửa FDI mới cùng với tín hiệu hồi phục dòng tiền ngoài ở NVL (mua ròng 49 tỷ đồng) cho thấy sự quan tâm trở lại. Ngành ngân hàng tích cực với VCB/VPB/NCB có tiến triển tích cực về NIM, vốn, và tăng trưởng tín dụng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán phân hóa với áp lực bán của khối ngoại lên nhóm VN30 khiến VN-Index giảm 0.51%, song có tín hiệu tích cực từ vĩ mô: Quảng Ninh dẫn đầu cả nước với GRDP quý 3 tăng 15,04%, và chính phủ đề xuất nới lỏng điều kiện FDI. Ngành ngân hàng tiếp tục được kỳ vọng tăng 14-44% nhờ cải thiện NIM, trong khi PET, MCH, F88 ghi nhận những phát triển tích cực. Tuy vậy, nhu cầu cắt lỗ tăng lên và giá vàng trong tháng giảm 7-10 triệu đồng/lượng phản ánh sự thận trọng ngắn hạn của nhà đầu tư.",
   "top": [
     {
-      "title": "FTSE Russell nâng hạng, ASF AGM tại Việt Nam",
+      "title": "Quảng Ninh dẫn đầu kinh tế cả nước với GRDP quý 3 tăng 15,04%",
       "impact": "↑",
-      "note": "FTSE Russell phân loại TTCK VN từ cận biên lên mới nổi thứ cấp (hiệu lực 21/9/2026); Việt Nam đăng cai ASF AGM lần thứ nhất từ 30/9-3/10/2026. Thời điểm hoàn hảo để chuyển hóa sự chú ý quốc tế thành dòng vốn lâu dài, mở rộng cơ sở nhà đầu tư nước ngoài."
+      "note": "GRDP quý 3/2026 đạt 15,04% (9 tháng năm đạt 12,54%), xếp thứ 1 toàn quốc, so với Q3 2025 tăng 2,16pp. Các lĩnh vực công nghiệp chế biến, chế tạo dẫn dắt với tất cả 12/12 dự án trọng điểm đi vào hoạt động, vốn đầu tư gần 100.000 tỷ đồng tăng 17,4% YoY. Đây là năm thứ 2 liên tiếp Quảng Ninh giữ vị trí dẫn đầu quý III."
     },
     {
-      "title": "VN-Index giảm -0.51%, khối ngoại bán ròng VN30",
+      "title": "Khối ngoại bán ròng VN30, VN-Index giảm 9.11 điểm phiên 30/9",
       "impact": "↓",
-      "note": "VN-Index kết phiên 30/9 tại 1,768.72 điểm, giảm 9.11 điểm (-0.51%); HNX-Index tăng 1.73 điểm. Khối ngoại tiếp tục bán ròng nhóm VN30. Độ rộng thị trường cân bằng (339 mã giảm, 329 mã tăng) nhưng áp lực bán gia tăng cuối phiên cho thấy nhu cầu cắt lỗ mạnh lên ngắn hạn."
+      "note": "VN-Index giảm 9.11 điểm (-0.51%) xuống 1.768,72 điểm, VN30 có 17 mã giảm/10 mã tăng/3 mã tham chiếu. Độ rộng thị trường cân bằng (339 mã giảm vs 329 mã tăng) nhưng thanh khoản tăng 11.300 tỷ đồng. VIC, VHM, GAS, BSR ảnh hưởng tiêu cực -8.12 điểm. Khối ngoại tiếp tục bán ròng nhóm bluechip, dòng tiền lớn giảm hoạt động."
     },
     {
-      "title": "Quảng Ninh GRDP quý III 15,04%, dẫn đầu cả nước",
+      "title": "Các ngân hàng (VCB, VPB, TCB) — tiềm năng tăng 14-44%, NIM cải thiện",
       "impact": "↑",
-      "note": "GRDP quý III/2026 đạt 15,04% (9 tháng 12,54%), xếp thứ 1 cả nước, cao hơn 2,16 điểm phần trăm so Q3 2025. Tất cả 12/12 dự án trọng điểm ngành chế biến chế tạo đi vào hoạt động với tổng vốn ~100.000 tỷ đồng tăng 17,4% so cùng kỳ, xác nhận đà tăng trưởng kinh tế bền vững."
+      "note": "VCB dự kiến NIM 2026 đạt 2,76%, PTIT +21,6%, NPL 0,61%, LLR 279,2%, thu nhập lãi thuần 6 tháng +32,1%. VPB tăng trưởng tín dụng 30,8%, tiền gửi +26%, PTIT 6 tháng +65,2%. VPB, LPB giữ sắc xanh phiên 30/9 với thanh khoản 389 tỷ đồng. Giá mục tiêu 12 tháng tăng 14-44%."
     },
     {
-      "title": "NVL thoát sàn, dòng tiền ngoài mua ròng 49 tỷ đồng",
+      "title": "PET (Petrosetco) tăng 46% trong tuần, vượt 100% từ đầu năm",
       "impact": "↑",
-      "note": "NVL đảo chiều khỏi giá sàn sau khi Novaland được UBND Đồng Nai phê duyệt 8 quyết định giá đất cụ thể Aqua City (28-29/9), trong đó 7/8 phân khu không phải nộp tiền sử dụng đất thêm. Khối lượng khớp 97 triệu cp (~962 tỷ đồng). Dòng tiền ngoài mua ròng 4.95 triệu cp (49 tỷ đồng), tín hiệu hồi phục sau những lo ngại trước."
+      "note": "PET chốt 30/9 tại 57.000 đồng/cp (+5.62% phiên), thiết lập đỉnh lịch sử, tăng 46% trong 1 tuần, vượt 100% từ đầu năm 2026. Vốn hóa vượt 8.800 tỷ đồng, thanh khoản hơn 1 triệu cổ phiếu phiên 30/9. VietinBank Capital giảm sở hữu 7,25 triệu cp (từ 19% xuống 14,31% vốn) ngày 24/9."
     },
     {
-      "title": "Ngân hàng hàng đầu cải thiện NIM, VPB tăng vốn",
+      "title": "Nới lỏng điều kiện tiếp cận thị trường cho nhà đầu tư nước ngoài",
       "impact": "↑",
-      "note": "VCB dự kiến NIM 2026 đạt 2,76%, PTIT +21,6%, NPL 0,61%, LLR 279,2%, thu nhập lãi thuần 6 tháng +32,1%. VPB tăng trưởng tín dụng 30,8%, tiền gửi +26%, PTIT 6 tháng +65,2%. NCB được duyệt tăng vốn 33.000 tỷ đồng phát hành 3,3 tỷ cp giá 10.000 đồng/cp, vốn điều lệ tăng 112,7%."
+      "note": "Bộ Tài chính đề xuất sửa đổi Luật Đầu tư: mở rộng tiếp cận TTCK cho nhà đầu tư nước ngoài theo lộ trình, không phân biệt đối xử, khắc phục hạn chế danh mục ngành nghề, thúc đẩy nâng hạng TTCK. Thêm 4 hình thức hỗ trợ phát triển chuỗi cung ứng, sản xuất, công nghệ, đầu tư ban đầu. Thể chế hóa Nghị quyết 10 Bộ Chính trị."
     },
     {
-      "title": "Luật Đầu tư sửa đổi nới lỏng điều kiện FDI",
+      "title": "MCH gia nhập VN30, F88 hoàn tất IPO 781.9 tỷ đồng trên UPCoM",
       "impact": "↑",
-      "note": "Bộ Tài chính đề xuất sửa đổi Luật Đầu tư: mở rộng tiếp cận TTCK cho nhà đầu tư nước ngoài theo lộ trình, không phân biệt đối xử, khắc phục hạn chế danh mục ngành nghề, thúc đẩy kinh tế xanh/số hóa, thúc đẩy nâng hạng TTCK. Chính sách thể chế hóa Nghị quyết 10 Bộ Chính trị, tạo nền tảng hấp dẫn vốn nước ngoài lâu dài."
+      "note": "MCH chính thức gia nhập rổ VN30, được quốc tế chú ý, sở hữu 35 thương hiệu, phủ 98% hộ gia đình Việt Nam. F88 phát hành 11.013.200 cp chào bán công chúng huy động 781,9 tỷ đồng, nâng vốn điều lệ 2.312,65 tỷ đồng, lợi nhuận 2026 dự báo vượt kế hoạch 30%, chuẩn bị niêm yết HOSE."
     }
   ]
 }
