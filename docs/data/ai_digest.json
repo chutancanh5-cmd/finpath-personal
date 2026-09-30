@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tăng trưởng GDP quý 3 dự báo đạt 8,7% (tăng từ 8,4% quý 2), cả năm 9,5%, phản ánh động lực phục hồi bền vững của nền kinh tế Việt Nam. Tuy nhiên các ngân hàng trung ương toàn cầu (FED lên 3,75%-4%, BoJ lên 1,25%, ECB tăng) tiếp tục nâng lãi suất, tạo áp lực lên ngành xây dựng, hàng không, thép. Chính sách tập trung vào năng suất, khoa học công nghệ và đổi mới sáng tạo cho tăng trưởng chất lượng lâu dài. Nhà đầu tư trong nước vẫn tự tin mua ròng 800 tỷ while khối ngoại bán ròng 380 tỷ.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đang cân bằng giữa những yếu tố tích cực (GDP Q3 dự báo 8.7%, các doanh nghiệp tài chính lành mạnh hưởng lợi lãi suất cao) và rủi ro từ chính sách tiền tệ toàn cầu (FED, BoJ tăng lãi suất tạo áp lực dòng vốn). Khối ngoại tiếp tục bán ròng trong khi các nhà đầu tư trong nước gom hàng, tuy nhiên tình trạng sụp đổ của một số cổ phiếu (Kosy mất 50% trong 1 tháng) cảnh báo rủi ro biên về thanh khoản và quản trị công ty.",
   "top": [
     {
-      "title": "Standard Chartered dự báo GDP quý 3 tăng 8,7%, toàn năm 9,5%",
-      "impact": "↑",
-      "note": "Standard Chartered dự báo GDP quý 3/2026 tăng 8,7% so với cùng kỳ (tăng từ 8,4% quý 2), nửa cuối năm 10,6%, cả năm đạt 9,5%. Xuất khẩu tăng 27,2%, nhập khẩu tăng 40%, sản xuất công nghiệp tăng 13,2%, lạm phát tháng 9 dự báo 4,5%."
-    },
-    {
-      "title": "Ngân hàng trung ương toàn cầu tăng lãi suất: FED 3,75%-4%, BoJ 1,25%, ECB tăng",
+      "title": "Lãi suất Mỹ tăng cao, áp lực lên chứng khoán toàn cầu",
       "impact": "↓",
-      "note": "FED tăng 25 điểm lên 3,75%-4,00% ngày 17/9, BoJ tăng 0,25% lên 1,25% ngày 18/9 (cao nhất kể từ tháng 4/1995), ECB cũng tăng lãi suất. Tạo áp lực lên chi phí vốn, đặc biệt ảnh hưởng ngành xây dựng, hàng không, thép, ô tô và bất động sản."
+      "note": "Dow Jones giảm 0.26%, lợi suất trái phiếu 30 năm tăng lên 5.585% (cao nhất 24 năm), vượt 5.6% trong phiên, áp lực giảm lên dòng vốn quốc tế và chứng khoán Việt Nam."
     },
     {
-      "title": "Thủ tướng: không thể tăng trưởng 2 con số nếu chỉ dựa vốn và lao động giá rẻ",
+      "title": "GDP Q3 2026 dự báo 8.7%, tiếp tục tăng trưởng mạnh",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh tăng trưởng bền vững phải đến từ năng suất, khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số, không thể dựa vào vốn và lao động chi phí thấp. Chính sách tập trung vào KHCN, ĐMST, CĐS để đạt tăng trưởng chất lượng dài hạn."
+      "note": "Standard Chartered dự báo GDP Q3 đạt 8.7% (tăng từ 8.4% Q2), H2 2026 đạt 10.6%, toàn năm 9.5%, xuất khẩu Q3 tăng 27.2%, nhập khẩu tăng 40%, phản ánh nền kinh tế bền vững."
     },
     {
-      "title": "Lãi suất cao phân hóa thị trường: doanh nghiệp tiền mặt lớn, nợ ít hưởng lợi",
-      "impact": "→",
-      "note": "Agriseco chỉ ra doanh nghiệp có tiền mặt và đầu tư tài chính lớn, tài chính lành mạnh, ít phụ thuộc vốn vay sẽ chống chịu tốt hơn, thậm chí hưởng lợi từ lãi suất tiền gửi cao. Ngược lại, doanh nghiệp nợ cao chịu áp lực chi phí lãi vay tăng, phân hóa hiệu quả kinh doanh mạnh."
+      "title": "Kosy (KOS) liên tục giảm sàn 7 phiên, vốn hóa rơi 50%",
+      "impact": "↓",
+      "note": "Cổ phiếu KOS xuống 18.200 đồng/cp (thấp nhất 6 năm), mất gần 50% giá trị chỉ trong 1 tháng, dư bán sàn 21 triệu đơn vị (10% tổng lưu hành), vốn hóa còn 3.940 tỷ đồng."
     },
     {
-      "title": "Khối ngoại bán ròng 380 tỷ, tự doanh mua ròng 800 tỷ ngày 29/9",
-      "impact": "→",
-      "note": "Phiên 29/9, khối ngoại bán ròng 380 tỷ đồng (VPB 250 tỷ, các mã khác 25-50 tỷ), tự doanh mua ròng 800+ tỷ (VPB 390 tỷ, GMD 216 tỷ, TCB 110+ tỷ), cho thấy nhà đầu tư trong nước tự tin gom cổ phiếu khi khối ngoại co lại."
-    },
-    {
-      "title": "AgriS đón nhà đầu tư Singapore Brilliant Solutions nắm 5,3% cổ phần",
+      "title": "Doanh nghiệp tiền nhiều nợ ít hưởng lợi từ lãi suất cao",
       "impact": "↑",
-      "note": "Brilliant Solutions INC (Singapore) công bố nắm 48,015,592 cổ phiếu AgriS tương ứng 5,3% sở hữu. AgriS hoàn thành doanh thu niên độ 2025-2026 là 26.733 tỷ đồng (101% kế hoạch), lợi nhuận sau thuế 846 tỷ đồng, tín hiệu tích cực cho lực hút vốn nước ngoài."
+      "note": "Agriseco nhận định các công ty có lượng tiền mặt lớn, ít phụ thuộc vốn vay sẽ duy trì kết quả kinh doanh tốt hơn so với thị trường, đồng thời hưởng lợi từ lãi suất tiền gửi tăng."
+    },
+    {
+      "title": "FED, BoJ tăng lãi suất, tỷ giá chịu tác động",
+      "impact": "↓",
+      "note": "FED tăng 25 bps lên 3.75%-4% (17/9), BoJ tăng lên 1.25% (cao nhất kể từ 4/1995), tỷ giá USD/VND đã hạ nhiệt về cuối tháng nhưng vẫn chịu sức ép từ chênh lệch lãi suất toàn cầu."
+    },
+    {
+      "title": "Khối ngoại bán ròng 380 tỷ đồng, tự doanh gom mạnh",
+      "impact": "→",
+      "note": "Khối ngoại bán ròng 380 tỷ (tâm điểm VPB 250 tỷ), tự doanh mua ròng 800 tỷ, phản ánh phân hóa mạnh giữa dòng vốn ngoài (bán áp lực lãi suất) và trong nước (tích cực hơn)."
     }
   ]
 }
