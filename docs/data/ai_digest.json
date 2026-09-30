@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Tăng trưởng GDP quý 3 duy trì ở 8.7%, nửa cuối năm dự báo 10.6%, sản xuất công nghiệp tăng 13.2% và xuất khẩu tăng 27.2% thể hiện tín hiệu mạnh từ kinh tế; Tesla vào Việt Nam mở cơ hội cho ô tô điện và nhà đầu tư nước ngoài tham gia AgriS hỗ trợ tăng trưởng. Tuy nhiên, nhập siêu 2,82 tỷ USD tháng 9, dòng vốn ngoại chuyển sang Singapore/Thái Lan, và lỗ kỷ lục 6.271 tỷ của PNJ cho thấy các rủi ro trong ngắn hạn.",
+  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP quý 3 dự báo 8,7%, xuất nhập khẩu 9 tháng tăng 29,44%. Thanh khoản hệ thống ngân hàng dồi dào khi lãi suất liên ngân hàng qua đêm giảm xuống 0,2%/năm. Dự án Nhà máy Nhiệt điện Vũng Áng II (2,2 tỷ USD) khánh thành tổ máy 1, khẳng định vai trò FDI trọng điểm. Tuy nhiên, dòng vốn ngoài nước đang chuyển hướng vào Thái Lan và Singapore, tạo áp lực ngắn hạn lên thị trường cổ phiếu.",
   "top": [
     {
-      "title": "GDP quý 3 đạt 8.7%, nửa cuối năm dự báo 10.6%",
+      "title": "GDP quý 3 tăng 8,7%, nửa cuối năm dự báo 10,6%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8.7% (tăng từ 8.4% quý 2), nửa cuối năm 10.6%, giữ nguyên toàn năm 9.5%; sản xuất công nghiệp tăng 13.2%, xuất khẩu tăng 27.2%."
+      "note": "Standard Chartered dự báo GDP quý 3/2026 đạt 8,7% YoY (tăng từ 8,4% quý 2), nửa cuối 2026 tăng 10,6%, toàn năm 9,5%. Sản xuất công nghiệp +13,2%, xuất khẩu +27,2%, nhập khẩu +40%, lạm phát 4,5%."
     },
     {
-      "title": "PNJ lỗ kỷ lục 6.271 tỷ do trích lập dự phòng chính sách thu đổi",
-      "impact": "↓",
-      "note": "PNJ điều chỉnh kế hoạch kinh doanh 2026 với lỗ kỷ lục 6.271 tỷ đồng do trích lập dự phòng tổn thất từ chính sách thu đổi hàng hóa, chào bán riêng lẻ 550 triệu cổ phiếu."
-    },
-    {
-      "title": "Dòng vốn ngoại chuyển sang Singapore 75 triệu USD, Thái Lan 41 triệu USD",
-      "impact": "↓",
-      "note": "ETF cổ phiếu Mỹ rút ròng 641 triệu USD, Singapore hút vốn gần 75 triệu USD và Thái Lan 41 triệu USD, Việt Nam hút ròng không đáng kể, phản ánh dòng vốn quốc tế phân bổ lại."
-    },
-    {
-      "title": "Nhập khẩu tháng 9 tăng 7,16% cao gấp 3 lần xuất khẩu, nhập siêu 2,82 tỷ USD",
-      "impact": "↓",
-      "note": "Nhập khẩu tháng 9 đạt 28,84 tỷ USD (tăng 7,16%), xuất khẩu đạt 26,02 tỷ USD (tăng 2,4%), tạo nhập siêu 2,82 tỷ USD, phản ánh áp lực cân bằng thương mại."
-    },
-    {
-      "title": "AgriS (SBT) đón nhà đầu tư nước ngoài Singapore, cổ đông chiến lược",
+      "title": "Quảng Ninh dẫn đầu với GRDP 12,54% trong 9 tháng",
       "impact": "↑",
-      "note": "Brilliant Solutions INC (Singapore) trở thành cổ đông lớn AgriS với 5.30% sở hữu (48,015,592 cổ phiếu), mở kết nối nguồn lực, đối tác và thị trường quốc tế."
+      "note": "Tốc độ tăng trưởng GRDP Quảng Ninh đạt 12,54%, xếp thứ 1 cả nước, quý 3 tăng tới 15,04%. Động lực từ công nghiệp chế biến, chế tạo; 12 dự án trọng điểm có tổng vốn gần 100.000 tỷ đồng, tăng 17,4%."
     },
     {
-      "title": "Tesla chính thức vào Việt Nam, thị trường ô tô điện chào đón cạnh tranh",
+      "title": "Lãi suất liên ngân hàng qua đêm giảm 0,2%, thanh khoản dồi dào",
       "impact": "↑",
-      "note": "Tesla vào Việt Nam tạo cạnh tranh mạnh cho ngành ô tô điện, mở dư địa cho đối thủ địa phương và tăng tiềm năng phát triển ngành công nghiệp."
+      "note": "Lãi suất VND liên ngân hàng qua đêm giảm 0,30% xuống 0,20%/năm, mức thấp nhất từ tháng 1/2024. NHNN chào thầu 12.000 tỷ đồng, các tổ chức tín dụng trúng thầu 9.814 tỷ đồng ở 4,5%/năm."
+    },
+    {
+      "title": "Nhà máy Nhiệt điện Vũng Áng II (2,2 tỷ USD) khánh thành tổ máy 1",
+      "impact": "↑",
+      "note": "Tổ máy 1 Nhà máy Nhiệt điện BOT Vũng Áng II khánh thành 18/9/2025, công suất 1.300 MW, tổng vốn 2,2 tỷ USD. Dự án FDI trọng điểm tại KKT Vũng Áng, là công trình năng lượng cấp quốc gia."
+    },
+    {
+      "title": "Dòng tiền ngoại chảy sang Thái Lan 41 triệu USD, Singapore 75 triệu USD",
+      "impact": "↓",
+      "note": "ETF cổ phiếu Mỹ rút ròng 641 triệu USD. Singapore hút gần 75 triệu USD, Thái Lan 41 triệu USD tuần qua. Việt Nam hút ròng không đáng kể, phản ánh dòng vốn quốc tế đang phân bổ lại."
+    },
+    {
+      "title": "Nhập khẩu tháng 9 tăng 7,16%, gấp 3 lần xuất khẩu +2,4%, nhập siêu 2,82 tỷ USD",
+      "impact": "↓",
+      "note": "Nhập khẩu tháng 9 đạt 28,84 tỷ USD (tăng 7,16%), xuất khẩu đạt 26,02 tỷ USD (tăng 2,4%), tạo nhập siêu 2,82 tỷ USD, tuy 9 tháng toàn cộng tăng 29,44% nhưng có áp lực cân bằng ngắn hạn."
     }
   ]
 }
