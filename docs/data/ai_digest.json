@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán ghi nhận sức ép từ khối ngoại bán ròng phiên thứ 6 liên tiếp (888 tỷ đồng), khiến VN-Index giảm 9,11 điểm về 1.768,62 điểm; dòng tiền nội vẫn chưa cải thiện rõ rệt, thị trường tiếp tục phân hóa mạnh. Tuy nhiên, kinh tế vĩ mô cho thấy tín hiệu tích cực: Quảng Ninh dẫn đầu với tăng trưởng 15,04% quý 3; chính phủ đề xuất nới lỏng tiếp cận FDI và sắp xếp TTCK (HNX→HOSE); F88 phát hành thành công 781,9 tỷ đồng.",
+  "summary_vi": "Khối ngoại bán ròng liên tiếp (phiên thứ 6) tổng 888 tỷ đồng, PNJ sụp đổ 69% so với đỉnh tháng 1 với sàn giảm 3 phiên liên tiếp; dòng tiền nội chưa cải thiện khiến VN-Index giảm 9 điểm. Tuy vậy, vĩ mô lạc quan khi Quảng Ninh tăng trưởng GRDP 15,04% quý III dẫn đầu cả nước; Chính phủ đề xuất nới lỏng FDI và kết nối thị trường Singapore qua chứng chỉ lưu ký mở cơ hội huy động vốn quốc tế.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng phiên 6 liên tiếp",
+      "title": "Khối ngoại bán ròng 888 tỷ đồng, bao trùm nhóm VN30",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 888 tỷ đồng tập trung vào VHM, TCB, VIC, PNJ, VPB, NVL; VN-Index giảm 9,11 điểm xuống 1.768,62 điểm; dòng tiền nội chưa cải thiện, thanh khoản ở mức eo hẹp."
+      "note": "Khối ngoại phiên thứ 6 liên tiếp bán ròng 888 tỷ đồng tập trung VHM, TCB, VIC, PNJ, VPB, NVL. Thanh khoản thị trường thấp hẹp, dòng tiền nội chưa cải thiện. VN-Index lùi 9,11 điểm xuống 1.768,62 điểm (-0,51%)."
     },
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng kinh tế",
-      "impact": "↑",
-      "note": "GRDP quý 3/2026 đạt 15,04% (tăng 2,16 điểm phần trăm so cùng kỳ 2025), 9 tháng đạt 12,54%, dẫn đầu cả nước; 12 dự án trọng điểm công nghiệp chế biến/chế tạo tổng vốn ~100.000 tỷ đồng tăng 17,4%."
+      "title": "PNJ giảm sàn 3 phiên liên tiếp, nhà đầu tư ngoại nắm lỏng 238 triệu cổ phiếu",
+      "impact": "↓",
+      "note": "PNJ giảm 69% so với đỉnh tháng 1 (33.000 → 26.600 đồng), giảm sàn 3 phiên liên tiếp với dư bán 26 triệu cổ phiếu. Nhà đầu tư ngoại nắm 238 triệu cổ phiếu (6.300 tỷ đồng), thua lỗ 13.900 tỷ so với đỉnh. Vốn hóa doanh nghiệp mất 30.000 tỷ từ đỉnh."
     },
     {
-      "title": "Toàn bộ cổ phiếu HNX chuyển sang HOSE",
+      "title": "Quảng Ninh tăng trưởng GRDP Q3 15,04%, dẫn đầu cả nước",
       "impact": "↑",
-      "note": "Ngày 23/12/2026 là giao dịch cuối tại HNX (tạm ngừng 24-25/12), ngày 28/12/2026 bắt đầu giao dịch tại HOSE; toàn bộ cổ phiếu niêm yết sẽ tập trung tại HOSE từ đó."
+      "note": "Quảng Ninh đạt tăng trưởng GRDP 15,04% quý III/2026 và 12,54% cả 9 tháng, xếp thứ 1 cả nước lần thứ 2 liên tiếp. Tăng 2,16 điểm phần trăm so với Q3/2025. Sau khi trở thành thành phố trực thuộc Trung ương từ 1/9, công nghiệp chế biến và xây dựng là động lực chính với vốn đầu tư 100.000 tỷ đồng."
     },
     {
-      "title": "F88 phát hành 11 triệu cổ phiếu thành công",
-      "impact": "↑",
-      "note": "F88 hoàn tất phát hành 11.013.200 cổ phiếu trị giá 781,9 tỷ đồng; lợi nhuận trước thuế 2026 dự báo vượt 30% kế hoạch; kế hoạch chuyển niêm yết HOSE."
+      "title": "Lãi suất tăng 2-2,5% năm, nhưng ảnh hưởng VN-Index yếu đi",
+      "impact": "→",
+      "note": "Mặt bằng lãi suất huy động tăng từ ~4,5% đầu năm lên 6,8-7,6% (12 tháng). Agriseco nhận định mối quan hệ tương quan âm giữa lãi suất tăng và VN-Index giảm vẫn tồn tại nhưng không còn chi phối mạnh: hệ số tương quan 2014-2021 là -0,71, nhưng giai đoạn gần đây giảm. Lãi suất cao nhất ACB 7,8%/năm, Big4 ở 6,8%/năm."
     },
     {
-      "title": "Nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài",
+      "title": "Nới lỏng điều kiện tiếp cận thị trường cho nhà đầu tư nước ngoài",
       "impact": "↑",
-      "note": "Bộ Tài chính đề xuất sửa đổi Luật Đầu tư để mở rộng tiếp cận, không phân biệt đối xử, thúc đẩy nâng hạng thị trường chứng khoán theo lộ trình thể chế hóa Nghị quyết số 10."
+      "note": "Bộ Tài chính đề xuất sửa đổi Luật Đầu tư: nới lỏng điều kiện tiếp cận thị trường FDI theo lộ trình, không phân biệt đối xử, khắc phục hạn chế danh mục ngành nghề. Đồng thời thúc đẩy nâng hạng thị trường chứng khoán, đổi mới ưu đãi hỗ trợ kinh tế xanh và kinh tế số."
     },
     {
-      "title": "Công ty chứng khoán Việt trở nhà tạo lập Singapore",
+      "title": "Kết nối SGX: công ty chứng khoán Việt làm market maker, phát triển chứng chỉ lưu ký",
       "impact": "↑",
-      "note": "Chủ tịch Uỷ ban Chứng khoán đề nghị công ty chứng khoán Việt tham gia market maker trên Singapore; phát triển chứng chỉ lưu ký (DR) mở kênh kết nối FDI hai chiều."
+      "note": "Chủ tịch Uỷ ban Chứng khoán đề xuất các công ty chứng khoán Việt Nam tham gia với vai trò nhà tạo lập thị trường (market maker) trên SGX. Phối hợp phát triển chứng chỉ lưu ký (DR) mở thêm kênh huy động vốn quốc tế cho doanh nghiệp Việt Nam, tăng cường kết nối thị trường hai nước."
     }
   ]
 }
