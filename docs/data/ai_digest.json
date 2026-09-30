@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế vĩ mô vững chắc với GDP quý 3 dự báo 8.7%, xuất khẩu 27.2%, sản xuất công nghiệp 13.2%, lạm phát 4.5%. Thủ tướng nhấn mạnh tăng trưởng bền vững cần KHCN, ĐMST, CĐS chứ không chỉ dựa vốn/lao động. Tuy nhiên, TTCK thận trọng với VN-Index giằng co 1777.73, thanh khoản yếu 13.500 tỷ, khối ngoại bán ròng 380 tỷ. Lãi suất cao phân hóa dòng tiền: áp lực với doanh nghiệp sử dụng đòn bẩy nhưng lợi cho doanh nghiệp tiền mặt lớn nợ ít.",
+  "summary_vi": "Nền kinh tế Việt Nam được dự báo tăng trưởng vững chắc 8,7% quý 3 và 9,5% cả năm 2026 nhờ xuất nhập khẩu mạnh mẽ. Tuy nhiên, lãi suất toàn cầu tăng cao đang phân hóa thị trường: các ngành xây dựng, hàng không, thép, ô tô bị áp lực nặng khi chi phí vay gia tăng, trong khi doanh nghiệp tiền mặt dồi dào và nợ vay thấp có cơ hội hưởng lợi. Chính sách ưu tiên đổi mới sáng tạo và chuyển đổi số mở hướng tăng trưởng chất lượng bền vững dài hạn.",
   "top": [
     {
-      "title": "GDP quý 3 dự báo 8.7%, cả năm 9.5%, xuất khẩu 27.2%",
+      "title": "Standard Chartered dự báo GDP quý 3 đạt 8,7%, toàn năm 9,5%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP quý 3/2026 đạt 8.7% so với cùng kỳ năm trước (tăng từ 8.4% quý 2), cả năm 2026 9.5%, nửa cuối năm 10.6%. Xuất khẩu quý 3 tăng 27.2%, nhập khẩu 40%, sản xuất công nghiệp 13.2%, lạm phát tháng 9 khoảng 4.5%."
+      "note": "Standard Chartered nâng dự báo tăng trưởng GDP quý 3/2026 lên 8,7% (từ 8,4% quý 2), nửa cuối năm 10,6%, cả năm 2026 đạt 9,5%. Xuất khẩu dự kiến tăng 27,2%, nhập khẩu 40%, sản xuất công nghiệp tăng 13,2%, lạm phát ổn định 4,5%."
     },
     {
-      "title": "Thủ tướng: tăng trưởng 2 con số cần KHCN, ĐMST, CĐS",
+      "title": "Thủ tướng: không thể tăng trưởng 2 con số chỉ dựa vốn và lao động giá thấp",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng chủ trì phiên họp Ban Chỉ đạo Trung ương về phát triển KHCN, đổi mới sáng tạo, chuyển đổi số, khẳng định không thể tăng trưởng 2 con số dài hạn chỉ dựa vốn và lao động chi phí thấp, cần tập trung tăng năng suất qua khoa học công nghệ."
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh nhu cầu tập trung vào năng suất, khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số để duy trì tăng trưởng bền vững. Chính sách ưu tiên phát triển công nghệ và chuyển đổi số sẽ định hướng đầu tư nhà nước và phát triển kinh tế."
     },
     {
-      "title": "VN-Index giằng co 1777.73 điểm, thanh khoản 13.500 tỷ",
-      "impact": "→",
-      "note": "VN-Index đóng cửa 1777.73 điểm, giảm gần 3 điểm, đang test vùng hỗ trợ 1770-1800 điểm. Thanh khoản toàn thị trường 13.500 tỷ ở mức thấp hiếm gặp, lực bán yếu nhưng dòng tiền phân hóa. Nhà đầu tư cần thận trọng, chờ bứt phá dứt khoát với thanh khoản bùng nổ."
-    },
-    {
-      "title": "Khối ngoại bán ròng 380 tỷ, VPB tâm điểm với 250 tỷ",
-      "impact": "→",
-      "note": "Khối ngoại bán ròng 380 tỷ đồng ngày 29/9, tập trung xả VPB (250 tỷ), HPG, ACB, VIC, VHM. Mua vào chủ yếu PVT (61 tỷ) nhờ dầu khí tăng do căng thẳng Trung Đông. Tự doanh trái chiều mua ròng 800+ tỷ, tâm điểm VPB (390 tỷ) và GMD (216 tỷ)."
-    },
-    {
-      "title": "Lãi suất cao phân hóa rõ: tiền nhiều nợ ít hưởng lợi",
-      "impact": "→",
-      "note": "Lãi suất tiền gửi 12 tháng tăng cao (ACB 7.8%, Sacombank 7.5%, LPBank 7.2%, VPBank 7.1%/năm). Agriseco đánh giá doanh nghiệp tiền mặt lớn nợ thấp hưởng lợi từ lãi suất cao, nhưng doanh nghiệp thâm dụng vốn (xây dựng, hàng không, thép, ô tô, BĐS) chịu áp lực lãi vay tăng."
-    },
-    {
-      "title": "KOS giảm sàn 7 phiên, thị giá 18.200 đ, vốn hóa 3.940 tỷ",
+      "title": "Lãi suất tăng cao phân hóa thị trường theo sức khỏe tài chính",
       "impact": "↓",
-      "note": "Cổ phiếu KOS giảm sàn 7 phiên liên tiếp ngày 29/9, thị giá xuống 18.200 đ/cp (thấp nhất 6 năm), mất gần nửa giá trị trong 1 tháng. Dư bán sàn 21 triệu đơn vị (10% cổ phiếu lưu hành), vốn hóa thu hẹp còn 3.940 tỷ đồng, phản ánh rủi ro lớn tại BĐS."
+      "note": "Các doanh nghiệp xây dựng, hàng không, thép, ô tô và bất động sản chịu áp lực chi phí vay gia tăng. Ngược lại, doanh nghiệp có tiền mặt lớn, nợ vay thấp, dòng tiền ổn định có khả năng chống chịu tốt hơn và hưởng lợi từ lãi suất tiền gửi tăng cao."
+    },
+    {
+      "title": "Fed kỳ vọng tăng lãi suất 70% tháng 10, 95% tháng 12",
+      "impact": "↓",
+      "note": "FED nâng lãi suất quỹ liên bang lên 3,75%-4,00% vào 17/9 với kỳ vọng 70% tăng thêm tháng 10 và 95% tháng 12 theo FedWatch Tool CME. Đẩy USD mạnh và lợi suất trái phiếu Mỹ tăng cao, tạo áp lực lên giá vàng và các tài sản rủi ro toàn cầu."
+    },
+    {
+      "title": "Tỷ giá USD/VND hạ nhiệt cuối tháng 9 nhờ dòng FDI và thương mại",
+      "impact": "→",
+      "note": "Tỷ giá trong nước đã hạ nhiệt về cuối tháng 9 mặc dù USD mạnh toàn cầu. Dòng vốn FDI từ hoạt động sản xuất kinh doanh và thương mại tiếp tục tạo yếu tố hỗ trợ quan trọng cho thị trường ngoại hối Việt Nam."
+    },
+    {
+      "title": "AgriS vượt kế hoạch doanh thu 101%, đón nhà đầu tư Singapore",
+      "impact": "↑",
+      "note": "AgriS hoàn thành doanh thu 26.733 tỷ VND (101% kế hoạch), lợi nhuận sau thuế 846 tỷ VND (tăng 1,43% YoY), lợi nhuận từ liên doanh 300 tỷ VND (tăng 9 lần). Nhà đầu tư Singapore Brilliant Solutions nắm 5,3% cổ phần, mở rộng kết nối quốc tế."
     }
   ]
 }
