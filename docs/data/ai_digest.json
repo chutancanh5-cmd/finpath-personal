@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Dòng tiền ngoài bán ròng liên tiếp (888 tỷ đồng phiên 30/9, phiên 6 liên tiếp) kết hợp lãi suất tăng 2-2,5% so đầu năm lên 6,8%-7,6%/năm tạo áp lực mạnh trên chứng khoán. Kỳ vọng từ Fed hạ nhiệt lạm phát tháng 8 và Chính phủ nới lỏng tiếp cận thị trường nước ngoài mở hướng dài hạn, nên tăng trưởng vĩ mô (Quảng Ninh 15,04% quý 3) vẫn là điểm sáng, nhưng ngắn hạn thị trường cần phục hồi dòng tiền nội để vượt qua áp lực điều chỉnh.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ngày 30/09 chịu áp lực từ khối ngoại bán ròng liên tiếp (888 tỷ đồng phiên 30/09), trong khi lãi suất ngân hàng ở mức cao (6,8%-7,8%/năm) tiếp tục tác động tiêu cực đến định giá cổ phiếu. Nền kinh tế vĩ mô vẫn cho thấy những điểm sáng với Quảng Ninh dẫn đầu về tăng trưởng (15,04% GRDP quý III, 12,54% trong 9 tháng), nhưng rủi ro ngắn hạn vẫn đáng chú ý từ dòng vốn ngoài và áp lực từ lãi suất cao.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP 15,04% quý 3/2026",
-      "impact": "↑",
-      "note": "Quảng Ninh tăng trưởng 15,04% quý 3 và 12,54% cả 9 tháng, dẫn đầu cả nước; 12/12 dự án trọng điểm công nghiệp chế biến, chế tạo đã đi vào hoạt động với tổng vốn gần 100.000 tỷ đồng, tăng 17,4% so cùng kỳ 2025."
-    },
-    {
-      "title": "Khối ngoại bán ròng 888 tỷ đồng phiên 30/9, phiên 6 liên tiếp",
+      "title": "Khối ngoại bán ròng 888 tỷ đồng phiên 30/09",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 888 tỷ đồng phiên 30/9, phiên thứ 6 liên tiếp bán ròng, tập trung VHM, TCB, VIC, PNJ, VPB, NVL; VN-Index giảm 9,11 điểm xuống 1.768,62 điểm với thanh khoản eo hẹp."
+      "note": "Khối ngoại tiếp tục bán ròng phiên thứ sáu liên tiếp với giá trị 888 tỷ đồng, tập trung tại VHM, TCB, VIC, PNJ, VPB và NVL, gây sức ép lên VN-Index giảm 9,11 điểm xuống 1.768,62 điểm. Dòng tiền nội chưa cải thiện, áp lực bán tiếp tục."
     },
     {
-      "title": "PNJ giảm sàn lần 3 liên tiếp, nhà đầu tư ngoại lỗ 13.900 tỷ",
+      "title": "PNJ giảm sàn 3 phiên liên tiếp, nhà đầu tư nước ngoài mất 13.900 tỷ",
       "impact": "↓",
-      "note": "PNJ xuống 26.600 đồng/cổ phiếu giảm sàn lần 3 liên tiếp, giảm 69% so đỉnh cuối tháng 1; nhà đầu tư nước ngoài nắm 238 triệu cổ phiếu trị giá 6.300 tỷ đồng nhưng lỗ 13.900 tỷ so với giá đỉnh."
+      "note": "Cổ phiếu PNJ giảm sâu xuống 26.600 đồng (giảm sàn 3 phiên liên tiếp, giảm 7 phiên liên tục), mất 69% so với vùng đỉnh đầu năm. Nhà đầu tư nước ngoài nắm 238 triệu cổ phiếu trị giá 6.300 tỷ đồng, nhưng giá trị đã mất 13.900 tỷ so với khi PNJ ở đỉnh."
     },
     {
-      "title": "Lãi suất huy động tăng 2-2,5% so đầu năm, lên 6,8%-7,6%/năm",
+      "title": "Quảng Ninh dẫn đầu cả nước về tăng trưởng GRDP",
+      "impact": "↑",
+      "note": "Quảng Ninh ghi nhận GRDP quý III/2026 tăng 15,04% (tăng 2,16% so với cùng kỳ năm trước), tính chung 9 tháng tăng 12,54%, xếp thứ nhất cả nước. Công nghiệp chế biến, chế tạo là động lực chính, với 12 dự án trọng điểm đi vào hoạt động, vốn đầu tư gần 100.000 tỷ đồng."
+    },
+    {
+      "title": "Lãi suất ngân hàng ở mức cao 6,8%-7,8%/năm kỳ hạn 12 tháng",
       "impact": "↓",
-      "note": "NHTM tăng lãi suất huy động 12 tháng lên 6,8%-7,6%/năm, cao hơn 2-2,5% so đầu năm; hệ số tương quan lãi suất-VN-Index đạt -0,71 giai đoạn 2014-2021, cho thấy lãi suất cao tạo áp lực mạnh chứng khoán."
+      "note": "Mặt bằng lãi suất huy động tiếp tục phân hóa, với lãi suất cao nhất 7,8%/năm (ACB) tại kỳ hạn 12 tháng, nhóm Big4 niêm yết 6,8%/năm, cao hơn 2-2,5% so với đầu năm. Lãi suất cao gây áp lực tiêu cực đến định giá cổ phiếu, hệ số tương quan với VN-Index ở mức -0,71."
     },
     {
-      "title": "Lạm phát Fed hạ nhiệt tháng 8, gợi ý chu kỳ lãi suất hạ",
+      "title": "Đề xuất nới lỏng điều kiện tiếp cận thị trường nhà đầu tư nước ngoài",
       "impact": "↑",
-      "note": "Thước đo lạm phát yêu thích Fed tăng yếu hơn dự báo tháng 8/2026, cho thấy áp lực giá hạ nhiệt; gợi ý khả năng Fed hạ lãi suất tương lai, tạo kỳ vọng dương cho thị trường."
+      "note": "Bộ Tài chính đề xuất nới lỏng điều kiện tiếp cận thị trường, thể chế hóa Nghị quyết số 10 của Bộ Chính trị, không phân biệt đối xử, khắc phục hạn chế danh mục ngành nghề. Dự thảo thúc đẩy nâng hạng thị trường chứng khoán, tạo cơ hội huy động vốn quốc tế."
     },
     {
-      "title": "Chính phủ nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài",
+      "title": "AgriS (SBT) nhận đầu tư từ nhà đầu tư Singapore 5,30% cổ phiếu",
       "impact": "↑",
-      "note": "Bộ Tài chính đề xuất nới lỏng điều kiện tiếp cận thị trường nước ngoài, thể chế hóa Nghị quyết 10 Bộ Chính trị, thúc đẩy nâng hạng thị trường; mở kỳ vọng dài hạn thu hút dòng vốn nước ngoài."
+      "note": "Brilliant Solutions INC (BSI), tổ chức tài chính có trụ sở tại Singapore, công bố trở thành cổ đông lớn AgriS với 48.015.592 cổ phiếu (5,30% số lượng có quyền biểu quyết). Khoản đầu tư cho thấy sự quan tâm của nhà đầu tư nước ngoài đối với các doanh nghiệp Việt Nam có chiến lược tăng trưởng bền vững."
     }
   ]
 }
