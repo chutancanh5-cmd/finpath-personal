@@ -1,18 +1,18 @@
 {
   "_opus": true,
   "date": "2026-09-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán hôm nay ghi nhận áp lực từ dòng tiền ngoại bán ròng liên tiếp, tuy nhiên các tin vĩ mô tích cực như tăng trưởng cao của Quảng Ninh (15,04% Q3), đề xuất nới lỏng FDI, và lợi nhuận doanh nghiệp tăng trưởng mạnh (F88 vượt 30% kế hoạch) cho thấy nền tảng kinh tế vẫn khỏe. Các sáng kiến mở cửa thị trường cho nhà đầu tư nước ngoài và hợp tác quốc tế (market maker Singapore) tạo dư địa tích cực dài hạn, nhưng áp lực giảm giá (vàng -7,3 triệu/lượng) đặt ra rủi ro ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay bước sang giai đoạn mới khi toàn bộ cổ phiếu HNX sắp chuyển sang HOSE (28/12/2026), tạo lập hệ sinh thái giao dịch thống nhất và nâng tiềm năng nâng hạng. Song song đó, kinh tế Quảng Ninh dẫn đầu cả nước với tăng GRDP quý 3 đạt 15,04%, doanh nghiệp như F88 tăng trưởng mạnh (lợi nhuận vượt 30% kế hoạch với huy động 781,9 tỷ đồng), và Bộ Tài chính đề xuất nới lỏng FDI. Tuy nhiên, áp lực từ khối ngoại bán ròng 6 phiên liên tiếp và giá vàng giảm 7,3 triệu/lượng trong tháng cần lưu ý ngắn hạn.",
   "top": [
+    {
+      "title": "Toàn bộ cổ phiếu HNX chuyển sang HOSE 28/12/2026",
+      "impact": "↑",
+      "note": "Ngày 23/12/2026 là giao dịch cuối cùng tại HNX, tạm ngừng 24-25/12/2026, ngày 28/12/2026 các cổ phiếu chính thức giao dịch tại HOSE. Sự kiện tạo lập hệ sinh thái giao dịch thống nhất, tập trung toàn bộ thị trường cổ phiếu tại HOSE, tăng thanh khoản và nâng tiềm năng nâng hạng thị trường."
+    },
     {
       "title": "Quảng Ninh tăng GRDP Q3 15,04%, dẫn đầu cả nước",
       "impact": "↑",
-      "note": "Quảng Ninh ghi nhận GRDP quý III/2026 tăng 15,04% và 9 tháng đạt 12,54%, dẫn đầu cả nước. Các dự án công nghiệp chế biến chế tạo 12/12 đã đi vào hoạt động với vốn đầu tư gần 100.000 tỷ đồng, tăng 17,4% so với cùng kỳ 2025. Tín hiệu tích cực cho đà tăng trưởng kinh tế."
-    },
-    {
-      "title": "Bộ Tài chính đề xuất nới lỏng FDI, mở rộng tiếp cận thị trường",
-      "impact": "↑",
-      "note": "Dự thảo Luật sửa đổi Luật Đầu tư đề xuất mở rộng tiếp cận thị trường cho nhà đầu tư nước ngoài theo lộ trình, không phân biệt đối xử với doanh nghiệp trong nước, thúc đẩy kinh tế xanh, kinh tế số. Mục tiêu thúc đẩy nâng hạng thị trường chứng khoán Việt Nam."
+      "note": "Quảng Ninh ghi nhận GRDP quý III/2026 tăng 15,04% và 9 tháng đạt 12,54%, dẫn đầu cả nước. Mức tăng vượt năm 2025 (12,88%) thêm 2,16 điểm phần trăm. Các dự án công nghiệp chế biến, chế tạo 12/12 đã đi vào hoạt động với vốn đầu tư gần 100.000 tỷ đồng, tăng 17,4% so với cùng kỳ 2025."
     },
     {
       "title": "F88 huy động 781,9 tỷ đồng, lợi nhuận vượt 30% kế hoạch",
@@ -22,7 +22,7 @@
     {
       "title": "Khối ngoại bán ròng phiên 6 liên tiếp, VN-Index -0,51%",
       "impact": "↓",
-      "note": "Phiên 30/09, VN-Index giảm 9,11 điểm (-0,51%) xuống 1.768,62 điểm. Khối ngoại bán ròng khoảng 910 tỷ đồng, là phiên bán ròng thứ 6 liên tiếp. Tự doanh bán ròng mạnh nhất tại LPB (-496 tỷ) nhưng mua ròng tại VPB (+386 tỷ). Thanh khoản eo hẹp cho thấy động lực từ dòng tiền nội chưa có dấu hiệu đảo chiều."
+      "note": "Phiên 30/09, VN-Index giảm 9,11 điểm (-0,51%) xuống 1.768,62 điểm. Khối ngoại bán ròng là phiên thứ 6 liên tiếp. Tự doanh bán ròng 8,14 tỷ đồng nhưng phân hóa mạnh: bán ròng tại LPB (-496 tỷ), mua ròng tại VPB (+386 tỷ). Thanh khoản eo hẹp cho thấy động lực từ dòng tiền nội chưa có dấu hiệu đảo chiều."
     },
     {
       "title": "Giá vàng miếng SJC giảm 7,3 triệu đồng/lượng trong tháng 9",
@@ -30,9 +30,9 @@
       "note": "Giá mua vàng miếng SJC phổ biến 141,1 triệu đồng/lượng trong phiên 30/9. So với giá đầu tháng (148,4 triệu đồng/lượng), người mua thiệt 7,3 triệu đồng/lượng. Trong tháng 9, giá vàng miếng giảm phổ biến 4,3 triệu đồng/lượng, phản ánh áp lực thị trường."
     },
     {
-      "title": "CTCK Việt Nam đề xuất trở thành market maker tại Singapore",
+      "title": "Bộ Tài chính đề xuất nới lỏng FDI, mở rộng tiếp cận thị trường",
       "impact": "↑",
-      "note": "Chủ tịch UBCK Vũ Thị Chân Phương đề xuất các công ty chứng khoán Việt Nam tham gia vai trò nhà tạo lập thị trường (market maker) tại Singapore. Sáng kiến góp phần tăng cường kết nối, phát triển chứng chỉ lưu ký (DR) và hỗ trợ doanh nghiệp Việt Nam tiếp cận hiệu quả hơn với thị trường vốn quốc tế."
+      "note": "Dự thảo Luật sửa đổi Luật Đầu tư đề xuất mở rộng tiếp cận thị trường cho nhà đầu tư nước ngoài theo lộ trình, không phân biệt đối xử với doanh nghiệp trong nước, thúc đẩy kinh tế xanh, kinh tế số. Mục tiêu thúc đẩy nâng hạng thị trường chứng khoán Việt Nam."
     }
   ]
 }
