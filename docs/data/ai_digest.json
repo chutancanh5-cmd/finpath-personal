@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường đối mặt áp lực từ lạm phát chi phí, lãi suất cao trong tháng 10 (lịch sử giảm bình quân 2%, 4 năm liên tiếp giảm từ 2022), dòng vốn rút khỏi thị trường mới nổi. Tuy nhiên, tăng trưởng GDP quý 3/2026 dự báo 8,7%, cả năm 9,5%, Quảng Ninh dẫn đầu 12,54%, nền tảng kinh tế vẫn chắc chắn. Các doanh nghiệp tiếp tục chia sẻ giá trị qua cổ tức, Vũng Áng II hoàn thành 2,2 tỷ USD năng lượng, mở cơ hội dài hạn. Nhà đầu tư cần cân bằng thận trọng ngắn hạn với tập trung tăng trưởng cơ bản.",
+  "summary_vi": "Quảng Ninh tiếp tục dẫn đầu tăng trưởng GRDP với 15,04% quý 3, phản ánh điểm sáng kinh tế địa phương. Standard Chartered dự báo GDP quý 3 đạt 8,7%, nửa cuối năm 10,6%, hỗ trợ triển vọng tích cực. Tuy nhiên, MBS cảnh báo tháng 10 không thuận lợi do áp lực lạm phát, lãi suất cao và dòng tiền suy yếu. Dòng vốn ngoại suy giảm mạnh (ETF Mỹ rút ròng 641 triệu USD) trong khi Việt Nam hút ít, tạo áp lực ngắn hạn đối với thị trường chứng khoán.",
   "top": [
     {
-      "title": "Lạm phát, lãi suất cao áp lực tháng 10",
+      "title": "Quảng Ninh tăng trưởng GRDP quý 3 đạt 15,04%, dẫn đầu cả nước",
+      "impact": "↑",
+      "note": "GRDP quý 3/2026 TP Quảng Ninh đạt 15,04%, cao nhất cả nước; 9 tháng đạt 12,54%; tăng 2,16 điểm phần trăm so với Q3/2025. Công nghiệp chế biến, chế tạo là động lực chính với 12/12 dự án trọng điểm (vốn gần 100.000 tỷ đồng) đã vào hoạt động."
+    },
+    {
+      "title": "Standard Chartered dự báo GDP quý 3 đạt 8,7%, năm 2026 đạt 9,5%",
+      "impact": "↑",
+      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8,7% so với cùng kỳ năm trước (tăng từ 8,4% Q2), tăng trưởng nửa cuối năm 2026 đạt 10,6%, dự báo GDP toàn năm 2026 duy trì 9,5%."
+    },
+    {
+      "title": "Nhà máy Vũng Áng II (2,2 tỷ USD) khánh thành, dự án FDI trọng điểm",
+      "impact": "↑",
+      "note": "Nhà máy Nhiệt điện Vũng Áng II (VAPCO), dự án FDI 2,2 tỷ USD, công suất 1.300 MW đã hoàn thành tổ máy 1 ngày 18/9/2025. Dự án trọng điểm năng lượng cấp quốc gia tại KKT Vũng Áng, vốn đầu tư gần 100.000 tỷ đồng."
+    },
+    {
+      "title": "MBS cảnh báo tháng 10 rủi ro cao: lạm phát chi phí, dòng tiền suy yếu",
       "impact": "↓",
-      "note": "Tháng 10 lịch sử: chỉ số VN-Index giảm bình quân 2%, 4 năm liên tiếp giảm (2022-2026). MBS cảnh báo lạm phát chi phí và lãi suất cao tiếp tục gây áp lực, thanh khoản xuống mức thấp nhất năm 2026."
+      "note": "MBS cảnh báo tháng 10 không thuận lợi do lạm phát chi phí, lãi suất cao, thanh khoản ở mức thấp nhất năm. Lịch sử 10 năm VN-Index giảm bình quân hơn 2% trong tháng 10; 4 năm liên tiếp (2022-2026) đều giảm điểm."
     },
     {
-      "title": "GDP quý 3 duy trì 8,7%, cả năm 9,5%",
+      "title": "SHS chi trả cổ tức 5% (449,73 tỷ đồng) + chia cổ phiếu 5%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP quý 3/2026 đạt 8,7% YoY (tăng từ 8,4% quý 2), nửa cuối năm 10,6%. Dự kiến GDP cả năm 2026 ở 9,5%, duy trì đà tăng trưởng bất chấp thách thức."
+      "note": "SHS chi trả cổ tức tiền mặt năm 2025 tỷ lệ 5%, tương ứng 500 đồng/cổ phiếu, tổng giá trị 449,73 tỷ đồng, thanh toán 16/10/2026; phát hành cổ phiếu thưởng tỷ lệ 5%."
     },
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng 12,54%",
-      "impact": "↑",
-      "note": "Quảng Ninh GRDP 9 tháng 2026 đạt 12,54%, dẫn đầu cả nước; quý 3 tăng tới 15,04%. 12/12 dự án trọng điểm công nghiệp chế biến đi vào sản xuất, vốn gần 100.000 tỷ đồng, tăng 17,4% so cùng kỳ 2025."
-    },
-    {
-      "title": "Dòng vốn rút khỏi thị trường mới nổi",
+      "title": "Dòng vốn ngoại suy yếu: Mỹ rút ròng 641 triệu USD, Việt Nam hút ít",
       "impact": "↓",
-      "note": "ETF cổ phiếu Mỹ tuần vừa rút ròng 641 triệu USD. Singapore hút 75 triệu USD, Thái Lan 41 triệu USD, Việt Nam hút ròng không đáng kể, phản ánh dòng vốn chảy sang thị trường khác."
-    },
-    {
-      "title": "SHS chi trả cổ tức 5% tiền mặt 449,73 tỷ đồng",
-      "impact": "↑",
-      "note": "SHS chi trả cổ tức năm 2025 tỷ lệ 5%, 500 đồng/cổ phiếu, tổng 449,73 tỷ đồng, thanh toán 16/10/2026. Cùng chia sẻ cổ phiếu thưởng 5% (100:5) để tăng vốn từ nguồn chủ sở hữu."
-    },
-    {
-      "title": "Vũng Áng II 1.300 MW hoàn thành năng lượng",
-      "impact": "↑",
-      "note": "Nhà máy Nhiệt điện Vũng Áng II 2,2 tỷ USD, 2 tổ máy công suất 1.300 MW, tổ máy 1 khánh thành 18/9/2025. Mái vòm 50.000 m² kho than bị sập do bão 10/2025 nhưng được sửa chữa thành công."
+      "note": "ETF chứng khoán Mỹ ghi nhận dòng vốn rút ròng hơn 641 triệu USD (lần rút đầu tiên sau 2 tuần vào ròng). Dòng vốn vào thị trường Châu Á: Singapore 75 triệu USD, Thái Lan 41 triệu USD, Việt Nam hút ròng không đáng kể, phản ánh sự thận trọng của nhà đầu tư ngoại."
     }
   ]
 }
