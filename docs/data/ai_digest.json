@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận áp lực bán từ khối ngoại (bán ròng 910 tỷ) khiến VN-Index giảm 0,51%, trong khi hệ thống ngân hàng đối mặt với khoảng cách vốn-tín dụng lên 2 triệu tỷ đồng. Tuy nhiên, kinh tế vĩ mô có tín hiệu khả quan từ Quảng Ninh dẫn đầu cả nước về tăng trưởng GRDP (15,04% quý 3), kết hợp với các chính sách mở cửa nhà đầu tư nước ngoài và sắp xếp lại thị trường HNX→HOSE sắp diễn ra.",
+  "summary_vi": "Kinh tế vĩ mô duy trì đà tích cực với Quảng Ninh tăng trưởng 15.04% quý III (dẫn đầu cả nước), trong khi chính sách hỗ trợ gồm nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài, mở rộng kết nối CTCK với Singapore. Tuy nhiên, dòng tiền ngoại liên tục bán ròng (phiên thứ 6 liên tiếp) với khối lượng 910 tỷ đồng khiến VN-Index giảm 0.51%, tạo áp lực ngắn hạn bất chấp nền tảng kinh tế vẫn bền vững. Ngành tài chính tiếp tục bổ sung vốn thông qua phát hành trái phiếu (194 ngàn tỷ đồng) và tăng vốn từ doanh nghiệp như F88.",
   "top": [
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP 15,04% quý 3/2026",
+      "title": "Quảng Ninh dẫn đầu tăng trưởng 15.04% quý III",
       "impact": "↑",
-      "note": "GRDP quý 3/2026 của Quảng Ninh đạt 15,04% (dẫn đầu cả nước), 9 tháng đạt 12,54%. Công nghiệp chế biến, chế tạo là trụ cột với 12 dự án trọng điểm đi vào hoạt động, vốn đầu tư gần 100.000 tỷ đồng tăng 17,4% so với cùng kỳ 2025."
+      "note": "GRDP quý III/2026 tăng 15.04% (cao nhất cả nước), 9 tháng tăng 12.54%. Công nghiệp chế biến, chế tạo là trụ cột với 12 dự án trọng điểm hoạt động, vốn đầu tư ~100 ngàn tỷ đồng tăng 17.4% so với cùng kỳ 2025, thúc đẩy tăng trưởng kinh tế vĩ mô."
     },
     {
-      "title": "Sắp xếp lại thị trường: Toàn bộ HNX chuyển sang HOSE 28/12/2026",
-      "impact": "↑",
-      "note": "Ngày giao dịch cuối tại HNX là 23/12/2026; tạm ngừng giao dịch 24-25/12/2026 đối với cổ phiếu chuyển giao; phiên giao dịch đầu tiên tại HOSE là 28/12/2026. Từ đó toàn bộ cổ phiếu niêm yết sẽ tổ chức giao dịch tại HOSE."
-    },
-    {
-      "title": "Khối ngoại bán ròng 910 tỷ, VN-Index giảm 0,51%",
+      "title": "Khối ngoại bán ròng phiên thứ 6 liên tiếp, VN-Index giảm 9.11 điểm",
       "impact": "↓",
-      "note": "VN-Index giảm 9,11 điểm xuống 1.768,72 điểm (-0,51%); khối ngoại bán ròng 910 tỷ đồng toàn thị trường, tự doanh CTCK bán ròng mạnh nhất LPB (-496 tỷ), GMD (-59 tỷ), TCB (-51 tỷ). Đây là phiên thứ 3 liên tiếp giảm điểm."
+      "note": "VN-Index giảm 9.11 điểm xuống 1.768.62 điểm (-0.51%); khối ngoại bán ròng 910 tỷ đồng, tự doanh CTCK bán ròng 8.14 tỷ đồng với LPB bị bán mạnh (-496 tỷ), GMD (-59 tỷ), TCB (-51 tỷ). Dòng tiền trong nước chưa đảo chiều, tạo rủi ro ngắn hạn."
     },
     {
-      "title": "Ngân hàng phát hành 194.000 tỷ đồng trái phiếu, khoảng cách vốn-tín dụng 2 triệu tỷ",
-      "impact": "→",
-      "note": "Tính lũy kế 8 tháng 2026, khối ngân hàng phát hành hơn 194.000 tỷ đồng trái phiếu (50,6% tổng thị trường). Khoảng cách giữa quy mô tín dụng và huy động toàn hệ thống lên 2 triệu tỷ đồng, phản ánh áp lực cân cân nguồn vốn để hỗ trợ nhu cầu tín dụng mở rộng."
-    },
-    {
-      "title": "Bộ Tài chính đề xuất nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài",
+      "title": "Nới lỏng tiếp cận thị trường cho nhà đầu tư nước ngoài",
       "impact": "↑",
-      "note": "Dự thảo Luật sửa đổi Luật Đầu tư mở rộng tiếp cận thị trường FDI theo lộ trình, không phân biệt đối xử, thúc đẩy nâng hạng thị trường chứng khoán, bổ sung hình thức hỗ trợ phát triển chuỗi cung ứng, sản xuất công nghệ và kinh tế xanh."
+      "note": "Bộ Tài chính đề xuất sửa đổi Luật Đầu tư thực hiện Nghị quyết 10 Bộ Chính trị, mở rộng tiếp cận thị trường theo lộ trình, không phân biệt đối xử, thúc đẩy nâng hạng thị trường chứng khoán, hỗ trợ kinh tế xanh và kinh tế số."
     },
     {
-      "title": "MCH gia nhập VN30, cơ hội tái định giá từ chỉ số toàn cầu",
+      "title": "SACOMBANK phát hành trái phiếu, ngân hàng phát hành 194 ngàn tỷ",
       "impact": "↑",
-      "note": "Masan Consumer (MCH) chính thức gia nhập VN30 và được chú ý bởi chỉ số toàn cầu. Công ty có mạng lưới phân phối đến 98% hộ gia đình Việt Nam, sở hữu 35 thương hiệu trong đó 5 thương hiệu mạnh (CHIN-SU, Nam Ngư, Omachi, Kokomi, Wake-up 247)."
+      "note": "Chiến lược kết hợp tiền gửi và phát hành trái phiếu cho dài hạn; tính lũy kế 8 tháng, ngành ngân hàng phát hành 194 ngàn tỷ đồng trái phiếu (50.6% tổng thị trường). Tín dụng tăng nhanh, khoảng cách vốn-tín dụng lên 2 triệu tỷ đồng."
+    },
+    {
+      "title": "F88 huy động 781.9 tỷ đồng từ phát hành cổ phiếu",
+      "impact": "↑",
+      "note": "11.013.200 cổ phiếu chào bán công chúng giao dịch trên UPCoM, tổng vốn 781.9 tỷ đồng nâng vốn điều lệ lên 2.312.65 tỷ đồng. Lợi nhuận trước thuế năm 2026 dự báo vượt 30% kế hoạch, tiếp tục triển khai chuyển niêm yết HOSE."
+    },
+    {
+      "title": "CTCK Việt Nam được đề xuất làm nhà tạo lập thị trường Singapore",
+      "impact": "↑",
+      "note": "Chủ tịch Uỷ ban Chứng khoán Nhà nước đề nghị MAS hỗ trợ CTCK Việt Nam tham gia vai trò market maker, phát triển sản phẩm DR. Mở rộng kết nối thị trường vốn hai nước, huy động vốn quốc tế cho doanh nghiệp Việt Nam, tạo hệ sinh thái hỗ trợ phát hành DR."
     }
   ]
 }
