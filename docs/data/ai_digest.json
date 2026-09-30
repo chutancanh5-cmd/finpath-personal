@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-09-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Quảng Ninh tiếp tục dẫn đầu tăng trưởng GRDP với 15,04% quý 3, phản ánh điểm sáng kinh tế địa phương. Standard Chartered dự báo GDP quý 3 đạt 8,7%, nửa cuối năm 10,6%, hỗ trợ triển vọng tích cực. Tuy nhiên, MBS cảnh báo tháng 10 không thuận lợi do áp lực lạm phát, lãi suất cao và dòng tiền suy yếu. Dòng vốn ngoại suy giảm mạnh (ETF Mỹ rút ròng 641 triệu USD) trong khi Việt Nam hút ít, tạo áp lực ngắn hạn đối với thị trường chứng khoán.",
+  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng trưởng mạnh với Quảng Ninh dẫn đầu 15,04% (Q3) và Standard Chartered dự báo GDP Q3 đạt 8,7%. Tuy nhiên, thị trường chứng khoán phải đối mặt áp lực kép: tháng 10 lịch sử yếu (4 năm liên tiếp giảm) kết hợp với lạm phát cao, lãi suất cao, và nhập khẩu tăng 40% nhanh hơn xuất khẩu tạo rủi ro cân đối thương mại. Dòng vốn ngoại yếu, Việt Nam hút ít, tạo áp lực ngắn hạn lên thanh khoản.",
   "top": [
     {
-      "title": "Quảng Ninh tăng trưởng GRDP quý 3 đạt 15,04%, dẫn đầu cả nước",
+      "title": "Quảng Ninh GRDP quý 3 đạt 15,04%, dẫn đầu toàn quốc",
       "impact": "↑",
-      "note": "GRDP quý 3/2026 TP Quảng Ninh đạt 15,04%, cao nhất cả nước; 9 tháng đạt 12,54%; tăng 2,16 điểm phần trăm so với Q3/2025. Công nghiệp chế biến, chế tạo là động lực chính với 12/12 dự án trọng điểm (vốn gần 100.000 tỷ đồng) đã vào hoạt động."
+      "note": "GRDP Q3/2026 TP Quảng Ninh đạt 15,04% YoY, 9 tháng đạt 12,54%, vượt xa tốc độ trung bình, tăng 2,16 điểm so với Q3/2025. Công nghiệp chế biến, chế tạo là động lực chính với 12/12 dự án trọng điểm (vốn ~100.000 tỷ đồng, tăng 17,4% so cùng kỳ 2025) đã vào hoạt động."
     },
     {
-      "title": "Standard Chartered dự báo GDP quý 3 đạt 8,7%, năm 2026 đạt 9,5%",
+      "title": "Standard Chartered dự báo GDP Q3 8,7%, cả năm 2026 đạt 9,5%",
       "impact": "↑",
-      "note": "Standard Chartered dự báo tăng trưởng GDP quý 3/2026 đạt 8,7% so với cùng kỳ năm trước (tăng từ 8,4% Q2), tăng trưởng nửa cuối năm 2026 đạt 10,6%, dự báo GDP toàn năm 2026 duy trì 9,5%."
+      "note": "Standard Chartered dự báo GDP Q3/2026 tăng 8,7% YoY (lên từ 8,4% Q2), H2/2026 dự kiến 10,6%, toàn năm 2026 duy trì 9,5%. Sản xuất công nghiệp dự báo +13,2%, xuất khẩu +27,2%, phản ánh đà tăng trưởng bền vững."
     },
     {
-      "title": "Nhà máy Vũng Áng II (2,2 tỷ USD) khánh thành, dự án FDI trọng điểm",
-      "impact": "↑",
-      "note": "Nhà máy Nhiệt điện Vũng Áng II (VAPCO), dự án FDI 2,2 tỷ USD, công suất 1.300 MW đã hoàn thành tổ máy 1 ngày 18/9/2025. Dự án trọng điểm năng lượng cấp quốc gia tại KKT Vũng Áng, vốn đầu tư gần 100.000 tỷ đồng."
-    },
-    {
-      "title": "MBS cảnh báo tháng 10 rủi ro cao: lạm phát chi phí, dòng tiền suy yếu",
+      "title": "Nhập khẩu tăng 40% nhanh hơn xuất khẩu 27,2%, nhập siêu 2,82 tỷ USD",
       "impact": "↓",
-      "note": "MBS cảnh báo tháng 10 không thuận lợi do lạm phát chi phí, lãi suất cao, thanh khoản ở mức thấp nhất năm. Lịch sử 10 năm VN-Index giảm bình quân hơn 2% trong tháng 10; 4 năm liên tiếp (2022-2026) đều giảm điểm."
+      "note": "Tháng 9/2026, nhập khẩu tăng 7,16% đạt 28,84 tỷ USD gần gấp 3 lần xuất khẩu tăng 2,4% đạt 26,02 tỷ USD. Mức nhập siêu 2,82 tỷ USD ngắn hạn này gây rủi ro lên cân đối thương mại và áp lực lên tỷ giá tiền tệ."
     },
     {
-      "title": "SHS chi trả cổ tức 5% (449,73 tỷ đồng) + chia cổ phiếu 5%",
-      "impact": "↑",
-      "note": "SHS chi trả cổ tức tiền mặt năm 2025 tỷ lệ 5%, tương ứng 500 đồng/cổ phiếu, tổng giá trị 449,73 tỷ đồng, thanh toán 16/10/2026; phát hành cổ phiếu thưởng tỷ lệ 5%."
-    },
-    {
-      "title": "Dòng vốn ngoại suy yếu: Mỹ rút ròng 641 triệu USD, Việt Nam hút ít",
+      "title": "Tháng 10 chịu áp lực mùa vụ, 4 năm liên tiếp giảm, thanh khoản thấp",
       "impact": "↓",
-      "note": "ETF chứng khoán Mỹ ghi nhận dòng vốn rút ròng hơn 641 triệu USD (lần rút đầu tiên sau 2 tuần vào ròng). Dòng vốn vào thị trường Châu Á: Singapore 75 triệu USD, Thái Lan 41 triệu USD, Việt Nam hút ròng không đáng kể, phản ánh sự thận trọng của nhà đầu tư ngoại."
+      "note": "VN-Index lịch sử giảm bình quân >2% mỗi tháng 10 trong 10 năm qua, 4 năm liên tiếp giảm từ 2022-2026. Kết hợp lạm phát cao, lãi suất ở mức cao (Fed, BOJ, ECB đều tăng lãi suất năm 2026), thanh khoản xuống mức thấp nhất từ đầu năm gây áp lực lên thị trường."
+    },
+    {
+      "title": "Dòng vốn ngoại yếu, Việt Nam hút ròng 'không đáng kể'",
+      "impact": "↓",
+      "note": "ETF chứng khoán Mỹ ghi nhận rút ròng 641 triệu USD (lần rút đầu tiên sau 2 tuần vào ròng). Dòng vốn thị trường châu Á: Singapore 75 triệu USD, Thái Lan 41 triệu USD, Việt Nam hút ròng 'không đáng kể', phản ánh sự thận trọng của nhà đầu tư ngoại. ETF hàng hóa rút ròng 908 triệu USD."
+    },
+    {
+      "title": "FTSE nâng hạng Việt Nam, tuy vẫn chịu áp lực vĩ mô toàn cầu",
+      "impact": "→",
+      "note": "FTSE nâng Việt Nam lên thị trường mới nổi thứ cấp là tín hiệu tích cực cho độ tin cậy. Tuy nhiên theo MBS, tín hiệu này vẫn chưa đủ lấn át sức ép từ lạm phát chi phí đẩy, lãi suất cao của các ngân hàng trung ương, và bất định từ cuộc chiến Mỹ-Iran."
     }
   ]
 }
