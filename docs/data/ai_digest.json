@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-01",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường giảm 4 phiên liên tiếp phản ánh tâm lý thận trọng, tuy nhiên chính sách tiền tệ nới lỏng (LDR tăng 85%→95%, lãi suất liên ngân hàng <1%) cùng FDI tăng 4 lần (17 tỷ USD) cho thấy nền tảng kinh tế vẫn bền vững. Luật Phát triển đô thị và tăng trưởng vùng Quảng Ninh 12.54% là tín hiệu tích cực cho giai đoạn tới.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực bán mạnh khi KOS giảm 52% sau 9 phiên sàn liên tiếp (vốn hóa mất 3.700 tỷ đồng) và PNJ lỗ dự kiến 6.271 tỷ đồng. VN-Index giảm 4 phiên liên tiếp xuống 1749 điểm, rủi ro thanh khoản gia tăng khi không bán được giải chấp. Tuy chính sách tiền tệ nới lỏng (LDR 95%, lãi suất <1%) và FDI tăng 4 lần (17 tỷ USD) có hỗ trợ, nhưng tâm lý tiêu cực và rủi ro ngắn hạn vẫn áp đảo.",
   "top": [
     {
-      "title": "NHNN nới lỏng tỷ lệ LDR từ 85% lên 95%",
-      "impact": "↑",
-      "note": "Thông tư 50/2026/TT-NHNN có hiệu lực 1/12/2026 nâng tỷ lệ dư nợ cho vay tối đa từ 85% lên 95%, đồng thời đưa vào 2 chỉ tiêu thanh khoản mới LCR và NSFR, giúp ngân hàng có dư địa tăng cho vay."
-    },
-    {
-      "title": "Vốn FDI vào TPHCM 9 tháng đạt 17 tỷ USD, tăng 4 lần",
-      "impact": "↑",
-      "note": "Vốn FDI đăng ký vào TPHCM đạt hơn 17 tỷ USD, tăng hơn 4 lần so cùng kỳ 2025, vượt 57% mục tiêu 11 tỷ USD. Dự án chiến lược gồm Cảng Cần Giờ 4.9 tỷ USD, AI Factory 2.1 tỷ USD, Khu ĐH Quốc tế 1.4 tỷ USD."
-    },
-    {
-      "title": "VN-Index giảm 4 phiên liên tiếp, thủng vùng 1950",
+      "title": "Kosy mất 52% giá trị sau 9 phiên sàn liên tiếp",
       "impact": "↓",
-      "note": "VN-Index đóng cửa mất 1.09% (−19.32 điểm) xuống 1749.3 điểm. VN30-Index giảm 0.85% với 20 cổ phiếu đỏ (VIC −2.24%, LPB −4.55%, STB −5.05%), áp lực bán gia tăng trong phiên chiều."
+      "note": "KOS giảm hết biên độ 9 phiên liên tiếp, rơi từ 34.000 xuống 15.800 đồng/cp. Vốn hóa bị thổi bay 3.700 tỷ đồng xuống còn 3.420 tỷ đồng. Công ty chứng khoán không bán được giải chấp cổ phiếu do thiếu cầu, tín hiệu xấu cho thanh khoản toàn thị trường."
     },
     {
-      "title": "PNJ dự kiến lỗ 6.271 tỷ đồng năm 2026",
+      "title": "PNJ giảm sàn 4 phiên, điều chỉnh lợi nhuận âm",
       "impact": "↓",
-      "note": "PNJ giảm sàn phiên thứ 4 liên tiếp, vốn hóa 12.700 tỷ đồng. Dự kiến điều chỉnh kế hoạch năm 2026, nếu tính dự phòng 7.071 tỷ đồng, lợi nhuận sau thuế âm 6.271 tỷ đồng."
+      "note": "PNJ giảm về 24.750 đồng/cp sau 4 phiên sàn liên tiếp, vốn hóa còn 12.700 tỷ đồng. Công ty dự kiến điều chỉnh kế hoạch 2026 với lợi nhuận sau thuế âm 6.271 tỷ đồng sau khoản dự phòng 7.071 tỷ đồng."
     },
     {
-      "title": "Luật Phát triển đô thị chính thức có hiệu lực 1/10",
-      "impact": "↑",
-      "note": "Luật Phát triển đô thị có hiệu lực 1/10/2026, mở dư địa cho TPHCM chủ động quyết định trong quy hoạch, phát triển đô thị. HĐND TPHCM thông qua 38 nghị quyết cụ thể hóa luật."
+      "title": "VN-Index giảm 4 phiên liên tiếp, kỹ thuật tiêu cực",
+      "impact": "↓",
+      "note": "VN-Index giảm 1.09% (−19.32 điểm) xuống 1749.3 điểm, nằm dưới SMA 50 ngày. VN30-Index giảm 0.85% với 20 cổ phiếu đỏ (VIC −2.24%, LPB −4.55%, STB −5.05%), thanh khoản tăng 44% nhưng áp lực bán vẫn mạnh."
     },
     {
-      "title": "Quảng Ninh GRDP tăng 12.54%, dẫn đầu cả nước",
+      "title": "NHNN nâng LDR từ 85% lên 95%, hỗ trợ thanh khoản",
       "impact": "↑",
-      "note": "9 tháng 2026, GRDP Quảng Ninh tăng 12.54% xếp thứ 1 toàn quốc (quý 3 tăng 15.04%). Vốn đầu tư công nghiệp chế biến, chế tạo đạt gần 100.000 tỷ đồng, tăng 17.4% vs cùng kỳ 2025."
+      "note": "NHNN ban hành Thông tư 50/2026 có hiệu lực 1/12/2026, nâng tỷ lệ LDR tối đa từ 85% lên 95%. NHNN hỗ trợ thanh khoản 51.300 tỷ đồng qua hoán đổi USD và 46.100 tỷ đồng qua OMO, lãi suất liên ngân hàng giảm từ >7% xuống <1%."
+    },
+    {
+      "title": "FDI vào TPHCM 17 tỷ USD trong 9 tháng, tăng 4 lần",
+      "impact": "↑",
+      "note": "FDI đăng ký vào TPHCM 9 tháng 2026 đạt hơn 17 tỷ USD, tăng 4 lần so 2025 và vượt 57% mục tiêu 11 tỷ USD. Dự án chiến lược gồm Cảng Cần Giờ 4.9 tỷ USD, AI Factory 2.1 tỷ USD, Khu ĐH Quốc tế 1.4 tỷ USD."
+    },
+    {
+      "title": "Quảng Ninh GRDP tăng 12.54%, dẫn đầu toàn quốc",
+      "impact": "↑",
+      "note": "9 tháng 2026, GRDP Quảng Ninh tăng 12.54% xếp thứ 1 toàn quốc (quý 3 tăng 15.04%). Công nghiệp chế biến chế tạo là trụ cột, 12 dự án trọng điểm đã hoạt động với vốn gần 100.000 tỷ đồng, tăng 17.4% vs 2025."
     }
   ]
 }
