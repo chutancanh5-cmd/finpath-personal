@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán bước vào quý 4 với áp lực bán mạnh, VN-Index giảm 4 phiên liên tiếp, thanh khoản co lại đáng kể khi tỷ trọng VN30 giảm từ 61% xuống 50%. Khối ngoại bán ròng 37.500 tỷ đồng cổ phiếu ngân hàng từ đầu năm vượt mức năm 2025, trong khi chi phí vốn ngân hàng gia tăng (11 ngân hàng trả lãi 9%/năm trở lên), đe dọa biên lãi. Bên cạnh đó, nền tảng vĩ mô vẫn tích cực: TP.HCM GRDP quý 3 tăng 9,86%, Hà Nội tăng 10,02% (lần đầu hai con số), do khu vực dịch vụ tăng >10% đóng góp chính. Sự mất cân bằng giữa tín hiệu vĩ mô mạnh nhưng tâm lý thị trường yếu tạo rủi ro ngắn hạn.",
+  "summary_vi": "Thị trường bước vào quý 4 với áp lực bán mạnh: VN-Index giảm 1,09% phiên đầu tháng, khối ngoại bán ròng 37.500 tỷ đồng cổ phiếu ngân hàng từ đầu năm vượt mức năm 2025. Tín hiệu cảnh báo rủi ro từ bong bóng giá (PET tăng 46% rồi sụp sàn), kết hợp lãi suất cao (ACB 7,8%/năm) gây áp lực chi phí doanh nghiệp. Tuy vậy, kinh tế cơ bản vẫn vững với GRDP Hà Nội và TP.HCM quý 3 cùng tăng trên 10%, nhưng chưa đủ bù đắp tâm lý thị trường thận trọng.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 37.500 tỷ cổ phiếu ngân hàng, vượt năm 2025",
+      "title": "VN-Index lao dốc 19,32 điểm, phiên giảm thứ 4 liên tiếp",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 37.500 tỷ đồng cổ phiếu ngân hàng trong 9 tháng 2026, vượt mức bán ròng cả năm 2025 (32.100 tỷ đồng). Sự rút vốn này kéo theo áp lực đáng kể trên cổ phiếu ngân hàng dù lợi nhuận trước thuế ngân hàng quốc doanh tăng 28% so với cùng kỳ."
+      "note": "VN-Index giảm 19,32 điểm (-1,09%) xuống 1.749,3 điểm phiên 1/10, bước vào phiên giảm thứ 4 liên tiếp; 367 mã giảm (23 mã sàn) áp đảo 278 mã tăng (20 mã trần); VIC giảm mạnh kéo đi 12 điểm do áp lực bất động sản"
     },
     {
-      "title": "VN-Index lao dốc phiên 1/10, thanh khoản suy yếu mạnh",
+      "title": "Khối ngoại bán ròng 37.500 tỷ cổ phiếu ngân hàng",
       "impact": "↓",
-      "note": "VN-Index giảm 19,32 điểm (-1,09%) xuống 1.749,3 điểm phiên 1/10 (phiên giảm thứ 4 liên tiếp), nằm dưới SMA 50 ngày với MACD suy yếu. 367 mã giảm so với 278 mã tăng; tỷ trọng thanh khoản VN30 giảm từ 61% xuống ~50%, xác nhận dòng tiền co lại và áp lực cắt lỗ lan nhanh."
+      "note": "Nhà đầu tư nước ngoài bán ròng 37.500 tỷ đồng cổ phiếu ngân hàng trong 9 tháng 2026, vượt mức 32.100 tỷ năm 2025; CTG +33%, VCB +19%, VPB +16%, HDB +43% về lợi nhuận nhưng bị bán ròng do rút vốn"
     },
     {
-      "title": "GRDP TP.HCM quý 3 tăng 9,86%, dịch vụ tăng 9,95%",
+      "title": "GRDP TP.HCM quý 3 tăng 9,86%, loại dầu khí 10,08%",
       "impact": "↑",
-      "note": "Tổng sản phẩm trên địa bàn TP.HCM quý 3/2026 tăng 9,86% so với cùng kỳ (loại trừ dầu khí: 10,08%). Khu vực dịch vụ tăng 9,95% đóng góp 51,9% vào mức tăng. GRDP 9 tháng tăng 9,06% YoY (9,16% loại trừ dầu khí), cho thấy nền kinh tế vẫn duy trì động lực."
+      "note": "GRDP TP.HCM quý 3/2026 tăng 9,86% so với cùng kỳ (loại trừ dầu khí: 10,08%); khu vực dịch vụ tăng 9,95% đóng góp 51,9% vào mức tăng; GRDP 9 tháng tăng 9,06%"
     },
     {
-      "title": "GRDP Hà Nội quý 3 tăng 10,02%, lần đầu chạm hai con số",
+      "title": "GRDP Hà Nội quý 3 tăng 10,02% - lần đầu hai con số",
       "impact": "↑",
-      "note": "GRDP Hà Nội quý 3/2026 tăng 10,02% so với cùng kỳ, lần đầu tiên trong năm đạt tăng trưởng hai con số. Khu vực dịch vụ tăng 10,33%, hoạt động tài chính-ngân hàng tăng 12,50%. GRDP 9 tháng tăng 8,85% YoY, cho thấy đà tăng tốc qua từng quý."
+      "note": "GRDP Hà Nội quý 3/2026 tăng 10,02% so với cùng kỳ, lần đầu chạm hai con số trong năm; khu vực dịch vụ tăng 10,33%, tài chính-ngân hàng tăng 12,50%; GRDP 9 tháng tăng 8,85%"
     },
     {
-      "title": "Chi phí vốn ngân hàng gia tăng, lãi suất huy động cao",
+      "title": "Cổ phiếu PET tăng 46% rồi giảm sàn 6,85%",
       "impact": "↓",
-      "note": "Khoảng 11 ngân hàng trả lãi tiết kiệm 9%/năm trở lên trong tháng 9. Ở kỳ hạn 12 tháng, ACB niêm yết cao nhất 7,8%/năm, Sacombank 7,5%, nhóm Big4 mức 6,8%. Áp lực chi phí vốn kéo dài có rủi ro ép biên lãi và lợi nhuận ngân hàng trong quý 4 và năm 2027."
+      "note": "PET tăng 46,65% trong 7 phiên (từ 38.800 lên 56.900 đồng) rồi giảm hết biên độ 6,85% xuống 53.000 đồng phiên 1/10; 619.300 cổ phiếu chờ bán ở sàn; VietinBank Capital bán 7,25 triệu cổ phiếu 24/9"
     },
     {
-      "title": "Tự doanh CTCK bán ròng 290 tỷ, TCB bị bán -190 tỷ",
+      "title": "Lãi suất huy động cao nhất 7,8%/năm, chênh lệch 4%",
       "impact": "↓",
-      "note": "Lực tự doanh của các công ty chứng khoán bán ròng 290 tỷ đồng trên HoSE phiên 1/10, với TCB bị bán mạnh nhất (-190 tỷ) và VPB (-156 tỷ). Sự bán ròng của nhà đầu tư bên trong phản ánh cân bằng lực mua yếu và tâm lý thận trọng."
+      "note": "ACB niêm yết 7,8%/năm cao nhất kỳ hạn 12 tháng, Sacombank 7,5%, Big4 mức 6,8%, trong khi SeABank chỉ 5%/năm, SCB 3,7%; chênh lệch lớn gây áp lực chi phí cho doanh nghiệp"
     }
   ]
 }
