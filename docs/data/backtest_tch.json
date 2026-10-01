@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "symbol": "TCH",
+    "label": "TCH",
+    "source": "vci",
+    "currency": "VND",
+    "ma_period": 10,
+    "contribution": 5000000.0,
+    "max_uptrend_months": 26,
+    "rest_months": 18,
+    "data_start": "2016-10-05",
+    "data_end": "2026-10-01",
+    "months_total": 121,
+    "generated_at": "2026-10-01T08:58:02+00:00"
+  },
+  "results": {
+    "strategy": {
+      "label": "strategy",
+      "months_simulated": 111,
+      "months_total": 121,
+      "num_trades": 68,
+      "num_buy": 61,
+      "num_sell": 7,
+      "num_force_exit": 0,
+      "num_rounds": 7,
+      "win_rounds": 1,
+      "loss_rounds": 6,
+      "win_rate": 0.142857,
+      "principal_contributed": 305000000.0,
+      "final_units_held": 0.0,
+      "final_position_value": 0.0,
+      "final_wealth": 283558443.521375,
+      "profit": -21441556.478625,
+      "moic": 0.9297,
+      "xirr_annual": -0.086736,
+      "max_drawdown": -0.232534,
+      "time_in_market_pct": 0.54955,
+      "rounds": [
+        {
+          "entry": "2017-12-01",
+          "exit": "2018-11-01",
+          "exit_type": "SELL",
+          "invested": 55000000.0,
+          "proceeds": 49584067.011655,
+          "profit": -5415932.988345,
+          "return_pct": -0.098472
+        },
+        {
+          "entry": "2019-03-01",
+          "exit": "2019-05-02",
+          "exit_type": "SELL",
+          "invested": 10000000.0,
+          "proceeds": 9220710.052466,
+          "profit": -779289.947534,
+          "return_pct": -0.077929
+        },
+        {
+          "entry": "2019-08-01",
+          "exit": "2020-04-01",
+          "exit_type": "SELL",
+          "invested": 40000000.0,
+          "proceeds": 24513002.766011,
+          "profit": -15486997.233989,
+          "return_pct": -0.387175
+        },
+        {
+          "entry": "2021-01-04",
+          "exit": "2021-08-02",
+          "exit_type": "SELL",
+          "invested": 35000000.0,
+          "proceeds": 30569205.247562,
+          "profit": -4430794.752438,
+          "return_pct": -0.126594
+        },
+        {
+          "entry": "2021-12-01",
+          "exit": "2022-05-04",
+          "exit_type": "SELL",
+          "invested": 25000000.0,
+          "proceeds": 18182304.200893,
+          "profit": -6817695.799107,
+          "return_pct": -0.272708
+        },
+        {
+          "entry": "2023-06-01",
+          "exit": "2024-11-01",
+          "exit_type": "SELL",
+          "invested": 85000000.0,
+          "proceeds": 102937750.642061,
+          "profit": 17937750.642061,
+          "return_pct": 0.211032
+        },
+        {
+          "entry": "2025-03-03",
+          "exit": "2026-02-02",
+          "exit_type": "SELL",
+          "invested": 55000000.0,
+          "proceeds": 48551403.600726,
+          "profit": -6448596.399274,
+          "return_pct": -0.117247
+        }
+      ]
+    },
+    "always_dca": {
+      "label": "always_dca",
+      "months_simulated": 111,
+      "months_total": 121,
+      "num_trades": 111,
+      "num_buy": 111,
+      "num_sell": 0,
+      "num_force_exit": 0,
+      "num_rounds": 0,
+      "win_rounds": 0,
+      "loss_rounds": 0,
+      "win_rate": null,
+      "principal_contributed": 555000000.0,
+      "final_units_held": 56425007.055748,
+      "final_position_value": 637602579.729954,
+      "final_wealth": 637602579.729954,
+      "profit": 82602579.729954,
+      "moic": 1.148833,
+      "xirr_annual": 0.03003,
+      "max_drawdown": -0.6128,
+      "time_in_market_pct": 1.0,
+      "rounds": []
+    },
+    "lump_sum": {
+      "label": "lump_sum",
+      "months_simulated": 111,
+      "months_total": 121,
+      "num_trades": 1,
+      "num_buy": 1,
+      "num_sell": 0,
+      "num_force_exit": 0,
+      "num_rounds": 0,
+      "win_rounds": 0,
+      "loss_rounds": 0,
+      "win_rate": null,
+      "principal_contributed": 305000000.0,
+      "final_units_held": 42302357.836338,
+      "final_position_value": 478016643.550624,
+      "final_wealth": 478016643.550624,
+      "profit": 173016643.550624,
+      "moic": 1.567268,
+      "xirr_annual": 0.050206,
+      "max_drawdown": -0.744101,
+      "time_in_market_pct": 1.0,
+      "rounds": []
+    }
+  }
+}

@@ -1,23 +1,23 @@
 # Backtest: VN-Index -- chien luoc 'Tich san trong Uptrend'
 
 - Tai san: **VNINDEX** (VN-Index), nguon du lieu: `vci`
-- Khung thoi gian: THANG (M1), tu **2004-01-05** den **2026-08-03** (272 thang)
+- Khung thoi gian: THANG (M1), tu **2004-01-05** den **2026-10-01** (274 thang)
 - Duong trung binh: **MA10** tren gia dong cua thang
 - Dong gop dinh ky: **5,000,000 d** / thang khi co tin hieu MUA
 - Quy tac timing: force-exit sau **26 thang** uptrend lien tuc, nghi **18 thang** (1.5 nam) sau moi lan force-exit
 
 | Chi so | Chien luoc Tich san Uptrend (MA + timing) | Benchmark: DCA deu moi thang, khong bao gio ban | Benchmark: Dau tu 1 lan (lump-sum) cung tong von |
 |---|---|---|---|
-| Von da gop | 780,000,000 d | 1,310,000,000 d | 780,000,000 d |
-| Gia tri cuoi ky | 1,053,533,166 d | 3,881,271,760 d | 6,144,617,105 d |
-| Loi nhuan | 273,533,166 d | 2,571,271,760 d | 5,364,617,105 d |
-| MOIC (x von) | 1.35x | 2.96x | 7.88x |
-| XIRR (nam hoa) | 119.3% | 9.0% | 9.9% |
+| Von da gop | 785,000,000 d | 1,320,000,000 d | 785,000,000 d |
+| Gia tri cuoi ky | 1,058,379,172 d | 3,715,575,455 d | 5,904,461,022 d |
+| Loi nhuan | 273,379,172 d | 2,395,575,455 d | 5,119,461,022 d |
+| MOIC (x von) | 1.35x | 2.81x | 7.52x |
+| XIRR (nam hoa) | 119.3% | 8.6% | 9.6% |
 | Max drawdown | -20.5% | -68.6% | -78.4% |
 | % thoi gian nam giu | 59.5% | 100.0% | 100.0% |
-| So lenh MUA / BAN | 156 / 18 | 262 / 0 | 1 / 0 |
-| So vong (round-trip) | 18 | 0 | 0 |
-| Ty le vong thang | 33.3% | n/a | n/a |
+| So lenh MUA / BAN | 157 / 19 | 264 / 0 | 1 / 0 |
+| So vong (round-trip) | 19 | 0 | 0 |
+| Ty le vong thang | 31.6% | n/a | n/a |
 
 ## Chi tiet cac lan force-exit theo timing (26 thang)
 
@@ -47,3 +47,4 @@
 | 16 | 2024-01 | 2024-12 | SELL | 55,000,000 d | 55,753,112 d | 753,112 d | 1.4% |
 | 17 | 2025-01 | 2025-05 | SELL | 20,000,000 d | 19,182,045 d | -817,955 d | -4.1% |
 | 18 | 2025-06 | 2026-08 | SELL | 70,000,000 d | 72,982,475 d | 2,982,475 d | 4.3% |
+| 19 | 2026-09 | 2026-10 | SELL | 5,000,000 d | 4,846,006 d | -153,994 d | -3.1% |
