@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam có dấu hiệu tích cực: FDI vào TPHCM đạt hơn 17 tỷ USD (tăng 4 lần cùng kỳ 2025), Quảng Ninh dẫn đầu tăng trưởng GRDP 12,54% trong 9 tháng, tín dụng khu công nghiệp tăng 32%. Tuy nhiên, thị trường chứng khoán chịu áp lực bán tháo với VN-Index giảm 9 điểm, khối ngoại bán ròng liên tiếp, rủi ro ngắn hạn vẫn tồn tại.",
+  "summary_vi": "FDI vào TP.HCM tăng 4 lần đạt 17 tỷ USD (vượt 57% mục tiêu 11 tỷ USD) với các dự án chiến lược: cảng 4,9 tỷ, AI Factory 2,1 tỷ, đại học 1,4 tỷ. Quảng Ninh dẫn đầu với GRDP tăng 15,04% quý 3 (12,54% 9 tháng). Tín dụng khu công nghiệp tăng 32%, HDBank chia 30% tăng vốn 15 tỷ đồng. Tuy nhiên lạm phát Mỹ cao hơn dự báo (PCE 3,4% năm/năm), Fed giảm xác suất tăng lãi tháng 10 xuống 38%, khối ngoại bán ròng liên tiếp, PNJ sập 69% từ đỉnh.",
   "top": [
     {
-      "title": "FDI TPHCM hơn 17 tỷ USD, tăng 4 lần cùng kỳ 2025",
+      "title": "FDI TP.HCM tăng 4 lần, đạt 17 tỷ USD",
       "impact": "↑",
-      "note": "9 tháng 2026, vốn FDI đăng ký TPHCM hơn 17 tỷ USD, tăng hơn 4 lần cùng kỳ 2025, vượt 57% mục tiêu 11 tỷ USD. Dòng vốn chuyển sang cảng, logistics, hạ tầng số, giáo dục: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, Đại học Quốc tế 1,4 tỷ USD."
+      "note": "9 tháng 2026, FDI đăng ký TP.HCM 17 tỷ USD, tăng 4 lần so cùng kỳ 2025, vượt 57% mục tiêu 11 tỷ USD. Dòng vốn chuyển hướng lĩnh vực chiến lược: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, Đại học Quốc tế 1,4 tỷ USD."
     },
     {
-      "title": "Quảng Ninh dẫn đầu GRDP 12,54% (9 tháng), 15,04% (Q3)",
+      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP",
       "impact": "↑",
-      "note": "GRDP 9 tháng 2026 Quảng Ninh tăng 12,54%, Q3 tăng 15,04%, xếp thứ 1 cả nước (cao hơn Q3/2025 khoảng 2,16%). Công nghiệp chế biến, chế tạo chính là trụ cột; vốn đầu tư 12 dự án trọng điểm khoảng 100.000 tỷ đồng, tăng 17,4% cùng kỳ 2025."
+      "note": "GRDP Quảng Ninh quý 3/2026 tăng 15,04% (9 tháng: 12,54%), xếp thứ 1 cả nước, cao hơn năm trước 2,16%. Vốn đầu tư 12 dự án chế biến chế tạo khoảng 100.000 tỷ đồng, tăng 17,4%. Trở thành thành phố trực thuộc Trung ương từ 1/9."
     },
     {
-      "title": "Tín dụng BĐS khu công nghiệp tăng 32% Q2/2026",
-      "impact": "↑",
-      "note": "Q2/2026, tín dụng BĐS khu công nghiệp tăng 32% so với Q trước, chủ yếu IDC dư nợ +55%, KBC +25%, BCM +18%. Chính sách Nghị định 20/2026 (giảm 30% tiền thuê đất 5 năm) và Luật Đầu tư 2025 (mở rộng ngành ưu đãi: bán dẫn, AI, sinh học, năng lượng mới) tiếp tục thúc đẩy."
+      "title": "Lạm phát Mỹ hạ nhiệt nhưng vẫn cao",
+      "impact": "→",
+      "note": "PCE tháng 8 tăng 0,3% tháng/tháng, 3,4% năm/năm (cao hơn dự báo 0,3%). PCE lõi 0,2% tháng/tháng, 3% năm/năm (thấp hơn dự báo 0,3%). Khiến Fed giảm xác suất tăng lãi tháng 10 xuống 38% từ 50%, nhưng vẫn giữ 87% cho tháng 12."
     },
     {
-      "title": "VN-Index giảm 9 điểm, khối ngoại bán ròng liên tiếp",
+      "title": "Tín dụng khu công nghiệp tăng 32%",
+      "impact": "↑",
+      "note": "Quý 2/2026, tín dụng BĐS khu công nghiệp tăng 32% so quý trước. Dư nợ IDC +55%, KBC +25%, BCM +18%. Chính sách Nghị định 20/2026 (giảm 30% tiền thuê) và Luật Đầu tư 2025 (ưu đãi bán dẫn, AI, sinh học, năng lượng mới) thúc đẩy."
+    },
+    {
+      "title": "PNJ sập sàn liên tiếp, mất 69% giá từ đỉnh",
       "impact": "↓",
-      "note": "Phiên 30/09, VN-Index giảm 9,11 điểm xuống 1.768,62 điểm, khối ngoại bán ròng phiên thứ 5 liên tiếp. 12/18 ngành giảm, Dầu khí mạnh nhất; thanh khoản eo hẹp, thị trường chưa xác nhận vùng cân bằng, áp lực tiếp tục tồn tại quanh 1.740 điểm."
+      "note": "Phiên 30/09, PNJ giảm sàn lần 3 liên tiếp xuống 26.600 đồng (-20% 3 phiên, -69% từ đỉnh tháng 1). Khối ngoại nắm 238 triệu cổ phiếu (6.300 tỷ đồng), thấp hơn 13.900 tỷ so đỉnh. Vốn hóa thị trường mất 30.000 tỷ đồng."
     },
     {
-      "title": "HDBank chia cổ tức 25% + cổ phiếu thưởng 5%",
+      "title": "HDBank chia cổ tức 30%, tăng vốn 15 tỷ",
       "impact": "↑",
-      "note": "Ngày đăng ký 12/10/2026; HDBank chia cổ tức 25% (lợi nhuận chưa phân phối) + cổ phiếu thưởng 5% (Quỹ dự trữ). Vốn điều lệ tăng từ 50.053 tỷ đồng lên 65.069 tỷ đồng, hỗ trợ cho vay trung, dài hạn và bổ sung vốn lưu động."
-    },
-    {
-      "title": "PNJ giảm sàn 3 lần, mất 69% giá từ đỉnh tháng 1",
-      "impact": "↓",
-      "note": "Phiên 30/09, PNJ giảm sàn lần 3 liên tiếp xuống 26.600 đồng/cổ phiếu (mất 69% từ đỉnh cuối tháng 1/2026). Nhà đầu tư ngoài nắm 238 triệu cổ phiếu = 6.300 tỷ đồng, thấp hơn 13.900 tỷ so với đỉnh; giá trị thị trường mất 30.000 tỷ đồng tính từ đỉnh."
+      "note": "Ngày đăng ký 12/10/2026; HDBank chia cổ tức 25% + cổ phiếu thưởng 5% (tổng 30%). Vốn điều lệ tăng từ 50.053 tỷ lên 65.069 tỷ đồng, hỗ trợ cho vay trung, dài hạn."
     }
   ]
 }
