@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam có tín hiệu tích cực từ dòng vốn FDI mạnh (17 tỷ USD vào TPHCM, tăng 4 lần) và Fed báo hiệu hạ nhiệt lạm phát, nhưng áp lực bán ròng của khối ngoại (4,7 tỷ đồng) và mức lãi suất cao trong nước (6,8-7,6%/năm) tiếp tục tạo rủi ro. Kinh tế địa phương tăng trưởng mạnh (Quảng Ninh 12,54%, top 1 cả nước), nhưng thanh khoản yếu và điều chỉnh tập trung ở Bất động sản, Ngân hàng cho thấy nhà đầu tư còn cẩn trọng.",
+  "summary_vi": "Thị trường chứng khoán bước vào tháng 10 với áp lực thanh khoản ngắn hạn rõ ràng: lãi suất liên ngân hàng qua đêm tăng vọt từ 0,2% lên 7%/năm, NHNN phải bơm 10.000 tỷ đồng hỗ trợ. Khối ngoại bán ròng tích lũy 849,7 tỷ tháng 9, thanh khoản giảm 6,41%. Tuy nhiên, lạm phát Mỹ hạ nhiệt (PCE 3% lõi YoY) giảm khả năng Fed tăng lãi tháng 10 xuống 38%, vốn FDI vào TPHCM đạt 17 tỷ USD (tăng 4 lần), và Quảng Ninh tăng trưởng 12,54%, phản ánh sức khỏe kinh tế nội địa.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng mạnh, áp lực lên Bất động sản và Ngân hàng",
+      "title": "Lãi suất ON tăng 7%, NHNN bơm 10.000 tỷ đồng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 4.719,7 tỷ đồng qua khớp lệnh trong tháng 9, tạo áp lực lớn nhất lên nhóm Bất động sản (-24,8 điểm VN-Index) với 12 cổ phiếu giảm và Ngân hàng (-17,7 điểm). Thanh khoản bình quân HOSE chỉ 13.295 tỷ đồng/phiên, giảm 28,13% so với bình quân 5 tháng, cho thấy dòng tiền nội vẫn chưa quay trở lại."
+      "note": "Lãi suất qua đêm (ON) tăng từ 0,2% lên 7%/năm (tăng 35 lần) chỉ sau một phiên 30/9; lãi suất 1 tuần tăng lên 7%/năm. NHNN bơm ròng hơn 10.000 tỷ đồng qua thị trường mở. Áp lực thanh khoản ngắn hạn tại cuối quý III tạo rủi ro cho chi phí vay mượn."
     },
     {
-      "title": "Vốn FDI vào TPHCM tăng vượt mục tiêu, quy mô 17 tỷ USD trong 9 tháng",
-      "impact": "↑",
-      "note": "Vốn FDI đăng ký vào TPHCM đạt hơn 17 tỷ USD trong 9 tháng năm 2026, tăng hơn 4 lần so với cùng kỳ năm 2025 và vượt 57% so với mục tiêu 11 tỷ USD năm nay. Dòng vốn hướng vào các lĩnh vực nền tảng: cảng trung chuyển (4,9 tỷ USD), hạ tầng số AI Factory (2,1 tỷ USD), đô thị Đại học Quốc tế (1,4 tỷ USD)."
+      "title": "Khối ngoại bán ròng 849,7 tỷ tháng 9, thanh khoản giảm 6,41%",
+      "impact": "↓",
+      "note": "Nhà đầu tư nước ngoài bán ròng tổng hợp 849,7 tỷ đồng trong tháng 9; riêng khớp lệnh bán ròng 4.719,7 tỷ đồng. Thanh khoản HOSE bình quân 13.295 tỷ đồng/phiên, giảm 6,41% so với tháng 8 và 28,13% so với bình quân 5 tháng."
     },
     {
-      "title": "Fed giảm áp lực tăng lãi suất, PCE hạ nhiệt trong tháng 8",
+      "title": "PCE lõi 3% YoY, Fed khó tăng lãi tháng 10",
       "impact": "↑",
-      "note": "Chỉ số PCE toàn phần tháng 8 tăng 0,3% theo tháng (bằng dự báo) nhưng 3,4% theo năm (cao hơn dự báo 0,3 điểm); PCE lõi tăng 0,2% theo tháng và 3% theo năm, thấp hơn dự báo 0,1 và 0,3 điểm. Khả năng Fed tăng lãi suất tháng 10 giảm xuống 38% từ 50% trước báo cáo."
+      "note": "PCE lõi tháng 8 tăng 0,2% tháng trước (thấp hơn 0,1 điểm phần trăm dự báo) và 3% YoY (thấp hơn 0,3 điểm phần trăm). Xác suất Fed tăng lãi tháng 10 giảm xuống 38% từ 50%, xác suất tháng 12 còn 87%."
     },
     {
-      "title": "Quảng Ninh dẫn đầu cả nước về tăng trưởng kinh tế",
+      "title": "Vốn FDI vào TPHCM 17 tỷ USD, tăng 4 lần so với 2025",
       "impact": "↑",
-      "note": "GRDP của Quảng Ninh trong 9 tháng năm 2026 đạt 12,54%, xếp thứ 1 toàn quốc; riêng quý 3 tăng 15,04% cũng dẫn đầu. Vốn đầu tư công nghiệp chế biến chế tạo đạt gần 100.000 tỷ đồng, tăng 17,4% so với cùng kỳ năm 2025, với toàn bộ 12 dự án trọng điểm đã đi vào hoạt động."
+      "note": "Vốn FDI đăng ký vào TPHCM đạt hơn 17 tỷ USD trong 9 tháng năm 2026, tăng hơn 4 lần so với cùng kỳ năm 2025 và vượt 57% so với mục tiêu 11 tỷ USD. Dòng vốn hướng vào các dự án nền tảng: Cảng Cần Giờ (4,9 tỷ USD), AI Factory (2,1 tỷ USD), Đại học Quốc tế (1,4 tỷ USD)."
     },
     {
-      "title": "HDBank chia cổ tức 30%, tăng vốn điều lệ lên 65.069 tỷ đồng",
+      "title": "Quảng Ninh tăng trưởng 12,54%, dẫn đầu cả nước",
       "impact": "↑",
-      "note": "HDBank thông báo ngày 12/10/2026 là ngày đăng ký cuối cho nhận cổ tức năm 2025 và cổ phiếu thưởng tỷ lệ 30% (25% từ lợi nhuận chưa phân phối, 5% từ Quỹ dự trữ). Vốn điều lệ tăng từ 50.053 tỷ đồng lên 65.069 tỷ đồng để bổ sung vốn cho vay trung, dài hạn."
+      "note": "GRDP của Quảng Ninh trong 9 tháng năm 2026 đạt 12,54%, xếp thứ 1 toàn quốc; quý 3 tăng 15,04% cũng dẫn đầu. Vốn công nghiệp chế biến chế tạo đạt gần 100.000 tỷ đồng (tăng 17,4% YoY), toàn bộ 12 dự án trọng điểm đã hoạt động."
     },
     {
-      "title": "Luật Phát triển đô thị TPHCM có hiệu lực, mở thêm quyền tự chủ",
-      "impact": "↑",
-      "note": "Ngày 1/10/2026, Luật Phát triển đô thị chính thức có hiệu lực, mở thêm không gian và thẩm quyền cho TPHCM chủ động quy hoạch, phát triển đô thị. HĐND TPHCM thông qua 38 nghị quyết cụ thể hóa luật này, với yêu cầu cao hơn về khả năng thực thi để kết quả đi vào cuộc sống người dân doanh nghiệp."
+      "title": "Lãi suất huy động 6,8-7,6%/năm, cao hơn đầu năm 2-2,5%",
+      "impact": "↓",
+      "note": "Nhiều NHTM tăng lãi suất huy động kỳ hạn 12 tháng từ 6,8% - 7,6%/năm, cao hơn 2-2,5% so với đầu năm 2026. Áp lực chi phí vốn cao tạo sức ép lên lợi nhuận ngân hàng trong ngắn hạn."
     }
   ]
 }
