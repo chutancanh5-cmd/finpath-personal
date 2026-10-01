@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán VN đối diện áp lực thanh khoản: lãi suất ON tăng vọt từ 0,2% lên 7%/năm, NHNN bơm 10.000 tỷ đồng, khối ngoại bán ròng 4.719,7 tỷ đồng khớp lệnh. Tuy nhiên, lạm phát Mỹ hạ nhiệt (PCE lõi 3% YoY) giảm khả năng Fed tăng lãi tháng 10 xuống 38%, tạo hỗ trợ toàn cầu. FDI vào TPHCM đạt 17 tỷ USD (tăng 4 lần), Luật phát triển đô thị có hiệu lực 1/10 mở thêm dư địa cho phát triển BĐS và hạ tầng TP.",
+  "summary_vi": "Thị trường chứng khoán VN đối diện áp lực thanh khoản ngắn hạn: lãi suất ON tăng vọt từ 0,2% lên 7%/năm (tăng 35 lần), NHNN bơm 10.000 tỷ đồng, khối ngoại bán ròng 4.719,7 tỷ đồng khớp lệnh trong tháng 9. Tuy nhiên, các yếu tố cơ bản dài hạn vẫn hỗ trợ: lạm phát Mỹ hạ nhiệt (PCE lõi 3% YoY) làm giảm rủi ro Fed tăng lãi tháng 10 xuống 38%, FDI vào TPHCM đạt 17 tỷ USD (tăng gấp 4 lần), Luật phát triển đô thị có hiệu lực 1/10, và Quảng Ninh dẫn đầu với tăng trưởng 12,54% trong 9 tháng.",
   "top": [
     {
-      "title": "Lãi suất ON tăng 7%, NHNN bơm 10.000 tỷ đồng",
+      "title": "Lãi suất ON tăng vọt từ 0,2% lên 7%/năm, NHNN bơm 10.000 tỷ đồng",
       "impact": "↓",
-      "note": "Lãi suất qua đêm (ON) tăng vọt từ 0,2% lên 7%/năm chỉ sau một phiên 30/9 (tăng 35 lần); lãi suất 1 tuần cũng tăng lên 7%/năm, kỳ hạn 2 tuần 6,4%/năm. NHNN bơm ròng hơn 10.000 tỷ đồng qua thị trường mở để hỗ trợ thanh khoản."
+      "note": "Lãi suất qua đêm tăng gấp 35 lần chỉ sau một phiên 30/9, từ 0,2% lên 7%/năm; lãi suất 1 tuần cũng tăng lên 7%/năm, kỳ hạn 2 tuần 6,4%/năm, kỳ hạn 1 tháng 6,3%/năm. NHNN phải can thiệp bơm ròng hơn 10.000 tỷ đồng qua thị trường mở để hỗ trợ thanh khoản ngắn hạn."
     },
     {
-      "title": "Khối ngoại bán ròng 4.719,7 tỷ tháng 9",
+      "title": "Khối ngoại bán ròng 4.719,7 tỷ đồng tháng 9",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng tổng hợp 849,7 tỷ đồng tháng 9; riêng khớp lệnh bán ròng 4.719,7 tỷ đồng. Áp lực lớn tại nhóm Bất động sản (VIC -10,3 điểm, VHM -6,1 điểm) và Ngân hàng (-17,7 điểm); thanh khoản HOSE giảm 6,41% so với tháng 8."
+      "note": "Nhà đầu tư nước ngoài bán ròng tổng hợp 849,7 tỷ đồng tháng 9, riêng giao dịch khớp lệnh bán ròng 4.719,7 tỷ đồng. Áp lực bán tập trung nhóm Bất động sản (VIC -10,3 điểm, VHM -6,1 điểm) và Ngân hàng (-17,7 điểm); thanh khoản HOSE giảm 6,41% vs tháng 8, thấp hơn 28,13% so với bình quân 5 tháng."
     },
     {
-      "title": "Quỹ vàng lớn nhất thế giới bán ròng, giá giảm",
+      "title": "Vốn FDI vào TPHCM đạt 17 tỷ USD, tăng gấp 4 lần",
+      "impact": "↑",
+      "note": "Vốn FDI đăng ký vào TPHCM 9 tháng 2026 đạt hơn 17 tỷ USD, tăng gấp 4 lần so với 9 tháng 2025 và vượt 57% mục tiêu 11 tỷ USD của năm. Các dự án chiến lược: Cảng trung chuyển Cần Giờ 4,9 tỷ USD, Trung tâm dữ liệu AI Factory 2,1 tỷ USD, Khu đô thị Đại học Quốc tế 1,4 tỷ USD."
+    },
+    {
+      "title": "Luật phát triển đô thị có hiệu lực 1/10, TPHCM được trao thêm quyền tự chủ",
+      "impact": "↑",
+      "note": "Luật Phát triển đô thị chính thức có hiệu lực từ 1/10/2026, mở thêm dư địa và thẩm quyền cho TPHCM chủ động quyết định quy hoạch, phát triển và tổ chức đô thị. HĐND thành phố thông qua 38 nghị quyết cụ thể hóa luật, tạo tiền đề cho phát triển bất động sản, hạ tầng và dịch vụ chất lượng cao."
+    },
+    {
+      "title": "Quảng Ninh dẫn đầu với tăng trưởng 12,54% trong 9 tháng",
+      "impact": "↑",
+      "note": "9 tháng 2026, GRDP Quảng Ninh tăng 12,54% (xếp #1 toàn quốc), quý 3 tăng 15,04% (#1). Tất cả 12 dự án ưu tiên công nghiệp chế biến-chế tạo đã hoạt động, tổng vốn đầu tư ~100.000 tỷ đồng (tăng 17,4% vs 9 tháng 2025). Động lực chính từ công nghiệp, xây dựng và dịch vụ."
+    },
+    {
+      "title": "SPDR Gold Trust bán ròng 1,7 tấn, giá vàng giảm 4,3 triệu đ/lượng",
       "impact": "↓",
-      "note": "SPDR Gold Trust bán ròng 1,7 tấn vàng phiên 30/9, BlackRock's iShares bán 1,4 tạ vàng; giá vàng thế giới giảm 0,6% xuống 4.157 USD/ounce. Vàng miếng SJC trong nước giảm 4,3 triệu đồng/lượng trong tháng 9."
-    },
-    {
-      "title": "PCE lõi 3% YoY, Fed khó tăng lãi tháng 10",
-      "impact": "↑",
-      "note": "Lạm phát PCE toàn phần tháng 8 tăng 3,4% YoY (thấp dự báo 0,3 điểm); PCE lõi tăng 3% YoY (thấp dự báo 0,3 điểm). Xác suất Fed tăng lãi tháng 10 giảm xuống 38% từ 50%; GDP Mỹ quý II điều chỉnh tăng 2,2% YoY."
-    },
-    {
-      "title": "Vốn FDI vào TPHCM 17 tỷ USD, tăng 4 lần",
-      "impact": "↑",
-      "note": "Vốn FDI đăng ký vào TPHCM 9 tháng 2026 đạt hơn 17 tỷ USD, tăng 4 lần so với cùng kỳ 2025 và vượt 57% mục tiêu 11 tỷ USD. Dòng vốn hướng vào Cảng Cần Giờ (4,9 tỷ USD), AI Factory (2,1 tỷ USD), Đại học Quốc tế (1,4 tỷ USD)."
-    },
-    {
-      "title": "Luật phát triển đô thị có hiệu lực 1/10, TPHCM được trao quyền mở rộng",
-      "impact": "↑",
-      "note": "Luật Phát triển đô thị chính thức có hiệu lực từ 1/10/2026, mở thêm dư địa và thẩm quyền cho TPHCM chủ động trong quy hoạch, phát triển và tổ chức đô thị. HĐND thành phố thông qua 38 nghị quyết cụ thể hóa luật, tạo tiền đề cho phát triển bất động sản, hạ tầng, dịch vụ chất lượng cao."
+      "note": "SPDR Gold Trust (quỹ vàng lớn nhất thế giới) bán ròng 1,7 tấn vàng phiên 30/9; iShares Physical Gold ETF của BlackRock bán 1,4 tạ. Giá vàng thế giới giảm 0,6% xuống 4.157 USD/ounce; vàng miếng SJC trong nước giảm 4,3 triệu đồng/lượng trong tháng 9."
     }
   ]
 }
