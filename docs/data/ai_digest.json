@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế vĩ mô có tín hiệu tích cực với FDI tăng mạnh (17 tỷ USD vào TPHCM, tăng 4 lần YoY), Quảng Ninh tăng trưởng 15,04% quý III, và lạm phát Mỹ hạ nhiệt (PCE 3,4%, dưới dự báo 3,7%) giảm kỳ vọng Fed tăng lãi suất. Tuy nhiên, thị trường chứng khoán chịu áp lực từ dòng tiền ngoài bán ròng liên tục (888 tỷ phiên 6 liên tiếp), VN-Index giảm 9 điểm, lãi suất huy động tăng 2-2,5% lên 6,8-7,6%/năm, và cổ phiếu PNJ suy yếu giảm 69% từ đỉnh mất 30.000 tỷ vốn hóa.",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực bán gia tăng với VN-Index giảm 9 điểm xuống 1.768,62, khối ngoại bán ròng phiên thứ 6 liên tiếp. Tuy nhiên, kinh tế vĩ mô có tín hiệu tích cực: FDI vào TPHCM tăng gấp 4 lần đạt 17 tỷ USD vượt mục tiêu 57%, Quảng Ninh tăng trưởng GRDP 15,04% trong Q3 dẫn đầu cả nước. Lạm phát Mỹ hạ nhiệt nhưng giá dầu tăng do rủi ro địa chính trị, lãi suất trong nước tiếp tục cao ở 6,8-7,6%/năm.",
   "top": [
     {
-      "title": "FDI tăng mạnh vào TPHCM, chiến lược dài hạn",
-      "impact": "↑",
-      "note": "FDI vào TPHCM đạt 17 tỷ USD trong 9 tháng 2026, tăng hơn 4 lần so với cùng kỳ 2025 và vượt 57% mục tiêu 11 tỷ USD. Dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, KDT Đại học Quốc tế 1,4 tỷ USD. Dòng vốn chuyển sang cơ sở hạ tầng, logistics, hạ tầng số, không chỉ dựa lao động giá rẻ."
+      "title": "VN-Index giảm 9 điểm, áp lực bán chiếm ưu thế",
+      "impact": "↓",
+      "note": "VN-Index giảm 9,11 điểm xuống 1.768,62 phiên 30/9, đóng cửa dưới SMA50. Thanh khoản eo hẹp, độ rộng phân hóa tiêu cực (12/18 ngành giảm), dầu khí, hàng tiêu dùng, bất động sản suy yếu."
     },
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP cả nước",
+      "title": "FDI vào TPHCM tăng 17 tỷ USD, vượt mục tiêu 57%",
       "impact": "↑",
-      "note": "Quảng Ninh tăng GRDP 15,04% quý III (vượt mục tiêu), 12,54% cho 9 tháng, dẫn đầu cả nước. 12/12 dự án công nghiệp trọng điểm hoạt động, tổng vốn gần 100.000 tỷ đồng, tăng 17,4% YoY. Kể từ khi trở thành thành phố trực thuộc Trung ương (1/9/2026)."
+      "note": "Vốn FDI đăng ký TPHCM 9 tháng 2026 đạt 17 tỷ USD, tăng gấp 4 lần YoY, vượt mục tiêu 11 tỷ USD 57%. Dự án: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, Đại học Quốc tế 1,4 tỷ USD."
     },
     {
-      "title": "Lạm phát Mỹ hạ nhiệt, Fed ít tăng lãi suất tháng 10",
+      "title": "Quảng Ninh dẫn đầu tăng GRDP 15,04% quý III",
+      "impact": "↑",
+      "note": "Quảng Ninh GRDP quý III tăng 15,04%, 9 tháng tăng 12,54%, dẫn đầu cả nước năm thứ 2 liên tiếp. 12 dự án công nghiệp vốn gần 100.000 tỷ đồng tăng 17,4% YoY, trở thành thành phố từ 1/9."
+    },
+    {
+      "title": "PCE Mỹ hạ nhiệt, Fed ít khả năng tăng lãi tháng 10",
       "impact": "→",
-      "note": "Chỉ số PCE toàn phần tháng 8 tăng 3,4% YoY, dưới dự báo 3,7%. PCE lõi tăng 3% (dưới dự báo 3,3%). Dữ liệu hạ nhiệt giảm kỳ vọng Fed tăng lãi suất trong cuộc họp tháng 10, nhưng lợi suất trái phiếu dài hạn Mỹ vẫn tăng do thận trọng thị trường."
+      "note": "PCE tháng 8 tăng 3,4% (dự báo 3,7%), PCE lõi tăng 3% (dự báo 3,3%). Xác suất Fed tăng lãi suất tháng 10 giảm 38% từ 50%, tháng 12 còn 87% từ 90%."
     },
     {
-      "title": "Khối ngoại bán ròng 888 tỷ, phiên 6 liên tiếp",
-      "impact": "↓",
-      "note": "Phiên 30/9, khối ngoại bán ròng 888 tỷ đồng, phiên thứ 6 bán liên tiếp, tập trung VHM, TCB, VIC, PNJ, VPB, NVL. VN-Index giảm 9,11 điểm xuống 1.768,62. Độ rộng phân hóa vẫn chưa cải thiện (178 mã giảm, 129 mã tăng), thanh khoản eo hẹp."
-    },
-    {
-      "title": "HDBank chia cổ tức 30%, vốn chỉ đạo tăng lên 65.069 tỷ",
+      "title": "HDBank chia cổ tức 30%, vốn chỉ đạo lên 65.069 tỷ",
       "impact": "↑",
-      "note": "HDBank chia cổ tức năm 2025 tỷ lệ 25% + phát hành cổ phiếu thưởng 5% (tổng 30%), vốn chỉ đạo tăng từ 50.053 tỷ lên 65.069 tỷ đồng. Kế hoạch chào bán riêng 700 triệu cổ phiếu 2026-2027, bổ sung vốn cho vay trung dài hạn."
+      "note": "HDBank chia cổ tức 25% + cổ phiếu thưởng 5%, vốn chỉ đạo tăng từ 50.053 tỷ lên 65.069 tỷ đồng. Kế hoạch chào bán riêng 700 triệu cổ phiếu 2026-2027."
     },
     {
-      "title": "PNJ giảm 69% từ đỉnh, mất 30.000 tỷ vốn hóa",
+      "title": "PNJ giảm sàn 3 phiên liên tiếp, mất 13.900 tỷ",
       "impact": "↓",
-      "note": "PNJ giảm sàn phiên thứ 3 liên tiếp xuống 26.600 đồng/cổ phiếu, giảm 20% chỉ trong 3 phiên đầu tuần. So với đỉnh cuối tháng 1, thấp hơn 69%, vốn hóa từ 43.600 tỷ xuống 13.600 tỷ đồng. Khối ngoại nắm 238 triệu cổ phiếu (6.300 tỷ đồng), thấp hơn 13.900 tỷ so với đỉnh."
+      "note": "PNJ xuống 26.600 đồng, giảm 69% so đỉnh tháng 1, từ 43.600 tỷ xuống 13.600 tỷ vốn hóa. Nhà đầu tư ngoại nắm 238 triệu cổ phiếu (6.300 tỷ đồng), thấp hơn 13.900 tỷ so đỉnh."
     }
   ]
 }
