@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-01",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán VN hôm nay tiếp tục áp lực với VN-Index chuẩn bị phiên giảm thứ 4 liên tiếp và khối ngoại bán ròng 4.700+ tỷ đ trong tháng 9. Tuy nhiên, chính sách nới lỏng LDR (từ 85% lên 95%), FDI TPHCM tăng 4 lần đạt 17 tỷ USD, và Quảng Ninh tăng trưởng 12,54% dẫn đầu cả nước là những tín hiệu tích cực. Rủi ro ngắn hạn từ thanh khoản cực thấp và áp lực bất động sản, nhưng nền kinh tế vẫn duy trì động lực.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán đang chịu áp lực điều chỉnh mạnh với VN-Index giảm 4 phiên liên tiếp (xuống 1.758,17 điểm), thanh khoản cực thấp và khối ngoại bán ròng mạnh 4.719,7 tỷ đồng qua khớp lệnh. Ngành bất động sản chứng kiến sức ép lớn nhất từ VIC (-2,24%), VHM (-0,73%), cùng các cổ phiếu nhỏ như PNJ giảm sàn 4 phiên liên tiếp với dự kiến lỗ 6.271 tỷ đồng. Tuy nhiên, chính sách nới lỏng LDR lên 95%, Luật Phát triển đô thị TPHCM có hiệu lực, và FDI TPHCM tăng mạnh 17 tỷ USD tạo lực cân bằng. Nhà đầu tư cần thận trọng ngắn hạn trước khi có tín hiệu phục hồi rõ ràng.",
   "top": [
     {
-      "title": "NHNN nới lỏng LDR, tăng trần từ 85% lên 95%",
-      "impact": "↑",
-      "note": "Thông tư 50/2026/TT-NHNN có hiệu lực từ 1/12/2026 nâng tỷ lệ LDR tối đa từ 85% lên 95%, đồng thời đưa vào chỉ tiêu LCR và NSFR. Nới lỏng điều kiện tài chính cho phép ngân hàng tăng dư nợ cho vay, hỗ trợ cấp tín dụng."
-    },
-    {
-      "title": "Khối ngoại bán ròng 4.700+ tỷ đ tháng 9",
+      "title": "VN-Index giảm 4 phiên liên tiếp, nằm dưới SMA 50",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 4.719,7 tỷ đ qua khớp lệnh trong tháng 9. Giao dịch khớp lệnh HoSE bình quân 13.295 tỷ đ/phiên, giảm 28,13% so với trung bình 5 tháng, áp lực bán tập trung Bất động sản, Ngân hàng, Dịch vụ tài chính."
+      "note": "VN-Index giảm 10,45 điểm xuống 1.758,17 điểm, chuẩn bị phiên giảm thứ 4 liên tiếp, nằm dưới SMA 50 ngày và bám Lower Band Bollinger. MACD suy yếu nằm dưới 0, cho thấy triển vọng tiêu cực ngắn hạn."
     },
     {
-      "title": "FDI TPHCM 9 tháng đạt 17 tỷ USD, tăng 4 lần",
-      "impact": "↑",
-      "note": "Vốn FDI vào TPHCM trong 9 tháng 2026 đạt hơn 17 tỷ USD, tăng 4 lần so cùng kỳ 2025, vượt 57% mục tiêu 11 tỷ USD năm nay. Dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, Trung tâm dữ liệu AI 2,1 tỷ USD, Khu đô thị ĐH Quốc tế 1,4 tỷ USD."
-    },
-    {
-      "title": "VN-Index chuỗi giảm thứ 4, nằm dưới SMA 50",
+      "title": "Khối ngoại bán ròng 4.719,7 tỷ đ tháng 9",
       "impact": "↓",
-      "note": "VN-Index giảm 10,45 điểm còn 1.758,17 điểm, chuẩn bị phiên giảm thứ 4 liên tiếp, nằm dưới SMA 50 ngày, bám Lower Band Bollinger. MACD suy yếu nằm dưới 0, triển vọng tiêu cực ngắn hạn."
+      "note": "Nhà đầu tư nước ngoài bán ròng 4.719,7 tỷ đồng qua khớp lệnh trong tháng 9. Áp lực bán tập trung vào Bất động sản (lấy đi -24,8 điểm), trong đó VIC (-10,3 điểm) và VHM (-6,1 điểm) chịu áp lực lớn nhất."
     },
     {
-      "title": "Quảng Ninh tăng trưởng 12,54%, dẫn đầu cả nước",
-      "impact": "↑",
-      "note": "GRDP Quảng Ninh 9 tháng 2026 tăng 12,54%, xếp thứ 1 cả nước; quý 3 tăng 15,04%. Toàn bộ 12/12 dự án trọng điểm đã hoạt động, tổng vốn gần 100.000 tỷ đ, tăng 17,4% so cùng kỳ 2025."
-    },
-    {
-      "title": "PNJ giảm sàn 4 phiên, lỗ 6.271 tỷ đ năm 2026",
+      "title": "PNJ giảm sàn 4 phiên, lỗ 6.271 tỷ đ",
       "impact": "↓",
-      "note": "PNJ giảm sàn phiên thứ 4, xuống 24.750 đ/cp (vốn hóa 12.700 tỷ đ), công bố lỗ 6.271 tỷ đ năm 2026 sau dự phòng 7.071 tỷ, dự phát hành 550 triệu cp mới từ quý IV/2026 đến quý II/2027."
+      "note": "PNJ liên tiếp giảm sàn xuống 24.750 đồng/cp (phiên thứ 4), vốn hóa còn 12.700 tỷ đồng. Công ty dự kiến lỗ 6.271 tỷ đồng năm 2026 sau dự phòng 7.071 tỷ đồng, dự phát hành tối đa 550 triệu cổ phiếu."
+    },
+    {
+      "title": "NHNN nới lỏng LDR, tăng từ 85% lên 95%",
+      "impact": "↑",
+      "note": "Thông tư 50/2026/TT-NHNN quy định LDR tối đa 95% (tăng từ 85% hiện tại), có hiệu lực từ 1/12/2026. Nới lỏng điều kiện cho phép ngân hàng tăng dư nợ cho vay, hỗ trợ cấp tín dụng nền kinh tế."
+    },
+    {
+      "title": "FDI TPHCM đạt 17 tỷ USD, tăng 4 lần",
+      "impact": "↑",
+      "note": "Vốn FDI đăng ký vào TPHCM trong 9 tháng 2026 hơn 17 tỷ USD, tăng hơn 4 lần so 2025, vượt 57% mục tiêu 11 tỷ USD. Dự án: Cảng Cần Giờ 4,9 tỷ USD, Trung tâm dữ liệu AI 2,1 tỷ USD, ĐH Quốc tế 1,4 tỷ USD."
+    },
+    {
+      "title": "Luật Phát triển đô thị TPHCM chính thức có hiệu lực",
+      "impact": "↑",
+      "note": "Ngày 1/10, Luật Phát triển đô thị chính thức có hiệu lực, mở rộng quyền hạn cho TPHCM. HĐND thông qua 38 nghị quyết cụ thể hóa luật, trao quyền quản lý quy hoạch và tổ chức đô thị."
     }
   ]
 }
