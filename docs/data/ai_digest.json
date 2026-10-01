@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán từ khối ngoại (bán ròng 4.700 tỷ đồng) với thanh khoản suy giảm 6,41%, các cổ phiếu lớn Bất động sản (VIC −10,3 điểm, VHM −6,1 điểm) và Ngân hàng bị rút vốn. Lãi suất cho vay tăng 10,7%/năm do tín dụng tăng nhanh làm sức ép lên huy động, dư địa giảm lãi suất hạn chế. Tuy nhiên, vốn FDI TPHCM đạt 17 tỷ USD trong 9 tháng (tăng 4 lần) với dự án chiến lược, Quảng Ninh tăng trưởng 12,54% dẫn đầu cả nước, và Luật Phát triển đô thị có hiệu lực 1/10 mở rộng quyền hạn cho TPHCM hỗ trợ dài hạn.",
+  "summary_vi": "Thị trường chịu áp lực bán từ khối ngoại (4.700 tỷ đồng) với thanh khoản suy giảm, lãi suất cho vay tăng 10,7%/năm khó giảm do tín dụng tăng nhanh hơn huy động. Tuy nhiên, FDI TPHCM đạt 17 tỷ USD (tăng 4 lần) với các dự án chiến lược, Quảng Ninh tăng trưởng 12,54% dẫn đầu cả nước, Luật Phát triển đô thị mở quyền cho TPHCM, và Fed khả năng giảm tăng lãi tháng 10 hỗ trợ toàn cầu.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 4.700 tỷ tháng 9, thanh khoản suy giảm",
+      "title": "Khối ngoại bán ròng 4.700 tỷ, BĐS-Ngân hàng bị áp lực",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 4.719,7 tỷ đồng qua khớp lệnh, tổng hợp bán ròng 849,7 tỷ. Thanh khoản HOSE giảm 6,41% so với tháng trước, bình quân chỉ 13.295 tỷ/phiên. Nhóm Bất động sản bị áp lực lớn nhất (−24,8 điểm), VIC −10,3 điểm, VHM −6,1 điểm; Ngân hàng mất −17,7 điểm."
+      "note": "Nhà đầu tư nước ngoài bán ròng 4.719,7 tỷ đồng qua khớp lệnh trong tháng 9, tổng hợp bán ròng 849,7 tỷ. Thanh khoản HOSE giảm 6,41% so với tháng trước, bình quân 13.295 tỷ/phiên. Bất động sản bị áp lực lớn nhất (−24,8 điểm VN-Index), VIC −10,3 điểm, VHM −6,1 điểm; Ngân hàng lấy đi −17,7 điểm."
     },
     {
-      "title": "PNJ giảm sàn 4 phiên liên tiếp, lợi nhuận dự kiến âm 6.271 tỷ",
+      "title": "Lãi suất cho vay 10,7%/năm, dư địa giảm hạn chế",
       "impact": "↓",
-      "note": "PNJ nằm sàn 4 phiên liên tiếp xuống mức 24.750 đ/cp (thấp nhất 6 năm), vốn hóa còn 12.700 tỷ. Lợi nhuận sau thuế dự kiến điều chỉnh âm khoảng 6.271 tỷ khi tính dự phòng 7.071 tỷ đồng. Phát hành 550 triệu cp từ quý 4/2026 đến quý 2/2027, lượng này lớn hơn số cp đang lưu hành."
+      "note": "Lãi suất cho vay bình quân tăng 10,7%/năm, cao hơn 2 điểm phần trăm so với cuối 2025. Tín dụng tăng nhanh buộc ngân hàng đẩy mạnh huy động, lãi suất tiền gửi 6-12 tháng chạm 8%/năm, kỳ hạn trên 24 tháng lên 8,1%/năm. Áp lực lạm phát, tỷ giá, nợ xấu vẫn hiện hữu, hạn chế dư địa giảm lãi suất trên diện rộng."
     },
     {
-      "title": "Lãi suất cho vay bình quân 10,7%/năm, dư địa giảm hạn chế",
-      "impact": "↓",
-      "note": "Lãi suất cho vay tăng 10,7%/năm (cao hơn 2 điểm so với cuối năm ngoái). Tín dụng tăng nhanh buộc ngân hàng đẩy mạnh huy động, lãi suất tiền gửi 6-12 tháng chạm 8%/năm, trên 24 tháng lên 8,1%/năm. Áp lực lạm phát, tỷ giá, nợ xấu vẫn hiện hữu, hạn chế dư địa giảm lãi suất trên diện rộng."
-    },
-    {
-      "title": "Vốn FDI vào TPHCM đạt 17 tỷ USD trong 9 tháng, tăng 4 lần",
+      "title": "FDI TPHCM 17 tỷ USD trong 9 tháng, tăng 4 lần",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 9 tháng 2026 vào TPHCM đạt 17 tỷ USD, tăng gấp 4 lần cùng kỳ 2025 và vượt 57% mục tiêu 11 tỷ USD. Dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, Khu đô thị Đại học Quốc tế 1,4 tỷ USD. Dòng vốn quốc tế tập trung hạ tầng, logistics, số hóa, giáo dục chất lượng cao."
+      "note": "Vốn FDI đăng ký 9 tháng 2026 vào TPHCM đạt 17 tỷ USD, tăng 4 lần so với cùng kỳ 2025, vượt 57% mục tiêu 11 tỷ USD. Dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, Khu đô thị Đại học Quốc tế 1,4 tỷ USD. Dòng vốn chuyển sang yêu cầu hạ tầng, logistics, số hóa chứ không chỉ lao động giá rẻ."
     },
     {
-      "title": "SAB lợi nhuận tăng 21%, doanh thu tăng 6%, biên lợi nhuận gộp cải thiện",
+      "title": "Quảng Ninh tăng trưởng GRDP 12,54%, dẫn đầu cả nước",
       "impact": "↑",
-      "note": "6 tháng đầu 2026 SAB ghi nhận doanh thu thuần 13.345 tỷ đồng tăng 6%, lợi nhuận sau thuế 2.489 tỷ đồng tăng 21%. Biên lợi nhuận gộp cải thiện từ 34% lên 38% nhờ điều chỉnh giá bán và giá vốn malt, gạo thuận lợi. Tuy chi phí bán hàng tăng 20% gây sức ép lên lợi nhuận."
+      "note": "GRDP Quảng Ninh 9 tháng 2026 đạt 12,54%, xếp thứ 1 toàn quốc; riêng quý 3 tăng 15,04% cũng dẫn đầu. 12 dự án trọng điểm lĩnh vực công nghiệp chế biến, chế tạo đã hoạt động với tổng vốn gần 100.000 tỷ đồng, tăng 17,4% so với cùng kỳ 2025."
     },
     {
-      "title": "Quảng Ninh tăng trưởng GRDP 12,54% dẫn đầu cả nước",
+      "title": "Luật Phát triển đô thị có hiệu lực 1/10, mở quyền TPHCM",
       "impact": "↑",
-      "note": "GRDP Quảng Ninh 9 tháng 2026 đạt 12,54% (xếp 1 toàn quốc), riêng quý 3 tăng 15,04% cũng dẫn đầu. 12/12 dự án trọng điểm công nghiệp chế biến, chế tạo đã hoạt động với tổng vốn gần 100.000 tỷ đồng, tăng 17,4% so với cùng kỳ 2025."
+      "note": "Ngày 1/10/2026, Luật Phát triển đô thị chính thức có hiệu lực. HĐND TPHCM thông qua 38 nghị quyết cụ thể hóa luật, mở thêm dư địa cho thành phố chủ động quy hoạch, phát triển và tổ chức đô thị. Bí thư Thành ủy nhấn mạnh quyền hạn không tự tạo kết quả, cần chất lượng thực thi cao."
+    },
+    {
+      "title": "Fed giảm khả năng tăng lãi tháng 10, hỗ trợ toàn cầu",
+      "impact": "↑",
+      "note": "PCE tháng 8 tăng 3,4% YoY, cao hơn dự báo 0,3 điểm phần trăm; PCE lõi tăng 3%, thấp hơn dự báo 0,3 điểm. Xác suất Fed tăng lãi cuộc họp tháng 10 giảm từ 50% xuống 38%. Khả năng tăng lãi tháng 12 còn 87%."
     }
   ]
 }
