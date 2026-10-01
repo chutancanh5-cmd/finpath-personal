@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-01",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang trong giai đoạn điều chỉnh sâu với khối ngoại bán ròng 4.719,7 tỷ đồng trong tháng 9, VN-Index lao dốc 4 phiên liên tiếp nằm dưới SMA 50 ngày, các cổ phiếu trụ (VIC, VHM, LPB) gây áp lực lớn khiến thanh khoản cực thấp. Tuy vậy, dòng vốn FDI vẫn mạnh (17 tỷ USD vào TPHCM trong 9 tháng, vượt 57% kế hoạch) và các ngân hàng triển khai tăng vốn quy mô lớn (12,7 tỷ cổ phiếu), cho thấy niềm tin dài hạn nhưng ngắn hạn còn rủi ro đáng kể.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán VN hôm nay tiếp tục áp lực với VN-Index chuẩn bị phiên giảm thứ 4 liên tiếp và khối ngoại bán ròng 4.700+ tỷ đ trong tháng 9. Tuy nhiên, chính sách nới lỏng LDR (từ 85% lên 95%), FDI TPHCM tăng 4 lần đạt 17 tỷ USD, và Quảng Ninh tăng trưởng 12,54% dẫn đầu cả nước là những tín hiệu tích cực. Rủi ro ngắn hạn từ thanh khoản cực thấp và áp lực bất động sản, nhưng nền kinh tế vẫn duy trì động lực.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 4.719,7 tỷ đồng tháng 9",
-      "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 4.719,7 tỷ đồng qua khớp lệnh trong tháng 9. Giao dịch khớp lệnh HoSE bình quân 13.295 tỷ đồng/phiên, giảm 28,13% so với trung bình 5 tháng, kéo theo áp lực bán trong tháng 10."
-    },
-    {
-      "title": "Ngân hàng phát hành 12,7 tỷ cổ phiếu mới",
+      "title": "NHNN nới lỏng LDR, tăng trần từ 85% lên 95%",
       "impact": "↑",
-      "note": "Hàng loạt ngân hàng triển khai tăng vốn quy mô lớn: Techcombank, NCB, HDBank, VPBank dẫn đầu. HDBank phát hành 1,25 tỷ cổ phiếu trả cổ tức (tỷ lệ 25%), 250 triệu cổ phiếu từ quỹ dự trữ (5%), cộng 700 triệu phát hành riêng lẻ, tổng 1,5-2,2 tỷ cổ phiếu."
+      "note": "Thông tư 50/2026/TT-NHNN có hiệu lực từ 1/12/2026 nâng tỷ lệ LDR tối đa từ 85% lên 95%, đồng thời đưa vào chỉ tiêu LCR và NSFR. Nới lỏng điều kiện tài chính cho phép ngân hàng tăng dư nợ cho vay, hỗ trợ cấp tín dụng."
     },
     {
-      "title": "VN-Index nằm dưới SMA 50 ngày, MACD suy yếu",
+      "title": "Khối ngoại bán ròng 4.700+ tỷ đ tháng 9",
       "impact": "↓",
-      "note": "VN-Index chuẩn bị phiên giảm thứ 4 liên tiếp, nằm dưới SMA 50 ngày, bám Lower Band Bollinger Bands, MACD suy yếu nằm dưới 0. HNX-Index kiểm tra vùng đáy tháng 7 (266-270 điểm), cho thấy rủi ro điều chỉnh còn tiếp tục."
+      "note": "Nhà đầu tư nước ngoài bán ròng 4.719,7 tỷ đ qua khớp lệnh trong tháng 9. Giao dịch khớp lệnh HoSE bình quân 13.295 tỷ đ/phiên, giảm 28,13% so với trung bình 5 tháng, áp lực bán tập trung Bất động sản, Ngân hàng, Dịch vụ tài chính."
     },
     {
-      "title": "PNJ nằm sàn 4 phiên, KOS sàn 9 phiên liên tiếp",
-      "impact": "↓",
-      "note": "PNJ giảm sàn phiên thứ 4, xuống 24.750 đồng/cp (vốn hóa 12.700 tỷ đồng), công bố lỗ 6.271 tỷ đồng năm 2026 sau dự phòng 7.071 tỷ. KOS giảm sàn 9 phiên xuống 15.800 đồng/cp (7 năm thấp nhất), chỉ 1.200 cổ phiếu khớp, 27 triệu cổ phiếu chờ bán sàn."
-    },
-    {
-      "title": "FDI vào TPHCM 9 tháng 2026 đạt 17 tỷ USD",
+      "title": "FDI TPHCM 9 tháng đạt 17 tỷ USD, tăng 4 lần",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký vào TPHCM trong 9 tháng 2026 đạt 17 tỷ USD, tăng 4 lần so cùng kỳ 2025, vượt 57% mục tiêu 11 tỷ USD năm nay. Các dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, Trung tâm dữ liệu AI 2,1 tỷ USD, Đại học Quốc tế 1,4 tỷ USD."
+      "note": "Vốn FDI vào TPHCM trong 9 tháng 2026 đạt hơn 17 tỷ USD, tăng 4 lần so cùng kỳ 2025, vượt 57% mục tiêu 11 tỷ USD năm nay. Dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, Trung tâm dữ liệu AI 2,1 tỷ USD, Khu đô thị ĐH Quốc tế 1,4 tỷ USD."
     },
     {
-      "title": "Nhu cầu vốn 38,5 triệu tỷ đồng giai đoạn 2026-2030",
-      "impact": "→",
-      "note": "Bộ Tài chính tính toán để duy trì tăng trưởng hai con số giai đoạn 2026-2030, cần vốn đầu tư 38,5 triệu tỷ đồng, gấp đôi giai đoạn 2021-2025. Mục tiêu net-zero 2050 yêu cầu 6,8% GDP/năm tương đương 358 tỷ USD đến 2040."
+      "title": "VN-Index chuỗi giảm thứ 4, nằm dưới SMA 50",
+      "impact": "↓",
+      "note": "VN-Index giảm 10,45 điểm còn 1.758,17 điểm, chuẩn bị phiên giảm thứ 4 liên tiếp, nằm dưới SMA 50 ngày, bám Lower Band Bollinger. MACD suy yếu nằm dưới 0, triển vọng tiêu cực ngắn hạn."
+    },
+    {
+      "title": "Quảng Ninh tăng trưởng 12,54%, dẫn đầu cả nước",
+      "impact": "↑",
+      "note": "GRDP Quảng Ninh 9 tháng 2026 tăng 12,54%, xếp thứ 1 cả nước; quý 3 tăng 15,04%. Toàn bộ 12/12 dự án trọng điểm đã hoạt động, tổng vốn gần 100.000 tỷ đ, tăng 17,4% so cùng kỳ 2025."
+    },
+    {
+      "title": "PNJ giảm sàn 4 phiên, lỗ 6.271 tỷ đ năm 2026",
+      "impact": "↓",
+      "note": "PNJ giảm sàn phiên thứ 4, xuống 24.750 đ/cp (vốn hóa 12.700 tỷ đ), công bố lỗ 6.271 tỷ đ năm 2026 sau dự phòng 7.071 tỷ, dự phát hành 550 triệu cp mới từ quý IV/2026 đến quý II/2027."
     }
   ]
 }
