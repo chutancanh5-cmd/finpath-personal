@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-01",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam cho thấy tín hiệu tích cực với GRDP quý 3 của Hà Nội và TP.HCM cùng tăng trưởng hai con số, chứng tỏ nền tảng vĩ mô vẫn ổn định. Tuy vậy, thị trường chứng khoán chịu áp lực bán mạnh khi VN-Index thủng ngưỡng 1750 điểm, khối ngoại cũng chuyển sang bán ròng nếu loại trừ giao dịch thỏa thuận MSR. Đầu tư nước ngoài tăng với nhà máy Pandora trị giá 150 triệu USD sẽ tạo 7.000 việc làm, nhưng ngắn hạn nhà đầu tư nên cảnh báo rủi ro từ dòng tiền suy kiệt.",
+  "date": "2026-10-02",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chịu áp lực mạnh với VN-Index giảm liên tiếp, tuy nhiên GRDP TP.HCM và Hà Nội quý 3 đạt tăng trưởng hai con số (trên 10%), hỗ trợ từ chính sách thúc đẩy đầu tư công và nâng hạng FTSE Russell. Định giá P/E thấp hơn trung bình 5 năm tạo cơ hội, nhưng rủi ro ngắn hạn cao do khối ngoại tiếp tục bán ròng. Nhà đầu tư nên quản trị rủi ro và duy trì tỷ trọng tiền mặt cao.",
   "top": [
     {
-      "title": "GRDP Hà Nội quý 3 tăng 10.02% — lần đầu hai con số",
-      "impact": "↑",
-      "note": "GRDP quý 3 tăng 10.02% so với cùng kỳ năm trước, lần đầu tiên Hà Nội chạm ngưỡng tăng trưởng hai con số. Dịch vụ là động lực chính, tăng 10.33%, đóng góp 6.79 điểm. GRDP 9 tháng tăng 8.85%."
-    },
-    {
-      "title": "GRDP TP.HCM quý 3 tăng 10,08% (loại dầu khí)",
-      "impact": "↑",
-      "note": "GRDP quý 3 tăng 9,86%, loại trừ dầu khí tăng 10,08%. Khu vực dịch vụ tăng 9,95%, đóng góp 51,9% vào tăng trưởng. GRDP 9 tháng tăng 9,06%."
-    },
-    {
-      "title": "Pandora khai trương nhà máy trang sức 150 triệu USD tại TP.HCM",
-      "impact": "↑",
-      "note": "Nhà máy Pandora trị giá 150 triệu USD khai trương hôm nay tại TP.HCM với công suất 60 triệu sản phẩm trang sức/năm. Dự kiến sử dụng 7.000 lao động. Khi đạt công suất tối đa năm 2030, Việt Nam sẽ chiếm 1/3 tổng công suất toàn cầu của Pandora."
-    },
-    {
-      "title": "VN-Index lao dốc thủng ngưỡng 1750 điểm",
+      "title": "VN-Index thủng ngưỡng 1750 điểm",
       "impact": "↓",
-      "note": "VN-Index giảm 19.32 điểm, đóng cửa 1.749,30 điểm. Độ rộng thị trường nghiêng về tiêu cực: 367 mã giảm (23 mã sàn) so với 278 mã tăng. Rủi ro ngắn hạn vẫn cao, chưa có tín hiệu tạo đáy kỹ thuật."
+      "note": "VN-Index đóng cửa 1.749,30 điểm, giảm 19,32 điểm. Độ rộng 367 mã giảm (23 mã giảm sàn) vs 278 mã tăng (20 mã tăng trần). Áp lực bán áp đảo, chỉ báo kỹ thuật chưa tạo đáy, rủi ro ngắn hạn cao."
     },
     {
-      "title": "Khối ngoại mua ròng 3.150,5 tỷ đồng nhờ thỏa thuận MSR",
+      "title": "GRDP TP.HCM quý 3 tăng 10,08%",
+      "impact": "↑",
+      "note": "GRDP quý 3 tăng 9,86% so với cùng kỳ, không tính dầu khí tăng 10,08%. Khu vực dịch vụ tăng 9,95%, đóng góp 51,9% vào tăng trưởng. GRDP 9 tháng tăng 9,06%."
+    },
+    {
+      "title": "GRDP Hà Nội tăng hai con số quý 3",
+      "impact": "↑",
+      "note": "GRDP Hà Nội quý 3 tăng 10,02% so với cùng kỳ, lần đầu tiên trong năm chạm ngưỡng hai con số và cao nhất trong 3 quý. GRDP 9 tháng tăng 8,85%, khu vực dịch vụ tăng 10,33%."
+    },
+    {
+      "title": "Khối ngoại mua ròng 3.100 tỷ do MSR",
       "impact": "→",
-      "note": "Khối ngoại mua ròng 3.150,5 tỷ đồng trên cả 3 sàn, nhưng chủ yếu từ giao dịch thỏa thuận: MSR 3.239,8 tỷ đồng, SBT 160 tỷ đồng. Nếu loại trừ hai giao dịch này, khối ngoại thực tế bán ròng thứ 7 liên tiếp 230 tỷ đồng."
+      "note": "Khối ngoại mua ròng 3.150,5 tỷ đồng, chủ yếu từ giao dịch MSR (3.239,8 tỷ). Loại trừ MSR và SBT, khối ngoại bán ròng 230 tỷ, phiên bán thứ 7 liên tiếp."
     },
     {
-      "title": "Cổ phiếu PET giảm sàn 6,85% sau chuỗi tăng 46,65%",
-      "impact": "↓",
-      "note": "PET sau 7 phiên tăng liên tiếp (từ 38.800 lên 56.900 đồng), bất ngờ giảm sàn xuống 53.000 đồng. Thanh khoản khớp lệnh 540.500 đơn vị, 619.300 cổ phiếu chờ bán ở sàn. Nhịp bốc đầu, bán tháo mạnh."
+      "title": "Định giá rẻ tạo cơ hội, P/E thấp hơn TB 5 năm",
+      "impact": "↑",
+      "note": "Mặt bằng định giá P/E khoảng 12,17 lần, thấp hơn trung bình 5 năm. Agriseco ưu tiên các cổ phiếu tăng trưởng lợi nhuận quý III tích cực. Lãi suất và mùa công bố kết quả quý III sẽ chi phối thị trường tháng 10."
+    },
+    {
+      "title": "Dòng tiền nội chống đỡ áp lực bán ngoại",
+      "impact": "→",
+      "note": "Khối ngoại bán ròng gần 96.000 tỷ trong 9 tháng đầu năm. VN-Index chỉ giảm nhẹ, lại vượt 1.900 điểm lần đầu trong lịch sử. Khối ngoại bán ròng luỹ kế hơn 300.000 tỷ trong gần 3 năm, nhưng tỷ lệ sở hữu chỉ giảm từ 15% xuống 11%."
     }
   ]
 }
