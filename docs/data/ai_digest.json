@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán gia tăng với VN-Index giảm 9 điểm xuống 1.768,62, khối ngoại bán ròng phiên thứ 6 liên tiếp. Tuy nhiên, kinh tế vĩ mô có tín hiệu tích cực: FDI vào TPHCM tăng gấp 4 lần đạt 17 tỷ USD vượt mục tiêu 57%, Quảng Ninh tăng trưởng GRDP 15,04% trong Q3 dẫn đầu cả nước. Lạm phát Mỹ hạ nhiệt nhưng giá dầu tăng do rủi ro địa chính trị, lãi suất trong nước tiếp tục cao ở 6,8-7,6%/năm.",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực bán gia tăng với VN-Index giảm 9 điểm xuống 1.768,62, khối ngoại bán ròng liên tiếp. Tuy nhiên, kinh tế vĩ mô có tín hiệu tích cực: FDI vào TPHCM tăng gấp 4 lần đạt 17 tỷ USD vượt mục tiêu 57%, Quảng Ninh tăng trưởng GRDP 12,54% dẫn đầu cả nước. Lãi suất huy động cao 6,8-7,6%/năm tạo áp lực, song doanh nghiệp như HDBank tiếp tục tăng vốn thông qua chia cổ tức/thưởng 30%, cân bằng bởi rủi ro đơn stock PNJ giảm 69% từ đỉnh.",
   "top": [
     {
       "title": "VN-Index giảm 9 điểm, áp lực bán chiếm ưu thế",
       "impact": "↓",
-      "note": "VN-Index giảm 9,11 điểm xuống 1.768,62 phiên 30/9, đóng cửa dưới SMA50. Thanh khoản eo hẹp, độ rộng phân hóa tiêu cực (12/18 ngành giảm), dầu khí, hàng tiêu dùng, bất động sản suy yếu."
+      "note": "VN-Index giảm 9,11 điểm xuống 1.768,62 phiên 30/9. 12/18 ngành giảm, nhất là dầu khí, hàng tiêu dùng, bất động sản. Khối ngoại bán ròng trên cả ba sàn. Thanh khoản gia tăng nhưng chiều giảm cho thấy tâm lý thận trọng cao."
     },
     {
       "title": "FDI vào TPHCM tăng 17 tỷ USD, vượt mục tiêu 57%",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký TPHCM 9 tháng 2026 đạt 17 tỷ USD, tăng gấp 4 lần YoY, vượt mục tiêu 11 tỷ USD 57%. Dự án: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, Đại học Quốc tế 1,4 tỷ USD."
+      "note": "9 tháng 2026, vốn FDI đăng ký TPHCM đạt hơn 17 tỷ USD, tăng hơn 4 lần YoY, vượt mục tiêu 11 tỷ USD 57%. Dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, Đại học Quốc tế 1,4 tỷ USD."
     },
     {
-      "title": "Quảng Ninh dẫn đầu tăng GRDP 15,04% quý III",
+      "title": "Quảng Ninh dẫn đầu GRDP 12,54% trong 9 tháng, 15,04% quý III",
       "impact": "↑",
-      "note": "Quảng Ninh GRDP quý III tăng 15,04%, 9 tháng tăng 12,54%, dẫn đầu cả nước năm thứ 2 liên tiếp. 12 dự án công nghiệp vốn gần 100.000 tỷ đồng tăng 17,4% YoY, trở thành thành phố từ 1/9."
+      "note": "GRDP Quảng Ninh 9 tháng 2026 tăng 12,54%, quý III tăng 15,04%, dẫn đầu cả nước năm thứ 2 liên tiếp. 12 dự án công nghiệp với tổng vốn gần 100.000 tỷ đồng, tăng 17,4% YoY."
     },
     {
-      "title": "PCE Mỹ hạ nhiệt, Fed ít khả năng tăng lãi tháng 10",
-      "impact": "→",
-      "note": "PCE tháng 8 tăng 3,4% (dự báo 3,7%), PCE lõi tăng 3% (dự báo 3,3%). Xác suất Fed tăng lãi suất tháng 10 giảm 38% từ 50%, tháng 12 còn 87% từ 90%."
-    },
-    {
-      "title": "HDBank chia cổ tức 30%, vốn chỉ đạo lên 65.069 tỷ",
-      "impact": "↑",
-      "note": "HDBank chia cổ tức 25% + cổ phiếu thưởng 5%, vốn chỉ đạo tăng từ 50.053 tỷ lên 65.069 tỷ đồng. Kế hoạch chào bán riêng 700 triệu cổ phiếu 2026-2027."
-    },
-    {
-      "title": "PNJ giảm sàn 3 phiên liên tiếp, mất 13.900 tỷ",
+      "title": "Lãi suất huy động cao 6,8-7,6%, tương quan âm -0,71 với TTCK",
       "impact": "↓",
-      "note": "PNJ xuống 26.600 đồng, giảm 69% so đỉnh tháng 1, từ 43.600 tỷ xuống 13.600 tỷ vốn hóa. Nhà đầu tư ngoại nắm 238 triệu cổ phiếu (6.300 tỷ đồng), thấp hơn 13.900 tỷ so đỉnh."
+      "note": "Lãi suất huy động kỳ hạn 12 tháng ở 6,8-7,6%/năm, cao hơn 2-2,5% so với đầu năm. Tương quan giữa lãi suất huy động và VN-Index 2014-2021 đạt -0,71, lãi suất cao gây áp lực mạnh lên thị trường."
+    },
+    {
+      "title": "HDBank chia cổ tức 25% + cổ phiếu thưởng 5%, tổng 30%",
+      "impact": "↑",
+      "note": "Ngày đăng ký 12/10/2026. Vốn điều lệ tăng từ 50.053 tỷ đồng lên hơn 65.069 tỷ đồng. Kế hoạch chào bán riêng lẻ 700 triệu cổ phiếu cho nhà đầu tư chứng khoán chuyên nghiệp giai đoạn 2026-2027."
+    },
+    {
+      "title": "PNJ sập 69% từ đỉnh tháng 1, mất 30.000 tỷ vốn hóa",
+      "impact": "↓",
+      "note": "PNJ giảm xuống 26.600 đồng/cổ phiếu, thấp hơn 69% so với đỉnh cuối tháng 1. Vốn hóa giảm từ ~43.600 tỷ xuống ~13.600 tỷ đồng. Nhà đầu tư ngoại nắm 238 triệu cổ phiếu (6.300 tỷ đồng), lỗ 13.900 tỷ so với đỉnh."
     }
   ]
 }
