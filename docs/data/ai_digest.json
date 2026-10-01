@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-01",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán ròng mạnh từ khối ngoại (37.500 tỷ đồng từ đầu năm vượt cả năm 2025) khiến VN-Index giảm 19,32 điểm trong phiên 1/10. Tín hiệu cảnh báo rủi ro từ bong bóng giá (Petrosetco tăng 46% rồi sụp sàn 6,85%) kết hợp áp lực lãi suất cao. Tuy vậy, kinh tế cơ bản vẫn vững mạnh với GRDP Hà Nội và TP.HCM quý 3 cùng tăng trên 10%, cùng đầu tư 150 triệu USD của Pandora, nhưng chưa đủ bù đắp tâm lý thị trường thận trọng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Hà Nội và TP.HCM ghi nhận tăng trưởng GRDP hai con số (10.02% và 10.08%) trong quý 3, phản ánh sức khỏe kinh tế vĩ mô. Pandora khai trương nhà máy trang sức 150 triệu USD tại TP.HCM, tuyển 7.000 lao động, cho thấy FDI vào mạnh. Tuy nhiên, thị trường chứng khoán ghi nhận áp lực khi VN-Index giảm 19.32 điểm, khối ngoại bán ròng 37.5 ngàn tỷ đồng cổ phiếu ngân hàng vượt toàn bộ năm 2025, và Petrosetco giảm sàn sau chuỗi tăng 46%, cảnh báo rủi ro ngắn hạn mặc dù nền tảng kinh tế vẫn mạnh.",
   "top": [
     {
-      "title": "VN-Index lao dốc 19,32 điểm, phiên giảm thứ 4 liên tiếp",
+      "title": "VN-Index lao dốc 19.32 điểm, nhóm ngân hàng sắc đỏ",
       "impact": "↓",
-      "note": "VN-Index giảm 19,32 điểm xuống 1.749,3 điểm phiên 1/10, bước vào phiên giảm thứ 4 liên tiếp; 367 mã giảm (23 mã sàn) áp đảo 278 mã tăng; chỉ số nằm dưới SMA 50 ngày, MACD tiếp tục suy yếu"
+      "note": "VN-Index giảm 19.32 điểm xuống 1.749,3 điểm phiên 1/10, HNX-Index giảm 2.98 điểm. Có 367 mã giảm (23 mã giảm sàn) áp đảo 278 mã tăng. Nhóm ngân hàng sắc đỏ mạnh, bất động sản chịu áp lực từ Vingroup."
     },
     {
       "title": "Khối ngoại bán ròng 37.500 tỷ cổ phiếu ngân hàng",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 37.500 tỷ đồng cổ phiếu ngân hàng trong 9 tháng 2026, vượt toàn bộ mức 32.100 tỷ năm 2025; ngân hàng tăng lợi nhuận (CTG +33%, HDB +43%) nhưng bị bán ròng do rút vốn"
+      "note": "Nhà đầu tư nước ngoài bán ròng 37.500 tỷ đồng cổ phiếu ngân hàng lũy kế 9 tháng 2026, vượt toàn bộ mức 32.100 tỷ năm 2025. Áp lực bán mạnh từ khối ngoài bất chấp lợi nhuận ngân hàng tăng trưởng tốt (CTG +33%, HDB +43%)."
     },
     {
-      "title": "GRDP Hà Nội quý 3 tăng 10,02% - lần đầu hai con số",
+      "title": "GRDP Hà Nội quý 3 tăng 10.02% lần đầu hai con số",
       "impact": "↑",
-      "note": "GRDP Hà Nội quý 3/2026 tăng 10,02% so với cùng kỳ, lần đầu chạm hai con số trong năm; khu vực dịch vụ tăng 10,33%, tài chính-ngân hàng tăng 12,50%; GRDP 9 tháng tăng 8,85%"
+      "note": "GRDP Hà Nội quý 3/2026 tăng 10.02% so với cùng kỳ, lần đầu trong năm chạm tăng trưởng hai con số. Dịch vụ tăng 10.33%, tài chính-ngân hàng-bảo hiểm tăng 12.50%. GRDP 9 tháng tăng 8.85% so với cùng kỳ năm 2025."
     },
     {
-      "title": "GRDP TP.HCM quý 3 tăng 10,08% (không tính dầu khí)",
+      "title": "GRDP TP.HCM quý 3 đạt 10.08% không tính dầu khí",
       "impact": "↑",
-      "note": "GRDP TP.HCM quý 3/2026 tăng 9,86% (không tính dầu khí: 10,08%); khu vực dịch vụ tăng 9,95% đóng góp 51,9% vào mức tăng; GRDP 9 tháng tăng 9,06%"
+      "note": "GRDP TP.HCM quý 3 tăng 9.86%, hay 10.08% khi loại bỏ yếu tố dầu khí so với cùng kỳ. Khu vực dịch vụ tăng 9.95%, đóng góp 51.9% vào mức tăng GRDP. GRDP 9 tháng tăng 9.06%."
     },
     {
-      "title": "Cổ phiếu PET tăng 46% rồi giảm sàn 6,85%",
+      "title": "Petrosetco tăng 46% rồi giảm sàn 6.85%",
       "impact": "↓",
-      "note": "PET tăng 46,65% trong 7 phiên liên tiếp (từ 38.800 lên 56.900 đồng) rồi giảm hết sàn xuống 53.000 đồng phiên 1/10; 619.300 cổ phiếu chờ bán ở giá sàn, chỉ 540.500 khớp lệnh"
+      "note": "PET tăng 46.65% trong 7 phiên liên tiếp (từ 38.800 lên 56.900 đồng) rồi giảm hết sàn xuống 53.000 đồng phiên 1/10. Có 619.300 cổ phiếu chờ bán tại giá sàn. Cảnh báo rủi ro bong bóng và bán tháo từ nhà đầu tư."
     },
     {
-      "title": "Pandora khai trương nhà máy 150 triệu USD tại TP.HCM",
+      "title": "Pandora khai trương nhà máy trang sức 150 triệu USD tại TP.HCM",
       "impact": "↑",
-      "note": "Hãng trang sức Đan Mạch Pandora khai trương nhà máy 150 triệu USD tại TP.HCM, công suất 60 triệu sản phẩm/năm, tuyển 7.000 lao động; năm 2030 Việt Nam sẽ cung cấp 1/3 tổng công suất toàn cầu, tín hiệu tích cực cho FDI"
+      "note": "Hãng trang sức Đan Mạch Pandora khai trương nhà máy 150 triệu USD tại TP.HCM, công suất 60 triệu sản phẩm/năm, tuyển 7.000 lao động. Năm 2030 Việt Nam sẽ cung cấp 1/3 tổng công suất toàn cầu, tín hiệu FDI vào Việt Nam mạnh mẽ."
     }
   ]
 }
