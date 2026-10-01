@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán mạnh khi KOS giảm 52% sau 9 phiên sàn liên tiếp (vốn hóa mất 3.700 tỷ đồng) và PNJ lỗ dự kiến 6.271 tỷ đồng. VN-Index giảm 4 phiên liên tiếp xuống 1749 điểm, rủi ro thanh khoản gia tăng khi không bán được giải chấp. Tuy chính sách tiền tệ nới lỏng (LDR 95%, lãi suất <1%) và FDI tăng 4 lần (17 tỷ USD) có hỗ trợ, nhưng tâm lý tiêu cực và rủi ro ngắn hạn vẫn áp đảo.",
+  "summary_vi": "Phiên mở tháng 10 tệ hơn kỳ vọng với áp lực bán mạnh, VN-Index rơi xuống 1.749 điểm (phiên 4 giảm liên tiếp). Khủng hoảng thanh khoản KOS (giảm 52%, không bán được giải chấp) gây lo ngại rủi ro hệ thống. Tuy nhiên, chính sách tiền tệ cải thiện: lãi suất liên ngân hàng giảm từ 7% xuống <1%, NHNN nâng LDR lên 95%, FDI tăng 4 lần, Luật Phát triển đô thị có hiệu lực mang triển vọng dài hạn.",
   "top": [
     {
-      "title": "Kosy mất 52% giá trị sau 9 phiên sàn liên tiếp",
+      "title": "VN-Index rơi xuống 1.749, áp lực bán mạnh",
       "impact": "↓",
-      "note": "KOS giảm hết biên độ 9 phiên liên tiếp, rơi từ 34.000 xuống 15.800 đồng/cp. Vốn hóa bị thổi bay 3.700 tỷ đồng xuống còn 3.420 tỷ đồng. Công ty chứng khoán không bán được giải chấp cổ phiếu do thiếu cầu, tín hiệu xấu cho thanh khoản toàn thị trường."
+      "note": "VN-Index giảm 1,09% (-19,32 điểm) xuống 1.749,3 điểm; phiên chiều áp lực bán tăng mạnh; VN30 giảm 0,85% (20 mã đỏ), thanh khoản HoSE chỉ 11.300 tỷ đồng."
     },
     {
-      "title": "PNJ giảm sàn 4 phiên, điều chỉnh lợi nhuận âm",
+      "title": "KOS mất 52% giá, khủng hoảng thanh khoản",
       "impact": "↓",
-      "note": "PNJ giảm về 24.750 đồng/cp sau 4 phiên sàn liên tiếp, vốn hóa còn 12.700 tỷ đồng. Công ty dự kiến điều chỉnh kế hoạch 2026 với lợi nhuận sau thuế âm 6.271 tỷ đồng sau khoản dự phòng 7.071 tỷ đồng."
+      "note": "KOS giảm sàn phiên 9 liên tiếp (-6,78%, xuống 15.800 đồng); mất 52% giá so với giữa tháng 9; vốn hóa giảm 3.700 tỷ đồng; công ty chứng khoán không bán được lệnh giải chấp do mất thanh khoản."
     },
     {
-      "title": "VN-Index giảm 4 phiên liên tiếp, kỹ thuật tiêu cực",
+      "title": "VN-Index dưới SMA 50, 4 phiên giảm liên tiếp",
       "impact": "↓",
-      "note": "VN-Index giảm 1.09% (−19.32 điểm) xuống 1749.3 điểm, nằm dưới SMA 50 ngày. VN30-Index giảm 0.85% với 20 cổ phiếu đỏ (VIC −2.24%, LPB −4.55%, STB −5.05%), thanh khoản tăng 44% nhưng áp lực bán vẫn mạnh."
+      "note": "VN-Index chuẩn bị giảm phiên 4 liên tiếp, nằm dưới SMA 50 ngày, MACD suy yếu nằm dưới 0, Bollinger Bands cho thấy triển vọng tiêu cực ngắn hạn."
     },
     {
-      "title": "NHNN nâng LDR từ 85% lên 95%, hỗ trợ thanh khoản",
+      "title": "NHNN nâng LDR từ 85% lên 95%",
       "impact": "↑",
-      "note": "NHNN ban hành Thông tư 50/2026 có hiệu lực 1/12/2026, nâng tỷ lệ LDR tối đa từ 85% lên 95%. NHNN hỗ trợ thanh khoản 51.300 tỷ đồng qua hoán đổi USD và 46.100 tỷ đồng qua OMO, lãi suất liên ngân hàng giảm từ >7% xuống <1%."
+      "note": "Thông tư 50/2026/TT-NHNN quy định nâng giới hạn LDR từ 85% lên 95%, có hiệu lực 1/12/2026, hỗ trợ hoạt động cho vay của ngân hàng, tích cực cho tín dụng."
     },
     {
-      "title": "FDI vào TPHCM 17 tỷ USD trong 9 tháng, tăng 4 lần",
+      "title": "FDI vào TPHCM tăng 4 lần, hơn 17 tỷ USD",
       "impact": "↑",
-      "note": "FDI đăng ký vào TPHCM 9 tháng 2026 đạt hơn 17 tỷ USD, tăng 4 lần so 2025 và vượt 57% mục tiêu 11 tỷ USD. Dự án chiến lược gồm Cảng Cần Giờ 4.9 tỷ USD, AI Factory 2.1 tỷ USD, Khu ĐH Quốc tế 1.4 tỷ USD."
+      "note": "9 tháng 2026, FDI vào TPHCM hơn 17 tỷ USD, tăng 4 lần so với 2025, vượt 57% mục tiêu 11 tỷ USD; các dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD."
     },
     {
-      "title": "Quảng Ninh GRDP tăng 12.54%, dẫn đầu toàn quốc",
+      "title": "Luật Phát triển đô thị TPHCM có hiệu lực",
       "impact": "↑",
-      "note": "9 tháng 2026, GRDP Quảng Ninh tăng 12.54% xếp thứ 1 toàn quốc (quý 3 tăng 15.04%). Công nghiệp chế biến chế tạo là trụ cột, 12 dự án trọng điểm đã hoạt động với vốn gần 100.000 tỷ đồng, tăng 17.4% vs 2025."
+      "note": "Luật Phát triển đô thị chính thức có hiệu lực 1/10; HĐND TPHCM thông qua 38 nghị quyết cụ thể hóa; mở không gian và thẩm quyền cho TPHCM chủ động quy hoạch, phát triển đô thị."
     }
   ]
 }
