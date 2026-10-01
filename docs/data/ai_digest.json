@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-01",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chứng khoán Việt Nam hôm nay bị áp lực ngắn hạn khi VN-Index giảm 9,11 điểm và thanh khoản eo hẹp, nhưng những tín hiệu vĩ mô dài hạn rất tích cực. Fed giảm khả năng tăng lãi suất tháng 10 xuống 38% do chỉ số lạm phát PCE yếu hơn dự báo, giảm áp lực lãi suất toàn cầu. FDI vào TPHCM tăng mạnh 4 lần với 17 tỷ USD (vượt 57% mục tiêu), Quảng Ninh tăng trưởng 15% GRDP quý 3 dẫn đầu cả nước, và tín dụng bất động sản khu công nghiệp tăng 32%. Thị trường không còn bị chi phối mạnh bởi lãi suất, mở cơ hội cho các yếu tố tăng trưởng nội tại.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán ghi nhận áp lực điều chỉnh từ khối ngoại bán ròng 4.700 tỷ đồng trong tháng 9 khi thanh khoản suy giảm, đặc biệt ở nhóm bất động sản và ngân hàng. Tuy vậy, tín hiệu tích cực đến từ vốn FDI vào TPHCM đạt hơn 17 tỷ USD (tăng 4 lần, vượt mục tiêu 57%) và Quảng Ninh giữ vị thế dẫn đầu cả nước với tăng trưởng GRDP quý 3 đạt 15,04%. Yếu tố quốc tế cũng hỗ trợ khi Fed giảm khả năng tăng lãi suất tháng 10 xuống 38% sau khi lạm phát hạ nhiệt. Rủi ro gần hạn vẫn tồn tại từ dòng tiền yếu và điều chỉnh rộng ở các nhóm cổ phiếu vốn hóa lớn.",
   "top": [
+    {
+      "title": "FDI tăng mạnh vào TPHCM, vượt mục tiêu năm",
+      "impact": "↑",
+      "note": "9 tháng năm 2026, vốn FDI đăng ký vào TPHCM đạt hơn 17 tỷ USD, tăng hơn 4 lần so với cùng kỳ 2025 và vượt 57% so với mục tiêu 11 tỷ USD/năm. Các dự án chiến lược như Cảng trung chuyển Cần Giờ (4,9 tỷ USD), AI Factory (2,1 tỷ USD), Đại học Quốc tế (1,4 tỷ USD) cho thấy dòng vốn quốc tế chuyển hướng sang cơ sở hạ tầng, công nghệ và giáo dục."
+    },
+    {
+      "title": "Khối ngoại bán ròng 4.700 tỷ đồng, thanh khoản yếu",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 4.719,7 tỷ đồng qua khớp lệnh trong tháng 9. Áp lực lớn từ nhóm bất động sản (-24,8 điểm, VIC -10,3, VHM -6,1) và ngân hàng (-17,7 điểm, LPB -8,7, ACB -4,2, MBB -3,9). Thanh khoản khớp lệnh bình quân HOSE giảm 6,41% so với tháng 8, chỉ 13.295 tỷ đồng/phiên."
+    },
+    {
+      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP quý 3",
+      "impact": "↑",
+      "note": "GRDP quý 3/2026 tăng 15,04% (dẫn đầu cả nước), 9 tháng tăng 12,54%, tăng 2,16pp so với Q3/2025. Công nghiệp chế biến, chế tạo là trụ cột, tất cả 12 dự án trọng điểm đã đi vào sản xuất với tổng vốn gần 100.000 tỷ đồng, tăng 17,4% so với cùng kỳ 2025."
+    },
     {
       "title": "Fed giảm khả năng tăng lãi suất tháng 10",
       "impact": "↑",
-      "note": "Chỉ số PCE toàn phần tháng 8 tăng 0,3% tháng/tháng (bằng dự báo) nhưng 3,4% năm/năm (cao hơn 0,3 điểm). PCE lõi tăng 0,2% tháng/tháng và 3% năm/năm (thấp hơn dự báo). Khả năng Fed tăng lãi suất tháng 10 giảm xuống 38% (từ 50%), tháng 12 còn 87%."
+      "note": "PCE lõi tháng 8/2026 tăng 3% năm/năm, thấp hơn dự báo 0,3pp, cho thấy lạm phát hạ nhiệt. Khả năng Fed tăng lãi suất cuộc họp tháng 10 giảm mạnh từ 50% xuống 38%, tháng 12 còn 87%, tạo điều kiện hỗ trợ cho các thị trường mới nổi."
     },
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng GRDP",
-      "impact": "↑",
-      "note": "GRDP quý 3/2026 tăng 15,04%, 9 tháng tăng 12,54%, dẫn đầu cả nước. Các dự án công nghiệp chế biến/chế tạo tổng vốn ~100.000 tỷ đồng (tăng 17,4% so với 2025), tất cả 12/12 dự án trọng điểm đã đi vào hoạt động."
-    },
-    {
-      "title": "TPHCM hút FDI mạnh 4 lần, tăng chất lượng",
-      "impact": "↑",
-      "note": "9 tháng 2026 TPHCM hút 17 tỷ USD FDI (tăng 4 lần so với 2025), vượt mục tiêu 11 tỷ USD 57%. Các dự án chiến lược: Cảng Cần Giờ 4,9 tỷ USD, AI Factory 2,1 tỷ USD, Đại học Quốc tế 1,4 tỷ USD, chứng tỏ dòng vốn quốc tế chuyển sang các lĩnh vực nền tảng như logistics, hạ tầng số, AI."
-    },
-    {
-      "title": "Tín dụng bất động sản khu công nghiệp tăng 32%",
-      "impact": "↑",
-      "note": "Quý 2/2026 tín dụng bất động sản khu công nghiệp tăng 32% so với quý 1, chủ yếu từ IDC (dư nợ +55%), KBC (+25%), BCM (+18%). Luật Đầu tư 2025 mở rộng ưu đãi cho bán dẫn, AI, dữ liệu lớn, công nghệ sinh học, năng lượng mới, công nghiệp xanh hỗ trợ phục hồi."
-    },
-    {
-      "title": "Lãi suất không còn chi phối mạnh TTCK",
-      "impact": "→",
-      "note": "Quan hệ lãi suất tăng - chứng khoán giảm vẫn tồn tại nhưng không còn mang tính chi phối mạnh như trước. Lãi suất huy động tăng lên 6,8-7,6%/năm (cao hơn 2-2,5% so với đầu năm) nhưng VN-Index vẫn có cơ hội từ các yếu tố tăng trưởng nội tại."
-    },
-    {
-      "title": "VN-Index giảm, thanh khoản eo hẹp",
+      "title": "Giá vàng giảm mạnh, người mua thiệt 7+ triệu đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 9,11 điểm, đóng cửa ở 1.768,62 điểm (30/9). Thanh khoản tiếp tục ở mức eo hẹp, khối ngoại bán ròng 6 phiên liên tiếp, cho thấy động lực từ dòng tiền nội tế chưa đủ mạnh."
+      "note": "Tháng 9/2026, giá vàng miếng SJC giảm 4,3 triệu đồng/lượng. So với giá bán đầu tháng (148,4 triệu đồng/lượng), người mua thiệt 7,3 triệu đồng/lượng. Sáng 1/10, giá vàng giảm xuống 140,8-143,8 triệu đồng/lượng, giá vàng quốc tế lùi dưới 4.200 USD/ounce."
+    },
+    {
+      "title": "HDBank chia cổ tức 30%, tăng vốn điều lệ",
+      "impact": "↑",
+      "note": "HDBank chốt cổ tức năm 2025 tỷ lệ 25% từ lợi nhuận chưa phân phối, cổ phiếu thưởng tỷ lệ 5% từ quỹ dự trữ. Vốn điều lệ tăng từ 50.053 tỷ đồng lên 65.069 tỷ đồng, kế hoạch chào bán riêng 700 triệu cổ phiếu trong 2026-2027 để tăng cường năng lực vốn."
     }
   ]
 }
