@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-10-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực thanh khoản ngắn hạn: lãi suất liên ngân hàng qua đêm tăng vọt từ 0,2% lên 7%/năm chỉ sau một phiên (tăng 35 lần), NHNN phải bơm ròng hơn 10.000 tỷ đồng. Khối ngoại bán ròng 849,7 tỷ tháng 9 và thanh khoản giảm 6,41%. Tuy nhiên, lạm phát Mỹ hạ nhiệt (PCE lõi 3% YoY, thấp dự báo 0,3 điểm) giảm khả năng Fed tăng lãi tháng 10 xuống 38%, trong khi vốn FDI vào TPHCM đạt 17 tỷ USD (tăng 4 lần) và Quảng Ninh tăng trưởng 12,54% cung cấp hỗ trợ cho triển vọng dài hạn.",
+  "summary_vi": "Thị trường chứng khoán VN đối diện áp lực thanh khoản: lãi suất ON tăng vọt từ 0,2% lên 7%/năm, NHNN bơm 10.000 tỷ đồng, khối ngoại bán ròng 4.719,7 tỷ đồng khớp lệnh. Tuy nhiên, lạm phát Mỹ hạ nhiệt (PCE lõi 3% YoY) giảm khả năng Fed tăng lãi tháng 10 xuống 38%, tạo hỗ trợ toàn cầu. FDI vào TPHCM đạt 17 tỷ USD (tăng 4 lần), Luật phát triển đô thị có hiệu lực 1/10 mở thêm dư địa cho phát triển BĐS và hạ tầng TP.",
   "top": [
     {
       "title": "Lãi suất ON tăng 7%, NHNN bơm 10.000 tỷ đồng",
@@ -30,9 +30,9 @@
       "note": "Vốn FDI đăng ký vào TPHCM 9 tháng 2026 đạt hơn 17 tỷ USD, tăng 4 lần so với cùng kỳ 2025 và vượt 57% mục tiêu 11 tỷ USD. Dòng vốn hướng vào Cảng Cần Giờ (4,9 tỷ USD), AI Factory (2,1 tỷ USD), Đại học Quốc tế (1,4 tỷ USD)."
     },
     {
-      "title": "Quảng Ninh tăng trưởng 12,54%, dẫn đầu cả nước",
+      "title": "Luật phát triển đô thị có hiệu lực 1/10, TPHCM được trao quyền mở rộng",
       "impact": "↑",
-      "note": "GRDP Quảng Ninh 9 tháng 2026 đạt 12,54% (dẫn đầu cả nước); quý 3 tăng 15,04%. Ngành công nghiệp chế biến, chế tạo có vốn đầu tư gần 100.000 tỷ đồng (tăng 17,4% YoY), toàn bộ 12 dự án trọng điểm hoạt động."
+      "note": "Luật Phát triển đô thị chính thức có hiệu lực từ 1/10/2026, mở thêm dư địa và thẩm quyền cho TPHCM chủ động trong quy hoạch, phát triển và tổ chức đô thị. HĐND thành phố thông qua 38 nghị quyết cụ thể hóa luật, tạo tiền đề cho phát triển bất động sản, hạ tầng, dịch vụ chất lượng cao."
     }
   ]
 }
