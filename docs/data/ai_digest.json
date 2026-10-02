@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-02",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục lao dốc với VN-Index mất 11,59 điểm (-0,66%) do áp lực bán mạnh của khối ngoại (bán ròng 3.375 tỷ đồng). Cổ phiếu ngân hàng LPS mất 16.900 tỷ đồng vốn hóa, LPB giảm 28% từ đỉnh khiến nhà đầu tư chịu tổn thất lớn. Độ rộng thị trường tiêu cực với 436 mã giảm. Tuy nhiên, nền kinh tế vĩ mô có tín hiệu tích cực khi GRDP Hà Nội tăng 10,02% quý 3 và FDI sang Lào tăng 638,3 triệu USD.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam rơi vào áp lực bán mạnh trong tuần qua khi khối ngoại bán ròng hơn 3.3 ngàn tỷ đồng, khiến VN-Index giảm liên tiếp 5 phiên. GRDP của Hà Nội tăng trưởng 10.02% cho thấy kinh tế có điểm tích cực, nhưng tâm lý nhà đầu tư vẫn thận trọng trước áp lực rút vốn từ khối ngoại. Các cổ phiếu bluechip như PNJ, HDB, LPB đều chịu áp lực nặng, với chỉ số được kéo nhẹ bởi vài cổ phiếu lớn trong khi phần lớn cổ phiếu còn lại đang tổn thương.",
   "top": [
     {
-      "title": "LPS \"bốc hơi\" 16.900 tỷ đồng vốn hóa sau 1,5 tháng niêm yết",
+      "title": "VN-Index giảm 5 phiên liên tiếp, áp lực bán rộng",
       "impact": "↓",
-      "note": "Cổ phiếu LPS giảm 41% so với giá tham chiếu 30.000 đồng/cổ phiếu lên sàn 18/8/2026, xuống 17.700 đồng/cổ phiếu. Vốn hóa sụt từ 42.260 tỷ đồng còn ~25.300 tỷ đồng. Phiên 2/10 giảm sàn 6,84% với 2,3 triệu cổ phiếu khớp lệnh."
+      "note": "VN-Index giảm 47.4 điểm (-2.66% tuần), HNX-Index mất 5.46 điểm (-2.01%). Thanh khoản thấp, áp lực bán gia tăng trên diện rộng, chưa tìm được động lực phục hồi đủ mạnh."
     },
     {
-      "title": "VN-Index lao dốc, khối ngoại bán ròng 3.375 tỷ đồng",
+      "title": "Khối ngoại bán ròng hơn 3.3 ngàn tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 11,59 điểm xuống 1.737,71 điểm (-0,66%). Độ rộng tiêu cực: 436 mã giảm, 259 mã tăng. Khối ngoại bán ròng 3.375 tỷ đồng, bán mạnh PNJ (1.300 tỷ), HDB (961 tỷ), VIC (188 tỷ)."
+      "note": "Khối ngoại bán ròng khoảng 3.375 tỷ đồng trên toàn thị trường, PNJ bị bán ròng 1.3 ngàn tỷ đồng, HDB bị bán 961 tỷ đồng. Áp lực rút vốn từ khối ngoại tiếp tục gia tăng."
     },
     {
-      "title": "LPB mất 28% từ đỉnh, nhà đầu tư thua lỗ hàng ngàn tỷ",
+      "title": "Dòng tiền cá mập chia rẽ: ngoại bán, tự doanh mua",
       "impact": "↓",
-      "note": "Cổ phiếu LPB giảm từ 56.000 đồng (24/6/2026) xuống 40.200 đồng (2/10), mất 28% giá trị. Tỷ phú Phạm Nhật Vượng sở hữu 146,2 triệu cổ phiếu LPB, giá trị mất từ 8.200 tỷ đồng tại đỉnh."
+      "note": "Khối ngoại bán ròng gần 2.3 ngàn tỷ đồng, riêng PNJ hơn 1.2 ngàn tỷ. Tự doanh mua ròng gần 1.7 ngàn tỷ, tập trung chủ yếu vào HDB (1.5 ngàn tỷ). Chiều hướng rẽ nhánh rõ rệt giữa hai nhóm nhà đầu tư."
     },
     {
-      "title": "GRDP Hà Nội tăng 10,02% quý 3 - cao nhất trong năm",
-      "impact": "↑",
-      "note": "GRDP Hà Nội quý 3/2026 tăng 10,02% YoY, lần đầu tiên trong năm chạm ngưỡng hai con số. GRDP 9 tháng tăng 8,85%. Khu vực dịch vụ tăng 10,33% (đóng góp 6,79 điểm), tài chính-ngân hàng tăng 12,50%."
+      "title": "LPS \"bốc hơi\" 16.900 tỷ đồng vốn hóa sau 1.5 tháng",
+      "impact": "↓",
+      "note": "Cổ phiếu LPS giảm 41% từ mức tham chiếu 30.000 đồng xuống còn 17.700 đồng/cổ phiếu. Vốn hóa từ 42.260 tỷ đồng lúc IPO giảm xuống còn khoảng 25.360 tỷ đồng, mất 16.900 tỷ đồng giá trị."
     },
     {
-      "title": "FDI sang Lào tăng vọt 638,3 triệu USD trong 7 tháng",
-      "impact": "↑",
-      "note": "7 tháng 2026 Việt Nam có 20 dự án FDI sang Lào với vốn 638,3 triệu USD (+4,2 lần so năm 2025). Lào vẫn là điểm đầu tư nước ngoài lớn nhất với 300 dự án tích lũy, tổng vốn 7,04 tỷ USD."
+      "title": "LPB giảm sâu, nhà đầu tư tỷ phú mất hàng ngàn tỷ",
+      "impact": "↓",
+      "note": "Cổ phiếu LPB giảm 28% từ đỉnh 56.000 đồng xuống còn 40.200 đồng/cổ phiếu. Khoản đầu tư 146.2 triệu cổ phiếu của ông Phạm Nhật Vượng từ giá trị 8.200 tỷ đồng lúc đỉnh giảm mất hàng ngàn tỷ đồng."
     },
     {
-      "title": "Du lịch Lào Cai tăng 30% YoY, 9 tháng doanh thu gần 9.737 tỷ đồng",
+      "title": "GRDP Hà Nội tăng 10.02%, kinh tế Thủ đô tăng tốc",
       "impact": "↑",
-      "note": "Tháng 9 doanh thu toàn ngành du lịch, dịch vụ ước 1.241,6 tỷ đồng (+30,09% YoY). Khách quốc tế 15,9 nghìn lượt (+43,15% YoY). Du lịch lữ hành tăng 42,56% YoY - nhóm dịch vụ có tốc độ tăng cao nhất tháng."
+      "note": "GRDP quý 3/2026 tăng 10.02% so với cùng kỳ năm trước, lần đầu tiên trong năm chạm ngưỡng 2 con số. Khu vực dịch vụ tăng 10.33%, đóng góp 6.79 điểm phần trăm, tài chính-ngân hàng-bảo hiểm tăng 12.50%."
     }
   ]
 }
