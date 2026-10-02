@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-02",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chịu áp lực mạnh với VN-Index giảm liên tiếp, tuy nhiên GRDP TP.HCM và Hà Nội quý 3 đạt tăng trưởng hai con số (trên 10%), hỗ trợ từ chính sách thúc đẩy đầu tư công và nâng hạng FTSE Russell. Định giá P/E thấp hơn trung bình 5 năm tạo cơ hội, nhưng rủi ro ngắn hạn cao do khối ngoại tiếp tục bán ròng. Nhà đầu tư nên quản trị rủi ro và duy trì tỷ trọng tiền mặt cao.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Kinh tế Việt Nam tăng tốc mạnh với GRDP Hà Nội và TP.HCM đạt 10%+ trong quý 3, dịch vụ là động lực chính. Ngân hàng Nhà nước nới trần LDR lên 95% tạo nền tảng cho tín dụng bứt phá. Tuy nhiên, lãi suất huy động cao 10,5%/năm phản ánh áp lực chi phí vốn, khối ngoại bắt đáy MSR cho thấy kỳ vọng hồi phục nhưng dòng tiền nội vẫn chính là tì đòn thị trường. Rủi ro từ lạm phát cao, tỷ giá áp lực và Fed khó tăng lãi suất (xác suất 25%) tháng 10.",
   "top": [
     {
-      "title": "VN-Index thủng ngưỡng 1750 điểm",
+      "title": "Hà Nội và TP.HCM GRDP quý 3 tăng 10%+",
+      "impact": "↑",
+      "note": "Hà Nội tăng 10.02%, TP.HCM 10.08% (không tính dầu khí), lần đầu Hà Nội đạt hai con số trong năm — dịch vụ tăng lần lượt 10.33% và 9.95%, hỗ trợ tăng trưởng doanh thu và lợi nhuận doanh nghiệp"
+    },
+    {
+      "title": "Ngân hàng Nhà nước nới trần LDR lên 95%",
+      "impact": "↑",
+      "note": "Thông tư 50/2026 chính thức ban hành 30/09 — tăng hạn mức tín dụng giải phóng, hỗ trợ mục tiêu GDP 10%+, lợi nhuận khối ngân hàng tăng từ biên độ lãi suất rộng hơn"
+    },
+    {
+      "title": "Lãi suất trái phiếu ngân hàng cao 10,5%/năm",
       "impact": "↓",
-      "note": "VN-Index đóng cửa 1.749,30 điểm, giảm 19,32 điểm. Độ rộng 367 mã giảm (23 mã giảm sàn) vs 278 mã tăng (20 mã tăng trần). Áp lực bán áp đảo, chỉ báo kỹ thuật chưa tạo đáy, rủi ro ngắn hạn cao."
+      "note": "PVcomBank phát hành 200 tỷ đồng kỳ hạn 10 năm lãi suất 10.5%/năm (cao nhất nhiều năm), Sacombank 10%, TPBank 9.7% — phản ánh chi phí vốn gia tăng, áp lực lợi nhuận doanh nghiệp vay dài hạn"
     },
     {
-      "title": "GRDP TP.HCM quý 3 tăng 10,08%",
+      "title": "Khối ngoại mua ròng 3.150 tỷ, MSR bùng nổ",
       "impact": "↑",
-      "note": "GRDP quý 3 tăng 9,86% so với cùng kỳ, không tính dầu khí tăng 10,08%. Khu vực dịch vụ tăng 9,95%, đóng góp 51,9% vào tăng trưởng. GRDP 9 tháng tăng 9,06%."
+      "note": "Khối ngoại mua ròng 3.150,5 tỷ đồng hôm 1/10 (chủ yếu MSR 3.239,8 tỷ từ thỏa thuận), lần đầu mua ròng sau 9 tháng bán liên tục — tín hiệu bắt đáy, kỳ vọng nhà đầu tư quốc tế về hồi phục"
     },
     {
-      "title": "GRDP Hà Nội tăng hai con số quý 3",
+      "title": "Dòng tiền nội chống lại bán áp khối ngoại",
       "impact": "↑",
-      "note": "GRDP Hà Nội quý 3 tăng 10,02% so với cùng kỳ, lần đầu tiên trong năm chạm ngưỡng hai con số và cao nhất trong 3 quý. GRDP 9 tháng tăng 8,85%, khu vực dịch vụ tăng 10,33%."
+      "note": "Khối ngoại bán ròng tích lũy 96.000 tỷ đồng 9 tháng nhưng VN-Index vẫn vươn lên 1.900 điểm kỷ lục — dòng tiền nội kiên cường giữ giá, sức chống đỡ mạnh mẽ"
     },
     {
-      "title": "Khối ngoại mua ròng 3.100 tỷ do MSR",
+      "title": "Doanh nghiệp nhà nước giữ nền tảng kinh tế",
       "impact": "→",
-      "note": "Khối ngoại mua ròng 3.150,5 tỷ đồng, chủ yếu từ giao dịch MSR (3.239,8 tỷ). Loại trừ MSR và SBT, khối ngoại bán ròng 230 tỷ, phiên bán thứ 7 liên tiếp."
-    },
-    {
-      "title": "Định giá rẻ tạo cơ hội, P/E thấp hơn TB 5 năm",
-      "impact": "↑",
-      "note": "Mặt bằng định giá P/E khoảng 12,17 lần, thấp hơn trung bình 5 năm. Agriseco ưu tiên các cổ phiếu tăng trưởng lợi nhuận quý III tích cực. Lãi suất và mùa công bố kết quả quý III sẽ chi phối thị trường tháng 10."
-    },
-    {
-      "title": "Dòng tiền nội chống đỡ áp lực bán ngoại",
-      "impact": "→",
-      "note": "Khối ngoại bán ròng gần 96.000 tỷ trong 9 tháng đầu năm. VN-Index chỉ giảm nhẹ, lại vượt 1.900 điểm lần đầu trong lịch sử. Khối ngoại bán ròng luỹ kế hơn 300.000 tỷ trong gần 3 năm, nhưng tỷ lệ sở hữu chỉ giảm từ 15% xuống 11%."
+      "note": "Giá trị tăng thêm từ 174,33 nghìn tỷ đồng (1986) lên 1.353,15 nghìn tỷ đồng (2025), gấp 8,72 lần; tỷ trọng GDP giảm từ 36,58% xuống 20,89% — cơ cấu cân bằng nhưng DN nhà nước vẫn kiềng kết hạ tầng, năng lượng, an ninh"
     }
   ]
 }
