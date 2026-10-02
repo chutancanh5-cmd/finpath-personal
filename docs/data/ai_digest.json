@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-02",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam tăng tốc mạnh với GRDP Hà Nội và TP.HCM đạt 10%+ trong quý 3, dịch vụ là động lực chính. Ngân hàng Nhà nước nới trần LDR lên 95% tạo nền tảng cho tín dụng bứt phá. Tuy nhiên, lãi suất huy động cao 10,5%/năm phản ánh áp lực chi phí vốn, khối ngoại bắt đáy MSR cho thấy kỳ vọng hồi phục nhưng dòng tiền nội vẫn chính là tì đòn thị trường. Rủi ro từ lạm phát cao, tỷ giá áp lực và Fed khó tăng lãi suất (xác suất 25%) tháng 10.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Việt Nam ghi nhận tín hiệu vĩ mô tích cực: GRDP Hà Nội đạt 10,02% quý III (cao nhất năm), FTSE Russell nâng hạng lên Secondary Emerging, tín dụng xanh tăng 828 nghìn tỷ đồng. Tuy nhiên, áp lực từ bất động sản suy giảm (giao dịch giảm 23-40%), giá dầu tăng mạnh dự báo 90 USD/thùng gây rủi ro lạm phát, và khối ngoại bán ròng mạnh làm cân bằng triển vọng ngắn hạn.",
   "top": [
     {
-      "title": "Hà Nội và TP.HCM GRDP quý 3 tăng 10%+",
+      "title": "GRDP Hà Nội tăng 10,02% quý III",
       "impact": "↑",
-      "note": "Hà Nội tăng 10.02%, TP.HCM 10.08% (không tính dầu khí), lần đầu Hà Nội đạt hai con số trong năm — dịch vụ tăng lần lượt 10.33% và 9.95%, hỗ trợ tăng trưởng doanh thu và lợi nhuận doanh nghiệp"
+      "note": "GRDP Hà Nội quý III/2026 tăng 10,02% so với cùng kỳ năm trước, lần đầu chạm ngưỡng hai con số trong năm. GRDP 9 tháng tăng 8,85%, dịch vụ tăng 10,33% đóng góp 6,79 điểm phần trăm."
     },
     {
-      "title": "Ngân hàng Nhà nước nới trần LDR lên 95%",
+      "title": "FTSE Russell nâng Việt Nam lên Secondary Emerging",
       "impact": "↑",
-      "note": "Thông tư 50/2026 chính thức ban hành 30/09 — tăng hạn mức tín dụng giải phóng, hỗ trợ mục tiêu GDP 10%+, lợi nhuận khối ngân hàng tăng từ biên độ lãi suất rộng hơn"
+      "note": "Từ 21/9/2026, Việt Nam được FTSE Russell nâng từ Frontier sang Secondary Emerging. Cổ phiếu Việt Nam được đưa vào chỉ số theo từng giai đoạn đến tháng 9/2027, hứa hẹn thu hút dòng vốn ngoại mới."
     },
     {
-      "title": "Lãi suất trái phiếu ngân hàng cao 10,5%/năm",
+      "title": "Bất động sản suy giảm mạnh, giao dịch giảm 23-40%",
       "impact": "↓",
-      "note": "PVcomBank phát hành 200 tỷ đồng kỳ hạn 10 năm lãi suất 10.5%/năm (cao nhất nhiều năm), Sacombank 10%, TPBank 9.7% — phản ánh chi phí vốn gia tăng, áp lực lợi nhuận doanh nghiệp vay dài hạn"
+      "note": "Giao dịch BĐS quý III giảm mạnh: chung cư/nhà ở 26.567 giao dịch (giảm 23%), đất nền 73.438 giao dịch (giảm 40%) so với cùng kỳ. Lãi suất cao, thanh khoản chậm ảnh hưởng lợi nhuận doanh nghiệp BĐS."
     },
     {
-      "title": "Khối ngoại mua ròng 3.150 tỷ, MSR bùng nổ",
+      "title": "Giá dầu dự báo đạt 90 USD/thùng do gián đoạn cung",
+      "impact": "↓",
+      "note": "Chuyên gia nâng dự báo giá dầu Brent 2026 lên 90 USD/thùng trung bình (từ 85,08 USD tháng 8). Gián đoạn nguồn cung qua eo biển Hormuz do xung đột Mỹ-Iran gây rủi ro lạm phát nhập khẩu."
+    },
+    {
+      "title": "Tín dụng xanh đạt 828 nghìn tỷ đồng",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 3.150,5 tỷ đồng hôm 1/10 (chủ yếu MSR 3.239,8 tỷ từ thỏa thuận), lần đầu mua ròng sau 9 tháng bán liên tục — tín hiệu bắt đáy, kỳ vọng nhà đầu tư quốc tế về hồi phục"
+      "note": "Dư nợ tín dụng xanh cuối quý I/2026 tăng lên gần 828 nghìn tỷ đồng, hỗ trợ chuyển đổi xanh. Thị trường trái phiếu xanh nhỏ (28,63 nghìn tỷ đồng), chỉ 3,46% dư nợ tín dụng xanh."
     },
     {
-      "title": "Dòng tiền nội chống lại bán áp khối ngoại",
-      "impact": "↑",
-      "note": "Khối ngoại bán ròng tích lũy 96.000 tỷ đồng 9 tháng nhưng VN-Index vẫn vươn lên 1.900 điểm kỷ lục — dòng tiền nội kiên cường giữ giá, sức chống đỡ mạnh mẽ"
-    },
-    {
-      "title": "Doanh nghiệp nhà nước giữ nền tảng kinh tế",
+      "title": "Thị trường chứng khoán rung lắc, khối ngoại bán ròng",
       "impact": "→",
-      "note": "Giá trị tăng thêm từ 174,33 nghìn tỷ đồng (1986) lên 1.353,15 nghìn tỷ đồng (2025), gấp 8,72 lần; tỷ trọng GDP giảm từ 36,58% xuống 20,89% — cơ cấu cân bằng nhưng DN nhà nước vẫn kiềng kết hạ tầng, năng lượng, an ninh"
+      "note": "VN-Index giảm 9,8 điểm (-0,56%) xuống 1.739,5 điểm phiên sáng 2/10. Khối ngoại bán ròng mạnh, độ rộng thị trường nghiêng bán với 365 mã giảm vs 240 mã tăng."
     }
   ]
 }
