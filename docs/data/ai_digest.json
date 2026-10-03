@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-03",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam tiếp tục phát triển tốt với GDP quý III đạt 9,95% và 9 tháng đạt 9,01% (cao nhất từ 2011), sản xuất công nghiệp tăng 12,3% là cao nhất kể từ 2019 và FDI đăng ký tăng 76,4%, tín dụng tăng 11,59% hỗ trợ tăng trưởng. Áp lực rủi ro xuất hiện từ thị trường chứng khoán khi khối ngoại xả ròng 3,3 ngàn tỷ đồng và dòng tiền rút khỏi Ngân hàng và Bất động sản, đồng thời lạm phát 4,52% chịu áp lực từ xăng dầu. Quý IV là quyết định vì cần tăng trưởng GDP trên 12,5% để đạt mục tiêu cả năm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "GDP 9 tháng năm 2026 tăng 9,01% (Q3 đạt 9,95%), tiến gần mục tiêu 2 con số cả năm khi Thủ tướng nêu Q4 phải tăng trên 12,5%. FDI đạt 50,36 tỷ USD (+76,4%) và xuất nhập khẩu 888 tỷ USD (+30,4%) là điểm sáng, song lạm phát 9 tháng ở 4,52% và áp lực từ giá xăng dầu vẫn là rủi ro. Dòng tiền trong nước suy yếu khi thanh khoản teo tóp và khối ngoại bán ròng mạnh (3,3 ngàn tỷ trong phiên, tổng tuần đã rút khoảng 5,6 ngàn tỷ), chủ yếu từ Ngân hàng và Bất động sản.",
   "top": [
     {
-      "title": "GDP quý III đạt 9,95%, 9 tháng đạt 9,01% cao nhất từ 2011",
+      "title": "GDP Q3 tăng 9,95%, cần Q4 trên 12,5% để đạt mục tiêu 2 con số",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9,95% so với cùng kỳ, 9 tháng tăng 9,01%, cao nhất từ năm 2011. Khu vực công nghiệp và xây dựng tăng 11,21% đóng góp 49,62%, dịch vụ tăng 8,69% đóng góp 45,03%. Nền tảng tốt nhưng quý 4 phải tăng trên 12,5% để đạt mục tiêu 2 con số cả năm."
+      "note": "Tăng trưởng GDP 9 tháng 2026 ước đạt 9,01% so với cùng kỳ năm 2025 (cao nhất từ năm 2011). Thủ tướng nêu rõ để đạt tăng trưởng 2 con số cả năm, Q4 phải ở mức trên 12,5% — đây là áp lực rất lớn đòi hỏi các bộ ngành, địa phương phải quyết tâm cao nhất."
     },
     {
-      "title": "Sản xuất công nghiệp 9 tháng tăng 12,3%, cao nhất kể từ 2019",
+      "title": "FDI đăng ký tăng 76,4%, xuất nhập khẩu tăng 30,4% trong 9 tháng",
       "impact": "↑",
-      "note": "Chỉ số sản xuất công nghiệp (IIP) 9 tháng tăng 12,3% so với cùng kỳ năm trước, cao nhất kể từ 2019. Quý 3 tăng 14,8%, công nghiệp chế biến chế tạo tăng 15,3% đóng góp 10,0 điểm phần trăm. Động lực mạnh duy trì tăng trưởng kinh tế."
+      "note": "Vốn FDI đăng ký 9 tháng đạt 50,36 tỷ USD (+76,4% so với cùng kỳ), vốn thực hiện 21,07 tỷ USD (+12,1%). Xuất nhập khẩu tổng cộng 9 tháng đạt 888 tỷ USD (+30,4%). Khách quốc tế đạt 17,7 triệu lượt (+14,5%) — là điểm sáng chính cho phục hồi kinh tế."
     },
     {
-      "title": "FDI đăng ký 9 tháng đạt 50,36 tỷ USD, tăng 76,4%",
-      "impact": "↑",
-      "note": "Vốn FDI đăng ký 9 tháng 2026 đạt 50,36 tỷ USD, tăng 76,4% so với cùng kỳ năm 2025. Vốn thực hiện đạt 21,07 tỷ USD, tăng 12,1%. Xuất nhập khẩu đạt 888 tỷ USD, tăng 30,4%. Dòng vốn và thương mại chảy vào mạnh, hỗ trợ tăng trưởng."
-    },
-    {
-      "title": "Tín dụng đến 30/9 đạt 20,75 triệu tỷ đồng, tăng 11,59%",
-      "impact": "↑",
-      "note": "Tổng dư nợ hệ thống tín dụng đến 30/9/2026 đạt khoảng 20,75 triệu tỷ đồng, tăng 11,59% so với cuối năm 2025 và tăng 16,69% so với cùng kỳ năm ngoái. Phù hợp mục tiêu NHNN, tạo dư địa cấp tín dụng cho lĩnh vực ưu tiên."
-    },
-    {
-      "title": "Khối ngoại xả ròng 3.300 tỷ phiên cuối tuần, bán mạnh PNJ",
+      "title": "Thanh khoản teo tóp, dòng tiền rút khỏi Ngân hàng và Bất động sản",
       "impact": "↓",
-      "note": "Khối ngoại bất ngờ bán ròng 3.299,2 tỷ đồng phiên 3/10, trong đó PNJ bị bán ròng hơn 1,2 ngàn tỷ đồng. Áp lực bán hàng loạt từ nhà đầu tư nước ngoài gây sức ép lên thị trường chứng khoán."
+      "note": "Giá trị giao dịch bình quân trên HOSE tuần qua 11.967 tỷ đồng (giảm 2,89% WoW). Nhóm Ngân hàng gây áp lực 24,6 điểm chỉ số (LPB âm 9,2 điểm, STB âm 8,0 điểm). Nhóm Bất động sản áp lực 14,9 điểm (VIC âm 10,2 điểm). Dòng tiền dịch chuyển sang các nhóm vốn hóa vừa nhỏ hơn."
     },
     {
-      "title": "Thanh khoản \"teo tóp\", dòng tiền rút khỏi Ngân hàng & Bất động sản",
+      "title": "Khối ngoại bán ròng 3,3 ngàn tỷ, tiếp tục xả PNJ mạnh",
       "impact": "↓",
-      "note": "Tuần 40/2026, giá trị giao dịch bình quân HOSE đạt 11.967 tỷ đồng/phiên, giảm 15,18% so mức bình quân 5 tuần. Nhóm Ngân hàng gây áp lực 24,6 điểm (LPB âm 9,2 điểm, STB âm 8,0 điểm), Bất động sản âm 14,9 điểm. Dòng tiền rút khỏi các nhóm lớn tạo rủi ro ngắn hạn."
+      "note": "Phiên cuối tuần (3/10), khối ngoại bán ròng 3.299,2 tỷ đồng. Trong tuần qua, nhà đầu tư nước ngoài bán ròng tổng cộng khoảng 5,6 ngàn tỷ đồng, với PNJ là tâm điểm (bán ròng trên 1,2 ngàn tỷ trong một phiên). Tự doanh mua ròng chủ yếu vào HDB (1,5 ngàn tỷ)."
+    },
+    {
+      "title": "Nâng hạng thị trường chứng khoán lên 'emerging market' thứ cấp",
+      "impact": "→",
+      "note": "Từ 21/9/2026, thị trường chứng khoán Việt Nam chính thức nâng hạng lên thị trường mới nổi thứ cấp. Bộ Tài chính xác định nhiệm vụ trọng tâm: hoàn thiện thể chế, xử lý nghiêm vi phạm, bảo vệ quyền lợi nhà đầu tư — mở dòng vốn dài hạn nhưng cần quản lý rủi ro."
+    },
+    {
+      "title": "CPI 9 tháng tăng 4,52%, áp lực từ giá xăng dầu và dịch vụ",
+      "impact": "→",
+      "note": "CPI tháng 9 tăng 0,62% so với tháng trước chủ yếu do giá xăng (+9,39%) và dầu diesel (+4,53%). Bình quân 9 tháng, CPI +4,52% so với cùng kỳ 2025, lạm phát cơ bản +4,26%. Nhóm Giao thông tác động mạnh nhất (+3,97%, đóng góp 0,40 điểm phần trăm vào CPI chung)."
     }
   ]
 }
