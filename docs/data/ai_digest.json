@@ -1,8 +1,8 @@
 {
   "_opus": true,
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam tiếp tục tăng trưởng mạnh (9 tháng: 9.01%, quý 3: 9.95%, cao nhất từ 2011), với FDI tăng 76.4%, xuất nhập khẩu tăng 30.4% đạt 888 tỷ USD, công nghiệp-xây dựng tăng 11.21%. Tuy nhiên, TTCK hiện gặp áp lực từ bán tháo nhóm vốn hóa lớn (VIC lấy 12.45 điểm) và rút dòng tiền khỏi ngân hàng-bất động sản (ngân hàng lấy 24.6 điểm). CPI tháng 9 tăng 0.62% dưới áp lực xăng dầu (xăng tăng 9.39%, dầu diesel tăng 4.53%), yêu cầu giám sát lạm phát.",
+  "summary_vi": "Kinh tế vĩ mô 9 tháng 2026 đạt kết quả vượt trội: GDP 9.01%, công nghiệp 11.21%, FDI tăng 76.4%, xuất nhập khẩu tăng 30.4%; Chính phủ cam kết tăng trưởng 2 con số với mục tiêu GDP quý 4 trên 12.5%. Tuy vậy, thị trường chứng khoán đang chịu áp lực hiệu chỉnh: VN-Index giảm 2.66%, khối ngoại bán ròng 2.3 ngàn tỷ đồng, thanh khoản suy giảm, và áp lực lạm phát từ xăng dầu tăng 9.39%. Sự phân kỳ này giữa fundamentals vĩ mô mạnh và tâm lý thị trường thận trọng gây ra biến động ngắn hạn.",
   "top": [
     {
       "title": "GDP 9 tháng 9.01% cao nhất từ 2011, Q3 tăng 9.95%",
@@ -15,6 +15,11 @@
       "note": "Thủ tướng Lê Minh Hưng nêu rõ để tăng trưởng 2 con số cả năm 2026, Q4 phải tăng trên 12.5% (cao hơn Q3 9.95%). Đây là áp lực rất lớn, nhiệm vụ nặng nề đòi hỏi các bộ, ngành, địa phương quyết tâm cao nhất."
     },
     {
+      "title": "Bộ Tài chính triển khai chiến lược phát triển thị trường chứng khoán",
+      "impact": "↑",
+      "note": "Bộ Tài chính kiên trì tất cả mục tiêu phát triển TTCK theo Quyết định 1726/QĐ-TTg đến 2030. Trình Quốc hội sửa đổi Luật Chứng khoán trong kỳ họp tháng 10/2026, áp dụng AI, chuyển đổi số, cắt giảm điều kiện kinh doanh, thủ tục hành chính."
+    },
+    {
       "title": "HOSE Index giảm 2.66%, cổ phiếu vốn hóa lớn đè nặng",
       "impact": "↓",
       "note": "HOSE Index tuần 28/09-02/10 chốt 1,737.71 điểm, giảm 2.66%. VIC lấy đi 12.45 điểm VN-Index, nhóm ngân hàng lấy đi 24.6 điểm (LPB âm 9.2, STB âm 8.0), bất động sản lấy 14.9 điểm (VIC âm 10.2 điểm)."
@@ -23,11 +28,6 @@
       "title": "Khối ngoại bán ròng 2.3 ngàn tỷ, rút mạnh khỏi PNJ",
       "impact": "↓",
       "note": "Khối ngoại bán ròng gần 2.3 ngàn tỷ đồng phiên 02/10. PNJ bị bán ròng hơn 1.2 ngàn tỷ, chiếm trên 50% tổng giá trị rút vốn ngoại. Tự doanh công ty chứng khoán ngược lại mua ròng 1.7 ngàn tỷ, riêng HDB được mua 1.5 ngàn tỷ."
-    },
-    {
-      "title": "Giá trị giao dịch khớp lệnh giảm, dòng tiền rút khỏi NH-BĐS",
-      "impact": "↓",
-      "note": "GTGD khớp lệnh HOSE 11.967 tỷ đồng/phiên giảm 2.89%, toàn thị trường 13.070 tỷ đồng/phiên giảm 1.59% so với tuần trước. Dòng tiền dịch chuyển khỏi Ngân hàng (lấy 24.6 điểm) và Bất động sản (lấy 14.9 điểm) sang nhóm ngành vừa như hàng hóa, dịch vụ công nghiệp."
     },
     {
       "title": "CPI tháng 9 tăng 0.62%, giao thông tăng 3.97% do giá xăng",
