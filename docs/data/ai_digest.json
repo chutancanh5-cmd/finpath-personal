@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-03",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực bán mạnh từ khối ngoại rút ròng gần 5-6 ngàn tỷ đồng, khiến VN-Index giảm 2.66% trong tuần với 5 phiên giảm liên tiếp. Tuy nhiên, GRDP Hà Nội tăng 10.02% quý 3 (lần đầu chạm ngưỡng hai con số) phản ánh nền kinh tế vẫn giữ động lực tăng trưởng từ dịch vụ, công nghiệp và đầu tư. Ngắn hạn thị trường tiếp tục chịu áp lực từ dòng tiền ngoại rút, nhưng vấn đề cấu trúc vốn xanh (96.54% phụ thuộc tín dụng) đặt thách thức lâu dài cho chiến lược tài chính bền vững.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "GDP quý 3 tăng 9.95% gần mốc 10%, phục hồi mạnh từ công nghiệp, xuất nhập khẩu và đầu tư. Tuy nhiên, thị trường chứng khoán chịu áp lực từ dòng tiền yếu, khối ngoại xả ròng 3.3 ngàn tỷ, cộng với lạm phát tháng 9 tăng 0.62% chủ yếu do xăng dầu. Nhà đầu tư cần cân bằng kỳ vọng tăng trưởng dài hạn với rủi ro thanh khoản ngắn hạn.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 3.3 ngàn tỷ, áp lực rộng trên thị trường",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng hơn 3.300 tỷ đồng trong phiên 2/10, tiếp sau phiên bán ròng 2.3 ngàn tỷ trước đó, tổng cộng rút gần 5.6 ngàn tỷ đồng trong 2 phiên cuối tuần. Áp lực bán gia tăng trên diện rộng khi hơn 140 cổ phiếu giảm quá 1%, khiến độ rộng thị trường suy yếu không phanh."
-    },
-    {
-      "title": "VN-Index giảm 2.66% tuần, 5 phiên giảm liên tiếp",
-      "impact": "↓",
-      "note": "VN-Index tuần 28/09-02/10/2026 giảm 47.4 điểm xuống 1,737.71 điểm (-2.66%), HNX-Index mất 5.46 điểm (-2.01%). Chỉ số kéo dài chuỗi giảm sang phiên thứ 5 liên tiếp, thanh khoản chưa cải thiện, áp lực bán ngày càng gia tăng trên diện rộng mà lực cầu không đủ để giữ vùng hỗ trợ."
-    },
-    {
-      "title": "Dòng tiền cá mập: ngoại bán 2.3 ngàn tỷ, tự doanh mua 1.7 ngàn tỷ",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 2.3 ngàn tỷ đồng phiên 2/10, riêng PNJ bị bán ròng 1.2 ngàn tỷ (chiếm hơn nửa tổng rút vốn), TCB bán 144 tỷ, VIC bán 188 tỷ. Tự doanh mua ròng 1.7 ngàn tỷ, chủ yếu HDB (1.5 ngàn tỷ). Sự trái chiều cho thấy nhà đầu tư nước ngoài và trong nước có định giá khác nhau về blue-chip."
-    },
-    {
-      "title": "GRDP Hà Nội tăng 10.02% quý 3, động lực kinh tế vẫn mạnh",
+      "title": "GDP quý 3 tăng 9.95%, phục hồi mạnh",
       "impact": "↑",
-      "note": "GRDP Hà Nội quý 3/2026 ước tăng 10.02% so với cùng kỳ 2025, lần đầu tiên trong năm đạt tăng trưởng hai con số và cao nhất ba quý. Dịch vụ tăng 10.33% (đóng góp 6.79 điểm), tài chính-ngân hàng-bảo hiểm tăng 12.50%, chuyên môn-công nghệ tăng 11.86%, phản ánh sự tăng tốc của kinh tế Thủ đô."
+      "note": "GDP quý 3/2026 tăng 9.95% so với cùng kỳ, cao hơn quý 1 (8.15%) và quý 2 (8.81%). Khu vực công nghiệp và xây dựng tăng 12.50%, dịch vụ tăng 9.54%. GDP 9 tháng tăng 9.01%, tiến gần mục tiêu hai con số. Động lực tăng trưởng từ đầu tư, xuất nhập khẩu (tăng 23.27%), và niềm tin doanh nghiệp."
     },
     {
-      "title": "Vốn xanh phụ thuộc quá mức tín dụng ngân hàng (96.54%)",
-      "impact": "→",
-      "note": "Dư nợ trái phiếu xanh cuối Q1/2026 chỉ 28.63 ngàn tỷ đồng, bằng 3.46% dư nợ tín dụng xanh (828 ngàn tỷ đồng). Phát hành trái phiếu xanh 2025 chỉ 3.407 tỷ đồng (giảm từ >10.000 tỷ năm trước), gây rủi ro về kỳ hạn và khả năng cân cơ cấu vốn cho dự án chuyển đổi xanh dài hạn."
+      "title": "Thanh khoản teo tóp, dòng tiền rút khỏi Ngân hàng/BĐS",
+      "impact": "↓",
+      "note": "Giá trị giao dịch khớp lệnh HCM giảm 2.89% so với tuần trước, toàn thị trường giảm 1.59% so với bình quân 5 tuần. VN-Index mất 24.6 điểm từ nhóm Ngân hàng (LPB -9.2 điểm, STB -8.0, TCB -2.1) và 14.9 điểm từ BĐS (VIC -10.2), đóng góp tiêu cực với 14 mã ngân hàng và 11 mã BĐS."
     },
     {
-      "title": "Đầu tư sang Lào tăng 4.2 lần, tổng vốn 7.04 tỷ USD",
+      "title": "Khối ngoại bán ròng 3.3 ngàn tỷ, tiếp tục xả PNJ",
+      "impact": "↓",
+      "note": "Phiên cuối tuần (02/10), khối ngoại bán ròng 3.299 tỷ đồng (khớp lệnh 2.261 tỷ), trong đó PNJ bị rút gần 1.2 ngàn tỷ. Tự doanh công ty chứng khoán ngược lại mua ròng 1.7 ngàn tỷ, tập trung tại HDB (1.5 ngàn tỷ). Signal của khối ngoại là tiêu cực, áp lực thanh khoản liên tục."
+    },
+    {
+      "title": "CPI tháng 9 tăng 0.62%, 9 tháng tăng 4.52%",
+      "impact": "↓",
+      "note": "CPI tháng 9 tăng 0.62%, chủ yếu do giá xăng trong nước tăng 9.39% và dầu diesel tăng 4.53% theo biến động thế giới. Nhóm Giao thông tác động 0.40 điểm phần trăm. CPI 9 tháng tăng 4.52%, lạm phát cơ bản tăng 4.26%, áp lực lãi suất cao tiếp tục."
+    },
+    {
+      "title": "GRDP 12 tỉnh thành tăng 2 con số, Quảng Ninh dẫn 12.54%",
+      "impact": "↑",
+      "note": "12/34 tỉnh thành tăng 10% trở lên, Quảng Ninh dẫn 12.54%, Hà Tĩnh 12.36%, Hải Phòng 12.08%. Tăng trưởng tập trung tại các địa phương có công nghiệp, chế biến, chế tạo lớn và xuất khẩu phát triển. Hà Nội/HCM vắng mặt khỏi nhóm hai con số, khiến động lực tăng trưởng từ các khu vực vùng ven."
+    },
+    {
+      "title": "Giá vàng nội nới rộng chênh lệch với thế giới lên 13 triệu",
       "impact": "→",
-      "note": "7 tháng đầu 2026, Việt Nam có 20 dự án đầu tư sang Lào với vốn đăng ký 638.3 triệu USD (tăng 4.2 lần so với cùng kỳ 2025). Lào tiếp tục là địa bàn đầu tư ra nước ngoài lớn nhất với 300 dự án tích lũy và 7.04 tỷ USD, phản ánh chiến lược tích cực trong hợp tác khu vực Đông Nam Á."
+      "note": "Giá vàng miếng SJC quanh 140.5-143.5 triệu đồng/lượng, cao hơn thế giới 12.9 triệu đồng/lượng. Chênh lệch này lớn hơn tháng 8 (3-4.7 triệu), cho thấy giá vàng trong nước không vận động cùng nhịp với thế giới. Chuyên gia khuyên thận trọng đầu tư ngắn hạn, cần theo dõi chính sách tiền tệ Mỹ."
     }
   ]
 }
