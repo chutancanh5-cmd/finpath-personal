@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-03",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam tăng trưởng mạnh với GDP 9 tháng đạt 9.01% (cao nhất từ 2011), FDI đăng ký tăng 76.4% lên 50.36 tỷ USD, công nghiệp-xây dựng tăng 11.21%, xuất nhập khẩu tăng 30.4% đạt 888 tỷ USD. Tuy nhiên thị trường chứng khoán chịu áp lực: HOSE Index giảm 2.66%, khối ngoại bán ròng 3.3 ngàn tỷ (PNJ 1.2 ngàn tỷ), thanh khoản giảm 1.59%. Lạm phát CPI tháng 9 tăng 0.62% (9 tháng 4.52%) do xăng tăng 9.39%, dầu diesel tăng 4.53%. Thủ tướng đặt mục tiêu Q4 phải tăng trên 12.5% để hoàn thành tăng trưởng 2 con số cả năm là áp lực lớn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục tăng trưởng mạnh (9 tháng: 9.01%, quý 3: 9.95%, cao nhất từ 2011), với FDI tăng 76.4%, xuất nhập khẩu tăng 30.4% đạt 888 tỷ USD, công nghiệp-xây dựng tăng 11.21%. Tuy nhiên, TTCK hiện gặp áp lực từ bán tháo nhóm vốn hóa lớn (VIC lấy 12.45 điểm) và rút dòng tiền khỏi ngân hàng-bất động sản (ngân hàng lấy 24.6 điểm). CPI tháng 9 tăng 0.62% dưới áp lực xăng dầu (xăng tăng 9.39%, dầu diesel tăng 4.53%), yêu cầu giám sát lạm phát.",
   "top": [
     {
       "title": "GDP 9 tháng 9.01% cao nhất từ 2011, Q3 tăng 9.95%",
       "impact": "↑",
-      "note": "GDP quý 3 tăng 9.95%, 9 tháng tăng 9.01% so với cùng kỳ 2025 - cao nhất từ năm 2011. Công nghiệp-xây dựng tăng 11.21% (cao nhất từ 2015), dịch vụ tăng 8.69%, nông lâm thủy sản tăng 4.02%. FDI đăng ký 50.36 tỷ USD tăng 76.4%, xuất nhập khẩu đạt 888 tỷ USD tăng 30.4%."
+      "note": "GDP quý 3 ước tăng 9.95%, 9 tháng tăng 9.01% - cao nhất từ 2011. Công nghiệp-xây dựng tăng 11.21% (cao nhất từ 2015), dịch vụ tăng 8.69%. FDI đăng ký 50.36 tỷ USD tăng 76.4%, thực hiện 21.07 tỷ USD tăng 12.1%. Xuất nhập khẩu 888 tỷ USD tăng 30.4%."
     },
     {
-      "title": "FDI đăng ký tăng vọt 76.4%, đạt 50.36 tỷ USD",
+      "title": "Thủ tướng: Q4 GDP phải tăng trên 12.5% để đạt tăng trưởng 2 con số",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 9 tháng đạt 50.36 tỷ USD tăng 76.4%, thực hiện 21.07 tỷ USD tăng 12.1%. Tiêu dùng 9 tháng tăng 13.4%, khách quốc tế đạt 17.7 triệu lượt tăng 14.5%. Tổng vốn đầu tư xã hội 3.11 triệu tỷ đồng tăng 15.1%."
-    },
-    {
-      "title": "Thủ tướng: Q4 GDP phải tăng trên 12.5% để đạt mục tiêu",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng chỉ đạo để tăng trưởng 2 con số cả năm 2026 thì Q4 phải tăng trên 12.5% (cao hơn Q3 9.95%). Đây là áp lực rất lớn, nhiệm vụ nặng nề đòi hỏi các bộ, ngành, địa phương quyết tâm cao nhất."
+      "note": "Thủ tướng Lê Minh Hưng nêu rõ để tăng trưởng 2 con số cả năm 2026, Q4 phải tăng trên 12.5% (cao hơn Q3 9.95%). Đây là áp lực rất lớn, nhiệm vụ nặng nề đòi hỏi các bộ, ngành, địa phương quyết tâm cao nhất."
     },
     {
       "title": "HOSE Index giảm 2.66%, cổ phiếu vốn hóa lớn đè nặng",
       "impact": "↓",
-      "note": "HOSE Index tuần 28/09-02/10 chốt tại 1,737.71 điểm, giảm 2.66%. VIC lấy đi 12.45 điểm (tác động tiêu cực mạnh nhất), LPB 3.75 điểm, STB 3.1 điểm, VHM 2 điểm. GTGD khớp lệnh toàn thị trường giảm 1.59%, nhóm Ngân hàng lấy đi 24.6 điểm."
+      "note": "HOSE Index tuần 28/09-02/10 chốt 1,737.71 điểm, giảm 2.66%. VIC lấy đi 12.45 điểm VN-Index, nhóm ngân hàng lấy đi 24.6 điểm (LPB âm 9.2, STB âm 8.0), bất động sản lấy 14.9 điểm (VIC âm 10.2 điểm)."
     },
     {
-      "title": "Khối ngoại xả ròng 3.3 ngàn tỷ, bán tháo PNJ 1.2 ngàn tỷ",
+      "title": "Khối ngoại bán ròng 2.3 ngàn tỷ, rút mạnh khỏi PNJ",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 3.299 tỷ đồng phiên cuối tuần (khớp lệnh 2.261 tỷ đồng). PNJ bị bán ròng 1.2 ngàn tỷ đồng chiếm >50% tổng giá trị rút vốn ngoại. Độ rộng thị trường 216 mã giảm vs 90 mã tăng, tỷ lệ cổ phiếu tăng/giảm chỉ 0.32."
+      "note": "Khối ngoại bán ròng gần 2.3 ngàn tỷ đồng phiên 02/10. PNJ bị bán ròng hơn 1.2 ngàn tỷ, chiếm trên 50% tổng giá trị rút vốn ngoại. Tự doanh công ty chứng khoán ngược lại mua ròng 1.7 ngàn tỷ, riêng HDB được mua 1.5 ngàn tỷ."
     },
     {
-      "title": "CPI tháng 9 tăng 0.62%, giao thông tăng 3.97%, xăng tăng 9.39%",
+      "title": "Giá trị giao dịch khớp lệnh giảm, dòng tiền rút khỏi NH-BĐS",
       "impact": "↓",
-      "note": "CPI tháng 9 tăng 0.62%, bình quân 9 tháng tăng 4.52%. Nhóm Giao thông tăng 3.97% (xăng tăng 9.39%, dầu diesel tăng 4.53%, đóng góp 0.40 điểm CPI), giáo dục tăng 1.41%, nhà ở-điện nước tăng 0.28%. Áp lực chi phí doanh nghiệp từ nhiên liệu."
+      "note": "GTGD khớp lệnh HOSE 11.967 tỷ đồng/phiên giảm 2.89%, toàn thị trường 13.070 tỷ đồng/phiên giảm 1.59% so với tuần trước. Dòng tiền dịch chuyển khỏi Ngân hàng (lấy 24.6 điểm) và Bất động sản (lấy 14.9 điểm) sang nhóm ngành vừa như hàng hóa, dịch vụ công nghiệp."
+    },
+    {
+      "title": "CPI tháng 9 tăng 0.62%, giao thông tăng 3.97% do giá xăng",
+      "impact": "↓",
+      "note": "CPI tháng 9 tăng 0.62%, 9 tháng tăng 4.52%. Nhóm Giao thông tăng 3.97% (xăng tăng 9.39%, dầu diesel tăng 4.53%, đóng góp 0.40 điểm CPI). Giáo dục tăng 1.41%, nhà ở-điện nước-chất đốt tăng 0.28%, đặc biệt dầu hỏa tăng 2.19%, gas tăng 1.35%."
     }
   ]
 }
