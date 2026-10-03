@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP quý 3 tăng 9.95% gần mốc 10%, phục hồi mạnh từ công nghiệp, xuất nhập khẩu và đầu tư. Tuy nhiên, thị trường chứng khoán chịu áp lực từ dòng tiền yếu, khối ngoại xả ròng 3.3 ngàn tỷ, cộng với lạm phát tháng 9 tăng 0.62% chủ yếu do xăng dầu. Nhà đầu tư cần cân bằng kỳ vọng tăng trưởng dài hạn với rủi ro thanh khoản ngắn hạn.",
+  "summary_vi": "Kinh tế vĩ mô Việt Nam tăng trưởng mạnh (GDP 9 tháng 9,01%, công nghiệp +12,3%, FDI +76,4%), nhưng thị trường chứng khoán gặp áp lực từ lạm phát (CPI 4,52%, xăng +9,39%), khối ngoại bán ròng (3,3 ngàn tỷ) và dòng tiền rút khỏi ngân hàng-bất động sản. Tín dụng +11,59% hỗ trợ tăng trưởng, TTCK được nâng hạng, nhưng rủi ro lạm phát vẫn tồn tại.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9.95%, phục hồi mạnh",
+      "title": "GDP quý 3 tăng 9,95%, 9 tháng tăng 9,01%",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9.95% so với cùng kỳ, cao hơn quý 1 (8.15%) và quý 2 (8.81%). Khu vực công nghiệp và xây dựng tăng 12.50%, dịch vụ tăng 9.54%. GDP 9 tháng tăng 9.01%, tiến gần mục tiêu hai con số. Động lực tăng trưởng từ đầu tư, xuất nhập khẩu (tăng 23.27%), và niềm tin doanh nghiệp."
+      "note": "GDP quý 3/2026 tăng 9,95% so với cùng kỳ năm trước, 9 tháng tăng 9,01%. Công nghiệp và xây dựng tăng 11,21%, dịch vụ tăng 8,69%. Tín hiệu tích cực cho khả năng đạt mục tiêu tăng trưởng 10% cả năm 2026."
     },
     {
-      "title": "Thanh khoản teo tóp, dòng tiền rút khỏi Ngân hàng/BĐS",
-      "impact": "↓",
-      "note": "Giá trị giao dịch khớp lệnh HCM giảm 2.89% so với tuần trước, toàn thị trường giảm 1.59% so với bình quân 5 tuần. VN-Index mất 24.6 điểm từ nhóm Ngân hàng (LPB -9.2 điểm, STB -8.0, TCB -2.1) và 14.9 điểm từ BĐS (VIC -10.2), đóng góp tiêu cực với 14 mã ngân hàng và 11 mã BĐS."
-    },
-    {
-      "title": "Khối ngoại bán ròng 3.3 ngàn tỷ, tiếp tục xả PNJ",
-      "impact": "↓",
-      "note": "Phiên cuối tuần (02/10), khối ngoại bán ròng 3.299 tỷ đồng (khớp lệnh 2.261 tỷ), trong đó PNJ bị rút gần 1.2 ngàn tỷ. Tự doanh công ty chứng khoán ngược lại mua ròng 1.7 ngàn tỷ, tập trung tại HDB (1.5 ngàn tỷ). Signal của khối ngoại là tiêu cực, áp lực thanh khoản liên tục."
-    },
-    {
-      "title": "CPI tháng 9 tăng 0.62%, 9 tháng tăng 4.52%",
-      "impact": "↓",
-      "note": "CPI tháng 9 tăng 0.62%, chủ yếu do giá xăng trong nước tăng 9.39% và dầu diesel tăng 4.53% theo biến động thế giới. Nhóm Giao thông tác động 0.40 điểm phần trăm. CPI 9 tháng tăng 4.52%, lạm phát cơ bản tăng 4.26%, áp lực lãi suất cao tiếp tục."
-    },
-    {
-      "title": "GRDP 12 tỉnh thành tăng 2 con số, Quảng Ninh dẫn 12.54%",
+      "title": "Sản xuất công nghiệp tăng 12,3% (cao nhất kể từ 2019)",
       "impact": "↑",
-      "note": "12/34 tỉnh thành tăng 10% trở lên, Quảng Ninh dẫn 12.54%, Hà Tĩnh 12.36%, Hải Phòng 12.08%. Tăng trưởng tập trung tại các địa phương có công nghiệp, chế biến, chế tạo lớn và xuất khẩu phát triển. Hà Nội/HCM vắng mặt khỏi nhóm hai con số, khiến động lực tăng trưởng từ các khu vực vùng ven."
+      "note": "Chỉ số sản xuất công nghiệp 9 tháng/2026 tăng 12,3% so với cùng kỳ năm 2025, mức tăng 9 tháng cao nhất kể từ 2019 đến nay. Ngành chế biến, chế tạo tăng 12,9%, khai khoáng tăng 8,0%, thể hiện phục hồi toàn diện của sản xuất."
     },
     {
-      "title": "Giá vàng nội nới rộng chênh lệch với thế giới lên 13 triệu",
-      "impact": "→",
-      "note": "Giá vàng miếng SJC quanh 140.5-143.5 triệu đồng/lượng, cao hơn thế giới 12.9 triệu đồng/lượng. Chênh lệch này lớn hơn tháng 8 (3-4.7 triệu), cho thấy giá vàng trong nước không vận động cùng nhịp với thế giới. Chuyên gia khuyên thận trọng đầu tư ngắn hạn, cần theo dõi chính sách tiền tệ Mỹ."
+      "title": "Tín dụng tăng 11,59%, hỗ trợ tăng trưởng",
+      "impact": "↑",
+      "note": "Tổng dư nợ hệ thống tín dụng đến 30/9/2026 đạt 20,75 triệu tỷ đồng, tăng 11,59% so với cuối năm 2025, tăng 16,69% so với cùng kỳ năm ngoái. Phó Thống đốc Phạm Thanh Hà khẳng định tăng trưởng này phù hợp với mục tiêu của NHNN năm 2026."
+    },
+    {
+      "title": "CPI 9 tháng tăng 4,52%, áp lực từ giá dầu",
+      "impact": "↓",
+      "note": "CPI 9 tháng/2026 tăng 4,52% so với cùng kỳ năm 2025, lạm phát cơ bản tăng 4,26%. Tháng 9, giá xăng tăng 9,39%, giá dầu diesel tăng 4,53%, nhóm Giao thông tác động 0,40 điểm phần trăm vào CPI chung. Áp lực lạm phát có thể ảnh hưởng đến chính sách tiền tệ."
+    },
+    {
+      "title": "Khối ngoại bán ròng 3,3 ngàn tỷ, rút khỏi PNJ",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 3.299,2 tỷ đồng (khớp lệnh 2.261,3 tỷ), riêng PNJ bị rút 1,2 ngàn tỷ. Đây là phiên thứ hai liên tiếp khối ngoại bán ròng mạnh, tín hiệu cảnh báo về lợi suất hấp dẫn hoặc rủi ro tỷ giá."
+    },
+    {
+      "title": "Thanh khoản yếu, tiền rút khỏi Ngân hàng-Bất động sản",
+      "impact": "↓",
+      "note": "Tuần 40/2026, giao dịch khớp lệnh HOSE bình quân giảm 2,89%, toàn thị trường giảm 1,59% so với tuần trước. Nhóm Ngân hàng gây áp lực lớn (-24,6 điểm, LPB -9,2 điểm, STB -8,0 điểm), Bất động sản -14,9 điểm (VIC -10,2 điểm), 216 mã giảm vs 90 mã tăng."
     }
   ]
 }
