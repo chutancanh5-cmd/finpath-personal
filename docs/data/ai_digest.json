@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-03",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP 9 tháng năm 2026 tăng 9,01% (Q3 đạt 9,95%), tiến gần mục tiêu 2 con số cả năm khi Thủ tướng nêu Q4 phải tăng trên 12,5%. FDI đạt 50,36 tỷ USD (+76,4%) và xuất nhập khẩu 888 tỷ USD (+30,4%) là điểm sáng, song lạm phát 9 tháng ở 4,52% và áp lực từ giá xăng dầu vẫn là rủi ro. Dòng tiền trong nước suy yếu khi thanh khoản teo tóp và khối ngoại bán ròng mạnh (3,3 ngàn tỷ trong phiên, tổng tuần đã rút khoảng 5,6 ngàn tỷ), chủ yếu từ Ngân hàng và Bất động sản.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "GDP 9 tháng đạt 9.01% (cao nhất từ 2011) với động lực từ công nghiệp tăng 11.21%, FDI tăng 76.4% và xuất nhập khẩu tăng 30.4%. Thị trường chứng khoán được nâng hạng ngày 21/9 và cam kết kiểm soát vi phạm. Tuy nhiên, khối ngoại rút vốn mạnh 3.3 ngàn tỷ, thanh khoản giảm 2.89%, dòng tiền rút khỏi Ngân hàng và Bất động sản. Mục tiêu Q4 tăng >12.5% là áp lực lớn, CPI 9 tháng 4.52% chủ yếu từ xăng dầu tăng 9.39%.",
   "top": [
     {
-      "title": "GDP Q3 tăng 9,95%, cần Q4 trên 12,5% để đạt mục tiêu 2 con số",
+      "title": "GDP 9 tháng tăng 9.01%, cao nhất từ 2011",
       "impact": "↑",
-      "note": "Tăng trưởng GDP 9 tháng 2026 ước đạt 9,01% so với cùng kỳ năm 2025 (cao nhất từ năm 2011). Thủ tướng nêu rõ để đạt tăng trưởng 2 con số cả năm, Q4 phải ở mức trên 12,5% — đây là áp lực rất lớn đòi hỏi các bộ ngành, địa phương phải quyết tâm cao nhất."
+      "note": "GDP quý 3 tăng 9.95%, 9 tháng tăng 9.01% so với cùng kỳ 2025. Công nghiệp tăng 11.21%, dịch vụ tăng 8.69%, nông lâm thủy sản tăng 4.02%. FDI đăng ký 9 tháng đạt 50.36 tỷ USD tăng 76.4%, xuất nhập khẩu đạt 888 tỷ USD tăng 30.4%, doanh thu dịch vụ tiêu dùng tăng 13.4%."
     },
     {
-      "title": "FDI đăng ký tăng 76,4%, xuất nhập khẩu tăng 30,4% trong 9 tháng",
+      "title": "Mục tiêu GDP quý 4 trên 12.5% để đạt 2 con số cả năm",
+      "impact": "→",
+      "note": "Thủ tướng Lê Minh Hưng chỉ đạo các bộ, ngành, địa phương phải quyết tâm và nỗ lực cao nhất để GDP Q4 tăng trên 12.5%, đây là áp lực rất lớn, nhiệm vụ nặng nề đòi hỏi khối lượng giải pháp và triển khai từ nay đến cuối năm."
+    },
+    {
+      "title": "Khối ngoại xả ròng 3.3 ngàn tỷ đồng, bán tháo PNJ",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 3.3 ngàn tỷ đồng trong phiên cuối tuần, giao dịch khớp lệnh tăng 25.3% nhưng chiều bán áp đảo. Riêng PNJ bị bán ròng gần 1.2 ngàn tỷ đồng (chiếm hơn nửa rút vốn của khối ngoại), cho thấy nhà đầu tư quốc tế đang rút khỏi thị trường."
+    },
+    {
+      "title": "Thanh khoản suy yếu, dòng tiền rút khỏi Ngân hàng và BĐS",
+      "impact": "↓",
+      "note": "Giá trị giao dịch khớp lệnh trung bình giảm 2.89% so với tuần trước, 14 cổ phiếu ngân hàng kéo VN-Index giảm 24.6 điểm (LPB âm 9.2, STB âm 8.0, TCB âm 2.1), 11 cổ phiếu bất động sản kéo giảm 14.9 điểm (VIC âm 10.2), cho thấy dòng tiền dịch chuyển ra khỏi các ngành chủ chốt."
+    },
+    {
+      "title": "CPI 9 tháng tăng 4.52%, xăng dầu tăng 9.39%",
+      "impact": "↓",
+      "note": "CPI tháng 9 tăng 0.62%, 9 tháng tăng 4.52% so với cùng kỳ 2025, lạm phát cơ bản 4.26%. Nhóm Giao thông tăng 3.97% (xăng tăng 9.39%, dầu diesel tăng 4.53%), giáo dục tăng 1.41%, nhà ở điện nước tăng 0.28%, tạo áp lực chi phí đến doanh nghiệp và người tiêu dùng."
+    },
+    {
+      "title": "TTCK nâng hạng thành emerging market secondary, ngăn chặn vi phạm",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 9 tháng đạt 50,36 tỷ USD (+76,4% so với cùng kỳ), vốn thực hiện 21,07 tỷ USD (+12,1%). Xuất nhập khẩu tổng cộng 9 tháng đạt 888 tỷ USD (+30,4%). Khách quốc tế đạt 17,7 triệu lượt (+14,5%) — là điểm sáng chính cho phục hồi kinh tế."
-    },
-    {
-      "title": "Thanh khoản teo tóp, dòng tiền rút khỏi Ngân hàng và Bất động sản",
-      "impact": "↓",
-      "note": "Giá trị giao dịch bình quân trên HOSE tuần qua 11.967 tỷ đồng (giảm 2,89% WoW). Nhóm Ngân hàng gây áp lực 24,6 điểm chỉ số (LPB âm 9,2 điểm, STB âm 8,0 điểm). Nhóm Bất động sản áp lực 14,9 điểm (VIC âm 10,2 điểm). Dòng tiền dịch chuyển sang các nhóm vốn hóa vừa nhỏ hơn."
-    },
-    {
-      "title": "Khối ngoại bán ròng 3,3 ngàn tỷ, tiếp tục xả PNJ mạnh",
-      "impact": "↓",
-      "note": "Phiên cuối tuần (3/10), khối ngoại bán ròng 3.299,2 tỷ đồng. Trong tuần qua, nhà đầu tư nước ngoài bán ròng tổng cộng khoảng 5,6 ngàn tỷ đồng, với PNJ là tâm điểm (bán ròng trên 1,2 ngàn tỷ trong một phiên). Tự doanh mua ròng chủ yếu vào HDB (1,5 ngàn tỷ)."
-    },
-    {
-      "title": "Nâng hạng thị trường chứng khoán lên 'emerging market' thứ cấp",
-      "impact": "→",
-      "note": "Từ 21/9/2026, thị trường chứng khoán Việt Nam chính thức nâng hạng lên thị trường mới nổi thứ cấp. Bộ Tài chính xác định nhiệm vụ trọng tâm: hoàn thiện thể chế, xử lý nghiêm vi phạm, bảo vệ quyền lợi nhà đầu tư — mở dòng vốn dài hạn nhưng cần quản lý rủi ro."
-    },
-    {
-      "title": "CPI 9 tháng tăng 4,52%, áp lực từ giá xăng dầu và dịch vụ",
-      "impact": "→",
-      "note": "CPI tháng 9 tăng 0,62% so với tháng trước chủ yếu do giá xăng (+9,39%) và dầu diesel (+4,53%). Bình quân 9 tháng, CPI +4,52% so với cùng kỳ 2025, lạm phát cơ bản +4,26%. Nhóm Giao thông tác động mạnh nhất (+3,97%, đóng góp 0,40 điểm phần trăm vào CPI chung)."
+      "note": "Từ 21/9, thị trường chứng khoán Việt Nam chính thức nâng hạng lên thị trường mới nổi thứ cấp, được các tổ chức quốc tế công nhận. Thứ trưởng Bộ Tài chính Nguyễn Đức Chi cam kết các hành vi vi phạm sẽ được chủ động ngăn chặn, kịp thời phát hiện và xử lý nghiêm để bảo vệ lợi ích nhà đầu tư."
     }
   ]
 }
