@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-03",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế 9 tháng tăng trưởng mạnh với GDP 9.01%, Q3 tăng 9.95% (cao nhất từ 2011), công nghiệp tăng 11.21% (kỷ lục từ 2015), FDI tăng 76.4% đạt 50.36 tỷ USD, xuất nhập khẩu tăng 30.4% đạt 888 tỷ USD. Tuy nhiên dòng tiền ngoại yếu (rút ròng 3.3 ngàn tỷ, PNJ bán tháo 1.2 ngàn tỷ) và lạm phát tăng (CPI 9 tháng 4.52%, xăng tăng 9.39%) là rủi ro ngắn hạn. TTCK nâng hạng thị trường mới nổi thứ cấp hỗ trợ dòng tiền lâu dài, nhưng Q4 cần GDP >12.5% để đạt mục tiêu 2 con số cả năm là áp lực lớn.",
+  "summary_vi": "Kinh tế Việt Nam tăng trưởng mạnh với GDP 9 tháng đạt 9.01% (cao nhất từ 2011), FDI đăng ký tăng 76.4% lên 50.36 tỷ USD, công nghiệp-xây dựng tăng 11.21%, xuất nhập khẩu tăng 30.4% đạt 888 tỷ USD. Tuy nhiên thị trường chứng khoán chịu áp lực: HOSE Index giảm 2.66%, khối ngoại bán ròng 3.3 ngàn tỷ (PNJ 1.2 ngàn tỷ), thanh khoản giảm 1.59%. Lạm phát CPI tháng 9 tăng 0.62% (9 tháng 4.52%) do xăng tăng 9.39%, dầu diesel tăng 4.53%. Thủ tướng đặt mục tiêu Q4 phải tăng trên 12.5% để hoàn thành tăng trưởng 2 con số cả năm là áp lực lớn.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9.01%, Q3 tăng 9.95% cao nhất từ 2011",
+      "title": "GDP 9 tháng 9.01% cao nhất từ 2011, Q3 tăng 9.95%",
       "impact": "↑",
-      "note": "GDP quý 3 tăng 9.95%, 9 tháng tăng 9.01% so với cùng kỳ 2025. Công nghiệp-xây dựng tăng 11.21% (cao nhất từ 2015), dịch vụ tăng 8.69%, nông lâm thủy sản tăng 4.02%. FDI đăng ký 9 tháng 50.36 tỷ USD tăng 76.4%, xuất nhập khẩu đạt 888 tỷ USD tăng 30.4%, tiêu dùng tăng 13.4%, khách quốc tế 17.7 triệu lượt tăng 14.5%."
+      "note": "GDP quý 3 tăng 9.95%, 9 tháng tăng 9.01% so với cùng kỳ 2025 - cao nhất từ năm 2011. Công nghiệp-xây dựng tăng 11.21% (cao nhất từ 2015), dịch vụ tăng 8.69%, nông lâm thủy sản tăng 4.02%. FDI đăng ký 50.36 tỷ USD tăng 76.4%, xuất nhập khẩu đạt 888 tỷ USD tăng 30.4%."
+    },
+    {
+      "title": "FDI đăng ký tăng vọt 76.4%, đạt 50.36 tỷ USD",
+      "impact": "↑",
+      "note": "Vốn FDI đăng ký 9 tháng đạt 50.36 tỷ USD tăng 76.4%, thực hiện 21.07 tỷ USD tăng 12.1%. Tiêu dùng 9 tháng tăng 13.4%, khách quốc tế đạt 17.7 triệu lượt tăng 14.5%. Tổng vốn đầu tư xã hội 3.11 triệu tỷ đồng tăng 15.1%."
+    },
+    {
+      "title": "Thủ tướng: Q4 GDP phải tăng trên 12.5% để đạt mục tiêu",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng chỉ đạo để tăng trưởng 2 con số cả năm 2026 thì Q4 phải tăng trên 12.5% (cao hơn Q3 9.95%). Đây là áp lực rất lớn, nhiệm vụ nặng nề đòi hỏi các bộ, ngành, địa phương quyết tâm cao nhất."
+    },
+    {
+      "title": "HOSE Index giảm 2.66%, cổ phiếu vốn hóa lớn đè nặng",
+      "impact": "↓",
+      "note": "HOSE Index tuần 28/09-02/10 chốt tại 1,737.71 điểm, giảm 2.66%. VIC lấy đi 12.45 điểm (tác động tiêu cực mạnh nhất), LPB 3.75 điểm, STB 3.1 điểm, VHM 2 điểm. GTGD khớp lệnh toàn thị trường giảm 1.59%, nhóm Ngân hàng lấy đi 24.6 điểm."
     },
     {
       "title": "Khối ngoại xả ròng 3.3 ngàn tỷ, bán tháo PNJ 1.2 ngàn tỷ",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 3.3 ngàn tỷ đồng phiên cuối tuần, bán ròng 2.261 tỷ khớp lệnh. PNJ bị bán ròng 1.2 ngàn tỷ (chiếm >50% rút vốn ngoại). TCB bán ròng 144 tỷ, VIC 188 tỷ. Thanh khoản khớp lệnh giảm 2.89% so với tuần trước, nhóm Ngân hàng giảm 24.6 điểm (LPB -9.2, STB -8.0), Bất động sản giảm 14.9 điểm (VIC -10.2)."
+      "note": "Khối ngoại bán ròng 3.299 tỷ đồng phiên cuối tuần (khớp lệnh 2.261 tỷ đồng). PNJ bị bán ròng 1.2 ngàn tỷ đồng chiếm >50% tổng giá trị rút vốn ngoại. Độ rộng thị trường 216 mã giảm vs 90 mã tăng, tỷ lệ cổ phiếu tăng/giảm chỉ 0.32."
     },
     {
-      "title": "CPI tháng 9 tăng 0.62%, 9 tháng tăng 4.52%, xăng tăng 9.39%",
+      "title": "CPI tháng 9 tăng 0.62%, giao thông tăng 3.97%, xăng tăng 9.39%",
       "impact": "↓",
-      "note": "CPI tháng 9 tăng 0.62%, bình quân 9 tháng tăng 4.52% so với cùng kỳ 2025. Nhóm Giao thông tăng 3.97% (xăng tăng 9.39%, dầu diesel tăng 4.53%, đóng góp 0.40 điểm CPI), giáo dục tăng 1.41%, nhà ở-điện nước tăng 0.28%, thực phẩm tăng 0.27%, áp lực chi phí doanh nghiệp và tiêu dùng."
-    },
-    {
-      "title": "Thủ tướng: GDP Q4 phải tăng >12.5% để đạt 2 con số cả năm",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng chỉ đạo GDP quý 4 phải tăng trên 12.5% (cao hơn Q3 9.95%) để đạt mục tiêu tăng 2 con số cả năm 2026, đây là áp lực rất lớn, nhiệm vụ nặng nề đòi hỏi các bộ, ngành, địa phương quyết tâm cao nhất từ nay đến cuối năm."
-    },
-    {
-      "title": "TTCK nâng hạng thị trường mới nổi thứ cấp, ngăn chặn vi phạm",
-      "impact": "↑",
-      "note": "Từ 21/9, Việt Nam nâng hạng TTCK lên Secondary Emerging Market, được các tổ chức quốc tế công nhận. Chiến lược phát triển TTCK đến 2030 được Thủ tướng phê duyệt. Thứ trưởng Tài chính cam kết chủ động ngăn chặn, phát hiện kịp thời và xử lý nghiêm vi phạm để bảo vệ lợi ích nhà đầu tư."
-    },
-    {
-      "title": "Lãi suất ngân hàng phân hóa, Big 4 tại 6.8%, private banks 7.0-7.8%",
-      "impact": "→",
-      "note": "Lãi suất huy động ngày 3/10 phân hóa giữa nhóm. ACB niêm yết cao nhất 7.8%/năm, Sacombank 7.5%, LPBank 7.2%, VPBank 7.1%, Bac A Bank 7.1%. Big 4 (Agribank, BIDV, Vietcombank, VietinBank) cùng 6.8%/năm, chênh lệch khoảng 1.0%. Các private bank có lợi thế huy động vốn."
+      "note": "CPI tháng 9 tăng 0.62%, bình quân 9 tháng tăng 4.52%. Nhóm Giao thông tăng 3.97% (xăng tăng 9.39%, dầu diesel tăng 4.53%, đóng góp 0.40 điểm CPI), giáo dục tăng 1.41%, nhà ở-điện nước tăng 0.28%. Áp lực chi phí doanh nghiệp từ nhiên liệu."
     }
   ]
 }
