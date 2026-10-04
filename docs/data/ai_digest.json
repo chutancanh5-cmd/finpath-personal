@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-04",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế vĩ mô 9 tháng 2026 đạt kết quả vượt trội: GDP 9.01%, công nghiệp 11.21%, FDI tăng 76.4%, xuất nhập khẩu tăng 30.4%; Chính phủ cam kết tăng trưởng 2 con số với mục tiêu GDP quý 4 trên 12.5%. Tuy vậy, thị trường chứng khoán đang chịu áp lực hiệu chỉnh: VN-Index giảm 2.66%, khối ngoại bán ròng 2.3 ngàn tỷ đồng, thanh khoản suy giảm, và áp lực lạm phát từ xăng dầu tăng 9.39%. Sự phân kỳ này giữa fundamentals vĩ mô mạnh và tâm lý thị trường thận trọng gây ra biến động ngắn hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Kinh tế Việt Nam vẫn duy trì tăng trưởng mạnh với GDP 9 tháng đạt 9,01% và FDI tăng 76,4%, nhưng thị trường chứng khoán đang chịu áp lực điều chỉnh khi VN-Index giảm 5 phiên liên tiếp, khối ngoại bán ròng 95.000 tỷ đồng từ đầu năm. Áp lực từ lãi suất neo cao, CPI tăng 4,52% và dòng tiền rút khỏi ngân hàng & bất động sản tạo rủi ro ngắn hạn mặc dù các cơ chế hỗ trợ phát triển thị trường chứng khoán đang được triển khai.",
   "top": [
     {
-      "title": "GDP 9 tháng 9.01% cao nhất từ 2011, Q3 tăng 9.95%",
+      "title": "GDP 9 tháng tăng 9,01%, công nghiệp tăng cao nhất 11,21%",
       "impact": "↑",
-      "note": "GDP quý 3 ước tăng 9.95%, 9 tháng tăng 9.01% - cao nhất từ 2011. Công nghiệp-xây dựng tăng 11.21% (cao nhất từ 2015), dịch vụ tăng 8.69%. FDI đăng ký 50.36 tỷ USD tăng 76.4%, thực hiện 21.07 tỷ USD tăng 12.1%. Xuất nhập khẩu 888 tỷ USD tăng 30.4%."
+      "note": "GDP 9 tháng tăng 9,01%, quý III ước tăng 9,95%; công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015); FDI đăng ký 50,36 tỷ USD tăng 76,4%, thực hiện 21,07 tỷ USD tăng 12,1%; xuất nhập khẩu 888 tỷ USD tăng 30,4%."
     },
     {
-      "title": "Thủ tướng: Q4 GDP phải tăng trên 12.5% để đạt tăng trưởng 2 con số",
+      "title": "VN-Index giảm 5 phiên liên tiếp xuống 1.737, khối ngoại bán ròng 95.000 tỷ",
+      "impact": "↓",
+      "note": "VN-Index giảm 2,66% (47,4 điểm) xuống 1.737 điểm sau 5 phiên liên tiếp; khối ngoại bán ròng nâng giá trị từ đầu năm lên khoảng 95.000 tỷ đồng; mặt bằng lãi suất neo cao, áp lực lạm phát và diễn biến giá dầu quốc tế."
+    },
+    {
+      "title": "Các tổ chức nâng dự báo GDP 2026: ADB 7,8%, Standard Chartered 9,5%",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nêu rõ để tăng trưởng 2 con số cả năm 2026, Q4 phải tăng trên 12.5% (cao hơn Q3 9.95%). Đây là áp lực rất lớn, nhiệm vụ nặng nề đòi hỏi các bộ, ngành, địa phương quyết tâm cao nhất."
+      "note": "ADB nâng dự báo GDP 2026 từ 7,2% lên 7,8%; Standard Chartered dự báo 9,5%, UOB Singapore dự báo 8,5%; ADB dự báo lạm phát 2026 ở 4,3%, giảm xuống 4% năm 2027."
     },
     {
-      "title": "Bộ Tài chính triển khai chiến lược phát triển thị trường chứng khoán",
+      "title": "CPI tháng 9 tăng 0,62%, bình quân 9 tháng tăng 4,52%",
+      "impact": "↓",
+      "note": "CPI tháng 9 tăng 0,62%; bình quân 9 tháng tăng 4,52%; giao thông tăng 3,97% do xăng tăng 9,39%, dầu diesel tăng 4,53%; giáo dục tăng 1,41%; dầu hỏa tăng 2,19%, gas tăng 1,35%."
+    },
+    {
+      "title": "Thanh khoản suy yếu, dòng tiền rút khỏi ngân hàng & bất động sản",
+      "impact": "↓",
+      "note": "Giá trị giao dịch HOSE giảm 2,89%, toàn thị trường giảm 1,59%; dòng tiền rút khỏi Ngân hàng (âm 24,6 điểm) và BĐS (âm 14,9 điểm); LPB âm 9,2 điểm, STB âm 8,0 điểm, VIC âm 10,2 điểm."
+    },
+    {
+      "title": "Bộ Tài chính cam kết phát triển TTCK, sửa Luật tháng 10/2026",
       "impact": "↑",
-      "note": "Bộ Tài chính kiên trì tất cả mục tiêu phát triển TTCK theo Quyết định 1726/QĐ-TTg đến 2030. Trình Quốc hội sửa đổi Luật Chứng khoán trong kỳ họp tháng 10/2026, áp dụng AI, chuyển đổi số, cắt giảm điều kiện kinh doanh, thủ tục hành chính."
-    },
-    {
-      "title": "HOSE Index giảm 2.66%, cổ phiếu vốn hóa lớn đè nặng",
-      "impact": "↓",
-      "note": "HOSE Index tuần 28/09-02/10 chốt 1,737.71 điểm, giảm 2.66%. VIC lấy đi 12.45 điểm VN-Index, nhóm ngân hàng lấy đi 24.6 điểm (LPB âm 9.2, STB âm 8.0), bất động sản lấy 14.9 điểm (VIC âm 10.2 điểm)."
-    },
-    {
-      "title": "Khối ngoại bán ròng 2.3 ngàn tỷ, rút mạnh khỏi PNJ",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 2.3 ngàn tỷ đồng phiên 02/10. PNJ bị bán ròng hơn 1.2 ngàn tỷ, chiếm trên 50% tổng giá trị rút vốn ngoại. Tự doanh công ty chứng khoán ngược lại mua ròng 1.7 ngàn tỷ, riêng HDB được mua 1.5 ngàn tỷ."
-    },
-    {
-      "title": "CPI tháng 9 tăng 0.62%, giao thông tăng 3.97% do giá xăng",
-      "impact": "↓",
-      "note": "CPI tháng 9 tăng 0.62%, 9 tháng tăng 4.52%. Nhóm Giao thông tăng 3.97% (xăng tăng 9.39%, dầu diesel tăng 4.53%, đóng góp 0.40 điểm CPI). Giáo dục tăng 1.41%, nhà ở-điện nước-chất đốt tăng 0.28%, đặc biệt dầu hỏa tăng 2.19%, gas tăng 1.35%."
+      "note": "Chiến lược phát triển TTCK được Thủ tướng phê duyệt; Luật Chứng khoán sẽ sửa đổi trong kỳ họp tháng 10/2026; ứng dụng AI, chuyển đổi số, cắt giảm điều kiện kinh doanh và thủ tục hành chính."
     }
   ]
 }
