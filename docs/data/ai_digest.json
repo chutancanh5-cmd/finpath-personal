@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-04",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Kinh tế Việt Nam vẫn duy trì tăng trưởng mạnh với GDP 9 tháng đạt 9,01% và FDI tăng 76,4%, nhưng thị trường chứng khoán đang chịu áp lực điều chỉnh khi VN-Index giảm 5 phiên liên tiếp, khối ngoại bán ròng 95.000 tỷ đồng từ đầu năm. Áp lực từ lãi suất neo cao, CPI tăng 4,52% và dòng tiền rút khỏi ngân hàng & bất động sản tạo rủi ro ngắn hạn mặc dù các cơ chế hỗ trợ phát triển thị trường chứng khoán đang được triển khai.",
+  "summary_vi": "Kinh tế vĩ mô 9 tháng chứng tỏ sức khỏe với GDP tăng 9,01%, công nghiệp tăng 11,21% (cao nhất từ 2015), FDI đăng ký 50,36 tỷ USD tăng 76,4%, và xuất nhập khẩu 888 tỷ USD tăng 30,4%; tuy nhiên thị trường chứng khoán chịu áp lực bán mạnh từ khối ngoại (bán ròng ~95.000 tỷ đồng từ đầu năm) khi các cổ phiếu vốn hóa lớn suy yếu, VN-Index giảm 47,4 điểm xuống 1.737 điểm sau 5 phiên liên tiếp. Tâm lý nhà đầu tư thận trọng trước áp lực lãi suất cao từ Fed, trong khi Bộ Tài chính khẳng định kiên trì phát triển thị trường chứng khoán thông qua sửa đổi Luật Chứng khoán.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, công nghiệp tăng cao nhất 11,21%",
+      "title": "Kinh tế 9 tháng: GDP tăng 9,01%, công nghiệp-xây dựng lên 11,21%",
       "impact": "↑",
-      "note": "GDP 9 tháng tăng 9,01%, quý III ước tăng 9,95%; công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015); FDI đăng ký 50,36 tỷ USD tăng 76,4%, thực hiện 21,07 tỷ USD tăng 12,1%; xuất nhập khẩu 888 tỷ USD tăng 30,4%."
+      "note": "GDP 9 tháng tăng 9,01%, quý III ước tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015). Tiêu dùng tăng 13,4% (đạt cận dưới mục tiêu 13-15%), khách quốc tế 17,7 triệu lượt tăng 14,5%. Vốn FDI đăng ký 50,36 tỷ USD tăng 76,4%, thực hiện 21,07 tỷ USD tăng 12,1%. Xuất nhập khẩu 888 tỷ USD tăng 30,4%."
     },
     {
-      "title": "VN-Index giảm 5 phiên liên tiếp xuống 1.737, khối ngoại bán ròng 95.000 tỷ",
-      "impact": "↓",
-      "note": "VN-Index giảm 2,66% (47,4 điểm) xuống 1.737 điểm sau 5 phiên liên tiếp; khối ngoại bán ròng nâng giá trị từ đầu năm lên khoảng 95.000 tỷ đồng; mặt bằng lãi suất neo cao, áp lực lạm phát và diễn biến giá dầu quốc tế."
-    },
-    {
-      "title": "Các tổ chức nâng dự báo GDP 2026: ADB 7,8%, Standard Chartered 9,5%",
+      "title": "Quý IV cần tăng trưởng 12,5% để đạt mục tiêu cả năm ≥10%",
       "impact": "↑",
-      "note": "ADB nâng dự báo GDP 2026 từ 7,2% lên 7,8%; Standard Chartered dự báo 9,5%, UOB Singapore dự báo 8,5%; ADB dự báo lạm phát 2026 ở 4,3%, giảm xuống 4% năm 2027."
+      "note": "GDP 9 tháng tăng 9,01%, nhưng để đạt mục tiêu cả năm ≥10% thì quý IV cần tăng 12,5%. Ba động lực tăng trưởng: (1) Đầu tư công giúp giải ngân dự án hạ tầng quy mô lớn, kéo đầu tư tư nhân; (2) Công nghiệp chế biến chế tạo tăng 12,28% quý III, 11,36% 9 tháng; (3) Tiêu dùng hộ gia đình tăng 9,75% 9 tháng, xuất khẩu tiếp tục trở thành điểm tựa."
     },
     {
-      "title": "CPI tháng 9 tăng 0,62%, bình quân 9 tháng tăng 4,52%",
-      "impact": "↓",
-      "note": "CPI tháng 9 tăng 0,62%; bình quân 9 tháng tăng 4,52%; giao thông tăng 3,97% do xăng tăng 9,39%, dầu diesel tăng 4,53%; giáo dục tăng 1,41%; dầu hỏa tăng 2,19%, gas tăng 1,35%."
-    },
-    {
-      "title": "Thanh khoản suy yếu, dòng tiền rút khỏi ngân hàng & bất động sản",
-      "impact": "↓",
-      "note": "Giá trị giao dịch HOSE giảm 2,89%, toàn thị trường giảm 1,59%; dòng tiền rút khỏi Ngân hàng (âm 24,6 điểm) và BĐS (âm 14,9 điểm); LPB âm 9,2 điểm, STB âm 8,0 điểm, VIC âm 10,2 điểm."
-    },
-    {
-      "title": "Bộ Tài chính cam kết phát triển TTCK, sửa Luật tháng 10/2026",
+      "title": "Bộ Tài chính sửa đổi Luật Chứng khoán, cắt giảm điều kiện kinh doanh",
       "impact": "↑",
-      "note": "Chiến lược phát triển TTCK được Thủ tướng phê duyệt; Luật Chứng khoán sẽ sửa đổi trong kỳ họp tháng 10/2026; ứng dụng AI, chuyển đổi số, cắt giảm điều kiện kinh doanh và thủ tục hành chính."
+      "note": "Thứ trưởng Bộ Tài chính Nguyễn Đức Chi công bố sẽ trình Quốc hội thông qua Luật sửa đổi bổ sung Luật Chứng khoán trong kỳ họp tháng 10/2026 nhằm đáp ứng yêu cầu sau nâng hạng, ứng dụng trí tuệ nhân tạo, chuyển đổi số, và cắt giảm điều kiện kinh doanh cũng như thủ tục hành chính."
+    },
+    {
+      "title": "VN-Index giảm 47,4 điểm xuống 1.737 điểm sau 5 phiên liên tiếp",
+      "impact": "↓",
+      "note": "VN-Index mất 47,4 điểm (2,66%) sau 5 phiên giảm liên tiếp, đóng cửa tuần 1.737,71 điểm. Nhóm Vingroup và ngân hàng chịu áp lực bán, thanh khoản thấp. Khối ngoại bán ròng cả 5 phiên, tổng cộng ~4.946 tỷ đồng. Từ đầu năm khối ngoại bán ròng ~95.000 tỷ đồng. Tâm lý thận trọng do lãi suất trái phiếu cao, đồng USD mạnh, kỳ vọng Fed tiếp tục tăng lãi suất."
+    },
+    {
+      "title": "Cổ phiếu vốn hóa lớn suy yếu: VIC -12,45 điểm, Ngân hàng -24,6 điểm",
+      "impact": "↓",
+      "note": "Nhóm Ngân hàng gây áp lực lớn nhất lấy đi 24,6 điểm, nổi bật LPB -9,2 điểm, STB -8,0 điểm. Bất động sản lấy đi 14,9 điểm với VIC -10,2 điểm đóng góp tiêu cực lớn nhất cho VN-Index. Giá trị giao dịch khớp lệnh bình quân HOSE 11.967 tỷ đồng, giảm 2,89%, thấp hơn 15,18% mức bình quân 5 tuần."
+    },
+    {
+      "title": "Dòng tiền rút khỏi Ngân hàng và Bất động sản, tái cân bằng portfolio",
+      "impact": "↓",
+      "note": "Giá trị giao dịch khớp lệnh bình quân toàn thị trường 13.070 tỷ đồng, giảm 1,59% và thấp hơn 13,64% mức bình quân 5 tuần. Dòng tiền rút khỏi Ngân hàng (-24,6 điểm) và Bất động sản (-14,9 điểm), dịch chuyển sang Hàng hóa, Dịch vụ Công nghiệp, Tài nguyên Cơ bản, Hàng cá nhân để tái cân bằng."
     }
   ]
 }
