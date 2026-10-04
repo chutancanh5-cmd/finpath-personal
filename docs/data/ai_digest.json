@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-05",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế vĩ mô Việt Nam khởi sắc: GDP 9 tháng tăng 9,01%, FDI đăng ký tăng 76,4% lên 50,36 tỷ USD, xuất nhập khẩu tăng 30,4%. Thị trường chứng khoán được nâng hạng FTSE Russell, Bộ Tài chính triển khai 4 giải pháp phát triển thu hút dòng vốn ngoại. Tuy nhiên, TTCK hiện chịu áp lực điều chỉnh với VN-Index giảm liên tục; quý IV cần tăng 12,5% để đạt mục tiêu cả năm là thách thức lớn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục phát triển mạnh mẽ với GDP 9 tháng tăng 9,01% và công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), FDI đăng ký tăng 76,4% lên 50,36 tỷ USD. Bộ Tài chính triển khai cải cách thể chế sau nâng hạng FTSE Russell. Tuy nhiên, VN-Index chịu áp lực bán ngoại ngắn hạn với khối ngoại bán ròng 3 nghìn tỷ, đòi hỏi nhà đầu tư cân nhắc rủi ro trong quý IV.",
   "top": [
     {
-      "title": "Vinhomes Hạ Long Xanh - dự án 18 tỷ USD",
+      "title": "GDP 9 tháng tăng 9,01%, công nghiệp cao nhất từ 2015",
       "impact": "↑",
-      "note": "Dự án quy mô gần 18 tỷ USD với gần 9.000 công nhân và hơn 2.000 máy móc, thi công 24/7, san lấp 23 ha/ngày, chuyển sang giai đoạn hoàn thiện hạ tầng - thể hiện nhu cầu đầu tư bất động sản lớn của Vingroup."
+      "note": "GDP quý III tăng 9,95%, 9 tháng tăng 9,01%. Công nghiệp-xây dựng tăng 11,21%, FDI đăng ký đạt 50,36 tỷ USD (tăng 76,4%), xuất nhập khẩu đạt 888 tỷ USD (tăng 30,4%). 12/34 địa phương đạt tăng trưởng trên 10%."
     },
     {
-      "title": "FDI đăng ký tăng 76,4% lên 50,36 tỷ USD",
+      "title": "Quý IV cần tăng 12,5% để đạt mục tiêu 10% cả năm",
       "impact": "↑",
-      "note": "FDI đăng ký 9 tháng tăng 76,4% lên 50,36 tỷ USD, thực hiện tăng 12,1% lên 21,07 tỷ USD - dòng vốn ngoại mạnh mẽ hỗ trợ tăng trưởng kinh tế và công nghiệp."
+      "note": "Để đạt mục tiêu tăng từ 10% trở lên cả năm 2026, GDP quý IV cần tăng khoảng 12,5%. Động lực chính: đầu tư công cải thiện tiến độ giải ngân, công nghiệp chế biến tăng 12,28%, xuất khẩu mở rộng đầu ra, tiêu dùng trong nước tăng 9,75%."
     },
     {
-      "title": "Nâng hạng FTSE Russell + Luật sửa đổi Luật Chứng khoán",
+      "title": "Bộ Tài chính sửa Luật Chứng khoán sau nâng hạng FTSE",
       "impact": "↑",
-      "note": "Thị trường chứng khoán Việt Nam được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp; Bộ Tài chính trình Quốc hội Luật sửa đổi Luật Chứng khoán tháng 10/2026 - tạo cơ hội mở rộng dòng vốn ngoại."
+      "note": "FTSE Russell nâng hạng Việt Nam lên thị trường mới nổi thứ cấp. Bộ Tài chính trình Quốc hội sửa Luật Chứng khoán tháng 10/2026, cắt giảm điều kiện kinh doanh, thủ tục hành chính nhằm duy trì thứ hạng và thu hút dòng vốn ngoại dài hạn."
     },
     {
-      "title": "Xuất nhập khẩu tăng 30,4% lên 888 tỷ USD",
-      "impact": "↑",
-      "note": "Xuất nhập khẩu 9 tháng đạt 888 tỷ USD, tăng 30,4%; khách quốc tế 17,7 triệu lượt, tăng 14,5% - xuất khẩu và du lịch là điểm tựa quan trọng cho sản xuất trong nước."
-    },
-    {
-      "title": "GDP 9 tháng tăng 9,01%, quý IV cần tăng 12,5%",
-      "impact": "→",
-      "note": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), nhưng quý IV cần tăng khoảng 12,5% để đạt mục tiêu cả năm từ 10% trở lên - áp lực lớn cho quý cuối năm."
-    },
-    {
-      "title": "VN-Index giảm, khối ngoại bán ròng 3.000 tỷ đồng",
+      "title": "VN-Index giảm 12 điểm, khối ngoại bán ròng 3 nghìn tỷ",
       "impact": "↓",
-      "note": "VN-Index đóng cửa tại 1.737,71 điểm, giảm 12 điểm; khối ngoại bán ròng trên HOSE hơn 3.000 tỷ đồng, chỉ báo MACD tiêu cực, đang kiểm tra vùng hỗ trợ 1.730-1.745 điểm."
+      "note": "VN-Index giảm gần 12 điểm đóng cửa tại 1.737,71 điểm. 16/18 ngành giảm. Khối ngoại bán ròng hơn 3 nghìn tỷ đồng trên HSX. Áp lực bán duy trì ở mức cao, tạo áp lực lùi sâu ngắn hạn dù dòng tiền bắt đáy bắt đầu xuất hiện."
+    },
+    {
+      "title": "Nhu cầu vốn 38,5 triệu tỷ đồng trong 5 năm, mới huy động 60%",
+      "impact": "↑",
+      "note": "Tổng nhu cầu vốn đầu tư 5 năm tới ước 38,5 triệu tỷ đồng (gần 1,5 nghìn tỷ USD). Trong 9 tháng mới huy động được 3,11 triệu tỷ đồng (60%). Cần phát triển kênh vốn dài hạn, thị trường vốn tư nhân để giảm lệ thuộc tín dụng ngân hàng."
+    },
+    {
+      "title": "Vinhomes Hạ Long Xanh: 9.000 công nhân, 23 ha/ngày",
+      "impact": "↑",
+      "note": "Dự án 18 tỷ USD với 9.000 công nhân làm việc 24/7, hơn 2.000 phương tiện máy móc, san lấp 23 ha mỗi ngày. Chuyển sang giai đoạn hoàn thiện hạ tầng và xây dựng phía trên mặt đất, Đại lộ Thiên Đường rộng 40m đang hoàn thiện."
     }
   ]
 }
