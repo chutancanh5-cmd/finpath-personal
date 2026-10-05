@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21% cao nhất từ 2015, xuất nhập khẩu tăng 30,4%, FDI đăng ký tăng 76,4% tạo nền tảng vĩ mô mạnh. Tuy nhiên thị trường chứng khoán chưa hưởng ứng đầy đủ: khối ngoại bán ròng 97,8 ngàn tỷ đồng lũy kế 9 tháng, NHNN thắt chặt thanh khoản (hút ròng 53.475 tỷ đồng), lãi suất tăng gây căng thẳng dòng tiền. Bối cảnh toàn cầu thêm rủi ro khi lạm phát eurozone tăng 3,8% cao nhất 3 năm, áp lực chốt lời sau FTSE nâng hạng tiếp tục kéo chỉ số giảm.",
+  "summary_vi": "Thị trường nhận xét tích cực từ số liệu vĩ mô mạnh (GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21%), tuy nhiên bị kìm hãm bởi dòng tiền ngoại liên tục bán ròng 4,8 nghìn tỷ đồng trong tháng 9 bất chấp nâng hạng FTSE Russell. Bộ ba NCB, MB, LPBank ghi nhận hoạt động tăng vốn tích cực. VN-Index hồi phục sau 5 phiên giảm nhưng vẫn chưa vượt qua áp lực chốt lời kiểu \"sell-on-news\". Thị trường dự báo tiếp tục giai đoạn tích lũy trong tháng 10 với rủi ro từ lạm phát eurozone tăng 3,8% cao nhất 3 năm.",
   "top": [
+    {
+      "title": "NCB phát hành 3,3 tỷ cổ phiếu, tăng vốn từ 55.220 lên 62.280 tỷ đồng",
+      "impact": "↑",
+      "note": "Ngân hàng Quốc dân được NHNN chấp thuận tăng vốn điều lệ tối đa 33.000 tỷ đồng qua phát hành riêng lẻ 3,3 tỷ cổ phiếu giá 10.000 đồng/cp, nâng vốn lên gần 62.280 tỷ đồng (tăng 112,7%). Cổ phiếu NVB tăng vọt 10% lên 16.500 đồng/cp lúc close phiên 5/10, mức cao nhất hơn 1 năm."
+    },
+    {
+      "title": "MB vượt mốc 100.000 tỷ đồng, đứng thứ nhất ngân hàng Việt Nam",
+      "impact": "↑",
+      "note": "MB hoàn tất tăng vốn lên 100.687,5 tỷ đồng, trở thành ngân hàng đầu tiên Việt Nam vượt mốc trăm ngàn tỷ. Sau 32 năm từ khi thành lập (1994) với 20 tỷ đồng vốn, MB nâng năng lực lên hơn 5.000 lần. Cùng lúc được VNX vinh danh thành viên giao dịch đặc biệt tiêu biểu trái phiếu giai đoạn 2025–2026."
+    },
     {
       "title": "GDP 9 tháng tăng 9,01%, công nghiệp tăng 11,21% cao nhất 11 năm",
       "impact": "↑",
-      "note": "GDP 9 tháng 2026 tăng 9,01%, quý 3 tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), dịch vụ tăng 8,69%, tiêu dùng tăng 13,4%. FDI đăng ký 50,36 tỷ USD (tăng 76,4%), thực hiện 21,07 tỷ USD (tăng 12,1%). Xuất nhập khẩu đạt 888 tỷ USD (tăng 30,4%). Các địa phương trọng điểm tăng 2 con số."
+      "note": "GDP 9 tháng 2026 tăng 9,01%, quý 3 tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), dịch vụ tăng 8,69%, tiêu dùng tăng 13,4%. FDI đăng ký 50,36 tỷ USD (tăng 76,4%), xuất nhập khẩu 888 tỷ USD (tăng 30,4%), vốn đầu tư xã hội 3.11 triệu tỷ đồng (tăng 15,1%)."
     },
     {
-      "title": "Khối ngoại bán ròng 97,8 ngàn tỷ đồng lũy kế, bán 4,8 ngàn tỷ tháng 9",
+      "title": "Khối ngoại bán ròng 4,8 ngàn tỷ tháng 9, lũy kế 97,8 ngàn tỷ",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng hơn 4.800 tỷ đồng trên HOSE tháng 9/2026. VHM bị bán ròng 2.400 tỷ đồng, VIC 1.200 tỷ đồng, VPB hơn 1.100 tỷ đồng. Lũy kế 9 tháng 2026, khối ngoại bán ròng 97,8 ngàn tỷ đồng, chưa ghi nhận tháng mua ròng nào trên HOSE. Trên HNX cũng bị bán ròng 110 tỷ đồng tháng 9."
+      "note": "Khối ngoại bán ròng hơn 4.800 tỷ đồng trên HOSE tháng 9/2026 dù Việt Nam vừa nâng hạng FTSE Russell. VHM bị bán ròng 2.400 tỷ đồng, VIC 1.200 tỷ đồng, VPB hơn 1.100 tỷ đồng. Lũy kế 9 tháng 2026, khối ngoại bán ròng 97,8 ngàn tỷ đồng, chưa ghi nhận tháng mua ròng nào trên HOSE, gây áp lực tâm lý tiêu cực."
     },
     {
-      "title": "NHNN hút ròng 53.475 tỷ đồng - lãi suất ON tăng 2,1 điểm % lên 2,8%",
-      "impact": "↓",
-      "note": "Ngân hàng Nhà nước hút ròng 53.475 tỷ đồng khỏi hệ thống tuần 28/9-2/10. Lượng vốn đáo hạn 78.615 tỷ đồng lớn hơn lượng tiền bơm mới 25.139 tỷ đồng. Lãi suất VND qua đêm tăng từ 0,7% lên 2,8%/năm (tăng 2,1 điểm %), lãi suất 1 tuần giảm 2,1 điểm %. OMO lưu hành còn 133.342 tỷ đồng."
-    },
-    {
-      "title": "VN-Index giảm 3,47% tháng 9, xuất hiện sell-on-news sau nâng hạng FTSE",
-      "impact": "↓",
-      "note": "VN-Index kết phiên 30/9 ở 1.768,62 điểm, giảm 3,47% so với cuối tháng 8. Áp lực bán gia tăng rõ rệt sau khi Việt Nam nâng hạng thị trường mới nổi thứ cấp (hiệu lực từ 24/9). Phiên 24/9 chỉ số giảm hơn 26 điểm, nhóm Vingroup, dầu khí, bất động sản chịu áp lực bán mạnh. Dòng tiền trong nước vẫn khá dè dặt."
-    },
-    {
-      "title": "Sân bay Long Thành 16 tỷ USD - Phó Thủ tướng yêu cầu đẩy nhanh",
+      "title": "Sân bay Long Thành 16 tỷ USD - Phó Thủ tướng yêu cầu không lùi tiến độ",
       "impact": "↑",
-      "note": "Phó Thủ tướng Phạm Gia Túc yêu cầu không lùi tiến độ Cảng hàng không quốc tế Long Thành (dự án 16 tỷ USD), dự án trọng điểm quốc gia, công trình hạ tầng giao thông chiến lược. Hệ thống giao thông kết nối sân bay từng bước hình thành, TP.HCM và Đồng Nai triển khai nhiều dự án kết nối trong khu vực."
+      "note": "Phó Thủ tướng Phạm Gia Túc yêu cầu không lùi tiến độ Cảng hàng không quốc tế Long Thành (dự án 16 tỷ USD), dự án trọng điểm quốc gia, công trình hạ tầng giao thông chiến lược. Hệ thống giao thông kết nối sân bay từng bước hình thành, TP.HCM và Đồng Nai (thành phố duy nhất tiếp giáp Campuchia) triển khai nhiều dự án kết nối."
     },
     {
-      "title": "Việt Nam có 1.233 người siêu giàu, tài sản TCCN sắp đạt 600 tỷ USD",
-      "impact": "↑",
-      "note": "Báo cáo Thịnh vượng 2026 (Knight Frank): Việt Nam có 1.233 người siêu giàu (UHNW), thuộc nhóm tăng nhanh nhất thế giới. McKinsey dự báo tài sản tài chính cá nhân (TCCN) Việt Nam đạt khoảng 600 tỷ USD vào 2027 (từ 360 tỷ USD cuối 2022). Thị trường quản lý gia sản còn non trẻ, có dư địa phát triển lớn cho các dịch vụ tài chính."
+      "title": "Lạm phát eurozone tăng 3,8% cao nhất 3 năm, ECB chịu áp lực nâng lãi suất",
+      "impact": "↓",
+      "note": "Lạm phát khu vực đồng euro tháng 9/2026 tăng lên 3,8% (cao nhất từ tháng 9/2023), từ mức 3,2% tháng 8, vượt dự báo 3,6%. Nguyên nhân chủ yếu: giá nhiên liệu leo thang, giá thực phẩm tăng. Lạm phát lõi tăng từ 2,4% lên 2,5%. ECB chịu áp lực tiếp tục nâng lãi suất, ảnh hưởng đến dòng vốn toàn cầu."
     }
   ]
 }
