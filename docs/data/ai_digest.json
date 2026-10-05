@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), tạo nền tảng vĩ mô vững chắc cho năm 2026. Tuy vậy thị trường chứng khoán chưa hưởng ứng đầy đủ do NHNN thắt chặt thanh khoản (hút ròng 53.475 tỷ đồng) gây căng thẳng lãi suất ngắn hạn, và áp lực chốt lời sau FTSE Russell nâng hạng. Bối cảnh toàn cầu thêm rủi ro: lạm phát eurozone tăng 3,8%, cao nhất 3 năm, có thể kéo dòng vốn từ thị trường mới nổi. Ngắn hạn thị trường giai đoạn tích lũy với tín hiệu kỹ thuật yếu.",
+  "summary_vi": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21% cao nhất từ 2015, xuất nhập khẩu tăng 30,4%, FDI đăng ký tăng 76,4% tạo nền tảng vĩ mô mạnh. Tuy nhiên thị trường chứng khoán chưa hưởng ứng đầy đủ: khối ngoại bán ròng 97,8 ngàn tỷ đồng lũy kế 9 tháng, NHNN thắt chặt thanh khoản (hút ròng 53.475 tỷ đồng), lãi suất tăng gây căng thẳng dòng tiền. Bối cảnh toàn cầu thêm rủi ro khi lạm phát eurozone tăng 3,8% cao nhất 3 năm, áp lực chốt lời sau FTSE nâng hạng tiếp tục kéo chỉ số giảm.",
   "top": [
     {
       "title": "GDP 9 tháng tăng 9,01%, công nghiệp tăng 11,21% cao nhất 11 năm",
       "impact": "↑",
-      "note": "GDP quý 3 ước tăng 9,95%, 9 tháng tăng 9,01%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015); chế biến-chế tạo tăng 12,28% quý 3 và 11,36% 9 tháng; tiêu dùng tăng 13,4%, xuất nhập khẩu đạt 888 tỷ USD (+30,4%). Nền tảng kinh tế vững vàng hỗ trợ triển vọng dài hạn của thị chứng khoán."
+      "note": "GDP 9 tháng 2026 tăng 9,01%, quý 3 tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), dịch vụ tăng 8,69%, tiêu dùng tăng 13,4%. FDI đăng ký 50,36 tỷ USD (tăng 76,4%), thực hiện 21,07 tỷ USD (tăng 12,1%). Xuất nhập khẩu đạt 888 tỷ USD (tăng 30,4%). Các địa phương trọng điểm tăng 2 con số."
     },
     {
-      "title": "NHNN hút ròng 53.475 tỷ đồng - thắt chặt thanh khoản",
+      "title": "Khối ngoại bán ròng 97,8 ngàn tỷ đồng lũy kế, bán 4,8 ngàn tỷ tháng 9",
       "impact": "↓",
-      "note": "Tuần 28/9-2/10, NHNN hút ròng 53.475 tỷ đồng khỏi hệ thống qua thị trường mở (lượng đáo hạn 78.615 tỷ đồng lớn hơn đáng kể lượng tiền được bơm mới 25.139 tỷ đồng). Lãi suất VND liên ngân hàng biến động mạnh: lãi suất qua đêm tăng 2,1 điểm % lên 2,8%/năm. OMO lưu hành còn 133.342 tỷ đồng. Áp lực lên chi phí tín dụng và cầu cấp vốn."
+      "note": "Khối ngoại bán ròng hơn 4.800 tỷ đồng trên HOSE tháng 9/2026. VHM bị bán ròng 2.400 tỷ đồng, VIC 1.200 tỷ đồng, VPB hơn 1.100 tỷ đồng. Lũy kế 9 tháng 2026, khối ngoại bán ròng 97,8 ngàn tỷ đồng, chưa ghi nhận tháng mua ròng nào trên HOSE. Trên HNX cũng bị bán ròng 110 tỷ đồng tháng 9."
     },
     {
-      "title": "Lạm phát eurozone tăng 3,8% - cao nhất 3 năm",
+      "title": "NHNN hút ròng 53.475 tỷ đồng - lãi suất ON tăng 2,1 điểm % lên 2,8%",
       "impact": "↓",
-      "note": "Lạm phát khu vực eurozone tăng lên 3,8% tháng 9 (từ 3,2% tháng 8), cao nhất kể từ tháng 9/2023 và vượt dự báo 3,6%. Nguyên nhân chủ yếu giá nhiên liệu leo thang, lạm phát lõi tăng từ 2,4% lên 2,5%. ECB đối mặt sức ép nâng lãi suất, có thể kéo dòng vốn từ thị trường mới nổi như Việt Nam."
+      "note": "Ngân hàng Nhà nước hút ròng 53.475 tỷ đồng khỏi hệ thống tuần 28/9-2/10. Lượng vốn đáo hạn 78.615 tỷ đồng lớn hơn lượng tiền bơm mới 25.139 tỷ đồng. Lãi suất VND qua đêm tăng từ 0,7% lên 2,8%/năm (tăng 2,1 điểm %), lãi suất 1 tuần giảm 2,1 điểm %. OMO lưu hành còn 133.342 tỷ đồng."
     },
     {
-      "title": "GDP quý 4 cần tăng 12,5% để đạt mục tiêu cả năm",
+      "title": "VN-Index giảm 3,47% tháng 9, xuất hiện sell-on-news sau nâng hạng FTSE",
+      "impact": "↓",
+      "note": "VN-Index kết phiên 30/9 ở 1.768,62 điểm, giảm 3,47% so với cuối tháng 8. Áp lực bán gia tăng rõ rệt sau khi Việt Nam nâng hạng thị trường mới nổi thứ cấp (hiệu lực từ 24/9). Phiên 24/9 chỉ số giảm hơn 26 điểm, nhóm Vingroup, dầu khí, bất động sản chịu áp lực bán mạnh. Dòng tiền trong nước vẫn khá dè dặt."
+    },
+    {
+      "title": "Sân bay Long Thành 16 tỷ USD - Phó Thủ tướng yêu cầu đẩy nhanh",
       "impact": "↑",
-      "note": "Để đạt mục tiêu tăng trưởng cả năm từ 10% trở lên, GDP quý 4 cần tăng khoảng 12,5%. Động lực: đầu tư công giải ngân tốt (đặc biệt hạ tầng quy mô lớn), công nghiệp-xây dựng tăng 11,21%, xuất khẩu mở rộng đầu ra, tiêu dùng tăng 13,4%. Mục tiêu đòi hỏi áp lực lớn nhưng nếu đạt sẽ hỗ trợ thị trường chứng khoán."
+      "note": "Phó Thủ tướng Phạm Gia Túc yêu cầu không lùi tiến độ Cảng hàng không quốc tế Long Thành (dự án 16 tỷ USD), dự án trọng điểm quốc gia, công trình hạ tầng giao thông chiến lược. Hệ thống giao thông kết nối sân bay từng bước hình thành, TP.HCM và Đồng Nai triển khai nhiều dự án kết nối trong khu vực."
     },
     {
-      "title": "65 mã bị cắt margin quý 4 - rủi ro thanh khoản",
-      "impact": "↓",
-      "note": "HoSE công bố 65 chứng khoán không đủ điều kiện giao dịch ký quỹ quý 4/2026, bao gồm HVN (Vietnam Airlines - cảnh báo), DGC (hạn chế giao dịch), CIG, DLG, DTL, DXV, HID, JVC, LDG, NVT, OGC, PIT, PLP, PTL, SVD, TCR, TDH, TLH, TMT, TNC, TSC, VCA, VPG, VPH, YBM. Nhà đầu tư không được dùng leverage để mua các mã này."
-    },
-    {
-      "title": "LPB tăng kịch trần 43.000 đồng - Phạm Nhật Vượng quan tâm",
+      "title": "Việt Nam có 1.233 người siêu giàu, tài sản TCCN sắp đạt 600 tỷ USD",
       "impact": "↑",
-      "note": "LPB của LPBank tăng kịch trần lên 43.000 đồng/cổ phiếu phiên sáng 5/10 sau nhiều phiên điều chỉnh mạnh. Phạm Nhật Vượng sở hữu 146,2 triệu cổ phiếu (4,894% vốn), đầu tư tài chính cá nhân ngày 23/6. Cổ phiếu lập đỉnh 56.000 đồng hồi tháng 6, hiện lùi 23% nhưng sự quan tâm từ cổ đông lớn gợi hy vọng phục hồi."
+      "note": "Báo cáo Thịnh vượng 2026 (Knight Frank): Việt Nam có 1.233 người siêu giàu (UHNW), thuộc nhóm tăng nhanh nhất thế giới. McKinsey dự báo tài sản tài chính cá nhân (TCCN) Việt Nam đạt khoảng 600 tỷ USD vào 2027 (từ 360 tỷ USD cuối 2022). Thị trường quản lý gia sản còn non trẻ, có dư địa phát triển lớn cho các dịch vụ tài chính."
     }
   ]
 }
