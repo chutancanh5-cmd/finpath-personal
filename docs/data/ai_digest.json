@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-05",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì động lực mạnh mẽ với GDP 9 tháng tăng 9,01% (cao nhất nhiều năm) và xuất nhập khẩu đạt 888 tỷ USD tăng 30,4%. Ngành công nghiệp-xây dựng tăng 11,21% là mức cao nhất từ 2015, cùng với Thông tư 50 về nới trần LDR lên 95% hỗ trợ nhóm ngân hàng. Tuy nhiên, thị trường chứng khoán gặp áp lực: VN-Index mất các đường trung bình chính, khối ngoại bán ròng 2,3 ngàn tỷ đồng, 65 cổ phiếu bị cắt margin. CPI tăng 4,52% và nhập siêu 19,42 tỷ USD đặt ra rủi ro lạm phát ngắn hạn cần theo dõi.",
+  "summary_vi": "Kinh tế Việt Nam 9 tháng tăng trưởng 9,01% với FDI đăng ký 50,36 tỷ USD (+76,4%) và xuất nhập khẩu 888 tỷ USD (+30,4%) đạt cao nhất nhiều năm; công nghiệp xây dựng +11,21% (cao nhất 2015). Tuy nhiên, VN-Index lùi dưới các đường trung bình, khối ngoại bán ròng 2,3 ngàn tỷ đồng, 65 cổ phiếu bị cắt margin. Áp lực lạm phát (CPI +4,52%), cán cân nhập siêu 19,42 tỷ USD, và Fed sắp họp 27-28/10 với lạm phát Mỹ cao tạo rủi ro điều chỉnh ngắn hạn. Để đạt mục tiêu cả năm ≥10%, GDP quý 4 cần tăng 12,5%.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, công nghiệp tăng 11,21%",
+      "title": "GDP 9 tháng 9,01%, FDI 50,36 tỷ USD tăng 76,4%",
       "impact": "↑",
-      "note": "GDP quý 3 tăng 9,95%, 9 tháng tăng 9,01% là mức cao nhất từ nhiều năm qua. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015). Tiêu dùng tăng 13,4%, khách quốc tế 17,7 triệu lượt tăng 14,5%."
+      "note": "GDP 9 tháng tăng 9,01% (Q3 +9,95%), FDI đăng ký 50,36 tỷ USD (+76,4%), xuất nhập khẩu 888 tỷ USD (+30,4%), khách quốc tế 17,7 triệu lượt (+14,5%). Cần Q4 +12,5% để đạt mục tiêu cả năm ≥10%."
     },
     {
-      "title": "Xuất nhập khẩu 888 tỷ USD, tăng 30,4%",
+      "title": "VN-Index mất MA20/50/100/200, lùi 1.660 điểm",
+      "impact": "↓",
+      "note": "VN-Index đánh mất MA20, MA50, MA100, MA200; xu hướng tăng từ cuối 7/2026 chuyển giảm. Thông tư 50 nới LDR 85%→95% hỗ trợ ngân hàng, nhưng CPI +4,52%, cán cân nhập siêu 19,42 tỷ USD gây áp lực."
+    },
+    {
+      "title": "Vinhomes Hạ Long Xanh 18 tỷ USD, 9.000 công nhân",
       "impact": "↑",
-      "note": "Tổng kim ngạch xuất nhập khẩu 9 tháng đạt 888,02 tỷ USD, tăng 30,4% so với cùng kỳ. Tháng 9 xuất siêu trở lại 1,27 tỷ USD sau giai đoạn nhập siêu."
+      "note": "Dự án tỷ phú Phạm Nhật Vượng có 9.000 công nhân, 2.000 máy móc hoạt động 24/7, san nền 23 ha/ngày. Đại lộ Thiên Đường (40m) đang hoàn thiện, nhiều cầu nội khu hoàn thành kết cấu chính."
     },
     {
-      "title": "VN-Index mất các MA chính, lùi về 1.660 điểm",
+      "title": "65 cổ phiếu bị cắt margin, 8 mã ghi nhận lỗ",
       "impact": "↓",
-      "note": "VN-Index đã đánh mất các đường trung bình MA20, MA50, MA100 và MA200. Xu hướng tăng từ cuối tháng 7 đã chuyển sang xu hướng giảm, MBS cảnh báo chưa nên bắt đáy các nhóm cổ phiếu."
+      "note": "HOSE cắt margin 65 mã (giảm 8 so với 73 mã 9/2026), 25 mã cảnh báo, 10 mã niêm yết <6 tháng. 8 mã lỗ: MHC, PNC, ST8, STK, TNH, VID, VNG, VNS."
     },
     {
-      "title": "Khối ngoại bán ròng 2,3 ngàn tỷ đồng",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 2,3 ngàn tỷ đồng, trong đó PNJ bị bán ròng hơn 1,2 ngàn tỷ đồng. Tự doanh công ty chứng khoán mua ròng khoảng 1,7 ngàn tỷ đồng."
+      "title": "Fed họp 27-28/10, lãi suất Mỹ 3,75-4%",
+      "impact": "→",
+      "note": "Fed tăng lãi suất 0,25% tháng 9 lên 3,75-4%. Lạm phát Mỹ vượt mục tiêu 5+ năm do giá năng lượng (chiến tranh Vùng Vịnh), thuế quan, AI. Dữ liệu CPI Mỹ công bố trước họp sẽ quyết định đường đi."
     },
     {
-      "title": "65 cổ phiếu bị cắt margin, 25 mã cảnh báo",
-      "impact": "↓",
-      "note": "HOSE công bố 65 mã bị cắt margin trong quý 4/2026 (giảm từ 73 mã). Trong đó 25 mã thuộc diện cảnh báo, 10 mã niêm yết dưới 6 tháng, 8 mã có lợi nhuận âm."
-    },
-    {
-      "title": "Thông tư 50: Nới trần LDR từ 85% lên 95%",
-      "impact": "↑",
-      "note": "Thông tư 50/2026/TT-NHNN sửa đổi quy định LDR có tác động tích cực cho ngân hàng niêm yết. Nới trần LDR từ 85% lên 95% giảm áp lực thanh khoản, tạo dư địa cho vay trong bối cảnh kinh tế tăng trưởng 9,01%."
+      "title": "Nhu cầu vốn 5 năm 38,5 triệu tỷ đồng, mới 60%",
+      "impact": "→",
+      "note": "Nhu cầu vốn 5 năm 38,5 triệu tỷ đồng (1,5 nghìn tỷ USD); vốn 9 tháng 3,11 triệu tỷ (+15,1%) mới 60%. Ngân sách dự kiến 22%, còn 78% từ doanh nghiệp tư nhân; cần phát triển kênh vốn dài hạn."
     }
   ]
 }
