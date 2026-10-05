@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-05",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "GDP 9 tháng tăng 9,01% (cao nhất nhiều năm), công nghiệp-xây dựng tăng 11,21%, FDI đăng ký tăng 76,4% lên 50,36 tỷ USD — nền tảng vĩ mô vững chắc. Quý IV cần tăng 12,5% để đạt mục tiêu cả năm 10%+, động lực đến từ đầu tư công, xuất khẩu (tăng 30,4%) và tiêu dùng (tăng 13,4%). Nâng hạng FTSE Russell mở đường cho cải cách thể chế (sửa Luật Chứng khoán) và thu hút dòng vốn ngoại lâu dài. Rủi ro ngắn hạn: khối ngoại bán ròng mạnh (3000+ tỷ đồng), VN-Index giảm áp lực.",
+  "summary_vi": "Kinh tế 9 tháng ghi nhận tăng trưởng 9,01% với xuất nhập khẩu vượt 888 tỷ USD tăng 30,4%, hỗ trợ mạnh cho sản xuất. Thị trường chứng khoán được nâng hạng FTSE Russell lên thị trường mới nổi thứ cấp, mở cơ hội dòng vốn ngoại. Tuy nhiên, rủi ro từ cắt margin 65 cổ phiếu, áp lực lạm phát và lãi suất cao đòi hỏi quý 4 tăng 12,5% để đạt mục tiêu 10% cả năm.",
   "top": [
     {
-      "title": "GDP quý III tăng 9,95%, công nghiệp-xây dựng tăng 11,21%",
+      "title": "Xuất nhập khẩu 9 tháng: 888 tỷ USD tăng 30,4%",
       "impact": "↑",
-      "note": "GDP quý III tăng 9,95%, 9 tháng tăng 9,01% (cao nhất từ nhiều năm). Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), dịch vụ tăng 8,69%. FDI đăng ký 50,36 tỷ USD (tăng 76,4%), thực hiện 21,07 tỷ USD (tăng 12,1%), xuất nhập khẩu 888 tỷ USD (tăng 30,4%). Tiêu dùng cuối cùng tăng 13,4%, khách quốc tế 17,7 triệu lượt (tăng 14,5%)."
+      "note": "Tổng xuất nhập khẩu 9 tháng đạt 888 tỷ USD, tăng 30,4% so với cùng kỳ. Chỉ tiêu này là lõi hỗ trợ mạnh tăng trưởng GDP, phản ánh sức khỏe sản xuất trong nước và nhu cầu thị trường toàn cầu."
     },
     {
-      "title": "Quý IV phải tăng 12,5% để hoàn thành mục tiêu 10%",
+      "title": "GDP quý 3 tăng 9,95%, chín tháng tăng 9,01%",
       "impact": "↑",
-      "note": "GDP 9 tháng 9,01% nhưng mục tiêu cả năm tăng từ 10% trở lên, quý IV phải tăng khoảng 12,5%. Động lực từ đầu tư công (các dự án hạ tầng lớn), công nghiệp chế biến tăng 12,28% quý III, xuất khẩu mở rộng, tiêu dùng duy trì tăng 9,75% trong 9 tháng — tạo áp lực lớn nhưng khả thi nếu động lực không suy yếu."
+      "note": "GDP quý 3 riêng tăng 9,95%, chín tháng tăng 9,01%, cao nhất từ năm 2015 đến nay. Để đạt mục tiêu 10% cả năm, quý 4 cần tăng khoảng 12,5%, đặt áp lực lên các động lực tăng trưởng cuối năm."
     },
     {
-      "title": "Khối ngoại bán ròng 3000+ tỷ, VN-Index giảm áp lực",
+      "title": "FTSE Russell nâng hạng thị trường chứng khoán Việt Nam",
+      "impact": "↑",
+      "note": "Thị trường chứng khoán Việt Nam chính thức được nâng hạng lên thị trường mới nổi thứ cấp. Bộ Tài chính triển khai 4 nhóm giải pháp duy trì thứ hạng, sửa đổi Luật Chứng khoán tại kỳ họp Quốc hội tháng 10/2026."
+    },
+    {
+      "title": "Vinhomes Hạ Long Xanh: 9.000 công nhân, 18 tỷ USD dự án",
+      "impact": "↑",
+      "note": "Dự án siêu dự án gần 18 tỷ USD duy trì thi công quy mô lớn với gần 9.000 công nhân, hơn 2.000 máy móc hoạt động 24/7. San nền đạt khoảng 23 ha mỗi ngày, Đại lộ Thiên Đường (40 m rộng) tiếp tục hoàn thiện."
+    },
+    {
+      "title": "65 cổ phiếu bị cắt margin quý 4, giảm 8 mã so với quý 3",
       "impact": "↓",
-      "note": "VN-Index giảm hơn 12 điểm, đóng cửa 1.737,71. 16/18 ngành giảm, hàng cá nhân gia dụng, dầu khí, dịch vụ tài chính giảm mạnh. Khối ngoại bán ròng 3000+ tỷ đồng trên sàn HSX. Dòng tiền bắt đáy xuất hiện nhưng yếu, chưa đủ xoay chuyển cục diện — tạo rủi ro điều chỉnh ngắn hạn cho thị trường."
+      "note": "HOSE công bố 65 mã bị cắt margin quý 4, giảm 8 mã so với 73 mã hôm 11/9. Trong đó 25 mã cảnh báo, 10 mã niêm yết dưới 6 tháng, 8 mã lỗ quý 2. Phản ánh rủi ro tập trung trong thị trường."
     },
     {
-      "title": "FTSE Russell nâng hạng: Sửa Luật Chứng khoán tháng 10",
-      "impact": "↑",
-      "note": "Việt Nam nâng hạng lên thị trường mới nổi thứ cấp. Bộ Tài chính triển khai 4 nhóm giải pháp: hoàn thiện thể chế (sửa Luật Chứng khoán tháng 10/2026), duy trì thứ hạng, ứng dụng AI. Sửa đổi Luật nhằm đáp ứng yêu cầu thực tiễn và phát triển khoa học kỹ thuật — cải thiện môi trường đầu tư, hấp dẫn FDI dài hạn."
-    },
-    {
-      "title": "Vinhomes Hạ Long Xanh 18 tỷ USD: 9000 công nhân, 23 ha/ngày",
-      "impact": "↑",
-      "note": "Siêu dự án 18 tỷ USD tháng 10 duy trì thi công 24/7: 9000 công nhân, 2000 máy móc, san lấp 23 ha mỗi ngày. Chuyển sang hoàn thiện hạ tầng và xây dựng phía trên mặt đất. Trục đường 51m từ Quốc lộ 18 thảm bê tông, Đại lộ Thiên Đường 40m hoàn thiện — đầu tư công khổng lồ tạo công ăn việc làm và kéo động lực tăng trưởng."
-    },
-    {
-      "title": "Nhu cầu vốn 38,5 triệu tỷ đồng 5 năm, 80% từ tư nhân",
-      "impact": "↑",
-      "note": "Nhu cầu vốn đầu tư toàn xã hội 38,5 triệu tỷ đồng (gần 1,5 nghìn tỷ USD) trong 5 năm tới, 9 tháng mới huy động 60% (3,11 triệu tỷ). Ngân sách đóng góp 22% (8,5 triệu tỷ), 80% còn lại từ doanh nghiệp tư nhân, FDI, vốn trong nước. Cần phát triển kênh vốn dài hạn, cấu trúc lại vốn, giảm lệ thuộc tín dụng — mở cơ hội lớn cho huy động vốn."
+      "title": "Giá vàng tuần giảm 3,4%, bị áp lực lạm phát và lãi suất",
+      "impact": "↓",
+      "note": "Giá vàng chốt tuần ở 4.142 USD/oz, giảm 3,4% tuần, bị áp lực lạm phát tăng, triển vọng Fed tăng lãi suất lâu hơn. Lợi suất trái phiếu kho bạc Mỹ leo thang hạn chế sức mua kim loại quý."
     }
   ]
 }
