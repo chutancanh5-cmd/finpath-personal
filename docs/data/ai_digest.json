@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-05",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam 9 tháng tăng 9,01% với GDP quý 3 ước đạt 9,95%, công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), xuất nhập khẩu 888 tỷ USD (+30,4%), FDI tăng 76,4%. Chính sách tiền tệ được nới lỏng qua Thông tư 50/2026 hỗ trợ ngân hàng nâng trần LDR. Fed khả năng giữ lãi suất tháng 10 hỗ trợ đồng USD yếu cho xuất khẩu. Thách thức ngắn hạn: VN-Index kỹ thuật điều chỉnh, CPI tăng 4,52%, nhập siêu 19,42 tỷ USD, quý 4 cần tăng 12,5% để đạt mục tiêu cả năm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), xuất nhập khẩu tăng 30,4%, FDI đăng ký tăng 76,4%. Tuy nhiên, lạm phát CPI 4,52%, cán cân nhập siêu 19,42 tỷ USD, và các biện pháp thắt chặt tiền tệ từ Ngân hàng Nhà nước (hút ròng 53.475 tỷ đồng) đang hạn chế tăng trưởng ngắn hạn. Thêm vào đó, 65 mã bị cắt margin quý 4 và VN-Index mất các đường trung bình kỹ thuật, đặt thị trường trong tình trạng điều chỉnh.",
   "top": [
     {
-      "title": "GDP 9,01%, công nghiệp tăng 11,21% cao nhất từ 2015",
+      "title": "GDP 9,01%, công nghiệp-xây dựng tăng 11,21% cao nhất từ 2015",
       "impact": "↑",
-      "note": "GDP quý III ước 9,95%, 9 tháng đạt 9,01%. Công nghiệp-xây dựng +11,21% (cao nhất từ 2015), tiêu dùng +13,4%, khách quốc tế 17,7 triệu lượt (+14,5%), xuất nhập khẩu 888 tỷ USD (+30,4%), FDI đăng ký 50,36 tỷ USD (+76,4%), thực hiện 21,07 tỷ USD (+12,1%)."
+      "note": "GDP 9 tháng tăng 9,01%, quý III ước đạt 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), dịch vụ tăng 8,69%, nông lâm thủy sản tăng 4,02%. Tiêu dùng tăng 13,4%, khách quốc tế 17,7 triệu lượt tăng 14,5%. Quý IV cần tăng khoảng 12,5% để đạt mục tiêu cả năm từ 10% trở lên."
     },
     {
-      "title": "Chính sách nới lỏng LDR, Thông tư 50/2026 hỗ trợ ngân hàng",
+      "title": "Xuất nhập khẩu tăng 30,4%, FDI đăng ký tăng 76,4%",
       "impact": "↑",
-      "note": "Thông tư 50/2026 sửa đổi Thông tư 22/2019, nới lỏng các tỷ lệ thanh khoản LCR/NSFR. Sớm áp dụng, trần LDR có thể tăng từ 85% lên 95%, giảm áp lực thanh khoản, mở rộng dư địa cho vay. MBS đánh giá tích cực cho ngành ngân hàng niêm yết."
+      "note": "Kim ngạch xuất nhập khẩu 9 tháng đạt 888,02 tỷ USD, tăng 30,4% so với cùng kỳ. Vốn FDI đăng ký 50,36 tỷ USD tăng 76,4%, vốn FDI thực hiện 21,07 tỷ USD tăng 12,1%. Tổng vốn đầu tư xã hội 3,11 triệu tỷ đồng tăng 15,1%."
     },
     {
-      "title": "Fed khả năng giữ lãi suất tháng 10, hỗ trợ USD yếu",
-      "impact": "↑",
-      "note": "Fed tăng 0,25% tháng 9 lên 3,75-4% (lần tăng đầu tiên 3+ năm). Lạm phát Mỹ vượt mục tiêu 5+ năm do xăng dầu, thuế quan, AI. Cân nhắc giữ lãi suất tháng 10, CPI Mỹ trước 27-28/10 sẽ quyết định. Xu hướng yếu đồng USD hỗ trợ xuất khẩu VN."
-    },
-    {
-      "title": "Vinhomes Hạ Long Xanh 18 tỷ USD, tăng tốc san lấp 23 ha/ngày",
-      "impact": "↑",
-      "note": "Siêu dự án tiếp tục tốc độ cao: 9.000 công nhân, 2.000+ máy móc hoạt động 24/7. Tháng 10 san lấp trung bình 23 ha/ngày, hoàn thiện đường 51m, Đại lộ Thiên Đường 40m, khu nhà ở bắt đầu ép cọc. Thúc đẩy ngành xây dựng, tạo hiệu ứng kinh tế."
-    },
-    {
-      "title": "CPI 4,52%, cán cân nhập siêu 19,42 tỷ USD tháng 9",
+      "title": "Ngân hàng Nhà nước hút ròng 53.475 tỷ đồng, lãi suất liên ngân hàng biến động mạnh",
       "impact": "↓",
-      "note": "CPI bình quân 9 tháng tăng 4,52% do xăng dầu, lương thực-thực phẩm, vật liệu xây dựng. Cán cân thương mại nhập siêu 19,42 tỷ USD khi nhập khẩu tăng 36,7%, dù tháng 9 xuất siêu 1,27 tỷ USD."
+      "note": "Tuần 28/9-2/10, Ngân hàng Nhà nước hút ròng 53.475,20 tỷ đồng qua kênh cầm cố với lãi suất 4,5%/năm. Lãi suất 1 tuần giảm 2,1% xuống 3,5%/năm, 1 tháng tăng 0,1% lên 6,3%/năm. Có 133.341,93 tỷ đồng lưu hành trên kênh cầm cố cuối tuần, phản ánh sự quản lý thanh khoản thắt chặt."
     },
     {
-      "title": "Nhu cầu vốn 38,5 triệu tỷ/5 năm, 9 tháng mới huy động 60%",
+      "title": "65 mã cổ phiếu bị cắt margin trong quý 4, gồm HVN, DGC và nhiều mã hot",
+      "impact": "↓",
+      "note": "HOSE công bố 65 mã chứng khoán không đủ điều kiện giao dịch ký quỹ trong quý 4 (giảm 8 mã so với 73 mã tháng 9). Nguyên nhân: 25 mã thuộc diện cảnh báo, 10 mã niêm yết dưới 6 tháng, 8 mã lỗ, 1 mã vi phạm luật thuế. Bao gồm HVN (Vietnam Airlines), DGC (Tập đoàn Hóa chất Đức Giang)."
+    },
+    {
+      "title": "CPI 4,52%, cán cân nhập siêu 19,42 tỷ USD, nhập khẩu tăng 36,7%",
+      "impact": "↓",
+      "note": "CPI bình quân 9 tháng tăng 4,52% do xăng dầu, lương thực-thực phẩm, vật liệu xây dựng. Cán cân thương mại chuyển sang nhập siêu 19,42 tỷ USD khi nhập khẩu tăng 36,7%, mặc dù tháng 9 xuất siêu trở lại 1,27 tỷ USD. Áp lực lạm phát giới hạn không gian chính sách tiền tệ."
+    },
+    {
+      "title": "Fed có thể không tăng lãi suất tháng 10 malgré lạm phát vượt mục tiêu 5+ năm",
       "impact": "→",
-      "note": "Nhu cầu vốn đầu tư toàn xã hội 5 năm: 38,5 triệu tỷ đồng (~1,5 nghìn tỷ USD). Vốn huy động 9 tháng 3,11 triệu tỷ (+15,1%), mới 60% nhu cầu. Ngân sách 22%, còn lại 80% từ doanh nghiệp, đầu tư tư nhân, vốn quốc tế."
+      "note": "Fed tăng 0,25% tháng 9 lên 3,75-4% (lần tăng đầu tiên 3+ năm). Lạm phát Mỹ vượt mục tiêu 5+ năm do xăng dầu, thuế quan, đầu tư AI, nhưng Fed cân nhắc giữ lãi suất tháng 10 để tránh tác hại thị trường lao động. CPI trước cuộc họp 27-28/10 sẽ quyết định."
     }
   ]
 }
