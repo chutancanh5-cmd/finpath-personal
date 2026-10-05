@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-05",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì động lực tăng trưởng mạnh với GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21% (cao nhất kể từ 2015), FDI đăng ký vọt 76,4% lên 50,36 tỷ USD và xuất nhập khẩu đạt 888 tỷ USD (+30,4%). Tuy vậy, thị trường chứng khoán vừa trải qua điều chỉnh mạnh tháng 9 (-3,47%) sau FTSE nâng hạng do \"bán theo tin tức\", với dòng tiền trong nước dè dặt. Quý IV cần tăng 12,5% để đạt mục tiêu cả năm, trong bối cảnh SBV thắt chặt thanh khoản (hút ròng 53.475 nghìn tỷ đồng) và lạm phát toàn cầu (eurozone 3,8%) gây rủi ro cho chuỗi cung.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), tạo nền tảng vĩ mô vững chắc cho năm 2026. Tuy vậy thị trường chứng khoán chưa hưởng ứng đầy đủ do NHNN thắt chặt thanh khoản (hút ròng 53.475 tỷ đồng) gây căng thẳng lãi suất ngắn hạn, và áp lực chốt lời sau FTSE Russell nâng hạng. Bối cảnh toàn cầu thêm rủi ro: lạm phát eurozone tăng 3,8%, cao nhất 3 năm, có thể kéo dòng vốn từ thị trường mới nổi. Ngắn hạn thị trường giai đoạn tích lũy với tín hiệu kỹ thuật yếu.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, công nghiệp cao nhất 11 năm",
+      "title": "GDP 9 tháng tăng 9,01%, công nghiệp tăng 11,21% cao nhất 11 năm",
       "impact": "↑",
-      "note": "GDP quý 3 ước tăng 9,95%, 9 tháng tăng 9,01%; công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015); chế biến-chế tạo tăng 12,28% quý 3 và 11,36% 9 tháng; FDI đăng ký 50,36 tỷ USD tăng 76,4%; xuất nhập khẩu 888 tỷ USD tăng 30,4%; tiêu dùng trong nước tăng 9,75% trong 9 tháng."
+      "note": "GDP quý 3 ước tăng 9,95%, 9 tháng tăng 9,01%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015); chế biến-chế tạo tăng 12,28% quý 3 và 11,36% 9 tháng; tiêu dùng tăng 13,4%, xuất nhập khẩu đạt 888 tỷ USD (+30,4%). Nền tảng kinh tế vững vàng hỗ trợ triển vọng dài hạn của thị chứng khoán."
     },
     {
-      "title": "FDI đăng ký tăng 76,4%, du khách quốc tế tăng 14,5%",
+      "title": "NHNN hút ròng 53.475 tỷ đồng - thắt chặt thanh khoản",
+      "impact": "↓",
+      "note": "Tuần 28/9-2/10, NHNN hút ròng 53.475 tỷ đồng khỏi hệ thống qua thị trường mở (lượng đáo hạn 78.615 tỷ đồng lớn hơn đáng kể lượng tiền được bơm mới 25.139 tỷ đồng). Lãi suất VND liên ngân hàng biến động mạnh: lãi suất qua đêm tăng 2,1 điểm % lên 2,8%/năm. OMO lưu hành còn 133.342 tỷ đồng. Áp lực lên chi phí tín dụng và cầu cấp vốn."
+    },
+    {
+      "title": "Lạm phát eurozone tăng 3,8% - cao nhất 3 năm",
+      "impact": "↓",
+      "note": "Lạm phát khu vực eurozone tăng lên 3,8% tháng 9 (từ 3,2% tháng 8), cao nhất kể từ tháng 9/2023 và vượt dự báo 3,6%. Nguyên nhân chủ yếu giá nhiên liệu leo thang, lạm phát lõi tăng từ 2,4% lên 2,5%. ECB đối mặt sức ép nâng lãi suất, có thể kéo dòng vốn từ thị trường mới nổi như Việt Nam."
+    },
+    {
+      "title": "GDP quý 4 cần tăng 12,5% để đạt mục tiêu cả năm",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 9 tháng đạt 50,36 tỷ USD tăng 76,4%; thực hiện 21,07 tỷ USD tăng 12,1%; khách quốc tế 17,7 triệu lượt tăng 14,5%, cao nhất từ trước đến nay; tổng vốn đầu tư xã hội 3,11 triệu tỷ đồng tăng 15,1%; 12/34 địa phương đạt tăng trưởng hai con số."
+      "note": "Để đạt mục tiêu tăng trưởng cả năm từ 10% trở lên, GDP quý 4 cần tăng khoảng 12,5%. Động lực: đầu tư công giải ngân tốt (đặc biệt hạ tầng quy mô lớn), công nghiệp-xây dựng tăng 11,21%, xuất khẩu mở rộng đầu ra, tiêu dùng tăng 13,4%. Mục tiêu đòi hỏi áp lực lớn nhưng nếu đạt sẽ hỗ trợ thị trường chứng khoán."
     },
     {
-      "title": "SBV hút ròng 53.475 nghìn tỷ đồng, lãi suất ngắn hạn biến động",
+      "title": "65 mã bị cắt margin quý 4 - rủi ro thanh khoản",
       "impact": "↓",
-      "note": "Tuần 28/9-2/10, SBV hút ròng 53.475 nghìn tỷ đồng qua thị trường mở, lãi suất VND kỳ hạn 1 tuần giảm 2,1 điểm phần trăm xuống 3,5%/năm, kỳ hạn 1 tháng tăng 0,10 điểm lên 6,3%/năm. Biến động lãi suất lớn trên các kỳ hạn ngắn phản ánh căng thẳng thanh khoản và kỳ vọng thắt chặt tiền tệ."
+      "note": "HoSE công bố 65 chứng khoán không đủ điều kiện giao dịch ký quỹ quý 4/2026, bao gồm HVN (Vietnam Airlines - cảnh báo), DGC (hạn chế giao dịch), CIG, DLG, DTL, DXV, HID, JVC, LDG, NVT, OGC, PIT, PLP, PTL, SVD, TCR, TDH, TLH, TMT, TNC, TSC, VCA, VPG, VPH, YBM. Nhà đầu tư không được dùng leverage để mua các mã này."
     },
     {
-      "title": "Lạm phát eurozone tăng 3,8%, cao nhất 3 năm",
-      "impact": "↓",
-      "note": "Lạm phát eurozone tăng lên 3,8% tháng 9 (từ 3,2% tháng 8), cao nhất kể từ tháng 9/2023 và vượt dự báo 3,6%). Nguyên nhân chủ yếu từ giá nhiên liệu leo thang, lạm phát lõi tăng từ 2,4% lên 2,5%. ECB đối mặt sức ép nâng lãi suất, có thể kéo dòng vốn từ thị trường mới nổi như Việt Nam."
-    },
-    {
-      "title": "VN-Index giảm 3,47% tháng 9 do sell-on-news FTSE nâng hạng",
-      "impact": "→",
-      "note": "VN-Index kết phiên cuối tháng 9 tại 1.768,62 điểm, giảm 3,47% so với tháng 8; áp lực bán tăng mạnh ngay sau khi Việt Nam chính thức nâng hạng lên thị trường mới nổi thứ cấp; VN-Index sáng 5/10 phục hồi tăng 15 điểm lên 1.752,97 (+0,88%) nhưng độ rộng còn cân bằng (286 mã tăng, 255 mã giảm)."
-    },
-    {
-      "title": "65 mã chứng khoán bị cắt margin quý 4 do điều kiện yếu",
-      "impact": "↓",
-      "note": "HoSE công bố 65 chứng khoán không đủ điều kiện giao dịch ký quỹ quý 4/2026, gồm HVN (Vietnam Airlines) bị cảnh báo, DGC bị hạn chế giao dịch. Nguyên nhân: niêm yết chưa 6 tháng, thua lỗ, ý kiến kiểm toán ngoại trừ, hoặc đang cảnh báo/kiểm soát giao dịch; nhà đầu tư không được dùng leverage để mua các mã này."
+      "title": "LPB tăng kịch trần 43.000 đồng - Phạm Nhật Vượng quan tâm",
+      "impact": "↑",
+      "note": "LPB của LPBank tăng kịch trần lên 43.000 đồng/cổ phiếu phiên sáng 5/10 sau nhiều phiên điều chỉnh mạnh. Phạm Nhật Vượng sở hữu 146,2 triệu cổ phiếu (4,894% vốn), đầu tư tài chính cá nhân ngày 23/6. Cổ phiếu lập đỉnh 56.000 đồng hồi tháng 6, hiện lùi 23% nhưng sự quan tâm từ cổ đông lớn gợi hy vọng phục hồi."
     }
   ]
 }
