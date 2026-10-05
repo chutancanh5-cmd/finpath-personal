@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-05",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế 9 tháng ghi nhận tăng trưởng GDP 9,01% (cao nhất 15 năm), quý 3 tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% cao nhất kể từ 2015, dịch vụ 8,69%, tiêu dùng 13,4%, vốn đầu tư 15,1%, xuất nhập khẩu 30,4%. Hà Nội đạt GRDP 10,02% quý III lần đầu tiên năm nay. Ngành ngân hàng mở rộng vốn (NCB +33 nghìn tỷ, MB vượt 100 nghìn tỷ). Thị trường chứng khoán dự báo tích lũy tháng 10 sau áp lực bán chốt lời từ nâng hạng FTSE Russell.",
+  "summary_vi": "Kinh tế Việt Nam 9 tháng đạt tăng trưởng GDP 9,01% cao nhất 15 năm với công nghiệp tăng 11,21% (mức cao nhất từ 2015) và xuất nhập khẩu tăng 30,4%. Ngân hàng được tăng cường vốn (NCB được phê duyệt thêm 33 ngàn tỷ, MB vượt 100 ngàn tỷ vốn), hỗ trợ tâm lý. Tuy nhiên dòng tiền ngoại bán ròng hơn 4,8 ngàn tỷ đồng tháng 9 và áp lực chốt lời sau nâng hạng FTSE tạo rủi ro ngắn hạn; thị trường ở giai đoạn tích lũy với triển vọng phụ thuộc vào quý IV phải tăng trên 12,5% để đạt mục tiêu năm.",
   "top": [
     {
-      "title": "GDP 9 tháng 9,01%, công nghiệp tăng 11,21% cao nhất 11 năm",
+      "title": "GDP 9 tháng tăng 9,01%, cao nhất 15 năm",
       "impact": "↑",
-      "note": "GDP 9 tháng 2026 tăng 9,01% cao nhất từ 2011, quý III tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất kể từ 2015), dịch vụ 8,69%, tiêu dùng 13,4%, tổng vốn đầu tư 3,11 triệu tỷ đồng tăng 15,1%, FDI đăng ký 50,36 tỷ USD tăng 76,4%, xuất nhập khẩu 888 tỷ USD tăng 30,4%."
+      "note": "GDP 9 tháng 2026 tăng 9,01% so với cùng kỳ (cao nhất từ năm 2011), quý III tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), tiêu dùng tăng 13,4%, xuất nhập khẩu 888 tỷ USD tăng 30,4%, FDI đăng ký 50,36 tỷ USD tăng 76,4% — tất cả chỉ số vĩ mô khả quan."
     },
     {
-      "title": "Hà Nội GRDP quý III lần đầu cán mốc hai con số",
+      "title": "Hà Nội GRDP quý III tăng 10,02%, lần đầu cán 2 con số",
       "impact": "↑",
-      "note": "GRDP Hà Nội quý III ước tăng 10,02% so với cùng kỳ, lần đầu tiên năm 2026 đạt tăng trưởng hai con số. Khu vực dịch vụ tăng 10,33% (đóng góp 6,79 điểm), tài chính-ngân hàng-bảo hiểm tăng 12,50%, chuyên môn khoa học công nghệ tăng 11,86%. 9 tháng GRDP Hà Nội tăng 8,85%."
+      "note": "Hà Nội GRDP quý III/2026 tăng 10,02% so với cùng kỳ năm trước, lần đầu tiên năm nay đạt tăng trưởng hai con số. Dịch vụ tăng 10,33%, ngân hàng-tài chính tăng 12,50%, công nghệ tăng 11,86% — động lực rộng cho ngành."
     },
     {
-      "title": "Xuất nhập khẩu tăng 30,4%, Việt Nam xuất siêu 1,27 tỷ USD tháng 9",
+      "title": "Ngân hàng được tăng cường vốn, MB vượt 100 ngàn tỷ",
       "impact": "↑",
-      "note": "9 tháng 2026 xuất nhập khẩu đạt 888 tỷ USD tăng 30,4%. Tháng 9 Việt Nam xuất siêu 1,27 tỷ USD, quay đầu tích cực sau chuỗi 9 tháng nhập siêu liên tiếp. Khách quốc tế 17,7 triệu lượt tăng 14,5%."
+      "note": "Ngân hàng Quốc dân (NCB) được Ngân hàng Nhà nước phê duyệt tăng vốn thêm 33 ngàn tỷ đồng, vốn mới 62.280 tỷ (tăng 112,7%); MB hoàn tất tăng vốn lên 100.687,5 tỷ đồng, ngân hàng đầu tiên vượt mốc trăm ngàn tỷ — tăng cường sức mạnh tài chính hệ thống."
     },
     {
-      "title": "NCB được phê duyệt tăng vốn 33 nghìn tỷ đồng qua phát hành riêng lẻ",
-      "impact": "↑",
-      "note": "Ngân hàng Nhà nước chấp thuận NCB tăng vốn điều lệ tối đa 33 nghìn tỷ đồng, phát hành 3,3 tỷ cổ phiếu giá 10.000 đồng/cp. Vốn điều lệ NCB nâng lên 62.280 tỷ đồng, tăng 112,7%. Cổ phiếu NVB tăng vọt +10% lên 16.500 đồng/cp, mức cao nhất hơn 1 năm."
-    },
-    {
-      "title": "MB hoàn tất tăng vốn 100.687,5 tỷ đồng, ngân hàng đầu tiên vượt 100 nghìn tỷ",
-      "impact": "↑",
-      "note": "MB trở thành ngân hàng đầu tiên Việt Nam vượt mốc vốn điều lệ 100.000 tỷ đồng. Được VNX vinh danh thành viên giao dịch đặc biệt tiêu biểu thị trường trái phiếu 2025–2026. Sau 32 năm từ thành lập (1994) với 20 tỷ đồng, MB nâng quy mô gần 5.000 lần."
-    },
-    {
-      "title": "HoSE cắt margin 65 mã chứng khoán quý 4/2026",
+      "title": "Khối ngoại bán ròng 4,8 ngàn tỷ tháng 9",
       "impact": "↓",
-      "note": "Sở Giao dịch HCMC công bố 65 chứng khoán không đủ điều kiện giao dịch ký quỹ quý IV. DGC (Tập đoàn Hóa chất Đức Giang) do hạn chế giao dịch, HVN (Vietnam Airlines) diện cảnh báo, cùng các mã khác do thua lỗ, ý kiến kiểm toán hoặc kiểm soát."
+      "note": "Khối ngoại bán ròng 4,8 ngàn tỷ đồng trên HOSE tháng 9, VHM bị bán ròng 2,4 ngàn tỷ, VIC 1,2 ngàn tỷ, VPB 1,1 ngàn tỷ. Lũy kế 9 tháng bán ròng 97,8 ngàn tỷ chưa có tháng mua ròng nào — áp lực xả hàng sau nâng hạng."
+    },
+    {
+      "title": "Cổ phiếu ngân hàng NCB tăng kịch biên độ 10%",
+      "impact": "↑",
+      "note": "NVB (ngân hàng NCB) phiên 5/10 tăng kịch biên độ 10% lên 16.500 đồng/cp, cao nhất trong hơn 1 năm; LPB tăng kịch trần — phản ánh lạc quan kế hoạch tăng vốn ngân hàng."
+    },
+    {
+      "title": "VN-Index ở giai đoạn tích lũy, quý IV cần tăng trên 12,5%",
+      "impact": "→",
+      "note": "VN-Index phiên 5/10 tăng 15 điểm lên 1.753 điểm sau 5 phiên giảm liên tiếp. Để đạt mục tiêu tăng trưởng 2 con số năm 2026, quý IV phải tăng trên 12,5%. Chuyên gia VFS khuyến nghị tiếp tục tích lũy — triển vọng ngắn hạn chưa rõ ràng."
     }
   ]
 }
