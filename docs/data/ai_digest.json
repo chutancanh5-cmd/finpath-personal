@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-05",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP 9 tháng tăng 9,01% (cao nhất 15 năm) với công nghiệp-xây dựng tăng 11,21% từ 2015, Hà Nội GRDP lần đầu cán 10,02% — nền tảng vĩ mô mạnh mẽ cho TTCK. Tuy nhiên, thị trường phân hóa, khối ngoại bán ròng 97,8 nghìn tỷ lũy kế 9 tháng, áp lực từ USD tăng và lợi suất Mỹ cao làm cân bằng lực tích cực. VN-Index hôm nay hồi phục vượt 1750 sau 5 phiên giảm nhưng Q4 phải tăng trên 12,5% để đạt mục tiêu 2 con số.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Kinh tế Việt Nam ghi nhận những tín hiệu tích cực với GDP 9 tháng tăng 9,01% (cao nhất 15 năm), xuất nhập khẩu tăng 30,4% và FDI đăng ký tăng 76,4%. Tuy nhiên, thị trường chứng khoán chưa phản ánh đầy đủ lạc quan này do dòng vốn ngoại liên tục bán ròng (97,8 ngàn tỷ cả năm) và yếu tố kỹ thuật còn lạc hậu. Quý IV cần tăng trưởng trên 12,5% để đạt mục tiêu cả năm, đây là thách thức lớn trong bối cảnh tâm lý thị trường phân hóa.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21%",
+      "title": "GDP 9 tháng cao nhất 15 năm, quý III tăng 9,95%",
       "impact": "↑",
-      "note": "GDP 9 tháng 2026 tăng 9,01% (cao nhất kể từ 2011), quý III tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), dịch vụ tăng 8,69%. Tiêu dùng tăng 13,4%, khách quốc tế 17,7 triệu lượt (tăng 14,5%). Tổng vốn đầu tư 3,11 triệu tỷ đồng tăng 15,1%, FDI đăng ký 50,36 tỷ USD tăng 76,4%."
+      "note": "9 tháng năm 2026 GDP tăng 9,01%, quý III tăng 9,95% so với cùng kỳ năm 2025 - mức cao nhất trong 15 năm từ 2011. Tín hiệu vĩ mô rất tích cực thúc đẩy kỳ vọng thị trường chứng khoán."
     },
     {
-      "title": "GRDP Hà Nội quý III tăng 10,02%, lần đầu cán 2 con số",
+      "title": "Xuất nhập khẩu tăng 30,4%, xuất siêu 1,27 tỷ USD tháng 9",
       "impact": "↑",
-      "note": "Hà Nội GRDP quý III tăng 10,02% so với cùng kỳ, lần đầu tiên năm 2026 đạt 2 con số, cao nhất trong 3 quý. Dịch vụ tăng 10,33% (đóng góp 6,79 điểm phần trăm), tài chính-ngân hàng-bảo hiểm tăng 12,50%, chuyên môn-công nghệ tăng 11,86%, bán lẻ tăng 10,98%."
+      "note": "9 tháng XNK đạt 888 tỷ USD tăng 30,4% so với cùng kỳ. Tháng 9 Việt Nam xuất siêu 1,27 tỷ USD - dấu hiệu tích cực của cân bằng ngoại tệ và động lực tăng trưởng từ thương mại."
     },
     {
-      "title": "Q4 phải tăng 12,5% để đạt mục tiêu 2 con số cả năm",
-      "impact": "→",
-      "note": "Để đạt tăng trưởng 2 con số cả năm, Q4/2026 phải tăng trên 12,5%. Chuyên gia cảnh báo: mục tiêu này khó khăn trong bối cảnh kinh tế thế giới biến động, yêu cầu cần đẩy mạnh xuất khẩu. Mặc dù tháng 9 xuất siêu 1,27 tỷ USD nhưng rủi ro từ thế giới vẫn hiện hữu."
+      "title": "Vốn FDI tăng 76,4%, Hà Nội GRDP tăng 10,02%",
+      "impact": "↑",
+      "note": "Vốn FDI đăng ký quý III đạt 50,36 tỷ USD tăng 76,4%, thực hiện 21,07 tỷ USD tăng 12,1%. Hà Nội GRDP quý III tăng 10,02% - lần đầu tiên trong năm đạt mức 2 con số."
     },
     {
-      "title": "Khối ngoại bán ròng 97,8 nghìn tỷ, áp lực tiếp tục",
+      "title": "Khối ngoại bán ròng 97,8 ngàn tỷ đồng cả năm",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 97,8 nghìn tỷ đồng lũy kế 9 tháng 2026 (chưa có tháng mua ròng). Tháng 9 bán ròng 4.800 tỷ với VHM 2.400 tỷ đồng, VIC 1.200 tỷ đồng, VPB 1.100 tỷ đồng, cộng TCB, CTG, VCB bị bán ròng mạnh dù được nâng hạng FTSE Russell."
+      "note": "Tháng 9 khối ngoại bán ròng 4.800 tỷ đồng với VHM 2.400 tỷ, VIC 1.200 tỷ, VPB 1.100 tỷ. Lũy kế 9 tháng bán ròng 97,8 ngàn tỷ đồng - áp lực lớn từ dòng vốn ngoại trên HOSE."
     },
     {
-      "title": "USD tăng giá, lợi suất trái phiếu Mỹ tác động tiêu cực",
+      "title": "LPBank tăng trần 6,97%, thanh khoản 2,5 triệu cổ phiếu",
+      "impact": "↑",
+      "note": "LPB tăng kịch trần lên 43.000 đồng/cổ phiếu, thanh khoản khớp lệnh hơn 2,5 triệu đơn vị, rơi vào trạng thái trắng bên bán. Dấu hiệu tâm lý thị trường cải thiện sau chuỗi giảm sâu."
+    },
+    {
+      "title": "Triển vọng ngắn hạn yếu, quý IV phải tăng trên 12,5%",
       "impact": "↓",
-      "note": "Giá vàng SJC điều chỉnh giảm 0,76% tuần trước còn 143,5 triệu đồng/lượng bán ra. Áp lực chính từ USD mạnh và lợi suất trái phiếu Mỹ cao. Tác động này tiêu cực lên giá vàng, bạc và tâm lý TTCK, dấu hiệu dòng tiền quốc tế chậm lại."
-    },
-    {
-      "title": "Thị trường phân hóa, VN-Index hồi phục nhưng đà tăng chưa toàn diện",
-      "impact": "→",
-      "note": "VN-Index hồi phục vượt 1750 điểm sau 5 phiên giảm liên tiếp. Tuy nhiên thị trường 'xanh vỏ, đỏ lòng': bất động sản, ngân hàng, thép, bán lẻ hỗ trợ nhưng nhiều ngành phân hóa mạnh. HNX kiểm tra đáy tháng 7 (266-270). Chỉ báo MACD yếu, nến thân nhỏ, triển vọng ngắn hạn còn tiêu cực."
+      "note": "Chỉ báo MACD nằm dưới 0 và suy yếu, VN-Index kiểm tra đáy cũ tháng 08/2026 (1.715-1.735 điểm). Quý IV phải tăng trên 12,5% để đạt mục tiêu tăng trưởng 2 con số cả năm - thách thức rất lớn."
     }
   ]
 }
