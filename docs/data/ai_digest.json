@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-05",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP 9 tháng tăng 9,01% là mức cao nhất trong nhiều năm qua, công nghiệp-xây dựng tăng 11,21%, FDI tăng 76,4%, thể hiện nền kinh tế tăng trưởng mạnh; tuy nhiên, thị trường chứng khoán chịu áp lực bán \"sell-on-news\" sau FTSE nâng hạng, VN-Index giảm 3,47% tháng 9. Lạm phát eurozone tăng 3,8% (cao nhất 3 năm), HoSE cắt margin 65 mã hạn chế đòn bẩy, và quý IV cần tăng GDP 12,5% để đạt mục tiêu cả năm 10%.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Số liệu vĩ mô quý 3 và 9 tháng cho thấy nền kinh tế phát triển mạnh mẽ: GDP tăng 9,01%, công nghiệp tăng 11,21% (cao nhất từ 2015), FDI tăng 76,4% và xuất khẩu tăng 30,4%. Tuy nhiên, thị trường chứng khoán vẫn gặp áp lực từ dòng tiền ngoại bán ròng (tháng 9 bán ròng 4,8 ngàn tỷ đồng) và tâm lý sell-on-news sau nâng hạng FTSE Russell, với VN-Index giảm 3,47% trong tháng 9. Nhà đầu tư cần theo dõi khả năng quý IV đạt tăng trưởng 12,5% để hoàn thành mục tiêu năm.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng cao nhất từ 2015",
+      "title": "GDP 9 tháng tăng 9,01%, công nghiệp tăng kỷ lục 11,21%",
       "impact": "↑",
-      "note": "GDP 9 tháng tăng 9,01%, quý III tăng 9,95%; công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015); FDI đăng ký 50,36 tỷ USD tăng 76,4%, thực hiện 21,07 tỷ USD tăng 12,1%. Tiêu dùng tăng 13,4%, xuất nhập khẩu tăng 30,4%."
+      "note": "GDP quý 3 ước tăng 9,95%, 9 tháng tăng 9,01%; công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015 đến nay); FDI đăng ký đạt 50,36 tỷ USD tăng 76,4%; xuất nhập khẩu đạt 888 tỷ USD tăng 30,4%; khách quốc tế đạt 17,7 triệu lượt tăng 14,5%."
     },
     {
-      "title": "VN-Index giảm 3,47% tháng 9 dưới áp lực bán \"sell-on-news\" sau FTSE nâng hạng",
+      "title": "Quý IV cần tăng 12,5% để đạt mục tiêu cả năm 10%",
+      "impact": "↑",
+      "note": "GDP 9 tháng tăng 9,01%, để đạt mục tiêu cả năm tăng từ 10% trở lên, quý IV phải tăng khoảng 12,5%. Động lực chính: đầu tư công (các dự án hạ tầng quy mô lớn), công nghiệp chế biến-chế tạo, và xuất khẩu tiếp tục mở rộng."
+    },
+    {
+      "title": "Khối ngoại bán ròng 4,8 ngàn tỷ sau nâng hạng FTSE Russell",
       "impact": "↓",
-      "note": "VN-Index kết thúc tháng 9 ở 1.768,62 điểm, giảm 3,47%; sau khi FTSE Russell nâng hạng ngày 13/9, áp lực chốt lời gia tăng. Dòng tiền trong nước vẫn dè dặt, nhà đầu tư chưa tích cực bất chấp số liệu vĩ mô khả quan."
+      "note": "Tháng 9 khối ngoại bán ròng 4,8 ngàn tỷ đồng trên HOSE; VHM bị bán ròng 2,4 ngàn tỷ, VIC bị bán ròng 1,2 ngàn tỷ, VPB bị bán ròng 1,1 ngàn tỷ đồng; khối ngoại chưa có tháng mua ròng nào trong 9 tháng đầu năm, bán ròng lũy kế 97,8 ngàn tỷ đồng."
     },
     {
-      "title": "Lạm phát eurozone tăng 3,8%, cao nhất 3 năm",
+      "title": "VN-Index giảm 3,47% tháng 9 do sell-on-news và dòng tiền dè dặt",
       "impact": "↓",
-      "note": "Lạm phát eurozone tháng 9 tăng 3,8%, cao nhất kể từ 9/2023, vượt dự báo 3,6%; chỉ số lõi tăng 2,5%. Nguyên nhân: giá nhiên liệu, giá thực phẩm leo thang; ECB sẽ tiếp tục nâng lãi suất."
+      "note": "VN-Index kết phiên cuối tháng 9 tại 1.768,62 điểm, giảm 3,47% so với tháng 8; áp lực bán tăng rõ rệt sau khi Việt Nam chính thức nâng hạng lên thị trường mới nổi thứ cấp, dòng tiền trong nước vẫn khá dè dặt; VN-Index sáng 5/10 tăng 15 điểm lên 1.752,97 nhưng độ rộng còn khá cân bằng."
     },
     {
-      "title": "HoSE cắt margin 65 mã chứng khoán từ quý 4/2026",
+      "title": "Lạm phát eurozone tăng lên 3,8%, ECB sắp nâng lãi suất",
       "impact": "↓",
-      "note": "65 cổ phiếu bị xếp không đủ điều kiện giao dịch ký quỹ, gồm HVN (cảnh báo), DGC (hạn chế giao dịch), CIG, DLG, DTL, HID, JVC, LDG... Nguyên nhân: niêm yết < 6 tháng, thua lỗ, ý kiến kiểm toán, cảnh báo/kiểm soát/hạn chế giao dịch."
+      "note": "Lạm phát khu vực eurozone tăng lên 3,8% (cao nhất 3 năm), từ mức 3,2% tháng trước, do giá năng lượng leo thang; ECB sắp đối diện sức ép tiếp tục nâng lãi suất; áp lực này có thể kéo dòng vốn quốc tế từ các thị trường mới nổi."
     },
     {
-      "title": "Quý IV cần tăng GDP 12,5% để đạt mục tiêu cả năm 10%",
-      "impact": "→",
-      "note": "Để đạt mục tiêu GDP cả năm 10% trở lên, quý IV cần tăng khoảng 12,5%. Ba động lực chính là đầu tư công (giải ngân tốt), công nghiệp-xây dựng, và tiêu dùng trong nước. Mức tăng này đặt áp lực lớn lên các động lực kinh tế cuối năm."
-    },
-    {
-      "title": "Thị trường phục hồi nhẹ sáng 5/10, dòng tiền nước ngoài chưa hưởng ứng",
-      "impact": "→",
-      "note": "VN-Index tăng nhẹ sáng 5/10, VIC tăng 3,13%, LPB kịch trần, HPG tăng 2,99%; độ rộng VN30 chỉ 16 xanh-9 đỏ (+0,99%), HoSE 159 xanh-120 đỏ. Dòng tiền nước ngoài vẫn dè dặt dù có số liệu vĩ mô khả quan."
+      "title": "65 mã bị HoSE cắt margin quý 4 vì kinh doanh yếu và cảnh báo",
+      "impact": "↓",
+      "note": "65 chứng khoán không đủ điều kiện giao dịch ký quỹ quý 4; HVN (Vietnam Airlines) bị cắt do cảnh báo; DGC bị cắt do hạn chế giao dịch; nguyên nhân chủ yếu do niêm yết chưa đủ 6 tháng, thua lỗi, ý kiến kiểm toán ngoại trừ, hoặc đang cảnh báo/kiểm soát giao dịch."
     }
   ]
 }
