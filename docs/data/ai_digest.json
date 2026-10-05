@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-05",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam ghi nhận nhiều tín hiệu tích cực: GDP 9 tháng tăng 9,01% (cao nhất 15 năm), công nghiệp-xây dựng tăng 11,21%, FDI tăng 76,4%. Chính sách nới LDR từ 85% lên 95% từ tháng 12 sẽ tạo thêm không gian tín dụng. Các ngân hàng được phê duyệt tăng vốn đáng kể. Thị trường chứng khoán phục hồi nhưng vẫn phân hóa, cần theo dõi mục tiêu tăng trưởng quý IV phải trên 12,5%.",
+  "summary_vi": "Kinh tế Việt Nam ghi nhận nhiều tín hiệu tích cực: GDP 9 tháng tăng 9,01% (cao nhất 15 năm), công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), FDI tăng 76,4% và xuất nhập khẩu tăng 30,4%. Chính phủ nâng trần LDR từ 85% lên 95% (từ 1/12) để tạo không gian tín dụng. Thị trường chứng khoán phục hồi tích cực với VN-Index tăng 0,89%, LPB kịch trần. Tuy vậy, lãi suất vay ô tô tăng mạnh lên 16-20%/năm gây rủi ro cho tiêu dùng.",
   "top": [
     {
-      "title": "LDR ngân hàng nâng lên 95%, giảm áp lực thanh khoản",
+      "title": "GDP 9 tháng tăng 9,01%, cao nhất 15 năm",
       "impact": "↑",
-      "note": "Thông tư 50/2026/TT-NHNN (hiệu lực từ 1/12/2026) nâng tỷ lệ dư nợ cho vay trên tiền gửi từ 85% lên 95%, giúp ngân hàng tăng không gian cho hoạt động tín dụng và giảm áp lực thanh khoản."
+      "note": "GDP quý III tăng 9,95%, 9 tháng tăng 9,01%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ năm 2015). Tiêu dùng tăng 13,4% đạt cận dưới mục tiêu cả năm. Quý IV cần tăng trên 12,5% để đạt mục tiêu năm tăng 2 con số."
     },
     {
-      "title": "GDP 9 tháng tăng 9,01%, cao nhất 15 năm qua",
+      "title": "Nâng trần LDR ngân hàng từ 85% lên 95%",
       "impact": "↑",
-      "note": "GDP quý III tăng 9,95%, 9 tháng tăng 9,01%; công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015); FDI đăng ký 50,36 tỷ USD tăng 76,4%; xuất nhập khẩu 888 tỷ USD tăng 30,4%."
+      "note": "Thông tư 50/2026/TT-NHNN (hiệu lực 1/12/2026) nâng tỷ lệ dư nợ cho vay so với tổng tiền gửi từ 85% lên 95%, mở rộng không gian tín dụng và giảm áp lực thanh khoản của ngân hàng."
     },
     {
-      "title": "Hà Nội GRDP quý III tăng 10,02%, lần đầu đạt 2 con số",
+      "title": "Hà Nội GRDP quý III tăng 10,02%, lần đầu cán mốc 2 con số",
       "impact": "↑",
-      "note": "GRDP Hà Nội quý III tăng 10,02%, lần đầu tiên trong năm chạm ngưỡng 2 con số; dịch vụ tăng 10,33%, tài chính-ngân hàng-bảo hiểm tăng 12,50%; GRDP 9 tháng tăng 8,85%."
+      "note": "GRDP Hà Nội quý III tăng 10,02% so với cùng kỳ. Dịch vụ tăng 10,33%, tài chính-ngân hàng-bảo hiểm tăng 12,50%, chuyên môn-khoa học-công nghệ tăng 11,86%. GRDP 9 tháng tăng 8,85%."
     },
     {
-      "title": "NCB được phê duyệt tăng vốn 33.000 tỷ đồng",
+      "title": "VN-Index phục hồi 0,89%, LPB kịch trần, VIC tăng 3,13%",
       "impact": "↑",
-      "note": "Ngân hàng Quốc dân được phê duyệt phát hành 3,3 tỷ cổ phiếu riêng lẻ với giá 10.000 đồng/cổ phiếu; vốn điều lệ tăng lên 62.280 tỷ đồng, tăng 112,7%; cổ phiếu NVB tăng 10% phiên 5/10."
+      "note": "VN-Index tăng 15,49 điểm lên 1.753,2 điểm. LPB tăng 6,97% lên 43.000 đ/cổ phiếu, khối ngoại gom hơn 20 tỷ đồng. VIC tăng 3,13% góp 11,6 điểm. Đây là phiên tăng đầu tiên sau 5 phiên giảm liên tiếp."
     },
     {
-      "title": "VN-Index phục hồi 15,49 điểm (+0,89%) sau 5 phiên giảm",
-      "impact": "→",
-      "note": "VN-Index kết phiên ở 1.753,2 điểm (+0,89%), HNX-Index 269,62 điểm (+1,08%); VIC tăng 3,57% góp hơn 13,3 điểm; độ rộng phân hóa với 348 mã giảm, 334 mã tăng."
+      "title": "Lãi suất vay ô tô tăng mạnh lên 16-20%/năm",
+      "impact": "↓",
+      "note": "Nhiều khoản vay mua ô tô từng có lãi suất 8-9%/năm đã tăng lên 16-19%/năm. Một trường hợp có dư nợ 214 triệu đồng chịu lãi suất 19,8%/năm (điều chỉnh 1/10/2026), dự kiến tăng thêm từ 1/1/2027. Lãi suất cao ảnh hưởng tiêu cực đến tiêu dùng hàng bền vững."
     },
     {
-      "title": "Nhu cầu vốn đầu tư 5 năm 38,5 triệu tỷ đồng",
-      "impact": "→",
-      "note": "Tổng nhu cầu vốn đầu tư 5 năm tới ước 38,5 triệu tỷ đồng (1,5 nghìn tỷ USD); 9 tháng mới huy động 60% nhu cầu (3,11 triệu tỷ đồng); cần phát triển kênh vốn dài hạn ngoài tín dụng ngân hàng."
+      "title": "FDI tăng 76,4%, xuất nhập khẩu tăng 30,4%",
+      "impact": "↑",
+      "note": "Vốn FDI đăng ký 9 tháng 50,36 tỷ USD (tăng 76,4%), thực hiện 21,07 tỷ USD (tăng 12,1%). Xuất nhập khẩu 888 tỷ USD (tăng 30,4%). Khách quốc tế 17,7 triệu lượt (tăng 14,5%, cao nhất từ trước). Tháng 9 xuất siêu 1,27 tỷ USD."
     }
   ]
 }
