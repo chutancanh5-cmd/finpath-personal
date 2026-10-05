@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-05",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), FDI đăng ký tăng 76,4% lên 50,36 tỷ USD. Tuy nhiên, thị trường chứng khoán điều chỉnh mạnh sau cơn bán \"sell-on-news\" post-FTSE Russell, VN-Index lùi 3,47% tháng 9 xuống 1.768,62 điểm. Áp lực từ lạm phát eurozone (3,8%, cao nhất 3 năm), NHNN hút ròng 53.475 tỷ đồng kiềm chế thanh khoản. Tích cực: LPB tăng kịch trần nhờ Phạm Nhật Vượng rót vốn; tiêu dùng tăng 13,4% sát mục tiêu năm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "GDP 9 tháng tăng 9,01% là mức cao nhất trong nhiều năm qua, công nghiệp-xây dựng tăng 11,21%, FDI tăng 76,4%, thể hiện nền kinh tế tăng trưởng mạnh; tuy nhiên, thị trường chứng khoán chịu áp lực bán \"sell-on-news\" sau FTSE nâng hạng, VN-Index giảm 3,47% tháng 9. Lạm phát eurozone tăng 3,8% (cao nhất 3 năm), HoSE cắt margin 65 mã hạn chế đòn bẩy, và quý IV cần tăng GDP 12,5% để đạt mục tiêu cả năm 10%.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, Q4 cần 12,5%",
+      "title": "GDP 9 tháng tăng 9,01%, công nghiệp-xây dựng cao nhất từ 2015",
       "impact": "↑",
-      "note": "GDP quý III tăng 9,95%, 9 tháng tăng 9,01%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), dịch vụ 8,69%, tiêu dùng tăng 13,4%. Để đạt mục tiêu cả năm 10%+ thì quý IV cần tăng khoảng 12,5%—mục tiêu áp lực nhưng khả thi với đầu tư công, xuất khẩu, tiêu dùng như động lực."
+      "note": "GDP 9 tháng tăng 9,01%, quý III tăng 9,95%; công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015); FDI đăng ký 50,36 tỷ USD tăng 76,4%, thực hiện 21,07 tỷ USD tăng 12,1%. Tiêu dùng tăng 13,4%, xuất nhập khẩu tăng 30,4%."
     },
     {
-      "title": "LPB tăng kịch trần 43.000 đ, tỷ phú Phạm Nhật Vượng rót vốn",
-      "impact": "↑",
-      "note": "Sáng 5/10, LPB tăng kịch trần lên 43.000 đồng/cổ phiếu sau chuỗi điều chỉnh. Phạm Nhật Vượng sở hữu 146,2 triệu cổ phiếu LPB (4,894% vốn) từ 23/6/2026, thực hiện khoản đầu tư tài chính cá nhân không tham gia điều hành. Tín hiệu tích cực cho nhóm ngân hàng."
-    },
-    {
-      "title": "Lạm phát eurozone 3,8%, cao nhất 3 năm, ECB nâng lãi suất",
+      "title": "VN-Index giảm 3,47% tháng 9 dưới áp lực bán \"sell-on-news\" sau FTSE nâng hạng",
       "impact": "↓",
-      "note": "Lạm phát khu vực eurozone tăng lên 3,8% tháng 9 (cao nhất từ 9/2023), vượt dự báo 3,6%. Chủ yếu giá nhiên liệu leo thang, lạm phát lõi tăng 2,4% → 2,5%. ECB trước sức ép nâng lãi suất tiếp, gây áp lực lên dòng vốn nước ngoài và chi phí vay toàn cầu."
+      "note": "VN-Index kết thúc tháng 9 ở 1.768,62 điểm, giảm 3,47%; sau khi FTSE Russell nâng hạng ngày 13/9, áp lực chốt lời gia tăng. Dòng tiền trong nước vẫn dè dặt, nhà đầu tư chưa tích cực bất chấp số liệu vĩ mô khả quan."
     },
     {
-      "title": "VN-Index giảm 3,47% tháng 9, bán \"sell-on-news\" sau FTSE nâng hạng",
+      "title": "Lạm phát eurozone tăng 3,8%, cao nhất 3 năm",
       "impact": "↓",
-      "note": "VN-Index kết thúc tháng 9 tại 1.768,62 điểm, giảm 3,47% so với cuối tháng trước. Áp lực bán gia tăng sau nâng hạng FTSE Russell chính thức, nhóm Vingroup-dầu khí-bất động sản chịu bán. Dòng tiền trong nước dè dặt, độ rộng yếu (136-138 mã xanh/đỏ tại low phiên)."
+      "note": "Lạm phát eurozone tháng 9 tăng 3,8%, cao nhất kể từ 9/2023, vượt dự báo 3,6%; chỉ số lõi tăng 2,5%. Nguyên nhân: giá nhiên liệu, giá thực phẩm leo thang; ECB sẽ tiếp tục nâng lãi suất."
     },
     {
-      "title": "NHNN hút ròng 53.475 tỷ đồng, lãi suất liên ngân hàng biến động",
+      "title": "HoSE cắt margin 65 mã chứng khoán từ quý 4/2026",
+      "impact": "↓",
+      "note": "65 cổ phiếu bị xếp không đủ điều kiện giao dịch ký quỹ, gồm HVN (cảnh báo), DGC (hạn chế giao dịch), CIG, DLG, DTL, HID, JVC, LDG... Nguyên nhân: niêm yết < 6 tháng, thua lỗ, ý kiến kiểm toán, cảnh báo/kiểm soát/hạn chế giao dịch."
+    },
+    {
+      "title": "Quý IV cần tăng GDP 12,5% để đạt mục tiêu cả năm 10%",
       "impact": "→",
-      "note": "Tuần 28/9-2/10, NHNN hút ròng 53.475 tỷ đồng qua thị trường mở. Lãi suất VND kỳ 1 tuần giảm 2,1 điểm % xuống 3,5%/năm, kỳ 1 tháng tăng 0,1 điểm % lên 6,3%/năm. Tỷ giá trung tâm điều chỉnh giảm 4 phiên rồi tăng trở lại. Kiềm chế thanh khoản ổn định lạm phát nhưng tạo áp lực chi phí tín dụng."
+      "note": "Để đạt mục tiêu GDP cả năm 10% trở lên, quý IV cần tăng khoảng 12,5%. Ba động lực chính là đầu tư công (giải ngân tốt), công nghiệp-xây dựng, và tiêu dùng trong nước. Mức tăng này đặt áp lực lớn lên các động lực kinh tế cuối năm."
     },
     {
-      "title": "65 mã bị HoSE cắt margin quý 4, bao gồm DGC, HVN",
-      "impact": "↓",
-      "note": "HoSE công bố 65 mã không đủ điều kiện margin từ quý 4/2026. DGC bị loại do hạn chế giao dịch; HVN, CIG, DLG, DTL bị cảnh báo; ABS, DQC, HAS, SBV, SBV thuộc kiểm soát. Hạn chế khả năng tài chính hóa, tăng rủi ro thanh khoản và áp lực lên tâm lý nhà đầu tư."
+      "title": "Thị trường phục hồi nhẹ sáng 5/10, dòng tiền nước ngoài chưa hưởng ứng",
+      "impact": "→",
+      "note": "VN-Index tăng nhẹ sáng 5/10, VIC tăng 3,13%, LPB kịch trần, HPG tăng 2,99%; độ rộng VN30 chỉ 16 xanh-9 đỏ (+0,99%), HoSE 159 xanh-120 đỏ. Dòng tiền nước ngoài vẫn dè dặt dù có số liệu vĩ mô khả quan."
     }
   ]
 }
