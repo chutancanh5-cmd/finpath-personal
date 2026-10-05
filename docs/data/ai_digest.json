@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-05",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam 9 tháng đạt tăng trưởng GDP 9,01% cao nhất 15 năm với công nghiệp tăng 11,21% (mức cao nhất từ 2015) và xuất nhập khẩu tăng 30,4%. Ngân hàng được tăng cường vốn (NCB được phê duyệt thêm 33 ngàn tỷ, MB vượt 100 ngàn tỷ vốn), hỗ trợ tâm lý. Tuy nhiên dòng tiền ngoại bán ròng hơn 4,8 ngàn tỷ đồng tháng 9 và áp lực chốt lời sau nâng hạng FTSE tạo rủi ro ngắn hạn; thị trường ở giai đoạn tích lũy với triển vọng phụ thuộc vào quý IV phải tăng trên 12,5% để đạt mục tiêu năm.",
+  "summary_vi": "Kinh tế Việt Nam 9 tháng đạt tăng trưởng GDP 9,01% (cao nhất 15 năm) với công nghiệp-xây dựng tăng 11,21% và dịch vụ tăng 8,69%; tiêu dùng mạnh tăng 13,4% và khách quốc tế 17,7 triệu lượt. Thị trường chứng khoán phục hồi tích cực với VN-Index tăng 15,49 điểm, ngân hàng có tin tốt (NCB, MB, LPBank), nhưng rủi ro ngắn hạn vẫn hiện hữu từ áp lực bán mạnh của khối ngoại (280 tỷ phiên này, 4,8 nghìn tỷ tháng 9) và yêu cầu quý IV phải tăng trên 12,5% để đạt mục tiêu năm.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, cao nhất 15 năm",
+      "title": "GDP 9 tháng tăng 9,01% - cao nhất 15 năm",
       "impact": "↑",
-      "note": "GDP 9 tháng 2026 tăng 9,01% so với cùng kỳ (cao nhất từ năm 2011), quý III tăng 9,95%. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), tiêu dùng tăng 13,4%, xuất nhập khẩu 888 tỷ USD tăng 30,4%, FDI đăng ký 50,36 tỷ USD tăng 76,4% — tất cả chỉ số vĩ mô khả quan."
+      "note": "9 tháng GDP tăng 9,01% so với cùng kỳ 2025, cao nhất kể từ 2011. Công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), dịch vụ tăng 8,69%, tiêu dùng tăng 13,4%, khách quốc tế đạt 17,7 triệu lượt (cao nhất từ trước), FDI đăng ký 50,36 tỷ USD tăng 76,4%. Quý IV cần tăng trên 12,5% để đạt mục tiêu 2 con số cả năm."
     },
     {
-      "title": "Hà Nội GRDP quý III tăng 10,02%, lần đầu cán 2 con số",
+      "title": "Hà Nội tăng trưởng GRDP quý III 10,02% - lần đầu 2 con số",
       "impact": "↑",
-      "note": "Hà Nội GRDP quý III/2026 tăng 10,02% so với cùng kỳ năm trước, lần đầu tiên năm nay đạt tăng trưởng hai con số. Dịch vụ tăng 10,33%, ngân hàng-tài chính tăng 12,50%, công nghệ tăng 11,86% — động lực rộng cho ngành."
+      "note": "Quý III Hà Nội ước tăng 10,02%, lần đầu trong năm đạt tăng trưởng 2 con số, cao hơn các quý trước. Dịch vụ tăng 10,33% (đóng góp 6,79 điểm), tài chính-ngân hàng tăng 12,50%, chuyên môn-công nghệ tăng 11,86%, bán lẻ tăng 10,98%, vận tải-kho bãi tăng 10,68%. GRDP 9 tháng tăng 8,85%, cao hơn 0,7% so với 6 tháng."
     },
     {
-      "title": "Ngân hàng được tăng cường vốn, MB vượt 100 ngàn tỷ",
+      "title": "NCB được phép tăng vốn 33 nghìn tỷ đồng, phát hành riêng lẻ",
       "impact": "↑",
-      "note": "Ngân hàng Quốc dân (NCB) được Ngân hàng Nhà nước phê duyệt tăng vốn thêm 33 ngàn tỷ đồng, vốn mới 62.280 tỷ (tăng 112,7%); MB hoàn tất tăng vốn lên 100.687,5 tỷ đồng, ngân hàng đầu tiên vượt mốc trăm ngàn tỷ — tăng cường sức mạnh tài chính hệ thống."
+      "note": "Ngân hàng Nhà nước chấp thuận NCB tăng vốn điều lệ tối đa 33.000 tỷ đồng, phát hành 3,3 tỷ cổ phiếu giá 10.000 đồng/cp, vốn sẽ tăng lên 62.280 tỷ đồng (tăng 112,7%). Cổ phiếu NVB tăng kịch biên độ +10% lên 16.500 đồng/cp, mức cao nhất 1 năm trở lại đây."
     },
     {
-      "title": "Khối ngoại bán ròng 4,8 ngàn tỷ tháng 9",
+      "title": "Khối ngoại tiếp tục bán ròng 280 tỷ phiên này, tháng 9 bán 4,8 nghìn tỷ",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 4,8 ngàn tỷ đồng trên HOSE tháng 9, VHM bị bán ròng 2,4 ngàn tỷ, VIC 1,2 ngàn tỷ, VPB 1,1 ngàn tỷ. Lũy kế 9 tháng bán ròng 97,8 ngàn tỷ chưa có tháng mua ròng nào — áp lực xả hàng sau nâng hạng."
+      "note": "Phiên 5/10 khối ngoại bán ròng 280 tỷ đồng. TCB bị bán mạnh 147 tỷ, VHM bị bán 114 tỷ, PNJ bị bán 90 tỷ, VNM bị bán 44 tỷ. Tháng 9 khối ngoại bán ròng 4,8 nghìn tỷ với VHM 2,4 nghìn tỷ, VIC 1,2 nghìn tỷ, VPB 1,1 nghìn tỷ. Lũy kế 9 tháng bán ròng 97,8 nghìn tỷ, chưa có tháng mua ròng."
     },
     {
-      "title": "Cổ phiếu ngân hàng NCB tăng kịch biên độ 10%",
+      "title": "MB vượt mốc vốn 100.687,5 tỷ đồng - ngân hàng đầu tiên \"trăm ngàn tỷ\"",
       "impact": "↑",
-      "note": "NVB (ngân hàng NCB) phiên 5/10 tăng kịch biên độ 10% lên 16.500 đồng/cp, cao nhất trong hơn 1 năm; LPB tăng kịch trần — phản ánh lạc quan kế hoạch tăng vốn ngân hàng."
+      "note": "MB hoàn tất tăng vốn điều lệ lên 100.687,5 tỷ đồng, trở thành ngân hàng đầu tiên vượt mốc \"trăm ngàn tỷ\". MB cũng được vinh danh thành viên giao dịch đặc biệt tiêu biểu trái phiếu giai đoạn 2025-2026, dựa trên quy mô, doanh số, thị phần và tuân thủ quy định."
     },
     {
-      "title": "VN-Index ở giai đoạn tích lũy, quý IV cần tăng trên 12,5%",
+      "title": "Nhu cầu vốn đầu tư 5 năm tới 38,5 triệu tỷ đồng, 80% từ tư nhân-FDI",
       "impact": "→",
-      "note": "VN-Index phiên 5/10 tăng 15 điểm lên 1.753 điểm sau 5 phiên giảm liên tiếp. Để đạt mục tiêu tăng trưởng 2 con số năm 2026, quý IV phải tăng trên 12,5%. Chuyên gia VFS khuyến nghị tiếp tục tích lũy — triển vọng ngắn hạn chưa rõ ràng."
+      "note": "Dự báo nhu cầu vốn đầu tư toàn xã hội 5 năm tới khoảng 38,5 triệu tỷ đồng (≈1,5 nghìn tỷ USD). Ngân sách nhà nước dự kiến đóng góp 22%, phần còn lại 80% phụ thuộc vào doanh nghiệp tư nhân, nhà đầu tư trong nước và dòng vốn quốc tế. Cần cải thiện cấu trúc vốn, nâng cao hiệu quả phân bổ thay vì chỉ mở rộng tín dụng."
     }
   ]
 }
