@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-06",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam 9 tháng ghi nhận đà phục hồi mạnh với GDP quý 3 tăng 9,95% (cao nhất trong nhiều năm), vốn FDI đăng ký tăng 76,4%, tuy nhiên thị trường chứng khoán yếu do dòng tiền rút khỏi ngân hàng và thanh khoản thấp. Nhập siêu 19,42 tỷ USD và lãi suất cao 7,5%/năm tạo áp lực ngắn hạn, trong khi Chính phủ tăng cường hỗ trợ dự án cơ sở hạ tầng như Nhà máy điện khí LNG Hiệp Phước để đảm bảo an ninh năng lượng.",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục bộc lộ sức khỏe mạnh với GDP 9 tháng tăng 9,01% (quý 3 tăng 9,95%), FDI đăng ký vượt 50 tỷ USD, xuất nhập khẩu 888 tỷ USD. Tuy nhiên, thị trường chứng khoán đang phải đối mặt với áp lực từ nhập siêu lớn 19,42 tỷ USD, dòng tiền rút khỏi cổ phiếu ngân hàng, và những thách thức từ áp lực lạm phát (CPI +4,52%) cũng như tỷ giá. Điểm sáng là MB vượt mốc \"trăm ngàn tỷ\" vốn điều lệ, đánh dấu cột mốc quan trọng của hệ thống tài chính.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9,95%, công nghiệp tăng kỷ lục 11,21%",
+      "title": "GDP 9 tháng tăng 9,01%, quý 3 tăng 9,95% - cao nhất nhiều năm",
       "impact": "↑",
-      "note": "GDP quý 3 ước tăng 9,95%, 9 tháng tăng 9,01% - mức cao nhất trong nhiều năm; công nghiệp - xây dựng tăng 11,21%, cao nhất từ năm 2015 đến nay; tiêu dùng tăng 13,4%, đạt cận dưới mục tiêu cả năm"
+      "note": "GDP quý 3 tăng 9,95%, 9 tháng tăng 9,01%; công nghiệp xây dựng tăng 11,21% (cao nhất từ 2015); FDI đăng ký 50,36 tỷ USD (+76,4%); xuất nhập khẩu 888,02 tỷ USD (+30,4%); 12/34 địa phương tăng trưởng 2 con số"
     },
     {
-      "title": "Vốn FDI đăng ký tăng 76,4%, đạt 50,36 tỷ USD",
+      "title": "MB trở thành ngân hàng đầu tiên vượt mốc \"trăm ngàn tỷ\" vốn",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 9 tháng đạt 50,36 tỷ USD, tăng 76,4% so với cùng kỳ; vốn FDI thực hiện đạt 21,07 tỷ USD, tăng 12,1%; tổng vốn đầu tư xã hội đạt 3,11 triệu tỷ đồng, tăng 15,1%"
+      "note": "MB hoàn tất tăng vốn điều lệ lên 100.687,5 tỷ đồng (từ 20 tỷ năm 1994); được VNX vinh danh thành viên giao dịch đặc biệt tiêu biểu 2025-2026 trên thị trường trái phiếu"
     },
     {
-      "title": "Nhập siêu 19,42 tỷ USD, áp lực tỷ giá và lạm phát",
+      "title": "Nhập siêu 19,42 tỷ USD, áp lực tỷ giá và lạm phát tăng",
       "impact": "↓",
-      "note": "Cán cân thương mại chuyển sang nhập siêu 19,42 tỷ USD do nhập khẩu tăng mạnh 36,7%; CPI bình quân 9 tháng tăng 4,52% do biến động giá xăng dầu, lương thực; tạo áp lực lên tỷ giá và khả năng thắt chính sách tiền tệ"
+      "note": "Cán cân thương mại chuyển sang nhập siêu 19,42 tỷ USD (9 tháng) do nhập khẩu tăng 36,7%; CPI 9 tháng tăng 4,52%; áp lực lãi suất và tỷ giá từ môi trường bên ngoài"
     },
     {
-      "title": "Hà Nội GRDP quý III tăng 10,02%, lần đầu 2 con số",
-      "impact": "↑",
-      "note": "GRDP quý III của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt mức tăng hai con số; 9 tháng Hà Nội tăng 8,85%; dịch vụ tăng 10,33%, hoạt động tài chính - ngân hàng tăng 12,50%"
-    },
-    {
-      "title": "Dòng tiền rút khỏi ngân hàng, thanh khoản thị trường yếu",
+      "title": "Dòng tiền rút khỏi cổ phiếu ngân hàng, VN-Index giảm 2,6%",
       "impact": "↓",
-      "note": "Dòng tiền phân hóa ở bất động sản, rút khỏi nhiều cổ phiếu ngân hàng; VN-Index tăng 0,89% nhưng thanh khoản giảm dưới mức trung bình 20 phiên; khối ngoại bán ròng, tín hiệu hồi phục chưa rõ ràng"
+      "note": "Tuần 28/9-2/10, VN-Index giảm 2,6% xuống 1.737,7 điểm; dòng tiền phân hóa ở nhóm bất động sản và rút khỏi nhiều cổ phiếu ngân hàng; HNX-Index giảm 2%"
     },
     {
-      "title": "Nhà máy điện khí LNG Hiệp Phước được hỗ trợ vận hành trước 2030",
+      "title": "Hà Nội GRDP quý 3 tăng 10,02%, dịch vụ tăng 10,33%",
       "impact": "↑",
-      "note": "Phó Thủ tướng khẳng định Chính phủ hỗ trợ tối đa dự án Nhà máy điện khí LNG Hiệp Phước vận hành trước năm 2030; dự án nằm gần các trung tâm phụ tải lớn TPHCM, Đồng Nai; đảm bảo an ninh năng lượng cho khu vực phía Nam"
+      "note": "Hà Nội GRDP quý III tăng 10,02% (lần đầu 2 con số); 9 tháng tăng 8,85%; dịch vụ tăng 10,33%, tài chính ngân hàng bảo hiểm +12,50%, khoa học công nghệ +11,86%"
+    },
+    {
+      "title": "KOS thanh khoản suy giảm, lệnh giải chấp không khớp được cổ phiếu",
+      "impact": "↓",
+      "note": "Ngày 5/10, DVSC bán giải chấp KOS của ông Nguyễn Việt Cường nhưng không khớp được 0 cổ phiếu; tài khoản Leo Regulus cũng bán 0 cp; thanh khoản KOS suy giảm mạnh"
     }
   ]
 }
