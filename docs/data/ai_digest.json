@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-10-06",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tăng trưởng mạnh với GDP 9 tháng tăng 9,01%, công nghiệp xây dựng tăng 11,21% (cao nhất từ 2015), FDI đăng ký tăng 76,4% lên 50,36 tỷ USD và xuất nhập khẩu tăng 30,4% lên 888 tỷ USD. Tuy nhiên, rủi ro từ khủng hoảng nợ châu Âu có dấu hiệu lây lan tương tự 2011-2012, kết hợp với nợ Mỹ 40 ngàn tỷ USD, đang thúc đẩy dòng tiền rút khỏi cổ phiếu ngân hàng và suy giảm thanh khoản, làm lu mờ triển vọng ngắn hạn của thị trường.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tăng trưởng vĩ mô ấn tượng: GDP 9 tháng tăng 9,01% (cao nhất nhiều năm), công nghiệp-xây dựng tăng 11,21% (cao nhất từ 2015), FDI đăng ký tăng 76,4% lên 50,36 tỷ USD, xuất nhập khẩu tăng 30,4% lên 888 tỷ USD. Hà Nội quý III tăng 10,02%, khách quốc tế đạt 17,7 triệu lượt (tăng 14,5%). Chính phủ hỗ trợ dự án năng lượng chiến lược Hiệp Phước để đảm bảo cấp điện cho tăng trưởng hai con số. Tuy nhiên, rủi ro từ khủng hoảng nợ châu Âu, nợ Mỹ 40 ngàn tỷ USD, và dòng tiền rút khỏi ngân hàng đang làm lung lay triển vọng ngắn hạn.",
   "top": [
     {
       "title": "GDP 9 tháng tăng 9,01%, công nghiệp tăng 11,21% cao nhất từ 2015",
@@ -10,29 +10,29 @@
       "note": "GDP quý 3 tăng 9,95%, 9 tháng tăng 9,01%; công nghiệp xây dựng tăng 11,21% (cao nhất từ 2015); FDI đăng ký 50,36 tỷ USD tăng 76,4%; xuất nhập khẩu 888 tỷ USD tăng 30,4%; khách quốc tế 17,7 triệu lượt tăng 14,5%"
     },
     {
-      "title": "Bán tháo trái phiếu châu Âu, lây lan rủi ro tương tự 2011-2012",
-      "impact": "↓",
-      "note": "Ngày 1/10, trái phiếu Pháp, Italy, Bỉ, Hy Lạp sụt giá mạnh; chênh lệch lợi suất với trái phiếu Đức ghi mức biến động lớn nhất nhiều năm; dấu hiệu đầu tiên của sự lây lan rủi ro từng xuất hiện trong khủng hoảng nợ khu vực euro 2011-2012"
-    },
-    {
-      "title": "Trump nói về trả nợ bằng lạm phát, nợ Mỹ 40 ngàn tỷ USD",
-      "impact": "↓",
-      "note": "Phát biểu của Tổng thống Trump phản ánh bế tắc của siêu cường phải gánh nợ 40 ngàn tỷ USD; khi giải pháp từ thắt lưng buộc bụng đến tăng trưởng bất lực, lạm phát trở thành công cụ ứng phó nợ duy nhất"
-    },
-    {
-      "title": "Dòng tiền rút khỏi ngân hàng, KOS thanh khoản suy giảm mạnh",
-      "impact": "↓",
-      "note": "Tuần 28/9-2/10, VN-Index giảm 2,6% xuống 1.737,7 điểm; dòng tiền rút khỏi nhiều cổ phiếu ngân hàng; KOS bán giải chấp ngày 5/10 không khớp được cổ phiếu nào, thanh khoản suy giảm mạnh"
-    },
-    {
       "title": "Hà Nội GRDP quý 3 tăng 10,02%, dịch vụ tăng 10,33%",
       "impact": "↑",
       "note": "Hà Nội GRDP quý 3 tăng 10,02% (lần đầu trong năm đạt tăng trưởng 2 con số); 9 tháng tăng 8,85%; dịch vụ tăng 10,33%; tài chính ngân hàng bảo hiểm tăng 12,50%"
     },
     {
-      "title": "MB vượt mốc trăm ngàn tỷ đồng vốn điều lệ",
+      "title": "Chính phủ hỗ trợ dự án điện khí LNG Hiệp Phước vận hành trước 2030",
       "impact": "↑",
-      "note": "MB hoàn tất tăng vốn điều lệ lên 100.687,5 tỷ đồng (từ 20 tỷ năm 1994); trở thành ngân hàng đầu tiên vượt mốc này; được vinh danh thành viên giao dịch trái phiếu đặc biệt tiêu biểu 2025-2026"
+      "note": "Phó Thủ tướng Phạm Gia Túc khẳng định Chính phủ hỗ trợ tối đa dự án Hiệp Phước. Dự án gần trung tâm phụ tải lớn TPHCM, Đồng Nai giảm tải áp lực truyền tải, nâng độ tin cậy điện quốc gia. An ninh năng lượng cho tăng trưởng hai con số"
+    },
+    {
+      "title": "Euro giảm xuống 1,12 USD, Pháp khủng hoảng nợ công",
+      "impact": "↓",
+      "note": "Đồng euro giảm 0,8% xuống 1,12 USD (thấp nhất 17 tháng). Pháp khó phê duyệt ngân sách 2027 do thâm hụt cao, bất định chính trị trước cuộc bầu cử 2027. Thị trường bán mạnh trái phiếu chính phủ Pháp, rủi ro lây sang toàn châu Âu"
+    },
+    {
+      "title": "9 chỉ số ngành giảm tháng 9, dòng tiền rút khỏi ngân hàng",
+      "impact": "↓",
+      "note": "Tháng 9/2026: 9 chỉ số ngành giảm (VNCOND -6,98%, VNMAT -6,39%, VNHEAL -6,01%), chỉ VNENE tăng 8,04%. Giá trị giao dịch bình quân 16.412 tỷ đồng/ngày (giảm 5,33%). Dòng tiền phân hóa ở bất động sản, rút khỏi nhiều cổ phiếu ngân hàng"
+    },
+    {
+      "title": "Trump nói trả nợ bằng lạm phát, nợ Mỹ 40 ngàn tỷ USD",
+      "impact": "↓",
+      "note": "Phát biểu Tổng thống Trump phản ánh bế tắc: nợ Mỹ 40 ngàn tỷ USD, thắt lưng buộc bụng và tăng trưởng bất lực, lạm phát trở thành công cụ ứng phó nợ duy nhất. Rủi ro lạm phát toàn cầu cao, đe dọa các thị trường mới nổi"
     }
   ]
 }
