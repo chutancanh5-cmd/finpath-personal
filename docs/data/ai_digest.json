@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-07",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tăng trưởng GDP kỷ lục 9,95% (quý III) nhưng thị trường chứng khoán chịu áp lực từ dòng tiền rút vốn ngoại liên tiếp. Các ngân hàng trung ương toàn cầu tăng lãi suất tạo sức ép, trong khi NHNN tiếp tục kiểm soát chặt lãi suất và tỷ giá để cân bằng tăng trưởng với kiểm soát lạm phát. Định giá thị trường vẫn thấp với P/E 13,2 tại mức 1.800 điểm nhưng dòng tiền đang quay sang các thị trường phát triển.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ chu kỳ siết chính sách toàn cầu: các ngân hàng trung ương lớn (Fed tăng 0,25%, ECB tăng 0,25%, RBI tăng lần đầu sau 3 năm, BOJ tăng lên 1,25%) đẩy lạm phát cao, khiến khối ngoại bán ròng 934 tỷ phiên thứ 4 liên tiếp. Tuy vậy, chỉ đạo Chính phủ về tăng trưởng >15% ở 9 địa phương Q4 và GRDP Hà Nội 10,02% là tín hiệu dương, song không đủ bù đắp rủi ro lạm phát toàn cầu. VN-Index hôm nay giằng co với thanh khoản sụt, khó tìm được lực cầu mạnh.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng phiên thứ 4 liên tiếp 934 tỷ đồng",
+      "title": "Áp lực lạm phát khiến các NHTW tăng lãi suất",
       "impact": "↓",
-      "note": "Khối ngoại tiếp tục bán ròng với giá trị hơn 934 tỷ đồng, tâm điểm là PNJ bị bán ròng 399 tỷ đồng. Dòng tiền quốc tế đang rút khỏi thị trường Việt Nam, phản ánh kỳ vọng về nâng hạng đang phai nhạt."
+      "note": "RBI tăng lãi suất lần đầu kể từ 2023 do lạm phát 4,8% vượt mục tiêu 4%. Fed tăng 0,25% (3,75%-4%), ECB tăng 0,25%, BOJ nâng lên 1,25% (cao nhất 31 năm). Goldman Sachs dự báo RBI tăng thêm 4 lần, tổng 1 điểm phần trăm đến cuối H1 2027. Xu hướng toàn cầu này tạo áp lực lên các nền kinh tế mới nổi như Việt Nam."
     },
     {
-      "title": "GDP 9 tháng tăng 9,95% - kỷ lục 15 năm",
+      "title": "Khối ngoại bán ròng phiên 4 liên tiếp, PNJ khủng hoảng",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 934 tỷ đồng phiên 07/10, lần thứ 4 liên tiếp. PNJ bị bán ròng 399 tỷ (gấp 3,6 lần so với mã xếp sau), do khủng hoảng niềm tin ở thị trường kim cương; một số quỹ ngoại thoái vốn. Kỳ vọng của thị trường về dòng tiền quốc tế sau nâng hạng dần phai nhạt."
+    },
+    {
+      "title": "Chính phủ yêu cầu 9 địa phương tăng trưởng >15% Q4",
       "impact": "↑",
-      "note": "Quý III/2026 GDP tăng 9,95%, cả 9 tháng đạt mức tăng hơn 9%, cao nhất 15 năm gần đây. Tăng trưởng được hỗ trợ từ xuất khẩu, bất động sản (+79%), nguyên vật liệu (+44%) và hàng tiêu dùng thiết yếu (+27%)."
+      "note": "Chính phủ đặt mục tiêu 9 tỉnh/thành phố đạt tăng trưởng >15% trong quý IV (cao nhất Lạng Sơn 18,41%). Mục tiêu tăng trưởng năm 2026 ở 2 con số, ưu tiên thúc đẩy tăng trưởng kinh tế, hỗ trợ doanh nghiệp, việc làm và thu nhập nhân dân."
     },
     {
-      "title": "Ấn Độ tăng lãi suất, dự báo 4 đợt tăng tiếp +1% đến H1 2027",
-      "impact": "↓",
-      "note": "RBI tăng lãi suất lần đầu tiên sau 3 năm do lạm phát 4,8% vượt mục tiêu 4%. Goldman Sachs dự báo RBI sẽ tăng thêm 4 lần với tổng cộng +1 điểm phần trăm đến cuối H1 2027, tạo áp lực lên toàn bộ các nền kinh tế mới nổi."
+      "title": "Hà Nội đạt GRDP 10,02% quý III - lần đầu 2 con số",
+      "impact": "↑",
+      "note": "GRDP Hà Nội quý III ước tăng 10,02%, lần đầu tiên trong năm 2026 đạt tăng trưởng hai con số và cao nhất trong 3 quý. Phản ánh nỗ lực của Thủ đô trong việc đẩy nhanh đầu tư công, tạo nền tảng tăng trưởng bền vững."
     },
     {
-      "title": "Dòng tiền ETF rút khỏi châu Á, đổ mạnh vào Mỹ",
-      "impact": "↓",
-      "note": "Hàn Quốc rút 6,2 tỷ USD, Ấn Độ rút 2,5 tỷ USD. ETF cổ phiếu Mỹ hấp thụ hơn 16 tỷ USD, ETF trái phiếu Mỹ tiếp tục mở rộng với 16,7 tỷ USD. Dòng vốn dịch chuyển sang các thị trường phát triển, xa rời châu Á."
-    },
-    {
-      "title": "KBSV dự báo VN-Index 1.800 điểm cuối năm, P/E 13,2",
+      "title": "KBSV hạ dự báo VN-Index 1800 điểm cuối 2026",
       "impact": "→",
-      "note": "KBSV điều chỉnh dự báo EPS toàn thị trường tăng 33%, nhưng P/E giảm xuống 13,2 từ 13,5 - thấp so với bình quân 5 năm. VN-Index dự báo tăng gần 2% từ đóng cửa quý 3, phản ánh định giá ức chế bởi yếu tố rủi ro tỷ giá và lãi suất."
+      "note": "KBSV hạ dự báo VN-Index cuối năm 2026 xuống 1800 điểm (tăng 2% so với đóng cửa Q3 khoảng 1765 điểm). EPS toàn thị trường tăng 33% nhưng P/E giảm xuống 13,2 (thấp so với bình quân 5 năm), phản ánh các yếu tố rủi ro vẫn còn và triển vọng cẽ."
     },
     {
-      "title": "Lãi suất tiền gửi 6,38%/năm, tốc độ tăng chậm lại",
-      "impact": "→",
-      "note": "Lãi suất tiền gửi bình quân đạt 6,38%/năm đến 20/9, tăng 1,15 điểm phần trăm so với cuối 2025 nhưng tốc độ tăng đang chậm lại. NHNN kiểm soát chặt lãi suất-tỷ giá để cân bằng hỗ trợ tăng trưởng với kiểm soát lạm phát trong bối cảnh các NHTW lớn tăng lãi suất mạnh."
+      "title": "VN-Index giằng co, thanh khoản sụt hôm 07/10",
+      "impact": "↓",
+      "note": "VN-Index hôm 07/10 giảm 5,69 điểm (-0,32%) xuống 1753,39 điểm; HNX-Index giảm 2,15%. Thanh khoản sụt giảm dưới mức trung bình 20 phiên (485 triệu cổ phiếu). Lực cầu yếu quanh vùng 1745 điểm chưa đủ để xác nhận quay trở lại tích lũy phía trên đám mây Kumo."
     }
   ]
 }
