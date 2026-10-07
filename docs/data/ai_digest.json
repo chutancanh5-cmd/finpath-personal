@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam nhận triển vọng tích cực từ World Bank (nâng dự báo 7.4%) nhờ thế mạnh xuất khẩu AI và FDI lớn từ Samsung (5 tỷ USD vào bán dẫn). Tuy nhiên, thị trường chứng khoán chịu áp lực mạnh với VN-Index giảm xuống 1,747 điểm, thanh khoản VN30 sụt 33%, khối ngoại rút ròng 54 triệu cổ phiếu PNJ. Cơ cấu lại thị trường (HNX chuyển sang HOSE) kỳ vọng cải thiện hiệu quả, nhưng rủi ro ngắn hạn từ dòng tiền cần theo dõi sát sao.",
+  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tăng trưởng GDP kỷ lục 9,95% (quý III) nhưng thị trường chứng khoán chịu áp lực từ dòng tiền rút vốn ngoại liên tiếp. Các ngân hàng trung ương toàn cầu tăng lãi suất tạo sức ép, trong khi NHNN tiếp tục kiểm soát chặt lãi suất và tỷ giá để cân bằng tăng trưởng với kiểm soát lạm phát. Định giá thị trường vẫn thấp với P/E 13,2 tại mức 1.800 điểm nhưng dòng tiền đang quay sang các thị trường phát triển.",
   "top": [
     {
-      "title": "Samsung đầu tư 5 tỷ USD vào bán dẫn AI",
-      "impact": "↑",
-      "note": "Samsung Electro-Mechanics kế hoạch đầu tư 3,2 tỷ USD tại Hàn Quốc và 1,87 tỷ USD tại Việt Nam để sản xuất chất nền FC BGA cho chip AI, robot, ô tô thông minh; từ 2022 thử nghiệm tại Thái Nguyên, sắp bước vào sản xuất hàng loạt."
-    },
-    {
-      "title": "WB nâng dự báo tăng trưởng Việt Nam 7.4% nhờ boom AI",
-      "impact": "↑",
-      "note": "WB nâng dự báo từ 6.1% lên 7.4% cho năm 2026, nhờ đà mạnh từ xuất khẩu AI (tăng 22.4% tháng 8), FDI đạt cao nhất 5 năm; sản phẩm AI chiếm 70% tăng trưởng xuất khẩu, chủ yếu máy tính, máy chủ sang Mỹ."
-    },
-    {
-      "title": "VN-Index giảm xuống 1,747 điểm, áp lực bán nhóm trụ",
+      "title": "Khối ngoại bán ròng phiên thứ 4 liên tiếp 934 tỷ đồng",
       "impact": "↓",
-      "note": "Tại 10h30 ngày 7/10, VN-Index neo 1,747.49 điểm (giảm 5.91 điểm so với 9h30), thanh khoản VN30 chỉ 2,479 tỷ đồng (sụt 33% so với hôm qua), chiếm 51.2% tổng khớp lệnh HoSE; cơ cấu: 104 mã tăng/160 mã giảm."
+      "note": "Khối ngoại tiếp tục bán ròng với giá trị hơn 934 tỷ đồng, tâm điểm là PNJ bị bán ròng 399 tỷ đồng. Dòng tiền quốc tế đang rút khỏi thị trường Việt Nam, phản ánh kỳ vọng về nâng hạng đang phai nhạt."
     },
     {
-      "title": "Khối ngoại xả hàng mạnh, T. Rowe Price bán 5.5M PNJ",
-      "impact": "↓",
-      "note": "Nhóm T. Rowe Price hoàn tất bán 5,5 triệu cổ phiếu PNJ, sở hữu giảm từ 6.02% xuống 4.95%; ngày 2/10 PNJ bùng nổ 76 triệu đơn vị, khối ngoại bán ròng 54 triệu, giá PNJ xuống 19,000 đồng (thấp nhất kể từ 2017)."
-    },
-    {
-      "title": "Thanh khoản nhóm blue-chips yếu, nhiều cổ phiếu trụ xả",
-      "impact": "↓",
-      "note": "TCB giảm 1.54% khớp 116 tỷ, HDB -0.89%, ACB -0.97%, PNJ -2.98%; nhóm yếu nhất: LPB -2.28%, TCX -2.1%, VRE -1.89%, SHB -1.83%, TCB -1.69%, VPL -1.61%; chỉ SSB tăng 5.06%."
-    },
-    {
-      "title": "Masan Group nâng sở hữu MCH lên 74.9%",
+      "title": "GDP 9 tháng tăng 9,95% - kỷ lục 15 năm",
       "impact": "↑",
-      "note": "Công ty con Masan đăng ký mua tối đa 73 triệu cp MCH (5.6% lưu hành), nâng sở hữu từ ~69% lên 74.9%, thực hiện trong 15 ngày từ 9/10; phản ánh chiến lược gia tăng điều khiển và giảm nợ tài chính."
+      "note": "Quý III/2026 GDP tăng 9,95%, cả 9 tháng đạt mức tăng hơn 9%, cao nhất 15 năm gần đây. Tăng trưởng được hỗ trợ từ xuất khẩu, bất động sản (+79%), nguyên vật liệu (+44%) và hàng tiêu dùng thiết yếu (+27%)."
+    },
+    {
+      "title": "Ấn Độ tăng lãi suất, dự báo 4 đợt tăng tiếp +1% đến H1 2027",
+      "impact": "↓",
+      "note": "RBI tăng lãi suất lần đầu tiên sau 3 năm do lạm phát 4,8% vượt mục tiêu 4%. Goldman Sachs dự báo RBI sẽ tăng thêm 4 lần với tổng cộng +1 điểm phần trăm đến cuối H1 2027, tạo áp lực lên toàn bộ các nền kinh tế mới nổi."
+    },
+    {
+      "title": "Dòng tiền ETF rút khỏi châu Á, đổ mạnh vào Mỹ",
+      "impact": "↓",
+      "note": "Hàn Quốc rút 6,2 tỷ USD, Ấn Độ rút 2,5 tỷ USD. ETF cổ phiếu Mỹ hấp thụ hơn 16 tỷ USD, ETF trái phiếu Mỹ tiếp tục mở rộng với 16,7 tỷ USD. Dòng vốn dịch chuyển sang các thị trường phát triển, xa rời châu Á."
+    },
+    {
+      "title": "KBSV dự báo VN-Index 1.800 điểm cuối năm, P/E 13,2",
+      "impact": "→",
+      "note": "KBSV điều chỉnh dự báo EPS toàn thị trường tăng 33%, nhưng P/E giảm xuống 13,2 từ 13,5 - thấp so với bình quân 5 năm. VN-Index dự báo tăng gần 2% từ đóng cửa quý 3, phản ánh định giá ức chế bởi yếu tố rủi ro tỷ giá và lãi suất."
+    },
+    {
+      "title": "Lãi suất tiền gửi 6,38%/năm, tốc độ tăng chậm lại",
+      "impact": "→",
+      "note": "Lãi suất tiền gửi bình quân đạt 6,38%/năm đến 20/9, tăng 1,15 điểm phần trăm so với cuối 2025 nhưng tốc độ tăng đang chậm lại. NHNN kiểm soát chặt lãi suất-tỷ giá để cân bằng hỗ trợ tăng trưởng với kiểm soát lạm phát trong bối cảnh các NHTW lớn tăng lãi suất mạnh."
     }
   ]
 }
