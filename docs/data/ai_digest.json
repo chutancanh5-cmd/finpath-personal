@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-07",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngân hàng Thế giới nâng dự báo tăng trưởng GDP Việt Nam 2026 lên 7,4%, cao nhất khu vực Đông Á-Thái Bình Dương, nhờ xuất khẩu sản phẩm AI, điện tử tăng mạnh (22-26% YoY). Dòng vốn FDI đạt mức cao 5 năm, các ngân hàng lớn huy động tỷ USD từ quốc tế thể hiện lòng tin dài hạn. Tuy nhiên, khối ngoại xả mạnh 1,7 ngàn tỷ đồng, xuất hiện các vấn đề quản trị công ty (Vietravel, VPG) cần cảnh báo rủi ro ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế Việt Nam nhận triển vọng tích cực từ World Bank (nâng dự báo 7.4%) nhờ thế mạnh xuất khẩu AI và FDI lớn từ Samsung (5 tỷ USD vào bán dẫn). Tuy nhiên, thị trường chứng khoán chịu áp lực mạnh với VN-Index giảm xuống 1,747 điểm, thanh khoản VN30 sụt 33%, khối ngoại rút ròng 54 triệu cổ phiếu PNJ. Cơ cấu lại thị trường (HNX chuyển sang HOSE) kỳ vọng cải thiện hiệu quả, nhưng rủi ro ngắn hạn từ dòng tiền cần theo dõi sát sao.",
   "top": [
     {
-      "title": "WB nâng dự báo GDP Việt Nam 2026 lên 7,4% - cao nhất khu vực",
+      "title": "Samsung đầu tư 5 tỷ USD vào bán dẫn AI",
       "impact": "↑",
-      "note": "Ngân hàng Thế giới nâng dự báo tăng trưởng 1,1 điểm phần trăm lên 7,4% năm 2026 (2025: 8,02%, nửa đầu 2026: 8,3%). Động lực: sản xuất chế biến, xuất khẩu, đầu tư công. Xuất khẩu 8 tháng tăng 22%, tháng 8 tăng 26%, sản phẩm AI đóng góp 70% tăng xuất khẩu."
+      "note": "Samsung Electro-Mechanics kế hoạch đầu tư 3,2 tỷ USD tại Hàn Quốc và 1,87 tỷ USD tại Việt Nam để sản xuất chất nền FC BGA cho chip AI, robot, ô tô thông minh; từ 2022 thử nghiệm tại Thái Nguyên, sắp bước vào sản xuất hàng loạt."
     },
     {
-      "title": "Khối ngoại xả mạnh 1,7 ngàn tỷ đồng phiên 6/10: HDB 1,2 ngàn tỷ, VJC 771 tỷ",
-      "impact": "↓",
-      "note": "Khối ngoại rút ròng 1,7 ngàn tỷ đồng, tập trung HDB (1,2 ngàn tỷ bị bán ròng) và VJC (771 tỷ). PNJ, TCB, ACB cũng bị xả lần lượt 102, 86, 70 tỷ. Tự doanh chứng khoán mua lại 275 tỷ nhưng không đủ bù lỗ, tín hiệu áp lực bán từ nhà đầu tư quốc tế."
-    },
-    {
-      "title": "Nhiều ngân hàng huy động hàng tỷ USD từ thị trường quốc tế",
+      "title": "WB nâng dự báo tăng trưởng Việt Nam 7.4% nhờ boom AI",
       "impact": "↑",
-      "note": "HDBank huy động 721 triệu USD khoản vay hợp vốn quốc tế (tài chính SME, bền vững). VPBank ký khoản vay 1,44 tỷ USD. MB, Techcombank, SHB, VIB, ACB cũng tìm vốn quốc tế. Sự tham gia của ADB, Standard Chartered, ANZ, MUFG, State Bank of India thể hiện lòng tin vào nền kinh tế Việt Nam."
+      "note": "WB nâng dự báo từ 6.1% lên 7.4% cho năm 2026, nhờ đà mạnh từ xuất khẩu AI (tăng 22.4% tháng 8), FDI đạt cao nhất 5 năm; sản phẩm AI chiếm 70% tăng trưởng xuất khẩu, chủ yếu máy tính, máy chủ sang Mỹ."
     },
     {
-      "title": "Vietravel giao dịch hàng ngàn tỷ với bên liên quan không được phê duyệt",
+      "title": "VN-Index giảm xuống 1,747 điểm, áp lực bán nhóm trụ",
       "impact": "↓",
-      "note": "Thanh tra UBCKNN (kết luận 49/KLTT, 3/9/2026) chỉ ra Vietravel (UPCoM: VTR) thực hiện giao dịch hàng ngàn tỷ đồng với bên liên quan không qua phê duyệt ĐHĐCĐ, tự ý thay đổi mục đích sử dụng vốn. Công ty phải đính chính báo cáo quản trị và giải trình lợi nhuận 2023-2025, lộ vấn đề quản trị nghiêm trọng."
+      "note": "Tại 10h30 ngày 7/10, VN-Index neo 1,747.49 điểm (giảm 5.91 điểm so với 9h30), thanh khoản VN30 chỉ 2,479 tỷ đồng (sụt 33% so với hôm qua), chiếm 51.2% tổng khớp lệnh HoSE; cơ cấu: 104 mã tăng/160 mã giảm."
     },
     {
-      "title": "HOSE loại VPG, PLP khỏi VNX Allshare do vi phạm báo cáo",
+      "title": "Khối ngoại xả hàng mạnh, T. Rowe Price bán 5.5M PNJ",
       "impact": "↓",
-      "note": "VPG chuyển sang diện kiểm soát vì chậm nộp báo cáo bán niên 2026 quá 30 ngày; PLP cũng bị kiểm soát. Cả hai loại khỏi VNX Allshare từ 9/10/2026, VPG thêm loại khỏi VNSmallcap và VNAllShare Industrials, PLP loại khỏi VNAllShare Materials."
+      "note": "Nhóm T. Rowe Price hoàn tất bán 5,5 triệu cổ phiếu PNJ, sở hữu giảm từ 6.02% xuống 4.95%; ngày 2/10 PNJ bùng nổ 76 triệu đơn vị, khối ngoại bán ròng 54 triệu, giá PNJ xuống 19,000 đồng (thấp nhất kể từ 2017)."
     },
     {
-      "title": "UBCKNN nghiên cứu cải thiện giao dịch: xuyên trưa, nới biên độ dao động giá",
+      "title": "Thanh khoản nhóm blue-chips yếu, nhiều cổ phiếu trụ xả",
+      "impact": "↓",
+      "note": "TCB giảm 1.54% khớp 116 tỷ, HDB -0.89%, ACB -0.97%, PNJ -2.98%; nhóm yếu nhất: LPB -2.28%, TCX -2.1%, VRE -1.89%, SHB -1.83%, TCB -1.69%, VPL -1.61%; chỉ SSB tăng 5.06%."
+    },
+    {
+      "title": "Masan Group nâng sở hữu MCH lên 74.9%",
       "impact": "↑",
-      "note": "Phó Chủ tịch UBCKNN Hoàng Văn Thu (họp báo quý 3/2026) chia sẻ đang nghiên cứu: giao dịch xuyên trưa, nới biên độ giá, khảo sát bỏ phiên định kỳ. Ưu tiên an toàn hệ thống, giao dịch thông suốt, ổn định thị trường. Các Sở Giao dịch đang đánh giá tác động."
+      "note": "Công ty con Masan đăng ký mua tối đa 73 triệu cp MCH (5.6% lưu hành), nâng sở hữu từ ~69% lên 74.9%, thực hiện trong 15 ngày từ 9/10; phản ánh chiến lược gia tăng điều khiển và giảm nợ tài chính."
     }
   ]
 }
