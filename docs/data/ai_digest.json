@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-08",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tháng 9 ghi nhận áp lực tiêu cực với thanh khoản giảm 5,33%, khối ngoại bán ròng 4,7 ngàn tỷ đồng, và tỷ suất vòng quay chứng khoán giảm 50%. Tuy nhiên, nền kinh tế vẫn có những tín hiệu tích cực từ FDI (Samsung rót 1,87 tỷ USD vào Thái Nguyên) và tăng trưởng kinh tế (GRDP Hà Nội tăng 10,02%). VND tăng giá 1,12% so với USD là dấu hiệu tích cực của quản lý tiền tệ.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán tháng 9 ghi nhận sức ép: thanh khoản giảm 5,33%, khối ngoại bán ròng 4,7 ngàn tỷ đồng, VN-Index giảm 3,47%; bất động sản yếu đi khi nhu cầu chỉ đạt 73% tỷ lệ hấp thụ mặc dù phát hành trái phiếu tăng 126%. Tuy nhiên, yếu tố kinh tế vĩ mô khích lệ: Samsung đầu tư 1,87 tỷ USD vào sản xuất bán dẫn tại Thái Nguyên, EPS dự báo tăng 33% trong 2026, lãi suất liên ngân hàng hạ sâu còn 0,6%, GRDP Hà Nội tăng 10,02% quý III.",
   "top": [
     {
-      "title": "Thanh khoản sụt giảm, khối ngoại bán ròng tháng 9",
+      "title": "Thanh khoản HOSE sụt giảm, khối ngoại bán ròng 4,7 ngàn tỷ",
       "impact": "↓",
-      "note": "Kết thúc tháng 9, VN-Index giảm 3,47% xuống 1.768,62 điểm, tổng giá trị giao dịch HOSE 328.242 tỷ đồng, giảm 5,33% so với tháng trước. Khối ngoại bán ròng hơn 4,7 ngàn tỷ đồng. Giá trị giao dịch bình quân giảm xuống 16.412 tỷ đồng/ngày."
+      "note": "Tháng 9/2026, VN-Index giảm 3,47% xuống 1.768,62 điểm, VN30 giảm 3,84%, tổng giá trị giao dịch 328.242 tỷ đồng giảm 5,33%, giao dịch bình quân 16.412 tỷ đồng/ngày. Khối ngoại bán ròng hơn 4.700 tỷ đồng trong tháng."
     },
     {
-      "title": "Samsung rót 1,87 tỷ USD vào Thái Nguyên sản xuất chip",
+      "title": "Samsung đầu tư 1,87 tỷ USD sản xuất FC-BGA tại Thái Nguyên",
       "impact": "↑",
-      "note": "Samsung Electro-Mechanics sẽ rót khoảng 2.510 tỷ won (1,87 tỷ USD) vào chi nhánh ở Thái Nguyên để sản xuất chất nền FC-BGA dùng cho chip máy chủ AI. Tổng đầu tư từ nay đến 2028 là gần 5 tỷ USD cho Hàn Quốc và Việt Nam."
+      "note": "Samsung Electro-Mechanics sẽ rót 2.510 tỷ won (1,87 tỷ USD) vào nhà máy tại Việt Nam giai đoạn 2026-2028, sản xuất chất nền FC-BGA cho chip máy chủ AI, robot và xe thông minh. Tổng đầu tư toàn khu vực (Hàn Quốc + Việt Nam) đạt gần 5 tỷ USD."
     },
     {
-      "title": "Lãi suất liên ngân hàng giảm mạnh 2,2 điểm %",
+      "title": "Dự báo EPS tăng 33% năm 2026, loại trừ VIC tăng 17%",
+      "impact": "↑",
+      "note": "Bất động sản +79%, nguyên vật liệu +44%, hàng tiêu dùng thiết yếu +27% so với cùng kỳ. Tăng trưởng được hỗ trợ bởi giải ngân đầu tư công đạt 63% kế hoạch hết quý 3, doanh nghiệp nhà nước gia tốc, và dòng FDI ổn định."
+    },
+    {
+      "title": "Bất động sản: Phát hành trái phiếu tăng 126% nhưng nhu cầu yếu",
+      "impact": "↓",
+      "note": "9 tháng 2026, phát hành trái phiếu bất động sản đạt 149,5 nghìn tỷ đồng (+126% YoY), lãi suất bình quân 11,4%. Tuy nguồn cung căn hộ tại Hà Nội-TP.HCM tăng 33%, nhu cầu suy yếu: tỷ lệ hấp thụ Q2/2026 chỉ 73% do lãi suất vay cao ở mức cao."
+    },
+    {
+      "title": "Lãi suất liên ngân hàng giảm sâu từ 2,8% xuống 0,6%",
       "impact": "→",
-      "note": "Lãi suất qua đêm (ON) giảm từ 2,8%/năm xuống 0,6%/năm trong 3 phiên. Ngân hàng Nhà nước hút ròng 39.000 tỷ đồng từ đầu tuần. Lãi suất kỳ hạn 1 tuần giảm xuống 2,3%/năm, kỳ hạn 2 tuần giảm xuống 3,8%/năm."
+      "note": "Lãi suất qua đêm (ON) giảm 2,2 điểm % trong 3 phiên: 2,8% (cuối tuần) → 2% (5/10) → 1% (6/10) → 0,6% (7/10). NHNN hút ròng 39.000 tỷ đồng từ đầu tuần, kỳ hạn 1 tuần xuống 2,3%, 2 tuần xuống 3,8%."
     },
     {
-      "title": "Tỷ suất vòng quay chứng khoán giảm 50%",
-      "impact": "↓",
-      "note": "Tỷ lệ giữa giá trị giao dịch bình quân phiên và vốn hóa thị trường chỉ ở mức 0,16%, bằng khoảng một nửa so với cùng kỳ năm trước, mặc dù vốn hóa tăng gần 20%. Cho thấy dòng tiền giao dịch không theo kịp với quy mô thị trường."
-    },
-    {
-      "title": "VND tăng giá 1,12% so với USD",
+      "title": "GRDP Hà Nội quý III tăng 10,02%, đạt mức hai chữ số",
       "impact": "↑",
-      "note": "VND tăng khoảng 1,12% so với USD trong khi chỉ số DXY tăng 4% và loạt đồng tiền châu Á giảm 2–7% (yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia). Phản ánh kết quả quản lý tiền tệ của Ngân hàng Nhà nước."
-    },
-    {
-      "title": "GRDP Hà Nội tăng 10,02% quý III",
-      "impact": "↑",
-      "note": "GRDP quý III-2026 của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt mức tăng trưởng hai con số và là mức tăng cao nhất trong ba quý. Thể hiện năng lực tăng trưởng bền vững của Thủ đô."
+      "note": "Quý III/2026, GRDP Hà Nội tăng 10,02%, lần đầu tiên trong năm đạt mức tăng trưởng hai con số và cao nhất trong ba quý đầu năm. Phản ánh gia tốc giải ngân vốn đầu tư công và động lực từ các dự án hạ tầng chiến lược."
     }
   ]
 }
