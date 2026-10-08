@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-08",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán mạnh ngày 8/10 khi khối ngoại liên tục bán ròng 451 tỷ đồng, VN-Index giảm dưới 1.740 điểm với 344 mã giảm. Các cổ phiếu ngân hàng (SHB giảm sàn, TCB/VCB/BID giảm 1%+) và bất động sản chịu sức ép lớn, phản ánh tâm lý nhà đầu tư vẫn thận trọng bất chấp tín hiệu tích cực từ kinh tế. Tuy nhiên, nền kinh tế có điểm sáng với GDP quý 3 tăng 9,95% (cao nhất nhiều năm) và FDI nâng tổng 570 tỷ USD chất lượng cao (bán dẫn, AI). Các doanh nghiệp như SASCO (lợi nhuận tăng 62%) và VinFast (mở rộng Ấn Độ) ghi nhận triển vọng tốt, nhưng chưa đủ cân bằng cảm tính bán trên thị trường rộng.",
+  "date": "2026-10-09",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế vĩ mô có tín hiệu tích cực với GDP 9 tháng tăng 9,01% (cao nhất nhiều năm) và FDI đạt hơn 570 tỷ USD tích lũy, nhưng thị trường chứng khoán đang chịu áp lực bán mạnh với VN-Index giảm liên tiếp dưới mốc 1.740 điểm và khối ngoại bán ròng 451 tỷ đồng. Nhu cầu điện tăng vọt 10% trong 9 tháng, trong khi El Niño quay lại gây hạn chế thủy điện. Một số ngành như cao su (DRI) và dịch vụ hàng không (SASCO) ghi nhận tăng trưởng mạnh, nhưng nhóm tài chính và bất động sản đang hứng chịu sức ép lớn.",
   "top": [
     {
-      "title": "VN-Index giảm dưới 1.740 điểm, áp lực bán chiếm ưu thế",
-      "impact": "↓",
-      "note": "VN-Index giảm 14,42 điểm xuống 1.738,97 điểm, không vượt kháng cự 1.765 điểm; RSI đảo chiều, MACD âm dưới 0, báo hiệu xu hướng giảm ngắn hạn chưa đảo chiều; khả năng cao tiếp tục kiểm định vùng đáy 1.730 điểm với 344 mã giảm và 11/18 ngành bị bán ròng."
-    },
-    {
-      "title": "SHB giảm sàn xuống 10.050 đồng, khối ngoại bán ròng phiên thứ 12",
-      "impact": "↓",
-      "note": "SHB giảm 6,94% xuống 10.050 đồng/cổ phiếu (từ 18.000 đồng cuối 2025), khối ngoại bán ròng phiên thứ 12 liên tiếp gây áp lực lên nhóm ngân hàng; đồng lúc bất động sản KOS, DRH, GEX, TIG giảm sàn, phản ánh tâm lý bán ròng rộng khắp thị trường."
-    },
-    {
-      "title": "Khối ngoại bán ròng 451 tỷ đồng, tâm lý thận trọng gia tăng",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 451,22 tỷ đồng (khớp lệnh 271,1 tỷ đồng), dòng tiền vào 3.336 tỷ đồng nhưng dòng tại giảm 8.715 tỷ đồng (tỷ lệ 1:2,6), cho thấy nhà đầu tư chỉ giải ngân ở mức giá thấp; lực bán lan rộng nhiều nhóm ngành không chỉ tập trung một vài cổ phiếu."
-    },
-    {
-      "title": "GDP quý 3 tăng 9,95%, FDI nâng tổng 570 tỷ USD chất lượng cao",
+      "title": "GDP 9,01%, FDI ấn tượng trên 570 tỷ USD",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9,95%, 9 tháng tăng 9,01% (cao nhất nhiều năm); FDI 9 tháng nâng tổng 570 tỷ USD với chất lượng cao gồm bán dẫn, điện tử, AI, xác nhận vai trò ngày càng quan trọng của Việt Nam trong chuỗi cung ứng công nghệ cao toàn cầu."
+      "note": "GDP 9 tháng năm 2026 tăng 9,01%, mức cao nhất trong nhiều năm qua. FDI 9 tháng 2026 nâng tổng vốn đầu tư nước ngoài Việt Nam lên trên 570 tỷ USD. Chất lượng FDI cải thiện với các dự án quy mô lớn trong điện tử, bán dẫn, AI và chuyển đổi số."
     },
     {
-      "title": "SASCO lợi nhuận trước thuế tăng 62%, chuẩn bị Long Thành",
-      "impact": "↑",
-      "note": "SASCO ước tính lợi nhuận trước thuế 9 tháng 2026 đạt 660 tỷ đồng, tăng 62% so với cùng kỳ và hoàn thành hơn 80% kế hoạch năm 2026; doanh nghiệp chuẩn bị cho hoạt động tại sân bay Long Thành mở ra tiềm năng tăng trưởng mới."
+      "title": "VN-Index giảm 14,42 điểm, khối ngoại bán ròng 451 tỷ",
+      "impact": "↓",
+      "note": "VN-Index đóng cửa 1.738,97 điểm (giảm 14,42 điểm), còn 344 mã giảm với 20 mã giảm hết biên độ. Khối ngoại bán ròng 451,22 tỷ đồng với dòng tiền vào chỉ 3.336 tỷ trong khi dòng tiền ra lên tới 8.715 tỷ."
     },
     {
-      "title": "VinFast ký kết hợp tác 50 showroom xe máy điện tại Ấn Độ",
+      "title": "Nhu cầu điện tăng 10%, El Niño gây hạn chế thủy điện",
       "impact": "↑",
-      "note": "VinFast ký LOI với 50+ đại lý xe máy điện ở 15 bang Ấn Độ, kế hoạch mở 50+ showroom tại 34 thành phố trên thị trường xe hai bánh lớn nhất thế giới; doanh nghiệp coi Ấn Độ là thị trường quan trọng nhất trong quá trình tăng trưởng toàn cầu."
+      "note": "Sản lượng điện toàn quốc 9 tháng 2026 tăng 10% so với cùng kỳ, cao hơn mức tăng 4% của năm 2025. El Niño trở lại từ quý II/2026 khiến khả năng huy động thủy điện bị hạn chế, buộc hệ thống tăng huy động từ nhiệt điện. SSI khuyến nghị MUA NT2 và POW."
+    },
+    {
+      "title": "DRI (cao su) tăng 56% trong 1 năm, lợi nhuận +83%",
+      "impact": "↑",
+      "note": "DRI tăng gần 56% trong 1 năm với doanh thu 9 tháng 2026 đạt 490 tỷ đồng (tăng 61%) và lợi nhuận 142 tỷ đồng (tăng 83%). Biên lợi nhuận gộp cải thiện lên 40,6% (cao nhất ngành) nhờ giá cao su thuận lợi và tiêu thụ sản lượng cao."
+    },
+    {
+      "title": "SASCO lợi nhuận +62%, chuẩn bị sân bay Long Thành",
+      "impact": "↑",
+      "note": "SASCO lợi nhuận trước thuế lũy kế 9 tháng đạt 660 tỷ đồng (tăng 62% so với cùng kỳ), hoàn thành trên 80% kế hoạch năm 2026. Công ty đã chuẩn bị sẵn sàng để thiết lập cơ sở kinh doanh tại sân bay Long Thành."
+    },
+    {
+      "title": "Nhóm tài chính & bất động sản chịu áp lực, 344 mã giảm",
+      "impact": "↓",
+      "note": "Nhóm Dịch vụ Tài chính chịu áp lực bán mạnh nhất, theo sau là Bất động sản và Ngân hàng. VHM giảm 3,38%, VIC giảm 0,87% lấy đi hơn 7 điểm của VN-Index. SHB giảm 6,94%, VIX giảm 3,42%, SSI giảm 3,05%."
     }
   ]
 }
