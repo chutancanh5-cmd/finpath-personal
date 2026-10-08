@@ -2,13 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chịu áp lực bán mạnh với VN-Index giảm 0,82%, khối ngoại bán ròng 415 tỷ đồng, đặc biệt ngành ngân hàng và cổ phiếu VHM giảm mạnh. Tháng 9 ghi nhận sụt giảm rõ rệt với thanh khoản giảm 5,33% về giá trị và khối ngoại bán ròng 4,7 ngàn tỷ. Rủi ro lạm phát gia tăng từ thời tiết cực đoan toàn cầu tác động đến giá lương thực, trong khi SpaceX huy động 40 tỷ USD cho chip AI cho thấy xu hướng tích cực dài hạn trong ngành công nghệ.",
+  "summary_vi": "Thị trường chứng khoán VN hôm nay chứng kiến sự trở lại của áp lực bán mạnh, VN-Index giảm 0,82% và phá vỡ chuỗi 3 phiên tăng khi khối ngoại bán ròng khoảng 415 tỷ đồng. Thanh khoản tiếp tục sụt giảm (tháng 9 giảm 5,33% so với tháng 8), phản ánh tâm lý thận trọng. Mặc dù có tin tích cực từ các doanh nghiệp (SASCO lợi nhuận tăng 60%) và chương trình hỗ trợ nhà ở xã hội (153 ngàn tỷ đồng), sức ép từ blue-chips (VHM -3,38%, VIC -0,87%) và ngân hàng (SHB giảm sàn, LPB -3,21%) vẫn đè nặng.",
   "top": [
-    {"title": "VN-Index giảm sâu, thử thách đáy ngắn hạn", "impact": "↓", "note": "VN-Index giảm 14,42 điểm (-0,82%) xuống 1.738,97 điểm, khối ngoại bán ròng 415 tỷ đồng. Ngân hàng chịu áp lực mạnh: SHB giảm sàn, LPB -3,21%, CTG -1,85%, BID -1,74%, TCB -1,24%. Thanh khoản tăng 40% nhưng toàn áp lực bán, 33,2% cổ phiếu giảm từ 1% trở lên."},
-    {"title": "SHB giảm sàn, 63.712 cổ đông mua ưu đãi bị lỗ 20%", "impact": "↓", "note": "Thị giá SHB rơi xuống 10.050 đ/cp từ giá ưu đãi 12.500 đ/cp, giảm 20%. Sau 5 tháng từ ngày kết thúc chào bán ưu đãi (27/5), 434,3 triệu cp được phân phối cho 63.712 cổ đông vẫn chưa được niêm yết bổ sung giao dịch."},
-    {"title": "Tháng 9 thị trường sụt giảm, khối ngoại bán ròng 4,7 ngàn tỷ", "impact": "↓", "note": "VN-Index tháng 9 giảm 3,47%, VN Allshare -4,36%, VN30 -3,84%. Thanh khoản bình quân giảm 4,66% về khối lượng và 5,33% về giá trị. Chỉ số ngành tiêu dùng không thiết yếu giảm 7%, vật liệu xây dựng giảm 6,4%, chăm sóc sức khỏe giảm 6%."},
-    {"title": "Thời tiết cực đoan đe dọa giá lương thực toàn cầu", "impact": "↓", "note": "Nắng nóng, hạn hán tại Ghana, Bờ Biển Ngà và vùng sản xuất trên thế giới làm giảm năng suất cây trồng. Khi tỷ lệ cung/cầu bị ảnh hưởng, giá nông sản có áp lực tăng, tạo rủi ro lạm phát qua quá trình truyền dẫn vào CPI."},
-    {"title": "Tasco chào bán 3,56 ngàn tỷ trái phiếu chuyển đổi", "impact": "→", "note": "Tasco phát hành 35,61 triệu trái phiếu chuyển đổi, giá 100.000 đ/cp, lãi suất 10% năm đầu, dành cho cổ đông hiện hữu. 52% (1,86 ngàn tỷ) dùng bất động sản, 30% (1,2 ngàn tỷ) góp Tasco Investment, 18% (500 tỷ) cao tốc TPHCM-Trung Lương-Mỹ Thuận."},
-    {"title": "SpaceX huy động 40 tỷ USD mua chip Nvidia", "impact": "↑", "note": "SpaceX huy động 40 tỷ USD (10 tỷ vay ngân hàng, 30 tỷ trái phiếu), dẫn dắt bởi Apollo Global Management, hoàn tất 2027. Morgan Stanley ước tính hạ tầng AI toàn cầu cần 1.500 tỷ USD vốn đầu tư đến 2028, cho thấy nhu cầu AI tăng mạnh."}
+    {
+      "title": "VN-Index giảm 0,82%, phá 3 phiên tăng, SHB giảm sàn",
+      "impact": "↓",
+      "note": "VN-Index giảm 14,42 điểm xuống 1.738,97 điểm. SHB giảm sàn (thanh khoản tăng 5 lần), LPB -3,21%, CTG -1,85%, VHM -3,38%, VIC -0,87%. Khối ngoại bán ròng 415 tỷ đồng, thanh khoản tăng 40% nhưng toàn áp lực bán."
+    },
+    {
+      "title": "Thanh khoản HOSE sụt giảm, khối ngoại bán ròng 4,7 ngàn tỷ tháng 9",
+      "impact": "↓",
+      "note": "Tháng 9: VN-Index giảm 3,47%, VN Allshare -4,36%, VN30 -3,84%. Giá trị giao dịch 328,242 tỷ đồng (giảm 5,33%), bình quân 16,412 tỷ đồng/ngày. Chỉ số ngành tiêu dùng -7%, vật liệu xây dựng -6,4%, chăm sóc sức khỏe -6%."
+    },
+    {
+      "title": "SASCO lợi nhuận trước thuế 9 tháng tăng 62%",
+      "impact": "↑",
+      "note": "SAS báo lợi nhuận lũy kế 9 tháng 660 tỷ đồng, tăng 62% so với cùng kỳ 2025, hoàn thành trên 80% kế hoạch năm. Chuẩn bị hạ tầng cho sân bay Long Thành hoạt động thương mại."
+    },
+    {
+      "title": "Chương trình nhà ở xã hội mở rộng, 153 ngàn tỷ đồng",
+      "impact": "↑",
+      "note": "Quy mô tăng từ 120 ngàn tỷ lên 153 ngàn tỷ đồng với 11 ngân hàng tham gia. Giải ngân 17.500 tỷ đồng (tăng 9.950 tỷ so với cuối 2025). Lãi suất ưu đãi 6,5%/năm người mua, 7%/năm chủ đầu tư."
+    },
+    {
+      "title": "Tasco chào bán 3,56 ngàn tỷ trái phiếu chuyển đổi",
+      "impact": "↑",
+      "note": "HUT chào bán 35,61 triệu trái phiếu giá 100.000 đồng, lãi suất 10%/năm năm đầu. 52% (1.860 tỷ) dành bất động sản: 1.360 tỷ Tasco Land, 500 tỷ Việt Trì Legacy Lakeside. 30% (1.200 tỷ) Tasco Investment."
+    },
+    {
+      "title": "Lâm Đồng GRDP 9 tháng tăng 8,51%",
+      "impact": "→",
+      "note": "GRDP tăng 8,51% (thấp hơn kịch bản 9,2%), công nghiệp-xây dựng 10,64%, dịch vụ 9,49%, nông lâm thủy sản 4,90%. Doanh thu bán lẻ 150.375 tỷ đồng (+19,03%), vốn đầu tư toàn xã hội tăng 12,09%."
+    }
   ]
 }
