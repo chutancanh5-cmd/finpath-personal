@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Phiên giao dịch hôm nay chứng kiến áp lực bán mạnh từ khối ngoại (bán ròng 451 tỷ đồng), đặc biệt vào nhóm ngân hàng và bất động sản, khiến VN-Index giảm 14,42 điểm xuống 1.738,97. Tuy nhiên, tăng trưởng GDP 9 tháng đạt 9,01% (cao nhất năm), FDI chất lượng cao (570 tỷ USD tích lũy), và một số doanh nghiệp lợi nhuận tốt cho thấy nền tảng vĩ mô vẫn mạnh mẽ bất chấp sức ép ngắn hạn từ dòng tiền ngoại.",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực bán mạnh ngày 8/10 khi khối ngoại liên tục bán ròng 451 tỷ đồng, VN-Index giảm dưới 1.740 điểm với 344 mã giảm. Các cổ phiếu ngân hàng (SHB giảm sàn, TCB/VCB/BID giảm 1%+) và bất động sản chịu sức ép lớn, phản ánh tâm lý nhà đầu tư vẫn thận trọng bất chấp tín hiệu tích cực từ kinh tế. Tuy nhiên, nền kinh tế có điểm sáng với GDP quý 3 tăng 9,95% (cao nhất nhiều năm) và FDI nâng tổng 570 tỷ USD chất lượng cao (bán dẫn, AI). Các doanh nghiệp như SASCO (lợi nhuận tăng 62%) và VinFast (mở rộng Ấn Độ) ghi nhận triển vọng tốt, nhưng chưa đủ cân bằng cảm tính bán trên thị trường rộng.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 451 tỷ đồng, tập trung ngân hàng-bất động sản",
+      "title": "VN-Index giảm dưới 1.740 điểm, áp lực bán chiếm ưu thế",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 451,22 tỷ đồng (khớp lệnh 271,1 tỷ). Dòng tiền vào chỉ 3.336 tỷ đồng, dòng tiền thoát ra 8.715 tỷ đồng. Áp lực tập trung vào SHB giảm sàn 6,94%, VIX giảm 3,42%, SSI giảm 3,05%, nhóm bất động sản VHM giảm 3,38%, VIC giảm 0,87%."
+      "note": "VN-Index giảm 14,42 điểm xuống 1.738,97 điểm, không vượt kháng cự 1.765 điểm; RSI đảo chiều, MACD âm dưới 0, báo hiệu xu hướng giảm ngắn hạn chưa đảo chiều; khả năng cao tiếp tục kiểm định vùng đáy 1.730 điểm với 344 mã giảm và 11/18 ngành bị bán ròng."
     },
     {
-      "title": "VN-Index giảm 14,42 điểm xuống 1.738,97, 344 mã giảm",
+      "title": "SHB giảm sàn xuống 10.050 đồng, khối ngoại bán ròng phiên thứ 12",
       "impact": "↓",
-      "note": "VN-Index đóng cửa tại 1.738,97, giảm 14,42 điểm. Sắc đỏ lan rộng, 344 mã giảm, 20 mã sàn. Nhóm tài chính bị áp lực nặng (TCB -1,24%, BID -1,74%, VCB -1,05%, CTG -1,85%), bất động sản (VHM -3,38%), chứng khoán (VIX -3,42%, SSI -3,05%). Thanh khoản khớp lệnh 17.000 tỷ đồng."
+      "note": "SHB giảm 6,94% xuống 10.050 đồng/cổ phiếu (từ 18.000 đồng cuối 2025), khối ngoại bán ròng phiên thứ 12 liên tiếp gây áp lực lên nhóm ngân hàng; đồng lúc bất động sản KOS, DRH, GEX, TIG giảm sàn, phản ánh tâm lý bán ròng rộng khắp thị trường."
     },
     {
-      "title": "GDP 9 tháng đạt 9,01%, FDI tích lũy vượt 570 tỷ USD",
+      "title": "Khối ngoại bán ròng 451 tỷ đồng, tâm lý thận trọng gia tăng",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 451,22 tỷ đồng (khớp lệnh 271,1 tỷ đồng), dòng tiền vào 3.336 tỷ đồng nhưng dòng tại giảm 8.715 tỷ đồng (tỷ lệ 1:2,6), cho thấy nhà đầu tư chỉ giải ngân ở mức giá thấp; lực bán lan rộng nhiều nhóm ngành không chỉ tập trung một vài cổ phiếu."
+    },
+    {
+      "title": "GDP quý 3 tăng 9,95%, FDI nâng tổng 570 tỷ USD chất lượng cao",
       "impact": "↑",
-      "note": "Tăng trưởng GDP quý 3 ước 9,95%, 9 tháng đạt 9,01% - cao nhất nhiều năm. FDI 9 tháng nâng tổng tích lũy lên trên 570 tỷ USD. Chất lượng vốn FDI cải thiện với dự án quy mô lớn trong điện tử, bán dẫn, AI, công nghệ cao."
+      "note": "GDP quý 3/2026 tăng 9,95%, 9 tháng tăng 9,01% (cao nhất nhiều năm); FDI 9 tháng nâng tổng 570 tỷ USD với chất lượng cao gồm bán dẫn, điện tử, AI, xác nhận vai trò ngày càng quan trọng của Việt Nam trong chuỗi cung ứng công nghệ cao toàn cầu."
     },
     {
-      "title": "SASCO lợi nhuận 9 tháng tăng 62%, đạt 660 tỷ đồng",
+      "title": "SASCO lợi nhuận trước thuế tăng 62%, chuẩn bị Long Thành",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế lũy kế 9 tháng đạt 660 tỷ đồng, tăng 62% so với cùng kỳ, hoàn thành trên 80% kế hoạch năm 2026. Chuẩn bị thiết lập cơ sở kinh doanh tại sân bay Long Thành."
+      "note": "SASCO ước tính lợi nhuận trước thuế 9 tháng 2026 đạt 660 tỷ đồng, tăng 62% so với cùng kỳ và hoàn thành hơn 80% kế hoạch năm 2026; doanh nghiệp chuẩn bị cho hoạt động tại sân bay Long Thành mở ra tiềm năng tăng trưởng mới."
     },
     {
-      "title": "VinFast ký LOI 50 showroom xe điện tại 15 bang Ấn Độ",
+      "title": "VinFast ký kết hợp tác 50 showroom xe máy điện tại Ấn Độ",
       "impact": "↑",
-      "note": "VinFast chính thức ký ý định thư hợp tác với 50 đại lý xe máy điện, triển khai 50 showroom tại 34 thành phố, 15 bang Ấn Độ gồm Delhi NCR, Rajasthan, Maharashtra, Karnataka, Tamil Nadu v.v. Mở rộng tại thị trường xe 2 bánh lớn nhất thế giới."
-    },
-    {
-      "title": "Lãi suất huy động tiếp tục phân hóa, Sacombank cao nhất 7,5%",
-      "impact": "→",
-      "note": "Kỳ hạn 12 tháng: Sacombank 7,5%/năm, LPBank-Saigonbank 7,2%/năm, Big4 6,8%/năm. Kỳ hạn 3 tháng: mức cao nhất 4,75%/năm (nhiều ngân hàng), SCB thấp nhất 1,9%/năm. Kỳ hạn 6 tháng: Sacombank 7,2%/năm, Bac A Bank 7,05%/năm, Big4 6,6%/năm."
+      "note": "VinFast ký LOI với 50+ đại lý xe máy điện ở 15 bang Ấn Độ, kế hoạch mở 50+ showroom tại 34 thành phố trên thị trường xe hai bánh lớn nhất thế giới; doanh nghiệp coi Ấn Độ là thị trường quan trọng nhất trong quá trình tăng trưởng toàn cầu."
     }
   ]
 }
