@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chứng kiến áp lực bán mạnh, VN-Index giảm 14,42 điểm về 1,738.97 điểm với sắc đỏ lan rộng, các cổ phiếu ngân hàng và bất động sản bị ép giá sâu. Khối ngoại bán ròng 4.7 ngàn tỷ đồng trong tháng 9 và thanh khoản HOSE sụt giảm 5.33%, cho thấy dòng vốn rút khỏi thị trường. Rủi ro lạm phát từ thời tiết cực đoan (nắng nóng, hạn hán) tác động đến giá nông sản, trong khi tín hiệu tích cực từ một số doanh nghiệp như SASCO và VinFast chưa đủ bù lại áp lực chung.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm 8/10 chịu sức ép lớn với VN-Index giảm 14.42 điểm xuống 1,738.97, nhất là ngân hàng (SHB sàn, LPB -3.21%, CTG -1.85%) và bất động sản (VHM -3.38%, VIC -0.87%). Khối ngoại bán ròng hơn 4.7 ngàn tỷ đồng tháng 9 và thanh khoản sụt giảm 5.33%, báo hiệu tâm lý nhà đầu tư thận trọng. Tích cực có cải cách hải quan 100% tự động hóa hướng tới kim ngạch XNK 1.000 tỷ USD, VinFast triển khai 50 showroom Ấn Độ, SASCO tăng lợi nhuận 62%, và nhu cầu AI toàn cầu mạnh (SpaceX 40 tỷ USD). Ngắn hạn thị trường điều chỉnh, dài hạn vẫn có dự án chiến lược đáng chú ý.",
   "top": [
     {
-      "title": "VN-Index giảm mạnh, nhiều ngân hàng và bất động sản lao dốc",
+      "title": "VN-Index giảm 14.42 điểm, ngân hàng & BĐS chịu sức ép",
       "impact": "↓",
-      "note": "VN-Index giảm 14,42 điểm xuống 1,738.97 điểm, quay về mức ngày 2/10. Sắc đỏ lan rộng với 344 mã giảm, 20 mã giảm hết biên độ. Ngân hàng SHB giảm sàn với 3.9 triệu cp dư bán, LPB giảm 3.21%, CTG giảm 1.85%, BID giảm 1.74%. VHM giảm 3.38% lấy 3.85 điểm, VIC giảm 0.87% lấy 3.25 điểm từ VN-Index."
+      "note": "VN-Index đóng cửa tại 1,738.97, giảm 14.42 điểm. 344 mã giảm, 20 mã giảm hết biên độ. SHB giảm sàn với 3.9 triệu cp dư bán, LPB -3.21%, CTG -1.85%, BID -1.74%, ACB -1.45%, VCB -1.05%. VHM giảm 3.38% lấy 3.85 điểm, VIC giảm 0.87% lấy 3.25 điểm. Chứng khoán cũng giảm: SSI -3.05%, VIX -3.42%, VND -3.68%, VCI -2.88%."
     },
     {
-      "title": "Khối ngoại bán ròng, thanh khoản HOSE sụt giảm tháng 9",
+      "title": "Thanh khoản sụt giảm 5.33%, khối ngoại bán ròng 4.7 ngàn tỷ đồng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 4.7 ngàn tỷ đồng trong tháng 9. Thanh khoản HOSE sụt giảm 4.66% khối lượng và 5.33% giá trị so với tháng 8, tổng giá trị giao dịch bình quân 16.412 tỷ đồng/ngày. Ba chỉ số chính giảm điểm: VN-Index giảm 3.47%, VN Allshare giảm 4.36%, VN30 giảm 3.84%."
+      "note": "Tháng 9/2026, thanh khoản HOSE sụt giảm: khối lượng giảm 4.66%, giá trị giảm 5.33% so với tháng 8, tổng giá trị giao dịch bình quân 16.412 tỷ đồng/ngày. Khối ngoại bán ròng 4.7 ngàn tỷ đồng. Ba chỉ số chính cũng giảm: VN-Index -3.47%, VN Allshare -4.36%, VN30 -3.84%. Dòng tiền rút khỏi thị trường phản ánh tâm lý thận trọng."
     },
     {
-      "title": "SASCO: Lợi nhuận 9 tháng tăng 62%, chuẩn bị sân bay Long Thành",
+      "title": "SASCO lợi nhuận 9 tháng tăng 62%, sẵn sàng Long Thành",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế lũy kế 9 tháng SASCO đạt 660 tỷ đồng, tăng 62% so với cùng kỳ năm 2025, hoàn thành trên 80% kế hoạch năm 2026. Doanh nghiệp chuẩn bị sẵn sàng thiết lập cơ sở kinh doanh tại sân bay Long Thành để đón nhu cầu tăng."
+      "note": "SASCO báo cáo lợi nhuận trước thuế lũy kế 9 tháng đạt 660 tỷ đồng, tăng 62% so với cùng kỳ năm 2025, hoàn thành trên 80% kế hoạch năm 2026. Doanh nghiệp chuẩn bị sẵn sàng thiết lập cơ sở kinh doanh tại sân bay Long Thành, phản ánh nhu cầu hàng không và du lịch phục hồi mạnh."
     },
     {
-      "title": "VinFast ký LOI với 50+ đại lý xe máy điện tại Ấn Độ",
+      "title": "Hải quan 100% tự động hóa, kim ngạch XNK hướng 1.000 tỷ USD",
       "impact": "↑",
-      "note": "VinFast ký kết ý định thư hợp tác với hơn 50 đại lý tại 15 bang Ấn Độ, mở hơn 50 showroom tại 34 thành phố bao gồm Delhi NCR, Rajasthan, Punjab, Maharashtra, Gujarat, Karnataka, Telangana, Tamil Nadu, Kerala, Andhra Pradesh, West Bengal, Odisha. Ấn Độ là thị trường xe 2 bánh lớn nhất thế giới, tạo dư địa đáng kể cho quá trình điện hóa giao thông."
+      "note": "Cục Hải quan đã bãi bỏ 47 thủ tục hành chính, hiện 100% thủ tục hải quan cơ bản tự động hóa với 99.65% doanh nghiệp tham gia. Kim ngạch xuất nhập khẩu Việt Nam được kỳ vọng sớm tiến tới 1.000 tỷ USD. Cải cách này tác động trực tiếp đến khả năng doanh nghiệp tham gia chuỗi cung ứng toàn cầu."
     },
     {
-      "title": "Nắng nóng, hạn hán tác động rủi ro giá nông sản và CPI",
-      "impact": "↓",
-      "note": "Nắng nóng kéo dài và hạn hán ảnh hưởng đến sản lượng cây trồng (cacao Ghana, Bờ Biển Ngà năm 2024) và chi phí chăn nuôi, tạo áp lực tăng giá nông sản. Mặc dù CPI phản ứng chậm do độ trễ truyền dẫn, nhưng đây là yếu tố rủi ro lạm phát ngắn hạn nếu chuỗi cung ứng bị gián đoạn."
+      "title": "VinFast triển khai 50 showroom tại 15 bang Ấn Độ",
+      "impact": "↑",
+      "note": "VinFast ký kết ý định thư hợp tác với hơn 50 đại lý xe máy điện tại 15 bang, triển khai hơn 50 showroom tại 34 thành phố gồm Delhi NCR, Rajasthan, Punjab, Maharashtra, Gujarat, Karnataka, Telangana, Tamil Nadu, Kerala, Andhra Pradesh, West Bengal, Odisha. Ấn Độ là thị trường xe 2 bánh lớn nhất thế giới, tạo dư địa đáng kể cho quá trình điện hóa giao thông."
     },
     {
-      "title": "Tỉnh Lâm Đồng: GRDP 9 tháng tăng 8.51%, thấp hơn kịch bản",
-      "impact": "→",
-      "note": "GRDP 9 tháng tăng 8.51%, thấp hơn kịch bản đề ra 9.2%. Khu vực công nghiệp - xây dựng tăng 10.64%, dịch vụ tăng 9.49%, nông lâm thủy sản tăng 4.90%. Doanh thu dịch vụ tiêu dùng tăng 19.03%. Tỉnh tập trung tháo gỡ điểm nghẽn, đẩy nhanh giải ngân vốn đầu tư công trong quý IV."
+      "title": "SpaceX huy động 40 tỷ USD cho chip AI Nvidia",
+      "impact": "↑",
+      "note": "SpaceX lên kế hoạch huy động 40 tỷ USD (10 tỷ vay ngân hàng + 30 tỷ trái phiếu) để mua chip trí tuệ nhân tạo của Nvidia. Morgan Stanley ước tính hạ tầng AI toàn cầu sẽ cần 1.500 tỷ USD vốn đầu tư từ các nguồn bên ngoài vào năm 2028, cho thấy nhu cầu AI tăng vọt."
     }
   ]
 }
