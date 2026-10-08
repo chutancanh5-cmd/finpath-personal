@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-08",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường Việt Nam cân bằng giữa rủi ro vĩ mô (lạm phát toàn cầu, Ấn Độ tăng lãi suất, khối ngoại bán ròng) và điểm sáng nội bộ (tăng trưởng Hà Nội đạt 10%, VND mạnh +1,12%, ngân hàng huy động vốn dài hạn). NHNN quản lý thanh khoản chặt chẽ với lãi suất liên ngân hàng sụt từ 2,8% xuống 0,6%, phản ánh chiến lược kiềm chế lạm phát giữa sức ép từ ngoài. Tín hiệu bị pha loãng do khối ngoại bán ròng 4 phiên liên tiếp cho thấy canh cược chọn lọc.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đang đối mặt với áp lực thanh khoản khi NHNN siết chặt tiền tệ (hút 39.000 tỷ), trong khi khối ngoại bán ròng lần thứ 4 liên tiếp. Tỷ suất vòng quay chứng khoán giảm sâu chỉ còn nửa mức năm trước dù vốn hóa tăng 20%, phản ánh lo ngại về sự sôi động của thị trường. Tuy nhiên, nền tảng kinh tế vẫn có tín hiệu tích cực với tăng trưởng GRDP Hà Nội đạt 10,02% và Samsung đầu tư 1,87 tỷ USD vào công nghiệp bán dẫn, trong khi VND tăng giá so với USD giữa áp lực đồng đô-la toàn cầu.",
   "top": [
     {
-      "title": "Lãi suất liên ngân hàng sụt giảm 2,2 điểm, NHNN hút ròng 39.000 tỷ",
-      "impact": "↓",
-      "note": "Lãi suất qua đêm từ 2,8% xuống 0,6% trong 3 phiên; kỳ hạn 1 tuần từ ~2,8% xuống 2,3%. NHNN giảm OMO từ 5.000 tỷ xuống chỉ trúng 1.547 tỷ, hút ròng >39.000 tỷ thanh khoản từ đầu tuần, tín hiệu thắt chặt kinh tế."
-    },
-    {
-      "title": "Ấn Độ tăng lãi suất lần đầu sau 3 năm, dự báo 4 lần nữa",
-      "impact": "↓",
-      "note": "RBI tăng lãi suất do lạm phát tháng 8 ở 4,8% (cao hơn mục tiêu 4%). Goldman Sachs dự báo 4 lần tăng nữa (tổng 1%) đến Q2/2027 do giá năng lượng, lương thực leo thang, tạo áp lực lãi suất quốc tế ảnh hưởng Việt Nam."
-    },
-    {
-      "title": "Camimex huy động gần 690 tỷ từ vay ngân hàng và trái phiếu",
+      "title": "Samsung rót 1,87 tỷ USD vào bán dẫn Việt Nam",
       "impact": "↑",
-      "note": "CMX vay 100 tỷ Nam Á Bank, vay 15 triệu USD (~386 tỷ, SOFR+4,5%, 7 năm) từ quỹ Proparco, phát hành tối đa 200 tỷ trái phiếu (đáo hạn 2029); nguồn lực cho mở rộng lạnh tinh và vốn lưu động."
+      "note": "Samsung Electro-Mechanics dự kiến rót gần 5 tỷ USD đến năm 2028 vào lĩnh vực sản xuất chất nền bán dẫn FC-BGA, trong đó 1,87 tỷ USD dành cho chi nhánh Việt Nam tại Thái Nguyên; khoản đầu tư này nhằm sản xuất linh kiện cho máy chủ AI và hệ thống tính toán cao."
     },
     {
-      "title": "VND tăng 1,12% so USD, bất ngờ so loạt đồng tiền châu Á",
+      "title": "Hà Nội đạt tăng trưởng 10,02% trong quý III",
       "impact": "↑",
-      "note": "VND tăng 1,12% so USD khi DXY tăng >4% từ đầu năm. Yen Nhật, ringgit Malaysia, peso, rupiah, rupee Ấn Độ, euro, franc Thụy Sĩ đều giảm 2-7%, cho thấy NHNN quản lý tỷ giá hiệu quả."
+      "note": "GRDP quý III/2026 của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt mức tăng trưởng hai con số và là mức cao nhất trong ba quý, đặt nền tảng cho tăng trưởng kinh tế toàn quốc."
     },
     {
-      "title": "Hà Nội đạt tăng trưởng GRDP 10,02% quý III",
+      "title": "VND tăng 1,12% so USD giữa áp lực đô-la toàn cầu",
       "impact": "↑",
-      "note": "GRDP Hà Nội quý III tăng 10,02%, lần đầu đạt hai con số trong năm 2026 và cao nhất 3 quý. Phản ánh đà từ đầu tư công, hạ tầng (cầu Trần Hưng Đạo, thoát nước) duy trì thi công qua Tết."
+      "note": "VND tăng khoảng 1,12% so với USD trong khi chỉ số DXY vượt 102 điểm tăng hơn 4%, các đồng tiền châu Á khác giảm 2–7% (yen Nhật, ringgit Malaysia, rupiah Indonesia); kết quả do nỗ lực quản lý tỷ giá của NHNN."
     },
     {
-      "title": "37% nhà đầu tư coi lãi suất tăng là rủi ro lớn nhất",
+      "title": "NHNN siết thanh khoản, lãi suất qua đêm giảm xuống 0,6%",
       "impact": "↓",
-      "note": "Khảo sát Deutsche Bank (200 family office tại Singapore): 37% coi lãi suất/lợi suất trái phiếu tăng là rủi ro kinh tế lớn nhất; lạm phát 23%, AI 17%. 54% tăng phân bổ Mỹ, 30% tăng Châu Á, tác động định giá toàn cầu."
+      "note": "Lãi suất qua đêm thị trường liên ngân hàng giảm 2,2 điểm % từ 2,8% (cuối tuần trước) xuống 0,6% trong phiên 7/10; NHNN hút ròng hơn 39.000 tỷ đồng từ đầu tuần, chỉ chào thầu 5.000 tỷ trong OMO, chỉ có 1.547 tỷ trúng thầu."
+    },
+    {
+      "title": "Thanh khoản suy yếu, tỷ suất vòng quay giảm nửa",
+      "impact": "↓",
+      "note": "Tỷ lệ giữa giá trị giao dịch khớp lệnh bình quân phiên và vốn hóa thị trường ở mức 0,16%, chỉ bằng khoảng một nửa so với cùng kỳ năm trước, trong khi vốn hóa tăng gần 20%; phản ánh lo ngại về thanh khoản và sôi động của thị trường."
+    },
+    {
+      "title": "Khối ngoại bán ròng lần thứ 4 liên tiếp, hơn 934 tỷ đồng",
+      "impact": "↓",
+      "note": "Khối ngoại tiếp tục bán ròng phiên 7/10 với giá trị hơn 934 tỷ đồng, đây là lần bán ròng thứ 4 liên tiếp, cho thấy sự rút khỏi của nhà đầu tư nước ngoài trên thị trường chứng khoán Việt Nam."
     }
   ]
 }
