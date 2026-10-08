@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán VN đối mặt áp lực từ Fed (lợi suất 10 năm 5,365%, cao nhất từ 4/2002) khiến khối ngoại bán ròng 934 tỷ phiên thứ 4 liên tiếp, thanh khoản giảm (tỷ suất vòng quay chỉ 0,16%, nửa năm trước) và nhiều cổ phiếu bạo động. Cân bằng bởi tín hiệu tích cực từ kinh tế: Hà Nội GRDP 10,02% quý III (2 con số lần đầu năm), VND tăng 1,12% so USD, và chính phủ mở rộng hỗ trợ bất động sản (lãi suất 6,5%/năm, giải ngân 17.500 tỷ đồng) + mục tiêu quý IV tăng trưởng >15% cho 9 địa phương.",
+  "summary_vi": "Vĩ mô trong nước có điểm sáng với VND tăng giá 1,12%, GRDP Hà Nội đạt 10,02% lần đầu tiên đạt hai con số, và chương trình nhà ở xã hội giải ngân 17.500 tỷ đồng. Tuy nhiên thị trường chứng khoán gặp thách thức khi thanh khoản giảm mạnh (tỷ suất vòng quay xuống 0,16%), bị ảnh hưởng từ áp lực quốc tế: Fed tín hiệu thắt chặt lãi suất tiếp tục, lạm phát toàn cầu tăng, RBI và các ngân hàng trung ương khác tăng lãi suất. Điều chỉnh ngắn hạn có thể tiếp tục nhưng nền tảng kinh tế trong nước vẫn duy trì tăng trưởng ổn định.",
   "top": [
     {
-      "title": "Fed tăng lãi suất, lợi suất Mỹ 10 năm lên 5,365%",
+      "title": "VND tăng giá so với USD giữa áp lực toàn cầu",
+      "impact": "↑",
+      "note": "VND tăng 1,12% so với USD trong khi USD Index tăng hơn 4%. Nhiều đồng tiền châu Á giảm 2-7% (yen Nhật, rupiah Indonesia, rupee Ấn Độ). Kết quả này cho thấy hiệu quả quản lý tỷ giá và chính sách tiền tệ của NHNN trong bối cảnh biến động tiền tệ quốc tế mạnh mẽ."
+    },
+    {
+      "title": "Thanh khoản thị trường chứng khoán giảm mạnh",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc 10 năm tăng 5,365% (cao nhất từ 4/2002), 30 năm lên 5,732% (cao nhất từ 5/2002). Dow Jones giảm 0,66%, S&P 500 giảm 0,22%. Fed phát tín hiệu còn tăng lãi suất trong năm, tạo áp lực bán cho toàn cầu."
+      "note": "Tỷ suất vòng quay chứng khoán giảm xuống 0,16%, chỉ bằng khoảng 50% so với cùng kỳ năm trước, trong khi vốn hóa thị trường tăng 20%. Dòng tiền giao dịch yếu là dấu hiệu tâm lý nhà đầu tư còn thận trọng trước các yếu tố bất định."
     },
     {
-      "title": "Hà Nội GRDP 10,02% quý III, lần đầu 2 con số trong năm",
+      "title": "Hà Nội đạt GRDP 10,02% - tăng trưởng hai con số",
       "impact": "↑",
-      "note": "GRDP Hà Nội tăng 10,02% quý III, cao nhất trong 3 quý và lần đầu đạt mức 2 con số năm 2026, cho thấy động lực tăng trưởng ở Thủ đô duy trì tốt."
+      "note": "GRDP quý III-2026 của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt mức tăng trưởng hai con số và là mức tăng cao nhất trong ba quý. Đây là dấu hiệu tích cực cho năng lực tăng trưởng của nền kinh tế khu vực lớn nhất."
     },
     {
-      "title": "VND tăng 1,12% so USD, quản lý tỷ giá hiệu quả",
-      "impact": "↑",
-      "note": "VND tăng 1,12% trong khi chỉ số DXY tăng 4% và các đồng tiền châu Á khác giảm 2-7% (yen Nhật, ringgit, peso, rupiah, rupee, euro). Vụ trưởng Vụ Chính sách tiền tệ ghi nhận đây là kết quả quản lý điều hành hiệu quả."
-    },
-    {
-      "title": "Thanh khoản thị trường chứng khoán VN giảm mạnh",
+      "title": "Fed tín hiệu thắt chặt tiếp tục, lợi suất kho bạc tăng cao",
       "impact": "↓",
-      "note": "Tỷ suất vòng quay xuống 0,16%, bằng nửa năm trước, dù vốn hóa thị trường tăng 20%. Khoảng cách giữa quy mô và dòng tiền giao dịch cho thấy yên tĩnh, dòng vốn hạn chế."
+      "note": "Lợi suất trái phiếu kho bạc Mỹ kỳ hạn 10 năm lên 5,286%, cao nhất kể từ tháng 4/2002. Chỉ số Dow Jones giảm 0,66%, S&P 500 giảm 0,22%. Fed phát tín hiệu còn tăng lãi suất trong năm, tạo áp lực lên dòng tiền toàn cầu."
     },
     {
-      "title": "Lãi suất nhà ở xã hội 6,5%/năm, chương trình mở rộng 153.000 tỷ đồng",
-      "impact": "↑",
-      "note": "Lãi suất cho người mua 6,5%/năm (chủ đầu tư 7%), sau 6 lần điều chỉnh. Doanh số giải ngân 17.500 tỷ đồng (tăng 9.950 tỷ so cuối 2025), từ 11 ngân hàng tham gia, quy mô từ 120.000 tỷ lên 153.000 tỷ đồng."
+      "title": "RBI tăng lãi suất, lạm phát Ấn Độ ở 4,8%",
+      "impact": "↓",
+      "note": "Ngân hàng Trung ương Ấn Độ tăng lãi suất lần đầu tiên kể từ năm 2023. Lạm phát giá tiêu dùng hàng năm 4,8%, cao hơn mục tiêu 4%. Dự báo thêm 4 lần tăng lãi suất nữa trong năm 2026-2027, phản ánh áp lực lạm phát toàn cầu từ giá năng lượng và lương thực."
     },
     {
-      "title": "Chính phủ yêu cầu 9 địa phương tăng trưởng Q4 >15%, cao nhất Lạng Sơn 18,41%",
+      "title": "Chương trình nhà ở xã hội: lãi suất 6,5%, giải ngân 17.500 tỷ",
       "impact": "↑",
-      "note": "Chính phủ đặt mục tiêu cụ thể tăng trưởng quý IV cho 9 tỉnh thành trên 15%, phấn đấu mục tiêu cả năm 2026 đạt 2 con số, tập trung hiệu quả thực chất và sức cạnh tranh doanh nghiệp."
+      "note": "Lãi suất cho vay nhà ở xã hội ở mức 6,5%/năm (người mua) và 7%/năm (chủ đầu tư). Đến 31/8/2026, giải ngân đạt 17.500 tỷ đồng (tăng 9.950 tỷ so với cuối 2025), quy mô hợp đồng 50.300 tỷ với 11 ngân hàng tham gia. Chương trình hỗ trợ hiệu quả cho thị trường bất động sản nhà ở xã hội."
     }
   ]
 }
