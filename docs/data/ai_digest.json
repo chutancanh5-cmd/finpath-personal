@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-08",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang đối mặt với áp lực thanh khoản khi NHNN siết chặt tiền tệ (hút 39.000 tỷ), trong khi khối ngoại bán ròng lần thứ 4 liên tiếp. Tỷ suất vòng quay chứng khoán giảm sâu chỉ còn nửa mức năm trước dù vốn hóa tăng 20%, phản ánh lo ngại về sự sôi động của thị trường. Tuy nhiên, nền tảng kinh tế vẫn có tín hiệu tích cực với tăng trưởng GRDP Hà Nội đạt 10,02% và Samsung đầu tư 1,87 tỷ USD vào công nghiệp bán dẫn, trong khi VND tăng giá so với USD giữa áp lực đồng đô-la toàn cầu.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán sáng 8/10 phân hóa rõ rệt, VN-Index giảm 3,22 điểm khi nhóm ngân hàng, BĐS, chứng khoán áp lực điều chỉnh. Tuy nhiên, nền kinh tế ghi nhận các tín hiệu vĩ mô tích cực: Samsung đầu tư 1,87 tỷ USD vào sản xuất bán dẫn AI tại Việt Nam, Hà Nội tăng trưởng GRDP 10,02% quý III (cao nhất năm), VND tăng 1,12% so với USD khi các tiền tệ châu Á giảm 2–7%. Lãi suất liên ngân hàng giảm mạnh 2,2 điểm % (xuống 0,6%) nhưng NHNN rút 39.000 tỷ đồng phản ánh điều chỉnh thanh khoản cẩn thận.",
   "top": [
     {
-      "title": "Samsung rót 1,87 tỷ USD vào bán dẫn Việt Nam",
+      "title": "Samsung đầu tư 1,87 tỷ USD sản xuất bán dẫn AI tại Việt Nam",
       "impact": "↑",
-      "note": "Samsung Electro-Mechanics dự kiến rót gần 5 tỷ USD đến năm 2028 vào lĩnh vực sản xuất chất nền bán dẫn FC-BGA, trong đó 1,87 tỷ USD dành cho chi nhánh Việt Nam tại Thái Nguyên; khoản đầu tư này nhằm sản xuất linh kiện cho máy chủ AI và hệ thống tính toán cao."
+      "note": "Samsung Electro-Mechanics sẽ rót 1,87 tỷ USD tại Việt Nam từ 2026 đến 2028 (phần trong tổng 5 tỷ USD đầu tư) để sản xuất chất nền FC-BGA dùng cho chip máy chủ AI, robot và xe thông minh, khẳng định vai trò ngày càng quan trọng của Việt Nam trong chuỗi cung ứng bán dẫn toàn cầu."
     },
     {
-      "title": "Hà Nội đạt tăng trưởng 10,02% trong quý III",
+      "title": "Hà Nội tăng trưởng GRDP 10,02% quý III, lần đầu đạt hai con số năm nay",
       "impact": "↑",
-      "note": "GRDP quý III/2026 của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt mức tăng trưởng hai con số và là mức cao nhất trong ba quý, đặt nền tảng cho tăng trưởng kinh tế toàn quốc."
+      "note": "GRDP quý III/2026 của Hà Nội tăng 10,02%, lần đầu tiên trong năm đạt mục tiêu tăng trưởng hai con số và là mức cao nhất trong ba quý, phản ánh sức mạnh của động lực kinh tế Thủ đô."
     },
     {
-      "title": "VND tăng 1,12% so USD giữa áp lực đô-la toàn cầu",
+      "title": "VND tăng 1,12% so với USD khi tiền tệ châu Á giảm 2–7%",
       "impact": "↑",
-      "note": "VND tăng khoảng 1,12% so với USD trong khi chỉ số DXY vượt 102 điểm tăng hơn 4%, các đồng tiền châu Á khác giảm 2–7% (yen Nhật, ringgit Malaysia, rupiah Indonesia); kết quả do nỗ lực quản lý tỷ giá của NHNN."
+      "note": "VND tăng khoảng 1,12% so với USD trong khi chỉ số DXY tăng hơn 4%; yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia, rupee Ấn Độ giảm 2–7%, cho thấy sức mạnh tương đối của VND trong quản lý tỷ giá của NHNN."
     },
     {
-      "title": "NHNN siết thanh khoản, lãi suất qua đêm giảm xuống 0,6%",
-      "impact": "↓",
-      "note": "Lãi suất qua đêm thị trường liên ngân hàng giảm 2,2 điểm % từ 2,8% (cuối tuần trước) xuống 0,6% trong phiên 7/10; NHNN hút ròng hơn 39.000 tỷ đồng từ đầu tuần, chỉ chào thầu 5.000 tỷ trong OMO, chỉ có 1.547 tỷ trúng thầu."
+      "title": "Lãi suất liên ngân hàng giảm 2,2 điểm %, NHNN hút 39.000 tỷ đồng từ đầu tuần",
+      "impact": "→",
+      "note": "Lãi suất qua đêm thị trường liên ngân hàng giảm từ 2,8% xuống 0,6% trong 3 phiên (5–7/10); NHNN hút ròng hơn 39.000 tỷ đồng từ đầu tuần, chỉ chào thầu 5.000 tỷ OMO với 1.547 tỷ trúng thầu, phản ánh điều chỉnh thanh khoản cẩn thận."
     },
     {
-      "title": "Thanh khoản suy yếu, tỷ suất vòng quay giảm nửa",
+      "title": "Em trai Chủ tịch PNJ hoàn tất bán 9 triệu cổ phiếu, giảm sở hữu xuống 0,94%",
       "impact": "↓",
-      "note": "Tỷ lệ giữa giá trị giao dịch khớp lệnh bình quân phiên và vốn hóa thị trường ở mức 0,16%, chỉ bằng khoảng một nửa so với cùng kỳ năm trước, trong khi vốn hóa tăng gần 20%; phản ánh lo ngại về thanh khoản và sôi động của thị trường."
+      "note": "Ông Cao Ngọc Duy (em trai Chủ tịch HĐQT PNJ) bán xong 9 triệu cổ phiếu PNJ trong 2 phiên 1–2/10, giảm từ 2,7% xuống 0,94% vốn điều lệ với giá trị khoảng 220 tỷ đồng, diễn ra trong bối cảnh PNJ biến động mạnh."
     },
     {
-      "title": "Khối ngoại bán ròng lần thứ 4 liên tiếp, hơn 934 tỷ đồng",
-      "impact": "↓",
-      "note": "Khối ngoại tiếp tục bán ròng phiên 7/10 với giá trị hơn 934 tỷ đồng, đây là lần bán ròng thứ 4 liên tiếp, cho thấy sự rút khỏi của nhà đầu tư nước ngoài trên thị trường chứng khoán Việt Nam."
+      "title": "VN-Index phân hóa, sáng giảm 3,22 điểm với giá trị giao dịch 4.500 tỷ đồng",
+      "impact": "→",
+      "note": "VN-Index sáng 8/10 giảm 3,22 điểm xuống 1.750,17 điểm, giá trị giao dịch gần 4.500 tỷ đồng. Nhóm ngân hàng, BĐS, chứng khoán áp lực giảm; nhóm dầu khí, hóa chất, hạ tầng, thực phẩm tăng, thể hiện sự phân hóa theo ngành rõ rệt."
     }
   ]
 }
