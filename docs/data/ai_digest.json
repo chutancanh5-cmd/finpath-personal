@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-08",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam ghi nhận những điểm sáng với VND tăng 1,12% so USD nhờ quản lý chính sách tiền tệ hiệu quả, Hà Nội đạt GRDP 10,02% quý III (lần đầu con số), và lãi suất nhà ở xã hội ở mức 6,5%/năm hỗ trợ phát triển bất động sản. Tuy nhiên, rủi ro đến từ áp lực lạm phát ẩn hiện (giá lương thực tăng từ nắng nóng, CPI chưa phản ánh đầy đủ) và căng thẳng lãi suất toàn cầu (RBI tăng lãi suất, rủi ro tăng thêm từ Fed). Thanh khoản thị trường chứng khoán suy yếu (turnover 0,16%, giảm 50%) tuy vốn hóa tăng 20%, phản ánh sự thận trọng của nhà đầu tư.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Áp lực lãi suất toàn cầu tăng mạnh (37% nhà đầu tư coi là rủi ro lớn nhất), với RBI tăng lãi suất lần đầu sau 3 năm. Thanh khoản thị trường chứng khoán trong nước suy yếu với tỷ suất vòng quay giảm một nửa còn 0,16%, tạo rủi ro ngắn hạn cho cổ phiếu. Dù VND tăng 1,12% so USD và GRDP Hà Nội đạt 10,02% là điểm sáng, nhưng bị chi phối bởi rủi ro lạm phát ẩn hiện từ nắng nóng/giá lương thực và căng thẳng lãi suất toàn cầu.",
   "top": [
     {
-      "title": "VND tăng 1,12%, đánh bật các đồng tiền châu Á",
+      "title": "Lãi suất tăng là rủi ro lớn nhất (37% nhà đầu tư)",
+      "impact": "↓",
+      "note": "Khảo sát Deutsche Bank với 200 văn phòng gia đình: 37% coi lãi suất/lợi suất trái phiếu tăng là rủi ro lớn nhất cho tăng trưởng kinh tế toàn cầu, lạm phát (23%) và rủi ro AI (17%) theo sau. Tác động trực tiếp đến định giá cổ phiếu thông qua chiết khấu."
+    },
+    {
+      "title": "Thanh khoản thị trường chứng khoán giảm mạnh",
+      "impact": "↓",
+      "note": "Tỷ suất vòng quay chứng khoán chỉ 0,16%, chỉ bằng khoảng một nửa so với cùng kỳ năm trước, trong khi vốn hóa tăng gần 20%. Sự mất cân đối giữa quy mô thị trường và dòng tiền giao dịch gây rủi ro thanh khoản ngắn hạn."
+    },
+    {
+      "title": "RBI tăng lãi suất lần đầu sau 3 năm, dự báo 4 lần nữa",
+      "impact": "↓",
+      "note": "RBI tăng lãi suất do lạm phát giá tiêu dùng Ấn Độ 4,8%, cao hơn mục tiêu 4%. Goldman Sachs dự báo thêm 4 đợt tăng tổng 1% đến Q2/2027 do giá năng lượng và lương thực leo thang, tạo áp lực lãi suất toàn cầu ảnh hưởng các thị trường mới nổi."
+    },
+    {
+      "title": "VND tăng 1,12% so USD giữa áp lực toàn cầu",
       "impact": "↑",
-      "note": "VND tăng 1,12% so USD trong bối cảnh chỉ số DXY tăng hơn 4%, trong khi yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia, rupee Ấn Độ, euro, franc Thụy Sĩ, bảng Anh đều giảm 2-7%. Phản ánh hiệu quả quản lý tỷ giá của NHNN, hỗ trợ cạnh tranh xuất nhập khẩu."
+      "note": "VND tăng 1,12% so USD trong khi chỉ số DXY tăng hơn 4%, trong bối cảnh yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia, rupee Ấn Độ, euro, franc Thụy Sĩ, bảng Anh đều giảm 2-7%. Cho thấy NHNN quản lý tỷ giá hiệu quả."
     },
     {
       "title": "Hà Nội GRDP 10,02%, lần đầu đạt con số trong năm",
       "impact": "↑",
-      "note": "GRDP quý III-2026 tăng 10,02%, mức cao nhất 3 quý và lần đầu tiên Hà Nội đạt tăng trưởng hai con số trong năm. Cho thấy đà tăng trưởng mạnh mẽ từ đầu tư công và hoạt động kinh tế chủ chốt tại Thủ đô."
+      "note": "GRDP quý III-2026 tăng 10,02%, mức cao nhất 3 quý và lần đầu Hà Nội đạt tăng trưởng hai con số năm nay. Phản ánh đà tăng trưởng mạnh từ đầu tư công và hoạt động kinh tế chủ chốt tại Thủ đô."
     },
     {
-      "title": "RBI tăng lãi suất, lạm phát Ấn Độ 4,8%, dự báo thêm 4 đợt tăng",
+      "title": "Nắng nóng kéo giá lương thực tăng, CPI chưa phản ánh đầy đủ",
       "impact": "↓",
-      "note": "RBI tăng lãi suất lần đầu sau 3 năm, lạm phát giá tiêu dùng Ấn Độ 4,8% (tháng 8) cao hơn mục tiêu 4%. Goldman Sachs dự báo thêm 4 đợt tăng tổng 1% đến cuối Q2/2027 do giá năng lượng và lương thực leo thang, tạo áp lực lãi suất toàn cầu ảnh hưởng đến thị trường mới nổi."
-    },
-    {
-      "title": "Nắng nóng, hạn hán kéo giá lương thực tăng, CPI chưa phản ánh",
-      "impact": "↓",
-      "note": "Nhiệt độ cao, hạn hán làm sản lượng cây trồng giảm, chi phí chăn nuôi tăng, đẩy giá lương thực lên. Tuy nhiên CPI chưa phản ánh đầy đủ, tiềm ẩn rủi ro lạm phát bùng phát mạnh hơn khi lễ Tết hoặc trong những tháng tới."
-    },
-    {
-      "title": "Lãi suất nhà ở xã hội 6,5%/năm, giải ngân 17.500 tỷ đồng",
-      "impact": "↑",
-      "note": "Sau 6 lần điều chỉnh, lãi suất nhà ở xã hội ở mức 6,5%/năm (người mua) và 7%/năm (chủ đầu tư). Giải ngân tích lũy 17.500 tỷ đồng đến 31/8/2026, tăng 9.950 tỷ so cuối 2025, quy mô chương trình 153.000 tỷ với 11 ngân hàng tham gia."
-    },
-    {
-      "title": "Giới đầu tư lo lãi suất tăng, 37% coi là rủi ro lớn nhất",
-      "impact": "→",
-      "note": "Khảo sát Deutsche Bank: 37% nhà đầu tư cho lãi suất/lợi suất trái phiếu tăng là rủi ro lớn nhất cho tăng trưởng, 23% lo lạm phát, 17% lo AI. 73% thấy châu Á ổn định nhất, nhưng 54% muốn tăng phân bổ vào Mỹ. Cho thấy sự thận trọng về triển vọng lãi suất."
+      "note": "Nhiệt độ cao, hạn hán làm sản lượng cây trồng (ca cao, nông sản khác) giảm, chi phí chăn nuôi tăng. Tuy nhiên CPI chưa phản ánh đầy đủ, tiềm ẩn rủi ro lạm phát bùng phát mạnh hơn khi lễ Tết hoặc những tháng tới."
     }
   ]
 }
