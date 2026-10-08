@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Áp lực lãi suất toàn cầu tăng mạnh (37% nhà đầu tư coi là rủi ro lớn nhất), với RBI tăng lãi suất lần đầu sau 3 năm. Thanh khoản thị trường chứng khoán trong nước suy yếu với tỷ suất vòng quay giảm một nửa còn 0,16%, tạo rủi ro ngắn hạn cho cổ phiếu. Dù VND tăng 1,12% so USD và GRDP Hà Nội đạt 10,02% là điểm sáng, nhưng bị chi phối bởi rủi ro lạm phát ẩn hiện từ nắng nóng/giá lương thực và căng thẳng lãi suất toàn cầu.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đứng trước áp lực từ tăng lãi suất toàn cầu khi Ấn Độ vừa tăng lãi suất lần đầu tiên sau 3 năm và Fed duy trì thắt chặt. Khối ngoại bán ròng liên tiếp (934 tỷ), NHNN hút ròng 39.000 tỷ thanh khoản, lãi suất qua đêm giảm xuống 0,6% cho thấy tín hiệu thắt chặt tiền tệ. VND tăng 1,12% so USD và Hà Nội đạt GRDP 10,02% là điểm sáng, nhưng bị chi phối bởi rủi ro lạm phát từ nắng nóng/giá lương thực.",
   "top": [
     {
-      "title": "Lãi suất tăng là rủi ro lớn nhất (37% nhà đầu tư)",
+      "title": "NHNN hút ròng 39.000 tỷ, lãi suất qua đêm giảm xuống 0,6%",
       "impact": "↓",
-      "note": "Khảo sát Deutsche Bank với 200 văn phòng gia đình: 37% coi lãi suất/lợi suất trái phiếu tăng là rủi ro lớn nhất cho tăng trưởng kinh tế toàn cầu, lạm phát (23%) và rủi ro AI (17%) theo sau. Tác động trực tiếp đến định giá cổ phiếu thông qua chiết khấu."
+      "note": "Lãi suất qua đêm giảm từ 2,8% cuối tuần trước xuống 0,6% ngày 7/10 (giảm 2,2 điểm %), nhưng NHNN giảm quy mô OMO và hút ròng 39.000 tỷ thanh khoản cho thấy tín hiệu thắt chặt tiền tệ, áp lực lên dòng tiền thị trường."
     },
     {
-      "title": "Thanh khoản thị trường chứng khoán giảm mạnh",
+      "title": "Ấn Độ tăng lãi suất lần đầu sau 3 năm, dự báo 4 lần nữa",
       "impact": "↓",
-      "note": "Tỷ suất vòng quay chứng khoán chỉ 0,16%, chỉ bằng khoảng một nửa so với cùng kỳ năm trước, trong khi vốn hóa tăng gần 20%. Sự mất cân đối giữa quy mô thị trường và dòng tiền giao dịch gây rủi ro thanh khoản ngắn hạn."
+      "note": "RBI nâng lãi suất do lạm phát 4,8% (tháng 8), cao hơn mục tiêu 4%. Goldman Sachs dự báo thêm 4 đợt tăng tổng 1% đến Q2/2027 do giá năng lượng và lương thực leo thang, tạo áp lực lãi suất toàn cầu ảnh hưởng các thị trường mới nổi."
     },
     {
-      "title": "RBI tăng lãi suất lần đầu sau 3 năm, dự báo 4 lần nữa",
+      "title": "Khối ngoại bán ròng 934 tỷ phiên 7/10, phiên thứ 4 liên tiếp",
       "impact": "↓",
-      "note": "RBI tăng lãi suất do lạm phát giá tiêu dùng Ấn Độ 4,8%, cao hơn mục tiêu 4%. Goldman Sachs dự báo thêm 4 đợt tăng tổng 1% đến Q2/2027 do giá năng lượng và lương thực leo thang, tạo áp lực lãi suất toàn cầu ảnh hưởng các thị trường mới nổi."
+      "note": "Khối ngoại bán ròng phiên thứ 4 liên tiếp với giá trị 934 tỷ đồng, phản ánh sự cân nhắc của nhà đầu tư quốc tế trước bối cảnh lãi suất toàn cầu tăng và rủi ro kinh tế."
     },
     {
-      "title": "VND tăng 1,12% so USD giữa áp lực toàn cầu",
+      "title": "VND tăng 1,12% so USD giữa đồng tiền châu Á suy yếu",
       "impact": "↑",
-      "note": "VND tăng 1,12% so USD trong khi chỉ số DXY tăng hơn 4%, trong bối cảnh yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia, rupee Ấn Độ, euro, franc Thụy Sĩ, bảng Anh đều giảm 2-7%. Cho thấy NHNN quản lý tỷ giá hiệu quả."
+      "note": "VND tăng 1,12% so USD trong khi DXY tăng >4%, các đồng tiền châu Á (yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia, rupee Ấn Độ) giảm 2-7%, cho thấy NHNN quản lý tỷ giá hiệu quả."
     },
     {
-      "title": "Hà Nội GRDP 10,02%, lần đầu đạt con số trong năm",
+      "title": "Hà Nội GRDP 10,02%, lần đầu đạt tăng trưởng hai con số",
       "impact": "↑",
-      "note": "GRDP quý III-2026 tăng 10,02%, mức cao nhất 3 quý và lần đầu Hà Nội đạt tăng trưởng hai con số năm nay. Phản ánh đà tăng trưởng mạnh từ đầu tư công và hoạt động kinh tế chủ chốt tại Thủ đô."
+      "note": "GRDP quý III-2026 tăng 10,02%, mức cao nhất 3 quý năm nay. Lần đầu Hà Nội đạt tăng trưởng hai con số trong năm, phản ánh đà tăng trưởng mạnh từ đầu tư công và hoạt động kinh tế chủ chốt."
     },
     {
-      "title": "Nắng nóng kéo giá lương thực tăng, CPI chưa phản ánh đầy đủ",
+      "title": "37% nhà đầu tư coi lãi suất tăng là rủi ro lớn nhất",
       "impact": "↓",
-      "note": "Nhiệt độ cao, hạn hán làm sản lượng cây trồng (ca cao, nông sản khác) giảm, chi phí chăn nuôi tăng. Tuy nhiên CPI chưa phản ánh đầy đủ, tiềm ẩn rủi ro lạm phát bùng phát mạnh hơn khi lễ Tết hoặc những tháng tới."
+      "note": "Khảo sát Deutsche Bank với 200 family office tại Singapore: 37% coi lãi suất/lợi suất trái phiếu tăng là rủi ro lớn nhất cho tăng trưởng kinh tế, lạm phát (23%) và rủi ro AI (17%) theo sau, tác động trực tiếp đến định giá cổ phiếu."
     }
   ]
 }
