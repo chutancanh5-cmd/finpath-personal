@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam rơi vào giai đoạn điều chỉnh mạnh ngày 8/10 với VN-Index giảm 14,42 điểm xuống 1.738,97 điểm, áp lực bán quay lại tập trung vào nhóm ngân hàng và bất động sản. Khối ngoại tiếp tục bán ròng 4.7 ngàn tỷ đồng trong tháng 9. Ngoài áp lực ngắn hạn, các rủi ro vĩ mô như nắng nóng ảnh hưởng lạm phát thực phẩm cần theo dõi. Tuy nhiên, vẫn có những điểm sáng từ kế hoạch hỗ trợ bất động sản qua lãi suất cho vay nhà ở xã hội giảm xuống 6,5%/năm và tăng trưởng kinh tế các địa phương.",
+  "summary_vi": "VN-Index giảm mạnh 14,42 điểm xuống 1,738.97 điểm với áp lực bán tăng vào các cổ phiếu ngân hàng và bất động sản; khối ngoại bán ròng 4.7 ngàn tỷ đồng trong tháng 9, thanh khoản sụt giảm 5.33%. Tuy nhiên, các tín hiệu tích cực từ SASCO (lợi nhuận +62%) và VinFast (mở rộng sang Ấn Độ) cho thấy doanh nghiệp vẫn tìm cơ hội tăng trưởng.",
   "top": [
     {
-      "title": "VN-Index rơi vào điều chỉnh mạnh, giảm 14.42 điểm",
+      "title": "VN-Index giảm mạnh, cổ phiếu ngân hàng lao dốc",
       "impact": "↓",
-      "note": "VN-Index đóng cửa ở 1.738,97 điểm (giảm 14,42 điểm), HNX-Index giảm 3,6 điểm về 256,22 điểm. Áp lực bán gia tăng trong phiên chiều, thanh khoản tăng 40%. Nhóm cổ phiếu ngân hàng và bất động sản bị xả mạnh, đặc biệt SHB giảm sàn, VHM giảm 3,38%, VIC giảm 0,87%."
+      "note": "VN-Index giảm 14,42 điểm xuống 1,738.97; ngân hàng chịu áp lực mạnh với SHB giảm sàn (+4% khối lượng), LPB giảm 3,21%, CTG giảm 1,85%, BID giảm 1,74%; VHM, VIC mất 3.85 điểm và 3.25 điểm trị số chỉ số. Tỷ lệ tăng/giảm 0,64/1, 33,2% cổ phiếu giảm từ 1% trở lên."
     },
     {
-      "title": "SHB giảm sàn xuống 10.050 đồng, cấu trúc cổ phiếu gặp rủi ro",
+      "title": "Khối ngoại bán ròng, thanh khoản sụt giảm tháng 9",
       "impact": "↓",
-      "note": "SHB giảm kịch sàn xuống 10.050 đồng/cổ phiếu, thấp hơn 20% so với giá ưu đãi 12.500 đồng. 63.712 cổ đông mua ưu đãi (434,3 triệu cổ phiếu) vẫn chưa được niêm yết bổ sung và giao dịch sau gần 5 tháng kể từ 27/5/2026."
+      "note": "Khối ngoại bán ròng 4.7 ngàn tỷ đồng trong tháng 9; ba chỉ số chính giảm điểm: VN-Index giảm 3,47% (1.768,62 điểm), VN Allshare giảm 4,36%, VN30 giảm 3,84%. Thanh khoản giảm 4,66% khối lượng và 5,33% giá trị so với tháng 8; tổng giá trị giao dịch bình quân 16.412 tỷ đồng/ngày."
     },
     {
-      "title": "Khối ngoại bán ròng 4.7 ngàn tỷ đồng, thanh khoản suy giảm",
-      "impact": "↓",
-      "note": "Tháng 9/2026, khối ngoại bán ròng hơn 4.7 ngàn tỷ đồng. Thanh khoản HOSE bình quân giảm 4,66% về khối lượng và giảm 5,33% về giá trị. Cả VN-Index, VN Allshare, VN30 đều giảm 3-4% trong tháng."
-    },
-    {
-      "title": "SASCO lợi nhuận tăng 62% nhờ hoạt động sân bay tốt",
+      "title": "SASCO: Lợi nhuận 9 tháng tăng 62%",
       "impact": "↑",
-      "note": "SASCO báo lãi trước thuế lũy kế 9 tháng đạt 660 tỷ đồng, tăng 62% so với cùng kỳ năm 2025, hoàn thành trên 80% kế hoạch năm 2026. Công ty chuẩn bị thành lập cơ sở kinh doanh tại sân bay Long Thành."
+      "note": "Lợi nhuận trước thuế lũy kế 9 tháng SASCO đạt 660 tỷ đồng, tăng 62% so với cùng kỳ năm 2025, hoàn thành trên 80% kế hoạch năm 2026. Doanh nghiệp chuẩn bị sẵn sàng thiết lập cơ sở kinh doanh tại sân bay Long Thành."
     },
     {
-      "title": "Nắng nóng tác động giá lương thực, rủi ro lạm phát",
-      "impact": "↓",
-      "note": "Nắng nóng kéo dài và hạn hán ảnh hưởng sản lượng cây trồng toàn cầu (Ghana, Bờ Biển Ngà chịu tác động). Nhiệt độ cao và thiếu nước gây sức ép lên chi phí chăn nuôi, có nguy cơ đẩy giá lương thực tăng và ảnh hưởng CPI."
-    },
-    {
-      "title": "Lãi suất cho vay nhà ở xã hội giảm xuống 6,5%/năm",
+      "title": "VinFast triển khai mạng lưới bán hàng tại Ấn Độ",
       "impact": "↑",
-      "note": "Lãi suất hỗ trợ cho người mua nhà ở xã hội giảm xuống 6,5%/năm (từ 7%/năm), thời gian ưu đãi 5 năm. Quy mô chương trình mở rộng thành 153.000 tỷ đồng (11 ngân hàng), giải ngân đạt 17.500 tỷ đồng tính đến 31/8/2026."
+      "note": "VinFast ký kết LOI với hơn 50 đại lý tại 15 bang Ấn Độ, triển khai hơn 50 showroom tại 34 thành phố gồm Delhi, Rajasthan, Punjab, Maharashtra, Gujarat, Karnataka, Telangana, Tamil Nadu, Kerala, Andhra Pradesh, West Bengal, Odisha. Giám đốc BĐ xác định Ấn Độ là thị trường quan trọng nhất trong tăng trưởng toàn cầu."
+    },
+    {
+      "title": "Thời tiết cực đoan tác động tới giá nông sản",
+      "impact": "↓",
+      "note": "Nắng nóng, hạn hán ảnh hưởng đến sản lượng cây trồng (cacao Ghana, Bờ Biển Ngà bất lợi năm 2024) và chi phí chăn nuôi, tạo áp lực tăng giá nông sản. Tác động chưa phản ánh rõ vào CPI do độ trễ truyền dẫn, nhưng là yếu tố rủi ro lạm phát ngắn hạn."
+    },
+    {
+      "title": "Lãi suất vay nhà ở xã hội ổn định 6,5%/năm",
+      "impact": "→",
+      "note": "Sau 6 lần điều chỉnh, lãi suất vay nhà ở xã hội ở mức 6,5%/năm cho người mua nhà (hưởng ưu đãi 5 năm, người dưới 35 tuổi 15 năm). Doanh số giải ngân 9 tháng đạt 17.500 tỷ đồng, tăng 9.950 tỷ đồng so với cuối năm 2025; chương trình có 11 ngân hàng thương mại tham gia, quy mô 153.000 tỷ đồng."
     }
   ]
 }
