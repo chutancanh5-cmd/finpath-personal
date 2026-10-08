@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "VN-Index giảm mạnh 14,42 điểm xuống 1,738.97 điểm với áp lực bán tăng vào các cổ phiếu ngân hàng và bất động sản; khối ngoại bán ròng 4.7 ngàn tỷ đồng trong tháng 9, thanh khoản sụt giảm 5.33%. Tuy nhiên, các tín hiệu tích cực từ SASCO (lợi nhuận +62%) và VinFast (mở rộng sang Ấn Độ) cho thấy doanh nghiệp vẫn tìm cơ hội tăng trưởng.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chứng kiến áp lực bán mạnh, VN-Index giảm 14,42 điểm về 1,738.97 điểm với sắc đỏ lan rộng, các cổ phiếu ngân hàng và bất động sản bị ép giá sâu. Khối ngoại bán ròng 4.7 ngàn tỷ đồng trong tháng 9 và thanh khoản HOSE sụt giảm 5.33%, cho thấy dòng vốn rút khỏi thị trường. Rủi ro lạm phát từ thời tiết cực đoan (nắng nóng, hạn hán) tác động đến giá nông sản, trong khi tín hiệu tích cực từ một số doanh nghiệp như SASCO và VinFast chưa đủ bù lại áp lực chung.",
   "top": [
     {
-      "title": "VN-Index giảm mạnh, cổ phiếu ngân hàng lao dốc",
+      "title": "VN-Index giảm mạnh, nhiều ngân hàng và bất động sản lao dốc",
       "impact": "↓",
-      "note": "VN-Index giảm 14,42 điểm xuống 1,738.97; ngân hàng chịu áp lực mạnh với SHB giảm sàn (+4% khối lượng), LPB giảm 3,21%, CTG giảm 1,85%, BID giảm 1,74%; VHM, VIC mất 3.85 điểm và 3.25 điểm trị số chỉ số. Tỷ lệ tăng/giảm 0,64/1, 33,2% cổ phiếu giảm từ 1% trở lên."
+      "note": "VN-Index giảm 14,42 điểm xuống 1,738.97 điểm, quay về mức ngày 2/10. Sắc đỏ lan rộng với 344 mã giảm, 20 mã giảm hết biên độ. Ngân hàng SHB giảm sàn với 3.9 triệu cp dư bán, LPB giảm 3.21%, CTG giảm 1.85%, BID giảm 1.74%. VHM giảm 3.38% lấy 3.85 điểm, VIC giảm 0.87% lấy 3.25 điểm từ VN-Index."
     },
     {
-      "title": "Khối ngoại bán ròng, thanh khoản sụt giảm tháng 9",
+      "title": "Khối ngoại bán ròng, thanh khoản HOSE sụt giảm tháng 9",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 4.7 ngàn tỷ đồng trong tháng 9; ba chỉ số chính giảm điểm: VN-Index giảm 3,47% (1.768,62 điểm), VN Allshare giảm 4,36%, VN30 giảm 3,84%. Thanh khoản giảm 4,66% khối lượng và 5,33% giá trị so với tháng 8; tổng giá trị giao dịch bình quân 16.412 tỷ đồng/ngày."
+      "note": "Khối ngoại bán ròng 4.7 ngàn tỷ đồng trong tháng 9. Thanh khoản HOSE sụt giảm 4.66% khối lượng và 5.33% giá trị so với tháng 8, tổng giá trị giao dịch bình quân 16.412 tỷ đồng/ngày. Ba chỉ số chính giảm điểm: VN-Index giảm 3.47%, VN Allshare giảm 4.36%, VN30 giảm 3.84%."
     },
     {
-      "title": "SASCO: Lợi nhuận 9 tháng tăng 62%",
+      "title": "SASCO: Lợi nhuận 9 tháng tăng 62%, chuẩn bị sân bay Long Thành",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế lũy kế 9 tháng SASCO đạt 660 tỷ đồng, tăng 62% so với cùng kỳ năm 2025, hoàn thành trên 80% kế hoạch năm 2026. Doanh nghiệp chuẩn bị sẵn sàng thiết lập cơ sở kinh doanh tại sân bay Long Thành."
+      "note": "Lợi nhuận trước thuế lũy kế 9 tháng SASCO đạt 660 tỷ đồng, tăng 62% so với cùng kỳ năm 2025, hoàn thành trên 80% kế hoạch năm 2026. Doanh nghiệp chuẩn bị sẵn sàng thiết lập cơ sở kinh doanh tại sân bay Long Thành để đón nhu cầu tăng."
     },
     {
-      "title": "VinFast triển khai mạng lưới bán hàng tại Ấn Độ",
+      "title": "VinFast ký LOI với 50+ đại lý xe máy điện tại Ấn Độ",
       "impact": "↑",
-      "note": "VinFast ký kết LOI với hơn 50 đại lý tại 15 bang Ấn Độ, triển khai hơn 50 showroom tại 34 thành phố gồm Delhi, Rajasthan, Punjab, Maharashtra, Gujarat, Karnataka, Telangana, Tamil Nadu, Kerala, Andhra Pradesh, West Bengal, Odisha. Giám đốc BĐ xác định Ấn Độ là thị trường quan trọng nhất trong tăng trưởng toàn cầu."
+      "note": "VinFast ký kết ý định thư hợp tác với hơn 50 đại lý tại 15 bang Ấn Độ, mở hơn 50 showroom tại 34 thành phố bao gồm Delhi NCR, Rajasthan, Punjab, Maharashtra, Gujarat, Karnataka, Telangana, Tamil Nadu, Kerala, Andhra Pradesh, West Bengal, Odisha. Ấn Độ là thị trường xe 2 bánh lớn nhất thế giới, tạo dư địa đáng kể cho quá trình điện hóa giao thông."
     },
     {
-      "title": "Thời tiết cực đoan tác động tới giá nông sản",
+      "title": "Nắng nóng, hạn hán tác động rủi ro giá nông sản và CPI",
       "impact": "↓",
-      "note": "Nắng nóng, hạn hán ảnh hưởng đến sản lượng cây trồng (cacao Ghana, Bờ Biển Ngà bất lợi năm 2024) và chi phí chăn nuôi, tạo áp lực tăng giá nông sản. Tác động chưa phản ánh rõ vào CPI do độ trễ truyền dẫn, nhưng là yếu tố rủi ro lạm phát ngắn hạn."
+      "note": "Nắng nóng kéo dài và hạn hán ảnh hưởng đến sản lượng cây trồng (cacao Ghana, Bờ Biển Ngà năm 2024) và chi phí chăn nuôi, tạo áp lực tăng giá nông sản. Mặc dù CPI phản ứng chậm do độ trễ truyền dẫn, nhưng đây là yếu tố rủi ro lạm phát ngắn hạn nếu chuỗi cung ứng bị gián đoạn."
     },
     {
-      "title": "Lãi suất vay nhà ở xã hội ổn định 6,5%/năm",
+      "title": "Tỉnh Lâm Đồng: GRDP 9 tháng tăng 8.51%, thấp hơn kịch bản",
       "impact": "→",
-      "note": "Sau 6 lần điều chỉnh, lãi suất vay nhà ở xã hội ở mức 6,5%/năm cho người mua nhà (hưởng ưu đãi 5 năm, người dưới 35 tuổi 15 năm). Doanh số giải ngân 9 tháng đạt 17.500 tỷ đồng, tăng 9.950 tỷ đồng so với cuối năm 2025; chương trình có 11 ngân hàng thương mại tham gia, quy mô 153.000 tỷ đồng."
+      "note": "GRDP 9 tháng tăng 8.51%, thấp hơn kịch bản đề ra 9.2%. Khu vực công nghiệp - xây dựng tăng 10.64%, dịch vụ tăng 9.49%, nông lâm thủy sản tăng 4.90%. Doanh thu dịch vụ tiêu dùng tăng 19.03%. Tỉnh tập trung tháo gỡ điểm nghẽn, đẩy nhanh giải ngân vốn đầu tư công trong quý IV."
     }
   ]
 }
