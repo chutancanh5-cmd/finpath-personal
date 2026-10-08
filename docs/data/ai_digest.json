@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-08",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay đối mặt với áp lực tiền tệ thắt chặt (NHNN hút ròng 39.000 tỷ đồng, lãi suất qua đêm giảm 2,2 điểm % về 0,6%) và sự phân hóa rõ rệt giữa các nhóm ngành, với ngân hàng/BĐS/chứng khoán yếu. Tuy nhiên, tín hiệu tích cực xuất hiện từ đầu tư khủng của Samsung vào bán dẫn Việt Nam (1,87 tỷ USD) và sức mạnh của VND (tăng 1,12% so USD), phản ánh niềm tin dài hạn. Rủi ro ngắn hạn nằm ở thanh khoản yếu (vòng quay chứng khoán giảm 50%) trong khi tăng trưởng GRDP Hà Nội 10,02% quý III ghi nhận động lực kinh tế. Cân cả lợi lẫn rủi ro, nhà đầu tư cần quan sát kỹ những tín hiệu điều chỉnh lãi suất và dòng tiền thị trường.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tháng 9 ghi nhận áp lực tiêu cực với thanh khoản giảm 5,33%, khối ngoại bán ròng 4,7 ngàn tỷ đồng, và tỷ suất vòng quay chứng khoán giảm 50%. Tuy nhiên, nền kinh tế vẫn có những tín hiệu tích cực từ FDI (Samsung rót 1,87 tỷ USD vào Thái Nguyên) và tăng trưởng kinh tế (GRDP Hà Nội tăng 10,02%). VND tăng giá 1,12% so với USD là dấu hiệu tích cực của quản lý tiền tệ.",
   "top": [
     {
-      "title": "Lãi suất liên ngân hàng giảm sâu, tiền tệ bị thắt chặt",
+      "title": "Thanh khoản sụt giảm, khối ngoại bán ròng tháng 9",
       "impact": "↓",
-      "note": "Lãi suất qua đêm (ON) giảm 2,2 điểm % từ 2,8%/năm xuống 0,6%/năm trong 3 phiên (5–7/10); NHNN hút ròng 39.000 tỷ đồng từ đầu tuần chỉ chào thầu 5.000 tỷ OMO với 1.547 tỷ trúng thầu. Sự thắt chặt rõ ràng này có thể hạn chế dòng tiền sẵn có cho thị trường chứng khoán."
+      "note": "Kết thúc tháng 9, VN-Index giảm 3,47% xuống 1.768,62 điểm, tổng giá trị giao dịch HOSE 328.242 tỷ đồng, giảm 5,33% so với tháng trước. Khối ngoại bán ròng hơn 4,7 ngàn tỷ đồng. Giá trị giao dịch bình quân giảm xuống 16.412 tỷ đồng/ngày."
     },
     {
-      "title": "Samsung rót 1,87 tỷ USD vào bán dẫn Thái Nguyên",
+      "title": "Samsung rót 1,87 tỷ USD vào Thái Nguyên sản xuất chip",
       "impact": "↑",
-      "note": "Samsung Electro-Mechanics sẽ đầu tư 1,87 tỷ USD (2.510 tỷ won) vào nhà máy Thái Nguyên từ nay đến 2028, nằm trong tổng 5 tỷ USD cho sản xuất chất nền FC-BGA dùng cho chip máy chủ AI, robot, xe thông minh. Khẳng định vai trò chiến lược của Việt Nam trong chuỗi cung ứng bán dẫn toàn cầu."
+      "note": "Samsung Electro-Mechanics sẽ rót khoảng 2.510 tỷ won (1,87 tỷ USD) vào chi nhánh ở Thái Nguyên để sản xuất chất nền FC-BGA dùng cho chip máy chủ AI. Tổng đầu tư từ nay đến 2028 là gần 5 tỷ USD cho Hàn Quốc và Việt Nam."
     },
     {
-      "title": "VN-Index phân hóa sáng, ngân hàng/BĐS/chứng khoán áp lực",
+      "title": "Lãi suất liên ngân hàng giảm mạnh 2,2 điểm %",
+      "impact": "→",
+      "note": "Lãi suất qua đêm (ON) giảm từ 2,8%/năm xuống 0,6%/năm trong 3 phiên. Ngân hàng Nhà nước hút ròng 39.000 tỷ đồng từ đầu tuần. Lãi suất kỳ hạn 1 tuần giảm xuống 2,3%/năm, kỳ hạn 2 tuần giảm xuống 3,8%/năm."
+    },
+    {
+      "title": "Tỷ suất vòng quay chứng khoán giảm 50%",
       "impact": "↓",
-      "note": "VN-Index sáng 8/10 giảm 3,22 điểm xuống 1.750,17 điểm, giá trị giao dịch 4.500 tỷ đồng. Nhóm ngân hàng, BĐS, chứng khoán, bán lẻ sắc đỏ; chỉ dầu khí, hóa chất, hạ tầng, thực phẩm tăng. Phân hóa theo ngành phản ánh tác động từ tiền tệ thắt chặt lên các nhóm dẫn động."
+      "note": "Tỷ lệ giữa giá trị giao dịch bình quân phiên và vốn hóa thị trường chỉ ở mức 0,16%, bằng khoảng một nửa so với cùng kỳ năm trước, mặc dù vốn hóa tăng gần 20%. Cho thấy dòng tiền giao dịch không theo kịp với quy mô thị trường."
     },
     {
-      "title": "Tỷ suất vòng quay giảm 50%, thanh khoản yếu kém",
-      "impact": "↓",
-      "note": "Tỷ suất vòng quay chứng khoán ở mức 0,16% vốn hóa, bằng một nửa so cùng kỳ năm trước dù vốn hóa tăng gần 20%. Giá trị giao dịch bình quân phiên không theo kịp tốc độ tăng của thị trường, cho thấy dòng tiền đang suy yếu rõ rệt."
-    },
-    {
-      "title": "VND tăng 1,12% so USD, sức mạnh tiền tệ trong bối cảnh USD mạnh",
+      "title": "VND tăng giá 1,12% so với USD",
       "impact": "↑",
-      "note": "VND tăng 1,12% so với USD trong khi DXY tăng hơn 4%, loạt đồng tiền châu Á giảm 2–7% (yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia, rupee Ấn Độ). Thành tích phản ánh nỗ lực quản lý tỷ giá hiệu quả của NHNN."
+      "note": "VND tăng khoảng 1,12% so với USD trong khi chỉ số DXY tăng 4% và loạt đồng tiền châu Á giảm 2–7% (yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia). Phản ánh kết quả quản lý tiền tệ của Ngân hàng Nhà nước."
     },
     {
-      "title": "Hà Nội GRDP 10,02% quý III, lần đầu đạt hai con số năm nay",
+      "title": "GRDP Hà Nội tăng 10,02% quý III",
       "impact": "↑",
-      "note": "GRDP Hà Nội quý III/2026 tăng 10,02%, lần đầu tiên trong năm đạt mục tiêu tăng trưởng hai con số và cao nhất trong 3 quý. Động lực từ các dự án hạ tầng và hoạt động xây dựng duy trì tốc độ tăng trưởng tích cực cho Thủ đô."
+      "note": "GRDP quý III-2026 của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt mức tăng trưởng hai con số và là mức tăng cao nhất trong ba quý. Thể hiện năng lực tăng trưởng bền vững của Thủ đô."
     }
   ]
 }
