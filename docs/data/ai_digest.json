@@ -2,37 +2,13 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam quay trở lại với tín hiệu hỗn hợp. Khối ngoại bán ròng 4,7 nghìn tỷ đồng trong tháng 9 khiến VN-Index giảm 3,47%, nhưng dự báo EPS toàn thị trường tăng 33% và đầu tư 1,87 tỷ USD từ Samsung vào sản xuất chip AI tại Việt Nam cho thấy cơ hội dài hạn. NHNN siết thanh khoản (hút 39 nghìn tỷ đồng từ đầu tuần, lãi suất ON xuống 0,6%), nhưng chính sách hỗ trợ nhà ở xã hội với lãi suất 6,5%/năm và GRDP Hà Nội đạt 10,02% phản ánh động lực kinh tế vẫn duy trì. Rủi ro ngắn hạn từ thanh khoản cần được cân nhắc với tiềm năng dài hạn từ ngoại giao kinh tế và chính sách kích thích.",
+  "summary_vi": "Lợi nhuận Q3 phân hóa mạnh: bất động sản +213,8% (21.134 tỷ), dầu khí +147,5% (13.183 tỷ), bán lẻ +94,9% (4.322 tỷ); EPS toàn thị trường tăng dự báo 33% nhờ giải ngân công 63%. Thanh khoản thị trường suy yếu tháng 9 (VN-Index -3,47%, khối ngoại bán 4,7 ngàn tỷ đồng, thanh khoản -5,33%), lãi suất trái phiếu BĐS 11,4% tạo áp lực nhu cầu. Samsung rót 1,87 tỷ USD cho Việt Nam sản xuất bán dẫn và chính sách nhà ở xã hội mở rộng (11 ngân hàng, lãi 6,5-7%) là tín hiệu tích cực, nhưng sự phân hóa lợi nhuận cùng yếu tố tài chính khó khăn gợi ý rủi ro ngắn hạn.",
   "top": [
-    {
-      "title": "Samsung đầu tư 1,87 tỷ USD sản xuất chip AI tại Việt Nam",
-      "impact": "↑",
-      "note": "Samsung Electro-Mechanics rót 1,87 tỷ USD (2,510 tỷ won) vào nhà máy ở Việt Nam, nằm trong kế hoạch tổng cộng ~5 tỷ USD cho sản xuất chất nền FC-BGA phục vụ máy chủ AI và HPC tại VN + Hàn Quốc đến 2028. Khẳng định vị thế của Việt Nam trong mạng lưới sản xuất bán dẫn toàn cầu."
-    },
-    {
-      "title": "Dự báo EPS toàn thị trường tăng 33% năm 2026",
-      "impact": "↑",
-      "note": "EPS toàn thị trường dự báo tăng 33% (loại trừ đột biến VIC thì tăng 17%), với động lực từ bất động sản (+79%), nguyên vật liệu (+44%) và hàng tiêu dùng (+27%). Giải ngân đầu tư công đạt 63% kế hoạch tính đến hết Q3, dư địa tăng tốc trong quý IV còn lớn."
-    },
-    {
-      "title": "Thanh khoản HOSE sụt giảm, khối ngoại bán ròng 4,7 nghìn tỷ tháng 9",
-      "impact": "↓",
-      "note": "VN-Index giảm 3,47% về 1.768,62 điểm, VN30 giảm 3,84%, khối ngoại bán ròng hơn 4,7 nghìn tỷ đồng. Giao dịch bình quân giảm 5,33% xuống 16.412 tỷ đồng/ngày. Thiếu hỗ trợ từ nhà đầu tư ngoại gây áp lực lên thị trường ngắn hạn."
-    },
-    {
-      "title": "NHNN siết thanh khoản: lãi suất liên ngân hàng giảm sâu, hút 39 nghìn tỷ",
-      "impact": "↓",
-      "note": "Lãi suất qua đêm (ON) giảm từ 2,8% xuống 0,6%/năm trong 3 phiên, NHNN hút ròng thanh khoản 39 nghìn tỷ đồng từ đầu tuần. Động thái siết thanh khoản tạo áp lực lên lãi suất thị trường và khả năng tăng trưởng tín dụng."
-    },
-    {
-      "title": "Hà Nội đạt GRDP 10,02% quý 3/2026, lần đầu vượt 10%",
-      "impact": "↑",
-      "note": "GRDP quý III/2026 của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt tăng trưởng hai con số và cao nhất trong ba quý. Phản ánh động lực kinh tế của khu vực lớn nhất nước vẫn duy trì tốt."
-    },
-    {
-      "title": "Chương trình vay nhà ở xã hội quy mô 153 nghìn tỷ, lãi suất 6,5%/năm",
-      "impact": "↑",
-      "note": "Chương trình huy động với 11 ngân hàng, quy mô 153 nghìn tỷ đồng, giải ngân đạt 17,5 nghìn tỷ (↑9.950 tỷ so với cuối 2025). Lãi suất 6,5%/năm người mua, 7%/năm chủ đầu tư, ưu đãi 5-15 năm. Hỗ trợ phục hồi thị trường bất động sản."
-    }
+    {"title": "Bất động sản, dầu khí, bán lẻ tăng trưởng mạnh Q3", "impact": "↑", "note": "Lợi nhuận Q3 dự báo bất động sản dân cư/thương mại 21.134 tỷ đồng tăng 213,8%, dầu khí 13.183 tỷ đồng tăng 147,5%, bán lẻ 4.322 tỷ đồng tăng 94,9%; nhờ dự án bàn giao VHM, giá dầu cao và nhu cầu công nghệ tăng."},
+    {"title": "EPS toàn thị trường dự báo tăng 33% năm 2026", "impact": "↑", "note": "Tăng trưởng EPS 33% (hoặc 17% nếu loại VIC), với BĐS +79%, Nguyên vật liệu +44%, Hàng tiêu dùng thiết yếu +27%; giải ngân đầu tư công đạt 63% kế hoạch quý 3."},
+    {"title": "Samsung đầu tư 1,87 tỷ USD cho sản xuất bán dẫn Việt Nam", "impact": "↑", "note": "Samsung Electro-Mechanics rót 1,87 tỷ USD cho chi nhánh Việt Nam sản xuất chất nền FC-BGA dành cho máy chủ AI, robot, xe thông minh; tổng đầu tư 5 tỷ USD đến 2028."},
+    {"title": "Thanh khoản HOSE giảm, khối ngoại bán ròng 4,7 ngàn tỷ", "impact": "↓", "note": "VN-Index giảm 3,47% tháng 9, VN Allshare -4,36%, VN30 -3,84%; khối ngoại bán ròng 4,7 ngàn tỷ đồng, thanh khoản giảm 5,33% về giá trị, chỉ 9/16 ngành tăng."},
+    {"title": "Trái phiếu bất động sản phát hành 149,5 nghìn tỷ, lãi suất 11,4%", "impact": "↓", "note": "Giá trị phát hành 149,5 nghìn tỷ đồng trong 9 tháng 2026 tăng 126% cùng kỳ, lãi suất 11,4% tăng 110 bps; nhu cầu suy yếu do lãi suất cao, tỷ lệ hấp thụ giảm 73%."},
+    {"title": "Nhà ở xã hội lãi suất 6,5%, giải ngân 17.500 tỷ", "impact": "↑", "note": "Lãi suất 6,5%/năm (người mua) và 7%/năm (chủ đầu tư); giải ngân 17.500 tỷ đồng tăng 9.950 tỷ so với cuối 2025, quy mô 11 ngân hàng với 153.000 tỷ đồng."}
   ]
 }
