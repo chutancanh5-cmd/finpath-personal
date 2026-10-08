@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-08",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Trong nước ghi nhận tín hiệu tích cực khi Hà Nội đạt GRDP 10,02% quý III (cao nhất 3 quý năm 2026) và Chính phủ ưu tiên tăng trưởng 2 con số với yêu cầu 9 địa phương tăng trên 15% quý IV. Tuy nhiên, áp lực tiêu cực từ nước ngoài tăng mạnh: Fed phát tín hiệu tăng lãi suất thêm, lợi suất trái phiếu Mỹ 10 năm lên 5,365% (cao nhất từ 2002), RBI Ấn Độ tăng lãi suất lần đầu sau 3 năm. Thị trường chứng khoán VN tiếp tục rung lắc khi khối ngoại bán ròng phiên thứ 4 liên tiếp (934 tỷ đồng), dòng tiền còn yếu giữa bối cảnh lãi suất toàn cầu thắt chặt.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Lạm phát toàn cầu tăng khi Fed phát tín hiệu còn tăng lãi suất và RBI tăng lãi suất lần đầu sau 3 năm, đẩy khối ngoại bán ròng 934 tỷ đồng phiên 7/10 (phiên thứ 4 liên tiếp). Thanh khoản yếu với tỷ suất vòng quay chỉ 0,16% (50% so với cùng kỳ 2025) tạo áp lực trên định giá cổ phiếu ngắn hạn. Tuy nhiên, chính phủ kiên định mục tiêu tăng trưởng "2 con số" với 9 địa phương cần tăng trên 15% quý IV, cùng kết quả GRDP tích cực của Hà Nội (10,02%) cho thấy nền tảng kinh tế vẫn sức mạnh, mở ra cơ hội tích lũy.",
   "top": [
     {
-      "title": "Fed phát tín hiệu tăng lãi suất, lợi suất Mỹ lên 5,365% cao nhất từ 2002",
+      "title": "Chứng khoán Mỹ trượt dốc, Fed phát tín hiệu còn tăng lãi suất",
       "impact": "↓",
-      "note": "Chỉ số Dow Jones giảm 0,66% mất 341,41 điểm, S&P 500 giảm 0,22%, Nasdaq giảm 0,22%. Lợi suất trái phiếu Mỹ 10 năm tăng lên 5,365% (cao nhất kể từ tháng 4/2002), kỳ hạn 30 năm tăng 5,732%, gây áp lực bán trên tài sản rủi ro toàn cầu."
+      "note": "Chỉ số Dow Jones giảm 0,66%, S&P 500 giảm 0,22%, Nasdaq giảm 0,22% ngày 7/10. Lợi suất trái phiếu kho bạc 10 năm leo thang lên 5,365% (mức cao nhất từ tháng 4/2002) khi Fed phát tín hiệu còn tăng lãi suất trong năm. Sức ép này gây tác động tiêu cực đến thị trường chứng khoán Việt Nam qua rút tiền quốc tế."
     },
     {
-      "title": "Khối ngoại bán ròng phiên thứ 4 liên tiếp 934 tỷ đồng",
+      "title": "Áp lực lạm phát khiến Ấn Độ tăng lãi suất lần đầu sau 3 năm",
       "impact": "↓",
-      "note": "Ngày 7/10, khối ngoại tiếp tục bán ròng 934 tỷ đồng phiên thứ 4 liên tiếp. Kỳ vọng về dòng tiền quốc tế sau nâng hạng thị trường phai nhạt khi áp lực lãi suất toàn cầu tăng."
+      "note": "Ngân hàng Trung ương Ấn Độ (RBI) tăng lãi suất lần đầu từ 2023. CPI Ấn Độ 4,8% trong tháng 8 (cao hơn mục tiêu 4%). Dự báo Goldman Sachs cho thêm 4 lần tăng lãi suất nữa với tổng 1 điểm phần trăm đến cuối Q1/2027. Lạm phát toàn cầu tăng do chi phí năng lượng, giá lương thực leo thang."
     },
     {
-      "title": "RBI Ấn Độ tăng lãi suất lần đầu sau 3 năm, dự báo 4 lần tăng nữa",
+      "title": "Khối ngoại bán ròng 934 tỷ đồng phiên thứ 4 liên tiếp",
       "impact": "↓",
-      "note": "Lạm phát tiêu dùng Ấn Độ đạt 4,8% tháng 8 (vượt mục tiêu 4%). Goldman Sachs dự báo thêm 4 đợt tăng lãi suất với tổng 1 điểm phần trăm từ nay đến cuối nửa đầu 2027 do áp lực lạm phát từ năng lượng và lương thực."
+      "note": "Ngày 7/10, khối ngoại tiếp tục bán ròng phiên thứ 4 liên tiếp với giá trị hơn 934 tỷ đồng. Dòng tiền quốc tế rút khỏi thị trường Việt Nam khi Fed tăng lãi suất làm tăng sức hấp dẫn của tài sản Mỹ, đẩy VN-Index xuống."
     },
     {
-      "title": "Hà Nội đạt GRDP 10,02% quý III, lần đầu \"2 con số\" năm 2026",
-      "impact": "↑",
-      "note": "Quý III-2026 Hà Nội tăng 10,02%, lần đầu tiên đạt mức tăng trưởng hai con số và cao nhất trong ba quý, cho thấy động lực tăng trưởng từ Thủ đô được mở rộng."
+      "title": "Tỷ suất vòng quay chứng khoán giảm xuống 0,16%",
+      "impact": "↓",
+      "note": "Tỷ lệ giữa giá trị giao dịch khớp lệnh bình quân phiên và vốn hóa thị trường ở mức 0,16%, chỉ bằng khoảng 50% so với cùng kỳ năm trước. Vốn hóa tăng gần 20% nhưng dòng tiền giao dịch không tăng tương xứng, phản ánh thanh khoản thị trường suy giảm."
     },
     {
-      "title": "Chương trình nhà ở xã hội: 153.000 tỷ quy mô, 11 ngân hàng, giải ngân 17.500 tỷ",
+      "title": "Chính phủ yêu cầu 9 địa phương tăng trưởng trên 15% quý IV",
       "impact": "↑",
-      "note": "Quy mô chương trình mở rộng từ 120.000 tỷ lên 153.000 tỷ đồng, 11 ngân hàng tham gia. Giải ngân đạt 17.500 tỷ đến 31/8 (tăng 9.950 tỷ so với cuối 2025), lãi suất 6,5%/năm cho người mua, 7%/năm cho chủ đầu tư."
+      "note": "Chính phủ đặt kịch bản tăng trưởng quý IV, 9 tỉnh/TP cần tăng trưởng trên 15%, cao nhất là Lạng Sơn 18,41%. Chính phủ kiên định mục tiêu tăng trưởng năm 2026 đạt "2 con số", hỗ trợ doanh nghiệp, việc làm và tiêu dùng."
     },
     {
-      "title": "Chính phủ yêu cầu 9 địa phương tăng trưởng từ 15% quý IV",
+      "title": "Hà Nội đạt GRDP 10,02% quý III, cao nhất 3 quý",
       "impact": "↑",
-      "note": "Chính phủ đặt kịch bản quý IV cho 9 tỉnh thành cần đạt từ 15% trở lên, cao nhất là Lạng Sơn 18,41%. Mục tiêu toàn quốc phấn đấu tăng trưởng 2 con số năm 2026, giữ vững ổn định vĩ mô."
+      "note": "Hà Nội ghi nhận GRDP quý III-2026 tăng 10,02%, lần đầu tiên trong năm đạt tăng trưởng hai con số và mức tăng cao nhất trong ba quý. Thủ đô có khả năng hoàn thành mục tiêu 11% toàn năm, khơi dậy tiêu dùng và đầu tư địa phương."
     }
   ]
 }
