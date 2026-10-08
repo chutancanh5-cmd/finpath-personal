@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-08",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực từ các yếu tố vĩ mô: Fed phát tín hiệu tăng lãi suất tiếp tục làm lợi suất kho bạc Mỹ lên 5,286%, khối ngoại bán ròng phiên thứ 4 liên tiếp với 934 tỷ, và thanh khoản nội địa suy yếu (tỷ suất vòng quay chỉ 0,16%). Tuy nhiên, đồng VND tăng 1,12% so với USD, GRDP Hà Nội đạt 10,02% lần đầu tiên hai con số, và chương trình nhà ở xã hội giải ngân 17.500 tỷ cho thấy nền kinh tế duy trì động lực. Áp lực lạm phát toàn cầu (Ấn Độ tăng lãi suất lên 4,8%) là rủi ro ngắn hạn cần chú ý.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế Việt Nam ghi nhận những điểm sáng với VND tăng 1,12% so USD nhờ quản lý chính sách tiền tệ hiệu quả, Hà Nội đạt GRDP 10,02% quý III (lần đầu con số), và lãi suất nhà ở xã hội ở mức 6,5%/năm hỗ trợ phát triển bất động sản. Tuy nhiên, rủi ro đến từ áp lực lạm phát ẩn hiện (giá lương thực tăng từ nắng nóng, CPI chưa phản ánh đầy đủ) và căng thẳng lãi suất toàn cầu (RBI tăng lãi suất, rủi ro tăng thêm từ Fed). Thanh khoản thị trường chứng khoán suy yếu (turnover 0,16%, giảm 50%) tuy vốn hóa tăng 20%, phản ánh sự thận trọng của nhà đầu tư.",
   "top": [
     {
-      "title": "Fed tín hiệu thắt chặt, lợi suất kho bạc tăng 5,286%",
-      "impact": "↓",
-      "note": "Lợi suất trái phiếu kho bạc Mỹ 10 năm tăng lên 5,286% (cao nhất kể từ tháng 4/2002). Chứng khoán Mỹ giảm: Dow Jones -0,66%, S&P 500 -0,22%, Nasdaq -0,22%. Fed phát tín hiệu còn tăng lãi suất trong năm, tạo áp lực lên dòng vốn và tâm lý nhà đầu tư trên toàn cầu."
-    },
-    {
-      "title": "Khối ngoại bán ròng phiên thứ 4 liên tiếp, 934 tỷ",
-      "impact": "↓",
-      "note": "Phiên 7/10, khối ngoại tiếp tục bán ròng với giá trị 934 tỷ đồng. Đây là phiên bán thứ 4 liên tiếp, phản ánh sự rút chân của nhà đầu tư quốc tế khỏi thị trường Việt Nam."
-    },
-    {
-      "title": "VND tăng giá 1,12% so với USD",
+      "title": "VND tăng 1,12%, đánh bật các đồng tiền châu Á",
       "impact": "↑",
-      "note": "VND tăng 1,12% so với USD trong khi DXY tăng hơn 4%, là đơn vị tiền tệ duy nhất tăng giá. Nhiều đồng tiền châu Á giảm 2-7% (yen Nhật giảm, ringgit Malaysia giảm, peso Philippines giảm, rupiah Indonesia giảm, rupee Ấn Độ giảm). Kết quả cho thấy hiệu quả quản lý tỷ giá của NHNN."
+      "note": "VND tăng 1,12% so USD trong bối cảnh chỉ số DXY tăng hơn 4%, trong khi yen Nhật, ringgit Malaysia, peso Philippines, rupiah Indonesia, rupee Ấn Độ, euro, franc Thụy Sĩ, bảng Anh đều giảm 2-7%. Phản ánh hiệu quả quản lý tỷ giá của NHNN, hỗ trợ cạnh tranh xuất nhập khẩu."
     },
     {
-      "title": "Thanh khoản thị trường giảm mạnh, tỷ suất vòng quay 0,16%",
-      "impact": "↓",
-      "note": "Tỷ suất vòng quay chứng khoán ở mức 0,16%, chỉ bằng khoảng 50% so với cùng kỳ năm trước, dù vốn hóa tăng 20%. Dòng tiền giao dịch yếu phản ánh tâm lý nhà đầu tư thận trọng."
-    },
-    {
-      "title": "GRDP Hà Nội tăng 10,02%, lần đầu hai con số",
+      "title": "Hà Nội GRDP 10,02%, lần đầu đạt con số trong năm",
       "impact": "↑",
-      "note": "GRDP quý III-2026 Hà Nội ước tăng 10,02%, lần đầu trong năm đạt mức tăng trưởng hai con số và cao nhất trong ba quý. Dấu hiệu tích cực cho năng lực tăng trưởng nền kinh tế Thủ đô."
+      "note": "GRDP quý III-2026 tăng 10,02%, mức cao nhất 3 quý và lần đầu tiên Hà Nội đạt tăng trưởng hai con số trong năm. Cho thấy đà tăng trưởng mạnh mẽ từ đầu tư công và hoạt động kinh tế chủ chốt tại Thủ đô."
     },
     {
-      "title": "RBI tăng lãi suất lần đầu 3 năm, lạm phát 4,8%",
+      "title": "RBI tăng lãi suất, lạm phát Ấn Độ 4,8%, dự báo thêm 4 đợt tăng",
       "impact": "↓",
-      "note": "Ngân hàng Trung ương Ấn Độ tăng lãi suất lần đầu kể từ 2023. Lạm phát giá tiêu dùng hàng năm 4,8%, cao hơn mục tiêu 4%. Dự báo thêm 4 đợt tăng lãi suất nữa đến cuối 2026/đầu 2027, áp lực lạm phát toàn cầu tăng từ giá năng lượng và lương thực."
+      "note": "RBI tăng lãi suất lần đầu sau 3 năm, lạm phát giá tiêu dùng Ấn Độ 4,8% (tháng 8) cao hơn mục tiêu 4%. Goldman Sachs dự báo thêm 4 đợt tăng tổng 1% đến cuối Q2/2027 do giá năng lượng và lương thực leo thang, tạo áp lực lãi suất toàn cầu ảnh hưởng đến thị trường mới nổi."
+    },
+    {
+      "title": "Nắng nóng, hạn hán kéo giá lương thực tăng, CPI chưa phản ánh",
+      "impact": "↓",
+      "note": "Nhiệt độ cao, hạn hán làm sản lượng cây trồng giảm, chi phí chăn nuôi tăng, đẩy giá lương thực lên. Tuy nhiên CPI chưa phản ánh đầy đủ, tiềm ẩn rủi ro lạm phát bùng phát mạnh hơn khi lễ Tết hoặc trong những tháng tới."
+    },
+    {
+      "title": "Lãi suất nhà ở xã hội 6,5%/năm, giải ngân 17.500 tỷ đồng",
+      "impact": "↑",
+      "note": "Sau 6 lần điều chỉnh, lãi suất nhà ở xã hội ở mức 6,5%/năm (người mua) và 7%/năm (chủ đầu tư). Giải ngân tích lũy 17.500 tỷ đồng đến 31/8/2026, tăng 9.950 tỷ so cuối 2025, quy mô chương trình 153.000 tỷ với 11 ngân hàng tham gia."
+    },
+    {
+      "title": "Giới đầu tư lo lãi suất tăng, 37% coi là rủi ro lớn nhất",
+      "impact": "→",
+      "note": "Khảo sát Deutsche Bank: 37% nhà đầu tư cho lãi suất/lợi suất trái phiếu tăng là rủi ro lớn nhất cho tăng trưởng, 23% lo lạm phát, 17% lo AI. 73% thấy châu Á ổn định nhất, nhưng 54% muốn tăng phân bổ vào Mỹ. Cho thấy sự thận trọng về triển vọng lãi suất."
     }
   ]
 }
