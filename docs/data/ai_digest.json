@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán VN chịu áp lực kép từ Fed còn tăng lãi suất và khối ngoại bán ròng phiên thứ 4 liên tiếp (934 tỷ đồng). Tuy vậy, tín hiệu tích cực từ Hà Nội với GRDP quý III đạt 10,02% và chính sách tăng trưởng của Chính phủ cho thấy nền tảng kinh tế vẫn ổn định. Rủi ro trong ngành chứng khoán (EVS) và áp lực lãi suất toàn cầu cần theo dõi chặt, nhưng triển vọng lợi nhuận doanh nghiệp quý cuối năm vẫn hỗ trợ khôi phục ngắn hạn.",
+  "summary_vi": "Áp lực lãi suất toàn cầu tăng khi Fed phát tín hiệu còn tăng lãi suất (lợi suất 10 năm Mỹ chạm 5,365%, cao nhất từ 4/2002) và Ấn Độ bắt đầu chu kỳ tăng lãi suất lần đầu sau 3 năm, gây sức ép lên thị trường Việt Nam khi khối ngoại bán ròng phiên thứ 4 liên tiếp (934 tỷ đồng). Tuy vậy, chính sách trong nước hỗ trợ tích cực: Hà Nội đạt GRDP quý III 10,02% (lần đầu \"2 con số\"), Chính phủ yêu cầu 9 địa phương tăng trưởng từ 15%, và chương trình nhà ở xã hội mở rộng quy mô lên 153.000 tỷ đồng, tạo cân bằng giữa rủi ro toàn cầu và hỗ trợ nội địa.",
   "top": [
     {
-      "title": "Fed phát tín hiệu còn tăng lãi suất, chứng khoán Mỹ trượt dốc",
+      "title": "Fed phát tín hiệu còn tăng lãi suất, lợi suất Mỹ chạm cao nhất 24 năm",
       "impact": "↓",
-      "note": "Lợi suất trái phiếu 10 năm Mỹ tăng lên 5,286%, Dow Jones giảm 0,66%, S&P 500 giảm 0,22%, Nasdaq giảm 0,22%. Áp lực tiền tệ toàn cầu tăng ảnh hưởng trực tiếp đến dòng vốn và tâm lý nhà đầu tư TTCK VN."
+      "note": "Chỉ số Dow Jones giảm 0,66%, S&P 500 giảm 0,22%, Nasdaq giảm 0,22%. Lợi suất trái phiếu kho bạc Mỹ 10 năm tăng lên 5,365%, cao nhất từ tháng 4/2002; kỳ hạn 30 năm tăng 5,732%. Fed phát tín hiệu còn tăng lãi suất trong năm 2026, gây sức ép lên các tài sản rủi ro toàn cầu bao gồm cổ phiếu Việt Nam."
     },
     {
-      "title": "Hà Nội đạt GRDP 10,02% quý III, lần đầu tăng trưởng hai con số",
+      "title": "Khối ngoại bán ròng 934 tỷ phiên thứ 4 liên tiếp, kỳ vọng nâng hạng phai nhạt",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 934 tỷ đồng trong phiên 07/10, tiếp tục xu hướng bán ròng 4 phiên liên tiếp. Kỳ vọng thị trường về dòng tiền quốc tế sau nâng hạng FTSE không được thực hiện. PNJ bị bán mạnh nhất với 399 tỷ đồng bán ròng do khủng hoảng niềm tin trong thị trường kim cương."
+    },
+    {
+      "title": "Ấn Độ tăng lãi suất lần đầu sau 3 năm, dự báo 4 lần tăng nữa",
+      "impact": "↓",
+      "note": "RBI tăng lãi suất lần đầu kể từ năm 2023 do áp lực lạm phát, với lạm phát tiêu dùng 4,8% tháng 8, cao hơn mục tiêu 4%. Dự báo Goldman Sachs: thêm 4 đợt tăng lãi suất với tổng 1 điểm phần trăm từ nay đến cuối nửa đầu 2027, phản ánh áp lực lạm phát toàn cầu từ năng lượng và lương thực."
+    },
+    {
+      "title": "Hà Nội đạt GRDP 10,02% quý III, lần đầu đạt \"2 con số\" trong năm",
       "impact": "↑",
-      "note": "GRDP quý III-2026 ước tăng 10,02%, là mức tăng cao nhất trong ba quý năm 2026. Tín hiệu khôi phục kinh tế mạnh mẽ, hỗ trợ lợi nhuận doanh nghiệp trong quý cuối năm."
+      "note": "GRDP quý III-2026 của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt mức tăng trưởng hai con số và là mức tăng cao nhất trong ba quý, phản ánh đà phục hồi kinh tế tại Thủ đô."
     },
     {
-      "title": "Ấn Độ tăng lãi suất lần đầu sau 3 năm, lạm phát áp lực",
-      "impact": "↓",
-      "note": "RBI tăng lãi suất lần đầu kể từ 2023 do lạm phát 4,8% cao hơn mục tiêu 4%. Goldman Sachs dự báo 4 đợt tăng lãi suất nữa đến Q1 2027. Áp lực lãi suất toàn cầu gia tăng làm khó khăn cho tỷ giá VND."
+      "title": "Chương trình nhà ở xã hội mở rộng quy mô 153.000 tỷ đồng, giải ngân 17.500 tỷ",
+      "impact": "↑",
+      "note": "Quy mô chương trình cho vay nhà ở xã hội mở rộng từ 120.000 tỷ lên 153.000 tỷ đồng, 11 ngân hàng thương mại tham gia. Giải ngân đạt 17.500 tỷ đồng đến 31/8, tăng 9.950 tỷ so với cuối năm 2025. Lãi suất ưu đãi 6,5%/năm cho người mua, 7%/năm cho chủ đầu tư."
     },
     {
-      "title": "Khối ngoại bán ròng phiên thứ 4 liên tiếp, PNJ bị xả mạnh",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 934 tỷ đồng, trong đó PNJ bị bán ròng 399 tỷ (gấp 3,6 lần mã khác). Kỳ vọng thu hút dòng tiền quốc tế sau nâng hạng dần phai nhạt, giảm niềm tin thị trường."
-    },
-    {
-      "title": "Chứng khoán EVS tái cơ cấu, kéo dài khoản phải thu 519 tỷ",
-      "impact": "↓",
-      "note": "EVS trình cổ đông gia hạn khoản phải thu gần 519 tỷ đồng đối với Tiến Thành đến 30/06/2027. Phản ánh rủi ro tín dụng trong ngành chứng khoán, cảnh báo về chất lượng tài sản của một số công ty."
-    },
-    {
-      "title": "Giá vàng xuống mốc thấp 2 tháng, USD Index tăng 0,4%",
-      "impact": "↓",
-      "note": "Giá vàng ngay New York 4.111,9 USD/oz giảm 1,3%, USD Index tăng 0,4% lên 102,25 điểm (gần mức đỉnh 17 tháng). Sức ép từ USD mạnh làm áp lực lên tài sản an toàn, tâm lý nhà đầu tư thêm dè dặt."
+      "title": "Chính phủ yêu cầu 9 địa phương tăng trưởng từ 15% trong quý IV",
+      "impact": "↑",
+      "note": "Chính phủ đặt kịch bản tăng trưởng quý IV cho 9 tỉnh thành cần đạt từ 15% trở lên, cao nhất là Lạng Sơn 18,41%. Mục tiêu toàn quốc phấn đấu tăng trưởng năm 2026 đạt \"2 con số\", giữ vững ổn định vĩ mô và tạo việc làm."
     }
   ]
 }
