@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tháng 9 ghi nhận sức ép: thanh khoản giảm 5,33%, khối ngoại bán ròng 4,7 ngàn tỷ đồng, VN-Index giảm 3,47%; bất động sản yếu đi khi nhu cầu chỉ đạt 73% tỷ lệ hấp thụ mặc dù phát hành trái phiếu tăng 126%. Tuy nhiên, yếu tố kinh tế vĩ mô khích lệ: Samsung đầu tư 1,87 tỷ USD vào sản xuất bán dẫn tại Thái Nguyên, EPS dự báo tăng 33% trong 2026, lãi suất liên ngân hàng hạ sâu còn 0,6%, GRDP Hà Nội tăng 10,02% quý III.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam quay trở lại với tín hiệu hỗn hợp. Khối ngoại bán ròng 4,7 nghìn tỷ đồng trong tháng 9 khiến VN-Index giảm 3,47%, nhưng dự báo EPS toàn thị trường tăng 33% và đầu tư 1,87 tỷ USD từ Samsung vào sản xuất chip AI tại Việt Nam cho thấy cơ hội dài hạn. NHNN siết thanh khoản (hút 39 nghìn tỷ đồng từ đầu tuần, lãi suất ON xuống 0,6%), nhưng chính sách hỗ trợ nhà ở xã hội với lãi suất 6,5%/năm và GRDP Hà Nội đạt 10,02% phản ánh động lực kinh tế vẫn duy trì. Rủi ro ngắn hạn từ thanh khoản cần được cân nhắc với tiềm năng dài hạn từ ngoại giao kinh tế và chính sách kích thích.",
   "top": [
     {
-      "title": "Thanh khoản HOSE sụt giảm, khối ngoại bán ròng 4,7 ngàn tỷ",
+      "title": "Samsung đầu tư 1,87 tỷ USD sản xuất chip AI tại Việt Nam",
+      "impact": "↑",
+      "note": "Samsung Electro-Mechanics rót 1,87 tỷ USD (2,510 tỷ won) vào nhà máy ở Việt Nam, nằm trong kế hoạch tổng cộng ~5 tỷ USD cho sản xuất chất nền FC-BGA phục vụ máy chủ AI và HPC tại VN + Hàn Quốc đến 2028. Khẳng định vị thế của Việt Nam trong mạng lưới sản xuất bán dẫn toàn cầu."
+    },
+    {
+      "title": "Dự báo EPS toàn thị trường tăng 33% năm 2026",
+      "impact": "↑",
+      "note": "EPS toàn thị trường dự báo tăng 33% (loại trừ đột biến VIC thì tăng 17%), với động lực từ bất động sản (+79%), nguyên vật liệu (+44%) và hàng tiêu dùng (+27%). Giải ngân đầu tư công đạt 63% kế hoạch tính đến hết Q3, dư địa tăng tốc trong quý IV còn lớn."
+    },
+    {
+      "title": "Thanh khoản HOSE sụt giảm, khối ngoại bán ròng 4,7 nghìn tỷ tháng 9",
       "impact": "↓",
-      "note": "Tháng 9/2026, VN-Index giảm 3,47% xuống 1.768,62 điểm, VN30 giảm 3,84%, tổng giá trị giao dịch 328.242 tỷ đồng giảm 5,33%, giao dịch bình quân 16.412 tỷ đồng/ngày. Khối ngoại bán ròng hơn 4.700 tỷ đồng trong tháng."
+      "note": "VN-Index giảm 3,47% về 1.768,62 điểm, VN30 giảm 3,84%, khối ngoại bán ròng hơn 4,7 nghìn tỷ đồng. Giao dịch bình quân giảm 5,33% xuống 16.412 tỷ đồng/ngày. Thiếu hỗ trợ từ nhà đầu tư ngoại gây áp lực lên thị trường ngắn hạn."
     },
     {
-      "title": "Samsung đầu tư 1,87 tỷ USD sản xuất FC-BGA tại Thái Nguyên",
-      "impact": "↑",
-      "note": "Samsung Electro-Mechanics sẽ rót 2.510 tỷ won (1,87 tỷ USD) vào nhà máy tại Việt Nam giai đoạn 2026-2028, sản xuất chất nền FC-BGA cho chip máy chủ AI, robot và xe thông minh. Tổng đầu tư toàn khu vực (Hàn Quốc + Việt Nam) đạt gần 5 tỷ USD."
-    },
-    {
-      "title": "Dự báo EPS tăng 33% năm 2026, loại trừ VIC tăng 17%",
-      "impact": "↑",
-      "note": "Bất động sản +79%, nguyên vật liệu +44%, hàng tiêu dùng thiết yếu +27% so với cùng kỳ. Tăng trưởng được hỗ trợ bởi giải ngân đầu tư công đạt 63% kế hoạch hết quý 3, doanh nghiệp nhà nước gia tốc, và dòng FDI ổn định."
-    },
-    {
-      "title": "Bất động sản: Phát hành trái phiếu tăng 126% nhưng nhu cầu yếu",
+      "title": "NHNN siết thanh khoản: lãi suất liên ngân hàng giảm sâu, hút 39 nghìn tỷ",
       "impact": "↓",
-      "note": "9 tháng 2026, phát hành trái phiếu bất động sản đạt 149,5 nghìn tỷ đồng (+126% YoY), lãi suất bình quân 11,4%. Tuy nguồn cung căn hộ tại Hà Nội-TP.HCM tăng 33%, nhu cầu suy yếu: tỷ lệ hấp thụ Q2/2026 chỉ 73% do lãi suất vay cao ở mức cao."
+      "note": "Lãi suất qua đêm (ON) giảm từ 2,8% xuống 0,6%/năm trong 3 phiên, NHNN hút ròng thanh khoản 39 nghìn tỷ đồng từ đầu tuần. Động thái siết thanh khoản tạo áp lực lên lãi suất thị trường và khả năng tăng trưởng tín dụng."
     },
     {
-      "title": "Lãi suất liên ngân hàng giảm sâu từ 2,8% xuống 0,6%",
-      "impact": "→",
-      "note": "Lãi suất qua đêm (ON) giảm 2,2 điểm % trong 3 phiên: 2,8% (cuối tuần) → 2% (5/10) → 1% (6/10) → 0,6% (7/10). NHNN hút ròng 39.000 tỷ đồng từ đầu tuần, kỳ hạn 1 tuần xuống 2,3%, 2 tuần xuống 3,8%."
-    },
-    {
-      "title": "GRDP Hà Nội quý III tăng 10,02%, đạt mức hai chữ số",
+      "title": "Hà Nội đạt GRDP 10,02% quý 3/2026, lần đầu vượt 10%",
       "impact": "↑",
-      "note": "Quý III/2026, GRDP Hà Nội tăng 10,02%, lần đầu tiên trong năm đạt mức tăng trưởng hai con số và cao nhất trong ba quý đầu năm. Phản ánh gia tốc giải ngân vốn đầu tư công và động lực từ các dự án hạ tầng chiến lược."
+      "note": "GRDP quý III/2026 của Hà Nội ước tăng 10,02%, lần đầu tiên trong năm đạt tăng trưởng hai con số và cao nhất trong ba quý. Phản ánh động lực kinh tế của khu vực lớn nhất nước vẫn duy trì tốt."
+    },
+    {
+      "title": "Chương trình vay nhà ở xã hội quy mô 153 nghìn tỷ, lãi suất 6,5%/năm",
+      "impact": "↑",
+      "note": "Chương trình huy động với 11 ngân hàng, quy mô 153 nghìn tỷ đồng, giải ngân đạt 17,5 nghìn tỷ (↑9.950 tỷ so với cuối 2025). Lãi suất 6,5%/năm người mua, 7%/năm chủ đầu tư, ưu đãi 5-15 năm. Hỗ trợ phục hồi thị trường bất động sản."
     }
   ]
 }
