@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán 8/10 gặp áp lực bán mạnh từ khối ngoại (451 tỷ đồng, phiên 12 liên tiếp), đẩy VN-Index giảm 14.42 điểm xuống 1.738.97. Nhóm tài chính và bất động sản chịu áp lực nặng với SHB rơi sàn 6.94%, dòng tiền thận trọng (vào 3.336 tỷ, ra 8.715 tỷ). Tuy vậy, SASCO lợi nhuận tăng 62%, VinFast mở rộng Ấn Độ, GRDP Lâm Đồng tăng 8,51% cho thấy các tín hiệu tích cực từ nền kinh tế.",
+  "summary_vi": "Phiên giao dịch hôm nay chứng kiến áp lực bán mạnh từ khối ngoại (bán ròng 451 tỷ đồng), đặc biệt vào nhóm ngân hàng và bất động sản, khiến VN-Index giảm 14,42 điểm xuống 1.738,97. Tuy nhiên, tăng trưởng GDP 9 tháng đạt 9,01% (cao nhất năm), FDI chất lượng cao (570 tỷ USD tích lũy), và một số doanh nghiệp lợi nhuận tốt cho thấy nền tảng vĩ mô vẫn mạnh mẽ bất chấp sức ép ngắn hạn từ dòng tiền ngoại.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 451 tỷ đồng, áp lực lan rộng",
+      "title": "Khối ngoại bán ròng 451 tỷ đồng, tập trung ngân hàng-bất động sản",
       "impact": "↓",
-      "note": "Khối ngoại tiếp tục bán ròng 451,22 tỷ đồng (ghi nhận qua 271,1 tỷ khớp lệnh). Áp lực bán không tập trung ở vài cổ phiếu mà lan rộng trên nhiều nhóm ngành, thể hiện tâm lý thận trọng của nhà đầu tư, dòng tiền vào chỉ 3.336 tỷ trong khi dòng tiền ra lên tới 8.715 tỷ đồng."
+      "note": "Khối ngoại bán ròng 451,22 tỷ đồng (khớp lệnh 271,1 tỷ). Dòng tiền vào chỉ 3.336 tỷ đồng, dòng tiền thoát ra 8.715 tỷ đồng. Áp lực tập trung vào SHB giảm sàn 6,94%, VIX giảm 3,42%, SSI giảm 3,05%, nhóm bất động sản VHM giảm 3,38%, VIC giảm 0,87%."
     },
     {
-      "title": "VN-Index giảm 14.42 điểm xuống 1.738.97",
+      "title": "VN-Index giảm 14,42 điểm xuống 1.738,97, 344 mã giảm",
       "impact": "↓",
-      "note": "VN-Index đóng cửa tại 1.738.97 điểm, giảm 14.42 điểm so với đầu ngày. Sắc đỏ lan rộng với 344 mã giảm, 20 mã giảm hết biên độ. Nhóm tài chính, bất động sản, xây dựng chịu sức ép mạnh nhất."
+      "note": "VN-Index đóng cửa tại 1.738,97, giảm 14,42 điểm. Sắc đỏ lan rộng, 344 mã giảm, 20 mã sàn. Nhóm tài chính bị áp lực nặng (TCB -1,24%, BID -1,74%, VCB -1,05%, CTG -1,85%), bất động sản (VHM -3,38%), chứng khoán (VIX -3,42%, SSI -3,05%). Thanh khoản khớp lệnh 17.000 tỷ đồng."
     },
     {
-      "title": "SHB rơi sàn 6.94% xuống 10.050 đồng",
-      "impact": "↓",
-      "note": "SHB giảm hết biên độ 6.94% xuống 10.050 đồng/cổ phiếu, nối dài đà giảm từ 18.000 đồng hồi cuối 2025. Khối lượng giao dịch hơn 44.4 triệu cổ phiếu. Khối ngoại tiếp tục bán ròng phiên thứ 12 liên tiếp, gây thêm áp lực lên nhóm ngân hàng."
-    },
-    {
-      "title": "SASCO lợi nhuận 9 tháng tăng 62%",
+      "title": "GDP 9 tháng đạt 9,01%, FDI tích lũy vượt 570 tỷ USD",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế lũy kế 9 tháng đạt 660 tỷ đồng, tăng 62% so với cùng kỳ năm trước, hoàn thành trên 80% kế hoạch cả năm 2026. Công ty chuẩn bị sẵn sàng để thiết lập cơ sở kinh doanh tại sân bay Long Thành."
+      "note": "Tăng trưởng GDP quý 3 ước 9,95%, 9 tháng đạt 9,01% - cao nhất nhiều năm. FDI 9 tháng nâng tổng tích lũy lên trên 570 tỷ USD. Chất lượng vốn FDI cải thiện với dự án quy mô lớn trong điện tử, bán dẫn, AI, công nghệ cao."
     },
     {
-      "title": "VinFast ký LOI 50 showroom xe máy điện tại Ấn Độ",
+      "title": "SASCO lợi nhuận 9 tháng tăng 62%, đạt 660 tỷ đồng",
       "impact": "↑",
-      "note": "VinFast ký kết ý định thư hợp tác với hơn 50 đại lý xe máy điện ở 15 bang Ấn Độ, triển khai 50 showroom tại 34 thành phố. Đây là bước đầu trong kế hoạch xây dựng mạng lưới phân phối tại thị trường xe 2 bánh lớn nhất thế giới."
+      "note": "Lợi nhuận trước thuế lũy kế 9 tháng đạt 660 tỷ đồng, tăng 62% so với cùng kỳ, hoàn thành trên 80% kế hoạch năm 2026. Chuẩn bị thiết lập cơ sở kinh doanh tại sân bay Long Thành."
     },
     {
-      "title": "GRDP 9 tháng Lâm Đồng tăng 8,51%, công nghiệp +10,64%",
+      "title": "VinFast ký LOI 50 showroom xe điện tại 15 bang Ấn Độ",
+      "impact": "↑",
+      "note": "VinFast chính thức ký ý định thư hợp tác với 50 đại lý xe máy điện, triển khai 50 showroom tại 34 thành phố, 15 bang Ấn Độ gồm Delhi NCR, Rajasthan, Maharashtra, Karnataka, Tamil Nadu v.v. Mở rộng tại thị trường xe 2 bánh lớn nhất thế giới."
+    },
+    {
+      "title": "Lãi suất huy động tiếp tục phân hóa, Sacombank cao nhất 7,5%",
       "impact": "→",
-      "note": "GRDP 9 tháng tăng 8,51%, thấp hơn kịch bản 9,2%. Khu vực công nghiệp-xây dựng tăng 10,64% vượt kịch bản; dịch vụ tăng 9,49%; nông, lâm, thủy sản tăng 4,90%."
+      "note": "Kỳ hạn 12 tháng: Sacombank 7,5%/năm, LPBank-Saigonbank 7,2%/năm, Big4 6,8%/năm. Kỳ hạn 3 tháng: mức cao nhất 4,75%/năm (nhiều ngân hàng), SCB thấp nhất 1,9%/năm. Kỳ hạn 6 tháng: Sacombank 7,2%/năm, Bac A Bank 7,05%/năm, Big4 6,6%/năm."
     }
   ]
 }
