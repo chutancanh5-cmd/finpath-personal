@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang cân cân giữa tích cực từ tăng trưởng kinh tế (Hà Nội GRDP 10,02%) và Chính phủ kích cầu quý IV, nhưng bị áp lực từ lãi suất toàn cầu tăng (Fed, RBI) và yếu tố thanh khoản nội địa suy giảm. Tỷ suất vòng quay chứng khoán giảm nửa so với cùng kỳ năm trước, khối ngoại bán ròng 4 phiên liên tiếp, phản ánh tâm lý thận trọng. Trong ngắn hạn, dòng vốn yếu sẽ tiếp tục tạo áp lực điều chỉnh, mặc dù nền tảng tăng trưởng kinh tế vẫn hỗ trợ triển vọng dài hạn.",
+  "summary_vi": "Thị trường chứng khoán VN yên tĩnh với thanh khoản giảm khi khối ngoại bán ròng gần 1 tỷ USD/phiên, trong khi áp lực từ Fed tăng lãi suất và xu hướng tăng lãi toàn cầu tạo hạn chế. Tuy vậy, chính phủ kích thích tăng trưởng qua hỗ trợ bất động sản (lãi suất 6,5%/năm) và mục tiêu tăng trưởng quý IV >15%, được hỗ trợ bởi GRDP Hà Nội đạt 10% — điều này mở ra cơ hội tích lũy với định giá đã điều chỉnh hợp lý.",
   "top": [
     {
-      "title": "Fed tăng lãi suất, lợi suất Mỹ lên 5,365% cao nhất từ 2002",
+      "title": "Fed phát tín hiệu tăng lãi suất, thị trường Mỹ giảm điểm",
       "impact": "↓",
-      "note": "Dow Jones giảm 0,66% (mất 341,41 điểm), S&P 500 giảm 0,22%, Nasdaq giảm 0,22%; lợi suất trái phiếu Mỹ 10 năm tăng 5,365% (cao nhất từ tháng 4/2002), kỳ hạn 30 năm tăng 5,732% — tạo áp lực bán trên thị trường mới nổi"
+      "note": "Dow Jones giảm 0,66%, S&P 500 giảm 0,22%, Nasdaq giảm 0,22% khi lợi suất trái phiếu kho bạc 10 năm tăng lên 5,365% (cao nhất từ tháng 4/2002). Fed phát tín hiệu còn tăng lãi suất trong năm — áp lực này đẩy khối ngoại bán ròng 934 tỷ đồng phiên 7/10."
     },
     {
-      "title": "RBI tăng lãi suất lần đầu sau 3 năm, dự báo 4 lần tăng nữa",
+      "title": "Thanh khoản thị trường chứng khoán VN giảm mạnh",
       "impact": "↓",
-      "note": "Lạm phát tiêu dùng Ấn Độ 4,8% tháng 8 (vượt mục tiêu 4%); Goldman Sachs dự báo thêm 4 đợt tăng lãi suất với tổng 1% từ nay đến cuối nửa đầu 2027 — phản ánh áp lực lạm phát toàn cầu do năng lượng và lương thực tăng"
+      "note": "Tỷ suất vòng quay (giao dịch/vốn hóa) xuống 0,16%, bằng nửa năm trước, trong khi vốn hóa tăng 20%. Cho thấy thị trường đang yên tĩnh, dòng tiền hạn chế, người đầu tư chưa tích cực tham gia."
     },
     {
-      "title": "Hà Nội GRDP quý III đạt 10,02%, lần đầu \"2 con số\" năm 2026",
+      "title": "GRDP Hà Nội đạt 10,02% quý III, vượt kỳ vọng",
       "impact": "↑",
-      "note": "GRDP quý III-2026 tăng 10,02%, lần đầu tiên trong năm đạt mức hai con số, cao nhất trong ba quý — hỗ trợ tăng trưởng kinh tế nội địa dài hạn"
+      "note": "GRDP Hà Nội tăng 10,02% quý III, lần đầu tiên trong năm đạt mức tăng hai con số và cao nhất trong ba quý, phản ánh động lực tăng trưởng ở Thủ đô với dòng vốn đầu tư duy trì hoạt động."
     },
     {
-      "title": "Tỷ suất vòng quay chứng khoán giảm mạnh, chỉ 0,16%",
-      "impact": "↓",
-      "note": "Tỷ lệ giữa giá trị giao dịch khớp lệnh bình quân phiên và vốn hóa thị trường ở mức 0,16%, chỉ bằng khoảng nửa so với cùng kỳ năm trước, trong khi vốn hóa tăng 20% — phản ánh thanh khoản suy giảm đáng kể"
-    },
-    {
-      "title": "Chính phủ kích cầu quý IV, 9 địa phương mục tiêu trên 15%",
+      "title": "Lãi suất vay mua nhà ở xã hội giảm xuống 6,5%/năm",
       "impact": "↑",
-      "note": "Chính phủ đặt kịch bản tăng trưởng quý IV cho 9 tỉnh, thành phố cần đạt từ 15% trở lên, cao nhất Lạng Sơn 18,41%; mục tiêu toàn quốc tăng trưởng 2 con số năm 2026 — hỗ trợ tăng trưởng kinh tế, doanh số doanh nghiệp"
+      "note": "Lãi suất cho người mua nhà ở xã hội là 6,5%/năm (chủ đầu tư 7%), sau 6 lần điều chỉnh. Doanh số giải ngân đạt 17.500 tỷ đồng, tăng 9.950 tỷ so với cuối 2025, quy mô chương trình hơn 153.000 tỷ — chính sách kích thích bất động sản."
     },
     {
-      "title": "Khối ngoại bán ròng phiên thứ 4 liên tiếp, 934 tỷ đồng",
+      "title": "Chính phủ yêu cầu 9 địa phương tăng trưởng quý IV >15%",
+      "impact": "↑",
+      "note": "Chính phủ đặt mục tiêu tăng trưởng quý IV cho 9 tỉnh/thành phố trên 15%, cao nhất là Lạng Sơn 18,41%, trong bối cảnh mục tiêu năm 2026 là tăng trưởng 2 con số — cho thấy quyết tâm kích thích nền kinh tế."
+    },
+    {
+      "title": "Ấn Độ tăng lãi suất lần đầu sau 3 năm, xu hướng toàn cầu",
       "impact": "↓",
-      "note": "Ngày 7/10, khối ngoại bán ròng 934 tỷ đồng (phiên thứ 4 liên tiếp); kỳ vọng dòng tiền quốc tế sớm quay lại phai nhạt khi lãi suất toàn cầu tăng — dòng vốn ngoại tiêu cực, áp lực lên chỉ số"
+      "note": "RBI tăng lãi suất chủ chốt lần đầu kể từ 2023. Lạm phát 4,8% vượt mục tiêu 4%, do chi phí năng lượng và giá lương thực tăng. Goldman Sachs dự báo RBI sẽ tăng thêm 4 lần với tổng 1% đến hết nửa đầu 2027 — phản ánh xu hướng siết chính sách tiền tệ toàn cầu."
     }
   ]
 }
