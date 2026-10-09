@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-09",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực từ dòng tiền ngoại bán ròng kéo dài, VN-Index giảm 0,22% và thanh khoản yếu 14.800 tỷ đồng. Tuy nhiên, R&I nâng Việt Nam lên xếp hạng BBB- mở rộng tiếp cận vốn quốc tế, vốn FDI 9 tháng tăng 76,4% lên 50,4 tỷ USD (cao nhất 5 năm) là những tín hiệu tích cực dài hạn. Rủi ro lạm phát từ CPI tăng 4,52% và giá vàng tăng 1,8 triệu đồng/lượng cần theo dõi, cùng áp lực bán ròng ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Dòng vốn FDI mạnh mẽ với 50,4 tỷ USD đăng ký (tăng 76,4%) và 21,1 tỷ USD giải ngân là mức cao nhất 5 năm, hỗ trợ triển vọng bất động sản công nghiệp và các khu vực như Tây Ninh, Đà Nẵng. Tuy nhiên, lạm phát giữ sức ép khi CPI 9 tháng tăng 4,52% với dự báo cả năm 4,5-4,8% do giá năng lượng thế giới tăng từ tháng 3. Khối ngoại tiếp tục bán ròng 185 tỷ đồng trong khi khối tự doanh mua ròng 266 tỷ đồng.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng mạnh, MCH xả 9.600 tỷ đồng",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 185 tỷ đồng trong phiên 9/10, MCH bị xả đột biến 9.600 tỷ đồng qua thỏa thuận. HDB bị bán ròng 227 tỷ đồng, FPT 121 tỷ đồng, dòng tiền bán ròng kéo dài tạo sức ép liên tục."
-    },
-    {
-      "title": "VN-Index yếu giảm 0,22%, thanh khoản chỉ 14.800 tỷ đồng",
-      "impact": "↓",
-      "note": "VN-Index giảm 0,22% xuống 1.735 điểm phiên 9/10. Tuần qua chỉ số giảm 2,62 điểm (-0,15%). Thanh khoản thấp, dòng tiền phân hóa, 175 mã đỏ chiếm ưu thế; test vùng hỗ trợ 1.715-1.750 điểm quyết định xu hướng tới."
-    },
-    {
-      "title": "R&I nâng Việt Nam BBB-, mở cửa thị trường vốn quốc tế",
+      "title": "FDI đạt cao nhất 5 năm, vốn giải ngân 21,1 tỷ USD",
       "impact": "↑",
-      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư (BBB-), công nhận nợ công thấp, cân cân vãng lai thặng dư. Quyết định mở rộng tiếp cận thị trường vốn Nhật Bản, tăng uy tín tín dụng quốc gia."
+      "note": "9 tháng 2026, vốn FDI đăng ký tăng 76,4% lên 50,4 tỷ USD, vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm). Vốn mới 29,2 tỷ USD từ 3.108 dự án, sản xuất chiếm 45,8%. Singapore (31,7%) và Hàn Quốc (19,5%) dẫn đầu; dự án Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD."
     },
     {
-      "title": "Vốn FDI 9 tháng tăng 76,4% lên 50,4 tỷ USD",
-      "impact": "↑",
-      "note": "Vốn FDI đăng ký 9 tháng 2026 đạt 50,4 tỷ USD (tăng 76,4%), vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm). Vốn mới 29,2 tỷ USD từ 3.108 dự án với 45,8% từ sản xuất; Singapore 31,7%, Hàn Quốc 19,5% tổng vốn đăng ký."
-    },
-    {
-      "title": "CPI tăng 4,52%, giá vàng tăng 1,8 triệu đồng/lượng",
+      "title": "CPI bình quân 9 tháng tăng 4,52%, dự báo cả năm 4,5-4,8%",
       "impact": "↓",
-      "note": "CPI 9 tháng 2026 tăng 4,52% so cùng kỳ, lạm phát cơ bản 4,26%, từ giá nhiên liệu thế giới tăng từ tháng 3. SJC tăng 1,8 triệu đồng/lượng, giá bán 144,8 triệu đồng/lượng, chênh lệch mua bán tăng cao."
+      "note": "CPI 9 tháng tăng 4,52% so cùng kỳ, lạm phát cơ bản 4,26%. Bộ Tài chính dự báo cả năm 4,5% hoặc 4,8%. Áp lực từ giá nhiên liệu, năng lượng thế giới tăng mạnh từ tháng 3, chi phí vận tải-logistics gián đoạn khiến chi phí đầu vào gia tăng."
     },
     {
-      "title": "Lãnh đạo SHB đăng ký mua 4 triệu cổ phiếu từ 15/10",
+      "title": "Tây Ninh thu hút 27 tỷ USD FDI, xếp thứ 7 cả nước",
       "impact": "↑",
-      "note": "Phó Tổng Giám đốc Nguyễn Huy Tài mua 2 triệu cổ phiếu, cộng lãnh đạo khác tổng 4 triệu cổ phiếu từ 15/10 đến 12/11/2026 (giá trị 20 tỷ đồng theo mệnh giá). SHB cũng khẳng định hoạt động an toàn ổn định, tín hiệu lạc quan từ quản lý ngân hàng."
+      "note": "Tây Ninh có 2.150 dự án FDI với vốn đăng ký hơn 27 tỷ USD. GRDP 9 tháng tăng 10,30%, dẫn đầu các địa phương phía Nam. Kim ngạch xuất nhập khẩu đạt 27,044 tỷ USD, tăng 17,5%; đầu tư công giải ngân 18.858 tỷ đồng, đạt 60,74% kế hoạch Thủ tướng."
+    },
+    {
+      "title": "Lợi nhuận bất động sản khu công nghiệp dự báo tăng 12,4% năm 2027",
+      "impact": "↑",
+      "note": "Nguồn cung khu công nghiệp mới dự kiến tăng tốc Q4/2026 và 2027 nhờ dòng vốn FDI mạnh. Lượng hấp thụ miền Bắc đạt 217 ha trong Q2/2026 sau giai đoạn chững, tạo nền tảng cho lợi nhuận ròng chủ đầu tư tăng 12,4% so cùng kỳ."
+    },
+    {
+      "title": "PNJ tăng kịch trần sau 13 phiên giảm, VN-Index giảm 0,22%",
+      "impact": "→",
+      "note": "PNJ tăng kịch trần 6,85% lên 19.500 đồng (7,1 triệu cổ phiếu) sau khi công bố kiểm định xác nhận tất cả mẫu kim cương là thiên nhiên. VN-Index vẫn giảm 3,88 điểm (-0,22%) xuống 1.735 điểm do áp lực VIC, FPT và nhóm năng lượng; thanh khoản 911 triệu cổ phiếu."
+    },
+    {
+      "title": "Khối ngoại bán ròng 185 tỷ đồng, tự doanh mua ròng 266 tỷ đồng",
+      "impact": "→",
+      "note": "Dòng tiền nhà đầu tư tổ chức trái chiều: ngoại bán ròng HDB (227 tỷ), FPT (121 tỷ), ACB (70 tỷ); tự doanh mua ròng VPB (227 tỷ), HPG (51 tỷ), VIC (41 tỷ). Ngoại bán ròng tiếp tục cơ cấu danh mục, tự doanh hỗ trợ."
     }
   ]
 }
