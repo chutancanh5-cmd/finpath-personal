@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-09",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tuần qua yếu với VN-Index giảm 0.15% và bán ròng khối ngoại gia tăng 9.270 tỷ đồng phiên 9/10. Tín hiệu tích cực đến từ R&I nâng Việt Nam lên hạng BBB- investment grade, mở cửa tiếp cận thị trường vốn Nhật Bản và quốc tế. Dòng vốn FDI 9 tháng đạt 50.4 tỷ USD (tăng 76.4%) với giải ngân 21.1 tỷ USD (cao nhất 5 năm) khẳng định sức hút đầu tư. Các địa phương Tây Ninh (GRDP +10.30%, #7 FDI) và Đà Nẵng (tăng trưởng vượt bậc) tạo động lực kinh tế khu vực.",
+  "summary_vi": "Thị trường tích cực từ nâng hạng tín nhiệm BBB- của R&I và dòng FDI mạnh 50,4 tỷ USD (9 tháng), nhưng chịu sức ép từ khối ngoại bán ròng liên tục (9.600 tỷ MCH, 185 tỷ hôm nay). VN-Index chưa phục hồi, giảm 0.15% tuần qua; áp lực điều chỉnh ngắn hạn vẫn cao dù một số lãnh đạo ngân hàng mua vào.",
   "top": [
     {
-      "title": "R&I nâng Việt Nam lên BBB- (investment grade)",
+      "title": "R&I nâng Việt Nam lên BBB-",
       "impact": "↑",
-      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư (BBB-). Nợ công mức tương đối thấp, cân cân vãng lai thặng dư, FDI duy trì, gánh nặng nợ nước ngoài thấp. Kết quả này mở rộng khả năng tiếp cận thị trường vốn Nhật Bản và quốc tế."
+      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư BBB-, công nhận nợ công thấp, cân cân vãng lai thặng dư; mở rộng tiếp cận thị trường vốn Nhật Bản, hỗ trợ huy động vốn quốc tế."
     },
     {
-      "title": "FDI 9 tháng tăng 76.4% lên 50.4 tỷ USD",
+      "title": "Dòng tiền FDI mạnh vượt kỳ vọng",
       "impact": "↑",
-      "note": "Vốn FDI giải ngân đạt 21.1 tỷ USD (cao nhất trong 5 năm). Vốn FDI đăng ký mới 29.2 tỷ USD với 3.108 dự án, chủ yếu sản xuất (45.8%). Singapore (31.7%) và Hàn Quốc (19.5%) là nhà đầu tư lớn nhất. Dự án lớn: Samsung mở rộng 5.2 tỷ USD, điện LNG 2.2 tỷ USD, BYD 480 triệu USD."
+      "note": "9 tháng 2026 vốn FDI đăng ký 50,4 tỷ USD (tăng 76,4%), vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm); Samsung, Hàn Quốc, Singapore tiếp tục tập trung đầu tư; hỗ trợ dài hạn nhu cầu đất công nghiệp."
     },
     {
-      "title": "VN-Index tuần 05-09/10: Giảm 0.15%, bán ròng ngoại tăng",
+      "title": "Khối ngoại bán ròng MCH 9.600 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index tuần giảm 0.15% xuống 1.735.09 điểm. HNX-Index giảm 1.93%. Dòng tiền phân hóa, bán ròng kéo dài của khối ngoại gia tăng sức ép. Vùng hỗ trợ 1.715-1.750 điểm sẽ quyết định xu hướng. Phiên 9/10: VN-Index giảm 0.22%, HNX-Index tăng 2.1%."
+      "note": "MCH bị khối ngoại bán ròng 9.600 tỷ đồng qua thỏa thuận phiên 09/10, bỏ xa cổ phiếu khác; thể hiện áp lực xả mạnh của NĐTNN."
     },
     {
-      "title": "Khối ngoại bán ròng đột biến 9.270 tỷ đồng phiên 9/10",
+      "title": "VN-Index chưa phục hồi, giảm 0.15% tuần",
       "impact": "↓",
-      "note": "Tổng bán ròng 9.270 tỷ đồng trong phiên 9/10. MCH bị bán ròng đột biến 9.600 tỷ đồng (chủ yếu thỏa thuận). HDB bán 227 tỷ đồng, FPT 122 tỷ đồng. Chiều mua ròng: VHM 162 tỷ đồng, SHB 123 tỷ đồng, NVL 78 tỷ đồng."
+      "note": "VN-Index 09/10 giảm 0.22% xuống 1.735 điểm, tuần giảm tổng 2.62 điểm (-0.15%); dòng tiền phân hóa, áp lực bán gia tăng, test vùng hỗ trợ 1.715-1.750 điểm quyết định xu hướng."
     },
     {
-      "title": "Tây Ninh: FDI xếp #7, GRDP +10.30%, dẫn đầu miền Nam",
-      "impact": "↑",
-      "note": "Tới 24/9: Tây Ninh có 2.150 dự án FDI với tổng vốn đăng ký hơn 27 tỷ USD, xếp #7 cả nước. GRDP 9 tháng tăng 10.30%, xếp #10/34 tỉnh, dẫn đầu phía Nam. Bán lẻ và dịch vụ tăng 19%, kim ngạch xuất nhập khẩu tăng 17.5%."
+      "title": "Khối ngoại bán ròng 185 tỷ hôm 09/10",
+      "impact": "↓",
+      "note": "Khối ngoại tiếp tục bán ròng 185 tỷ đồng phiên 09/10 (HDB -227 tỷ, FPT -121 tỷ, ACB -70 tỷ); tự doanh mua ròng 266 tỷ nhưng không đủ bù trừ."
     },
     {
-      "title": "Đà Nẵng: GRDP tăng trưởng vượt bậc, cực tăng trưởng miền Trung",
+      "title": "Lãnh đạo SHB đăng ký mua 4 triệu cổ phiếu",
       "impact": "↑",
-      "note": "Đà Nẵng 9 tháng ghi nhận tăng trưởng vượt bậc, khẳng định vị thế cực tăng trưởng hàng đầu miền Trung. Quý I tăng từ dịch vụ đầu năm; quý II: tháo gỡ vướng mắc dự án, đẩy mạnh đầu tư công; quý III: duy trì tốc độ ấn tượng dù áp lực chi phí nguyên vật liệu và thị trường quốc tế biến động."
+      "note": "Hai lãnh đạo SHB (Phó TGĐ Nguyễn Huy Tài và Đinh Ngọc Dũng) đăng ký mua tổng 4 triệu cổ phiếu SHB từ 15/10 đến 12/11/2026 (giá trị 20 tỷ theo mệnh giá); thể hiện tin tưởng của quản lý ngân hàng."
     }
   ]
 }
