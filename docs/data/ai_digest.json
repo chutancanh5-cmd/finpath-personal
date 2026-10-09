@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Việt Nam nhận nâng hạng tín nhiệm BBB- từ R&I mở cơ hội tiếp cận vốn Nhật Bản, trong khi dòng FDI tăng mạnh 76,4% lên 50,4 tỷ USD đăng ký trong 9 tháng hỗ trợ bất động sản công nghiệp. Tuy nhiên, nhà đầu tư ngoài tiếp tục bán ròng, 67 mã bị cấm ký quỹ và các quỹ đầu tư báo lỗ 19,47% trong 12 tháng cho thấy áp lực bên ngoài (Fed thắt chặt, căng thẳng địa chính trị) vẫn chiếm ưu thế. Các vụ gian lận tài chính (80 tỷ tại NOXH New City, 130 tỷ tại Quỹ tín dụng Thành Đô) cũng đe dọa độ tin cậy thị trường.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nâng hạng tín nhiệm BBB- từ R&I mở cơ hội tiếp cận vốn quốc tế, trong khi vốn FDI 9 tháng tăng mạnh 76,4% lên 50,4 tỷ USD với vốn giải ngân cao nhất 5 năm hỗ trợ tăng trưởng. Khối tự doanh CTCK gom 2.800 tỷ đồng cổ phiếu VPB và khối ngoại mua ròng SHB cho thấy nhà đầu tư quay lại thị trường, nhưng áp lực từ chính sách tiền tệ toàn cầu (Fed tăng lãi suất, rủi ro thắt chặt tháng 12) và các cổ phiếu yếu (PNJ giảm 44%) vẫn đe dọa ngắn hạn.",
   "top": [
     {
-      "title": "Nâng hạng tín nhiệm BBB- từ R&I - mở cửa thị trường Nhật",
+      "title": "R&I nâng Việt Nam lên BBB- (investment grade)",
       "impact": "↑",
-      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng Đầu tư với BBB-. Đánh giá dương về nợ công tương đối thấp, cân cân vãng lai thặng dư, dòng FDI ổn định, nợ nước ngoài thấp; có thể mở rộng kênh tiếp cận vốn quốc tế, đặc biệt từ Nhật Bản."
+      "note": "R&I lần đầu tiên đưa Việt Nam vào nhóm xếp hạng Đầu tư BBB-. Đánh giá nợ công tương đối thấp, cân cân vãng lai thặng dư, dòng FDI duy trì, nợ nước ngoài thấp. Kết quả mở rộng kênh tiếp cận vốn quốc tế, đặc biệt thị trường Nhật Bản."
     },
     {
-      "title": "FDI tăng vọt 76,4%, hoạt động bất động sản công nghiệp phục hồi",
+      "title": "FDI 9 tháng tăng 76,4% lên 50,4 tỷ USD, giải ngân cao nhất 5 năm",
       "impact": "↑",
-      "note": "9 tháng 2026: vốn FDI đăng ký 50,4 tỷ USD (tăng 76,4%), giải ngân 21,1 tỷ USD (cao nhất 5 năm), 3.108 dự án mới. Sản xuất chiếm 45,8%, Singapore 31,7%, Hàn Quốc 19,5%. Samsung mở rộng 5,2 tỷ USD tại Thái Nguyên, BYD 480 triệu USD tại Phú Thọ, LNG 2,2 tỷ USD. Hấp thụ đất công nghiệp phục hồi mạnh, dự báo lợi nhuận BĐS khu công nghiệp tăng 12,4% năm 2027."
+      "note": "Vốn FDI đăng ký 50,4 tỷ USD (tăng 76,4%), giải ngân 21,1 tỷ USD. 3.108 dự án mới với sản xuất chiếm 45,8%, Singapore 31,7%, Hàn Quốc 19,5%. Dự án lớn: Samsung 5,2 tỷ USD, LNG 2,2 tỷ USD, BYD 480 triệu USD, trung tâm AI 350 triệu USD."
     },
     {
-      "title": "67 mã cổ phiếu bị cấm ký quỹ, nhà đầu tư ngoài bán ròng",
+      "title": "CTCK gom 2.800 tỷ đồng VPB, VIX trở cổ đông trên 1%",
+      "impact": "↑",
+      "note": "Chứng khoán VIX sở hữu 117 triệu cổ phiếu VPB (1,17% vốn), trở thành cổ đông trên 1%. Nhóm tự doanh CTCK gom 2.800 tỷ đồng VPB trong 4 tuần gần nhất. VIX nắm danh mục tự doanh lớn nhất ngành với 16.200 tỷ đồng cổ phiếu niêm yết."
+    },
+    {
+      "title": "Khối ngoại mua ròng 9 triệu cổ phiếu SHB dù giá dưới mệnh giá",
+      "impact": "↑",
+      "note": "SHB giảm xuống 9.870 đồng/cổ phiếu (dưới mệnh giá 10.000 đồng). Khối ngoại mua vào 10,9 triệu, bán 1,83 triệu, mua ròng 9,06 triệu đơn vị chỉ trong 10 phút đầu phiên, giao dịch ~468 tỷ đồng."
+    },
+    {
+      "title": "PNJ giảm 44%, 67 mã mất điều kiện margin Q4/2026",
       "impact": "↓",
-      "note": "HNX công bố 67 mã không đủ điều kiện margin Q4/2026 (tăng 9 mã so với Q3), hiệu lực từ 09/10. Nhà đầu tư ngoài tiếp tục bán ròng trong phiên 08/10. PNJ rơi 44% qua 13 phiên liên tiếp từ 32.700 đồng xuống 18.250 đồng, sắp bị đình chỉ giao dịch."
+      "note": "PNJ giảm 44% qua 13 phiên liên tiếp từ 32.700 đồng xuống 18.250 đồng. DRH tiếp tục giảm sàn, sắp bị đình chỉ giao dịch từ 12/10. HNX công bố 67 mã không đủ điều kiện ký quỹ Q4/2026, tăng 9 mã so với Q3, hiệu lực từ 09/10."
     },
     {
-      "title": "Quỹ đầu tư PYN Elite lỗ 19,47% trong 12 tháng, FTSE inclusion không cứu vãn",
+      "title": "Fed tăng lãi suất thêm 25 bps, rủi ro thắt chặt tháng 12 vẫn ngỏ",
       "impact": "↓",
-      "note": "Tính đến 30/9/2026, PYN Elite âm 12,67% YTD, âm 19,47% trong 12 tháng. Bất chấp FTSE nâng Việt Nam lên emerging market (21/9), quỹ vẫn chịu áp lực từ Fed tăng lãi suất 25 điểm cơ bản, giá dầu cao, căng thẳng địa chính trị. Nguồn cung tiền thắt chặt trong nước cũng thêm sức ép."
-    },
-    {
-      "title": "Phát hiện gian lận 80 tỷ tại dự án NOXH New City",
-      "impact": "↓",
-      "note": "Công an TP Hà Nội khởi tố 4 bị can (Công ty bánh kẹo Thăng Long, Sàn Mangala) tham ô 80 tỷ đồng từ ~300 khách hàng mua NOXH, ép ký hợp đồng tư vấn hồ sơ để thu chênh ngoài. Phản ánh rủi ro quản trị, xói mòn niềm tin vào các chính sách nhân văn."
-    },
-    {
-      "title": "HDBank phát hành cổ phiếu thưởng 30%, tỷ phú Phương Thảo nhận 50,9 triệu",
-      "impact": "→",
-      "note": "09/10 là ngày giao dịch không hưởng quyền HDBank với tỷ lệ phát hành cổ phiếu tức 25% + cổ phiếu thưởng 5%. Bà Nguyễn Thị Phương Thảo nhận thêm ~50,9 triệu cổ phiếu từ 169,6 triệu nắm giữ, nâng lên 220,5 triệu, tỷ lệ sở hữu 3,39%."
+      "note": "Cục Dự trữ Liên bang Mỹ tăng lãi suất điều hành 25 điểm cơ bản, mặt bằng lãi suất toàn cầu đi lên. Căng thẳng địa chính trị duy trì giá dầu cao, gia tăng lo ngại lạm phát. Khả năng thắt chặt thêm vào cuối năm vẫn được để ngỏ theo biên bản Fed."
     }
   ]
 }
