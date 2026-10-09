@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-09",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán hôm nay chịu áp lực bán tháo mạnh ở nhóm ngân hàng (SHB xuống dưới mệnh giá với 100 triệu cổ phiếu khớp lệnh), VN-Index lùi về 1.730 điểm. Mặc dù có tín hiệu tích cực từ nâng hạng tín nhiệm BBB- của R&I và FDI giải ngân mạnh (21,1 tỷ USD - cao nhất 5 năm), nhưng lo ngại về thắt chặt thanh khoản toàn cầu, các vụ gian lận tài chính gần đây, quỹ ngoại báo lỗ 19,47% trong 12 tháng, và tình trạng ngân hàng yếu đặc biệt kéo chỉ số xuống. Rủi ro từ lạm phát, nợ xấu ẩn, và mất niềm tin công chúng vào chính sách vẫn là mối đe dọa chính.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Vốn FDI 9 tháng tăng mạnh 76,4% lên 50,4 tỷ USD và R&I nâng Việt Nam lên BBB- tạo triển vọng tích cực cho vĩ mô. Tuy nhiên, áp lực từ lãi suất toàn cầu tăng, lo ngại lạm phát, và thị trường chứng khoán gặp khó khăn (PYN Elite lỗ 19,47% trong 12 tháng) làm cân bằng tâm lý nhà đầu tư. Một số doanh nghiệp cải thiện lợi nhuận như MSR (233 triệu USD), DMX và PNJ vẫn phục hồi được, nhưng sự biến động lớn trên sàn cho thấy tâm lý thị trường còn dao động.",
   "top": [
     {
-      "title": "SHB xuống dưới mệnh giá, 100 triệu cổ phiếu khớp lệnh",
-      "impact": "↓",
-      "note": "SHB ghi nhận 100 triệu cổ phiếu giao dịch tới 11h ngày 9/10 (giá trị 1.000 tỷ đồng), có lúc rơi dưới 10.000 đồng/cp (mệnh giá) trước khi hồi phục. Thanh khoản SHB vượt tổng 27 ngân hàng khác; khối ngoại mua ròng 15 triệu cp. Sự bán tháo bất thường gây lo ngại về thanh khoản hệ thống ngân hàng."
-    },
-    {
-      "title": "VN-Index lùi 1.730 điểm, 211 mã giảm trên HOSE, áp lực bán ở ngân hàng",
-      "impact": "↓",
-      "note": "VN-Index giao dịch 1.730,12 điểm, độ rộng thị trường: 74 mã tăng vs 211 mã giảm trên HOSE. Thanh khoản HOSE 4.243 tỷ đồng với áp lực cung lớn, chỉ số bị kéo lùi khi Fed tăng lãi suất 25 điểm cơ bản và căng thẳng địa chính trị vẫn cao."
-    },
-    {
-      "title": "R&I nâng Việt Nam lên BBB-: mở cửa vốn Nhật Bản",
+      "title": "FDI 9 tháng tăng 76,4% lên 50,4 tỷ USD, giải ngân 21,1 tỷ USD cao nhất 5 năm",
       "impact": "↑",
-      "note": "R&I lần đầu đưa Việt Nam vào nhóm Đầu tư (BBB-), công nhận nợ công thấp, cán cân vãng lai thặng dư, FDI duy trì. Quyết định mở rộng kênh tiếp cận vốn Nhật Bản, hỗ trợ kế hoạch huy động vốn dài hạn của chính phủ."
+      "note": "Vốn FDI đăng ký tăng từ mức thấp lên 50,4 tỷ USD (tăng 76,4% so với cùng kỳ), giải ngân đạt 21,1 tỷ USD. Singapore và Hàn Quốc dẫn đầu với 31,7% và 19,5% tổng vốn mới. Các dự án lớn bao gồm Samsung mở rộng 5,2 tỷ USD ở Thái Nguyên, điện LNG 2,2 tỷ USD ở Bắc Ninh, tăng cường sự hấp dẫn của Việt Nam như trung tâm sản xuất khu vực."
     },
     {
-      "title": "FDI giải ngân 21,1 tỷ USD (cao nhất 5 năm), vốn đăng ký +76,4%",
+      "title": "R&I nâng xếp hạng tín nhiệm Việt Nam lên BBB-, mở cửa thị trường vốn Nhật Bản",
       "impact": "↑",
-      "note": "9 tháng 2026: FDI giải ngân 21,1 tỷ USD, vốn đăng ký 50,4 tỷ USD (+76,4%). 3.108 dự án từ Singapore (31,7%) và Hàn Quốc (19,5%); dự án lớn: Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD. Dự báo lợi nhuận bất động sản công nghiệp tăng 12,4% năm 2027."
+      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư BBB-. Nợ công tương đối thấp, cán cân vãng lai thặng dư, dòng vốn FDI duy trì. Tuy cần theo dõi tăng trưởng tín dụng, thanh khoản ngân hàng, nhưng quyết định này tạo cơ hội mở rộng tiếp cận thị trường vốn quốc tế, đặc biệt Nhật Bản."
     },
     {
-      "title": "Gian lận nhà ở xã hội New City: 80 tỷ đồng 'ăn chênh' từ 300 khách",
-      "impact": "↓",
-      "note": "Công an TP Hà Nội khởi tố 4 bị can (Công ty bánh kẹo Thăng Long, Sàn Mangala) chiếm đoạt 80 tỷ đồng từ 300 khách mua nhà ở xã hội qua hợp đồng tư vấn hồ sơ. Vụ án làm mất niềm tin của người lao động vào chính sách nhân văn và xử lý pháp luật."
+      "title": "MSR dự kiến cổ tức 6.000 đồng/cổ phiếu, lợi nhuận 233 triệu USD năm 2026",
+      "impact": "↑",
+      "note": "Masan High-Tech Materials dự kiến doanh thu 1,4 tỷ USD và lợi nhuận 233 triệu USD cả năm 2026 (6 tháng đầu đã đạt 83 triệu USD lợi nhuận, doanh thu 423 triệu USD). HĐQT sẽ phân phối 100% lợi nhuận sau thuế 2026 bằng tiền mặt với cổ tức 6.000 đồng/cổ phiếu, cam kết tối thiểu 50% LNST từ 2027."
     },
     {
-      "title": "PYN Elite Fund lỗ 19,47% trong 12 tháng, lo thắt chặt thanh khoản",
+      "title": "PNJ phục hồi sau 13 phiên giảm 44%, tăng trần với chứng thư kiểm định AIGS",
+      "impact": "↑",
+      "note": "Sau chuỗi 13 phiên giảm liên tiếp từ 32.700 đồng xuống 18.250 đồng (giảm 44%), PNJ tăng trần lên 19.500 đồng phiên 09/10 với gần 4 triệu cổ phiếu giao dịch. Chủ tịch Viện Khoa học Đá quý Châu Á (AIGS) trực tiếp trao chứng thư kiểm định độc lập cho kim cương PNJ, phản ánh niềm tin khôi phục của thị trường."
+    },
+    {
+      "title": "SHB xuống dưới mệnh giá rồi hồi phục, 100 triệu cổ phiếu giao dịch trong nửa ngày",
+      "impact": "→",
+      "note": "SHB ghi nhận 100 triệu cổ phiếu được khớp lệnh tính tới 11h ngày 09/10, giá trị 1.000 tỷ đồng. Mã này rơi xuống dưới mệnh giá 10.000 đồng rồi hồi phục, trong khi khối ngoại mua ròng hơn 15 triệu cổ phiếu. Khối lượng giao dịch SHB vượt tổng của 27 ngân hàng còn lại, cho thấy tập trung dòng tiền vào mã này."
+    },
+    {
+      "title": "PYN Elite Fund lỗ 19,47% trong 12 tháng, cảnh báo khó khăn thị trường đầu tư",
       "impact": "↓",
-      "note": "Hiệu suất PYN Elite: âm 19,47% trong 12 tháng, âm 12,67% từ đầu năm. Mặc dù FTSE nâng Việt Nam vào thị trường mới nổi (21/9), dòng vốn thụ động chưa bù đắp; Fed tăng lãi suất, thiếu thanh khoản tiền tệ nội địa gây sức ép lên lãi suất."
+      "note": "Quỹ PYN Elite báo lỗ 19,47% trong 12 tháng (âm 12,67% từ đầu năm), vượt mức giảm 3,5% của VN-Index. Áp lực từ lãi suất toàn cầu tăng, lo ngại lạm phát, thiếu tiền trong nước (nguồn cung tiền thắt chặt), căng thẳng địa chính trị giữ giá dầu cao. Mặc dù bình quân 10 năm vẫn 6,71%/năm, hiệu suất 12 tháng gần đây cho thấy tâm lý thị trường khó khăn."
     }
   ]
 }
