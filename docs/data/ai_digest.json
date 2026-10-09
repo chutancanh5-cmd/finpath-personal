@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nâng hạng tín nhiệm quốc gia (BBB-) từ R&I là cột mốc quan trọng mở rộng tiếp cận thị trường vốn quốc tế; FDI giải ngân mạnh 21,1 tỷ USD (cao nhất 5 năm) hỗ trợ tăng trưởng dài hạn. Tuy nhiên, thị trường chứng khoán gặp áp lực từ tình trạng ngân hàng (SHB xuống dưới mệnh giá), các vụ gian lận tài chính làm mất tin tưởng và lo ngại lạm phát từ thời tiết cực đoan. Chính phủ đẩy KPI tăng trưởng quý IV cao (Lạng Sơn 18,41%) nhưng thách thức thực hiện trong ngắn hạn vẫn lớn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán hôm nay chịu áp lực bán tháo mạnh ở nhóm ngân hàng (SHB xuống dưới mệnh giá với 100 triệu cổ phiếu khớp lệnh), VN-Index lùi về 1.730 điểm. Mặc dù có tín hiệu tích cực từ nâng hạng tín nhiệm BBB- của R&I và FDI giải ngân mạnh (21,1 tỷ USD - cao nhất 5 năm), nhưng lo ngại về thắt chặt thanh khoản toàn cầu, các vụ gian lận tài chính gần đây, quỹ ngoại báo lỗ 19,47% trong 12 tháng, và tình trạng ngân hàng yếu đặc biệt kéo chỉ số xuống. Rủi ro từ lạm phát, nợ xấu ẩn, và mất niềm tin công chúng vào chính sách vẫn là mối đe dọa chính.",
   "top": [
     {
-      "title": "R&I nâng Việt Nam lên BBB-: mở cửa thị trường vốn quốc tế",
+      "title": "SHB xuống dưới mệnh giá, 100 triệu cổ phiếu khớp lệnh",
+      "impact": "↓",
+      "note": "SHB ghi nhận 100 triệu cổ phiếu giao dịch tới 11h ngày 9/10 (giá trị 1.000 tỷ đồng), có lúc rơi dưới 10.000 đồng/cp (mệnh giá) trước khi hồi phục. Thanh khoản SHB vượt tổng 27 ngân hàng khác; khối ngoại mua ròng 15 triệu cp. Sự bán tháo bất thường gây lo ngại về thanh khoản hệ thống ngân hàng."
+    },
+    {
+      "title": "VN-Index lùi 1.730 điểm, 211 mã giảm trên HOSE, áp lực bán ở ngân hàng",
+      "impact": "↓",
+      "note": "VN-Index giao dịch 1.730,12 điểm, độ rộng thị trường: 74 mã tăng vs 211 mã giảm trên HOSE. Thanh khoản HOSE 4.243 tỷ đồng với áp lực cung lớn, chỉ số bị kéo lùi khi Fed tăng lãi suất 25 điểm cơ bản và căng thẳng địa chính trị vẫn cao."
+    },
+    {
+      "title": "R&I nâng Việt Nam lên BBB-: mở cửa vốn Nhật Bản",
       "impact": "↑",
-      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư (BBB-), thừa nhận nợ công thấp, cán cân vãng lai thặng dư, FDI duy trì. Quyết định tạo điểm tựa chiến lược để Việt Nam mở rộng kênh tiếp cận vốn Nhật Bản và các nguồn vốn quốc tế khác."
+      "note": "R&I lần đầu đưa Việt Nam vào nhóm Đầu tư (BBB-), công nhận nợ công thấp, cán cân vãng lai thặng dư, FDI duy trì. Quyết định mở rộng kênh tiếp cận vốn Nhật Bản, hỗ trợ kế hoạch huy động vốn dài hạn của chính phủ."
     },
     {
-      "title": "FDI giải ngân 21,1 tỷ USD (cao nhất 5 năm), vốn đăng ký 50,4 tỷ USD (+76,4%)",
+      "title": "FDI giải ngân 21,1 tỷ USD (cao nhất 5 năm), vốn đăng ký +76,4%",
       "impact": "↑",
-      "note": "9 tháng 2026, FDI giải ngân 21,1 tỷ USD, vốn đăng ký 50,4 tỷ USD tăng 76,4%. 3.108 dự án, sản xuất 45,8%, chủ yếu từ Singapore 31,7% và Hàn Quốc 19,5%. Dự án lớn: Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD, BYD 480 triệu USD. Dự báo lợi nhuận bất động sản công nghiệp tăng 12,4% năm 2027."
+      "note": "9 tháng 2026: FDI giải ngân 21,1 tỷ USD, vốn đăng ký 50,4 tỷ USD (+76,4%). 3.108 dự án từ Singapore (31,7%) và Hàn Quốc (19,5%); dự án lớn: Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD. Dự báo lợi nhuận bất động sản công nghiệp tăng 12,4% năm 2027."
     },
     {
-      "title": "SHB xuống dưới mệnh giá 10.000 đồng, 100 triệu cổ phiếu sang tay",
+      "title": "Gian lận nhà ở xã hội New City: 80 tỷ đồng 'ăn chênh' từ 300 khách",
       "impact": "↓",
-      "note": "SHB giao dịch 100 triệu cổ phiếu (1.000 tỷ đồng) tới 11h ngày 9/10, rơi xuống dưới mệnh giá 10.000 đồng trước khi hồi phục. Thanh khoản SHB vượt xa 27 ngân hàng cộng lại, khối ngoại mua ròng hơn 15 triệu cổ phiếu. Diễn biến bất thường gây lo ngại cho tình trạng ngành ngân hàng."
+      "note": "Công an TP Hà Nội khởi tố 4 bị can (Công ty bánh kẹo Thăng Long, Sàn Mangala) chiếm đoạt 80 tỷ đồng từ 300 khách mua nhà ở xã hội qua hợp đồng tư vấn hồ sơ. Vụ án làm mất niềm tin của người lao động vào chính sách nhân văn và xử lý pháp luật."
     },
     {
-      "title": "Gian lận nhà ở xã hội New City: 80 tỷ đồng bị 'ăn chênh'",
+      "title": "PYN Elite Fund lỗ 19,47% trong 12 tháng, lo thắt chặt thanh khoản",
       "impact": "↓",
-      "note": "Công an TP Hà Nội khởi tố 4 bị can (lãnh đạo Công ty bánh kẹo Thăng Long và Sàn Mangala) chiếm đoạt 80 tỷ đồng từ gần 300 khách hàng mua nhà ở xã hội qua thủ đoạn ký hợp đồng tư vấn hồ sơ. Vụ án làm mất tin tưởng người lao động vào chính sách nhân văn của nhà nước."
-    },
-    {
-      "title": "Rủi ro lạm phát từ nắng nóng, hạn hán: CPI phản ứng chậm",
-      "impact": "↓",
-      "note": "Thời tiết cực đoan (nắng nóng, hạn hán) tác động đến giá lương thực toàn cầu. Ghana và Bờ Biển Ngà bị ảnh hưởng ca cao; nhiệt độ cao hạn chế sản lượng cây trồng, tăng chi phí chăn nuôi. Mặc dù giá nông sản biến động nhưng truyền dẫn vào CPI có độ trễ, tạo không chắc chắn về lạm phát."
-    },
-    {
-      "title": "Chính phủ đẩy KPI tăng trưởng quý IV: Lạng Sơn 18,41%",
-      "impact": "→",
-      "note": "9 tỉnh/thành phó có mục tiêu tăng trưởng GRDP quý IV trên 15%, với Lạng Sơn dẫn đầu 18,41%. Sau 9 tháng, Lạng Sơn tăng 7,52% nhưng mục tiêu cả năm 10,61%, yêu cầu tăng hơn gấp đôi trong 3 tháng. Chương trình phản ánh nỗ lực tăng trưởng nhưng thách thức thực hiện trong ngắn hạn vẫn lớn."
+      "note": "Hiệu suất PYN Elite: âm 19,47% trong 12 tháng, âm 12,67% từ đầu năm. Mặc dù FTSE nâng Việt Nam vào thị trường mới nổi (21/9), dòng vốn thụ động chưa bù đắp; Fed tăng lãi suất, thiếu thanh khoản tiền tệ nội địa gây sức ép lên lãi suất."
     }
   ]
 }
