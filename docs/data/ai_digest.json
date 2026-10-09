@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán rung lắc (-0.37%) dưới áp lực từ lãi suất toàn cầu tăng và thắt chặt tiền tệ trong nước, nhưng được hỗ trợ bởi các tin tích cực: Việt Nam nâng hạng tín nhiệm BBB- từ R&I (mở cửa thị trường vốn Nhật), dòng vốn FDI mạnh mẽ tăng 76,4% lên 50,4 tỷ USD, các công ty lớn công bố kết quả kinh doanh tốt và kế hoạch chia cổ tức cao. Áp lực từ lạm phát (giá lương thực tăng do thời tiết cực đoan) và Fed tăng lãi suất vẫn là rủi ro ngắn hạn cần theo dõi.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường ghi nhận các tín hiệu tích cực từ nâng hạng tín nhiệm BBB- của R&I, dòng vốn FDI tăng 76,4% lên 50,4 tỷ USD trong 9 tháng, và kết quả kinh doanh xuất sắc của MSR doanh thu gấp 5,1 lần. Tuy nhiên, áp lực lạm phát vẫn tiềm ẩn với CPI 4,52%, thời tiết cực đoan ảnh hưởng giá nông sản toàn cầu và lo ngại lãi suất quốc tế tăng. VN-Index rung lắc (-0,37%), phản ánh cân bằng giữa yếu tố tích cực nội địa và rủi ro bên ngoài.",
   "top": [
     {
-      "title": "R&I nâng Việt Nam lên BBB-, mở cửa thị trường vốn Nhật Bản",
+      "title": "Nâng hạng tín nhiệm BBB-, mở cửa vốn Nhật Bản",
       "impact": "↑",
-      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư (BBB-). Nợ công tương đối thấp, cán cân vãng lai thặng dư, dòng vốn FDI duy trì, nợ nước ngoài thấp. Xác nhận hồ sơ tín dụng cải thiện đủ lớn, mở rộng khả năng tiếp cận thị trường vốn Nhật và các kênh huy động vốn quốc tế."
+      "note": "R&I lần đầu nâng Việt Nam lên BBB-, nhóm xếp hạng tín nhiệm Đầu tư. Nợ công thấp, cán cân vãng lai thặng dư, FDI duy trì, nợ ngoài thấp."
     },
     {
-      "title": "Vốn FDI tăng 76,4% lên 50,4 tỷ USD, cao nhất 5 năm",
+      "title": "FDI tăng 76,4%, vốn giải ngân 21,1 tỷ USD",
       "impact": "↑",
-      "note": "Trong 9 tháng 2026, vốn đăng ký tăng mạnh 76,4%, vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm). Singapore (31,7%) và Hàn Quốc (19,5%) là nhà đầu tư chính. Các dự án lớn: Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD. Lợi nhuận ròng bất động sản khu công nghiệp dự báo tăng 12,4% năm 2027."
+      "note": "Vốn đăng ký 9 tháng 2026 tăng 76,4% lên 50,4 tỷ USD. Singapore (31,7%), Hàn Quốc (19,5%). Dự báo lợi nhuận khu công nghiệp tăng 12,4% năm 2027."
     },
     {
-      "title": "MSR doanh thu gấp 5,1 lần, cổ tức 6.000 đồng/cp",
+      "title": "MSR doanh thu gấp 5,1 lần, cổ tức 6.000 đồng",
       "impact": "↑",
-      "note": "Lũy kế 8 tháng 2026, doanh thu 21.013 tỷ đồng (tăng 5,1 lần). 6 tháng đầu năm lợi nhuận sau thuế 83 triệu USD. Dự kiến năm 2026 doanh thu 1,4 tỷ USD, lợi nhuận 233 triệu USD. Doanh thu vượt 110% kế hoạch năm. Cam kết cổ tức tiền mặt tối thiểu 50% lợi nhuận từ năm 2027."
+      "note": "8 tháng 2026 doanh thu 21.013 tỷ đồng (gấp 5,1 lần cùng kỳ). Dự kiến cổ tức 6.000 đồng/cp năm 2026, từ 2027 tối thiểu 50% lợi nhuận."
     },
     {
-      "title": "Lãi suất toàn cầu tăng, Fed tăng 25 điểm cơ bản, áp lực lạm phát",
-      "impact": "↓",
-      "note": "PYN Elite Fund báo cáo lỗ 12,67% YTD, 19,47% trong 12 tháng. Nguyên nhân: Fed tăng lãi suất 25 điểm cơ bản, lãi suất toàn cầu tăng, căng thẳng địa chính trị đẩy giá dầu cao (rủi ro lạm phát), nguồn cung tiền trong nước thắt chặt. Áp lực bên ngoài chưa được bù đắp bởi sự kiện FTSE nâng Việt Nam lên thị trường mới nổi (21/9)."
-    },
-    {
-      "title": "SHB hồi phục mạnh, lãnh đạo mua vào, ngoại tích cực",
+      "title": "CPI 4,52%, áp lực lạm phát quý 4 vẫn còn",
       "impact": "→",
-      "note": "Phó Tổng Giám đốc SHB Đinh Ngọc Dũng đăng ký mua 2 triệu cp (15/10-12/11/2026). Phiên 9/10 sáng, khối lượng 100+ triệu cp (giá trị 1.000+ tỷ đồng), khối ngoại mua ròng 15+ triệu cp. Cổ phiếu hồi từ 9.550 đồng (dưới mệnh giá) lên 10.100 đồng, phản ánh niềm tin của nhà đầu tư trong và ngoài nước."
+      "note": "CPI bình quân 9 tháng tăng 4,52%, lạm phát cơ bản 4,26%. Quý IV có rủi ro từ năng lượng quốc tế, gián đoạn chuỗi cung, nhu cầu cuối năm."
     },
     {
-      "title": "Giảm thuế xuất khẩu phân bón từ 5% xuống 0%",
+      "title": "SHB lãnh đạo mua tích cực, khối ngoại theo",
       "impact": "↑",
-      "note": "Bộ Tài chính đề xuất giảm thuế xuất khẩu phân kali sulphat (SOP), phân urea, supe lân từ 5% xuống 0%. Lý do: tình hình xung đột Trung Đông cải thiện, giá phân bón trong nước và thế giới ổn định. Hỗ trợ khả năng cạnh tranh xuất khẩu và lợi nhuận của doanh nghiệp phân bón."
+      "note": "Phó Tổng Giám đốc SHB Đinh Ngọc Dũng đăng ký mua 2 triệu cp (15/10-12/11). Phiên 9/10 khối ngoại mua ròng 15 triệu cp, thanh khoản 1.000 tỷ đồng."
+    },
+    {
+      "title": "Quỹ ngoài lỗ 19,47%, lãi suất toàn cầu tăng",
+      "impact": "↓",
+      "note": "PYN Elite lỗ 19,47% trong 12 tháng gần nhất. Fed tăng lãi suất 25 điểm cơ bản, giá dầu cao, căng thẳng địa chính trị tạo áp lực."
     }
   ]
 }
