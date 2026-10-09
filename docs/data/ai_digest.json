@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường tích cực từ nâng hạng tín nhiệm BBB- của R&I và dòng FDI mạnh 50,4 tỷ USD (9 tháng), nhưng chịu sức ép từ khối ngoại bán ròng liên tục (9.600 tỷ MCH, 185 tỷ hôm nay). VN-Index chưa phục hồi, giảm 0.15% tuần qua; áp lực điều chỉnh ngắn hạn vẫn cao dù một số lãnh đạo ngân hàng mua vào.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực từ dòng tiền ngoại bán ròng kéo dài, VN-Index giảm 0,22% và thanh khoản yếu 14.800 tỷ đồng. Tuy nhiên, R&I nâng Việt Nam lên xếp hạng BBB- mở rộng tiếp cận vốn quốc tế, vốn FDI 9 tháng tăng 76,4% lên 50,4 tỷ USD (cao nhất 5 năm) là những tín hiệu tích cực dài hạn. Rủi ro lạm phát từ CPI tăng 4,52% và giá vàng tăng 1,8 triệu đồng/lượng cần theo dõi, cùng áp lực bán ròng ngắn hạn.",
   "top": [
     {
-      "title": "R&I nâng Việt Nam lên BBB-",
-      "impact": "↑",
-      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư BBB-, công nhận nợ công thấp, cân cân vãng lai thặng dư; mở rộng tiếp cận thị trường vốn Nhật Bản, hỗ trợ huy động vốn quốc tế."
-    },
-    {
-      "title": "Dòng tiền FDI mạnh vượt kỳ vọng",
-      "impact": "↑",
-      "note": "9 tháng 2026 vốn FDI đăng ký 50,4 tỷ USD (tăng 76,4%), vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm); Samsung, Hàn Quốc, Singapore tiếp tục tập trung đầu tư; hỗ trợ dài hạn nhu cầu đất công nghiệp."
-    },
-    {
-      "title": "Khối ngoại bán ròng MCH 9.600 tỷ đồng",
+      "title": "Khối ngoại bán ròng mạnh, MCH xả 9.600 tỷ đồng",
       "impact": "↓",
-      "note": "MCH bị khối ngoại bán ròng 9.600 tỷ đồng qua thỏa thuận phiên 09/10, bỏ xa cổ phiếu khác; thể hiện áp lực xả mạnh của NĐTNN."
+      "note": "Khối ngoại bán ròng 185 tỷ đồng trong phiên 9/10, MCH bị xả đột biến 9.600 tỷ đồng qua thỏa thuận. HDB bị bán ròng 227 tỷ đồng, FPT 121 tỷ đồng, dòng tiền bán ròng kéo dài tạo sức ép liên tục."
     },
     {
-      "title": "VN-Index chưa phục hồi, giảm 0.15% tuần",
+      "title": "VN-Index yếu giảm 0,22%, thanh khoản chỉ 14.800 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index 09/10 giảm 0.22% xuống 1.735 điểm, tuần giảm tổng 2.62 điểm (-0.15%); dòng tiền phân hóa, áp lực bán gia tăng, test vùng hỗ trợ 1.715-1.750 điểm quyết định xu hướng."
+      "note": "VN-Index giảm 0,22% xuống 1.735 điểm phiên 9/10. Tuần qua chỉ số giảm 2,62 điểm (-0,15%). Thanh khoản thấp, dòng tiền phân hóa, 175 mã đỏ chiếm ưu thế; test vùng hỗ trợ 1.715-1.750 điểm quyết định xu hướng tới."
     },
     {
-      "title": "Khối ngoại bán ròng 185 tỷ hôm 09/10",
-      "impact": "↓",
-      "note": "Khối ngoại tiếp tục bán ròng 185 tỷ đồng phiên 09/10 (HDB -227 tỷ, FPT -121 tỷ, ACB -70 tỷ); tự doanh mua ròng 266 tỷ nhưng không đủ bù trừ."
-    },
-    {
-      "title": "Lãnh đạo SHB đăng ký mua 4 triệu cổ phiếu",
+      "title": "R&I nâng Việt Nam BBB-, mở cửa thị trường vốn quốc tế",
       "impact": "↑",
-      "note": "Hai lãnh đạo SHB (Phó TGĐ Nguyễn Huy Tài và Đinh Ngọc Dũng) đăng ký mua tổng 4 triệu cổ phiếu SHB từ 15/10 đến 12/11/2026 (giá trị 20 tỷ theo mệnh giá); thể hiện tin tưởng của quản lý ngân hàng."
+      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư (BBB-), công nhận nợ công thấp, cân cân vãng lai thặng dư. Quyết định mở rộng tiếp cận thị trường vốn Nhật Bản, tăng uy tín tín dụng quốc gia."
+    },
+    {
+      "title": "Vốn FDI 9 tháng tăng 76,4% lên 50,4 tỷ USD",
+      "impact": "↑",
+      "note": "Vốn FDI đăng ký 9 tháng 2026 đạt 50,4 tỷ USD (tăng 76,4%), vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm). Vốn mới 29,2 tỷ USD từ 3.108 dự án với 45,8% từ sản xuất; Singapore 31,7%, Hàn Quốc 19,5% tổng vốn đăng ký."
+    },
+    {
+      "title": "CPI tăng 4,52%, giá vàng tăng 1,8 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "CPI 9 tháng 2026 tăng 4,52% so cùng kỳ, lạm phát cơ bản 4,26%, từ giá nhiên liệu thế giới tăng từ tháng 3. SJC tăng 1,8 triệu đồng/lượng, giá bán 144,8 triệu đồng/lượng, chênh lệch mua bán tăng cao."
+    },
+    {
+      "title": "Lãnh đạo SHB đăng ký mua 4 triệu cổ phiếu từ 15/10",
+      "impact": "↑",
+      "note": "Phó Tổng Giám đốc Nguyễn Huy Tài mua 2 triệu cổ phiếu, cộng lãnh đạo khác tổng 4 triệu cổ phiếu từ 15/10 đến 12/11/2026 (giá trị 20 tỷ đồng theo mệnh giá). SHB cũng khẳng định hoạt động an toàn ổn định, tín hiệu lạc quan từ quản lý ngân hàng."
     }
   ]
 }
