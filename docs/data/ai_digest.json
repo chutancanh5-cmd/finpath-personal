@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-09",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận hai tín hiệu vĩ mô tích cực: nâng hạng tín dụng R&I lên BBB- và dòng FDI tăng 76,4% lên 50,4 tỷ USD với vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm). Tuy nhiên, áp lực từ các cổ phiếu lớn giảm mạnh (SHB xuống dưới mệnh giá, PNJ -44%), vấn đề pháp lý (tham nhũng NOXH New City 80 tỷ đồng), và sự yếu đuối của quỹ chứng chỉ (PYN Elite -19,47%) chi phối tâm lý thị trường ngắn hạn. Chính sách giảm thuế xuất khẩu phân bón có thể hỗ trợ ngành nông sản.",
+  "summary_vi": "Nâng hạng tín nhiệm quốc gia (BBB-) từ R&I là cột mốc quan trọng mở rộng tiếp cận thị trường vốn quốc tế; FDI giải ngân mạnh 21,1 tỷ USD (cao nhất 5 năm) hỗ trợ tăng trưởng dài hạn. Tuy nhiên, thị trường chứng khoán gặp áp lực từ tình trạng ngân hàng (SHB xuống dưới mệnh giá), các vụ gian lận tài chính làm mất tin tưởng và lo ngại lạm phát từ thời tiết cực đoan. Chính phủ đẩy KPI tăng trưởng quý IV cao (Lạng Sơn 18,41%) nhưng thách thức thực hiện trong ngắn hạn vẫn lớn.",
   "top": [
     {
-      "title": "R&I nâng Việt Nam lên BBB-, investment grade lần đầu",
+      "title": "R&I nâng Việt Nam lên BBB-: mở cửa thị trường vốn quốc tế",
       "impact": "↑",
-      "note": "R&I lần đầu tiên xếp hạng Việt Nam ở nhóm Đầu tư BBB-. Đánh giá nợ công thấp, cán cân vãng lai thặng dư, dòng FDI duy trì. Kết quả mở rộng kênh tiếp cận vốn quốc tế, đặc biệt thị trường Nhật Bản, tạo hỗ trợ cấu trúc tài chính dài hạn."
+      "note": "R&I lần đầu đưa Việt Nam vào nhóm xếp hạng tín nhiệm Đầu tư (BBB-), thừa nhận nợ công thấp, cán cân vãng lai thặng dư, FDI duy trì. Quyết định tạo điểm tựa chiến lược để Việt Nam mở rộng kênh tiếp cận vốn Nhật Bản và các nguồn vốn quốc tế khác."
     },
     {
-      "title": "FDI 9 tháng tăng 76,4% lên 50,4 tỷ USD, giải ngân 21,1 tỷ USD cao nhất 5 năm",
+      "title": "FDI giải ngân 21,1 tỷ USD (cao nhất 5 năm), vốn đăng ký 50,4 tỷ USD (+76,4%)",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 50,4 tỷ USD (tăng 76,4%), giải ngân 21,1 tỷ USD. 3.108 dự án, sản xuất 45,8%, Singapore 31,7%, Hàn Quốc 19,5%. Dự án lớn: Samsung Thái Nguyên 5,2 tỷ USD, LNG Hàn Quốc 2,2 tỷ USD, module quang học 700 triệu USD, BYD 480 triệu USD."
+      "note": "9 tháng 2026, FDI giải ngân 21,1 tỷ USD, vốn đăng ký 50,4 tỷ USD tăng 76,4%. 3.108 dự án, sản xuất 45,8%, chủ yếu từ Singapore 31,7% và Hàn Quốc 19,5%. Dự án lớn: Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD, BYD 480 triệu USD. Dự báo lợi nhuận bất động sản công nghiệp tăng 12,4% năm 2027."
     },
     {
-      "title": "SHB xuống dưới mệnh giá 10.000 đồng, 100 triệu cổ phiếu giao dịch",
+      "title": "SHB xuống dưới mệnh giá 10.000 đồng, 100 triệu cổ phiếu sang tay",
       "impact": "↓",
-      "note": "SHB giảm xuống 9.870 đồng/cổ phiếu (dưới mệnh giá 10.000 đồng) rồi hồi phục. Giao dịch 100 triệu cổ phiếu (1.000 tỷ đồng) tính đến 11h ngày 9/10, thanh khoản vượt tổng 27 ngân hàng khác. Khối ngoại mua ròng 15 triệu đơn vị trong diễn biến bất thường."
+      "note": "SHB giao dịch 100 triệu cổ phiếu (1.000 tỷ đồng) tới 11h ngày 9/10, rơi xuống dưới mệnh giá 10.000 đồng trước khi hồi phục. Thanh khoản SHB vượt xa 27 ngân hàng cộng lại, khối ngoại mua ròng hơn 15 triệu cổ phiếu. Diễn biến bất thường gây lo ngại cho tình trạng ngành ngân hàng."
     },
     {
-      "title": "PNJ giảm 44% sau 13 phiên liên tiếp, từ 32.700 xuống 18.250 đồng",
+      "title": "Gian lận nhà ở xã hội New City: 80 tỷ đồng bị 'ăn chênh'",
       "impact": "↓",
-      "note": "Cổ phiếu PNJ (Vàng bạc Đá quý) giảm mạnh trong 13 phiên liên tiếp, mức giảm 44% từ 32.700 đồng/cổ phiếu xuống còn 18.250 đồng. Đây là diễn biến giảm sâu của cổ phiếu có lịch sử tăng trưởng mạnh."
+      "note": "Công an TP Hà Nội khởi tố 4 bị can (lãnh đạo Công ty bánh kẹo Thăng Long và Sàn Mangala) chiếm đoạt 80 tỷ đồng từ gần 300 khách hàng mua nhà ở xã hội qua thủ đoạn ký hợp đồng tư vấn hồ sơ. Vụ án làm mất tin tưởng người lao động vào chính sách nhân văn của nhà nước."
     },
     {
-      "title": "NOXH New City: 4 bị can \"ăn chênh\" 80 tỷ đồng từ gần 300 khách",
+      "title": "Rủi ro lạm phát từ nắng nóng, hạn hán: CPI phản ứng chậm",
       "impact": "↓",
-      "note": "Công an TP Hà Nội khởi tố 4 bị can (lãnh đạo Công ty bánh kẹo Thăng Long và Sàn Mangala) lạm dụng chức vụ chiếm đoạt 80 tỷ đồng từ gần 300 khách hàng mua NOXH qua thủ đoạn ký hợp đồng tư vấn. Tổn hại niềm tin người lao động vào chính sách nhân văn."
+      "note": "Thời tiết cực đoan (nắng nóng, hạn hán) tác động đến giá lương thực toàn cầu. Ghana và Bờ Biển Ngà bị ảnh hưởng ca cao; nhiệt độ cao hạn chế sản lượng cây trồng, tăng chi phí chăn nuôi. Mặc dù giá nông sản biến động nhưng truyền dẫn vào CPI có độ trễ, tạo không chắc chắn về lạm phát."
     },
     {
-      "title": "Giảm thuế xuất khẩu phân bón: urea, supe lân, SOP từ 5% xuống 0%",
-      "impact": "↑",
-      "note": "Bộ Tài chính đề xuất giảm thuế xuất khẩu 3 mặt hàng phân bón. SOP từ 5% xuống 0% vì sản xuất từ nguyên liệu nhập khẩu, không dùng tài nguyên nước ngoài. Quyết định dựa trên ổn định giá phân bón toàn cầu sau cải thiện tình hình Trung Đông."
+      "title": "Chính phủ đẩy KPI tăng trưởng quý IV: Lạng Sơn 18,41%",
+      "impact": "→",
+      "note": "9 tỉnh/thành phó có mục tiêu tăng trưởng GRDP quý IV trên 15%, với Lạng Sơn dẫn đầu 18,41%. Sau 9 tháng, Lạng Sơn tăng 7,52% nhưng mục tiêu cả năm 10,61%, yêu cầu tăng hơn gấp đôi trong 3 tháng. Chương trình phản ánh nỗ lực tăng trưởng nhưng thách thức thực hiện trong ngắn hạn vẫn lớn."
     }
   ]
 }
