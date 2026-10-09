@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-09",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường ghi nhận các tín hiệu tích cực từ nâng hạng tín nhiệm BBB- của R&I, dòng vốn FDI tăng 76,4% lên 50,4 tỷ USD trong 9 tháng, và kết quả kinh doanh xuất sắc của MSR doanh thu gấp 5,1 lần. Tuy nhiên, áp lực lạm phát vẫn tiềm ẩn với CPI 4,52%, thời tiết cực đoan ảnh hưởng giá nông sản toàn cầu và lo ngại lãi suất quốc tế tăng. VN-Index rung lắc (-0,37%), phản ánh cân bằng giữa yếu tố tích cực nội địa và rủi ro bên ngoài.",
+  "summary_vi": "Nâng hạng tín nhiệm BBB- từ R&I tạo bước ngoặt cho Việt Nam tiếp cận thị trường vốn quốc tế. Dòng vốn FDI mạnh mẽ với đăng ký tăng 76,4% lên 50,4 tỷ USD, thúc đẩy tăng trưởng kinh tế và lợi nhuận bất động sản công nghiệp dự kiến tăng 12,4% trong 2027. Chính sách kiểm soát lạm phát được triển khai chủ động. Tuy vậy, thị trường chứng khoán có dấu hiệu áp lực bán ngắn hạn với VN-Index giảm nhẹ và các cổ phiếu công nghệ/truyền thông điều chỉnh.",
   "top": [
     {
-      "title": "Nâng hạng tín nhiệm BBB-, mở cửa vốn Nhật Bản",
+      "title": "R&I nâng Việt Nam lên BBB-: mở cửa thị trường vốn Nhật Bản",
       "impact": "↑",
-      "note": "R&I lần đầu nâng Việt Nam lên BBB-, nhóm xếp hạng tín nhiệm Đầu tư. Nợ công thấp, cán cân vãng lai thặng dư, FDI duy trì, nợ ngoài thấp."
+      "note": "Lần đầu tiên, R&I nâng Việt Nam lên nhóm xếp hạng tín nhiệm Đầu tư (BBB-). Đánh giá nợ công tương đối thấp, cán cân vãng lai thặng dư, FDI duy trì. Kết quả này tạo điểm tựa mở rộng tiếp cận thị trường vốn quốc tế, đặc biệt là Nhật Bản, hỗ trợ dòng vốn nước ngoài vào TTCK."
     },
     {
-      "title": "FDI tăng 76,4%, vốn giải ngân 21,1 tỷ USD",
+      "title": "Vốn FDI đăng ký tăng 76,4% lên 50,4 tỷ USD, lợi nhuận BĐS công nghiệp +12,4%",
       "impact": "↑",
-      "note": "Vốn đăng ký 9 tháng 2026 tăng 76,4% lên 50,4 tỷ USD. Singapore (31,7%), Hàn Quốc (19,5%). Dự báo lợi nhuận khu công nghiệp tăng 12,4% năm 2027."
+      "note": "Vốn FDI đăng ký 9 tháng 2026 tăng 76,4% lên 50,4 tỷ USD, vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm). Dự án Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD. Lợi nhuận ròng bất động sản khu công nghiệp dự kiến tăng 12,4% trong 2027, hỗ trợ tăng trưởng kinh tế bền vững."
     },
     {
-      "title": "MSR doanh thu gấp 5,1 lần, cổ tức 6.000 đồng",
+      "title": "MSR doanh thu tăng 511%, lợi nhuận dự kiến 233 triệu USD, cổ tức 6.000 đ/cp",
       "impact": "↑",
-      "note": "8 tháng 2026 doanh thu 21.013 tỷ đồng (gấp 5,1 lần cùng kỳ). Dự kiến cổ tức 6.000 đồng/cp năm 2026, từ 2027 tối thiểu 50% lợi nhuận."
+      "note": "8 tháng 2026, MSR đạt doanh thu 21.013 tỷ đ (gấp 5,1 lần cùng kỳ), lợi nhuận sau thuế 83 triệu USD (6 tháng). Dự kiến cả năm 2026: 1,4 tỷ USD doanh thu, 233 triệu USD lợi nhuận. HĐQT quyết định phân phối 100% lợi nhuận bằng tiền mặt (6.000 đ/cp), chính sách tối thiểu 50% từ 2027, gương sáng cho cổ phiếu có năng lực."
     },
     {
-      "title": "CPI 4,52%, áp lực lạm phát quý 4 vẫn còn",
+      "title": "NVL kịch trần 10.950 đ, phát hành 1,73 triệu cp chuyển đổi trái phiếu 2,36 triệu USD",
+      "impact": "↑",
+      "note": "Novaland phát hành 1,73 triệu cp để chuyển đổi 10 trái phiếu quốc tế, tổng giá trị 2,36 triệu USD. NVL tăng kịch trần lên 10.950 đ/cp với thanh khoản 70 triệu đơn vị, khởi động hồi phục sau khi mất 40% giá trị từ đỉnh 19.000 đ (tháng 3-4). Tín hiệu tích cực từ tái cấu trúc tài chính của bất động sản."
+    },
+    {
+      "title": "CPI 9 tháng tăng 4,52%, chính phủ tăng cường kiểm soát lạm phát",
       "impact": "→",
-      "note": "CPI bình quân 9 tháng tăng 4,52%, lạm phát cơ bản 4,26%. Quý IV có rủi ro từ năng lượng quốc tế, gián đoạn chuỗi cung, nhu cầu cuối năm."
+      "note": "CPI bình quân 9 tháng tăng 4,52%, lạm phát cơ bản 4,26%. Phó Thủ tướng Nguyễn Văn Thắng chủ trì họp Ban Chỉ đạo điều hành giá, triển khai miễn giảm thuế, phí để giảm chi phí đầu vào. Sách giáo khoa giảm 13,3%, miễn phí từ 2029-2030. Chính sách kiểm soát lạm phát là nền tảng ổn định cho TTCK trong quý IV."
     },
     {
-      "title": "SHB lãnh đạo mua tích cực, khối ngoại theo",
-      "impact": "↑",
-      "note": "Phó Tổng Giám đốc SHB Đinh Ngọc Dũng đăng ký mua 2 triệu cp (15/10-12/11). Phiên 9/10 khối ngoại mua ròng 15 triệu cp, thanh khoản 1.000 tỷ đồng."
-    },
-    {
-      "title": "Quỹ ngoài lỗ 19,47%, lãi suất toàn cầu tăng",
+      "title": "VN-Index -0,37%, áp lực bán tại công nghệ/truyền thông",
       "impact": "↓",
-      "note": "PYN Elite lỗ 19,47% trong 12 tháng gần nhất. Fed tăng lãi suất 25 điểm cơ bản, giá dầu cao, căng thẳng địa chính trị tạo áp lực."
+      "note": "Sáng 9/10, VN-Index giảm 6,42 điểm (-0,37%) xuống 1.732,55 điểm, HNX giảm 0,49%. Độ rộng: 416 mã giảm, 204 mã tăng. Công nghệ (FPT -2,18%, ELC -2,97%, VEC -12,6%) và truyền thông (VGI -2,16%, FOX -2,41%) áp lực mạnh. Tín hiệu áp lực bán gia tăng ngắn hạn, dù thanh khoản tăng 24,72%."
     }
   ]
 }
