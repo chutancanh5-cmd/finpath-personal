@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường phản ánh sự cân bằng giữa áp lực lạm phát trong nước (CPI dự báo 4,5-4,8% cả năm, chi phí đầu vào tăng từ giá năng lượng thế giới) và triển vọng tích cực từ dòng vốn FDI mạnh mẽ (tăng 76,4% lên 50,4 tỷ USD 9 tháng). Khối ngoại bán ròng mạnh 13.500 tỷ đồng tuần vừa qua với MCH chịu áp lực xả 9.000+ tỷ, phản ánh lo ngại giá trị. Bất chấp áp lực ngắn hạn, bất động sản khu công nghiệp duy trì động lực tích cực với dự báo lợi nhuận tăng 12,4% năm 2027.",
+  "summary_vi": "Thị trường chứng khoán Việt diễn biến trái chiều: áp lực lạm phát (CPI dự báo 4,5-4,8%) và dòng vốn ngoại bán ròng mạnh (13.490 tỷ đồng/tuần) cân bằng với hỗ trợ từ dòng vốn FDI mạnh mẽ (tăng 76,4% lên 50,4 tỷ USD, giải ngân 21,1 tỷ USD) và tăng trưởng kinh tế khu vực vượt bậc (Đà Nẵng, Tây Ninh). Sức mua tự doanh vẫn tích cực nhưng dòng vốn ngoại xả hàng liên tiếp có thể gây áp lực ngắn hạn.",
   "top": [
     {
-      "title": "CPI cả năm dự báo 4,5-4,8%, áp lực chi phí đầu vào",
+      "title": "CPI cả năm dự báo tăng 4,5-4,8%, áp lực chi phí đầu vào",
       "impact": "↓",
-      "note": "Bộ Tài chính dự báo CPI bình quân năm 2026 tăng 4,5% hoặc 4,8%, giảm 0,2 điểm % so dự báo tháng 9. CPI 9 tháng tăng 4,52%, lạm phát cơ bản 4,26%. Từ tháng 3, giá nhiên liệu, năng lượng thế giới tăng mạnh, vận tải logistics gián đoạn khiến chi phí đầu vào gia tăng, tạo sức ép lên mặt bằng giá cả."
+      "note": "Bộ Tài chính dự báo CPI bình quân năm 2026 tăng 4,5% hoặc 4,8%. CPI 9 tháng tăng 4,52%, lạm phát cơ bản tăng 4,26%. Từ tháng 3, giá nhiên liệu, năng lượng thế giới tăng mạnh, vận tải logistics gián đoạn khiến chi phí đầu vào gia tăng; rủi ro từ chuỗi cung ứng và nhu cầu cuối năm khiến kiểm soát lạm phát khó khăn hơn."
     },
     {
-      "title": "Khối ngoại bán ròng 13.500 tỷ đồng, MCH bị xả 9.000+ tỷ",
+      "title": "Khối ngoại bán ròng 13.490 tỷ đồng, MCH xả 9.000+ tỷ",
       "impact": "↓",
-      "note": "Tuần 5-9/10, khối ngoại bán ròng 13.490 tỷ đồng (13.526 tỷ trên HoSE). MCH chịu áp lực xả ròng mạnh nhất 9.000+ tỷ đồng qua giao dịch thỏa thuận, bỏ xa các mã khác. Ngày 9/10 khối ngoại tiếp tục bán ròng 185 tỷ, trong đó xả 227 tỷ trên HDB, 121 tỷ trên FPT."
+      "note": "Tuần 5-9/10, khối ngoại bán ròng 13.490 tỷ đồng (13.526 tỷ trên HoSE). MCH chịu áp lực xả ròng mạnh nhất hơn 9.000 tỷ đồng qua giao dịch thỏa thuận. Ngày 9/10 khối ngoại tiếp tục bán ròng 185 tỷ, xả 227 tỷ trên HDB, 121 tỷ trên FPT. Dòng vốn ngoại âm liên tiếp tạo áp lực."
     },
     {
-      "title": "Vốn FDI tăng 76,4% lên 50,4 tỷ USD 9 tháng, giải ngân 21,1 tỷ USD",
+      "title": "Vốn FDI tăng 76,4% lên 50,4 tỷ USD, giải ngân 21,1 tỷ USD",
       "impact": "↑",
-      "note": "9 tháng 2026, vốn FDI đăng ký tăng 76,4% lên 50,4 tỷ USD, vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm). Vốn mới 29,2 tỷ USD từ 3.108 dự án, sản xuất chiếm 45,8%. Singapore (31,7%) và Hàn Quốc (19,5%) dẫn đầu; dự án lớn: Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD."
+      "note": "9 tháng 2026, vốn FDI đăng ký tăng 76,4% lên 50,4 tỷ USD, vốn giải ngân 21,1 tỷ USD (cao nhất 5 năm). Vốn mới 29,2 tỷ USD từ 3.108 dự án, sản xuất chiếm 45,8%. Singapore (31,7%) và Hàn Quốc (19,5%) dẫn đầu. Dự án lớn: Samsung Thái Nguyên 5,2 tỷ USD, LNG Bắc Ninh 2,2 tỷ USD."
+    },
+    {
+      "title": "Đà Nẵng tăng trưởng vượt bậc, gỡ vướng dự án trọng điểm",
+      "impact": "↑",
+      "note": "Đà Nẵng 9 tháng 2026 tăng trưởng ấn tượng, dự án trọng điểm được tháo gỡ vướng mắc về mặt bằng, thủ tục hành chính. Dòng vốn đầu tư công được đẩy mạnh giải ngân. Mặc dù áp lực từ chi phí nguyên vật liệu và thị trường quốc tế biến động, thành phố vẫn duy trì tốc độ tăng trưởng ấn tượng."
+    },
+    {
+      "title": "Tây Ninh GRDP tăng 10,30%, FDI 27 tỷ USD xếp thứ 7",
+      "impact": "↑",
+      "note": "Tây Ninh GRDP 9 tháng tăng 10,30%, vượt kế hoạch 10,21%, xếp thứ 10 toàn quốc, dẫn đầu miền Nam. Có 2.150 dự án FDI với vốn đăng ký hơn 27 tỷ USD, xếp thứ 7 cả nước. Kim ngạch xuất nhập khẩu 27,044 tỷ USD, tăng 17,5%; thương mại dịch vụ tăng 19%."
     },
     {
       "title": "Lợi nhuận bất động sản KCN dự báo tăng 12,4% năm 2027",
       "impact": "↑",
-      "note": "Nguồn cung khu công nghiệp mới dự kiến tăng tốc Q4/2026 và 2027 nhờ dòng vốn FDI mạnh. Nhu cầu thuê đất phục hồi, lượng hấp thụ ròng miền Bắc đạt 217 ha trong Q2/2026. Lợi nhuận ròng chủ đầu tư dự báo tăng 12,4% so cùng kỳ."
-    },
-    {
-      "title": "SHB lên tiếng về thông tin chưa kiểm chứng trên thị trường",
-      "impact": "↓",
-      "note": "SHB phát hành thông cáo khẳng định hoạt động kinh doanh bình thường, an toàn, ổn định; các kế hoạch tài chính, quản trị và điều hành tuân thủ quy định pháp luật. Cảnh báo khách hàng, cổ đông, nhà đầu tư thận trọng trước thông tin không rõ nguồn gốc hoặc chưa kiểm chứng."
-    },
-    {
-      "title": "Tây Ninh GRDP 9 tháng tăng 10,30%, xếp thứ 7 FDI cả nước",
-      "impact": "↑",
-      "note": "Tây Ninh 9 tháng GRDP tăng 10,30%, vượt kịch bản 10,21%, xếp thứ 10/34 tỉnh-thành. Có 2.150 dự án FDI với vốn đăng ký hơn 27 tỷ USD, xếp thứ 7 cả nước. Kim ngạch xuất nhập khẩu 27,044 tỷ USD, tăng 17,5%; đầu tư công giải ngân 18.858 tỷ đồng."
+      "note": "Nguồn cung khu công nghiệp mới dự kiến tăng tốc quý 4/2026 và 2027. Lợi nhuận ròng chủ đầu tư dự báo tăng 12,4% so cùng kỳ. Nhu cầu thuê đất phục hồi mạnh, lượng hấp thụ ròng miền Bắc đạt 217 ha trong quý 2/2026."
     }
   ]
 }
