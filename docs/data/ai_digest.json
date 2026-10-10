@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-10",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Vốn FDI vào Việt Nam 9 tháng đạt 50,36 tỷ USD, tăng 76,4% so với cùng kỳ, TP.HCM ghi nhận 8 tỷ USD tháng 9. Tuy nhiên khối ngoại tiếp tục bán ròng 185 tỷ đồng, chủ yếu xả HDB, FPT, ACB. CPI bình quân 4,52% và dự báo cả năm 4,5-4,8% tạo áp lực lạm phát. NHNN ban hành Thông tư 50/2026 nâng cao quản lý an toàn hệ thống ngân hàng. Tây Ninh GRDP tăng 10,3% và Đà Nẵng tăng trưởng vượt bậc.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực vĩ mô từ lợi suất trái phiếu toàn cầu lập đỉnh mới và dự báo lạm phát tăng tới 4,8%, trong khi khối ngoại tiếp tục bán ròng 185 tỷ đồng. Tuy nhiên, FDI vào TPHCM tăng mạnh mang tín hiệu tích cực. Lãi suất huy động cao tăng áp lực chi phí cho doanh nghiệp.",
   "top": [
     {
-      "title": "FDI 9 tháng 50,36 tỷ USD tăng 76,4%, TP.HCM hút 18,2 tỷ",
-      "impact": "↑",
-      "note": "Vốn FDI đăng ký vào Việt Nam 9 tháng đầu năm 2026 (đến 30/9) đạt 50,36 tỷ USD, tăng 76,4% so cùng kỳ. TP.HCM dẫn đầu với tổng vốn 18,2 tỷ USD, riêng tháng 9 hút khoảng 8 tỷ USD, bỏ xa Thái Nguyên (7,9 tỷ USD), Hà Nội (4,1 tỷ USD), Bắc Ninh (4,2 tỷ USD)."
-    },
-    {
-      "title": "Khối ngoại bán ròng 185 tỷ đồng, chủ yếu xả HDB, FPT, ACB",
+      "title": "Lợi suất trái phiếu toàn cầu lập đỉnh, Fed có xu hướng siết chặt",
       "impact": "↓",
-      "note": "Phiên 9/10, khối ngoại tiếp tục bán ròng 185 tỷ đồng. Áp lực xả mạnh nhất trên HDB với 227 tỷ đồng bán ròng, FPT 121 tỷ đồng, ACB 70 tỷ đồng. Dòng tiền ngoại mua ròng chủ yếu SHB (123 tỷ), NVL (78 tỷ), TCB (65 tỷ), cho thấy áp lực bán liên tiếp từ nhà đầu tư nước ngoài."
+      "note": "Lợi suất trái phiếu Pháp kỳ hạn 10 năm lên gần 5% (cao nhất từ 2022), Mỹ cũng lập đỉnh năm 2022. Nguyên nhân: lạm phát cao từ giá năng lượng tăng do cuộc chiến tranh Vùng Vịnh, nợ công lớn, nhu cầu vốn cho AI. Kỳ vọng Fed siết chặt trong cuộc họp tháng 10 giảm xuống mức thấp."
     },
     {
-      "title": "CPI bình quân 4,52%, dự báo cả năm 4,5-4,8%",
+      "title": "CPI dự báo cả năm tăng 4,5%-4,8%, tăng từ 4,52% trong 9 tháng",
       "impact": "↓",
-      "note": "CPI bình quân 9 tháng 2026 tăng 4,52% so cùng kỳ, lạm phát cơ bản tăng 4,26%. Bộ Tài chính dự báo CPI cả năm tăng khoảng 4,5% hoặc 4,8%. Áp lực từ giá nhiên liệu, năng lượng thế giới tăng từ tháng 3, logistics gián đoạn, chi phí đầu vào gia tăng tạo rủi ro lạm phát cuối năm."
+      "note": "CPI bình quân 9 tháng tăng 4,52%, lạm phát cơ bản tăng 4,26%. Dự báo cả năm 4,5% hoặc 4,8%. Từ tháng 3, giá nhiên liệu tăng mạnh, logistics bị gián đoạn, chi phí đầu vào gia tăng. Rủi ro từ thị trường năng lượng quốc tế và chuỗi cung ứng vẫn còn cao."
     },
     {
-      "title": "NHNN ban hành Thông tư 50/2026 nâng cao quản lý an toàn ngân hàng",
-      "impact": "↑",
-      "note": "Ngân hàng Nhà nước ban hành Thông tư 50/2026/TT-NHNN quy định giới hạn, tỷ lệ bảo đảm an toàn. Phó Thống đốc Đoàn Thái Sơn nhấn mạnh mục tiêu nâng cao năng lực quản trị, chuẩn hóa kiểm soát rủi ro, tăng cường khả năng chống chịu hệ thống trước biến động môi trường kinh doanh phức tạp."
+      "title": "Khối ngoại bán ròng 185 tỷ đồng, xả mạnh HDB, FPT, ACB",
+      "impact": "↓",
+      "note": "Ngày 09/10, khối ngoại bán ròng 185 tỷ đồng. HDB bị bán ròng 227 tỷ đồng, FPT 121 tỷ đồng, ACB 70 tỷ đồng. Tự doanh mua ròng 266 tỷ đồng với VPB mua ròng 227 tỷ đồng. Xu hướng bán liên tiếp của khối ngoại ở các blue-chip lớn gây áp lực lên chỉ số chung."
     },
     {
-      "title": "Chứng khoán Mỹ tăng, cổ phiếu công nghệ mạnh",
+      "title": "TPHCM thu hút FDI 18,2 tỷ USD trong 9 tháng, tháng 9 khoảng 8 tỷ USD",
       "impact": "↑",
-      "note": "Phiên thứ Sáu: Dow Jones +0,83% (51.654,95 điểm), S&P 500 +0,59% (7.811,54 điểm), Nasdaq +0,64% (27.366,17 điểm). Cổ phiếu công nghệ dẫn đầu: Palo Alto Networks +5%, Palantir +5%, CrowdStrike +4%, Microsoft +2%, Amazon +3%. Giá dầu vẫn ở mức cao; Tổng thống Trump nói thảo luận với Iran diễn ra hiệu quả."
+      "note": "Vốn FDI cả nước 9 tháng đạt 50,36 tỷ USD (+76,4% so với cùng kỳ). TPHCM dẫn đầu với 18,2 tỷ USD, riêng tháng 9 khoảng 8 tỷ USD. Vượt xa Thái Nguyên (7,9 tỷ USD), Hà Nội (4,1 tỷ USD), Bắc Ninh (4,2 tỷ USD). Tín hiệu tích cực cho thị trường bất động sản và kinh tế dài hạn."
     },
     {
-      "title": "Tây Ninh GRDP 9 tháng tăng 10,3%, FDI 27 tỷ USD xếp 7",
-      "impact": "↑",
-      "note": "Tây Ninh GRDP 9 tháng tăng 10,30%, vượt kế hoạch 10,21%, xếp thứ 10 toàn quốc và dẫn đầu các địa phương phía Nam. Có 2.150+ dự án FDI với vốn đăng ký hơn 27 tỷ USD, xếp thứ 7 cả nước. Kim ngạch xuất nhập khẩu 27,044 tỷ USD tăng 17,5%; thương mại dịch vụ tăng 19%."
+      "title": "Lãi suất huy động cao, Sacombank 7,5%/năm, tăng áp lực chi phí ngân hàng",
+      "impact": "↓",
+      "note": "Sacombank niêm yết lãi suất 7,5%/năm cho kỳ hạn 12 tháng (cao nhất), LPBank và Saigonbank 7,2%/năm, VPBank 7,1%/năm. Tổng 10 ngân hàng niêm yết từ 7%/năm trở lên. Lãi suất cao tăng chi phí huy động, gây áp lực lên lợi nhuận ngân hàng."
+    },
+    {
+      "title": "Giá vàng tăng 2,4 triệu đồng/lượng trong 2 tuần, hiện 141,8-144,8 triệu đ/lượng",
+      "impact": "↓",
+      "note": "Giá vàng miếng SJC tăng 2,4 triệu đồng/lượng trong 28/9-10/10, giá mua 141,8 triệu đ/lượng, bán 144,8 triệu đ/lượng. Tuy là tín hiệu nhu cầu bảo vệ tài sản, nhưng phản ánh lo ngại lạm phát, kinh tế yếu đi."
     }
   ]
 }
