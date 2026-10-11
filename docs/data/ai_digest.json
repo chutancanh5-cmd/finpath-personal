@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực từ bán ròng liên tục của nhà đầu tư nước ngoài (13.921 tỷ đồng tuần qua), lãi suất trái phiếu Chính phủ tăng cao 4,43%/năm kỳ hạn 10 năm phản ánh chi phí vốn gia tăng, và áp lực lạm phát với CPI năm 2026 dự báo tăng 4,5-4,8%. Mặc dù có tín hiệu tích cực từ tăng trưởng kinh tế địa phương (Tây Ninh 10,3%), nhưng triển vọng ngắn hạn vẫn u ám khi VN-Index có thể điều chỉnh về 1.700 điểm. Nhu cầu lãi suất cao của ngân hàng (Sacombank niêm yết 7,5%/năm) cũng cho thấy sức ép chi phí tài chính của hệ thống.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tuần giao dịch 05-09/10 chứng kiến áp lực bán mạnh khi 62,4% cổ phiếu giảm hoặc đứng yên, kết hợp dòng tiền ngoại liên tục bán ròng 13.921 tỷ đồng. Lạm phát vẫn là thách thức chính với dự báo CPI cả năm 4,5-4,8%, do giá nhiên liệu, năng lượng toàn cầu và chi phí đầu vào tăng cao. Tuy vậy, tín hiệu tích cực xuất hiện từ tăng trưởng kinh tế khu vực (Tây Ninh +10,3%) và nhu cầu mạnh trái phiếu Chính phủ (300.000 tỷ đồng = 60% kế hoạch năm), cho thấy nhà đầu tư chuyển hướng vào tài sản an toàn.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 13.921 tỷ đồng tuần qua",
+      "title": "62,4% cổ phiếu niêm yết giảm giá hoặc đứng yên",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 13.921 tỷ đồng tuần 5-9/10, chủ yếu giao dịch thỏa thuận (5 phiên liên tiếp trên HOSE), với giá trị bán ròng hơn 13.988 tỷ đồng, tạo áp lực liên tục lên dòng vốn ngoài và tâm lý thị trường."
+      "note": "Tuần 05-09/10, thị trường ghi nhận 455 cổ phiếu giảm/đứng yên trên HOSE và HNX. PNJ giảm 44% từ 32.700 xuống 18.250 đồng/cổ phiếu sau chuỗi 13 phiên liên tiếp. Dòng tiền phân hóa mạnh, FPT lấy đi ròng 3,7 điểm VN-Index."
     },
     {
-      "title": "Lãi suất trái phiếu Chính phủ tăng 4,43%/năm kỳ hạn 10 năm",
+      "title": "Khối ngoại bán ròng 13.921 tỷ đồng",
       "impact": "↓",
-      "note": "Kho bạc Nhà nước huy động 12.000 tỷ đồng trái phiếu Chính phủ ngày 7/10 với lãi suất 4,43%/năm, mức cao nhất kể từ năm 2023, phản ánh chi phí vốn tăng mạnh và áp lực lạm phát cao."
+      "note": "Nhà đầu tư nước ngoài tuần qua bán ròng 13.921 tỷ đồng (trong đó khớp lệnh bán ròng 1.269,4 tỷ đồng). Ngành ngân hàng chịu áp lực ròng -3,4 điểm, dịch vụ tài chính -2,4 điểm, bất động sản -1,2 điểm. Thanh khoản vẫn duy trì ở mức thấp, giá trị giao dịch bình quân 20.022 tỷ/phiên."
     },
     {
-      "title": "CPI năm 2026 dự báo tăng 4,5-4,8%",
+      "title": "CPI bình quân năm 2026 dự báo 4,5-4,8%",
       "impact": "↓",
-      "note": "Bộ Tài chính xây dựng hai kịch bản lạm phát cả năm 2026 là 4,5% và 4,8%; 9 tháng đầu năm CPI bình quân đã tăng 4,52%, lạm phát cơ bản tăng 4,26%, chịu áp lực từ giá nhiên liệu, năng lượng thế giới tăng mạnh từ tháng 3."
+      "note": "Bộ Tài chính đưa ra hai kịch bản lạm phát, giảm 0,2% so với dự báo tháng 9. CPI 9 tháng tăng 4,52%, lạm phát cơ bản 4,26%. Từ tháng 3, giá nhiên liệu, năng lượng thế giới tăng mạnh, vận tải logistics gián đoạn, chi phí đầu vào gia tăng tạo sức ép lên giá cả."
     },
     {
-      "title": "Tây Ninh dẫn đầu phía Nam tăng trưởng 10,3%",
+      "title": "Tây Ninh dẫn đầu phía Nam về tăng trưởng kinh tế",
       "impact": "↑",
-      "note": "GRDP Tây Ninh tăng 10,3% sau 9 tháng 2026, dẫn đầu khu vực phía Nam (TP.HCM tăng 9,06%, Đồng Nai tăng 10,01%), thể hiện phục hồi kinh tế và hiệu quả quản lý sau hợp nhất với Long An."
+      "note": "GRDP Tây Ninh sau 9 tháng năm 2026 tăng 10,3%, đứng thứ 10/34 tỉnh thành và dẫn đầu khu vực phía Nam. TP.HCM tăng 9,06%, Đồng Nai 10,01%. Mục tiêu tăng trưởng hai con số giai đoạn 2026-2030 nhờ khai thác lợi thế sau hợp nhất, phát huy nền tảng công nghiệp."
     },
     {
-      "title": "Giá vàng miếng SJC tăng 2,4 triệu đồng/lượng",
+      "title": "Trái phiếu Chính phủ huy động 300.000 tỷ đồng",
       "impact": "↑",
-      "note": "Giá vàng miếng SJC tăng liên tục trong 2 tuần (28/9-10/10) tổng cộng 2,4 triệu đồng/lượng, mức mua 141,8 triệu và bán 144,8 triệu đồng/lượng, phản ánh nhu cầu tài sản trú ẩn tăng giữa bối cảnh thị trường bất ổn."
+      "note": "Lũy kế 9 tháng huy động 300.000 tỷ đồng, đạt 60% kế hoạch năm. Phiên 7/10 huy động 12.000 tỷ (vượt kế hoạch 8.000 tỷ), lãi suất trúng thầu 4,43%/năm là mức cao nhất kể từ 2023. Nhu cầu tập trung kỳ hạn 10 năm với giá trị chào mua 17.600 tỷ đồng."
     },
     {
-      "title": "VN-Index có thể lùi về 1.700 điểm trong ngắn hạn",
+      "title": "Seaprodex không có bidder ở lần đấu giá đầu tiên",
       "impact": "↓",
-      "note": "Các chuyên gia dự báo VN-Index chưa thoát khỏi xu hướng điều chỉnh ngắn hạn, có khả năng dao động trong vùng 1.700-1.760 điểm khi ngành Công nghệ (FPT -3,7 điểm) và Ngân hàng (-3,4 điểm) gây sức ép mạnh."
+      "note": "SCIC tiếp tục đấu giá 79 triệu cổ phiếu Seaprodex vào 9h ngày 2/11 với giá khởi điểm 107.400 đồng/cổ phiếu (cả lô hơn 8.500 tỷ đồng) sau khi không có bidder ở lần đầu. Phản ánh sự thận trọng của nhà đầu tư trong bối cảnh thị trường yếu."
     }
   ]
 }
