@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tuần qua chứng kiến áp lực mạnh từ khối ngoại bán ròng 13.921 tỷ đồng, khiến VN-Index mất 33,53 điểm kể từ cuối tháng 9. Lạm phát dự báo 4,5-4,8% cả năm tạo rủi ro ngắn hạn từ chi phí đầu vào tăng cao, song lãi suất tiền gửi cao 9-9,6% và huy động trái phiếu Chính phủ mạnh 70.139 tỷ đồng cho thấy nền tảng thanh khoản vẫn ổn định.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực từ bán ròng liên tục của nhà đầu tư nước ngoài (13.921 tỷ đồng tuần qua), lãi suất trái phiếu Chính phủ tăng cao 4,43%/năm kỳ hạn 10 năm phản ánh chi phí vốn gia tăng, và áp lực lạm phát với CPI năm 2026 dự báo tăng 4,5-4,8%. Mặc dù có tín hiệu tích cực từ tăng trưởng kinh tế địa phương (Tây Ninh 10,3%), nhưng triển vọng ngắn hạn vẫn u ám khi VN-Index có thể điều chỉnh về 1.700 điểm. Nhu cầu lãi suất cao của ngân hàng (Sacombank niêm yết 7,5%/năm) cũng cho thấy sức ép chi phí tài chính của hệ thống.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 13.921 tỷ đồng trong tuần",
+      "title": "Khối ngoại bán ròng 13.921 tỷ đồng tuần qua",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 14.000 tỷ đồng tuần qua, chủ yếu thỏa thuận, tạo áp lực nặng lên VN-Index. Ngành Công nghệ (FPT -3,7 điểm) và Ngân hàng (ACB -2,6, SHB -2,5 điểm) bị tác động tiêu cực nhất, gây sức ép khó hạn chế trong ngắn hạn."
+      "note": "Nhà đầu tư nước ngoài bán ròng 13.921 tỷ đồng tuần 5-9/10, chủ yếu giao dịch thỏa thuận (5 phiên liên tiếp trên HOSE), với giá trị bán ròng hơn 13.988 tỷ đồng, tạo áp lực liên tục lên dòng vốn ngoài và tâm lý thị trường."
     },
     {
-      "title": "VN-Index mất 33,53 điểm từ cuối tháng 9",
+      "title": "Lãi suất trái phiếu Chính phủ tăng 4,43%/năm kỳ hạn 10 năm",
       "impact": "↓",
-      "note": "VN-Index tuần qua giảm 2,62 điểm còn 1.735,09 điểm, tổng giảm 33,53 điểm (1,90%) kể từ cuối tháng 9. VN-Index giảm 3 phiên liên tiếp với MACD cắt xuống mức 0, Stochastic vừa cắt lên từ vùng oversold nhưng triển vọng kỹ thuật vẫn đầy rủi ro."
+      "note": "Kho bạc Nhà nước huy động 12.000 tỷ đồng trái phiếu Chính phủ ngày 7/10 với lãi suất 4,43%/năm, mức cao nhất kể từ năm 2023, phản ánh chi phí vốn tăng mạnh và áp lực lạm phát cao."
     },
     {
-      "title": "CPI dự báo tăng 4,5-4,8% cả năm 2026",
+      "title": "CPI năm 2026 dự báo tăng 4,5-4,8%",
       "impact": "↓",
-      "note": "Bộ Tài chính xây dựng hai kịch bản lạm phát 4,5% và 4,8%, giảm 0,2 điểm so dự báo tháng 9. Từ tháng 3, giá nhiên liệu thế giới tăng mạnh, vận tải gián đoạn, chi phí đầu vào tăng; 9 tháng CPI đã tăng 4,52%, lạm phát cơ bản tăng 4,26%."
+      "note": "Bộ Tài chính xây dựng hai kịch bản lạm phát cả năm 2026 là 4,5% và 4,8%; 9 tháng đầu năm CPI bình quân đã tăng 4,52%, lạm phát cơ bản tăng 4,26%, chịu áp lực từ giá nhiên liệu, năng lượng thế giới tăng mạnh từ tháng 3."
     },
     {
-      "title": "Lãi suất tiền gửi ngân hàng tăng lên 9-9,6%/năm",
+      "title": "Tây Ninh dẫn đầu phía Nam tăng trưởng 10,3%",
       "impact": "↑",
-      "note": "Nhiều ngân hàng chào mời lãi suất tiết kiệm từ 9 đến 9,6%/năm cho khách hàng gửi từ 500 triệu đồng kỳ hạn 12 tháng. Tốc độ tăng lãi suất đã chậm lại nhưng mặt bằng cao giúp ngân hàng huy động mạnh."
+      "note": "GRDP Tây Ninh tăng 10,3% sau 9 tháng 2026, dẫn đầu khu vực phía Nam (TP.HCM tăng 9,06%, Đồng Nai tăng 10,01%), thể hiện phục hồi kinh tế và hiệu quả quản lý sau hợp nhất với Long An."
     },
     {
-      "title": "Huy động 70.139 tỷ đồng trái phiếu Chính phủ tháng 9",
+      "title": "Giá vàng miếng SJC tăng 2,4 triệu đồng/lượng",
       "impact": "↑",
-      "note": "Tháng 9/2026 huy động 70.139 tỷ đồng trái phiếu Chính phủ, tăng 152% so tháng 8. Lãi suất trúng thầu tăng 2 điểm cơ bản: kỳ hạn 5 năm 4,27%, 10 năm 4,43%, 30 năm 4,62% cho thấy nhu cầu huy động vốn Nhà nước mạnh."
+      "note": "Giá vàng miếng SJC tăng liên tục trong 2 tuần (28/9-10/10) tổng cộng 2,4 triệu đồng/lượng, mức mua 141,8 triệu và bán 144,8 triệu đồng/lượng, phản ánh nhu cầu tài sản trú ẩn tăng giữa bối cảnh thị trường bất ổn."
     },
     {
-      "title": "Con gái Chủ tịch PNJ bị bán giải chấp 2,94 triệu cổ phiếu",
+      "title": "VN-Index có thể lùi về 1.700 điểm trong ngắn hạn",
       "impact": "↓",
-      "note": "Bà Trần Phương Ngọc Giao (con gái Chủ tịch Cao Thị Ngọc Dung) bị bán giải chấp 2,94 triệu cổ phiếu PNJ ngày 8/10, giảm sở hữu từ 2,86% xuống 2,29%, dấu hiệu rủi ro tài chính của nhóm người nội bộ công ty."
+      "note": "Các chuyên gia dự báo VN-Index chưa thoát khỏi xu hướng điều chỉnh ngắn hạn, có khả năng dao động trong vùng 1.700-1.760 điểm khi ngành Công nghệ (FPT -3,7 điểm) và Ngân hàng (-3,4 điểm) gây sức ép mạnh."
     }
   ]
 }
