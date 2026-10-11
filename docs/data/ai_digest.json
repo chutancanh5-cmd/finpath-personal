@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-11",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tuần giao dịch 05-09/10 chứng kiến áp lực bán mạnh khi 62,4% cổ phiếu giảm hoặc đứng yên, kết hợp dòng tiền ngoại liên tục bán ròng 13.921 tỷ đồng. Lạm phát vẫn là thách thức chính với dự báo CPI cả năm 4,5-4,8%, do giá nhiên liệu, năng lượng toàn cầu và chi phí đầu vào tăng cao. Tuy vậy, tín hiệu tích cực xuất hiện từ tăng trưởng kinh tế khu vực (Tây Ninh +10,3%) và nhu cầu mạnh trái phiếu Chính phủ (300.000 tỷ đồng = 60% kế hoạch năm), cho thấy nhà đầu tư chuyển hướng vào tài sản an toàn.",
+  "date": "2026-10-12",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam diễn biến tiêu cực trong ngắn hạn với 60% cổ phiếu giảm giá, khối ngoại bán ròng 13.921 tỷ đồng và dự báo lạm phát cả năm 4,8%. Sức ép từ lãi suất cao, giá dầu biến động cùng chi phí đầu vào gia tăng sẽ kéo lên áp lực cho các ngành trong quý 4. Tuy nhiên, huy động trái phiếu Chính phủ thành công (300.000 tỷ đồng) và tăng trưởng GRDP của Tây Ninh lên 10,3% là những tín hiệu tích cực, cân bằng một phần rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "62,4% cổ phiếu niêm yết giảm giá hoặc đứng yên",
+      "title": "Thị trường giảm mạnh, 62,4% cổ phiếu giảm hoặc đứng yên",
       "impact": "↓",
-      "note": "Tuần 05-09/10, thị trường ghi nhận 455 cổ phiếu giảm/đứng yên trên HOSE và HNX. PNJ giảm 44% từ 32.700 xuống 18.250 đồng/cổ phiếu sau chuỗi 13 phiên liên tiếp. Dòng tiền phân hóa mạnh, FPT lấy đi ròng 3,7 điểm VN-Index."
+      "note": "Tuần 05-09/10 ghi nhận 455 cổ phiếu giảm/đứng yên trên HOSE, HNX. Khối ngoại bán ròng 13.921 tỷ đồng (khớp lệnh 1.269,4 tỷ). Ngành ngân hàng -3,4 điểm, dịch vụ tài chính -2,4 điểm, bất động sản -1,2 điểm. Thanh khoản thấp, giao dịch bình quân 20.022 tỷ/phiên."
     },
     {
-      "title": "Khối ngoại bán ròng 13.921 tỷ đồng",
+      "title": "CPI dự báo tăng tới 4,8% cả năm 2026",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài tuần qua bán ròng 13.921 tỷ đồng (trong đó khớp lệnh bán ròng 1.269,4 tỷ đồng). Ngành ngân hàng chịu áp lực ròng -3,4 điểm, dịch vụ tài chính -2,4 điểm, bất động sản -1,2 điểm. Thanh khoản vẫn duy trì ở mức thấp, giá trị giao dịch bình quân 20.022 tỷ/phiên."
+      "note": "Bộ Tài chính xây dựng kịch bản CPI tăng 4,5-4,8% cả năm. CPI 9 tháng tăng 4,52%, lạm phát cơ bản 4,26%. Từ tháng 3, giá nhiên liệu, năng lượng thế giới tăng mạnh, vận tải logistics gián đoạn, chi phí đầu vào gia tăng tạo sức ép lên giá cả."
     },
     {
-      "title": "CPI bình quân năm 2026 dự báo 4,5-4,8%",
+      "title": "Lãi suất cao, giá dầu biến động là rủi ro chính quý 4",
       "impact": "↓",
-      "note": "Bộ Tài chính đưa ra hai kịch bản lạm phát, giảm 0,2% so với dự báo tháng 9. CPI 9 tháng tăng 4,52%, lạm phát cơ bản 4,26%. Từ tháng 3, giá nhiên liệu, năng lượng thế giới tăng mạnh, vận tải logistics gián đoạn, chi phí đầu vào gia tăng tạo sức ép lên giá cả."
+      "note": "Maybank dự báo 6 ngành vượt kỳ vọng, 2 ngành đạt, 3 ngành không đạt kỳ vọng. Lãi suất cao, dầu biến động và tiền tệ cứng toàn cầu tạo sức ép. Ngân hàng chịu áp lực biên lãi, logistics hàng không bị ảnh hưởng, nhưng CNTT và thực phẩm được hỗ trợ."
     },
     {
-      "title": "Tây Ninh dẫn đầu phía Nam về tăng trưởng kinh tế",
+      "title": "Tây Ninh dẫn đầu phía Nam, GRDP tăng 10,3%",
       "impact": "↑",
-      "note": "GRDP Tây Ninh sau 9 tháng năm 2026 tăng 10,3%, đứng thứ 10/34 tỉnh thành và dẫn đầu khu vực phía Nam. TP.HCM tăng 9,06%, Đồng Nai 10,01%. Mục tiêu tăng trưởng hai con số giai đoạn 2026-2030 nhờ khai thác lợi thế sau hợp nhất, phát huy nền tảng công nghiệp."
+      "note": "GRDP Tây Ninh sau 9 tháng năm 2026 tăng 10,3%, đứng thứ 10/34 tỉnh thành và dẫn đầu phía Nam. Trước hợp nhất tăng trưởng bình quân 6,73%/năm. Kết nối giữa hai vùng kinh tế (Long An công nghiệp + Tây Ninh tiếp TP.HCM) tạo sức bật, mục tiêu tăng trưởng hai con số 2026-2030."
     },
     {
-      "title": "Trái phiếu Chính phủ huy động 300.000 tỷ đồng",
+      "title": "Huy động trái phiếu Chính phủ vượt kế hoạch 300.000 tỷ",
       "impact": "↑",
-      "note": "Lũy kế 9 tháng huy động 300.000 tỷ đồng, đạt 60% kế hoạch năm. Phiên 7/10 huy động 12.000 tỷ (vượt kế hoạch 8.000 tỷ), lãi suất trúng thầu 4,43%/năm là mức cao nhất kể từ 2023. Nhu cầu tập trung kỳ hạn 10 năm với giá trị chào mua 17.600 tỷ đồng."
+      "note": "Lũy kế 9 tháng huy động 300.000 tỷ đồng, đạt 60% kế hoạch năm. Phiên 7/10 huy động 12.000 tỷ (vượt kế hoạch 8.000 tỷ), lãi suất 4,43%/năm cao nhất từ 2023. Nhu cầu tập trung kỳ hạn 10 năm, giá trị chào mua 17.600 tỷ đồng."
     },
     {
-      "title": "Seaprodex không có bidder ở lần đấu giá đầu tiên",
+      "title": "Tháng 10 lịch sử thường tiêu cực, rủi ro tăng",
       "impact": "↓",
-      "note": "SCIC tiếp tục đấu giá 79 triệu cổ phiếu Seaprodex vào 9h ngày 2/11 với giá khởi điểm 107.400 đồng/cổ phiếu (cả lô hơn 8.500 tỷ đồng) sau khi không có bidder ở lần đầu. Phản ánh sự thận trọng của nhà đầu tư trong bối cảnh thị trường yếu."
+      "note": "Từ 2000-2025, VN-Index chỉ tăng 12/26 tháng 10 (46% xác suất tăng). Hiệu suất bình quân âm 0,5%, trung vị âm 0,3%. Bốn lần mất 9% trở lên, ba lần trong 10 năm gần nhất. Phiên 09/10 xuất hiện High Wave Candle, MACD giảm, Stochastic ở vùng oversold."
     }
   ]
 }
