@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Lạm phát tăng với dự báo CPI cả năm 2026 ở 4,5-4,8%, do áp lực từ giá năng lượng, gián đoạn chuỗi cung ứng và chi phí đầu vào cao. Lợi suất trái phiếu toàn cầu tăng vọt (Pháp 10 năm gần 5%, Mỹ ở đỉnh 2022), gây sức ép lên định giá thị trường mới nổi. Tuy nhiên, FDI vào Việt Nam mạnh mẽ với 50,36 tỷ USD trong 9 tháng (+76,4% YoY), cho thấy nhà đầu tư quốc tế vẫn tin tưởng. NHNN tín hiệu tốc độ tăng lãi suất chậm lại, hỗ trợ triển vọng ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán tuần qua chứng kiến áp lực mạnh từ khối ngoại bán ròng 13.921 tỷ đồng, khiến VN-Index mất 33,53 điểm kể từ cuối tháng 9. Lạm phát dự báo 4,5-4,8% cả năm tạo rủi ro ngắn hạn từ chi phí đầu vào tăng cao, song lãi suất tiền gửi cao 9-9,6% và huy động trái phiếu Chính phủ mạnh 70.139 tỷ đồng cho thấy nền tảng thanh khoản vẫn ổn định.",
   "top": [
     {
-      "title": "CPI dự báo 4,5-4,8% cả năm 2026",
+      "title": "Khối ngoại bán ròng 13.921 tỷ đồng trong tuần",
       "impact": "↓",
-      "note": "Dự báo CPI cả năm tăng khoảng 4,5-4,8% (giảm 0,2 điểm phần trăm so dự báo tháng 9); 9 tháng đầu tăng 4,52% so cùng kỳ. Áp lực chính từ giá năng lượng tăng từ tháng 3, gián đoạn logistics toàn cầu, chi phí đầu vào gia tăng; rủi ro cao hơn nếu giá dầu và bất ổn chuỗi cung ứng kéo dài."
+      "note": "Khối ngoại bán ròng gần 14.000 tỷ đồng tuần qua, chủ yếu thỏa thuận, tạo áp lực nặng lên VN-Index. Ngành Công nghệ (FPT -3,7 điểm) và Ngân hàng (ACB -2,6, SHB -2,5 điểm) bị tác động tiêu cực nhất, gây sức ép khó hạn chế trong ngắn hạn."
     },
     {
-      "title": "Lợi suất trái phiếu toàn cầu tăng vọt, kỳ vọng Fed dịch chuyển",
+      "title": "VN-Index mất 33,53 điểm từ cuối tháng 9",
       "impact": "↓",
-      "note": "Trái phiếu chính phủ bị bán tháo mạnh; Pháp 10 năm lên gần 5% (cao nhất từ 2022), Mỹ 10-30 năm cũng đạt đỉnh 2022. Nguyên nhân: lo lạm phát cao, nợ công lớn, nhu cầu vay vốn cho đầu tư AI; kỳ vọng Fed hạ lãi suất tháng 10 giảm đi đáng kể, gây sức ép lên định giá EM."
+      "note": "VN-Index tuần qua giảm 2,62 điểm còn 1.735,09 điểm, tổng giảm 33,53 điểm (1,90%) kể từ cuối tháng 9. VN-Index giảm 3 phiên liên tiếp với MACD cắt xuống mức 0, Stochastic vừa cắt lên từ vùng oversold nhưng triển vọng kỹ thuật vẫn đầy rủi ro."
     },
     {
-      "title": "Lãi suất tiền gửi ngân hàng vượt 9%, NHNN nói tốc độ tăng chậm lại",
-      "impact": "→",
-      "note": "Nhiều ngân hàng chào lãi suất tiết kiệm 12 tháng 9%+, thậm chí 9,4-9,6%/năm cho khách hàng có khoản tiền từ 500 triệu đồng. NHNN nhận định tốc độ tăng lãi suất đã chậm lại và mặt bằng cơ bản đang xoay quanh mức mới, gợi ý có thể gần đạt đỉnh chu kỳ tightening."
+      "title": "CPI dự báo tăng 4,5-4,8% cả năm 2026",
+      "impact": "↓",
+      "note": "Bộ Tài chính xây dựng hai kịch bản lạm phát 4,5% và 4,8%, giảm 0,2 điểm so dự báo tháng 9. Từ tháng 3, giá nhiên liệu thế giới tăng mạnh, vận tải gián đoạn, chi phí đầu vào tăng; 9 tháng CPI đã tăng 4,52%, lạm phát cơ bản tăng 4,26%."
     },
     {
-      "title": "TP.HCM dẫn đầu FDI với 18,2 tỷ USD trong 9 tháng",
+      "title": "Lãi suất tiền gửi ngân hàng tăng lên 9-9,6%/năm",
       "impact": "↑",
-      "note": "Việt Nam huy động 50,36 tỷ USD FDI đăng ký trong 9 tháng (+76,4% so cùng kỳ 2025), TP.HCM dẫn đầu với 18,2 tỷ USD (tháng 9 riêng lẻ nhận hơn 8 tỷ USD), bỏ xa các địa phương khác từ Thái Nguyên (7,9 tỷ USD) đến các thành phố trực thuộc Trung ương."
+      "note": "Nhiều ngân hàng chào mời lãi suất tiết kiệm từ 9 đến 9,6%/năm cho khách hàng gửi từ 500 triệu đồng kỳ hạn 12 tháng. Tốc độ tăng lãi suất đã chậm lại nhưng mặt bằng cao giúp ngân hàng huy động mạnh."
     },
     {
-      "title": "Khối ngoại bán thỏa thuận 9,6 tỷ đồng MCH, áp lực bán chung",
+      "title": "Huy động 70.139 tỷ đồng trái phiếu Chính phủ tháng 9",
+      "impact": "↑",
+      "note": "Tháng 9/2026 huy động 70.139 tỷ đồng trái phiếu Chính phủ, tăng 152% so tháng 8. Lãi suất trúng thầu tăng 2 điểm cơ bản: kỳ hạn 5 năm 4,27%, 10 năm 4,43%, 30 năm 4,62% cho thấy nhu cầu huy động vốn Nhà nước mạnh."
+    },
+    {
+      "title": "Con gái Chủ tịch PNJ bị bán giải chấp 2,94 triệu cổ phiếu",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán thỏa thuận 9.641,2 tỷ đồng cổ phiếu MCH (Masan Consumer) cho nhà đầu tư trong nước; cùng lúc sức ép bán phát sinh ở nhiều cổ phiếu lớn (FPT -3,02%, BSR -2,97%, MSB -1,02%), phản ánh sự thận trọng của nhà đầu tư ngoại tệ với thị trường Việt Nam."
-    },
-    {
-      "title": "VN-Index dao động 1.735-1.760 điểm, VIC-VHM kéo hai chiều",
-      "impact": "→",
-      "note": "Tuần 5-9/10, VN-Index hỗn hợp: VIC đóng góp +2,8 điểm nhất, nhưng VHM lấy đi 3,1 điểm; FPT lấy đi 1,5 điểm; nhóm ngân hàng BID (-1,4), SHB (-1,2), ACB (-1,1 điểm) tác động tiêu cực, cho thấy thị trường chưa có hướng rõ ràng."
+      "note": "Bà Trần Phương Ngọc Giao (con gái Chủ tịch Cao Thị Ngọc Dung) bị bán giải chấp 2,94 triệu cổ phiếu PNJ ngày 8/10, giảm sở hữu từ 2,86% xuống 2,29%, dấu hiệu rủi ro tài chính của nhóm người nội bộ công ty."
     }
   ]
 }
