@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-12",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index giảm 14 điểm về 1.720 điểm do VHM, VIC giảm mạnh tuy nhiên dòng tiền chọn lọc: nhóm thép tăng 3-7%, xuất khẩu Bắc Ninh 88,2 tỷ USD vượt TPHCM, FDI mới OJI 110 triệu USD. Rủi ro từ dự báo lạm phát Q4 khoảng 4,5-4,8% do áp lực năng lượng, nguyên liệu, chính sách thương mại; khối ngoại bán ròng 615 tỷ đồng cần theo dõi.",
+  "date": "2026-10-13",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ngày 12/10 tiếp tục chịu áp lực bán từ khối ngoại (7 phiên liên tiếp, bán ròng 615.5 tỷ đồng), khiến VN-Index giảm xuống 1720.98 điểm. Lạm phát được dự báo tăng 4.5-4.8% năm 2026 do áp lực từ giá năng lượng, nguyên liệu, rủi ro tỷ giá và gián đoạn chuỗi cung ứng. Nhóm bất động sản gặp khó khăn tài chính khi huy động 170 nghìn tỷ đồng trái phiếu với lãi suất cao tới 14.5%/năm, tạo áp lực lớn lên nền kinh tế. Tuy nhiên, đầu tư 6 tỷ USD của Samsung vào Việt Nam và sân bay Long Thành chuẩn bị khai thác cung cấp tín hiệu tích cực cho triển vọng dài hạn.",
   "top": [
     {
-      "title": "VN-Index giảm 14 điểm về 1.720 điểm, VHM/VIC ép chỉ số",
+      "title": "Khối ngoại bán ròng 7 phiên liên tiếp, phiên 12/10 bán 615.5 tỷ đồng",
       "impact": "↓",
-      "note": "VHM giảm 3,18% xuống 63.900 đồng gần đáy tháng 4/2026, VIC giảm 2,88%, GAS giảm 2,11%. Mẫu hình nến thân nhỏ, khối lượng giảm cho thấy tâm lý thận trọng. Thanh khoản HoSE 13.000 tỷ đồng."
+      "note": "Khối ngoại kéo dài chuỗi bán ròng lên 7 phiên liên tiếp, phiên 12/10 bán ròng 615.5 tỷ đồng (giao dịch khớp lệnh bán 583 tỷ), PNJ nằm trong nhóm cổ phiếu bị bán mạnh nhất. Dòng vốn ngoại âm liên tục tạo áp lực mạnh lên thị trường."
     },
     {
-      "title": "Nhóm thép bứt phá 3-7%, dòng tiền dịch chuyển",
-      "impact": "↑",
-      "note": "HPG +2,99%, HSG +3,54%, NKG +6,89%, VGS +7,64%, TVN +3,16%. Lực cầu dòng chảy mạnh trên diện rộng. Giá thép xây dựng ổn định (CB240 14.920 đồng/kg). Tín hiệu phân hóa dương tính từ cổ phiếu chu kỳ."
-    },
-    {
-      "title": "Bộ Tài chính dự báo lạm phát Q4 2026 khoảng 4,5-4,8%",
+      "title": "VN-Index giảm sâu, đóng cửa ở 1720.98 điểm",
       "impact": "↓",
-      "note": "Áp lực từ biến động giá năng lượng, nguyên liệu thế giới, rủi ro tỷ giá, gián đoạn chuỗi cung ứng do căng thẳng địa chính trị. Đầu tư công gia tăng tổng cầu khó tăng nhanh. Kiến nghị kiểm tra niêm yết giá và bảo đảm cung ứng."
+      "note": "VN-Index giảm hơn 14 điểm, đóng cửa 1720.98 điểm (thấp nhất phiên) với thanh khoản dưới trung bình 20 phiên. RSI giảm dưới vùng đáy ngắn hạn, MACD âm, cho thấy xu hướng giảm vẫn tiếp diễn."
     },
     {
-      "title": "Khối ngoại bán ròng 615 tỷ đồng, TCB bị xả 115 tỷ",
+      "title": "Bất động sản huy động 170 nghìn tỷ đồng trái phiếu, lãi suất 14.5%/năm",
       "impact": "↓",
-      "note": "TCB bán ròng 115 tỷ, PNJ 105 tỷ, FPT 91 tỷ. Riêng HPG được mua mạnh 128 tỷ, HDB 31 tỷ, NVL 18 tỷ. Áp lực bán tập trung tại ngân hàng, bất động sản; mua chọn lọc ở công nghiệp."
+      "note": "Doanh nghiệp bất động sản huy động 170 nghìn tỷ đồng trái phiếu trong 9 tháng (đứng thứ 2 sau ngân hàng 227 tỷ), với lô trái phiếu lãi suất tới 14.5%/năm. Phản ánh áp lực tài chính mạnh mẽ, kèm theo áp lực đáo hạn đáng chú ý trong quý IV."
     },
     {
-      "title": "Bắc Ninh xuất khẩu 88,2 tỷ USD 9 tháng, vượt TPHCM 75,7 tỷ USD",
-      "impact": "↑",
-      "note": "Tháng 9 đạt 12,7 tỷ USD dẫn đầu. Động lực từ FDI công nghệ cao: Samsung, Canon, Amkor, Luxshare-ICT. 3.600 dự án FDI 50+ tỷ USD. Sản phẩm chủ yếu điện tử, thiết bị viễn thông, bán dẫn."
+      "title": "Bộ Tài chính dự báo lạm phát 4.5-4.8% năm 2026",
+      "impact": "↓",
+      "note": "Bộ Tài chính cập nhật kịch bản lạm phát năm 2026 ở 4.5-4.8%, NHNN dự báo 4.5-5%, do áp lực từ giá năng lượng, nguyên liệu, rủi ko tỷ giá và gián đoạn chuỗi cung ứng. Sẽ ảnh hưởng đến chi phí sản xuất, quyết định chính sách tiền tệ."
     },
     {
-      "title": "OJI khởi công nhà máy bao bì 110 triệu USD tại Đồng Nai",
+      "title": "Samsung đầu tư gần 6 tỷ USD vào Việt Nam sản xuất chip",
       "impact": "↑",
-      "note": "Công suất 8 tỷ hộp/năm, tạo 200 việc làm. Khu công nghiệp Long Thành 5,7ha. Sản phẩm hộp giấy tiệt trùng cho đồ uống, thực phẩm lỏng trong nước và hỗ trợ chuỗi cung ứng ĐNA, quốc tế."
+      "note": "Samsung dự kiến đầu tư gần 8 nghìn tỷ won (gần 6 tỷ USD) vào Việt Nam trong tổng 9.15 tỷ USD; Samsung Electronics đầu tư 105.79 nghìn tỷ đồng Việt Nam (4.09 tỷ USD) kiểm thử chip DRAM/NAND tại Yên Bình từ Q4/2027. Hỗ trợ chiến lược công nghiệp bán dẫn Việt Nam."
+    },
+    {
+      "title": "Sân bay Long Thành bay kiểm tra từ 11-19/10, sắp khai thác",
+      "impact": "↑",
+      "note": "Sân bay Long Thành thực hiện bay kiểm tra hiệu chuẩn hệ thống dẫn đường ILS/DME từ 11-19/10, gấp rút hoàn thiện khai thác thương mại. Dự án 16 tỷ USD sau 5 năm xây dựng bước vào giai đoạn hoàn thiện cuối cùng."
     }
   ]
 }
