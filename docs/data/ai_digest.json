@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực từ dòng tiền nước ngoài (bán ròng 13.921 tỷ đồng tuần qua) và áp lực vĩ mô kéo dài: CPI dự báo 4,5-4,8% cả năm 2026 do giá dầu, chi phí logistics tăng từ tháng 3, khiến ngân hàng chịu áp lực biên lãi ròng. Chính sách tiền tệ cứng rắn toàn cầu vẫn là rào cản cho thị trường quý 4. Tuy có tín hiệu tích cực từ tăng trưởng khu vực (Tây Ninh 10,3%) và huy động trái phiếu thành công, rủi ro ngắn hạn từ yếu tố vĩ mô và mùa tháng 10 vẫn chiếm ưu thế.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đang gặp áp lực lớn với 80% cổ phiếu ngành chứng khoán ở trạng thái gấu, khối ngoại bán ròng, lãi suất cao cạnh tranh, và lạm phát dự báo 4,5-4,8% cả năm tạo sức ép bổ sung. Tuy nhiên, nền kinh tế vẫn tăng trưởng mạnh (GDP +10%), xuất khẩu vượt kỳ vọng, lợi nhuận doanh nghiệp tăng 20-25%, mở ra cơ hội đầu tư dài hạn dù rủi ro quý 4 (tháng 10 lịch sử khó khăn) vẫn cần thận trọng.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 13.921 tỷ đồng, giảm mạnh dòng tiền",
+      "title": "80% cổ phiếu chứng khoán ở gấu",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 13.921 tỷ đồng tuần 05-09/10, khớp lệnh bán ròng 1.269,4 tỷ. VN-Index chịu áp lực từ ngành công nghệ thông tin (-3,8 điểm, chủ yếu FPT -3,7 điểm) và ngành ngân hàng (-3,4 điểm với ACB -2,6, SHB -2,5, VBB -1,2 điểm)."
+      "note": "Thống kê sau phiên 9/10, 80% số mã cổ phiếu chứng khoán giảm hơn 20% từ đỉnh (APG -62%, VDS -51%, CSI -51%, SHS & VIX -45%), khiến ngành chứng khoán đang trải qua giai đoạn chiết khấu sâu."
     },
     {
-      "title": "CPI dự báo 4,5-4,8% cả năm, áp lực chi phí kéo dài",
+      "title": "Lạm phát dự báo cả năm 4,5%-4,8%",
       "impact": "↓",
-      "note": "Bộ Tài chính xây dựng hai kịch bản CPI tăng 4,5-4,8% năm 2026, CPI 9 tháng đã tăng 4,52%, lạm phát cơ bản 4,26%. Từ tháng 3 giá dầu, năng lượng thế giới tăng mạnh, vận tải logistics gián đoạn, chi phí đầu vào gia tăng sẽ tiếp tục tạo sức ép đến cuối năm."
+      "note": "CPI bình quân 9 tháng tăng 4,52%, dự báo cả năm 2026 khoảng 4,5%-4,8%. Áp lực từ giá dầu, năng lượng thế giới tăng từ tháng 3, chi phí vận tải logistics tăng, khó kiểm soát trong quý 4."
     },
     {
-      "title": "Lãi suất cao, giá dầu biến động là rủi ro Q4 2026",
-      "impact": "↓",
-      "note": "Maybank dự báo 6 ngành vượt kỳ vọng nhưng lãi suất cao, dầu biến động và chính sách tiền tệ cứng toàn cầu là rào cản. Ngân hàng tiếp tục chịu áp lực biên lãi ròng khi tiền gửi điều chỉnh theo mặt bằng lãi suất cao hơn, phải tăng trích lập dự phòng nợ xấu."
-    },
-    {
-      "title": "62,4% cổ phiếu giảm hoặc đứng yên trong tuần 05-09/10",
-      "impact": "↓",
-      "note": "Thị trường ghi nhận 455 cổ phiếu giảm giá hoặc đứng yên trên HOSE, HNX, chiếm tỷ lệ 62,4% tổng số cổ phiếu niêm yết. Thanh khoản nhích nhẹ (12.900 tỷ/phiên trên HOSE) nhưng vẫn thấp hơn 7,2% bình quân 5 tuần."
-    },
-    {
-      "title": "Tây Ninh dẫn đầu phía Nam, GRDP tăng 10,3%",
+      "title": "Tây Ninh dẫn đầu phía Nam tăng trưởng 10,3%",
       "impact": "↑",
-      "note": "GRDP Tây Ninh sau 9 tháng năm 2026 tăng 10,3%, đứng thứ 10/34 tỉnh thành và dẫn đầu phía Nam (TP.HCM 9,06%, Đồng Nai 10,01%). Tăng trưởng mạnh từ mức bình quân 6,73%/năm giai đoạn 2021-2025, nhờ kết nối kinh tế sau hợp nhất Long An-Tây Ninh."
+      "note": "9 tháng năm 2026, GRDP Tây Ninh tăng 10,3%, dẫn đầu khu vực phía Nam, vượt TP.HCM (9,06%) và Đồng Nai (10,01%), đứng thứ 10/34 tỉnh, thành phố toàn quốc."
     },
     {
-      "title": "Tháng 10 lịch sử thường tiêu cực, xác suất tăng chỉ 46%",
+      "title": "Bắc Ninh vượt TP.HCM xuất khẩu",
+      "impact": "↑",
+      "note": "Tháng 9, Bắc Ninh xuất khẩu 12,7 tỷ USD, Phú Thọ 12,1 tỷ USD, vượt TP.HCM 9,04 tỷ USD. 9 tháng: Bắc Ninh 88,2 tỷ USD, TP.HCM 75,7 tỷ USD, dẫn đầu cả nước nhờ điện tử, viễn thông, bán dẫn."
+    },
+    {
+      "title": "Lãi suất cao cạnh tranh quý 4",
       "impact": "↓",
-      "note": "Thống kê 2000-2025: VN-Index chỉ tăng 12/26 tháng 10 (46% xác suất), hiệu suất bình quân âm 0,5%, trung vị âm 0,3%. Bốn lần mất từ 9% trở lên, trong đó ba lần trong 10 năm gần nhất (2022: -9%, 2023: >10%, 2018: >10%), năm 2008 giảm tới 24%."
+      "note": "Maybank dự báo lãi suất cao, giá dầu biến động, chính sách tiền tệ cứng là áp lực lớn quý 4. Ngân hàng chịu áp lực biên lãi ròng khi tiền gửi điều chỉnh theo mặt bằng cao, phải tăng trích lập dự phòng nợ xấu."
+    },
+    {
+      "title": "Tháng 10 lịch sử rủi ro giảm 9-24%",
+      "impact": "↓",
+      "note": "26 năm 2000-2025, tháng 10 chỉ tăng điểm 12 lần (xác suất 46%), hiệu suất trung bình -0,5%. 4 lần giảm >9%: 2008 (-24%), 2023 (>10%), 2018 (>10%), 2022 (-9%), cảnh báo rủi ro cao."
     }
   ]
 }
