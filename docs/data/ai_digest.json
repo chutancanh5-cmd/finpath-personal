@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-12",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang gặp áp lực lớn với 80% cổ phiếu ngành chứng khoán ở trạng thái gấu, khối ngoại bán ròng, lãi suất cao cạnh tranh, và lạm phát dự báo 4,5-4,8% cả năm tạo sức ép bổ sung. Tuy nhiên, nền kinh tế vẫn tăng trưởng mạnh (GDP +10%), xuất khẩu vượt kỳ vọng, lợi nhuận doanh nghiệp tăng 20-25%, mở ra cơ hội đầu tư dài hạn dù rủi ro quý 4 (tháng 10 lịch sử khó khăn) vẫn cần thận trọng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "VN-Index giảm 14 điểm về 1.720 điểm do VHM, VIC giảm mạnh tuy nhiên dòng tiền chọn lọc: nhóm thép tăng 3-7%, xuất khẩu Bắc Ninh 88,2 tỷ USD vượt TPHCM, FDI mới OJI 110 triệu USD. Rủi ro từ dự báo lạm phát Q4 khoảng 4,5-4,8% do áp lực năng lượng, nguyên liệu, chính sách thương mại; khối ngoại bán ròng 615 tỷ đồng cần theo dõi.",
   "top": [
     {
-      "title": "80% cổ phiếu chứng khoán ở gấu",
+      "title": "VN-Index giảm 14 điểm về 1.720 điểm, VHM/VIC ép chỉ số",
       "impact": "↓",
-      "note": "Thống kê sau phiên 9/10, 80% số mã cổ phiếu chứng khoán giảm hơn 20% từ đỉnh (APG -62%, VDS -51%, CSI -51%, SHS & VIX -45%), khiến ngành chứng khoán đang trải qua giai đoạn chiết khấu sâu."
+      "note": "VHM giảm 3,18% xuống 63.900 đồng gần đáy tháng 4/2026, VIC giảm 2,88%, GAS giảm 2,11%. Mẫu hình nến thân nhỏ, khối lượng giảm cho thấy tâm lý thận trọng. Thanh khoản HoSE 13.000 tỷ đồng."
     },
     {
-      "title": "Lạm phát dự báo cả năm 4,5%-4,8%",
-      "impact": "↓",
-      "note": "CPI bình quân 9 tháng tăng 4,52%, dự báo cả năm 2026 khoảng 4,5%-4,8%. Áp lực từ giá dầu, năng lượng thế giới tăng từ tháng 3, chi phí vận tải logistics tăng, khó kiểm soát trong quý 4."
-    },
-    {
-      "title": "Tây Ninh dẫn đầu phía Nam tăng trưởng 10,3%",
+      "title": "Nhóm thép bứt phá 3-7%, dòng tiền dịch chuyển",
       "impact": "↑",
-      "note": "9 tháng năm 2026, GRDP Tây Ninh tăng 10,3%, dẫn đầu khu vực phía Nam, vượt TP.HCM (9,06%) và Đồng Nai (10,01%), đứng thứ 10/34 tỉnh, thành phố toàn quốc."
+      "note": "HPG +2,99%, HSG +3,54%, NKG +6,89%, VGS +7,64%, TVN +3,16%. Lực cầu dòng chảy mạnh trên diện rộng. Giá thép xây dựng ổn định (CB240 14.920 đồng/kg). Tín hiệu phân hóa dương tính từ cổ phiếu chu kỳ."
     },
     {
-      "title": "Bắc Ninh vượt TP.HCM xuất khẩu",
+      "title": "Bộ Tài chính dự báo lạm phát Q4 2026 khoảng 4,5-4,8%",
+      "impact": "↓",
+      "note": "Áp lực từ biến động giá năng lượng, nguyên liệu thế giới, rủi ro tỷ giá, gián đoạn chuỗi cung ứng do căng thẳng địa chính trị. Đầu tư công gia tăng tổng cầu khó tăng nhanh. Kiến nghị kiểm tra niêm yết giá và bảo đảm cung ứng."
+    },
+    {
+      "title": "Khối ngoại bán ròng 615 tỷ đồng, TCB bị xả 115 tỷ",
+      "impact": "↓",
+      "note": "TCB bán ròng 115 tỷ, PNJ 105 tỷ, FPT 91 tỷ. Riêng HPG được mua mạnh 128 tỷ, HDB 31 tỷ, NVL 18 tỷ. Áp lực bán tập trung tại ngân hàng, bất động sản; mua chọn lọc ở công nghiệp."
+    },
+    {
+      "title": "Bắc Ninh xuất khẩu 88,2 tỷ USD 9 tháng, vượt TPHCM 75,7 tỷ USD",
       "impact": "↑",
-      "note": "Tháng 9, Bắc Ninh xuất khẩu 12,7 tỷ USD, Phú Thọ 12,1 tỷ USD, vượt TP.HCM 9,04 tỷ USD. 9 tháng: Bắc Ninh 88,2 tỷ USD, TP.HCM 75,7 tỷ USD, dẫn đầu cả nước nhờ điện tử, viễn thông, bán dẫn."
+      "note": "Tháng 9 đạt 12,7 tỷ USD dẫn đầu. Động lực từ FDI công nghệ cao: Samsung, Canon, Amkor, Luxshare-ICT. 3.600 dự án FDI 50+ tỷ USD. Sản phẩm chủ yếu điện tử, thiết bị viễn thông, bán dẫn."
     },
     {
-      "title": "Lãi suất cao cạnh tranh quý 4",
-      "impact": "↓",
-      "note": "Maybank dự báo lãi suất cao, giá dầu biến động, chính sách tiền tệ cứng là áp lực lớn quý 4. Ngân hàng chịu áp lực biên lãi ròng khi tiền gửi điều chỉnh theo mặt bằng cao, phải tăng trích lập dự phòng nợ xấu."
-    },
-    {
-      "title": "Tháng 10 lịch sử rủi ro giảm 9-24%",
-      "impact": "↓",
-      "note": "26 năm 2000-2025, tháng 10 chỉ tăng điểm 12 lần (xác suất 46%), hiệu suất trung bình -0,5%. 4 lần giảm >9%: 2008 (-24%), 2023 (>10%), 2018 (>10%), 2022 (-9%), cảnh báo rủi ro cao."
+      "title": "OJI khởi công nhà máy bao bì 110 triệu USD tại Đồng Nai",
+      "impact": "↑",
+      "note": "Công suất 8 tỷ hộp/năm, tạo 200 việc làm. Khu công nghiệp Long Thành 5,7ha. Sản phẩm hộp giấy tiệt trùng cho đồ uống, thực phẩm lỏng trong nước và hỗ trợ chuỗi cung ứng ĐNA, quốc tế."
     }
   ]
 }
