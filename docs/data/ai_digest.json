@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường giảm điểm do áp lực bán rộng (420 mã giảm vs 220 mã tăng), nhà đầu tư ngoại vẫn bán ròng 468 tỷ đồng dù định giá rẻ nhất 5 năm — Fed tăng lãi suất 0,25% và môi trường lãi suất cao cản trở dòng vào. Tuy vậy, tín hiệu kinh tế khả quan: Quảng Ninh dẫn đầu tăng trưởng 12,54% (9 tháng), F88 lãi 1,1 ngàn tỷ tăng 54%. Lạm phát dự báo 4,5-4,8% từ áp lực giá năng lượng, nguyên liệu thế giới là rủi ro ngắn hạn.",
+  "summary_vi": "Nền kinh tế Việt Nam tăng trưởng mạnh với GDP Q3 đạt 9,95% (cao nhất từ Q3/2022) và UOB nâng dự báo lên 9,2% cho cả năm, tạo tín hiệu tích cực cho nền tảng kinh tế. Tuy nhiên, thị trường chứng khoán gặp áp lực bán lan rộng (420 mã giảm vs 220 mã tăng), khối ngoại bán ròng 468 tỷ đồng, đồng thời lạm phát dự báo tăng 4,5-5% trong quý cuối năm từ áp lực năng lượng, tỷ giá và rủi ro chuỗi cung ứng khiến nhà đầu tư vẫn giữ thái độ thận trọng.",
   "top": [
     {
-      "title": "VN-Index giảm 1,5 điểm giữa áp lực bán rộng",
-      "impact": "↓",
-      "note": "VN-Index giảm 1,5 điểm (-0,09%) xuống 1.719,42 điểm. Độ rộng thị trường có gần 420 mã giảm so với 220 mã tăng, sắc đỏ chiếm phần lớn. Nhóm y tế giảm mạnh (TTD giảm sàn), vận tải suy yếu với ACV, VJC, MVN giảm mạnh."
-    },
-    {
-      "title": "Lạm phát 4,5-4,8%, kiểm soát giá cuối năm",
-      "impact": "↓",
-      "note": "Bộ Tài chính dự báo lạm phát 4,5-4,8% (NHNN dự báo 4,5-5%). Áp lực từ biến động giá năng lượng, nguyên liệu thế giới, rủi ro tỷ giá và căng thẳng địa chính trị. Hoạt động sản xuất, tiêu dùng tăng vào cuối năm có thể gia tăng tổng cầu khi nguồn cung khó tăng nhanh."
-    },
-    {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng kinh tế",
+      "title": "UOB nâng GDP 2026 lên 9,2%, đạt cao hơn dự báo",
       "impact": "↑",
-      "note": "GRDP Quảng Ninh quý III/2026 tăng 15,04%; tính chung 9 tháng tăng 12,54%, đứng đầu cả nước. Địa phương phấn đấu hoàn thành mục tiêu tăng trưởng cả năm trên 13%, dựa trên chiến lược tập trung tháo gỡ điểm nghẽn và huy động nguồn lực."
+      "note": "UOB nâng dự báo GDP 2026 từ 8,5% lên 9,2%, GDP Q3 thực tế tăng 9,95% (cao nhất từ Q3/2022), vượt dự báo đồng thuận 8,65% của Bloomberg. Công nghiệp & xây dựng tăng 12,5%, 9 tháng đạt 9,01%, dự báo lạm phát 4,7%."
     },
     {
-      "title": "F88 lãi 1,1 ngàn tỷ sau 9 tháng, tăng 54%",
+      "title": "Thị trường chứng khoán chịu áp lực bán lan rộng",
+      "impact": "↓",
+      "note": "VN-Index giảm 1,5 điểm (-0,09%) xuống 1.719,42 điểm. Độ rộng: 420 mã giảm so với 220 mã tăng, sắc đỏ chiếm phần lớn ở các nhóm tiêu dùng, năng lượng, công nghệ. Nhóm y tế giảm mạnh nhất (TTD sàn), vận tải suy yếu."
+    },
+    {
+      "title": "Lạm phát 4,5-4,8%, áp lực từ năng lượng và tỷ giá",
+      "impact": "↓",
+      "note": "Bộ Tài chính dự báo lạm phát 4,5-4,8% (NHNN 4,5-5%) từ biến động giá năng lượng, nguyên liệu thế giới, rủi zo tỷ giá và căng thẳng địa chính trị. Sản xuất tiêu dùng tăng vào cuối năm có thể gia tăng tổng cầu khi nguồn cung khó tăng."
+    },
+    {
+      "title": "F88 lãi 1.087 tỷ sau 9 tháng, tăng trưởng 54%",
       "impact": "↑",
-      "note": "F88 lũy kế 9 tháng lợi nhuận trước thuế 1,087 tỷ đồng tăng 80,1% so với cùng kỳ (thực hiện 96% kế hoạch). Quý 3 lợi nhuận 401 tỷ tăng 42,1%, ROE đạt 35,1%. Doanh thu từ cho vay đạt 3,728 tỷ đồng tăng 52,4%, dư nợ vay ròng 9,540 tỷ tăng 48,8%."
+      "note": "F88 doanh thu 4.349 tỷ tăng 54,2%, lợi nhuận 1.087 tỷ tăng 80,1% (thực hiện 96% kế hoạch). Quý 3 lãi 401 tỷ tăng 42,1%, ROE 35,1%. Dư nợ vay ròng 9.540 tỷ tăng 48,8%, doanh thu cho vay 3.728 tỷ tăng 52,4%."
     },
     {
-      "title": "Nhà đầu tư nước ngoài chưa mua, bán ròng 468 tỷ",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 468 tỷ đồng trên toàn thị trường ngày 13/10. Dù nâng hạng MSCI vào thị trường mới nổi, tỷ trọng nhỏ trong chỉ số FTSE EM và môi trường lãi suất cao từ Fed nâng lãi 0,25% làm các quỹ ETF chưa có áp lực mua ngay."
+      "title": "Quảng Ninh dẫn đầu tăng trưởng kinh tế 12,54% 9 tháng",
+      "impact": "↑",
+      "note": "GRDP Quảng Ninh Q3 tăng 15,04%, 9 tháng tăng 12,54%, đứng đầu cả nước. Phấn đấu hoàn thành mục tiêu tăng trưởng cả năm trên 13%, dựa chiến lược tập trung tháo gỡ điểm nghẽn, huy động nguồn lực toàn diện."
     },
     {
-      "title": "NVB giảm sàn 9,7%, PNJ bứt phá tăng 5,79%",
+      "title": "Khối ngoại bán ròng 468 tỷ, NVB giảm sàn 9,7%",
       "impact": "↓",
-      "note": "NVB (Ngân hàng Quốc Dân) giảm 9,7% xuống 14.900 đồng/cổ phiếu, khớp lệnh ~4 triệu đơn vị. Nhóm ngân hàng phân hóa: LPB giảm 2,36%, BID giảm 1,48%, VCB giảm 0,71%. Ngược chiều, PNJ tăng 5,79% lên 19.200 đồng với 13,7 triệu đơn vị khớp lệnh."
+      "note": "Khối ngoại bán ròng 468 tỷ đồng ngày 13/10 dù định giá rẻ nhất 5 năm. NVB giảm 9,7% xuống 14.900 đồng/cổ phiếu, LPB giảm 2,36%, BID giảm 1,48%. Fed tăng lãi 0,25% và môi trường lãi suất cao khiến quỹ ETF chưa có áp lực mua."
     }
   ]
 }
