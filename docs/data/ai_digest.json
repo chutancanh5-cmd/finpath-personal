@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam tăng trưởng mạnh với GDP quý 3 tăng 9,95% (cao nhất từ quý 3/2022), UOB nâng dự báo năm 2026 lên 9,2%, 9 tháng đạt 9,01% so với 7,8% cùng kỳ 2025. Tuy nhiên thị trường chứng khoán chịu áp lực bán rộng (420 mã giảm vs 220 mã tăng), nhà đầu tư nước ngoài tiếp tục bán ròng, cùng lo lạm phát dự báo 4,5-4,8% từ áp lực năng lượng, tỷ giá và căng thẳng địa chính trị. Mâu thuẫn giữa tăng trưởng kinh tế mạnh nhưng tâm lý thị trường yếu.",
+  "summary_vi": "GDP quý 3 tăng 9,95% (nhanh nhất từ Q3/2022), UOB nâng dự báo năm 2026 lên 9,2%, phản ánh sức khỏe kinh tế mạnh. Tuy nhiên lãi suất cao (7-7,9%/năm kỳ hạn dài) và Fed nâng thêm 0,25% làm nhà đầu tư thận trọng; khối ngoại bán ròng 450 tỷ đồng, VN-Index giảm với 420 mã giảm vs 220 mã tăng. Lạm phát dự báo 4,5-4,8% được kiểm soát nhưng vẫn cần theo dõi áp lực từ năng lượng, tỷ giá và căng thẳng địa chính trị.",
   "top": [
     {
-      "title": "UOB nâng dự báo GDP 2026 lên 9,2%, GDP quý 3 tăng 9,95%",
+      "title": "GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2%",
       "impact": "↑",
-      "note": "UOB nâng dự báo tăng trưởng GDP 2026 từ 8,5% lên 9,2%, GDP quý 3 thực tế tăng 9,95% so với cùng kỳ, vượt dự báo đồng thuận 8,65% của Bloomberg. Tính chung 9 tháng 2026 đạt 9,01%, cao hơn 7,8% cùng kỳ 2025. Tốc độ tăng trưởng nhanh nhất kể từ quý 3/2022."
+      "note": "GDP Q3/2026 tăng 9,95% so với cùng kỳ, tốc độ nhanh nhất kể từ Q3/2022. UOB nâng dự báo năm 2026 từ 8,5% lên 9,2%, năm 2027 là 8,8%. Công nghiệp-xây dựng tăng 12,5%, dịch vụ 9,54%, nông lâm 4,21%."
     },
     {
-      "title": "VN-Index giảm 1,5 điểm, sắc đỏ chiếm ưu thế với 420 mã giảm",
+      "title": "Khối ngoại bán ròng 450 tỷ đồng, KOS giảm kịch biên độ",
       "impact": "↓",
-      "note": "Thị trường khép lại phiên 13/10 với VN-Index giảm 1,5 điểm, HNX-Index giảm 0,4 điểm. Độ rộng thị trường ghi nhận 420 mã giảm điểm so với 220 mã tăng. Sắc đỏ tập trung ở nhóm tiêu dùng, năng lượng, công nghệ thông tin; nhóm y tế giảm mạnh nhất với TTD giảm sàn."
+      "note": "Khối ngoại bán ròng hơn 450 tỷ đồng phiên 13/10, bán FPT (100 tỷ), MBB, VPB, TCB, VCI (30-40 tỷ mỗi mã). KOS tiếp tục giảm kịch biên độ với dư bán gần 76 triệu cp."
     },
     {
-      "title": "Lạm phát dự báo 4,5-4,8% năm 2026, rủi ro cuối năm",
-      "impact": "↓",
-      "note": "Bộ Tài chính cập nhật 2 kịch bản lạm phát năm 2026 trong khoảng 4,5% đến 4,8%, NHNN dự báo 4,5-5%. Áp lực từ biến động giá năng lượng, nguyên vật liệu thế giới, rủi ro tỷ giá và căng thẳng địa chính trị. Sản xuất tiêu dùng tăng cuối năm có thể gia tăng tổng cầu khi nguồn cung khó tăng nhanh."
-    },
-    {
-      "title": "Quảng Ninh GRDP quý 3 tăng 15,04%, 9 tháng tăng 12,54%",
+      "title": "HVS lãi gấp 5 lần, doanh thu quý 3 tăng 77%",
       "impact": "↑",
-      "note": "GRDP Quảng Ninh quý III/2026 ước tăng 15,04%, tính chung 9 tháng tăng 12,54%, đứng đầu cả nước ở cả hai chỉ tiêu. Địa phương phấn đấu hoàn thành mục tiêu tăng trưởng cả năm trên 13% thông qua tháo gỡ điểm nghẽn, huy động nguồn lực."
+      "note": "HVS quý 3/2026 doanh thu hơn 5 tỷ đồng, tăng 77% YoY (mức cao nhất lịch sử). Toàn bộ từ lãi tiền gửi kỳ hạn (240 tỷ = 90% tài sản): 130 tỷ tại BIDV 4,8%/năm, 100 tỷ tại PGBank 4,9%/năm."
     },
     {
-      "title": "Nhà đầu tư nước ngoài vẫn bán ròng, định giá rẻ chưa đủ",
+      "title": "Chủ tịch KOS bị bán giải chấp 560.854 cổ phiếu",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài tiếp tục bán ròng cổ phiếu dù đà giảm khá nhiều trong những ngày qua. Sự kiện nâng hạng thị trường chưa kích hoạt giải ngân mạnh vì FED nâng lãi suất thêm 0,25%, làm bất lợi cho dòng tiền vào thị trường mới nổi. Tỷ trọng Việt Nam trong chỉ số FTSE EM nhỏ, quỹ ETF chưa có áp lực mua ngay."
+      "note": "Chủ tịch HĐQT Kosy Nguyễn Việt Cường bị bán giải chấp 560.854 cp KOS (7/10-13/10), giảm nắm giữ từ 72.374.490 xuống 71.813.636 cp (33,17% cổ phần). Tổ chức liên quan cũng bị bán giải chấp 8.000 cp."
     },
     {
-      "title": "HVS lãi gấp 5 lần quý 3, doanh thu kỷ lục hơn 5 tỷ đồng",
+      "title": "PNJ tăng cận trần 5,79% sau xác nhận kim cương thiên nhiên",
       "impact": "↑",
-      "note": "Quý 3/2026, CTCP Chứng khoán HVS Việt Nam doanh thu hoạt động hơn 5 tỷ đồng, tăng 77% so với cùng kỳ năm trước, lãi sau thuế gấp 5 lần cùng kỳ. Tiền gửi kỳ hạn tại BIDV (130 tỷ đồng, 4,8%/năm) và PGBank (100 tỷ đồng, 4,9%/năm) là nguồn lợi nhuận chính từ mặt bằng lãi suất cao."
+      "note": "PNJ tăng 5,79% lên 19.200 đ/cp (13,7 triệu đơn vị khớp lệnh) sau AIGS xác nhận 100% mẫu kim cương PNJ kiểm định là thiên nhiên. Giữa phiên sắc đỏ lan rộng trên thị trường."
+    },
+    {
+      "title": "VN-Index giảm 1,5 điểm, sắc đỏ chiếm ưu thế",
+      "impact": "↓",
+      "note": "VN-Index giảm 1,5 điểm, HNX-Index giảm 0,4 điểm. Độ rộng: 420 mã giảm vs 220 mã tăng. Áp lực bán ở tiêu dùng, năng lượng, CNTT. Ngân hàng (HDB, TCB) và BĐS (VIC, VHM) hỗ trợ."
     }
   ]
 }
