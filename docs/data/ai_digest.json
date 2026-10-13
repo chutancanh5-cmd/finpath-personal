@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dữ liệu vĩ mô tích cực với GDP Q3 tăng 9,95% (cao nhất từ Q3/2022) và UOB nâng dự báo lên 9,2%, tăng trưởng 9 tháng đạt 9,01% so với 7,8% cùng kỳ 2025. Tuy nhiên thị trường chứng khoán chịu áp lực bán rộng (420 mã giảm vs 220 mã tăng), khối ngoại bán ròng 468 tỷ đồng, cùng lo lạm phát 4,5-4,8% từ áp lực năng lượng, tỷ giá và căng thẳng địa chính trị. Mặc dù định giá rẻ nhất 5 năm, nhà đầu tư vẫn thận trọng vì lợi nhuận suy yếu và Fed giữ lãi suất cao.",
+  "summary_vi": "Nền kinh tế Việt Nam tăng trưởng mạnh với GDP quý 3 tăng 9,95% (cao nhất từ quý 3/2022), UOB nâng dự báo năm 2026 lên 9,2%, 9 tháng đạt 9,01% so với 7,8% cùng kỳ 2025. Tuy nhiên thị trường chứng khoán chịu áp lực bán rộng (420 mã giảm vs 220 mã tăng), nhà đầu tư nước ngoài tiếp tục bán ròng, cùng lo lạm phát dự báo 4,5-4,8% từ áp lực năng lượng, tỷ giá và căng thẳng địa chính trị. Mâu thuẫn giữa tăng trưởng kinh tế mạnh nhưng tâm lý thị trường yếu.",
   "top": [
     {
-      "title": "UOB nâng dự báo GDP 2026 lên 9,2%",
+      "title": "UOB nâng dự báo GDP 2026 lên 9,2%, GDP quý 3 tăng 9,95%",
       "impact": "↑",
-      "note": "UOB nâng dự báo GDP 2026 từ 8,5% lên 9,2%, GDP Q3 thực tế tăng 9,95% (cao nhất từ Q3/2022), vượt dự báo đồng thuận 8,65% của Bloomberg. Tăng trưởng 9 tháng 2026 đạt 9,01% so với 7,8% cùng kỳ 2025."
+      "note": "UOB nâng dự báo tăng trưởng GDP 2026 từ 8,5% lên 9,2%, GDP quý 3 thực tế tăng 9,95% so với cùng kỳ, vượt dự báo đồng thuận 8,65% của Bloomberg. Tính chung 9 tháng 2026 đạt 9,01%, cao hơn 7,8% cùng kỳ 2025. Tốc độ tăng trưởng nhanh nhất kể từ quý 3/2022."
     },
     {
-      "title": "Thị trường giảm điểm, 420 mã giảm vs 220 mã tăng",
+      "title": "VN-Index giảm 1,5 điểm, sắc đỏ chiếm ưu thế với 420 mã giảm",
       "impact": "↓",
-      "note": "VN-Index giảm 1,5 điểm (-0,09%) xuống 1.719,42 điểm. Khối ngoại bán ròng 468 tỷ đồng. Áp lực bán rộng ở nhóm tiêu dùng, năng lượng, công nghệ; y tế giảm mạnh nhất; các mã như BID, VCB, MSN, LPB, HPG, FPT kéo chỉ số giảm."
+      "note": "Thị trường khép lại phiên 13/10 với VN-Index giảm 1,5 điểm, HNX-Index giảm 0,4 điểm. Độ rộng thị trường ghi nhận 420 mã giảm điểm so với 220 mã tăng. Sắc đỏ tập trung ở nhóm tiêu dùng, năng lượng, công nghệ thông tin; nhóm y tế giảm mạnh nhất với TTD giảm sàn."
     },
     {
-      "title": "Lạm phát dự báo 4,5-4,8% trong quý cuối năm",
+      "title": "Lạm phát dự báo 4,5-4,8% năm 2026, rủi ro cuối năm",
       "impact": "↓",
-      "note": "Bộ Tài chính dự báo lạm phát 4,5-4,8% (NHNN 4,5-5%), từ áp lực giá năng lượng, nguyên vật liệu thế giới, rủi ro tỷ giá và căng thẳng địa chính trị. Sản xuất tiêu dùng cuối năm có thể gia tăng tổng cầu khi nguồn cung khó tăng."
+      "note": "Bộ Tài chính cập nhật 2 kịch bản lạm phát năm 2026 trong khoảng 4,5% đến 4,8%, NHNN dự báo 4,5-5%. Áp lực từ biến động giá năng lượng, nguyên vật liệu thế giới, rủi ro tỷ giá và căng thẳng địa chính trị. Sản xuất tiêu dùng tăng cuối năm có thể gia tăng tổng cầu khi nguồn cung khó tăng nhanh."
     },
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng 12,54% trong 9 tháng",
+      "title": "Quảng Ninh GRDP quý 3 tăng 15,04%, 9 tháng tăng 12,54%",
       "impact": "↑",
-      "note": "GRDP Quảng Ninh Q3 tăng 15,04%, 9 tháng tăng 12,54%, đứng đầu cả nước. Phấn đấu hoàn thành mục tiêu tăng trưởng cả năm trên 13% thông qua chiến lược tháo gỡ điểm nghẽn và huy động nguồn lực."
+      "note": "GRDP Quảng Ninh quý III/2026 ước tăng 15,04%, tính chung 9 tháng tăng 12,54%, đứng đầu cả nước ở cả hai chỉ tiêu. Địa phương phấn đấu hoàn thành mục tiêu tăng trưởng cả năm trên 13% thông qua tháo gỡ điểm nghẽn, huy động nguồn lực."
     },
     {
-      "title": "Định giá rẻ nhất 5 năm nhưng lợi nhuận suy yếu",
+      "title": "Nhà đầu tư nước ngoài vẫn bán ròng, định giá rẻ chưa đủ",
       "impact": "↓",
-      "note": "Mặc dù định giá ở mức rẻ nhất 5 năm, nhà đầu tư vẫn thận trọng vì tăng trưởng lợi nhuận suy yếu. Fed tăng lãi 0,25%, lãi suất toàn cầu cao khiến quỹ ETF chưa có áp lực mua, chỉ tỷ trọng FTSE EM nhỏ."
+      "note": "Nhà đầu tư nước ngoài tiếp tục bán ròng cổ phiếu dù đà giảm khá nhiều trong những ngày qua. Sự kiện nâng hạng thị trường chưa kích hoạt giải ngân mạnh vì FED nâng lãi suất thêm 0,25%, làm bất lợi cho dòng tiền vào thị trường mới nổi. Tỷ trọng Việt Nam trong chỉ số FTSE EM nhỏ, quỹ ETF chưa có áp lực mua ngay."
     },
     {
-      "title": "NVB giảm sàn 9,7%, nhóm ngân hàng phân hóa",
-      "impact": "↓",
-      "note": "NVB giảm 9,7% xuống 14.900 đ/cổ phiếu (~4M đơn vị), FPT bị bán mạnh nhất. Nhóm ngân hàng phân hóa: HDB tăng 2,21%, TCB tăng 1,07% nhưng LPB giảm 2,36%, BID giảm 1,48%."
+      "title": "HVS lãi gấp 5 lần quý 3, doanh thu kỷ lục hơn 5 tỷ đồng",
+      "impact": "↑",
+      "note": "Quý 3/2026, CTCP Chứng khoán HVS Việt Nam doanh thu hoạt động hơn 5 tỷ đồng, tăng 77% so với cùng kỳ năm trước, lãi sau thuế gấp 5 lần cùng kỳ. Tiền gửi kỳ hạn tại BIDV (130 tỷ đồng, 4,8%/năm) và PGBank (100 tỷ đồng, 4,9%/năm) là nguồn lợi nhuận chính từ mặt bằng lãi suất cao."
     }
   ]
 }
