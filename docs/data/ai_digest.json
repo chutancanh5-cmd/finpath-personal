@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-14",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền tảng kinh tế Việt Nam vẫn khỏe với GDP quý 3 đạt 9,95%, UOB nâng dự báo 2026 lên 9,2%, tăng trưởng 9 tháng đầu 9,01% vượt mục tiêu. Tuy nhiên lãi suất neo cao (7-7,9%/năm), nguồn vốn thắt chặt và áp lực lạm phát cuối năm (4,5-4,8%) tạo rủi ro cho doanh nghiệp. Thị trường điều chỉnh nhẹ, khối ngoại bán ròng 468 tỷ đồng, nhưng nhiều nhóm cổ phiếu định giá thấp vẫn mang cơ hội.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "GDP tăng 9.95% quý 3, UOB nâng dự báo năm 2026 lên 9.2%, hỗ trợ lợi nhuận. Lãi suất cao (7.5-7.9%) gây áp lực trả nợ bất động sản nhà ở. Lạm phát dự báo 4.5-5% từ áp lực năng lượng, tỷ giá. Khối ngoại bán ròng 467 tỷ đồng phản ánh thận trọng.",
   "top": [
     {
-      "title": "UOB nâng dự báo GDP 2026 lên 9,2%, 2027 là 8,8%",
+      "title": "GDP tăng 9.95% quý 3, vượt kỳ vọng",
       "impact": "↑",
-      "note": "UOB nâng dự báo tăng trưởng năm 2026 từ 8,5% lên 9,2% và năm 2027 là 8,8%. GDP quý 3/2026 đạt 9,95% so với cùng kỳ, tốc độ nhanh nhất kể từ Q3/2022. Tăng trưởng 9 tháng đầu năm 9,01%, công nghiệp-xây dựng 12,5%, dịch vụ 9,54%."
+      "note": "GDP quý 3/2026 tăng 9.95% so với cùng kỳ, nhanh nhất từ Q3/2022, vượt dự báo Bloomberg 8.65%. Tổng 9 tháng tăng 9.01%. UOB nâng dự báo năm 2026 lên 9.2% (từ 8.5%)."
     },
     {
-      "title": "Lãi suất neo cao, nguồn vốn thắt chặt",
+      "title": "Lãi suất cao: Áp lực trả nợ, bất động sản nhà ở khó",
       "impact": "↓",
-      "note": "VIS Rating cảnh báo chi phí hoạt động gia tăng, tăng trưởng tín dụng vượt huy động tiền gửi, lãi suất duy trì cao sẽ làm suy yếu tín nhiệm ngân hàng và doanh nghiệp. Doanh nghiệp bất động sản nhà ở gặp khó khăn nhất, nguồn vốn ngày càng phụ thuộc vào chất lượng tín nhiệm từng tổ chức."
+      "note": "VIS Rating cảnh báo chi phí hoạt động gia tăng, lãi suất 7.5-7.9%/năm, tăng trưởng tín dụng vượt huy động. Bất động sản nhà ở là nhóm rủi ro nhất trong 12 tháng tới."
     },
     {
-      "title": "VN-Index giảm, khối ngoại bán ròng 468 tỷ",
+      "title": "Khối ngoại bán ròng 467 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 1,5 điểm xuống 1.719,42 điểm, khối ngoại bán ròng hơn 450 tỷ đồng với bán tập trung FPT (100 tỷ), MBB, VPB, TCB (30-40 tỷ). Độ rộng thị trường tiêu cực: 420 mã giảm so với 220 mã tăng."
+      "note": "Khối ngoại bán ròng 467,9 tỷ đồng ngày 13/10. Bán tập trung FPT (100+ tỷ), MBB, VPB, TCB (30-40 tỷ mỗi cái), phản ánh lo ngại nhà đầu tư quốc tế."
     },
     {
-      "title": "Nhiều nhóm cổ phiếu định giá rẻ bất ngờ",
+      "title": "Quảng Ninh GRDP tăng 15.04% quý 3, dẫn đầu",
       "impact": "↑",
-      "note": "Chứng khoán Tiên Phong chỉ ra mặc dù kết quả kinh doanh cải thiện (lợi nhuận toàn thị trường 9 tháng tăng 49,2%), nhiều nhóm ngành định giá thấp hơn trung bình lịch sử, tạo cơ hội khi thị trường bước vào mùa công bố báo cáo quý 3."
+      "note": "Quảng Ninh GRDP quý 3 tăng 15,04%, 9 tháng tăng 12,54%, đứng đầu cả nước. Khu vực Bắc Bộ duy trì động lực tăng trưởng mạnh."
     },
     {
-      "title": "Lạm phát dự báo 4,5-4,8%, áp lực cuối năm",
+      "title": "Lạm phát dự báo 4.5-5%, áp lực năng lượng/tỷ giá",
       "impact": "↓",
-      "note": "Bộ Tài chính cập nhật 2 kịch bản lạm phát năm 2026 khoảng 4,5-4,8%, NHNN dự báo 4,5-5%. Áp lực từ biến động giá năng lượng, nguyên vật liệu thế giới, rủi ro tỷ giá và căng thẳng địa chính trị. Bộ Tài chính kiến nghị điều hành linh hoạt, bảo đảm nguồn cung hàng hóa thiết yếu."
+      "note": "Bộ Tài chính cập nhật 2 kịch bản lạm phát 4.5-4.8%, NHNN dự báo 4.5-5%. Áp lực từ năng lượng, tỷ giá, căng thẳng địa chính trị, thay đổi chính sách thương mại."
     },
     {
-      "title": "Quảng Ninh dẫn đầu tăng trưởng 12,54% cả nước",
+      "title": "Định giá thấp, mùa KQKD quý 3 tạo cơ hội",
       "impact": "↑",
-      "note": "Quảng Ninh ghi nhận GRDP quý 3/2026 tăng 15,04%, 9 tháng tăng 12,54% dẫn đầu cả nước. Phấn đấu mục tiêu tăng trưởng cả năm trên 13% thông qua chiến lược 'Đột phá tăng trưởng kinh tế, nâng cao chất lượng đô thị, sớm đạt tiêu chí thành phố trực thuộc Trung ương'."
+      "note": "Lợi nhuận nửa đầu năm 2026 tăng 49.2%, nhưng định giá nhiều nhóm cổ phiếu vẫn thấp hơn trung bình lịch sử. Tháng 10 là giai đoạn mua đón đầu KQKD quý 3."
     }
   ]
 }
