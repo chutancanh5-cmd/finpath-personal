@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-13",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chìm trong sắc đỏ với thanh khoản cực thấp (4.617 tỷ đồng, giảm 13%), khiến VN-Index có nguy cơ 'thủng' đáy ngắn hạn. Áp lực lạm phát gia tăng từ giá dầu Brent lập đỉnh mới (149 USD/thùng) và dự báo lạm phát năm 2026 tăng 4,5-4,8%, trong khi một số ngành như fintech (F88 tăng 54-80%) và ngân hàng (HDB vượt đỉnh lịch sử) vẫn khởi sắc. Tăng trưởng khu vực Quảng Ninh (12,54%) cho thấy kinh tế vùng có chiều hướng tích cực, nhưng rủi ro hệ thống vẫn chiếm ưu thế.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Sắc đỏ chiếm ưu thế phiên 13/10 với 420 mã giảm, nhưng niềm tin doanh nghiệp vẫn còn từ các động thái tăng vốn (Techcombank), tăng trưởng mạnh (F88 lãi tăng 80%, Quảng Ninh tăng 12,54%), làm VN-Index chỉ giảm nhẹ 0,09%. Tuy nhiên, Fed tăng lãi suất 0,25%, dự báo lạm phát 4,5-4,8%, cùng dòng tiền ngoài bán ròng 468 tỷ, tạo rủi ro điều chỉnh ngắn hạn cho thị trường trong bối cảnh lãi suất toàn cầu ở mức cao.",
   "top": [
     {
-      "title": "Thanh khoản cực thấp, VN-Index có nguy cơ 'thủng' đáy",
-      "impact": "↓",
-      "note": "Giá trị khớp lệnh HoSE sáng 13/10 chỉ 4.617 tỷ đồng, giảm 13% so với hôm qua, ở mức thanh khoản thấp kỷ lục; 360 mã giảm chiếm ưu thế so với 180 mã tăng, tạo áp lực trên VN-Index ở mức 1.715 điểm (giảm 6 điểm)."
-    },
-    {
-      "title": "Giá dầu Brent lập đỉnh mới",
-      "impact": "↓",
-      "note": "Giá dầu Brent giao ngay vượt kỷ lục tháng 4/2026, Dated Brent duy trì quanh 149 USD/thùng; chênh lệch giữa Dated Brent và futures mở rộng lên >50 USD/thùng do rủi ro gián đoạn chuỗi cung từ Vùng Vịnh và các tấn công của Iran."
-    },
-    {
-      "title": "Cập nhật 2 kịch bản lạm phát 4,5% và 4,8%",
-      "impact": "↓",
-      "note": "Bộ Tài chính dự báo lạm phát năm 2026 tăng khoảng 4,5% và 4,8%, chịu áp lực từ giá năng lượng, nguyên vật liệu, rủi ro tỷ giá, gián đoạn chuỗi cung từ căng thẳng địa chính trị trong 3 tháng cuối năm."
-    },
-    {
-      "title": "F88 lợi nhuận 9 tháng 1.087 tỷ đồng, tăng 80%",
+      "title": "Techcombank tăng vốn kỷ lục lên 106.593 tỷ đồng",
       "impact": "↑",
-      "note": "Doanh thu 9 tháng 4.349 tỷ đồng (+54,2%), lợi nhuận trước thuế 1.087 tỷ đồng (+80,1%); ROE đạt 35,1%; dự kiến lợi nhuận cả năm 1.500 tỷ vượt 32% kế hoạch, phản ánh sức mạnh ngành fintech và tín dụng tiêu dùng."
+      "note": "NHNN chấp thuận Techcombank tăng vốn thêm 35.730,97 tỷ đồng từ phát hành cổ phiếu trả cổ tức 50% và ESOP, sẽ trở thành ngân hàng có vốn điều lệ cao nhất hệ thống (từ 70.862,4 tỷ lên 106.593,38 tỷ đồng)."
     },
     {
-      "title": "HDB vượt đỉnh lịch sử 23.250 đồng",
-      "impact": "↑",
-      "note": "HDB tăng 2,43% phiên 13/10, xác lập mức cao nhất từ trước đến nay (sau điều chỉnh cổ tức); từ cuối tháng 7 tăng tổng 20%; chốt quyền cổ tức 30% (25% cổ tức + 5% thưởng) ngày 12/10, phản ánh niềm tin vào ngành ngân hàng."
+      "title": "VN-Index giảm điểm, sắc đỏ lan rộng 420 mã",
+      "impact": "↓",
+      "note": "VN-Index giảm 1,56 điểm (-0,09%) xuống 1.719,42 điểm, 420 mã giảm so với 220 mã tăng, áp lực bán gia tăng trên diện rộng, khối ngoại bán ròng 468 tỷ đồng trên toàn thị trường."
     },
     {
-      "title": "Quảng Ninh tăng trưởng GRDP 12,54% trong 9 tháng",
+      "title": "F88 lãi 1.087 tỷ đồng sau 9 tháng, tăng 80,1%",
       "impact": "↑",
-      "note": "GRDP Quảng Ninh quý 3 tăng 15,04%, 9 tháng tăng 12,54% đứng đầu cả nước; dự kiến cả năm vượt 13%, cho thấy một số khu vực kinh tế vẫn tăng trưởng mạnh bất chấp thách thức vĩ mô."
+      "note": "F88 9 tháng lãi trước thuế 1.087 tỷ đồng (tăng 80,1%), doanh thu 4.349 tỷ (tăng 54,2%), dư nợ vay ròng 9.540 tỷ (tăng 48,8%), ROE đạt 35,1%, kỳ vọng cả năm lãi 1.500 tỷ vượt 32% kế hoạch."
+    },
+    {
+      "title": "Fed tăng lãi suất, lạm phát dự báo 4,5-4,8%",
+      "impact": "↓",
+      "note": "Fed tăng lãi suất 0,25% (lần đầu sau 3 năm), Bộ Tài chính dự báo lạm phát năm 2026 tăng 4,5-4,8%, áp lực từ giá năng lượng, nguyên liệu thế giới, rủi ro tỷ giá và chuỗi cung ứng trong 3 tháng cuối năm."
+    },
+    {
+      "title": "Quảng Ninh dẫn đầu tăng trưởng 12,54% trong 9 tháng",
+      "impact": "↑",
+      "note": "GRDP Quảng Ninh 9 tháng 2026 tăng 12,54%, quý III tăng 15,04%, đứng đầu cả nước ở cả hai chỉ tiêu, phấn đấu hoàn thành mục tiêu tăng trưởng cả năm trên 13%."
+    },
+    {
+      "title": "HVS lãi gấp 5 lần nhờ lãi suất cao",
+      "impact": "↑",
+      "note": "HVS quý 3/2026 doanh thu hơn 5 tỷ đồng (tăng 77%, mức cao nhất lịch sử), lãi sau thuế gấp 5 lần cùng kỳ, sở hữu hợp đồng tiền gửi kỳ hạn 6 tháng quy mô hơn 240 tỷ đồng với lãi suất 4,8-4,9%/năm."
     }
   ]
 }
