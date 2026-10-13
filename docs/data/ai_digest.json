@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP quý 3 tăng 9,95% (nhanh nhất từ Q3/2022), UOB nâng dự báo năm 2026 lên 9,2%, phản ánh sức khỏe kinh tế mạnh. Tuy nhiên lãi suất cao (7-7,9%/năm kỳ hạn dài) và Fed nâng thêm 0,25% làm nhà đầu tư thận trọng; khối ngoại bán ròng 450 tỷ đồng, VN-Index giảm với 420 mã giảm vs 220 mã tăng. Lạm phát dự báo 4,5-4,8% được kiểm soát nhưng vẫn cần theo dõi áp lực từ năng lượng, tỷ giá và căng thẳng địa chính trị.",
+  "summary_vi": "Nền tảng kinh tế Việt Nam vẫn khỏe với GDP quý 3 đạt 9,95%, UOB nâng dự báo 2026 lên 9,2%, tăng trưởng 9 tháng đầu 9,01% vượt mục tiêu. Tuy nhiên lãi suất neo cao (7-7,9%/năm), nguồn vốn thắt chặt và áp lực lạm phát cuối năm (4,5-4,8%) tạo rủi ro cho doanh nghiệp. Thị trường điều chỉnh nhẹ, khối ngoại bán ròng 468 tỷ đồng, nhưng nhiều nhóm cổ phiếu định giá thấp vẫn mang cơ hội.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2%",
+      "title": "UOB nâng dự báo GDP 2026 lên 9,2%, 2027 là 8,8%",
       "impact": "↑",
-      "note": "GDP Q3/2026 tăng 9,95% so với cùng kỳ, tốc độ nhanh nhất kể từ Q3/2022. UOB nâng dự báo năm 2026 từ 8,5% lên 9,2%, năm 2027 là 8,8%. Công nghiệp-xây dựng tăng 12,5%, dịch vụ 9,54%, nông lâm 4,21%."
+      "note": "UOB nâng dự báo tăng trưởng năm 2026 từ 8,5% lên 9,2% và năm 2027 là 8,8%. GDP quý 3/2026 đạt 9,95% so với cùng kỳ, tốc độ nhanh nhất kể từ Q3/2022. Tăng trưởng 9 tháng đầu năm 9,01%, công nghiệp-xây dựng 12,5%, dịch vụ 9,54%."
     },
     {
-      "title": "Khối ngoại bán ròng 450 tỷ đồng, KOS giảm kịch biên độ",
+      "title": "Lãi suất neo cao, nguồn vốn thắt chặt",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng hơn 450 tỷ đồng phiên 13/10, bán FPT (100 tỷ), MBB, VPB, TCB, VCI (30-40 tỷ mỗi mã). KOS tiếp tục giảm kịch biên độ với dư bán gần 76 triệu cp."
+      "note": "VIS Rating cảnh báo chi phí hoạt động gia tăng, tăng trưởng tín dụng vượt huy động tiền gửi, lãi suất duy trì cao sẽ làm suy yếu tín nhiệm ngân hàng và doanh nghiệp. Doanh nghiệp bất động sản nhà ở gặp khó khăn nhất, nguồn vốn ngày càng phụ thuộc vào chất lượng tín nhiệm từng tổ chức."
     },
     {
-      "title": "HVS lãi gấp 5 lần, doanh thu quý 3 tăng 77%",
+      "title": "VN-Index giảm, khối ngoại bán ròng 468 tỷ",
+      "impact": "↓",
+      "note": "VN-Index giảm 1,5 điểm xuống 1.719,42 điểm, khối ngoại bán ròng hơn 450 tỷ đồng với bán tập trung FPT (100 tỷ), MBB, VPB, TCB (30-40 tỷ). Độ rộng thị trường tiêu cực: 420 mã giảm so với 220 mã tăng."
+    },
+    {
+      "title": "Nhiều nhóm cổ phiếu định giá rẻ bất ngờ",
       "impact": "↑",
-      "note": "HVS quý 3/2026 doanh thu hơn 5 tỷ đồng, tăng 77% YoY (mức cao nhất lịch sử). Toàn bộ từ lãi tiền gửi kỳ hạn (240 tỷ = 90% tài sản): 130 tỷ tại BIDV 4,8%/năm, 100 tỷ tại PGBank 4,9%/năm."
+      "note": "Chứng khoán Tiên Phong chỉ ra mặc dù kết quả kinh doanh cải thiện (lợi nhuận toàn thị trường 9 tháng tăng 49,2%), nhiều nhóm ngành định giá thấp hơn trung bình lịch sử, tạo cơ hội khi thị trường bước vào mùa công bố báo cáo quý 3."
     },
     {
-      "title": "Chủ tịch KOS bị bán giải chấp 560.854 cổ phiếu",
+      "title": "Lạm phát dự báo 4,5-4,8%, áp lực cuối năm",
       "impact": "↓",
-      "note": "Chủ tịch HĐQT Kosy Nguyễn Việt Cường bị bán giải chấp 560.854 cp KOS (7/10-13/10), giảm nắm giữ từ 72.374.490 xuống 71.813.636 cp (33,17% cổ phần). Tổ chức liên quan cũng bị bán giải chấp 8.000 cp."
+      "note": "Bộ Tài chính cập nhật 2 kịch bản lạm phát năm 2026 khoảng 4,5-4,8%, NHNN dự báo 4,5-5%. Áp lực từ biến động giá năng lượng, nguyên vật liệu thế giới, rủi ro tỷ giá và căng thẳng địa chính trị. Bộ Tài chính kiến nghị điều hành linh hoạt, bảo đảm nguồn cung hàng hóa thiết yếu."
     },
     {
-      "title": "PNJ tăng cận trần 5,79% sau xác nhận kim cương thiên nhiên",
+      "title": "Quảng Ninh dẫn đầu tăng trưởng 12,54% cả nước",
       "impact": "↑",
-      "note": "PNJ tăng 5,79% lên 19.200 đ/cp (13,7 triệu đơn vị khớp lệnh) sau AIGS xác nhận 100% mẫu kim cương PNJ kiểm định là thiên nhiên. Giữa phiên sắc đỏ lan rộng trên thị trường."
-    },
-    {
-      "title": "VN-Index giảm 1,5 điểm, sắc đỏ chiếm ưu thế",
-      "impact": "↓",
-      "note": "VN-Index giảm 1,5 điểm, HNX-Index giảm 0,4 điểm. Độ rộng: 420 mã giảm vs 220 mã tăng. Áp lực bán ở tiêu dùng, năng lượng, CNTT. Ngân hàng (HDB, TCB) và BĐS (VIC, VHM) hỗ trợ."
+      "note": "Quảng Ninh ghi nhận GRDP quý 3/2026 tăng 15,04%, 9 tháng tăng 12,54% dẫn đầu cả nước. Phấn đấu mục tiêu tăng trưởng cả năm trên 13% thông qua chiến lược 'Đột phá tăng trưởng kinh tế, nâng cao chất lượng đô thị, sớm đạt tiêu chí thành phố trực thuộc Trung ương'."
     }
   ]
 }
