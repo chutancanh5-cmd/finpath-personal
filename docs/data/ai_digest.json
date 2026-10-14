@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-10-14",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Việt Nam duy trì đà tăng trưởng mạnh nhất ASEAN với GDP quý III 2026 đạt 9,95% YoY (cao nhất từ Q3/2022) vượt dự báo, UOB nâng dự báo năm 2026 lên 9,2% (từ 8,5%), IMF nâng dự báo tăng trưởng toàn cầu lên 3,1% tạo điều kiện thuận lợi cho xuất khẩu Việt Nam. Tuy nhiên, áp lực từ lãi suất neo cao kéo dài tới 2027, chi phí vốn gia tăng, 252 nghìn tỷ trái phiếu doanh nghiệp đáo hạn trong 12 tháng tới sẽ thách thức doanh nghiệp yếu tài chính, dẫn tới phân hóa thị trường theo hình chữ K có lợi cho các doanh nghiệp lớn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Tăng trưởng kinh tế Việt Nam quý 3/2026 đạt 9,95% YoY vượt dự báo, FDI từ Singapore đạt 12,85 tỷ USD trong 9 tháng (tăng 76,4% YoY) khẳng định sức hấp dẫn thị trường. Tuy nhiên, áp lực tín dụng gia tăng với 252 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn trong 12 tháng tới, kết hợp lãi suất neo cao kéo dài tới 2027 sẽ gây sức ép lên khả năng thanh khoản doanh nghiệp, đặc biệt lĩnh vực bất động sản. Thị trường phân hóa theo mô hình K, ưu tiên doanh nghiệp lớn có tiềm lực tài chính mạnh.",
   "top": [
     {
       "title": "GDP quý III vượt kỳ vọng, UOB nâng dự báo 2026 lên 9,2%",
@@ -10,9 +10,9 @@
       "note": "Tăng trưởng GDP quý III/2026 đạt 9,95% so với cùng kỳ năm trước (cao nhất từ Q3/2022), vượt dự báo đồng thuận 8,65% của Bloomberg, với khu vực công nghiệp-xây dựng tăng 12,5%, dịch vụ tăng 9,54%. UOB nâng dự báo tăng trưởng GDP cả năm 2026 lên 9,2% (từ 8,5%), khẳng định Việt Nam duy trì vị thế nền kinh tế tăng trưởng nhanh nhất ASEAN."
     },
     {
-      "title": "IMF nâng dự báo tăng trưởng toàn cầu 2026 lên 3,1%",
-      "impact": "↑",
-      "note": "IMF nâng dự báo tăng trưởng kinh tế toàn cầu 2026 lên 3,1% (từ 3,0%), nhờ làn sóng đầu tư AI bù đắp áp lực chi phí năng lượng tăng cao. Nền kinh tế toàn cầu vẫn giữ khả năng chống chịu tốt mặc dù dần chạm tới giới hạn, tạo điều kiện tốt cho xuất khẩu Việt Nam."
+      "title": "IMF nâng dự báo tăng trưởng toàn cầu, cảnh báo rủi ro",
+      "impact": "→",
+      "note": "IMF nâng dự báo tăng trưởng kinh tế toàn cầu 2026 lên 3,1% (từ 3,0%), dự báo lạm phát 4,7% năm 2026, 4,1% năm 2027. Tuy nhiên cảnh báo nền kinh tế toàn cầu đang chạm tới giới hạn khả năng chống chịu, kêu gọi các quốc gia khôi phục dư địa tài khóa. Dự báo eo biển Hormuz mở cửa trở lại trước cuối tháng 3/2027."
     },
     {
       "title": "252 nghìn tỷ đồng trái phiếu doanh nghiệp đáo hạn 12 tháng",
@@ -30,9 +30,9 @@
       "note": "Áp lực lãi suất neo cao kéo dài tới 2027 dẫn thị trường phân hóa theo mô hình K, doanh nghiệp lớn có tiềm lực tài chính mạnh (VPB, HDB, TCB, VHM, HPG) gia tăng thị phần, trong khi doanh nghiệp nhỏ yếu gặp áp lực tiếp cận vốn."
     },
     {
-      "title": "Singapore GDP tăng 5,4%, nhưng động lực tăng tốc chậm lại",
-      "impact": "→",
-      "note": "GDP Singapore quý III tăng 5,4% so với cùng kỳ (cao hơn dự báo 5,1% nhưng thấp hơn quý II 6,2%), ngành sản xuất tăng 7,5% nhưng điều chỉnh theo mùa giảm 0,9%, cho thấy đó quốc gia vừa mở rộng nhưng tốc độ chậm lại sau giai đoạn tăng mạnh."
+      "title": "Singapore đầu tư 12,85 tỷ USD vào Việt Nam trong 9 tháng",
+      "impact": "↑",
+      "note": "Singapore là nhà đầu tư lớn nhất với vốn FDI đăng ký 12,85 tỷ USD vào Việt Nam trong 9 tháng 2026, vượt Hàn Quốc 3,1 tỷ USD. Tổng FDI vào Việt Nam vượt mốc 50 tỷ USD, tăng 76,4% so với cùng kỳ năm trước. Vốn thực hiện giải ngân đạt mốc kỷ lục 21,07 tỷ USD."
     }
   ]
 }
