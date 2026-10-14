@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-14",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "GDP quý 3 tăng 9,95% vượt kỳ vọng, UOB nâng dự báo 2026 lên 9,2%; tín dụng xanh mở rộng 6,22 triệu tỷ đồng, Việt Nam làm chủ công nghệ thép, hợp kim, tăng cường kết nối quốc tế (FTSE nâng hạng, Luxembourg quan tâm). Ngắn hạn VN-Index có áp lực điều chỉnh (giảm 6 phiên liên tiếp) và khối ngoại bán ròng 9 phiên, nhưng nền tảng vĩ mô vẫn vững chắc với tăng trưởng hai con số ở các địa phương.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì động lực tích cực với GDP quý 3 tăng 9.95% (cao nhất từ quý 3/2022) và UOB nâng dự báo 2026 lên 9.2%, tuy nhiên thị trường chứng khoán chịu áp lực từ chuỗi giảm lên 6 phiên liên tiếp với áp lực bán từ khối ngoại (9 phiên bán ròng). Lãi suất cao vẫn hỗ trợ lợi nhuận tài chính. Tín dụng xanh phát triển mạnh, dư nợ đạt 6,22 triệu tỷ đồng (31,3% tổng dư nợ nền kinh tế), phản ánh định hướng bền vững.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2%",
+      "title": "GDP quý 3 tăng 9.95%, UOB nâng dự báo 2026 lên 9.2%",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9,95% so với cùng kỳ, cao nhất kể từ quý 3/2022, vượt dự báo 8,65% của Bloomberg. UOB nâng dự báo tăng trưởng GDP 2026 từ 8,5% lên 9,2%, năm 2027 là 8,8%. Tăng trưởng 9 tháng đạt 9,01%, cao hơn 7,8% cùng kỳ 2025."
+      "note": "GDP quý 3/2026 tăng 9.95% so cùng kỳ, cao nhất từ quý 3/2022, vượt dự báo 8.65% của Bloomberg. UOB nâng dự báo tăng trưởng GDP 2026 lên 9.2% (từ 8.5%), năm 2027 là 8.8%. GDP 9 tháng tăng 9.01%, cao hơn 7.8% cùng kỳ 2025."
     },
     {
-      "title": "Khối ngoại bán ròng 9 phiên liên tiếp, rút 666 tỷ đồng",
+      "title": "VN-Index giảm 14.55 điểm phiên thứ 6 liên tiếp",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 666 tỷ đồng phiên 14/10, kéo dài chuỗi bán ròng lên phiên thứ 9 liên tiếp. Lực rút vốn tập trung vào VIC và VHM. Tự doanh ngược chiều mua ròng 426 tỷ đồng (phiên 5 liên tiếp), tập trung vào VPB với 227 tỷ đồng."
+      "note": "VN-Index giảm 14.55 điểm (-0.85%) xuống 1.704.87 điểm phiên 14/10. Áp lực bán tập trung cổ phiếu vốn hóa lớn: VHM giảm 5.28%, VIC giảm 1.62%, VPL giảm 3.31%. Độ rộng 321 mã giảm, 222 mã tăng."
     },
     {
-      "title": "VN-Index giảm phiên thứ 6 liên tiếp, mất 14,55 điểm xuống 1.704,87",
+      "title": "Khối ngoại bán ròng 666 tỷ đồng phiên thứ 9 liên tiếp",
       "impact": "↓",
-      "note": "VN-Index giảm 14,55 điểm (-0,85%) xuống 1.704,87 điểm phiên 14/10. Áp lực chính từ cổ phiếu vốn hóa lớn: VHM (-5,28%), VIC (-1,62%), VPL (-3,31%). Độ rộng 321 mã giảm, 222 mã tăng. Nhóm thép, công nghệ vẫn tích cực."
+      "note": "Khối ngoại bán ròng 666 tỷ đồng phiên 14/10, kéo dài chuỗi bán ròng lên phiên thứ 9 liên tiếp, lực rút tập trung vào VIC và VHM. Tự doanh ngược chiều mua ròng 426 tỷ đồng (phiên 5 liên tiếp), tập trung vào VPB với 227 tỷ đồng."
     },
     {
-      "title": "Việt Nam làm chủ công nghệ thép cao cấp, hợp kim cứng",
+      "title": "Quỹ cổ phiếu 90/91 tăng trưởng dương tháng 9",
       "impact": "↑",
-      "note": "Bộ Khoa học và Công nghệ công bố Việt Nam đã làm chủ công nghệ: thép Duplex/Superduplex đạt chuẩn ASTM A890-1A, A890-5A; thuốc hàn thiêu kết tiêu chuẩn AWS A5.17-80; hợp kim cứng WC-Co tương đương sản phẩm nước G7. Thay thế nhập khẩu, phục vụ nhu cầu sản xuất trong nước."
+      "note": "90 trong 91 quỹ ghi nhận hiệu suất dương khi VN-Index tăng 5.6% tháng 9. FUEVFVND dẫn đầu 9.1%, LVF tăng 7.9%, VCBF-BCF và VINACAPITAL-VEOF cùng tăng 7.3%, ASP-VIET-A tăng 7.0%."
     },
     {
-      "title": "Tín dụng xanh đạt 6,22 triệu tỷ đồng, 31,3% tổng dư nợ",
+      "title": "Tín dụng xanh đạt 6.22 triệu tỷ đồng, 31.3% tổng dư nợ",
       "impact": "↑",
-      "note": "Cuối tháng 6/2026, dư nợ được đánh giá rủi ro môi trường, xã hội đạt 6,22 triệu tỷ đồng, tương đương 31,3% tổng dư nợ nền kinh tế. Tập trung vào nông-lâm-thủy sản (31%), năng lượng xanh (28%), hỗ trợ mục tiêu tăng trưởng xanh."
+      "note": "Cuối tháng 6/2026, dư nợ được đánh giá rủi ro môi trường, xã hội đạt 6.22 triệu tỷ đồng, tương đương 31.3% tổng dư nợ nền kinh tế. Tập trung nông-lâm-thủy sản (31%), năng lượng xanh (28%), hỗ trợ mục tiêu tăng trưởng xanh."
     },
     {
-      "title": "FTSE Russell nâng Việt Nam lên thị trường mới nổi, ký MoU Luxembourg",
+      "title": "Việt Nam làm chủ công nghệ thép Duplex, Superduplex, hợp kim cứng",
       "impact": "↑",
-      "note": "Việt Nam được FTSE Russell nâng hạng lên thị trường mới nổi. Bộ Tài chính Việt Nam ký Bản ghi nhớ hợp tác với Đại Công quốc Luxembourg. Luxembourg có 9.000 tỷ euro tài sản quỹ đầu tư, kỳ vọng đầu tư vào thị trường Việt Nam."
+      "note": "Bộ Khoa học và Công nghệ công bố Việt Nam đã làm chủ công nghệ: thép Duplex, Superduplex đạt chuẩn ASTM A890-1A, A890-5A; hợp kim cứng WC-Co tương đương sản phẩm nước G7. Thay thế nhập khẩu, phục vụ nhu cầu sản xuất trong nước."
     }
   ]
 }
