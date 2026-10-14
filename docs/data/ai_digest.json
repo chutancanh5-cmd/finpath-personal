@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-14",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng trưởng mạnh mẽ: GDP quý 3 đạt 9,95% (vượt dự báo 8,65%), 9 tháng đạt 9,01%. UOB nâng dự báo năm 2026 lên 9,2%. FDI từ Singapore lên tới 12,85 tỷ USD, tổng 50+ tỷ USD trong 9 tháng (tăng 76,4% YoY). Khu vực công nghiệp tăng 12,5%, dịch vụ 9,54%. Doanh thu doanh nghiệp lớn bùng nổ: PV Power 46.161 tỷ đồng (+77%), HVS lãi gấp 5 lần. Hàng loạt IPO và tăng vốn: GDA niêm yết (149,1 triệu cổ phiếu), Techcombank tăng vốn 106,6 ngàn tỷ đồng. Lãi suất gửi 4,8-4,9%/năm hỗ trợ dòng vốn.",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục khởi sắc với GDP quý 3 tăng 9,95%, vượt dự báo, và UOB nâng dự báo toàn năm 2026 lên 9,2%. Dòng FDI mạnh từ Singapore (12,85 tỷ USD) là nhân tố hỗ trợ chính cho đà tăng trưởng. Tuy nhiên thị trường chứng khoán lại ghi nhận dấu hiệu yếu đi khi VN-Index giảm, thanh khoản suy giảm và giá vàng xuống mạnh, phản ánh sự cẫn trọng của nhà đầu tư trong ngắn hạn.",
   "top": [
     {
-      "title": "UOB nâng dự báo GDP Việt Nam 2026 lên 9,2%",
+      "title": "GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2%",
       "impact": "↑",
-      "note": "GDP thực tế Q3/2026 đạt 9,95% (vượt dự báo đồng thuận 8,65%), cao nhất từ Q3/2022. GDP 9 tháng đạt 9,01% vs 7,8% cùng kỳ 2025. UOB nâng dự báo từ 8,5% lên 9,2% cho năm 2026 và 8,8% năm 2027, dự báo CPI 4,7%. Động lực: công nghiệp & xây dựng tăng 12,5%, dịch vụ tăng 9,54%."
+      "note": "GDP Việt Nam quý 3/2026 tăng 9,95% so với cùng kỳ, vượt dự báo 8,65% của Bloomberg; 9 tháng đạt 9,01% so với 7,8% cùng kỳ 2025. Ngân hàng UOB nâng dự báo tăng trưởng năm 2026 từ 8,5% lên 9,2%, dịch vụ tăng 9,54%, công nghiệp tăng 12,5%."
     },
     {
-      "title": "Singapore rót 12,85 tỷ USD FDI, bỏ xa Hàn Quốc 3,1 tỷ USD",
+      "title": "Singapore rót 12,85 tỷ USD FDI vào Việt Nam, vượt xa Hàn Quốc",
       "impact": "↑",
-      "note": "Singapore là nhà đầu tư lớn nhất với vốn đăng ký gần 12,85 tỷ USD, vượt xa Hàn Quốc hơn 3,1 tỷ USD. Tổng FDI 9 tháng 2026 vượt 50 tỷ USD, tăng 76,4% YoY. Vốn thực hiện giải ngân kỷ lục 21,07 tỷ USD, cho thấy nhà đầu tư nước ngoài quyết triển khai các dự án tại Việt Nam."
+      "note": "9 tháng năm 2026, Singapore là nhà đầu tư lớn nhất Việt Nam với 12,85 tỷ USD, bỏ xa Hàn Quốc (khoảng 9,75 tỷ USD) với khoảng cách 3,1 tỷ USD. Tổng FDI đăng ký 9 tháng vượt 50 tỷ USD, tăng 76,4%; vốn thực hiện giải ngân 21,07 tỷ USD."
     },
     {
-      "title": "PV Power doanh thu 46.161 tỷ đồng sau 9 tháng, tăng 77% YoY",
-      "impact": "↑",
-      "note": "Tổng công ty Điện lực Dầu khí Việt Nam (POW) sản lượng điện tăng 41%, đạt 18.954 tỷ kWh (vượt 19% kế hoạch). Doanh thu ước 46.161 tỷ đồng (vượt 26% kế hoạch), tăng 77% YoY. Vũng Áng 1 đạt 5.709 tỷ kWh (tăng 20%), dự án LNG 1,4 tỷ USD chạy hiệu quả trong điều kiện khí nội địa suy giảm."
+      "title": "VN-Index phá đáy, thanh khoản sàn HoSE sụt giảm",
+      "impact": "↓",
+      "note": "Phiên sáng 14/10, VN-Index giảm 0,5% mặc dù 90 cổ phiếu rớt quá 1%, số giảm giá áp đảo số tăng giá. Thanh khoản HoSE chỉ 4.364 tỷ đồng, rổ VN30 gần 2.611 tỷ đồng (giảm 5% so với sáng hôm qua). VHM giảm 1,4%, VIC giảm 0,86%."
     },
     {
-      "title": "GDA niêm yết HoSE: 149,1 triệu cổ phiếu, mệnh giá 1.491 tỷ đồng",
+      "title": "PV Power sản lượng điện tăng 41%, doanh thu 46.161 tỷ đồng",
       "impact": "↑",
-      "note": "HoSE chấp thuận gần 149,1 triệu cổ phiếu GDA (Tôn Đông Á), giá trị mệnh giá 1.491 tỷ đồng. Hiện giao dịch UPCoM 11.600 đ/cổ (vốn hóa 1.730 tỷ đồng). Trả cổ tức 10% (1.000 đ/cổ = 149,1 tỷ đồng), thanh toán 4/11. IPO lớn cấp vốn mới cho thị trường."
+      "note": "PV Power 9 tháng 2026 sản lượng điện ước 18,954 tỷ kWh, tăng 41% so với cùng kỳ, vượt 19% kế hoạch. Doanh thu ước đạt 46.161 tỷ đồng, tăng 77% so với cùng kỳ, vượt 26% kế hoạch. Vũng Áng 1 (siêu dự án LNG 1,4 tỷ USD) sản lượng 5,709 tỷ kWh, vượt 25%."
     },
     {
-      "title": "Techcombank tăng vốn điều lệ lên 106,6 ngàn tỷ đồng",
-      "impact": "↑",
-      "note": "Techcombank được phê duyệt tăng vốn điều lệ lên gần 106,6 ngàn tỷ đồng thông qua phát hành cổ phiếu thưởng (50%) và ESOP. Mức vốn cao nhất ngành ngân hàng, phản ánh sức khỏe tài chính và chiến lược mở rộng của ngân hàng hàng đầu Việt Nam."
+      "title": "Giá vàng trong nước giảm mạnh tới 1 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "14/10, giá vàng nhẫn giảm 500.000-1 triệu đồng/lượng, vàng miếng SJC giảm 1 triệu đồng/lượng so với cuối phiên trước. SJC/PNJ niêm yết vàng nhẫn 139,8-142,8 triệu đồng/lượng; vàng miếng SJC 140,3-143,3 triệu đồng/lượng. Giá vàng quốc tế khoảng 4.161 USD/ounce."
     },
     {
-      "title": "Lãi suất gửi 4,8-4,9%/năm: HVS lãi gấp 5 lần Q3/2026",
+      "title": "HVS lãi gấp 5 lần nhờ lãi suất tiền gửi cao",
       "impact": "↑",
-      "note": "CTCP Chứng khoán HVS Việt Nam Q3/2026 doanh thu hơn 5 tỷ đồng (tăng 77% YoY), lãi sau thuế gấp 5 lần cùng kỳ. Chủ yếu từ lãi tiền gửi kỳ hạn (240 tỷ đồng = 90% tài sản) 4,8% tại BIDV, 4,9% tại PGBank. Mặt bằng lãi suất cao hỗ trợ dòng tiền, tăng sức mua thị trường."
+      "note": "HVS quý 3/2026 doanh thu 5 tỷ đồng, tăng 77% so với cùng kỳ (mức doanh thu lớn nhất lịch sử). Lãi sau thuế gấp 5 lần cùng kỳ. Công ty nắm giữ 240 tỷ đồng tiền gửi kỳ hạn với lãi 4,8-4,9%/năm, chiếm 90% tổng tài sản."
     }
   ]
 }
