@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-14",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Dự báo GDP 2026 được nâng lên 9.2% (UOB), Q3 tăng 9.95% - nền tảng vĩ mô tích cực. Tuy nhiên, thị trường chứng khoán gặp áp lực: VN-Index 6 phiên liên tiếp giảm xuống 1.704 điểm, khối ngoại bán ròng 782 tỷ đồng (VIC 153 tỷ, VHM 152 tỷ), thanh khoản yếu chưa 10.5k tỷ. Ngân hàng tăng cường vốn (Techcombank +35.731 tỷ) nhưng lãnh đạo thoái vốn trước IPO (Amy Grupo 9%). Rủi ro: vùng hỗ trợ 1.715-1.735 điểm có thể bị phá vỡ.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "GDP Q3 tăng 9.95% (nhanh nhất 4 năm) khiến UOB nâng dự báo năm lên 9.2%, thị trường chứng khoán Việt Nam được FTSE Russell nâng hạng lên thị trường mới nổi, Techcombank tăng vốn kỷ lục lên 106.593 tỷ mở rộng dư địa kinh doanh. Tuy nhiên, áp lực bán ngắn hạn vẫn nặng khi khối ngoại bán ròng 782 tỷ, VN-Index chuẩn bị giảm phiên thứ 6 liên tiếp, và thanh khoản yếu lại 14.000 tỷ.",
   "top": [
     {
-      "title": "UOB nâng GDP 2026 lên 9.2%, Q3 tăng 9.95% cao nhất 4 năm",
+      "title": "GDP Q3 tăng 9.95%, nhanh nhất 4 năm; UOB nâng dự báo lên 9.2%",
       "impact": "↑",
-      "note": "UOB nâng dự báo tăng trưởng 2026 từ 8.5% lên 9.2%, năm 2027 8.8%. GDP quý 3 tăng 9.95% so cùng kỳ (cao nhất kể từ Q3/2022), quý 1 điều chỉnh 8.15%, quý 2 điều chỉnh 8.81%. Công nghiệp xây dựng tăng 12.5%, dịch vụ 9.54%."
+      "note": "GDP Việt Nam quý 3/2026 tăng 9.95% so cùng kỳ, cao hơn mức 8.81% quý 2 và nhanh nhất kể từ quý 3/2022. Tăng trưởng 9 tháng đạt 9.01%, cao hơn đáng kể mức 7.8% cùng kỳ 2025. Công nghiệp xây dựng tăng 12.5%, dịch vụ 9.54%, nông lâm thủy sản 4.21%. UOB nâng dự báo 2026 từ 8.5% lên 9.2%."
     },
     {
-      "title": "Khối ngoại bán ròng 782 tỷ đồng, xả VIC 153 tỷ và VHM 152 tỷ",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 782 tỷ đồng cổ phiếu toàn thị trường phiên 14/10. VIC bị bán ròng 153 tỷ, VHM 152 tỷ, FRT 94 tỷ. Chỉ mua ròng MBB (100 tỷ), STB (44 tỷ), HPG (29 tỷ). Tín hiệu áp lực từ nhà đầu tư nước ngoài."
-    },
-    {
-      "title": "Techcombank tăng vốn điều lệ 35.731 tỷ đồng, trở thành NHTM vốn lớn nhất",
+      "title": "Techcombank tăng vốn thêm 35.731 tỷ đồng lên 106.593 tỷ",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước chấp thuận Techcombank tăng vốn điều lệ 35.731 tỷ đồng, từ 70.862 tỷ lên 106.593 tỷ, trở thành tổ chức tín dụng vốn lớn nhất hệ thống. Phát hành 3.54 tỷ cổ phiếu trả cổ tức 50% và 29.98 triệu cổ phiếu ESOP 0.28%."
+      "note": "Ngân hàng Nhà nước chấp thuận Techcombank tăng vốn điều lệ 35.731 tỷ đồng từ 70.862 tỷ lên 106.593 tỷ, trở thành tổ chức tín dụng có quy mô vốn lớn nhất hệ thống. Quý 4/2026 phát hành 3,54 tỷ cổ phiếu trả cổ tức 50% và ESOP 29,98 triệu cổ phiếu (0,28%)."
     },
     {
-      "title": "VN-Index 6 phiên liên tiếp giảm, kỹ thuật xấu, nguy cơ phá vỡ vùng hỗ trợ",
-      "impact": "↓",
-      "note": "VN-Index giảm 15 điểm về 1.704 điểm phiên 14/10, chuẩn bị giảm phiên thứ 6 liên tiếp. Stochastic Oscillator giảm sâu, nằm dưới Bollinger Bands, MACD suy yếu. Nếu phá vỡ đáy tháng 8 (vùng 1.715-1.735), triển vọng sẽ tiêu cực hơn."
-    },
-    {
-      "title": "Bắc Ninh tăng trưởng 11.8%, xuất nhập khẩu 178 tỷ USD dẫn đầu cả nước",
+      "title": "Thị trường chứng khoán Việt Nam nâng hạng lên emerging market",
       "impact": "↑",
-      "note": "Bắc Ninh 9 tháng GRDP tăng 11.8%, quý 3 tăng 13.8% (thứ 3 cả nước), thuộc nhóm 12 địa phương tăng trưởng 2 con số. Tổng xuất nhập khẩu 178 tỷ USD (dẫn đầu cả nước, 20.13%), thu ngân sách 70.000 tỷ đồng, tăng 23.5%."
+      "note": "FTSE Russell công bố nâng hạng thị trường chứng khoán Việt Nam lên emerging market. Phó Chủ tịch Ủy ban Chứng khoán Nhà nước ký Bản ghi nhớ hợp tác quốc tế với Luxembourg, mở cơ hội thu hút dòng vốn từ các quỹ đầu tư có quy mô tài sản lên tới 9.000 tỷ euro."
     },
     {
-      "title": "Amy Grupo lãnh đạo thoái vốn 9% (14.45 triệu cp) trước lên sàn HoSE",
+      "title": "VN-Index giảm 6 phiên liên tiếp xuống 1.704,87 điểm",
       "impact": "↓",
-      "note": "Năm lãnh đạo Amy Grupo đăng ký bán 14.45 triệu cổ phiếu (9% vốn): Chủ tịch Lương Văn Mỹ bán 4.42 triệu (từ 20.16% xuống 17.41%), Tổng GĐ Đinh Quốc Tuấn bán 4.04 triệu (16.91% xuống 14.4%), Phó TGĐ Trần Tuấn Đại bán 3.89 triệu (12% xuống 9.58%). Thời hạn 16/10-6/11/2026."
+      "note": "VN-Index phiên 14/10 giảm 14,55 điểm (-0,85%) về 1.704,87 điểm, chuẩn bị giảm phiên thứ 6 liên tiếp. Khối ngoại bán ròng 782 tỷ đồng; VIC bị bán ròng 153 tỷ, VHM 152 tỷ, FRT 94 tỷ. Thanh khoản HoSE chỉ 14.000 tỷ, thấp so với mức bình thường."
+    },
+    {
+      "title": "Tự doanh CTCK mua ròng 424 tỷ, VPB dẫn đầu 227 tỷ",
+      "impact": "→",
+      "note": "Tự doanh CTCK mua ròng tổng 424 tỷ đồng phiên 14/10. VPB được mua ròng 227 tỷ, là phiên thứ 3 liên tiếp dẫn đầu danh sách, theo sau FRT (120 tỷ), FUEKIV30 (63 tỷ), HPG (28 tỷ). Lực cầu nội tại có dấu hiệu chặn đỡ nhưng chưa đủ mạnh."
+    },
+    {
+      "title": "Tín dụng xanh chiếm 31,3% dư nợ nền kinh tế",
+      "impact": "→",
+      "note": "Dư nợ được đánh giá rủi ro môi trường và xã hội đạt 6,22 triệu tỷ đồng, tương đương 31,3% tổng dư nợ nền kinh tế. Nguồn vốn tập trung chủ yếu nông, lâm, thủy sản, bảo tồn sinh học (31%) và năng lượng xanh (28%), phản ánh định hướng tăng trưởng xanh dài hạn."
     }
   ]
 }
