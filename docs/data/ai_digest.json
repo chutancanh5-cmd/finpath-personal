@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-14",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam ghi nhận những tín hiệu tích cực: GDP quý 3 tăng 9,95% (cao nhất từ Q3/2022), vượt dự báo; FDI toàn 9 tháng vượt 50 tỷ USD, tăng 76,4%; IMF nâng dự báo toàn cầu 2026 lên 3,1%. Tuy nhiên, áp lực từ lãi suất neo cao kéo dài tới 2027 tạo ra phân hóa theo hình chữ K, có lợi cho doanh nghiệp lớn nhưng áp lực cho doanh nghiệp nhỏ vừa.",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP quý 3 tăng 9,95% vượt dự báo (cao nhất 4 năm), FDI toàn 9 tháng vượt 50 tỷ USD với Singapore dẫn đầu 12,85 tỷ USD, ngành năng lượng tăng trưởng vượt kỳ vọng (PV Power doanh thu 46,161 tỷ đồng, tăng 77%). Tuy nhiên, áp lực lãi suất cao kéo dài tới 2027 gây phân hóa K, có lợi doanh nghiệp lớn nhưng áp lực cho doanh nghiệp vừa nhỏ; lạm phát quốc tế cao hơn dự báo (4,1% năm 2027).",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9,95%, cao nhất 4 năm",
+      "title": "GDP quý 3 tăng 9,95%, cao nhất từ quý 3/2022",
       "impact": "↑",
-      "note": "Tổng cục Thống kê công bố GDP Việt Nam quý 3/2026 tăng 9,95% so với cùng kỳ, vượt dự báo đồng thuận 8,65% của Bloomberg và dự báo 9%. Đây là tốc độ tăng trưởng theo quý nhanh nhất kể từ quý 3/2022. Tăng trưởng 9 tháng đạt 9,01%, cao hơn đáng kể so với 7,8% cùng kỳ 2025."
+      "note": "Tổng cục Thống kê công bố GDP Việt Nam quý 3/2026 tăng 9,95% so với cùng kỳ, vượt dự báo đồng thuận 8,65% của Bloomberg và dự báo 9%. Đây là tốc độ tăng trưởng nhanh nhất kể từ quý 3/2022. Tăng trưởng 9 tháng đạt 9,01%, cao hơn đáng kể so với 7,8% cùng kỳ 2025. Công nghiệp xây dựng tăng 12,5%, dịch vụ tăng 9,54%."
     },
     {
-      "title": "FDI 9 tháng vượt 50 tỷ USD, tăng 76,4%",
+      "title": "FDI 9 tháng vượt 50 tỷ USD, Singapore dẫn 12,85 tỷ USD",
       "impact": "↑",
-      "note": "Tổng vốn FDI đăng ký 9 tháng vượt 50 tỷ USD, tăng 76,4% so với cùng kỳ năm trước. Singapore dẫn đầu với 12,85 tỷ USD, vượt xa Hàn Quốc (9,75 tỷ USD). Vốn thực hiện giải ngân chạm mốc kỷ lục 21,07 tỷ USD."
+      "note": "Tổng vốn FDI đăng ký 9 tháng vượt 50 tỷ USD, tăng 76,4% so với cùng kỳ 2025. Singapore là nhà đầu tư lớn nhất với 12,85 tỷ USD, vượt xa Hàn Quốc (hơn 3,1 tỷ USD chênh lệch). Vốn thực hiện giải ngân chạm mốc kỷ lục 21,07 tỷ USD, thể hiện tốc độ triển khai dự án khẩn trương."
     },
     {
-      "title": "UOB nâng dự báo GDP 2026 lên 9,2%",
+      "title": "PV Power doanh thu 46.161 tỷ đồng, tăng 77% sau 9 tháng",
       "impact": "↑",
-      "note": "Ngân hàng UOB (Singapore) nâng dự báo tăng trưởng GDP Việt Nam 2026 từ 8,5% lên 9,2%, dự báo 2027 ở 8,8%. Dự báo lạm phát 2027 là 4,7%, UOB kỳ vọng NHNN giữ nguyên chính sách lãi suất."
+      "note": "Doanh thu toàn Tổng công ty Điện lực Dầu khí Việt Nam (POW) 9 tháng ước đạt 46.161 tỷ đồng, vượt 26% kế hoạch 9 tháng và tăng 77% so với cùng kỳ 2025. Sản lượng điện ước đạt 18.954 tỷ kWh, tăng 41% so với cùng kỳ, vượt 19% kế hoạch, nhờ các nhà máy như Vũng Áng 1 và Nhơn Trạch 1, 2 hoạt động hiệu quả."
     },
     {
-      "title": "IMF nâng dự báo toàn cầu 2026 lên 3,1%",
+      "title": "UOB nâng dự báo GDP 2026 lên 9,2%, CPI 2027 lên 4,7%",
       "impact": "↑",
-      "note": "IMF nâng dự báo GDP toàn cầu 2026 từ 3,0% lên 3,1%, lạm phát toàn cầu 2027 dự báo 4,1% (cao hơn mức 3,9% tháng 7). Tuy nhiên, IMF cảnh báo khả năng chống chịu của nền kinh tế đang dần chạm tới giới hạn do rủi ro AI và nợ công."
+      "note": "Ngân hàng UOB (Singapore) nâng dự báo tăng trưởng GDP Việt Nam 2026 từ 8,5% lên 9,2% và dự báo 2027 ở 8,8%, dự báo CPI 2027 lên 4,7% (từ 4,1%). Ngân hàng kỳ vọng NHNN giữ nguyên chính sách lãi suất."
     },
     {
-      "title": "Lãi suất cao kéo dài, thị trường phân hóa K",
-      "impact": "→",
-      "note": "Áp lực lãi suất neo cao được dự báo kéo dài tới 2027, tạo thị trường phân hóa theo hình chữ K. Các doanh nghiệp lớn (VPB, HDB, TCB, VHM, HPG) tiếp tục gia tăng thị phần, trong khi doanh nghiệp nhỏ vừa gặp áp lực chi phí vốn cao."
+      "title": "Lãi suất neo cao kéo dài tới 2027, thị trường phân hóa K",
+      "impact": "↓",
+      "note": "Áp lực lãi suất cao được dự báo kéo dài tới 2027 tạo thị trường phân hóa theo hình chữ K. Các doanh nghiệp lớn (VPB, HDB, TCB, VHM, HPG) tiếp tục gia tăng thị phần, trong khi doanh nghiệp nhỏ vừa gặp áp lực chi phí vốn cao; xu hướng tương tự đã thể hiện rõ tại các thị trường lớn như Mỹ và Hàn Quốc."
     },
     {
-      "title": "HVS lãi gấp 5 lần nhờ lãi suất cao",
+      "title": "TPHCM khởi động dự án nhà ở xã hội lớn nhất 64 ngàn tỷ đồng",
       "impact": "↑",
-      "note": "CTCP Chứng khoán HVS quý 3/2026 doanh thu 5 tỷ đồng (tăng 77% YoY) và lãi sau thuế gấp 5 lần cùng kỳ, nhờ lãi từ tiền gửi kỳ hạn cao. Cuối quý, HVS có 240 tỷ đồng tiền gửi kỳ hạn, tương đương 90% tổng tài sản."
+      "note": "UBND TPHCM chấp thuận chủ trương đầu tư khu nhà ở xã hội tại xã Bà Điểm rộng gần 192ha, tổng vốn sơ bộ hơn 64 ngàn tỷ đồng, giao CTCP Delta làm chủ đầu tư. Đây là dự án nhà ở xã hội lớn nhất từ trước tới nay, có tác động tích cực cho ngành bất động sản và thị trường chứng khoán."
     }
   ]
 }
