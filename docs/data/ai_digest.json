@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền tảng vĩ mô Việt Nam vẫn vững với GDP quý 3 tăng 9,95% (phiên tăng nhanh nhất từ quý 3/2022), UOB nâng dự báo năm 2026 lên 9,2%; quỹ cổ phiếu phục hồi với 90/91 ghi nhận hiệu suất dương, tiến bộ công nghệ đáng chú ý. Tuy nhiên thị trường chứng khoán chịu áp lực lớn khi VN-Index giảm phiên thứ 6 liên tiếp (-0,85%), khối ngoại bán ròng 9 phiên liên tiếp (bán 666 tỷ đồng), nhóm vốn hóa lớn suy yếu mạnh (VHM -5,28%, VIC -1,62%).",
+  "summary_vi": "Nền tảng vĩ mô Việt Nam vẫn vững với GDP quý 3 tăng 9,95% (cao nhất từ quý 3/2022), UOB nâng dự báo 2026 lên 9,2%; tiến bộ công nghệ thép, hợp kim cứng đáng chú ý, quỹ cổ phiếu 90/91 tăng tháng 9. Tuy nhiên thị trường chứng khoán chịu áp lực khi VN-Index giảm phiên thứ 6 liên tiếp, khối ngoại bán ròng 9 phiên liên tiếp, chính sách lãi suất dự kiến duy trì cao tạo rủi ro chi phí vốn ngắn hạn.",
   "top": [
     {
       "title": "GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2%",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9,95% YoY, cao nhất từ quý 3/2022, vượt dự báo 8,65% của Bloomberg. UOB nâng dự báo tăng trưởng GDP 2026 lên 9,2% (từ 8,5%), năm 2027 lên 8,8%; cân bằng lãi suất cao (dự báo CPI 4,7%). GDP 9 tháng tăng 9,01%, cao hơn 7,8% cùng kỳ 2025."
+      "note": "GDP quý 3/2026 tăng 9,95% YoY, cao nhất từ quý 3/2022, vượt dự báo 8,65% của Bloomberg. UOB nâng dự báo tăng trưởng GDP năm 2026 lên 9,2% (từ 8,5%), năm 2027 lên 8,8%; dự báo CPI 4,7%, NHNN dự kiến giữ nguyên chính sách lãi suất."
     },
     {
-      "title": "VN-Index giảm phiên thứ 6 liên tiếp (-14,55 điểm)",
+      "title": "VN-Index giảm phiên thứ 6 liên tiếp (-0,85%)",
       "impact": "↓",
-      "note": "VN-Index mất 14,55 điểm (-0,85%) xuống 1.704,87 điểm phiên 14/10, với áp lực bán tập trung nhóm vốn hóa lớn: VHM giảm 5,28%, VIC giảm 1,62%, VPL giảm 3,31%, VRE giảm 1,54%. Độ rộng nghiêng bán: 321 mã giảm, 222 mã tăng, 1.002 mã đứng giá."
+      "note": "VN-Index mất 14,55 điểm xuống 1.704,87 điểm, với áp lực bán tập trung nhóm vốn hóa lớn: VHM giảm 5,28%, VIC mất 1,62%, VPL giảm 3,31%. Độ rộng thị trường nghiêng bán: 321 mã giảm, 222 mã tăng, 1.002 mã đứng giá."
     },
     {
       "title": "Khối ngoại bán ròng 666 tỷ đồng lần thứ 9 liên tiếp",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 666 tỷ đồng phiên 14/10 (phiên thứ 9 liên tiếp bán ròng), với giá trị bán 2.069 tỷ đồng vượt mua 1.402 tỷ đồng. Tâm điểm rút vốn là VIC và VHM; ngược lại tự doanh mua ròng 426 tỷ đồng (phiên 5 liên tiếp), tập trung VPB 227 tỷ đồng."
+      "note": "Khối ngoại bán ròng 666 tỷ đồng phiên 14/10 (giá trị bán 2.069 tỷ đồng, mua 1.402 tỷ đồng), tâm điểm rút vốn là VIC và VHM. Ngược lại tự doanh mua ròng 426 tỷ đồng phiên thứ 5 liên tiếp, tập trung VPB 227 tỷ đồng."
     },
     {
       "title": "Quỹ cổ phiếu 90/91 tăng trưởng dương tháng 9",
       "impact": "↑",
-      "note": "90 trong 91 quỹ ghi nhận hiệu suất dương khi VN-Index tăng 5,6% tháng 9. FUEVFVND dẫn đầu 9,1%, LVF tăng 7,9%, VCBF-BCF và VINACAPITAL-VEOF cùng tăng 7,3%, ASP-VIET-A tăng 7,0%, cho thấy đà phục hồi đồng đều các nhóm quỹ."
+      "note": "90 trong 91 quỹ ghi nhận hiệu suất dương khi VN-Index tăng 5,6% tháng 9. FUEVFVND dẫn đầu 9,1%, LVF tăng 7,9%, VCBF-BCF và VINACAPITAL-VEOF cùng tăng 7,3%, cho thấy đà phục hồi đồng đều các nhóm quỹ."
     },
     {
-      "title": "Việt Nam làm chủ công nghệ thép, hợp kim cứng",
+      "title": "Việt Nam làm chủ công nghệ thép Duplex, Superduplex",
       "impact": "↑",
-      "note": "Bộ Khoa học và Công nghệ công bố Việt Nam đã làm chủ chế tạo: thép Duplex, Superduplex đạt ASTM A890-1A, A890-5A; hợp kim cứng WC-Co, thuốc hàn thiêu kết (AWS A5.17-80), vải chống cháy, đế giày cao su phylon; chất lượng tương đương sản phẩm nước ngoài, thay thế nhập khẩu."
+      "note": "Bộ Khoa học và Công nghệ công bố Việt Nam chế tạo thành công: thép Duplex, Superduplex đạt ASTM A890-1A, A890-5A; hợp kim cứng WC-Co, thuốc hàn thiêu kết AWS A5.17-80; chất lượng tương đương sản phẩm nước ngoài, thay thế nhập khẩu cho linh kiện trong môi trường khắc nghiệt."
     },
     {
-      "title": "Bắc Ninh tăng trưởng GRDP 13,8% quý 3",
-      "impact": "↑",
-      "note": "Bắc Ninh quý 3 tăng trưởng GRDP 13,8% (thứ 3 cả nước), 9 tháng đạt 11,8% (thứ 4/34 tỉnh thành, nhóm tăng trưởng 2 con số). Tổng giá trị xuất nhập khẩu 9 tháng 178 tỷ USD (dẫn đầu toàn quốc), thu ngân sách 70.000+ tỷ đồng (+23,5% YoY)."
+      "title": "SSI Research: Không nên kỳ vọng giảm lãi suất mạnh",
+      "impact": "→",
+      "note": "Dự báo tăng trưởng 2027 đạt 9-9,5% dựa trên giả định chi phí vốn duy trì cao, không dựa vào kỳ vọng lãi suất giảm mạnh. Chính sách lãi suất cao hạn chế huy động vốn cho các dự án đầu tư, tuy có hỗ trợ tăng trưởng vĩ mô."
     }
   ]
 }
