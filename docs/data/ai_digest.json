@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-14",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Tăng trưởng kinh tế Việt Nam vượt kỳ vọng với GDP quý 3 đạt 9,95% (cao nhất từ quý 3/2022), UOB nâng dự báo cả năm lên 9,2%. Tuy nhiên, lãi suất neo cao kéo dài tới 2027 gây sức ép lên tín dụng và bất động sản. Thị trường phân hóa theo hình chữ K, ưu tiên các doanh nghiệp lớn; cơ hội mua vào đối với cổ phiếu vẫn bị định giá thấp.",
+  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tốc độ tăng trưởng ấn tượng với GDP quý 3/2026 tăng 9,95% so với cùng kỳ năm trước, được UOB nâng dự báo lên 9,2% cả năm. Tuy nhiên, lãi suất neo cao kéo dài tới 2027 cùng áp lực tín dụng sẽ gây sức ép lên khả năng trả nợ, đặc biệt đối với bất động sản. Thị trường phân hóa theo hình K, lợi cho các doanh nghiệp lớn nhưng thách thức cho doanh nghiệp nhỏ.",
   "top": [
     {
-      "title": "UOB nâng dự báo GDP 2026 lên 9,2%",
+      "title": "GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2%",
       "impact": "↑",
-      "note": "UOB nâng dự báo tăng trưởng GDP 2026 từ 8,5% lên 9,2%, dự báo 2027 ở 8,8%. Nâng dự báo CPI 2027 lên 4,1%. Nhận định NHNN sẽ giữ lãi suất hiện tại."
+      "note": "GDP quý 3/2026 tăng 9,95% so với cùng kỳ năm trước, cao nhất từ quý 3/2022. UOB nâng dự báo tăng trưởng năm 2026 từ 8,5% lên 9,2% và CPI từ 4,1% lên 4,7%. Khu vực công nghiệp xây dựng tăng 12,5%, dịch vụ tăng 9,54%, xuất khẩu tăng 39% so với cùng kỳ."
     },
     {
-      "title": "GDP quý 3 đạt 9,95%, cao nhất 4 năm",
+      "title": "Quảng Ninh dẫn đầu cả nước với GRDP tăng 15,04% quý 3",
       "impact": "↑",
-      "note": "Tổng cục Thống kê công bố GDP quý 3/2026 tăng 9,95% so với cùng kỳ, vượt dự báo Bloomberg 8,65%; đây là tốc độ nhanh nhất từ quý 3/2022. 9 tháng tăng 9,01%. Công nghiệp-xây dựng +12,5%, dịch vụ +9,54%."
+      "note": "Quảng Ninh ghi nhận GRDP quý 3/2026 tăng 15,04%, tính chung 9 tháng tăng 12,54%, đứng đầu cả nước ở cả hai chỉ tiêu. Địa phương phấn đấu hoàn thành mục tiêu tăng trưởng cả năm trên 13%."
     },
     {
-      "title": "Lãi suất neo cao tới 2027 gây sức ép tín dụng",
+      "title": "Lãi suất neo cao, thị trường chứng khoán phân hóa hình chữ K",
+      "impact": "→",
+      "note": "Lãi suất sẽ duy trì ở mức cao đến 2027, thị trường phân hóa theo mô hình chữ K, lợi cho các doanh nghiệp lớn như VPB, HDB, TCB, VHM, Sungroup, MWG, FRT, MSN, VNM, HPG nhưng khó khăn cho doanh nghiệp nhỏ."
+    },
+    {
+      "title": "VIS Rating cảnh báo tín dụng suy yếu trong 12 tháng tới",
       "impact": "↓",
-      "note": "VIS Rating cảnh báo chi phí hoạt động gia tăng, lãi suất cho vay dự báo duy trì cao, tăng trưởng tín dụng vượt huy động tiền gửi. Doanh nghiệp bất động sản nhà ở gặp khó khăn nhất trong 12 tháng tới."
+      "note": "Chi phí hoạt động gia tăng, tăng trưởng tín dụng vượt tăng trưởng huy động tiền gửi, lãi suất cho vay duy trì cao sẽ suy giảm dòng tiền trả nợ. Doanh nghiệp bất động sản nhà ở gặp khó khăn là nhóm rủi ro nhất."
     },
     {
-      "title": "Thị trường phân hóa hình chữ K ưu tiên đầu ngành",
-      "impact": "→",
-      "note": "Tăng trưởng kinh tế và lợi nhuận tập trung vào doanh nghiệp lớn (VPB, HDB, TCB, VHM, MWG, HPG) tương tự mô hình toàn cầu ở Mỹ và Hàn Quốc. Chính sách phát triển doanh nghiệp đầu tàu quốc gia và siết tuân thủ thuế tạo sân chơi ưu tiên doanh nghiệp lớn."
-    },
-    {
-      "title": "Q3 earnings tăng 49,2%, cổ phiếu vẫn rẻ",
+      "title": "HVS lãi sau thuế gấp 5 lần nhờ lãi suất cao",
       "impact": "↑",
-      "note": "Lợi nhuận sau thuế H1 2026 tăng 49,2% so với cùng kỳ, hầu hết ngành dương trừ ô tô (-83%) và du lịch (-5%). Nhiều nhóm cổ phiếu định giá thấp hơn trung bình lịch sử, tạo cơ hội mùa công bố KQKD quý 3."
+      "note": "CTCP Chứng khoán HVS quý 3/2026 doanh thu hoạt động hơn 5 tỷ đồng (tăng 77% so với cùng kỳ), lãi sau thuế gấp 5 lần cùng kỳ. Công ty nắm giữ hơn 240 tỷ đồng tiền gửi kỳ hạn tại BIDV (4,8%/năm) và PGBank (4,9%/năm)."
     },
     {
-      "title": "IMF nâng dự báo tăng trưởng toàn cầu 3,1%",
-      "impact": "→",
-      "note": "IMF nâng dự báo tăng trưởng toàn cầu 2026 từ 3,0% lên 3,1%, dự báo 2027 ở 3,4%, lạm phát toàn cầu 2027 là 4,1%. Tuy nhiên cảnh báo khả năng chống chịu đạt giới hạn, rủi ro từ AI và nợ công vẫn hiện hữu."
+      "title": "Techcombank vốn điều lệ 106,6 ngàn tỷ đồng, cao nhất ngành",
+      "impact": "↑",
+      "note": "Techcombank được phê duyệt tăng vốn điều lệ lên 106,6 ngàn tỷ đồng thông qua trả cổ tức bằng cổ phiếu 50% và phát hành ESOP. Đây là mức vốn điều lệ cao nhất ngành ngân hàng Việt Nam."
     }
   ]
 }
