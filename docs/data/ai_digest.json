@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền tảng vĩ mô Việt Nam vẫn vững với GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2%; nhờ tiến bộ công nghệ và quỹ cổ phiếu 90/91 tăng tháng 9. Tuy nhiên, CPI Mỹ cao hơn dự báo làm tăng kỳ vọng Fed tăng lãi suất, áp lực lên thị trường chứng khoán Việt Nam khi VN-Index giảm phiên thứ 6 liên tiếp, khối ngoại bán ròng 9 phiên liên tiếp. Chi phí vốn cao sẽ duy trì, yêu cầu doanh nghiệp tăng năng suất.",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục duy trì tăng trưởng mạnh với GDP quý 3 đạt 9,95% và UOB nâng dự báo năm 2026 lên 9,2%. Tuy nhiên, thị trường chứng khoán ghi nhận áp lực bán từ khối ngoại (rút vốn 9 phiên liên tiếp) khiến VN-Index giảm 0,85%, đồng thời dữ liệu lạm phát Mỹ cao hơn dự báo đẩy kỳ vọng Fed tiếp tục tăng lãi suất. Những tín hiệu này tạo tâm lý thận trọng ngắn hạn dù kỳ vọng kinh tế dài hạn vẫn tích cực.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2%",
+      "title": "UOB nâng dự báo GDP Việt Nam 2026 lên 9,2%, quý 3 thực tế 9,95%",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9,95% YoY, cao nhất từ quý 3/2022, vượt dự báo 8,65% của Bloomberg. UOB nâng dự báo tăng trưởng năm 2026 lên 9,2% (từ 8,5%), năm 2027 lên 8,8%; công nghiệp tăng 12,5%."
+      "note": "GDP Việt Nam quý 3/2026 tăng 9,95% so cùng kỳ, vượt dự báo 8,65% của Bloomberg. UOB nâng dự báo năm 2026 lên 9,2% từ mức 8,5% trước đó. Tốc độ tăng trưởng là nhanh nhất kể từ quý 3/2022, cho thấy đà phục hồi kinh tế mạnh mẽ."
     },
     {
-      "title": "CPI Mỹ cao hơn dự báo, Fed kỳ vọng tăng lãi suất",
+      "title": "Khối ngoại bán ròng 9 phiên liên tiếp, VN-Index giảm 0,85%",
       "impact": "↓",
-      "note": "Giá vàng mất 1,8% xuống 4.085 USD/ounce ngày 14/10 sau CPI Mỹ công bố cao hơn dự báo, gia tăng kỳ vọng Fed tăng lãi suất, đẩy lãi suất trái phiếu Kho bạc 10 năm tăng, áp lực lên tỷ giá USD và chi phí vốn các nước mới nổi."
+      "note": "VN-Index giảm 14,55 điểm xuống 1.704,87 điểm, phiên giảm thứ 6 liên tiếp. Khối ngoại bán ròng 666 tỷ đồng trong phiên 14/10, kéo dài chuỗi 9 phiên bán ròng. VHM giảm 5,28%, VIC mất 1,62%, áp lực tập trung vào nhóm cổ phiếu vốn hóa cao."
     },
     {
-      "title": "VN-Index giảm phiên thứ 6 liên tiếp (-0,85%)",
+      "title": "Lạm phát Mỹ cao hơn dự báo, Fed có thể tiếp tục tăng lãi suất",
       "impact": "↓",
-      "note": "VN-Index mất 14,55 điểm xuống 1.704,87 điểm, giảm 6 phiên liên tiếp, áp lực bán tập trung nhóm vốn hóa lớn: VHM giảm 5,28%, VIC mất 1,62%, VPL giảm 3,31%. Độ rộng thị trường nghiêng bán: 321 mã giảm."
+      "note": "Dữ liệu lạm phát CPI Mỹ cao hơn dự kiến làm gia tăng kỳ vọng Fed tiếp tục tăng lãi suất. Giá vàng giảm mạnh 1,8% xuống 4.085 USD/ounce trong phiên 14/10. Kỳ vọng tăng lãi suất Fed có thể tạo áp lực lên dòng vốn vào các thị trường mới nổi như Việt Nam."
     },
     {
-      "title": "Khối ngoại bán ròng 666 tỷ đồng lần thứ 9 liên tiếp",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 666 tỷ đồng ngày 14/10 (phiên bán thứ 9 liên tiếp), giá trị bán 2.069 tỷ đồng, mua 1.402 tỷ đồng, tâm điểm rút vốn VIC và VHM. Tự doanh mua ròng 426 tỷ đồng phiên thứ 5 liên tiếp, tập trung VPB 227 tỷ đồng."
-    },
-    {
-      "title": "Việt Nam làm chủ công nghệ thép Duplex, Superduplex",
+      "title": "90/91 quỹ cổ phiếu ghi nhận hiệu suất dương trong tháng 9",
       "impact": "↑",
-      "note": "Bộ Khoa học và Công nghệ công bố Việt Nam chế tạo thành công: thép Duplex, Superduplex (ASTM A890-1A, A890-5A), hợp kim cứng WC-Co, thuốc hàn thiêu kết AWS A5.17-80; chất lượng tương đương sản phẩm nước ngoài, thay thế nhập khẩu."
+      "note": "Tháng 9, VN-Index tăng 5,6% giúp 90/91 quỹ cổ phiếu đạt hiệu suất dương. FUEVFVND dẫn đầu với 9,1%, LVF 7,9%, VCBF-BCF và VINACAPITAL-VEOF cùng 7,3%. Nhiều quỹ khác như K-VIETNAM, Tianhong VN, FUEKIV30 cũng ghi nhận mức tăng 5,9-6,2%."
     },
     {
-      "title": "Quỹ cổ phiếu 90/91 tăng trưởng dương tháng 9",
+      "title": "Bắc Ninh tăng trưởng 13,8% quý III, xuất nhập khẩu đạt 178 tỷ USD",
       "impact": "↑",
-      "note": "90 trong 91 quỹ ghi nhận hiệu suất dương khi VN-Index tăng 5,6% tháng 9. FUEVFVND dẫn đầu 9,1%, LVF tăng 7,9%, VCBF-BCF và VINACAPITAL-VEOF cùng tăng 7,3%, cho thấy đà phục hồi đồng đều các nhóm quỹ."
+      "note": "Tỉnh Bắc Ninh ghi nhận GRDP quý III tăng 13,8% (xếp thứ 3 cả nước), 9 tháng tăng 11,8% (thứ 4/34 tỉnh, thành phố). Tổng xuất nhập khẩu 9 tháng đạt 178 tỷ USD, dẫn đầu cả nước với 20,13% tổng. Đây là động lực tăng trưởng quan trọng cho toàn nền kinh tế."
+    },
+    {
+      "title": "Việt Nam làm chủ công nghệ, chế tạo thành công thép Duplex/Superduplex",
+      "impact": "↑",
+      "note": "Bộ Khoa học và Công nghệ báo cáo Việt Nam đã chế tạo thành công thép Duplex và Superduplex đạt tiêu chuẩn ASTM A890-1A và ASTM A890-5A, hợp kim cứng WC-Co cho mũi khoan, các loại thuốc hàn thiêu kết. Những sản phẩm này thay thế nhập khẩu, nâng năng lực công nghiệp và giảm phụ thuộc vào nước ngoài."
     }
   ]
 }
