@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Tăng trưởng kinh tế quý 3 vượt mong đợi (9,95%), UOB nâng dự báo GDP năm 2026 lên 9,2%, tạo lạc quan cho thị trường. Quỹ đầu tư nước ngoài (Luxembourg) và quỹ trong nước tăng cường giải ngân. Tuy nhiên, thị trường nội địa còn yếu với 245 cổ phiếu dưới mệnh, và rủi ro từ CPI Mỹ nóng có thể ảnh hưởng lãi suất toàn cầu trong ngắn hạn.",
+  "summary_vi": "Kinh tế vĩ mô Việt Nam tiếp tục tăng tốc mạnh với GDP quý 3 tăng 9,95%, UOB nâng dự báo 2026 lên 9,2% và 2027 lên 8,8%, vượt kỳ vọng thị trường. Chính sách hỗ trợ khu vực trọng điểm phát huy tác dụng khi Bắc Ninh, Quảng Ninh trở thành thành phố trực thuộc Trung ương. Tín hiệu đầu tư nước ngoài tích cực từ Luxembourg (9.000 tỷ euro). Tuy nhiên, thị trường chứng khoán đối mặt rủi ro ngắn hạn: 245 cổ phiếu dưới mệnh, VN-Index giảm 3,65% YTD, cần theo dõi phục hồi.",
   "top": [
     {
-      "title": "UOB nâng dự báo GDP 2026 lên 9,2%",
+      "title": "UOB nâng dự báo GDP Việt Nam",
       "impact": "↑",
-      "note": "UOB nâng dự báo GDP 2026 từ 8,5% lên 9,2%, GDP quý 3 tăng 9,95% (cao nhất từ Q3 2022), 9 tháng đầu năm tăng 9,01% so với 7,8% cùng kỳ 2025. Động lực tăng trưởng từ công nghiệp xây dựng (+12,5%), dịch vụ (+9,54%)."
+      "note": "UOB nâng dự báo tăng trưởng GDP 2026 lên 9,2% (từ 8,5%), 2027 lên 8,8%. Quý 3/2026 tăng 9,95% QoQ (cao nhất từ Q3/2022), 9 tháng tăng 9,01%, vượt dự báo Bloomberg 8,65%. Công nghiệp-xây dựng tăng 12,5%, dịch vụ 9,54%, nông-lâm-thủy 4,21%."
     },
     {
-      "title": "9.000 tỷ euro từ Luxembourg có kỳ vọng đầu tư vào Việt Nam",
+      "title": "Phó Thủ tướng làm việc Bắc Ninh tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Bộ trưởng Tài chính Luxembourg Gilles Roth bày tỏ kỳ vọng một phần vốn từ quỹ đầu tư tại nước này (tổng tài sản 9.000 tỷ euro) sẽ được rót vào thị trường Việt Nam, giúp thúc đẩy dòng FDI."
+      "note": "Bắc Ninh GRDP 9 tháng tăng 11,8%, vượt kịch bản 11,7%, xếp thứ 4/34 tỉnh thành. Xuất nhập khẩu 177,8 tỷ USD, dẫn đầu cả nước. Giải ngân vốn công xếp 1/34 tỉnh. Chính phủ đề nghị chuyển sang thu hút đầu tư chất lượng (công nghệ cao, vi mạch bán dẫn)."
     },
     {
-      "title": "21 quỹ mở cổ phiếu đẩy mạnh giải ngân vào thị trường",
-      "impact": "↑",
-      "note": "Có 21/37 quỹ mở cổ phiếu giảm tỷ trọng tiền (so với 11/36 tháng trước), trong đó quỹ DC giảm từ 27,4% xuống 9,1%, TCFIN từ 27,7% xuống 13,2%, cho thấy quỹ tăng cường đầu tư vào cổ phiếu."
-    },
-    {
-      "title": "Chứng khoán Mỹ sụt điểm sau CPI tăng nóng",
+      "title": "Cổ phiếu niêm yết chìm sâu vùng trà đá",
       "impact": "↓",
-      "note": "S&P 500 giảm 1,11%, Nasdaq sụt 1,88% do CPI Mỹ tháng 9 tăng cao hơn dự báo, gia tăng lo ngại lãi suất cao hơn, ảnh hưởng cảm tính thị trường toàn cầu."
+      "note": "VN-Index giảm 3,65% YTD (-69 điểm). Tính đến 13/10, có 245 cổ phiếu niêm yết dưới mệnh giá, trong đó 81 dưới 5.000 đ/cp. DRH 1.070 đ (giảm 50%), VPG 1.080 đ (giảm 78%), ACC giảm ~75%. Phản ánh áp lực bán mạnh tại nhiều doanh nghiệp."
     },
     {
-      "title": "245 cổ phiếu chìm vùng trà đá, thị trường yếu",
-      "impact": "↓",
-      "note": "Tính đến 13/10, có 245 cổ phiếu niêm yết dưới mệnh, trong đó 81 doanh nghiệp giá dưới 5.000 đồng/cp. VN-Index giảm 3,65% YTD (mất 69 điểm so với đầu năm)."
-    },
-    {
-      "title": "Bắc Ninh tăng trưởng 11,8%, xuất nhập khẩu dẫn đầu cả nước",
+      "title": "Bộ trưởng Luxembourg kỳ vọng 9.000 tỷ euro đầu tư vào Việt Nam",
       "impact": "↑",
-      "note": "GRDP Bắc Ninh 9 tháng tăng 11,8% (xếp 4/34 tỉnh thành), xuất nhập khẩu dẫn đầu cả nước với 177,8 tỷ USD, giải ngân công 91% kế hoạch, hướng phát triển công nghệ cao, vi mạch, kinh tế số."
+      "note": "Bộ trưởng Tài chính Luxembourg Gilles Roth kỳ vọng một phần từ 9.000 tỷ euro tài sản quỹ đầu tư sẽ được rót vào thị trường Việt Nam. Cuộc làm việc với Phó Chủ tịch UBCKNN Hà Duy Tùng nhằm kết nối sàn giao dịch và thúc đẩy FDI."
+    },
+    {
+      "title": "21 quỹ mở cổ phiếu đẩy mạnh giải ngân",
+      "impact": "↑",
+      "note": "21/37 quỹ mở cổ phiếu giảm tỷ trọng tiền (so với 11/36 tháng trước). Quỹ DC Năng động giảm từ 27,4% xuống 9,1%; TCDC giảm 37,9% xuống 19,1%; TCFIN từ 27,7% xuống 13,2%. Tín hiệu quỹ đầu tư tức cơ giải ngân mạnh."
+    },
+    {
+      "title": "Vùng Đồng bằng sông Hồng 33% GDP, mở rộng TP trực thuộc TW",
+      "impact": "↑",
+      "note": "Vùng Đồng bằng sông Hồng chiếm 33,3% GDP cả nước. Quảng Ninh và Bắc Ninh chính thức trở thành thành phố trực thuộc Trung ương tháng 9/2026 (tổng số 4). Hưng Yên, Ninh Bình hướng tới TPTW trước 2030, hỗ trợ chính sách hạ tầng."
     }
   ]
 }
