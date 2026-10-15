@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam duy trì tốc độ tăng trưởng mạnh mẽ với GDP 9 tháng đạt 9,01%, vốn FDI 21,07 tỷ USD tăng 12,1%, và lợi nhuận doanh nghiệp khấy động (PV GAS lãi tăng 68%). Niềm tin kinh doanh của doanh nghiệp châu Âu cao (chỉ số BCI 78,3 điểm, 64% doanh nghiệp đánh giá tốt). Ngân hàng dự báo tiếp tục tăng lợi nhuận 15,4% năm 2027 mặc dù áp lực từ chi phí vốn neo cao. VN-Index giảm xuống 1698 điểm do khối ngoại tiếp tục bán ròng nhưng thanh khoản tăng 32% cho thấy lực cầu bắt đáy đang hoạt động.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì động lực vẫn mạnh với GDP 9 tháng đạt 9,01%, FDI 21,07 tỷ USD tăng 12,1% (cao nhất 5 năm), và ngành dầu khí sẽ cát lợi nhuận tăng 68%. Tuy nhiên, thị trường chứng khoán chịu áp lực bán mạnh: VN-Index thủng 1.700 điểm, khối ngoại liên tục xả hàng (lần 10 liên tiếp, 685 tỷ đồng 15/10). Chênh lệch rõ rệt giữa kinh tế vĩ mô lạc quan và thị trường chứng khoán yếu cho thấy rủi ro ngắn hạn cao, đặc biệt khi lợi nhuận ngân hàng dự báo tăng trưởng sẽ chậm lại từ 19,5% (2026) xuống 15,4% (2027).",
   "top": [
     {
       "title": "GDP 9 tháng 9,01%, FDI 21,07 tỷ USD tăng 12,1%",
       "impact": "↑",
-      "note": "GDP quý III/2026 tăng 9,95%, 9 tháng đạt 9,01%, tạo nền tảng tăng tốc quý IV. Vốn FDI thực hiện 9 tháng đạt 21,07 tỷ USD, tăng 12,1% so cùng kỳ, mức cao nhất cùng kỳ trong 5 năm. Giải ngân vốn đầu tư công đạt 62,9% kế hoạch, tín dụng toàn hệ thống tăng 11,59%."
+      "note": "GDP quý III tăng 9,95%, 9 tháng đạt 9,01%. Vốn FDI thực hiện 21,07 tỷ USD, tăng 12,1% so cùng kỳ, mức cao nhất cùng kỳ 5 năm. Giải ngân vốn đầu tư công 62,9% kế hoạch đến hết tháng 9, cần tăng tốc quý 4 để đạt 10%+ cả năm."
+    },
+    {
+      "title": "VN-Index thủng 1.700 điểm, thanh khoản tăng 32%",
+      "impact": "↓",
+      "note": "VN-Index giảm 6,5 điểm xuống 1698,35 điểm (giảm 0,38%). RSI vào vùng quá bán, MACD giảm dưới 0, nến Doji với bóng nến dài cho thấy giằng co. Vùng hỗ trợ 1680-1690, kháng cự 1705-1710. Thanh khoản tăng 32% (15.200 tỷ) cho thấy lực cầu bắt đáy nhưng chưa đủ đảo chiều."
+    },
+    {
+      "title": "Khối ngoại bán ròng 685 tỷ, phiên 10 liên tiếp",
+      "impact": "↓",
+      "note": "Khối ngoại rút ròng 685 tỷ đồng 15/10, tự doanh bán ròng 241 tỷ, tổng 926 tỷ. Áp lực tập trung vào VIC (134 tỷ), STB (131 tỷ), TCB (96 tỷ). Chỉ MBB được mua 101 tỷ, cho thấy lựa chọn chọn lọc trong ngành ngân hàng từ ngoại."
     },
     {
       "title": "PV GAS lãi 5,4 ngàn tỷ quý 3, tăng 68%",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế quý 3 của PV GAS đạt 5,4 ngàn tỷ đồng, tăng 68%. Doanh thu 9 tháng 120,9 ngàn tỷ tăng 30%, lợi nhuận 16,6 ngàn tỷ tăng 31%. Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so cùng kỳ dù chịu ảnh hưởng xung đột Trung Đông."
+      "note": "Lợi nhuận trước thuế quý 3 đạt 5,4 ngàn tỷ đồng (+68%). Doanh thu 9 tháng 120,9 ngàn tỷ (+30%), lợi nhuận 16,6 ngàn tỷ (+31%). Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so cùng kỳ dù ảnh hưởng từ xung đột Trung Đông."
     },
     {
-      "title": "VN-Index giảm xuống 1698, RSI quá bán",
-      "impact": "↓",
-      "note": "VN-Index giảm 6,5 điểm xuống 1698,35, giảm 0,38%. RSI lùi về vùng quá bán, MACD giảm dưới 0, cho thấy áp lực bán ngắn hạn. Vùng hỗ trợ 1680-1690, kháng cự 1705-1710. Bảo hiểm và Dầu khí giảm khoảng 5%."
-    },
-    {
-      "title": "Khối ngoại bán ròng 685 tỷ, lần 10 liên tiếp",
-      "impact": "↓",
-      "note": "Khối ngoại rút ròng 685 tỷ đồng phiên 15/10, nối dài chuỗi bán 10 phiên liên tiếp. Tự doanh bán ròng 241 tỷ. Áp lực tập trung vào VIC (134 tỷ), STB (131 tỷ), TCB (96 tỷ). MBB hút 101 tỷ, VPB 54 tỷ, SHB 42 tỷ từ ngoại."
-    },
-    {
-      "title": "Ngân hàng 2027 lợi nhuận tăng 15,4%, áp lực tăng",
+      "title": "Ngân hàng 2027 tăng lợi nhuận 15,4%, chậm lại từ 19,5%",
       "impact": "→",
-      "note": "SSI Research dự báo lợi nhuận trước thuế ngành ngân hàng 2027 tăng 15,4%, thấp hơn 19,5% ước 2026. Áp lực từ huy động vốn neo cao, biên lãi thuần hẹp, nợ xấu tiềm ẩn. Chất lượng vốn và quản trị rủi ro sẽ quyết định khả năng duy trì lợi nhuận hơn là mở rộng tín dụng."
+      "note": "SSI Research dự báo lợi nhuận trước thuế ngành ngân hàng 2027 tăng 15,4%, thấp hơn 19,5% ước 2026. Áp lực từ huy động vốn neo cao, biên lãi thuần hẹp, chất lượng tài sản suy giảm. Chất lượng vốn và quản trị rủi ro sẽ quyết định khả năng duy trì lợi nhuận."
     },
     {
-      "title": "Niềm tin kinh doanh cao: BCI 78,3, 64% doanh nghiệp tốt",
+      "title": "Niềm tin kinh doanh EuroCham 78,3, 64% doanh nghiệp tốt",
       "impact": "↑",
-      "note": "Chỉ số Niềm tin Kinh doanh EuroCham quý 3/2026 đạt 78,3 điểm. 64% doanh nghiệp tham gia khảo sát đánh giá tình hình kinh doanh \"tốt\" hoặc \"rất tốt\", 28% trung lập. Doanh nghiệp châu Âu lạc quan về tăng trưởng nhưng kỳ vọng gỡ vướng hành chính sớm."
+      "note": "Chỉ số Niềm tin Kinh doanh EuroCham quý 3 đạt 78,3 điểm. 64% doanh nghiệp đánh giá tình hình \"tốt\" hoặc \"rất tốt\", 28% trung lập. Doanh nghiệp châu Âu lạc quan tăng trưởng nhưng kỳ vọng gỡ vướng hành chính sớm hơn."
     }
   ]
 }
