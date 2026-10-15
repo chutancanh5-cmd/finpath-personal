@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP 9 tháng 9,01% và FDI thực hiện 21,07 tỷ USD tăng 12,1%, nền tảng vững chắc cho quý IV. Niềm tin kinh doanh EU tại VN ở mức cao (EuroCham 78,3 điểm) mặc dù rào cản hành chính vẫn cần gỡ. Dòng vốn chuyển dịch sang midcap và cổ phiếu chứng khoán bùng nổ, tuy khối ngoại tiếp tục bán ròng áp lực và lãi suất cao tăng chi phí vốn ngắn hạn.",
+  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng mạnh (GDP 9 tháng 9,01%, quý III 9,95%) với FDI 21,07 tỷ USD tăng 12,1% và niềm tin kinh doanh EU cao (EuroCham 78,3 điểm), hỗ trợ tích lũy doanh nghiệp như PV GAS (lãi 5,4 ngàn tỷ +68%). Tuy nhiên, chứng khoán chịu áp lực từ nhà đầu tư ngoại (bán ròng 714 tỷ), VN-Index dưới 1700 điểm, đồng thời lãi suất tiền gửi cao (7,9%/năm) tăng chi phí vốn và hút dòng tiền ra khỏi cổ phiếu trong ngắn hạn.",
   "top": [
     {
-      "title": "GDP 9 tháng 9,01%, FDI 21,07 tỷ USD tăng 12,1%",
+      "title": "GDP 9 tháng 9,01%, quý III 9,95%, FDI 21,07 tỷ USD",
       "impact": "↑",
-      "note": "Quý III/2026 GDP tăng 9,95%, 9 tháng đầu năm tăng 9,01%; FDI thực hiện 21,07 tỷ USD tăng 12,1% so với cùng kỳ (mức cao nhất 5 năm). Hành khách quốc tế đạt 36 triệu lượt tăng 10,8% (ACV). Tạo momentum mạnh cho tăng trưởng năm 2026."
+      "note": "GDP quý III/2026 tăng 9,95%, 9 tháng tăng 9,01%, tạo nền tảng tăng tốc quý IV hướng tới mục tiêu cả năm 10%+. FDI thực hiện 21,07 tỷ USD tăng 12,1% so cùng kỳ, mức cao nhất 5 năm qua."
     },
     {
-      "title": "Lãi suất ngân hàng cao nhất 7,9%/năm kỳ hạn 18 tháng",
+      "title": "PV GAS lãi trước thuế 5,4 ngàn tỷ đồng, tăng 68%",
+      "impact": "↑",
+      "note": "Doanh thu hợp nhất PV GAS 9 tháng đạt 120,9 ngàn tỷ đồng tăng 30%; lợi nhuận trước thuế 16,6 ngàn tỷ đồng tăng 31%. Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% cùng kỳ."
+    },
+    {
+      "title": "EuroCham BCI 78,3 điểm, 64% doanh nghiệp tốt/rất tốt",
+      "impact": "↑",
+      "note": "Chỉ số Niềm tin Kinh doanh quý 3/2026 đạt 78,3 điểm; 64% doanh nghiệp đánh giá tình hình 'tốt' hoặc 'rất tốt'; 28% thận trọng, mong gỡ rào cản hành chính."
+    },
+    {
+      "title": "Khối ngoại bán ròng 714 tỷ đồng, VN-Index dưới 1700",
       "impact": "↓",
-      "note": "VPBank dẫn đầu 7,9%/năm (18 tháng), Sacombank 7,5% (12 tháng), Big4 cùng 6,8%/năm. Lãi suất cao tăng chi phí vốn cho doanh nghiệp, áp lực lợi nhuận ngắn hạn khi nhà đầu tư có lựa chọn sinh lời từ tiền gửi an toàn."
+      "note": "VN-Index giảm 7 điểm xuống 1.698, thủng mốc 1.700. Nhà đầu tư nước ngoài bán ròng 714 tỷ đồng; VIC bán 135 tỷ đ, STB 131 tỷ đ, TCB 96 tỷ đ."
     },
     {
-      "title": "Khối ngoại bán ròng 714 tỷ đồng, bán VIC 135 tỷ đ",
+      "title": "Lãi suất cao nhất 7,9%/năm, tăng chi phí vốn doanh nghiệp",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 714 tỷ đồng; VIC bán ròng 135 tỷ đ (Vingroup), STB 131 tỷ đ (Sacombank), TCB 96 tỷ đ (Techcombank). VN-Index giảm 7 điểm xuống 1.698, mất mốc 1.700. Phản ánh cẩn trọng trước lợi suất trái phiếu quốc tế tăng."
+      "note": "VPBank 7,9%/năm kỳ 18 tháng, Sacombank 7,5% (12 tháng), Big4 6,8%/năm. Lãi suất cao hút dòng tiền vào tiền gửi an toàn, tăng chi phí vốn cho doanh nghiệp."
     },
     {
-      "title": "Cổ phiếu chứng khoán bùng nổ: CTS +6,79%, VUA +8%",
+      "title": "SHB xếp hạng AA từ S&P, bảo lãnh CGIF (ADB)",
       "impact": "↑",
-      "note": "Nhóm chứng khoán tăng mạnh: CTS tăng kịch trần 6,79% lên 20.450 đ, BSI +7%, VUA +8%, AGR +4%; hơn 20 mã tăng 1%+; giao dịch HSX hơn 14.000 tỷ đ, tốt nhất tuần. Dòng tiền vào midcap & penny stock tăng mạnh."
-    },
-    {
-      "title": "EuroCham BCI 78,3 điểm, 64% doanh nghiệp 'tốt' hoặc 'rất tốt'",
-      "impact": "↑",
-      "note": "Chỉ số Niềm tin Kinh doanh quý 3/2026 đạt 78,3 điểm; 64% doanh nghiệp đánh giá tình hình 'tốt' hoặc 'rất tốt'; 28% thận trọng mong gỡ rào cản hành chính. Phản ánh sự lạc quan của cộng đồng doanh nghiệp EU tại VN."
-    },
-    {
-      "title": "SHB nhận xếp hạng AA từ S&P Global Ratings",
-      "impact": "↑",
-      "note": "Trái phiếu SHB bảo lãnh bởi CGIF (ADB) được xếp hạng AA (triển vọng Ổn định), thuộc nhóm đầu tư chất lượng cao. Mở rộng tiếp cận nhà đầu tư quốc tế, đa dạng hóa nguồn vốn trung/dài hạn khu vực."
+      "note": "Trái phiếu SHB được S&P Global Ratings xếp hạng AA (triển vọng Ổn định) nhờ bảo lãnh của CGIF, mở rộng tiếp cận nhà đầu tư quốc tế, đa dạng hóa vốn khu vực."
     }
   ]
 }
