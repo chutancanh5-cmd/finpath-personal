@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-15",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng ấn tượng với GDP 9 tháng 9,01%, FDI 21,07 tỷ USD tăng 12,1% (cao nhất 5 năm). Doanh nghiệp chính báo cáo lãi cao: PV GAS quý 3 lãi 5,4 ngàn tỷ tăng 68%, ACV hành khách quốc tế tăng 10,8%, SHB nhận xếp hạng AA. Nhóm chứng khoán bùng nổ với dòng tiền mạnh nhưng VN-Index thủng 1.700 và khối ngoại bán ròng 714 tỷ phản ánh e ngại ngắn hạn; chính sách EU hạn chế Trung Quốc tạo cơ hội xuất khẩu.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán VN giằng co với áp lực bán từ khối ngoại (phiên thứ 10 liên tiếp, 685 tỷ đồng), khiến VN-Index thủng 1700 điểm. Tuy nhiên, lợi nhuận doanh nghiệp tăng trưởng vượt kỳ vọng (PV GAS lãi +68%, ACV sản lượng +8,6-10,8%), kinh tế vĩ mô vững chắc (GDP quý 3 là 9,95%, FDI cao nhất 5 năm), chứng khoán bùng nổ với CTS +6,79%, và niềm tin doanh nghiệp EU ở 78,3 điểm. Rủi ro từ IMF cảnh báo nợ Mỹ và lãi suất trái phiếu toàn cầu cao tiếp tục gây áp lực.",
   "top": [
     {
-      "title": "PV GAS quý 3 lãi 5,4 ngàn tỷ, tăng 68%",
-      "impact": "↑",
-      "note": "Doanh thu 9 tháng 120,9 ngàn tỷ tăng 30%, lợi nhuận 16,6 ngàn tỷ tăng 31%. Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so cùng kỳ. Tổng công ty bảo đảm an ninh năng lượng trong bối cảnh xung đột Trung Đông."
+      "title": "VN-Index thủng 1700, khối ngoại bán ròng 685 tỷ phiên thứ 10 liên tiếp",
+      "impact": "↓",
+      "note": "VN-Index giảm 0,38% (6,5 điểm). Khối ngoại bán ròng 685 tỷ đồng tập trung VIC (134 tỷ), STB (131 tỷ), TCB (96 tỷ); tự doanh bán 241 tỷ. Thanh khoản tăng 32% lên 15.200 tỷ nhưng áp lực quốc tế yếu do lãi suất trái phiếu toàn cầu cao."
     },
     {
-      "title": "GDP 9,01% (9 tháng), FDI 21,07 tỷ USD tăng 12,1%",
+      "title": "PV GAS quý 3 lãi 5,4 ngàn tỷ, tăng trưởng 68%",
       "impact": "↑",
-      "note": "Quý III tăng 9,95%, nền tảng tăng tốc quý IV hướng mục tiêu 10%+. FDI đạt mức cao nhất 5 năm cùng kỳ; vốn đầu tư công giải ngân 62,9% kế hoạch, vẫn còn khối lượng lớn trong quý cuối năm."
+      "note": "9 tháng doanh thu 120,9 ngàn tỷ đồng (↑30%), lãi trước thuế 16,6 ngàn tỷ đồng (↑31%). Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so cùng kỳ. Hoạt động ổn định bất chấp xung đột địa chính trị Trung Đông."
     },
     {
-      "title": "ACV khách quốc tế tăng 10,8%",
+      "title": "GDP quý 3 đạt 9,95%, FDI 21,07 tỷ USD tăng 12,1% (cao nhất 5 năm)",
       "impact": "↑",
-      "note": "9 tháng phục vụ 94,1 triệu hành khách tăng 8,6%, khách quốc tế 36 triệu tăng 10,8%, cất hạ cánh 568,4 ngàn tăng 7,1%. Lãi công ty mẹ ~9,2 ngàn tỷ. Quý 3 hành khách tăng 12,7%, phục hồi thị trường hàng không quốc tế rõ rệt."
+      "note": "9 tháng GDP tăng 9,01%, quý 3 tăng 9,95%, nền tảng tăng tốc quý IV hướng mục tiêu 10%+. FDI thực hiện đạt mức cao nhất 5 năm cùng kỳ. Vốn đầu tư công giải ngân 62,9% kế hoạch, khối lượng lớn cần thực hiện quý cuối năm."
     },
     {
       "title": "Chứng khoán bùng nổ: CTS +6,79%, BSI +7%, VUA +8%",
       "impact": "↑",
-      "note": "Phiên 15/10 nhóm chứng khoán tăng quá 20 mã, trong đó hơn nửa tăng vượt 2%. Thanh khoản HSX 14.000 tỷ, gần nửa từ cổ phiếu vừa-nhỏ. Dòng tiền bắt đáy mạnh khi VN-Index xuyên thủng 1.700."
+      "note": "Phiên 15/10 nhóm chứng khoán tăng quá 20 mã, hơn nửa vượt 2%. Thanh khoản HSX đạt 14.000 tỷ, gần nửa từ cổ phiếu vừa-nhỏ. Dòng tiền bắt đáy mạnh khi VN-Index xuyên thủng 1700, cho thấy phản ứng ngược lại xu hướng chỉ số."
     },
     {
-      "title": "EU-Đức hạn chế nhập khẩu Trung Quốc",
-      "impact": "↑",
-      "note": "Thâm hụt thương mại EU-Trung Quốc tháng 9 lập kỷ lục 34,8 tỷ USD. Đức thúc EU áp hạn ngạch nhiều nhóm hàng hóa giá rẻ từ Trung Quốc. Cơ hội chuyển hướng xuất khẩu cho Việt Nam, mở rộng tệp khách hàng quốc tế."
-    },
-    {
-      "title": "VN-Index thủng 1.700, khối ngoại bán ròng 685 tỷ",
+      "title": "IMF cảnh báo tăng trưởng Mỹ chưa đủ giải quyết nợ công",
       "impact": "↓",
-      "note": "VN-Index giảm 0,38% (6,5 điểm). Khối ngoại bán ròng 685 tỷ tập trung vào VIC (134 tỷ), STB (131 tỷ), TCB (96 tỷ) phiên thứ 10 liên tiếp. Thanh khoản tăng 32% lên 15.283,9 tỷ nhưng dòng tiền quốc tế yếu do lãi suất toàn cầu tăng."
+      "note": "Tổng giám đốc IMF Georgieva nhận định kế hoạch tăng trưởng 3% của Mỹ không tạo được những điều chỉnh tài khóa đủ nhanh. Mỹ cần biện pháp tài khóa cụ thể, không dựa vào tăng trưởng đơn độc. Rủi ro toàn cầu có ảnh hưởng đến thị trường mới nổi."
+    },
+    {
+      "title": "Niềm tin kinh doanh EuroCham quý 3 đạt 78,3 điểm",
+      "impact": "↑",
+      "note": "64% doanh nghiệp châu Âu đánh giá tình hình 'tốt' hoặc 'rất tốt', 28% trung lập/thận trọng. Doanh nghiệp mong cơ quan quản lý gỡ vướng hành chính, tăng khả năng dự báo kết quả kinh doanh. Phản ánh lạc quan dù nhu cầu quốc tế chững lại."
     }
   ]
 }
