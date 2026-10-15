@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-15",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế trong nước khởi sắc với GDP quý 3 tăng 9.95% (nhanh nhất kể từ Q3/2022) và Bắc Ninh tăng 11.8%, xuất nhập khẩu 177.8 tỷ USD dẫn đầu cả nước. Tuy nhiên, thị trường chứng khoán Mỹ giảm mạnh do lạm phát tăng tốc (CPI tháng 9 cao hơn dự báo) khiến triển vọng lãi suất cao hơn, đồng thời khối ngoại tiếp tục bán ròng 9 phiên liên tiếp trên thị trường trong nước. Giá dầu dự báo giảm về 70 USD/thùng trong 2027 có thể gây áp lực cho lợi nhuận lọc hóa dầu.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục bứt phá với GDP quý 3 tăng 9,95%, thúc đẩy UOB nâng dự báo tăng trưởng năm 2026 lên 9,2% từ mức 8,5%. Bắc Ninh dẫn đầu với GRDP tăng 11,8% và xuất nhập khẩu đạt 177,8 tỷ USD trong 9 tháng đầu năm. Tuy nhiên, lạm phát Mỹ tăng tốc tháng 9 gây áp lực lên thị trường chứng khoán toàn cầu, khối ngoại tiếp tục bán ròng 9 phiên liên tiếp, tạo rủi ro ngắn hạn cho TTCK Việt Nam. Tín dụng xanh phát triển tích cực với dư nợ 6,22 triệu tỷ đồng, hỗ trợ chuyển dịch kinh tế bền vững.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9.95%, nhanh nhất 4 năm",
+      "title": "GDP Việt Nam dự kiến 9.2% năm 2026 theo UOB",
       "impact": "↑",
-      "note": "Tổng cục Thống kê công bố GDP Việt Nam quý 3/2026 tăng 9.95% so với cùng kỳ, vượt dự báo 8.65% của Bloomberg và mức 9%, nhanh nhất kể từ Q3/2022. Tăng trưởng 9 tháng đạt 9.01%, cao hơn đáng kể so với 7.8% cùng kỳ 2025. Khu vực công nghiệp và xây dựng tăng 12.5%, dịch vụ tăng 9.54%, nông lâm thủy sản tăng 4.21%. UOB nâng dự báo tăng trưởng năm 2026 lên 9.2% (từ 8.5%)."
+      "note": "GDP quý 3/2026 tăng 9,95% so với cùng kỳ, cao nhất kể từ quý 3/2022. UOB nâng dự báo tăng trưởng năm 2026 từ 8,5% lên 9,2%, dự báo CPI 4,7%, giữ nguyên chính sách lãi suất của NHNN."
     },
     {
-      "title": "Chứng khoán Mỹ giảm sâu do lạm phát tăng nóng",
-      "impact": "↓",
-      "note": "Thị trường Mỹ ngày 14/10 giảm mạnh: S&P 500 giảm 1.11%, còn 7.718,94 điểm; Nasdaq sụt 1.88%, còn 26.692,87 điểm; Dow Jones giảm 0.09%, còn 51.621,48 điểm. Cổ phiếu AI bị bán mạnh: CoreWeave giảm hơn 15%, Oracle giảm 9%, AMD giảm hơn 5%, Micron giảm hơn 4%. Bank of America giảm 5% sau khi doanh thu quý 3 không đạt dự báo."
-    },
-    {
-      "title": "Lạm phát Mỹ tăng tốc, Fed chịu sức ép lãi suất",
-      "impact": "↓",
-      "note": "CPI Mỹ tháng 9 tăng cao hơn dự báo; lạm phát lõi tăng 2.6% so với cùng kỳ năm trước (tháng 8 là 2.4%). Giá xăng tăng khoảng 9% trong tháng 9, giá vé máy bay cao hơn 23% so với một năm trước. Lạm phát tăng áp lực lên Fed trước cuộc bầu cử Quốc hội giữa kỳ, triển vọng lãi suất cao hơn gia tăng."
-    },
-    {
-      "title": "Bắc Ninh tăng trưởng 11.8%, xuất nhập khẩu 177.8 tỷ USD",
+      "title": "Bắc Ninh dẫn đầu tăng trưởng 11.8% và xuất nhập khẩu 177.8 tỷ USD",
       "impact": "↑",
-      "note": "9 tháng đầu năm, GRDP thành phố Bắc Ninh ước tăng 11.8%, vượt kịch bản 11.7% và đứng thứ 4/34 tỉnh thành. Tổng giá trị xuất nhập khẩu 9 tháng ước đạt 177.8 tỷ USD, dẫn đầu cả nước. Giải ngân vốn đầu tư công đạt hơn 91% kế hoạch, xếp thứ 1/34 tỉnh thành. Phó Thủ tướng đề nghị tập trung vào dự án công nghệ cao, vi mạch bán dẫn."
+      "note": "GRDP Bắc Ninh 9 tháng đầu năm tăng 11,8%, vượt kịch bản 11,7% và xếp thứ 4/34 tỉnh, thành phố. Xuất nhập khẩu đạt 177,8 tỷ USD, dẫn đầu cả nước. Tỷ lệ giải ngân vốn công 9 tháng hơn 91%, xếp thứ 1/34."
     },
     {
-      "title": "Khối ngoại bán ròng 9 phiên liên tiếp, rút vốn khỏi TTCK",
+      "title": "Lạm phát Mỹ tháng 9 tăng tốc, giá xăng lên 9%",
       "impact": "↓",
-      "note": "Phiên 14/10, khối ngoại bán ròng 666 tỷ đồng (phiên bán ròng thứ 9 liên tiếp) với giá trị bán 2.069 tỷ đồng, giá trị mua 1.402 tỷ đồng. Lực rút vốn tập trung vào VIC và VHM. Ngược chiều, khối tự doanh mua ròng 426 tỷ đồng (phiên thứ 5 liên tiếp), tập trung vào VPB với 227 tỷ đồng."
+      "note": "Chỉ số CPI Mỹ tháng 9 tăng nóng hơn dự báo. Lạm phát lõi tăng 2,6% so với cùng kỳ năm trước. Giá xăng tăng 9% trong tháng 9, giá vé máy bay cao hơn 23% so với năm trước, phản ánh áp lực giá cả lâu dài từ căng thẳng Mỹ-Iran."
     },
     {
-      "title": "Tín dụng xanh: dư nợ ESG 6,22 triệu tỷ đồng (31,3% tổng dư nợ)",
+      "title": "Chứng khoán Mỹ sụt điểm theo lạm phát nóng",
+      "impact": "↓",
+      "note": "S&P 500 giảm 1,11% (7.718,94 điểm), Nasdaq sụt 1,88% (26.692,87 điểm), Dow Jones giảm 0,09% (51.621,48 điểm). Cổ phiếu AI bị bán mạnh: CoreWeave giảm 15%, Oracle giảm 9%. Micron, AMD, Sandisk giảm trên 3%."
+    },
+    {
+      "title": "Khối ngoại bán ròng 9 phiên liên tiếp, 666 tỷ đồng",
+      "impact": "↓",
+      "note": "Phiên 14/10, khối ngoại bán ròng 666 tỷ đồng (phiên thứ 9 liên tiếp), với giá trị bán lên 2.069 tỷ đồng. Tâm điểm rút vốn: VIC, VHM. Ngược chiều, khối tự doanh mua ròng 426 tỷ đồng, tập trung vào VPB (227 tỷ đồng)."
+    },
+    {
+      "title": "Dư nợ tín dụng xanh đạt 6.22 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Cuối quý 2/2026, dư nợ được đánh giá các loại rủi ro môi trường và xã hội đạt 6,22 triệu tỷ đồng, tương đương 31,3% tổng dư nợ nền kinh tế. Nguồn vốn chủ yếu vào nông lâm thủy sản và bảo tồn đa dạng sinh học (31%) và năng lượng xanh (28%). Ngân hàng Nhà nước khuyến khích tổ chức tín dụng xây dựng chiến lược, quy trình nội bộ và phát triển sản phẩm phù hợp mục tiêu tăng trưởng xanh."
+      "note": "Dư nợ được đánh giá rủi ro môi trường và xã hội đến cuối tháng 6/2026 đạt 6,22 triệu tỷ đồng, tương đương 31,3% tổng dư nợ nền kinh tế. Tín dụng xanh tập trung vào nông, lâm, thủy sản (31%) và năng lượng xanh (28%), hỗ trợ chuyển dịch kinh tế bền vững."
     }
   ]
 }
