@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam tiếp tục bứt phá với GDP quý 3 tăng 9,95%, thúc đẩy UOB nâng dự báo tăng trưởng năm 2026 lên 9,2% từ mức 8,5%. Bắc Ninh dẫn đầu với GRDP tăng 11,8% và xuất nhập khẩu đạt 177,8 tỷ USD trong 9 tháng đầu năm. Tuy nhiên, lạm phát Mỹ tăng tốc tháng 9 gây áp lực lên thị trường chứng khoán toàn cầu, khối ngoại tiếp tục bán ròng 9 phiên liên tiếp, tạo rủi ro ngắn hạn cho TTCK Việt Nam. Tín dụng xanh phát triển tích cực với dư nợ 6,22 triệu tỷ đồng, hỗ trợ chuyển dịch kinh tế bền vững.",
+  "summary_vi": "Kinh tế Việt Nam duy trì động lực tăng trưởng mạnh với GDP quý 3 tăng 9,95%, UOB nâng dự báo năm 2026 lên 9,2%, các quỹ mở tích cực giải ngân vào thị trường. Bắc Ninh tiếp tục dẫn đầu với GRDP 11,8% và xuất nhập khẩu 177,8 tỷ USD. Tuy nhiên, áp lực từ lạm phát Mỹ tăng nóng gây sụt điểm chứng khoán Mỹ, khối ngoại bán ròng 9 phiên liên tiếp tạo rủi ro ngắn hạn, dự báo giá dầu giảm năm 2027 sẽ ảnh hưởng ngành lọc hóa dầu.",
   "top": [
     {
-      "title": "GDP Việt Nam dự kiến 9.2% năm 2026 theo UOB",
+      "title": "GDP quý 3 tăng 9.95%, UOB nâng dự báo năm 2026 lên 9.2%",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9,95% so với cùng kỳ, cao nhất kể từ quý 3/2022. UOB nâng dự báo tăng trưởng năm 2026 từ 8,5% lên 9,2%, dự báo CPI 4,7%, giữ nguyên chính sách lãi suất của NHNN."
+      "note": "GDP quý 3/2026 tăng 9,95% so với cùng kỳ, nhanh nhất kể từ quý 3/2022. UOB nâng dự báo tăng trưởng năm 2026 từ 8,5% lên 9,2%, dự báo 2027 là 8,8%, duy trì quan điểm NHNN giữ nguyên lãi suất."
     },
     {
-      "title": "Bắc Ninh dẫn đầu tăng trưởng 11.8% và xuất nhập khẩu 177.8 tỷ USD",
+      "title": "21 quỹ mở cổ phiếu giảm mạnh tỷ trọng tiền, đẩy mạnh giải ngân",
       "impact": "↑",
-      "note": "GRDP Bắc Ninh 9 tháng đầu năm tăng 11,8%, vượt kịch bản 11,7% và xếp thứ 4/34 tỉnh, thành phố. Xuất nhập khẩu đạt 177,8 tỷ USD, dẫn đầu cả nước. Tỷ lệ giải ngân vốn công 9 tháng hơn 91%, xếp thứ 1/34."
+      "note": "21/37 quỹ mở cổ phiếu giảm tỷ trọng tiền, so với 11/36 quỹ tháng trước. Quỹ DC Năng động giảm từ 27,4% xuống 9,1%, TCFIN từ 27,7% xuống 13,2%, Techcom từ 25,5% xuống 10,4%, cho thấy tận dụng nhịp phục hồi."
     },
     {
-      "title": "Lạm phát Mỹ tháng 9 tăng tốc, giá xăng lên 9%",
+      "title": "CPI Mỹ tháng 9 tăng nóng hơn dự báo",
       "impact": "↓",
-      "note": "Chỉ số CPI Mỹ tháng 9 tăng nóng hơn dự báo. Lạm phát lõi tăng 2,6% so với cùng kỳ năm trước. Giá xăng tăng 9% trong tháng 9, giá vé máy bay cao hơn 23% so với năm trước, phản ánh áp lực giá cả lâu dài từ căng thẳng Mỹ-Iran."
+      "note": "Chi phí sinh hoạt Mỹ tăng trong tháng 9, CPI cao hơn đáng kể so với mục tiêu của Fed. Lạm phát lõi tăng hơn dự báo, gây lo ngại Fed duy trì tỷ lệ lãi suất cao lâu hơn."
     },
     {
-      "title": "Chứng khoán Mỹ sụt điểm theo lạm phát nóng",
+      "title": "Chứng khoán Mỹ sụt điểm, S&P 500 giảm 1.11%, Nasdaq giảm 1.88%",
       "impact": "↓",
-      "note": "S&P 500 giảm 1,11% (7.718,94 điểm), Nasdaq sụt 1,88% (26.692,87 điểm), Dow Jones giảm 0,09% (51.621,48 điểm). Cổ phiếu AI bị bán mạnh: CoreWeave giảm 15%, Oracle giảm 9%. Micron, AMD, Sandisk giảm trên 3%."
+      "note": "S&P 500 giảm 1,11% xuống 7.718,94 điểm, Nasdaq sụt 1,88% xuống 26.692,87 điểm. Cổ phiếu AI bị bán mạnh: CoreWeave giảm 15%, Oracle giảm 9%. Bank of America giảm 5% sau báo cáo doanh thu Q3 không đạt dự báo."
     },
     {
-      "title": "Khối ngoại bán ròng 9 phiên liên tiếp, 666 tỷ đồng",
+      "title": "Giá dầu dự báo giảm 70 USD/thùng năm 2027",
       "impact": "↓",
-      "note": "Phiên 14/10, khối ngoại bán ròng 666 tỷ đồng (phiên thứ 9 liên tiếp), với giá trị bán lên 2.069 tỷ đồng. Tâm điểm rút vốn: VIC, VHM. Ngược chiều, khối tự doanh mua ròng 426 tỷ đồng, tập trung vào VPB (227 tỷ đồng)."
+      "note": "SSI Research dự báo giá dầu sẽ hạ nhiệt năm 2027. Ngành dầu khí bước vào giai đoạn phân hóa, doanh nghiệp lọc hóa dầu chịu áp lực, trong khi thượng nguồn được kỳ vọng duy trì tăng trưởng từ chu kỳ đầu tư mới."
     },
     {
-      "title": "Dư nợ tín dụng xanh đạt 6.22 triệu tỷ đồng",
+      "title": "Lãi suất cao giúp HVS lãi quý 3 gấp 5 lần cùng kỳ",
       "impact": "↑",
-      "note": "Dư nợ được đánh giá rủi ro môi trường và xã hội đến cuối tháng 6/2026 đạt 6,22 triệu tỷ đồng, tương đương 31,3% tổng dư nợ nền kinh tế. Tín dụng xanh tập trung vào nông, lâm, thủy sản (31%) và năng lượng xanh (28%), hỗ trợ chuyển dịch kinh tế bền vững."
+      "note": "HVS doanh thu quý 3 hơn 5 tỷ đồng, tăng 77% so với cùng kỳ, lãi sau thuế gấp 5 lần cùng kỳ. Gần toàn bộ doanh thu từ lãi tiền gửi kỳ hạn, dư nợ tiền gửi hơn 240 tỷ đồng với lãi suất 4,8-4,9% năm."
     }
   ]
 }
