@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-15",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam tiếp tục bộc lộ đà tăng trưởng mạnh mẽ với GDP quý 3 tăng 9.95% (cao nhất kể từ Q3/2022) và UOB nâng dự báo 2026 lên 9.2%. Tuy nhiên, áp lực bên ngoài gia tăng khi CPI Mỹ tăng tốc (vượt dự báo) khiến nhà đầu tư ngoại bán ròng liên tục (9 phiên liên tiếp, tập trung VIC và VHM). Giá dầu dự báo hạ xuống 70 USD/thùng năm 2027 sẽ gây khó khăn cho lọc hóa, trong khi thượng nguồn dầu khí, công nghệ nội địa và tín dụng xanh tạo các điểm sáng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "GDP Việt Nam quý 3 tăng 9,95%, vượt kỳ vọng 8,65% của Bloomberg, đánh dấu tốc độ nhanh nhất kể từ Q3/2022. UOB nâng dự báo tăng trưởng 2026 lên 9,2% (từ 8,5%), phản ánh niềm tin kinh tế bền vững. Tuy nhiên, thị trường chứng khoán chịu áp lực khi khối ngoại bán ròng liên tục 9 phiên (772,24 tỷ đồng), CPI Mỹ tăng tốc có thể ảnh hưởng chính sách tiền tệ toàn cầu, và giá dầu dự báo giảm xuống 70 USD/thùng năm 2027 sẽ tác động tới ngành lọc hóa.",
   "top": [
     {
-      "title": "GDP Q3 tăng 9.95%, UOB nâng dự báo 2026 lên 9.2%",
+      "title": "GDP Q3 tăng 9,95%, vượt kỳ vọng",
       "impact": "↑",
-      "note": "GDP Việt Nam quý 3/2026 tăng 9.95% so cùng kỳ (cao nhất Q3/2022); UOB nâng dự báo 2026 từ 8.5% lên 9.2% (dự báo CPI 4.7%), 2027 là 8.8%. Công nghiệp-xây dựng tăng 12.5%, dịch vụ tăng 9.54%, nông-lâm-thủy sản tăng 4.21%. 9 tháng tăng 9.01% (so 7.8% cùng kỳ 2025)."
+      "note": "GDP tăng 9,95% so cùng kỳ, cao nhất kể từ Q3/2022. Công nghiệp-xây dựng tăng 12,5%, dịch vụ 9,54%, nông-lâm-thủy sản 4,21%. Tính chung 9 tháng tăng 9,01% so 7,8% cùng kỳ 2025."
     },
     {
-      "title": "CPI Mỹ tăng tốc tháng 9, vượt dự báo Fed",
-      "impact": "↓",
-      "note": "CPI Mỹ tháng 9 tăng mạnh hơn dự báo, giữ lạm phát cao hơn đáng kể so với mục tiêu Fed. Dữ liệu này tăng kỳ vọng Fed tiếp tục tăng lãi suất, gây áp lực lên tài sản rủi ro toàn cầu và tư duy nhà đầu tư nước ngoài."
-    },
-    {
-      "title": "Khối ngoại bán ròng 9 phiên liên tiếp, tập trung VIC, VHM",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 800 tỷ đồng phiên 14/10 (phiên bán thứ 9 liên tiếp), rút vốn mạnh VIC (bán ròng 152,99 tỷ) và VHM (bán ròng 151,94 tỷ), gây tác động tiêu cực 5,76 điểm lên VN-Index. Giá trị bán phiên này đạt 2,069 tỷ đồng."
-    },
-    {
-      "title": "Dầu khí lợi nhuận 6 tháng 2026 tăng 240%, giá dầu 2027 giảm",
-      "impact": "↓",
-      "note": "SSI Research dự báo giá dầu giảm về 70 USD/thùng năm 2027 sau giai đoạn tăng giá 50% năm 2026 do xung đột Trung Đông. Lợi nhuận toàn ngành dầu khí 6 tháng đầu 2026 đạt 29.000 tỷ đồng, tăng 240% cùng kỳ. Thượng nguồn được kỳ vọng tăng trưởng, lọc hóa sẽ chịu áp lực."
-    },
-    {
-      "title": "Bắc Ninh tăng trưởng 13,8% Q3, dẫn đầu xuất nhập khẩu",
+      "title": "UOB nâng dự báo GDP 2026 lên 9,2%",
       "impact": "↑",
-      "note": "GRDP quý 3 Bắc Ninh tăng 13,8% (thứ 3 cả nước); 9 tháng tăng 11,8% (thứ 4). Xuất nhập khẩu 9 tháng đạt 178 tỷ USD, dẫn đầu cả nước (20,13% tổng). Thu ngân sách 70.000 tỷ đồng, tăng 23,5% cùng kỳ."
+      "note": "UOB nâng dự báo 2026 từ 8,5% lên 9,2%, dự báo 2027 là 8,8%, duy trì quan điểm NHNN giữ nguyên chính sách lãi suất. Đồng thời nâng dự báo CPI từ 4,1% lên 4,7%."
     },
     {
-      "title": "Việt Nam chế tạo thành công thép Duplex, Superduplex và hợp kim",
+      "title": "Khối ngoại bán ròng 9 phiên liên tiếp",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 772,24 tỷ đồng phiên 14/10, phiên bán thứ 9 liên tiếp. VIC bán ròng 152,99 tỷ đồng, VHM bán ròng 151,94 tỷ đồng, gây tác động tiêu cực 5,76 điểm lên VN-Index."
+    },
+    {
+      "title": "CPI Mỹ tháng 9 tăng tốc, vượt dự báo",
+      "impact": "↓",
+      "note": "CPI Mỹ tăng mạnh hơn dự báo tháng 9, giữ lạm phát cao hơn mục tiêu Fed. Tiềm ẩn rủi ro cho chính sách tiền tệ toàn cầu và dòng vốn quốc tế."
+    },
+    {
+      "title": "Giá dầu dự báo giảm 70 USD/thùng năm 2027",
+      "impact": "↓",
+      "note": "SSI Research dự báo giá dầu giảm 70 USD/thùng năm 2027, sau giai đoạn tăng 50% năm 2026. Ngành dầu khí phân hóa: thượng nguồn tăng nhưng doanh nghiệp lọc hóa sẽ chịu áp lực."
+    },
+    {
+      "title": "Bắc Ninh GRDP 9 tháng tăng 11,8%, XNK 177,8 tỷ USD",
       "impact": "↑",
-      "note": "Chế tạo thép Duplex, Superduplex theo tiêu chuẩn ASTM A890 (thay thế nhập khẩu dụng cụ khắc nghiệt); hợp kim cứng WC-Co cho mũi khoan (chất lượng G7); thuốc hàn thiêu kết AWS A5.17-80; vải chống cháy bông-polyeste; đế giày cao su-phylon tích hợp; vải kháng khuẩn. Công nghệ nội địa giảm phụ thuộc nhập khẩu."
+      "note": "GRDP Bắc Ninh 9 tháng tăng 11,8%, vượt kịch bản 11,7%, đứng thứ 4/34 tỉnh thành. Xuất nhập khẩu 9 tháng 177,8 tỷ USD dẫn đầu cả nước. Giải ngân vốn công 91%, xếp thứ 1."
     }
   ]
 }
