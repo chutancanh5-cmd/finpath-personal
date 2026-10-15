@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-15",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Năm 2026 ghi dấu tăng trưởng ngoài dự kiến: GDP quý 3 tăng 9.95% (cao nhất kể từ Q3/2022), UOB nâng dự báo toàn năm lên 9.2%. Vùng Đồng bằng sông Hồng chiếm 33% GDP toàn quốc với phát triển hạ tầng mạnh. Tuy nhiên thị trường chứng khoán điều chỉnh sâu (245 mã dưới mệnh) và dự án FDI lớn (AI Factory 2,1 tỷ USD) gặp vướng giá điện. Dòng vốn từ quỹ nước ngoài (Luxembourg 9.000 tỷ euro) và lãi suất cao hỗ trợ tích cực cho ngành tài chính.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "GDP quý 3 tăng 9.95% (cao nhất kể từ Q3/2022), UOB nâng dự báo năm 2026 lên 9.2%, tạo nền tảng vĩ mô tích cực. Thị trường phục hồi với dòng tiền bắt đáy cải thiện thanh khoản, kỳ vọng dòng vốn ngoại từ Luxembourg. Tuy nhiên 245 cổ phiếu dưới mệnh giá và lợi nhuận khu vực chứng khoán sụt giảm. Chính sách giá điện còn vướng mắc, ảnh hưởng dự án FDI 2,1 tỷ USD.",
   "top": [
     {
-      "title": "GDP Việt Nam tăng 9.95% quý 3, UOB nâng dự báo 2026 lên 9.2%",
+      "title": "GDP quý 3 tăng 9.95%, UOB nâng dự báo 2026 lên 9.2%",
       "impact": "↑",
-      "note": "Quý 3 tăng 9.95% so với cùng kỳ (cao nhất kể từ Q3/2022), 9 tháng đầu năm đạt 9.01%. UOB nâng dự báo GDP 2026 từ 8.5% lên 9.2%, CPI từ 4.1% lên 4.7%; duy trì NHNN giữ nguyên chính sách lãi suất."
+      "note": "GDP quý 3/2026 tăng 9.95% so với cùng kỳ, cao nhất kể từ Q3/2022. UOB nâng dự báo tăng trưởng năm 2026 từ 8.5% lên 9.2%, dự báo CPI 4.7%. Tăng trưởng 9 tháng đầu năm đạt 9.01% (so với 7.8% cùng kỳ 2025). Khu vực công nghiệp-xây dựng tăng 12.5%, dịch vụ tăng 9.54%."
     },
     {
-      "title": "Vùng Đồng bằng sông Hồng hướng tới toàn thành phố trực thuộc Trung ương",
+      "title": "VN-Index phục hồi mốc 1700, dòng tiền bắt đáy, thanh khoản cải thiện",
       "impact": "↑",
-      "note": "Vùng Đồng bằng sông Hồng hiện có 4 thành phố (Hà Nội, Hải Phòng, Quảng Ninh, Bắc Ninh), chiếm 33,3% GDP cả nước. Hưng Yên, Ninh Bình dự kiến trở thành thành phố trực thuộc trước 2030, thúc đẩy phát triển hạ tầng khu vực."
+      "note": "VN-Index cố thủ mốc 1700 điểm trong phiên 15/10 với diễn biến đảo chiều tích cực. VN30 có 15 mã tăng/14 mã giảm. Nhiều trụ cột như VIC tăng 0.64%, VCB tăng 0.89%, CTG tăng 1.35% đảo chiều mạnh. Khối lượng giao dịch tăng vượt mức trung bình 20 ngày, chứng tỏ dòng tiền bắt đáy hoạt động mạnh."
     },
     {
-      "title": "Luxembourg với 9.000 tỷ euro quỹ đầu tư hứa hẹn rót vốn vào Việt Nam",
-      "impact": "↑",
-      "note": "Bộ trưởng Tài chính Luxembourg Gilles Roth bày tỏ kỳ vọng một phần từ 9.000 tỷ euro tài sản quỹ đầu tư sẽ được đầu tư vào thị trường chứng khoán Việt Nam, tạo cơ hội thu hút FDI lớn."
-    },
-    {
-      "title": "Thị trường chứng khoán điều chỉnh mạnh, 245 mã cổ phiếu ở vùng dưới mệnh",
+      "title": "Vướng giá điện, dự án trung tâm dữ liệu AI Factory 2,1 tỷ USD gặp khó",
       "impact": "↓",
-      "note": "VN-Index kết phiên 13/10 giảm 3,65% so với đầu năm. 245 mã niêm yết trên HOSE-HNX ở vùng giá dưới mệnh, trong đó 81 doanh nghiệp có giá dưới 5.000 đ/cp; DRH rẻ nhất 1.070 đ/cp, giảm 50% so với đầu năm."
+      "note": "Dự án trung tâm dữ liệu AI Factory tại Khu công nghiệp Tân Phú, TP.HCM (vốn đầu tư 2,1 tỷ USD, cấp phép tháng 7/2026) vướng chính sách giá điện. Chưa thống nhất áp dụng giá điện sản xuất hay kinh doanh, ảnh hưởng tiến độ khởi công và tài chính dự án."
     },
     {
-      "title": "Dự án Trung tâm dữ liệu AI Factory 2,1 tỷ USD gặp vướng về giá điện",
+      "title": "245 cổ phiếu dưới mệnh giá, 81 mã dưới 5.000 đồng",
       "impact": "↓",
-      "note": "AI Factory tại Tân Phú Trung (TP.HCM) được cấp Giấy chứng nhận đầu tư 2,1 tỷ USD (tháng 7). Chưa thống nhất giá điện sản xuất hay kinh doanh; nếu áp dụng giá kinh doanh sẽ tăng chi phí vận hành đáng kể, ảnh hưởng khả năng bố trí nguồn vốn và tiến độ khởi công."
+      "note": "Tính đến 13/10/2026, có 245 cổ phiếu niêm yết dưới mệnh trên HOSE/HNX. Trong đó 81 doanh nghiệp có giá dưới 5.000 đồng (tương đương giá 1 ly trà đá). VN-Index giảm 3.65% so với đầu năm. Giá rẻ nhất là DRH 1.070 đồng, VPG 1.080 đồng."
     },
     {
-      "title": "HVS lãi sau thuế gấp 5 lần nhờ lãi tiền gửi ngân hàng cao",
+      "title": "Luxembourg kỳ vọng rót vốn từ quỹ 9.000 tỷ Euro vào Việt Nam",
       "impact": "↑",
-      "note": "Quý 3/2026 HVS doanh thu 5 tỷ đồng (tăng 77% so với cùng kỳ), lãi sau thuế gấp 5 lần cùng kỳ. Gần toàn bộ từ lãi tiền gửi kỳ hạn HTM: 130 tỷ đ tại BIDV lãi 4,8%/năm, 100 tỷ đ tại PGBank lãi 4,9%/năm."
+      "note": "Bộ trưởng Tài chính Luxembourg Gilles Roth (13/10 tại HoSE) bày tỏ kỳ vọng rót vốn từ các quỹ đầu tư có tổng tài sản 9.000 tỷ Euro. Luxembourg là trung tâm tài chính quốc tế hàng đầu với thế mạnh quản lý quỹ và đầu tư xuyên biên giới, tín hiệu tích cực cho dòng vốn ngoại."
+    },
+    {
+      "title": "MBS lãi quý 3 sụt giảm, doanh thu môi giới giảm 65%",
+      "impact": "↓",
+      "note": "CTCP Chứng khoán MB (MBS) quý 3/2026: doanh thu đạt 1.453 tỷ đồng (tăng 25%), nhưng lợi nhuận sụt giảm so với cùng kỳ. Doanh thu môi giới giảm 65% xuống 128 tỷ đồng (từ 370 tỷ đồng). Dư nợ margin hơn 16.500 tỷ đồng. Phản ánh áp lực lợi nhuận khu vực chứng khoán."
     }
   ]
 }
