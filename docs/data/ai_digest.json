@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-15",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP Việt Nam tăng 9.95% trong Q3, UOB nâng dự báo năm 2026 lên 9.2%, phản ánh đà tăng trưởng mạnh. Tuy nhiên, lạm phát Mỹ tăng tốc (CPI cao hơn dự báo) tạo áp lực từ Fed có thể tăng lãi suất, đồng thời khối ngoại liên tục bán ròng 9 phiên (rút vốn từ VIC, VHM). Thị trường xanh phát triển và Việt Nam làm chủ công nghệ mới là tín hiệu tích cực, nhưng triển vọng dầu khí năm 2027 sẽ phân hóa khi giá dầu hạ nhiệt.",
+  "summary_vi": "Nền kinh tế Việt Nam tiếp tục bộc lộ đà tăng trưởng mạnh mẽ với GDP quý 3 tăng 9.95% (cao nhất kể từ Q3/2022) và UOB nâng dự báo 2026 lên 9.2%. Tuy nhiên, áp lực bên ngoài gia tăng khi CPI Mỹ tăng tốc (vượt dự báo) khiến nhà đầu tư ngoại bán ròng liên tục (9 phiên liên tiếp, tập trung VIC và VHM). Giá dầu dự báo hạ xuống 70 USD/thùng năm 2027 sẽ gây khó khăn cho lọc hóa, trong khi thượng nguồn dầu khí, công nghệ nội địa và tín dụng xanh tạo các điểm sáng.",
   "top": [
     {
       "title": "GDP Q3 tăng 9.95%, UOB nâng dự báo 2026 lên 9.2%",
       "impact": "↑",
-      "note": "GDP Việt Nam quý 3/2026 tăng 9.95% so cùng kỳ, cao nhất kể từ Q3 2022. UOB nâng dự báo tăng trưởng năm 2026 từ 8.5% lên 9.2%, năm 2027 là 8.8%. Công nghiệp-xây dựng tăng 12.5%, dịch vụ tăng 9.54%, 9 tháng đầu năm GDP tăng 9.01% (so 7.8% cùng kỳ 2025)."
+      "note": "GDP Việt Nam quý 3/2026 tăng 9.95% so cùng kỳ (cao nhất Q3/2022); UOB nâng dự báo 2026 từ 8.5% lên 9.2% (dự báo CPI 4.7%), 2027 là 8.8%. Công nghiệp-xây dựng tăng 12.5%, dịch vụ tăng 9.54%, nông-lâm-thủy sản tăng 4.21%. 9 tháng tăng 9.01% (so 7.8% cùng kỳ 2025)."
     },
     {
-      "title": "CPI Mỹ tăng tốc, lạm phát cao hơn mục tiêu Fed",
+      "title": "CPI Mỹ tăng tốc tháng 9, vượt dự báo Fed",
       "impact": "↓",
-      "note": "Chi phí sinh hoạt Mỹ tiếp tục tăng trong tháng 9, giá tiêu dùng đi lên và giữ lạm phát cao hơn đáng kể so với mục tiêu của Federal Reserve. Dữ liệu này tăng kỳ vọng Fed có thể tiếp tục tăng lãi suất, áp lực lên cổ phiếu và tài sản rủi ro toàn cầu."
+      "note": "CPI Mỹ tháng 9 tăng mạnh hơn dự báo, giữ lạm phát cao hơn đáng kể so với mục tiêu Fed. Dữ liệu này tăng kỳ vọng Fed tiếp tục tăng lãi suất, gây áp lực lên tài sản rủi ro toàn cầu và tư duy nhà đầu tư nước ngoài."
     },
     {
-      "title": "Khối ngoại bán ròng 9 phiên liên tiếp, rút vốn từ VIC, VHM",
+      "title": "Khối ngoại bán ròng 9 phiên liên tiếp, tập trung VIC, VHM",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 666-772 tỷ đồng trong phiên 14/10, kéo dài chuỗi bán ròng lên 9 phiên liên tiếp. VIC bị bán ròng 152,99 tỷ đồng, VHM bị bán ròng 151,94 tỷ đồng, gây tác động tiêu cực 5,76 điểm lên VN-Index."
+      "note": "Khối ngoại bán ròng gần 800 tỷ đồng phiên 14/10 (phiên bán thứ 9 liên tiếp), rút vốn mạnh VIC (bán ròng 152,99 tỷ) và VHM (bán ròng 151,94 tỷ), gây tác động tiêu cực 5,76 điểm lên VN-Index. Giá trị bán phiên này đạt 2,069 tỷ đồng."
     },
     {
-      "title": "Thị trường carbon Việt Nam phát triển, huy động vốn xanh",
+      "title": "Dầu khí lợi nhuận 6 tháng 2026 tăng 240%, giá dầu 2027 giảm",
+      "impact": "↓",
+      "note": "SSI Research dự báo giá dầu giảm về 70 USD/thùng năm 2027 sau giai đoạn tăng giá 50% năm 2026 do xung đột Trung Đông. Lợi nhuận toàn ngành dầu khí 6 tháng đầu 2026 đạt 29.000 tỷ đồng, tăng 240% cùng kỳ. Thượng nguồn được kỳ vọng tăng trưởng, lọc hóa sẽ chịu áp lực."
+    },
+    {
+      "title": "Bắc Ninh tăng trưởng 13,8% Q3, dẫn đầu xuất nhập khẩu",
       "impact": "↑",
-      "note": "Thị trường carbon được kỳ vọng giúp doanh nghiệp chuyển hóa kết quả giảm phát thải thành nguồn lực tài chính. Việt Nam cần nhu cầu vốn lớn cho chuyển đổi xanh và kinh tế carbon thấp; thị trường carbon sẽ trở thành kênh huy động vốn bổ sung, giảm phụ thuộc vào tín dụng ngân hàng."
+      "note": "GRDP quý 3 Bắc Ninh tăng 13,8% (thứ 3 cả nước); 9 tháng tăng 11,8% (thứ 4). Xuất nhập khẩu 9 tháng đạt 178 tỷ USD, dẫn đầu cả nước (20,13% tổng). Thu ngân sách 70.000 tỷ đồng, tăng 23,5% cùng kỳ."
     },
     {
-      "title": "Dầu khí 2026 lợi nhuận tăng 240%, 2027 sẽ phân hóa",
-      "impact": "→",
-      "note": "SSI Research dự báo ngành dầu khí phân hóa năm 2027, thượng nguồn duy trì tăng trưởng nhờ chu kỳ đầu tư, lọc hóa chịu áp lực từ giá dầu hạ nhiệt (dự báo về 70 USD/thùng). Lợi nhuận toàn ngành 6 tháng đầu 2026 đạt khoảng 29.000 tỷ đồng, tăng 240% so cùng kỳ; giá dầu năm 2026 tăng 50% từ xung đột Trung Đông."
-    },
-    {
-      "title": "Việt Nam làm chủ công nghệ, giảm phụ thuộc nhập khẩu",
+      "title": "Việt Nam chế tạo thành công thép Duplex, Superduplex và hợp kim",
       "impact": "↑",
-      "note": "Việt Nam đã làm chủ và chế tạo thành công các sản phẩm: thép Duplex và Superduplex theo tiêu chuẩn ASTM, thuốc hàn thiêu kết theo tiêu chuẩn AWS, hợp kim cứng WC-Co, vải chống cháy, đế giày cao su-phylon, vải kháng khuẩn với chất lượng tương đương sản phẩm các nước phát triển, thay thế nhập khẩu."
+      "note": "Chế tạo thép Duplex, Superduplex theo tiêu chuẩn ASTM A890 (thay thế nhập khẩu dụng cụ khắc nghiệt); hợp kim cứng WC-Co cho mũi khoan (chất lượng G7); thuốc hàn thiêu kết AWS A5.17-80; vải chống cháy bông-polyeste; đế giày cao su-phylon tích hợp; vải kháng khuẩn. Công nghệ nội địa giảm phụ thuộc nhập khẩu."
     }
   ]
 }
