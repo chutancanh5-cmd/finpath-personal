@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-15",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "GDP Việt Nam tăng 9.95% trong quý 3, cao nhất từ quý 3/2022, với dự báo nâng lên 9.2% năm 2026. Công nghiệp-xây dựng tăng 12.5%, hỗ trợ bởi FDI lớn từ dự án AI Factory 2,1 tỷ USD và quỹ đầu tư 9.000 tỷ euro từ Luxembourg. Tuy nhiên, lãi suất vay nhà chạm 15%/năm (từ 6,5-9%) và tín hiệu tiêu cực từ Trung Quốc giảm nắm giữ trái phiếu Mỹ gây áp lực ngắn hạn. Chứng khoán MBS báo lợi nhuận sụt giảm dù doanh thu tăng là dấu hiệu cảnh báo.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế Việt Nam tăng trưởng mạnh với GDP quý 3 đạt 9,95% (nhanh nhất từ quý 3/2022) và UOB nâng dự báo năm 2026 lên 9,2%. Niềm tin kinh doanh vững (EuroCham BCI 78,3 điểm), dòng vốn nước ngoài lớn từ FDI 2,1 tỷ USD (AI Factory) và quỹ 9.000 tỷ euro Luxembourg. Tuy nhiên, lãi suất vay nhà tăng vọt lên 10-15%/năm (từ 6,5-9%), MBS ghi nhận lợi nhuận giảm dù doanh thu tăng, IMF cảnh báo kế hoạch tài khóa Mỹ chưa đủ và Trung Quốc giảm nắm giữ trái phiếu Mỹ tạo rủi ro. Cân bằng giữa tăng trưởng chính và áp lực lãi suất/rủi ro toàn cầu.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9.95%, UOB nâng dự báo 2026 lên 9.2%",
+      "title": "GDP quý 3 tăng 9,95%, UOB nâng dự báo năm 2026 lên 9,2%",
       "impact": "↑",
-      "note": "GDP quý 3 tăng 9.95% so cùng kỳ, cao nhất từ quý 3/2022; GDP 9 tháng đạt 9.01%, vượt dự báo Bloomberg 8.65%; UOB nâng dự báo 2026 từ 8.5% lên 9.2%, CPI dự báo 4.7%; công nghiệp-xây dựng tăng 12.5%."
+      "note": "GDP quý 3 tăng 9,95% so cùng kỳ, cao nhất từ quý 3/2022; GDP 9 tháng đạt 9,01%, vượt dự báo Bloomberg 8,65%; UOB nâng dự báo tăng trưởng năm 2026 từ 8,5% lên 9,2%, CPI dự báo 4,7%; khu vực công nghiệp-xây dựng tăng 12,5% là động lực chính."
     },
     {
-      "title": "FDI 2,1 tỷ USD AI Factory cần gỡ vướng chính sách giá điện",
+      "title": "Quỹ đầu tư Luxembourg kỳ vọng rót vốn 9.000 tỷ euro vào Việt Nam",
       "impact": "↑",
-      "note": "Dự án trung tâm dữ liệu AI Factory được cấp giấy chứng nhận đầu tư tháng 7 với vốn 2,1 tỷ USD tại Khu công nghiệp Tân Phú; chưa thống nhất giá điện gây khó cho dự án; nếu áp dụng giá điện kinh doanh thay sản xuất sẽ tăng chi phí vận hành đáng kể."
+      "note": "Bộ trưởng Tài chính Luxembourg Gilles Roth bày tỏ kỳ vọng rót một phần vốn từ các quỹ đầu tư có tổng tài sản lên đến 9.000 tỷ euro vào thị trường chứng khoán Việt Nam; Luxembourg là trung tâm tài chính quốc tế hàng đầu với thế mạnh quản lý quỹ xuyên biên giới."
     },
     {
-      "title": "Luxembourg kỳ vọng rót vốn từ 9.000 tỷ euro vào chứng khoán Việt Nam",
+      "title": "Lãi suất vay mua nhà tăng vọt lên 10-15%/năm từ ưu đãi 6,5-9%",
+      "impact": "↓",
+      "note": "Lãi suất cố định ưu đãi 6,5-9%/năm chuyển sang thả nổi 10-15%/năm; cụ thể Techcombank từ 7,5% lên 12,2%, MSB từ 9% lên 14,5%; chuyên gia nhận định lãi suất có thể đã ở vùng đỉnh nhưng gây áp lực tài chính lớn cho người vay và rủi ro cho thị trường bất động sản."
+    },
+    {
+      "title": "IMF cảnh báo kế hoạch tăng trưởng Mỹ chưa đủ giải quyết nợ công",
+      "impact": "↓",
+      "note": "Tổng giám đốc IMF Georgieva phát biểu tại hội nghị Bangkok: 'tăng trưởng có ích nhưng không tạo điều chỉnh đủ nhanh, Mỹ cần biện pháp tài khóa cụ thể'; nợ công và thâm hụt ngân sách Mỹ đã tăng lên mức 'quá cao'. Ảnh hưởng đến chính sách tiền tệ và dòng vốn quốc tế."
+    },
+    {
+      "title": "MBS báo lợi nhuận quý 3 sụt giảm dù doanh thu tăng 25%, dư nợ margin 16.500 tỷ",
+      "impact": "↓",
+      "note": "Doanh thu quý 3 tăng 25% đạt 1.453 tỷ đồng nhưng lợi nhuận giảm so cùng kỳ do áp lực chi phí; doanh thu môi giới sụt 65% xuống 128 tỷ đồng; dư nợ margin hơn 16.500 tỷ đồng. Phản ánh rủi ro lợi nhuận và khối lượng giao dịch trong thị trường chứng khoán."
+    },
+    {
+      "title": "EuroCham: Niềm tin kinh doanh quý 3 đạt 78,3 điểm, 64% doanh nghiệp thoải mái",
       "impact": "↑",
-      "note": "Bộ trưởng Tài chính Luxembourg Gilles Roth bày tỏ kỳ vọng rót một phần vốn từ các quỹ đầu tư có tổng tài sản 9.000 tỷ euro vào thị trường chứng khoán Việt Nam; Luxembourg là trung tâm tài chính quốc tế với thế mạnh quản lý quỹ."
-    },
-    {
-      "title": "Lãi suất vay mua nhà chạm 15%/năm từ ưu đãi 6,5-9%/năm",
-      "impact": "↓",
-      "note": "Lãi suất ưu đãi 6,5-9%/năm chuyển sang thả nổi 10-15%/năm; Techcombank từ 7,5% lên 12,2%, MSB từ 9% lên 14,5%; chuyên gia nhận định lãi suất ở vùng đỉnh hiện tại, nhưng gây áp lực trả nợ lớn."
-    },
-    {
-      "title": "Trung Quốc giảm nắm giữ trái phiếu Mỹ, khối lượng chuyển sang Canada",
-      "impact": "↓",
-      "note": "Canada nắm giữ gần 600 tỷ USD trái phiếu kho bạc Mỹ, tăng 4 lần trong 5 năm; Trung Quốc giảm từ ~1.200 tỷ USD xuống 618 tỷ USD; chuyên gia nghi ngờ \"Sell America\", gây lo ngại rủi ro địa chính trị."
-    },
-    {
-      "title": "Chứng khoán MBS lợi nhuận sụt giảm dù doanh thu tăng 25%",
-      "impact": "↓",
-      "note": "Doanh thu quý 3 tăng 25% đạt 1.453 tỷ đồng, nhưng lợi nhuận giảm; doanh thu môi giới giảm 65% xuống 128 tỷ đồng; dư nợ margin hơn 16.500 tỷ đồng."
+      "note": "Chỉ số Niềm tin Kinh doanh (BCI) EuroCham quý 3 đạt 78,3 điểm, 64% doanh nghiệp khảo sát đánh giá tình hình kinh doanh 'tốt' hoặc 'rất tốt', 28% thận trọng; tuy nhiên vẫn kỳ vọng gỡ vướng hành chính để tăng khả năng dự báo kết quả kinh doanh lâu dài."
     }
   ]
 }
