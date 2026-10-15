@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam tăng trưởng vượt mong đợi với GDP Q3 tăng 9,95% (nhanh nhất từ Q3/2022) và UOB nâng dự báo năm 2026 lên 9,2%; nhà đầu tư địa phương tăng giải ngân qua 21/37 quỹ mở. Tuy nhiên, khối ngoại bán ròng liên tiếp 9 phiên và thị trường Mỹ suy yếu do CPI tăng tốc tạo áp lực từ rủi ro lạm phát cuối năm (dự báo 4,5-4,8%) và biến động lãi suất toàn cầu.",
+  "summary_vi": "Tăng trưởng kinh tế quý 3 vượt mong đợi (9,95%), UOB nâng dự báo GDP năm 2026 lên 9,2%, tạo lạc quan cho thị trường. Quỹ đầu tư nước ngoài (Luxembourg) và quỹ trong nước tăng cường giải ngân. Tuy nhiên, thị trường nội địa còn yếu với 245 cổ phiếu dưới mệnh, và rủi ro từ CPI Mỹ nóng có thể ảnh hưởng lãi suất toàn cầu trong ngắn hạn.",
   "top": [
     {
-      "title": "GDP Q3 tăng 9,95%, vượt dự báo, nhanh nhất từ Q3/2022",
+      "title": "UOB nâng dự báo GDP 2026 lên 9,2%",
       "impact": "↑",
-      "note": "GDP Q3/2026 tăng 9,95% so cùng kỳ, vượt dự báo đồng thuận 8,65% của Bloomberg; GDP 9 tháng đầu năm đạt 9,01%; khu vực công nghiệp & xây dựng tăng 12,5%. UOB nâng dự báo 2026 từ 8,5% lên 9,2%."
+      "note": "UOB nâng dự báo GDP 2026 từ 8,5% lên 9,2%, GDP quý 3 tăng 9,95% (cao nhất từ Q3 2022), 9 tháng đầu năm tăng 9,01% so với 7,8% cùng kỳ 2025. Động lực tăng trưởng từ công nghiệp xây dựng (+12,5%), dịch vụ (+9,54%)."
     },
     {
-      "title": "CPI Mỹ tăng tốc, S&P 500 -1,11%, Nasdaq -1,88%",
-      "impact": "↓",
-      "note": "Báo cáo CPI Mỹ tháng 9 tăng nóng hơn dự báo, gây áp lực lãi suất; chỉ số S&P 500 giảm 1,11%, Nasdaq sụt 1,88% do nhà đầu tư lo ngại công ty công nghệ vay nợ quá nhiều cho AI; nguy cơ rút vốn từ thị trường mới nổi."
-    },
-    {
-      "title": "21/37 quỹ mở cổ phiếu tăng giải ngân mạnh vào thị trường",
+      "title": "9.000 tỷ euro từ Luxembourg có kỳ vọng đầu tư vào Việt Nam",
       "impact": "↑",
-      "note": "21 quỹ mở cổ phiếu giảm tỷ trọng tiền (so với 11 quỹ tháng trước), trong đó một số giảm rất mạnh: DC từ 27,4% xuống 9,1%, TCFIN từ 27,7% xuống 13,2%, Techcom từ 25,5% xuống 10,4%; cho thấy tâm lý tích cực của nhà quản lý quỹ."
+      "note": "Bộ trưởng Tài chính Luxembourg Gilles Roth bày tỏ kỳ vọng một phần vốn từ quỹ đầu tư tại nước này (tổng tài sản 9.000 tỷ euro) sẽ được rót vào thị trường Việt Nam, giúp thúc đẩy dòng FDI."
     },
     {
-      "title": "Khối ngoại bán ròng 666 tỷ đồng, phiên thứ 9 liên tiếp",
+      "title": "21 quỹ mở cổ phiếu đẩy mạnh giải ngân vào thị trường",
+      "impact": "↑",
+      "note": "Có 21/37 quỹ mở cổ phiếu giảm tỷ trọng tiền (so với 11/36 tháng trước), trong đó quỹ DC giảm từ 27,4% xuống 9,1%, TCFIN từ 27,7% xuống 13,2%, cho thấy quỹ tăng cường đầu tư vào cổ phiếu."
+    },
+    {
+      "title": "Chứng khoán Mỹ sụt điểm sau CPI tăng nóng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng hơn 666 tỷ đồng ngày 14/10, kéo dài chuỗi bán ròng lên 9 phiên liên tiếp; tâm điểm rút vốn tập trung vào VIC và VHM; tín hiệu tiêu cực từ dòng tiền ngoài."
+      "note": "S&P 500 giảm 1,11%, Nasdaq sụt 1,88% do CPI Mỹ tháng 9 tăng cao hơn dự báo, gia tăng lo ngại lãi suất cao hơn, ảnh hưởng cảm tính thị trường toàn cầu."
     },
     {
-      "title": "Ngành dầu khí sẽ phân hóa năm 2027, giá dầu dự báo giảm về 70 USD/thùng",
-      "impact": "→",
-      "note": "SSI dự báo thượng nguồn dầu khí được kỳ vọng tăng trưởng nhờ chu kỳ đầu tư mới, còn lọc hóa dầu chịu áp lực; năm 2026, lợi nhuận ngành dầu khí nửa đầu năm đạt 29.000 tỷ đồng, tăng 240% so cùng kỳ."
+      "title": "245 cổ phiếu chìm vùng trà đá, thị trường yếu",
+      "impact": "↓",
+      "note": "Tính đến 13/10, có 245 cổ phiếu niêm yết dưới mệnh, trong đó 81 doanh nghiệp giá dưới 5.000 đồng/cp. VN-Index giảm 3,65% YTD (mất 69 điểm so với đầu năm)."
     },
     {
-      "title": "Lạm phát cuối năm dự báo 4,5-4,8% với áp lực từ năng lượng và nguyên liệu",
-      "impact": "→",
-      "note": "Bộ Tài chính cập nhật 2 kịch bản lạm phát năm 2026 tăng 4,5-4,8%; NHNN dự báo 4,5-5%; áp lực từ biến động giá năng lượng, nguyên liệu thế giới, tỷ giá và chuỗi cung ứng; Bộ Tài chính kiến nghị điều hành linh hoạt chính sách vĩ mô."
+      "title": "Bắc Ninh tăng trưởng 11,8%, xuất nhập khẩu dẫn đầu cả nước",
+      "impact": "↑",
+      "note": "GRDP Bắc Ninh 9 tháng tăng 11,8% (xếp 4/34 tỉnh thành), xuất nhập khẩu dẫn đầu cả nước với 177,8 tỷ USD, giải ngân công 91% kế hoạch, hướng phát triển công nghệ cao, vi mạch, kinh tế số."
     }
   ]
 }
