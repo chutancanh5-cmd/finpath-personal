@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-15",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam tiếp tục tăng trưởng mạnh mẽ với GDP quý 3 đạt 9,95% (nhanh nhất kể từ quý 3/2022) và UOB nâng dự báo năm 2026 lên 9,2%, trong khi Digiworld và Viettel Construction ghi nhận tăng trưởng doanh thu lần lượt 46% và 23% nhờ nhu cầu đầu tư AI và hạ tầng. Tuy nhiên, chính sách gặp vướng mắc (giá điện cho dự án 2,1 tỷ USD chưa rõ), tài sản vàng giảm 25%, và rủi ro địa chính trị từ Trung Quốc có thể hạn chế đà tăng ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam cho thấy dấu hiệu khả quan khi các công ty lớn báo cáo tăng trưởng doanh thu mạnh mẽ, đặc biệt ở công nghệ (Digiworld +46%) và xây dựng (Viettel Construction +23%) nhờ nhu cầu hạ tầng số và AI. Tuy nhiên, lo ngại toàn cầu từ tình hình tài khóa Mỹ, sự yếu đuối liên tục của vàng (giảm 25% từ đỉnh) và các vướng mắc chính sách (giá điện dự án 2,1 tỷ USD) có thể tạo áp lực ngắn hạn. Độ rộng thị trường cải thiện với cổ phiếu nhỏ và vừa tăng mạnh hơn nhóm vốn hóa lớn.",
   "top": [
     {
-      "title": "UOB nâng dự báo GDP 2026 lên 9,2%, gdp quý 3 đạt 9,95%",
+      "title": "Digiworld báo cáo doanh thu quý 3 lập kỷ lục 10.757 tỷ đồng",
       "impact": "↑",
-      "note": "Ngân hàng UOB nâng dự báo tăng trưởng từ 8,5% lên 9,2%, dự báo CPI 4,7%, tăng trưởng 2027 là 8,8%. GDP quý 3 thực tế 9,95% vượt Bloomberg 8,65%, khu vực công nghiệp-xây dựng tăng 12,5%, tăng trưởng 9 tháng 9,01% so với 7,8% cùng kỳ 2025."
-    },
-    {
-      "title": "Doanh thu Digiworld quý 3 lập kỷ lục 10.757 tỷ đồng, tăng 46%",
-      "impact": "↑",
-      "note": "Doanh thu 9 tháng 26.500 tỷ đồng tăng 42% (84% kế hoạch năm). Ngành máy chủ/thiết bị tăng 101% nhờ máy chủ Nvidia, nhu cầu AI; mobile tăng 42%, phản ánh bùng nổ đầu tư công nghệ."
+      "note": "Doanh thu quý 3 tăng 46% YoY, tổng 9 tháng 26.500 tỷ đồng tăng 42%, hoàn thành 84% kế hoạch năm. Ngành thiết bị tăng 101% nhờ nhu cầu máy chủ Nvidia, hạ tầng AI; mobile tăng 42%."
     },
     {
       "title": "Viettel Construction doanh thu 9 tháng 12.343 tỷ đồng, tăng 23%",
       "impact": "↑",
-      "note": "Tăng trưởng 23%, lợi nhuận trước thuế tăng 13%. Mảng xây dựng tăng 37%, dịch vụ kỹ thuật tăng 51%, giá trị hợp đồng ký mới tăng 76%."
+      "note": "Doanh thu tăng 23%, lợi nhuận trước thuế 617 tỷ đồng tăng 13%. Mảng xây dựng tăng 37%, dịch vụ kỹ thuật tăng 51%, giá trị hợp đồng ký mới tăng 76%, đã hoàn thành 79% kế hoạch cả năm."
     },
     {
-      "title": "Dự án Trung tâm dữ liệu AI Factory 2,1 tỷ USD gặp vướng giá điện",
-      "impact": "↓",
-      "note": "AI Factory tại Cũ Chi, HCMC (vốn đăng ký 2,1 tỷ USD) được cấp chứng nhận đầu tư nhưng triển khai vướng do chưa thống nhất giá điện sản xuất hay kinh doanh; áp dụng giá kinh doanh tăng chi phí vận hành đáng kể, ảnh hưởng khả năng tài chính và tiến độ khởi công."
+      "title": "Cổ phiếu nhỏ và vừa tăng mạnh, độ rộng thị trường cải thiện",
+      "impact": "↑",
+      "note": "Mặc dù VN-Index giảm, độ rộng thị trường tỷ lệ từ 143 tăng/147 giảm cải thiện lên 164 tăng/153 giảm. Nhóm chứng khoán tăng mạnh (BSI, CTS tăng kịch trần), cổ phiếu nhỏ VUA +7,8%, SBS +5,1%, AGR +4,1%."
     },
     {
-      "title": "Giá vàng miếng SJC rơi 25% từ đỉnh, còn 140,3 triệu/lượng",
-      "impact": "↓",
-      "note": "Giá từ đỉnh 190,9 triệu đồng/lượng (3/2026) giảm 47,6 triệu đồng xuống 140,3 triệu đồng/lượng (15/10), tương đương 25% giảm. Hầu hết nhà đầu tư trong năm qua lỗ, khoản lỗ tạm tính 50,6 triệu đồng/lượng trở lên."
+      "title": "EuroCham: Niềm tin kinh doanh 78,3 điểm, GDP quý 3 9,95%",
+      "impact": "→",
+      "note": "Chỉ số Niềm tin Kinh doanh EuroCham quý 3 đạt 78,3 điểm. Việt Nam duy trì tăng trưởng GDP 9,95% quý 3 và 9,01% trong 9 tháng; 64% doanh nghiệp đánh giá điều kiện tốt/rất tốt, nhưng 28% thận trọng do nhu cầu quốc tế chững lại."
     },
     {
-      "title": "Trung Quốc có thể nắm giữ trái phiếu Mỹ qua ngân hàng Canada",
+      "title": "IMF cảnh báo kế hoạch tăng trưởng của Mỹ chưa đủ khắc phục thâm hụt",
       "impact": "↓",
-      "note": "Canada nắm giữ gần 600 tỷ USD trái phiếu kho bạc Mỹ (tăng 4 lần trong 5 năm), chuyên gia nghi là Trung Quốc qua kênh này để tránh phát hiện, trong khi Trung Quốc giảm nắm giữ từ 1.200 tỷ xuống 618 tỷ USD, phản ánh thay đổi chiến lược địa chính trị."
+      "note": "Tổng giám đốc IMF Georgieva phát biểu tăng trưởng không đủ nhanh, Mỹ cần thêm biện pháp tài khóa cụ thể vì nợ công và thâm hụt ngân sách ở mức quá cao, có rủi ro ảnh hưởng tăng trưởng các thị trường mới nổi."
+    },
+    {
+      "title": "Giá vàng miếng SJC giảm 47,6 triệu, còn 140,3 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Giá từ đỉnh 190,9 triệu đồng/lượng (3/2026) giảm 47,6 triệu đồng xuống 140,3 triệu đồng/lượng (15/10), tương đương 25% giảm. Hầu hết nhà đầu tư mua vàng trong năm qua bị lỗ, khoản lỗ tạm tính 50,6 triệu đồng/lượng."
     }
   ]
 }
