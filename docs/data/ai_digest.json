@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ xác định 2027 là năm tăng tốc với mục tiêu GDP từ 10% trở lên, duy trì nợ công không quá 60% GDP, tạo khung chính sách vĩ mô ổn định. Lợi nhuận doanh nghiệp tăng mạnh từ Vietbank (+50% lên 1.297 tỷ), SJS (1.012 tỷ/quý), BSR (164,53 nghìn tỷ doanh thu), với FDI 9 tháng 21,07 tỷ USD tăng 12,1%. Tuy nhiên, Fed từ chối chỉ hướng lãi suất tạo bất định, EU chuẩn bị hạn chế hàng Trung Quốc có rủi ro ảnh hưởng xuất khẩu; nhà đầu tư vẫn có cơ hội với định giá cổ phiếu đang quá rẻ.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Các doanh nghiệp tài chính ghi nhận lợi nhuận tăng trưởng mạnh và chiến lược nợ công bảo đảm an toàn tài chính với nợ công không quá 60% GDP, trong khi kinh tế trong nước tiếp tục tăng trưởng tích cực hướng tới mục tiêu 10% năm 2027. Tuy nhiên, thị trường chứng khoán vẫn chịu áp lực từ chính sách lãi suất bất định của Fed và căng thẳng thương mại EU-Trung Quốc.",
   "top": [
     {
-      "title": "Năm 2027 phấn đấu tăng trưởng GDP từ 10% trở lên",
+      "title": "Chiến lược nợ công đến 2030: Nợ công <60% GDP",
       "impact": "↑",
-      "note": "Hội nghị toàn quốc ngày 16/10/2026 xác định 2027 là năm tăng tốc, bứt phá với mục tiêu tăng trưởng GDP từ 10% trở lên, kết hợp ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn; chuyển mạnh từ chủ trương sang hành động với trách nhiệm cụ thể người đứng đầu."
+      "note": "Phó Thủ tướng ký Quyết định 1989/QĐ-TTg ngày 15/10 sửa đổi Chiến lược nợ công: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP. Chính sách bảo đảm an toàn tài chính quốc gia, tạo nền tảng phát triển bền vững."
     },
     {
-      "title": "Chiến lược nợ công 2030: nợ công không quá 60% GDP",
+      "title": "Vietbank tăng vốn, lợi nhuận 9 tháng tăng 50%",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg (15/10/2026) sửa đổi chiến lược nợ công: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP, bảo đảm an toàn tài chính quốc gia và khả năng trả nợ bền vững đến 2030."
+      "note": "Lợi nhuận trước thuế 9 tháng 2026 ước đạt 1.297 tỷ đồng, tăng 50% so với cùng kỳ. Chào bán 296 triệu cổ phiếu giá 10.000 đồng/cp, tăng vốn điều lệ từ 11.846 tỷ lên 14.807 tỷ đồng."
     },
     {
-      "title": "Vietbank lãi 9 tháng tăng 50% lên 1.297 tỷ đồng",
+      "title": "Mục tiêu GDP 2027: Tăng trưởng 10% trở lên",
       "impact": "↑",
-      "note": "Vietbank lợi nhuận trước thuế riêng lẻ 9 tháng ước đạt 1.297 tỷ đồng, tăng 50% so với cùng kỳ. Chào bán 296 triệu cổ phiếu giá 10.000 đồng/cp, tăng vốn điều lệ từ 11.846 tỷ lên 14.807 tỷ đồng, tỷ lệ 100:25."
+      "note": "Năm 2027 xác định là năm tăng tốc, bứt phá, với mục tiêu tăng trưởng GDP 10% trở lên, giữ ổn định macroeconomic và kiểm soát lạm phát. Giáp hướng tăng tốc kinh tế sau đà tăng 10,01% của 9 tháng 2026."
     },
     {
-      "title": "Định giá cổ phiếu đang quá rẻ so với tăng trưởng lợi nhuận",
-      "impact": "↑",
-      "note": "Chuyên gia VCBF nhận định VN-Index quý III đóng cửa 1.769 điểm, giảm ~5%, nhưng định giá quá rẻ so với tăng trưởng lợi nhuận doanh nghiệp đã đạt được, tạo cơ hội mua dài hạn cho nhà đầu tư."
+      "title": "Chủ tịch Fed từ chối phát tín hiệu lãi suất",
+      "impact": "↓",
+      "note": "Chủ tịch Fed Kevin Warsh (15/10) từ chối đưa tín hiệu trước về quyết định lãi suất cuộc họp 27-28/10, khẳng định Fed 'có thể linh hoạt theo bất kỳ hướng nào cần thiết'. Tạo bất định cho thị trường toàn cầu, tiếp tục áp lực rút vốn khỏi thị trường mới nổi."
     },
     {
-      "title": "Kinh tế quý IV tăng tốc với FDI 21,07 tỷ USD",
-      "impact": "↑",
-      "note": "Kinh tế Việt Nam quý IV bước vào với GDP 9 tháng 9,01%, quý III tăng 9,95%. FDI thực hiện 21,07 tỷ USD tăng 12,1%, mức cao nhất 5 năm qua; giải ngân vốn đầu tư công 62,9% kế hoạch, tạo nền tảng tăng tốc cuối năm."
+      "title": "Căng thẳng thương mại EU-Trung Quốc leo thang",
+      "impact": "↓",
+      "note": "Thâm hụt thương mại EU-TQ lập kỷ lục 34,8 tỷ USD tháng 9/2026. Đức hối thúc EU áp hạn ngạch nhập khẩu hàng hóa TQ tương tự xe hybrid. Rủi ro ảnh hưởng chuỗi cung ứng toàn cầu và xuất khẩu hàng Việt Nam."
     },
     {
-      "title": "Chủ tịch Fed từ chối tín hiệu lãi suất rõ ràng",
-      "impact": "→",
-      "note": "Chủ tịch Fed Kevin Warsh phát biểu tại hội nghị IMF-World Bank ở Bangkok (16/10) rằng Fed không còn đưa tín hiệu định hướng trước; cuộc họp 27-28/10 sẽ quyết định dựa dữ liệu thực tế, tạo bất ổn tâm lý cho thị trường mới nổi."
+      "title": "SJS lãi kỷ lục hơn 1 nghìn tỷ quý 3 từ bất động sản",
+      "impact": "↑",
+      "note": "Lãi ròng quý 3 ước hơn 1.012 tỷ đồng, gấp 349 lần cùng kỳ, chủ yếu từ chuyển nhượng dự án Nam An Khánh. Lợi nhuận quý 3 gần bằng tổng lãi SJS trong 6 năm 2020-2025 (1.031 tỷ đồng)."
     }
   ]
 }
