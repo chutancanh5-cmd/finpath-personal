@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt với áp lực ngắn hạn từ thanh khoản yếu, khối ngoại bán ròng liên tiếp và lãi suất cao không giảm, tuy nhiên nền tảng vĩ mô vẫn mạnh với GDP tăng 9,01% và mục tiêu dài hạn 2027 đạt 10%+. Rủi ro từ chi phí sống tăng mạnh hơn thu nhập, lạm phát 4,52% ổn định, tạo rào cản cho hộ gia đình và doanh nghiệp. Định giá hiện ở mức hấp dẫn (P/E 13,5 lần) nhưng cần lực cầu mạnh hơn để bứt phá.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực từ khối ngoại bán ròng (3.007 tỷ đồng trong 5 phiên) và lãi suất cao không giảm (7,4% tiền gửi 12 tháng), tuy nhiên nền tảng vĩ mô vẫn mạnh với lãi suất ngân hàng liên ngân hàng giảm còn 6,1% tháng 9, mục tiêu 2027 GDP 10%+ và tiềm năng phát triển TPHCM. Định giá P/E 13,5 lần đã phản ánh phần lớn chi phí vốn ở mức vùng đáy Covid, tạo cơ hội dài hạn nhưng cần lực cầu mạnh hơn.",
   "top": [
     {
-      "title": "Lãi suất chưa thể hạ nhiệt, áp lực chi phí vốn",
+      "title": "Khối ngoại bán ròng 3.007 tỷ đồng xuyên 5 phiên",
       "impact": "↓",
-      "note": "GDP 9 tháng tăng 9,01%, lạm phát 4,52%, lãi suất liên ngân hàng tháng 6,1%, lãi suất tiền gửi 12 tháng 7,4%. Áp lực lạm phát và nhu cầu vốn dài hạn hạn chế dư địa giảm lãi suất cho vay, tăng chi phí tài chính doanh nghiệp."
+      "note": "Khối ngoại duy trì bán ròng liên tục trong tuần 12-16/10, với VIC là tâm điểm bán mạnh nhất (417,14 tỷ đồng), theo sau là TCB (281,94 tỷ đồng), VIX (213,90 tỷ đồng) và FPT (202,24 tỷ đồng). Dòng tiền rút vốn tạo áp lực lên VN-Index giảm 29,18 điểm."
     },
     {
-      "title": "Thị trường lùi sâu, thanh khoản suy yếu",
+      "title": "Năm 2027 phấn đấu GDP từ 10% trở lên",
+      "impact": "↑",
+      "note": "Chính phủ xác định 2027 là năm tăng tốc, bứt phá với mục tiêu tăng trưởng GDP từ 10% trở lên, chuyển từ chủ trương sang hành động cụ thể. Được công bố tại Hội nghị toàn quốc ngày 16/10, gắn với ổn định vĩ mô và kiểm soát lạm phát."
+    },
+    {
+      "title": "Lãi suất chưa thể hạ nhiệt, chi phí vốn gia tăng",
       "impact": "↓",
-      "note": "VN-Index tuần 12-16/10 giảm 29,18 điểm (-1,68%), thanh khoản HOSE phiên 16/10 chỉ 10.728 tỷ đồng (giảm 25% so với hôm trước), khối ngoại bán ròng phiên thứ 11 liên tiếp. Áp lực bán tập trung tại nhóm blue-chips, KOS giảm sàn 20 phiên."
+      "note": "Lãi suất tiền gửi 12 tháng tăng lên 7,4% (từ 7,3% tháng trước), cao hơn 2,4 điểm phần trăm so với cùng kỳ năm trước. Nhu cầu tín dụng gia tăng cùng GDP 9,01% nhưng áp lực lạm phát cơ bản 4,26% hạn chế dư địa giảm lãi suất cho vay, tăng chi phí doanh nghiệp."
     },
     {
-      "title": "Chi phí sống tăng nhanh hơn thu nhập",
+      "title": "Dragon Capital: Định giá vùng đáy, phản ánh lãi suất",
+      "impact": "↑",
+      "note": "P/E thị trường 13,5 lần (vùng đáy Covid) đã phản ánh phần lớn rủi ro từ chi phí vốn gia tăng. VN-Index giảm 2,9% tháng 9 (USD), mặc dù nâng hạng FTSE Russell từ 21/9 vẫn chưa cân bằng dòng tiền ngoại. Giá trị giao dịch bình quân 508 triệu USD/ngày (thấp nhất năm)."
+    },
+    {
+      "title": "Hạ tầng TPHCM mở đường tăng trưởng hai con số",
+      "impact": "↑",
+      "note": "Sau hợp nhất Bình Dương và Bà Rịa-Vũng Tàu, TPHCM sở hữu 6.772 km², 13,5 triệu dân, đóng góp 24% GDP cả nước và hút 6,7 tỷ USD FDI. Siêu đô thị tái tổ chức hạ tầng, hình thành các cực tăng trưởng mới, tạo không gian phát triển rộng lớn."
+    },
+    {
+      "title": "Tuần 12-16/10: VN-Index giảm 29 điểm, cần lực cầu",
       "impact": "↓",
-      "note": "GDP tăng 9,01%, thu nhập bình quân tăng 9,1%, nhưng tiền thuê nhà, thực phẩm, xăng xe tăng mạnh hơn. Người lao động chi 30-40% lương cho ăn ở, còn lại chỉ để dành vài trăm nghìn/tháng, hạn chế tiêu dùng và tích lũy."
-    },
-    {
-      "title": "TPHCM sau hợp nhất trở thành cực tăng trưởng mới",
-      "impact": "↑",
-      "note": "Diện tích 6.772 km², dân số 13,5 triệu, đóng góp 24% GDP quốc gia, FDI 6,7 tỷ USD. Hợp nhất với Bình Dương và Bà Rịa-Vũng Tàu tạo cơ hội phát triển hạ tầng, liên kết vùng và tăng trưởng hai chữ số."
-    },
-    {
-      "title": "Năm 2027 hướng tới tăng trưởng 10%+",
-      "impact": "↑",
-      "note": "Mục tiêu GDP 2027 từ 10% trở lên, được xác định là năm tăng tốc, bứt phá, chuyển từ chủ trương sang hành động cụ thể. Gắn với giữ ổn định vĩ mô, kiểm soát lạm phát và các cân đối lớn."
-    },
-    {
-      "title": "Định giá trở về mức đáy, cơ hội dài hạn",
-      "impact": "↑",
-      "note": "VN-Index giao dịch P/E 13,5 lần, mức thấp bằng vùng đáy Covid, phản ánh phần lớn áp lực lãi suất. Giá trị giao dịch bình quân 508 triệu USD (thấp nhất năm), tạo điều kiện cho nhà đầu tư dài hạn."
+      "note": "VN-Index giảm 29,18 điểm (-1,68%) trong tuần, dừng tại 1.705,91 điểm. Thanh khoản HOSE phiên 16/10 chỉ 10.728 tỷ đồng (giảm 25%), lần đầu tiên sau 8 tuần xuống dưới 11 ngàn tỷ đồng. Áp lực bán tập trung tại nhóm blue-chips vốn hóa lớn."
     }
   ]
 }
