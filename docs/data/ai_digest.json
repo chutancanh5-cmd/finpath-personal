@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-16",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "FDI đạt mức cao nhất 5 năm (21,07 tỷ USD, +12%), GDP 9,01% 9 tháng tạo đà tăng tốc. Ngân hàng báo lãi tăng đôi chữ số, nợ công được kiểm soát chặt (60% GDP). Tuy nhiên, IMF cảnh báo lợi suất trái phiếu toàn cầu tăng là rủi ro cho định giá, dòng tiền ngoại bán ròng gần ngàn tỷ.",
+  "summary_vi": "Kinh tế Việt Nam tiếp tục tăng trưởng khỏe (9,01% trong 9 tháng) và các ngân hàng ghi nhận lợi nhuận tăng mạnh, tạo nên bối cảnh tích cực cho thị trường chứng khoán. Tuy nhiên, IMF cảnh báo kinh tế châu Á đang chậm lại với rủi ro từ lãi suất trái phiếu toàn cầu tăng cao, đồng thời áp lực lạm phát và biến động tỷ giá vẫn là mối quan tâm lớn trong quý cuối năm. Chính sách nợ công được kiểm soát chặt chẽ với mức không quá 60% GDP, hỗ trợ ổn định tài chính quốc gia.",
   "top": [
     {
-      "title": "IMF cảnh báo lợi suất trái phiếu tăng",
+      "title": "IMF cảnh báo kinh tế châu Á chậm lại, lãi suất trái phiếu tăng",
       "impact": "↓",
-      "note": "IMF dự báo kinh tế châu Á tăng 4,8% năm 2026, nhưng cảnh báo lợi suất trái phiếu chính phủ toàn cầu tiếp tục tăng do chính sách tiền tệ Mỹ thắt chặt. Áp lực tăng lợi suất dự báo duy trì ở châu Á - Thái Bình Dương, ảnh hưởng định giá cổ phiếu."
+      "note": "Tăng trưởng kinh tế châu Á dự báo 4,8% năm 2026 và 4,4% năm 2027; lợi suất trái phiếu chính phủ toàn cầu duy trì áp lực tăng, tạo rủi ro cho các nền kinh tế mới nổi như Việt Nam."
     },
     {
-      "title": "FDI 9 tháng 21,07 tỷ USD, cao nhất 5 năm",
+      "title": "Vietbank chào bán 296 triệu cổ phiếu, lãi 9 tháng tăng 50%",
       "impact": "↑",
-      "note": "Vốn FDI thực hiện 9 tháng đạt 21,07 tỷ USD, tăng 12,1% so với cùng kỳ, cao nhất cùng kỳ 5 năm qua. GDP tăng 9,01% 9 tháng, quý 3 là 9,95%, tạo nền tảng tăng tốc trong quý 4."
+      "note": "Vietbank dự kiến chào bán 296 triệu cổ phiếu với giá 10.000 đ/cp để tăng vốn điều lệ lên 14.807 tỷ đ; lợi nhuận trước thuế 9 tháng ước đạt 1.297 tỷ đ, tăng 50% so với cùng kỳ."
     },
     {
-      "title": "Vietbank lãi 9 tháng 1.297 tỷ đồng, +50%",
-      "impact": "↑",
-      "note": "Vietbank báo lãi trước thuế 9 tháng 2026 ước đạt 1.297 tỷ đồng, tăng 50% so với cùng kỳ. Chào bán 296 triệu cổ phiếu với giá 10.000 đồng/cổ phiếu, tỷ lệ 100:25."
+      "title": "Chiến lược nợ công đến 2030: mục tiêu không quá 60% GDP",
+      "impact": "→",
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký QĐ số 1989/QĐ-TTg ngày 15/10/2026 sửa đổi chiến lược nợ công đến 2030, với mục tiêu nợ công không quá 60% GDP, nợ Chính phủ không quá 50% GDP."
     },
     {
-      "title": "Chính phủ kiểm soát nợ công không quá 60% GDP",
-      "impact": "↑",
-      "note": "Quyết định 1989/QĐ-TTg sửa đổi chiến lược nợ công đến 2030: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP. Ưu tiên bố trí vốn cho dự án hạ tầng then chốt, tạo khung pháp lý rõ ràng cho đầu tư."
+      "title": "Cổ phiếu KOS lao dốc 77%, 19 phiên giảm sàn liên tiếp",
+      "impact": "↓",
+      "note": "Mã KOS của Kosy ghi nhận phiên giảm sàn thứ 19 liên tiếp, giảm tổng cộng 77% trong hơn 1 tháng; vốn hóa thị trường bị thổi bay 5.500 tỷ đ; 35% lượng cổ phiếu bị 'chất sàn' không có lực cầu."
     },
     {
-      "title": "PV GAS lãi quý 3 tăng 68%",
+      "title": "PV GAS lãi trước thuế quý III tăng 68% lên 5.4 ngàn tỷ đ",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế PV GAS quý 3 đạt 5,4 ngàn tỷ đồng. Doanh thu 9 tháng 120,9 ngàn tỷ đồng tăng 30%, lợi nhuận 9 tháng 16,6 ngàn tỷ đồng tăng 31%, sản lượng vượt kế hoạch 3-5%."
+      "note": "PV GAS báo cáo doanh thu hợp nhất 9 tháng đạt 120.9 ngàn tỷ đ (tăng 30%), lợi nhuận trước thuế hợp nhất 16.6 ngàn tỷ đ (tăng 31%); quý III lãi trước thuế 5.4 ngàn tỷ đ, tăng 68%."
     },
     {
-      "title": "EuroCham: Chỉ số niềm tin kinh doanh 78,3 điểm",
+      "title": "Kinh tế Việt tăng tốc, GDP 9 tháng 9,01%, quý III 9,95%",
       "impact": "↑",
-      "note": "Chỉ số BCI quý 3/2026 đạt 78,3 điểm. 64% doanh nghiệp đánh giá tình hình kinh doanh 'tốt' hoặc 'rất tốt', phản ánh lạc quan về triển vọng bền vững khi nhu cầu quốc tế chững lại."
+      "note": "GDP 9 tháng tăng 9,01%, quý III tăng 9,95%; vốn FDI 9 tháng đạt 21,07 tỷ USD (tăng 12,1%), giải ngân vốn công đến hết tháng 9 đạt 62,9% kế hoạch, còn nhiều áp lực trong quý IV."
     }
   ]
 }
