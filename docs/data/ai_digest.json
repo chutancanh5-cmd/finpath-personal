@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-16",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường tiếp tục phản ánh áp lực lãi suất được định giá, nhưng các tín hiệu vĩ mô dần mở ra những cơ hội tích cực: tiền gửi người dân lập kỷ lục 11,43 triệu tỷ đồng, chính phủ đặt mục tiêu GDP tăng từ 10% năm 2027, và TPHCM hợp nhất tạo ra trục phát triển mới với 24% đóng góp GDP cả nước. Tuy nhiên, dòng tiền ngoại bán ròng và thanh khoản HoSE ở mức thấp nhất 20 phiên cho thấy tâm lý thị trường vẫn cần thêm tín hiệu dồn dập để tạo động lực phục hồi.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực ngắn hạn từ dòng vốn ngoài bán ròng liên tiếp (phiên thứ 11) và lãi suất tăng, trong khi định giá đã về vùng Covid lows (P/E 13.5x). Hạn chế thanh khoản và dòng vốn yếu là rủi ro, nhưng chính sách tăng tốc GDP 10%+ năm 2027 và hạ tầng TPHCM hợp nhất mở ra cơ hội tăng trưởng trung hạn. Mối lo đáng chú ý là thu nhập thực của dân số tăng chậm hơn chi phí sinh hoạt dù GDP tăng 9%.",
   "top": [
     {
-      "title": "Tiền gửi người dân lập kỷ lục 11,43 triệu tỷ đồng",
+      "title": "2027 phấn đấu GDP tăng từ 10% trở lên, kế hoạch tăng tốc bứt phá",
       "impact": "↑",
-      "note": "Tiền gửi dân cư đạt 11,43 triệu tỷ đồng cuối tháng 8/2026 (cao nhất lịch sử), tăng 10,63% từ đầu năm. Cứ 10 đồng tiền gửi mới thêm vào hệ thống ngân hàng thì 9 đồng đến từ dân cư, phản ánh tự tin trong kỳ vọng tăng trưởng."
+      "note": "Phó Thủ tướng Phạm Gia Túc công bố tại hội nghị 16/10 của Bộ Chính trị rằng 2027 là năm tăng tốc, bứt phá, tạo đà thực hiện Nghị quyết Đại hội XIV, với mục tiêu tăng trưởng GDP từ 10% trở lên gắn với giữ vững ổn định vĩ mô. Đây là tín hiệu chính sách rõ ràng hỗ trợ dài hạn cho thị trường chứng khoán."
     },
     {
-      "title": "Năm 2027 phấn đấu GDP tăng từ 10% trở lên",
+      "title": "TPHCM hợp nhất: 13,5 triệu dân, 24% GDP, 6,7 tỷ USD FDI, mở ra cực tăng trưởng",
       "impact": "↑",
-      "note": "Hội nghị 16/10 của Bộ Chính trị xác định 2027 là năm tăng tốc, bứt phá với mục tiêu tăng trưởng GDP từ 10% trở lên, gắn với giữ vững ổn định kinh tế vĩ mô và kiểm soát lạm phát theo Nghị quyết Đại hội XIV."
+      "note": "TPHCM sau hợp nhất với Bình Dương và BR-VT có diện tích 6.772 km², dân số 13,5 triệu người, đóng góp 24% GDP cả nước và hấp dẫn 6,7 tỷ USD FDI (theo 2024). Chuyên gia đánh giá đây là thời cơ ngàn năm để tổ chức lại mạng lưới hạ tầng, tăng cường liên kết vùng và hình thành các cực tăng trưởng mới."
     },
     {
-      "title": "TPHCM hợp nhất tạo trục phát triển kinh tế mới",
-      "impact": "↑",
-      "note": "Sau hợp nhất với Bình Dương và Bà Rịa - Vũng Tàu, TPHCM có diện tích 6.772 km² và dân số 13,5 triệu người, đóng góp 24% GDP cả nước và hấp dẫn 6,7 tỷ USD FDI (theo 2024), tạo cơ sở hình thành các cực tăng trưởng mới."
-    },
-    {
-      "title": "PCB tăng 10,84%, chào bán 300 triệu cổ phiếu riêng lẻ",
-      "impact": "↑",
-      "note": "PVCombank công bố chào bán 300 triệu cổ phiếu cho 7 nhà đầu tư (2 cá nhân, 5 doanh nghiệp). PCB tăng 10,84% lên 9.200 đồng/cp, thanh khoản cải thiện với 1,4 triệu đơn vị khớp lệnh, phản ánh sức hút từ khối ngoại."
-    },
-    {
-      "title": "Indonesia: IDX giảm 11% trong 1 phiên, mất gần 40% từ đầu năm",
-      "impact": "↓",
-      "note": "Chỉ số Jakarta Composite giảm hơn 11% trong phiên thứ Sáu (mức giảm mạnh nhất kể từ tháng 1/1998), mất gần 40% từ đầu năm. MSCI cảnh báo tái phân loại thị trường Indonesia do lo ngại minh bạch, cơ cấu sở hữu và giao dịch có phối hợp, đó là rủi ro khu vực cần theo dõi."
-    },
-    {
-      "title": "Định giá VN-Index về vùng đáy Covid, lãi suất đã phản ánh",
+      "title": "Lãi suất tăng, định giá VN-Index về vùng đáy Covid, P/E 13,5x",
       "impact": "→",
-      "note": "Dragon Capital đánh giá VN-Index giao dịch ở mức P/E 13,5 lần (lợi nhuận 12 tháng gần nhất), đã phản ánh phần lớn tác động lãi suất. Mức định giá này tương đương vùng đáy thời Covid, gợi ý áp lực từ lãi suất đã được giải phóng, cơ sở kỹ thuật cho phục hồi nếu có tín hiệu cắt giảm lãi suất hoặc tăng trưởng lợi nhuận."
+      "note": "Dragon Capital phân tích VN-Index giao dịch ở mức P/E 13,5x (lợi nhuận 12 tháng gần nhất), đã phản ánh phần lớn tác động lãi suất. Áp lực lãi suất từ nguồn vốn dài hạn (12 tháng tăng 7,4% trong 9 tháng); nhóm chứng khoán, bất động sản giảm mạnh. Định giá quay về vùng đáy Covid cân bằng rủi ro lãi suất."
+    },
+    {
+      "title": "Khối ngoại bán ròng phiên thứ 11 liên tiếp, thanh khoản 10.795 tỷ thấp nhất 20 phiên",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 559 tỷ đồng toàn thị trường phiên 16/10, kéo dài chuỗi bán ròng lên phiên thứ 11 liên tiếp, với HDB bị bán áp lực nhất. Thanh khoản HOSE chỉ 10.795 tỷ đồng (thấp nhất trong 20 phiên gần đây), dòng vốn ngoại âm tiếp tục cản trở nỗ lực phục hồi."
+    },
+    {
+      "title": "Indonesia: IDX giảm 11% trong 1 phiên, mất 40% từ đầu năm, rủi ro khu vực",
+      "impact": "↓",
+      "note": "Chỉ số Jakarta Composite Indonesia giảm hơn 11% trong phiên (mức giảm mạnh nhất kể từ tháng 1/1998), cộng dồn mất gần 40% từ đầu năm. Khối ngoại bán ròng 4,7 tỷ USD; MSCI cảnh báo tái phân loại do lo ngại minh bạch, cơ cấu sở hữu và giao dịch. Rủi ro lây lan vốn ngoại từ khu vực Đông Nam Á."
+    },
+    {
+      "title": "GDP tăng 9,01% nhưng thu nhập thực yếu, chi phí sinh hoạt tăng nhanh hơn",
+      "impact": "↓",
+      "note": "GDP 9 tháng tăng 9,01%, thu nhập bình quân công nhân tăng 9,1%, nhưng tiền nhà, thực phẩm, xăng xe tăng mạnh hơn. Công nhân Hà Nội lương 10,5 triệu đồng/tháng (tăng) nhưng nhà, điện nước, ăn uống tăng 8-10 triệu đồng, gần như chi hết hàng tháng. Sức mua thực suy yếu là rủi ro tiêu dùng dù GDP tăng cao."
     }
   ]
 }
