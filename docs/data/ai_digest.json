@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-16",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì tăng trưởng mạnh (GDP 9 tháng 9,01%, quý 3 là 9,95%) với chính sách nợ công khôn khéo (≤60% GDP), hỗ trợ sự phục hồi của ngành ngân hàng và các doanh nghiệp năng lượng. Tuy vậy, dòng vốn ngoại rút khắp châu Á cùng cảnh báo từ IMF về chậm lại kinh tế và áp lực lãi suất đặt ra rủi ro ngắn hạn cho thị trường chứng khoán.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chính thức được FTSE Russell nâng hạng, tạo điểm khởi đầu quan trọng cho hình thành vốn dài hạn. Nền kinh tế duy trì tăng trưởng mạnh (GDP 9 tháng tăng 9,01%, FDI tăng 12,1%), các doanh nghiệp lớn ghi nhận lợi nhuận cao (PV GAS tăng 31%, Vietbank tăng 50%), trong khi chính sách nợ công được kiểm soát an toàn (không quá 60% GDP). Tuy nhiên, dòng vốn ngoại hiện bán ròng ngắn hạn và IMF cảnh báo kinh tế Châu Á chậm lại, tạo những rủi ro mà nhà đầu tư cần chú ý.",
   "top": [
     {
-      "title": "Chính sách nợ công khôn khéo hỗ trợ bền vững",
+      "title": "FTSE Russell nâng hạng TTCK Việt Nam ngày 18/9",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg (15/10/2026) thiết lập mục tiêu nợ công ≤60% GDP, nợ Chính phủ ≤50% GDP giai đoạn 2026-2030, duy trì an toàn tài chính quốc gia và khả năng trả nợ dài hạn."
+      "note": "FTSE chính thức đưa cổ phiếu Việt Nam vào chỉ số thị trường mới nổi. Thị trường có hơn 300 cổ phiếu niêm yết, hơn 800 cổ phiếu trên UPCoM, vốn hóa gần 80% GDP. Đây là cột mốc quan trọng để hấp dẫn dòng vốn quốc tế dài hạn."
     },
     {
-      "title": "Vietbank tăng vốn điều lệ, lãi 9 tháng tăng 50%",
+      "title": "GDP tăng 9,01% (9 tháng), FDI tăng 12,1%",
       "impact": "↑",
-      "note": "VBB chào bán 296 triệu cổ phiếu với giá 10.000 đồng/cp, tăng vốn điều lệ từ 11.846 tỷ đồng lên 14.807 tỷ đồng. Lợi nhuận 9 tháng đầu 2026 ước đạt 1.297 tỷ đồng, tăng 50% so cùng kỳ."
+      "note": "Quý III tăng 9,95%, phấn đấu cả năm từ 10% trở lên. FDI thực hiện 21,07 tỷ USD tăng 12,1%, là mức cao nhất cùng kỳ 5 năm. Giải ngân vốn công đạt 62,9% kế hoạch, cho thấy động lực tăng trưởng vẫn mạnh."
     },
     {
-      "title": "PV GAS lãi quý 3 cao, doanh thu 9 tháng tăng 30%",
+      "title": "PV GAS: Lợi nhuận trước thuế tăng 31%",
       "impact": "↑",
-      "note": "PV GAS ghi nhận lãi trước thuế 5.4 ngàn tỷ đồng quý 3 tăng 68%. Doanh thu hợp nhất 9 tháng đạt 120.9 ngàn tỷ đồng, tăng 30%, sản lượng khí/LNG vượt kế hoạch 3-5%."
+      "note": "9 tháng đầu năm 2026, lợi nhuận trước thuế đạt 16,6 ngàn tỷ đồng tăng 31%, doanh thu 120,9 ngàn tỷ đồng tăng 30%. Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so với cùng kỳ, khẳng định hiệu quả của ngành dầu khí."
     },
     {
-      "title": "GDP quý 3 tăng 9,95%, duy trì động lực mạnh",
+      "title": "Vietbank lãi tăng 50%, chào bán 296 triệu cổ phiếu",
       "impact": "↑",
-      "note": "Kinh tế Việt Nam quý 3/2026 tăng 9,95%, GDP 9 tháng đạt 9,01%. Vốn FDI 9 tháng đạt 21,07 tỷ USD tăng 12,1%; giải ngân vốn đầu tư công đạt 62,9% kế hoạch."
+      "note": "Lợi nhuận trước thuế 9 tháng ước đạt 1,297 tỷ đồng tăng 50%. Chào bán 296 triệu cổ phiếu tăng vốn điều lệ từ 11,846 tỷ lên 14,807 tỷ đồng. Ngành ngân hàng duy trì nền tảng lợi nhuận vững chắc."
     },
     {
-      "title": "KOS giảm sàn 19 lần, mất 77% giá trị vốn hóa",
+      "title": "Dòng vốn ngoại bán ròng 926 tỷ đồng ngày 15/10",
       "impact": "↓",
-      "note": "Kosy (mã KOS) giảm sàn lần thứ 19 liên tiếp ngày 15/10, giảm 77% chỉ trong 1 tháng. Vốn hóa thị trường từ 7.180 tỷ đồng xuống còn 1.680 tỷ đồng. Có 76 triệu cổ phiếu (35% lượng) chất sàn không ai mua."
+      "note": "Khối ngoại và tự doanh cùng bán ròng gần 926 tỷ đồng. Chỉ VPB hút vốn ngoại 218 tỷ đồng. Dòng vốn ngoài tiếp tục bán ròng khoảng một tháng sau nâng hạng FTSE, phản ánh thận trọng của nhà đầu tư quốc tế."
     },
     {
-      "title": "IMF cảnh báo kinh tế châu Á chậm lại, rủi ro lãi suất",
+      "title": "IMF cảnh báo kinh tế Châu Á chậm lại, rủi ro lãi suất",
       "impact": "↓",
-      "note": "IMF dự báo kinh tế châu Á tăng 4,8% năm 2026 và 4,4% năm 2027 (chậm lại). Lợi suất trái phiếu chính phủ toàn cầu tăng, chính sách tiền tệ Mỹ thắt chặt dự kiến tiếp tục gây áp lực lên thị trường châu Á."
+      "note": "IMF dự báo kinh tế Châu Á tăng 4,8% năm 2026 (thấp hơn VN). Báo cáo cảnh báo rủi ro từ cú sốc giá năng lượng, khả năng điều chỉnh trong cơn sốt AI, bất định chính sách tiền tệ Mỹ. Lãi suất trái phiếu chính phủ toàn cầu tăng là áp lực lên thị trường."
     }
   ]
 }
