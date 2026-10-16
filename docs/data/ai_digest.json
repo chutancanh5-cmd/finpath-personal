@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam bước vào quý IV với động lực mạnh: GDP 9 tháng tăng 9,01%, FDI 21,07 tỷ USD tăng 12,1%, lợi nhuận doanh nghiệp lớn (VietBank +50%, PV GAS +31%). Chính phủ kiểm soát nợ công chặt chẽ (không quá 60% GDP) đảm bảo ổn định vĩ mô. Tuy nhiên, IMF cảnh báo châu Á chậm lại, lợi suất trái phiếu toàn cầu tăng là rủi ro, và dòng tiền ngoại âm (rút ròng 926 tỷ) tạo áp lực ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Kinh tế Việt Nam duy trì động lực tăng trưởng mạnh với GDP Q3 9,95% và FDI tăng 12,1% lên 21,07 tỷ USD; các doanh nghiệp đạt lợi nhuận kỷ lục (PV GAS +68%, Vietbank +50%). Chính phủ kiểm soát nợ công chặt chẽ (không quá 60% GDP). Áp lực từ Fed tăng lãi suất, căng thẳng địa chính trị và rủi ro thương mại EU-Trung Quốc khiến VN-Index giảm 5% quý 3, nhưng nhiều cổ phiếu định giá quá rẻ, tạo cơ hội mua vào.",
   "top": [
     {
-      "title": "PV GAS lãi quý 3 tăng 68%, lợi nhuận 9 tháng 16,6 ngàn tỷ",
+      "title": "GDP Q3 tăng 9,95%, FDI 21,07 tỷ USD tăng 12,1%",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế 9 tháng đạt 16,6 ngàn tỷ đồng (+31% so với cùng kỳ), lợi nhuận quý 3 riêng đạt 5,4 ngàn tỷ (+68%). Doanh thu 9 tháng 120,9 ngàn tỷ đồng (+30%), phản ánh hoạt động sản xuất ổn định dù đối mặt xung đột Trung Đông."
+      "note": "GDP quý III tăng 9,95%, cộng dồn 9 tháng tăng 9,01%. FDI thực hiện 21,07 tỷ USD, tăng 12,1% so với cùng kỳ, mức cao nhất 5 năm. Giải ngân vốn đầu tư công đạt 62,9% kế hoạch, tạo nền tảng tăng tốc quý IV hướng tới mục tiêu 10% cả năm."
     },
     {
-      "title": "Vietbank lãi 9 tháng tăng 50% đạt 1,297 tỷ đồng, chào bán 296 triệu cổ phiếu",
+      "title": "Định giá cổ phiếu quá rẻ dù VN-Index giảm 5% quý 3",
       "impact": "↑",
-      "note": "Vietbank ghi nhận lợi nhuận trước thuế 9 tháng 2026 ước tăng 50% = 1,297 tỷ đồng. Chào bán 296 triệu cổ phiếu giá 10.000 đồng/cp, nâng vốn điều lệ từ 11,846 tỷ lên 14,807 tỷ đồng, thời hạn mua cuối 10/11/2026."
+      "note": "VN-Index quý III đóng cửa 1.769 điểm, giảm 5%. Chuyên gia VCBF nhận định giá nhiều cổ phiếu chưa phản ánh đầy đủ tăng trưởng lợi nhuận và triển vọng kinh doanh, định giá quá rẻ. FTSE Russell nâng hạng Việt Nam lên thị trường mới nổi thứ cấp 9/2026."
     },
     {
-      "title": "Chính phủ sửa đổi chiến lược nợ công 2026-2030: nợ công không quá 60% GDP",
+      "title": "PV GAS lãi Q3 5.400 tỷ đồng, tăng 68%, doanh thu 120,9 ngàn tỷ",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg ngày 15/10/2026 qui định nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP, trả nợ Chính phủ không quá 25% tổng thu ngân sách, đảm bảo an toàn tài chính dài hạn."
+      "note": "PV GAS lãi trước thuế quý III đạt 5.400 tỷ đồng, tăng 68%. Doanh thu hợp nhất 9 tháng 120.900 tỷ đồng, tăng 30%. Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so với cùng kỳ dù phải đối mặt xung đột địa chính trị Trung Đông."
     },
     {
-      "title": "GDP quý III tăng 9,95%, 9 tháng tăng 9,01%, FDI 21,07 tỷ USD",
+      "title": "Vietbank lãi 9 tháng tăng 50% lên 1.297 tỷ đồng",
       "impact": "↑",
-      "note": "GDP quý III/2026 tăng 9,95%, tăng trưởng 9 tháng đạt 9,01%. Vốn FDI thực hiện 21,07 tỷ USD (+12,1%), mức cao nhất 5 năm. Giải ngân vốn công đạt 62,9% kế hoạch, tạo nền tảng tăng tốc quý IV hướng tới mục tiêu 10% cả năm."
+      "note": "Vietbank báo lợi nhuận trước thuế 9 tháng tăng 50%, ước đạt 1.297 tỷ đồng. Chào bán 296 triệu cổ phiếu giá 10.000 đ/cp, nâng vốn điều lệ từ 11.846 tỷ lên 14.807 tỷ đồng, thời hạn mua cuối 10/11/2026."
     },
     {
-      "title": "IMF cảnh báo tăng trưởng châu Á chậm lại, rủi ro lợi suất trái phiếu tăng",
+      "title": "Chiến lược nợ công 2026-2030: nợ công không quá 60% GDP",
+      "impact": "→",
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg ngày 15/10 sửa chiến lược nợ công: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50%, trả nợ Chính phủ không quá 25% tổng thu ngân sách, nợ nước ngoài không quá 50% GDP."
+    },
+    {
+      "title": "EU áp hạn chế nhập khẩu từ Trung Quốc, thâm hụt 34,8 tỷ USD",
       "impact": "↓",
-      "note": "IMF dự báo tăng trưởng châu Á 4,8% năm 2026, 4,4% năm 2027. Rủi ro: cú sốc giá năng lượng, điều chỉnh AI, chính sách tiền tệ Mỹ thắt chặt, lợi suất trái phiếu chính phủ tăng. Một số nước mới nổi đối mặt áp lực mất giá tiền tệ."
-    },
-    {
-      "title": "Khối ngoại bán ròng 926 tỷ đồng ngày 15/10, VN-Index giảm 3,65% từ đầu năm",
-      "impact": "↓",
-      "note": "Khối ngoại và tự doanh bán ròng tổng cộng 926 tỷ đồng ngày 15/10. VN-Index giảm 3,65% so với đầu năm (~69 điểm) mặc dù được nâng hạng, phản ánh dòng tiền âm từ nhà đầu tư quốc tế giữa bối cảnh rủi ro vĩ mô."
+      "note": "Đức thúc EU áp hạn ngạch hàng hóa Trung Quốc. Thâm hụt thương mại EU-Trung Quốc lập kỷ lục 34,8 tỷ USD tháng 9. EU áp hạn 350.000 xe hybrid. Căng thẳng thương mại có thể tác động chính sách toàn cầu, ảnh hưởng xuất khẩu từ các nước đang phát triển."
     }
   ]
 }
