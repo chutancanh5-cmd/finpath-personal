@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam tiếp tục tăng tốc với GDP 9 tháng đạt 9,01% và FDI 21,07 tỷ USD (tăng 12,1%), tạo nền tảng vững chắc. FTSE inclusion sẽ tăng dòng vốn từ các quỹ toàn cầu, hỗ trợ tăng trưởng dài hạn. Tuy nhiên, khối ngoại bán ròng 685 tỷ đồng (lần thứ 10 liên tiếp) phản ánh lo ngại ngắn hạn về định giá. Các doanh nghiệp lớn như PV GAS (lãi +68%) và Vietbank (lãi +50%) giữ vững tài chính, nhưng cần chú ý rủi ro từ cổ phiếu yếu như Kosy (-77%).",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng mạnh (GDP quý 3 tăng 9,95%, chín tháng tăng 9,01%) với vốn FDI tăng 12,1% lên 21,07 tỷ USD. Doanh nghiệp lớn ghi nhận lợi nhuận tốt (Vietbank +50%, PV GAS +68%) và chính phủ kiểm soát nợ công ở mức 60% GDP. Tuy nhiên, áp lực tiêu cực đến từ dòng vốn ngoại bán ròng liên tục (phiên thứ 10, 685 tỷ đồng) và tốc độ tăng trưởng lợi nhuận ngành ngân hàng dự báo chậm lại còn 15,4% năm 2027. Sự sụp đổ của KOS (-77% trong 1 tháng) cũng gây lo ngại về rủi ro thanh khoản.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, FDI đạt 21,07 tỷ USD",
-      "impact": "↑",
-      "note": "Kinh tế tăng trưởng 9,01% trong 9 tháng đầu năm 2026 và vốn FDI thực hiện 21,07 tỷ USD (tăng 12,1% so với cùng kỳ), mức cao nhất trong 5 năm, tạo nền tảng tích cực cho thị trường chứng khoán Việt Nam."
-    },
-    {
-      "title": "FTSE inclusion tăng dòng vốn nước ngoài",
-      "impact": "↑",
-      "note": "Giám đốc UBS nhận định từ tháng 9 nhiều nhà quản lý quỹ toàn cầu tìm kiếm thị trường mới để phân bổ vốn, khi Việt Nam trở thành thành viên FTSE sẽ có tác động rõ rệt qua các giai đoạn 2, 3, 4 với dòng vốn đổ vào Việt Nam."
-    },
-    {
-      "title": "PV GAS lãi trước thuế 5.400 tỷ đồng, tăng 68%",
-      "impact": "↑",
-      "note": "PV GAS ghi nhận lợi nhuận trước thuế 9 tháng đạt 16.600 tỷ đồng (tăng 31%) với doanh thu hợp nhất 120.900 tỷ đồng, sản lượng khí/LNG vượt kế hoạch 3-5% và tăng 18% so với cùng kỳ, giữ vững an ninh năng lượng."
-    },
-    {
-      "title": "Chính phủ kiểm soát nợ công không quá 60% GDP",
-      "impact": "↑",
-      "note": "Giai đoạn 2026-2030, nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP, nghĩa vụ trả nợ trực tiếp không quá 25% tổng thu ngân sách, ưu tiên sử dụng vốn vay hiệu quả và cải thiện xếp hạng tín nhiệm quốc gia."
-    },
-    {
-      "title": "Vietbank chào bán 296 triệu cổ phiếu, lãi tăng 50%",
-      "impact": "↑",
-      "note": "Vietbank dự kiến chào bán 296 triệu cổ phiếu giá 10.000 đồng/cp tăng vốn điều lệ lên 14.807 tỷ đồng, lợi nhuận trước thuế 9 tháng đạt 1.297 tỷ đồng (tăng 50% so với cùng kỳ), tỷ lệ mua 100:25 cho cổ đông hiện hữu."
-    },
-    {
-      "title": "Khối ngoại bán ròng 685 tỷ, VIC-STB-TCB bị áp lực",
+      "title": "Khối ngoại bán ròng ngày thứ 10 liên tiếp, 685 tỷ đồng",
       "impact": "↓",
-      "note": "Phiên 15/10: khối ngoại rút ròng 685 tỷ đồng (lần thứ 10 liên tiếp), tập trung bán VIC 134 tỷ, STB 131 tỷ, TCB 96 tỷ, phản ánh lo ngại nhà đầu tư quốc tế về định giá và thanh khoản thị trường ngắn hạn."
+      "note": "Phiên 15/10 khối ngoại rút ròng 685 tỷ đồng, tiếp tục chuỗi bán ròng sang phiên thứ 10 liên tiếp; tự doanh công ty chứng khoán cũng bán ròng gần 241 tỷ đồng. Áp lực tập trung vào VIC 134 tỷ, STB 131 tỷ, TCB 96 tỷ."
+    },
+    {
+      "title": "GDP quý 3 tăng 9,95%, chín tháng tăng 9,01%",
+      "impact": "↑",
+      "note": "GDP quý 3/2026 tăng 9,95%, duy trì xu hướng tăng trưởng tích cực. Vốn FDI thực hiện 9 tháng đạt 21,07 tỷ USD tăng 12,1% so với cùng kỳ, là mức cao nhất trong 5 năm qua."
+    },
+    {
+      "title": "PV GAS lợi nhuận 9 tháng tăng 31%, doanh thu tăng 30%",
+      "impact": "↑",
+      "note": "PV GAS ghi nhận lợi nhuận trước thuế hợp nhất 9 tháng đạt 16.600 tỷ đồng (tăng 31%), doanh thu hợp nhất 120.900 tỷ đồng (tăng 30%). Sản lượng khí tiếp nhận tăng 18% so với cùng kỳ."
+    },
+    {
+      "title": "Vietbank 9 tháng lợi nhuận tăng 50% lên 1.297 tỷ đồng",
+      "impact": "↑",
+      "note": "Vietbank dự kiến chào bán 296 triệu cổ phiếu với giá 10.000 đồng/cp, tăng vốn điều lệ lên 14.807 tỷ đồng. Lợi nhuận trước thuế riêng lẻ 9 tháng đạt 1.297 tỷ đồng, tăng 50% so với cùng kỳ."
+    },
+    {
+      "title": "Ngành ngân hàng dự báo tăng trưởng lợi nhuận chậm lại",
+      "impact": "↓",
+      "note": "SSI Research dự báo lợi nhuận trước thuế ngân hàng năm 2027 tăng 15,4%, thấp hơn mức tăng 19,5% ước tính 2026. Áp lực đến từ huy động vốn, biên lãi thuần hẹp và chất lượng tài sản suy giảm."
+    },
+    {
+      "title": "KOS sụp đổ 77% trong 1 tháng, 19 phiên giảm sàn liên tiếp",
+      "impact": "↓",
+      "note": "KOS giảm hết biên độ 6,95% xuống 7.760 đồng/cổ phiếu, đánh dấu phiên giảm sàn thứ 19 liên tiếp. Vốn hóa thị trường bị thổi bay hơn 5.500 tỷ đồng; có 76 triệu cổ phiếu chất sàn không có lực cầu."
     }
   ]
 }
