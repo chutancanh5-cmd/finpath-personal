@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-16",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam duy trì động lực tăng trưởng mạnh với GDP Q3 9,95% và FDI tăng 12,1% lên 21,07 tỷ USD; các doanh nghiệp đạt lợi nhuận kỷ lục (PV GAS +68%, Vietbank +50%). Chính phủ kiểm soát nợ công chặt chẽ (không quá 60% GDP). Áp lực từ Fed tăng lãi suất, căng thẳng địa chính trị và rủi ro thương mại EU-Trung Quốc khiến VN-Index giảm 5% quý 3, nhưng nhiều cổ phiếu định giá quá rẻ, tạo cơ hội mua vào.",
+  "summary_vi": "Chính phủ đặt mục tiêu tăng trưởng GDP năm 2027 từ 10% trở lên, tạo tâm lý tích cực cho thị trường. Kinh tế nội bộ duy trì động lực mạnh với GDP quý III tăng 9,95% (9 tháng: 9,01%), FDI tăng 12,1% lên 21,07 tỷ USD, và nhiều doanh nghiệp ghi lãi kỷ lục (SJS: 1.000+ tỷ, PV GAS +68%, Vietbank +50%). Tuy nhiên áp lực từ lãi suất Fed, căng thẳng địa chính trị và rủi ro thuế quan gây sức ép bán ròng nhà đầu tư nước ngoài, khiến VN-Index giảm 5% quý III. Thị trường định giá quá rẻ so với triển vọng lợi nhuận, tạo cơ hội cho nhà đầu tư dài hạn.",
   "top": [
     {
-      "title": "GDP Q3 tăng 9,95%, FDI 21,07 tỷ USD tăng 12,1%",
+      "title": "Năm 2027 phấn đấu tăng trưởng GDP từ 10% trở lên",
       "impact": "↑",
-      "note": "GDP quý III tăng 9,95%, cộng dồn 9 tháng tăng 9,01%. FDI thực hiện 21,07 tỷ USD, tăng 12,1% so với cùng kỳ, mức cao nhất 5 năm. Giải ngân vốn đầu tư công đạt 62,9% kế hoạch, tạo nền tảng tăng tốc quý IV hướng tới mục tiêu 10% cả năm."
+      "note": "Hội nghị toàn quốc ngày 16/10 xác định năm 2027 là năm tăng tốc, bứt phá với mục tiêu GDP từ 10% trở lên, gắn với giữ ổn định kinh tế vĩ mô, kiểm soát lạm phát và bảo đảm các cân đối lớn. Chuyển mạnh từ chủ trương sang hành động, xác định rõ trách nhiệm người đứng đầu."
     },
     {
-      "title": "Định giá cổ phiếu quá rẻ dù VN-Index giảm 5% quý 3",
-      "impact": "↑",
-      "note": "VN-Index quý III đóng cửa 1.769 điểm, giảm 5%. Chuyên gia VCBF nhận định giá nhiều cổ phiếu chưa phản ánh đầy đủ tăng trưởng lợi nhuận và triển vọng kinh doanh, định giá quá rẻ. FTSE Russell nâng hạng Việt Nam lên thị trường mới nổi thứ cấp 9/2026."
+      "title": "VN-Index giảm 5% quý III giữa áp lực toàn cầu",
+      "impact": "↓",
+      "note": "VN-Index đóng cửa 1.769 điểm, giảm 5% quý III do tác động từ lãi suất Fed tăng 25 điểm cơ bản tháng 9, căng thẳng địa chính trị, rủi ro áp dụng thuế quan mục 3.1 với Mỹ, và áp lực bán ròng 926 tỷ đồng từ nhà đầu tư nước ngoài + tự doanh CTCK phiên 15/10. Dù vậy, chuyên gia VCBF nhận định nhiều cổ phiếu định giá quá rẻ."
     },
     {
-      "title": "PV GAS lãi Q3 5.400 tỷ đồng, tăng 68%, doanh thu 120,9 ngàn tỷ",
+      "title": "SJS lãi hơn 1.000 tỷ đồng trong quý 3, gấp 349 lần",
       "impact": "↑",
-      "note": "PV GAS lãi trước thuế quý III đạt 5.400 tỷ đồng, tăng 68%. Doanh thu hợp nhất 9 tháng 120.900 tỷ đồng, tăng 30%. Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so với cùng kỳ dù phải đối mặt xung đột địa chính trị Trung Đông."
+      "note": "SJ Group lãi ròng hơn 1.000 tỷ đồng quý 3/2026 (lợi nhuận gộp 1.286 tỷ, doanh thu 1.785 tỷ), gấp 349 lần cùng kỳ, chủ yếu từ chuyển nhượng bất động sản dự án Nam An Khánh 234ha. Lợi nhuận này gần bằng tổng lãi SJS từ 2020-2025 (1.031 tỷ đồng), cho thấy bứt phá bất thường từ hoạt động bất động sản."
     },
     {
       "title": "Vietbank lãi 9 tháng tăng 50% lên 1.297 tỷ đồng",
       "impact": "↑",
-      "note": "Vietbank báo lợi nhuận trước thuế 9 tháng tăng 50%, ước đạt 1.297 tỷ đồng. Chào bán 296 triệu cổ phiếu giá 10.000 đ/cp, nâng vốn điều lệ từ 11.846 tỷ lên 14.807 tỷ đồng, thời hạn mua cuối 10/11/2026."
+      "note": "Vietbank báo lợi nhuận trước thuế 9 tháng tăng 50%, ước đạt 1.297 tỷ đồng. Chào bán 296 triệu cổ phiếu giá 10.000 đồng/cp cho cổ đông hiện hữu, tỷ lệ 100:25, nâng vốn điều lệ từ 11.846 tỷ lên 14.807 tỷ đồng, hạn cuối mua 10/11/2026."
     },
     {
-      "title": "Chiến lược nợ công 2026-2030: nợ công không quá 60% GDP",
+      "title": "PV GAS lãi trước thuế 5.400 tỷ quý III, tăng 68%",
+      "impact": "↑",
+      "note": "PV GAS lãi trước thuế quý III đạt 5.400 tỷ đồng, tăng 68%. Doanh thu hợp nhất 9 tháng 120.900 tỷ đồng, tăng 30%. Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so với cùng kỳ, dù phải đối mặt xung đột địa chính trị Trung Đông."
+    },
+    {
+      "title": "Chiến lược nợ công 2026-2030: nợ không quá 60% GDP",
       "impact": "→",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg ngày 15/10 sửa chiến lược nợ công: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50%, trả nợ Chính phủ không quá 25% tổng thu ngân sách, nợ nước ngoài không quá 50% GDP."
-    },
-    {
-      "title": "EU áp hạn chế nhập khẩu từ Trung Quốc, thâm hụt 34,8 tỷ USD",
-      "impact": "↓",
-      "note": "Đức thúc EU áp hạn ngạch hàng hóa Trung Quốc. Thâm hụt thương mại EU-Trung Quốc lập kỷ lục 34,8 tỷ USD tháng 9. EU áp hạn 350.000 xe hybrid. Căng thẳng thương mại có thể tác động chính sách toàn cầu, ảnh hưởng xuất khẩu từ các nước đang phát triển."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg ngày 15/10 về chiến lược nợ công đến 2030: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP. Chính sách kiểm soát chặt chẽ này bảo đảm an toàn tài chính quốc gia và duy trì khả năng trả nợ lâu dài."
     }
   ]
 }
