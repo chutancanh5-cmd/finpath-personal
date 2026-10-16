@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam bước vào quý 4 với động lực mạnh: GDP 9 tháng đạt 9,01%, quý 3 tăng 9,95%, FDI tăng 12,1% lên 21,07 tỷ USD. Ngành ngân hàng (Vietbank +50%) và dầu khí (PV GAS +68%) báo lãi tăng trưởng hai chữ số. Chính phủ cam kết kiểm soát nợ công không quá 60% GDP. Niềm tin kinh doanh châu Âu ở mức cao (EuroCham BCI 78,3). Rủi ro đến từ sự sụp đổ của Kosy (-77% trong 1 tháng) và lo ngại chiến tranh thương mại EU-Trung Quốc.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "FDI đạt mức cao nhất 5 năm (21,07 tỷ USD, +12%), GDP 9,01% 9 tháng tạo đà tăng tốc. Ngân hàng báo lãi tăng đôi chữ số, nợ công được kiểm soát chặt (60% GDP). Tuy nhiên, IMF cảnh báo lợi suất trái phiếu toàn cầu tăng là rủi ro cho định giá, dòng tiền ngoại bán ròng gần ngàn tỷ.",
   "top": [
     {
-      "title": "Vietbank lãi 9 tháng tăng 50% lên 1.297 tỷ đồng, chào bán 296 triệu cổ phiếu",
-      "impact": "↑",
-      "note": "Vietbank lợi nhuận trước thuế riêng lẻ 9 tháng đầu 2026 ước đạt 1.297 tỷ đồng, tăng 50% so với cùng kỳ. Chào bán 296 triệu cổ phiếu với giá 10.000 đồng/cp, tăng vốn điều lệ lên 14.807 tỷ đồng."
-    },
-    {
-      "title": "PV GAS lãi 9 tháng tăng 31%, doanh thu tăng 30%",
-      "impact": "↑",
-      "note": "PV GAS lợi nhuận trước thuế hợp nhất 9 tháng đạt 16,6 ngàn tỷ đồng (tăng 31%), doanh thu hợp nhất 120,9 ngàn tỷ đồng (tăng 30%). Sản lượng khí tiếp nhận tăng 18% so với cùng kỳ."
-    },
-    {
-      "title": "GDP 9 tháng đạt 9,01%, FDI tăng 12,1% lên 21,07 tỷ USD",
-      "impact": "↑",
-      "note": "GDP quý 3 tăng 9,95%, 9 tháng tăng 9,01%. Vốn FDI thực hiện 9 tháng đạt 21,07 tỷ USD, tăng 12,1% so với cùng kỳ, mức cao nhất trong 5 năm qua."
-    },
-    {
-      "title": "Chính phủ kiểm soát nợ công không quá 60% GDP giai đoạn 2026-2030",
-      "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP. Ưu tiên sử dụng vốn vay hiệu quả, cải thiện xếp hạng tín nhiệm."
-    },
-    {
-      "title": "EuroCham: Niềm tin kinh doanh BCI 78,3 điểm, 64% doanh nghiệp \"tốt\" hay \"rất tốt\"",
-      "impact": "↑",
-      "note": "Chỉ số Niềm tin Kinh doanh (BCI) EuroCham quý 3 đạt 78,3 điểm. 64% doanh nghiệp khảo sát đánh giá tình hình kinh doanh \"tốt\" hoặc \"rất tốt\", 28% giữ thái độ trung lập."
-    },
-    {
-      "title": "Kosy giảm 77% trong 1 tháng, 19 phiên giảm sàn liên tiếp",
+      "title": "IMF cảnh báo lợi suất trái phiếu tăng",
       "impact": "↓",
-      "note": "KOS giảm hết biên độ 6,95% xuống 7.760 đồng/cổ phiếu, phiên giảm sàn thứ 19 liên tiếp. Vốn hóa bị thổi bay 5.500 tỷ đồng; 76 triệu cổ phiếu (35% lượng) chất sàn không có lực cầu."
+      "note": "IMF dự báo kinh tế châu Á tăng 4,8% năm 2026, nhưng cảnh báo lợi suất trái phiếu chính phủ toàn cầu tiếp tục tăng do chính sách tiền tệ Mỹ thắt chặt. Áp lực tăng lợi suất dự báo duy trì ở châu Á - Thái Bình Dương, ảnh hưởng định giá cổ phiếu."
+    },
+    {
+      "title": "FDI 9 tháng 21,07 tỷ USD, cao nhất 5 năm",
+      "impact": "↑",
+      "note": "Vốn FDI thực hiện 9 tháng đạt 21,07 tỷ USD, tăng 12,1% so với cùng kỳ, cao nhất cùng kỳ 5 năm qua. GDP tăng 9,01% 9 tháng, quý 3 là 9,95%, tạo nền tảng tăng tốc trong quý 4."
+    },
+    {
+      "title": "Vietbank lãi 9 tháng 1.297 tỷ đồng, +50%",
+      "impact": "↑",
+      "note": "Vietbank báo lãi trước thuế 9 tháng 2026 ước đạt 1.297 tỷ đồng, tăng 50% so với cùng kỳ. Chào bán 296 triệu cổ phiếu với giá 10.000 đồng/cổ phiếu, tỷ lệ 100:25."
+    },
+    {
+      "title": "Chính phủ kiểm soát nợ công không quá 60% GDP",
+      "impact": "↑",
+      "note": "Quyết định 1989/QĐ-TTg sửa đổi chiến lược nợ công đến 2030: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP. Ưu tiên bố trí vốn cho dự án hạ tầng then chốt, tạo khung pháp lý rõ ràng cho đầu tư."
+    },
+    {
+      "title": "PV GAS lãi quý 3 tăng 68%",
+      "impact": "↑",
+      "note": "Lợi nhuận trước thuế PV GAS quý 3 đạt 5,4 ngàn tỷ đồng. Doanh thu 9 tháng 120,9 ngàn tỷ đồng tăng 30%, lợi nhuận 9 tháng 16,6 ngàn tỷ đồng tăng 31%, sản lượng vượt kế hoạch 3-5%."
+    },
+    {
+      "title": "EuroCham: Chỉ số niềm tin kinh doanh 78,3 điểm",
+      "impact": "↑",
+      "note": "Chỉ số BCI quý 3/2026 đạt 78,3 điểm. 64% doanh nghiệp đánh giá tình hình kinh doanh 'tốt' hoặc 'rất tốt', phản ánh lạc quan về triển vọng bền vững khi nhu cầu quốc tế chững lại."
     }
   ]
 }
