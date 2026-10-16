@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam tiếp tục tăng trưởng khỏe (9,01% trong 9 tháng) và các ngân hàng ghi nhận lợi nhuận tăng mạnh, tạo nên bối cảnh tích cực cho thị trường chứng khoán. Tuy nhiên, IMF cảnh báo kinh tế châu Á đang chậm lại với rủi ro từ lãi suất trái phiếu toàn cầu tăng cao, đồng thời áp lực lạm phát và biến động tỷ giá vẫn là mối quan tâm lớn trong quý cuối năm. Chính sách nợ công được kiểm soát chặt chẽ với mức không quá 60% GDP, hỗ trợ ổn định tài chính quốc gia.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì tăng trưởng mạnh (GDP 9 tháng 9,01%, quý 3 là 9,95%) với chính sách nợ công khôn khéo (≤60% GDP), hỗ trợ sự phục hồi của ngành ngân hàng và các doanh nghiệp năng lượng. Tuy vậy, dòng vốn ngoại rút khắp châu Á cùng cảnh báo từ IMF về chậm lại kinh tế và áp lực lãi suất đặt ra rủi ro ngắn hạn cho thị trường chứng khoán.",
   "top": [
     {
-      "title": "IMF cảnh báo kinh tế châu Á chậm lại, lãi suất trái phiếu tăng",
+      "title": "Chính sách nợ công khôn khéo hỗ trợ bền vững",
+      "impact": "↑",
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg (15/10/2026) thiết lập mục tiêu nợ công ≤60% GDP, nợ Chính phủ ≤50% GDP giai đoạn 2026-2030, duy trì an toàn tài chính quốc gia và khả năng trả nợ dài hạn."
+    },
+    {
+      "title": "Vietbank tăng vốn điều lệ, lãi 9 tháng tăng 50%",
+      "impact": "↑",
+      "note": "VBB chào bán 296 triệu cổ phiếu với giá 10.000 đồng/cp, tăng vốn điều lệ từ 11.846 tỷ đồng lên 14.807 tỷ đồng. Lợi nhuận 9 tháng đầu 2026 ước đạt 1.297 tỷ đồng, tăng 50% so cùng kỳ."
+    },
+    {
+      "title": "PV GAS lãi quý 3 cao, doanh thu 9 tháng tăng 30%",
+      "impact": "↑",
+      "note": "PV GAS ghi nhận lãi trước thuế 5.4 ngàn tỷ đồng quý 3 tăng 68%. Doanh thu hợp nhất 9 tháng đạt 120.9 ngàn tỷ đồng, tăng 30%, sản lượng khí/LNG vượt kế hoạch 3-5%."
+    },
+    {
+      "title": "GDP quý 3 tăng 9,95%, duy trì động lực mạnh",
+      "impact": "↑",
+      "note": "Kinh tế Việt Nam quý 3/2026 tăng 9,95%, GDP 9 tháng đạt 9,01%. Vốn FDI 9 tháng đạt 21,07 tỷ USD tăng 12,1%; giải ngân vốn đầu tư công đạt 62,9% kế hoạch."
+    },
+    {
+      "title": "KOS giảm sàn 19 lần, mất 77% giá trị vốn hóa",
       "impact": "↓",
-      "note": "Tăng trưởng kinh tế châu Á dự báo 4,8% năm 2026 và 4,4% năm 2027; lợi suất trái phiếu chính phủ toàn cầu duy trì áp lực tăng, tạo rủi ro cho các nền kinh tế mới nổi như Việt Nam."
+      "note": "Kosy (mã KOS) giảm sàn lần thứ 19 liên tiếp ngày 15/10, giảm 77% chỉ trong 1 tháng. Vốn hóa thị trường từ 7.180 tỷ đồng xuống còn 1.680 tỷ đồng. Có 76 triệu cổ phiếu (35% lượng) chất sàn không ai mua."
     },
     {
-      "title": "Vietbank chào bán 296 triệu cổ phiếu, lãi 9 tháng tăng 50%",
-      "impact": "↑",
-      "note": "Vietbank dự kiến chào bán 296 triệu cổ phiếu với giá 10.000 đ/cp để tăng vốn điều lệ lên 14.807 tỷ đ; lợi nhuận trước thuế 9 tháng ước đạt 1.297 tỷ đ, tăng 50% so với cùng kỳ."
-    },
-    {
-      "title": "Chiến lược nợ công đến 2030: mục tiêu không quá 60% GDP",
-      "impact": "→",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký QĐ số 1989/QĐ-TTg ngày 15/10/2026 sửa đổi chiến lược nợ công đến 2030, với mục tiêu nợ công không quá 60% GDP, nợ Chính phủ không quá 50% GDP."
-    },
-    {
-      "title": "Cổ phiếu KOS lao dốc 77%, 19 phiên giảm sàn liên tiếp",
+      "title": "IMF cảnh báo kinh tế châu Á chậm lại, rủi ro lãi suất",
       "impact": "↓",
-      "note": "Mã KOS của Kosy ghi nhận phiên giảm sàn thứ 19 liên tiếp, giảm tổng cộng 77% trong hơn 1 tháng; vốn hóa thị trường bị thổi bay 5.500 tỷ đ; 35% lượng cổ phiếu bị 'chất sàn' không có lực cầu."
-    },
-    {
-      "title": "PV GAS lãi trước thuế quý III tăng 68% lên 5.4 ngàn tỷ đ",
-      "impact": "↑",
-      "note": "PV GAS báo cáo doanh thu hợp nhất 9 tháng đạt 120.9 ngàn tỷ đ (tăng 30%), lợi nhuận trước thuế hợp nhất 16.6 ngàn tỷ đ (tăng 31%); quý III lãi trước thuế 5.4 ngàn tỷ đ, tăng 68%."
-    },
-    {
-      "title": "Kinh tế Việt tăng tốc, GDP 9 tháng 9,01%, quý III 9,95%",
-      "impact": "↑",
-      "note": "GDP 9 tháng tăng 9,01%, quý III tăng 9,95%; vốn FDI 9 tháng đạt 21,07 tỷ USD (tăng 12,1%), giải ngân vốn công đến hết tháng 9 đạt 62,9% kế hoạch, còn nhiều áp lực trong quý IV."
+      "note": "IMF dự báo kinh tế châu Á tăng 4,8% năm 2026 và 4,4% năm 2027 (chậm lại). Lợi suất trái phiếu chính phủ toàn cầu tăng, chính sách tiền tệ Mỹ thắt chặt dự kiến tiếp tục gây áp lực lên thị trường châu Á."
     }
   ]
 }
