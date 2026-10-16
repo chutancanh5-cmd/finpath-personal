@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng mạnh (GDP quý 3 tăng 9,95%, chín tháng tăng 9,01%) với vốn FDI tăng 12,1% lên 21,07 tỷ USD. Doanh nghiệp lớn ghi nhận lợi nhuận tốt (Vietbank +50%, PV GAS +68%) và chính phủ kiểm soát nợ công ở mức 60% GDP. Tuy nhiên, áp lực tiêu cực đến từ dòng vốn ngoại bán ròng liên tục (phiên thứ 10, 685 tỷ đồng) và tốc độ tăng trưởng lợi nhuận ngành ngân hàng dự báo chậm lại còn 15,4% năm 2027. Sự sụp đổ của KOS (-77% trong 1 tháng) cũng gây lo ngại về rủi ro thanh khoản.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Kinh tế Việt Nam bước vào quý 4 với động lực mạnh: GDP 9 tháng đạt 9,01%, quý 3 tăng 9,95%, FDI tăng 12,1% lên 21,07 tỷ USD. Ngành ngân hàng (Vietbank +50%) và dầu khí (PV GAS +68%) báo lãi tăng trưởng hai chữ số. Chính phủ cam kết kiểm soát nợ công không quá 60% GDP. Niềm tin kinh doanh châu Âu ở mức cao (EuroCham BCI 78,3). Rủi ro đến từ sự sụp đổ của Kosy (-77% trong 1 tháng) và lo ngại chiến tranh thương mại EU-Trung Quốc.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng ngày thứ 10 liên tiếp, 685 tỷ đồng",
-      "impact": "↓",
-      "note": "Phiên 15/10 khối ngoại rút ròng 685 tỷ đồng, tiếp tục chuỗi bán ròng sang phiên thứ 10 liên tiếp; tự doanh công ty chứng khoán cũng bán ròng gần 241 tỷ đồng. Áp lực tập trung vào VIC 134 tỷ, STB 131 tỷ, TCB 96 tỷ."
-    },
-    {
-      "title": "GDP quý 3 tăng 9,95%, chín tháng tăng 9,01%",
+      "title": "Vietbank lãi 9 tháng tăng 50% lên 1.297 tỷ đồng, chào bán 296 triệu cổ phiếu",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9,95%, duy trì xu hướng tăng trưởng tích cực. Vốn FDI thực hiện 9 tháng đạt 21,07 tỷ USD tăng 12,1% so với cùng kỳ, là mức cao nhất trong 5 năm qua."
+      "note": "Vietbank lợi nhuận trước thuế riêng lẻ 9 tháng đầu 2026 ước đạt 1.297 tỷ đồng, tăng 50% so với cùng kỳ. Chào bán 296 triệu cổ phiếu với giá 10.000 đồng/cp, tăng vốn điều lệ lên 14.807 tỷ đồng."
     },
     {
-      "title": "PV GAS lợi nhuận 9 tháng tăng 31%, doanh thu tăng 30%",
+      "title": "PV GAS lãi 9 tháng tăng 31%, doanh thu tăng 30%",
       "impact": "↑",
-      "note": "PV GAS ghi nhận lợi nhuận trước thuế hợp nhất 9 tháng đạt 16.600 tỷ đồng (tăng 31%), doanh thu hợp nhất 120.900 tỷ đồng (tăng 30%). Sản lượng khí tiếp nhận tăng 18% so với cùng kỳ."
+      "note": "PV GAS lợi nhuận trước thuế hợp nhất 9 tháng đạt 16,6 ngàn tỷ đồng (tăng 31%), doanh thu hợp nhất 120,9 ngàn tỷ đồng (tăng 30%). Sản lượng khí tiếp nhận tăng 18% so với cùng kỳ."
     },
     {
-      "title": "Vietbank 9 tháng lợi nhuận tăng 50% lên 1.297 tỷ đồng",
+      "title": "GDP 9 tháng đạt 9,01%, FDI tăng 12,1% lên 21,07 tỷ USD",
       "impact": "↑",
-      "note": "Vietbank dự kiến chào bán 296 triệu cổ phiếu với giá 10.000 đồng/cp, tăng vốn điều lệ lên 14.807 tỷ đồng. Lợi nhuận trước thuế riêng lẻ 9 tháng đạt 1.297 tỷ đồng, tăng 50% so với cùng kỳ."
+      "note": "GDP quý 3 tăng 9,95%, 9 tháng tăng 9,01%. Vốn FDI thực hiện 9 tháng đạt 21,07 tỷ USD, tăng 12,1% so với cùng kỳ, mức cao nhất trong 5 năm qua."
     },
     {
-      "title": "Ngành ngân hàng dự báo tăng trưởng lợi nhuận chậm lại",
-      "impact": "↓",
-      "note": "SSI Research dự báo lợi nhuận trước thuế ngân hàng năm 2027 tăng 15,4%, thấp hơn mức tăng 19,5% ước tính 2026. Áp lực đến từ huy động vốn, biên lãi thuần hẹp và chất lượng tài sản suy giảm."
+      "title": "Chính phủ kiểm soát nợ công không quá 60% GDP giai đoạn 2026-2030",
+      "impact": "↑",
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Quyết định 1989/QĐ-TTg: nợ công hằng năm không quá 60% GDP, nợ Chính phủ không quá 50% GDP. Ưu tiên sử dụng vốn vay hiệu quả, cải thiện xếp hạng tín nhiệm."
     },
     {
-      "title": "KOS sụp đổ 77% trong 1 tháng, 19 phiên giảm sàn liên tiếp",
+      "title": "EuroCham: Niềm tin kinh doanh BCI 78,3 điểm, 64% doanh nghiệp \"tốt\" hay \"rất tốt\"",
+      "impact": "↑",
+      "note": "Chỉ số Niềm tin Kinh doanh (BCI) EuroCham quý 3 đạt 78,3 điểm. 64% doanh nghiệp khảo sát đánh giá tình hình kinh doanh \"tốt\" hoặc \"rất tốt\", 28% giữ thái độ trung lập."
+    },
+    {
+      "title": "Kosy giảm 77% trong 1 tháng, 19 phiên giảm sàn liên tiếp",
       "impact": "↓",
-      "note": "KOS giảm hết biên độ 6,95% xuống 7.760 đồng/cổ phiếu, đánh dấu phiên giảm sàn thứ 19 liên tiếp. Vốn hóa thị trường bị thổi bay hơn 5.500 tỷ đồng; có 76 triệu cổ phiếu chất sàn không có lực cầu."
+      "note": "KOS giảm hết biên độ 6,95% xuống 7.760 đồng/cổ phiếu, phiên giảm sàn thứ 19 liên tiếp. Vốn hóa bị thổi bay 5.500 tỷ đồng; 76 triệu cổ phiếu (35% lượng) chất sàn không có lực cầu."
     }
   ]
 }
