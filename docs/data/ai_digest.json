@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-16",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng mạnh với GDP 9 tháng 9,01%, FDI 21,07 tỷ USD tăng 12,1%, nhiều doanh nghiệp báo cáo lợi nhuận tăng trưởng hai con số. Tuy nhiên, thị trường chứng khoán chịu áp lực lớn khi VN-Index thủng 1700 điểm, khối ngoại liên tục bán ròng phiên thứ 10, phản ánh lo ngại về thanh khoản và triển vọng quý 4. UBS dự báo quỹ toàn cầu sẽ tham gia VN nhiều hơn sau nâng hạng FTSE, mở ra cơ hội dài hạn.",
+  "summary_vi": "Kinh tế Việt Nam tiếp tục tăng tốc với GDP 9 tháng 9.01% và triển vọng mục tiêu 10% cả năm, FDI tăng 12.1% đạt 21.07 tỷ USD. PV GAS ghi nhận lợi nhuận mạnh với tăng trưởng 68% và dòng vốn nước ngoài từ FTSE nâng hạng dự kỳ gia tăng. Tuy nhiên, thị trường chứng khoán đang chịu áp lực khi VN-Index thủng mốc 1700 điểm, khối ngoại bán ròng 10 phiên liên tiếp, và rủi ro thanh khoản từ hiện tượng Kosy giảm sàn liên tiếp mất 77% giá trị.",
   "top": [
     {
-      "title": "VN-Index thủng 1700 điểm, khối ngoại bán ròng 685 tỷ",
+      "title": "Dòng vốn nước ngoài từ FTSE tăng, lạc quan dài hạn",
+      "impact": "↑",
+      "note": "Giám đốc UBS David Rabinowitz nói từ tháng 9 tới nay nhiều quỹ toàn cầu có hành động tích cực hơn; Việt Nam sẽ chứng kiến gia tăng nhà đầu tư tổ chức khi FTSE hoàn tất các giai đoạn nâng hạng, dòng vốn sẽ tạo thay đổi rõ nét."
+    },
+    {
+      "title": "PV GAS lãi trước thuế 5.4 ngàn tỷ, tăng 68% quý 3",
+      "impact": "↑",
+      "note": "9 tháng 2026: lợi nhuận trước thuế hợp nhất 16.6 ngàn tỷ đồng (+31%), doanh thu 120.9 ngàn tỷ đồng (+30%); sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so cùng kỳ; hoạt động sản xuất vượt kế hoạch trong bối cảnh xung đột Trung Đông."
+    },
+    {
+      "title": "Kinh tế Q4 tăng tốc, GDP 9 tháng 9.01%, FDI mạnh",
+      "impact": "↑",
+      "note": "GDP 9 tháng 2026 tăng 9.01%, quý III tăng 9.95%; FDI thực hiện 9 tháng đạt 21.07 tỷ USD, tăng 12.1% và cao nhất 5 năm qua; vốn đầu tư công giải ngân 62.9% kế hoạch đến cuối tháng 9, tạo nền tảng cho quý IV tăng tốc về mục tiêu 10% cả năm."
+    },
+    {
+      "title": "VN-Index thủng 1700 điểm, áp lực tiếp tục ngắn hạn",
       "impact": "↓",
-      "note": "Chỉ số đóng cửa 1698,35 điểm phiên 15/10, giảm 6,5 điểm. Khối ngoại rút ròng 685 tỷ đồng, nối dài chuỗi bán ròng sang phiên thứ 10 liên tiếp. Áp lực từ ngoại tập trung vào VIC (134 tỷ), STB (131 tỷ), TCB (96 tỷ). Vùng hỗ trợ 1680-1690, nếu không lấy lại 1700 trong tuần này có thể kiểm định 1680."
+      "note": "VN-Index phiên 15/10 giảm hết biên độ xuống 1698.35 điểm; nến Doji với bóng dài cho thấy lực cầu còn yếu; RSI quá bán nhưng MACD duy trì đà giảm, chưa có tín hiệu đảo chiều; vùng hỗ trợ 1680-1690, nếu không lấy lại 1700 trong tuần sẽ tiếp tục giảm."
     },
     {
-      "title": "GDP 9 tháng 9,01%, quý III 9,95%, FDI 21,07 tỷ USD tăng 12,1%",
-      "impact": "↑",
-      "note": "GDP quý III đạt 9,95%, 9 tháng đạt 9,01% tạo nền tảng tăng tốc quý IV. FDI thực hiện 21,07 tỷ USD tăng 12,1% so cùng kỳ, mức cao nhất 5 năm cùng kỳ. Giải ngân vốn công đến hết tháng 9 đạt 62,9% kế hoạch, hướng đến mục tiêu 10%+ GDP cả năm."
-    },
-    {
-      "title": "UBS: Quỹ toàn cầu sẽ tham gia VN nhiều hơn sau FTSE",
-      "impact": "↑",
-      "note": "David Rabinowitz (UBS) cho rằng từ tháng 9 đến nay nhiều nhà quản lý quỹ toàn cầu có góc nhìn và hành động tích cực hơn. VN vừa trở thành thành viên chỉ số FTSE, sắp bước vào giai đoạn 2, 3 và 4 sẽ có dòng vốn chỉ số đổ vào tạo thay đổi rõ nét, tương tự kinh nghiệm Philippines và Qatar."
-    },
-    {
-      "title": "PV GAS lãi quý III 5,4 ngàn tỷ tăng 68%, 9 tháng tăng 31%",
-      "impact": "↑",
-      "note": "Lợi nhuận trước thuế quý III đạt 5,4 ngàn tỷ tăng 68%. Doanh thu hợp nhất 9 tháng đạt 120,9 ngàn tỷ tăng 30%, lợi nhuận 16,6 ngàn tỷ tăng 31%. Sản lượng khí/LNG vượt kế hoạch 3-5%, tăng 18% so cùng kỳ, đảm bảo an ninh năng lượng dù xung đột địa chính trị Trung Đông."
-    },
-    {
-      "title": "MBS lợi nhuận quý III giảm 5%, doanh thu môi giới giảm 66%",
+      "title": "Khối ngoại bán ròng phiên 10 liên tiếp, rút 685 tỷ",
       "impact": "↓",
-      "note": "MBS lợi nhuận ròng quý III giảm 5% về mức 315 tỷ đồng. Doanh thu mảng môi giới giảm 66%, phản ánh thanh khoản giao dịch chứng khoán đi xuống. Chi phí trả lãi tăng vọt, mặt bằng lãi vay trong nền kinh tế dâng lên áp lực lên lợi nhuận ngân hàng."
+      "note": "Phiên 15/10: khối ngoại rút ròng 685 tỷ đồng, nối dài chuỗi bán ròng sang phiên 10 liên tiếp; áp lực mạnh vào VIC (134 tỷ), STB (131 tỷ), TCB (96 tỷ), VIX, HPG, CTG; tự doanh cũng bán 241 tỷ đồng phiên 2 liên tiếp."
     },
     {
-      "title": "Vietbank lãi 9 tháng tăng 50% ước 1,297 tỷ, chào bán 296 triệu cổ phiếu",
-      "impact": "↑",
-      "note": "Vietbank ghi nhận lợi nhuận trước thuế riêng lẻ 9 tháng ước đạt 1,297 tỷ đồng, tăng 50% so cùng kỳ. Dự kiến chào bán 296 triệu cổ phiếu giá 10,000 đồng/cổ phiếu, tăng vốn điều lệ lên 14,807 tỷ đồng, phản ánh niềm tin vào tăng trưởng bền vững của ngân hàng."
+      "title": "Kosy mất 77% trong 1 tháng, 19 phiên giảm sàn",
+      "impact": "↓",
+      "note": "KOS giảm sàn phiên 19 liên tiếp xuống 7.760 đồng/cổ phiếu; vốn hóa mất 5.500 tỷ đồng; 76 triệu cổ phiếu (35% lượng) chất sàn chỉ có 50.700 khớp lệnh; áp lực bán giải chấp từ cổ đông liên quan Chủ tịch Nguyễn Việt Cường từ ngày 9/10 tới."
     }
   ]
 }
