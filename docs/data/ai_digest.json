@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực từ khối ngoại bán ròng lần thứ 11 liên tiếp và lãi suất cao (7,5-7,9%/năm), khiến VN-Index giảm 1,68% trong tuần. Rủi ro vốn ngoài lan tỏa từ khu vực (Indonesia rơi 40% từ đầu năm) làm suy yếu niềm tin nhà đầu tư. Tuy vậy, chính sách tăng tốc GDP 2027 đạt 10%+ và cơ hội hạ tầng TPHCM mở ra triển vọng dài hạn, trong khi thu nhập thực của dân tăng chậm hơn chi phí sinh hoạt cần lưu ý.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt với áp lực ngắn hạn từ thanh khoản yếu, khối ngoại bán ròng liên tiếp và lãi suất cao không giảm, tuy nhiên nền tảng vĩ mô vẫn mạnh với GDP tăng 9,01% và mục tiêu dài hạn 2027 đạt 10%+. Rủi ro từ chi phí sống tăng mạnh hơn thu nhập, lạm phát 4,52% ổn định, tạo rào cản cho hộ gia đình và doanh nghiệp. Định giá hiện ở mức hấp dẫn (P/E 13,5 lần) nhưng cần lực cầu mạnh hơn để bứt phá.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng phiên thứ 11 liên tiếp, thanh khoản 11.000 tỷ thấp nhất",
+      "title": "Lãi suất chưa thể hạ nhiệt, áp lực chi phí vốn",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 559 tỷ đồng toàn thị trường phiên 16/10, kéo dài chuỗi bán ròng thứ 11 liên tiếp; VIC bị bán ròng 153 tỷ, giá trị giao dịch HOSE chưa đến 11.000 tỷ đồng trong điều kiện thanh khoản kém."
+      "note": "GDP 9 tháng tăng 9,01%, lạm phát 4,52%, lãi suất liên ngân hàng tháng 6,1%, lãi suất tiền gửi 12 tháng 7,4%. Áp lực lạm phát và nhu cầu vốn dài hạn hạn chế dư địa giảm lãi suất cho vay, tăng chi phí tài chính doanh nghiệp."
     },
     {
-      "title": "Indonesia: IDX giảm 11%, mất 40% từ đầu năm, MSCI cảnh báo",
+      "title": "Thị trường lùi sâu, thanh khoản suy yếu",
       "impact": "↓",
-      "note": "Chỉ số Jakarta Composite giảm hơn 11% trong 1 phiên (mạnh nhất kể từ 1998), cộng dồn mất gần 40% từ đầu năm; khối ngoại bán ròng 4,7 tỷ USD; MSCI cảnh báo tái phân loại do lo ngại minh bạch và cơ cấu sở hữu."
+      "note": "VN-Index tuần 12-16/10 giảm 29,18 điểm (-1,68%), thanh khoản HOSE phiên 16/10 chỉ 10.728 tỷ đồng (giảm 25% so với hôm trước), khối ngoại bán ròng phiên thứ 11 liên tiếp. Áp lực bán tập trung tại nhóm blue-chips, KOS giảm sàn 20 phiên."
     },
     {
-      "title": "VN-Index giảm 1,68% trong tuần, lùi về 1.705 điểm",
+      "title": "Chi phí sống tăng nhanh hơn thu nhập",
       "impact": "↓",
-      "note": "VN-Index giảm 29,18 điểm (-1,68%) trong tuần, xuống 1.705,91 điểm; HNX-Index giảm 2,47 điểm (-0,94%); áp lực bán tập trung ở nhóm blue-chips, thanh khoản yếu tiếp tục cần cải thiện."
+      "note": "GDP tăng 9,01%, thu nhập bình quân tăng 9,1%, nhưng tiền thuê nhà, thực phẩm, xăng xe tăng mạnh hơn. Người lao động chi 30-40% lương cho ăn ở, còn lại chỉ để dành vài trăm nghìn/tháng, hạn chế tiêu dùng và tích lũy."
     },
     {
-      "title": "Lãi suất tiền gửi 12 tháng lên 7,5%/năm, 18 tháng 7,9%/năm",
-      "impact": "↓",
-      "note": "Sacombank dẫn đầu kỳ hạn 12 tháng ở 7,5%/năm, VPBank niêm yết cao nhất kỳ hạn 18 tháng 7,9%/năm; các ngân hàng cạnh tranh huy động tiền gửi dài hạn áp lực, tăng chi phí vốn cho tín dụng trung dài hạn."
-    },
-    {
-      "title": "Mục tiêu GDP 2027 tăng từ 10% trở lên, kế hoạch tăng tốc",
+      "title": "TPHCM sau hợp nhất trở thành cực tăng trưởng mới",
       "impact": "↑",
-      "note": "Phó Thủ tướng Phạm Gia Túc công bố năm 2027 là năm tăng tốc, bứt phá với mục tiêu GDP từ 10% trở lên, gắn giữ ổn định vĩ mô; là tín hiệu chính sách rõ ràng hỗ trợ dài hạn."
+      "note": "Diện tích 6.772 km², dân số 13,5 triệu, đóng góp 24% GDP quốc gia, FDI 6,7 tỷ USD. Hợp nhất với Bình Dương và Bà Rịa-Vũng Tàu tạo cơ hội phát triển hạ tầng, liên kết vùng và tăng trưởng hai chữ số."
     },
     {
-      "title": "TPHCM hợp nhất: 13,5 triệu dân, 24% GDP, 6,7 tỷ USD FDI",
+      "title": "Năm 2027 hướng tới tăng trưởng 10%+",
       "impact": "↑",
-      "note": "TPHCM sau hợp nhất Bình Dương và BR-VT có 13,5 triệu dân, diện tích 6.772 km², đóng góp 24% GDP cả nước, hấp dẫn 6,7 tỷ USD FDI (2024); cơ hội tổ chức lại hạ tầng, hình thành các cực tăng trưởng mới."
+      "note": "Mục tiêu GDP 2027 từ 10% trở lên, được xác định là năm tăng tốc, bứt phá, chuyển từ chủ trương sang hành động cụ thể. Gắn với giữ ổn định vĩ mô, kiểm soát lạm phát và các cân đối lớn."
+    },
+    {
+      "title": "Định giá trở về mức đáy, cơ hội dài hạn",
+      "impact": "↑",
+      "note": "VN-Index giao dịch P/E 13,5 lần, mức thấp bằng vùng đáy Covid, phản ánh phần lớn áp lực lãi suất. Giá trị giao dịch bình quân 508 triệu USD (thấp nhất năm), tạo điều kiện cho nhà đầu tư dài hạn."
     }
   ]
 }
