@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-16",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực ngắn hạn từ dòng vốn ngoài bán ròng liên tiếp (phiên thứ 11) và lãi suất tăng, trong khi định giá đã về vùng Covid lows (P/E 13.5x). Hạn chế thanh khoản và dòng vốn yếu là rủi ro, nhưng chính sách tăng tốc GDP 10%+ năm 2027 và hạ tầng TPHCM hợp nhất mở ra cơ hội tăng trưởng trung hạn. Mối lo đáng chú ý là thu nhập thực của dân số tăng chậm hơn chi phí sinh hoạt dù GDP tăng 9%.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực từ khối ngoại bán ròng lần thứ 11 liên tiếp và lãi suất cao (7,5-7,9%/năm), khiến VN-Index giảm 1,68% trong tuần. Rủi ro vốn ngoài lan tỏa từ khu vực (Indonesia rơi 40% từ đầu năm) làm suy yếu niềm tin nhà đầu tư. Tuy vậy, chính sách tăng tốc GDP 2027 đạt 10%+ và cơ hội hạ tầng TPHCM mở ra triển vọng dài hạn, trong khi thu nhập thực của dân tăng chậm hơn chi phí sinh hoạt cần lưu ý.",
   "top": [
     {
-      "title": "2027 phấn đấu GDP tăng từ 10% trở lên, kế hoạch tăng tốc bứt phá",
+      "title": "Khối ngoại bán ròng phiên thứ 11 liên tiếp, thanh khoản 11.000 tỷ thấp nhất",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 559 tỷ đồng toàn thị trường phiên 16/10, kéo dài chuỗi bán ròng thứ 11 liên tiếp; VIC bị bán ròng 153 tỷ, giá trị giao dịch HOSE chưa đến 11.000 tỷ đồng trong điều kiện thanh khoản kém."
+    },
+    {
+      "title": "Indonesia: IDX giảm 11%, mất 40% từ đầu năm, MSCI cảnh báo",
+      "impact": "↓",
+      "note": "Chỉ số Jakarta Composite giảm hơn 11% trong 1 phiên (mạnh nhất kể từ 1998), cộng dồn mất gần 40% từ đầu năm; khối ngoại bán ròng 4,7 tỷ USD; MSCI cảnh báo tái phân loại do lo ngại minh bạch và cơ cấu sở hữu."
+    },
+    {
+      "title": "VN-Index giảm 1,68% trong tuần, lùi về 1.705 điểm",
+      "impact": "↓",
+      "note": "VN-Index giảm 29,18 điểm (-1,68%) trong tuần, xuống 1.705,91 điểm; HNX-Index giảm 2,47 điểm (-0,94%); áp lực bán tập trung ở nhóm blue-chips, thanh khoản yếu tiếp tục cần cải thiện."
+    },
+    {
+      "title": "Lãi suất tiền gửi 12 tháng lên 7,5%/năm, 18 tháng 7,9%/năm",
+      "impact": "↓",
+      "note": "Sacombank dẫn đầu kỳ hạn 12 tháng ở 7,5%/năm, VPBank niêm yết cao nhất kỳ hạn 18 tháng 7,9%/năm; các ngân hàng cạnh tranh huy động tiền gửi dài hạn áp lực, tăng chi phí vốn cho tín dụng trung dài hạn."
+    },
+    {
+      "title": "Mục tiêu GDP 2027 tăng từ 10% trở lên, kế hoạch tăng tốc",
       "impact": "↑",
-      "note": "Phó Thủ tướng Phạm Gia Túc công bố tại hội nghị 16/10 của Bộ Chính trị rằng 2027 là năm tăng tốc, bứt phá, tạo đà thực hiện Nghị quyết Đại hội XIV, với mục tiêu tăng trưởng GDP từ 10% trở lên gắn với giữ vững ổn định vĩ mô. Đây là tín hiệu chính sách rõ ràng hỗ trợ dài hạn cho thị trường chứng khoán."
+      "note": "Phó Thủ tướng Phạm Gia Túc công bố năm 2027 là năm tăng tốc, bứt phá với mục tiêu GDP từ 10% trở lên, gắn giữ ổn định vĩ mô; là tín hiệu chính sách rõ ràng hỗ trợ dài hạn."
     },
     {
-      "title": "TPHCM hợp nhất: 13,5 triệu dân, 24% GDP, 6,7 tỷ USD FDI, mở ra cực tăng trưởng",
+      "title": "TPHCM hợp nhất: 13,5 triệu dân, 24% GDP, 6,7 tỷ USD FDI",
       "impact": "↑",
-      "note": "TPHCM sau hợp nhất với Bình Dương và BR-VT có diện tích 6.772 km², dân số 13,5 triệu người, đóng góp 24% GDP cả nước và hấp dẫn 6,7 tỷ USD FDI (theo 2024). Chuyên gia đánh giá đây là thời cơ ngàn năm để tổ chức lại mạng lưới hạ tầng, tăng cường liên kết vùng và hình thành các cực tăng trưởng mới."
-    },
-    {
-      "title": "Lãi suất tăng, định giá VN-Index về vùng đáy Covid, P/E 13,5x",
-      "impact": "→",
-      "note": "Dragon Capital phân tích VN-Index giao dịch ở mức P/E 13,5x (lợi nhuận 12 tháng gần nhất), đã phản ánh phần lớn tác động lãi suất. Áp lực lãi suất từ nguồn vốn dài hạn (12 tháng tăng 7,4% trong 9 tháng); nhóm chứng khoán, bất động sản giảm mạnh. Định giá quay về vùng đáy Covid cân bằng rủi ro lãi suất."
-    },
-    {
-      "title": "Khối ngoại bán ròng phiên thứ 11 liên tiếp, thanh khoản 10.795 tỷ thấp nhất 20 phiên",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 559 tỷ đồng toàn thị trường phiên 16/10, kéo dài chuỗi bán ròng lên phiên thứ 11 liên tiếp, với HDB bị bán áp lực nhất. Thanh khoản HOSE chỉ 10.795 tỷ đồng (thấp nhất trong 20 phiên gần đây), dòng vốn ngoại âm tiếp tục cản trở nỗ lực phục hồi."
-    },
-    {
-      "title": "Indonesia: IDX giảm 11% trong 1 phiên, mất 40% từ đầu năm, rủi ro khu vực",
-      "impact": "↓",
-      "note": "Chỉ số Jakarta Composite Indonesia giảm hơn 11% trong phiên (mức giảm mạnh nhất kể từ tháng 1/1998), cộng dồn mất gần 40% từ đầu năm. Khối ngoại bán ròng 4,7 tỷ USD; MSCI cảnh báo tái phân loại do lo ngại minh bạch, cơ cấu sở hữu và giao dịch. Rủi ro lây lan vốn ngoại từ khu vực Đông Nam Á."
-    },
-    {
-      "title": "GDP tăng 9,01% nhưng thu nhập thực yếu, chi phí sinh hoạt tăng nhanh hơn",
-      "impact": "↓",
-      "note": "GDP 9 tháng tăng 9,01%, thu nhập bình quân công nhân tăng 9,1%, nhưng tiền nhà, thực phẩm, xăng xe tăng mạnh hơn. Công nhân Hà Nội lương 10,5 triệu đồng/tháng (tăng) nhưng nhà, điện nước, ăn uống tăng 8-10 triệu đồng, gần như chi hết hàng tháng. Sức mua thực suy yếu là rủi ro tiêu dùng dù GDP tăng cao."
+      "note": "TPHCM sau hợp nhất Bình Dương và BR-VT có 13,5 triệu dân, diện tích 6.772 km², đóng góp 24% GDP cả nước, hấp dẫn 6,7 tỷ USD FDI (2024); cơ hội tổ chức lại hạ tầng, hình thành các cực tăng trưởng mới."
     }
   ]
 }
