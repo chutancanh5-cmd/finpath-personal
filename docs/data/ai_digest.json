@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-17",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách hỗ trợ tăng trưởng được công bố với mục tiêu GDP tăng từ 10% trở lên năm 2027, gắn với yêu cầu giảm lãi suất cho vay 1,5-2% cho sản xuất-kinh doanh, tạo động lực nền kinh tế. Kết quả kinh doanh 9 tháng tích cực: lợi nhuận ngân hàng tăng mạnh (ABBank +97%, SHB ước 14.300 tỷ đồng), cấp tín dụng phục vụ tăng trưởng. Hạ tầng đồng bộ tại TPHCM mở đường tăng trưởng hai con số với tiềm năng 13,5 triệu dân, 24% GDP cả nước, 6,7 tỷ USD FDI. Áp lực từ thị trường Mỹ (Nasdaq -2,14% tuần) cần theo dõi tác động đến cổ phiếu công nghệ.",
+  "summary_vi": "Kinh tế Việt Nam 9 tháng năm 2026 tăng trưởng 9,01% với GDP quý III tăng 9,95%, được dự kiến vượt kế hoạch. Chính phủ chỉ đạo giảm lãi suất cho vay 1,5-2% để hỗ trợ doanh nghiệp, trong khi năm 2027 phấn đấu tăng trưởng 10% trở lên. Tuy nhiên, thị trường chứng khoán diễn biến yếu với khối ngoại liên tục bán ròng và thanh khoản suy giảm, đồng thời chứng khoán Mỹ giảm mạnh do lo ngại cạnh tranh chip từ Trung Quốc. Petronas sẵn sàng hợp tác cung cấp LNG và chuyển giao công nghệ cho Việt Nam.",
   "top": [
     {
-      "title": "Mục tiêu tăng trưởng GDP 10%+ năm 2027",
+      "title": "GDP Q3 tăng 9,95%, NHNN chỉ đạo giảm lãi suất 1,5-2%",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng công bố mục tiêu tăng trưởng GDP từ 10% trở lên, GDP bình quân đầu người đạt 6.100 USD, gắn với giữ ổn định kinh tế vĩ mô và kiểm soát lạm phát. Năm 2027 được xác định là năm tăng tốc, bứt phá để thực hiện Nghị quyết Đại hội XIV."
+      "note": "Thủ tướng báo cáo GDP quý III/2026 tăng 9,95%, 9 tháng tăng 9,01%, dự kiến đạt và vượt 14/15 chỉ tiêu. NHNN được chỉ đạo giảm lãi suất cho vay từ 1,5-2% đối với sản xuất, kinh doanh và các lĩnh vực ưu tiên nhằm giảm chi phí tài chính cho doanh nghiệp."
     },
     {
-      "title": "Giảm lãi suất cho vay 1,5-2% cho sản xuất-kinh doanh",
+      "title": "Năm 2027 phấn đấu tăng trưởng GDP 10%, GDP bình quân đầu người 6.100 USD",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng yêu cầu Ngân hàng Nhà nước khẩn trương giảm lãi suất cho vay từ 1,5-2% đối với sản xuất, kinh doanh và lĩnh vực ưu tiên để hỗ trợ doanh nghiệp, giảm chi phí vốn và nâng cao khả năng tiếp cận tín dụng."
+      "note": "Thủ tướng xác định 2027 là năm tăng tốc, bứt phá với mục tiêu tăng trưởng từ 10% trở lên, GDP bình quân đầu người đạt 6.100 USD, gắn với ổn định vĩ mô và kiểm soát lạm phát, tạo kỳ vọng tích cực cho nhà đầu tư."
     },
     {
-      "title": "Lợi nhuận ngân hàng tăng mạnh 9 tháng",
-      "impact": "↑",
-      "note": "ABBank lãi 4.540 tỷ đồng, tăng 97% so với cùng kỳ, hoàn thành 100% kế hoạch lợi nhuận năm; SHB ước lãi 14.300 tỷ đồng; Nam A Bank >4.700 tỷ đồng. Toàn bộ ngân hàng ghi nhận tăng trưởng hai con số, phản ánh hoạt động kinh doanh tín dụng khỏe."
-    },
-    {
-      "title": "TPHCM: Hạ tầng đồng bộ, tiềm năng hai con số",
-      "impact": "↑",
-      "note": "Sau hợp nhất với Bình Dương và Bà Rịa-Vũng Tàu, TPHCM sở hữu dân số 13,5 triệu người, đóng góp 24% GDP cả nước, hút 6,7 tỷ USD FDI. Các chuyên gia nhận định hạ tầng đồng bộ sẽ mở đường để TPHCM tăng trưởng hai con số trong giai đoạn tới."
-    },
-    {
-      "title": "Thị trường chứng khoán Mỹ giảm mạnh tuần thứ tư",
+      "title": "Chứng khoán Mỹ giảm 2% trong tuần, Nasdaq -4%, cổ phiếu chip bị xả mạnh",
       "impact": "↓",
-      "note": "S&P 500 giảm 1,09%, Nasdaq giảm 2,14%; tuần giảm hơn 4% - mạnh nhất kể từ tháng 6. Cổ phiếu chip bị xả (Micron -5,6%, AMD gần -6%, Sandisk -6,9%) do lo ngại cạnh tranh từ nhà sản xuất chip Trung Quốc, áp lực sơ bộ đến thị trường Việt."
+      "note": "S&P 500 tuần này mất 2%, Nasdaq giảm hơn 4% do lo ngại cạnh tranh từ nhà sản xuất chip Trung Quốc. Chỉ số Nasdaq ngày 16/10 giảm 2,14%, VIX vượt 22 lần đầu trong 4 tháng, tạo áp lực bán tháo lên thị trường toàn cầu và TTCK Việt Nam."
     },
     {
-      "title": "EVF nâng tín nhiệm quốc tế: S&P B+, FiinRatings A",
+      "title": "Tốc độ tăng trưởng tăng dần từng quý, quý IV dự báo tiếp tục cải thiện",
       "impact": "↑",
-      "note": "S&P Global Ratings xếp hạng EVF B+, FiinRatings xếp A, cả hai với triển vọng Ổn định (15/10). Hai xếp hạng độc lập mới nhất khẳng định vị thế tài chính của công ty tài chính lớn nhất Việt Nam, mở rộng khả năng tiếp cận nguồn vốn quốc tế."
+      "note": "Phân tích chi tiết cho thấy tốc độ tăng trưởng GDP 6 tháng cao hơn quý I, 9 tháng cao hơn 6 tháng, quý III cao hơn quý II, tạo đà cho quý IV tiếp tục tăng hướng tới mức tăng hai chữ số cao nhất từ trước đến nay."
+    },
+    {
+      "title": "Khối ngoại bán ròng phiên thứ 11 liên tiếp, thanh khoản sụt 25%",
+      "impact": "↓",
+      "note": "VN-Index hồi phục 7,56 điểm trong phiên 16/10 nhưng trong điều kiện thanh khoản yếu, giá trị giao dịch chưa 11.000 tỷ đồng giảm 25% so với phiên trước. Khối ngoại tiếp tục bán ròng phiên thứ 11 liên tiếp, HDB bị bán mạnh nhất, là dấu hiệu áp lực từ nhà đầu tư nước ngoài."
+    },
+    {
+      "title": "Petronas ngỏ lời hợp tác LNG, điện gió, hydrogen và chuyển giao công nghệ",
+      "impact": "↑",
+      "note": "Thủ tướng tiếp Tổng Giám đốc Petronas (Malaysia) ngày 16/10, doanh nghiệp này muốn phối hợp PVN phát triển cơ sở hạ tầng LNG theo hợp đồng dài hạn, hợp tác về điện gió, hydrogen, thu hồi và lưu trữ carbon. Petronas có dự án mang về hơn 25 tỷ USD, có hơn 30 năm hợp tác với Việt Nam."
     }
   ]
 }
