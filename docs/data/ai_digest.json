@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-17",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực từ khối ngoại bán ròng (3.007 tỷ đồng trong 5 phiên) và lãi suất cao không giảm (7,4% tiền gửi 12 tháng), tuy nhiên nền tảng vĩ mô vẫn mạnh với lãi suất ngân hàng liên ngân hàng giảm còn 6,1% tháng 9, mục tiêu 2027 GDP 10%+ và tiềm năng phát triển TPHCM. Định giá P/E 13,5 lần đã phản ánh phần lớn chi phí vốn ở mức vùng đáy Covid, tạo cơ hội dài hạn nhưng cần lực cầu mạnh hơn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực mạnh từ dòng vốn ngoại rút liên tục (3.007 tỷ đồng bán ròng 5 phiên), thanh khoản yếu kèm sức ép từ tăng chi phí sống. Tuy vậy, chính sách giảm lãi suất được Chính phủ ưu tiên và mục tiêu tăng trưởng GDP 10%+ năm 2027 mở ra cơ hội phục hồi trung hạn. Định giá thị trường đã điều chỉnh về vùng hợp lý, nhưng sự cân bằng giữa huy động vốn và tín dụng còn là thách thức.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 3.007 tỷ đồng xuyên 5 phiên",
+      "title": "Khối ngoại bán ròng 3.007 tỷ đồng, VN-Index giảm 1,68%",
       "impact": "↓",
-      "note": "Khối ngoại duy trì bán ròng liên tục trong tuần 12-16/10, với VIC là tâm điểm bán mạnh nhất (417,14 tỷ đồng), theo sau là TCB (281,94 tỷ đồng), VIX (213,90 tỷ đồng) và FPT (202,24 tỷ đồng). Dòng tiền rút vốn tạo áp lực lên VN-Index giảm 29,18 điểm."
+      "note": "Khối ngoại bán ròng liên tiếp 5 phiên với tổng giá trị 3.007 tỷ đồng, tâm điểm là VIC (417,14 tỷ), TCB (281,94 tỷ), VIX (213,90 tỷ). VN-Index giảm 29,18 điểm (-1,68%), HNX-Index giảm 0,94%, thanh khoản chỉ 13.182 tỷ đồng/phiên."
     },
     {
-      "title": "Năm 2027 phấn đấu GDP từ 10% trở lên",
+      "title": "Phó Thủ tướng yêu cầu giảm lãi suất cho vay 1,5-2%",
       "impact": "↑",
-      "note": "Chính phủ xác định 2027 là năm tăng tốc, bứt phá với mục tiêu tăng trưởng GDP từ 10% trở lên, chuyển từ chủ trương sang hành động cụ thể. Được công bố tại Hội nghị toàn quốc ngày 16/10, gắn với ổn định vĩ mô và kiểm soát lạm phát."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng yêu cầu NHNN giảm lãi suất cho vay từ 1,5-2% đối với sản xuất, kinh doanh và lĩnh vực ưu tiên, nhằm hỗ trợ doanh nghiệp và người dân trong bối cảnh mặt bằng lãi suất cho vay còn cao."
     },
     {
-      "title": "Lãi suất chưa thể hạ nhiệt, chi phí vốn gia tăng",
+      "title": "Năm 2027 phấn đấu tăng trưởng GDP từ 10% trở lên",
+      "impact": "↑",
+      "note": "Năm 2027 được xác định là năm tăng tốc, bứt phá với mục tiêu tăng trưởng GDP từ 10% trở lên, Trung ương yêu cầu chuyển mạnh từ chủ trương sang hành động, đánh giá bằng kết quả thực chất."
+    },
+    {
+      "title": "GDP tăng 9,01% nhưng chi phí sống tăng nhanh, áp lực lạm phát tâm lý",
       "impact": "↓",
-      "note": "Lãi suất tiền gửi 12 tháng tăng lên 7,4% (từ 7,3% tháng trước), cao hơn 2,4 điểm phần trăm so với cùng kỳ năm trước. Nhu cầu tín dụng gia tăng cùng GDP 9,01% nhưng áp lực lạm phát cơ bản 4,26% hạn chế dư địa giảm lãi suất cho vay, tăng chi phí doanh nghiệp."
+      "note": "Dù GDP tăng 9,01% và thu nhập bình quân tăng 9,1% trong 9 tháng, chi phí nhà ở, ăn uống, xăng xe tăng nhanh hơn. Công nhân thu nhập 10,5 triệu/tháng chi 8,7 triệu cho sinh hoạt, ảnh hưởng tâm lý tiêu dùng và hành động kinh tế."
     },
     {
-      "title": "Dragon Capital: Định giá vùng đáy, phản ánh lãi suất",
+      "title": "Định giá P/E 13,5, thị trường phản ánh phần lớn lãi suất, cân bằng vốn cải thiện",
+      "impact": "→",
+      "note": "VN-Index giao dịch P/E 13,5 lần, đã phản ánh phần lớn rủi ro chi phí vốn. Mặc dù kinh tế tăng gần 10%, thị trường giảm 2,9% (USD) tháng 9, nhưng sự cân bằng giữa huy động và tín dụng đang cải thiện, tạo tiền đề hồi phục."
+    },
+    {
+      "title": "Thị trường tài chính phát triển CAGR 9,1%, TPHCM hội nhập phát triển hai con số",
       "impact": "↑",
-      "note": "P/E thị trường 13,5 lần (vùng đáy Covid) đã phản ánh phần lớn rủi ro từ chi phí vốn gia tăng. VN-Index giảm 2,9% tháng 9 (USD), mặc dù nâng hạng FTSE Russell từ 21/9 vẫn chưa cân bằng dòng tiền ngoại. Giá trị giao dịch bình quân 508 triệu USD/ngày (thấp nhất năm)."
-    },
-    {
-      "title": "Hạ tầng TPHCM mở đường tăng trưởng hai con số",
-      "impact": "↑",
-      "note": "Sau hợp nhất Bình Dương và Bà Rịa-Vũng Tàu, TPHCM sở hữu 6.772 km², 13,5 triệu dân, đóng góp 24% GDP cả nước và hút 6,7 tỷ USD FDI. Siêu đô thị tái tổ chức hạ tầng, hình thành các cực tăng trưởng mới, tạo không gian phát triển rộng lớn."
-    },
-    {
-      "title": "Tuần 12-16/10: VN-Index giảm 29 điểm, cần lực cầu",
-      "impact": "↓",
-      "note": "VN-Index giảm 29,18 điểm (-1,68%) trong tuần, dừng tại 1.705,91 điểm. Thanh khoản HOSE phiên 16/10 chỉ 10.728 tỷ đồng (giảm 25%), lần đầu tiên sau 8 tuần xuống dưới 11 ngàn tỷ đồng. Áp lực bán tập trung tại nhóm blue-chips vốn hóa lớn."
+      "note": "Tín dụng ngân hàng/GDP Việt Nam ở 145% (cao hơn trung bình châu Á 122%), mở cơ hội phát triển thị trường tài chính với CAGR dự báo 9,1%. TPHCM sau hợp nhất 6.772 km², 13,5 triệu người, 24% GDP cả nước, thu hút 6,7 tỷ USD FDI."
     }
   ]
 }
