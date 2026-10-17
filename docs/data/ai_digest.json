@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-17",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực mạnh từ dòng vốn ngoại rút liên tục (3.007 tỷ đồng bán ròng 5 phiên), thanh khoản yếu kèm sức ép từ tăng chi phí sống. Tuy vậy, chính sách giảm lãi suất được Chính phủ ưu tiên và mục tiêu tăng trưởng GDP 10%+ năm 2027 mở ra cơ hội phục hồi trung hạn. Định giá thị trường đã điều chỉnh về vùng hợp lý, nhưng sự cân bằng giữa huy động vốn và tín dụng còn là thách thức.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính sách hỗ trợ tăng trưởng được công bố với mục tiêu GDP tăng từ 10% trở lên năm 2027, gắn với yêu cầu giảm lãi suất cho vay 1,5-2% cho sản xuất-kinh doanh, tạo động lực nền kinh tế. Kết quả kinh doanh 9 tháng tích cực: lợi nhuận ngân hàng tăng mạnh (ABBank +97%, SHB ước 14.300 tỷ đồng), cấp tín dụng phục vụ tăng trưởng. Hạ tầng đồng bộ tại TPHCM mở đường tăng trưởng hai con số với tiềm năng 13,5 triệu dân, 24% GDP cả nước, 6,7 tỷ USD FDI. Áp lực từ thị trường Mỹ (Nasdaq -2,14% tuần) cần theo dõi tác động đến cổ phiếu công nghệ.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 3.007 tỷ đồng, VN-Index giảm 1,68%",
+      "title": "Mục tiêu tăng trưởng GDP 10%+ năm 2027",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng công bố mục tiêu tăng trưởng GDP từ 10% trở lên, GDP bình quân đầu người đạt 6.100 USD, gắn với giữ ổn định kinh tế vĩ mô và kiểm soát lạm phát. Năm 2027 được xác định là năm tăng tốc, bứt phá để thực hiện Nghị quyết Đại hội XIV."
+    },
+    {
+      "title": "Giảm lãi suất cho vay 1,5-2% cho sản xuất-kinh doanh",
+      "impact": "↑",
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng yêu cầu Ngân hàng Nhà nước khẩn trương giảm lãi suất cho vay từ 1,5-2% đối với sản xuất, kinh doanh và lĩnh vực ưu tiên để hỗ trợ doanh nghiệp, giảm chi phí vốn và nâng cao khả năng tiếp cận tín dụng."
+    },
+    {
+      "title": "Lợi nhuận ngân hàng tăng mạnh 9 tháng",
+      "impact": "↑",
+      "note": "ABBank lãi 4.540 tỷ đồng, tăng 97% so với cùng kỳ, hoàn thành 100% kế hoạch lợi nhuận năm; SHB ước lãi 14.300 tỷ đồng; Nam A Bank >4.700 tỷ đồng. Toàn bộ ngân hàng ghi nhận tăng trưởng hai con số, phản ánh hoạt động kinh doanh tín dụng khỏe."
+    },
+    {
+      "title": "TPHCM: Hạ tầng đồng bộ, tiềm năng hai con số",
+      "impact": "↑",
+      "note": "Sau hợp nhất với Bình Dương và Bà Rịa-Vũng Tàu, TPHCM sở hữu dân số 13,5 triệu người, đóng góp 24% GDP cả nước, hút 6,7 tỷ USD FDI. Các chuyên gia nhận định hạ tầng đồng bộ sẽ mở đường để TPHCM tăng trưởng hai con số trong giai đoạn tới."
+    },
+    {
+      "title": "Thị trường chứng khoán Mỹ giảm mạnh tuần thứ tư",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng liên tiếp 5 phiên với tổng giá trị 3.007 tỷ đồng, tâm điểm là VIC (417,14 tỷ), TCB (281,94 tỷ), VIX (213,90 tỷ). VN-Index giảm 29,18 điểm (-1,68%), HNX-Index giảm 0,94%, thanh khoản chỉ 13.182 tỷ đồng/phiên."
+      "note": "S&P 500 giảm 1,09%, Nasdaq giảm 2,14%; tuần giảm hơn 4% - mạnh nhất kể từ tháng 6. Cổ phiếu chip bị xả (Micron -5,6%, AMD gần -6%, Sandisk -6,9%) do lo ngại cạnh tranh từ nhà sản xuất chip Trung Quốc, áp lực sơ bộ đến thị trường Việt."
     },
     {
-      "title": "Phó Thủ tướng yêu cầu giảm lãi suất cho vay 1,5-2%",
+      "title": "EVF nâng tín nhiệm quốc tế: S&P B+, FiinRatings A",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng yêu cầu NHNN giảm lãi suất cho vay từ 1,5-2% đối với sản xuất, kinh doanh và lĩnh vực ưu tiên, nhằm hỗ trợ doanh nghiệp và người dân trong bối cảnh mặt bằng lãi suất cho vay còn cao."
-    },
-    {
-      "title": "Năm 2027 phấn đấu tăng trưởng GDP từ 10% trở lên",
-      "impact": "↑",
-      "note": "Năm 2027 được xác định là năm tăng tốc, bứt phá với mục tiêu tăng trưởng GDP từ 10% trở lên, Trung ương yêu cầu chuyển mạnh từ chủ trương sang hành động, đánh giá bằng kết quả thực chất."
-    },
-    {
-      "title": "GDP tăng 9,01% nhưng chi phí sống tăng nhanh, áp lực lạm phát tâm lý",
-      "impact": "↓",
-      "note": "Dù GDP tăng 9,01% và thu nhập bình quân tăng 9,1% trong 9 tháng, chi phí nhà ở, ăn uống, xăng xe tăng nhanh hơn. Công nhân thu nhập 10,5 triệu/tháng chi 8,7 triệu cho sinh hoạt, ảnh hưởng tâm lý tiêu dùng và hành động kinh tế."
-    },
-    {
-      "title": "Định giá P/E 13,5, thị trường phản ánh phần lớn lãi suất, cân bằng vốn cải thiện",
-      "impact": "→",
-      "note": "VN-Index giao dịch P/E 13,5 lần, đã phản ánh phần lớn rủi ro chi phí vốn. Mặc dù kinh tế tăng gần 10%, thị trường giảm 2,9% (USD) tháng 9, nhưng sự cân bằng giữa huy động và tín dụng đang cải thiện, tạo tiền đề hồi phục."
-    },
-    {
-      "title": "Thị trường tài chính phát triển CAGR 9,1%, TPHCM hội nhập phát triển hai con số",
-      "impact": "↑",
-      "note": "Tín dụng ngân hàng/GDP Việt Nam ở 145% (cao hơn trung bình châu Á 122%), mở cơ hội phát triển thị trường tài chính với CAGR dự báo 9,1%. TPHCM sau hợp nhất 6.772 km², 13,5 triệu người, 24% GDP cả nước, thu hút 6,7 tỷ USD FDI."
+      "note": "S&P Global Ratings xếp hạng EVF B+, FiinRatings xếp A, cả hai với triển vọng Ổn định (15/10). Hai xếp hạng độc lập mới nhất khẳng định vị thế tài chính của công ty tài chính lớn nhất Việt Nam, mở rộng khả năng tiếp cận nguồn vốn quốc tế."
     }
   ]
 }
