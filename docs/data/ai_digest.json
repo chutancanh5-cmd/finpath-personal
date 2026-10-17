@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-17",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách tiền tệ hôm nay nhấn mạnh hỗ trợ tăng trưởng: Vietcombank cam kết giảm tối thiểu 2% lãi suất từ nay tới cuối năm, BIDV áp 6,0%/năm (giảm 2% so với mức thông thường), Phó Thủ tướng yêu cầu NHNN giảm lãi suất 1,5-2% cho sản xuất kinh doanh. Kinh tế Q3 tăng tốc mạnh: TP HCM 9,86% (cao nhất 10 năm), Hà Nội 10,02%, tạo đà cho mục tiêu 2027 tăng 10% trở lên. Petronas sẵn sàng đầu tư 25 tỷ USD hạ tầng LNG, hydrogen, năng lượng xanh. Rủi ro ngắn hạn: khối ngoại bán ròng 11 phiên liên tiếp, thanh khoản suy giảm 25%, chứng khoán Mỹ giảm (Nasdaq -2,14%), dầu 110 USD/thùng.",
+  "summary_vi": "Chính phủ chỉ đạo giảm lãi suất cho vay 1,5-2% và phấn đấu tăng trưởng GDP 2027 từ 10% trở lên, tạo động lực cho sản xuất kinh doanh. Hà Nội, TP.HCM tăng tốc mạnh (HCM quý III tăng 9,86%, cao nhất 10 năm) nhưng thanh khoản TTCK suy giảm, khối ngoại bán ròng 11 phiên liên tiếp. Áp lực từ thị trường toàn cầu (Nasdaq giảm 2,14%, dầu tăng 110 USD/thùng) cần theo dõi, đồng thời hợp tác LNG dài hạn với Petronas kỳ vọng hỗ trợ an ninh năng lượng.",
   "top": [
     {
-      "title": "Chính sách giảm lãi suất hỗ trợ sản xuất kinh doanh",
+      "title": "Chính phủ chỉ đạo giảm lãi suất cho vay 1,5-2%",
       "impact": "↑",
-      "note": "Vietcombank cam kết giảm tối thiểu 2% lãi suất từ nay tới cuối năm; BIDV triển khai lãi suất 6,0%/năm (giảm 2% so với mức thông thường); Phó Thủ tướng yêu cầu NHNN giảm lãi suất cho vay 1,5-2% cho sản xuất, kinh doanh."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng yêu cầu NHNN triển khai giảm lãi suất cho vay từ 1,5-2% đối với sản xuất, kinh doanh; BIDV triển khai từ 15/10 với mức 6,0%/năm (giảm 2,0%), Vietcombank cam kết giảm tối thiểu 2%."
     },
     {
-      "title": "Mục tiêu tăng trưởng 2027 từ 10% trở lên",
+      "title": "TP.HCM quý III tăng 9,86%, Hà Nội quý III tăng 10,02%",
       "impact": "↑",
-      "note": "Thủ tướng phấn đấu GDP 2027 tăng 10% trở lên, bình quân đầu người 6.100 USD; năm 2027 là năm tăng tốc, bứt phá, tạo đà thực hiện Nghị quyết Đại hội XIV."
+      "note": "TP.HCM quý III tăng 9,86% là mức tăng quý cao nhất trong 10 năm gần đây (9 tháng: 9,06%); Hà Nội quý III tăng 10,02% (9 tháng: 8,85%); dịch vụ vận tải kho bãi tăng 14,16%."
     },
     {
       "title": "Kinh tế Q3 tăng tốc, TP HCM 9,86% cao nhất 10 năm",
       "impact": "↑",
-      "note": "Quý III, TP HCM tăng 9,86% (cao nhất 10 năm), Hà Nội tăng 10,02%; dịch vụ đóng góp hơn nửa mức tăng, vận tải-kho bãi tăng 14,16%; doanh nghiệp dự kiến quý IV tiếp tục thuận lợi."
+      "note": "Thủ tướng Lê Minh Hưng đặt mục tiêu 2027 tăng trưởng từ 10% trở lên, GDP bình quân đầu người đạt 6.100 USD, gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
     },
     {
-      "title": "Petronas đầu tư 25 tỷ USD LNG, hydrogen, năng lượng xanh",
+      "title": "Petronas hợp tác LNG, điện gió, hydrogen với Việt Nam",
       "impact": "↑",
-      "note": "Petronas (Malaysia) cam kết hợp tác với Petrovietnam phát triển cơ sở hạ tầng LNG, hydrogen, lưu trữ carbon; dự án lưới điện liên kết VN-Malaysia-Singapore; sau dự án 25 tỷ USD, tiếp tục hỗ trợ an niên năng lượng."
+      "note": "Tập đoàn Dầu khí Malaysia Petronas (đã mang về hơn 25 tỷ USD cho VN) muốn phối hợp Petrovietnam phát triển LNG, hợp tác điện gió, hydrogen, chuyển giao công nghệ theo hợp đồng dài hạn."
     },
     {
-      "title": "Khối ngoại bán ròng, thanh khoản yếu áp lực ngắn hạn",
+      "title": "Khối ngoại bán ròng phiên thứ 11 liên tiếp, thanh khoản suy giảm",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng phiên thứ 11 liên tiếp (HDB bị bán mạnh); giá trị giao dịch HOSE chưa đến 11 nghìn tỷ đồng, giảm 25%; tự doanh mua ròng 534 tỷ, tập trung gom VPB (218 tỷ)."
+      "note": "Khối ngoại bán ròng phiên thứ 11 liên tiếp (HDB bị bán mạnh); giao dịch 16/10 chỉ 11 nghìn tỷ đồng, giảm 25% so với phiên trước; VN-Index hồi phục 7,56 điểm từ chuỗi 7 phiên giảm."
     },
     {
-      "title": "Chứng khoán Mỹ giảm, chip xả, dầu 110 USD/thùng",
+      "title": "Chứng khoán Mỹ giảm mạnh, chip bị xả, dầu tăng 110 USD/thùng",
       "impact": "↓",
-      "note": "S&P 500 giảm 1,09%, Nasdaq giảm 2,14%; chip bị xả mạnh (Micron -5,6%, AMD -6%); VIX vượt 22 lần đầu tiên 4 tháng; dầu lên 110 USD/thùng tăng áp lực chi phí."
+      "note": "S&P 500 giảm 1,09%, Nasdaq giảm 2,14%; cổ phiếu chip giảm 3-6% (Micron -5,6%, AMD -6%) do lo ngại cạnh tranh chip Trung Quốc; tuần Nasdaq giảm hơn 4%; giá dầu leo 110 USD/thùng."
     }
   ]
 }
