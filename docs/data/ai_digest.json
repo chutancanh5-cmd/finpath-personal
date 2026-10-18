@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-19",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tiếp tục giảm với VN-Index mất 29 điểm (tuần giảm thứ năm liên tiếp) do áp lực từ bất động sản (VIC, VHM) và sự rút khỏi của nhà đầu tư nước ngoài. Tuy nhiên, các chỉ báo vĩ mô tích cực: Chính phủ kiểm soát CPI dù giá xăng dầu thế giới tăng 65-90%, ngân hàng bắt đầu giảm lãi suất (Agribank giảm 2%/năm từ 19/10), cơ hội tích sản xuất hiện với định giá hấp dẫn (P/E quanh 12 lần), một số doanh nghiệp báo kết quả đột phá (SJS lợi nhuận gấp 327 lần). Rủi ro ngắn hạn vẫn từ thanh khoản yếu, khối ngoại bán ròng 3.100 tỷ, và cảnh báo NHNN về xử lý ngân hàng vi phạm chỉ đạo lãi suất.",
+  "summary_vi": "Thị trường chứng khoán tuần qua giảm do áp lực bất động sản (Vingroup, HCM) với khối ngoại bán ròng 3.1 nghìn tỷ đồng, nhưng NHNN chính thức tuyên bố giảm lãi suất cho vay 1.5-2%/năm hỗ trợ nền kinh tế. GDP 9 tháng tăng 9.01% (quý 3: 9.95%) đạt gần mục tiêu, tuy nhiên cần tăng tốc quý 4 trên 12.5%. Thanh khoản suy yếu là rủi ro ngắn hạn, nhưng chính sách tiền tệ hỗ trợ tạo nền tảng phục hồi.",
   "top": [
     {
-      "title": "VN-Index giảm 29 điểm, tuần giảm thứ năm liên tiếp",
+      "title": "VN-Index tuần 42/2026 giảm 29 điểm, thanh khoản suy yếu liên tiếp",
       "impact": "↓",
-      "note": "VN-Index kết thúc tuần 12-16/10 tại 1.705,91 điểm, giảm 29,18 điểm (-1,68%). VIC lấy đi 16,7 điểm (giảm từ 225.500 xuống 215.000 đ/cp), VHM lấy đi 8 điểm. Thanh khoản suy yếu, HNX-Index cũng giảm với NVB lấy đi 5,2 điểm."
+      "note": "VN-Index kết thúc tuần 12-16/10 tại 1.705,91 điểm, giảm 29,18 điểm (-1,68%), tuần giảm thứ 5 liên tiếp. Bất động sản gây áp lực lớn nhất: VIC lấy 16,7 điểm (giảm từ 225.500 xuống 215.000 đồng/cp), VHM lấy 8 điểm. Khối ngoại bán ròng 3.140,8 tỷ đồng trong tuần."
     },
     {
-      "title": "NHNN cảnh báo xử lý ngân hàng vi phạm chỉ đạo lãi suất",
+      "title": "NHNN cảnh báo xử lý ngân hàng vi phạm chỉ đạo giảm lãi suất",
       "impact": "↓",
-      "note": "NHNN yêu cầu các tổ chức tín dụng không tuân thủ chỉ đạo lãi suất sẽ bị giảm chỉ tiêu tăng trưởng tín dụng năm 2026, giao chỉ tiêu thấp năm 2027, yêu cầu tỷ lệ bảo đảm an toàn cao hơn quy định (Văn bản 9608/NHNN-CSTT ngày 18/10/2026)."
+      "note": "Văn bản số 9608/NHNN-CSTT (18/10) yêu cầu giảm lãi suất tiền gửi tối thiểu 0,5%/năm (kỳ hạn 6 tháng trở lên) và giảm lãi suất cho vay 1,5-2%/năm cho sản xuất kinh doanh. Ngân hàng không tuân thủ sẽ bị xem xét giảm room tín dụng năm 2026, giao chỉ tiêu thấp năm 2027, yêu cầu tỷ lệ bảo đảm an toàn cao hơn quy định."
     },
     {
-      "title": "Chính phủ kiểm soát CPI dù giá xăng dầu tăng 65-90%",
+      "title": "Agribank khởi động chương trình giảm lãi suất cho vay tới 2%/năm từ 19/10",
+      "impact": "↑",
+      "note": "Từ ngày 19/10/2026, Agribank giảm lãi suất cho vay tới 2,0%/năm so với lãi suất thông thường, tập trung lĩnh vực ưu tiên và khách hàng sản xuất kinh doanh. Tổng nguồn lực hỗ trợ từ Agribank khoảng 2.000 tỷ đồng để chia sẻ chi phí vốn."
+    },
+    {
+      "title": "SJS báo lợi nhuận quý 3 gấp 327 lần, cổ phiếu chạm trần",
+      "impact": "↑",
+      "note": "SJ Group (SJS) báo cáo lợi nhuận sau thuế quý 3/2026 đạt 1.012 tỷ đồng, gấp 327 lần cùng kỳ năm trước. Doanh thu thuần 1.785 tỷ đồng gấp 67 lần, lợi nhuận gộp 1.286 tỷ gấp 185 lần. Cổ phiếu SJS tăng 6,3% lên 57.100 đồng/cp ngày 16/10, chạm trần, vốn hóa lên gần 17.000 tỷ đồng."
+    },
+    {
+      "title": "GDP 9 tháng tăng 9,01%, quý 4 phải tăng tốc trên 12,5% để đạt mục tiêu 10%",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%, nhưng Chính phủ triển khai biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện. Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng, đã kiểm soát CPI trong 9 tháng đầu năm."
+      "note": "GDP 9 tháng 2026 tăng 9,01%, riêng quý 3 tăng 9,95%. Để hoàn thành mục tiêu tăng trưởng từ 10% trở lên cả năm, quý 4 phải tăng tốc mạnh trên 12,5%. Kim ngạch xuất nhập khẩu lần đầu vượt 1.000 tỷ USD."
     },
     {
-      "title": "Thanh khoản suy yếu, khối ngoại bán ròng 3.100 tỷ",
+      "title": "Ngành chứng khoán quý 3 phân hóa mạnh: 7 lãi 6 lỗ, sức khỏe tài chính đối mặt áp lực",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 3.140,8 tỷ đồng trong tuần 42/2026. Thanh khoản suy yếu, giá trị giao dịch toàn thị trường giảm 22,3% so với quý trước. Dòng tiền duy trì trạng thái thận trọng."
-    },
-    {
-      "title": "Agribank giảm 2%/năm lãi suất cho vay",
-      "impact": "↑",
-      "note": "Từ 19/10/2026, Agribank giảm lãi suất cho vay tới 2,0%/năm, tập trung lĩnh vực ưu tiên và sản xuất kinh doanh. Dự kiến dành khoảng 2.000 tỷ đồng để chia sẻ chi phí vốn, hỗ trợ doanh nghiệp và người dân."
-    },
-    {
-      "title": "SJS báo lợi nhuận quý 3 gấp 327 lần",
-      "impact": "↑",
-      "note": "SJ Group công bố doanh thu thuần quý 3/2026 đạt 1.785 tỷ đồng (gấp 67 lần Q3/2025), lợi nhuận gộp gấp 185 lần, lợi nhuận sau thuế đạt 1.012 tỷ đồng (gấp 327 lần Q3/2025). Cổ phiếu tăng, vốn hóa doanh nghiệp lên gần 17.000 tỷ đồng."
+      "note": "Tính đến 19/10, 13 công ty chứng khoán báo cáo quý 3/2026: 7 doanh nghiệp lãi, 6 lỗ. KAFI doanh thu 981 tỷ đồng (+15% YoY) nhưng lợi nhuận trước thuế giảm 13% xuống 171 tỷ đồng do chi phí tài chính tăng 53% (chủ yếu lãi vay 319 tỷ đồng). Doanh thu môi giới chứng khoán giảm 54%."
     }
   ]
 }
