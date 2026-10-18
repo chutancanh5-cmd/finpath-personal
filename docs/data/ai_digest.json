@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-18",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường được hỗ trợ bởi các yếu tố vĩ mô tích cực: Thủ tướng đặt mục tiêu tăng trưởng 10% năm 2027 với GDP bình quân 6,100 USD, các thành phố lớn tăng tốc (TPHCM quý III tăng 9,86% – mức cao nhất 10 năm, Hà Nội tăng 10,02%), ngân hàng Vietcombank cam kết giảm 2% lãi suất tới cuối năm để hỗ trợ doanh nghiệp. Tuy nhiên ngắn hạn thị trường chứng khoán diễn biến yếu với thanh khoản sụt giảm 30% và khối ngoại tiếp tục bán ròng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán tiếp tục điều chỉnh do thanh khoản suy yếu và khối ngoại bán ròng liên tục, trong bối cảnh NHNN thực hiện chính sách giảm lãi suất để hỗ trợ tăng trưởng kinh tế. Mục tiêu GDP 10%+ năm 2027 và GDP per capita 6,100 USD mang tính lạc quan dài hạn, song ngắn hạn thị trường vẫn chịu áp lực từ dòng tiền quốc tế và điều chỉnh của các cổ phiếu lớn.",
   "top": [
     {
-      "title": "Mục tiêu tăng trưởng 10% năm 2027, GDP bình quân 6,100 USD",
+      "title": "Mục tiêu tăng trưởng GDP 10%+, GDP bình quân đầu người 6,100 USD năm 2027",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu ngày 17/10 tại kỳ họp thứ 2 Quốc hội khóa XVI, xác định năm 2027 là năm tăng tốc, bứt phá với mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, và GDP bình quân đầu người đạt 6,100 USD. Cung cấp định hướng rõ ràng cho đầu tư dài hạn."
+      "note": "Thủ tướng Lê Minh Hưng xác định năm 2027 là năm tăng tốc, bứt phá, phấn đấu tăng trưởng GDP từ 10% trở lên gắn với giữ vững ổn định kinh tế vĩ mô. GDP bình quân đầu người dự kiến đạt 6,100 USD, tạo triển vọng tích cực cho phát triển dài hạn và hỗ trợ tăng trưởng cổ phiếu theo chu kỳ kinh tế."
     },
     {
-      "title": "TPHCM và Hà Nội tăng tốc kinh tế quý III",
-      "impact": "↑",
-      "note": "TPHCM quý III tăng 9,86% (mức cao nhất 10 năm gần đây), tăng 9,06% cả 9 tháng. Hà Nội quý III tăng 10,02%, tăng 8,85% cả 9 tháng. Dịch vụ đóng góp hơn một nửa mức tăng với vận tải-kho bãi tăng 14,16%. Sức mua, du lịch, đầu tư, xây dựng, sản xuất công nghiệp và dòng vốn nước ngoài tiếp tục hỗ trợ; hơn 1/3 doanh nghiệp công nghiệp dự kiến quý IV thuận lợi hơn quý III."
-    },
-    {
-      "title": "Vietcombank giảm tối thiểu 2% lãi suất cho vay tới cuối năm",
-      "impact": "↑",
-      "note": "Chủ tịch HĐQT Nguyễn Thanh Tùng phát biểu ngày 17/10 cam kết Vietcombank từ nay tới cuối năm 2026 sẽ giảm tối thiểu 2% lãi suất cho vay. Nhằm giảm áp lực tài chính cho doanh nghiệp nhỏ, vừa và hộ kinh doanh đang đối mặt với thiếu vốn ngày càng lớn."
-    },
-    {
-      "title": "Cơ chế thử nghiệm có kiểm soát trong chứng khoán được bổ sung",
-      "impact": "↑",
-      "note": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn trình bày dự án Luật sửa đổi Luật Chứng khoán ngày 17/10, bổ sung cơ chế thử nghiệm có kiểm soát trước khi áp dụng rộng rãi. Nhằm thúc đẩy khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số, nâng cao năng lực vận hành thị trường và phát triển sản phẩm mới."
-    },
-    {
-      "title": "Khối tự doanh mua ròng 534 tỷ, khối ngoại bán ròng phiên thứ 11",
+      "title": "NHNN yêu cầu giảm lãi suất tiền gửi 0,5%, lãi vay 1,5-2% từ nay đến cuối 2026",
       "impact": "→",
-      "note": "Phiên 16/10, khối tự doanh mua ròng 534,1 tỷ đồng (khớp lệnh: 398,3 tỷ), chủ yếu gom VPB với 218 tỷ đồng. Khối ngoại tiếp tục bán ròng phiên thứ 11 liên tiếp, bán mạnh HDB. Thanh khoản sụt giảm 30% xuống 10.700 tỷ đồng (HoSE: 9.900 tỷ). VN-Index hồi phục 7,56 điểm sau 7 phiên giảm liên tiếp nhưng lực cầu vẫn yếu."
+      "note": "Ngân hàng Nhà nước ban hành chỉ đạo bắt buộc giảm lãi suất huy động tối thiểu 0,5%/năm với kỳ hạn từ 6 tháng trở lên, giảm 1,5-2%/năm lãi vay cho sản xuất kinh doanh. Ngân hàng vi phạm sẽ bị giảm hạn mức tín dụng năm 2027. Chính sách hỗ trợ tăng trưởng kinh tế nhưng ép lợi nhuận ngân hàng ngắn hạn."
     },
     {
-      "title": "Petronas hợp tác LNG, điện gió, hydrogen với Petrovietnam",
+      "title": "VN-Index tuần 42: Giảm 1,68%, thanh khoản suy yếu, ngoại bán ròng 3.100 tỷ đồng",
+      "impact": "↓",
+      "note": "VN-Index kết thúc tuần 42 tại 1.705,91 điểm, giảm 29,18 điểm, đánh dấu tuần giảm thứ năm liên tiếp. Khối ngoại bán ròng 3.140,8 tỷ đồng. Bất động sản gây áp lực lớn (VIC -13,5 điểm, VHM -6,8 điểm), ngân hàng hỗ trợ nhưng không đủ bù đắp. Thanh khoản suy yếu duy trì ở mức thấp."
+    },
+    {
+      "title": "Phân tích kỹ thuật: VN-Index kiểm định đáy 1650, chỉ báo tâm lý bi quan",
+      "impact": "↓",
+      "note": "VN-Index giằng co, MACD cắt xuống và nằm dưới mức 0, Stochastic Oscillator giảm sâu. Vùng đáy hợp lý là 1650 điểm (đáy cũ cuối tháng 7). Nếu VN-Index tiếp tục kiểm định đáy này, điều chỉnh có thể còn tiếp diễn, dù cổ phiếu vừa nhỏ vẫn duy trì phân hóa tích cực."
+    },
+    {
+      "title": "Khối ngoại bán ròng phiên thứ 11 liên tiếp, tự doanh gom VPB 218 tỷ đồng",
+      "impact": "↓",
+      "note": "Khối ngoại tiếp tục bán ròng phiên 16/10 với giá trị 3.140,8 tỷ đồng trong tuần, HDB bị bán mạnh. Tự doanh mua ròng 534 tỷ đồng, tập trung gom VPB (218 tỷ đồng gấp ba lần mã thứ hai). Dòng tiền ngoài liên tục âm gây áp lực kéo dài lên chỉ số."
+    },
+    {
+      "title": "EVF xếp hạng tín nhiệm B+ (S&P), FiinRatings xếp hạng A",
       "impact": "↑",
-      "note": "Ngày 16/10, Thủ tướng Lê Minh Hưng tiếp Tổng Giám đốc Petronas Tengku Muhammad Taufik. Petronas muốn phối hợp Petrovietnam phát triển cơ sở LNG theo hợp đồng dài hạn, cũng hợp tác điện gió, hydrogen, thu hồi và lưu trữ carbon, chuyển giao công nghệ. Quan tâm dự án lưới điện liên kết Việt Nam - Malaysia - Singapore, bảo đảm an ninh năng lượng với giá thành phù hợp."
+      "note": "S&P Global Ratings công bố xếp hạng tín nhiệm nhà phát hành dài hạn EVF ở mức B+ với triển vọng ổn định. FiinRatings xếp hạng A (lần đầu). EVF là công ty tài chính lớn nhất Việt Nam, kết quả phản ánh nền tảng vững chắc, tạo cơ sở mở rộng tiếp cận vốn quốc tế."
     }
   ]
 }
