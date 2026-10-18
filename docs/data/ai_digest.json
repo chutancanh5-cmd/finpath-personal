@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-18",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế vĩ mô tiếp tục tăng trưởng tốt (GDP 9 tháng +9,01%, quý III +9,95%) và Chính phủ đẩy mạnh các biện pháp hỗ trợ doanh nghiệp qua giảm lãi suất. Tuy nhiên, thị trường chứng khoán đang suy yếu với VN-Index giảm liên tiếp 5 tuần, khối ngoại bán ròng mạnh, phản ánh lo ngại về lãi suất cao neo kéo dài và tâm lý nhà đầu tư còn rất lo lắng dù có nhịp hồi kỹ thuật.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán đang chịu áp lực mạnh từ nhiều yếu tố: VN-Index giảm 5 tuần liên tiếp, khối ngoại bán ròng liên tục trong bối cảnh lãi suất trong nước neo cao. Tuy vậy, Chính phủ đã triển khai các biện pháp hỗ trợ như giảm lãi suất cho vay từ Agribank, kiểm soát giá xăng dầu và điện để chống lạm phát. GDP 9 tháng tăng 9.01%, kim ngạch xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, nhưng cần tăng tốc quý IV để đạt mục tiêu 10%+ cả năm.",
   "top": [
     {
-      "title": "Chính phủ kiểm soát lạm phát, phấn đấu GDP 2027 từ 10% trở lên",
-      "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ giữ giá xăng dầu và không tăng giá điện trong nước để kiểm soát lạm phát, nhấn mạnh yêu cầu bảo đảm lạm phát không xói mòn thành quả tăng trưởng, phấn đấu GDP năm 2027 từ 10% trở lên."
-    },
-    {
-      "title": "NHNN chỉ đạo giảm lãi suất, xử phạt ngân hàng vi phạm năm 2027",
-      "impact": "↑",
-      "note": "NHNN yêu cầu giảm lãi suất tiền gửi tối thiểu 0,5%/năm (kỳ hạn 6 tháng trở lên), giảm lãi suất cho vay 1,5-2,0%/năm cho sản xuất kinh doanh và lĩnh vực ưu tiên, cấm cạnh tranh không lành mạnh; ngân hàng vi phạm sẽ bị giảm hạn mức tín dụng năm 2027."
-    },
-    {
-      "title": "Agribank triển khai chương trình giảm lãi suất 2,0%/năm từ 19/10",
-      "impact": "↑",
-      "note": "Từ 19/10/2026, Agribank giảm lãi suất cho vay 2,0%/năm cho các lĩnh vực ưu tiên, dùng 2.000 tỷ đồng chia sẻ chi phí vốn hỗ trợ doanh nghiệp nhỏ và vừa, hoặc triển khai tín dụng ưu đãi quy mô 70.000 tỷ đồng 2026-2028."
-    },
-    {
-      "title": "VN-Index giảm lần thứ 5 liên tiếp, khối ngoại bán ròng 3.140 tỷ đồng",
+      "title": "VN-Index giảm tuần thứ 5 liên tiếp, khối ngoại bán ròng 3.1 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 1,68% tuần 42/2026, giảm liên tiếp 5 tuần, khối ngoại bán ròng 3.140,8 tỷ đồng, nhóm Bất động sản lấy đi ròng 20,1 điểm, thanh khoản suy yếu ở vùng thấp kéo dài."
+      "note": "VN-Index mất 29 điểm trong tuần 12-16/10, đóng cửa dưới 1.706 điểm. VIC là tác nhân chính, giảm 4/5 phiên từ 225.500 đồng xuống 215.000 đồng/cp, lấy đi gần 16.7 điểm. Khối ngoại bán ròng 3.140,8 tỷ đồng, trong đó khớp lệnh bán ròng 2.846,3 tỷ đồng. Tuần là đợt bán tiếp theo trong chuỗi 5 tuần điều chỉnh."
     },
     {
-      "title": "GDP 9 tháng tăng 9,01%, phấn đấu quý IV tăng trên 12,5%",
+      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát lạm phát",
+      "impact": "→",
+      "note": "Thủ tướng Lê Minh Hưng (18/10) nêu rõ giá xăng dầu thế giới tăng 65-90%. Chính phủ áp dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để bảo đảm người dân hưởng lợi từ tăng trưởng. Nhấn mạnh lạm phát tăng sẽ xói mòn thành quả GDP tăng, mục tiêu tăng trưởng từ 10% trở lên năm 2027."
+    },
+    {
+      "title": "Agribank giảm 2%/năm lãi suất cho vay từ 19/10",
       "impact": "↑",
-      "note": "GDP 9 tháng tăng 9,01%, quý III tăng 9,95%, kim ngạch xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, thu ngân sách cả năm ước đạt 3.060 triệu tỷ đồng, phấn đấu quý IV tăng trên 12,5% để hoàn thành mục tiêu cả năm từ 10% trở lên."
+      "note": "Từ ngày 19/10/2026, Agribank triển khai giảm lãi suất cho vay tới 2,0%/năm so với lãi suất thông thường, tập trung lĩnh vực ưu tiên và doanh nghiệp sản xuất kinh doanh. Dự kiến dành 2.000 tỷ đồng từ lợi nhuận để chia sẻ chi phí vốn. Làn sóng giảm lãi suất lan rộng sau chỉ đạo của Thủ tướng và NHNN."
     },
     {
-      "title": "Lãi suất cao, áp lực tỷ giá thách thức thị trường chứng khoán",
+      "title": "GDP 9 tháng tăng 9.01%, kim ngạch XNK lần đầu vượt 1.000 tỷ USD",
+      "impact": "↑",
+      "note": "GDP 9 tháng tăng 9.01%, riêng quý III tăng 9.95%. Kim ngạch xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, thu ngân sách cả năm ước 3.060 triệu tỷ đồng. Tuy nhiên, các đại biểu Quốc hội (18/10) đề nghị tập trung vào thu nhập thực tế, sức mua và chất lượng cuộc sống thay vì chỉ tập trung chỉ số tăng trưởng."
+    },
+    {
+      "title": "Lãi suất cao tiếp tục áp lực, thị trường cân bằng quanh 1.700 điểm",
       "impact": "↓",
-      "note": "Mặt bằng lãi suất neo cao (6,75-7,9%/năm tại các ngân hàng), áp lực tỷ giá từ nước ngoài, khối ngoại tiếp tục bán ròng 3.000 tỷ đồng tuần qua, VN-Index chưa xác nhận được đảo chiều bền vững mặc dù có nhịp hồi kỹ thuật cuối tuần."
+      "note": "Mặt bằng lãi suất neo cao, áp lực tỷ giá và bán ròng ngoại là các lực cản lớn. VN-Index nhờ hồi phục kỹ thuật cuối tuần lấy lại mốc 1.700 điểm nhưng chưa xác nhận được đảo chiều bền vững. Vùng 1.680-1.700 đóng vai trò hỗ trợ gần, tương ứng đường xu hướng nối thấp tháng 3 và tháng 7/2026."
+    },
+    {
+      "title": "NHNN xử lý ngân hàng không giảm lãi suất, hạn mức tín dụng năm 2027",
+      "impact": "→",
+      "note": "NHNN yêu cầu giảm lãi suất cho vay 1,5-2%/năm cho lĩnh vực sản xuất, kinh doanh và ưu tiên. Các ngân hàng không tuân thủ sẽ bị giảm chỉ tiêu tăng trưởng tín dụng cả năm 2026 và giao chỉ tiêu thấp năm 2027. Yêu cầu giảm lãi suất tiền gửi tối thiểu 0,5%/năm cho kỳ hạn 6 tháng trở lên."
     }
   ]
 }
