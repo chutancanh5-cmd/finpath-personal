@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-18",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ và Ngân hàng Nhà nước chỉ đạo giảm lãi suất cho vay 1,5-2%/năm hỗ trợ doanh nghiệp, với Agribank dẫn đầu giảm 2,0%/năm từ 19/10 và dành 2.000 tỷ đồng hỗ trợ. Tuy nhiên, thị trường chứng khoán tiếp tục chịu áp lực từ bán ròng khối ngoại (3.140 tỷ đồng/tuần), lãi suất tiền gửi neo cao (tới 7,9%/năm), lạm phát từ giá năng lượng (CPI 9 tháng 4,52%), khiến VN-Index giảm xuống 1.705,91 điểm lần thứ 5 liên tiếp. GDP 9 tháng tăng 9,01% nhưng quý 4 cần tăng trên 12,5% để hoàn thành mục tiêu cả năm.",
+  "summary_vi": "Kinh tế vĩ mô tiếp tục tăng trưởng tốt (GDP 9 tháng +9,01%, quý III +9,95%) và Chính phủ đẩy mạnh các biện pháp hỗ trợ doanh nghiệp qua giảm lãi suất. Tuy nhiên, thị trường chứng khoán đang suy yếu với VN-Index giảm liên tiếp 5 tuần, khối ngoại bán ròng mạnh, phản ánh lo ngại về lãi suất cao neo kéo dài và tâm lý nhà đầu tư còn rất lo lắng dù có nhịp hồi kỹ thuật.",
   "top": [
     {
-      "title": "Agribank giảm 2%/năm lãi suất cho vay từ 19/10",
+      "title": "Chính phủ kiểm soát lạm phát, phấn đấu GDP 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Từ 19/10/2026, Agribank triển khai chương trình giảm lãi suất cho vay tới 2,0%/năm; dành 2.000 tỷ đồng từ nguồn lực tài chính để chia sẻ chi phí vốn, hỗ trợ doanh nghiệp và người dân duy trì, mở rộng sản xuất kinh doanh theo định hướng phát triển kinh tế."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ giữ giá xăng dầu và không tăng giá điện trong nước để kiểm soát lạm phát, nhấn mạnh yêu cầu bảo đảm lạm phát không xói mòn thành quả tăng trưởng, phấn đấu GDP năm 2027 từ 10% trở lên."
     },
     {
-      "title": "NHNN giảm lãi suất cho vay 1,5-2%/năm cho doanh nghiệp",
+      "title": "NHNN chỉ đạo giảm lãi suất, xử phạt ngân hàng vi phạm năm 2027",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước yêu cầu các tổ chức tín dụng giảm lãi suất cho vay 1,5-2%/năm cho lĩnh vực sản xuất kinh doanh và lĩnh vực ưu tiên; giảm lãi suất tiền gửi tối thiểu 0,5%/năm; ngân hàng vi phạm sẽ bị giảm hạn mức tín dụng năm 2027."
+      "note": "NHNN yêu cầu giảm lãi suất tiền gửi tối thiểu 0,5%/năm (kỳ hạn 6 tháng trở lên), giảm lãi suất cho vay 1,5-2,0%/năm cho sản xuất kinh doanh và lĩnh vực ưu tiên, cấm cạnh tranh không lành mạnh; ngân hàng vi phạm sẽ bị giảm hạn mức tín dụng năm 2027."
     },
     {
-      "title": "GDP 9 tháng 2026 tăng 9,01%, quý 4 cần tăng trên 12,5%",
+      "title": "Agribank triển khai chương trình giảm lãi suất 2,0%/năm từ 19/10",
       "impact": "↑",
-      "note": "GDP 9 tháng 2026 tăng 9,01%, riêng quý 3 tăng 9,95%; Thủ tướng yêu cầu quý 4 tăng tốc trên 12,5% để hoàn thành mục tiêu 10%+ cả năm; năm 2027 phấn đấu tăng 10% trở lên, GDP bình quân đầu người 6.100 USD."
+      "note": "Từ 19/10/2026, Agribank giảm lãi suất cho vay 2,0%/năm cho các lĩnh vực ưu tiên, dùng 2.000 tỷ đồng chia sẻ chi phí vốn hỗ trợ doanh nghiệp nhỏ và vừa, hoặc triển khai tín dụng ưu đãi quy mô 70.000 tỷ đồng 2026-2028."
     },
     {
-      "title": "VN-Index tuần 42 giảm 1,68%, khối ngoại bán ròng 3.140 tỷ đồng",
+      "title": "VN-Index giảm lần thứ 5 liên tiếp, khối ngoại bán ròng 3.140 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index tuần 42 kết thúc 1.705,91 điểm, giảm 29,18 điểm (-1,68%), lần thứ 5 liên tiếp hạ; khối ngoại bán ròng 3.140,8 tỷ đồng (khớp lệnh 2.846,3 tỷ đồng); Bất động sản (VIC lấy 13,5 điểm, VHM 6,8 điểm) là áp lực lớn nhất, Ngân hàng hỗ trợ (+3,2 điểm)."
+      "note": "VN-Index giảm 1,68% tuần 42/2026, giảm liên tiếp 5 tuần, khối ngoại bán ròng 3.140,8 tỷ đồng, nhóm Bất động sản lấy đi ròng 20,1 điểm, thanh khoản suy yếu ở vùng thấp kéo dài."
     },
     {
-      "title": "Lãi suất tiền gửi cao nhất 7,9%/năm, CPI 9 tháng 4,52%",
+      "title": "GDP 9 tháng tăng 9,01%, phấn đấu quý IV tăng trên 12,5%",
+      "impact": "↑",
+      "note": "GDP 9 tháng tăng 9,01%, quý III tăng 9,95%, kim ngạch xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, thu ngân sách cả năm ước đạt 3.060 triệu tỷ đồng, phấn đấu quý IV tăng trên 12,5% để hoàn thành mục tiêu cả năm từ 10% trở lên."
+    },
+    {
+      "title": "Lãi suất cao, áp lực tỷ giá thách thức thị trường chứng khoán",
       "impact": "↓",
-      "note": "Lãi suất tiền gửi cao nhất VPBank 7,9%/năm kỳ hạn 18 tháng, Sacombank 7,5%/năm kỳ hạn 12 tháng; CPI 9 tháng tăng 4,52%; giá năng lượng tăng đẩy lạm phát, mặt bằng lãi suất neo cao hạn chế dòng tiền nhà đầu tư."
-    },
-    {
-      "title": "Quốc hội nhấn mạnh chất lượng tăng trưởng qua thu nhập thực tế và sức mua",
-      "impact": "→",
-      "note": "Quốc hội đề nghị Chính phủ đánh giá đầy đủ mức cải thiện thu nhập thực tế, sức mua, chất lượng cuộc sống; ngân sách 2026 ước 3.060 triệu tỷ đồng, miễn giảm gia hạn 360.000 tỷ đồng tiền thuế."
+      "note": "Mặt bằng lãi suất neo cao (6,75-7,9%/năm tại các ngân hàng), áp lực tỷ giá từ nước ngoài, khối ngoại tiếp tục bán ròng 3.000 tỷ đồng tuần qua, VN-Index chưa xác nhận được đảo chiều bền vững mặc dù có nhịp hồi kỹ thuật cuối tuần."
     }
   ]
 }
