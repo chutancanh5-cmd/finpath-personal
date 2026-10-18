@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-18",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam tiếp tục tăng trưởng ổn định (GDP 9 tháng 9,01%, quý 3 tăng 9,95%), xuất nhập khẩu vượt 1.000 tỷ USD, và Chính phủ cam kết phấn đấu đạt 10%+ năm 2027. Ngân hàng bắt đầu giảm lãi suất cho vay (Agribank 2%/năm từ 19/10) và triển khai 70.000 tỷ đồng tín dụng ưu đãi. Tuy nhiên, thị trường chứng khoán vẫn chịu áp lực mạnh từ lãi suất neo cao, khối ngoại bán ròng liên tục (3.100+ tỷ/tuần), thanh khoản suy yếu, và VN-Index nằm trong chuỗi giảm thứ 4 liên tiếp.",
+  "summary_vi": "Chính phủ và Ngân hàng Nhà nước chỉ đạo giảm lãi suất cho vay 1,5-2%/năm hỗ trợ doanh nghiệp, với Agribank dẫn đầu giảm 2,0%/năm từ 19/10 và dành 2.000 tỷ đồng hỗ trợ. Tuy nhiên, thị trường chứng khoán tiếp tục chịu áp lực từ bán ròng khối ngoại (3.140 tỷ đồng/tuần), lãi suất tiền gửi neo cao (tới 7,9%/năm), lạm phát từ giá năng lượng (CPI 9 tháng 4,52%), khiến VN-Index giảm xuống 1.705,91 điểm lần thứ 5 liên tiếp. GDP 9 tháng tăng 9,01% nhưng quý 4 cần tăng trên 12,5% để hoàn thành mục tiêu cả năm.",
   "top": [
     {
       "title": "Agribank giảm 2%/năm lãi suất cho vay từ 19/10",
       "impact": "↑",
-      "note": "Agribank bắt đầu triển khai chương trình giảm lãi suất tới 2,0%/năm từ 19/10/2026, kèm theo chương trình tín dụng ưu đãi quy mô 70.000 tỷ đồng (2026-2028) cho doanh nghiệp nhỏ vừa và các lĩnh vực ưu tiên, dự kiến chi hỗ trợ 2.000 tỷ đồng từ nguồn lực ngân hàng."
+      "note": "Từ 19/10/2026, Agribank triển khai chương trình giảm lãi suất cho vay tới 2,0%/năm; dành 2.000 tỷ đồng từ nguồn lực tài chính để chia sẻ chi phí vốn, hỗ trợ doanh nghiệp và người dân duy trì, mở rộng sản xuất kinh doanh theo định hướng phát triển kinh tế."
     },
     {
-      "title": "Lãi suất cao tiếp tục 'thử thách' chứng khoán",
-      "impact": "↓",
-      "note": "VN-Index hồi phục lấy lại 1.700 điểm sau 4 tuần giảm liên tiếp, nhưng mặt bằng lãi suất neo cao, áp lực tỷ giá, và khối ngoại bán ròng hơn 3.000 tỷ đồng tuần qua vẫn là những lực cản lớn đối với khả năng đảo chiều bền vững."
-    },
-    {
-      "title": "Phó Thủ tướng: Tăng trưởng hai con số là 'mệnh lệnh chính trị'",
+      "title": "NHNN giảm lãi suất cho vay 1,5-2%/năm cho doanh nghiệp",
       "impact": "↑",
-      "note": "GDP 9 tháng đạt 9,01% (quý 3 tăng 9,95%), Phó Thủ tướng Phạm Thị Thanh Trà khẳng định quyết tâm thực hiện mục tiêu tăng trưởng hai con số, mặc dù quý 4 phải tăng tốc mạnh để đạt 10% trở lên cả năm."
+      "note": "Ngân hàng Nhà nước yêu cầu các tổ chức tín dụng giảm lãi suất cho vay 1,5-2%/năm cho lĩnh vực sản xuất kinh doanh và lĩnh vực ưu tiên; giảm lãi suất tiền gửi tối thiểu 0,5%/năm; ngân hàng vi phạm sẽ bị giảm hạn mức tín dụng năm 2027."
     },
     {
-      "title": "Thanh khoản suy yếu, khối ngoại bán ròng 3.100 tỷ đồng tuần qua",
-      "impact": "↓",
-      "note": "VN-Index tuần 42 giảm 29,18 điểm (-1,68%), đánh dấu tuần giảm thứ 5 liên tiếp. Khối ngoại bán ròng 3.140,8 tỷ đồng. Bất động sản gây áp lực lớn (VIC -13,5 điểm, VHM -6,8 điểm), thanh khoản suy yếu duy trì ở mức thấp."
-    },
-    {
-      "title": "Thủ tướng: Năm 2027 phấn đấu tăng trưởng 10%+, GDP bình quân 6.100 USD",
+      "title": "GDP 9 tháng 2026 tăng 9,01%, quý 4 cần tăng trên 12,5%",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng xác định năm 2027 là năm tăng tốc, bứt phá, phấn đấu tăng trưởng GDP từ 10% trở lên gắn với giữ vững ổn định kinh tế vĩ mô, GDP bình quân đầu người dự kiến 6.100 USD."
+      "note": "GDP 9 tháng 2026 tăng 9,01%, riêng quý 3 tăng 9,95%; Thủ tướng yêu cầu quý 4 tăng tốc trên 12,5% để hoàn thành mục tiêu 10%+ cả năm; năm 2027 phấn đấu tăng 10% trở lên, GDP bình quân đầu người 6.100 USD."
     },
     {
-      "title": "VN-Index còn nguy cơ giảm, chưa xác nhận tạo đáy",
+      "title": "VN-Index tuần 42 giảm 1,68%, khối ngoại bán ròng 3.140 tỷ đồng",
       "impact": "↓",
-      "note": "Các chuyên gia nhận định thị trường chưa đủ cơ sở xác nhận tạo đáy, rủi ro điều chỉnh vẫn hiện hữu, CPI bình quân 9 tháng 4,52%, khối ngoại tiếp tục bán ròng gây áp lực kéo dài."
+      "note": "VN-Index tuần 42 kết thúc 1.705,91 điểm, giảm 29,18 điểm (-1,68%), lần thứ 5 liên tiếp hạ; khối ngoại bán ròng 3.140,8 tỷ đồng (khớp lệnh 2.846,3 tỷ đồng); Bất động sản (VIC lấy 13,5 điểm, VHM 6,8 điểm) là áp lực lớn nhất, Ngân hàng hỗ trợ (+3,2 điểm)."
+    },
+    {
+      "title": "Lãi suất tiền gửi cao nhất 7,9%/năm, CPI 9 tháng 4,52%",
+      "impact": "↓",
+      "note": "Lãi suất tiền gửi cao nhất VPBank 7,9%/năm kỳ hạn 18 tháng, Sacombank 7,5%/năm kỳ hạn 12 tháng; CPI 9 tháng tăng 4,52%; giá năng lượng tăng đẩy lạm phát, mặt bằng lãi suất neo cao hạn chế dòng tiền nhà đầu tư."
+    },
+    {
+      "title": "Quốc hội nhấn mạnh chất lượng tăng trưởng qua thu nhập thực tế và sức mua",
+      "impact": "→",
+      "note": "Quốc hội đề nghị Chính phủ đánh giá đầy đủ mức cải thiện thu nhập thực tế, sức mua, chất lượng cuộc sống; ngân sách 2026 ước 3.060 triệu tỷ đồng, miễn giảm gia hạn 360.000 tỷ đồng tiền thuế."
     }
   ]
 }
