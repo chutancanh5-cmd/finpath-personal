@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-19",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ triển khai gói tín dụng ưu đãi (VietinBank, Vietbank giảm 2%/năm lãi suất) và kiểm soát lạm phát tốt dù giá xăng dầu thế giới tăng 65-90%. Thị trường chứng khoán chịu áp lực sâu (giảm 24% từ đầu năm, VN-Index thủng 1700) từ các trụ suy yếu. Chiến lược phát triển thị trường vốn (khoảng trống 120-150 tỷ USD/năm) là mục tiêu quan trọng nhưng ngắn hạn cổ phiếu còn tiếp tục điều chỉnh. Các gói hỗ trợ tín dụng sẽ hỗ trợ doanh nghiệp nhưng cần thời gian để phản ánh vào thị trường.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán giảm điểm mạnh hôm nay khi VN-Index thủng mốc 1.700 điểm (-1%), nhưng có dòng tiền hỗ trợ ở nhóm cổ phiếu vừa và nhỏ. Chính phủ chủ động triển khai các biện pháp hỗ trợ kinh tế như giảm lãi suất cho vay tới 2%/năm để giảm gánh nặng tài chính cho doanh nghiệp. Rủi ro từ giá xăng dầu tăng 65-90% được kiểm soát thông qua các biện pháp giữ giá trong nước ở mức thấp. Kết quả kinh doanh của VPBank quý 3 khẳng định sức khỏe của khối ngân hàng, nhưng nhóm cổ phiếu chứng khoán vẫn chịu áp lực mạnh.",
   "top": [
     {
-      "title": "Chính phủ kiểm soát lạm phát dù giá xăng dầu thế giới tăng 65-90%",
-      "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ đã triển khai các biện pháp giữ giá xăng dầu trong nước ở mức thấp so với khu vực, không tăng giá điện nhằm kiểm soát lạm phát; khi lạm phát tăng thì thành quả tăng trưởng bị xói mòn."
-    },
-    {
-      "title": "Khoảng trống vốn 120-150 tỷ USD/năm, cần phát triển thị trường chứng khoán",
-      "impact": "→",
-      "note": "Để duy trì tăng trưởng 10%/năm giai đoạn 2026-2030, Việt Nam cần 1.460 tỷ USD tổng vốn đầu tư; tín dụng ngân hàng hiện chiếm 82,8% nguồn tài trợ, chứng khoán chỉ 4,1%, trái phiếu 13,1%. Cần phát triển thị trường vốn dài hạn để giảm phụ thuộc vào tín dụng ngân hàng."
+      "title": "VN-Index thủng 1.700 điểm, giảm 1%",
+      "impact": "↓",
+      "note": "VN-Index giảm 16,07 điểm (-0,94%) xuống mức 1.689,84 điểm; HNX-Index giảm 1,22 điểm (-0,5%) xuống 257,91 điểm. 348 mã tăng nhưng 301 mã giảm, nhóm blue-chips (VIC, VCB, VHM, VPB) dẫn đầu sắc đỏ với tác động tiêu cực lên chỉ số. Thanh khoản tăng so với phiên trước, khối lượng HoSE đạt 519 triệu cổ phiếu, trị giá 11,2 nghìn tỷ đồng."
     },
     {
       "title": "VietinBank giảm lãi suất cho vay tới 2%/năm",
       "impact": "↑",
-      "note": "Ngày 19/10, VietinBank triển khai các giải pháp tín dụng giảm lãi suất cho vay tới 2%/năm, tập trung hỗ trợ hoạt động sản xuất, kinh doanh, nông nghiệp, hạ tầng, công nghệ chiến lược."
+      "note": "Từ 19/10/2026, VietinBank triển khai giải pháp giảm lãi suất cho vay tới 2%/năm, tập trung hỗ trợ sản xuất, kinh doanh và các lĩnh vực ưu tiên bao gồm nông nghiệp, nhà ở xã hội, hạ tầng, năng lượng, giao thông, công nghệ chiến lược. Hỗ trợ thực hiện cùng chương trình tín dụng quy mô 50.000 tỷ đồng triển khai từ tháng 8/2026 đến hết năm 2028."
     },
     {
-      "title": "Vietbank triển khai gói tín dụng 3.000 tỷ đồng với lãi suất 1,5%/năm",
+      "title": "Giá xăng dầu tăng 65-90% thế giới, Chính phủ kiểm soát lạm phát",
+      "impact": "→",
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ đã triển khai biện pháp bảo đảm nguồn cung, giữ giá xăng dầu trong nước ở mức thấp so với khu vực, không tăng giá điện để kiểm soát lạm phát. Chỉ số CPI 9 tháng đầu năm được kiểm soát tốt, mục tiêu tăng trưởng GDP 2027 từ 10% trở lên yêu cầu ổn định kinh tế vĩ mô."
+    },
+    {
+      "title": "VPBank lợi nhuận 11.000 tỷ quý 3, tài sản tăng 27,8%",
       "impact": "↑",
-      "note": "Từ 19/10, Vietbank triển khai gói tín dụng 3.000 tỷ đồng với lãi suất thấp hơn tối thiểu 1,5%/năm, áp dụng đến 30/6/2027, hỗ trợ doanh nghiệp sản xuất, kinh doanh và các lĩnh vực ưu tiên như khoa học công nghệ, chuyển đổi xanh."
+      "note": "Quý 3/2026, VPBank ghi nhận tổng tài sản hợp nhất vượt 1.600 triệu tỷ đồng, tăng 27,8% so với cuối năm 2025. Dư nợ tín dụng riêng lẻ đạt 1.100 triệu tỷ đồng, tăng gần 30%, với phân khúc bán lẻ ghi nhận phục hồi và tín dụng doanh nghiệp/SME tập trung vào lĩnh vực ưu tiên (sản xuất, hạ tầng, công nghệ, tài chính xanh)."
     },
     {
-      "title": "Chứng khoán giảm 23,46% từ đầu năm, 39,92% trong 1 năm",
+      "title": "Nhóm cổ phiếu chứng khoán giảm 23,46% từ đầu năm",
       "impact": "↓",
-      "note": "Chứng khoán Việt Nam giảm 23,46% từ đầu năm (mạnh hơn VN-Index giảm 2,77%), giảm 39,92% trong 1 năm qua. Tính đến 09/10/2026, khoảng 80% số mã ngành chứng khoán đã giảm hơn 20% so với đỉnh gần nhất."
+      "note": "Chỉ số ngành chứng khoán giảm 23,46% so với đầu năm, sâu hơn VN-Index (-2,77%). Trong 1 năm qua, nhóm giảm 39,92% trong khi VN-Index tăng 2,19%. Khoảng 80% cổ phiếu ngành giảm hơn 20% so với đỉnh gần nhất, phản ánh kỳ vọng lợi nhuận ngắn hạn kém tích cực và sự phân hóa giữa các doanh nghiệp."
     },
     {
-      "title": "VN-Index lao dốc dưới 1700 điểm, áp lực từ nhóm cổ phiếu lớn",
-      "impact": "↓",
-      "note": "VIC giảm 3,72% phiên chiều (tổng giảm 4,34% chỉ riêng chiều), VHM phá vỡ vùng hỗ trợ giảm 1,15%, HPG giảm 1,67%. VN-Index đóng cửa dưới 1700 điểm lần nữa nhưng độ rộng sàn HoSE vẫn giữ tốt (xanh/đỏ 1,22/1), cho thấy dòng tiền chuyển sang nhóm cổ phiếu vừa và nhỏ."
+      "title": "Các ngân hàng giảm lãi suất tiết kiệm, NHNN yêu cầu giảm tối thiểu 0,5%/năm",
+      "impact": "→",
+      "note": "NHNN yêu cầu các ngân hàng điều chỉnh giảm tối thiểu 0,5%/năm lãi suất tiền gửi từ 6 tháng trở lên, không chạy đua tăng lãi suất huy động. LPBank điều chỉnh: kỳ hạn 6 tháng xuống 6,5%/năm, 12 tháng còn 6,7%/năm, 24-25 tháng còn 6,7%/năm. Mục đích kiểm soát chi phí lãi suất huy động trong bối cảnh lãi suất duy trì ở mức cao."
     }
   ]
 }
