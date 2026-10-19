@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-19",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "NHNN chỉ đạo giảm lãi suất 0,5%/năm từ 6 tháng trở lên và hỗ trợ doanh nghiệp, các ngân hàng đã triển khai ngay 19/10 để hướng tới mục tiêu tăng trưởng 10%+ năm 2027. Tuy nhiên, thị trường hôm nay ghi nhận sức ép khi khối ngoại bán ròng 850 tỷ đồng, VN-Index giảm 16 điểm xuống 1.690 và nhóm blue-chips suy yếu sâu (VIC -4,34%, STB -1,59%). Chính phủ kiểm soát lạm phát hiệu quả dù xăng dầu thế giới tăng 65-90%; VPBank ghi nhận tài sản tăng 27,8% và tín dụng +30% trong quý 3 khích lệ dòng tiền.",
+  "summary_vi": "NHNN yêu cầu giảm lãi suất tiền gửi 0,5%/năm từ 6 tháng trở lên để hỗ trợ doanh nghiệp tăng trưởng 10%+ năm 2027. Chính phủ kiểm soát lạm phát hiệu quả dù giá xăng dầu thế giới tăng 65-90%. Thị trường vốn cần phát triển để bù khoảng trống 120-150 tỷ USD/năm cho nhu cầu đầu tư 1.460 tỷ USD trong giai đoạn 2026-2030. Tuy nhiên, VN-Index giảm dưới 1.700 điểm khi nhóm trụ bị bán tháo mạnh, cổ phiếu chứng khoán giảm 24% năm nay, trong khi VPBank vẫn tăng trưởng mạnh với tài sản +27,8% và tín dụng +30% quý 3.",
   "top": [
     {
-      "title": "NHNN giảm lãi suất 0,5%/năm từ 6 tháng, ngân hàng triển khai",
+      "title": "NHNN yêu cầu giảm lãi suất tiền gửi 0,5%/năm từ 6 tháng trở lên",
+      "impact": "→",
+      "note": "NHNN chỉ đạo các ngân hàng giảm tối thiểu 0,5%/năm lãi suất tiền gửi niêm yết kỳ hạn 6+ tháng. LPBank giảm kỳ hạn 6 tháng còn 6,5%/năm, kỳ hạn 12 tháng còn 6,7%/năm, kỳ hạn 6-12 tháng giảm 0,5-0,6 điểm phần trăm/năm. Nam A Bank, Vietbank đồng thời triển khai từ 19/10."
+    },
+    {
+      "title": "Khoảng trống vốn 120-150 tỷ USD/năm cần bù từ thị trường vốn",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước yêu cầu giảm tối thiểu 0,5%/năm lãi suất huy động từ 6 tháng trở lên, giảm lãi suất cho vay 1,5-2% cho sản xuất. Nam A Bank, Vietbank (gói 3.000 tỷ), LPBank (giảm 0,5-0,6%/năm) đã triển khai từ 19/10 để cùng nền kinh tế tăng trưởng hai chữ số."
+      "note": "Dragon Capital ước tính Việt Nam cần tổng vốn đầu tư 1.460 tỷ USD giai đoạn 2026-2030 để duy trì GDP tăng 10%+. Khoảng trống vốn 120-150 tỷ USD/năm phải bù đắp qua cổ phiếu, trái phiếu doanh nghiệp, trái phiếu Chính phủ. Hiện tín dụng ngân hàng chiếm 82,8% tài trợ, cổ phiếu 4,1%, trái phiếu 13,1%."
     },
     {
-      "title": "Khối ngoại bán ròng 850 tỷ, VN-Index giảm 16 điểm",
+      "title": "VN-Index lao dốc dưới 1.700 điểm, nhóm trụ bán tháo mạnh",
       "impact": "↓",
-      "note": "Phiên 19/10, khối ngoại bán ròng 850 tỷ đồng trên toàn thị trường, VN-Index giảm 16 điểm xuống 1.690 điểm. VCB bị bán ròng mạnh nhất 104 tỷ đồng, theo sau VHM 102 tỷ, ACB 93 tỷ, VJC 72 tỷ, FPT 42 tỷ đồng."
+      "note": "VN-Index thủng mốc 1.700 điểm chiều 19/10. VIC lao dốc 4,34% chỉ chiều nay, STB từ tăng 1,27% sáng thành giảm 1,59%, HPG giảm 1,67%, VHM giảm 1,15%. Thanh khoản VIC phiên chiều gấp 4 lần sáng, xác nhận áp lực bán rất lớn từ nhà đầu tư."
     },
     {
-      "title": "Blue-chips suy yếu sâu, VN-Index thủng 1.700 điểm",
-      "impact": "↓",
-      "note": "20 cổ phiếu blue-chips giảm so với phiên sáng, chỉ 8 mã cải thiện. VIC lao dốc 4,34% chiều nay, STB từ tăng 1,27% sáng thành giảm 1,59%, HPG giảm 1,67%, VHM giảm 1,15%. Thanh khoản VIC phiên chiều cao gấp 4 lần sáng, xác nhận áp lực bán lớn."
-    },
-    {
-      "title": "VPBank tăng trưởng mạnh: tài sản +27,8%, tín dụng +30%",
+      "title": "VPBank quý 3 lợi nhuận 11.000 tỷ, tài sản tăng 27,8%",
       "impact": "↑",
-      "note": "VPBank ghi nhận lợi nhuận hơn 11.000 tỷ đồng quý 3, tổng tài sản vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng 1,1 triệu tỷ (tăng gần 30%). Tập trung hỗ trợ sản xuất công nghiệp, cơ sở hạ tầng, khoa học công nghệ, tài chính xanh."
+      "note": "VPBank ghi nhận lợi nhuận hơn 11.000 tỷ đồng quý 3/2026, tổng tài sản vượt 1,6 triệu tỷ đồng tăng 27,8% so với cuối 2025, dư nợ tín dụng đạt 1,1 triệu tỷ tăng gần 30%. Tín dụng tập trung sản xuất công nghiệp, cơ sở hạ tầng, khoa học công nghệ, tài chính xanh."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát, xăng dầu thế giới +65-90%",
+      "title": "Chính phủ kiểm soát lạm phát dù xăng dầu thế giới tăng 65-90%",
       "impact": "↑",
-      "note": "Thủ tướng nhấn mạnh giá xăng dầu thế giới tăng 65-90%; nếu không điều hành, giá trong nước có thể tăng 80%. Chính phủ bảo đảm nguồn cung, giữ giá thấp so với khu vực, không tăng giá điện để kiểm soát lạm phát."
+      "note": "Giá xăng dầu thế giới tăng 65-90%; nếu không có biện pháp, giá trong nước có thể tăng 80%. Chính phủ bảo đảm nguồn cung, giữ giá thấp so với khu vực và không tăng giá điện để kiểm soát lạm phát, bảo vệ thành quả tăng trưởng từ bị xói mòn."
     },
     {
-      "title": "Ngành chứng khoán giảm 23,46% năm 2026, 80% mã mất >20%",
+      "title": "Cổ phiếu chứng khoán giảm 24% từ đầu năm, 80% mã mất >20%",
       "impact": "↓",
-      "note": "Chỉ số ngành chứng khoán giảm 23,46% từ đầu năm, sâu hơn VN-Index (giảm 2,77%). 80% cổ phiếu ngành giảm trên 20% so với đỉnh gần nhất do triển vọng lợi nhuận ngắn hạn kém tích cực và phân hóa giữa các doanh nghiệp."
+      "note": "Chỉ số ngành chứng khoán giảm 23,46% từ đầu năm, sâu hơn VN-Index giảm 2,77%. Năm qua ngành giảm 39,92% trong khi chỉ số chung tăng 2,19%. Khoảng 80% cổ phiếu ngành giảm trên 20% từ đỉnh gần nhất do triển vọng lợi nhuận ngắn hạn kém tích cực."
     }
   ]
 }
