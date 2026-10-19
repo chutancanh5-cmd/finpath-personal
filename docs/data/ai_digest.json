@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-19",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Khối ngoại bán ròng 850 tỷ đồng và nhóm trụ suy yếu sâu (VIC giảm 4,34%, VHM giảm 1,15%, ngân hàng suy yếu) khiến VN-Index giảm 16 điểm xuống 1.690 và thủng mốc 1.700 điểm. NHNN yêu cầu giảm lãi suất tối thiểu 0,5%/năm huy động từ 6 tháng trở lên và lãi suất cho vay 1,5-2% để hỗ trợ kinh tế, song áp lực từ giá xăng dầu tăng 65-90% thế giới vẫn đe dọa lạm phát. VPBank báo lãi quý 3 hơn 11.000 tỷ đồng khích lệ tâm lý, nhưng rủi ro từ quỹ phòng hộ sử dụng đòn bẩy cao trên thị trường trái phiếu toàn cầu vẫn duy trì.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "NHNN chỉ đạo giảm lãi suất 0,5%/năm từ 6 tháng trở lên và hỗ trợ doanh nghiệp, các ngân hàng đã triển khai ngay 19/10 để hướng tới mục tiêu tăng trưởng 10%+ năm 2027. Tuy nhiên, thị trường hôm nay ghi nhận sức ép khi khối ngoại bán ròng 850 tỷ đồng, VN-Index giảm 16 điểm xuống 1.690 và nhóm blue-chips suy yếu sâu (VIC -4,34%, STB -1,59%). Chính phủ kiểm soát lạm phát hiệu quả dù xăng dầu thế giới tăng 65-90%; VPBank ghi nhận tài sản tăng 27,8% và tín dụng +30% trong quý 3 khích lệ dòng tiền.",
   "top": [
+    {
+      "title": "NHNN giảm lãi suất 0,5%/năm từ 6 tháng, ngân hàng triển khai",
+      "impact": "↑",
+      "note": "Ngân hàng Nhà nước yêu cầu giảm tối thiểu 0,5%/năm lãi suất huy động từ 6 tháng trở lên, giảm lãi suất cho vay 1,5-2% cho sản xuất. Nam A Bank, Vietbank (gói 3.000 tỷ), LPBank (giảm 0,5-0,6%/năm) đã triển khai từ 19/10 để cùng nền kinh tế tăng trưởng hai chữ số."
+    },
     {
       "title": "Khối ngoại bán ròng 850 tỷ, VN-Index giảm 16 điểm",
       "impact": "↓",
-      "note": "Phiên 19/10, khối ngoại bán ròng 850 tỷ đồng trên toàn thị trường, VN-Index giảm 16 điểm xuống 1.690 điểm. Giá trị khớp lệnh HoSE 11.400 tỷ đồng. VCB bị bán ròng mạnh nhất 104 tỷ đồng, theo sau VHM 102 tỷ, ACB 93 tỷ, VJC 72 tỷ, FPT 42 tỷ đồng."
+      "note": "Phiên 19/10, khối ngoại bán ròng 850 tỷ đồng trên toàn thị trường, VN-Index giảm 16 điểm xuống 1.690 điểm. VCB bị bán ròng mạnh nhất 104 tỷ đồng, theo sau VHM 102 tỷ, ACB 93 tỷ, VJC 72 tỷ, FPT 42 tỷ đồng."
     },
     {
-      "title": "Nhóm trụ suy yếu sâu, VN-Index thủng 1.700 điểm",
+      "title": "Blue-chips suy yếu sâu, VN-Index thủng 1.700 điểm",
       "impact": "↓",
-      "note": "20 cổ phiếu blue-chips giảm giá so với phiên sáng, chỉ 8 mã cải thiện. VIC lao dốc 4,34% phiên chiều, STB từ tăng 1,27% buổi sáng thành giảm 1,59%, HPG giảm 1,67%, VHM giảm 1,15%. Thanh khoản VIC phiên chiều cao gấp 4 lần buổi sáng, xác nhận áp lực bán lớn."
+      "note": "20 cổ phiếu blue-chips giảm so với phiên sáng, chỉ 8 mã cải thiện. VIC lao dốc 4,34% chiều nay, STB từ tăng 1,27% sáng thành giảm 1,59%, HPG giảm 1,67%, VHM giảm 1,15%. Thanh khoản VIC phiên chiều cao gấp 4 lần sáng, xác nhận áp lực bán lớn."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%",
-      "impact": "↓",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh giá xăng dầu thế giới tăng tới 65-90%. Nếu không có biện pháp điều hành, giá xăng dầu trong nước có thể tăng 80%, lan rộng tác động đến giá các mặt hàng khác. Chính phủ bảo đảm nguồn cung, giữ giá thấp so với khu vực, và không tăng giá điện."
-    },
-    {
-      "title": "NHNN yêu cầu hạ lãi suất hỗ trợ doanh nghiệp",
+      "title": "VPBank tăng trưởng mạnh: tài sản +27,8%, tín dụng +30%",
       "impact": "↑",
-      "note": "NHNN yêu cầu ngân hàng giảm tối thiểu 0,5%/năm lãi suất huy động kỳ hạn 6 tháng trở lên, giảm lãi suất cho vay 1,5-2% cho sản xuất, kinh doanh. Nam A Bank, Vietbank (gói 3.000 tỷ đồng với lãi suất tối thiểu 1,5%/năm), LPBank (giảm 0,5-0,6%/năm) đã triển khai từ 19/10 để cùng nền kinh tế tăng trưởng hai chữ số."
+      "note": "VPBank ghi nhận lợi nhuận hơn 11.000 tỷ đồng quý 3, tổng tài sản vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng 1,1 triệu tỷ (tăng gần 30%). Tập trung hỗ trợ sản xuất công nghiệp, cơ sở hạ tầng, khoa học công nghệ, tài chính xanh."
     },
     {
-      "title": "VPBank lợi nhuận quý 3 vượt 11.000 tỷ đồng",
+      "title": "Chính phủ kiểm soát lạm phát, xăng dầu thế giới +65-90%",
       "impact": "↑",
-      "note": "VPBank ghi nhận lợi nhuận hơn 11.000 tỷ đồng quý 3, tổng tài sản hợp nhất vượt 1.600 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng cá nhân 1.100 triệu tỷ đồng (tăng gần 30%). Tín dụng tập trung vào sản xuất công nghiệp, cơ sở hạ tầng, khoa học công nghệ, tài chính xanh."
+      "note": "Thủ tướng nhấn mạnh giá xăng dầu thế giới tăng 65-90%; nếu không điều hành, giá trong nước có thể tăng 80%. Chính phủ bảo đảm nguồn cung, giữ giá thấp so với khu vực, không tăng giá điện để kiểm soát lạm phát."
     },
     {
-      "title": "Ngành chứng khoán suy yếu 23,46% từ đầu năm",
+      "title": "Ngành chứng khoán giảm 23,46% năm 2026, 80% mã mất >20%",
       "impact": "↓",
-      "note": "Chỉ số ngành chứng khoán giảm 23,46% từ đầu năm, sâu hơn mức giảm 2,77% của VN-Index. Trong 1 năm qua giảm 39,92% khi VN-Index tăng 2,19%. Khoảng 80% cổ phiếu ngành đã giảm trên 20% so với đỉnh gần nhất, sự phân hóa giữa các doanh nghiệp khiến nhóm này chưa lấy lại sức hút."
+      "note": "Chỉ số ngành chứng khoán giảm 23,46% từ đầu năm, sâu hơn VN-Index (giảm 2,77%). 80% cổ phiếu ngành giảm trên 20% so với đỉnh gần nhất do triển vọng lợi nhuận ngắn hạn kém tích cực và phân hóa giữa các doanh nghiệp."
     }
   ]
 }
