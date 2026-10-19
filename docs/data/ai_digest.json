@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-19",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tăng trưởng tốt với GDP 9 tháng 9,01%, Q3 tăng 9,95%, xuất nhập khẩu vượt 1.000 tỷ USD. Ngân hàng báo lãi cao (VPBank 11.000 tỷ đồng Q3, tài sản tăng 27,8%, tín dụng tăng 30%). Thủ tướng nhấn mạnh kiểm soát lạm phát khi giá xăng dầu tăng 65-90%, Thống đốc NHNN hướng tới tăng trưởng 2 con số. Tuy nhiên, thị trường chứng khoán yếu (VN-Index Q3 giảm 4,91%, giao dịch giảm 22,3%), cổ phiếu xây dựng lao dốc do lãi suất cao. NHNN sẽ giảm hạn mức tín dụng 2027 cho ngân hàng vi phạm chỉ đạo lãi suất.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính phủ triển khai chính sách hỗ trợ tăng trưởng mạnh mẽ: giảm lãi suất cho vay 1,5-2%/năm cho sản xuất, kinh doanh và lĩnh vực ưu tiên, Vietbank khởi động gói tín dụng 3.000 tỷ đồng ưu đãi. NHNN sẽ giảm hạn mức tín dụng 2027 cho ngân hàng không tuân thủ. Bộ ngân hàng báo lãi mạnh (VPBank 11.000+ tỷ đồng Q3, tài sản tăng 27,8%), phản ánh sức khỏe hệ thống. Chính phủ kiểm soát tốt lạm phát: giữ giá xăng dầu thấp dù thế giới tăng 65-90%, bảo đảm người dân hưởng lợi từ tăng trưởng. Tuy nhiên, lãi suất cao vẫn ảnh hưởng tiêu cực đến xây dựng (21/22 cổ phiếu giảm từ đầu năm).",
   "top": [
     {
-      "title": "VPBank lãi 11.000 tỷ Q3, tài sản tăng 27,8%, tín dụng tăng 30%",
+      "title": "Chính sách giảm lãi suất cho vay 1,5-2%/năm cho sản xuất, NHNN giám sát chặt",
       "impact": "↑",
-      "note": "VPBank ghi nhận lợi nhuận quý 3 vượt 11.000 tỷ đồng, tổng tài sản hợp nhất vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng riêng lẻ đạt 1,1 triệu tỷ đồng (tăng gần 30%), tăng trưởng đồng đều các phân khúc, phản ánh sức bền ngân hàng."
+      "note": "NHNN yêu cầu các tổ chức tín dụng giảm lãi suất cho vay 1,5-2%/năm đối với sản xuất, kinh doanh và lĩnh vực ưu tiên; Vietbank triển khai gói tín dụng ưu đãi 3.000 tỷ đồng, giảm lãi tiền gửi 0,5%/năm từ 6 tháng trở lên. Ngân hàng vi phạm sẽ bị giảm chỉ tiêu tín dụng năm 2027."
     },
     {
-      "title": "Thống đốc NHNN họp 19/10, mục tiêu tăng trưởng 2 con số",
+      "title": "VPBank lãi 11.000+ tỷ Q3, tài sản tăng 27,8%, tín dụng tăng 30%",
       "impact": "↑",
-      "note": "Sáng 19/10, Thống đốc Phạm Đức Ấn chủ trì cuộc họp triển khai công tác ngân hàng với tất cả Chủ tịch, Tổng giám đốc ngân hàng thương mại, nhấn mạnh mục tiêu tăng trưởng 2 con số, an ninh tiền tệ và an toàn hệ thống là ưu tiên hàng đầu, xem ngân hàng là 'mạch máu' nền kinh tế."
+      "note": "VPBank ghi nhận lợi nhuận Q3 vượt 11.000 tỷ đồng, tổng tài sản hợp nhất 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng riêng lẻ 1,1 triệu tỷ đồng (tăng gần 30%), tín dụng tập trung vào sản xuất công nghiệp, cơ sở hạ tầng, công nghệ xanh theo định hướng NHNN."
     },
     {
-      "title": "Cổ phiếu xây dựng lao dốc, 21/22 mã giảm từ đầu năm",
+      "title": "Thống đốc NHNN họp 19/10: tăng trưởng 2 con số là ưu tiên hàng đầu",
+      "impact": "↑",
+      "note": "Sáng 19/10, Thống đốc Phạm Đức Ấn chủ trì cuộc họp triển khai công tác ngân hàng với tất cả Chủ tịch, Tổng giám đốc NHTM, nhấn mạnh mục tiêu tăng trưởng 2 con số, an ninh tiền tệ và an toàn hệ thống là ưu tiên, xem ngân hàng là 'mạch máu' nền kinh tế."
+    },
+    {
+      "title": "Cổ phiếu xây dựng lao dốc: 21/22 mã giảm mặc dù ngành tăng 10,31%",
       "impact": "↓",
-      "note": "Trong năm 2026, 21/22 cổ phiếu xây dựng giảm giá; CTD giảm 13,79%, VCG giảm 24,55%, FCN giảm 28,42%, CII mất 38,75% lùi vùng COVID-19, trái ngược ngành xây dựng tăng 10,31% trong 9 tháng. Mặt bằng lãi suất cao vẫn cản trở dòng tiền và phục hồi."
+      "note": "21/22 cổ phiếu xây dựng giảm từ đầu 2026: CII mất 38,75%, VCG giảm 24,55%, FCN giảm 28,42%, CTD giảm 13,79%, trái ngược với tăng trưởng ngành 10,31% trong 9 tháng. Mặt bằng lãi suất cao vẫn cản trở dòng tiền và phục hồi nhóm cổ phiếu này."
     },
     {
-      "title": "VN-Index Q3 giảm 4,91%, giao dịch giảm 22,3%",
-      "impact": "↓",
-      "note": "VN-Index kết thúc Q3 2026 tại 1.768,62 điểm, giảm 4,91% so với cuối Q2; giá trị giao dịch toàn thị trường giảm 22,3%, thanh khoản suy giảm, dòng tiền chỉ luân chuyển vào một số cổ phiếu nhất định, 13 CTCK báo cáo Q3 ghi nhận 7 lãi 6 lỗ cho thấy phân hóa."
-    },
-    {
-      "title": "GDP 9 tháng 9,01%, Q3 tăng 9,95%, xuất nhập khẩu vượt 1.000 tỷ USD",
+      "title": "Chính phủ kiểm soát lạm phát: giữ giá xăng dầu thấp dù thế giới tăng 65-90%",
       "impact": "↑",
-      "note": "Nền kinh tế Việt Nam 9 tháng đạt tăng trưởng 9,01%, riêng quý III tăng 9,95%; xuất nhập khẩu lần đầu vượt 1.000 tỷ USD; thu ngân sách 3,06 triệu tỷ đồng trong bối cảnh thực hiện miễn, giảm, gia hạn 360.000 tỷ đồng; thời gian hành chính giảm 53%, chi phí giảm 55%."
+      "note": "Thủ tướng Lê Minh Hưng báo cáo: giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện, kiểm soát CPI hiệu quả để bảo đảm người dân hưởng lợi thực tế từ tăng trưởng kinh tế."
     },
     {
-      "title": "SJ Group lãi Q3 gấp 322 lần, doanh thu gấp 67 lần",
+      "title": "SJ Group lãi Q3 gấp 327 lần: 1.012 tỷ đồng, doanh thu 1.785 tỷ đồng",
       "impact": "↑",
-      "note": "CTCP SJ Group - Sudico ghi nhận doanh thu 1.785 tỷ đồng Q3 2026 (gấp 67 lần Q3/2025), lợi nhuận trước thuế 1.265 tỷ đồng (gấp 322 lần), lợi nhuận sau thuế 1.012 tỷ đồng (gấp 327 lần) nhờ dự án Nam An Khánh, cổ phiếu SJS tăng 6,3% ngày 16/10 chạm trần, vốn hóa lên gần 17.000 tỷ đồng."
+      "note": "CTCP SJ Group - Sudico báo cáo lợi nhuận sau thuế Q3/2026 đạt 1.012 tỷ đồng (gấp 327 lần Q3/2025), doanh thu 1.785 tỷ đồng (gấp 67 lần), chủ yếu từ dự án Nam An Khánh. Cổ phiếu SJS tăng 6,3% ngày 16/10, chạm trần, vốn hóa lên gần 17.000 tỷ đồng."
     }
   ]
 }
