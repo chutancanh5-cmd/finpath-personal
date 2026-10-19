@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-19",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ và NHNN triển khai chính sách giảm lãi suất cho vay 1.5-2%/năm đối với sản xuất kinh doanh, hỗ trợ doanh nghiệp tiếp cận vốn với chi phí hợp lý. Các ngân hàng lớn như VPBank ghi nhận lợi nhuận cao và tăng trưởng mạnh, trong khi Vietbank triển khai gói tín dụng ưu đãi 3,000 tỷ đồng. Tuy nhiên, giá xăng dầu thế giới tăng 65-90% đặt ra rủi ro lạm phát, nhóm cổ phiếu chứng khoán giảm mạnh 24% từ đầu năm, và nhóm ngân hàng blue-chips chịu áp lực giảm giá, phản ánh sự phân hóa trong thị trường.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "GDP quý 3 tăng 9,95% và 9 tháng đầu năm 9,01%, đưa UOB nâng dự báo toàn năm lên 9,2%, nhưng thị trường chứng khoán đang chịu áp lực từ dự báo Fed tăng lãi suất 90% tháng 12/2026 và giá năng lượng toàn cầu tăng 65-90%. Chính phủ triển khai giảm lãi suất cho vay 1,5-2%/năm và kiểm soát giá xăng dầu trong nước, tuy nhiên VN-Index vẫn giảm 4 tuần liên tiếp. Cổ phiếu chứng khoán giảm 24% từ đầu năm phản ánh tâm lý thị trường yếu.",
   "top": [
     {
-      "title": "NHNN yêu cầu giảm lãi suất cho vay 1.5-2%/năm",
+      "title": "GDP quý 3 tăng 9,95%, động lực tăng trưởng mạnh",
       "impact": "↑",
-      "note": "NHNN ban hành Văn bản số 9608 ngày 18/10/2026 yêu cầu các tổ chức tín dụng giảm lãi suất cho vay đối với sản xuất kinh doanh tối thiểu 1.5-2 điểm phần trăm từ nay đến cuối năm 2026; yêu cầu giảm ít nhất 0.5 điểm phần trăm lãi suất huy động kỳ hạn 6 tháng trở lên để hỗ trợ doanh nghiệp tiếp cận vốn với chi phí hợp lý."
+      "note": "GDP quý 3/2026 tăng 9,95%, đưa tăng trưởng 9 tháng đầu năm lên 9,01%. Ngân hàng UOB nâng dự báo tăng trưởng GDP Việt Nam năm 2026 lên 9,2% (từ 8,5%) và năm 2027 lên 8,8%. Tín hiệu mạnh hỗ trợ phục hồi tâm lý thị trường và đạt mục tiêu tăng trưởng 10% năm 2027."
     },
     {
-      "title": "VPBank lợi nhuận quý 3 vượt 11,000 tỷ đồng",
+      "title": "NHNN chỉ đạo giảm lãi suất cho vay 1,5-2%/năm",
       "impact": "↑",
-      "note": "VPBank khép lại quý 3/2026 với lợi nhuận hơn 11,000 tỷ đồng, tổng tài sản vượt 1.6 triệu tỷ đồng tăng 27.8% so với cuối năm 2025; dư nợ cấp tín dụng riêng lẻ đạt 1.1 triệu tỷ đồng tăng gần 30%, phản ánh tăng trưởng mạnh mẽ."
+      "note": "Văn bản 9608/NHNN ngày 18/10/2026 yêu cầu giảm tối thiểu 0,5%/năm lãi suất huy động kỳ hạn 6 tháng trở lên và 1,5-2%/năm lãi suất cho vay sản xuất, kinh doanh. LPBank, Vietbank giảm lãi suất ngay từ 19/10. Chính sách hỗ trợ doanh nghiệp và SME tiếp cận vốn dễ dàng hơn."
     },
     {
-      "title": "Vietbank gói tín dụng ưu đãi 3,000 tỷ đồng",
-      "impact": "↑",
-      "note": "Từ 19/10/2026, Vietbank triển khai gói tín dụng ưu đãi quy mô 3,000 tỷ đồng với lãi suất thấp hơn tối thiểu 1.5%/năm so với mức thông thường, áp dụng đến hết 30/6/2027; cung cấp khoản vay ngắn hạn từ Quỹ Phát triển doanh nghiệp nhỏ và vừa với lãi suất ưu đãi từ 1.2%/năm."
-    },
-    {
-      "title": "Giá xăng dầu thế giới tăng 65-90%",
+      "title": "VN-Index giảm 4 tuần liên tiếp, áp lực từ cổ phiếu lớn",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; Thủ tướng cảnh báo nếu không kiểm soát, giá trong nước có thể tăng đến 80%, ảnh hưởng lan rộng đến giá hàng hóa khác và áp lực lạm phát; Chính phủ đã triển khai biện pháp kiểm soát nhưng vẫn tồn tại rủi ro."
+      "note": "VN-Index dừ ở 1.705,91 điểm, giảm 29,18 điểm (-1,68%) tuần qua, giảm 4,4% từ đầu năm. Cổ phiếu lớn tạo áp lực: VIC (-16,9 điểm), VHM (-8,5 điểm), nhóm dầu khí. Chỉ số vẫn trụ trên 1.700 nhưng xu hướng giảm liên tiếp gây lo ngại về sức khỏe thị trường."
     },
     {
-      "title": "Cổ phiếu chứng khoán giảm 24% từ đầu năm",
+      "title": "Fed dự báo 90% tăng lãi suất tháng 12/2026",
       "impact": "↓",
-      "note": "Chỉ số ngành chứng khoán giảm 23.46% so với đầu năm 2026, sâu hơn nhiều mức giảm 2.77% của VN-Index; khoảng 80% số cổ phiếu ngành đã giảm hơn 20% so với đỉnh gần nhất, phản ánh triển vọng lợi nhuận ngắn hạn kém tích cực."
+      "note": "Thị trường đặt cược 90% khả năng Fed tăng lãi suất trong cuộc họp tháng 12/2026 (dữ liệu CME FedWatch Tool). Đây là áp lực lãi suất toàn cầu có thể kéo vốn từ thị trường mới nổi và làm suy yếu dòng tiền vào TTCK Việt Nam."
     },
     {
-      "title": "Nhóm ngân hàng blue-chips chịu áp lực giảm",
+      "title": "Cổ phiếu chứng khoán giảm 24%, 80% mã giảm >20%",
       "impact": "↓",
-      "note": "VPB giảm 3.06%, VCB giảm 0.7%, CTG giảm 1.14%, BID giảm 0.29%, TCB giảm 0.15%; chỉ 8 mã ngân hàng tăng giá (các cổ phiếu nhỏ); nhóm ngân hàng trên VN30 tạo sức ép chính, phản ánh sự phân hóa rõ rệt giữa cổ phiếu chứng khoán tăng và ngân hàng giảm."
+      "note": "Chỉ số ngành chứng khoán giảm 23,46% từ đầu năm (so với VN-Index giảm 2,77%), mất 39,92% trong một năm qua. Thống kê cho thấy 80% cổ phiếu ngành đã giảm hơn 20% từ đỉnh gần nhất, phản ánh tâm lý thị trường yếu và sự phân hóa mạnh giữa các cổ phiếu."
+    },
+    {
+      "title": "Giá xăng dầu thế giới tăng 65-90%, rủi ro lạm phát",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng tới 65-90%. Chính phủ đã dùng nhiều biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Tuy nhiên áp lực lạm phát vẫn tiềm ẩn nếu các biện pháp hỗ trợ không được duy trì đầy đủ."
     }
   ]
 }
