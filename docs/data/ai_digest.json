@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-19",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "VN-Index thủng mốc 1700 lần thứ tư liên tiếp do áp lực mạnh từ nhóm trụ (VIC -3,72%, VHM -1,15%, ngân hàng suy yếu), trong khi thanh khoản và khối ngoại bán ròng. NHNN chủ trương giảm lãi suất tối thiểu 0,5%/năm huy động từ 6 tháng trở lên và giảm lãi suất cho vay 1,5-2% để hỗ trợ kinh tế với mục tiêu tăng trưởng 10% năm 2027. VPBank báo lãi quý 3 hơn 11.000 tỷ đồng tích cực. Tuy nhiên, rủi ro toàn cầu từ quỹ phòng hộ sử dụng đòn bẩy cao trên thị trường trái phiếu có thể gây sốc lớn.",
+  "summary_vi": "Khối ngoại bán ròng 850 tỷ đồng và nhóm trụ suy yếu sâu (VIC giảm 4,34%, VHM giảm 1,15%, ngân hàng suy yếu) khiến VN-Index giảm 16 điểm xuống 1.690 và thủng mốc 1.700 điểm. NHNN yêu cầu giảm lãi suất tối thiểu 0,5%/năm huy động từ 6 tháng trở lên và lãi suất cho vay 1,5-2% để hỗ trợ kinh tế, song áp lực từ giá xăng dầu tăng 65-90% thế giới vẫn đe dọa lạm phát. VPBank báo lãi quý 3 hơn 11.000 tỷ đồng khích lệ tâm lý, nhưng rủi ro từ quỹ phòng hộ sử dụng đòn bẩy cao trên thị trường trái phiếu toàn cầu vẫn duy trì.",
   "top": [
     {
-      "title": "VN-Index thủng 1700 lần thứ tư, áp lực từ nhóm trụ",
+      "title": "Khối ngoại bán ròng 850 tỷ, VN-Index giảm 16 điểm",
       "impact": "↓",
-      "note": "VN-Index lao dốc, đóng cửa dưới 1700 điểm. VIC giảm 4,34% trong phiên chiều, VHM -1,15%, STB -1,59%, HPG -1,67%. Dù dòng tiền vẫn hỗ trợ cổ phiếu vừa/nhỏ nhưng áp lực từ cổ phiếu vốn hóa lớn tạo sức ép cực lớn lên chỉ số."
+      "note": "Phiên 19/10, khối ngoại bán ròng 850 tỷ đồng trên toàn thị trường, VN-Index giảm 16 điểm xuống 1.690 điểm. Giá trị khớp lệnh HoSE 11.400 tỷ đồng. VCB bị bán ròng mạnh nhất 104 tỷ đồng, theo sau VHM 102 tỷ, ACB 93 tỷ, VJC 72 tỷ, FPT 42 tỷ đồng."
     },
     {
-      "title": "NHNN giảm lãi suất huy động và cho vay hỗ trợ tăng trưởng",
+      "title": "Nhóm trụ suy yếu sâu, VN-Index thủng 1.700 điểm",
+      "impact": "↓",
+      "note": "20 cổ phiếu blue-chips giảm giá so với phiên sáng, chỉ 8 mã cải thiện. VIC lao dốc 4,34% phiên chiều, STB từ tăng 1,27% buổi sáng thành giảm 1,59%, HPG giảm 1,67%, VHM giảm 1,15%. Thanh khoản VIC phiên chiều cao gấp 4 lần buổi sáng, xác nhận áp lực bán lớn."
+    },
+    {
+      "title": "Giá xăng dầu thế giới tăng 65-90%",
+      "impact": "↓",
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh giá xăng dầu thế giới tăng tới 65-90%. Nếu không có biện pháp điều hành, giá xăng dầu trong nước có thể tăng 80%, lan rộng tác động đến giá các mặt hàng khác. Chính phủ bảo đảm nguồn cung, giữ giá thấp so với khu vực, và không tăng giá điện."
+    },
+    {
+      "title": "NHNN yêu cầu hạ lãi suất hỗ trợ doanh nghiệp",
       "impact": "↑",
-      "note": "NHNN yêu cầu ngân hàng giảm tối thiểu 0,5%/năm lãi suất huy động kỳ hạn 6 tháng trở lên, giảm lãi suất cho vay 1,5-2% cho sản xuất, kinh doanh và lĩnh vực ưu tiên. Nam A Bank, Vietbank (gói 3.000 tỷ đồng), LPBank đã triển khai từ 19/10, hỗ trợ mục tiêu GDP 10%+ năm 2027."
+      "note": "NHNN yêu cầu ngân hàng giảm tối thiểu 0,5%/năm lãi suất huy động kỳ hạn 6 tháng trở lên, giảm lãi suất cho vay 1,5-2% cho sản xuất, kinh doanh. Nam A Bank, Vietbank (gói 3.000 tỷ đồng với lãi suất tối thiểu 1,5%/năm), LPBank (giảm 0,5-0,6%/năm) đã triển khai từ 19/10 để cùng nền kinh tế tăng trưởng hai chữ số."
     },
     {
-      "title": "VPBank ghi nhận lợi nhuận 11.000 tỷ quý 3",
+      "title": "VPBank lợi nhuận quý 3 vượt 11.000 tỷ đồng",
       "impact": "↑",
-      "note": "VPBank báo tổng tài sản hợp nhất vượt 1.600 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng riêng lẻ 1.100 triệu tỷ đồng (tăng gần 30%). Tín dụng tập trung vào sản xuất công nghiệp, cơ sở hạ tầng, khoa học công nghệ và tài chính xanh."
+      "note": "VPBank ghi nhận lợi nhuận hơn 11.000 tỷ đồng quý 3, tổng tài sản hợp nhất vượt 1.600 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng cá nhân 1.100 triệu tỷ đồng (tăng gần 30%). Tín dụng tập trung vào sản xuất công nghiệp, cơ sở hạ tầng, khoa học công nghệ, tài chính xanh."
     },
     {
-      "title": "VN-Index giảm 4 tuần liên tiếp, thanh khoản suy yếu",
+      "title": "Ngành chứng khoán suy yếu 23,46% từ đầu năm",
       "impact": "↓",
-      "note": "VN-Index tuần 12-16/10 mất 29,18 điểm (-1,68%) xuống 1.705,91 điểm, giảm 4,4% từ đầu năm. Giá trị giao dịch bình quân giảm 27,3% xuống 14.576 tỷ đồng, khối ngoại bán ròng. VIC lấy đi 16,9 điểm, VHM 8,5 điểm."
-    },
-    {
-      "title": "Ngành chứng khoán suy yếu 24% từ đầu năm",
-      "impact": "↓",
-      "note": "Chỉ số ngành chứng khoán giảm 23,46% so với đầu năm (sâu hơn VN-Index -2,77%), 80% số mã ngành giảm trên 20% từ đỉnh gần nhất. Triển vọng lợi nhuận ngắn hạn kém tích cực, sự phân hóa giữa các doanh nghiệp khiến nhóm chưa lấy lại sức hút."
-    },
-    {
-      "title": "Quỹ phòng hộ sử dụng đòn bẩy cao gây rủi ro tài chính",
-      "impact": "↓",
-      "note": "Sự hiện diện ngày càng lớn của quỹ phòng hộ nhạy cảm với biến động giá trái phiếu, sử dụng đòn bẩy ở mức độ cao và hoạt động quốc tế. Khả năng cú sốc tại thị trường trái phiếu lan sang thị trường khác lớn hơn, đe dọa ổn định tài chính toàn cầu."
+      "note": "Chỉ số ngành chứng khoán giảm 23,46% từ đầu năm, sâu hơn mức giảm 2,77% của VN-Index. Trong 1 năm qua giảm 39,92% khi VN-Index tăng 2,19%. Khoảng 80% cổ phiếu ngành đã giảm trên 20% so với đỉnh gần nhất, sự phân hóa giữa các doanh nghiệp khiến nhóm này chưa lấy lại sức hút."
     }
   ]
 }
