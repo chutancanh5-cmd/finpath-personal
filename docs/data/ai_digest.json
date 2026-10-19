@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-19",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "GDP quý 3 tăng 9,95% và 9 tháng đầu năm 9,01%, đưa UOB nâng dự báo toàn năm lên 9,2%, nhưng thị trường chứng khoán đang chịu áp lực từ dự báo Fed tăng lãi suất 90% tháng 12/2026 và giá năng lượng toàn cầu tăng 65-90%. Chính phủ triển khai giảm lãi suất cho vay 1,5-2%/năm và kiểm soát giá xăng dầu trong nước, tuy nhiên VN-Index vẫn giảm 4 tuần liên tiếp. Cổ phiếu chứng khoán giảm 24% từ đầu năm phản ánh tâm lý thị trường yếu.",
+  "summary_vi": "Nền kinh tế vĩ mô Việt Nam vẫn cho thấy những điểm sáng với GDP quý 3 tăng 9,95%, trong khi Chính phủ đồng loạt chỉ đạo các ngân hàng giảm lãi suất cho vay 1,5-2% để hỗ trợ doanh nghiệp. Tuy nhiên, chỉ số VN-Index tiếp tục giảm tuần thứ tư liên tiếp, dừ ở 1.705,91 điểm (-4,4% từ đầu năm), phản ánh sự lo ngại về rủi ro thanh khoản từ margin và tác động tiềm ẩn từ quỹ phòng hộ sử dụng đòn bẩy cao trên thị trường toàn cầu. Nhà đầu tư cần cân nhắc giữa yếu tố hỗ trợ từ chính sách tiền tệ và tín dụng với rủi ro thanh khoản ngắn hạn.",
   "top": [
     {
-      "title": "GDP quý 3 tăng 9,95%, động lực tăng trưởng mạnh",
+      "title": "Ngân hàng đồng loạt giảm lãi suất cho vay 1,5-2 điểm %/năm",
       "impact": "↑",
-      "note": "GDP quý 3/2026 tăng 9,95%, đưa tăng trưởng 9 tháng đầu năm lên 9,01%. Ngân hàng UOB nâng dự báo tăng trưởng GDP Việt Nam năm 2026 lên 9,2% (từ 8,5%) và năm 2027 lên 8,8%. Tín hiệu mạnh hỗ trợ phục hồi tâm lý thị trường và đạt mục tiêu tăng trưởng 10% năm 2027."
+      "note": "Agribank, Vietcombank, BIDV, ACB, LPBank, VietBank từ 19/10 triển khai các gói giảm lãi suất cho vay 1,5-2 điểm %/năm cho lĩnh vực ưu tiên. Agribank dành 2.000 tỷ đồng, LPBank và VietBank cũng triển khai gói 3.000 tỷ, giảm chi phí vốn cho doanh nghiệp."
     },
     {
-      "title": "NHNN chỉ đạo giảm lãi suất cho vay 1,5-2%/năm",
+      "title": "Rủi ro thanh khoản từ đòn bẩy margin đe dọa TTCK",
+      "impact": "↓",
+      "note": "Thị trường chứng khoán Việt Nam đang đối mặt rủi ro thanh khoản từ đòn bẩy margin. Dư địa chính sách tiền tệ đang thu hẹp, trong khi thị trường chuẩn bị bước vào giai đoạn cuối năm với áp lực điều hành chính sách."
+    },
+    {
+      "title": "VPBank lợi nhuận Q3 vượt 11.000 tỷ, tăng trưởng mạnh",
       "impact": "↑",
-      "note": "Văn bản 9608/NHNN ngày 18/10/2026 yêu cầu giảm tối thiểu 0,5%/năm lãi suất huy động kỳ hạn 6 tháng trở lên và 1,5-2%/năm lãi suất cho vay sản xuất, kinh doanh. LPBank, Vietbank giảm lãi suất ngay từ 19/10. Chính sách hỗ trợ doanh nghiệp và SME tiếp cận vốn dễ dàng hơn."
+      "note": "VPBank ghi nhận lợi nhuận hơn 11.000 tỷ đồng trong quý 3/2026. Tổng tài sản vượt 1,6 triệu tỷ đồng (+27,8% vs cuối 2025), dư nợ cấp tín dụng đạt 1,1 triệu tỷ đồng (+gần 30%)."
     },
     {
-      "title": "VN-Index giảm 4 tuần liên tiếp, áp lực từ cổ phiếu lớn",
+      "title": "Chính phủ kiểm soát lạm phát, giữ giá xăng dầu ở mức thấp",
+      "impact": "↑",
+      "note": "Dù giá xăng dầu thế giới tăng 65-90%, Chính phủ áp dụng các biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện. CPI 9 tháng đầu năm được kiểm soát tốt, bảo vệ khả năng chi tiêu của người tiêu dùng."
+    },
+    {
+      "title": "VN-Index giảm tuần thứ tư liên tiếp, dừ ở 1.705,91 điểm",
       "impact": "↓",
-      "note": "VN-Index dừ ở 1.705,91 điểm, giảm 29,18 điểm (-1,68%) tuần qua, giảm 4,4% từ đầu năm. Cổ phiếu lớn tạo áp lực: VIC (-16,9 điểm), VHM (-8,5 điểm), nhóm dầu khí. Chỉ số vẫn trụ trên 1.700 nhưng xu hướng giảm liên tiếp gây lo ngại về sức khỏe thị trường."
+      "note": "VN-Index dừ ở 1.705,91 điểm (-1,68% tuần), giảm 4,4% từ đầu năm. Kết quả kinh doanh chưa đủ tạo hiệu ứng tích cực cho thị trường, thị trường đang ở nhịp điều chỉnh mạnh."
     },
     {
-      "title": "Fed dự báo 90% tăng lãi suất tháng 12/2026",
+      "title": "Quỹ phòng hộ sử dụng đòn bẩy cao tiềm ẩn rủi ro hệ thống",
       "impact": "↓",
-      "note": "Thị trường đặt cược 90% khả năng Fed tăng lãi suất trong cuộc họp tháng 12/2026 (dữ liệu CME FedWatch Tool). Đây là áp lực lãi suất toàn cầu có thể kéo vốn từ thị trường mới nổi và làm suy yếu dòng tiền vào TTCK Việt Nam."
-    },
-    {
-      "title": "Cổ phiếu chứng khoán giảm 24%, 80% mã giảm >20%",
-      "impact": "↓",
-      "note": "Chỉ số ngành chứng khoán giảm 23,46% từ đầu năm (so với VN-Index giảm 2,77%), mất 39,92% trong một năm qua. Thống kê cho thấy 80% cổ phiếu ngành đã giảm hơn 20% từ đỉnh gần nhất, phản ánh tâm lý thị trường yếu và sự phân hóa mạnh giữa các cổ phiếu."
-    },
-    {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, rủi ro lạm phát",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%. Chính phủ đã dùng nhiều biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Tuy nhiên áp lực lạm phát vẫn tiềm ẩn nếu các biện pháp hỗ trợ không được duy trì đầy đủ."
+      "note": "Phó thống đốc BOE cảnh báo sự hiện diện ngày càng lớn của quỹ phòng hộ sử dụng đòn bẩy ở mức độ cao trên thị trường trái phiếu toàn cầu. Khả năng biến động tại thị trường này lan sang thị trường khác đã tăng lên đáng kể."
     }
   ]
 }
