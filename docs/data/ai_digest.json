@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-19",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Hệ thống ngân hàng triển khai quyết liệt chỉ đạo giảm lãi suất 1,5-2%/năm cho vay doanh nghiệp, NHNN đe dọa giảm hạn mức tín dụng năm 2027 với những vi phạm. GDP quý 3 tăng 9,95%, kim ngạch xuất nhập khẩu vượt 1.000 tỷ USD, nhưng cổ phiếu xây dựng lao dốc do lãi suất cao là lực cản. Chính phủ kiểm soát lạm phát tốt khi giữ giá xăng dầu thấp bất chấp giá thế giới tăng 65-90%.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Chính sách tiền tệ nới lỏng toàn diện với NHNN yêu cầu giảm lãi suất huy động tối thiểu 0,5%/năm và cho vay 1,5-2%/năm, kéo theo các ngân hàng lớn (ACB, VPBank) triển khai chương trình ưu đãi. Kết quả kinh doanh ngân hàng tích cực với VPBank lợi nhuận vượt 11.000 tỷ và tín dụng tăng 30%, nhưng rủi ro lạm phát từ giá xăng dầu thế giới tăng 65-90% vẫn áp lực, cổ phiếu xây dựng tiếp tục suy giảm mặc dù backlog dự án tăng.",
   "top": [
     {
-      "title": "Giảm lãi suất quyết liệt 1,5-2%/năm, NHNN đe dọa giảm hạn mức vi phạm",
+      "title": "NHNN yêu cầu giảm lãi suất huy động 0,5%/năm và cho vay 1,5-2%/năm",
       "impact": "↑",
-      "note": "ACB, Vietbank triển khai gói ưu đãi theo chỉ đạo Chính phủ/NHNN; Vietbank mở gói 3.000 tỷ đồng với lãi suất thấp hơn 1,5%/năm, giảm 0,5%/năm lãi suất tiền gửi từ 6 tháng trở lên. NHNN yêu cầu giảm lãi suất tiền gửi 0,5%/năm, từ nay đến cuối 2026 sẽ giảm hạn mức tín dụng 2026 và giao hạn mức thấp 2027 với ngân hàng vi phạm. ACB đã giải ngân khoảng 5.000 tỷ đồng từ chương trình giảm 1% trước đó."
+      "note": "Thống đốc NHNN Phạm Đức Ấn chủ trì cuộc họp sáng 19/10 với 46 ngân hàng thương mại, yêu cầu triển khai giảm lãi suất tiền gửi tối thiểu 0,5%/năm cho kỳ hạn 6 tháng trở lên, giảm lãi suất cho vay 1,5-2%/năm cho lĩnh vực sản xuất, kinh doanh và lĩnh vực ưu tiên, tạm giải quyết chênh lệch dư nợ cho vay và huy động vốn dưới 1,5 triệu tỷ đồng."
     },
     {
-      "title": "VPBank lợi nhuận Q3 vượt 11.000 tỷ, tài sản tăng 27,8%, tín dụng tăng 30%",
+      "title": "VPBank lợi nhuận Q3 vượt 11.000 tỷ, tín dụng tăng 30%",
       "impact": "↑",
       "note": "Tổng tài sản kết thúc quý 3 vượt 1,6 triệu tỷ đồng, tăng 27,8% so với cuối 2025. Dư nợ cấp tín dụng riêng lẻ đạt 1,1 triệu tỷ đồng, tăng gần 30%, tập trung vào sản xuất công nghiệp, cơ sở hạ tầng, khoa học công nghệ, tài chính xanh, bám sát định hướng NHNN ưu tiên."
     },
     {
-      "title": "Cổ phiếu xây dựng lao dốc mặc dù ngành tăng trưởng 10,31%",
+      "title": "ACB triển khai giảm lãi suất 1,5-2%/năm cho vay ngay hôm nay",
+      "impact": "↑",
+      "note": "Tổng giám đốc ACB Từ Tiến Phát thông báo sáng 19/10 ngân hàng sẽ giảm lãi suất huy động từ hôm nay có hiệu lực từ ngày mai, đồng thời triển khai chương trình cho vay đặc biệt giảm 1,5-2%/năm, đã giải ngân khoảng 5.000 tỷ đồng từ chương trình giảm 1% trước đó."
+    },
+    {
+      "title": "Cổ phiếu xây dựng lao dốc, 21/22 mã giảm từ đầu năm 2026",
       "impact": "↓",
-      "note": "21/22 cổ phiếu xây dựng giảm từ đầu năm 2026: CII -38,75% (về vùng giá COVID), FCN -28,42%, VCG -24,55%, CTD -13,79%, chỉ VLB tăng 4,43%. Backlog gia tăng, đầu tư công được thúc đẩy, nhưng lãi suất cao vẫn là lực cản chính cho dòng tiền và khả năng phục hồi của nhóm cổ phiếu."
+      "note": "Trong 22 cổ phiếu xây dựng, chỉ VLB tăng 4,43%; CII mất 38,75% (về vùng COVID), FCN giảm 28,42%, VCG giảm 24,55%, CTD giảm 13,79%, trái ngược với tăng trưởng ngành xây dựng 10,31% trong 9 tháng. Lãi suất cao vẫn là lực cản chính cho dòng tiền, mặc dù backlog gia tăng và đầu tư công được thúc đẩy."
     },
     {
-      "title": "GDP quý 3 tăng 9,95%, lũy kế 9 tháng 9,01%, xuất nhập khẩu vượt 1.000 tỷ USD",
-      "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu lần đầu vượt 1.000 tỷ USD; thu ngân sách cả năm ước đạt 3,06 triệu tỷ đồng, trong khi triển khai miễn, giảm, gia hạn khoảng 360.000 tỷ đồng tiền thuế. Các đại biểu Quốc hội nhấn mạnh cần chú ý hơn đến thu nhập thực tế, sức mua của người dân trong kế hoạch năm 2027."
+      "title": "Thủ tướng cảnh báo lạm phát xói mòn thành quả tăng trưởng",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng tới 65-90%; nếu không xử lý kịp, giá xăng dầu nước ta có thể tăng 80%, kéo theo tác động lan rộng đến CPI. Chính phủ giữ giá xăng dầu ở mức thấp so với khu vực và không tăng giá điện. Thủ tướng nhấn mạnh: nếu lạm phát tăng thì thành quả tăng trưởng bị xói mòn và người dân không được hưởng lợi."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát tốt: giữ giá xăng dầu thấp dù thế giới tăng 65-90%",
+      "title": "Rồng Việt doanh thu Q3 195 tỷ, hoạt động cho vay tăng 14,8%",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%; Chính phủ dùng nhiều biện pháp bảo đảm nguồn cung, giữ giá xăng dầu trong nước ở mức thấp so với khu vực, không tăng giá điện. Nếu không xử lý kịp, giá xăng dầu nước ta có thể tăng 80%, kéo theo tác động lan rộng đến CPI. Thủ tướng nhấn mạnh: nếu lạm phát tăng thì thành quả tăng trưởng bị xói mòn."
-    },
-    {
-      "title": "SJ Group lợi nhuận gấp trăm lần: 1.012 tỷ Q3, doanh thu 1.785 tỷ đồng",
-      "impact": "↑",
-      "note": "Quý 3 doanh thu 1.785 tỷ đồng (gấp 67 lần quý 3/2025), lợi nhuận gộp 1.286 tỷ (gấp 185 lần), lợi nhuận sau thuế 1.012 tỷ (gấp 327 lần), chủ yếu từ kinh doanh dự án Nam An Khánh. Cổ phiếu SJS tăng 6,3% lên 57.100 đồng ngày 16/10, có thời điểm chạm trần, vốn hóa lên gần 17.000 tỷ đồng."
+      "note": "VDSC công bố kết quả Q3 doanh thu 195,1 tỷ đồng, lũy kế 9 tháng đạt 663 tỷ đồng, hoạt động cho vay tăng 14,8% cùng kỳ năm ngoái và chiếm 64% tổng doanh thu, doanh thu môi giới 31,3 tỷ đồng, đầu tư 21,5 tỷ đồng, cho thấy khả năng phục hồi chính kinh doanh dù thị trường suy giảm 22,3% về giá trị giao dịch."
     }
   ]
 }
