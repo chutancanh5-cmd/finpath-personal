@@ -1,18 +1,18 @@
 {
   "_opus": true,
   "date": "2026-10-19",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán hôm nay phân hóa mạnh khi VN-Index mất mốc 1.700 điểm (-0,94%) do khối ngoại bán ròng 852,9 tỷ đồng và thanh khoản sụt giảm 28-35%. Tuy vậy, nhiều ngân hàng hưởng ứng chỉ đạo giảm lãi suất cho vay từ 1,5-2%/năm để hỗ trợ doanh nghiệp giảm chi phí vốn. Chính phủ kiểm soát lạm phát bằng cách giữ giá xăng dầu-điện ở mức thấp dù giá thế giới tăng 65-90%, trong khi VPBank báo lợi nhuận quý 3 hơn 11.000 tỷ đồng.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực giảm điểm mạnh với VN-Index mất mốc 1.700 điểm, khối ngoại bán ròng gần 1 triệu tỷ đồng và thanh khoản sụt giảm 28-35%. Dòng vốn rút mạnh khỏi bán lẻ, dầu khí và chứng khoán, áp lực tập trung từ nhóm vốn hóa lớn (VIC lấy đi 12.80 điểm). Tuy nhiên, Chính phủ và các ngân hàng triển khai gói hỗ trợ tín dụng giảm lãi suất 1.5-2%/năm, kiểm soát lạm phát bằng cách giữ giá xăng dầu-điện thấp dù giá thế giới tăng 65-90%, duy trì mục tiêu GDP 10% năm 2027.",
   "top": [
     {
-      "title": "VN-Index mất mốc 1.700 điểm, khối ngoại bán ròng 852,9 tỷ",
+      "title": "VN-Index giảm 0,94% mất mốc 1.700 điểm, khối ngoại bán ròng 852,9 tỷ",
       "impact": "↓",
-      "note": "VN-Index giảm 16,07 điểm (-0,94%) xuống 1.689,84 điểm. Khối ngoại bán ròng 852,9 tỷ đồng (khớp lệnh 954,2 tỷ). VIC giảm 3,72% lấy đi 13 điểm, VCB giảm 1,23%, VHM giảm 1,15%, VPB giảm 0,88%."
+      "note": "VN-Index giảm 16,07 điểm (-0,94%) xuống 1.689,84 điểm, chính thức đánh mất ngưỡng tâm lý 1.700 điểm. Nhà đầu tư nước ngoài bán ròng 852,9 tỷ đồng (954,2 tỷ trong giao dịch khớp lệnh). VIC giảm 3,72% lấy đi 12,80 điểm, VHM giảm 1,15%, VCB lấy đi 1,20 điểm."
     },
     {
-      "title": "Hàng loạt ngân hàng giảm lãi suất 1,5-2%/năm",
+      "title": "Nhiều ngân hàng giảm lãi suất cho vay 1,5-2%/năm theo chỉ đạo Chính phủ",
       "impact": "↑",
-      "note": "MB, VietinBank, SHB, TPBank, OCB, Vietbank công bố giảm lãi suất cho vay từ 1,5-2%/năm, OCB tới 2,25%/năm. SHB triển khai gói 47.000 tỷ với lãi suất từ 5%/năm, Vietbank gói 3.000 tỷ giảm tối thiểu 1,5%/năm, TPBank giảm 0,5% huy động."
+      "note": "SHB, MB, VietinBank, TPBank, OCB công bố giảm lãi suất từ 1,5-2%/năm (OCB ưu đãi 2,25%/năm với một số khoản vay trung, dài hạn). SHB triển khai gói tín dụng 47.000 tỷ đồng với lãi suất từ 5%/năm, Vietbank gói 3.000 tỷ giảm tối thiểu 1,5%/năm, TPBank cam kết giảm từ 1,5-2%/năm trong tháng 10."
     },
     {
       "title": "Thanh khoản sụt giảm 28% HOSE, 35% HNX",
