@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-19",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực từ giá xăng dầu thế giới tăng 65-90% gây nguy cơ lạm phát, lãi suất cao làm suy giảm dòng tiền khi VN-Index lao dốc 4 tuần (giảm 4,91%, giá trị giao dịch giảm 22,3%) và lo ngại reclassify MSCI như Indonesia. Ngân hàng Nhà nước chủ động điều hành: yêu cầu giảm lãi suất tiền gửi 0,5%/năm, giảm lãi suất cho vay 1,5-2%/năm cho sản xuất/kinh doanh/lĩnh vực ưu tiên; các ngân hàng hàng đầu (VPBank lợi nhuận 11.000 tỷ Q3, tín dụng tăng gần 30%) bắt đầu triển khai. Cổ phiếu xây dựng 21/22 mã giảm từ đầu năm dù ngành tăng 10,31%, phản ánh rào cản lãi suất cao.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "VN-Index lao dốc 4 tuần liên tiếp do lãi suất cao và dòng tiền suy yếu (giảm 4,91%, giá trị giao dịch giảm 22,3%). Rủi ro lạm phát từ giá xăng dầu thế giới tăng 65-90% và cảnh báo MSCI có thể reclassify Indonesia như chứng khoán vĩ mô khác đe dọa dòng vốn. Ngành xây dựng 21/22 cổ phiếu giảm dù ngành tăng 10,31%, phản ánh lãi suất cao làm suy yếu dòng tiền dự án. Tuy nhiên, NHNN chủ động giảm lãi suất 0,5% tiền gửi và 1,5-2% cho vay, VPBank báo lợi nhuận 11.000 tỷ Q3 tạo tín hiệu phục hồi.",
   "top": [
+    {
+      "title": "VN-Index lao dốc 4 tuần, cảnh báo rủi ro MSCI",
+      "impact": "↓",
+      "note": "VN-Index giảm 4,91% so với cuối Q2, giá trị giao dịch Q3 giảm 22,3% so với Q2. MBS cảnh báo nguy cơ reclassify MSCI giống Indonesia (vấn đề tính minh bạch, giới hạn sở hữu nước ngoài, biến động thanh khoản); nếu xảy ra, các quỹ ETF buộc phải bán cổ phiếu cơ cấu danh mục, khuếch đại áp lực giảm."
+    },
     {
       "title": "Giá xăng dầu thế giới tăng 65-90%, rủi ro lạm phát",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%; nếu không xử lý kịp, giá xăng dầu trong nước có thể tăng 80%, kéo theo tác động lan rộng đến giá các mặt hàng khác. Chính phủ bảo đảm nguồn cung, không tăng giá điện để kiểm soát CPI, nhưng Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng."
+      "note": "Thế giới tăng 65-90%; nếu không xử lý, giá xăng dầu trong nước có thể tăng 80%, kéo theo tác động lan rộng đến giá các mặt hàng khác. Chính phủ bảo đảm nguồn cung, không tăng giá điện, nhưng Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng."
     },
     {
-      "title": "VN-Index lao dốc 4 tuần, rủi ro reclassify MSCI",
+      "title": "Cổ phiếu xây dựng 21/22 mã giảm dù ngành tăng 10,31%",
       "impact": "↓",
-      "note": "VN-Index giảm 4,91% so với cuối Q2, lao dốc 4 tuần liên tiếp; giá trị giao dịch Q3 giảm 22,3% so với Q2. MBS cảnh báo nguy cơ reclassify MSCI giống Indonesia do vấn đề tính minh bạch, giới hạn sở hữu nước ngoài (FOL), biến động thanh khoản; có thể buộc các quỹ ETF bán cổ phiếu cơ cấu danh mục, khuếch đại áp lực giảm."
+      "note": "CII -38,75%, FCN -28,42%, VCG -24,55%, CTD -13,79%, chỉ VLB +4,43%. Bất chấp ngành tăng 10,31% trong 9 tháng, backlog dự án gia tăng, lãi suất cao vẫn là lực cản chính cho dòng tiền, suy giảm khả năng phục hồi giá cổ phiếu."
     },
     {
-      "title": "NHNN yêu cầu giảm lãi suất 0,5% tiền gửi, 1,5-2% cho vay",
+      "title": "NHNN yêu cầu giảm lãi suất hỗ trợ tăng trưởng",
       "impact": "↑",
-      "note": "Sáng 19/10, Thống đốc NHNN Phạm Đức Ấn chủ trì họp với 46 ngân hàng thương mại, yêu cầu giảm lãi suất tiền gửi tối thiểu 0,5%/năm (kỳ hạn 6 tháng trở lên), giảm lãi suất cho vay 1,5-2%/năm cho sản xuất, kinh doanh, lĩnh vực ưu tiên. Chênh lệch dư nợ cho vay và huy động vốn đã giảm xuống dưới 1,5 triệu tỷ đồng."
+      "note": "Sáng 19/10, Thống đốc NHNN chủ trì họp 46 ngân hàng, yêu cầu giảm lãi suất tiền gửi tối thiểu 0,5%/năm (kỳ hạn 6 tháng trở lên), giảm lãi suất cho vay 1,5-2%/năm cho sản xuất/kinh doanh/lĩnh vực ưu tiên. Chênh lệch dư nợ cho vay và huy động vốn đã giảm dưới 1,5 triệu tỷ đồng."
     },
     {
-      "title": "Cổ phiếu xây dựng giảm bất chấp tăng trưởng ngành",
-      "impact": "↓",
-      "note": "21/22 cổ phiếu xây dựng và vật liệu giảm từ đầu năm 2026: CII giảm 38,75%, FCN giảm 28,42%, VCG giảm 24,55%, CTD giảm 13,79%, chỉ VLB tăng 4,43%. Trái ngược tăng trưởng ngành 10,31% trong 9 tháng và backlog dự án gia tăng, lãi suất cao vẫn là lực cản chính cho dòng tiền."
-    },
-    {
-      "title": "VPBank lợi nhuận 11.000 tỷ Q3, tín dụng tăng 30%",
+      "title": "VPBank lợi nhuận hơn 11.000 tỷ đồng Q3",
       "impact": "↑",
-      "note": "VPBank ghi nhận tổng tài sản hợp nhất vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng riêng lẻ đạt 1,1 triệu tỷ đồng (tăng gần 30%), lợi nhuận Q3 hơn 11.000 tỷ đồng. Tín dụng tăng trưởng đồng đều, tập trung sản xuất công nghiệp, hạ tầng, công nghệ, tài chính xanh."
+      "note": "Tài sản hợp nhất vượt 1.600 triệu tỷ đồng (tăng 27,8% vs cuối 2025), dư nợ tín dụng 1.100 triệu tỷ đồng (tăng gần 30%), lợi nhuận Q3 hơn 11.000 tỷ đồng. Tín dụng tăng trưởng đồng đều, tập trung sản xuất công nghiệp, hạ tầng, công nghệ, tài chính xanh."
     },
     {
-      "title": "Vàng trong nước giảm 500-800 nghìn đồng/lượng",
+      "title": "Giá vàng trong nước giảm 500-800 nghìn đồng/lượng",
       "impact": "→",
-      "note": "Trưa 19/10, giá vàng nhẫn 9999 tại SJC giảm 800.000 đồng/lượng xuống 139,3-142,3 triệu đồng/lượng; vàng miếng tại các thương hiệu chính giảm 500.000 đồng/lượng. Diễn biến phản ánh áp lực từ giá vàng thế giới khi Fed chuẩn bị họp chính sách tiền tệ ngày 27-28/10."
+      "note": "Trưa 19/10, giá vàng nhẫn 9999 SJC giảm 800.000 đồng/lượng xuống 139,3-142,3 triệu đồng/lượng, PNJ giảm 700.000 xuống 139,4-142,4 triệu đồng/lượng. Vàng miếng tại các thương hiệu chính giảm 500.000 đồng/lượng, phản ánh áp lực từ giá vàng thế giới."
     }
   ]
 }
