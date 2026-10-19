@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-19",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ triển khai gói hỗ trợ toàn diện qua giảm lãi suất cho vay 1,5-2%/năm từ các ngân hàng lớn và kiểm soát giá xăng dầu, điện để kìm lạm phát. VN-Index giảm tuần thứ tư liên tiếp xuống 1.705,91 điểm với thanh khoản suy yếu giảm 27,3%, tuy nhiên GDP quý 3 tăng 9,95% ghi nhận chỉ số năng lực kinh tế vẫn vững. Rủi ro từ đòn bẩy margin và biến động trái phiếu toàn cầu đòi hỏi sự thận trọng từ nhà đầu tư.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đang đối mặt áp lực điều chỉnh với VN-Index giảm 4 tuần liên tiếp, thanh khoản suy yếu và khối ngoại bán ròng, nhưng nền kinh tế vẫn tăng trưởng mạnh mẽ (GDP Q3 tăng 9,95%). Chính phủ và ngân hàng tích cực triển khai các gói hỗ trợ giảm lãi suất 1,5-2%/năm để kích cầu và kiểm soát lạm phát. Tuy nhiên, rủi ro toàn cầu từ các quỹ phòng hộ sử dụng đòn bẩy cao trên thị trường trái phiếu cũng cần theo dõi.",
   "top": [
     {
-      "title": "Ngân hàng hàng đầu giảm lãi suất cho vay 1,5-2%/năm",
-      "impact": "↑",
-      "note": "Agribank, Vietcombank, BIDV, ACB, Sacombank, LPBank, VietBank cùng triển khai chương trình giảm lãi suất cho vay 1,5-2 điểm phần trăm/năm từ 19/10, theo chỉ đạo Chính phủ. Agribank dành 2.000 tỷ đồng, Vietbank 3.000 tỷ đồng cho gói ưu đãi, hỗ trợ doanh nghiệp và người dân giảm chi phí vốn."
-    },
-    {
-      "title": "VN-Index giảm 4 tuần liên tiếp, thanh khoản suy yếu mạnh",
+      "title": "VN-Index giảm 4 tuần liên tiếp, thanh khoản suy yếu",
       "impact": "↓",
-      "note": "VN-Index tuần 12-16/10 mất 29,18 điểm (-1,68%), dừng ở 1.705,91, đây là tuần giảm thứ tư liên tiếp. Giá trị giao dịch bình quân toàn thị trường giảm 27,3% xuống 14.576 tỷ đồng. Tính từ đầu năm, VN-Index giảm 4,4% trong khi chỉ số toàn cầu tăng 11,2%."
+      "note": "VN-Index tuần 12-16/10 giảm 29,18 điểm (-1,68%), xuống 1.705,91 điểm, là tuần giảm thứ tư liên tiếp. Giá trị giao dịch bình quân giảm 27,3% xuống 14.576 tỷ đồng. Từ đầu năm, VN-Index giảm 4,4% trong khi chỉ số chứng khoán toàn cầu tăng 11,2%."
     },
     {
-      "title": "Chính phủ kiểm soát giá xăng dầu dù tăng 65-90% toàn cầu",
+      "title": "Chính phủ chỉ đạo ngân hàng giảm lãi suất cho vay",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng cho biết Chính phủ áp dụng các biện pháp giữ giá trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát và bảo vệ người dân được hưởng lợi từ tăng trưởng GDP."
+      "note": "Agribank, Vietcombank, BIDV, ACB, Sacombank, LPBank, VietBank đồng loạt giảm lãi suất 1,5-2 điểm %/năm cho vay các lĩnh vực ưu tiên, sản xuất kinh doanh. Agribank dành khoảng 2.000 tỷ đồng, Vietbank triển khai gói 3.000 tỷ đồng từ 19/10/2026 đến 30/6/2027."
     },
     {
-      "title": "VPBank lợi nhuận quý 3 vượt 11.000 tỷ đồng, tín dụng tăng 30%",
+      "title": "VPBank ghi nhận lợi nhuận 11.000 tỷ đồng Q3",
       "impact": "↑",
-      "note": "VPBank ghi nhận lợi nhuận quý 3 hơn 11.000 tỷ đồng. Tổng tài sản hợp nhất vượt 1,6 triệu tỷ đồng (+27,8% vs cuối 2025), dư nợ cấp tín dụng 1,1 triệu tỷ đồng (+gần 30% vs cuối 2025), phản ánh khả năng quản trị rủi ro và phát triển có chọn lọc."
+      "note": "VPBank tổng tài sản hợp nhất vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ cấp tín dụng riêng lẻ đạt 1,1 triệu tỷ đồng (tăng gần 30% so với cuối 2025). Tăng trưởng đều giữa các phân khúc, tập trung vào lĩnh vực ưu tiên."
     },
     {
-      "title": "Rủi ro đòn bẩy margin và biến động trái phiếu toàn cầu",
+      "title": "Quỹ phòng hộ với đòn bẩy cao có thể gây cú sốc trái phiếu toàn cầu",
       "impact": "↓",
-      "note": "Phó Thống đốc BOE cảnh báo sự hiện diện ngày càng tăng của các quỹ phòng hộ dùng đòn bẩy cao trên thị trường trái phiếu chính phủ có thể gây cú sốc lớn. SGI Capital cảnh báo thị trường VN quý IV đối mặt hai bài toán: áp lực điều hành chính sách và rủi ro thanh khoản từ margin leverage."
+      "note": "Phó Thống đốc BOE cảnh báo sự thay đổi thành phần nhà đầu tư trên thị trường trái phiếu chính phủ, với hedge funds ngày càng tăng sử dụng đòn bẩy cao, làm tăng nguy cơ biến động cục bộ lan thành căng thẳng tài chính quy mô lớn hơn."
     },
     {
-      "title": "Cổ phiếu chứng khoán suy yếu 23,46% dù được kỳ vọng từ nâng hạng",
+      "title": "Cổ phiếu ngành chứng khoán giảm 24% từ đầu năm",
       "impact": "↓",
-      "note": "Chỉ số ngành chứng khoán giảm 23,46% so với đầu năm, sâu hơn VN-Index (-2,77%). Trong một năm qua mất 39,92%, khoảng 80% cổ phiếu ngành giảm trên 20% từ đỉnh gần nhất. Triển vọng lợi nhuận ngắn hạn kém tích cực và sự phân hóa giữa các doanh nghiệp là nguyên nhân."
+      "note": "Chỉ số ngành chứng khoán giảm 23,46% so với đầu năm, sâu hơn nhiều so với mức giảm 2,77% của VN-Index. Khoảng 80% cổ phiếu ngành đã giảm hơn 20% so với đỉnh gần nhất. Triển vọng lợi nhuận ngắn hạn kém tích cực."
+    },
+    {
+      "title": "GDP Q3 tăng 9,95%, Chính phủ kiểm soát lạm phát",
+      "impact": "↑",
+      "note": "GDP quý III tăng vọt 9,95%, tăng trưởng 9 tháng đầu năm là 9,01%, hướng tới mục tiêu 10%. Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ giữ giá xăng dầu, điện ở mức thấp để kiểm soát lạm phát và bảo đảm người dân được hưởng lợi tăng trưởng."
     }
   ]
 }
