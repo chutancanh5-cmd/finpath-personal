@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-19",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán giảm điểm mạnh hôm nay khi VN-Index thủng mốc 1.700 điểm (-1%), nhưng có dòng tiền hỗ trợ ở nhóm cổ phiếu vừa và nhỏ. Chính phủ chủ động triển khai các biện pháp hỗ trợ kinh tế như giảm lãi suất cho vay tới 2%/năm để giảm gánh nặng tài chính cho doanh nghiệp. Rủi ro từ giá xăng dầu tăng 65-90% được kiểm soát thông qua các biện pháp giữ giá trong nước ở mức thấp. Kết quả kinh doanh của VPBank quý 3 khẳng định sức khỏe của khối ngân hàng, nhưng nhóm cổ phiếu chứng khoán vẫn chịu áp lực mạnh.",
+  "summary_vi": "VN-Index mất mốc tâm lý 1.700 điểm với sức ép từ nhóm cổ phiếu vốn hóa lớn (VIC giảm 3,72%, VHM giảm 1,15%), trong khi các ngân hàng lớn tích cực giảm lãi suất cho vay (Vietinbank-Vietbank hỗ trợ 5-6 ngàn tỷ đồng). Giá xăng dầu thế giới tăng 65-90% gây rủi ro lạm phát dù Chính phủ kiểm soát giá trong nước. Ngành chứng khoán suy yếu giảm 24% từ đầu năm, trái chiều với kết quả tích cực của VPBank (lợi nhuận 11.000 tỷ đồng quý 3). Dòng tiền vẫn duy trì độ rộng thị trường ở mức tích cực (348 mã tăng, 301 mã giảm trên HoSE) nhưng bị thu hút vào nhóm vốn hóa nhỏ và vừa.",
   "top": [
     {
-      "title": "VN-Index thủng 1.700 điểm, giảm 1%",
+      "title": "VN-Index mất mốc 1.700 điểm",
       "impact": "↓",
-      "note": "VN-Index giảm 16,07 điểm (-0,94%) xuống mức 1.689,84 điểm; HNX-Index giảm 1,22 điểm (-0,5%) xuống 257,91 điểm. 348 mã tăng nhưng 301 mã giảm, nhóm blue-chips (VIC, VCB, VHM, VPB) dẫn đầu sắc đỏ với tác động tiêu cực lên chỉ số. Thanh khoản tăng so với phiên trước, khối lượng HoSE đạt 519 triệu cổ phiếu, trị giá 11,2 nghìn tỷ đồng."
+      "note": "VN-Index giảm 16,07 điểm (-0,94%) xuống 1.689,84 điểm, chính thức thủng mốc tâm lý 1.700. VIC giảm 3,72% (xuống 207.000 đ/cp) lấy đi hơn 13 điểm, VHM giảm 1,15%, VCB và VPB suy yếu, tạo áp lực tập trung từ nhóm trụ."
     },
     {
-      "title": "VietinBank giảm lãi suất cho vay tới 2%/năm",
-      "impact": "↑",
-      "note": "Từ 19/10/2026, VietinBank triển khai giải pháp giảm lãi suất cho vay tới 2%/năm, tập trung hỗ trợ sản xuất, kinh doanh và các lĩnh vực ưu tiên bao gồm nông nghiệp, nhà ở xã hội, hạ tầng, năng lượng, giao thông, công nghệ chiến lược. Hỗ trợ thực hiện cùng chương trình tín dụng quy mô 50.000 tỷ đồng triển khai từ tháng 8/2026 đến hết năm 2028."
-    },
-    {
-      "title": "Giá xăng dầu tăng 65-90% thế giới, Chính phủ kiểm soát lạm phát",
-      "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ đã triển khai biện pháp bảo đảm nguồn cung, giữ giá xăng dầu trong nước ở mức thấp so với khu vực, không tăng giá điện để kiểm soát lạm phát. Chỉ số CPI 9 tháng đầu năm được kiểm soát tốt, mục tiêu tăng trưởng GDP 2027 từ 10% trở lên yêu cầu ổn định kinh tế vĩ mô."
-    },
-    {
-      "title": "VPBank lợi nhuận 11.000 tỷ quý 3, tài sản tăng 27,8%",
-      "impact": "↑",
-      "note": "Quý 3/2026, VPBank ghi nhận tổng tài sản hợp nhất vượt 1.600 triệu tỷ đồng, tăng 27,8% so với cuối năm 2025. Dư nợ tín dụng riêng lẻ đạt 1.100 triệu tỷ đồng, tăng gần 30%, với phân khúc bán lẻ ghi nhận phục hồi và tín dụng doanh nghiệp/SME tập trung vào lĩnh vực ưu tiên (sản xuất, hạ tầng, công nghệ, tài chính xanh)."
-    },
-    {
-      "title": "Nhóm cổ phiếu chứng khoán giảm 23,46% từ đầu năm",
+      "title": "Giá xăng dầu thế giới tăng 65-90%",
       "impact": "↓",
-      "note": "Chỉ số ngành chứng khoán giảm 23,46% so với đầu năm, sâu hơn VN-Index (-2,77%). Trong 1 năm qua, nhóm giảm 39,92% trong khi VN-Index tăng 2,19%. Khoảng 80% cổ phiếu ngành giảm hơn 20% so với đỉnh gần nhất, phản ánh kỳ vọng lợi nhuận ngắn hạn kém tích cực và sự phân hóa giữa các doanh nghiệp."
+      "note": "Giá xăng dầu quốc tế tăng 65-90% gây áp lực lạm phát lớn. Nếu không kiểm soát, giá xăng dầu trong nước có thể tăng 80%. Chính phủ dùng các biện pháp giữ giá ở mức thấp và không tăng giá điện, nhưng rủi ro lan tỏa đến giá các mặt hàng khác vẫn hiện hữu."
     },
     {
-      "title": "Các ngân hàng giảm lãi suất tiết kiệm, NHNN yêu cầu giảm tối thiểu 0,5%/năm",
+      "title": "Vietinbank & Vietbank giảm lãi suất cho vay",
+      "impact": "↑",
+      "note": "VietinBank giảm lãi suất tối đa 2%/năm; Vietbank triển khai gói 3.000 tỷ đồng giảm lãi suất tối thiểu 1,5%/năm và gói lãi suất ưu đãi 1,2%/năm (từ quỹ doanh nghiệp nhỏ vừa). Tổng hỗ trợ tín dụng khoảng 5-6 ngàn tỷ đồng tập trung các lĩnh vực ưu tiên, sản xuất, kinh doanh."
+    },
+    {
+      "title": "VPBank lợi nhuận 11.000 tỷ đồng quý 3",
+      "impact": "↑",
+      "note": "VPBank ghi nhận tổng tài sản vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025); dư nợ tín dụng đạt 1,1 triệu tỷ đồng (tăng gần 30%). Tăng trưởng đồng đều giữa các phân khúc (bán lẻ phục hồi, khách hàng doanh nghiệp và SME tập trung vào lĩnh vực ưu tiên), vững chắc hướng tới mục tiêu cả năm."
+    },
+    {
+      "title": "Ngành chứng khoán giảm 24% từ đầu năm",
+      "impact": "↓",
+      "note": "Chỉ số ngành chứng khoán giảm 23,46% so với đầu năm (sâu hơn VN-Index giảm 2,77%); trong 1 năm mất 39,92%. Khoảng 80% số mã ngành (43 cổ phiếu) giảm hơn 20% từ đỉnh gần nhất. Lợi nhuận ngắn hạn kém tích cực, sự phân hóa giữa các công ty chứng khoán."
+    },
+    {
+      "title": "Ngân hàng giảm lãi suất tiết kiệm",
       "impact": "→",
-      "note": "NHNN yêu cầu các ngân hàng điều chỉnh giảm tối thiểu 0,5%/năm lãi suất tiền gửi từ 6 tháng trở lên, không chạy đua tăng lãi suất huy động. LPBank điều chỉnh: kỳ hạn 6 tháng xuống 6,5%/năm, 12 tháng còn 6,7%/năm, 24-25 tháng còn 6,7%/năm. Mục đích kiểm soát chi phí lãi suất huy động trong bối cảnh lãi suất duy trì ở mức cao."
+      "note": "NHNN yêu cầu giảm tối thiểu 0,5%/năm lãi suất tiền gửi kỳ hạn 6 tháng trở lên. LPBank giảm toàn bộ kỳ hạn: 1 tháng 4,3%, 6 tháng 6,5%, 12 tháng 6,7%/năm. Biện pháp cân bằng với chính sách giảm lãi suất vay, hạn chế cạnh tranh lãi suất huy động không lành mạnh."
     }
   ]
 }
