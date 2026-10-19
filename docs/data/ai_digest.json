@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-19",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nhiều ngân hàng (MB, VietinBank, SHB, TPBank, OCB, Vietbank) công bố giảm lãi suất cho vay 1,5-2%/năm theo chỉ đạo chính phủ, hỗ trợ doanh nghiệp giảm chi phí vốn. Tuy nhiên thị trường chứng khoán suy yếu: VN-Index giảm 0,94% xuống 1.689,84 điểm do VIC giảm 3,72% lấy đi 13 điểm, thanh khoản sụt giảm 28-35%, khối ngoại bán ròng 852,9 tỷ đồng. Giá xăng dầu thế giới tăng 65-90% tạo rủi ro lạm phát, song VPBank báo lợi nhuận quý 3 đạt 11.000 tỷ đồng với dư nợ tăng 30%.",
+  "summary_vi": "Thị trường chứng khoán hôm nay phân hóa mạnh khi VN-Index mất mốc 1.700 điểm (-0,94%) do khối ngoại bán ròng 852,9 tỷ đồng và thanh khoản sụt giảm 28-35%. Tuy vậy, nhiều ngân hàng hưởng ứng chỉ đạo giảm lãi suất cho vay từ 1,5-2%/năm để hỗ trợ doanh nghiệp giảm chi phí vốn. Chính phủ kiểm soát lạm phát bằng cách giữ giá xăng dầu-điện ở mức thấp dù giá thế giới tăng 65-90%, trong khi VPBank báo lợi nhuận quý 3 hơn 11.000 tỷ đồng.",
   "top": [
     {
-      "title": "Ngân hàng giảm lãi suất cho vay 1,5-2%/năm",
+      "title": "VN-Index mất mốc 1.700 điểm, khối ngoại bán ròng 852,9 tỷ",
+      "impact": "↓",
+      "note": "VN-Index giảm 16,07 điểm (-0,94%) xuống 1.689,84 điểm. Khối ngoại bán ròng 852,9 tỷ đồng (khớp lệnh 954,2 tỷ). VIC giảm 3,72% lấy đi 13 điểm, VCB giảm 1,23%, VHM giảm 1,15%, VPB giảm 0,88%."
+    },
+    {
+      "title": "Hàng loạt ngân hàng giảm lãi suất 1,5-2%/năm",
       "impact": "↑",
-      "note": "MB, VietinBank, SHB, TPBank, OCB công bố giảm lãi suất cho vay từ 1,5-2%/năm, riêng OCB tới 2,25%/năm. Vietbank triển khai gói 3.000 tỷ đồng giảm 1,5%/năm; SHB cung cấp tín dụng từ 5%/năm (giảm 1,5-2%/năm). Tổng quy mô gói ưu đãi đạt hàng chục ngàn tỷ đồng hỗ trợ sản xuất kinh doanh."
+      "note": "MB, VietinBank, SHB, TPBank, OCB, Vietbank công bố giảm lãi suất cho vay từ 1,5-2%/năm, OCB tới 2,25%/năm. SHB triển khai gói 47.000 tỷ với lãi suất từ 5%/năm, Vietbank gói 3.000 tỷ giảm tối thiểu 1,5%/năm, TPBank giảm 0,5% huy động."
     },
     {
-      "title": "VN-Index mất mốc 1.700 điểm, VIC giảm 3,72%",
+      "title": "Thanh khoản sụt giảm 28% HOSE, 35% HNX",
       "impact": "↓",
-      "note": "VN-Index giảm 16,07 điểm (-0,94%) xuống 1.689,84 điểm. VIC giảm 3,72% xuống 207.000 đ/cp lấy đi hơn 13 điểm; VHM giảm 1,15%; VCB giảm 1,23%; VPB giảm 0,88%. Các cổ phiếu trụ đồng thuận ép chỉ số, dù độ rộng thị trường với 348 mã tăng/301 mã giảm vẫn lợi thế."
+      "note": "Giá trị giao dịch HOSE giảm 28% xuống 13,18 ngàn tỷ đồng/phiên, HNX giảm 35% xuống 684 tỷ đồng. VN-Index tuần 12-16/10 giảm 1,7%, HNX-Index giảm 1%. Dòng tiền rút khỏi bán lẻ, dầu khí, chứng khoán, chỉ tập trung kim loại, gỗ."
     },
     {
-      "title": "Khối ngoại bán ròng 852,9 tỷ đồng",
-      "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 852,9 tỷ đồng tổng cộng, riêng giao dịch khớp lệnh bán ròng 954,2 tỷ đồng. Áp lực bán từ phía ngoại tạo sức ép lên chỉ số và dòng tiền."
-    },
-    {
-      "title": "Thanh khoản sụt giảm mạnh 28-35% tuần 12-16/10",
-      "impact": "↓",
-      "note": "Giá trị giao dịch HOSE giảm 28% xuống 13.18 ngàn tỷ đồng/phiên, HNX giảm 35% xuống 684 tỷ đồng/phiên. Khối lượng cũng giảm 18,6% trên HOSE và 30% trên HNX. Dòng tiền rút khỏi bán lẻ, dầu khí, chứng khoán; chỉ tập trung vào kim loại và gỗ."
-    },
-    {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, rủi ro lạm phát",
-      "impact": "↓",
-      "note": "Giá xăng dầu quốc tế tăng tới 65-90%. Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát CPI, nhằm bảo đảm GDP tăng 10%+ năm 2027. Rủi ro lạm phát vẫn hiện hữu nếu giá quốc tế tiếp tục tăng."
-    },
-    {
-      "title": "VPBank lợi nhuận 11.000 tỷ quý 3, dư nợ tăng 30%",
+      "title": "Chính phủ kiểm soát lạm phát, giữ giá xăng dầu-điện thấp",
       "impact": "↑",
-      "note": "VPBank ghi nhận lợi nhuận quý 3 hơn 11.000 tỷ đồng, tổng tài sản vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng đạt 1,1 triệu tỷ đồng (tăng gần 30%). Tăng trưởng đồng đều các phân khúc, bán lẻ phục hồi, tập trung lĩnh vực ưu tiên."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá xăng dầu-điện trong nước ở mức thấp, không tăng giá điện. Nếu không điều hành, giá xăng dầu trong nước có thể tăng 80%, kéo theo tác động lan rộng đến lạm phát."
+    },
+    {
+      "title": "VPBank lợi nhuận 11.000 tỷ quý 3, tài sản tăng 27,8%",
+      "impact": "↑",
+      "note": "VPBank ghi nhận lợi nhuận quý 3 hơn 11.000 tỷ đồng, tổng tài sản vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng 1,1 triệu tỷ (tăng 30%), tập trung lĩnh vực ưu tiên."
+    },
+    {
+      "title": "Chênh lệch giá vàng trong nước-thế giới 10,6 triệu đ/lượng",
+      "impact": "→",
+      "note": "Giá vàng miếng SJC giảm 500 nghìn đ/lượng xuống 143,1 triệu đ/lượng, cao hơn giá vàng thế giới quy đổi 10,6 triệu đ/lượng, mức thấp nhất kể từ cuối tháng 9/2026."
     }
   ]
 }
