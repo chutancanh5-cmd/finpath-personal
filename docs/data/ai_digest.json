@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-20",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực bán ròng từ khối ngoại (97,8 nghìn tỷ trong 9 tháng) cùng suy giảm mạnh hoạt động tự doanh (lợi nhuận VIX giảm 94% quý III). Thanh khoản thị trường giảm mạnh (dưới 14 nghìn tỷ/ngày), cổ phiếu chứng khoán mất 24% từ đầu năm. Tuy Chính phủ hỗ trợ qua giảm lãi suất cho vay và kiểm soát lạm phát, giá xăng dầu thế giới tăng 65-90% vẫn là rủi ro ngắn hạn đáng chú ý.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Chính phủ tiếp tục kiểm soát lạm phát bằng cách giữ giá xăng dầu, điện ở mức thấp, trong khi Ngân hàng Nhà nước chỉ đạo các ngân hàng giảm lãi suất huy động để tạo dư địa cho vay, hỗ trợ tăng trưởng kinh tế. Tuy nhiên, khối ngoại vẫn bán ròng hơn 97,8 nghìn tỷ đồng từ đầu năm, tạo áp lực lên tâm lý thị trường. Các chính sách nội tệ tích cực chưa đủ bù đắp cho dòng vốn ngoại lớn rút khỏi thị trường chứng khoán.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 97,8 nghìn tỷ trong 9 tháng",
+      "title": "Khối ngoại bán ròng hơn 97,8 nghìn tỷ từ đầu năm",
       "impact": "↓",
-      "note": "ETF cổ phiếu hút ròng 127 tỷ USD giảm 7% so với tháng trước, đánh dấu tháng giảm thứ hai liên tiếp kể từ tháng 7. Áp lực bán ròng gây sức ép lên tâm lý thị trường."
+      "note": "Lũy kế 9 tháng 2026, khối ngoại bán ròng hơn 97,8 nghìn tỷ đồng trên HoSE, áp lực bán ròng tiếp tục gây sức ép lên tâm lý thị trường chứng khoán."
     },
     {
-      "title": "Chứng khoán VIX lợi nhuận quý III giảm 94%",
-      "impact": "↓",
-      "note": "Lợi nhuận trước thuế chỉ đạt 192 tỷ đồng (giảm 94% so với 3.048 tỷ cùng kỳ 2025), doanh thu hoạt động sụt giảm 36% còn 2.048 tỷ. Suy giảm hoạt động tự doanh trên thị trường."
-    },
-    {
-      "title": "Lãi suất tiền gửi giảm 0,5-0,7 điểm %/năm",
+      "title": "Chính phủ kiểm soát lạm phát thông qua giữ giá xăng dầu và điện",
       "impact": "↑",
-      "note": "VietinBank, Vietcombank và 15 ngân hàng tư nhân giảm lãi suất tiền gửi từ kỳ hạn 6 tháng trở lên (VietinBank 12 tháng giảm từ 5,9% xuống 5,4%/năm). Tạo dư địa giảm lãi suất cho vay theo chỉ đạo NHNN."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ đã triển khai các giải pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện, nhằm kiểm soát CPI và bảo vệ thành quả tăng trưởng."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%",
-      "impact": "↓",
-      "note": "Giá xăng dầu quốc tế tăng 65-90% khiến Chính phủ phải dùng biện pháp giữ giá trong nước. Thủ tướng cảnh báo nếu không kiểm soát, lạm phát tăng sẽ xói mòn thành quả tăng trưởng GDP."
-    },
-    {
-      "title": "Thanh khoản thị trường giảm mạnh, chứng khoán mất 24%",
-      "impact": "↓",
-      "note": "Giá trị giao dịch bình quân 2 sàn (HOSE, HNX) tuần 12-16/10 dưới 14 nghìn tỷ đồng. Nhóm cổ phiếu chứng khoán giảm hơn 24% từ đầu năm dù được kỳ vọng hưởng lợi từ nâng hạng."
-    },
-    {
-      "title": "MB giảm lãi suất cho vay tới 2%/năm",
+      "title": "Các ngân hàng lớn giảm lãi suất tiền gửi 0,5-0,7 điểm %/năm",
       "impact": "↑",
-      "note": "Ngân hàng Quân đội tối ưu hóa chi phí hoạt động tới 2-2,5% CIR so với 2025, tạo dư địa giảm lãi suất cho vay. Biện pháp hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh."
+      "note": "VietinBank giảm lãi suất 12 tháng từ 5,9% xuống 5,4%/năm, Vietcombank tương tự, cùng 15 ngân hàng tư nhân theo chỉ đạo NHNN, tạo dư địa giảm lãi suất cho vay."
+    },
+    {
+      "title": "MB triển khai giảm lãi suất cho vay toàn diện",
+      "impact": "↑",
+      "note": "MB cân đối nguồn lực, tối ưu hóa chi phí hoạt động tới 2-2,5% CIR, giảm lãi suất cho vay nhằm hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh và tăng trưởng tín dụng an toàn."
+    },
+    {
+      "title": "Malaysia tăng trưởng GDP quý III/2026 đạt 5,3%",
+      "impact": "→",
+      "note": "GDP Malaysia quý III tăng 5,3% so với cùng kỳ năm trước, thấp hơn 6% của quý II; 9 tháng tăng 5,5%, cao hơn 4,8% cùng kỳ 2025, được hỗ trợ bởi nhu cầu công nghệ và dữ liệu AI."
+    },
+    {
+      "title": "Nghị định 390/2026 hạ ngưỡng thanh toán vàng không dùng tiền mặt",
+      "impact": "→",
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng ký Nghị định 390/2026 hạ ngưỡng thanh toán từ 20 triệu xuống 5 triệu đồng/ngày, cho phép dùng thẻ và ví điện tử, nhưng doanh nghiệp vàng gặp khó khăn xác định người trả tiền."
     }
   ]
 }
