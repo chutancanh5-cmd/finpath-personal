@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-20",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngân hàng Nhà nước chỉ đạo giảm lãi suất cho vay tối thiểu 1,5-2%/năm; VietinBank, Vietcombank và ~15 ngân hàng khác đồng loạt hạ lãi suất tiết kiệm 0,5-0,7 điểm %/năm, tạo dư địa kích thích tăng trưởng. Ba nhóm cổ phiếu (ngân hàng, bán lẻ, xây dựng) được đánh giá có định giá rẻ, kỳ vọng lợi nhuận xây dựng tăng ~22% năm 2027 nhờ giải ngân đầu tư công. Thị trường chứng khoán Mỹ hồi phục với Nasdaq +1,11%, S&P 500 +0,41%, nhưng lo ngại vẫn lớn từ việc Phạm Nhật Vượng mất 1,3 tỷ USD, VIC giảm 3,7%, kéo theo thanh khoản suy giảm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường cân cân giữa tín hiệu tích cực từ nội lực (giảm lãi suất cho vay/huy động, triển vọng xây dựng, hồi phục AI quốc tế) và rủi ro tiêu cực (thanh khoản yếu, VIC giảm mạnh 3,7%, áp lực lạm phát từ dầu tăng 65-90%). Chính sách nới lỏng tín dụng của NHNN và các ngân hàng tạo dư địa hỗ trợ kinh tế nội địa, nhưng sự sụt giảm của cổ phiếu lớn (VIC) và mối lo lạm phát đang cân bằng triển vọng tích cực.",
   "top": [
     {
-      "title": "NHNN chỉ đạo ngân hàng giảm lãi suất cho vay 1,5-2%/năm",
+      "title": "Giảm lãi suất huy động: VietinBank, Vietcombank, 15 NH giảm đồng loạt 0,5-0,7%/năm",
       "impact": "↑",
-      "note": "Thống đốc NHNN Phạm Đức Ấn yêu cầu các ngân hàng giảm tối thiểu 0,5%/năm lãi suất cho vay (ngày 18/10, họp với tổ chức tín dụng ngày 19/10). Chính sách nhằm hạ mặt bằng chi phí tài chính, kích thích tăng trưởng tín dụng và hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh."
+      "note": "VietinBank, Vietcombank và khoảng 15 ngân hàng tư nhân giảm lãi suất tiền gửi từ 6 tháng trở lên. VietinBank: 6-12 tháng từ 3,5% xuống 3%/năm; 12-24 tháng từ 5,9% xuống 5,4%/năm; 24+ tháng từ 6% xuống 5,5%/năm. Vietcombank tương tự: 6-9 tháng từ 3,5% xuống 3%/năm; 12 tháng từ 5,9% xuống 5,4%/năm; 24 tháng từ 6% xuống 5,5%/năm, theo chỉ đạo NHNN."
     },
     {
-      "title": "VietinBank, Vietcombank giảm lãi suất tiết kiệm 0,5-0,7%/năm",
+      "title": "MB giảm lãi suất cho vay tối thiểu 2%/năm theo chủ trương Chính phủ",
       "impact": "↑",
-      "note": "Áp dụng từ 20/10, VietinBank hạ lãi suất kỳ hạn 6-12 tháng từ 3,5% xuống 3%/năm; 12-24 tháng từ 5,9% xuống 5,4%; 24+ tháng từ 6% xuống 5,5%. Vietcombank giảm tương tự. Khoảng 15 ngân hàng tư nhân theo chỉ đạo của NHNN, tạo dư địa giảm lãi suất cho vay."
+      "note": "Ngân hàng TMCP Quân đội (MB) triển khai giảm lãi suất cho vay. MB tối ưu hóa chi phí hoạt động 2-2,5% CIR so với 2025, tạo dư địa giảm lãi suất và chia sẻ chi phí tài chính với khách hàng, hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh."
     },
     {
-      "title": "Ba nhóm cổ phiếu định giá rẻ, BSC dự báo bay cao năm 2027",
+      "title": "Nasdaq +1,11%, S&P 500 +0,41% nhờ bắt đáy cổ phiếu AI sau tuần giảm 4,5%",
       "impact": "↑",
-      "note": "CTCK BIDV (BSC) chọn ngân hàng, bán lẻ, vật liệu xây dựng là ba nhóm trọng tâm. Xây dựng & vật liệu dự báo tăng trưởng khoảng 22% năm 2027 nhờ kỳ vọng giải ngân đầu tư công tăng mạnh tại Hà Nội, TP.HCM; HPG được lựa chọn với động lực từ nhà máy Dung Quất 2 đi vào vận hành."
+      "note": "Nasdaq tăng 1,11% lên 26.430,89 điểm, S&P 500 tăng 0,41% lên 7.690,73 điểm. Cổ phiếu chip nâng hạng: Intel +2%, AMD +1,8%, Micron +3%. Phục hồi sau tuần trước Nasdaq giảm 4,5%, đánh dấu tuần giảm mạnh nhất kể từ cuối tháng 6/2026."
     },
     {
-      "title": "Nasdaq +1,11%, S&P 500 +0,41%, bắt đáy cổ phiếu AI",
-      "impact": "→",
-      "note": "Phiên 19/10, Nasdaq đạt 26.430,89 điểm, S&P 500 đạt 7.690,73 điểm; Dow giảm 0,07% còn 51.966,03 điểm. Intel +2% (JPMorgan nâng hạng), AMD +1,8%, Micron +3%. Coreweave -0,4% dù Goldman Sachs nâng hạng, phản ánh lo ngại nợ nần. Tuần trước Nasdaq -4,5%, tech -6%."
+      "title": "CTCK BIDV chỉ ra 3 nhóm cổ phiếu rẻ với triển vọng 2027: ngân hàng, bán lẻ, xây dựng",
+      "impact": "↑",
+      "note": "Chứng khoán BIDV (BSC) dự báo lợi nhuận nhóm xây dựng và vật liệu tăng khoảng 22% năm 2027, vượt mức tăng bình quân 12%. Vật liệu xây dựng được nâng thành nhóm ưu tiên nhờ kỳ vọng giải ngân đầu tư công tăng mạnh tại Hà Nội và TP.HCM, HPG được chọn nhờ nhà máy Dung Quất 2."
     },
     {
-      "title": "Phạm Nhật Vượng mất 1,3 tỷ USD trong vài giờ, VIC giảm 3,7%",
+      "title": "Phạm Nhật Vượng mất 1,3 tỷ USD, VIC giảm 3,7% xuống 207 nghìn đồng/cp",
       "impact": "↓",
-      "note": "Tài sản Phạm Nhật Vượng (chủ tịch Vingroup) sụt từ 33,8 tỷ USD còn 32,5 tỷ USD (thứ 68 thế giới). Cổ phiếu VIC giảm 3,7% xuống 207.000 đồng/cp ngày 19/10, thấp nhất trong ~2 tháng. So với đỉnh 4/9, VIC đã mất nhiều giá trị; tác động trực tiếp đến đại cổ đông lớn nhất thị trường."
+      "note": "Theo Forbes ngày 19/10, Phạm Nhật Vượng mất khoảng 1,3 tỷ USD trong vài giờ. Cổ phiếu VIC giảm hơn 3,7% ngày 19/10 xuống mức 207.000 đồng/cổ phiếu, thấp nhất trong vòng gần 2 tháng, phản ánh áp lực bán mạnh."
     },
     {
-      "title": "Chứng khoán Kafi lợi nhuận 9 tháng tăng 58%, vinh danh APEA",
-      "impact": "↑",
-      "note": "Kafi được trao hai giải thưởng tại Asia Pacific Enterprise Awards (APEA) 2026: Corporate Excellence Award và Corporate Integrity & Governance Excellence Award (lần thứ 3 liên tiếp được vinh danh). Lợi nhuận 9 tháng 2026 tăng 58%, phản ánh sự chuyển đổi mô hình và phát triển nền tảng công nghệ quản trị tài sản toàn diện."
+      "title": "Thủ tướng: Lạm phát tăng sẽ xói mòn thành quả tăng trưởng, dầu thế giới +65-90%",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng tới 65-90%, tạo áp lực lạm phát. Chính phủ giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát lạm phát, nhưng rủi ro dài hạn vẫn tồn tại nếu giá dầu tiếp tục duy trì cao."
     }
   ]
 }
