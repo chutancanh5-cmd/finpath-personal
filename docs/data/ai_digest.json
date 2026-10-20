@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-20",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ và NHNN tích cực hỗ trợ kinh tế thông qua giảm lãi suất huy động (13 ngân hàng -0,5%), hạ lãi suất cho vay (VietinBank -2%/năm) và triển khai các dự án hạ tầng trọng điểm (384.886 tỷ đồng + 1 triệu tỷ đường sắt + 1,5 tỷ USD năng lượng). Kiểm soát lạm phát hiệu quả khi ổn định giá xăng dầu và điện dù giá toàn cầu tăng 65-90%. Tuy vậy, áp lực đáo hạn trái phiếu quý 4 (93.000 tỷ đồng, chủ yếu bất động sản) đáng theo dõi.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Q3 chịu áp lực từ thanh khoản suy giảm 57-58% và khối ngoại bán ròng hơn 18.000 tỷ đồng, khiến lợi nhuận các công ty chứng khoán sụt giảm. Bối cảnh lạm phát cao (xăng dầu thế giới tăng 65-90%) là rủi ro vĩ mô chính. Tuy vậy, chính sách giảm lãi suất huy động, các dự án hạ tầng trọng điểm (1 triệu tỷ đồng) và mục tiêu tăng trưởng GDP 10% năm 2027 mang lại kỳ vọng hồi phục.",
   "top": [
     {
-      "title": "Dự án hạ tầng Hà Nội tăng tốc",
-      "impact": "↑",
-      "note": "Hà Nội triển khai 292 dự án với vốn 384.886 tỷ đồng năm 2026, gồm 5 tuyến đường sắt đô thị dài 253,5km (vốn hơn 1 triệu tỷ đồng, dự kiến hoàn thành 2030). Kích hoạt dòng vốn, sản xuất, tạo việc làm và cải thiện cạnh tranh kinh tế."
-    },
-    {
-      "title": "Khởi công siêu dự án năng lượng LNG Quảng Trạch",
-      "impact": "↑",
-      "note": "Sáng 20/10, EVN khởi công nhà máy LNG Quảng Trạch II (hơn 1,5 tỷ USD) với công suất 1.612,8 MW, dự kiến cung cấp 17,2 tỷ kWh/năm. Bảo đảm an ninh năng lượng và hỗ trợ chuyển dịch cơ cấu năng lượng bền vững."
-    },
-    {
-      "title": "13 ngân hàng giảm lãi suất huy động 0,5%",
-      "impact": "↑",
-      "note": "Lãi suất tiết kiệm 6-9 tháng nhóm nhỏ-vừa giảm còn 5,87%/năm trực tuyến, 5,64%/năm quầy (thấp 7 tháng). 13 ngân hàng (LPBank, VietBank, BVBank, OCB, HDBank, v.v.) giảm 0,5 điểm % từ 6 tháng trở lên, tạo dư địa để hạ lãi suất cho vay hỗ trợ doanh nghiệp."
-    },
-    {
-      "title": "VietinBank giảm lãi suất cho vay tới 2%/năm",
-      "impact": "↑",
-      "note": "VietinBank triển khai giảm lãi suất cho vay tới 2%/năm cho các lĩnh vực trọng điểm: sản xuất kinh doanh, nông nghiệp, phát triển nhà ở xã hội, hạ tầng, năng lượng, giao thông. Hỗ trợ doanh nghiệp nâng cao hiệu quả đầu tư."
-    },
-    {
-      "title": "Thủ tướng kiểm soát lạm phát bảo vệ tăng trưởng",
-      "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ ổn định giá xăng dầu trong nước ở mức thấp và không tăng giá điện. Khẳng định lạm phát sẽ xói mòn thành quả tăng trưởng, hướng tới mục tiêu GDP 10%+ năm 2027."
-    },
-    {
-      "title": "Áp lực đáo hạn trái phiếu quý 4 tăng cao",
+      "title": "HSC lãi Q3 giảm 33%, khối ngoại bán ròng hơn 18.000 tỷ đồng",
       "impact": "↓",
-      "note": "Quý 4/2026, tổng giá trị trái phiếu đến hạn ước 93.000 tỷ đồng (cao nhất năm), chủ yếu từ bất động sản. Tuy vậy, phát hành công chúng quý 3 tăng 55% với 31,6 nghìn tỷ đồng (kỷ lục), giúp giảm áp lực tái tài chính."
+      "note": "Lợi nhuận trước thuế Q3 đạt 371 tỷ đồng giảm 33%; giá trị giao dịch bình quân 18.500 tỷ đồng/ngày giảm 58% so với cùng kỳ. Khối ngoại tiếp tục bán ròng, phản ánh sự mất lạc quan về triển vọng thị trường."
+    },
+    {
+      "title": "Agriseco lãi Q3 giảm 57% do thị trường kém tích cực",
+      "impact": "↓",
+      "note": "Lãi sau thuế Q3 gần 30 tỷ đồng giảm 57%. Doanh thu môi giới giảm 60%, lãi tự doanh giảm 56%; chi phí tài chính gấp 6 lần, chi phí quản lý tăng 85%, phản ánh áp lực sâu rộng từ thanh khoản sụt giảm."
+    },
+    {
+      "title": "Thủ tướng cảnh báo lạm phát tăng sẽ xói mòn thành quả tăng trưởng",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%; nếu không có biện pháp, giá trong nước có thể tăng 80%. Lạm phát cao từ tháng 3/2026 do chiến tranh Trung Đông làm lãi suất thực kém hấp dẫn trên cả hai kênh đầu tư."
+    },
+    {
+      "title": "Giảm lãi suất huy động 0,5%/năm, mục tiêu GDP 10% năm 2027",
+      "impact": "↑",
+      "note": "SACOMBANK giảm lãi suất huy động 0,5%/năm từ 20/10/2026 hưởng ứng chủ trương của Chính phủ; Thủ tướng khẳng định mục tiêu tăng trưởng GDP 10%+, tạo dư địa để hạ lãi suất cho vay hỗ trợ doanh nghiệp."
+    },
+    {
+      "title": "Hà Nội triển khai 5 tuyến đường sắt đô thị, vốn hơn 1 triệu tỷ đồng",
+      "impact": "↑",
+      "note": "Dự án tổng chiều dài 253,5km, ký kết hợp đồng chìa khóa với Liên danh Vinhomes-SGC, dự kiến hoàn thành 2030. Kích hoạt dòng vốn đầu tư, sản xuất, dịch vụ và tạo việc làm, nâng cao năng lực cạnh tranh của Thủ đô."
+    },
+    {
+      "title": "Chứng khoán An Bình hoàn thành kế hoạch lợi nhuận sau 9 tháng",
+      "impact": "↑",
+      "note": "Lợi nhuận trước thuế 602 tỷ đồng gấp 4,6 lần cùng kỳ, doanh thu hoạt động 941 tỷ đồng tăng 176,3%, hoàn thành 100,3% kế hoạch năm. Kết quả đánh dấu bứt phá, tạo đà phát triển cho ngành chứng khoán."
     }
   ]
 }
