@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-20",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Phiên 19/10 ghi nhận áp lực bán (VN-Index -0,94%, mất mốc 1.700), nhà đầu tư nước ngoài bán ròng 852,9 tỷ đồng, đặc biệt xả mạnh VIC khiến CEO Phạm Nhật Vượng mất 1,3 tỷ USD. Tuy nhiên, các ngân hàng công bố giảm lãi suất cho vay 1,5-2,25%/năm hỗ trợ doanh nghiệp giảm chi phí vốn. Chính phủ kiểm soát tốt lạm phát, giữ giá xăng dầu ổn định dù thế giới tăng 65-90%, tạo nền tảng ổn định. Ngành xây dựng/vật liệu được nâng lên trọng tâm, dự báo tăng trưởng 22% năm 2027.",
+  "summary_vi": "Thị trường chứng khoán ghi nhận áp lực bán kéo VN-Index giảm 0,94%, thanh khoản sụt 28%, khối ngoại bán ròng 852,9 tỷ đồng, tập trung xả VIC khiến Phạm Nhật Vượng mất 1,3 tỷ USD. Tuy nhiên có tín hiệu tích cực từ Chính phủ yêu cầu các ngân hàng giảm lãi suất cho vay 1,5-2% ngay lập tức để hỗ trợ doanh nghiệp. Chính phủ cũng kiểm soát tốt lạm phát khi giữ giá xăng dầu nội địa ổn định dù thế giới tăng 65-90%. Ngành xây dựng vật liệu được nâng ưu tiên, dự báo tăng 22% năm 2027.",
   "top": [
     {
-      "title": "Ngân hàng giảm lãi suất 1,5-2,25%/năm",
+      "title": "NHNN yêu cầu các ngân hàng giảm lãi suất 1,5-2%/năm ngay",
       "impact": "↑",
-      "note": "Vietcombank, BIDV, MB, VietinBank, SHB, TPBank, OCB và các ngân hàng khác công bố giảm lãi suất cho vay từ 1,5 - 2,25%/năm, với gói tín dụng 100.000 tỷ từ BIDV nhằm hỗ trợ doanh nghiệp giảm chi phí vốn."
+      "note": "Thống đốc NHNN yêu cầu các ngân hàng giảm tối thiểu 0,5%/năm lãi suất cho vay từ 18/10. Vietcombank cam kết giảm 1,5-2%, BIDV dự kiến gói 100.000 tỷ đồng kỳ hạn 6 tháng, Vietbank triển khai 3.000 tỷ đồng lãi suất tối thiểu 1,5%/năm từ 19/10/2026."
     },
     {
-      "title": "VN-Index giảm 0,94%, mất mốc 1.700",
+      "title": "VN-Index mất 1.689,84 điểm, giảm 0,94%, áp lực bán chiếm ưu thế",
       "impact": "↓",
-      "note": "Phiên 19/10, VN-Index đóng cửa tại 1.689,84 điểm (-16,07 điểm, -0,94%), mất mốc hỗ trợ 1.700 điểm với áp lực bán chiếm ưu thế, có khả năng tiếp tục điều chỉnh xuống vùng 1.660 - 1.680 điểm."
+      "note": "VN-Index đóng cửa 1.689,84 điểm (-16,07 điểm, -0,94%), kiểm định thất bại đường Tenkan quanh 1.720 với nến đỏ thân dài, mất mốc hỗ trợ 1.700, có khả năng tiếp tục điều chỉnh xuống vùng 1.660-1.680."
     },
     {
-      "title": "Kiểm soát CPI tốt dù xăng dầu +65-90%",
+      "title": "Thanh khoản giảm 28%, dòng tiền rút bán lẻ, dầu khí, chứng khoán",
+      "impact": "↓",
+      "note": "Tuần 12-16/10, giá trị giao dịch HOSE giảm 28% xuống 13.18 ngàn tỷ đồng/phiên, HNX giảm 35%, khối lượng HOSE giảm 18,6%, HNX giảm 30%. Chỉ có kim loại (NKG +110%, HSG +100%) và gỗ thu hút dòng tiền."
+    },
+    {
+      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ giữ nội địa ổn định",
+      "impact": "→",
+      "note": "Thủ tướng Lê Minh Hưng nêu giá xăng dầu thế giới tăng 65-90%, nếu không có biện pháp điều hành có thể tăng 80% nội địa. Chính phủ bảo đảm nguồn cung, giữ giá xăng dầu và không tăng giá điện để kiểm soát lạm phát không xói mòn thành quả tăng trưởng."
+    },
+    {
+      "title": "Khối ngoại bán ròng 852,9 tỷ đồng, xả VIC, VHM, VCB",
+      "impact": "↓",
+      "note": "Nhà đầu tư nước ngoài bán ròng 852,9 tỷ đồng giao dịch khớp lệnh (954,2 tỷ). VIC lấy đi 12,80 điểm, VHM -1,18 điểm, VCB -1,20 điểm, nhóm giảm giá đóng góp tiêu cực tổng 18,15 điểm cho VN-Index."
+    },
+    {
+      "title": "Vật liệu xây dựng nâng trọng tâm, kỳ vọng lợi nhuận +22% năm 2027",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%, nhưng Chính phủ áp dụng biện pháp điều hành để giữ giá xăng dầu và điện trong nước ở mức thấp, kiểm soát CPI trong 9 tháng đầu năm theo mục tiêu."
-    },
-    {
-      "title": "VIC giảm 3,7%, CEO mất 1,3 tỷ USD",
-      "impact": "↓",
-      "note": "Cổ phiếu VIC giảm 3,7% xuống 207.000 đồng/cổ phiếu (thấp nhất gần 2 tháng), khiến Chủ tịch Phạm Nhật Vượng mất 1,3 tỷ USD chỉ trong vài giờ, dù khối tài sản vẫn ở 32,5 tỷ USD."
-    },
-    {
-      "title": "Khối ngoại bán ròng 852,9 tỷ đồng",
-      "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 852,9 tỷ đồng (954,2 tỷ trong khớp lệnh) với lực xả mạnh VIC, VHM, VCB, phản ánh dòng tiền nước ngoài đảo chiều âm."
-    },
-    {
-      "title": "Xây dựng nâng lên trọng tâm, dự báo +22%",
-      "impact": "↑",
-      "note": "Chứng khoán BIDV nâng đánh giá vật liệu xây dựng từ thận trọng lên nhóm ngành trọng tâm, dự báo tăng trưởng lợi nhuận 22% năm 2027, kỳ vọng từ giải ngân đầu tư công tại Hà Nội và TP.HCM."
+      "note": "BSC nâng vật liệu xây dựng lên nhóm ngành trọng tâm nhờ kỳ vọng giải ngân đầu tư công tăng Hà Nội, TP.HCM, dự báo lợi nhuận tăng khoảng 22% năm 2027 vượt mức +12% bình quân. HPG là cổ phiếu nổi bật từ nhà máy Dung Quất 2."
     }
   ]
 }
