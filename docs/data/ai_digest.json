@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-20",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Các ngân hàng lớn (Vietcombank, HDBank, VietinBank, MB) gộp lực giảm lãi suất cho vay (từ 1,5% đến 3%/năm), tạo dư địa hỗ trợ doanh nghiệp tiếp cận vốn rẻ hơn phù hợp chỉ đạo Chính phủ về tăng trưởng kinh tế. Tuy nhiên, thị trường đối mặt áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90%, và khối ngoại liên tục bán ròng gần 120 nghìn tỷ từ đầu năm gây sức ép tâm lý ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Ba ngân hàng lớn (VietinBank, HDBank, MB) giảm lãi suất cho vay 1,5-2%/năm hỗ trợ doanh nghiệp sản xuất kinh doanh; Chính phủ kiểm soát lạm phát bằng giữ giá xăng dầu, điện ở mức thấp dù giá thế giới tăng 65-90% và hướng đến tăng trưởng 10% năm 2027. Tuy vậy, khối ngoại bán ròng 97,8 nghìn tỷ đồng trong 9 tháng, thanh khoản sụt giảm mạnh và giá vàng, cổ phiếu yếu cho thấy tâm lý nhà đầu tư vẫn thận trọng.",
   "top": [
     {
-      "title": "Vietcombank giảm lãi suất cho vay tới 3%/năm",
+      "title": "Ba ngân hàng giảm lãi suất cho vay 1,5-2%/năm",
       "impact": "↑",
-      "note": "Từ 20/10/2026, Vietcombank giảm 0,5%/năm lãi suất huy động kỳ hạn từ 6 tháng trở lên và triển khai Chương trình tín dụng từ 19/10 đến 31/12/2026 với khách hàng giảm 1,5-2%/năm, riêng một số lĩnh vực giảm tới 3%/năm."
+      "note": "VietinBank, HDBank, MB triển khai chương trình ưu đãi; HDBank phát hành 10.000 tỷ đồng (20/10-30/11) với lãi suất 8-8,7%/năm, giảm 1,5% so với mức ưu đãi trước. Hỗ trợ sản xuất, kinh doanh, nông nghiệp và các lĩnh vực ưu tiên."
     },
     {
-      "title": "HDBank triển khai gói tín dụng 10.000 tỷ đồng, giảm lãi suất 1,5%/năm",
+      "title": "Chính phủ kiểm soát lạm phát: giữ giá xăng, điện thấp",
       "impact": "↑",
-      "note": "HDBank triển khai gói tín dụng 10.000 tỷ đồng từ 20/10/2026 đến 30/11/2026 với lãi suất từ 8%/năm (kỳ hạn đến 2 tháng) và 8,7%/năm (kỳ hạn 2-3 tháng), giảm 1,5%/năm so với mức ưu đãi hiện hành cho doanh nghiệp nhỏ và vừa."
+      "note": "Giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ kìm giữ trong nước; không tăng giá điện. Thủ tướng nhấn mạnh mục tiêu tăng trưởng GDP 10% năm 2027 với CPI được kiểm soát."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng cảnh báo lạm phát",
+      "title": "Khối ngoại bán ròng 97,8 nghìn tỷ trong 9 tháng",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng Lê Minh Hưng cảnh báo nếu không điều hành phù hợp, giá xăng dầu trong nước có thể tăng 80%, kéo theo tác động lan rộng đến giá các mặt hàng khác, xói mòn thành quả tăng trưởng kinh tế."
+      "note": "Lũy kế 9 tháng đầu năm 2026, khối ngoại bán ròng hơn 97,8 nghìn tỷ đồng tương đương cùng kỳ năm 2025; ETF cổ phiếu hút ròng 127 tỷ USD (tháng 9) giảm 7%, ETF trái phiếu hút ròng 78,8 tỷ USD tăng 40%."
     },
     {
-      "title": "VietinBank giảm lãi suất cho vay tới 2%/năm",
-      "impact": "↑",
-      "note": "VietinBank ưu tiên tín dụng cho sản xuất kinh doanh, nông nghiệp, lâm nghiệp, thủy sản, nhà ở xã hội, hạ tầng, năng lượng và công nghệ chiến lược với mức giảm lãi suất tới 2%/năm, tạo điều kiện tiếp cận vốn với chi phí hợp lý."
+      "title": "Agribank giảm lãi suất tiết kiệm xuống 5,5%/năm",
+      "impact": "→",
+      "note": "Giảm 0,5 điểm % ở các kỳ hạn từ 6 tháng trở lên; lãi suất 6-11 tháng từ 4% xuống 3,5%, 12-18 tháng từ 5,9% xuống 5,4%, 24 tháng từ 6% xuống 5,5%. Phản ánh áp lực lãi suất từ chính sách tiền tệ."
     },
     {
-      "title": "Khối ngoại bán ròng hơn 97,8 nghìn tỷ từ đầu năm",
-      "impact": "↓",
-      "note": "Lũy kế 9 tháng đầu năm 2026, khối ngoại bán ròng hơn 97,8 nghìn tỷ đồng trên HoSE, tương đương cùng kỳ năm 2025; ETF cổ phiếu giảm 7%, gây áp lực bán lên tâm lý thị trường."
+      "title": "Giá vàng giảm mạnh ngày 20/10",
+      "impact": "→",
+      "note": "Vàng SJC giảm 0,5-1,6 triệu đồng/lượng so với hôm qua, giao dịch 139-142 triệu đồng/lượng tại các điểm SJC, 13,8-14,2 triệu đồng/chỉ tại Bảo Tín Minh Châu. Phản ánh sức ép từ dữ liệu kinh tế vĩ mô thế giới."
     },
     {
-      "title": "MB giảm lãi suất cho vay tới 2%/năm",
-      "impact": "↑",
-      "note": "Ngân hàng TMCP Quân đội (MB) tối ưu hóa chi phí hoạt động CIR giảm 2-2,5% so với năm 2025, tạo dư địa giảm lãi suất cho vay từ 1,5% đến 2%/năm, chia sẻ chi phí tài chính với doanh nghiệp."
+      "title": "Malaysia tăng trưởng 5,3% quý III, hưởng lợi AI",
+      "impact": "→",
+      "note": "GDP Malaysia quý III/2026 tăng 5,3% năm trước (thấp hơn quý II 6%), 9 tháng tăng 5,5%; nhu cầu sản phẩm công nghệ và dự án trung tâm dữ liệu hỗ trợ, công nghiệp chế biến tăng 7,5%."
     }
   ]
 }
