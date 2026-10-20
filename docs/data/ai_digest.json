@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-20",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thống đốc NHNN yêu cầu giảm lãi suất cho vay 0.5-2%/năm, 11 ngân hàng triển khai gói tín dụng ưu đãi 47,000+ tỷ đồng hỗ trợ doanh nghiệp. Chính phủ kiểm soát CPI thành công, giữ giá xăng dầu-điện ổn định. Tuy nhiên, TTCK ghi nhận áp lực ngắn hạn: VN-Index giảm 0.94%, thanh khoản sụt 28%, khối ngoại bán ròng. Các nhóm ngành có định giá rẻ (ngân hàng, bán lẻ, vật liệu xây dựng) là cơ hội dài hạn.",
+  "summary_vi": "Phiên 19/10 ghi nhận áp lực bán (VN-Index -0,94%, mất mốc 1.700), nhà đầu tư nước ngoài bán ròng 852,9 tỷ đồng, đặc biệt xả mạnh VIC khiến CEO Phạm Nhật Vượng mất 1,3 tỷ USD. Tuy nhiên, các ngân hàng công bố giảm lãi suất cho vay 1,5-2,25%/năm hỗ trợ doanh nghiệp giảm chi phí vốn. Chính phủ kiểm soát tốt lạm phát, giữ giá xăng dầu ổn định dù thế giới tăng 65-90%, tạo nền tảng ổn định. Ngành xây dựng/vật liệu được nâng lên trọng tâm, dự báo tăng trưởng 22% năm 2027.",
   "top": [
     {
-      "title": "Thống đốc NHNN yêu cầu giảm lãi suất cho vay",
+      "title": "Ngân hàng giảm lãi suất 1,5-2,25%/năm",
       "impact": "↑",
-      "note": "Thống đốc NHNN Phạm Đức Ấn yêu cầu giảm lãi suất cho vay từ 1.5-2%/năm, giảm thêm 0.5%/năm lãi suất huy động. Chính sách nhằm giảm chi phí vốn cho doanh nghiệp và người dân."
+      "note": "Vietcombank, BIDV, MB, VietinBank, SHB, TPBank, OCB và các ngân hàng khác công bố giảm lãi suất cho vay từ 1,5 - 2,25%/năm, với gói tín dụng 100.000 tỷ từ BIDV nhằm hỗ trợ doanh nghiệp giảm chi phí vốn."
     },
     {
-      "title": "11 ngân hàng giảm lãi suất, gói tín dụng 47,000+ tỷ đồng",
+      "title": "VN-Index giảm 0,94%, mất mốc 1.700",
+      "impact": "↓",
+      "note": "Phiên 19/10, VN-Index đóng cửa tại 1.689,84 điểm (-16,07 điểm, -0,94%), mất mốc hỗ trợ 1.700 điểm với áp lực bán chiếm ưu thế, có khả năng tiếp tục điều chỉnh xuống vùng 1.660 - 1.680 điểm."
+    },
+    {
+      "title": "Kiểm soát CPI tốt dù xăng dầu +65-90%",
       "impact": "↑",
-      "note": "SHB, MB, VietinBank, TPBank, OCB, Agribank, Vietcombank, BIDV, ACB, LPBank, VietBank công bố giảm lãi suất cho vay 1.5-2%/năm (OCB tới 2.25%). Tổng gói tín dụng ưu đãi từ đầu năm lên tới 47,000+ tỷ đồng, hỗ trợ SME, xuất khẩu, nông nghiệp."
+      "note": "Giá xăng dầu thế giới tăng tới 65-90%, nhưng Chính phủ áp dụng biện pháp điều hành để giữ giá xăng dầu và điện trong nước ở mức thấp, kiểm soát CPI trong 9 tháng đầu năm theo mục tiêu."
     },
     {
-      "title": "VN-Index giảm mạnh, áp lực bán tăng",
+      "title": "VIC giảm 3,7%, CEO mất 1,3 tỷ USD",
       "impact": "↓",
-      "note": "VN-Index đóng cửa 1,689.84 điểm, giảm 16.07 điểm (-0.94%), không vượt qua Tenkan 1,720. Áp lực bán chiếm ưu thế, chỉ số có thể kiểm định vùng hỗ trợ 1,660-1,680. HNX-Index giảm 1% còn 259.13 điểm."
+      "note": "Cổ phiếu VIC giảm 3,7% xuống 207.000 đồng/cổ phiếu (thấp nhất gần 2 tháng), khiến Chủ tịch Phạm Nhật Vượng mất 1,3 tỷ USD chỉ trong vài giờ, dù khối tài sản vẫn ở 32,5 tỷ USD."
     },
     {
-      "title": "Thanh khoản sụt giảm 28-35%, dòng tiền chọn lọc",
+      "title": "Khối ngoại bán ròng 852,9 tỷ đồng",
       "impact": "↓",
-      "note": "Tuần 12-16/10, giá trị giao dịch giảm 28% trên HOSE xuống 13.18 nghìn tỷ đồng/phiên, giảm 35% trên HNX. Dòng tiền rút khỏi bán lẻ, dầu khí, chứng khoán; chỉ tập trung vào kim loại, gỗ."
+      "note": "Nhà đầu tư nước ngoài bán ròng 852,9 tỷ đồng (954,2 tỷ trong khớp lệnh) với lực xả mạnh VIC, VHM, VCB, phản ánh dòng tiền nước ngoài đảo chiều âm."
     },
     {
-      "title": "BSC khuyến nghị 3 nhóm ngành định giá rẻ",
+      "title": "Xây dựng nâng lên trọng tâm, dự báo +22%",
       "impact": "↑",
-      "note": "Chứng khoán BIDV (BSC) chọn ngân hàng, bán lẻ, vật liệu xây dựng làm nhóm trọng tâm. Vật liệu xây dựng dự báo lãi tăng 22% năm 2027 nhờ giải ngân đầu tư công tại Hà Nội, TP.HCM. HPG được lựa chọn nhờ nhà máy Dung Quất 2."
-    },
-    {
-      "title": "Khối ngoại bán ròng 852.9-954.2 tỷ đồng",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 852.9 tỷ đồng (giao dịch khớp lệnh 954.2 tỷ đồng), xả mạnh cổ phiếu VCB (-1.23%), BID (-0.88%). VIC giảm 3.7% xuống 207,000 đồng/cp (thấp nhất 2 tháng), khiến tỷ phú Phạm Nhật Vượng mất 1.3 tỷ USD."
+      "note": "Chứng khoán BIDV nâng đánh giá vật liệu xây dựng từ thận trọng lên nhóm ngành trọng tâm, dự báo tăng trưởng lợi nhuận 22% năm 2027, kỳ vọng từ giải ngân đầu tư công tại Hà Nội và TP.HCM."
     }
   ]
 }
