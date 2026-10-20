@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-20",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Việt Nam tập trung khởi động hai dự án năng lượng quy mô lớn trên 3 tỷ USD (EVN Quảng Trạch II 1.5 tỷ USD và Nam Định 1 khoảng 2 tỷ USD) để bảo đảm an ninh năng lượng. Chính phủ điều hành tích cực thông qua giảm lãi suất cho vay (VietinBank giảm tới 2%/năm) và quản lý giá xăng dầu dù thế giới tăng 65-90%. Tuy nhiên, thị trường chứng khoán hôm nay chịu áp lực lớn khi khối ngoại bán ròng 97,8 nghìn tỷ đồng từ đầu năm, sức mua yếu, thanh khoản sụt giảm 4 phiên khiến VN30 ghi nhận 24 mã giảm vs 6 mã tăng.",
+  "summary_vi": "Thị trường chứng khoán hôm nay ghi nhận áp lực bán lớn với VN-Index sâu dưới tham chiếu do sức mua suy yếu kỷ lục, tuy nhiên các chính sách hỗ trợ kinh tế được triển khai tích cực. Chính phủ khởi công dự án LNG Quảng Trạch II (1,5 tỷ USD, công suất 1.612,8 MW sẽ phát điện 17,2 tỷ kWh/năm) bảo đảm an ninh năng lượng hướng tới tăng trưởng 10%+ GDP năm 2027. Các ngân hàng cắt giảm lãi suất cho vay (tới 2%/năm) với 13 ngân hàng giảm lãi huy động 0,5 điểm phần trăm, giúp doanh nghiệp tiếp cận tín dụng. Chính phủ tiếp tục kiểm soát giá xăng dầu (dù thế giới tăng 65-90%) và không tăng giá điện chống lạm phát.",
   "top": [
     {
-      "title": "EVN khởi công dự án LNG Quảng Trạch II (1.5 tỷ USD)",
+      "title": "EVN khởi công dự án LNG Quảng Trạch II 1,5 tỷ USD",
       "impact": "↑",
-      "note": "Sáng 20/10, EVN tổ chức lễ khởi công tại tỉnh Quảng Trị với công suất thuần 1.612,8 MW, dự kiến sản xuất 17,2 tỷ kWh mỗi năm. Dự án chiến lược bảo đảm an ninh năng lượng quốc gia và hỗ trợ chuyển dịch cơ cấu năng lượng bền vững."
+      "note": "Sáng 20/10, EVN tổ chức lễ khởi công tại Quảng Trị với công suất 1.612,8 MW, bổ sung 17,2 tỷ kWh mỗi năm cho hệ thống điện quốc gia. Dự án trọng điểm bảo đảm an ninh năng lượng và hỗ trợ chuyển dịch cơ cấu năng lượng bền vững."
     },
     {
-      "title": "Tháo gỡ dự án nhiệt điện Nam Định 1 (2 tỷ USD)",
+      "title": "VN-Index suy yếu mạnh, sức mua giảm xuống 4 phiên",
+      "impact": "↓",
+      "note": "VN-Index giảm mạnh sáng 20/10 với thanh khoản sụt xuống mức thấp nhất 4 phiên kết hợp độ rộng áp đảo. VN30 ghi nhận 24 mã giảm chỉ 6 mã tăng (giảm 0,53%), áp lực từ VHM (-3,15%), VPB (-2,29%), HDB (-2,2%). Sức mua đã suy yếu đáng kể."
+    },
+    {
+      "title": "13 ngân hàng giảm lãi suất huy động 0,5 điểm phần trăm",
+      "impact": "→",
+      "note": "LPBank, VietBank, BVBank, Bac A Bank, BaoVietBank, OCB, HDBank, KienlongBank, Nam A Bank, NCB, Sacombank, TPBank, VPBank điều chỉnh giảm lãi suất tiết kiệm 6+ tháng. Lãi suất cao nhất ngành giảm xuống 5,87% (nhóm nhỏ-vừa), Agribank giảm xuống 5,5% cho kỳ hạn 24 tháng."
+    },
+    {
+      "title": "VietinBank và TPBank triển khai giảm lãi suất cho vay",
       "impact": "↑",
-      "note": "Tỉnh Ninh Bình tập trung tháo gỡ vướng mắc hợp đồng, đất đai cho dự án công suất 1.100+ MW sau 16 năm đàm phán kể từ 2010. Chiều 19/10, Ban Chỉ đạo họp đầu tiên rà soát tiến độ và giải pháp xử lý các tồn tại."
+      "note": "VietinBank giảm lãi suất cho vay tới 2%/năm cho sản xuất, nông-lâm-thủy sản, nhà ở xã hội, hạ tầng, năng lượng, công nghệ. TPBank CEO tuyên bố sẵn sàng giảm lãi huy động 0,5 điểm % theo chỉ đạo NHNN (19/10), tạo dư địa hạ lãi suất cho vay hỗ trợ doanh nghiệp."
     },
     {
-      "title": "VietinBank giảm lãi suất cho vay tối đa 2%/năm",
+      "title": "Thủ tướng: giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát giá trong nước",
       "impact": "↑",
-      "note": "VietinBank triển khai đồng bộ giảm lãi suất cho vay đến 2%/năm, ưu tiên sản xuất kinh doanh, nông nghiệp lâm nghiệp thủy sản, nhà ở xã hội, hạ tầng năng lượng, giao thông, công nghệ chiến lược. Giúp khách hàng tiếp cận vốn với chi phí hợp lý."
+      "note": "Thủ tướng Lê Minh Hưng khẳng định giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Yêu cầu giữ ổn định vĩ mô khi hướng tới mục tiêu tăng trưởng 10%+ năm 2027."
     },
     {
-      "title": "Sức mua suy yếu, VN-Index tiếp tục chìm sâu",
+      "title": "Chứng khoán EVS báo lỗ 42 tỷ đồng quý III sau lãi 195 tỷ quý II",
       "impact": "↓",
-      "note": "Thanh khoản HoSE sáng 20/10 sụt giảm xuống mức thấp nhất 4 phiên, độ rộng áp đảo (VN30 24 mã giảm 6 mã tăng, giảm 0,53%). VHM giảm 3,15%, VPB giảm 2,29%, HDB giảm 2,2%, SHB giảm 1,42%, CTG giảm 1,31%. Sức mua đã suy yếu đáng kể, áp lực từ cổ phiếu tài chính-ngân hàng không hề nhỏ."
-    },
-    {
-      "title": "Khối ngoại bán ròng 97,8 nghìn tỷ từ đầu năm",
-      "impact": "↓",
-      "note": "Lũy kế 9 tháng 2026, khối ngoại bán ròng hơn 97,8 nghìn tỷ đồng trên HoSE, tương đương cùng kỳ 2025. ETF cổ phiếu tháng 9 hút ròng 127 tỷ USD giảm 7%, đánh dấu tháng giảm thứ hai liên tiếp kể từ tháng 7. Áp lực bán ròng liên tục gây sức ép lên tâm lý thị trường."
-    },
-    {
-      "title": "Chứng khoán EVS báo lỗ hơn 42 tỷ đồng quý III",
-      "impact": "↓",
-      "note": "Quý 3/2026 EVS lỗ sau thuế hơn 42 tỷ đồng, tự doanh thua lỗ gần 33 tỷ đồng. Chênh lệch đánh giá lại FVTPL giảm mạnh từ hơn 72 tỷ đồng xuống chưa tới 1 tỷ đồng, danh mục tự doanh 1.380 tỷ đồng. Niềm vui quý 2 lãi 195 tỷ đồng chóng tàn, khiến cổ phiếu nhóm chứng khoán gặp áp lực."
+      "note": "Quý 3/2026 EVS lỗ sau thuế hơn 42 tỷ đồng, tự doanh thua lỗ gần 33 tỷ đồng do chênh lệch đánh giá FVTPL giảm từ 72 tỷ xuống chưa tới 1 tỷ đồng. Danh mục tự doanh 1.380 tỷ đồng (chủ yếu cổ phiếu niêm yết 1.200 tỷ đồng). Biến động từ lãi lớn sang lỗ nhanh chóng."
     }
   ]
 }
