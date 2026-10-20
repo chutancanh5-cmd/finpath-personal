@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Q3 chịu áp lực từ thanh khoản suy giảm 57-58% và khối ngoại bán ròng hơn 18.000 tỷ đồng, khiến lợi nhuận các công ty chứng khoán sụt giảm. Bối cảnh lạm phát cao (xăng dầu thế giới tăng 65-90%) là rủi ro vĩ mô chính. Tuy vậy, chính sách giảm lãi suất huy động, các dự án hạ tầng trọng điểm (1 triệu tỷ đồng) và mục tiêu tăng trưởng GDP 10% năm 2027 mang lại kỳ vọng hồi phục.",
+  "summary_vi": "Dòng vốn FDI tiếp tục mạnh mẽ từ Singapore với 12.85 tỷ USD (tăng 86% YoY) và Maersk ký thỏa thuận 3.5 tỷ USD vào logistics. Tuy nhiên, áp lực lạm phát toàn cầu (xăng dầu tăng 65-90%), kiều hối giảm 13.8%, và thanh khoản chứng khoán suy giảm 57.6% làm suy yếu triển vọng ngắn hạn. VN-Index giằng co quanh 1675-1700 điểm, phản ánh cân bằng giữa cơ hội và rủi ro.",
   "top": [
     {
-      "title": "HSC lãi Q3 giảm 33%, khối ngoại bán ròng hơn 18.000 tỷ đồng",
-      "impact": "↓",
-      "note": "Lợi nhuận trước thuế Q3 đạt 371 tỷ đồng giảm 33%; giá trị giao dịch bình quân 18.500 tỷ đồng/ngày giảm 58% so với cùng kỳ. Khối ngoại tiếp tục bán ròng, phản ánh sự mất lạc quan về triển vọng thị trường."
-    },
-    {
-      "title": "Agriseco lãi Q3 giảm 57% do thị trường kém tích cực",
-      "impact": "↓",
-      "note": "Lãi sau thuế Q3 gần 30 tỷ đồng giảm 57%. Doanh thu môi giới giảm 60%, lãi tự doanh giảm 56%; chi phí tài chính gấp 6 lần, chi phí quản lý tăng 85%, phản ánh áp lực sâu rộng từ thanh khoản sụt giảm."
-    },
-    {
-      "title": "Thủ tướng cảnh báo lạm phát tăng sẽ xói mòn thành quả tăng trưởng",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; nếu không có biện pháp, giá trong nước có thể tăng 80%. Lạm phát cao từ tháng 3/2026 do chiến tranh Trung Đông làm lãi suất thực kém hấp dẫn trên cả hai kênh đầu tư."
-    },
-    {
-      "title": "Giảm lãi suất huy động 0,5%/năm, mục tiêu GDP 10% năm 2027",
+      "title": "Singapore dẫn đầu FDI 2026, rót 12.85 tỷ USD vào Việt Nam",
       "impact": "↑",
-      "note": "SACOMBANK giảm lãi suất huy động 0,5%/năm từ 20/10/2026 hưởng ứng chủ trương của Chính phủ; Thủ tướng khẳng định mục tiêu tăng trưởng GDP 10%+, tạo dư địa để hạ lãi suất cho vay hỗ trợ doanh nghiệp."
+      "note": "Lũy kế 9 tháng, FDI đăng ký vượt 50 tỷ USD, tăng 76.4% YoY. Singapore chiếm hơn ¼ tổng vốn (12.85 tỷ USD), tăng 86% YoY, cao hơn Hàn Quốc 3.1 tỷ USD. Tín hiệu tích cực cho việc kết nối vốn đầu tư quốc tế vào Việt Nam giữa bối cảnh kinh tế toàn cầu khó khăn."
     },
     {
-      "title": "Hà Nội triển khai 5 tuyến đường sắt đô thị, vốn hơn 1 triệu tỷ đồng",
+      "title": "Maersk-Hateco phát triển mạng lưới logistics 3.5 tỷ USD",
       "impact": "↑",
-      "note": "Dự án tổng chiều dài 253,5km, ký kết hợp đồng chìa khóa với Liên danh Vinhomes-SGC, dự kiến hoàn thành 2030. Kích hoạt dòng vốn đầu tư, sản xuất, dịch vụ và tạo việc làm, nâng cao năng lực cạnh tranh của Thủ đô."
+      "note": "APM Terminals ký biên bản ghi nhớ với Hateco (20/10) để đầu tư 3.5 tỷ USD xây nhà ga container tại Hải Phòng và 3 cơ sở vận tải hàng hóa đường sắt tại phía Bắc, dự kiến hoàn thành trước 31/12/2030. Đầu tư hạ tầng lớn từ tập đoàn đa quốc gia hàng đầu thế giới."
     },
     {
-      "title": "Chứng khoán An Bình hoàn thành kế hoạch lợi nhuận sau 9 tháng",
-      "impact": "↑",
-      "note": "Lợi nhuận trước thuế 602 tỷ đồng gấp 4,6 lần cùng kỳ, doanh thu hoạt động 941 tỷ đồng tăng 176,3%, hoàn thành 100,3% kế hoạch năm. Kết quả đánh dấu bứt phá, tạo đà phát triển cho ngành chứng khoán."
+      "title": "Xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát lạm phát",
+      "impact": "↓",
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh (18/10) xăng dầu thế giới tăng 65-90%, nếu không điều hành phù hợp có thể tăng 80% trong nước. Chính phủ giữ giá xăng dầu và điện để kiểm soát CPI, nhưng rủi ro lạm phát cao sẽ xói mòn thành quả tăng trưởng GDP 10% năm 2026 và mục tiêu 8-10% năm 2027."
+    },
+    {
+      "title": "Kiều hối 9 tháng giảm 13.8%, cơ cấu lệch sang châu Á",
+      "impact": "↓",
+      "note": "TP.HCM nhận 6.872 tỷ USD kiều hối 9 tháng 2026, giảm 1.096 tỷ USD (-13.8%) YoY, mặc dù Q3 tăng 3.6% YoY. Châu Á chiếm 59.1%, chủ yếu từ Hàn Quốc, Nhật Bản, Đài Loan. Suy giảm kiều hối từ Châu Mỹ và châu Âu ảnh hưởng dự trữ ngoại hối và áp lực tỷ giá."
+    },
+    {
+      "title": "Chứng khoán HSC quý 3 giảm lợi nhuận 33%, thanh khoản sụt 58%",
+      "impact": "↓",
+      "note": "HSC ghi nhận doanh thu Q3 1.182 tỷ đồng (giảm 15%), lợi nhuận trước thuế 371 tỷ đồng (giảm 33%). Giá trị giao dịch bình quân toàn thị trường Q3 chỉ 18.500 tỷ đồng/ngày, giảm 58% YoY (so với 43.800 tỷ đồng/ngày Q3 2025). Khối ngoại bán ròng 18.000 tỷ đồng, suy giảm thanh khoản tạo áp lực mạnh lên ngành chứng khoán."
+    },
+    {
+      "title": "VN-Index hồi phục nhẹ, kiểm định vùng kháng cự 1700 điểm",
+      "impact": "→",
+      "note": "VN-Index bật tăng từ vùng hỗ trợ 1675 điểm, khép phiên 20/10 với nến Doji đỏ (bóng dưới dài). RSI hình thành đáy ngắn hạn, MACD giảm nhưng histogram âm thu hẹp. Vùng kháng cự 1700-1710 sắp kiểm định, cần thanh khoản tốt hơn để xác nhận đảo chiều. Thị trường đang giai đoạn cân bằng."
     }
   ]
 }
