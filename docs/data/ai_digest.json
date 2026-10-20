@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-20",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Mỹ hồi phục mạnh với Nasdaq +1,11%, S&P 500 +0,41% khi cổ phiếu AI được bắt đáy sau tuần bán tháo, tạo động lực tích cực cho thị trường mới nổi. Trong nước, các ngân hàng lớn (VietinBank, Vietcombank, MB) đồng loạt giảm lãi suất huy động và cho vay, thực hiện định hướng NHNN nhằm hỗ trợ tín dụng. Khu vực Đông Nam Á duy trì tăng trưởng với Malaysia tăng 5,3% quý III, dù Indonesia gặp sức ép từ cân nhắc reclassify MSCI. Chiến lược đầu tư ưu tiên ngân hàng, bán lẻ và vật liệu xây dựng với định giá rẻ và hỗ trợ từ giải ngân đầu tư công.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Chính sách tiền tệ nới lỏng tiếp tục với các ngân hàng giảm lãi suất huy động 0,5-0,7%/năm và MB giảm lãi suất cho vay tối 2%, nhằm hỗ trợ tín dụng và tăng trưởng hướng đến 10% GDP 2027. Thị trường quốc tế chịu sức ép từ rủi ro khu vực (Indonesia hoảng loạn trước cảnh báo MSCI) nhưng được cân bằng bởi tăng trưởng GDP Đông Nam Á (Malaysia 5,3%) và hồi phục cổ phiếu AI. Giá vàng giảm mạnh phản ánh điều chỉnh thị trường toàn cầu, trong khi Chính phủ kiểm soát lạm phát bằng cách giữ giá xăng dầu thấp dù thế giới tăng 65-90%.",
   "top": [
     {
-      "title": "Nasdaq và S&P 500 hồi phục từ bán tháo cổ phiếu AI",
+      "title": "Các ngân hàng giảm lãi suất tiền gửi đồng loạt 0,5-0,7%/năm",
       "impact": "↑",
-      "note": "Nasdaq tăng 1,11% lên 26.430,89 điểm, S&P 500 tăng 0,41% lên 7.690,73 điểm. Intel +2%, AMD +1,8%, Micron +3% trong phiên 19/10. Thị trường Mỹ lấy lại lạc quan sau tuần giảm mạnh (Nasdaq -4,5%, S&P -2% tuần trước)."
+      "note": "VietinBank, Vietcombank, 15 ngân hàng tư nhân giảm lãi suất từ kỳ hạn 6 tháng trở lên. VietinBank: 6-12 tháng từ 3,5% xuống 3%, 12-24 tháng từ 5,9% xuống 5,4%, 24+ từ 6% xuống 5,5%. Tạo dư địa giảm lãi suất cho vay, hỗ trợ tín dụng cho doanh nghiệp."
     },
     {
-      "title": "Indonesia chao đảo với nguy cơ bị MSCI downgrade",
+      "title": "MB giảm lãi suất cho vay tối 2%/năm",
+      "impact": "↑",
+      "note": "MB triển khai giảm lãi suất cho vay tối 2%, tối ưu chi phí hoạt động 2-2,5% CIR, tạo dư địa chia sẻ chi phí tài chính với khách hàng, hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh."
+    },
+    {
+      "title": "Giá vàng giảm mạnh trong 2 ngày",
       "impact": "↓",
-      "note": "Chỉ số Jakarta giảm 5% trên phiên 19/10, xuống mức thấp nhất 6 năm, sau khi lao dốc 11,6% trên phiên 16/10. MSCI cân nhắc chuyển Indonesia từ 'thị trường mới nổi' sang 'thị trường độc lập', có nguy cơ cắt đứt dòng vốn quốc tế từ khu vực."
+      "note": "Vàng giảm 1,6 triệu đồng/lượng trong 2 ngày đầu tuần. Sáng 20/10 tiếp tục giảm: SJC giảm 1,1 triệu (139-142 triệu đồng/lượng), PNJ giảm 1,4 triệu (138-141 triệu). Chênh lệch trong-ngoài 10,6 triệu đồng, thấp nhất trong 3 tuần, phản ánh điều chỉnh thị trường toàn cầu."
     },
     {
-      "title": "Lãi suất tiền gửi giảm đồng loạt tại các ngân hàng lớn",
-      "impact": "↑",
-      "note": "VietinBank, Vietcombank cùng ~15 ngân hàng tư nhân giảm 0,5-0,7 điểm %/năm. VietinBank kỳ hạn 12 tháng từ 5,9% xuống 5,4%; Vietcombank cùng mức. Giảm huy động để tạo dư địa cho vay theo chỉ đạo NHNN."
+      "title": "Thủ tướng: Kiểm soát lạm phát bằng điều hành giá xăng dầu",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát lạm phát. Rủi ro được quản lý nhưng cần giám sát để tránh xói mòn thành quả tăng trưởng hướng đến 10% GDP 2027."
     },
     {
-      "title": "Định giá rẻ tại ba nhóm ngành: ngân hàng, bán lẻ, vật liệu xây dựng",
-      "impact": "↑",
-      "note": "Chứng khoán BIDV nâng vật liệu xây dựng thành nhóm trọng tâm, dự báo tăng 22% năm 2027. Hỗ trợ từ giải ngân đầu tư công tăng mạnh tại Hà Nội và TP.HCM. Hòa Phát (HPG) nổi bật với nhà máy Dung Quất 2."
+      "title": "Thị trường Indonesia hoảng loạn trước cảnh báo MSCI",
+      "impact": "↓",
+      "note": "JKSE giảm >5% ngày 19/10 (xuống thấp nhất 6 năm), sau khi giảm 11,6% vào 16/10. MSCI cân nhắc chuyển Indonesia từ thị trường mới nổi sang thị trường độc lập, rủi ro cắt đứt dòng vốn quốc tế và ảnh hưởng tâm lý nhà đầu tư khu vực."
     },
     {
-      "title": "Ngân hàng MB giảm lãi suất cho vay tới 2%/năm",
+      "title": "Malaysia GDP quý III tăng 5,3%, hưởng lợi từ AI",
       "impact": "↑",
-      "note": "MB triển khai giảm lãi suất cho vay theo chủ trương Chính phủ, tối ưu hóa chi phí CIR tới 2-2,5% so với 2025. Tạo dư địa hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh."
-    },
-    {
-      "title": "Malaysia tăng trưởng 5,3% quý III, hưởng lợi từ đầu tư AI",
-      "impact": "↑",
-      "note": "GDP Malaysia quý III tăng 5,3% năm ngoái (thấp hơn 6% quý II). Dịch vụ tăng 5,4%, công nghiệp chế biến-chế tạo tăng 7,5% nhờ nhu cầu sản phẩm công nghệ và các dự án trung tâm dữ liệu AI."
+      "note": "Malaysia GDP quý III/2026 tăng 5,3% so với cùng kỳ (quý II 6%), 9 tháng tăng 5,5% vs 4,8% năm 2025. Dịch vụ tăng 5,4%, công nghiệp chế biến tăng 7,5%, xây dựng tăng 6%, hưởng lợi từ nhu cầu AI, trung tâm dữ liệu và sản phẩm công nghệ."
     }
   ]
 }
