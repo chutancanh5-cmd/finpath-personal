@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-20",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Hôm nay VN thúc đẩy đầu tư năng lượng (dự án LNG 1,5 tỷ USD khởi công, dự án 2 tỷ USD gỡ vướng mắc) và nới lỏng tiền tệ qua giảm lãi suất huy động (13 NH -0,5%, VietinBank -2% cho vay), tuy nhiên áp lực lạm phát từ xăng dầu tăng 65-90% và áp lực đáo hạn trái phiếu quý 4 (93 nghìn tỷ) cần quan tâm; mảng chứng khoán gặp khó khi EVS lỗ 42 tỷ đồng.",
+  "summary_vi": "Chính phủ và NHNN tích cực hỗ trợ kinh tế thông qua giảm lãi suất huy động (13 ngân hàng -0,5%), hạ lãi suất cho vay (VietinBank -2%/năm) và triển khai các dự án hạ tầng trọng điểm (384.886 tỷ đồng + 1 triệu tỷ đường sắt + 1,5 tỷ USD năng lượng). Kiểm soát lạm phát hiệu quả khi ổn định giá xăng dầu và điện dù giá toàn cầu tăng 65-90%. Tuy vậy, áp lực đáo hạn trái phiếu quý 4 (93.000 tỷ đồng, chủ yếu bất động sản) đáng theo dõi.",
   "top": [
     {
-      "title": "Khởi công dự án LNG Quảng Trạch II hơn 1,5 tỷ USD",
+      "title": "Dự án hạ tầng Hà Nội tăng tốc",
       "impact": "↑",
-      "note": "Sáng 20/10, EVN khởi công nhà máy LNG Quảng Trạch II tại Quảng Trị, công suất 1.612,8 MW, dự kiến cung cấp 17,2 tỷ kWh/năm, đảm bảo an niên năng lượng và hỗ trợ tăng trưởng kinh tế-xã hội."
+      "note": "Hà Nội triển khai 292 dự án với vốn 384.886 tỷ đồng năm 2026, gồm 5 tuyến đường sắt đô thị dài 253,5km (vốn hơn 1 triệu tỷ đồng, dự kiến hoàn thành 2030). Kích hoạt dòng vốn, sản xuất, tạo việc làm và cải thiện cạnh tranh kinh tế."
     },
     {
-      "title": "Tháo gỡ vướng mắc dự án Nhiệt điện BOT Nam Định 1 (2 tỷ USD)",
+      "title": "Khởi công siêu dự án năng lượng LNG Quảng Trạch",
       "impact": "↑",
-      "note": "Chiều 19/10, Ban Chỉ đạo tháo gỡ bắt đầu rà soát dự án Nhà máy Nhiệt điện Nam Định 1 tại Ninh Bình (vốn 2 tỷ USD, công suất 1.100 MW), xử lý các vướng mắc về hợp đồng, đất đai, giải phóng mặt bằng."
+      "note": "Sáng 20/10, EVN khởi công nhà máy LNG Quảng Trạch II (hơn 1,5 tỷ USD) với công suất 1.612,8 MW, dự kiến cung cấp 17,2 tỷ kWh/năm. Bảo đảm an ninh năng lượng và hỗ trợ chuyển dịch cơ cấu năng lượng bền vững."
     },
     {
-      "title": "13 ngân hàng giảm 0,5% lãi suất huy động, dư địa cắt lãi suất cho vay",
+      "title": "13 ngân hàng giảm lãi suất huy động 0,5%",
       "impact": "↑",
-      "note": "Lãi suất tiết kiệm 6-9 tháng nhóm NH nhỏ vừa giảm còn 5,87%/năm (trực tuyến), 5,64%/năm (quầy); 13 NH (LPBank, VietBank, BVBank, Bac A, BaoVietBank, OCB, HDBank, KienlongBank, Nam A, NCB, Sacombank, TPBank, VPBank) giảm 0,5% ở kỳ hạn 6 tháng trở lên; VietinBank giảm lãi suất cho vay đến 2%/năm."
+      "note": "Lãi suất tiết kiệm 6-9 tháng nhóm nhỏ-vừa giảm còn 5,87%/năm trực tuyến, 5,64%/năm quầy (thấp 7 tháng). 13 ngân hàng (LPBank, VietBank, BVBank, OCB, HDBank, v.v.) giảm 0,5 điểm % từ 6 tháng trở lên, tạo dư địa để hạ lãi suất cho vay hỗ trợ doanh nghiệp."
     },
     {
-      "title": "Áp lực đáo hạn trái phiếu quý 4 tăng đáng kể",
-      "impact": "↓",
-      "note": "Quý 4/2026, tổng giá trị trái phiếu đến hạn thanh toán ước khoảng 93 nghìn tỷ đồng (cao nhất trong năm), chủ yếu thuộc lĩnh vực bất động sản; quý 3 phát hành công chúng đạt 31,6 nghìn tỷ đồng (tăng 55% YoY)."
+      "title": "VietinBank giảm lãi suất cho vay tới 2%/năm",
+      "impact": "↑",
+      "note": "VietinBank triển khai giảm lãi suất cho vay tới 2%/năm cho các lĩnh vực trọng điểm: sản xuất kinh doanh, nông nghiệp, phát triển nhà ở xã hội, hạ tầng, năng lượng, giao thông. Hỗ trợ doanh nghiệp nâng cao hiệu quả đầu tư."
     },
     {
-      "title": "Lạm phát từ xăng dầu tăng 65-90%, rủi ro xói mòn tăng trưởng",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; Thủ tướng cảnh báo nếu không kiểm soát, giá xăng dầu trong nước có thể tăng 80%, ảnh hưởng lan rộng đến giá hàng khác và xói mòn thành quả tăng trưởng kinh tế."
+      "title": "Thủ tướng kiểm soát lạm phát bảo vệ tăng trưởng",
+      "impact": "↑",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ ổn định giá xăng dầu trong nước ở mức thấp và không tăng giá điện. Khẳng định lạm phát sẽ xói mòn thành quả tăng trưởng, hướng tới mục tiêu GDP 10%+ năm 2027."
     },
     {
-      "title": "Chứng khoán EVS lỗ 42 tỷ đồng quý 3 do tự doanh thua lỗ",
+      "title": "Áp lực đáo hạn trái phiếu quý 4 tăng cao",
       "impact": "↓",
-      "note": "EVS báo lỗ sau thuế 42 tỷ đồng quý 3/2026, nguyên nhân chính từ tự doanh lỗ 33 tỷ (so với lãi 19 tỷ cùng kỳ), do chênh lệch đánh giá lại FVTPL giảm từ 72 tỷ còn chưa đến 1 tỷ đồng."
+      "note": "Quý 4/2026, tổng giá trị trái phiếu đến hạn ước 93.000 tỷ đồng (cao nhất năm), chủ yếu từ bất động sản. Tuy vậy, phát hành công chúng quý 3 tăng 55% với 31,6 nghìn tỷ đồng (kỷ lục), giúp giảm áp lực tái tài chính."
     }
   ]
 }
