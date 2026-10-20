@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-20",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ khẳng định cam kết ổn định vĩ mô với cắt giảm lãi suất 1,5-2% từ các ngân hàng và kiểm soát lạm phát dù giá xăng dầu thế giới tăng 65-90%, đồng thời đặt mục tiêu tăng trưởng GDP 10%+ năm 2027. Các ngành ngân hàng, bán lẻ, vật liệu xây dựng được định giá rẻ với kỳ vọng tăng trưởng 22%+ từ tăng giải ngân đầu tư công, tuy nhiên thanh khoản thị trường suy yếu gần đây (tuần 12-16/10 giảm 28%) cảnh báo rủi ro ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường tuần trước (12-16/10) sụt giảm do thanh khoản yếu, dòng tiền rút khỏi bán lẻ, dầu khí, chứng khoán. Tuy nhiên, NHNN chủ động hỗ trợ bằng giảm lãi suất 1.5-2%, các ngân hàng như VPBank tăng trưởng mạnh (lợi nhuận quý 3 hơn 11,000 tỷ đồng). Rủi ro lạm phát tiềm ẩn từ giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ kiểm soát giá nội địa. Các nhóm ngành (ngân hàng, bán lẻ, xây dựng) có định giá rẻ kỳ vọng tăng năm 2027 là điểm sáng.",
   "top": [
     {
-      "title": "Cắt giảm lãi suất 1,5-2% từ các ngân hàng",
-      "impact": "↑",
-      "note": "Các ngân hàng lớn (Vietcombank, BIDV, MB) cam kết giảm lãi suất cho vay từ 1,5-2%/năm, kèm gói tín dụng quanh 100.000 tỷ đồng, nhằm hỗ trợ doanh nghiệp tiếp cận vốn với chi phí thấp hơn và thúc đẩy tăng trưởng tín dụng an toàn."
-    },
-    {
-      "title": "Kiểm soát lạm phát trước áp lực giá năng lượng",
-      "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ duy trì giá xăng dầu trong nước ở mức thấp so với khu vực và không tăng giá điện để kiểm soát CPI. Mục tiêu tăng trưởng GDP từ 10% trở lên năm 2027 yêu cầu duy trì ổn định kinh tế vĩ mô, tránh lạm phát xói mòn thành quả tăng trưởng."
-    },
-    {
-      "title": "Ba ngành có định giá rẻ, kỳ vọng tăng 22%",
-      "impact": "↑",
-      "note": "BSC khuyến nghị ngân hàng, bán lẻ, vật liệu xây dựng là ba nhóm với định giá hấp dẫn, dự báo lợi nhuận tăng khoảng 22% năm 2027 nhờ tăng giải ngân đầu tư công tại Hà Nội và TP.HCM, cơ hội phân bổ cổ phiếu trung-dài hạn."
-    },
-    {
-      "title": "Thanh khoản sụt giảm mạnh, dòng tiền rút khỏi bán lẻ",
+      "title": "Thanh khoản sụt giảm mạnh tuần 12-16/10, dòng tiền rút khỏi 3 nhóm chính",
       "impact": "↓",
-      "note": "Tuần 12-16/10, giá trị giao dịch HOSE giảm 28% còn 13.18 ngàn tỷ đồng/phiên, HNX giảm 35% còn 684 tỷ đồng, VN-Index giảm 1,7% xuống 1.706 điểm, dòng tiền rút khỏi bán lẻ, dầu khí, chứng khoán, chỉ tập trung vào kim loại và gỗ."
+      "note": "VN-Index giảm 1.7% tuần 12-16/10 về 1.706 điểm, HNX-Index giảm 1% về 259.13 điểm; giá trị giao dịch HOSE giảm 28% còn 13.18 ngàn tỷ đồng/phiên, HNX giảm 35% còn 684 tỷ đồng; dòng tiền rút mạnh khỏi bán lẻ, dầu khí, chứng khoán"
     },
     {
-      "title": "VPBank lợi nhuận quý 3 vượt 11 nghìn tỷ, tín dụng tăng 30%",
-      "impact": "↑",
-      "note": "VPBank ghi nhận lợi nhuận quý 3 hơn 11.000 tỷ đồng, tổng tài sản 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng tăng gần 30% YoY, phản ánh nhu cầu vốn mạnh từ các ngành ưu tiên."
+      "title": "Giá xăng dầu thế giới tăng 65-90%, rủi ro lạm phát đe dọa tăng trưởng",
+      "impact": "↓",
+      "note": "Thủ tướng cảnh báo lạm phát tăng sẽ xói mòn thành quả tăng trưởng; Chính phủ dùng biện pháp giữ giá xăng dầu ở mức thấp, không tăng giá điện; nếu không có biện pháp điều hành, giá xăng dầu trong nước có thể tăng tới 80%"
     },
     {
-      "title": "Vimico hưởng lợi từ giá kim loại tăng vọt",
+      "title": "NHNN yêu cầu ngân hàng giảm lãi suất 1.5-2%/năm, hỗ trợ kinh tế",
       "impact": "↑",
-      "note": "Kim loại màu Thái Nguyên - Vimico ghi nhận lợi nhuận quý 3 hơn 67 tỷ đồng nhờ giá kẽm, chì tăng mạnh, đã vượt mục tiêu lợi nhuận cả năm sau chỉ 9 tháng. Chu kỳ tăng giá kim loại hỗ trợ doanh nghiệp khai khoáng và xây dựng."
+      "note": "Thống đốc Phạm Đức Ấn yêu cầu giảm tối thiểu 0.5%/năm; MB đã giảm lãi suất cho vay tới 2%/năm, tập trung hỗ trợ doanh nghiệp và người dân sản xuất kinh doanh"
+    },
+    {
+      "title": "Ba nhóm ngành (ngân hàng, bán lẻ, xây dựng) có định giá rẻ kỳ vọng tăng 2027",
+      "impact": "↑",
+      "note": "Chứng khoán BIDV dự báo lợi nhuận xây dựng, vật liệu tăng 22% năm 2027 vượt mức tăng bình quân 12%; vật liệu xây dựng được nâng lên nhóm trọng tâm nhờ kỳ vọng giải ngân đầu tư công tăng mạnh tại Hà Nội và TP.HCM"
+    },
+    {
+      "title": "VPBank lợi nhuận quý 3 hơn 11,000 tỷ đồng, tài sản tăng 27.8%",
+      "impact": "↑",
+      "note": "VPBank tổng tài sản vượt 1.6 triệu tỷ đồng quý 3, tăng 27.8% so với cuối 2025; dư nợ cấp tín dụng đạt 1.1 triệu tỷ đồng, tăng gần 30%; vững nhịp tăng trưởng hướng tới mục tiêu cả năm"
+    },
+    {
+      "title": "Phạm Nhật Vượng mất 1.3 tỷ USD, VIC giảm 3.7% xuống 207.000 đồng/cp",
+      "impact": "↓",
+      "note": "Chủ tịch Vingroup mất 1.3 tỷ USD trong vài giờ, VIC giảm hơn 3.7% xuống mức 207.000 đồng/cp, thấp nhất trong 2 tháng; tài sản còn 32.5 tỷ USD, vẫn là người giàu nhất Việt Nam"
     }
   ]
 }
