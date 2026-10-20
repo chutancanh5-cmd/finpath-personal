@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-20",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính sách tiền tệ nới lỏng tiếp tục với các ngân hàng giảm lãi suất huy động 0,5-0,7%/năm và MB giảm lãi suất cho vay tối 2%, nhằm hỗ trợ tín dụng và tăng trưởng hướng đến 10% GDP 2027. Thị trường quốc tế chịu sức ép từ rủi ro khu vực (Indonesia hoảng loạn trước cảnh báo MSCI) nhưng được cân bằng bởi tăng trưởng GDP Đông Nam Á (Malaysia 5,3%) và hồi phục cổ phiếu AI. Giá vàng giảm mạnh phản ánh điều chỉnh thị trường toàn cầu, trong khi Chính phủ kiểm soát lạm phát bằng cách giữ giá xăng dầu thấp dù thế giới tăng 65-90%.",
+  "summary_vi": "Chính sách tiền tệ nới lỏng tiếp tục mạnh mẽ với ngân hàng giảm lãi suất huy động 0,5-0,7%/năm và MB cắt lãi suất cho vay tối 2%, nhằm kích thích tín dụng hướng đến GDP 10% năm 2027. Tuy nhiên, ngành chứng khoán chịu áp lực lớn (VIX báo lãi giảm 94%) phản ánh khó khăn của các công ty môi giới. Thị trường khu vực tích cực (Malaysia tăng 5,3% nhờ AI) và toàn cầu ổn định (Nasdaq hồi phục), nhưng rủi ro lạm phát từ giá dầu tăng 65-90% vẫn cần theo dõi dù Chính phủ đang kiểm soát trong nước.",
   "top": [
     {
-      "title": "Các ngân hàng giảm lãi suất tiền gửi đồng loạt 0,5-0,7%/năm",
-      "impact": "↑",
-      "note": "VietinBank, Vietcombank, 15 ngân hàng tư nhân giảm lãi suất từ kỳ hạn 6 tháng trở lên. VietinBank: 6-12 tháng từ 3,5% xuống 3%, 12-24 tháng từ 5,9% xuống 5,4%, 24+ từ 6% xuống 5,5%. Tạo dư địa giảm lãi suất cho vay, hỗ trợ tín dụng cho doanh nghiệp."
-    },
-    {
-      "title": "MB giảm lãi suất cho vay tối 2%/năm",
-      "impact": "↑",
-      "note": "MB triển khai giảm lãi suất cho vay tối 2%, tối ưu chi phí hoạt động 2-2,5% CIR, tạo dư địa chia sẻ chi phí tài chính với khách hàng, hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh."
-    },
-    {
-      "title": "Giá vàng giảm mạnh trong 2 ngày",
+      "title": "VIX báo lãi Q3 giảm 94% do lỗ tài sản tài chính",
       "impact": "↓",
-      "note": "Vàng giảm 1,6 triệu đồng/lượng trong 2 ngày đầu tuần. Sáng 20/10 tiếp tục giảm: SJC giảm 1,1 triệu (139-142 triệu đồng/lượng), PNJ giảm 1,4 triệu (138-141 triệu). Chênh lệch trong-ngoài 10,6 triệu đồng, thấp nhất trong 3 tuần, phản ánh điều chỉnh thị trường toàn cầu."
+      "note": "Chứng khoán VIX lãi sau thuế quý 3 chỉ 174 tỷ đồng, giảm 93% so với 2.449 tỷ đồng năm 2025. Nguyên nhân từ hoạt động tài sản tài chính FVTPL ghi nhận lỗ 1.717 tỷ đồng (năm trước lỗ thấp hơn), doanh thu tự doanh giảm 41% xuống 1.630 tỷ đồng, lãi bán tài sản chỉ 89 tỷ đồng (từ 1.375 tỷ đồng)."
     },
     {
-      "title": "Thủ tướng: Kiểm soát lạm phát bằng điều hành giá xăng dầu",
+      "title": "Các ngân hàng giảm lãi suất tiền gửi 0,5-0,7%/năm",
+      "impact": "↑",
+      "note": "VietinBank, Vietcombank cùng 15 ngân hàng tư nhân giảm lãi suất kỳ hạn từ 6 tháng trở lên. VietinBank: 6-12 tháng từ 3,5% xuống 3%, 12-24 tháng từ 5,9% xuống 5,4%, 24+ từ 6% xuống 5,5%. Tạo dư địa cho ngân hàng cắt lãi suất cho vay theo chỉ đạo NHNN."
+    },
+    {
+      "title": "MB triển khai giảm lãi suất cho vay tối 2%/năm",
+      "impact": "↑",
+      "note": "MB tối ưu hóa chi phí hoạt động xuống 2-2,5% CIR (so năm 2025) để tạo dư địa giảm lãi suất cho vay, chia sẻ chi phí tài chính với khách hàng. Phù hợp chủ trương Chính phủ và NHNN hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh."
+    },
+    {
+      "title": "Thủ tướng cảnh báo kiểm soát lạm phát từ giá xăng dầu",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát lạm phát. Rủi ro được quản lý nhưng cần giám sát để tránh xói mòn thành quả tăng trưởng hướng đến 10% GDP 2027."
-    },
-    {
-      "title": "Thị trường Indonesia hoảng loạn trước cảnh báo MSCI",
-      "impact": "↓",
-      "note": "JKSE giảm >5% ngày 19/10 (xuống thấp nhất 6 năm), sau khi giảm 11,6% vào 16/10. MSCI cân nhắc chuyển Indonesia từ thị trường mới nổi sang thị trường độc lập, rủi ro cắt đứt dòng vốn quốc tế và ảnh hưởng tâm lý nhà đầu tư khu vực."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp so khu vực, không tăng giá điện để kiểm soát CPI 9 tháng đầu năm. Lạm phát nếu tăng sẽ xói mòn thành quả tăng trưởng hướng đến 10% GDP 2027."
     },
     {
       "title": "Malaysia GDP quý III tăng 5,3%, hưởng lợi từ AI",
       "impact": "↑",
-      "note": "Malaysia GDP quý III/2026 tăng 5,3% so với cùng kỳ (quý II 6%), 9 tháng tăng 5,5% vs 4,8% năm 2025. Dịch vụ tăng 5,4%, công nghiệp chế biến tăng 7,5%, xây dựng tăng 6%, hưởng lợi từ nhu cầu AI, trung tâm dữ liệu và sản phẩm công nghệ."
+      "note": "Malaysia GDP quý III/2026 tăng 5,3% so với cùng kỳ (quý II 6%), 9 tháng tăng 5,5% so 4,8% năm 2025. Dịch vụ tăng 5,4%, công nghiệp chế biến tăng 7,5%, xây dựng tăng 6% từ dự án trung tâm dữ liệu AI. Nông nghiệp phục hồi tăng 1,3%."
+    },
+    {
+      "title": "Nasdaq, S&P 500 hồi phục nhờ bắt đáy cổ phiếu AI",
+      "impact": "↑",
+      "note": "Nasdaq tăng 1,11% (26.430,89 điểm), S&P 500 tăng 0,41% (7.690,73 điểm) ngày 19/10. Intel tăng 2%, AMD tăng 1,8%, Micron tăng 3% sau khi được JPMorgan nâng hạng. Dầu thô giằng co trên 100 USD/thùng. Phục hồi sau đợt bán tháo cổ phiếu công nghệ tuần trước."
     }
   ]
 }
