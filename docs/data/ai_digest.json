@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-20",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ và ngân hàng đồng loạt giảm lãi suất (TPBank, VietinBank giảm 0,5-2%, 13 ngân hàng điều chỉnh giảm 0,5 điểm % cho kỳ hạn 6 tháng trở lên) hỗ trợ doanh nghiệp, kiểm soát lạm phát trong bối cảnh xăng dầu thế giới tăng 65-90%. Tuy nhiên, thị trường chứng khoán chịu áp lực lớn khi khối ngoại tiếp tục bán ròng 97,8 nghìn tỷ đồng từ đầu năm, thanh khoản HoSE sụt giảm, khiến VN-Index giảm 8 điểm.",
+  "summary_vi": "Việt Nam tập trung khởi động hai dự án năng lượng quy mô lớn trên 3 tỷ USD (EVN Quảng Trạch II 1.5 tỷ USD và Nam Định 1 khoảng 2 tỷ USD) để bảo đảm an ninh năng lượng. Chính phủ điều hành tích cực thông qua giảm lãi suất cho vay (VietinBank giảm tới 2%/năm) và quản lý giá xăng dầu dù thế giới tăng 65-90%. Tuy nhiên, thị trường chứng khoán hôm nay chịu áp lực lớn khi khối ngoại bán ròng 97,8 nghìn tỷ đồng từ đầu năm, sức mua yếu, thanh khoản sụt giảm 4 phiên khiến VN30 ghi nhận 24 mã giảm vs 6 mã tăng.",
   "top": [
     {
-      "title": "13 ngân hàng giảm lãi suất huy động 0,5 điểm %",
+      "title": "EVN khởi công dự án LNG Quảng Trạch II (1.5 tỷ USD)",
       "impact": "↑",
-      "note": "LPBank, VietBank, BVBank, Bac A Bank, BaoVietBank, OCB, HDBank, KienlongBank, Nam A Bank, NCB, Sacombank, TPBank, VPBank điều chỉnh giảm lãi suất tiền gửi kỳ hạn từ 6 tháng trở lên; lãi suất cao nhất NCB 6,2%/năm kỳ hạn 30-60 tháng, kỳ hạn 6-11 tháng 5,6%/năm. Giảm chi phí huy động tạo dư địa hạ lãi suất cho vay hỗ trợ kinh tế."
+      "note": "Sáng 20/10, EVN tổ chức lễ khởi công tại tỉnh Quảng Trị với công suất thuần 1.612,8 MW, dự kiến sản xuất 17,2 tỷ kWh mỗi năm. Dự án chiến lược bảo đảm an ninh năng lượng quốc gia và hỗ trợ chuyển dịch cơ cấu năng lượng bền vững."
+    },
+    {
+      "title": "Tháo gỡ dự án nhiệt điện Nam Định 1 (2 tỷ USD)",
+      "impact": "↑",
+      "note": "Tỉnh Ninh Bình tập trung tháo gỡ vướng mắc hợp đồng, đất đai cho dự án công suất 1.100+ MW sau 16 năm đàm phán kể từ 2010. Chiều 19/10, Ban Chỉ đạo họp đầu tiên rà soát tiến độ và giải pháp xử lý các tồn tại."
     },
     {
       "title": "VietinBank giảm lãi suất cho vay tối đa 2%/năm",
       "impact": "↑",
-      "note": "VietinBank triển khai giảm lãi suất cho vay đến 2%/năm, ưu tiên sản xuất kinh doanh, nông nghiệp lâm nghiệp thủy sản, nhà ở xã hội, hạ tầng năng lượng công nghệ chiến lược. Giúp khách hàng tiếp cận vốn với chi phí hợp lý, nắm bắt cơ hội đầu tư mở rộng."
+      "note": "VietinBank triển khai đồng bộ giảm lãi suất cho vay đến 2%/năm, ưu tiên sản xuất kinh doanh, nông nghiệp lâm nghiệp thủy sản, nhà ở xã hội, hạ tầng năng lượng, giao thông, công nghệ chiến lược. Giúp khách hàng tiếp cận vốn với chi phí hợp lý."
     },
     {
-      "title": "TPBank sẵn sàng giảm 0,5 điểm % lãi suất huy động",
-      "impact": "↑",
-      "note": "Tổng Giám đốc TPBank Nguyễn Hưng tại cuộc họp NHNN (19/10) khẳng định ngân hàng giảm ngay 0,5 điểm % lãi suất huy động tạo dư địa hạ lãi suất cho vay. Chi phí vốn tăng đã ảnh hưởng biên lãi ròng, quyết định giảm lãi suất hỗ trợ doanh nghiệp người dân."
-    },
-    {
-      "title": "Sức mua suy yếu, VN-Index chìm sâu hơn",
+      "title": "Sức mua suy yếu, VN-Index tiếp tục chìm sâu",
       "impact": "↓",
-      "note": "Thanh khoản HoSE sáng 20/10 sụt giảm xuống mức thấp nhất 4 phiên, độ rộng áp đảo (24 mã VN30 giảm 6 mã tăng, 11 mã giảm quá 1%). VHM giảm 3,15% dò đáy, VPB giảm 2,29%, HDB giảm 2,2%, SHB giảm 1,42%, CTG giảm 1,31%. VN-Index giảm 8 điểm sáng 20/10, sức mua đã suy yếu đáng kể."
+      "note": "Thanh khoản HoSE sáng 20/10 sụt giảm xuống mức thấp nhất 4 phiên, độ rộng áp đảo (VN30 24 mã giảm 6 mã tăng, giảm 0,53%). VHM giảm 3,15%, VPB giảm 2,29%, HDB giảm 2,2%, SHB giảm 1,42%, CTG giảm 1,31%. Sức mua đã suy yếu đáng kể, áp lực từ cổ phiếu tài chính-ngân hàng không hề nhỏ."
     },
     {
       "title": "Khối ngoại bán ròng 97,8 nghìn tỷ từ đầu năm",
       "impact": "↓",
-      "note": "Lũy kế 9 tháng 2026, khối ngoại bán ròng hơn 97,8 nghìn tỷ đồng trên HoSE tương đương cùng kỳ 2025. ETF cổ phiếu tháng 9 hút ròng 127 tỷ USD giảm 7%, đánh dấu tháng giảm thứ hai liên tiếp kể từ tháng 7. Áp lực bán ròng gây sức ép lên tâm lý thị trường, dòng vốn vào tài sản rủi ro có dấu hiệu giảm tốc."
+      "note": "Lũy kế 9 tháng 2026, khối ngoại bán ròng hơn 97,8 nghìn tỷ đồng trên HoSE, tương đương cùng kỳ 2025. ETF cổ phiếu tháng 9 hút ròng 127 tỷ USD giảm 7%, đánh dấu tháng giảm thứ hai liên tiếp kể từ tháng 7. Áp lực bán ròng liên tục gây sức ép lên tâm lý thị trường."
     },
     {
       "title": "Chứng khoán EVS báo lỗ hơn 42 tỷ đồng quý III",
       "impact": "↓",
-      "note": "Quý 3/2026 EVS lỗ sau thuế hơn 42 tỷ đồng, tự doanh thua lỗ gần 33 tỷ đồng. Chênh lệch đánh giá lại FVTPL giảm mạnh từ hơn 72 tỷ đồng xuống chưa tới 1 tỷ đồng, danh mục tự doanh 1.380 tỷ đồng (phần lớn cổ phiếu niêm yết 1.200 tỷ đồng). Niềm vui quý 2 lãi 195 tỷ đồng chóng tàn, áp lực trên cổ phiếu chứng khoán."
+      "note": "Quý 3/2026 EVS lỗ sau thuế hơn 42 tỷ đồng, tự doanh thua lỗ gần 33 tỷ đồng. Chênh lệch đánh giá lại FVTPL giảm mạnh từ hơn 72 tỷ đồng xuống chưa tới 1 tỷ đồng, danh mục tự doanh 1.380 tỷ đồng. Niềm vui quý 2 lãi 195 tỷ đồng chóng tàn, khiến cổ phiếu nhóm chứng khoán gặp áp lực."
     }
   ]
 }
