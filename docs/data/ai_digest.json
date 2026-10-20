@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-20",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán hôm nay ghi nhận áp lực bán lớn với VN-Index sâu dưới tham chiếu do sức mua suy yếu kỷ lục, tuy nhiên các chính sách hỗ trợ kinh tế được triển khai tích cực. Chính phủ khởi công dự án LNG Quảng Trạch II (1,5 tỷ USD, công suất 1.612,8 MW sẽ phát điện 17,2 tỷ kWh/năm) bảo đảm an ninh năng lượng hướng tới tăng trưởng 10%+ GDP năm 2027. Các ngân hàng cắt giảm lãi suất cho vay (tới 2%/năm) với 13 ngân hàng giảm lãi huy động 0,5 điểm phần trăm, giúp doanh nghiệp tiếp cận tín dụng. Chính phủ tiếp tục kiểm soát giá xăng dầu (dù thế giới tăng 65-90%) và không tăng giá điện chống lạm phát.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính sách tiền tệ nới lỏng với nhiều ngân hàng giảm lãi suất huy động và cho vay tạo tín hiệu hỗ trợ tăng trưởng. Việt Nam khởi công dự án LNG 1,5 tỷ USD bổ sung 17,2 tỷ kWh năng lượng hàng năm, đáp ứng nhu cầu năng lượng. Chính phủ kiểm soát lạm phát hiệu quả trong bối cảnh giá xăng dầu toàn cầu tăng 65-90%. Tuy nhiên, áp lực đáo hạn trái phiếu 93 nghìn tỷ đồng trong quý 4 là rủi ro đáng chú ý cho tài chính doanh nghiệp.",
   "top": [
     {
-      "title": "EVN khởi công dự án LNG Quảng Trạch II 1,5 tỷ USD",
+      "title": "Thủ tướng: Lạm phát tăng sẽ xói mòn thành quả tăng trưởng",
       "impact": "↑",
-      "note": "Sáng 20/10, EVN tổ chức lễ khởi công tại Quảng Trị với công suất 1.612,8 MW, bổ sung 17,2 tỷ kWh mỗi năm cho hệ thống điện quốc gia. Dự án trọng điểm bảo đảm an ninh năng lượng và hỗ trợ chuyển dịch cơ cấu năng lượng bền vững."
+      "note": "Thủ tướng Lê Minh Hưng khẳng định mục tiêu tăng trưởng GDP 10%+ năm 2027. Dù giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát lạm phát, bảo đảm người dân được hưởng lợi thực tế từ tăng trưởng."
     },
     {
-      "title": "VN-Index suy yếu mạnh, sức mua giảm xuống 4 phiên",
+      "title": "Khởi công dự án Nhiệt điện LNG Quảng Trạch II 1,5 tỷ USD",
+      "impact": "↑",
+      "note": "EVN chính thức khởi công dự án Nhà máy Nhiệt điện LNG Quảng Trạch II tại Quảng Trị hôm 20/10. Dự án có công suất 1.612,8 MW sẽ bổ sung 17,2 tỷ kWh năng lượng hàng năm, góp phần bảo đảm an ninh năng lượng và thúc đẩy phát triển kinh tế - xã hội tỉnh Quảng Trị."
+    },
+    {
+      "title": "Nhóm ngân hàng giảm lãi suất huy động tạo dư địa cho vay",
+      "impact": "↑",
+      "note": "13 ngân hàng gồm LPBank, VietBank, Bac A Bank, OCB, HDBank, Sacombank, TPBank, VPBank giảm lãi suất tiết kiệm 0,5 điểm % cho kỳ hạn 6+ tháng. Mức lãi suất huy động nhóm ngân hàng nhỏ vừa xuống 5,87%/năm (online) và 5,64%/năm (quầy), mức thấp nhất 7 tháng, tạo dư địa để các ngân hàng hạ lãi suất cho vay hỗ trợ doanh nghiệp."
+    },
+    {
+      "title": "VietinBank giảm lãi suất cho vay đến 2%/năm",
+      "impact": "↑",
+      "note": "VietinBank triển khai các giải pháp giảm lãi suất cho vay tới 2%/năm, ưu tiên các lĩnh vực sản xuất kinh doanh, nông nghiệp, phát triển nhà ở xã hội, hạ tầng, năng lượng, giao thông và công nghệ chiến lược, nhằm chia sẻ chi phí tài chính và hỗ trợ tăng trưởng kinh tế bền vững."
+    },
+    {
+      "title": "Áp lực đáo hạn trái phiếu tăng lên 93.000 tỷ đồng quý 4",
       "impact": "↓",
-      "note": "VN-Index giảm mạnh sáng 20/10 với thanh khoản sụt xuống mức thấp nhất 4 phiên kết hợp độ rộng áp đảo. VN30 ghi nhận 24 mã giảm chỉ 6 mã tăng (giảm 0,53%), áp lực từ VHM (-3,15%), VPB (-2,29%), HDB (-2,2%). Sức mua đã suy yếu đáng kể."
+      "note": "Quý 4/2026 sẽ có áp lực đáo hạn trái phiếu doanh nghiệp cao nhất trong năm: 93 nghìn tỷ đồng. Trong khi phát hành công chúng quý 3 đạt kỷ lục 31,6 nghìn tỷ đồng (tăng 55% YoY), giá trị trái phiếu phát hành ròng 9 tháng chỉ 102,6 nghìn tỷ, cho thấy áp lực tái tài trợ lớn cho doanh nghiệp trong quý cuối năm."
     },
     {
-      "title": "13 ngân hàng giảm lãi suất huy động 0,5 điểm phần trăm",
-      "impact": "→",
-      "note": "LPBank, VietBank, BVBank, Bac A Bank, BaoVietBank, OCB, HDBank, KienlongBank, Nam A Bank, NCB, Sacombank, TPBank, VPBank điều chỉnh giảm lãi suất tiết kiệm 6+ tháng. Lãi suất cao nhất ngành giảm xuống 5,87% (nhóm nhỏ-vừa), Agribank giảm xuống 5,5% cho kỳ hạn 24 tháng."
-    },
-    {
-      "title": "VietinBank và TPBank triển khai giảm lãi suất cho vay",
-      "impact": "↑",
-      "note": "VietinBank giảm lãi suất cho vay tới 2%/năm cho sản xuất, nông-lâm-thủy sản, nhà ở xã hội, hạ tầng, năng lượng, công nghệ. TPBank CEO tuyên bố sẵn sàng giảm lãi huy động 0,5 điểm % theo chỉ đạo NHNN (19/10), tạo dư địa hạ lãi suất cho vay hỗ trợ doanh nghiệp."
-    },
-    {
-      "title": "Thủ tướng: giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát giá trong nước",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng khẳng định giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Yêu cầu giữ ổn định vĩ mô khi hướng tới mục tiêu tăng trưởng 10%+ năm 2027."
-    },
-    {
-      "title": "Chứng khoán EVS báo lỗ 42 tỷ đồng quý III sau lãi 195 tỷ quý II",
+      "title": "Giá vàng, bạc giảm mạnh hôm 20/10",
       "impact": "↓",
-      "note": "Quý 3/2026 EVS lỗ sau thuế hơn 42 tỷ đồng, tự doanh thua lỗ gần 33 tỷ đồng do chênh lệch đánh giá FVTPL giảm từ 72 tỷ xuống chưa tới 1 tỷ đồng. Danh mục tự doanh 1.380 tỷ đồng (chủ yếu cổ phiếu niêm yết 1.200 tỷ đồng). Biến động từ lãi lớn sang lỗ nhanh chóng."
+      "note": "Vàng SJC tại các thương hiệu lớn (Phú Quý, Bảo Tín Minh Châu, SJC TP.HCM) giảm 0,5-1,6 triệu đồng/lượng, hiện giao dịch quanh 138,5-139 triệu đ/lượng (mua), 141,5-142 triệu đ/lượng (bán). Giá bạc cũng điều chỉnh giảm đồng loạt, phản ánh áp lực từ thị trường thế giới và dữ liệu kinh tế vĩ mô yếu."
     }
   ]
 }
