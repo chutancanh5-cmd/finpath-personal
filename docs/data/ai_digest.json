@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-20",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ tập trung kiểm soát lạm phát với mục tiêu GDP tăng 10%+ năm 2027, đồng thời Ngân hàng Nhà nước chỉ đạo các ngân hàng giảm lãi suất cho vay từ 1,5-2% để hỗ trợ doanh nghiệp. Tuy nhiên, thị trường chứng khoán ghi nhận áp lực bán gia tăng với VN-Index giảm 0,94%, thanh khoản sụt giảm 28-35%, và dòng tiền rút khỏi nhóm bán lẻ, dầu khí, chứng khoán, tạo ra rủi ro điều chỉnh ngắn hạn. Các nhóm ngành như xây dựng/vật liệu và ngân hàng vẫn có triển vọng tăng trưởng mạnh trong năm 2027.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Chính phủ tập trung kiểm soát lạm phát giữa áp lực giá xăng dầu thế giới tăng 65-90%, áp dụng các biện pháp cụ thể từ điều hành giá xăng dầu đến không tăng giá điện để bảo đảm người dân hưởng lợi từ tăng trưởng. NHNN và các ngân hàng cùng triển khai gói hỗ trợ tín dụng lớn với mức giảm lãi suất 1,5-2% và khoảng 100.000 tỷ đồng tín dụng mới, hỗ trợ doanh nghiệp tiếp cận vốn với chi phí thấp. Thị trường chứng khoán gặp áp lực thanh khoản với giá trị giao dịch giảm 28-35% trong tuần 12-16/10, tuy nhiên các ngân hàng vẫn duy trì tăng trưởng mạnh với tài sản tăng 27,8% và tín dụng tăng 30%. CTCK lạc quan về triển vọng năm 2027 với 3 nhóm ngành ưu tiên là ngân hàng, bán lẻ và vật liệu xây dựng.",
   "top": [
     {
-      "title": "Chính phủ kiểm soát lạm phát, mục tiêu GDP 10%+ năm 2027",
-      "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ giữ giá xăng dầu, điện trong nước ở mức thấp để kiểm soát CPI. Thủ tướng nhấn mạnh nếu lạm phát tăng sẽ xói mòn thành quả tăng trưởng, xác định mục tiêu tăng trưởng GDP 10% trở lên năm 2027."
-    },
-    {
-      "title": "NHNN chỉ đạo ngân hàng giảm lãi suất cho vay 1,5-2%",
-      "impact": "↑",
-      "note": "Vietcombank cam kết giảm chi phí hoạt động, ứng dụng công nghệ, giảm lãi suất huy động để hạ lãi suất cho vay tối thiểu 1,5-2%. BIDV dự kiến triển khai gói tín dụng quy mô 100.000 tỷ đồng, kỳ hạn cho vay đến 6 tháng, dành cho các lĩnh vực ưu tiên."
-    },
-    {
-      "title": "Ba nhóm cổ phiếu có định giá rẻ, vật liệu xây dựng tăng 22%",
-      "impact": "↑",
-      "note": "BSC chọn ba nhóm ngành trọng tâm: ngân hàng, bán lẻ, vật liệu xây dựng. Dự báo lợi nhuận xây dựng và vật liệu tăng khoảng 22% năm 2027, vượt mức tăng bình quân 12%. HPG được nâng lên nhóm cổ phiếu nổi bật nhờ nhà máy Dung Quất 2."
-    },
-    {
-      "title": "Thanh khoản sụt giảm mạnh, dòng tiền chọn lọc",
+      "title": "Lạm phát rủi ro từ giá năng lượng thế giới",
       "impact": "↓",
-      "note": "Giá trị giao dịch bình quân dưới 14.000 tỷ đồng/phiên (giảm 28-35% tuần 12-16/10). Dòng tiền chỉ tập trung ở kim loại, gỗ; nhóm bán lẻ, dầu khí, chứng khoán bị rút tiền mạnh, phản ánh sự thận trọng của nhà đầu tư."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ áp dụng nhiều biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát, nhấn mạnh nếu lạm phát tăng sẽ xói mòn thành quả tăng trưởng GDP."
     },
     {
-      "title": "VN-Index giảm 0,94%, áp lực bán gia tăng",
-      "impact": "↓",
-      "note": "VN-Index giảm 16,07 điểm xuống 1.689,84 điểm, đánh mất mốc hỗ trợ 1.700 điểm. Áp lực bán chiếm ưu thế trong phiên, RSI tiếp tục giảm vào vùng quá bán, khả năng tiếp tục điều chỉnh về vùng 1.660-1.680 điểm."
-    },
-    {
-      "title": "VPBank lợi nhuận quý 3 hơn 11.000 tỷ, tài sản tăng 27,8%",
+      "title": "Các ngân hàng cam kết giảm lãi suất 1,5-2%",
       "impact": "↑",
-      "note": "VPBank ghi nhận tổng tài sản hợp nhất vượt 1,6 triệu tỷ đồng (tăng 27,8% so với cuối 2025), dư nợ tín dụng 1,1 triệu tỷ đồng (tăng 30%). Tín dụng tăng đều các phân khúc, tập trung vào sản xuất công nghiệp, cơ sở hạ tầng, khoa học công nghệ."
+      "note": "Vietcombank cam kết giảm lãi suất cho vay tối thiểu 1,5-2% thông qua tiết giảm chi phí hoạt động, BIDV triển khai gói tín dụng khoảng 100.000 tỷ đồng với kỳ hạn cho vay đến 6 tháng, thực hiện chỉ đạo của Ngân hàng Nhà nước."
+    },
+    {
+      "title": "Thanh khoản sụt giảm mạnh tuần 12-16/10",
+      "impact": "↓",
+      "note": "Giá trị giao dịch HOSE giảm 28% còn 13.18 ngàn tỷ đồng/phiên, HNX giảm 35% còn 684 tỷ đồng, VN-Index giảm 1,7% xuống 1.706 điểm, dòng tiền rút khỏi nhóm bán lẻ, dầu khí, chứng khoán, chỉ tập trung vào kim loại và gỗ."
+    },
+    {
+      "title": "Ba nhóm cổ phiếu định giá rẻ, kỳ vọng 2027",
+      "impact": "↑",
+      "note": "BSC chọn ba nhóm ngành trọng tâm: ngân hàng, bán lẻ, vật liệu xây dựng, dự báo lợi nhuận xây dựng và vật liệu tăng trưởng khoảng 22% trong năm 2027, vượt mức tăng trưởng bình quân 12% của nhóm doanh nghiệp."
+    },
+    {
+      "title": "MB giảm lãi suất cho vay tối đa 2%",
+      "impact": "↑",
+      "note": "MB triển khai giảm lãi suất cho vay, cam kết tiết giảm CIR tới 2-2,5% so với năm 2025 để tạo dư địa hạ lãi suất tối đa tới 2%, chia sẻ chi phí tài chính với khách hàng, hỗ trợ doanh nghiệp mở rộng sản xuất kinh doanh."
+    },
+    {
+      "title": "VPBank tăng trưởng mạnh, tài sản +27,8%, tín dụng +30%",
+      "impact": "↑",
+      "note": "VPBank ghi nhận tổng tài sản hợp nhất vượt 1,6 triệu tỷ đồng tăng 27,8% so với cuối năm 2025, dư nợ cấp tín dụng đạt 1,1 triệu tỷ đồng tăng gần 30%, lợi nhuận quý 3 hơn 11.000 tỷ đồng, tín dụng tăng đều các phân khúc ưu tiên."
     }
   ]
 }
