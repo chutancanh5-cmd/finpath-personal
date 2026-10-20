@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "FDI vươn cao với Singapore rót 12.85 tỷ USD (tăng 86% YoY) và Maersk-Hateco đầu tư 3.5 tỷ USD, cùng dự án hạ tầng Hà Nội 1 triệu tỷ đồng tạo động lực tăng trưởng. Tuy nhiên, dòng vốn ngoại bán ròng, thanh khoản sụt giảm 58% tại HSC, cùng áp lực lạm phát từ xăng dầu thế giới tăng 65-90% là yếu tố cân nhắc ngắn hạn cho nhà đầu tư.",
+  "summary_vi": "Thị trường chứng khoán suy yếu với giao dịch giảm 58% và kiều hối giảm 13,8%, nhưng FDI vẫn tăng mạnh 76,4% đạt 50 tỷ USD với Singapore 12,85 tỷ dẫn đầu. Các dự án hạ tầng lớn như Maersk rót 3,5 tỷ USD vào logistics đường sắt và Hà Nội triển khai >1 triệu tỷ đồng cho đường sắt đô thị được ký kết. Chính phủ giảm lãi suất để kiểm soát lạm phát trong bối cảnh giá xăng dầu thế giới tăng 65-90%.",
   "top": [
     {
-      "title": "Singapore FDI vượt 12.85 tỷ USD, chiếm 1/4 FDI cả nước",
+      "title": "Maersk-Hateco phát triển logistics đường sắt 3,5 tỷ USD",
       "impact": "↑",
-      "note": "Singapore dẫn đầu nhà đầu tư nước ngoài trong 9 tháng năm 2026 với 12.85 tỷ USD (tăng 86% so cùng kỳ), chiếm 1/4 tổng FDI đăng ký; toàn thị trường FDI đăng ký vượt 50 tỷ USD (tăng 76% YoY), FDI thực hiện 21.07 tỷ USD"
+      "note": "A.P. Moller-Maersk ký biên bản ghi nhớ với Tập đoàn Hateco ngày 20/10 phát triển 1 nhà ga container đường sắt Hải Phòng và 3 cơ sở vận tải khác tại miền Bắc, tổng vốn 3,5 tỷ USD, dự kiến hoàn thành năm 2030"
     },
     {
-      "title": "Maersk-Hateco phát triển logistics đường sắt 3.5 tỷ USD",
+      "title": "FDI 9 tháng vượt 50 tỷ USD, Singapore dẫn đầu 12,85 tỷ",
       "impact": "↑",
-      "note": "A.P. Moller-Maersk ký biên bản ghi nhớ với Tập đoàn Hateco (20/10) phát triển 1 nhà ga container đường sắt Hải Phòng và 3 cơ sở vận tải khác tại miền Bắc, tổng vốn 3.5 tỷ USD, dự kiến hoàn thành năm 2030"
+      "note": "Vốn đầu tư nước ngoài đăng ký 9 tháng 2026 vượt 50 tỷ USD (tăng 76,4% YoY), FDI thực hiện 21,07 tỷ USD. Singapore vươn lên dẫn đầu với 12,85 tỷ USD (chiếm 25%), tăng gần 86%, cao hơn Hàn Quốc 3,1 tỷ USD"
     },
     {
       "title": "Hà Nội triển khai 5 tuyến đường sắt đô thị, vốn 1 triệu tỷ đồng",
       "impact": "↑",
-      "note": "UBND TP.Hà Nội ký kết chìa khóa với Liên danh Vinhomes-SGC triển khai 5 tuyến đường sắt (số 1, 2, 8, 10, 14) dài 253.5 km, nhu cầu vốn hơn 1 triệu tỷ đồng, mục tiêu hoàn thành năm 2030"
+      "note": "UBND TP.Hà Nội ký kết chìa khóa với Liên danh Vinhomes-SGC triển khai 5 tuyến đường sắt (số 1, 2, 8, 10, 14) dài 253,5 km, nhu cầu vốn hơn 1 triệu tỷ đồng, mục tiêu hoàn thành 31/12/2030"
+    },
+    {
+      "title": "HSC quý 3 lợi nhuận giảm 33%, thanh khoản sụt giảm 58%",
+      "impact": "↓",
+      "note": "Quý 3/2026, Chứng khoán HSC doanh thu 1,182 tỷ (↓15%), lợi nhuận 371 tỷ (↓33%). Giá trị giao dịch bình quân toàn thị trường 18,500 tỷ đồng/ngày (↓58% YoY từ 43,800 tỷ), khối ngoại bán ròng >18,000 tỷ"
+    },
+    {
+      "title": "Kiều hối 9 tháng giảm 13,8% xuống 6,87 tỷ USD",
+      "impact": "↓",
+      "note": "Kiều hối về TP. Hồ Chí Minh lũy kế 9 tháng 2026 đạt 6,87 tỷ USD (giảm 13,8% YoY, mất 1,096,5 triệu USD). Q3 phục hồi 2,84 tỷ USD (+39,5% so Q2, +3,6% YoY), chủ yếu từ Châu Á 59,1% và Châu Mỹ 26,4%"
     },
     {
       "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát lạm phát",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%, Chính phủ áp dụng biện pháp kiểm soát giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện; Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng"
-    },
-    {
-      "title": "Khối ngoại bán ròng 174 tỷ, tự doanh bán 40 tỷ đồng (20/10)",
-      "impact": "↓",
-      "note": "Khối ngoại tiếp tục bán ròng 174 tỷ đồng với VHM bị bán 135 tỷ, KDC 100 tỷ, VCB 88 tỷ; tự doanh bán ròng nhẹ 40 tỷ; TCB được mua ròng 345 tỷ, HPG 145 tỷ"
-    },
-    {
-      "title": "HSC quý 3 lợi nhuận 371 tỷ giảm 33%, thanh khoản sụt 58%",
-      "impact": "↓",
-      "note": "Quý 3/2026, Chứng khoán HSC ghi nhận doanh thu 1.182 tỷ (↓15%), lợi nhuận 371 tỷ (↓33%); thanh khoản toàn thị trường giảm 58% xuống 18.5 tỷ đồng/phiên, khối ngoại bán ròng 18.000 tỷ, áp lực lên hoạt động kinh doanh các công ty chứng khoán"
+      "note": "Giá xăng dầu thế giới tăng tới 65-90%, Chính phủ áp dụng biện pháp kiểm soát giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện. Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng"
     }
   ]
 }
