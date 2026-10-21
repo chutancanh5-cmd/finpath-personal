@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-21",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Việt Nam tiếp tục hấp dẫn dòng vốn nước ngoài mạnh với Singapore dẫn đầu (12,85 tỷ USD) và Maersk-Hateco phát triển logistics 3,5 tỷ USD. Đầu tư công Hà Nội tăng tốc hơn 1 triệu tỷ đồng cho hạ tầng. Chính phủ kiểm soát lạm phát tốt dù xăng dầu thế giới tăng 65-90%, hỗ trợ mục tiêu tăng trưởng 10%+. Tuy nhiên, thị trường chứng khoán nội địa chịu áp lực thanh khoản sụt giảm 57,6% và khối ngoại bán ròng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt với áp lực thanh khoản sụt mạnh 57-58%, khối ngoại bán ròng trên 18.000 tỷ đồng, và lãi suất cao từ Fed. Tuy nhiên, các yếu tố tích cực từ dòng FDI mạnh (Singapore 12,85 tỷ USD tăng 86%, Maersk-Hateco 3,5 tỷ USD), chính sách chính phủ kiểm soát lạm phát hiệu quả dù xăng dầu thế giới tăng 65-90%, và đầu tư hạ tầng trọng điểm (Hà Nội 384.886 tỷ đồng) cung cấp hỗ trợ dài hạn. Bất cân đối huy động 11,22% so tín dụng 11,44% yêu cầu canh cảnh từ các ngân hàng.",
   "top": [
     {
       "title": "Singapore dẫn đầu FDI 12,85 tỷ USD, tăng 86%",
       "impact": "↑",
-      "note": "9 tháng 2026, Singapore rót 12,85 tỷ USD vốn FDI đăng ký, chiếm hơn 25% tổng FDI cả nước vượt 50 tỷ USD. Tăng 86% so cùng kỳ 2025, tương ứng +6 tỷ USD. FDI thực hiện toàn nước đạt 21,07 tỷ USD."
+      "note": "9 tháng 2026, Singapore rót 12,85 tỷ USD vốn FDI đăng ký, chiếm hơn 25% tổng FDI cả nước vượt 50 tỷ USD. Tăng 86% so cùng kỳ 2025, tương ứng +gần 6 tỷ USD. Tổng FDI thực hiện cả nước đạt 21,07 tỷ USD."
     },
     {
       "title": "Maersk-Hateco phát triển logistics đường sắt 3,5 tỷ USD",
       "impact": "↑",
-      "note": "APM Terminals ký MOU 20/10 với Hateco phát triển mạng vận tải đường sắt miền Bắc vốn 3,5 tỷ USD: nhà ga container Hải Phòng + 3 cơ sở vận tải khác, kết nối khu công nghiệp, logistics, vùng sản xuất với cảng biển."
+      "note": "APM Terminals ký MOU 20/10 với Hateco phát triển mạng vận tải đường sắt miền Bắc vốn 3,5 tỷ USD: nhà ga container Hải Phòng + 3 cơ sở vận tải, ứng dụng công nghệ số, kết nối khu công nghiệp và cảng biển."
+    },
+    {
+      "title": "Thanh khoản thị trường sụt 57-58%, khối ngoại bán ròng",
+      "impact": "↓",
+      "note": "Quý 3, giá trị giao dịch bình quân 18.500-18.625 tỷ đồng/phiên, giảm 57-58% so cùng kỳ 2025; VN-Index giảm 4,9% (vs tăng 20,76% cùng kỳ 2024). Khối ngoại bán ròng hơn 18.000 tỷ đồng. HSC báo lợi nhuận giảm 33%, doanh thu giảm 15%."
+    },
+    {
+      "title": "Fed thắt chặt, áp lực lãi suất và xăng dầu cao",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%; Fed dự tiếp tục thắt chặt tiền tệ do lạm phát bền vững; giá vàng xuống 4.100 USD/ounce; lợi suất trái phiếu 10 năm Mỹ 5,115%, tạo áp lực cơn vốn nước ngoài chảy ra."
     },
     {
       "title": "Hà Nội ký 5 tuyến metro vốn hơn 1 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Hà Nội ký kết Liên danh Vinhomes-SGC triển khai 5 tuyến metro (1, 2, 8, 10, 14) dài 253,5 km, vốn hơn 1 triệu tỷ đồng, hoàn thành 2030. Năm 2026 đầu tư công 384.886 tỷ đồng cho 292 dự án tạo tăng trưởng hai con số."
-    },
-    {
-      "title": "HSC quý 3: lợi nhuận giảm 33%, doanh thu giảm 15%",
-      "impact": "↓",
-      "note": "Chứng khoán TP.HCM ghi nhận lợi nhuận quý 3 đạt 371 tỷ đồng (giảm 33%), doanh thu 1.182 tỷ đồng (giảm 15%). Giá trị giao dịch bình quân 18.500 tỷ đồng/ngày (giảm 58% so cùng kỳ 2025); khối ngoại bán ròng 18.000 tỷ đồng."
-    },
-    {
-      "title": "Khối ngoại bán ròng 174 tỷ đồng, VHM-KDC bị bán mạnh",
-      "impact": "↓",
-      "note": "Phiên 20/10, khối ngoại bán ròng 174 tỷ đồng: VHM 135 tỷ, KDC 100 tỷ, VCB 88 tỷ. Tự doanh bán ròng 40 tỷ đồng. TCB được mua ròng 345 tỷ đồng, HPG mua ròng 145 tỷ đồng."
+      "note": "Hà Nội ký kết Liên danh Vinhomes-SGC triển khai 5 tuyến metro (1, 2, 8, 10, 14) dài 253,5km, vốn hơn 1 triệu tỷ đồng, hoàn thành 2030. Năm 2026 đầu tư công 384.886 tỷ đồng cho 292 dự án hỗ trợ tăng trưởng hai con số."
     },
     {
       "title": "Khoảng cách tín dụng-huy động: rủi ro vĩ mô",
       "impact": "↓",
-      "note": "Đến 14/10, dư nợ tín dụng tăng 11,44% so năm 2025, huy động vốn tăng 11,22%, chênh lệch 0,22 điểm. Dư nợ tín dụng toàn nền đạt 20,72 triệu tỷ đồng. Ngân hàng cần cân đối chi phí vốn, kỳ hạn, chất lượng tín dụng trước yêu cầu giảm lãi suất."
+      "note": "Đến 14/10, dư nợ tín dụng tăng 11,44%, huy động vốn tăng 11,22%, chênh lệch 0,22 điểm phần trăm. Dư nợ tín dụng toàn nền 20,72 triệu tỷ đồng. Ngân hàng cần cân đối chi phí vốn, kỳ hạn và chất lượng tín dụng khi nền kinh tế yêu cầu giảm lãi suất."
     }
   ]
 }
