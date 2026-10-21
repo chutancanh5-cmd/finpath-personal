@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán phục hồi mạnh với VN-Index tăng 2,76%, thanh khoản cải thiện 60%, khối ngoại quay lại mua ròng. Chính phủ ép các ngân hàng lớn giảm lãi suất tiền gửi, tạo điều kiện huy động vốn trong bối cảnh IPO tăng trưởng gấp 9 lần. Vốn FDI dự kiến tiếp tục tăng mạnh. Những yếu tố này hỗ trợ triển vọng tăng trưởng GDP 10%+ năm 2027.",
+  "summary_vi": "Thị trường chứng khoán quay lại đà tăng mạnh với VN-Index tăng 46,7 điểm (2,76%) lần đầu sau nửa năm, khối ngoại đảo chiều mua ròng 122 tỷ đồng chấm dứt 13 phiên bán, tạo nền tảng cho sự trở lại của dòng tiền. Tuy nhiên, áp lực từ giá dầu toàn cầu tăng 65-90% và chi phí vốn cao (lãi suất trái phiếu ngân hàng 10,5%) cần theo dõi, mặc dù chính phủ đang kiểm soát lạm phát hiệu quả.",
   "top": [
     {
-      "title": "VN-Index tăng 46,7 điểm, thanh khoản cải thiện 60%",
+      "title": "VN-Index tăng 46,7 điểm, mức cao nhất kể từ 8/4",
       "impact": "↑",
-      "note": "VN-Index tăng 2,76% lên 1.738,67 điểm, mức tăng mạnh nhất trong 6 tháng (kể từ 8/4). Thanh khoản khớp lệnh tăng 60% lên gần 18.000 tỷ đồng. Khối ngoại quay lại mua ròng, VIC/VHM tăng kịch trần, đóng góp 64% mức tăng chỉ số."
+      "note": "VN-Index tăng 46,7 điểm lên 1.738,67 điểm (+2,76%), mức tăng mạnh nhất hơn nửa năm. Nhóm Vingroup (VIC, VHM, VRE tăng kịch trần) đóng góp ~35 điểm, dòng tiền lan rộng với 492 mã tăng giá trên HSX, 16 mã kịch trần, thanh khoản 17.000 tỷ đồng."
     },
     {
-      "title": "Hoạt động IPO tăng trưởng gấp 9 lần",
+      "title": "Khối ngoại quay lại mua ròng, chấm dứt 13 phiên bán",
       "impact": "↑",
-      "note": "Từ cuối 2025 đến nay có 10 doanh nghiệp IPO huy động 60.900 tỷ đồng, tăng gấp 9 lần so với 6.500 tỷ đồng của 16 doanh nghiệp trong 2021-2024. Thời gian niêm yết rút ngắn từ 90 ngày xuống 30 ngày."
+      "note": "Khối ngoại mua ròng 122 tỷ đồng (TCB mua ròng 256 tỷ), phiên mua ròng đầu tiên sau 13 phiên bán liên tiếp. Sự đảo chiều này cải thiện tâm lý thị trường, tạo chỗ dựa cho đà tăng và cho thấy sự quan tâm trở lại của nhà đầu tư nước ngoài."
     },
     {
-      "title": "Chính phủ ép giảm lãi suất, BIDV và VietinBank điều chỉnh",
+      "title": "Hơn 13 tỷ USD vốn FDI dự kiến tại AEF 2026 TP.HCM",
+      "impact": "↑",
+      "note": "Diễn đàn Kinh tế Mùa thu 2026 (26-29/10) dự kiến >1.500 đại biểu, hơn 13 tỷ USD vốn đầu tư sẽ đổ bộ. Tập trung vào AI, công nghệ chiến lược, kinh tế xanh, logistics sẽ hỗ trợ tăng trưởng và hoạt động của các doanh nghiệp FDI."
+    },
+    {
+      "title": "Ngân hàng tăng lợi nhuận 15-17%, đa dạng hóa nguồn thu",
+      "impact": "↑",
+      "note": "SHB báo cáo lợi nhuận trước thuế 9 tháng 14.300 tỷ đồng (+17% YoY), thu nhập ngoài lãi đóng góp ~30% tổng thu nhập (từ ~10% trước). VPBank tín dụng tăng 30%, SHB tăng 9,52% giúp bảo vệ lợi nhuận giữa áp lực giảm lãi suất huy động."
+    },
+    {
+      "title": "Giá dầu thế giới tăng 65-90%, chính phủ kiểm soát CPI",
       "impact": "→",
-      "note": "BIDV và VietinBank giảm lãi suất tiền gửi 0,5 điểm %/năm cho kỳ hạn từ 6 tháng trở lên, lãi suất cao nhất còn 5,5%/năm. Động thái theo sau Vietcombank, Agribank."
+      "note": "Giá xăng dầu toàn cầu tăng 65-90%, Chính phủ dùng các biện pháp giữ giá trong nước ở mức thấp, không tăng điện để kiểm soát lạm phát. Thủ tướng nhấn mạnh nếu CPI tăng sẽ xói mòn thành quả tăng trưởng GDP (mục tiêu 10%+ năm 2027)."
     },
     {
-      "title": "Quỹ đầu tư mua ròng 1.034 tỷ cổ phiếu ngân hàng tháng 9",
-      "impact": "↑",
-      "note": "Tháng 9/2026 các quỹ mua ròng 1.034 tỷ đồng cổ phiếu ngân hàng, 52 quỹ mua vào MBB, 20 quỹ mua VPB. Đây là tháng thứ 2 liên tiếp mua ròng bộ ngành này."
-    },
-    {
-      "title": "TP.HCM đón hơn 13 tỷ USD FDI từ AEF 2026",
-      "impact": "↑",
-      "note": "Diễn đàn Kinh tế Mùa thu 2026 (26-29/10) quy tụ 1.500 đại biểu quốc tế, dự kiến hơn 13 tỷ USD vốn FDI đổ bộ vào thành phố có GRDP lớn nhất Việt Nam."
-    },
-    {
-      "title": "SHB lợi nhuận 9 tháng tăng 17%, thu nhập ngoài lãi 30%",
-      "impact": "↑",
-      "note": "SHB lợi nhuận trước thuế 9 tháng ước đạt 14.300 tỷ đồng tăng 17%, hoàn thành 81% kế hoạch năm. Thu nhập ngoài lãi đóng góp 30% tổng thu hoạt động, tăng từ 10% trong quá khứ."
+      "title": "Lãi suất trái phiếu ngân hàng 10,5%, cao nhất nhiều năm",
+      "impact": "↓",
+      "note": "PVcomBank phát hành 200 tỷ đồng trái phiếu lãi suất 10,5%/năm (cao nhất nhiều năm), Q3 tổng phát hành 4.000 tỷ đồng với lãi suất từ 9,6% trở lên. Lãi suất trái phiếu cao hơn huy động cho thấy áp lực chi phí vốn, nguy cơ cân bằng nguồn vốn ngân hàng bị ảnh hưởng."
     }
   ]
 }
