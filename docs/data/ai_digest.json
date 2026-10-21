@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam bước vào giai đoạn phát triển mới với dòng FDI kỷ lục: Singapore dẫn đầu 12,85 tỷ USD (26% tổng FDI), Maersk phát triển logistics 3,5 tỷ USD, tổng FDI 9T vượt 50 tỷ USD (+76,4% YoY). FTSE Russell nâng hạng Việt Nam lên emerging secondary (21/9/2026), UBCKNN công bố 6 định hướng gồm CCP vào 2027 và phát triển sản phẩm tài chính mới. Chính phủ chủ động giảm lãi suất (VPBank -1,5%) để hỗ trợ kinh tế; tuy nhiên SSI ghi nhận Q3 lợi nhuận giảm 27% với chi phí tài chính lãi vay tăng 24%, phản ánh áp lực từ lãi suất quốc tế cao.",
+  "summary_vi": "Dòng FDI vào Việt Nam tiếp tục mạnh mẽ với Singapore dẫn đầu (12,85 tỷ USD) và Maersk rót 3,5 tỷ USD phát triển logistics đường sắt. Chính phủ hỗ trợ kinh tế bằng giảm lãi suất (VPBank -1,5%) và nâng cấp hạ tầng thị trường. Tuy nhiên, lãi suất USD cao (5,2-5,3%) vẫn tạo áp lực khiến nhà đầu tư ngoại bán ròng 24.000 tỷ đồng, còn giá dầu tăng 65-90% cảnh báo rủi ro lạm phát cần theo dõi.",
   "top": [
     {
-      "title": "Singapore rót 12,85 tỷ USD FDI, Maersk phát triển logistics 3,5 tỷ USD",
+      "title": "Singapore rót 12,85 tỷ USD FDI, dẫn đầu vốn đầu tư vào VN",
       "impact": "↑",
-      "note": "Tổng FDI đăng ký 9 tháng 2026 vượt 50 tỷ USD, tăng 76,4% so cùng kỳ 2025. Singapore dẫn đầu gần 12,85 tỷ USD (tăng 86%, thêm 6 tỷ USD), chiếm 26% tổng FDI. APM Terminals (A.P. Moller-Maersk) ký MOU 20/10 phát triển mạng vận tải hàng hóa đường sắt miền Bắc (1 ga container Hải Phòng + 3 cơ sở) tổng vốn 3,5 tỷ USD."
+      "note": "Singapore chiếm hơn 1/4 tổng FDI đăng ký quốc gia (12,85 tỷ USD trong 9 tháng 2026), tăng 86% so cùng kỳ 2025, cao hơn Hàn Quốc 3,1 tỷ USD. Tổng FDI đăng ký cả nước vượt 50 tỷ USD, tăng 76,4% năm nay."
     },
     {
-      "title": "FTSE Russell nâng hạng (21/9), UBCKNN công bố 6 định hướng phát triển",
+      "title": "Maersk + Hateco phát triển mạng lưới logistics đường sắt 3,5 tỷ USD",
       "impact": "↑",
-      "note": "Ngày 21/9/2026, FTSE Russell nâng hạng thị trường Việt Nam từ frontier lên emerging secondary, ghi nhận nỗ lực cải cách. UBCKNN công bố 6 định hướng: triển khai CCP năm 2027, thúc đẩy cổ phần hóa, mở rộng IPO doanh nghiệp FDI, phát triển sản phẩm tài chính mới. Quy mô thị trường: 1.547 mã cổ phiếu, tổng giá trị 10,3 triệu tỷ đồng (80,2% GDP 2025)."
+      "note": "APM Terminals ký biên bản ghi nhớ với Hateco xây dựng nhà ga container tại Hải Phòng và 3 cơ sở vận tải hàng hóa đường sắt miền Bắc, vốn 3,5 tỷ USD, ứng dụng công nghệ số kết nối logistics."
     },
     {
-      "title": "SSI Q3 lợi nhuận giảm 27%, chi phí lãi vay 850 tỷ tăng 24%",
+      "title": "Chứng khoán VN rút 24.000 tỷ đồng dù được nâng hạng lên emerging market",
       "impact": "↓",
-      "note": "SSI báo cáo Q3/2026 lợi nhuận trước thuế gần 1.295 tỷ đồng, giảm 27% so cùng kỳ 2025 (1.782 tỷ đồng). Chi phí tài chính tăng từ 698 tỷ lên hơn 901 tỷ đồng; riêng chi phí lãi vay gần 850 tỷ đồng, tăng 24% YoY. Lũy kế 9 tháng SSI vẫn tăng 8%, lợi nhuận sau thuế 3.432 tỷ đồng."
+      "note": "Dù FTSE Russell nâng hạng thị trường, nhà đầu tư ngoại vẫn bán ròng 24.000 tỷ đồng. Ba nguyên nhân: lãi suất USD cao (5,2-5,3%), dòng vốn rút khỏi thị trường mới nổi, và hạn chế thị trường. Nhiều quỹ tại VN ghi nhận thua lỗ."
     },
     {
-      "title": "Xăng dầu thế giới tăng 65-90%, Chính phủ cảnh báo lạm phát xói mòn tăng trưởng",
+      "title": "VPBank giảm 1,5% lãi suất cho vay, hỗ trợ sản xuất kinh doanh",
+      "impact": "↑",
+      "note": "VPBank giảm 1,5% lãi suất cho vay 6 ngành trọng điểm và vay bổ sung vốn lưu động SME, giảm 0,5% lãi suất huy động (từ ngày 20-26/10), hưởng ứng chỉ đạo Chính phủ và NHNN."
+    },
+    {
+      "title": "Hạ tầng thị trường nâng cấp: CCP vận hành Q1/2027, Hà Nội đầu tư 384.886 tỷ đồng",
+      "impact": "↑",
+      "note": "Hệ thống thanh toán bù trừ trung tâm (CCP) dự kiến vận hành Q1 hoặc Q2/2027. Hà Nội đầu tư 384.886 tỷ đồng cho 292 dự án năm 2026, trong đó 5 tuyến đường sắt đô thị dài 253,5km, vốn hơn 1 triệu tỷ đồng, hoàn thành năm 2030."
+    },
+    {
+      "title": "Giá dầu thế giới tăng 65-90%, áp lực lạm phát toàn nền kinh tế",
       "impact": "↓",
-      "note": "Thủ tướng Lê Minh Hưng (18/10) cảnh báo giá xăng dầu thế giới tăng 65-90%. Nếu không điều hành, giá xăng trong nước có thể tăng 80%, ảnh hưởng lan rộng. Chính phủ triển khai biện pháp giữ giá xăng thấp, không tăng giá điện. Vàng thế giới sát 4.100 USD/oz do áp lực từ Fed thắt chặt chính sách tiền tệ, thị trường nhà ở Mỹ suy yếu."
-    },
-    {
-      "title": "VPBank giảm 1,5% lãi suất cho vay, hỗ trợ kinh tế",
-      "impact": "↑",
-      "note": "Từ 26/10/2026, VPBank giảm 1,5% lãi suất cho vay khách hàng 6 ngành trọng điểm (dược, bán lẻ, v.v.). Giảm 1,5% cho vay SME bổ sung vốn lưu động sản xuất kinh doanh. Giảm 0,5% lãi suất huy động cá nhân online (từ 20/10/2026), hưởng ứng chỉ đạo của Chính phủ và Ngân hàng Nhà nước."
-    },
-    {
-      "title": "SHS doanh thu Q3 tăng 23%, doanh nghiệp tạo động lực mới",
-      "impact": "↑",
-      "note": "SHS báo cáo Q3/2026 doanh thu hoạt động 1,002 tỷ đồng, tăng 23% YoY mặc dù thị trường khó (VN-Index giảm 4,9%, thanh khoản giảm 57,6%). Coteccons tiêu biểu với Chủ tịch Bolat Duisenov nêu mục tiêu đa dạng mô hình kinh doanh, doanh thu hướng 68.000 tỷ đồng vào năm 2030."
+      "note": "Giá xăng dầu quốc tế tăng mạnh 65-90%. Chính phủ đã dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát CPI. Nếu không điều hành, lạm phát tăng sẽ xói mòn thành quả tăng trưởng."
     }
   ]
 }
