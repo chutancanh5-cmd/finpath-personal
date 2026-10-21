@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam bứt phá mạnh với VN-Index tăng 2,76%, khối ngoại quay lại mua ròng 160 tỷ đồng sau 21 phiên bán ròng liên tiếp, quỹ đầu tư nội tập trung mua cổ phiếu ngân hàng (1.034 tỷ đồng tháng 9), tín dụng ngân hàng tăng mạnh (VPBank +30%, SHB +9,52%). Hơn 13 tỷ USD FDI sắp đổ bộ qua AEF 2026. Tuy vậy, rủi ro lạm phát từ giá xăng dầu thế giới tăng 65-90% và kiều hối giảm 13,8% vẫn cần theo dõi.",
+  "summary_vi": "Thị trường chứng khoán có dấu hiệu phục hồi mạnh với VN-Index tăng 2,76%, lọt top Châu Á, được kéo bởi dòng tiền nội địa mạnh từ IPO (60.900 tỷ đồng trong 9 tháng) và quỹ đầu tư. Khối ngoại quay lại mua ròng 160-193 tỷ đồng, chấm dứt chuỗi bán liên tiếp, trong khi quỹ mua ròng 1.000+ tỷ đồng cổ phiếu ngân hàng. Tuy nhiên, kiều hối giảm 13,8% lũy kế và một số doanh nghiệp bán lẻ gặp khó khăn, đòi hỏi sự cân bằng trong triển vọng ngắn hạn.",
   "top": [
     {
-      "title": "VN-Index tăng 2,76%, phiên bứt phá mạnh nhất 6 tháng",
+      "title": "IPO bùng nổ: 60.900 tỷ đồng trong 9 tháng",
       "impact": "↑",
-      "note": "VN-Index tăng 46,7 điểm lên 1.738,67 điểm, phiên mạnh nhất kể từ 8/4/2026. Nhóm Vingroup (VIC, VHM, VPL, VRE) đóng góp gần 34 điểm (VIC, VHM, VRE tăng kịch trần). Thanh khoản HoSE đạt 17.440 tỷ đồng, khối lượng khớp lệnh 800 triệu đơn vị (cao nhất 2 tháng)."
+      "note": "Từ cuối năm 2025 đến tháng 10/2026, thị trường có 10 IPO huy động 60.900 tỷ đồng, gấp hơn 9 lần tổng giá trị 6.500 tỷ đồng của cả giai đoạn 2021-2024. Thời gian niêm yết được rút ngắn từ 90 ngày xuống 30 ngày, tạo điều kiện tốt cho huy động vốn từ doanh nghiệp FDI chất lượng cao."
     },
     {
-      "title": "Khối ngoại chấm dứt 21 phiên bán ròng, mua ròng 160 tỷ đồng",
+      "title": "Khối ngoại chấm dứt 21 phiên bán ròng liên tiếp",
       "impact": "↑",
-      "note": "Khối ngoại quay lại mua ròng ~160 tỷ đồng, chấm dứt chuỗi 21 phiên bán ròng liên tiếp. TCB dẫn đầu ~290 tỷ đồng, tiếp theo MSN (~145 tỷ), VIC (~89 tỷ), VIB (~51 tỷ), SSI (~50 tỷ). Tín hiệu tích cực về tâm lý nhà đầu tư nước ngoài."
+      "note": "Nhà đầu tư nước ngoài quay lại mua ròng 160 tỷ đồng trong phiên 21/10, chấm dứt chuỗi 21 phiên bán ròng trước đó, với TCB dẫn đầu mua ròng 290 tỷ đồng. Thanh khoản HoSE cải thiện lên 17.440 tỷ đồng."
     },
     {
-      "title": "Quỹ mua ròng 1.034 tỷ đồng cổ phiếu ngân hàng tháng 9",
+      "title": "VN-Index tăng 2,76%, lọt top Châu Á",
       "impact": "↑",
-      "note": "Quỹ mua ròng 1.034 tỷ đồng cổ phiếu ngân hàng tháng 9, chiếm 8 vị trí trong top 10 mã được mua nhiều nhất. MBB được 52 quỹ mua (21,4 triệu cổ phiếu), VPB dẫn đầu 28,7 triệu cổ phiếu từ 20 quỹ. Đây là tháng thứ hai liên tiếp quỹ mua ròng ngành ngân hàng."
+      "note": "VN-Index tăng 46,7 điểm lên 1.738,67 điểm (mức tăng mạnh nhất trong hơn nửa năm), đưa chứng khoán Việt Nam lọt top thị trường tăng mạnh nhất Châu Á ngày 21/10. Nhóm Vingroup (VIC, VHM, VPL, VRE) đóng góp gần 34 điểm, thanh khoản HSX đạt 800 triệu cổ phiếu, cao nhất 2 tháng."
     },
     {
-      "title": "Tín dụng ngân hàng tăng mạnh, SHB lợi nhuận tăng 17%",
+      "title": "Quỹ đầu tư mua ròng 1.000+ tỷ đồng ngân hàng trong tháng 9",
       "impact": "↑",
-      "note": "VPBank dư nợ tăng 30% so với cuối 2025, SHB tăng 9,52%. SHB lợi nhuận trước thuế 9 tháng 14.300 tỷ đồng tăng 17%, quý 3 ước 5.151 tỷ đồng cao hơn 13% so với bình quân 6 tháng đầu. Thu nhập ngoài lãi đóng góp gần 30% tổng thu nhập hoạt động (tăng từ ~10% trước)."
+      "note": "Các quỹ đầu tư mua ròng hơn 1.000 tỷ đồng cổ phiếu ngân hàng trong tháng 9/2026 (tăng so với 369 tỷ đồng tháng 8). MBB được 52 quỹ mua vào, VPB huy động 28,7 triệu cổ phiếu từ 20 quỹ. Đây là tháng thứ hai liên tiếp các quỹ mua ròng nhóm ngân hàng."
     },
     {
-      "title": "Hơn 13 tỷ USD FDI dự kiến qua AEF 2026",
-      "impact": "↑",
-      "note": "AEF 2026 diễn ra 26-29/10 tại TP.HCM quy tụ hơn 1.500 đại biểu, 13 tỷ USD vốn đầu tư dự kiến, 21 phiên thảo luận tập trung đổi mới mô hình tăng trưởng, chuyển đổi số, AI, công nghệ chiến lược, kinh tế xanh, logistics xanh."
-    },
-    {
-      "title": "PNJ trích lập 7.071 tỷ dự phòng, lợi nhuận âm 6.000 tỷ",
+      "title": "Kiều hối giảm 13,8% lũy kế 9 tháng 2026",
       "impact": "↓",
-      "note": "PNJ trích lập 7.071 tỷ đồng dự phòng cho tổn thất từ chính sách thu đổi kim cương, lợi nhuận trước thuế 2026 dự kiến âm hơn 6.000 tỷ đồng. Doanh thu dự kiến 39.057 tỷ đồng (+10%), nhưng lợi nhuận bị ảnh hưởng lớn. Công ty dự định đóng 25-30 cửa hàng kém hiệu quả."
+      "note": "Lũy kế 9 tháng đầu năm 2026, kiều hối chuyển về TP.HCM đạt 6.872,5 triệu USD, giảm 13,8% so với cùng kỳ năm 2025 (tương ứng giảm khoảng 1.096,5 triệu USD). Quý 3 có tăng 39,5% so với quý 2 nhưng chưa bù đắp được mức giảm lũy kế, với Châu Á là nguồn chủ yếu (59,1%)."
+    },
+    {
+      "title": "PNJ trích lập dự phòng 7.071 tỷ đồng vì rủi ro kim cương",
+      "impact": "↓",
+      "note": "PNJ trích lập 7.071 tỷ đồng dự phòng tổn thất từ chính sách thu đổi sản phẩm kim cương, khiến lợi nhuận trước thuế dự kiến âm hơn 6.000 tỷ đồng trong năm 2026. Công ty dự kiến đóng cửa 25-30 điểm bán kém hiệu quả để tái cấu trúc và kiểm soát chi phí."
     }
   ]
 }
