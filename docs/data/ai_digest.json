@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-21",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Luồng FDI từ Singapore vươn lên dẫn đầu với 12,85 tỷ USD (tăng 86% YoY) và Maersk rót 3,5 tỷ USD vào logistics đường sắt, tuy nhiên nhà đầu tư nước ngoài bán ròng 174 tỷ đồng ngày 20/10 phản ánh thận trọng. Thị trường chứng khoán kém hấp dẫn hơn tiền gửi (E/P 7,5-7,7% so với lãi suất 5,9-7,5%) tạo áp lực cạnh tranh vốn. Chính phủ kiểm soát tốt lạm phát dù giá dầu toàn cầu tăng 65-90%, đồng thời đầu tư công quý 4 dự kiến tăng tốc để hỗ trợ mục tiêu tăng trưởng GDP 10%.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Vĩ mô Việt Nam hôm nay phản ánh bối cảnh hai chiều rõ nét: bên ngoài, FDI rất mạnh với tổng vốn đăng ký >50 tỷ USD (tăng 76,4% YoY), Singapore dẫn đầu 12,85 tỷ USD, song song Maersk đầu tư 3,5 tỷ USD logistics đường sắt và Hà Nội khởi động 5 tuyến đầu tư hơn 1 triệu tỷ đồng; bên trong, thị trường chứng khoán yếu với thanh khoản sụt 58%, khối ngoại bán ròng, và khoảng cách tín dụng-huy động tăng áp lực lãi suất ngắn hạn.",
   "top": [
     {
-      "title": "Maersk đầu tư 3,5 tỷ USD phát triển logistics đường sắt",
+      "title": "FDI Việt Nam vượt 50 tỷ USD, Singapore dẫn 26%",
       "impact": "↑",
-      "note": "A.P. Moller-Maersk ký biên bản ghi nhớ với Hateco ngày 20/10 phát triển mạng lưới vận tải đường sắt miền Bắc Việt Nam tổng vốn 3,5 tỷ USD, bao gồm nhà ga container tại Hải Phòng và ba cơ sở vận tải khác; kết nối hạ tầng giao thông và cảng biển, thúc đẩy logistics quốc tế."
+      "note": "9 tháng 2026: FDI đăng ký >50 tỷ USD (tăng 76,4% YoY), FDI thực hiện 21,07 tỷ USD. Singapore dẫn đầu 12,85 tỷ USD (26% tổng FDI), tăng 86% YoY, Hàn Quốc thứ 2 với 9,75 tỷ USD. Tín hiệu mạnh về sức hấp dẫn đầu tư nước ngoài giữa bối cảnh địa chính trị thế giới khó khăn."
     },
     {
-      "title": "Singapore dẫn đầu FDI với 12,85 tỷ USD",
+      "title": "Maersk đầu tư 3,5 tỷ USD logistics đường sắt Việt Nam",
       "impact": "↑",
-      "note": "Singapore rót 12,85 tỷ USD trong 9 tháng 2026, tăng 86% so với cùng kỳ năm 2025 (tương đương tăng 6 tỷ USD), chiếm hơn 1/4 tổng FDI cả nước; vượt Hàn Quốc ở vị trí thứ hai với khoảng 9,75 tỷ USD."
+      "note": "Maersk ký biên bản ghi nhớ với Hateco (20/10/2026) phát triển mạng lưới vận tải đường sắt miền Bắc vốn 3,5 tỷ USD. Dự án gồm nhà ga container Hải Phòng + 3 cơ sở khác, ứng dụng công nghệ số, kết nối khu công nghiệp và cảng biển. Dự án hạ tầng kéo dài chiến lược."
     },
     {
-      "title": "Nhà đầu tư nước ngoài bán ròng 174 tỷ đồng",
-      "impact": "↓",
-      "note": "Phiên 20/10, khối ngoại bán ròng 174 tỷ đồng, tập trung bán VHM (135 tỷ), KDC (100 tỷ), VCB (88 tỷ); chỉ mua ròng mạnh TCB (345 tỷ) và HPG (145 tỷ), phản ánh tâm lý thận trọng của nhà đầu tư nước ngoài."
+      "title": "Hà Nội khởi động 5 tuyến đường sắt đô thị 1 triệu+ tỷ đồng",
+      "impact": "↑",
+      "note": "Hà Nội ký chìa khóa trao tay với Liên danh Vinhomes-SGC (tuyến 1,2,8,10,14). Tổng chiều dài 253,5km, nhu cầu vốn hơn 1 triệu tỷ đồng, mục tiêu hoàn thành 2030. Quy mô đầu tư khổng lồ tạo động lực xây dựng, sản xuất thiết bị, dịch vụ liên quan hỗ trợ tăng trưởng hai con số."
     },
     {
-      "title": "E/P thị trường kém hấp dẫn so với lãi suất tiền gửi",
-      "impact": "↓",
-      "note": "E/P hiện tại 7,5-7,7% thấp hơn lãi suất huy động kỳ hạn 12 tháng 5,9-7,5%; lịch sử cho thấy thị trường tạo đáy khi E/P ở 8-9% (2016, 2020, 2022, 2025), tạo áp lực cạnh tranh vốn giữa cổ phiếu và tiền gửi."
-    },
-    {
-      "title": "Chính phủ kiểm soát lạm phát giữa dầu tăng 65-90%",
+      "title": "Khoảng cách tín dụng-huy động vênh 0,22pp, áp lực lãi suất",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Thủ tướng Lê Minh Hưng khẳng định Chính phủ dùng các biện pháp giữ giá trong nước ở mức thấp, không tăng giá điện; bảo vệ sức mua người dân và ổn định kinh tế vĩ mô."
+      "note": "Dư nợ tín dụng 20,72 triệu tỷ đ (tăng 11,44% YTD, 16,73% YoY). Huy động tăng 11,22%, thấp hơn tín dụng 0,22pp. Yêu cầu giảm lãi suất hỗ trợ tăng trưởng đặt ngành ngân hàng trước phép thử kép: khơi thông dòng vốn và giữ vững an toàn hệ thống."
     },
     {
-      "title": "Đầu tư công quý 4 tăng tốc hỗ trợ GDP 10%",
-      "impact": "↑",
-      "note": "Lãi suất quý 4 dự kiến ổn định, đầu tư công được kỳ vọng tăng tốc mạnh để kéo tăng trưởng GDP cả năm đạt mục tiêu 10%; dòng tiền bổ sung vốn ngắn hạn cho hệ thống ngân hàng và kích hoạt nhu cầu kinh tế."
+      "title": "Thanh khoản TTCK sụt 58%, khối ngoại bán ròng mạnh",
+      "impact": "↓",
+      "note": "Q3 giao dịch bình quân 18,5 triệu tỷ đ/ngày (giảm 58% YoY từ 43,8 triệu tỷ), VN-Index đóng Q3 tại 1.768,62 điểm (giảm 4,9%). Khối ngoại bán ròng 18 tỷ đ trong quý, HSC lợi nhuận giảm 33%. Dòng tiền 20/10 cả tự doanh và khối ngoại bán ròng."
+    },
+    {
+      "title": "Thị trường E/P 7,5-7,7% kém hấp dẫn so với lãi suất 5,9-7,5%",
+      "impact": "↓",
+      "note": "Lãi suất huy động 12 tháng hiện 5,9-7,5%, E/P thị trường 7,5-7,7%. Phần bù rủi ro ở mức thấp, thị trường kém hấp dẫn hơn lãi suất tiền gửi. Áp lực lạm phát cao từ chiến tranh Trung Đông và kỳ vọng Fed tăng lãi suất hạn chế dư địa điều hành chính sách tiền tệ."
     }
   ]
 }
