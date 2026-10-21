@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-21",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán được hỗ trợ bởi dòng FDI mạnh (Singapore 12,85 tỷ USD/9 tháng) và mục tiêu 5,4 triệu tỷ đồng vốn trung-dài hạn 2026-2030. Ngân hàng tăng lợi nhuận 17% với cơ cấu thu nhập cải thiện (nguồn thu ngoài lãi tăng lên 30%). Rủi ro lạm phát từ giá xăng dầu tăng 65-90% thế giới và doanh nghiệp nặng nợ tiếp cận vốn khó khăn vẫn là thách thức. VN-Index hôm nay tăng 2.15%, thanh khoản cải thiện 96.2%.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán vừa thăng hạng thị trường mới nổi với vốn hóa 10,7 triệu tỷ đồng; 13 tỷ USD dự kiến đổ bộ HCM cuối tháng 10, kỳ vọng hút 5,4 triệu tỷ đồng vốn trung dài hạn. Doanh nghiệp nặng nợ khó tiếp cận tín dụng mặc dù lãi suất đã giảm, thanh khoản suy giảm rõ rệt và kiều hối giảm 13,8% 9 tháng qua. Chính phủ kiểm soát lạm phát dù giá xăng dầu toàn cầu tăng 65-90%, nhưng rủi ro từ bubble AI đang gia tăng.",
   "top": [
     {
-      "title": "FDI tăng 76%, Singapore dẫn đầu rót 12,85 tỷ USD",
+      "title": "Chứng khoán VN thăng hạng, hút 5,4 triệu tỷ đồng vốn",
       "impact": "↑",
-      "note": "FDI đăng ký 9 tháng 2026 vượt 50 tỷ USD (+76,4% YoY); Singapore 12,85 tỷ USD (+86% YoY), chiếm 25% tổng; FDI thực hiện 21,07 tỷ USD, duy trì tiến độ triển khai dự án."
+      "note": "Vừa chính thức thăng hạng thị trường mới nổi, vốn hóa 10,7 triệu tỷ đồng (410 tỷ USD, 83% GDP), 1.500+ doanh nghiệp niêm yết; mục tiêu hút 5,4 triệu tỷ đồng vốn trung và dài hạn giai đoạn 2026-2030."
     },
     {
-      "title": "Chứng khoán thăng hạng MSCI, vốn hóa 10,7 triệu tỷ đồng",
-      "impact": "↑",
-      "note": "Thị trường chứng khoán Việt Nam thăng hạng thị trường mới nổi; vốn hóa 10,7 triệu tỷ đồng (410 tỷ USD, 83% GDP); 1.500+ doanh nghiệp niêm yết; VN-Index quanh 1.800 điểm."
+      "title": "Thủ tướng kiểm soát lạm phát giữa giá xăng dầu tăng",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng 65-90%; Chính phủ giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát, hướng tới tăng trưởng GDP 10% trở lên năm 2027."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, lạm phát là rủi ro",
+      "title": "Doanh nghiệp nặng nợ khó tiếp cận tín dụng ưu đãi",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%. Thủ tướng Lê Minh Hưng cảnh báo nếu không điều hành phù hợp, giá xăng dầu trong nước có thể tăng 80%. Chính phủ triển khai biện pháp giữ giá xăng dầu, điện ở mức thấp để kiểm soát lạm phát."
+      "note": "Dù ngân hàng giảm lãi suất, doanh nghiệp nặng nợ vẫn gặp khó khăn tiếp cận tín dụng ưu đãi; khoảng cách giữa chỉ đạo chính sách và thực thi vẫn lớn."
     },
     {
-      "title": "Doanh nghiệp nợ cũ khó tiếp cận vốn ưu đãi",
+      "title": "SHS doanh thu Q3 tăng 23% dù thị trường khó khăn",
+      "impact": "↑",
+      "note": "Công ty CP Chứng khoán Sài Gòn-Hà Nội doanh thu Q3/2026 đạt 1.002 tỷ đồng, tăng 23% YoY dù VN-Index giảm 4,9% QoQ và thanh khoản suy giảm 57,6% YoY."
+    },
+    {
+      "title": "Giới đầu tư mua CDS bảo hiểm rủi ro AI tăng vọt",
       "impact": "↓",
-      "note": "Doanh nghiệp xuất khẩu gạo (lĩnh vực ưu tiên) chưa được hưởng lãi suất ưu đãi; điều kiện tín dụng khắt khe, lo lãi suất thả nổi; chậm thực thi chính sách hỗ trợ."
+      "note": "Khối lượng giao dịch CDS liên quan AI đạt hơn 9 tỷ USD/tuần (tháng 9) từ dưới 2 tỷ USD (tháng 7); giới đầu tư lo ngại bubble AI và rủi ro vỡ nợ của các công ty công nghệ."
     },
     {
-      "title": "Chứng khoán định vị hút 5,4 triệu tỷ đồng vốn 2026-2030",
+      "title": "13 tỷ USD vốn FDI dự kiến đổ bộ HCM cuối tháng 10",
       "impact": "↑",
-      "note": "Sau khi thăng hạng thị trường mới nổi, Sở Giao dịch Chứng khoán Việt Nam (VNX) đặt mục tiêu 5,4 triệu tỷ đồng vốn trung và dài hạn giai đoạn 2026-2030. Tổng vốn hóa thị trường hiện 10,7 triệu tỷ đồng tương đương 410 tỷ USD, hơn 1.500 doanh nghiệp niêm yết."
-    },
-    {
-      "title": "VN-Index tăng 2.15%, thanh khoản cải thiện 96.2%",
-      "impact": "↑",
-      "note": "Sáng 21/10, VN-Index tăng hơn 36 điểm lên 1.728,36 điểm (+2.15%), HNX-Index tăng 0.77% đạt 259.94 điểm. Giá trị giao dịch HOSE đạt 9.9 ngàn tỷ đồng, tăng 96.2% so với phiên trước, lực cầu chiếm ưu thế với 437 mã tăng."
+      "note": "Diễn đàn Kinh tế Mùa thu (26-29/10) dự kiến quy tụ hơn 1.500 đại biểu, tạo cơ hội kết nối đầu tư, công nghệ và đổi mới sáng tạo cho hơn 13 tỷ USD vốn dự kiến."
     }
   ]
 }
