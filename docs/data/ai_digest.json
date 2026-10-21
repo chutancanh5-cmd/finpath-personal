@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hưởng lợi từ dòng FDI mạnh, Singapore dẫn đầu 12,85 tỷ USD (tăng 86%), cùng dự án Maersk-Hateco 3,5 tỷ USD logistics. Các doanh nghiệp lớn tăng trưởng tốt: FPT doanh thu +12,4%, lợi nhuận +17%, mảng AI +55%. Chính phủ hỗ trợ kinh tế qua giảm lãi suất (VPBank giảm 1,5% cho vay, 0,5% huy động từ 26/10) và đầu tư công (Hà Nội 385 tỷ đồng 292 dự án). Rủi ro lạm phát từ dầu tăng 65-90% và kiều hối giảm 13,8% cần theo dõi.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục nhận lực đẩy mạnh từ FDI quốc tế (FDI đăng ký vượt 50 tỷ USD, tăng 76,4%), nhất là từ Singapore với 12,85 tỷ USD. Doanh nghiệp lớn như FPT ghi nhận lợi nhuận tăng 17%, mảng AI tăng 55%; Maersk ký thỏa thuận phát triển logistics 3,5 tỷ USD. Chính phủ chủ động giảm lãi suất (VPBank giảm 1,5% cho vay) để hỗ trợ tăng trưởng GDP 10%+ năm 2027. Tuy nhiên, giá dầu toàn cầu tăng 65-90% vẫn là rủi ro lạm phát, mặc dù Chính phủ đã kiểm soát tốt trong nước.",
   "top": [
     {
-      "title": "Singapore FDI 12,85 tỷ USD (tăng 86%), Maersk 3,5 tỷ USD logistics",
+      "title": "Maersk-Hateco phát triển logistics 3,5 tỷ USD",
       "impact": "↑",
-      "note": "9 tháng 2026, Singapore rót 12,85 tỷ USD FDI đăng ký, tăng 86% so 2025, chiếm hơn 1/4 tổng FDI cả nước vượt 50 tỷ USD; Maersk ký MOU 20/10 phát triển logistics đường sắt miền Bắc 3,5 tỷ USD gồm nhà ga container Hải Phòng và 3 cơ sở vận tải, kết nối khu công nghiệp."
+      "note": "Maersk và Hateco ký MOU phát triển mạng logistics đường sắt với vốn 3,5 tỷ USD, gồm 1 nhà ga container tại Hải Phòng và 3 cơ sở vận tải khác tại miền Bắc"
     },
     {
-      "title": "VPBank giảm lãi suất cho vay 1,5% từ 26/10",
+      "title": "FPT lợi nhuận tăng 17%, AI/Data tăng 55%",
       "impact": "↑",
-      "note": "VPBank từ 26/10/2026 giảm 1,5% lãi suất cho vay khách hàng 6 ngành nghề trọng điểm và SME vay bổ sung vốn lưu động; từ 20/10 giảm 0,5% lãi suất huy động cá nhân kênh online, hưởng ứng chỉ đạo giảm mặt bằng lãi suất Chính phủ-NHNN."
+      "note": "FPT ghi nhận doanh thu 40.023 tỷ đồng, lợi nhuận 8.770 tỷ đồng (+17%), EPS 4.142 đồng/cổ phiếu; mảng AI/Data Analytics tăng 55%"
     },
     {
-      "title": "Thủ tướng cảnh báo dầu tăng 65-90%, áp lực lạm phát",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; không kiểm soát sẽ kéo giá xăng dầu trong nước tăng 80%, lan rộng lạm phát. Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng; chính phủ áp dụng biện pháp bảo đảm cung ứng, không tăng giá điện."
-    },
-    {
-      "title": "FPT 9 tháng: doanh thu 40.023 tỷ +12,4%, lợi nhuận +17%",
+      "title": "FDI quốc tế vượt 50 tỷ USD, Singapore 12,85 tỷ USD",
       "impact": "↑",
-      "note": "FPT 9 tháng 2026 doanh thu 40.023 tỷ đồng (tăng 12,4%), lợi nhuận trước thuế 8.770 tỷ đồng (tăng 17%), EPS 4.142 đồng (tăng 12,8%); mảng AI/Data Analytics tăng 55%, khối công nghệ 89% doanh thu 58% lợi nhuận toàn tập đoàn."
+      "note": "Vốn FDI đăng ký 9 tháng vượt 50 tỷ USD (+76,4% YoY), Singapore dẫn đầu 12,85 tỷ USD (+86%), chiếm hơn 1/4 tổng vốn FDI"
     },
     {
-      "title": "Kiều hối HCM 9 tháng 6,87 tỷ USD, giảm 13,8%",
-      "impact": "↓",
-      "note": "Kiều hối chuyển về TP.HCM 9 tháng 2026 đạt 6.872,5 triệu USD (6,87 tỷ USD), giảm 13,8% so 2025, giảm khoảng 1.096,5 triệu USD; Châu Á 59,1% từ lao động Hàn Quốc, Nhật Bản, Đài Loan, Singapore; áp lực từ tỷ giá Won yếu."
-    },
-    {
-      "title": "Hà Nội đầu tư 5 tuyến metro vốn hơn 1 triệu tỷ đồng",
+      "title": "VPBank giảm lãi suất 1,5% cho 6 ngành trọng điểm",
       "impact": "↑",
-      "note": "Hà Nội ký kết Vinhomes-SGC triển khai 5 tuyến metro (1, 2, 8, 10, 14), tổng 253,5 km, nhu cầu vốn hơn 1 triệu tỷ đồng, hoàn thành 2030; năm 2026 đầu tư 384.886 tỷ đồng 292 dự án tạo động lực tăng trưởng hai con số."
+      "note": "VPBank giảm 1,5% lãi suất cho vay 6 ngành trọng điểm từ 26/10, giảm 1,5% cho SME vay vốn lưu động, giảm 0,5% lãi suất huy động cá nhân"
+    },
+    {
+      "title": "Hệ thống CCP dự kiến vận hành Q1/Q2 2027",
+      "impact": "↑",
+      "note": "UBCKNN dự kiến vận hành hệ thống thanh toán bù trừ trung tâm trong Q1/Q2 2027; thị trường đã có 1.547 mã cổ phiếu, quy mô 10,3 triệu tỷ đồng (80,2% GDP)"
+    },
+    {
+      "title": "Thủ tướng cảnh báo lạm phát nhưng kiểm soát tốt",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ sử dụng biện pháp giữ giá trong nước thấp, không tăng giá điện; hướng đến mục tiêu tăng trưởng GDP 10%+ năm 2027"
     }
   ]
 }
