@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-21",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường thấy tín hiệu FDI mạnh từ Singapore (12,85 tỷ USD tăng 86%), dự án logistics Maersk-Hateco 3,5 tỷ USD, và các công ty như FPT tăng lợi nhuận 17%, mảng AI tăng 55%. Tuy nhiên, lạm phát áp lực từ giá dầu thế giới tăng 65-90%, kiều hối giảm 13,8%, giá vàng trượt dốc, và bất cân đối tín dụng-huy động tạo rủi ro ngắn hạn cho chính sách tiền tệ.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hưởng lợi từ dòng FDI mạnh, Singapore dẫn đầu 12,85 tỷ USD (tăng 86%), cùng dự án Maersk-Hateco 3,5 tỷ USD logistics. Các doanh nghiệp lớn tăng trưởng tốt: FPT doanh thu +12,4%, lợi nhuận +17%, mảng AI +55%. Chính phủ hỗ trợ kinh tế qua giảm lãi suất (VPBank giảm 1,5% cho vay, 0,5% huy động từ 26/10) và đầu tư công (Hà Nội 385 tỷ đồng 292 dự án). Rủi ro lạm phát từ dầu tăng 65-90% và kiều hối giảm 13,8% cần theo dõi.",
   "top": [
     {
-      "title": "Singapore dẫn đầu FDI 12,85 tỷ USD, tăng 86%",
+      "title": "Singapore FDI 12,85 tỷ USD (tăng 86%), Maersk 3,5 tỷ USD logistics",
       "impact": "↑",
-      "note": "9 tháng 2026, Singapore rót 12,85 tỷ USD vốn FDI đăng ký, chiếm hơn 1/4 tổng FDI cả nước vượt 50 tỷ USD. Tăng 86% so cùng kỳ 2025, tương ứng thêm gần 6 tỷ USD. Tổng FDI thực hiện đạt 21,07 tỷ USD."
+      "note": "9 tháng 2026, Singapore rót 12,85 tỷ USD FDI đăng ký, tăng 86% so 2025, chiếm hơn 1/4 tổng FDI cả nước vượt 50 tỷ USD; Maersk ký MOU 20/10 phát triển logistics đường sắt miền Bắc 3,5 tỷ USD gồm nhà ga container Hải Phòng và 3 cơ sở vận tải, kết nối khu công nghiệp."
     },
     {
-      "title": "Maersk-Hateco phát triển logistics đường sắt 3,5 tỷ USD",
+      "title": "VPBank giảm lãi suất cho vay 1,5% từ 26/10",
       "impact": "↑",
-      "note": "APM Terminals ký MOU 20/10 với Hateco phát triển mạng vận tải đường sắt miền Bắc vốn 3,5 tỷ USD: nhà ga container Hải Phòng + 3 cơ sở vận tải, ứng dụng công nghệ số, kết nối khu công nghiệp và cảng biển."
+      "note": "VPBank từ 26/10/2026 giảm 1,5% lãi suất cho vay khách hàng 6 ngành nghề trọng điểm và SME vay bổ sung vốn lưu động; từ 20/10 giảm 0,5% lãi suất huy động cá nhân kênh online, hưởng ứng chỉ đạo giảm mặt bằng lãi suất Chính phủ-NHNN."
     },
     {
-      "title": "FPT: doanh thu 40.023 tỷ đồng, lợi nhuận tăng 17%",
-      "impact": "↑",
-      "note": "9 tháng 2026, FPT ghi nhận doanh thu 40.023 tỷ đồng (tăng 12,4%), lợi nhuận trước thuế 8.770 tỷ đồng (tăng 17%), EPS tăng 12,8%. Mảng AI/Data Analytics tăng 55%, khối công nghệ đóng góp 89% doanh thu, 58% lợi nhuận."
-    },
-    {
-      "title": "Lạm phát tăng đe dọa: xăng dầu thế giới tăng 65-90%",
+      "title": "Thủ tướng cảnh báo dầu tăng 65-90%, áp lực lạm phát",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; nếu không kiểm soát, giá xăng dầu trong nước có thể tăng 80%, làm tăng CPI. Thủ tướng cảnh báo lạm phát cao sẽ xói mòn thành quả tăng trưởng; chính phủ áp dụng biện pháp giữ giá điện để kiểm soát."
+      "note": "Giá xăng dầu thế giới tăng 65-90%; không kiểm soát sẽ kéo giá xăng dầu trong nước tăng 80%, lan rộng lạm phát. Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng; chính phủ áp dụng biện pháp bảo đảm cung ứng, không tăng giá điện."
     },
     {
-      "title": "Kiều hối giảm 13,8%: 9 tháng nhận 6,87 tỷ USD",
-      "impact": "↓",
-      "note": "Kiều hối về TP.HCM 9 tháng 2026 đạt 6.872,5 triệu USD, giảm 13,8% so cùng kỳ 2025 (giảm 1.096,5 triệu USD). Chủ yếu từ Châu Á 59,1%, áp lực từ tỷ giá Won Hàn Quốc và điều kiện tài chính quốc tế."
-    },
-    {
-      "title": "Hà Nội ký 5 tuyến metro vốn hơn 1 triệu tỷ đồng",
+      "title": "FPT 9 tháng: doanh thu 40.023 tỷ +12,4%, lợi nhuận +17%",
       "impact": "↑",
-      "note": "Hà Nội ký kết Liên danh Vinhomes-SGC triển khai 5 tuyến metro (1, 2, 8, 10, 14) dài 253,5km, vốn hơn 1 triệu tỷ đồng, hoàn thành 2030. Năm 2026 đầu tư công 384.886 tỷ đồng cho 292 dự án hỗ trợ tăng trưởng hai con số."
+      "note": "FPT 9 tháng 2026 doanh thu 40.023 tỷ đồng (tăng 12,4%), lợi nhuận trước thuế 8.770 tỷ đồng (tăng 17%), EPS 4.142 đồng (tăng 12,8%); mảng AI/Data Analytics tăng 55%, khối công nghệ 89% doanh thu 58% lợi nhuận toàn tập đoàn."
+    },
+    {
+      "title": "Kiều hối HCM 9 tháng 6,87 tỷ USD, giảm 13,8%",
+      "impact": "↓",
+      "note": "Kiều hối chuyển về TP.HCM 9 tháng 2026 đạt 6.872,5 triệu USD (6,87 tỷ USD), giảm 13,8% so 2025, giảm khoảng 1.096,5 triệu USD; Châu Á 59,1% từ lao động Hàn Quốc, Nhật Bản, Đài Loan, Singapore; áp lực từ tỷ giá Won yếu."
+    },
+    {
+      "title": "Hà Nội đầu tư 5 tuyến metro vốn hơn 1 triệu tỷ đồng",
+      "impact": "↑",
+      "note": "Hà Nội ký kết Vinhomes-SGC triển khai 5 tuyến metro (1, 2, 8, 10, 14), tổng 253,5 km, nhu cầu vốn hơn 1 triệu tỷ đồng, hoàn thành 2030; năm 2026 đầu tư 384.886 tỷ đồng 292 dự án tạo động lực tăng trưởng hai con số."
     }
   ]
 }
