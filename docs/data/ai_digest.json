@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-21",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay ghi nhận tín hiệu tích cực từ dòng FDI mạnh (Singapore dẫn đầu) và lợi nhuận ngân hàng tăng trưởng, tuy nhiên vẫn phải đối mặt với áp lực từ lạm phát toàn cầu (giá xăng dầu tăng 65-90%), rủi ro AI và khó khăn của doanh nghiệp nợ cũ trong tiếp cận vốn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Vốn đầu tư nước ngoài tăng vọt 76,4% với Singapore dẫn đầu, thị trường chứng khoán thăng hạng MSCI, ngân hàng tăng lợi nhuận 17% và tín dụng mở rộng 30%. Tuy nhiên áp lực lạm phát từ giá xăng dầu thế giới (+65-90%) và khó khăn doanh nghiệp nợ cũ tiếp cận vốn ưu đãi tạo rủi ro đối với tăng trưởng bền vững.",
   "top": [
     {
-      "title": "FDI từ Singapore tăng mạnh lên 12,85 tỷ USD",
+      "title": "FDI tăng 76%, Singapore dẫn đầu rót 12,85 tỷ USD",
       "impact": "↑",
-      "note": "Singapore dẫn đầu FDI vào Việt Nam 9 tháng năm 2026 với 12,85 tỷ USD, tăng 86% so với cùng kỳ năm 2025, chiếm hơn ¼ tổng vốn FDI đăng ký cả nước. Đây là tín hiệu hỗ trợ mạnh cho tăng trưởng kinh tế."
+      "note": "FDI đăng ký 9 tháng 2026 vượt 50 tỷ USD (+76,4% YoY); Singapore 12,85 tỷ USD (+86% YoY), chiếm 25% tổng; FDI thực hiện 21,07 tỷ USD, duy trì tiến độ triển khai dự án."
     },
     {
-      "title": "SHB lợi nhuận tăng 17%, đa dạng hóa nguồn thu",
+      "title": "Chứng khoán thăng hạng MSCI, vốn hóa 10,7 triệu tỷ đồng",
       "impact": "↑",
-      "note": "SHB báo cáo lợi nhuận trước thuế 9 tháng đạt 14.300 tỷ đồng, tăng 17% so với cùng kỳ. Thu nhập ngoài lãi đóng góp gần 30% tổng thu nhập (tăng từ 10% trước), giúp ngân hàng duy trì tăng trưởng khi đối mặt sức ép giảm lãi suất."
+      "note": "Thị trường chứng khoán Việt Nam thăng hạng thị trường mới nổi; vốn hóa 10,7 triệu tỷ đồng (410 tỷ USD, 83% GDP); 1.500+ doanh nghiệp niêm yết; VN-Index quanh 1.800 điểm."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng nhấn mạnh Chính phủ đã dùng nhiều biện pháp giữ giá xăng dầu và điện ở mức thấp để kiểm soát lạm phát, bảo đảm người dân được hưởng lợi từ tăng trưởng GDP 10%+ năm 2027."
+      "title": "Ngân hàng lợi nhuận tăng 17%, tín dụng tăng 30%",
+      "impact": "↑",
+      "note": "SHB lợi nhuận 9 tháng 14.300 tỷ đồng (+17% YoY); VPBank dư nợ +30%, Vietbank +10,8%, SHB +9,52%; thu nhập ngoài lãi 30% tổng thu (tăng từ 10% trước)."
     },
     {
-      "title": "Nhà đầu tư lo ngại sốt AI, CDS tăng mạnh lên 9 tỷ USD",
+      "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực lạm phát",
       "impact": "↓",
-      "note": "Khối lượng giao dịch CDS (hợp đồng bảo hiểm rủi ro vỡ nợ) của các công ty AI như Oracle, SpaceX, Alphabet, Amazon tăng từ dưới 2 tỷ USD tháng 7 lên trên 9 tỷ USD tháng 9, cảnh báo rủi ro nợ để đầu tư AI đang tăng cao."
+      "note": "Giá xăng dầu thế giới tăng 65-90%; Chính phủ dùng biện pháp giữ giá xăng dầu và điện ở mức thấp; mục tiêu GDP 2027 từ 10% trở lên cần kiểm soát CPI bền vững."
     },
     {
-      "title": "Doanh nghiệp nợ cũ khó tiếp cận tín dụng mới",
+      "title": "Doanh nghiệp nợ cũ khó tiếp cận vốn ưu đãi",
       "impact": "↓",
-      "note": "Mặc dù các ngân hàng đã giảm lãi suất cho vay, doanh nghiệp nợ cũ vẫn phản ánh chưa được hưởng mức lãi suất thấp. Điều kiện tín dụng khắc khe và nỗi lo lãi suất thả nổi hạn chế khả năng DN mở rộng sản xuất, kinh doanh."
+      "note": "Doanh nghiệp xuất khẩu gạo (lĩnh vực ưu tiên) chưa được hưởng lãi suất ưu đãi; điều kiện tín dụng khắt khe, lo lãi suất thả nổi; chậm thực thi chính sách hỗ trợ."
     },
     {
-      "title": "Thị trường chứng khoán vẫn có tiềm năng dù tạm khó khăn",
+      "title": "SHS doanh thu Q3 tăng 23%, đầu tư tài sản đẩy tăng",
       "impact": "↑",
-      "note": "Giám đốc VPS nhận định các chỉ báo kinh tế (FDI, sản xuất chế biến) cho thấy nền kinh tế bước vào chu kỳ tăng trưởng thuận lợi, thị trường vốn VN vẫn có tiềm năng thu hút thêm nhà đầu tư, mục tiêu dài hạn đạt 20-40 triệu tài khoản chứng khoán."
+      "note": "SHS doanh thu Q3 1.002 tỷ đồng (+23% YoY); VN-Index Q3 đóng 1.768,62 (-4,9% QoQ); giá trị giao dịch 18.625 tỷ/phiên (-57,6% YoY); đầu tư tài sản là động lực chính."
     }
   ]
 }
