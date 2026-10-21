@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-21",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam vừa thăng hạng lên thị trường mới nổi, với mục tiêu hút 5,4 triệu tỷ đồng vốn trung dài hạn giai đoạn 2026-2030 và vốn hóa hiện đạt 10,7 triệu tỷ đồng (83% GDP). Tuy nhiên, NHNN vừa bắt buộc các ngân hàng giảm tối thiểu 0,5%/năm lãi suất tiền gửi từ 6 tháng trở lên, áp lực ngắn hạn lên lợi nhuận và NIM. Sắp tới (26-29/10), Diễn đàn Kinh tế Mùa thu sẽ quy tụ hơn 13 tỷ USD vốn FDI đổ bộ TP.HCM. Rủi ro ngắn hạn: dư nợ margin công ty chứng khoán lập kỷ lục 463 ngàn tỷ đồng trong bối cảnh thanh khoản giảm, và lo ngại rủi ro tín dụng của các công ty AI toàn cầu đang gia tăng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Ngân hàng Nhà nước yêu cầu giảm lãi suất tối thiểu 0,5%/năm để hỗ trợ tín dụng và kiểm soát lạm phát (giá xăng dầu thế giới tăng 65-90%). Mặc dù ngân hàng tăng trưởng lợi nhuận 17% với thu nhập ngoài lãi nâng lên 30%, thị trường vẫn đối mặt rủi ro từ dư nợ margin lập kỷ lục 463 ngàn tỷ đồng khi thanh khoản sụt giảm mạnh, kiều hối giảm 13,8%, và giới đầu tư toàn cầu cảnh báo vay nợ AI quá mức. Thị trường hôm nay tăng 2,15% tích cực nhưng cần theo dõi rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Chứng khoán VN thăng hạng, mục tiêu hút 5,4 triệu tỷ vốn 2026-2030",
+      "title": "NHNN yêu cầu giảm lãi suất huy động và cho vay",
       "impact": "↑",
-      "note": "Vốn hóa thị trường đạt 10,7 triệu tỷ đồng (tương đương 410 tỷ USD), bằng 83% GDP; 1.500 doanh nghiệp niêm yết, hơn 14 triệu tài khoản chứng khoán. Thăng hạng thị trường mới nổi mở rộng cơ hội thu hút nhà đầu tư quốc tế."
+      "note": "NHNN ban hành công văn 9736/NHNN-CSTT ngày 21/10/2026 yêu cầu các NHTM giảm ít nhất 0,5%/năm lãi suất tiền gửi bình quân cho kỳ hạn từ 6 tháng trở lên trong những tháng cuối năm 2026. Chính sách hỗ trợ doanh nghiệp vay nợ và kiểm soát lạm phát theo chỉ đạo Thống đốc ngày 19/10/2026."
     },
     {
-      "title": "NHNN bắt buộc giảm lãi suất tiền gửi 0,5%/năm, xử lý nghiêm ngân hàng",
+      "title": "Dư nợ margin công ty chứng khoán lập đỉnh 463 ngàn tỷ đồng",
       "impact": "↓",
-      "note": "Các NHTM phải giảm tối thiểu 0,5%/năm lãi suất tiền gửi bình quân từ 6 tháng trở lên trong các tháng cuối 2026 so với mức 11/10-20/10. Sẽ xử lý nghiêm các ngân hàng không giảm, áp lực đối với NIM và lợi nhuận ngắn hạn."
+      "note": "Dư nợ cho vay giao dịch ký quỹ (margin) cuối quý 3/2026 đạt 463 ngàn tỷ đồng, tăng 2% so với quý 2. TCBS dẫn đầu 54,7 ngàn tỷ đồng (+6%), VPBankS 39,9 ngàn tỷ đồng (+4%). Rủi ro cao vì thanh khoản thị trường giảm sâu: 18,1 ngàn tỷ quý 3 so với 33,6 ngàn tỷ quý 1."
     },
     {
-      "title": "Hơn 13 tỷ USD vốn FDI sắp đổ bộ TP.HCM qua Diễn đàn AEF",
+      "title": "Giới đầu tư toàn cầu lo ngại vay nợ AI quá mức vỡ nợ",
+      "impact": "↓",
+      "note": "Khối lượng CDS (hoán đổi rủi ro tín dụng) liên quan AI của Oracle, SpaceX, Alphabet, Amazon, Meta, Broadcom, Nvidia tăng từ dưới 2 tỷ USD (tháng 7) lên hơn 9 tỷ USD (tháng 9). CDS spread lập kỷ lức tháng 10, báo hiệu nhà đầu tư lo vay nợ vào cơ sở hạ tầng AI quá mức."
+    },
+    {
+      "title": "Kiều hối về TP. Hồ Chí Minh giảm 13,8% lũy kế 9 tháng",
+      "impact": "↓",
+      "note": "Lũy kế 9 tháng 2026, doanh số kiều hối TP. Hồ Chí Minh đạt 6.872,5 triệu USD, giảm 13,8% so với cùng kỳ 2025 (giảm 1.096,5 triệu USD). Quý 3 tăng 39,5% so với quý 2 nhưng chưa đủ bù đắp, nguồn chính từ Châu Á 59,1%, Châu Mỹ 26,4%."
+    },
+    {
+      "title": "Ngân hàng tăng trưởng lợi nhuận 17%, đa dạng thu nhập",
       "impact": "↑",
-      "note": "AEF 2026 diễn ra 26-29/10 tại TP.HCM, quy tụ 1.500 đại biểu trong và ngoài nước, dự kiến 300+ phiên thảo luận tập trung vào đổi mới tăng trưởng, AI, công nghệ chiến lược, kinh tế xanh và logistics xanh."
+      "note": "SHB lợi nhuận trước thuế 9 tháng ước đạt 14.300 tỷ đồng, tăng 17% so với cùng kỳ, hoàn thành 81% kế hoạch năm. Thu nhập ngoài lãi đóng góp 30% tổng thu hoạt động (9 tháng 2026), tăng từ mức 10% trước đây. Tín dụng tiếp tục tăng: VPBank +30%, Vietbank +10,8%, SHB +9,52%."
     },
     {
-      "title": "Dư nợ ký quỹ công ty chứng khoán lập kỷ lục 463 ngàn tỷ, thanh khoản suy",
-      "impact": "↓",
-      "note": "Dư nợ margin cuối Q3/2026 đạt 463 ngàn tỷ đồng (+2% QoQ) trong bối cảnh giá trị giao dịch thị trường sụt giảm mạnh xuống 18,1 ngàn tỷ/phiên (so với 23,3 ngàn tỷ Q2), tăng rủi ro margin call."
-    },
-    {
-      "title": "Giới đầu tư toàn cầu ồ ạt mua bảo hiểm rủi ro vỡ nợ trái phiếu AI",
-      "impact": "↓",
-      "note": "CDS hoán đổi rủi ro tín dụng các công ty AI (Nvidia, Meta, Amazon, Alphabet) tăng từ dưới 2 tỷ USD (tháng 7) lên hơn 9 tỷ USD (tháng 9/2026), chi phí bảo hiểm chạm kỷ lục do lo ngại vay nợ quá cao."
-    },
-    {
-      "title": "VN-Index tăng 2,15% lên 1.728,36 điểm, thanh khoản cải thiện",
+      "title": "Thị trường hôm nay tăng 2,15%, thanh khoản cải thiện",
       "impact": "↑",
-      "note": "VN-Index +36 điểm, HNX +0,77% (259,94 điểm); 437 mã tăng, 208 mã giảm; thanh khoản HOSE tăng 96,2%, HNX tăng 112,8%; ngành bất động sản dẫn dắt (+4,96%)."
+      "note": "VN-Index tăng 36,41 điểm (2,15%) lên 1.728,36 điểm; HNX-Index tăng 0,77%; 437 mã tăng, 208 mã giảm. Giá trị giao dịch HOSE 9,9 ngàn tỷ đồng, tăng 96,2% so với phiên trước. Bất động sản dẫn ngành (+4,96%), VIC và VHM đóng góp 26 điểm."
     }
   ]
 }
