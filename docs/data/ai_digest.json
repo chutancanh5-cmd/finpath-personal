@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán bứt phá với VN-Index tăng 46,7 điểm (2,76%), mức cao nhất nửa năm, được hỗ trợ dòng tiền nội địa (quỹ mua ròng 1.034 tỷ đồng ngân hàng) và khối ngoại quay lại mua ròng 160 tỷ sau 21 phiên bán. IPO bùng nổ: 10 doanh nghiệp huy động 60.900 tỷ (gấp 9 lần 4 năm). Ngân hàng tăng tín dụng mạnh (VPBank +30%) và đa dạng nguồn thu. Rủi ro: giá dầu thế giới +65-90% đe dọa lạm phát, nhưng Chính phủ kiểm soát tích cực qua hạn chế tăng giá xăng, điện.",
+  "summary_vi": "Thị trường chứng khoán bùng nổ (VN-Index +2,76%, cao nhất 6 tháng) với dòng tiền mạnh vào cổ phiếu trụ Vingroup. IPO ghi nhận đỉnh mới 60.900 tỷ đồng từ 10 doanh nghiệp, gấp 9 lần 4 năm trước. Khối ngoại quay lại mua ròng sau 21 phiên bán, tín hiệu tâm lý nhà đầu tư cải thiện. Chính phủ kiểm soát lạm phát hiệu quả giữa giá dầu thế giới tăng 65-90%. Tuy nhiên, lãi suất tiết kiệm giảm và kiều hối lũy kế vẫn giảm 13,8%, phản ánh áp lực trên một số mặt ngắn hạn.",
   "top": [
     {
-      "title": "VN-Index tăng 46,7 điểm (2,76%), cao nhất nửa năm qua",
+      "title": "VN-Index tăng 2,76%, mức cao nhất 6 tháng",
       "impact": "↑",
-      "note": "Phiên 21/10, VN-Index tăng 46,7 điểm lên 1.738,67 điểm, mức tăng mạnh nhất kể từ 8/4/2026. Vingroup dẫn dắt (VIC +6,99%, VHM +6,92%) đóng góp ~64% mức tăng. Thanh khoản HOSE cải thiện 60% lên gần 18.000 tỷ đồng, dòng tiền lan tỏa rộng, lọt top thị trường tăng Châu Á ngày 21/10."
+      "note": "VN-Index bật tăng 46,7 điểm lên 1.738,67 điểm, mức tăng mạnh nhất kể từ 8/4/2026. Thanh khoản HOSE cải thiện lên khoảng 17.440 tỷ đồng. Vingroup dẫn dắt với VIC tăng 6,99%, VHM tăng 6,92%, đóng góp ~64% mức tăng chỉ số."
     },
     {
-      "title": "Quỹ đầu tư mua ròng 1.034 tỷ đồng cổ phiếu ngân hàng",
+      "title": "IPO bùng nổ, 10 doanh nghiệp huy động 60.900 tỷ đồng",
       "impact": "↑",
-      "note": "Tháng 9/2026, các quỹ mua ròng 1.034 tỷ đồng ngành ngân hàng (tăng từ 369 tỷ tháng 8). MBB được 52 quỹ mua vào (21,4 triệu cổ phiếu), VPB 28,7 triệu từ 20 quỹ, ACB 13,8 triệu. Tháng thứ 2 liên tiếp quỹ mua ròng ngân hàng, tín hiệu mạnh từ nhà đầu tư tổ chức."
+      "note": "Từ cuối 2025 đến nay, thị trường chứng khoán có 10 doanh nghiệp IPO với tổng giá trị 60.900 tỷ đồng, gấp 9 lần tổng 6.500 tỷ đồng của giai đoạn 2021-2024. Thời gian niêm yết rút ngắn từ 90 ngày xuống 30 ngày."
     },
     {
-      "title": "IPO huy động 60.900 tỷ đồng, gấp 9 lần 4 năm trước",
+      "title": "Khối ngoại dừng xả hàng, mua ròng ~160 tỷ đồng",
       "impact": "↑",
-      "note": "Từ cuối 2025 đến nay, 10 doanh nghiệp IPO huy động 60.900 tỷ đồng, so với 6.500 tỷ của 16 doanh nghiệp trong 2021-2024. Quy định gắn IPO với niêm yết rút ngắn thời gian từ 90 ngày xuống 30 ngày, 7 doanh nghiệp đã niêm yết, 3 đang hoàn tất thủ tục."
+      "note": "Khối ngoại chấm dứt chuỗi 21 phiên bán ròng liên tiếp, quay lại mua ròng khoảng 160 tỷ đồng. TCB dẫn đầu chiều mua với ~290 tỷ đồng, theo sau là MSN ~145 tỷ đồng, VIC ~89 tỷ đồng."
     },
     {
-      "title": "Khối ngoại ngắt 21 phiên bán ròng, quay lại mua 160 tỷ",
+      "title": "Chính phủ kiểm soát lạm phát giữa giá dầu tăng 65-90%",
       "impact": "↑",
-      "note": "Phiên 21/10, nhà đầu tư nước ngoài mua ròng 160 tỷ đồng chấm dứt chuỗi 21 phiên bán ròng liên tiếp. TCB dẫn đầu mua ròng ~290 tỷ, MSN ~145 tỷ, VIC ~89 tỷ. Bước ngoặt tích cực cho dòng tiền ngoại."
+      "note": "Giá xăng dầu thế giới tăng 65-90%. Chính phủ áp dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát CPI trong 9 tháng đầu năm."
     },
     {
-      "title": "Giá dầu thế giới +65-90%, rủi ro lạm phát lên cao",
+      "title": "BIDV, VietinBank giảm lãi suất tiết kiệm 0,5 điểm %/năm",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nếu không kiểm soát giá trong nước có thể tăng 80%, kéo theo giá hàng hóa khác. Chính phủ dùng biện pháp giữ giá xăng dầu thấp, không tăng giá điện để kiểm soát CPI, hướng tới mục tiêu tăng trưởng GDP 10%+ năm 2027."
+      "note": "BIDV và VietinBank điều chỉnh giảm 0,5 điểm %/năm lãi suất tiền gửi tại quầy với các kỳ hạn từ 6 tháng trở lên, lãi suất cao nhất còn 5,5%/năm. Động thái theo sau Vietcombank, Agribank."
     },
     {
-      "title": "Ngân hàng tăng tín dụng mạnh, đa dạng nguồn thu",
-      "impact": "↑",
-      "note": "Tín dụng 9 tháng: VPBank +30%, Vietbank +10,8%, SHB +9,52% so với cuối 2025. SHB lợi nhuận trước thuế 14.300 tỷ (+17%, hoàn 81% kế hoạch). Thu ngoài lãi đóng góp 30% tổng thu hoạt động (trước đây 10%), thể hiện đa dạng hóa nguồn doanh thu."
+      "title": "Kiều hối TP.HCM lũy kế 9 tháng 6,87 tỷ USD, giảm 13,8%",
+      "impact": "↓",
+      "note": "Kiều hối về TP.HCM 9 tháng 2026 đạt 6.872,5 triệu USD, giảm 13,8% so với cùng kỳ năm 2025, tương ứng giảm khoảng 1.096,5 triệu USD. Quý 3 phục hồi 39,5% so với quý 2 nhưng lũy kế vẫn âm."
     }
   ]
 }
