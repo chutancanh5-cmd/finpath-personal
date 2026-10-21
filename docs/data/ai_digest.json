@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận đà phục hồi mạnh với VN-Index tăng 2.15%, thanh khoản tăng 200% lên 9.9 ngàn tỷ đồng. Dòng FDI chảy vào Việt Nam mạnh mẽ với Singapore dẫn đầu 12,85 tỷ USD (9 tháng) và dự án Maersk-Hateco quy mô 3,5 tỷ USD cho logistics đường sắt. Các ngân hàng chủ động giảm lãi suất hưởng ứng định hướng NHNN, hỗ trợ doanh nghiệp bổ sung vốn. VPBankS chia cổ phiếu 45% nâng vốn lên 27,2 tỷ đồng vượt mốc 1 tỷ USD.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay ghi nhận tâm lý rất tích cực với VN-Index tăng mạnh nhất 3 tháng, thanh khoản tăng gấp đôi lên 9.682 tỷ đồng. Bên cạnh đó, dòng FDI tiếp tục mạnh mẽ khi Singapore rót vốn kỷ lục 12,85 tỷ USD, trong khi các ngân hàng hưởng ứng chỉ đạo giảm mặt bằng lãi suất bằng các gói tín dụng ưu đãi lớn. Tuy nhiên, cần chú ý đến rủi ro từ lạm phát (xăng dầu, vàng) và một số doanh nghiệp gặp áp lực tài chính như SRC với khoản phải nộp nhà nước tăng đột biến.",
   "top": [
     {
-      "title": "Singapore rót 12,85 tỷ USD FDI, dẫn đầu 9 tháng",
+      "title": "VN-Index tăng mạnh nhất 3 tháng",
       "impact": "↑",
-      "note": "Singapore là nguồn FDI lớn nhất với 12,85 tỷ USD đăng ký (9 tháng 2026), chiếm 25,6% tổng FDI cả nước, tăng 86% so với cùng kỳ 2025. Hiện Singapore dẫn trước Hàn Quốc (thứ 2) 3,1 tỷ USD."
+      "note": "VN-Index tăng hơn 36 điểm (+2,15%) lên 1.728,36 điểm. Thanh khoản HOSE đạt 9.682 tỷ đồng, tăng 200% so với phiên trước, mức kỷ lục kể từ cuối tháng 7. VN30 có 24 mã xanh/5 mã đỏ, 138 cổ phiếu tăng vượt 1%. Dòng tiền mua chủ động áp đảo."
+    },
+    {
+      "title": "Singapore dẫn đầu FDI với 12,85 tỷ USD",
+      "impact": "↑",
+      "note": "9 tháng đầu 2026, tổng FDI đăng ký vượt 50 tỷ USD, tăng 76,4% so với cùng kỳ 2025. Singapore chiếm 25% tổng vốn FDI, vốn 12,85 tỷ USD tăng gần 86%, tăng thêm 6 tỷ USD so với cùng kỳ 2025. Kết quả cho thấy Việt Nam vẫn giữ sức hấp dẫn cao với nhà đầu tư nước ngoài."
+    },
+    {
+      "title": "VIB triển khai gói tín dụng ưu đãi 15.000 tỷ đồng",
+      "impact": "↑",
+      "note": "VIB giảm 0,5% lãi suất huy động, triển khai gói tín dụng 15.000 tỷ đồng với lãi suất ưu đãi giảm đến 1,5%/năm cho doanh nghiệp các lĩnh vực ưu tiên. Hưởng ứng chỉ đạo NHNN về giảm mặt bằng lãi suất, hỗ trợ doanh nghiệp bổ sung vốn lưu động sản xuất kinh doanh."
     },
     {
       "title": "Maersk-Hateco phát triển logistics đường sắt 3,5 tỷ USD",
       "impact": "↑",
-      "note": "A.P. Moller-Maersk ký biên bản ghi nhớ với Hateco ngày 20/10 phát triển mạng vận tải hàng hóa đường sắt miền Bắc Việt Nam, tổng vốn đầu tư 3,5 tỷ USD, gồm nhà ga container tại Hải Phòng và ba cơ sở vận tải khác."
-    },
-    {
-      "title": "VN-Index tăng 2.15%, thanh khoản tăng 200%",
-      "impact": "↑",
-      "note": "VN-Index tăng 36 điểm lên 1.728,36 điểm, HNX-Index tăng 0,77%. Thanh khoản HOSE đạt 9,9 ngàn tỷ đồng, tăng 200% so với phiên trước. Độ rộng thị trường mạnh với 224 mã tăng/91 mã giảm, 138 cổ phiếu tăng vượt 1%."
-    },
-    {
-      "title": "VIB giảm lãi suất, triển khai gói tín dụng 15.000 tỷ",
-      "impact": "↑",
-      "note": "VIB giảm lãi suất huy động 0,5%/năm, triển khai gói tín dụng ưu đãi 15.000 tỷ đồng cho doanh nghiệp ngành ưu tiên, lãi suất giảm tối đa 1,5%/năm theo điều kiện chương trình."
-    },
-    {
-      "title": "VPBankS chia cổ phiếu 45%, vốn lên 27.187,5 tỷ đồng",
-      "impact": "↑",
-      "note": "VPBankS phát hành 843,75 triệu cổ phiếu thưởng với tỷ lệ 45% (cổ đông 100 cổ phiếu nhận thêm 45 cổ phiếu), tăng vốn điều lệ từ 18.750 tỷ lên 27.187,5 tỷ đồng, vượt mốc 1 tỷ USD, cao nhất ngành chứng khoán."
+      "note": "APM Terminals (A.P. Moller-Maersk) ký biên bản ghi nhớ với Hateco ngày 20/10 phát triển mạng vận tải đường sắt miền Bắc Việt Nam, vốn dự kiến 3,5 tỷ USD. Dự án bao gồm nhà ga container tại Hải Phòng và ba cơ sở vận tải hàng hóa khác, kết nối khu công nghiệp với cảng biển."
     },
     {
       "title": "Cao su Sao Vàng phải nộp 4,7 ngàn tỷ đồng",
       "impact": "↓",
-      "note": "Khoản phải nộp Nhà nước của SRC tăng đột biến từ 3 tỷ đồng (quý 2) lên 4,7 ngàn tỷ đồng (30/09/2026), chủ yếu từ thuế nhà đất. Tiền mặt chỉ 33 tỷ đồng, nợ phải trả 5,3 ngàn tỷ đồng."
+      "note": "Khoản phải nộp Nhà nước của SRC tăng đột biến từ 3 tỷ đồng (quý 2/2026) lên gần 4,7 ngàn tỷ đồng (30/09/2026), chủ yếu từ thuế nhà đất và tiền thuê đất, toàn bộ chưa thanh toán. Tiền mặt công ty chỉ hơn 33 tỷ đồng, nợ phải trả vượt 5,3 ngàn tỷ đồng."
+    },
+    {
+      "title": "VPBankS tăng vốn điều lệ vượt 1 tỷ USD",
+      "impact": "↑",
+      "note": "VPBankS chia cổ phiếu thưởng 45% (100 cổ phiếu nhận 45 cổ phiếu mới), vốn điều lệ tăng từ 18.750 tỷ đồng lên 27.187,5 tỷ đồng, cao nhất ngành chứng khoán. Phát hành 843,75 triệu cổ phiếu từ nguồn vốn chủ sở hữu, tiếp nối mở rộng nền tảng vốn kể từ gia nhập hệ sinh thái VPBank."
     }
   ]
 }
