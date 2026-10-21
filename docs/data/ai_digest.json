@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Phiên 21/10 ghi nhận loạt tin tích cực từ FDI mạnh (Singapore dẫn đầu 12,85 tỷ USD, Maersk-Hateco 3,5 tỷ USD), đầu tư công lớn từ Hà Nội (1 triệu tỷ đồng cho đường sắt đô thị), và chính sách hỗ trợ kinh tế (Chính phủ giữ giá xăng dầu, không tăng giá điện). Nhu cầu vốn 1.460 tỷ USD trong 5 năm tới mở ra cơ hội lớn cho thị trường vốn, tuy nhiên rủi ro an ninh từ tấn công mạng cao nhất khu vực cần được chủ động ứng phó.",
+  "summary_vi": "Dòng vốn nước ngoài mạnh mẽ với Singapore dẫn đầu 12,85 tỷ USD (+86% YoY) và dự án logistics Maersk-Hateco 3,5 tỷ USD tạo động lực tăng trưởng. Chính phủ chủ động kiểm soát lạm phát (giá xăng dầu +65-90% thế giới nhưng giữ thấp trong nước, không tăng giá điện), ngân hàng hạ lãi suất hỗ trợ doanh nghiệp hướng mục tiêu GDP +10% năm 2027. Nhu cầu vốn 1.460 tỷ USD 5 năm tới (thị trường vốn 700 tỷ USD) mở cơ hội lớn nhưng áp lực lạm phát toàn cầu và rủi ro an ninh mạng vẫn cần chủ động ứng phó.",
   "top": [
     {
-      "title": "Maersk-Hateco đầu tư 3,5 tỷ USD phát triển logistics đường sắt",
+      "title": "Maersk-Hateco phát triển logistics đường sắt 3,5 tỷ USD tại miền Bắc",
       "impact": "↑",
-      "note": "APM Terminals và Hateco ký biên bản ghi nhớ ngày 20/10 để phát triển mạng lưới logistics đường sắt tại miền Bắc Việt Nam với tổng vốn 3,5 tỷ USD, bao gồm nhà ga container tại Hải Phòng và ba cơ sở vận tải khác. Dự án kết nối khu công nghiệp, logistics với các đầu mối giao thông, nâng cao năng lực vận tải đa phương thức."
+      "note": "APM Terminals và Hateco ký biên bản ghi nhớ ngày 20/10 phát triển mạng lưới vận tải hàng hóa đường sắt miền Bắc với vốn 3,5 tỷ USD, bao gồm nhà ga container Hải Phòng và 3 cơ sở vận tải khác, kết nối khu công nghiệp và cảng biển, ứng dụng công nghệ số quản lý."
     },
     {
-      "title": "Singapore dẫn đầu FDI vào Việt Nam 12,85 tỷ USD, tăng 86%",
+      "title": "Singapore dẫn đầu FDI Việt Nam 12,85 tỷ USD, tăng 86% so cùng kỳ",
       "impact": "↑",
-      "note": "Singapore chiếm hơn ¼ tổng vốn FDI đăng ký trong 9 tháng 2026 (12,85 tỷ USD), tăng gần 86% so với cùng kỳ 2025, cao hơn Hàn Quốc hơn 3,1 tỷ USD. Singapore đóng vai trò kết nối các dòng vốn quốc tế với thị trường Việt Nam trong bối cảnh toàn cầu biến động."
+      "note": "9 tháng 2026, Singapore rót 12,85 tỷ USD FDI đăng ký, chiếm hơn ¼ tổng 50 tỷ USD cả nước (+76,4% so cùng kỳ 2025), cao hơn Hàn Quốc 3,1 tỷ USD, FDI thực hiện 21,07 tỷ USD — dòng vốn quốc tế qua Singapore kết nối mạnh vào thị trường Việt Nam."
     },
     {
-      "title": "Hà Nội đầu tư 1 triệu tỷ đồng phát triển đường sắt đô thị",
+      "title": "Hà Nội ký kết đầu tư 1 triệu tỷ đồng xây 5 tuyến đường sắt đô thị",
       "impact": "↑",
-      "note": "UBND Hà Nội ký kết trao tay giữa Ban Quản lý đường sắt đô thị và Liên danh Vinhomes-SGC để triển khai 5 tuyến đường sắt số 1, 2, 8, 10 và 14 (tổng 253,5km), dự tính hơn 1 triệu tỷ đồng vốn, phấn đấu hoàn thành trước 31-12-2030. Quy mô đầu tư sẽ kích hoạt dòng vốn xã hội, xây dựng, sản xuất và dịch vụ liên quan."
+      "note": "UBND Hà Nội ký trao tay với Liên danh Vinhomes-SGC phát triển 5 tuyến đường sắt số 1, 2, 8, 10, 14 (tổng 253,5km) với vốn hơn 1 triệu tỷ đồng, mục tiêu hoàn thành 2030 — quy mô đầu tư kích hoạt xây dựng, sản xuất thiết bị, vật liệu và dịch vụ liên quan."
     },
     {
-      "title": "Chính phủ giữ giá xăng dầu, không tăng điện kiểm soát lạm phát",
+      "title": "VPBank giảm 1,5% lãi suất cho vay, 0,5% huy động từ 20/10",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ triển khai các biện pháp giữ giá trong nước ở mức thấp so với khu vực, không tăng giá điện để bảo vệ tăng trưởng. Lạm phát được kiểm soát tốt, CPI 9 tháng đầu năm duy trì ổn định."
+      "note": "VPBank giảm 1,5% lãi suất cho vay khách hàng 6 ngành trọng điểm và SME vay vốn lưu động, giảm 0,5% lãi suất huy động cá nhân trực tuyến từ 20/10 — hưởng ứng chỉ đạo Chính phủ/NHNN, cải thiện điều kiện tài chính."
     },
     {
-      "title": "Nhu cầu vốn 1.460 tỷ USD trong 5 năm, thị trường vốn cần 700 tỷ USD",
-      "impact": "↑",
-      "note": "Dragon Capital ước tính Việt Nam cần 1.460 tỷ USD vốn trong 5 năm tới (gấp đôi 5 năm trước), trong đó thị trường vốn được kỳ vọng đảm nhận 700 tỷ USD (khoảng 150 tỷ USD/năm). Yêu cầu này nhấn mạnh cần tháo gỡ điểm nghẽn chính sách và phát triển ngành quản lý quỹ, mở cơ hội cho thị trường chứng khoán tăng trưởng 80%/năm."
-    },
-    {
-      "title": "Việt Nam bị tấn công mạng cao nhất Đông Nam Á, cứ 57 giây 1 vụ",
+      "title": "Giá vàng áp lực từ lo ngại lạm phát dai dẳng, Fed thắt chặt",
       "impact": "↓",
-      "note": "Việt Nam ghi nhận số vụ tấn công mạng cao gấp 2,5 lần Indonesia và Malaysia, cứ khoảng 57 giây xảy ra 1 cuộc tấn công nhắm vào lĩnh vực tài chính. Yêu cầu cấp thiết nâng cao năng lực quản trị rủi ro an toàn thông tin, đặc biệt khi thị trường chứng khoán đẩy mạnh chuyển đổi số."
+      "note": "Phiên 20/10 giá vàng xuống 4.125 USD/ounce (phiên giảm thứ 3 liên tiếp), trong nước giảm 300 nghìn đồng/lượng xuống 139-142 triệu đồng/lượng, CPI Mỹ tháng 9 tăng 3,7%, PPI tăng 6,3% — áp lực từ lạm phát dai dẳng và khả năng Fed tiếp tục thắt chặt chính sách tiền tệ."
+    },
+    {
+      "title": "Ngành quỹ cần tăng trưởng 80%/năm — Dragon Capital cảnh báo thách thức lớn",
+      "impact": "↓",
+      "note": "Dragon Capital ước tính nhu cầu vốn Việt Nam 5 năm tới 1.460 tỷ USD (gấp đôi 5 năm trước), thị trường vốn cần 700 tỷ USD (150 tỷ/năm), yêu cầu ngành quỹ tăng trưởng ~80%/năm — khó đạt nếu chỉ dựa động lực thông thường, cần tháo gỡ chính sách về cơ cấu nguồn vốn."
     }
   ]
 }
