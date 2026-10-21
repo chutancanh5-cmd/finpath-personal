@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-21",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Phiên giao dịch 21/10 ghi nhận tăng trưởng mạnh nhất 3 tháng với VN-Index +2.15% (lên 1.728,36 điểm), thanh khoản HOSE tăng 96.2% lên 9.9 ngàn tỷ đồng do dòng tiền mua áp đảo (437 mã tăng). Dòng vốn ngoại tiếp tục mạnh với FDI đăng ký 9 tháng vượt 50 tỷ USD (+76.4% so với 2025), Singapore dẫn đầu 12.85 tỷ USD. Ngành ngân hàng-chứng khoán khỏe: VPBankS chia cổ phiếu 45% nâng vốn lên 27.2 tỷ đồng (vượt mốc 1 tỷ USD), ABBank hoàn thành 96% lợi nhuận năm với Moody's nâng xếp hạng B2→B1. Thách thức: giá xăng dầu thế giới tăng 65-90%, Chính phủ đã triển khai biện pháp kiểm soát lạm phát để bảo vệ thành quả tăng trưởng.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận đà phục hồi mạnh với VN-Index tăng 2.15%, thanh khoản tăng 200% lên 9.9 ngàn tỷ đồng. Dòng FDI chảy vào Việt Nam mạnh mẽ với Singapore dẫn đầu 12,85 tỷ USD (9 tháng) và dự án Maersk-Hateco quy mô 3,5 tỷ USD cho logistics đường sắt. Các ngân hàng chủ động giảm lãi suất hưởng ứng định hướng NHNN, hỗ trợ doanh nghiệp bổ sung vốn. VPBankS chia cổ phiếu 45% nâng vốn lên 27,2 tỷ đồng vượt mốc 1 tỷ USD.",
   "top": [
     {
-      "title": "VN-Index tăng 2.15%, thanh khoản gấp đôi",
+      "title": "Singapore rót 12,85 tỷ USD FDI, dẫn đầu 9 tháng",
       "impact": "↑",
-      "note": "VN-Index tăng 36 điểm (2.15%) lên 1.728,36 điểm, HNX-Index tăng 0.77% lên 259.94 điểm. Thanh khoản HOSE đạt 9.9 ngàn tỷ đồng, tăng 96.2% so với phiên trước, mức kỷ lục kể từ cuối tháng 7. Độ rộng toàn thị trường 437 mã tăng/208 mã giảm. Nhóm bất động sản dẫn dắt với mức tăng 4.96%."
+      "note": "Singapore là nguồn FDI lớn nhất với 12,85 tỷ USD đăng ký (9 tháng 2026), chiếm 25,6% tổng FDI cả nước, tăng 86% so với cùng kỳ 2025. Hiện Singapore dẫn trước Hàn Quốc (thứ 2) 3,1 tỷ USD."
     },
     {
-      "title": "Maersk-Hateco phát triển logistics đường sắt 3.5 tỷ USD",
+      "title": "Maersk-Hateco phát triển logistics đường sắt 3,5 tỷ USD",
       "impact": "↑",
-      "note": "A.P. Moller-Maersk (Đan Mạch) ký biên bản ghi nhớ với Hateco phát triển mạng vận tải hàng hóa đường sắt miền Bắc Việt Nam, tổng vốn đầu tư 3.5 tỷ USD, gồm nhà ga container tại Hải Phòng và ba cơ sở vận tải khác. Ứng dụng công nghệ số trong quản lý, bốc xếp hàng hóa."
+      "note": "A.P. Moller-Maersk ký biên bản ghi nhớ với Hateco ngày 20/10 phát triển mạng vận tải hàng hóa đường sắt miền Bắc Việt Nam, tổng vốn đầu tư 3,5 tỷ USD, gồm nhà ga container tại Hải Phòng và ba cơ sở vận tải khác."
     },
     {
-      "title": "FDI đăng ký 9 tháng vượt 50 tỷ USD, Singapore dẫn 12.85 tỷ",
+      "title": "VN-Index tăng 2.15%, thanh khoản tăng 200%",
       "impact": "↑",
-      "note": "Tổng vốn FDI đăng ký 9 tháng năm 2026 vượt 50 tỷ USD, tăng 76.4% so với cùng kỳ 2025. FDI thực hiện đạt 21.07 tỷ USD. Singapore dẫn đầu với 12.85 tỷ USD (chiếm 25% tổng FDI), tăng gần 86% YoY và cao hơn Hàn Quốc (thứ 2) 3.1 tỷ USD."
+      "note": "VN-Index tăng 36 điểm lên 1.728,36 điểm, HNX-Index tăng 0,77%. Thanh khoản HOSE đạt 9,9 ngàn tỷ đồng, tăng 200% so với phiên trước. Độ rộng thị trường mạnh với 224 mã tăng/91 mã giảm, 138 cổ phiếu tăng vượt 1%."
     },
     {
-      "title": "VPBankS chia cổ phiếu 45%, vốn lên 27.2 tỷ đồng",
+      "title": "VIB giảm lãi suất, triển khai gói tín dụng 15.000 tỷ",
       "impact": "↑",
-      "note": "VPBankS phát hành 843.75 triệu cổ phiếu thưởng với tỷ lệ 45% (cổ đông sở hữu 100 cổ phiếu được nhận thêm 45 cổ phiếu), dự kiến tăng vốn điều lệ từ 18.750 tỷ đồng lên 27.187,5 tỷ đồng (hơn 1 tỷ USD), cao nhất ngành chứng khoán."
+      "note": "VIB giảm lãi suất huy động 0,5%/năm, triển khai gói tín dụng ưu đãi 15.000 tỷ đồng cho doanh nghiệp ngành ưu tiên, lãi suất giảm tối đa 1,5%/năm theo điều kiện chương trình."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, CP kiểm soát lạm phát",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%. Thủ tướng Lê Minh Hưng cho biết Chính phủ triển khai biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Lạm phát tăng sẽ xói mòn thành quả tăng trưởng, đòi hỏi giữ vững ổn định kinh tế vĩ mô hướng tới mục tiêu tăng trưởng 10% năm 2027."
+      "title": "VPBankS chia cổ phiếu 45%, vốn lên 27.187,5 tỷ đồng",
+      "impact": "↑",
+      "note": "VPBankS phát hành 843,75 triệu cổ phiếu thưởng với tỷ lệ 45% (cổ đông 100 cổ phiếu nhận thêm 45 cổ phiếu), tăng vốn điều lệ từ 18.750 tỷ lên 27.187,5 tỷ đồng, vượt mốc 1 tỷ USD, cao nhất ngành chứng khoán."
     },
     {
-      "title": "ABBank lợi nhuận 4.301 tỷ, Moody's nâng xếp hạng B2→B1",
-      "impact": "↑",
-      "note": "ABBank lợi nhuận trước thuế lũy kế 9 tháng đạt 4.301 tỷ đồng (hoàn thành gần 96% kế hoạch). Tổng tài sản 276 ngàn tỷ đồng (tăng 25% từ đầu năm), dư nợ 134.592 tỷ đồng. Nợ xấu 0.80% (thấp hơn mục tiêu dưới 1.5%), CAR 12% (cao hơn mức tối thiểu 8%). Moody's Ratings nâng xếp hạng tiền gửi dài hạn và nhà phát hành từ B2 lên B1 ngày 06/10."
+      "title": "Cao su Sao Vàng phải nộp 4,7 ngàn tỷ đồng",
+      "impact": "↓",
+      "note": "Khoản phải nộp Nhà nước của SRC tăng đột biến từ 3 tỷ đồng (quý 2) lên 4,7 ngàn tỷ đồng (30/09/2026), chủ yếu từ thuế nhà đất. Tiền mặt chỉ 33 tỷ đồng, nợ phải trả 5,3 ngàn tỷ đồng."
     }
   ]
 }
