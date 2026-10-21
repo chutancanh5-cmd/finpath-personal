@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-21",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng FDI vào Việt Nam vẫn giữ sức hút mạnh với Singapore dẫn đầu 12,85 tỷ USD, tăng 86% YoY; các dự án hạ tầng quy mô lớn (Maersk 3,5 tỷ USD, Hà Nội 384,886 triệu tỷ đồng) hỗ trợ tăng trưởng dài hạn. Tuy nhiên, thị trường chứng khoán chịu áp lực từ thanh khoản sụt giảm 58%, lợi nhuận broker suy yếu, khoảng cách tín dụng-huy động (0,22 điểm) tạo áp lực lãi suất, và kiều hối giảm 13,8% phản ánh áp lực ngoại tệ, dù chính phủ kiểm soát lạm phát tốt khi giá dầu toàn cầu tăng 65-90%.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nền kinh tế Việt Nam hưởng lợi từ dòng FDI mạnh: Singapore dẫn đầu 12,85 tỷ USD (tăng 76,4%), Maersk-Hateco bắt tay phát triển logistics 3,5 tỷ USD tại miền Bắc. Đầu tư công Hà Nội tăng tốc hơn 1 triệu tỷ đồng cho hạ tầng đô thị. Chính phủ kiểm soát lạm phát hiệu quả khi giá xăng dầu thế giới tăng 65-90%. Tuy nhiên, khoảng cách tín dụng-huy động (0,22 điểm) là rủi ro vĩ mô cần theo dõi.",
   "top": [
     {
-      "title": "Singapore dẫn đầu FDI 12,85 tỷ USD, tăng 86%",
+      "title": "Singapore dẫn đầu FDI 12,85 tỷ USD, tăng 76,4%",
       "impact": "↑",
-      "note": "9 tháng 2026 Singapore đạt 12,85 tỷ USD vốn FDI đăng ký, chiếm hơn ¼ tổng, tăng 86% so với cùng kỳ 2025 (tăng thêm khoảng 6 tỷ USD); tổng FDI đăng ký cả nước vượt 50 tỷ USD tăng 76,4%, FDI thực hiện 21,07 tỷ USD — dòng vốn nước ngoài mạnh mẽ hỗ trợ thị trường."
+      "note": "9 tháng 2026: Singapore rót 12,85 tỷ USD vốn FDI đăng ký, chiếm hơn 1/4 tổng FDI cả nước vượt 50 tỷ USD. So cùng kỳ 2025, tăng gần 86%, tương ứng thêm gần 6 tỷ USD, vốn FDI thực hiện 21,07 tỷ USD."
     },
     {
       "title": "Maersk-Hateco phát triển logistics đường sắt 3,5 tỷ USD",
       "impact": "↑",
-      "note": "APM Terminals ký biên bản ghi nhớ ngày 20/10/2026 với Hateco phát triển mạng logistics đường sắt miền Bắc vốn 3,5 tỷ USD, gồm nhà ga container Hải Phòng và ba cơ sở vận tải khác kết nối khu công nghiệp và cảng biển — FDI lớn vào hạ tầng giao thông."
+      "note": "APM Terminals ký biên bản ghi nhớ 20/10 với Hateco phát triển mạng vận tải đường sắt miền Bắc vốn 3,5 tỷ USD: nhà ga container đường sắt Hải Phòng + ba cơ sở vận tải khác, kết nối khu công nghiệp, trung tâm logistics, vùng sản xuất với cảng biển."
     },
     {
-      "title": "Hà Nội khởi động 5 tuyến đường sắt đô thị 384,9 triệu tỷ đồng",
+      "title": "Hà Nội khởi động 5 tuyến metro vốn hơn 1 triệu tỷ",
       "impact": "↑",
-      "note": "Hà Nội ký kết dự án với Liên danh Vinhomes-SGC phát triển 5 tuyến metro (1,2,8,10,14) dài 253,5 km, vốn hơn 1 triệu tỷ đồng, mục tiêu hoàn thành 2030; đầu tư công 384,886 triệu tỷ đồng cho 292 dự án 2026 — thúc đẩy xây dựng, sản xuất thiết bị, dịch vụ và tăng trưởng GDP."
+      "note": "Hà Nội ký kết dự án với Liên danh Vinhomes-SGC triển khai 5 tuyến metro (1, 2, 8, 10, 14) dài 253,5 km, vốn dự kiến hơn 1 triệu tỷ đồng, hoàn thành trước 31-12-2030; 2026 đầu tư công 384.886 tỷ đồng cho 292 dự án."
     },
     {
-      "title": "Tín dụng tăng nhanh hơn huy động vốn",
-      "impact": "↓",
-      "note": "Dư nợ tín dụng toàn nền kinh tế đạt 20,72 triệu tỷ đồng tăng 11,44% (vs cuối 2025), huy động vốn tăng 11,22%, khoảng cách 0,22 điểm phần trăm; ngân hàng phải cân đối chi phí vốn, kỳ hạn nguồn vốn và chất lượng tín dụng trước yêu cầu giảm lãi suất hỗ trợ doanh nghiệp."
+      "title": "Chính phủ kiểm soát lạm phát khi giá dầu tăng 65-90%",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh giữ ổn định vĩ mô hướng tới mục tiêu tăng trưởng GDP 10%+. Giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ áp dụng biện pháp giữ giá trong nước ở mức thấp, không tăng giá điện, kiểm soát CPI."
     },
     {
-      "title": "Kiều hối 9 tháng giảm 13,8%, lũy kế 6,87 tỷ USD",
+      "title": "Khoảng cách tín dụng-huy động: rủi ro hệ thống",
       "impact": "↓",
-      "note": "Kiều hối về TP. Hồ Chí Minh lũy kế 9 tháng 2026 đạt 6,872 triệu USD, giảm 13,8% so với 2025 (giảm 1.096,5 triệu USD); Q3 2026 2,84 tỷ USD tăng 39,5% QoQ nhưng chỉ tăng 3,6% YoY, Châu Á chiếm 59,1% — sức cầu lao động nước ngoài yếu đe dọa dòng tiền ngoại tệ."
+      "note": "Đến 14/10: dư nợ tín dụng toàn nền tăng 16,73% so cùng kỳ, huy động vốn chỉ tăng 11,22%. Khoảng cách 0,22 điểm phần trăm; bài toán ngân hàng là cân đối chi phí vốn, kỳ hạn nguồn vốn, chất lượng tín dụng trước yêu cầu giảm lãi suất."
     },
     {
-      "title": "Thanh khoản sụt 58%, lợi nhuận broker giảm sâu",
-      "impact": "↓",
-      "note": "Q3 2026 giá trị giao dịch trung bình 18.500 tỷ đồng/ngày giảm 58% YoY; HSC Q3 doanh thu 1,182 tỷ đồng (-15%), lợi nhuận 371 tỷ đồng (-33%); khối ngoại bán ròng 174 tỷ đồng (20/10), VN-Index kiểm định vùng hỗ trợ 1675-1680 — thanh khoản sụt tạo áp lực lên ngành chứng khoán."
+      "title": "Dow Jones tăng 1,02% nhờ báo cáo tài chính khả quan",
+      "impact": "↑",
+      "note": "Thị trường Mỹ 20/10: Dow Jones +529,85 điểm (+1,02%), S&P 500 +0,28%, Nasdaq -0,02%. 3M tăng hơn 5%, Northrop Grumman tăng hơn 4% nhờ lợi nhuận quý 3 vượt kỳ vọng."
     }
   ]
 }
