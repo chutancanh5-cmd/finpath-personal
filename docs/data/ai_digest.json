@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-22",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán sôi động với khối ngoại mua ròng 347 tỷ đồng bluechips và HDS lãi gấp 3,7 lần. Kiều hối quý 3 phục hồi 2,8 tỷ USD là tín hiệu khởi sắc, sân bay Long Thành vận hành năm 2026 sẽ kích thích xuất nhập khẩu. Chính phủ kiểm soát lạm phát tốt mặc dù dầu thế giới tăng 65-90%, định hướng tăng trưởng GDP 10%+ năm 2027. Nhưng áp lực chi phí từ giá dầu cao vẫn ảnh hưởng một số ngành vận tải, logistics.",
+  "summary_vi": "Thị trường hôm nay phiên phục hồi khi khối ngoại quay lại mua ròng 300-350 tỷ đồng các bluechips sau 13 phiên bán liên tiếp, mang tâm lý tích cực cho nhà đầu tư. VN-Index tăng 22 điểm lên 1.760 điểm nhưng phân hóa nặng (344 mã giảm, chỉ VIC/VHM mang ~24 điểm). HDS báo lãi 9 tháng gấp 3,7 lần cùng kỳ, kiều hối quý 3 phục hồi. Tuy nhiên, rủi ro lạm phát toàn cầu gia tăng khi lãi suất Pháp chạm 5% (cao nhất 24 năm), áp lực từ chiến sự và giá dầu cao 65-90%.",
   "top": [
     {
-      "title": "HDS lãi 9 tháng 2.241 tỷ, gấp 3,7 lần cùng kỳ",
+      "title": "Khối ngoại đảo chiều mua sau 13 phiên bán",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế 9 tháng 2.241 tỷ đồng, gấp 3,7 lần cùng kỳ và gấp 1,7 lần cả năm 2025. Doanh thu bảo lãnh, đại lý phát hành 982 tỷ đồng, gấp 9,8 lần cùng kỳ, phản ánh sôi động thị trường IPO/M&A."
+      "note": "Khối ngoại mua ròng 301 tỷ đồng phiên 22/10, phiên mua thứ 2 liên tiếp. Tuy cán cân tháng 10 vẫn âm 6 ngàn tỷ đồng, dòng tiền đã đảo chiều, mạnh nhất tại VIC (239 tỷ), VHM (161 tỷ), TCB (143 tỷ), MSN (141 tỷ)."
     },
     {
-      "title": "Khối ngoại mua ròng 347 tỷ, tập trung bluechips",
-      "impact": "↑",
-      "note": "Khối ngoại mua ròng 347 tỷ đồng trên toàn thị trường, tập trung mua VIC 239 tỷ đồng, TCB 178 tỷ đồng, VHM 160 tỷ đồng. Tín hiệu lạc quan từ nhà đầu tư nước ngoài."
+      "title": "VN-Index tăng 22 điểm, dòng tiền chưa lan tỏa",
+      "impact": "→",
+      "note": "VN-Index tăng 21,96 điểm (1,26%) lên 1.760,63 điểm, nhưng 164 mã giảm > 147 mã tăng. Thanh khoản HoSE 15.300 tỷ đồng, giảm 25%, cho thấy nhà đầu tư vẫn thận trọng mặc dù chỉ số tăng."
     },
     {
-      "title": "Kiều hối quý 3 phục hồi 2,8 tỷ USD, tăng 800 triệu",
+      "title": "HDS lãi 9 tháng 2.241 tỷ, gấp 3,7 lần",
       "impact": "↑",
-      "note": "Kiều hối chuyển về TP HCM quý 3 đạt 2,8 tỷ USD, tăng 800 triệu USD so với quý trước, là quý dương đầu tiên. Lũy kế 9 tháng 6,87 tỷ USD, giảm 14%, nhưng mức giảm thu hẹp từ -22,8% (6 tháng đầu)."
+      "note": "HDS lợi nhuận trước thuế 9 tháng 2.241 tỷ đồng, gấp 3,7 lần cùng kỳ, vượt 1,7 lần lãi năm 2025. Doanh thu bảo lãnh, đại lý phát hành 982 tỷ đồng, gấp 9,8 lần; ROE quy năm 27,5%."
     },
     {
-      "title": "Sân bay Long Thành vận hành 2026, phát triển logistics",
-      "impact": "↑",
-      "note": "Sân bay Long Thành giai đoạn 1 vận hành thương mại năm 2026. Đồng Nai phát triển hệ sinh thái logistics 100+ ha quanh sân bay, phục vụ hàng công nghệ cao, linh kiện điện tử, kho lạnh vaccine, dược phẩm."
+      "title": "Sắc đỏ 344 mã, chỉ VIC/VHM kéo chỉ số",
+      "impact": "↓",
+      "note": "Phiên 22/10 sắc đỏ lan tỏa 344 mã, thêm 13 mã giảm sàn. VIC, VHM trực tiếp mang ~24 điểm, nếu loại ra thì chỉ số sẽ giảm. Phân hóa thị trường xấu, dòng tiền chưa lan rộng ngành khác."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát, mục tiêu tăng 10%",
-      "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ giữ giá trong nước ở mức thấp so với khu vực, không tăng giá điện kiểm soát lạm phát. Mục tiêu tăng trưởng GDP 10% trở lên năm 2027 là định hướng hỗ trợ TTCK."
+      "title": "Lãi suất Pháp chạm 5%, cao nhất 24 năm",
+      "impact": "↓",
+      "note": "Lãi suất trái phiếu chính phủ Pháp kỳ hạn 10 năm leo thang lên 5%, cao nhất từ 2002 (từ 3,2% cuối tháng 2). Pháp chịu áp lực nặng nhất G7 từ chiến sự Iran đẩy lạm phát, rủi ro bất ổn eurozone lan rộng."
     },
     {
       "title": "Superdong lãi quý 3 chỉ 269 triệu, giảm 96%",
       "impact": "↓",
-      "note": "Superdong lãi sau thuế quý 3 chỉ 269 triệu đồng, giảm 96% so với cùng kỳ. Giá vốn tăng 23% do giá dầu leo thang, áp lực chi phí ảnh hưởng ngành vận tải, logistics, du lịch."
+      "note": "SKG lãi sau thuế quý 3 269 triệu đồng, giảm 96% so với cùng kỳ. Doanh thu 107 tỷ tăng 9% nhưng giá vốn tăng 23%, lợi nhuận gộp giảm 40%, phản ánh áp lực giá dầu cao lên vận tải."
     }
   ]
 }
