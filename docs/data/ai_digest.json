@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-22",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tín hiệu tích cực sau nâng hạng FTSE Russell: khối ngoại mua ròng trở lại (phiên 21/10), dòng vốn 33.000 tỷ đồng dự kiến năm 2027. Hoạt động IPO tăng vọt gấp 9 lần, huy động vốn TTCK tăng 65% trong 2 năm, tín dụng mở rộng mạnh và ngân hàng tăng trưởng lợi nhuận 15-17%. Rủi ro từ áp lực lạm phát do giá xăng dầu thế giới tăng 65-90%, dù Chính phủ kiểm soát bằng cách giữ giá xăng dầu/điện ở mức thấp.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam bất ngờ đón dòng vốn ngoại mua lại sau 20 phiên bán ròng, đánh dấu sự phục hồi niềm tin sau nâng hạng thị trường mới nổi FTSE Russell. Hoạt động IPO tăng vọt với 10 doanh nghiệp huy động 60.900 tỷ đồng (gấp 9 lần so với 4 năm trước), phản ánh sự sôi động của thị trường vốn. Song song đó, áp lực lạm phát từ giá xăng dầu toàn cầu tăng 65-90% và biến động USD/VND trong quý IV vẫn là rủi ro không nhỏ, mặc dù Chính phủ triển khai các biện pháp ổn định giá để hướng tới mục tiêu GDP 10% năm 2027.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng lần đầu sau 13 phiên bán",
+      "title": "Khối ngoại mua ròng lần đầu sau 20 phiên bán",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 190 tỷ đồng (122 tỷ khớp lệnh) phiên 21/10 sau chuỗi 13 phiên bán liên tiếp. Dòng vốn từ nâng hạng FTSE Russell dự kiến 33.000 tỷ đồng (1,27 tỷ USD) giải ngân năm 2027, với 282 triệu USD vào tháng 3/2027."
+      "note": "Khối ngoại mua ròng 190 tỷ đồng phiên 21/10 (trong đó TCB mua ròng 256 tỷ đồng), là phiên mua ròng thứ 2 kể từ nâng hạng FTSE Russell (21/9). Dòng vốn nâng hạng dự kiến 33.000 tỷ đồng (1,27 tỷ USD) giải ngân năm 2027, với 282 triệu USD vào tháng 3/2027."
     },
     {
-      "title": "IPO tăng đột biến huy động 60.900 tỷ đồng, gấp 9 lần",
+      "title": "IPO huy động 60.900 tỷ đồng từ 10 doanh nghiệp, gấp 9 lần giai đoạn trước",
       "impact": "↑",
-      "note": "10 IPO từ cuối 2025 đến nay huy động 60.900 tỷ đồng, so với 16 công ty giai đoạn 2021-2024 huy động 6.500 tỷ đồng. Thời gian niêm yết được rút ngắn từ 90 ngày xuống 30 ngày."
+      "note": "Từ cuối 2025 đến 22/10, có 10 doanh nghiệp IPO huy động 60.900 tỷ đồng, so với 16 công ty trong giai đoạn 2021-2024 huy động 6.500 tỷ đồng. Quy định gắn IPO với niêm yết rút ngắn thời gian từ 90 ngày xuống 30 ngày."
     },
     {
-      "title": "Huy động vốn TTCK tăng 65% trong 2 năm",
+      "title": "VN-Index tăng 46,7 điểm, thị trường mở rộng quy mô huy động vốn",
       "impact": "↑",
-      "note": "Giá trị huy động vốn qua TTCK và trái phiếu doanh nghiệp tăng từ 413.000 tỷ đồng (2023) lên 764.000 tỷ đồng (2025), trong 9 tháng 2026 đạt 564.000 tỷ đồng."
+      "note": "VN-Index tăng 46,7 điểm phiên 21/10, giá trị huy động vốn qua TTCK và trái phiếu 9 tháng 2026 đạt 564.000 tỷ đồng (tăng từ 413.000 tỷ đồng năm 2023 lên 764.000 tỷ đồng năm 2025), lợi nhuận ngân hàng tăng 15-17%."
     },
     {
-      "title": "Tín dụng tăng mạnh, ngân hàng lợi nhuận +15-17%",
-      "impact": "↑",
-      "note": "SHB lợi nhuận 9 tháng ước 14.300 tỷ đồng (+17%), doanh thu 758,5 tỷ (+19%), dư nợ tín dụng 680.000 tỷ đồng. Tháng 9 quỹ đầu tư mua ròng 1.034 tỷ đồng cổ phiếu ngân hàng, MBB được 52 quỹ tham gia."
+      "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực lạm phát toàn nền kinh tế",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ triển khai biện pháp giữ giá xăng dầu/điện ở mức thấp. Nếu không có biện pháp, giá xăng dầu trong nước có thể tăng 80%, với tác động lan rộng đến giá hàng hóa khác, xói mòn thành quả tăng trưởng."
     },
     {
-      "title": "NHNN chỉ đạo giảm lãi suất huy động và cho vay",
-      "impact": "↑",
-      "note": "NHNN yêu cầu các NHTM giảm thực chất lãi suất huy động và cho vay theo chỉ đạo Thống đốc ngày 19/10/2026, kiểm soát lạm phát hướng tới mục tiêu tăng GDP 10% trở lên năm 2027."
+      "title": "Quý IV: Biến động USD/VND mạnh từ chính sách Fed và địa chính trị",
+      "impact": "→",
+      "note": "Quý IV dự báo biến động USD/VND cao do chính sách tiền tệ Fed, lạm phát, giá năng lượng và rủi ro địa chính trị. Kim ngạch XNK 9 tháng đạt 888,02 tỷ USD tăng 30,4%, doanh nghiệp cần chuẩn bị kịch bản tỷ giá."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực lạm phát",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%. Chính phủ giữ giá xăng dầu/điện ở mức thấp để kiểm soát lạm phát, nhưng nếu không có biện pháp, giá xăng dầu trong nước có thể tăng 80% với tác động lan rộng đến giá mặt hàng khác."
+      "title": "NCS tăng trưởng lợi nhuận quý thứ 17 liên tiếp, +17% trong Q3",
+      "impact": "↑",
+      "note": "Suất ăn hàng không Nội Bài Q3/2026 doanh thu 264 tỷ đồng tăng 15%, lợi nhuận sau thuế 20 tỷ đồng tăng 17%. Lũy kế 9 tháng doanh thu 758,5 tỷ đồng tăng 19%, lợi nhuận 60 tỷ đồng tăng 15%."
     }
   ]
 }
