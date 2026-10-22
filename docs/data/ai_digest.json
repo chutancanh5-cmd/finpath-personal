@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-22",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Sàn chứng khoán hôm 22/10 ghi nhận đà hồi phục tích cực với dòng tiền ngoại mua ròng 347 tỷ đồng vào các blue-chips và tăng trưởng lợi nhuận vượt trội của công ty chứng khoán HD (3,7 lần cùng kỳ). Tuy nhiên, 344 mã giảm giá cho thấy sự phân hóa mạnh, thị trường chủ yếu được hỗ trợ từ nhóm Vingroup. Cảnh báo từ Thủ tướng về lạm phát (giá dầu thế giới +65-90%) làm dấy lên rủi ro đối với tăng trưởng ngắn hạn, trong khi phát triển hạ tầng sân bay Long Thành mở ra cơ hội lâu dài.",
+  "summary_vi": "Thị trường chứng khoán sôi động với khối ngoại mua ròng 347 tỷ đồng bluechips và HDS lãi gấp 3,7 lần. Kiều hối quý 3 phục hồi 2,8 tỷ USD là tín hiệu khởi sắc, sân bay Long Thành vận hành năm 2026 sẽ kích thích xuất nhập khẩu. Chính phủ kiểm soát lạm phát tốt mặc dù dầu thế giới tăng 65-90%, định hướng tăng trưởng GDP 10%+ năm 2027. Nhưng áp lực chi phí từ giá dầu cao vẫn ảnh hưởng một số ngành vận tải, logistics.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng 347 tỷ đồng, ủng hộ mạnh VIC, TCB, VHM",
+      "title": "HDS lãi 9 tháng 2.241 tỷ, gấp 3,7 lần cùng kỳ",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 347 tỷ đồng cổ phiếu trên toàn thị trường, trong đó VIC được mua mạnh nhất với 239 tỷ đồng, tiếp theo là TCB (178 tỷ đồng) và VHM (160 tỷ đồng)."
+      "note": "Lợi nhuận trước thuế 9 tháng 2.241 tỷ đồng, gấp 3,7 lần cùng kỳ và gấp 1,7 lần cả năm 2025. Doanh thu bảo lãnh, đại lý phát hành 982 tỷ đồng, gấp 9,8 lần cùng kỳ, phản ánh sôi động thị trường IPO/M&A."
     },
     {
-      "title": "HDS lãi 9 tháng 2.241 tỷ đồng, gấp 3,7 lần cùng kỳ",
+      "title": "Khối ngoại mua ròng 347 tỷ, tập trung bluechips",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế 9 tháng đạt 2.241 tỷ đồng, gấp 3,7 lần cùng kỳ và vượt xa cả năm 2025 (1.314 tỷ đồng). Doanh thu bảo lãnh, đại lý phát hành đạt 982 tỷ đồng, gấp 9,8 lần cùng kỳ."
+      "note": "Khối ngoại mua ròng 347 tỷ đồng trên toàn thị trường, tập trung mua VIC 239 tỷ đồng, TCB 178 tỷ đồng, VHM 160 tỷ đồng. Tín hiệu lạc quan từ nhà đầu tư nước ngoài."
     },
     {
-      "title": "VN-Index tăng 22 điểm lên 1.760, blue-chips mạnh",
+      "title": "Kiều hối quý 3 phục hồi 2,8 tỷ USD, tăng 800 triệu",
       "impact": "↑",
-      "note": "VN-Index đóng cửa tăng 22 điểm tại 1.760 điểm với thanh khoản hơn 15.000 tỷ đồng. VIC tăng 4,16%, VHM tăng 3,56%, BSR tăng 3,91%, HDB tăng 1,13%."
+      "note": "Kiều hối chuyển về TP HCM quý 3 đạt 2,8 tỷ USD, tăng 800 triệu USD so với quý trước, là quý dương đầu tiên. Lũy kế 9 tháng 6,87 tỷ USD, giảm 14%, nhưng mức giảm thu hẹp từ -22,8% (6 tháng đầu)."
     },
     {
-      "title": "Long Thành: Hệ sinh thái logistics 100+ hectares phục vụ xuất khẩu",
+      "title": "Sân bay Long Thành vận hành 2026, phát triển logistics",
       "impact": "↑",
-      "note": "Sân bay Long Thành giai đoạn 1 vận hành thương mại trong năm 2026. Đồng Nai quy hoạch trung tâm logistics quanh sân bay trên 100 hectares, chuyên phục vụ hàng công nghệ cao, linh kiện điện tử, kho lạnh vaccine và dược phẩm."
+      "note": "Sân bay Long Thành giai đoạn 1 vận hành thương mại năm 2026. Đồng Nai phát triển hệ sinh thái logistics 100+ ha quanh sân bay, phục vụ hàng công nghệ cao, linh kiện điện tử, kho lạnh vaccine, dược phẩm."
     },
     {
-      "title": "Thủ tướng cảnh báo: Lạm phát tăng sẽ xói mòn thành quả tăng trưởng",
+      "title": "Chính phủ kiểm soát lạm phát, mục tiêu tăng 10%",
+      "impact": "↑",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ giữ giá trong nước ở mức thấp so với khu vực, không tăng giá điện kiểm soát lạm phát. Mục tiêu tăng trưởng GDP 10% trở lên năm 2027 là định hướng hỗ trợ TTCK."
+    },
+    {
+      "title": "Superdong lãi quý 3 chỉ 269 triệu, giảm 96%",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%. Chính phủ đang kiểm soát giá xăng dầu trong nước ở mức thấp và không tăng giá điện, nhưng Thủ tướng cảnh báo lạm phát cao sẽ ảnh hưởng đến tăng trưởng kinh tế."
-    },
-    {
-      "title": "Thị trường phân hóa: 344 mã giảm giá, VN-Index phụ thuộc Vingroup",
-      "impact": "↓",
-      "note": "Mặc dù VN-Index tăng 22 điểm, nhưng VIC và VHM đã mang về gần 24 điểm, tức là thị trường thực chất đã giảm nếu loại bỏ hai mã này. Sắc đỏ lan tỏa lên 344 mã, thêm 13 mã giảm sàn, cho thấy sự phân hóa mạnh."
+      "note": "Superdong lãi sau thuế quý 3 chỉ 269 triệu đồng, giảm 96% so với cùng kỳ. Giá vốn tăng 23% do giá dầu leo thang, áp lực chi phí ảnh hưởng ngành vận tải, logistics, du lịch."
     }
   ]
 }
