@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-22",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam bất ngờ đón dòng vốn ngoại mua lại sau 20 phiên bán ròng, đánh dấu sự phục hồi niềm tin sau nâng hạng thị trường mới nổi FTSE Russell. Hoạt động IPO tăng vọt với 10 doanh nghiệp huy động 60.900 tỷ đồng (gấp 9 lần so với 4 năm trước), phản ánh sự sôi động của thị trường vốn. Song song đó, áp lực lạm phát từ giá xăng dầu toàn cầu tăng 65-90% và biến động USD/VND trong quý IV vẫn là rủi ro không nhỏ, mặc dù Chính phủ triển khai các biện pháp ổn định giá để hướng tới mục tiêu GDP 10% năm 2027.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tín hiệu tích cực khi khối ngoại quay lại mua ròng sau 13-20 phiên bán liên tiếp, VN-Index tăng 46,7 điểm. Dòng vốn FDI mạnh với hơn 13 tỷ USD dự kiến đổ bộ vào TP.HCM và 10 IPO mới huy động 60.900 tỷ đồng (gấp 9 lần so với 4 năm trước). Các ngân hàng chủ động giảm lãi suất theo chỉ đạo (SACOMBANK: 40.000 tỷ đồng cho doanh nghiệp, 10.000 tỷ cho kinh doanh cá nhân giảm 1,5-2%), tạo điều kiện cho tăng trưởng kinh tế. Tuy nhiên rủi ro vĩ mô vẫn cần theo dõi: giá xăng dầu thế giới tăng 65-90% có khả năng tác động đến lạm phát trong nước.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng lần đầu sau 20 phiên bán",
+      "title": "Khối ngoại mua ròng sau 13-20 phiên bán, VN-Index tăng 46,7 điểm",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 190 tỷ đồng phiên 21/10 (trong đó TCB mua ròng 256 tỷ đồng), là phiên mua ròng thứ 2 kể từ nâng hạng FTSE Russell (21/9). Dòng vốn nâng hạng dự kiến 33.000 tỷ đồng (1,27 tỷ USD) giải ngân năm 2027, với 282 triệu USD vào tháng 3/2027."
+      "note": "Khối ngoại mua ròng 122-190 tỷ đồng trong phiên 21/10 sau chuỗi 13-20 phiên bán liên tiếp; VN-Index tăng 46,7 điểm với động lực từ nhóm Vingroup tăng kịch trần; tín hiệu tích cực cho sự hạ nhiệt áp lực bán ngoại và cải thiện tâm lý thị trường."
     },
     {
-      "title": "IPO huy động 60.900 tỷ đồng từ 10 doanh nghiệp, gấp 9 lần giai đoạn trước",
+      "title": "13 tỷ USD vốn đầu tư dự kiến vào TP.HCM cho Diễn đàn AEF 2026",
       "impact": "↑",
-      "note": "Từ cuối 2025 đến 22/10, có 10 doanh nghiệp IPO huy động 60.900 tỷ đồng, so với 16 công ty trong giai đoạn 2021-2024 huy động 6.500 tỷ đồng. Quy định gắn IPO với niêm yết rút ngắn thời gian từ 90 ngày xuống 30 ngày."
+      "note": "Diễn đàn Kinh tế Mùa thu 2026 dự kiến từ 26-29/10 tại TP.HCM quy tụ hơn 1.500 đại biểu trong nước và quốc tế; Giám đốc HCMC C4IR thông tin hơn 13 tỷ USD vốn đầu tư sẽ đổ bộ vào thành phố; tập trung vào AI, công nghệ chiến lược, kinh tế xanh và logistics xanh."
     },
     {
-      "title": "VN-Index tăng 46,7 điểm, thị trường mở rộng quy mô huy động vốn",
+      "title": "10 IPO mới huy động 60.900 tỷ đồng, gấp 9 lần so với 4 năm trước",
       "impact": "↑",
-      "note": "VN-Index tăng 46,7 điểm phiên 21/10, giá trị huy động vốn qua TTCK và trái phiếu 9 tháng 2026 đạt 564.000 tỷ đồng (tăng từ 413.000 tỷ đồng năm 2023 lên 764.000 tỷ đồng năm 2025), lợi nhuận ngân hàng tăng 15-17%."
+      "note": "Từ cuối 2025 đến nay có 10 doanh nghiệp thực hiện IPO huy động 60.900 tỷ đồng, cao gấp hơn 9 lần so với giai đoạn 2021-2024 (16 IPO, 6.500 tỷ đồng); 7 doanh nghiệp đã niêm yết, 3 doanh nghiệp đang hoàn tất thủ tục; sửa đổi quy định giúp rút ngắn thời gian niêm yết từ 90 ngày xuống 30 ngày."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực lạm phát toàn nền kinh tế",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ triển khai biện pháp giữ giá xăng dầu/điện ở mức thấp. Nếu không có biện pháp, giá xăng dầu trong nước có thể tăng 80%, với tác động lan rộng đến giá hàng hóa khác, xói mòn thành quả tăng trưởng."
-    },
-    {
-      "title": "Quý IV: Biến động USD/VND mạnh từ chính sách Fed và địa chính trị",
-      "impact": "→",
-      "note": "Quý IV dự báo biến động USD/VND cao do chính sách tiền tệ Fed, lạm phát, giá năng lượng và rủi ro địa chính trị. Kim ngạch XNK 9 tháng đạt 888,02 tỷ USD tăng 30,4%, doanh nghiệp cần chuẩn bị kịch bản tỷ giá."
-    },
-    {
-      "title": "NCS tăng trưởng lợi nhuận quý thứ 17 liên tiếp, +17% trong Q3",
+      "title": "SACOMBANK giảm lãi suất 40.000 tỷ cho doanh nghiệp, 10.000 tỷ cho kinh doanh cá nhân",
       "impact": "↑",
-      "note": "Suất ăn hàng không Nội Bài Q3/2026 doanh thu 264 tỷ đồng tăng 15%, lợi nhuận sau thuế 20 tỷ đồng tăng 17%. Lũy kế 9 tháng doanh thu 758,5 tỷ đồng tăng 19%, lợi nhuận 60 tỷ đồng tăng 15%."
+      "note": "Từ 20/10/2026, SACOMBANK triển khai gói tín dụng 40.000 tỷ đồng cho doanh nghiệp giảm 2%/năm lãi suất cho vay; 10.000 tỷ đồng cho hộ kinh doanh giảm 1,5-2%/năm so với khung lãi suất hiện hành; thêm 10.000 tỷ để giảm lãi suất cho dư nợ hiện hữu; tuân thủ chỉ đạo điều hành của Chính phủ và NHNN."
+    },
+    {
+      "title": "Giá xăng dầu thế giới tăng 65-90%, rủi ro lạm phát tác động tăng trưởng",
+      "impact": "↓",
+      "note": "Thủ tướng Lê Minh Hưng cảnh báo giá xăng dầu thế giới tăng 65-90%; Chính phủ triển khai các biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát lạm phát; nhấn mạnh 'lạm phát tăng sẽ xói mòn thành quả tăng trưởng' và người dân không được hưởng lợi từ tăng trưởng nếu lạm phát không được kiểm soát."
+    },
+    {
+      "title": "NCS ghi nhận quý tăng trưởng lợi nhuận thứ 17 liên tiếp, doanh thu 264 tỷ tăng 15%",
+      "impact": "↑",
+      "note": "Quý 3/2026, NCS (suất ăn hàng không Nội Bài, công ty con Vietnam Airlines) ghi nhận doanh thu thuần gần 264 tỷ đồng tăng hơn 15% so với cùng kỳ năm trước; lợi nhuận sau thuế hơn 20 tỷ đồng tăng hơn 17%; quý thứ 17 tăng trưởng lợi nhuận liên tiếp kể từ phục hồi sau đại dịch; biên lợi nhuận gộp thu hẹp từ 15,6% xuống 14,8% do áp lực chi phí."
     }
   ]
 }
