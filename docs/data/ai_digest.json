@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-22",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tăng 24,47 điểm nhờ nhóm Vingroup (VIC +5,19%, VHM +4,05%), nhưng phân hóa sâu sắc với 283 mã giảm và thanh khoản giảm 32%. Chính phủ tập trung kiềm lạm phát giữa xăng dầu toàn cầu tăng 65-90%, đồng thời hỗ trợ doanh nghiệp qua giảm lãi suất; tuy nhiên các chỉ đạo của NHNN có thể gây áp lực lên biên lãi ròng (NIM) ngân hàng, khiến SHB/TPBank/Techcombank vượt hạn mức tín dụng. Kiều hối phục hồi (Q3: 2,8 tỷ USD, tăng 800 triệu USD), chứng khoán khởi sắc với chuẩn bị CCP từ Q1/2027.",
+  "summary_vi": "Thị trường chứng khoán có chính sách hỗ trợ kịp thời từ Chính phủ và NHNN nhưng đối mặt áp lực lạm phát từ giá dầu thế giới tăng 65-90%. Kiều hối hồi phục trong Q3 và kỳ vọng vốn đầu tư tại AEF 2026 (13 tỷ USD) tạo tín hiệu tích cực, tuy nhiên thanh khoản thị trường suy yếu 32% và doanh thu ngành thủy điện giảm mạnh 56% do khô hạn phản ánh những thách thức tiền hành.",
   "top": [
     {
-      "title": "Thủ tướng: Lạm phát tăng sẽ xói mòn thành quả tăng trưởng",
+      "title": "Công văn 9608 NHNN: Giảm lãi suất tiền gửi ≥0,5%, cho vay 1,5-2% cho SME",
       "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng cảnh báo: giá xăng dầu thế giới tăng 65-90%, Chính phủ đã kiềm giá xăng dầu trong nước ở mức thấp, không tăng giá điện để bảo vệ tăng trưởng GDP hướng tới 10% trở lên năm 2027. Nhấn mạnh: Nếu lạm phát tăng sẽ xói mòn thành quả tăng trưởng."
+      "note": "Ngày 18/10, NHNN yêu cầu giảm lãi suất huy động tối thiểu 0,5%/năm với kỳ hạn ≥6 tháng; giảm lãi cho vay 1,5-2%/năm cho sản xuất kinh doanh. Các ngân hàng không tuân thủ có thể bị điều chỉnh hạn mức tín dụng hoặc yêu cầu tỷ lệ bảo đảm cao hơn. SHB, TPBank, Techcombank được ước tính đã vượt hạn mức tăng trưởng tín dụng năm 2026."
     },
     {
-      "title": "Công văn 9608 NHNN: Giảm lãi suất, áp lực NIM ngân hàng",
+      "title": "Kiều hối Q3 hồi phục: 2,8 tỷ USD, tăng 800 triệu USD so với Q2",
+      "impact": "↑",
+      "note": "Quý 3/2026 TP.HCM nhận 2,8 tỷ USD kiều hối, tăng trên 800 triệu USD so với Q2 - quý đầu tiên ghi nhận tăng trưởng dương. Lũy kế 9 tháng đạt 6,87 tỷ USD, giảm 14% YoY, nhưng xu hướng hồi phục bổ sung cho dòng tiền nước ngoài vào thị trường."
+    },
+    {
+      "title": "Xuất khẩu dầu Trung Đông vượt mức trước chiến tranh: 24,6 triệu thùng/ngày",
+      "impact": "↑",
+      "note": "Tuần kết thúc 18/10, xuất khẩu dầu Vùng Vịnh (không bao gồm Iran) đạt 24,6 triệu thùng/ngày, vượt mức trung bình 23,3 triệu thùng/ngày ghi nhận trước chiến tranh. Cải thiện cung cấp dầu toàn cầu hỗ trợ cổ phiếu năng lượng VN."
+    },
+    {
+      "title": "Giá dầu thế giới tăng 65-90%: Thách thức lạm phát và chi phí vận tải",
       "impact": "↓",
-      "note": "NHNN (18/10) yêu cầu giảm lãi suất tiền gửi tối thiểu 0,5%/năm (6 tháng trở lên) và lãi suất cho vay 1,5-2%/năm. VDSC cảnh báo: sức ép NIM, SHB/TPBank/Techcombank ước tính vượt hạn mức tín dụng 2026; ngân hàng không tuân thủ có thể bị điều chỉnh chỉ tiêu tín dụng năm 2027 hoặc áp dụng tỷ lệ bảo đảm cao hơn."
+      "note": "Thủ tướng Lê Minh Hưng (18/10) nhấn mạnh giá dầu thế giới tăng 65-90% trong bối cảnh mục tiêu tăng trưởng GDP 10%+ năm 2027. Chính phủ dùng các biện pháp kiểm soát giá trong nước, không tăng giá điện, nhưng rủi ro lạm phát vẫn hiện hữu cho các ngành vận tải, hóa chất, sản xuất."
     },
     {
-      "title": "VN-Index tăng 24,47 điểm, nhóm Vingroup kéo đà tăng",
+      "title": "AEF 2026 TP.HCM: 13 tỷ USD vốn đầu tư dự kiến (26-29/10)",
       "impact": "↑",
-      "note": "VN-Index tăng 24,47 điểm lên 1.763,14 điểm, nhưng VIC đóng góp 17,4 điểm và VHM 4,4 điểm. Tổng 273 mã tăng (21 tăng trần) nhưng 283 mã giảm (11 giảm sàn); thanh khoản giảm 32%, độ rộng giảm, phân hóa rõ rệt."
+      "note": "Diễn đàn Kinh tế Mùa thu 2026 tại TP.HCM quy tụ 1.500 đại biểu quốc tế, dự kiến 13 tỷ USD vốn đầu tư sẽ đổ bộ. Sự kiện tập trung vào chuyển đổi số, AI, kinh tế xanh, logistics - cơ hội lớn cho FDI vào nền kinh tế quy mô GRDP lớn nhất VN."
     },
     {
-      "title": "SACOMBANK giảm lãi suất cho vay cá nhân từ 1,5-2%",
+      "title": "SACOMBANK giảm lãi suất cho vay cá nhân 1,5-2%: 10.000 tỷ cho SME mới, 10.000 tỷ dư nợ",
       "impact": "↑",
-      "note": "Từ 20/10, SACOMBANK giảm 0,5%/năm lãi suất huy động, triển khai 40.000 tỷ đồng tín dụng doanh nghiệp (giảm 2%/năm), 10.000 tỷ cho cá nhân kinh doanh (giảm 1,5%/năm), cộng 10.000 tỷ giảm lãi suất dư nợ hiện hữu (1,5-2%/năm)."
-    },
-    {
-      "title": "Kiều hối quý 3 phục hồi, TP.HCM nhận 2,8 tỷ USD",
-      "impact": "↑",
-      "note": "Kiều hối chuyển về TP.HCM Q3 đạt 2,8 tỷ USD, tăng 800 triệu USD so với Q2, lần đầu tăng trưởng dương sau giảm 16,9% (Q1) và 27,9% (Q2). Lũy kế 9 tháng: 6,87 tỷ USD (-14% YoY), nhưng mức giảm thu hẹp từ 22,8% trong 6 tháng đầu."
-    },
-    {
-      "title": "Xuất khẩu dầu Vùng Vịnh vượt mức trước chiến tranh",
-      "impact": "→",
-      "note": "Tuần kết thúc 18/10, Vùng Vịnh xuất khẩu 24,6 triệu thùng/ngày, vượt mức trước chiến tranh 23,3 triệu thùng/ngày. Tuy nhiên, lưu lượng qua eo Hormuz vẫn thấp hơn 1/3 so với trước; giá dầu tiếp tục tăng do lo ngại ổn định nguồn cung."
+      "note": "Từ 20/10, SACOMBANK triển khai 10.000 tỷ đồng cho khách hàng cá nhân kinh doanh (hộ kinh doanh) với mức giảm lãi 1,5%/năm; thêm 10.000 tỷ giảm lãi cho dư nợ hiện hữu 1,5-2%/năm. Chính sách hỗ trợ trực tiếp SME trong bối cảnh quỹ tín dụng được kiểm soát chặt."
     }
   ]
 }
