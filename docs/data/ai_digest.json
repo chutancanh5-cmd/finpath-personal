@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-22",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách tiền tệ được nới lỏng với SACOMBANK giảm 1,5-2% lãi suất cho vay 40.000 tỷ đồng và hướng dẫn của NHNN để kiểm soát lạm phát. Thị trường cổ phiếu Việt Nam và Mỹ cùng tăng: VN-Index +46,7 điểm phiên 21/10, S&P 500 +0,58%, Nasdaq +1,05%, với SpaceX doanh thu quý 3 tăng 161% và Tesla EPS vượt kỳ vọng. Doanh nghiệp ghi nhận tăng trưởng chắc chắn như NCS tăng doanh thu 15%, lợi nhuận 17%. Hơn 13 tỷ USD vốn đầu tư sắp vào TP.HCM qua AEF 2026. Tuy nhiên, áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% và dư nợ chứng khoán ở mức kỷ lục 463 ngàn tỷ đồng vẫn cần giám sát.",
+  "summary_vi": "Chính sách tiền tệ nới lỏng và tín dụng ưu đãi (SACOMBANK giảm 1.5-2%, NHNN chỉ đạo giảm lãi suất huy động) hỗ trợ dòng tiền cho nền kinh tế và TTCK. Vốn ngoại dự kiến 13 tỷ USD vào TP.HCM qua AEF 2026, và hiệu suất thị trường Mỹ cải thiện (S&P 500 +0.58%, SpaceX +161%) mang tín hiệu tích cực. Tuy nhiên, lạm phát từ giá dầu thế giới tăng 65-90% và dư nợ margin lên kỷ lục 457.5 ngàn tỷ (tăng 2%) vẫn là rủi ro ngắn hạn cần giám sát.",
   "top": [
     {
-      "title": "SACOMBANK giảm 1,5-2% lãi suất cho vay 40.000 tỷ đồng",
-      "impact": "↑",
-      "note": "Từ 20/10 SACOMBANK triển khai: 40.000 tỷ đồng cho doanh nghiệp giảm 2%/năm lãi suất cho vay, 10.000 tỷ cho cá nhân/hộ kinh doanh vay sản xuất giảm 1,5%/năm, 10.000 tỷ giảm lãi suất khách hàng hiện hữu 1,5-2%/năm; đồng thời giảm 0,5%/năm lãi suất huy động từ 6 tháng trở lên, thể hiện nỗ lực nới lỏng tín dụng theo chỉ đạo NHNN."
+      "title": "Thủ tướng: Lạm phát tăng sẽ xói mòn thành quả tăng trưởng",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%; Chính phủ triển khai biện pháp giữ giá xăng dầu trong nước ở mức thấp (nếu không sẽ tăng ~80%), không tăng giá điện để kiểm soát lạm phát và bảo đảm người dân được hưởng lợi từ mục tiêu GDP tăng 10% năm 2027."
     },
     {
-      "title": "S&P 500 tăng 0,58%, Nasdaq +1,05% phiên thứ ba liên tiếp",
-      "impact": "↑",
-      "note": "S&P 500 đóng cửa 7.757,17 điểm tăng 0,58%, Nasdaq 26.702,86 điểm tăng 1,05%, Dow Jones 52.856,09 điểm tăng 0,69%. SpaceX báo cáo doanh thu quý 3/2026 tăng 161%, cổ phiếu tăng 7%. Tesla doanh thu 28,05 tỷ USD, EPS 0,48 USD vượt kỳ vọng 0,43-0,45 USD/cổ phiếu."
+      "title": "Dư nợ margin tăng cao, thanh khoản sụt mạnh",
+      "impact": "↓",
+      "note": "Dư nợ cho vay ký quỹ tại 78 công ty chứng khoán đạt 457.5 nghìn tỷ đồng cuối tháng 9/2026, tăng 11.7 nghìn tỷ đồng (tăng 2% so với quý 2); tỷ lệ dư nợ trên vốn chủ sở hữu 99%; VCBS tăng 21%, HD tăng 103.2%, nhưng VPS giảm 16.9%, SSI giảm 4.8%."
     },
     {
-      "title": "VN-Index tăng 46,7 điểm, dư nợ chứng khoán 463 ngàn tỷ",
+      "title": "SACOMBANK giảm lãi suất cho vay cá nhân từ 1,5-2%",
       "impact": "↑",
-      "note": "VN-Index tăng 46,7 điểm phiên 21/10 với động lực từ nhóm Vingroup. Dư nợ cho vay chứng khoán cuối Q3/2026 đạt kỷ lục 463 ngàn tỷ đồng, tăng 2% so với Q2 2026, cần giám sát rủi ro tính bền vững của tín dụng margin."
+      "note": "Từ 20/10 triển khai chương trình 40 ngàn tỷ gồm: 10 ngàn tỷ cho hộ kinh doanh/SME giảm 1.5%/năm, 10 ngàn tỷ cho khách hàng hiện hữu giảm 1.5-2%/năm; giảm thêm 0.5%/năm lãi suất huy động từ 6 tháng trở lên, tuân theo chỉ đạo NHNN nới lỏng tín dụng."
     },
     {
-      "title": "NCS doanh thu Q3 tăng 15%, lợi nhuận tăng 17%",
+      "title": "Hơn 13 tỷ USD vốn đầu tư sắp đổ vào TP.HCM",
       "impact": "↑",
-      "note": "CTCP Suất ăn Hàng không Nội Bài Q3/2026 doanh thu gần 264 tỷ đồng tăng 15% YoY, lợi nhuận hơn 20 tỷ đồng tăng 17% YoY. Lũy kế 9 tháng doanh thu 758,5 tỷ đồng tăng 19%, lợi nhuận 60 tỷ đồng tăng 15%. Đây là quý tăng trưởng lợi nhuận thứ 17 liên tiếp kể từ phục hồi sau dịch COVID."
+      "note": "AEF 2026 diễn ra 26-29/10 tại TP.HCM, quy tụ hơn 1.500 đại biểu quốc tế, 21 phiên thảo luận, 16 hoạt động bên lề, tập trung vào chuyển đổi số, AI, công nghệ chiến lược, kinh tế xanh, logistics xanh và phát triển Trung tâm Tài chính quốc tế."
     },
     {
-      "title": "Hơn 13 tỷ USD vốn đầu tư vào TP.HCM qua AEF 2026",
+      "title": "S&P 500 tăng phiên thứ ba liên tiếp",
       "impact": "↑",
-      "note": "Diễn đàn Kinh tế Mùa thu 2026 sẽ diễn ra 26-29/10 tại TP.HCM, quy tụ hơn 1.500 đại biểu trong nước và quốc tế, gồm 21 phiên thảo luận và 16 hoạt động bên lề tập trung vào AI, công nghệ chiến lược, kinh tế xanh, logistics xanh và Trung tâm Tài chính quốc tế, với hơn 13 tỷ USD vốn đầu tư dự kiến đổ vào."
+      "note": "S&P 500 +0.58% đạt 7.757 điểm, Dow Jones +0.69%, Nasdaq +1.05%; SpaceX báo cáo doanh thu tăng 161% quý 3, mảng AI tăng gấp 9 lần; Tesla doanh thu 28.05 tỷ USD, EPS 0.48 USD vượt dự báo 0.43-0.45 USD."
     },
     {
-      "title": "Giá xăng dầu thế giới +65-90%, Chính phủ kiểm soát lạm phát",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng Lê Minh Hưng chỉ đạo giữ giá xăng dầu trong nước ở mức thấp (nếu không kiểm soát sẽ tăng ~80%), không tăng giá điện để kiểm soát CPI, hướng tới mục tiêu GDP tăng 10%+ năm 2027 vì lạm phát sẽ xói mòn thành quả tăng trưởng."
+      "title": "Doanh nghiệp bán trà sữa trên máy bay nối dài đà tăng trưởng",
+      "impact": "↑",
+      "note": "NCS quý 3/2026 doanh thu gần 264 tỷ đồng (+15% YoY), lợi nhuận hơn 20 tỷ đồng (+17%); lũy kế 9 tháng doanh thu 758.5 tỷ (+19%), lợi nhuận 60 tỷ (+15%) — quý tăng trưởng lợi nhuận thứ 17 liên tiếp."
     }
   ]
 }
