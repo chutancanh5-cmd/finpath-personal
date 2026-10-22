@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-22",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán đối mặt áp lực từ dòng tiền yếu với tiền gửi sàn xuống 71,5 nghìn tỷ đồng (-17,5%), dư nợ ký quỹ cao 457,5 nghìn tỷ tạo rủi ro ngắn hạn. Kiều hối suy giảm 14% và cảnh báo lạm phát từ xăng dầu thế giới (+65-90%) tăng thêm áp lực. Tuy nhiên, gói tín dụng giảm lãi suất 40 nghìn tỷ và hơn 13 tỷ USD FDI vào TP HCM là tín hiệu hỗ trợ tích cực.",
+  "summary_vi": "Chính phủ tiếp tục hỗ trợ kinh tế qua giảm lãi suất, nhưng áp lực lạm phát vẫn hiện hữu khi giá xăng dầu thế giới tăng 65-90%. Nhà đầu tư khó lạc quan, với số dư tiền trên tài khoản chứng khoán rơi xuống mức thấp 3 năm (71,5 nghìn tỷ đồng), ngay cả khi dư nợ margin lại tăng cao, phản ánh tâm lý e ngại. Kiều hối và FDI khởi sắc với hơn 13 tỷ USD dự kiến kết nối vào TP HCM, nhưng vẫn chưa đủ để giải tỏa lo ngại ngắn hạn.",
   "top": [
     {
-      "title": "Tiền gửi chứng khoán xuống 71,5 nghìn tỷ đồng",
-      "impact": "↓",
-      "note": "Quý 3/2026 giảm 15,2 nghìn tỷ đồng (-17,5%) xuống 71,5 nghìn tỷ đồng, mức thấp nhất kể từ quý 4/2023, từng đạt 139.000 tỷ đồng quý 3/2025. Nhà đầu tư chuyển tiền sang tiết kiệm lãi suất cao."
-    },
-    {
-      "title": "Dư nợ ký quỹ 457,5 nghìn tỷ, rủi ro cao",
-      "impact": "↓",
-      "note": "Dư nợ cho vay ký quỹ tại 78 công ty chứng khoán đạt 457,5 nghìn tỷ đồng cuối quý 3/2026, tăng 11,7 nghìn tỷ, tỷ lệ nợ/vốn chủ 99%, phân hóa mạnh giữa các công ty tạo rủi ro tâm lý thị trường."
-    },
-    {
-      "title": "Kiều hối giảm 14%, suy giảm dòng ngoại tệ",
-      "impact": "↓",
-      "note": "Lũy kế 9 tháng 2026 kiều hối 6,87 tỷ USD, giảm 14% so cùng kỳ năm 2025, quý 1-2 giảm 16,9% và 27,9%. Chỉ quý 3 phục hồi đạt 2,8 tỷ USD, áp lực lên tỷ giá và dòng vốn nước ngoài."
-    },
-    {
-      "title": "Xăng dầu thế giới tăng 65-90%, rủi ro lạm phát",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá trong nước thấp, không tăng giá điện để kiểm soát lạm phát trong bối cảnh mục tiêu tăng trưởng 10%+ năm 2027."
-    },
-    {
-      "title": "SACOMBANK giảm lãi suất hỗ trợ kinh doanh",
+      "title": "Chính phủ hỗ trợ: SACOMBANK giảm lãi suất cho vay cá nhân 1,5-2% với gói 20.000 tỷ đồng",
       "impact": "↑",
-      "note": "Từ 20/10/2026 triển khai gói tín dụng 40 nghìn tỷ đồng cho doanh nghiệp giảm 2%/năm, 10 nghìn tỷ cho cá nhân kinh doanh giảm 1,5%/năm, 10 nghìn tỷ giảm lãi suất dư nợ hiện hữu 1,5-2%/năm."
+      "note": "SACOMBANK triển khai gói tín dụng ưu đãi tổng quy mô 20.000 tỷ đồng (10.000 tỷ cho cá nhân sản xuất kinh doanh, 10.000 tỷ giảm lãi suất dư nợ hiện hữu). Lãi suất giảm 1,5-2%/năm, giúp giảm chi phí vốn và hỗ trợ hoạt động kinh doanh của SME, doanh nghiệp vừa và nhỏ."
     },
     {
-      "title": "13 tỷ USD FDI vào TP HCM, diễn đàn AEF 2026",
+      "title": "Kiều hối Q3 phục hồi nhưng vẫn tiêu cực: 6,87 tỷ USD trong 9 tháng, giảm 14% YoY",
+      "impact": "→",
+      "note": "Kiều hối TP HCM 9 tháng 2026 đạt 6,87 tỷ USD, giảm 14% so với cùng kỳ 2025, nhưng Q3 ghi nhận 2,8 tỷ USD, tăng trên 800 triệu USD so với Q2. Châu Á đóng góp 59% (1,68 tỷ USD), châu Mỹ 26% (749 triệu USD). Quý 1 và 2 lần lượt giảm 16,9% và 27,9% so với cùng kỳ."
+    },
+    {
+      "title": "Nhà đầu tư rút vốn: Số dư tiền trên tài khoản chứng khoán xuống 71,5 nghìn tỷ đồng",
+      "impact": "↓",
+      "note": "Số dư tiền gửi của nhà đầu tư tại các công ty chứng khoán cuối Q3/2026 là 71.515,3 tỷ đồng, giảm 17,5% so với Q2 và là mức thấp nhất kể từ Q4/2023. Đây là quý thứ hai liên tiếp giảm. Nguyên nhân: lãi suất tiết kiệm hấp dẫn hơn, nhà đầu tư rút tiền khỏi chứng khoán."
+    },
+    {
+      "title": "Lạm phát là rủi ro: Giá xăng dầu thế giới tăng 65-90%, Thủ tướng cảnh báo xói mòn tăng trưởng",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ đã can thiệp giữ giá trong nước ở mức thấp, không tăng giá điện để kiểm soát CPI trong 9 tháng. Tuy nhiên Thủ tướng cảnh báo: 'Nếu lạm phát tăng thì thành quả tăng trưởng bị xói mòn và người dân không được hưởng lợi từ những thành quả đó'."
+    },
+    {
+      "title": "Margin cao nhưng rủi ro: Dư nợ margin 457,5 nghìn tỷ đồng, thanh khoản sụt mạnh",
+      "impact": "↓",
+      "note": "Dư nợ cho vay ký quỹ tại 78 công ty chứng khoán (99,6% vốn ngành) đạt 457,5 nghìn tỷ đồng cuối tháng 9/2026, tăng 11,7 nghìn tỷ đồng. Tuy nhiên số dư tiền trên tài khoản giảm mạnh, cho thấy nhà đầu tư vay tiền nhưng không dùng để mua cổ phiếu, phản ánh tâm lý thận trọng."
+    },
+    {
+      "title": "FDI tích cực: Hơn 13 tỷ USD dự kiến đổ bộ TP HCM, đầu tàu kinh tế lớn nhất Việt Nam",
       "impact": "↑",
-      "note": "Hơn 13 tỷ USD vốn đầu tư sắp đổ bộ vào TP HCM qua diễn đàn kinh tế mùa thu AEF 2026 (26-29/10) với 1.500 đại biểu, 21 phiên thảo luận về AI, chuyển đổi số, kinh tế xanh."
+      "note": "Diễn đàn Kinh tế Mùa thu 2026 (AEF 2026) diễn ra 26-29/10/2026 tại TP HCM, dự tính quy tụ hơn 1.500 đại biểu và hơn 13 tỷ USD vốn đầu tư. Sự kiện tập trung vào AI, chuyển đổi số, kinh tế xanh và Trung tâm Tài chính quốc tế."
     }
   ]
 }
