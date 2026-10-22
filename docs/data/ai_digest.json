@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-22",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kiều hối quý 3 phục hồi (2,8 tỷ USD, tăng 800 triệu USD QoQ) đánh dấu sự khởi sắc sau hai quý giảm liên tiếp, trong bối cảnh Chính phủ chủ động kiểm soát lạm phát khi giá xăng dầu thế giới tăng 65-90%. Ngân hàng giảm lãi suất cho vay (SACOMBANK: 40 nghìn tỷ đồng doanh nghiệp, 10 nghìn tỷ cá nhân) để hỗ trợ kinh tế, còn tín hiệu vui từ doanh nghiệp (NCS 17 quý tăng lợi nhuận liên tiếp). Rủi ro là dòng tiền gửi chứng khoán sụt mạnh 17,5% xuống 71,5 nghìn tỷ đồng (thấp nhất 3 năm), dư nợ margin tăng với thanh khoản yếu. Sắp tới: Diễn đàn Kinh tế (26-29/10) kỳ vọng 13 tỷ USD vốn đầu tư.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán đối mặt áp lực từ dòng tiền yếu với tiền gửi sàn xuống 71,5 nghìn tỷ đồng (-17,5%), dư nợ ký quỹ cao 457,5 nghìn tỷ tạo rủi ro ngắn hạn. Kiều hối suy giảm 14% và cảnh báo lạm phát từ xăng dầu thế giới (+65-90%) tăng thêm áp lực. Tuy nhiên, gói tín dụng giảm lãi suất 40 nghìn tỷ và hơn 13 tỷ USD FDI vào TP HCM là tín hiệu hỗ trợ tích cực.",
   "top": [
     {
-      "title": "Kiều hối quý 3 phục hồi lần đầu trong năm",
-      "impact": "↑",
-      "note": "TP HCM nhận 2,8 tỷ USD kiều hối Q3/2026, tăng 800 triệu USD so với Q2. Quý đầu tiên ghi nhận tăng trưởng dương. Lũy kế 9 tháng: 6,87 tỷ USD, giảm 14% YoY nhưng mức giảm đã thu hẹp từ -22,8% (6 tháng). Châu Á: 1,68 tỷ USD (59%), Châu Mỹ: 749 triệu USD (26%)."
-    },
-    {
-      "title": "Dòng tiền chứng khoán chuyển sang tiết kiệm, sụt 17,5%",
+      "title": "Tiền gửi chứng khoán xuống 71,5 nghìn tỷ đồng",
       "impact": "↓",
-      "note": "Số dư tiền gửi chứng khoán Q3/2026 giảm 15,2 nghìn tỷ (-17,5%), xuống 71,5 nghìn tỷ đồng - mức thấp nhất kể từ Q4/2023. Giảm từ đỉnh 139 nghìn tỷ đồng (Q3/2025). TCBS giảm 31,2%, SSI giảm 29,8%, VPS giảm 11,2%, VPBank giảm 18,6%."
+      "note": "Quý 3/2026 giảm 15,2 nghìn tỷ đồng (-17,5%) xuống 71,5 nghìn tỷ đồng, mức thấp nhất kể từ quý 4/2023, từng đạt 139.000 tỷ đồng quý 3/2025. Nhà đầu tư chuyển tiền sang tiết kiệm lãi suất cao."
     },
     {
-      "title": "Ngân hàng giảm lãi suất huy động và cho vay",
-      "impact": "↑",
-      "note": "SACOMBANK từ 20/10 giảm lãi suất huy động 0,5%/năm (6 tháng+), triển khai 40 nghìn tỷ đồng tín dụng doanh nghiệp (-2%/năm lãi suất), 10 nghìn tỷ cá nhân kinh doanh (-1,5%/năm), 10 nghìn tỷ giảm lãi dư nợ hiện hữu (-1,5-2%/năm)."
+      "title": "Dư nợ ký quỹ 457,5 nghìn tỷ, rủi ro cao",
+      "impact": "↓",
+      "note": "Dư nợ cho vay ký quỹ tại 78 công ty chứng khoán đạt 457,5 nghìn tỷ đồng cuối quý 3/2026, tăng 11,7 nghìn tỷ, tỷ lệ nợ/vốn chủ 99%, phân hóa mạnh giữa các công ty tạo rủi ro tâm lý thị trường."
     },
     {
-      "title": "NCS kéo dài đà tăng lợi nhuận quý 17 liên tiếp",
-      "impact": "↑",
-      "note": "NCS (Suất ăn Hàng không Nội Bài) Q3/2026: doanh thu 264 tỷ đồng (+15% YoY), lợi nhuận 20 tỷ đồng (+17% YoY). 9 tháng: doanh thu 758,5 tỷ đồng (+19%), lợi nhuận 60 tỷ đồng (+15%). Quý 17 tăng lợi nhuận liên tiếp kể từ phục hồi COVID."
+      "title": "Kiều hối giảm 14%, suy giảm dòng ngoại tệ",
+      "impact": "↓",
+      "note": "Lũy kế 9 tháng 2026 kiều hối 6,87 tỷ USD, giảm 14% so cùng kỳ năm 2025, quý 1-2 giảm 16,9% và 27,9%. Chỉ quý 3 phục hồi đạt 2,8 tỷ USD, áp lực lên tỷ giá và dòng vốn nước ngoài."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát, mục tiêu GDP 10% năm 2027",
-      "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ sử dụng biện pháp điều hành giữ giá xăng nước ở mức thấp, không tăng giá điện. Thủ tướng nhấn mạnh lạm phát sẽ xói mòn thành quả tăng trưởng. Mục tiêu GDP 2027 từ 10% trở lên."
+      "title": "Xăng dầu thế giới tăng 65-90%, rủi ro lạm phát",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá trong nước thấp, không tăng giá điện để kiểm soát lạm phát trong bối cảnh mục tiêu tăng trưởng 10%+ năm 2027."
     },
     {
-      "title": "Diễn đàn Kinh tế hút 13 tỷ USD đầu tư (26-29/10)",
+      "title": "SACOMBANK giảm lãi suất hỗ trợ kinh doanh",
       "impact": "↑",
-      "note": "Diễn đàn Kinh tế Mùa thu 2026 (26-29/10) tại TP.HCM: 1.500 đại biểu, 13 tỷ USD vốn đầu tư dự kiến, 21 phiên thảo luận, 16 hoạt động bên lề, 300 phát biểu. Tập trung: AI, chuyển đổi số, kinh tế xanh, logistics, Trung tâm Tài chính quốc tế."
+      "note": "Từ 20/10/2026 triển khai gói tín dụng 40 nghìn tỷ đồng cho doanh nghiệp giảm 2%/năm, 10 nghìn tỷ cho cá nhân kinh doanh giảm 1,5%/năm, 10 nghìn tỷ giảm lãi suất dư nợ hiện hữu 1,5-2%/năm."
+    },
+    {
+      "title": "13 tỷ USD FDI vào TP HCM, diễn đàn AEF 2026",
+      "impact": "↑",
+      "note": "Hơn 13 tỷ USD vốn đầu tư sắp đổ bộ vào TP HCM qua diễn đàn kinh tế mùa thu AEF 2026 (26-29/10) với 1.500 đại biểu, 21 phiên thảo luận về AI, chuyển đổi số, kinh tế xanh."
     }
   ]
 }
