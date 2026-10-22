@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-22",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam dấu hiệu tích cực khi khối ngoại mua ròng trở lại (21/10) sau nâng hạng FTSE Russell, hứa hẹn dòng vốn 1,27 tỷ USD năm tới. Chính phủ hỗ trợ kinh tế mạnh mẽ qua giảm lãi suất (40.000 tỷ từ SACOMBANK) và kiểm soát lạm phát dù giá xăng dầu thế giới tăng 65-90%. Ngành du lịch phục hồi xuất sắc (Vietnam Airlines lợi nhuận +17%), thị trường công nghệ toàn cầu tăng nhờ SpaceX (+161% doanh thu) và Tesla, TP.HCM sẽ đón 13 tỷ USD vốn từ AEF 2026.",
+  "summary_vi": "Khối ngoại quay lại mua ròng 190 tỷ đồng phiên 21/10 sau 20 phiên bán liên tiếp, tín hiệu tích cực cho thị trường nâng hạng FTSE Russell với kỳ vọng 1,27 tỷ USD năm 2027. Hơn 13 tỷ USD dự kiến đổ vào TP.HCM qua AEF 2026 (26-29/10) tập trung AI, công nghệ chiến lược, kinh tế xanh. Chính phủ hỗ trợ liên tiếp: SACOMBANK giảm 1,5-2% lãi suất cho 40.000 tỷ đồng, không tăng giá điện để kiểm soát lạm phát khi giá xăng dầu thế giới tăng 65-90%. Tuy nhiên, dư nợ chứng khoán đạt kỷ lục 463 ngàn tỷ đồng cần giám sát, hướng tới mục tiêu tăng trưởng GDP 10%+ năm 2027.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng 122 tỷ đồng, nâng hạng TTCK VN",
+      "title": "Khối ngoại mua ròng 190 tỷ đồng sau 20 phiên bán",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng khớp lệnh 122 tỷ đồng (mua 2,331 tỷ, bán 2,209 tỷ) phiên 21/10, phiên mua ròng đầu tiên sau 13 phiên bán liên tiếp; đây là phiên mua ròng thứ 2 kể từ nâng hạng FTSE Russell (21/9), tín hiệu tích cực cho dòng vốn ngoại dự kiến 1,27 tỷ USD trong năm 2027."
+      "note": "Khối ngoại phiên 21/10 mua ròng 190 tỷ đồng trên HoSE sau chuỗi 20 phiên bán liên tiếp, đây là phiên mua ròng thứ 2 kể từ nâng hạng FTSE Russell (21/9); dòng vốn ngoại từ nâng hạng dự kiến đạt 1,27 tỷ USD trong năm 2027, với giai đoạn chuẩn bị giải ngân từ tháng 3/2027."
     },
     {
-      "title": "S&P 500 tăng 0,58%, Nasdaq 1,05%; SpaceX-Tesla khởi sắc",
+      "title": "Hơn 13 tỷ USD sắp đổ vào TP.HCM qua AEF 2026",
       "impact": "↑",
-      "note": "S&P 500 tăng 0,58% lên 7.757 điểm, Nasdaq +1,05% lên 26.702 điểm (phiên 21/10); SpaceX doanh thu tăng 161% Q3/2026 và mảng AI tăng 9 lần, Tesla doanh thu 28,05 tỷ USD gần như đi ngang YoY nhưng EPS 0,48 USD vượt dự báo (0,43-0,45 USD), tạo động lực tích cực cho cổ phiếu công nghệ toàn cầu."
+      "note": "Diễn đàn Kinh tế Mùa thu 2026 diễn ra 26-29/10 tại TP.HCM quy tụ 1.500+ đại biểu quốc tế, với 21 phiên thảo luận và 16 hoạt động bên lề tập trung vào AI, công nghệ chiến lược, kinh tế xanh, logistics xanh, blockchain và Trung tâm Tài chính quốc tế."
     },
     {
-      "title": "Thủ tướng cảnh báo lạm phát, xăng dầu thế giới +65-90%",
+      "title": "Giá dầu +65-90% toàn cầu, Chính phủ kiểm soát lạm phát",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng chỉ đạo không tăng giá xăng dầu trong nước (nếu không sẽ tăng ~80%), không tăng giá điện để kiểm soát CPI; hướng tới mục tiêu GDP 10%+ năm 2027, lạm phát xói mòn thành quả tăng trưởng nếu không kiểm soát."
+    },
+    {
+      "title": "Dư nợ cho vay chứng khoán kỷ lục 463 ngàn tỷ đồng",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nếu không điều hành xăng dầu VN có thể tăng 80%; Chính phủ đã áp dụng biện pháp giữ giá xăng dầu và điện ở mức thấp để kiểm soát lạm phát trong 9 tháng đầu năm, hướng tới mục tiêu GDP 10% trở lên năm 2027."
+      "note": "Dư nợ cho vay của các công ty chứng khoán cuối Q3/2026 đạt 463 ngàn tỷ đồng, tăng 2% so với Q2 2026; mức nợ ở mức kỷ lục cần giám sát rủi ro tính bền vững của tín dụng margin trong bối cảnh thị trường biến động."
     },
     {
-      "title": "SACOMBANK giảm lãi suất 40.000 tỷ hỗ trợ doanh nghiệp",
+      "title": "SACOMBANK giảm 1,5-2% lãi suất 40.000 tỷ đồng",
       "impact": "↑",
-      "note": "SACOMBANK triển khai gói tín dụng 40.000 tỷ đồng cho doanh nghiệp (giảm 2%/năm), 10.000 tỷ cho khách hàng cá nhân vay sản xuất kinh doanh (giảm 1,5%/năm), và 10.000 tỷ để giảm lãi suất cho khách hàng hiện hữu (1,5-2%/năm), bám sát chỉ đạo NHNN về giảm mặt bằng lãi suất."
+      "note": "Triển khai từ 20/10: gói tín dụng 40.000 tỷ cho doanh nghiệp (giảm 2%/năm lãi suất cho vay), 10.000 tỷ cho cá nhân/hộ kinh doanh vay phục vụ sản xuất (giảm 1,5%/năm), 10.000 tỷ giảm lãi suất cho khách hàng hiện hữu (1,5-2%/năm); cùng giảm 0,5%/năm lãi suất huy động từ 6 tháng trở lên."
     },
     {
-      "title": "Vietnam Airlines lợi nhuận Q3 +17%, quý 17 liên tiếp tăng",
+      "title": "NCS duy trì tăng trưởng lợi nhuận quý 17 liên tiếp",
       "impact": "↑",
-      "note": "NCS Q3/2026 doanh thu 264 tỷ đồng (+15% YoY), lợi nhuận 20 tỷ đồng (+17% YoY); 9 tháng năm 2026 đạt doanh thu 758,5 tỷ đồng (+19%), lợi nhuận sau thuế 60 tỷ đồng (+15%), là quý tăng trưởng lợi nhuận thứ 17 liên tiếp, phản ánh phục hồi mạnh mẽ của du lịch quốc tế."
-    },
-    {
-      "title": "TP.HCM chuẩn bị đón 13 tỷ USD vốn từ AEF 2026",
-      "impact": "↑",
-      "note": "Diễn đàn Kinh tế Mùa thu 2026 sẽ diễn ra 26-29/10 tại TP.HCM với 1.500 đại biểu, dự kiến hơn 13 tỷ USD vốn đầu tư sẽ đổ bộ vào đầu tàu kinh tế có GRDP lớn nhất Việt Nam, tập trung vào AI, công nghệ chiến lược, kinh tế xanh, logistics xanh và Trung tâm Tài chính quốc tế."
+      "note": "Q3/2026 NCS doanh thu 264 tỷ đồng (+15% YoY), lợi nhuận 20 tỷ đồng (+17% YoY); 9 tháng 2026 doanh thu 758,5 tỷ đồng (+19%), lợi nhuận 60 tỷ đồng (+15%); biên lợi nhuận gộp hẹp từ 15,6% xuống 14,8% do áp lực chi phí nguyên liệu và vận hành từ căng thẳng Trung Đông."
     }
   ]
 }
