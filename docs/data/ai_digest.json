@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-22",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách tiền tệ nới lỏng và tín dụng ưu đãi (SACOMBANK giảm 1.5-2%, NHNN chỉ đạo giảm lãi suất huy động) hỗ trợ dòng tiền cho nền kinh tế và TTCK. Vốn ngoại dự kiến 13 tỷ USD vào TP.HCM qua AEF 2026, và hiệu suất thị trường Mỹ cải thiện (S&P 500 +0.58%, SpaceX +161%) mang tín hiệu tích cực. Tuy nhiên, lạm phát từ giá dầu thế giới tăng 65-90% và dư nợ margin lên kỷ lục 457.5 ngàn tỷ (tăng 2%) vẫn là rủi ro ngắn hạn cần giám sát.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán đối mặt áp lực từ dòng tiền rút khỏi (số dư tiền giảm 71,5 nghìn tỷ, mức thấp nhất 3 năm) và lo ngại lạm phát do giá xăng dầu thế giới tăng 65-90%. Dư nợ margin đạt kỷ lục 457,5 nghìn tỷ với thanh khoản sụt mạnh tạo rủi ro. Tuy nhiên, chính sách hỗ trợ doanh nghiệp (SACOMBANK giảm lãi suất 1,5-2%) và tâm lý tích cực từ thị trường toàn cầu (S&P 500 tăng, SpaceX doanh thu +161%) giúp cân bằng rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Thủ tướng: Lạm phát tăng sẽ xói mòn thành quả tăng trưởng",
+      "title": "Số dư tiền chứng khoán xuống thấp nhất 3 năm",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; Chính phủ triển khai biện pháp giữ giá xăng dầu trong nước ở mức thấp (nếu không sẽ tăng ~80%), không tăng giá điện để kiểm soát lạm phát và bảo đảm người dân được hưởng lợi từ mục tiêu GDP tăng 10% năm 2027."
+      "note": "Số dư tiền gửi tại 78 công ty chứng khoán xuống còn 71,5 nghìn tỷ đồng cuối quý 3/2026, giảm 17,5% so với quý 2, là mức thấp nhất kể từ quý 4/2023. Lãi suất tiết kiệm hấp dẫn khiến nhà đầu tư chuyển dòng tiền sang ngân hàng, quý thứ hai liên tiếp giảm mạnh."
+    },
+    {
+      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát lạm phát",
+      "impact": "↓",
+      "note": "Thủ tướng cảnh báo lạm phát tăng sẽ xói mòn thành quả tăng trưởng GDP 10% năm 2027. Giá xăng dầu thế giới tăng 65-90%, nếu không điều hành sẽ tăng ~80% trong nước. Chính phủ dùng biện pháp giữ giá xăng dầu ở mức thấp, không tăng giá điện để bảo vệ sức mua người dân."
     },
     {
       "title": "Dư nợ margin tăng cao, thanh khoản sụt mạnh",
       "impact": "↓",
-      "note": "Dư nợ cho vay ký quỹ tại 78 công ty chứng khoán đạt 457.5 nghìn tỷ đồng cuối tháng 9/2026, tăng 11.7 nghìn tỷ đồng (tăng 2% so với quý 2); tỷ lệ dư nợ trên vốn chủ sở hữu 99%; VCBS tăng 21%, HD tăng 103.2%, nhưng VPS giảm 16.9%, SSI giảm 4.8%."
+      "note": "Dư nợ cho vay ký quỹ tại 78 công ty chứng khoán đạt 457,5 nghìn tỷ đồng cuối tháng 9/2026, tăng 2% so với quý 2. Tỷ lệ dư nợ margin trên vốn chủ sở hữu ở mức 99%, trong khi thanh khoản sụt: số dư tiền giảm 15,2 nghìn tỷ. Có sự phân hóa mạnh: VCBS tăng 21%, HD tăng 103,2%, nhưng VPS giảm 16,9%, SSI giảm 4,8%."
     },
     {
-      "title": "SACOMBANK giảm lãi suất cho vay cá nhân từ 1,5-2%",
+      "title": "SACOMBANK giảm lãi suất cho vay cá nhân 1,5-2%",
       "impact": "↑",
-      "note": "Từ 20/10 triển khai chương trình 40 ngàn tỷ gồm: 10 ngàn tỷ cho hộ kinh doanh/SME giảm 1.5%/năm, 10 ngàn tỷ cho khách hàng hiện hữu giảm 1.5-2%/năm; giảm thêm 0.5%/năm lãi suất huy động từ 6 tháng trở lên, tuân theo chỉ đạo NHNN nới lỏng tín dụng."
-    },
-    {
-      "title": "Hơn 13 tỷ USD vốn đầu tư sắp đổ vào TP.HCM",
-      "impact": "↑",
-      "note": "AEF 2026 diễn ra 26-29/10 tại TP.HCM, quy tụ hơn 1.500 đại biểu quốc tế, 21 phiên thảo luận, 16 hoạt động bên lề, tập trung vào chuyển đổi số, AI, công nghệ chiến lược, kinh tế xanh, logistics xanh và phát triển Trung tâm Tài chính quốc tế."
+      "note": "Từ 20/10 triển khai chương trình 40 nghìn tỷ: 10 nghìn tỷ cho hộ kinh doanh/SME giảm 1,5%/năm, 10 nghìn tỷ cho khách hàng hiện hữu giảm 1,5-2%/năm giúp giảm áp lực chi phí vốn. Đồng thời giảm 0,5%/năm lãi suất huy động từ 6 tháng trở lên, tuân theo chỉ đạo NHNN nới lỏng tín dụng."
     },
     {
       "title": "S&P 500 tăng phiên thứ ba liên tiếp",
       "impact": "↑",
-      "note": "S&P 500 +0.58% đạt 7.757 điểm, Dow Jones +0.69%, Nasdaq +1.05%; SpaceX báo cáo doanh thu tăng 161% quý 3, mảng AI tăng gấp 9 lần; Tesla doanh thu 28.05 tỷ USD, EPS 0.48 USD vượt dự báo 0.43-0.45 USD."
+      "note": "S&P 500 tăng 0,58% đạt 7.757 điểm, Dow Jones +0,69%, Nasdaq +1,05%. SpaceX báo cáo doanh thu tăng 161% quý 3/2026, mảng AI tăng gấp 9 lần. Tesla doanh thu 28,05 tỷ USD, EPS 0,48 USD vượt dự báo 0,43-0,45 USD. Tâm lý tích cực từ công nghệ hỗ trợ nhà đầu tư toàn cầu."
     },
     {
-      "title": "Doanh nghiệp bán trà sữa trên máy bay nối dài đà tăng trưởng",
+      "title": "Doanh nghiệp bán trà sữa máy bay tăng lợi nhuận thứ 17 liên tiếp",
       "impact": "↑",
-      "note": "NCS quý 3/2026 doanh thu gần 264 tỷ đồng (+15% YoY), lợi nhuận hơn 20 tỷ đồng (+17%); lũy kế 9 tháng doanh thu 758.5 tỷ (+19%), lợi nhuận 60 tỷ (+15%) — quý tăng trưởng lợi nhuận thứ 17 liên tiếp."
+      "note": "NCS quý 3/2026 doanh thu gần 264 tỷ đồng, tăng 15% so với cùng kỳ năm 2025; lợi nhuận sau thuế hơn 20 tỷ đồng, tăng 17%. Lũy kế 9 tháng doanh thu 758,5 tỷ đồng (+19%), lợi nhuận 60 tỷ đồng (+15%), phản ánh nhu cầu du lịch mạnh."
     }
   ]
 }
