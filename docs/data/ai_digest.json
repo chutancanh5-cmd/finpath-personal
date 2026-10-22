@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách giảm lãi suất đang mở ra kỳ vọng mới cho thị trường, nhóm xây dựng và hạ tầng sẽ hưởng lợi trực tiếp. Khối ngoại đã quay lại mua ròng sau 13 phiên bán, tín hiệu dòng tiền đang đảo chiều tích cực. Tuy nhiên, tiền mặt trên tài khoản chứng khoán sụt xuống thấp nhất 3 năm cho thấy nhà đầu tư vẫn e dè, cần watch kỹ tâm lý thị trường trong ngắn hạn.",
+  "summary_vi": "Vingroup dẫn dắt với VIC tăng 11%, hút khối ngoại 240-335 tỷ đồng. Khối ngoại đảo chiều nhưng cán cân tháng vẫn âm 6 ngàn tỷ. Sân bay Long Thành và giảm lãi suất tạo cơ hội cho logistics, xây dựng/hạ tầng hướng tới GDP tăng 10% năm 2027. Tuy nhiên, lạm phát từ xăng dầu tăng 65-90% và sắc đỏ lan rộng (344 mã giảm) là cảnh báo rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Giảm lãi suất tác động phân hóa ngành, xây dựng hưởng lợi trực tiếp",
+      "title": "Vingroup dẫn dắt thị trường, hút khối ngoại mạnh",
       "impact": "↑",
-      "note": "Chính phủ chỉ đạo giảm mặt bằng lãi suất. Nhóm xây dựng và hạ tầng có khả năng hưởng lợi trực tiếp từ chính sách, trong khi bất động sản hưởng lợi gián tiếp tùy thuộc vào mức độ tiếp cận chính sách."
+      "note": "VIC tăng 11% trong 2 phiên liên tiếp, đóng góp 40 điểm vào VN-Index; nhóm Vingroup (VIC, VHM, VPL, VRE) tổng đóng góp 54 điểm chiếm 80% tổng điểm tăng; khối ngoại mua ròng 240 tỷ đồng phiên 22/10, lớn nhất toàn sàn."
     },
     {
-      "title": "Khối ngoại đổi hướng mua ròng sau 13 phiên bán",
-      "impact": "↑",
-      "note": "Khối ngoại mua ròng hơn 300 tỷ đồng phiên thứ 2 liên tiếp (22/10 mua ròng 301 tỷ, sau đó 335,1 tỷ), đánh dấu sự đảo chiều tích cực. VIC được tập trung gom khoảng 239 tỷ đồng, VHM 161 tỷ đồng, TCB 143 tỷ đồng."
+      "title": "Khối ngoại đảo chiều nhưng cán cân tháng vẫn âm",
+      "impact": "→",
+      "note": "Khối ngoại mua ròng 301 tỷ đồng phiên 22/10, phiên thứ 2 liên tiếp sau 13 phiên bán; từ đầu tháng 10 vẫn bán ròng hơn 6 ngàn tỷ đồng; VIC 239 tỷ, VHM 161 tỷ, TCB 143 tỷ, MSN 141 tỷ mua; FPT bị bán 264 tỷ."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát, giữ xăng dầu giá thấp khu vực",
+      "title": "Sân bay Long Thành vận hành năm 2026, kích hoạt logistics",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ sử dụng nhiều biện pháp để giữ giá trong nước ở mức thấp, không tăng giá điện để bảo vệ tăng trưởng kinh tế vĩ mô."
+      "note": "Sân bay quốc tế Long Thành giai đoạn 1 vận hành thương mại năm 2026; Đồng Nai quy hoạch phát triển trung tâm logistics trên 100 ha phụ trợ, chuyên phục vụ hàng công nghệ cao, điện tử, vaccine, dược phẩm và thương mại điện tử xuyên biên giới."
     },
     {
-      "title": "Tiền gửi tài khoản chứng khoán xuống thấp nhất 3 năm",
+      "title": "Giảm lãi suất, xây dựng/hạ tầng hưởng lợi đầu tiên",
+      "impact": "↑",
+      "note": "Chính phủ triển khai giải pháp giảm mặt bằng lãi suất; nhóm xây dựng và xây dựng hạ tầng có khả năng hưởng lợi trực tiếp từ giảm lãi suất cho vay, tạo đà để hướng tới mục tiêu GDP tăng 10% năm 2027."
+    },
+    {
+      "title": "Chứng khoán HD lãi 9 tháng vượt cả năm 2025",
+      "impact": "↑",
+      "note": "HDS báo cáo lợi nhuận trước thuế 9 tháng 2.241 tỷ đồng gấp 3,7 lần cùng kỳ; doanh thu hoạt động 3.018 tỷ gấp 2,6 lần; mảng ngân hàng đầu tư tăng 9,8 lần đạt 982 tỷ đồng; hoàn thành 66% kế hoạch lợi nhuận năm."
+    },
+    {
+      "title": "Lạm phát và sắc đỏ lan rộng, cảnh báo rủi ro",
       "impact": "↓",
-      "note": "Số dư tiền gửi cuối quý 3/2026 ước đạt 72.000 tỷ đồng, giảm 10.000 tỷ đồng so với quý 2 (-12%). Trong 1 năm qua, tiền giảm từ 131.000 tỷ xuống 72.000 tỷ đồng, tương đương -45%, thể hiện nhà đầu tư vẫn e dè."
-    },
-    {
-      "title": "Chứng khoán HD bứt phá với lợi nhuận 9 tháng gấp 3,7 lần",
-      "impact": "↑",
-      "note": "HDS báo lãi trước thuế 9 tháng 2.241 tỷ đồng, gấp 3,7 lần cùng kỳ và gấp 1,7 lần cả năm 2025. Mảng ngân hàng đầu tư bứt phá với doanh thu 1.102 tỷ đồng (36,5% tổng doanh thu), doanh thu bảo lãnh gấp 9,8 lần."
-    },
-    {
-      "title": "Kiều hối phục hồi, quý 3 tăng trưởng dương lần đầu năm",
-      "impact": "↑",
-      "note": "Kiều hối chuyển về TP HCM quý 3 đạt hơn 2,8 tỷ USD, tăng 800 triệu USD so với quý trước. Lũy kế 9 tháng 6,87 tỷ USD (giảm 14%), nhưng quý 3 ghi nhận tăng trưởng dương đầu tiên trong năm, tín hiệu phục hồi."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát để giữ giá trong nước không tăng; VN-Index tăng 21.16 điểm nhưng VIC-VHM mang 24 điểm; 344 mã giảm, 13 mã giảm sàn, sắc đỏ lan rộng—rủi ro phân hóa mạnh, lạm phát xói mòn lợi nhuận."
     }
   ]
 }
