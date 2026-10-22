@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-22",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tín hiệu tích cực khi khối ngoại quay lại mua ròng sau 13-20 phiên bán liên tiếp, VN-Index tăng 46,7 điểm. Dòng vốn FDI mạnh với hơn 13 tỷ USD dự kiến đổ bộ vào TP.HCM và 10 IPO mới huy động 60.900 tỷ đồng (gấp 9 lần so với 4 năm trước). Các ngân hàng chủ động giảm lãi suất theo chỉ đạo (SACOMBANK: 40.000 tỷ đồng cho doanh nghiệp, 10.000 tỷ cho kinh doanh cá nhân giảm 1,5-2%), tạo điều kiện cho tăng trưởng kinh tế. Tuy nhiên rủi ro vĩ mô vẫn cần theo dõi: giá xăng dầu thế giới tăng 65-90% có khả năng tác động đến lạm phát trong nước.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam dấu hiệu tích cực khi khối ngoại mua ròng trở lại (21/10) sau nâng hạng FTSE Russell, hứa hẹn dòng vốn 1,27 tỷ USD năm tới. Chính phủ hỗ trợ kinh tế mạnh mẽ qua giảm lãi suất (40.000 tỷ từ SACOMBANK) và kiểm soát lạm phát dù giá xăng dầu thế giới tăng 65-90%. Ngành du lịch phục hồi xuất sắc (Vietnam Airlines lợi nhuận +17%), thị trường công nghệ toàn cầu tăng nhờ SpaceX (+161% doanh thu) và Tesla, TP.HCM sẽ đón 13 tỷ USD vốn từ AEF 2026.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng sau 13-20 phiên bán, VN-Index tăng 46,7 điểm",
+      "title": "Khối ngoại mua ròng 122 tỷ đồng, nâng hạng TTCK VN",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 122-190 tỷ đồng trong phiên 21/10 sau chuỗi 13-20 phiên bán liên tiếp; VN-Index tăng 46,7 điểm với động lực từ nhóm Vingroup tăng kịch trần; tín hiệu tích cực cho sự hạ nhiệt áp lực bán ngoại và cải thiện tâm lý thị trường."
+      "note": "Khối ngoại mua ròng khớp lệnh 122 tỷ đồng (mua 2,331 tỷ, bán 2,209 tỷ) phiên 21/10, phiên mua ròng đầu tiên sau 13 phiên bán liên tiếp; đây là phiên mua ròng thứ 2 kể từ nâng hạng FTSE Russell (21/9), tín hiệu tích cực cho dòng vốn ngoại dự kiến 1,27 tỷ USD trong năm 2027."
     },
     {
-      "title": "13 tỷ USD vốn đầu tư dự kiến vào TP.HCM cho Diễn đàn AEF 2026",
+      "title": "S&P 500 tăng 0,58%, Nasdaq 1,05%; SpaceX-Tesla khởi sắc",
       "impact": "↑",
-      "note": "Diễn đàn Kinh tế Mùa thu 2026 dự kiến từ 26-29/10 tại TP.HCM quy tụ hơn 1.500 đại biểu trong nước và quốc tế; Giám đốc HCMC C4IR thông tin hơn 13 tỷ USD vốn đầu tư sẽ đổ bộ vào thành phố; tập trung vào AI, công nghệ chiến lược, kinh tế xanh và logistics xanh."
+      "note": "S&P 500 tăng 0,58% lên 7.757 điểm, Nasdaq +1,05% lên 26.702 điểm (phiên 21/10); SpaceX doanh thu tăng 161% Q3/2026 và mảng AI tăng 9 lần, Tesla doanh thu 28,05 tỷ USD gần như đi ngang YoY nhưng EPS 0,48 USD vượt dự báo (0,43-0,45 USD), tạo động lực tích cực cho cổ phiếu công nghệ toàn cầu."
     },
     {
-      "title": "10 IPO mới huy động 60.900 tỷ đồng, gấp 9 lần so với 4 năm trước",
-      "impact": "↑",
-      "note": "Từ cuối 2025 đến nay có 10 doanh nghiệp thực hiện IPO huy động 60.900 tỷ đồng, cao gấp hơn 9 lần so với giai đoạn 2021-2024 (16 IPO, 6.500 tỷ đồng); 7 doanh nghiệp đã niêm yết, 3 doanh nghiệp đang hoàn tất thủ tục; sửa đổi quy định giúp rút ngắn thời gian niêm yết từ 90 ngày xuống 30 ngày."
-    },
-    {
-      "title": "SACOMBANK giảm lãi suất 40.000 tỷ cho doanh nghiệp, 10.000 tỷ cho kinh doanh cá nhân",
-      "impact": "↑",
-      "note": "Từ 20/10/2026, SACOMBANK triển khai gói tín dụng 40.000 tỷ đồng cho doanh nghiệp giảm 2%/năm lãi suất cho vay; 10.000 tỷ đồng cho hộ kinh doanh giảm 1,5-2%/năm so với khung lãi suất hiện hành; thêm 10.000 tỷ để giảm lãi suất cho dư nợ hiện hữu; tuân thủ chỉ đạo điều hành của Chính phủ và NHNN."
-    },
-    {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, rủi ro lạm phát tác động tăng trưởng",
+      "title": "Thủ tướng cảnh báo lạm phát, xăng dầu thế giới +65-90%",
       "impact": "↓",
-      "note": "Thủ tướng Lê Minh Hưng cảnh báo giá xăng dầu thế giới tăng 65-90%; Chính phủ triển khai các biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát lạm phát; nhấn mạnh 'lạm phát tăng sẽ xói mòn thành quả tăng trưởng' và người dân không được hưởng lợi từ tăng trưởng nếu lạm phát không được kiểm soát."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nếu không điều hành xăng dầu VN có thể tăng 80%; Chính phủ đã áp dụng biện pháp giữ giá xăng dầu và điện ở mức thấp để kiểm soát lạm phát trong 9 tháng đầu năm, hướng tới mục tiêu GDP 10% trở lên năm 2027."
     },
     {
-      "title": "NCS ghi nhận quý tăng trưởng lợi nhuận thứ 17 liên tiếp, doanh thu 264 tỷ tăng 15%",
+      "title": "SACOMBANK giảm lãi suất 40.000 tỷ hỗ trợ doanh nghiệp",
       "impact": "↑",
-      "note": "Quý 3/2026, NCS (suất ăn hàng không Nội Bài, công ty con Vietnam Airlines) ghi nhận doanh thu thuần gần 264 tỷ đồng tăng hơn 15% so với cùng kỳ năm trước; lợi nhuận sau thuế hơn 20 tỷ đồng tăng hơn 17%; quý thứ 17 tăng trưởng lợi nhuận liên tiếp kể từ phục hồi sau đại dịch; biên lợi nhuận gộp thu hẹp từ 15,6% xuống 14,8% do áp lực chi phí."
+      "note": "SACOMBANK triển khai gói tín dụng 40.000 tỷ đồng cho doanh nghiệp (giảm 2%/năm), 10.000 tỷ cho khách hàng cá nhân vay sản xuất kinh doanh (giảm 1,5%/năm), và 10.000 tỷ để giảm lãi suất cho khách hàng hiện hữu (1,5-2%/năm), bám sát chỉ đạo NHNN về giảm mặt bằng lãi suất."
+    },
+    {
+      "title": "Vietnam Airlines lợi nhuận Q3 +17%, quý 17 liên tiếp tăng",
+      "impact": "↑",
+      "note": "NCS Q3/2026 doanh thu 264 tỷ đồng (+15% YoY), lợi nhuận 20 tỷ đồng (+17% YoY); 9 tháng năm 2026 đạt doanh thu 758,5 tỷ đồng (+19%), lợi nhuận sau thuế 60 tỷ đồng (+15%), là quý tăng trưởng lợi nhuận thứ 17 liên tiếp, phản ánh phục hồi mạnh mẽ của du lịch quốc tế."
+    },
+    {
+      "title": "TP.HCM chuẩn bị đón 13 tỷ USD vốn từ AEF 2026",
+      "impact": "↑",
+      "note": "Diễn đàn Kinh tế Mùa thu 2026 sẽ diễn ra 26-29/10 tại TP.HCM với 1.500 đại biểu, dự kiến hơn 13 tỷ USD vốn đầu tư sẽ đổ bộ vào đầu tàu kinh tế có GRDP lớn nhất Việt Nam, tập trung vào AI, công nghệ chiến lược, kinh tế xanh, logistics xanh và Trung tâm Tài chính quốc tế."
     }
   ]
 }
