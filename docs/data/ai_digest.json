@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-22",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán cho thấy sự yếu đi trên diện rộng (344 mã giảm giá, 13 mã sàn) mặc dù VN-Index tăng nhờ sự hỗ trợ mạnh của Vingroup (VIC tăng 5,01%, VHM tăng 4,53%), nhưng thanh khoản suy yếu 32%. Tuy nhiên, một số tín hiệu tích cực từ phía chính sách hỗ trợ doanh nghiệp (Techcombank cắt giảm lãi suất cho vay tối đa 2%), ngành chứng khoán phục hồi (HD Securities lãi 9 tháng gấp 3,7 lần) và kiều hối Q3 phục hồi trở lại sau hai quý sụt giảm. Rủi ro lạm phát từ giá dầu thế giới tăng 65-90% và áp lực chi phí vận hành (Superdong lãi giảm 96%) vẫn là trở ngại cho tăng trưởng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường ghi nhận những tín hiệu tích cực từ chính sách hỗ trợ doanh nghiệp (Techcombank giảm lãi suất tối đa 2%, quy mô 40.000 tỷ) và hoạt động M&A/IPO sôi động (HD Securities lãi 9 tháng gấp 3,7 lần). Kiều hối phục hồi quý 3 giảm áp lực vãng lai. Tuy nhiên, sự phân hóa mạnh (344 mã giảm giá, 13 mã sàn) khi chỉ số dựa vào 2 cổ phiếu Vingroup cần lưu ý. Rủi ro từ giá dầu thế giới tăng 65-90% và bất ổn tài chính eurozone có thể tác động tiêu cực ngắn hạn.",
   "top": [
     {
       "title": "Chứng khoán HD lãi 9 tháng gấp 3,7 lần cùng kỳ",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế 9 tháng năm 2026 đạt 2.241 tỷ đồng, gấp 3,7 lần cùng kỳ và gấp 1,7 lần cả năm 2025. Mảng ngân hàng đầu tư bứt phá với doanh thu bảo lãnh, đại lý phát hành 982 tỷ đồng gấp 9,8 lần cùng kỳ, ROE quy năm 27,5% cho thấy hiệu suất vốn cao."
-    },
-    {
-      "title": "Techcombank giảm lãi suất cho vay tối đa 2%/năm",
-      "impact": "↑",
-      "note": "Techcombank triển khai giảm lãi suất cho vay tối đa 2%/năm với quy mô 40.000 tỷ đồng hỗ trợ lĩnh vực sản xuất kinh doanh, cộng thêm 20.000 tỷ đồng cho SME và hộ kinh doanh từ tháng 10/2026; giảm thêm 0,5% lãi suất tiền gửi kỳ hạn 6 tháng trở lên."
-    },
-    {
-      "title": "Kiều hối quý 3 phục hồi sau hai quý sụt giảm",
-      "impact": "↑",
-      "note": "Kiều hối chuyển về TP HCM quý 3/2026 đạt hơn 2,8 tỷ USD, tăng trên 800 triệu USD so với quý II, đánh dấu quý đầu tiên ghi nhận tăng dương. Lũy kế 9 tháng đạt 6,87 tỷ USD giảm 14% YoY nhưng mức giảm đã thu hẹp đáng kể từ 22,8% trong 6 tháng đầu."
-    },
-    {
-      "title": "Giá dầu thế giới tăng 65-90%, áp lực lạm phát tăng",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng cho biết nếu không có biện pháp điều hành giá trong nước có thể tăng 80%. Chính phủ duy trì giá xăng dầu thấp, không tăng giá điện nhưng rủi ro lạm phát vẫn cao, đe dọa tăng trưởng GDP 10% trở lên dự kiến năm 2027."
+      "note": "Lợi nhuận trước thuế 9 tháng năm 2026 đạt 2.241 tỷ đồng, gấp 3,7 lần cùng kỳ và gấp 1,7 lần cả năm 2025. Mảng ngân hàng đầu tư bứt phá với doanh thu bảo lãnh, đại lý phát hành 982 tỷ đồng gấp 9,8 lần cùng kỳ, ROE quy năm 27,5%."
     },
     {
       "title": "VN-Index tăng nhưng chất lượng tệ, sắc đỏ lan rộng",
       "impact": "↓",
-      "note": "VN-Index tăng 21,16 điểm lên 1.759,83 nhưng VIC và VHM mang về gần 24 điểm, tức chỉ số đã giảm nếu loại ra hai cổ phiếu Vingroup. Sắc đỏ lan tỏa 344 mã, 13 mã giảm sàn; thanh khoản HoSE giảm 32% so hôm trước, rổ VN30 giảm 17%, phản ánh sự yếu đi trên diện rộng."
+      "note": "VN-Index tăng 21,16 điểm lên 1.759,83 nhưng VIC và VHM mang 24 điểm cho chỉ số, chỉ số giảm nếu loại 2 cổ phiếu Vingroup. Sắc đỏ lan tỏa 344 mã, 13 mã sàn, thanh khoản HoSE giảm 32%, phân hóa mạnh theo mã."
     },
     {
-      "title": "Superdong Q3 lãi chưa đến 300 triệu, giảm 96%",
+      "title": "Giá dầu thế giới tăng 65-90%, Chính phủ kiểm soát lạm phát",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng cho biết nếu không có biện pháp điều hành giá nước trong có thể tăng 80%. Chính phủ duy trì giá xăng dầu thấp, không tăng giá điện nhưng lạm phát cao vẫn đe dọa mục tiêu tăng trưởng GDP 10% trở lên năm 2027."
+    },
+    {
+      "title": "Techcombank giảm lãi suất cho vay tối đa 2%/năm",
+      "impact": "↑",
+      "note": "Techcombank giảm lãi suất cho vay tối đa 2%/năm quy mô 40.000 tỷ đồng cho sản xuất kinh doanh, cộng 20.000 tỷ cho SME và hộ kinh doanh từ tháng 10/2026; giảm 0,5% lãi suất tiền gửi kỳ hạn 6 tháng trở lên."
+    },
+    {
+      "title": "Lợi suất trái phiếu Pháp chạm mốc 5%, cao nhất 24 năm",
       "impact": "↓",
-      "note": "Superdong (SKG) doanh thu quý 3 hơn 107 tỷ đồng tăng 9% nhưng lãi sau thuế chỉ 269 triệu đồng, giảm 96% so cùng kỳ. Giá vốn tăng 23% nhanh hơn doanh thu, lợi nhuận gộp giảm 40% còn 13 tỷ đồng, áp lực từ giá dầu cao đã ép chặt biên lợi nhuận."
+      "note": "Lãi suất đi vay 10 năm Pháp chạm 5%, cao nhất kể từ 2002 (từ 3,2% cuối tháng 2). Bất ổn chính trị, giáo dục, bạo loạn góp phần gia tăng rủi ro tài chính toàn cầu, có thể ảnh hưởng dòng vốn vào TTCK VN."
+    },
+    {
+      "title": "Kiều hối quý 3 phục hồi sau hai quý sụt giảm",
+      "impact": "↑",
+      "note": "Kiều hối chuyển về TP HCM quý 3/2026 đạt 2,8 tỷ USD tăng 800 triệu USD so quý II, quý đầu tiên tăng cùng kỳ. 9 tháng 6,87 tỷ USD giảm 14% so cùng kỳ nhưng mức giảm thu hẹp từ 22,8% trong 6 tháng đầu."
     }
   ]
 }
