@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-22",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường diễn biến trái chiều giữa áp lực vĩ mô và hỗ trợ chính sách. Giá xăng dầu thế giới tăng 65-90% là mối đe dọa lạm phát, trong khi chính phủ-ngân hàng tích cực giảm lãi suất 60.000 tỷ đồng hỗ trợ kinh doanh. Nhà đầu tư khó lạc quan, tiền gửi chứng khoán xuống 71,5 nghìn tỷ (mức thấp 3 năm) nhưng dư nợ margin lại tăng cao, tạo rủi ro khi thanh khoản yếu. Điểm sáng: kiều hối Q3 phục hồi và FDI sắp tới >13 tỷ USD.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính phủ triển khai hỗ trợ kinh tế qua giảm lãi suất: SACOMBANK giảm 1,5-2% cho vay cá nhân (20.000 tỷ đồng) và doanh nghiệp (40.000 tỷ đồng), Thủ tướng cam kết kiểm soát giá xăng dầu/điện mặc dù dầu thế giới tăng 65-90%. Kiều hối phục hồi Q3 (2,8 tỷ USD, tăng 800 triệu USD) và AEF 2026 kỳ vọng 13 tỷ USD FDI mới. Tuy nhiên, nhà đầu tư rút vốn khỏi chứng khoán sang lãi suất ngân hàng hấp dẫn, với số dư tiền gửi tại công ty chứng khoán giảm 17,5% xuống mức thấp nhất 3 năm, tạo áp lực ngắn hạn trên thị trường cổ phiếu.",
   "top": [
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, đe dọa lạm phát",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%, Thủ tướng Lê Minh Hưng cảnh báo nếu không can thiệp sẽ kéo giá trong nước tăng ~80%. Dù Chính phủ đã dùng biện pháp giữ giá thấp và không tăng giá điện, nhưng áp lực lạm phát vẫn hiện hữu và 'sẽ xói mòn thành quả tăng trưởng'."
-    },
-    {
-      "title": "Tiền gửi chứng khoán xuống 71,5 nghìn tỷ, mức thấp nhất 3 năm",
-      "impact": "↓",
-      "note": "Số dư tiền gửi của nhà đầu tư tại các công ty chứng khoán cuối Q3/2026 là 71,5 nghìn tỷ đồng, giảm 17,5% so với Q2 và là mức thấp nhất kể từ Q4/2023. Đây là quý thứ hai liên tiếp giảm. Lãi suất tiết kiệm hấp dẫn khiến nhà đầu tư rút tiền, giảm sức mua cổ phiếu."
-    },
-    {
-      "title": "SACOMBANK hỗ trợ 60.000 tỷ đồng giảm lãi suất cho doanh nghiệp và cá nhân",
+      "title": "SACOMBANK giảm lãi suất cho vay cá nhân 1,5-2%, 20.000 tỷ đồng",
       "impact": "↑",
-      "note": "SACOMBANK triển khai gói tín dụng ưu đãi tổng 60.000 tỷ đồng: 40.000 tỷ cho doanh nghiệp (giảm 2%/năm) và 20.000 tỷ cho cá nhân (giảm 1,5-2%/năm). Giúp khách hàng giảm chi phí vốn, hỗ trợ sản xuất kinh doanh và phục vụ nhu cầu bổ sung vốn lưu động."
+      "note": "SACOMBANK triển khai gói tín dụng 20.000 tỷ đồng giảm lãi suất 1,5-2%/năm cho cá nhân/hộ kinh doanh; trước đó gói 40.000 tỷ đồng giảm 2%/năm cho doanh nghiệp. Giảm áp lực chi phí tài chính, hỗ trợ bổ sung vốn lưu động và mở rộng kinh doanh."
     },
     {
-      "title": "Dư nợ margin cao (457,5 nghìn tỷ) khi thanh khoản sụt mạnh",
+      "title": "Kiều hối TP.HCM phục hồi Q3: 2,8 tỷ USD, tăng 800 triệu USD",
+      "impact": "↑",
+      "note": "Kiều hối Q3/2026 đạt 2,8 tỷ USD, tăng 800 triệu USD so với Q2 và tăng dương so với cùng kỳ lần đầu năm. Lũy kế 9 tháng: 6,87 tỷ USD (giảm 14% YoY nhưng mức giảm đã thu hẹp). Châu Á dẫn đầu 59% (1,68 tỷ USD), châu Mỹ 26% (749 triệu USD)."
+    },
+    {
+      "title": "Thủ tướng kiểm soát giá xăng dầu mặc dầu thế giới tăng 65-90%",
+      "impact": "↑",
+      "note": "Dầu thế giới tăng 65-90%, nhưng Thủ tướng Lê Minh Hưng cam kết dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Mục tiêu GDP 2027 từ 10% trở lên, công khai ưu tiên ổn định vĩ mô."
+    },
+    {
+      "title": "NCS (Hàng không Nội Bài) Q3: doanh thu 264 tỷ đồng (+15%), lợi nhuận +17%",
+      "impact": "↑",
+      "note": "Công ty con Vietnam Airlines ghi doanh thu 264 tỷ đồng (+15% YoY), lợi nhuận 20 tỷ đồng (+17%). 9 tháng: 758,5 tỷ đồng doanh thu (+19%), 60 tỷ đồng lợi nhuận (+15%). Quý tăng lợi nhuận liên tiếp thứ 17, phản ánh phục hồi du lịch quốc tế."
+    },
+    {
+      "title": "Tiền gửi chứng khoán giảm 17,5% xuống 71,5 nghìn tỷ đồng",
       "impact": "↓",
-      "note": "Dư nợ cho vay ký quỹ tại 78 công ty chứng khoán đạt 457,5 nghìn tỷ đồng, tăng 11,7 nghìn tỷ so với Q2, nhưng thanh khoản thị trường sụt mạnh. Tỷ lệ dư nợ margin trên vốn chủ sở hữu ở mức 99%, tạo rủi ro margin call nếu thị trường suy yếu."
+      "note": "Số dư tiền gửi nhà đầu tư tại công ty chứng khoán cuối Q3 chỉ 71,5 nghìn tỷ đồng (-17,5% so với Q2), mức thấp nhất kể từ Q4/2023. TCBS (-31,2%), SSI (-29,8%), VPBank (-18,6%) — nhà đầu tư rút tiền sang tiền gửi lãi suất cao, giảm sức mua cổ phiếu."
     },
     {
-      "title": "Kiều hối Q3 phục hồi dương, lũy kế 9 tháng 6,87 tỷ USD",
+      "title": "AEF 2026 kỳ vọng 13 tỷ USD FDI, 26-29/10 tại TP.HCM",
       "impact": "↑",
-      "note": "Kiều hối TP HCM Q3 đạt hơn 2,8 tỷ USD, tăng trên 800 triệu USD so với Q2, là quý đầu tiên ghi nhận tăng trưởng dương năm nay. Lũy kế 9 tháng 6,87 tỷ USD (giảm 14% YoY nhưng mức giảm đã thu hẹp). Châu Á dẫn đầu 59% (1,68 tỷ USD), châu Mỹ 26% (749 triệu USD)."
-    },
-    {
-      "title": "AEF 2026 dự kiến hơn 13 tỷ USD FDI vào TP HCM trong tuần tới",
-      "impact": "↑",
-      "note": "Diễn đàn Kinh tế Mùa thu 2026 (26-29/10) tại TP HCM dự tính quy tụ >1.500 đại biểu, với hơn 13 tỷ USD vốn đầu tư dự kiến. Sự kiện tập trung thảo luận về AI, chuyển đổi số, kinh tế xanh, logistics xanh và Trung tâm Tài chính quốc tế."
+      "note": "Diễn đàn Kinh tế Mùa thu 2026 dự kiến 1.500+ đại biểu, 13 tỷ USD vốn đầu tư. 21 phiên thảo luận tập trung AI, chuyển đổi số, kinh tế xanh, logistics xanh, Trung tâm Tài chính quốc tế — hỗ trợ tăng trưởng dài hạn."
     }
   ]
 }
