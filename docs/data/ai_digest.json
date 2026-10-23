@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-23",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam tăng trưởng mạnh với GDP quý III đạt 9,95% YoY và công nghiệp tăng 11,21%, hỗ trợ bởi các dự án hạ tầng lớn như Sân bay Long Thành sắp khởi động khai thác (24/12/2026) và doanh số doanh nghiệp tiếp tục tăng tốc (MCH +16,3%). Tuy nhiên, rủi ro từ bên ngoài tăng cao khi thị trường Mỹ sụp đổ (S&P 500 -1,21%, Nasdaq -2,6%) do lo ngại AI bubble, giá dầu tăng lên 113 USD/thùng, và giá vàng sụt xuống 4.025 USD/oz dấy lên mối lo về lạm phát và thắt chặt tiền tệ toàn cầu. Chính phủ Việt Nam cam kết giữ ổn định vĩ mô thông qua các biện pháp kiểm soát lạm phát, song các yếu tố ngoại tệ vẫn đặt ra thách thức ngắn hạn cho thị trường cổ phiếu nội địa.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng mạnh với GDP quý III tăng 9,95%, công nghiệp bứt phá 11,21% đạt mức cao nhiều năm; sân bay Long Thành sắp khai thác (24/12) sau chi phí 74 nghìn tỷ đồng (85% hợp đồng), Masan Consumer doanh thu tăng 16,3% do thực phẩm tiện lợi và gia vị tăng mạnh. Tuy nhiên áp lực lạm phát gia tăng khi dầu Brent tăng 4% lên 113 USD/thùng do căng thẳng Trung Đông, kéo theo vàng sụt 2,8% xuống 4.025 USD/oz; thị trường chứng khoán Mỹ sụp đổ (S&P 500 -1,21%, Nasdaq -2,6%) do lo AI bubble. Chính phủ chủ động giữ giá xăng dầu và điện thấp để kiểm soát lạm phát, song rủi ro ngoại tệ vẫn đặt ra thách thức ngắn hạn.",
   "top": [
     {
       "title": "GDP quý III tăng 9,95%, công nghiệp bứt phá mạnh",
       "impact": "↑",
-      "note": "GDP quý III/2026 ước tăng 9,95% YoY, đưa mức tăng 9 tháng lên 9,01%. Công nghiệp & xây dựng tăng 11,21% (so với 8,69% cùng kỳ 2025), IIP tháng 9 tăng 16,7%. Là mức tăng cao nhất trong nhiều năm, thúc đẩy triển vọng ngành công nghiệp và xây dựng."
+      "note": "GDP quý III/2026 tăng 9,95% YoY, 9 tháng tăng 9,01% — mức cao nhất nhiều năm. Công nghiệp & xây dựng 9 tháng tăng 11,21% (so với 8,69% cùng kỳ 2025), IIP tháng 9 tăng 16,7%. Đà tăng trưởng kinh tế nội địa được duy trì vững chắc."
     },
     {
-      "title": "Sân bay Long Thành khởi động khai thác 24/12/2026",
+      "title": "Dầu Brent tăng 4% lên 113 USD/thùng, lo lạm phát",
+      "impact": "↓",
+      "note": "Giá dầu Brent tăng 4% vượt 113 USD/thùng (cao nhất 5 tháng) do căng thẳng Trung Đông, các cuộc tấn công Houthi vào cơ sở dầu khí Saudi Arabia. Dầu tăng kéo theo vàng giảm 2,8% xuống 4.025 USD/oz — áp lực lạm phát gia tăng, rủi ro tăng giá xăng dầu trong nước mặc dù Chính phủ đã cố gắng kiểm soát."
+    },
+    {
+      "title": "S&P 500 & Nasdaq lao dốc, lo AI bubble",
+      "impact": "↓",
+      "note": "S&P 500 giảm 1,21% xuống 7.663,43 điểm, Nasdaq giảm 2,6% xuống 26.008,86 điểm. Meta giảm 7%, AMD >8%, Micron 6%, CoreWeave 10% do lo ngại vay nợ lớn của công ty AI, lợi nhuận khó đoán định — rủi ro thị trường Mỹ ảnh hưởng tâm lý nhà đầu tư toàn cầu."
+    },
+    {
+      "title": "Masan Consumer doanh thu 8.743 tỷ đồng, tăng 16,3%",
       "impact": "↑",
-      "note": "Siêu dự án 16 tỷ USD bắt đầu hoạt động từ 24/12/2026, giai đoạn đầu 12/2026-3/2027 dự kiến 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Tính đến 10/2026, tiến độ xây dựng đạt gần 74.000 tỷ đồng = 85% giá trị hợp đồng. Tạo động lực lớn cho ngành cảng hàng không và các ngành liên quan."
+      "note": "Q3/2026 doanh thu 8.743 tỷ đồng (tăng 16,3% YoY), 9 tháng 24.380 tỷ đồng (tăng 14,6%) — cao nhất 3 năm. Thực phẩm tiện lợi +19,3%, gia vị +19%, đồ uống +14%, lợi nhuận +14,1%. Doanh nghiệp tiêu dùng hưởng lợi từ xu hướng đô thị hóa."
     },
     {
-      "title": "Masan Consumer doanh thu tăng 16,3%, mức cao nhất 3 năm",
+      "title": "Sân bay Long Thành khởi động khai thác 24/12",
       "impact": "↑",
-      "note": "Doanh thu quý 3/2026 đạt 8.743 tỷ đồng, tăng 16,3% YoY, là tốc độ tăng cao nhất 3 năm. Thực phẩm tiện lợi tăng 19,3%, gia vị tăng 19%, đồ uống tăng 14%; lợi nhuận sau thuế tăng 14,1%. Hiệu suất kinh doanh doanh nghiệp tiêu dùng được cải thiện đáng kể."
+      "note": "Siêu dự án 16 tỷ USD bắt đầu hoạt động 24/12/2026, giai đoạn đầu dự kiến 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Tính đến 10/2026 tiến độ xây dựng đạt gần 74 nghìn tỷ đồng (85% hợp đồng). Tạo động lực hạ tầng giao thông và các ngành liên quan."
     },
     {
-      "title": "S&P 500 và Nasdaq sụp đổ do lo ngại AI bubble",
+      "title": "SPDR Gold Trust bán 12 tấn vàng, vàng xuống 4.025 USD/oz",
       "impact": "↓",
-      "note": "S&P 500 giảm 1,21% xuống 7.663,43 điểm, Nasdaq giảm 2,6% xuống 26.008,86 điểm. Meta giảm 7%, AMD giảm 8%, Micron giảm 6%, Nvidia giảm 4% do lo ngại về mức độ vay nợ lớn của các công ty AI, triển vọng lợi nhuận khó đoán định. Rủi ro thị trường Mỹ ảnh hưởng đến tâm lý nhà đầu tư toàn cầu, gồm cả thị trường Việt Nam."
-    },
-    {
-      "title": "Dầu Brent tăng 4% lên 113 USD/thùng, cao nhất 5 tháng",
-      "impact": "↓",
-      "note": "Giá dầu thô Brent tăng 4% vượt mốc 113 USD/thùng do căng thẳng leo thang ở Trung Đông, các cuộc tấn công của lực lượng Houthi vào cơ sở hạ tầng dầu khí Saudi Arabia làm dấy lên mối lo gián đoạn cung ứng. Áp lực giá năng lượng cao tiếp tục gây áp lực lạm phát và rủi ro tăng giá xăng dầu trong nước."
-    },
-    {
-      "title": "SPDR Gold Trust bán 12 tấn vàng, giá xuống 4.025 USD/oz",
-      "impact": "↓",
-      "note": "SPDR Gold Trust, quỹ vàng lớn nhất thế giới, bán ròng gần 12 tấn vàng trong phiên 22/10, tổng 2 phiên lên 15 tấn, đẩy lượng vàng nắm giữ xuống còn khoảng 1.046 tấn. Giá vàng giao ngay giảm 117,1 USD/oz = 2,8% xuống 4.025 USD/oz, mức thấp nhất từ đầu tháng 8. Áp lực thanh lý và kỳ vọng Fed thắt chặt chính sách tiền tệ gia tăng."
+      "note": "SPDR Gold Trust bán ròng ~12 tấn vàng phiên 22/10, 2 phiên lên 15 tấn, lượng nắm giữ xuống còn 1.046 tấn. Vàng giao ngay giảm 117,1 USD/oz (2,8%) xuống 4.025 USD/oz — mức thấp nhất từ đầu tháng 8, áp lực thanh lý và kỳ vọng Fed thắt chặt chính sách."
     }
   ]
 }
