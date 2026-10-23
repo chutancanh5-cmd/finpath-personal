@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-23",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Khối ngoại quay lại mua ròng sau 13 phiên bán, nhóm Vingroup lên mạnh 11% và hút 400+ tỷ đồng trong 2 phiên, thị trường hưởng lợi từ FTSE nâng hạng. Sân bay Long Thành vận hành trong năm 2026 mở cơ hội logistics quốc tế. Chứng khoán HD bứt phá với lãi 2.241 tỷ gấp 3,7 lần. Tuy vậy, giá vàng sụt mạnh 2,8% và dầu leo thang 113 USD/thùng do căng thẳng Trung Đông tạo áp lực lạm phát cần theo dõi.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường hồi phục từ Vingroup và khối ngoại quay lại, VN-Index tăng 22 điểm hướng 1800. Tuy nhiên thanh khoản quý III giảm 57,6%, lợi nhuận công ty chứng khoán sụt 65%, giá dầu tăng 65-90% và lạm phát gia tăng tạo áp lực chi phí. Tín hiệu tích cực từ HDS lãi gấp 3,7 lần, kiều hối Q3 khởi sắc, sân bay Long Thành 2026 mở cơ hội logistics dài hạn.",
   "top": [
     {
-      "title": "Khối ngoại quay lại mua ròng, Vingroup hút 400+ tỷ đồng 2 phiên",
+      "title": "Vingroup bứt phá hút 400 tỷ ngoại, VN-Index tăng 22 điểm hướng 1800",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 301 tỷ đồng phiên 22/10. VIC hấp thụ 239 tỷ, VHM 161 tỷ, TCB 143 tỷ, MSN 141 tỷ. Nhóm Vingroup 4 mã (VIC, VHM, VPL, VRE) góp 54 điểm chiếm 80% tổng tăng VN-Index 2 phiên liên tiếp."
+      "note": "VIC tăng 11% trong 2 phiên liên tiếp, đóng góp 40 điểm. Nhóm Vingroup (VIC, VHM, VPL, VRE) góp 54 điểm chiếm 80% tổng tăng. Khối ngoại mua ròng 301 tỷ phiên 22/10 (phiên 2 liên tiếp sau 13 phiên bán), VIC hút 239 tỷ. FTSE Russell nâng hạng từ 21/9 hút hàng tỷ USD từ quỹ ETF."
     },
     {
-      "title": "Vàng sụt mạnh 2,8%, dầu Brent lên 113 USD/thùng",
+      "title": "Chứng khoán HD lãi 2.241 tỷ 9 tháng, gấp 3,7 lần cùng kỳ",
+      "impact": "↑",
+      "note": "Lợi nhuận trước thuế 2.241 tỷ, doanh thu 3.018 tỷ (gấp 2,6 lần), lợi nhuận sau thuế 1.804 tỷ (vượt cả năm 2025 là 1.314 tỷ). Mảng ngân hàng đầu tư bứt phá: doanh thu bảo lãnh/đại lý phát hành gấp 9,8 lần, chiếm 36,5% doanh thu. ROE quy năm 27,5%, biên lợi nhuận 74%."
+    },
+    {
+      "title": "Sân bay Long Thành vận hành 2026, hệ sinh thái logistics 100+ ha",
+      "impact": "↑",
+      "note": "Sân bay quốc tế Long Thành giai đoạn 1 vận hành thương mại năm 2026. Đồng Nai quy hoạch phát triển trung tâm logistics 100+ ha phục vụ luồng hàng hóa tốc độ cao, linh kiện điện tử, kho lạnh vaccine/dược phẩm, thương mại điện tử xuyên biên giới. Tín hiệu dài hạn cho ngành vận tải, logistics, xuất nhập khẩu."
+    },
+    {
+      "title": "Quý III ảm đạm: thanh khoản giảm 57,6%, công ty chứng khoán lãi sụt 65%",
       "impact": "↓",
-      "note": "Giá vàng NYC giảm 117,1 USD/oz xuống 4.025,3 USD/oz. Giá bạc giảm 5,8%. Dầu Brent tăng 4% lên 113 USD/thùng do lực lượng Houthi tấn công cơ sở dầu khí Saudi Arabia, gây áp lực lạm phát."
+      "note": "VN-Index quý III 1.768,62 điểm (giảm 4,9% so với cuối Q2). Giá trị giao dịch 18.625 tỷ đồng/phiên, giảm 57,6% so với Q3 2025 và 22,7% so với Q2. VNDIRECT lợi nhuận Q3 giảm 65%, doanh thu môi giới giảm 70%. Áp lực thanh khoản yếu dù lũy kế 9 tháng vẫn tăng nhờ khác nguồn."
     },
     {
-      "title": "Chứng khoán HD bứt phá, lãi 9 tháng 2.241 tỷ gấp 3,7 lần",
-      "impact": "↑",
-      "note": "Lợi nhuận trước thuế 9 tháng 2026 đạt 2.241 tỷ, gấp 3,7 lần cùng kỳ, hoàn thành 66% kế hoạch năm. Mảng ngân hàng đầu tư doanh thu 1.102 tỷ, chiếm 36,5% tổng doanh thu. ROE quy năm 27,5%."
-    },
-    {
-      "title": "Sân bay Long Thành vận hành 2026, phát triển logistics 100+ ha",
-      "impact": "↑",
-      "note": "Sân bay quốc tế Long Thành giai đoạn 1 vận hành thương mại năm 2026. Đồng Nai quy hoạch trung tâm logistics 100+ ha phục vụ hàng hóa tốc độ cao, công nghệ cao, linh kiện điện tử, kho lạnh vaccine, thương mại điện tử xuyên biên giới."
-    },
-    {
-      "title": "Lãi suất giảm hỗ trợ xây dựng trực tiếp",
-      "impact": "↑",
-      "note": "Ngành xây dựng và xây dựng hạ tầng kỳ vọng hưởng lợi trực tiếp từ chính sách giảm lãi suất. Chính phủ không tăng giá điện, giữ giá xăng dầu trong nước ở mức thấp dù thế giới tăng 65-90%."
-    },
-    {
-      "title": "Tàu Superdong lợi nhuận sụt 96%, cổ phiếu dò đáy 6 năm",
+      "title": "Dầu Brent tăng 4% lên 113 USD, Superdong lao dốc lãi 269 triệu",
       "impact": "↓",
-      "note": "SKG lãi quý 3 chỉ 269 triệu đồng, giảm 96% so với quý 2 (26 tỷ). Doanh thu 107 tỷ tăng 9%, nhưng giá vốn tăng 23%, lợi nhuận gộp giảm 40%. Mất thị phần tuyến Phú Quý."
+      "note": "Giá dầu Brent vượt 113 USD/thùng (+4%) do căng thẳng Trung Đông từ Houthi tấn công cơ sở dầu khí Saudi Arabia. SKG (Superdong) lãi Q3 chỉ 269 triệu (giảm 96%), doanh thu 107 tỷ (+9%) nhưng giá vốn +23%, margin giảm từ 22% xuống 12%. Chính phủ kiểm soát giá xăng dầu trong nước (tăng 65-90% thế giới), không tăng điện, nhưng áp lực chi phí vẫn cao."
+    },
+    {
+      "title": "Kiều hối Q3 khởi sắc 2,8 tỷ USD, 9 tháng 6,87 tỷ giảm 14%",
+      "impact": "→",
+      "note": "Kiều hối Q3 chuyển về TP HCM 2,8 tỷ USD, tăng 800 triệu so với Q2, quý đầu tiên năm ghi nhận tăng dương sau 2 quý liên tiếp giảm (-16,9% Q1, -27,9% Q2). Lũy kế 9 tháng 6,87 tỷ USD, giảm 14% so với cùng kỳ, nhưng mức giảm thu hẹp từ 22,8% (6 tháng đầu). Châu Á 59%, Châu Mỹ 26%."
     }
   ]
 }
