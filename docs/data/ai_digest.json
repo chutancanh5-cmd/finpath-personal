@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-23",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "GDP quý III tăng 9,95% với công nghiệp khởi sắc, sân bay Long Thành sắp khai thác từ 24/12/2026 với công suất gần hoàn thành. Masan Consumer tăng trưởng doanh thu 16,3%, mức cao nhất 3 năm. Tuy nhiên, thị trường chứng khoán toàn cầu giảm mạnh do lo lạm phát (Nasdaq -2,6%, S&P 500 -1,21%), ngành chứng khoán trong nước gặp khó khăn với APG lỗ 108 tỷ đồng, giá vàng giảm sâu xuống sát 4.000 USD/oz.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế Việt Nam tăng trưởng mạnh với GDP quý III đạt 9,95%, sản xuất công nghiệp tăng 12,3% (9 tháng) và sân bay Long Thành sắp khai thác từ 24/12/2026 nhưng thị trường chứng khoán toàn cầu lao dốc vì AI stocks bị bán tháo (S&P 500 -1,21%, Nasdaq -2,6%). Dầu thô tăng 4% vượt 113 USD/thùng gây áp lực lạm phát cao dai dẳng, mặc dù Chính phủ cố kiểm soát giá trong nước; công ty chứng khoán APG lỗ 108 tỷ đồng quý 3 từ khối lỗ đầu tư FVTPL 119 tỷ đồng.",
   "top": [
     {
-      "title": "GDP quý III tăng 9,95%, 9 tháng đạt 9,01%",
+      "title": "GDP quý III tăng 9,95%, công nghiệp bứt phá 11,21%",
       "impact": "↑",
-      "note": "GDP quý III tăng 9,95%, đưa mức tăng 9 tháng lên 9,01%. Công nghiệp và xây dựng tăng 11,21% trong 9 tháng, vượt khu vực dịch vụ (8,69%) và nông lâm (4,02%). IIP tháng 9 tăng 16,7%, 9 tháng tăng 12,3%."
+      "note": "GDP quý III-2026 tăng 9,95% so với cùng kỳ, 9 tháng đầu năm tăng 9,01%. Công nghiệp và xây dựng tăng 11,21%, chỉ số sản xuất công nghiệp (IIP) tháng 9 tăng 16,7% và 9 tháng tăng 12,3%. Động lực tích cực cho thị trường chứng khoán trong trung hạn."
     },
     {
-      "title": "Sân bay Long Thành khai thác từ 24/12/2026",
+      "title": "Sân bay Long Thành khai thác 24/12/2026, tiến độ 85%",
       "impact": "↑",
-      "note": "Siêu dự án 16 tỷ USD bắt đầu khai thác 24/12/2026. Giai đoạn đầu 4 đảo check-in, 366 chuyến/tuần (322 nội địa, 44 quốc tế). Tính đến giữa 10/2026, sản lượng thi công đạt 74.000 tỷ đồng (85% giá trị hợp đồng)."
+      "note": "ACV dự kiến bắt đầu khai thác từ 24/12/2026. Giai đoạn đầu bố trí 4 đảo làm thủ tục check-in, tổng 366 chuyến/tuần (322 nội địa, 44 quốc tế). Tính đến giữa 10/2026, sản lượng thi công đạt gần 74.000 tỷ đồng, tương đương 85% giá trị hợp đồng của siêu dự án 16 tỷ USD."
     },
     {
-      "title": "Masan Consumer doanh thu 8.743 tỷ đồng quý 3, tăng 16,3%",
-      "impact": "↑",
-      "note": "Doanh thu quý 3 đạt 8.743 tỷ đồng, tăng 16,3% so với cùng kỳ, mức tăng trưởng nhanh nhất 3 năm. Thực phẩm tiện lợi tăng 19,3%, gia vị tăng 19%, đồ uống tăng 14%. Lợi nhuận sau thuế tăng 14,1%."
-    },
-    {
-      "title": "S&P 500 và Nasdaq lao dốc vì bán tháo cổ phiếu AI",
+      "title": "S&P 500, Nasdaq lao dốc 1,21-2,6% do AI stocks bán tháo",
       "impact": "↓",
-      "note": "S&P 500 giảm 1,21% xuống 7.663,43 điểm, Nasdaq giảm 2,6% xuống 26.008,86 điểm. Meta -7%, AMD -8%, Micron -6%, Nvidia -4%, CoreWeave -10%. Dow Jones tăng 11,89 điểm (+0,02%)."
+      "note": "S&P 500 giảm 1,21% xuống 7.663,43 điểm, Nasdaq giảm 2,6% xuống 26.008,86 điểm. Cổ phiếu AI bị bán mạnh: Meta -7%, AMD -8%, Micron -6%, Nvidia -4%, CoreWeave -10%. Khối ngoại có thể rút vốn từ TTCK Việt Nam do lo ngại lạm phát."
     },
     {
-      "title": "APG ghi nhận lỗ 108 tỷ đồng quý 3/2026",
+      "title": "APG lỗ 108 tỷ đồng quý 3, công ty chứng khoán thua lỗ nặng nhất",
       "impact": "↓",
-      "note": "CTCP Chứng khoán APG lỗ trước thuế gần 108 tỷ đồng quý 3 (so với lãi 20 tỷ cùng kỳ). Doanh thu giảm 21%, lãi từ FVTPL giảm 93%. Chi phí hoạt động tăng 124 tỷ đồng, lỗ từ FVTPL tới 119 tỷ đồng."
+      "note": "CTCP Chứng khoán APG ghi nhận lỗ trước thuế gần 108 tỷ đồng quý 3 (so với lãi 20 tỷ cùng kỳ 2025). Doanh thu giảm 21% xuống 69 tỷ đồng. Khoản lỗ từ tài sản tài chính FVTPL lên 119 tỷ đồng, cao hơn rất nhiều so với chưa 1 tỷ cùng kỳ năm trước."
     },
     {
-      "title": "Giá vàng thế giới giảm 2,8% xuống 4.025 USD/oz",
+      "title": "Dầu Brent vượt 113 USD/thùng, áp lực lạm phát gia tăng",
       "impact": "↓",
-      "note": "Giá vàng giao ngay giảm 117,1 USD/oz (-2,8%) xuống 4.025,3 USD/oz. SPDR Gold Trust bán ròng gần 15 tấn trong 2 phiên. Giá dầu Brent tăng 4% lên 113 USD/thùng vì căng thẳng Trung Đông, tăng lo ngại lạm phát."
+      "note": "Giá dầu thô Brent tăng 4% đạt cao nhất 5 tháng, vượt 113 USD/thùng. Giá xăng dầu toàn cầu tăng 65-90% do căng thẳng Trung Đông. Thủ tướng cảnh báo lạm phát tăng sẽ xói mòn thành quả tăng trưởng. Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện."
+    },
+    {
+      "title": "Giá vàng thế giới sụt giảm 2,8% xuống 4.025 USD/oz",
+      "impact": "↓",
+      "note": "Giá vàng giao ngay giảm 117,1 USD/oz tương đương 2,8%, xuống 4.025,3 USD/oz (thấp nhất 2 tháng). SPDR Gold Trust bán ròng gần 15 tấn trong 2 phiên. Trong nước, vàng miếng/nhẫn giảm 300-500 nghìn đồng/lượng xuống khoảng 140 triệu đồng/lượng."
     }
   ]
 }
