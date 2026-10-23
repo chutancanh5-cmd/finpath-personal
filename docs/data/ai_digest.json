@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận phiên tích cực với dòng tiền bắt đáy xuất hiện, VN-Index tăng vượt 1.770 điểm nhờ thanh khoản tăng 72%. Động lực chính đến từ GDP quý III tăng 9,95% (tăng trưởng 9 tháng lên 9,01%) và công nghiệp-xây dựng tăng 11,21%, kết hợp với nhóm ngân hàng (23/28 mã tăng) phục hồi mạnh. Tuy nhiên, khối ngoại bán ròng 470 tỷ đồng và áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% vẫn đặt ra rủi ro cần theo dõi.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi mạnh với dòng tiền bắt đáy hoạt động, VN-Index tăng 13,5 điểm lên 1.774 điểm nhờ thanh khoản tăng 72%. Động lực chính đến từ GDP quý III tăng 9,95% (9 tháng tăng 9,01%) với công nghiệp-xây dựng tăng 11,21%, kết hợp khởi động sân bay Long Thành 24/12/2026 và nhóm ngân hàng (23/28 mã tăng). Tuy nhiên, khối ngoại bán ròng 470 tỷ đồng và áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% vẫn là rủi ro cần theo dõi.",
   "top": [
     {
-      "title": "GDP quý III tăng 9,95%, tăng trưởng 9 tháng lên 9,01%",
+      "title": "GDP Q3 tăng 9,95%, 9 tháng tăng 9,01%, công nghiệp tăng 11,21%",
       "impact": "↑",
-      "note": "Tăng trưởng 9 tháng lên 9,01%, công nghiệp và xây dựng tăng 11,21%, chỉ số sản xuất công nghiệp tháng 9 tăng 16,7%, xuất khẩu khởi sắc. Mức tăng cao nhất nhiều năm, hỗ trợ tăng trưởng cơ bản của TTCK và kỳ vọng 10% GDP năm 2027."
+      "note": "GDP quý III-2026 tăng 9,95% so với cùng kỳ, đẩy tăng trưởng 9 tháng lên 9,01%. Công nghiệp và xây dựng tăng 11,21%, chỉ số sản xuất công nghiệp tháng 9 tăng 16,7%, xuất khẩu khởi sắc, là mức tăng cao nhất nhiều năm."
     },
     {
-      "title": "Sân bay Long Thành khai thác 24/12/2026, 366 chuyến bay/tuần",
+      "title": "Sân bay Long Thành khởi động 24/12/2026, dự án 16 tỷ USD",
       "impact": "↑",
-      "note": "Dự án 16 tỷ USD bắt đầu hoạt động từ 24/12/2026, giai đoạn đầu khai thác 4 đảo check-in, tổng 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Tính đến giữa tháng 10/2026, sản lượng thi công đạt 74.000 tỷ đồng (85% giá trị hợp đồng), tạo động lực tăng trưởng mới."
+      "note": "Sân bay Long Thành bắt đầu khai thác từ 24/12/2026 với công suất ban đầu 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Dự án 16 tỷ USD đã hoàn thành 85% giá trị hợp đồng (74.000 tỷ đồng), tạo động lực tăng trưởng hạ tầng mới."
     },
     {
       "title": "Ngân hàng tăng mạnh: 23/28 mã xanh, STB +6,86% kịch trần",
       "impact": "↑",
-      "note": "23 trong 28 cổ phiếu ngân hàng tăng giá phiên 23/10. STB tăng 6,86% kịch trần lên 68.500 đồng/cp, 8,2 triệu cổ phiếu khớp (cao nhất tuần), phiên tăng thứ 4 liên tiếp. Khối ngoại mua ròng TCB 152 tỷ đồng, CTG 62 tỷ đồng, nhóm trụ hỗ trợ VN-Index."
+      "note": "23 trong 28 cổ phiếu ngân hàng tăng giá phiên 23/10. STB tăng 6,86% kịch trần lên 68.500 đ/cp với 8,2 triệu cổ phiếu khớp (cao nhất tuần). VIC tăng 1,55%, BID tăng 1,33%, CTG tăng 1,31%, nhóm trụ hỗ trợ VN-Index."
     },
     {
-      "title": "VN-Index phục hồi 13,5 điểm lên 1.774, thanh khoản tăng 72%",
+      "title": "VN-Index tăng 13,5 điểm lên 1.774, thanh khoản tăng 72%",
       "impact": "↑",
-      "note": "VN-Index tăng 13,5 điểm lên 1.774 điểm sau áp lực giằng co sáng. Độ rộng cải thiện: 144 mã xanh/156 mã đỏ ở chốt, thanh khoản HoSE chiều tăng 72% so với sáng (8.931 tỷ đồng), xác nhận dòng tiền chủ động bắt đáy."
+      "note": "VN-Index tăng 13,5 điểm lên 1.774 điểm phiên 23/10. Độ rộng cải thiện: 144 mã xanh/156 mã đỏ ở chốt, thanh khoản HoSE chiều tăng 72% so với sáng (8.931 tỷ đồng), xác nhận dòng tiền chủ động bắt đáy."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực lạm phát vĩ mô",
-      "impact": "↓",
-      "note": "Thủ tướng cảnh báo giá xăng dầu thế giới tăng 65-90%. Nếu không điều hành, giá trong nước có thể tăng 80%, kéo theo tác động lan rộng đến giá hàng hóa khác. Chính phủ dùng biện pháp giữ ổn định nhưng rủi ro lạm phát có thể xói mòn thành quả tăng trưởng."
-    },
-    {
-      "title": "Khối ngoại bán ròng 470 tỷ đồng, xả ACB mạnh sau 2 phiên mua",
+      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát giá trong nước",
       "impact": "→",
-      "note": "Khối ngoại quay đầu bán ròng 470 tỷ đồng phiên 23/10 sau 2 phiên mua liên tiếp. Xả mạnh ACB 470 tỷ đồng (bán ròng hàng đầu), STB bán ròng 84 tỷ đồng. Chiều mua: TCB 152 tỷ, MSN 92 tỷ, CTG 62 tỷ. Tín hiệu chốt lời trên ngân hàng cần theo dõi."
+      "note": "Giá xăng dầu thế giới tăng 65-90%. Thủ tướng cảnh báo nếu không điều hành, giá xăng dầu trong nước có thể tăng 80%, kéo áp lực lạm phát. Chính phủ dùng biện pháp giữ giá xăng dầu và điện ở mức thấp để bảo vệ tăng trưởng."
+    },
+    {
+      "title": "Khối ngoại bán ròng 470 tỷ đồng, chốt lời sau mua liên tiếp",
+      "impact": "→",
+      "note": "Khối ngoại quay đầu bán ròng 470 tỷ đồng phiên 23/10 sau 2 phiên mua ròng. Xả mạnh ACB 470 tỷ đồng, STB bán ròng 84 tỷ đồng. Chiều mua: TCB 152 tỷ, MSN 92 tỷ, CTG 62 tỷ. Tín hiệu chốt lời trên ngân hàng giữ tâm lý thị trường."
     }
   ]
 }
