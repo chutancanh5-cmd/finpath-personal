@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hồi phục mạnh mẽ với VN-Index tăng 4% tuần (68 điểm), lấy lại toàn bộ mất mát tháng 10, nhờ các cổ phiếu vốn hóa lớn và ngân hàng tăng mạnh. Chính phủ tích cực hỗ trợ bằng cách giảm lãi suất vay (PVcomBank ưu đãi 2,5%/năm) và kiểm soát lạm phát dù giá xăng dầu thế giới tăng 65-90%. Dự án sân bay Long Thành sắp khai thác 24/12/2026, cùng các doanh nghiệp tăng trưởng như DPM. Rủi ro ngắn hạn từ khối ngoại bán ròng 470 tỷ ACB và dòng tiền phân hóa vẫn cần theo dõi.",
+  "summary_vi": "Thị trường chứng khoán tiếp tục đà phục hồi mạnh (tuần +4%, phiên +0,77%) nhờ dòng tiền bắt đáy, nhưng khối ngoại bán ròng 443 tỷ đồng cho thấy dòng tiền phân hóa. Chính sách hỗ trợ từ NHNN (hạ lãi suất 2,5%, kiểm soát lạm phát) giữa bối cảnh xăng dầu thế giới tăng 65-90%. Sân bay Long Thành sắp khai thác từ 24/12/2026 (siêu dự án 16 tỷ USD, 85% hoàn thành) là động lực tăng trưởng dài hạn. Rủi ro từ áp lực lạm phát toàn cầu và dòng tiền ngoại bất định.",
   "top": [
+    {
+      "title": "Chính phủ kiểm soát lạm phát giữa xăng dầu thế giới tăng 65-90%",
+      "impact": "→",
+      "note": "Thủ tướng Lê Minh Hưng: giá xăng dầu thế giới tăng 65-90%, Chính phủ giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Mục tiêu tăng trưởng GDP 2027 từ 10% trở lên. Có rủi ro lạm phát nhưng chính sách hỗ trợ tích cực."
+    },
     {
       "title": "Sân bay Long Thành khai thác từ 24/12/2026",
       "impact": "↑",
-      "note": "Siêu dự án 16 tỷ USD chính thức bắt đầu hoạt động, giai đoạn đầu từ tháng 12/2026 - 3/2027, phục vụ tối đa 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Công suất khai thác 6-10% năng lực thiết kế, tạo động lực phát triển du lịch, vận tải hàng không trong trung hạn."
+      "note": "Siêu dự án 16 tỷ USD hoàn thành 85% giá trị công trình (~74.000 tỷ đồng) đến giữa 10/2026. Khai thác giai đoạn đầu từ 12/2026-3/2027 với 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Động lực tăng trưởng dài hạn cho hàng không, logistics và kinh tế vĩ mô."
     },
     {
-      "title": "VN-Index tăng 4% tuần, vượt 1770 điểm",
+      "title": "PVcomBank ưu đãi lãi suất cho vay 2,5%/năm",
       "impact": "↑",
-      "note": "VN-Index tăng 68,24 điểm tuần (19-23/10), khép lại tại 1,774.15 điểm, tăng thứ 4 liên tiếp, lấy lại toàn bộ 82 điểm mất trong cả tháng 10. Nhóm trụ dẫn dắt, 357 mã tăng vs 352 mã giảm, thanh khoản khớp lệnh HoSE hơn 16.330 tỷ đồng."
+      "note": "Chính sách NHNN yêu cầu các tổ chức tín dụng giảm lãi suất 1,5-2%/năm, PVcomBank ưu đãi lãi suất 2,5%/năm cho cá nhân/hộ kinh doanh/SME. Lãi suất cơ bản từ 6,29%/năm, áp dụng từ 20/10 đến 31/01/2027. Hỗ trợ khâu tín dụng cho sản xuất kinh doanh."
     },
     {
-      "title": "Chính phủ giảm lãi suất vay 2,5%/năm, kiểm soát lạm phát",
-      "impact": "↑",
-      "note": "PVcomBank ưu đãi lãi suất cho vay thấp hơn 2,5%/năm (mức cơ bản từ 6,29%/năm) cho kinh doanh/hộ kinh doanh từ 20/10/2026 - 31/1/2027. Chính phủ kiểm soát lạm phát bằng không tăng giá điện, giữ xăng dầu thấp dù giá thế giới tăng 65-90%, hỗ trợ tăng trưởng GDP hướng tới 10% năm 2027."
-    },
-    {
-      "title": "Ngành ngân hàng tăng mạnh, STB kịch trần",
-      "impact": "↑",
-      "note": "STB tăng 6,86% kịch trần lên 68.500 đồng/cp, 23/28 mã ngân hàng tăng gồm ACB +3,9%, LPB +3,59%, CTG +1,31%, VCB, BID tăng chung. STB thanh khoản cao nhất tuần 8,2 triệu cổ phiếu, phiên tăng thứ 4 liên tiếp."
-    },
-    {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực CPI",
+      "title": "Khối ngoại bán ròng 443 tỷ đồng, bán mạnh ACB 469 tỷ",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nếu không can thiệp giá trong nước tăng tối đa 80%, kéo theo tác động lan rộng CPI. Chính phủ triển khai giải pháp bảo đảm cung ứng, giữ giá xăng dầu thấp so với khu vực, kiểm soát lạm phát 9 tháng đầu năm."
+      "note": "Phiên 23/10, khối ngoại bán ròng 443 tỷ đồng tổng (ACB bị bán mạnh 469 tỷ đồng, FPT 146 tỷ, PNJ 110 tỷ). Tuy nhiên tự doanh công ty chứng khoán mua ròng 12 tỷ HoSE, trong đó mua ACB 240 tỷ. Dòng tiền phân hóa giữa ngoại và nội."
     },
     {
-      "title": "Khối ngoại bán ròng 470 tỷ ACB, dòng tiền phân hóa",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 469 tỷ đồng ACB phiên 23/10, nhưng mua ròng TCB 152 tỷ, CTG 62 tỷ, HDB 55 tỷ. Dòng tiền tập trung vốn hóa lớn, cổ phiếu vừa nhỏ phân hóa, rủi ro lan tỏa khả năng còn hạn chế ngắn hạn."
+      "title": "VN-Index phục hồi mạnh tuần +4%, phiên +0,77%",
+      "impact": "↑",
+      "note": "VN-Index tuần 19-23/10 tăng 68,24 điểm (+4%), phiên 23/10 tăng 13,5 điểm lên 1.774,15 điểm (phiên tăng thứ 4 liên tiếp). Thanh khoản HoSE 16.330 tỷ đồng, dòng tiền bắt đáy tăng 72% trong phiên chiều. Nhóm cổ phiếu vốn hóa lớn dẫn dắt, 144 mã tăng/156 mã giảm."
+    },
+    {
+      "title": "Lixco lãi ròng +84%, Netco lãi -81% quý 3",
+      "impact": "→",
+      "note": "Q3/2026, Lixco doanh thu tăng 10% lên 860 tỷ đồng, lãi ròng tăng 84% lên 84 tỷ đồng (biên lợi nhuận mở rộng 21,4% → 25,2%, nhận cổ tức 59 tỷ từ công ty liên kết). Netco lãi sụt 81% do giá nguyên liệu đầu vào tăng. Phân hóa lợi nhuận doanh nghiệp, chọn lọc cổ phiếu quan trọng."
     }
   ]
 }
