@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-23",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tăng trưởng mạnh GDP quý III 9,95%, nhưng tâm lý nhà đầu tư bị ảnh hưởng từ bán tháo cổ phiếu AI toàn cầu (S&P 500 -1,21%, Nasdaq -2,6%). Trong nước, vàng sụt mạnh 300-2,5 triệu đồng/lượng và chứng khoán APG lỗ 108 tỷ đồng quý III. Tuy nhiên, sân bay Long Thành (16 tỷ USD) sắp khai thác 24/12 và lợi nhuận của Imexpharm vẫn tăng mang lại hy vọng cho thị trường.",
+  "summary_vi": "GDP quý III tăng 9,95% và 9 tháng đạt 9,01%, được thúc đẩy bởi công nghiệp (11,21%) và xuất khẩu, hỗ trợ định giá cổ phiếu. Tuy nhiên, thị trường Mỹ suy yếu (S&P 500 -1,21%, Nasdaq -2,6%) và khối ngoại bán ròng 349,56 tỷ đồng tạo áp lực ngắn hạn. Giá dầu thế giới tăng 65-90% nhưng Chính phủ kiểm soát giá trong nước. Sân bay Long Thành khởi động cuối năm mở cơ hội lâu dài.",
   "top": [
     {
-      "title": "GDP quý III tăng 9,95%",
+      "title": "GDP quý III tăng 9,95%, 9 tháng đạt 9,01%",
       "impact": "↑",
-      "note": "GDP quý III-2026 tăng 9,95%, công nghiệp & xây dựng tăng 11,21%, dịch vụ tăng 8,69%, 9 tháng tăng 9,01% - mức cao nhất từ 2022. Điều này hỗ trợ xu hướng tăng trưởng dài hạn cho nền kinh tế và thị trường chứng khoán."
+      "note": "GDP quý III-2026 ước tăng 9,95% so với cùng kỳ năm trước, cao hơn quý I (8,15%) và quý II (8,81%), lũy kế 9 tháng tăng 9,01%. Công nghiệp và xây dựng tăng 11,21%, chỉ số sản xuất công nghiệp tăng 12,3% trong 9 tháng. Tăng trưởng mạnh hỗ trợ lợi suất cổ phiếu công nghiệp, xây dựng, xuất khẩu."
     },
     {
-      "title": "S&P 500 -1,21%, Nasdaq -2,6% do bán tháo AI",
-      "impact": "↓",
-      "note": "Chỉ số S&P 500 giảm 1,21%, Nasdaq giảm 2,6% do bán tháo cổ phiếu AI. Meta giảm 7%, AMD sụt hơn 8%, Micron -6%, Nvidia -4%. Áp lực này có thể lan sang thị trường ASEAN và VN, ảnh hưởng tâm lý nhà đầu tư rủi ro."
-    },
-    {
-      "title": "Sân bay Long Thành bắt đầu khai thác 24/12/2026",
+      "title": "Sân bay Long Thành khởi động 24/12/2026, dự án 16 tỷ USD",
       "impact": "↑",
-      "note": "Dự án 16 tỷ USD đạt 85% giá trị hợp đồng, khai thác từ 24/12/2026 với 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Dự án này tạo động lực cho ngành giao thông vận tải và liên quan đến ngành hàng không."
+      "note": "Sân bay Long Thành dự kiến bắt đầu khai thác từ 24/12/2026. Giai đoạn đầu 12/2026-3/2027 phục vụ tối đa 366 chuyến bay/tuần gồm 322 chuyến nội địa, 44 chuyến quốc tế. Tính đến giữa tháng 10, sản lượng thi công đạt gần 74.000 tỷ đồng tương đương 85% giá trị hợp đồng. Cơ hội dài hạn cho ngành vận tải, du lịch, logistics."
     },
     {
-      "title": "APG báo lỗ 108 tỷ đồng quý III",
+      "title": "Thị trường Mỹ suy yếu, AI bán tháo lan rộng",
       "impact": "↓",
-      "note": "Chứng khoán APG lỗ trước thuế gần 108 tỷ đồng quý III (lãi 20 tỷ cùng kỳ năm trước) - mức lỗ lớn nhất ngành. Chủ yếu do lỗ danh mục FVTPL 119 tỷ đồng, cảnh báo rủi ro tự doanh chứng khoán."
+      "note": "S&P 500 giảm 1,21% xuống 7.663,43 điểm, Nasdaq giảm 2,6% xuống 26.008,86 điểm. Bán tháo AI: Meta -7%, AMD -8%, Micron -6%, Nvidia -4%, CoreWeave -10%. CEO Jensen Huang của Nvidia cảnh báo, lo ngại bong bóng AI. Tâm lý bất an này có thể ảnh hưởng cổ phiếu công nghệ Việt Nam."
     },
     {
-      "title": "Giá vàng giảm 300-2,5 triệu đồng/lượng",
+      "title": "Giá dầu thế giới +65-90%, Chính phủ kiểm soát giá trong nước",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng tới 65-90%. Thủ tướng Lê Minh Hưng xác nhận Chính phủ triển khai biện pháp bảo đảm nguồn cung, giữ giá xăng dầu trong nước ở mức thấp so với khu vực, không tăng giá điện. Mục tiêu kiểm soát lạm phát để người dân hưởng lợi từ tăng trưởng, nhưng áp lực chi phí vẫn tồn tại."
+    },
+    {
+      "title": "Khối ngoại bán ròng 349,56 tỷ đồng, ACB bị bán 106,8 tỷ",
       "impact": "↓",
-      "note": "Sáng 23/10, giá vàng miếng và vàng nhẫn giảm 300 nghìn đến 2,5 triệu đồng/lượng tùy doanh nghiệp. Vàng nhẫn rơi sát 140 triệu đồng/lượng, mức thấp 2 tháng. Cho thấy nhà đầu tư rút khỏi tài sản trú ẩn."
+      "note": "Khối ngoại bán ròng 349,56 tỷ đồng trên cả ba sàn ngày 23/10, lực bán tập trung ở ACB 106,8 tỷ đồng. Dù TCB, MSN mua ròng 53-57 tỷ đồng, cán cân khối ngoại từ đầu tháng 10 vẫn âm hơn 6 nghìn tỷ đồng. Áp lực bán từ rủi ro thị trường toàn cầu."
     },
     {
-      "title": "Imexpharm lợi nhuận tăng 5% 9 tháng",
-      "impact": "↑",
-      "note": "Lợi nhuận trước thuế 9 tháng đạt 326 tỷ đồng (+5%), biên lợi nhuận gộp cải thiện từ 39,7% lên 41,5%, biên EBITDA 24,3% (+2 điểm %). Đạt 65% kế hoạch năm. Cho thấy doanh nghiệp vẫn tăng trưởng tích cực trong thị trường khó khăn."
+      "title": "Giá vàng miếng, vàng nhẫn giảm sâu 300-2,5 triệu đồng/lượng",
+      "impact": "→",
+      "note": "Sáng 23/10, giá vàng miếng giảm 300 nghìn đồng/lượng, vàng nhẫn giảm 400 nghìn-2,5 triệu đồng/lượng tuỳ doanh nghiệp. Giá bán vàng nhẫn rơi xuống sát 140 triệu đồng/lượng, mức thấp 2 tháng. Thế giới vàng giao ngay giảm xuống sát 4.000 USD/ounce, phản ánh sự dịch chuyển từ tài sản an toàn sang cổ phiếu."
     }
   ]
 }
