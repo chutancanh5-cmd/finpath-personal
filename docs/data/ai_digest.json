@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán phục hồi mạnh với VN-Index tăng 68,24 điểm (4%) trong tuần, khép lại phiên 23/10 tại 1.774,15 điểm nhờ dòng tiền bắt đáy, chủ yếu từ nhóm cổ phiếu vốn hóa lớn. Chính phủ chủ động kiểm soát lạm phát giữa áp lực xăng dầu thế giới tăng 65-90%, các ngân hàng hạ lãi suất hỗ trợ tăng trưởng. Sân bay Long Thành sắp khai thác (24/12/2026) với 366 chuyến/tuần mở ra cơ hội cho hàng không-du lịch. Tuy dòng tiền chưa lan tỏa rộng và khối ngoại bán ròng 470 tỷ ACB, nhưng doanh nghiệp như DPM vẫn duy trì tăng trưởng tốt (105% kế hoạch).",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hồi phục mạnh mẽ với VN-Index tăng 4% tuần (68 điểm), lấy lại toàn bộ mất mát tháng 10, nhờ các cổ phiếu vốn hóa lớn và ngân hàng tăng mạnh. Chính phủ tích cực hỗ trợ bằng cách giảm lãi suất vay (PVcomBank ưu đãi 2,5%/năm) và kiểm soát lạm phát dù giá xăng dầu thế giới tăng 65-90%. Dự án sân bay Long Thành sắp khai thác 24/12/2026, cùng các doanh nghiệp tăng trưởng như DPM. Rủi ro ngắn hạn từ khối ngoại bán ròng 470 tỷ ACB và dòng tiền phân hóa vẫn cần theo dõi.",
   "top": [
     {
-      "title": "VN-Index tăng 68,24 điểm (4%) trong tuần, phiên tăng thứ 4 liên tiếp",
+      "title": "Sân bay Long Thành khai thác từ 24/12/2026",
       "impact": "↑",
-      "note": "VN-Index khép lại tuần tại 1.774,15 điểm, tăng 68,24 điểm so với tuần trước. Chỉ số ghi nhận phiên tăng thứ 4 liên tiếp, lấy lại hơn 82 điểm tương đương mức giảm cả tháng 10. Nhóm cổ phiếu vốn hóa lớn dẫn dắt (VIC +1,55%), nhưng khả năng lan tỏa của dòng tiền vẫn cần cải thiện."
+      "note": "Siêu dự án 16 tỷ USD chính thức bắt đầu hoạt động, giai đoạn đầu từ tháng 12/2026 - 3/2027, phục vụ tối đa 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Công suất khai thác 6-10% năng lực thiết kế, tạo động lực phát triển du lịch, vận tải hàng không trong trung hạn."
     },
     {
-      "title": "Ngân hàng bứt phá, STB tăng kịch trần 6,86% lên 68.500 đồng",
+      "title": "VN-Index tăng 4% tuần, vượt 1770 điểm",
       "impact": "↑",
-      "note": "23/28 cổ phiếu ngân hàng tăng giá, STB tăng kịch trần (+6,86%) lên 68.500 đồng/cp, trắng bên bán với hơn 8,2 triệu cổ phiếu khớp lệnh (thanh khoản cao nhất tuần). Nhóm ngân hàng đóng góp 9,64 điểm cho VN-Index. ACB, LPB, VCB, BID, CTG cũng góp phần tích cực."
+      "note": "VN-Index tăng 68,24 điểm tuần (19-23/10), khép lại tại 1,774.15 điểm, tăng thứ 4 liên tiếp, lấy lại toàn bộ 82 điểm mất trong cả tháng 10. Nhóm trụ dẫn dắt, 357 mã tăng vs 352 mã giảm, thanh khoản khớp lệnh HoSE hơn 16.330 tỷ đồng."
     },
     {
-      "title": "NHNN yêu cầu giảm lãi suất 1,5-2%/năm, PVcomBank hạ xuống 6,29%",
+      "title": "Chính phủ giảm lãi suất vay 2,5%/năm, kiểm soát lạm phát",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước ban hành Văn bản 9608/NHNN-CSTT yêu cầu giảm lãi suất cho vay 1,5-2%/năm. PVcomBank triển khai gói ưu đãi từ 20/10/2026 đến 31/01/2027, hạ lãi suất tối đa 2,5%/năm cho vay sản xuất kinh doanh, mức lãi suất ưu đãi từ 6,29%/năm cho cá nhân kinh doanh."
+      "note": "PVcomBank ưu đãi lãi suất cho vay thấp hơn 2,5%/năm (mức cơ bản từ 6,29%/năm) cho kinh doanh/hộ kinh doanh từ 20/10/2026 - 31/1/2027. Chính phủ kiểm soát lạm phát bằng không tăng giá điện, giữ xăng dầu thấp dù giá thế giới tăng 65-90%, hỗ trợ tăng trưởng GDP hướng tới 10% năm 2027."
     },
     {
-      "title": "Sân bay Long Thành dự khai thác 24/12/2026, siêu dự án 16 tỷ USD",
+      "title": "Ngành ngân hàng tăng mạnh, STB kịch trần",
       "impact": "↑",
-      "note": "Sân bay Long Thành dự kiến bắt đầu khai thác từ 24/12/2026, giai đoạn đầu dự kiến 366 chuyến bay mỗi tuần (322 nội địa, 44 quốc tế). Dự án thành phần 3 tính đến giữa tháng 10 hoàn thành 85% giá trị hợp đồng (~74 nghìn tỷ đồng), mở cơ hội tăng trưởng cho hàng không, du lịch, dịch vụ."
+      "note": "STB tăng 6,86% kịch trần lên 68.500 đồng/cp, 23/28 mã ngân hàng tăng gồm ACB +3,9%, LPB +3,59%, CTG +1,31%, VCB, BID tăng chung. STB thanh khoản cao nhất tuần 8,2 triệu cổ phiếu, phiên tăng thứ 4 liên tiếp."
     },
     {
-      "title": "Thủ tướng cảnh báo lạm phát, xăng dầu thế giới tăng 65-90%",
+      "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực CPI",
       "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng. Giá xăng dầu thế giới tăng 65-90%, Chính phủ sử dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát CPI. Mục tiêu tăng trưởng GDP từ 10% trở lên năm 2027."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nếu không can thiệp giá trong nước tăng tối đa 80%, kéo theo tác động lan rộng CPI. Chính phủ triển khai giải pháp bảo đảm cung ứng, giữ giá xăng dầu thấp so với khu vực, kiểm soát lạm phát 9 tháng đầu năm."
     },
     {
-      "title": "DPM hoàn thành 105% kế hoạch sản lượng Urê, 688 nghìn tấn 9 tháng",
-      "impact": "↑",
-      "note": "PVFCCo - Phú Mỹ (DPM) sản lượng Urê Phú Mỹ quy đổi 9 tháng 2026 đạt 688 nghìn tấn, hoàn thành 105% kế hoạch. Doanh nghiệp duy trì vận hành ổn định, tăng trưởng dù thị trường phân bón biến động, chi phí đầu vào gia tăng, tỷ giá leo thang."
+      "title": "Khối ngoại bán ròng 470 tỷ ACB, dòng tiền phân hóa",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 469 tỷ đồng ACB phiên 23/10, nhưng mua ròng TCB 152 tỷ, CTG 62 tỷ, HDB 55 tỷ. Dòng tiền tập trung vốn hóa lớn, cổ phiếu vừa nhỏ phân hóa, rủi ro lan tỏa khả năng còn hạn chế ngắn hạn."
     }
   ]
 }
