@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-10-23",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hồi phục mạnh với VN-Index vượt 1.770 điểm sau 3 phiên giảm liên tiếp, dòng tiền bắt đáy hoạt động khá tốt với thanh khoản tăng 72%. Sân bay Long Thành dự kiến khai thác từ 24/12/2026 mở ra cơ hội phát triển kinh tế dài hạn. Tuy nhiên, áp lực từ giá xăng dầu thế giới tăng 65-90% và lo ngại bong bóng AI quốc tế gây rủi ro ngắn hạn, trong khi giá vàng suy yếu xuống mức 2 tháng phản ánh tâm lý thận trọng của nhà đầu tư.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường hôm nay ghi nhận diễn biến trái chiều: VN-Index tăng 13,5 điểm lên 1.774 điểm nhờ dòng tiền bắt đáy mạnh chiều nay, nhưng khối ngoại quay đầu bán ròng 470 tỷ đồng chủ yếu xả ACB là tín hiệu bất ổn. Dự án sân bay Long Thành sắp khai thác từ 24/12/2026 mang động lực dài hạn, song áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% là mối lo chính sách vĩ mô.",
   "top": [
     {
       "title": "VN-Index vượt 1.770 điểm sau 3 phiên giảm",
@@ -20,9 +20,9 @@
       "note": "Công ty chứng khoán APG lỗ ròng gần 108 tỷ đồng quý 3/2026, chủ yếu từ khoản lỗ FVTPL gần 120 tỷ đồng. Cổ phiếu KOS giảm mạnh 86% trong quý 3 từ 37.000 đồng/cp xuống 5.000 đồng/cp, danh mục FVTPL giảm giá ghi nhận chênh lệch đánh giá lại 119 tỷ đồng."
     },
     {
-      "title": "Imexpharm tăng trưởng lợi nhuận tích cực giữa biến động",
-      "impact": "↑",
-      "note": "Lũy kế 9 tháng năm 2026, doanh thu 1.652 tỷ đồng (giảm 8%), lợi nhuận trước thuế 326 tỷ đồng (tăng 5%), biên EBITDA đạt 24,3% tăng 2 điểm phần trăm. IMP được vinh danh Top 50 Doanh nghiệp Dẫn đầu ESG Việt Nam 2026."
+      "title": "Khối ngoại bán ròng 470 tỷ đồng, xả mạnh ACB",
+      "impact": "↓",
+      "note": "Khối ngoại quay đầu bán ròng 470 tỷ đồng phiên 23/10 sau 2 phiên mua liên tiếp, chủ yếu xả ACB 470 tỷ đồng. Tín hiệu rút khỏi ngân hàng hàng đầu phản ánh lo ngại ngắn hạn về định giá và lợi nhuận."
     },
     {
       "title": "Masan gia nhập thị trường cửa hàng tiện lợi WiN ON",
@@ -30,9 +30,9 @@
       "note": "6 cửa hàng tiện lợi WiN ON khai trương thí điểm ngày 22/10 tại Hà Nội và TP.HCM. Thị trường CVS hiện có hơn 1.500 cửa hàng, tăng 7%, cao hơn siêu thị tăng 3%, phản ánh xu hướng tiêu dùng nhanh phổ biến."
     },
     {
-      "title": "Giá vàng trong nước hạ nhiệt xuống mức 2 tháng",
-      "impact": "→",
-      "note": "Giá vàng miếng SJC giảm 300-500 nghìn đ/lượng, giao dịch 139-142 triệu đ/lượng (thấp nhất 2 tháng). Vàng nhẫn trơn giảm 400 nghìn - 2,5 triệu đ/lượng tại DOJI, PNJ, Bảo Tín Minh Châu; tâm lý rủi ro giảm."
+      "title": "Thủ tướng cảnh báo lạm phát xói mòn tăng trưởng",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, chính phủ dùng biện pháp giữ giá xăng dầu, điện trong nước thấp để kiểm soát CPI. Thủ tướng Lê Minh Hưng khẳng định nếu lạm phát tăng, thành quả tăng trưởng sẽ bị xói mòn. Rủi ro chính sách vĩ mô gia tăng cho năm 2027."
     }
   ]
 }
