@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-23",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam tăng trưởng mạnh với GDP quý III đạt 9,95%, sản xuất công nghiệp tăng 12,3% (9 tháng) và sân bay Long Thành sắp khai thác từ 24/12/2026 nhưng thị trường chứng khoán toàn cầu lao dốc vì AI stocks bị bán tháo (S&P 500 -1,21%, Nasdaq -2,6%). Dầu thô tăng 4% vượt 113 USD/thùng gây áp lực lạm phát cao dai dẳng, mặc dù Chính phủ cố kiểm soát giá trong nước; công ty chứng khoán APG lỗ 108 tỷ đồng quý 3 từ khối lỗ đầu tư FVTPL 119 tỷ đồng.",
+  "summary_vi": "Thị trường Việt Nam phải cân cân giữa những tín hiệu tích cực (GDP quý III tăng 9,95%, sân bay Long Thành sắp hoạt động, công nghiệp bứt phá 11,21%) với những thách thức từ bên ngoài (S&P 500 và Nasdaq lao dốc do lo ngại bong bóng AI, giá dầu thế giới tăng 65-90%). Sự cố nội bộ khi CTCK APG báo lỗ gần 108 tỷ đồng từ cổ phiếu KOS sụp đổ 86% thể hiện áp lực trong thị trường. Chính phủ chủ động kiểm soát lạm phát bằng cách giữ giá xăng dầu trong nước ở mức thấp, nhưng kinh tế vẫn cần theo dõi sát diễn biến toàn cầu.",
   "top": [
     {
-      "title": "GDP quý III tăng 9,95%, công nghiệp bứt phá 11,21%",
+      "title": "GDP quý III tăng 9,95%, 9 tháng tăng 9,01%",
       "impact": "↑",
-      "note": "GDP quý III-2026 tăng 9,95% so với cùng kỳ, 9 tháng đầu năm tăng 9,01%. Công nghiệp và xây dựng tăng 11,21%, chỉ số sản xuất công nghiệp (IIP) tháng 9 tăng 16,7% và 9 tháng tăng 12,3%. Động lực tích cực cho thị trường chứng khoán trong trung hạn."
+      "note": "Công nghiệp và xây dựng tăng 11,21% trong 9 tháng, chỉ số sản xuất công nghiệp (IIP) tháng 9 tăng 16,7% và 9 tháng tăng 12,3%. Mức tăng cao nhất trong nhiều năm, tạo động lực tích cực cho nhu cầu cổ phiếu."
     },
     {
-      "title": "Sân bay Long Thành khai thác 24/12/2026, tiến độ 85%",
+      "title": "Sân bay Long Thành bắt đầu khai thác từ 24/12/2026",
       "impact": "↑",
-      "note": "ACV dự kiến bắt đầu khai thác từ 24/12/2026. Giai đoạn đầu bố trí 4 đảo làm thủ tục check-in, tổng 366 chuyến/tuần (322 nội địa, 44 quốc tế). Tính đến giữa 10/2026, sản lượng thi công đạt gần 74.000 tỷ đồng, tương đương 85% giá trị hợp đồng của siêu dự án 16 tỷ USD."
+      "note": "Dự án 16 tỷ USD lớn nhất Việt Nam sắp hoạt động với tối đa 366 chuyến bay mỗi tuần (322 nội địa, 44 quốc tế). Sản lượng thi công đạt gần 74.000 tỷ đồng tương đương 85% giá trị hợp đồng, mở ra cơ hội dài hạn cho vận tải, du lịch, bất động sản."
     },
     {
-      "title": "S&P 500, Nasdaq lao dốc 1,21-2,6% do AI stocks bán tháo",
+      "title": "S&P 500 giảm 1,21%, Nasdaq giảm 2,6% do bán tháo AI stocks",
       "impact": "↓",
-      "note": "S&P 500 giảm 1,21% xuống 7.663,43 điểm, Nasdaq giảm 2,6% xuống 26.008,86 điểm. Cổ phiếu AI bị bán mạnh: Meta -7%, AMD -8%, Micron -6%, Nvidia -4%, CoreWeave -10%. Khối ngoại có thể rút vốn từ TTCK Việt Nam do lo ngại lạm phát."
+      "note": "Nhà đầu tư Phố Wall lo ngại mức vay nợ lớn của công ty AI, triển vọng lợi nhuận khó đoán. Meta -7%, AMD -8%, Micron -6%, Nvidia -4%, CoreWeave -10%. Áp lực bán ảnh hưởng tiêu cực đến thị trường toàn cầu và khối ngoại tại TTCK Việt Nam."
     },
     {
-      "title": "APG lỗ 108 tỷ đồng quý 3, công ty chứng khoán thua lỗ nặng nhất",
+      "title": "CTCK APG báo lỗ ròng gần 108 tỷ đồng quý III",
       "impact": "↓",
-      "note": "CTCP Chứng khoán APG ghi nhận lỗ trước thuế gần 108 tỷ đồng quý 3 (so với lãi 20 tỷ cùng kỳ 2025). Doanh thu giảm 21% xuống 69 tỷ đồng. Khoản lỗ từ tài sản tài chính FVTPL lên 119 tỷ đồng, cao hơn rất nhiều so với chưa 1 tỷ cùng kỳ năm trước."
+      "note": "Cổ phiếu KOS giảm 86% từ 37.000 xuống 5.000 đồng, khoản lỗ FVTPL lên 119 tỷ đồng. Doanh thu quý 3 giảm 21%, sự kiện tiêu cực lớn nhất ngành chứng khoán năm 2026."
     },
     {
-      "title": "Dầu Brent vượt 113 USD/thùng, áp lực lạm phát gia tăng",
-      "impact": "↓",
-      "note": "Giá dầu thô Brent tăng 4% đạt cao nhất 5 tháng, vượt 113 USD/thùng. Giá xăng dầu toàn cầu tăng 65-90% do căng thẳng Trung Đông. Thủ tướng cảnh báo lạm phát tăng sẽ xói mòn thành quả tăng trưởng. Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện."
+      "title": "Chính phủ kiểm soát giá xăng dầu khi thế giới tăng 65-90%",
+      "impact": "→",
+      "note": "Thủ tướng duy trì giá xăng dầu trong nước ở mức thấp, không tăng giá điện để bảo vệ người dân. Giá xăng dầu thế giới tăng 65-90% do căng thẳng Trung Đông, biện pháp điều hành cần tài chính lớn để giữ ổn định."
     },
     {
-      "title": "Giá vàng thế giới sụt giảm 2,8% xuống 4.025 USD/oz",
-      "impact": "↓",
-      "note": "Giá vàng giao ngay giảm 117,1 USD/oz tương đương 2,8%, xuống 4.025,3 USD/oz (thấp nhất 2 tháng). SPDR Gold Trust bán ròng gần 15 tấn trong 2 phiên. Trong nước, vàng miếng/nhẫn giảm 300-500 nghìn đồng/lượng xuống khoảng 140 triệu đồng/lượng."
+      "title": "Masan ra mắt chuỗi tiện lợi WiN ON với 6 cửa hàng đầu tiên",
+      "impact": "↑",
+      "note": "WinCommerce chính thức khai trương thí điểm tại Hà Nội và TP.HCM ngày 22/10. Thị trường cửa hàng tiện lợi tăng 7%, hiện có hơn 1.500 cửa hàng, mở cơ hội kinh doanh mới tạo động lực kinh tế."
     }
   ]
 }
