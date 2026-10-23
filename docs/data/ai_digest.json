@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-23",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường ghi nhận sức ép từ bán tháo cổ phiếu AI toàn cầu (S&P 500 giảm 1.21%, Nasdaq giảm 2.6%) và giá vàng sụt mạnh hơn 100 USD/oz xuống 4.025,3 USD/oz, trong khi giá dầu tăng 65-90% gây áp lực lạm phát. Tuy nhiên, Chính phủ cam kết tăng trưởng hai con số năm 2027 bằng cách kiểm soát giá xăng dầu nội địa, và thị trường chứng khoán kỳ vọng chu kỳ tăng trưởng mới sau nâng hạng FTSE Russell.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Nền kinh tế Việt Nam tăng trưởng mạnh với GDP quý III đạt 9,95%, công nghiệp tăng 11,21%; doanh nghiệp như MCH tăng trưởng nhanh nhất 3 năm. Thị trường chứng khoán được kỳ vọng bước vào chu kỳ tăng trưởng mới cùng nâng hạng FTSE Russell. Tuy nhiên, rủi ro từ lạm phát dai dẳng (giá xăng dầu thế giới tăng 65-90%), giá dầu thô Brent vượt 113 USD/thùng, và sức ép bán từ Phố Wall (S&P 500 giảm 1,21%, Nasdaq giảm 2,6%) đòi hỏi cảnh báo.",
   "top": [
     {
-      "title": "S&P 500 và Nasdaq lao dốc vì cổ phiếu AI bị bán tháo",
-      "impact": "↓",
-      "note": "S&P 500 giảm 1.21% còn 7.663,43 điểm, Nasdaq giảm 2.6% còn 26.008,86 điểm. Meta giảm 7%, AMD giảm 8%, Micron giảm 6%, Nvidia giảm 4%, CoreWeave giảm 10% do lo ngại vay nợ lớn cho AI, triển vọng lợi nhuận khó đoán và nguy cơ bong bóng."
-    },
-    {
-      "title": "Giá vàng \"bốc hơi\" hơn 100 USD/oz",
-      "impact": "↓",
-      "note": "Giá vàng giao ngay tại New York giảm 117,1 USD/oz (2.8%) xuống 4.025,3 USD/oz, mức thấp nhất kể từ đầu tháng 8. Giá bạc giảm 3.38 USD/oz (5.8%) xuống 54,72 USD/oz. Quỹ SPDR Gold Trust có phiên bán ròng mạnh hiếm thấy."
-    },
-    {
-      "title": "Giá dầu \"nhảy\" lên đỉnh 5 tháng, Thủ tướng cảnh báo lạm phát",
-      "impact": "↓",
-      "note": "Giá dầu thô Brent tăng 4% vượt 113 USD/thùng (đỉnh 5 tháng) do căng thẳng Trung Đông. Thủ tướng Lê Minh Hưng nêu giá xăng dầu thế giới tăng 65-90%, nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng nếu không kiểm soát giá xăng dầu nội địa."
-    },
-    {
-      "title": "Các công ty chứng khoán top ghi nhận sụt giảm quý 3",
-      "impact": "↓",
-      "note": "SSI quý 3/2026 doanh thu 3.079 tỷ đồng giảm 25%, lợi nhuận trước thuế giảm 27% còn 1.295 tỷ đồng. Doanh thu lãi FVTPL giảm 33%, doanh thu môi giới giảm 62%. 9 tháng SSI hoàn thành 77% chỉ tiêu lợi nhuận (4.510 tỷ / 5.838 tỷ đồng kế hoạch)."
-    },
-    {
-      "title": "Phó Thủ tướng: Tăng trưởng hai con số là \"mệnh lệnh chính trị\"",
+      "title": "GDP quý III tăng 9,95%",
       "impact": "↑",
-      "note": "GDP 9 tháng 2026 tăng 9.01%, quý 3 tăng 9.95%. Chính phủ phấn đấu GDP quý 4 tăng trên 12.5% để hoàn thành mục tiêu toàn năm từ 10% trở lên, động lực từ đầu tư công, xuất khẩu và tiêu dùng."
+      "note": "GDP quý III-2026 tăng 9,95% so với cùng kỳ năm trước, cao hơn quý I (8,15%) và quý II (8,81%); 9 tháng tăng 9,01%. Công nghiệp và xây dựng tăng 11,21%, chỉ số sản xuất công nghiệp tháng 9 tăng 16,7%."
     },
     {
-      "title": "Bảo Tín Capital kỳ vọng chu kỳ tăng trưởng mới của thị trường chứng khoán",
+      "title": "MCH doanh thu 8,743 tỷ đồng quý III, tăng 16,3%",
       "impact": "↑",
-      "note": "Thị trường đang bước vào chu kỳ tăng trưởng mạnh với 4 động lực hình thành đồng thời. Vốn hóa thị trường tăng từ 1% GDP (2000) lên 82.6% GDP (2025). FTSE Russell nâng hạng Việt Nam lên nhóm thị trường mới nổi thứ cấp, hạ tầng giao dịch KRX vận hành từ tháng 5/2025."
+      "note": "Masan Consumer quý 3/2026 doanh thu 8,743 tỷ đồng, tăng 16,3% so cùng kỳ - tốc độ nhanh nhất 3 năm; lợi nhuận sau thuế tăng 14,1%. Thực phẩm tiện lợi tăng 19,3%, gia vị tăng 19%, đồ uống đóng chai tăng 14%."
+    },
+    {
+      "title": "Nâng hạng FTSE Russell, chu kỳ tăng trưởng mới",
+      "impact": "↑",
+      "note": "Thị trường chứng khoán Việt Nam bước vào chu kỳ đầu tư mới, tăng trưởng về chất và lượng. Vốn hóa thị trường từ 1% GDP (2000) lên 82,6% GDP (2025); hạ tầng hoàn thiện (Luật Chứng khoán 2024, giao dịch không ký quỹ trước, hệ thống KRX từ tháng 5/2025)."
+    },
+    {
+      "title": "S&P 500 giảm 1,21%, Nasdaq giảm 2,6%",
+      "impact": "↓",
+      "note": "Chỉ số S&P 500 giảm 1,21% xuống 7.663,43 điểm, Nasdaq giảm 2,6% xuống 26.008,86 điểm do bán tháo cổ phiếu AI (Meta giảm 7%, AMD giảm 8%, Nvidia giảm 4%). Dow Jones tăng nhẹ 0,02%."
+    },
+    {
+      "title": "Giá xăng dầu thế giới tăng 65-90%, dầu Brent vượt 113 USD/thùng",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%; dầu Brent tăng 4% vượt 113 USD/thùng (cao nhất 5 tháng) do căng thẳng Trung Đông. Chính phủ áp dụng biện pháp giữ giá xăng dầu trong nước thấp, không tăng giá điện; cảnh báo lạm phát sẽ xói mòn thành quả tăng trưởng."
+    },
+    {
+      "title": "Sân bay Long Thành phát triển hệ sinh thái logistics",
+      "impact": "↑",
+      "note": "Đồng Nai đề xuất quy hoạch các trung tâm logistics quanh sân bay Long Thành (trên 100 ha), phục vụ hàng hóa tốc độ cao, linh kiện điện tử, kho lạnh vaccine, thương mại điện tử xuyên biên giới. Sân bay giai đoạn 1 vận hành thương mại trong năm 2026."
     }
   ]
 }
