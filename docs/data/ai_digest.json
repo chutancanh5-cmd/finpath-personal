@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-23",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay ghi nhận diễn biến hỗn hợp: VN-Index phục hồi tích cực, tăng 13,5 điểm lên 1.774 điểm nhờ dòng tiền bắt đáy mạnh chiều, thanh khoản HoSE chiều tăng 72%. Ngành ngân hàng dẫn dắt với 23/28 mã tăng giá và STB kịch trần +6,86%, nhưng khối ngoại quay đầu bán ròng 470 tỷ đồng (chủ yếu xả ACB) thể hiện tâm lý cảnh báo. Sân bay Long Thành sắp khai thác (24/12/2026) là động lực dài hạn, song áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% vẫn là mối lo chính sách vĩ mô.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận phiên tích cực với dòng tiền bắt đáy xuất hiện, VN-Index tăng vượt 1.770 điểm nhờ thanh khoản tăng 72%. Động lực chính đến từ GDP quý III tăng 9,95% (tăng trưởng 9 tháng lên 9,01%) và công nghiệp-xây dựng tăng 11,21%, kết hợp với nhóm ngân hàng (23/28 mã tăng) phục hồi mạnh. Tuy nhiên, khối ngoại bán ròng 470 tỷ đồng và áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% vẫn đặt ra rủi ro cần theo dõi.",
   "top": [
     {
-      "title": "Ngân hàng tăng mạnh: 23/28 mã xanh, STB +6,86% kịch trần",
+      "title": "GDP quý III tăng 9,95%, tăng trưởng 9 tháng lên 9,01%",
       "impact": "↑",
-      "note": "23 trong 28 cổ phiếu ngân hàng tăng giá phiên 23/10. STB tăng 6,86% kịch trần lên 68.500 đồng/cp, thanh khoản 8,2 triệu cổ phiếu (cao nhất tuần), phiên tăng thứ 4 liên tiếp. NVB +5,84%, EIB +5,31% (kịch trần 18.100 đồng, 20M cổ phiếu khớp), OCB +4,35%, ACB +3,9%, SSB +3,74%, LPB +3,59% hỗ trợ phục hồi VN-Index."
+      "note": "Tăng trưởng 9 tháng lên 9,01%, công nghiệp và xây dựng tăng 11,21%, chỉ số sản xuất công nghiệp tháng 9 tăng 16,7%, xuất khẩu khởi sắc. Mức tăng cao nhất nhiều năm, hỗ trợ tăng trưởng cơ bản của TTCK và kỳ vọng 10% GDP năm 2027."
     },
     {
       "title": "Sân bay Long Thành khai thác 24/12/2026, 366 chuyến bay/tuần",
       "impact": "↑",
-      "note": "Dự án 16 tỷ USD bắt đầu hoạt động từ 24/12/2026, giai đoạn đầu khai thác 4 đảo check-in, tổng 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Tính đến giữa tháng 10/2026, sản lượng thi công đạt 74.000 tỷ đồng, tương đương 85% giá trị hợp đồng toàn bộ dự án thành phần 3."
+      "note": "Dự án 16 tỷ USD bắt đầu hoạt động từ 24/12/2026, giai đoạn đầu khai thác 4 đảo check-in, tổng 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Tính đến giữa tháng 10/2026, sản lượng thi công đạt 74.000 tỷ đồng (85% giá trị hợp đồng), tạo động lực tăng trưởng mới."
+    },
+    {
+      "title": "Ngân hàng tăng mạnh: 23/28 mã xanh, STB +6,86% kịch trần",
+      "impact": "↑",
+      "note": "23 trong 28 cổ phiếu ngân hàng tăng giá phiên 23/10. STB tăng 6,86% kịch trần lên 68.500 đồng/cp, 8,2 triệu cổ phiếu khớp (cao nhất tuần), phiên tăng thứ 4 liên tiếp. Khối ngoại mua ròng TCB 152 tỷ đồng, CTG 62 tỷ đồng, nhóm trụ hỗ trợ VN-Index."
+    },
+    {
+      "title": "VN-Index phục hồi 13,5 điểm lên 1.774, thanh khoản tăng 72%",
+      "impact": "↑",
+      "note": "VN-Index tăng 13,5 điểm lên 1.774 điểm sau áp lực giằng co sáng. Độ rộng cải thiện: 144 mã xanh/156 mã đỏ ở chốt, thanh khoản HoSE chiều tăng 72% so với sáng (8.931 tỷ đồng), xác nhận dòng tiền chủ động bắt đáy."
     },
     {
       "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực lạm phát vĩ mô",
       "impact": "↓",
-      "note": "Thủ tướng Lê Minh Hưng cảnh báo giá xăng dầu thế giới tăng 65-90%. Nếu không điều hành, giá trong nước có thể tăng 80%, kéo theo tác động lan rộng đến giá hàng hóa khác. Chính phủ dùng nhiều biện pháp giữ giá xăng dầu thấp và không tăng giá điện để kiểm soát lạm phát, nhưng rủi ro vẫn gia tăng cho năm 2027."
+      "note": "Thủ tướng cảnh báo giá xăng dầu thế giới tăng 65-90%. Nếu không điều hành, giá trong nước có thể tăng 80%, kéo theo tác động lan rộng đến giá hàng hóa khác. Chính phủ dùng biện pháp giữ ổn định nhưng rủi ro lạm phát có thể xói mòn thành quả tăng trưởng."
     },
     {
-      "title": "Khối ngoại bán ròng 470 tỷ đồng, xả ACB 470 tỷ sau 2 phiên mua",
+      "title": "Khối ngoại bán ròng 470 tỷ đồng, xả ACB mạnh sau 2 phiên mua",
       "impact": "→",
-      "note": "Khối ngoại quay đầu bán ròng tổng 470 tỷ đồng phiên 23/10 sau 2 phiên mua liên tiếp. Trong đó xả mạnh ACB 470 tỷ đồng (vị trí bán ròng hàng đầu), STB bán ròng 84 tỷ đồng. Chiều mua: TCB 152 tỷ, MSN 92 tỷ, CTG 62 tỷ. Tín hiệu chốt lời trên ngân hàng nhưng chưa phải xu hướng thoái lui toàn diện."
-    },
-    {
-      "title": "VN-Index phục hồi 13,5 điểm lên 1.774, thanh khoản HoSE tăng 72%",
-      "impact": "↑",
-      "note": "VN-Index tăng 13,5 điểm lên 1.774 điểm sau áp lực giằng co sáng. Độ rộng cải thiện: 144 mã xanh/156 mã đỏ ở chốt (so với 97 xanh/192 đỏ sáng). Thanh khoản HoSE chiều tăng 72% so với sáng, đạt 8.931 tỷ đồng (cao nhất 25 phiên chiều gần đây), 34,6% cổ phiếu giảm giá có biên độ phục hồi trên 1%."
-    },
-    {
-      "title": "S&P 500 -1,21%, Nasdaq -2,6%, bán tháo cổ phiếu AI toàn cầu",
-      "impact": "↓",
-      "note": "Chỉ số S&P 500 giảm 1,21% còn 7.663,43 điểm, Nasdaq trượt 2,6% còn 26.008,86 điểm. Meta -7%, AMD -8%, Micron -6%, Nvidia -4%, CoreWeave -10%. Tâm lý bất an về nợ AI cao, lợi nhuận khó đoán định, rủi ro bong bóp gây bán tháo. Dow Jones tăng 0,02% khi nhà đầu tư chuyển sang cổ phiếu blue-chip truyền thống."
+      "note": "Khối ngoại quay đầu bán ròng 470 tỷ đồng phiên 23/10 sau 2 phiên mua liên tiếp. Xả mạnh ACB 470 tỷ đồng (bán ròng hàng đầu), STB bán ròng 84 tỷ đồng. Chiều mua: TCB 152 tỷ, MSN 92 tỷ, CTG 62 tỷ. Tín hiệu chốt lời trên ngân hàng cần theo dõi."
     }
   ]
 }
