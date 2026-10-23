@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-23",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì động lực mạnh với GDP quý III tăng 9,95% và công nghiệp bứt phá 11,21%, trong khi sân bay Long Thành sắp khởi động tạo cơ hội đầu tư lớn. Tuy nhiên, thị trường chứng khoán đang rung lắc với khối ngoại bán ròng liên tục và Nasdaq lao dốc do lo ngại AI, gây áp lực giảm giá; lạm phát vẫn là rủi ro khi giá dầu thế giới tăng 65-90% dù Chính phủ đang kiểm soát.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hồi phục mạnh với VN-Index vượt 1.770 điểm sau 3 phiên giảm liên tiếp, dòng tiền bắt đáy hoạt động khá tốt với thanh khoản tăng 72%. Sân bay Long Thành dự kiến khai thác từ 24/12/2026 mở ra cơ hội phát triển kinh tế dài hạn. Tuy nhiên, áp lực từ giá xăng dầu thế giới tăng 65-90% và lo ngại bong bóng AI quốc tế gây rủi ro ngắn hạn, trong khi giá vàng suy yếu xuống mức 2 tháng phản ánh tâm lý thận trọng của nhà đầu tư.",
   "top": [
     {
-      "title": "GDP quý III tăng 9,95%, công nghiệp bứt phá 11,21%",
+      "title": "VN-Index vượt 1.770 điểm sau 3 phiên giảm",
       "impact": "↑",
-      "note": "GDP quý III-2026 tăng 9,95%, GDP 9 tháng tăng 9,01%. Công nghiệp và xây dựng tăng 11,21% (so với 8,69% cùng kỳ năm trước), chỉ số sản xuất công nghiệp tăng 12,3% trong 9 tháng; nền tảng tăng trưởng vững chắc hỗ trợ thị trường."
+      "note": "VN-Index đảo chiều tăng mạnh, chiều phiên tăng từ 1.756 điểm lên vượt 1.770 điểm. VN30 có 23 cổ phiếu tăng/6 giảm, thanh khoản khớp lệnh chiều tăng 72% so với sáng đạt 8.931 tỷ đồng (cao nhất 25 phiên chiều). Dòng tiền bắt đáy hoạt động tích cực, 34,6% cổ phiếu giảm giá có biên độ phục hồi trên 1%."
     },
     {
-      "title": "VN-Index rung lắc, khối ngoại bán ròng 349,56 tỷ đồng",
-      "impact": "↓",
-      "note": "VN-Index giảm 4,5 điểm (-0,26%) xuống 1.756,13 điểm phiên sáng 23/10; độ rộng thị trường nghiêng bên bán (364 mã giảm, 250 mã tăng); khối ngoại bán ròng 349,56 tỷ đồng, cán cân từ đầu tháng 10 vẫn âm hơn 6.000 tỷ đồng gây áp lực."
-    },
-    {
-      "title": "Sân bay Long Thành khởi động 24/12/2026, phục vụ 366 chuyến/tuần",
+      "title": "Sân bay Long Thành dự kiến khai thác 24/12/2026",
       "impact": "↑",
-      "note": "Siêu dự án 16 tỷ USD sắp hoạt động từ 24/12/2026; giai đoạn đầu (12/2026-3/2027) phục vụ 366 chuyến mỗi tuần (322 nội địa, 44 quốc tế); cơ hội tăng trưởng cho các doanh nghiệp hàng không, logistics, du lịch."
+      "note": "Dự án 16 tỷ USD bắt đầu hoạt động từ 24/12/2026, khai thác 4 đảo check-in, dự kiến 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Tính đến giữa tháng 10/2026, sản lượng thi công đạt 74.000 tỷ đồng, tương đương 85% giá trị hợp đồng."
     },
     {
-      "title": "Nasdaq giảm 2,6%, cổ phiếu AI bán tháo mạnh",
+      "title": "APG báo lỗ gần 108 tỷ đồng vì cổ phiếu KOS sụp đổ",
       "impact": "↓",
-      "note": "Nasdaq giảm 2,6% xuống 26.008,86 điểm; Meta giảm ~7%, AMD giảm >8%, Micron giảm 6%, Nvidia giảm 4% do lo ngại vay nợ AI, lợi nhuận khó đoán, nguy cơ bong bóng; áp lực toàn cầu có thể lây sang cổ phiếu công nghệ Việt Nam."
+      "note": "Công ty chứng khoán APG lỗ ròng gần 108 tỷ đồng quý 3/2026, chủ yếu từ khoản lỗ FVTPL gần 120 tỷ đồng. Cổ phiếu KOS giảm mạnh 86% trong quý 3 từ 37.000 đồng/cp xuống 5.000 đồng/cp, danh mục FVTPL giảm giá ghi nhận chênh lệch đánh giá lại 119 tỷ đồng."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát",
+      "title": "Imexpharm tăng trưởng lợi nhuận tích cực giữa biến động",
+      "impact": "↑",
+      "note": "Lũy kế 9 tháng năm 2026, doanh thu 1.652 tỷ đồng (giảm 8%), lợi nhuận trước thuế 326 tỷ đồng (tăng 5%), biên EBITDA đạt 24,3% tăng 2 điểm phần trăm. IMP được vinh danh Top 50 Doanh nghiệp Dẫn đầu ESG Việt Nam 2026."
+    },
+    {
+      "title": "Masan gia nhập thị trường cửa hàng tiện lợi WiN ON",
+      "impact": "↑",
+      "note": "6 cửa hàng tiện lợi WiN ON khai trương thí điểm ngày 22/10 tại Hà Nội và TP.HCM. Thị trường CVS hiện có hơn 1.500 cửa hàng, tăng 7%, cao hơn siêu thị tăng 3%, phản ánh xu hướng tiêu dùng nhanh phổ biến."
+    },
+    {
+      "title": "Giá vàng trong nước hạ nhiệt xuống mức 2 tháng",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; Chính phủ đã dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát; bảo vệ CPI nhưng gánh nặng ngân sách."
-    },
-    {
-      "title": "Giá vàng sụt xuống mức thấp 2 tháng",
-      "impact": "↓",
-      "note": "Giá vàng miếng SJC giảm 300-700 nghìn đ/lượng xuống 137,4-142,0 triệu đ/lượng (thấp nhất 2 tháng); vàng nhẫn giảm 400 nghìn - 2,5 triệu đ/lượng; tâm lý rủi ro giảm, nhà đầu tư chuyển dòng vốn sang tài sản khác."
+      "note": "Giá vàng miếng SJC giảm 300-500 nghìn đ/lượng, giao dịch 139-142 triệu đ/lượng (thấp nhất 2 tháng). Vàng nhẫn trơn giảm 400 nghìn - 2,5 triệu đ/lượng tại DOJI, PNJ, Bảo Tín Minh Châu; tâm lý rủi ro giảm."
     }
   ]
 }
