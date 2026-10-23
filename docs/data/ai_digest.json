@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-23",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi mạnh với dòng tiền bắt đáy hoạt động, VN-Index tăng 13,5 điểm lên 1.774 điểm nhờ thanh khoản tăng 72%. Động lực chính đến từ GDP quý III tăng 9,95% (9 tháng tăng 9,01%) với công nghiệp-xây dựng tăng 11,21%, kết hợp khởi động sân bay Long Thành 24/12/2026 và nhóm ngân hàng (23/28 mã tăng). Tuy nhiên, khối ngoại bán ròng 470 tỷ đồng và áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% vẫn là rủi ro cần theo dõi.",
+  "summary_vi": "Kinh tế Việt Nam bứt phá mạnh mẽ với GDP quý 3 tăng 9,95% (9 tháng tăng 9,01%), công nghiệp-xây dựng tăng 11,21%, kết hợp với sân bay Long Thành sắp khai thác từ 24/12/2026 (dự án 16 tỷ USD). Thị trường chứng khoán phục hồi tích cực, dư nợ cho vay chứng khoán đạt kỷ lục 463 ngàn tỷ đồng, nhiều doanh nghiệp tăng trưởng vượt kế hoạch. Rủi ro ngắn hạn từ áp lực lạm phát (giá xăng dầu thế giới tăng 65-90%) và giá vàng xuống mức thấp 2 tháng.",
   "top": [
     {
-      "title": "GDP Q3 tăng 9,95%, 9 tháng tăng 9,01%, công nghiệp tăng 11,21%",
+      "title": "GDP quý 3 tăng 9,95%, công nghiệp tăng 11,21%",
       "impact": "↑",
-      "note": "GDP quý III-2026 tăng 9,95% so với cùng kỳ, đẩy tăng trưởng 9 tháng lên 9,01%. Công nghiệp và xây dựng tăng 11,21%, chỉ số sản xuất công nghiệp tháng 9 tăng 16,7%, xuất khẩu khởi sắc, là mức tăng cao nhất nhiều năm."
+      "note": "GDP quý III-2026 tăng 9,95% so với cùng kỳ, 9 tháng tăng 9,01%, chỉ số sản xuất công nghiệp tăng 16,7% tháng 9 và 12,3% cả 9 tháng. Công nghiệp-xây dựng tăng 11,21%, bứt phá so với 8,69% cùng kỳ 2025, thúc đẩy tăng trưởng kinh tế."
     },
     {
-      "title": "Sân bay Long Thành khởi động 24/12/2026, dự án 16 tỷ USD",
+      "title": "Sân bay Long Thành bắt đầu khai thác 24/12/2026",
       "impact": "↑",
-      "note": "Sân bay Long Thành bắt đầu khai thác từ 24/12/2026 với công suất ban đầu 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Dự án 16 tỷ USD đã hoàn thành 85% giá trị hợp đồng (74.000 tỷ đồng), tạo động lực tăng trưởng hạ tầng mới."
+      "note": "Dự án 16 tỷ USD khởi động 24/12/2026-3/2027, phục vụ 366 chuyến bay/tuần (322 nội địa, 44 quốc tế), hoàn thành 85% giá trị hợp đồng (74 ngàn tỷ đồng). Tạo động lực tăng trưởng dài hạn cho hạ tầng, du lịch, kinh tế."
     },
     {
-      "title": "Ngân hàng tăng mạnh: 23/28 mã xanh, STB +6,86% kịch trần",
+      "title": "Dư nợ cho vay chứng khoán đạt kỷ lục 463 ngàn tỷ đồng",
       "impact": "↑",
-      "note": "23 trong 28 cổ phiếu ngân hàng tăng giá phiên 23/10. STB tăng 6,86% kịch trần lên 68.500 đ/cp với 8,2 triệu cổ phiếu khớp (cao nhất tuần). VIC tăng 1,55%, BID tăng 1,33%, CTG tăng 1,31%, nhóm trụ hỗ trợ VN-Index."
+      "note": "ACBS dư nợ cho vay margin tăng 30,5% lên 22.600 tỷ đồng trong 9 tháng (tăng ròng 5.300 tỷ, thứ 3 trong top 10 công ty chứng khoán). Tổng dư nợ ngành 463 ngàn tỷ đồng cuối Q3/2026, tăng 2% so với Q2, kỷ lục cao."
     },
     {
-      "title": "VN-Index tăng 13,5 điểm lên 1.774, thanh khoản tăng 72%",
+      "title": "STB tăng kịch trần 6,86%, ngân hàng 23/28 mã xanh",
       "impact": "↑",
-      "note": "VN-Index tăng 13,5 điểm lên 1.774 điểm phiên 23/10. Độ rộng cải thiện: 144 mã xanh/156 mã đỏ ở chốt, thanh khoản HoSE chiều tăng 72% so với sáng (8.931 tỷ đồng), xác nhận dòng tiền chủ động bắt đáy."
+      "note": "STB tăng 6,86% lên 68.500 đ/cp (trắng bên bán), 8,2 triệu cổ phiếu giao dịch, phiên tăng thứ 4 liên tiếp. Rổ VN30 có 23/28 mã ngân hàng tăng, VIC +1,55%, BID +1,33%, CTG +1,31%, nhóm trụ hỗ trợ thị trường."
     },
     {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát giá trong nước",
+      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát lạm phát",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%. Thủ tướng cảnh báo nếu không điều hành, giá xăng dầu trong nước có thể tăng 80%, kéo áp lực lạm phát. Chính phủ dùng biện pháp giữ giá xăng dầu và điện ở mức thấp để bảo vệ tăng trưởng."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Thủ tướng cảnh báo nếu không điều hành sẽ tăng 80% trong nước. Chính phủ dùng biện pháp giữ giá xăng dầu và điện ở mức thấp, CPI 9 tháng được kiểm soát, nhưng áp lực lạm phát vẫn cần theo dõi."
     },
     {
-      "title": "Khối ngoại bán ròng 470 tỷ đồng, chốt lời sau mua liên tiếp",
-      "impact": "→",
-      "note": "Khối ngoại quay đầu bán ròng 470 tỷ đồng phiên 23/10 sau 2 phiên mua ròng. Xả mạnh ACB 470 tỷ đồng, STB bán ròng 84 tỷ đồng. Chiều mua: TCB 152 tỷ, MSN 92 tỷ, CTG 62 tỷ. Tín hiệu chốt lời trên ngân hàng giữ tâm lý thị trường."
+      "title": "DPM hoàn thành 105% kế hoạch sản xuất Urê 9 tháng",
+      "impact": "↑",
+      "note": "Tổng công ty Phân bón và Hóa chất Dầu khí (DPM) sản lượng sản xuất Urê Phú Mỹ đạt 688 nghìn tấn, hoàn thành 105% kế hoạch. Vận hành ổn định, sản xuất tăng, dù thị trường phân bón biến động, giá khí-tỷ giá gia tăng áp lực chi phí."
     }
   ]
 }
