@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-23",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam tạm thời dựa vào tăng trưởng GDP mạnh quý III (9,95%) và dự án hạ tầng Long Thành sắp khai thác; tuy nhiên sức ép từ thị trường toàn cầu (Nasdaq giảm 2,6%, bán tháo AI stock) kết hợp với rủi ro tài chính ngành chứng khoán (APG lỗ 108 tỷ từ KOS) và suy yếu TTCK nội địa (khối ngoại bán ròng 349,56 tỷ) tạo cân bằng trái chiều ngắn hạn.",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì động lực mạnh với GDP quý III tăng 9,95% và công nghiệp bứt phá 11,21%, trong khi sân bay Long Thành sắp khởi động tạo cơ hội đầu tư lớn. Tuy nhiên, thị trường chứng khoán đang rung lắc với khối ngoại bán ròng liên tục và Nasdaq lao dốc do lo ngại AI, gây áp lực giảm giá; lạm phát vẫn là rủi ro khi giá dầu thế giới tăng 65-90% dù Chính phủ đang kiểm soát.",
   "top": [
     {
-      "title": "GDP quý III tăng 9,95%, tăng trưởng 9 tháng đạt 9,01%",
+      "title": "GDP quý III tăng 9,95%, công nghiệp bứt phá 11,21%",
       "impact": "↑",
-      "note": "GDP quý III-2026 ước tăng 9,95% so với cùng kỳ, cao hơn quý I (8,15%) và quý II (8,81%), lũy kế 9 tháng tăng 9,01%. Công nghiệp và xây dựng tăng 11,21%, dịch vụ tăng 8,69%, chỉ số sản xuất công nghiệp tăng 12,3% trong 9 tháng. Mục tiêu tăng trưởng GDP từ 10% trở lên năm 2027."
+      "note": "GDP quý III-2026 tăng 9,95%, GDP 9 tháng tăng 9,01%. Công nghiệp và xây dựng tăng 11,21% (so với 8,69% cùng kỳ năm trước), chỉ số sản xuất công nghiệp tăng 12,3% trong 9 tháng; nền tảng tăng trưởng vững chắc hỗ trợ thị trường."
     },
     {
-      "title": "S&P 500 và Nasdaq lao dốc, bán tháo cổ phiếu AI",
+      "title": "VN-Index rung lắc, khối ngoại bán ròng 349,56 tỷ đồng",
       "impact": "↓",
-      "note": "Nasdaq giảm 2,6% xuống 26.008,86 điểm, S&P 500 giảm 1,21% còn 7.663,43 điểm. Meta giảm 7%, AMD giảm 8%, Micron giảm 6%, Nvidia giảm 4%, CoreWeave giảm 10%. Bán tháo AI lan rộng do lo ngại bong bóp, nhu cầu vốn lớn của các dự án AI."
+      "note": "VN-Index giảm 4,5 điểm (-0,26%) xuống 1.756,13 điểm phiên sáng 23/10; độ rộng thị trường nghiêng bên bán (364 mã giảm, 250 mã tăng); khối ngoại bán ròng 349,56 tỷ đồng, cán cân từ đầu tháng 10 vẫn âm hơn 6.000 tỷ đồng gây áp lực."
     },
     {
-      "title": "Công ty chứng khoán APG lỗ 108 tỷ đồng quý III, KOS giảm 86%",
-      "impact": "↓",
-      "note": "Lỗ tài sản tài chính (FVTPL) đạt 119 tỷ đồng, KOS giảm từ 37.000 đồng/cp xuống còn 5.000 đồng/cp trong quý III. Danh mục FVTPL giảm giá mạnh ghi nhận chênh lệch giảm đánh giá 119 tỷ đồng, phản ánh rủi ro tài chính ngành chứng khoán."
-    },
-    {
-      "title": "Sân bay Long Thành khai thác từ 24/12/2026, dự án 16 tỷ USD",
+      "title": "Sân bay Long Thành khởi động 24/12/2026, phục vụ 366 chuyến/tuần",
       "impact": "↑",
-      "note": "Sân bay Long Thành dự kiến bắt đầu khai thác 24/12/2026, giai đoạn đầu phục vụ tối đa 366 chuyến/tuần gồm 322 chuyến nội địa, 44 chuyến quốc tế. Tính đến giữa tháng 10, sản lượng thi công đạt gần 74.000 tỷ đồng tương đương 85% giá trị hợp đồng."
+      "note": "Siêu dự án 16 tỷ USD sắp hoạt động từ 24/12/2026; giai đoạn đầu (12/2026-3/2027) phục vụ 366 chuyến mỗi tuần (322 nội địa, 44 quốc tế); cơ hội tăng trưởng cho các doanh nghiệp hàng không, logistics, du lịch."
     },
     {
-      "title": "VN-Index giảm 4,5 điểm, khối ngoại bán ròng 349,56 tỷ đồng",
+      "title": "Nasdaq giảm 2,6%, cổ phiếu AI bán tháo mạnh",
       "impact": "↓",
-      "note": "VN-Index lùi về 1.756,13 điểm (-0,26%), 364 mã giảm vs 250 mã tăng, HNX-Index neo mốc tham chiếu 261,07 điểm. Khối ngoại bán ròng 349,56 tỷ đồng, tập trung bán ACB 106,8 tỷ đồng. Độ rộng thị trường nghiêng về bên bán."
+      "note": "Nasdaq giảm 2,6% xuống 26.008,86 điểm; Meta giảm ~7%, AMD giảm >8%, Micron giảm 6%, Nvidia giảm 4% do lo ngại vay nợ AI, lợi nhuận khó đoán, nguy cơ bong bóng; áp lực toàn cầu có thể lây sang cổ phiếu công nghệ Việt Nam."
     },
     {
-      "title": "Giá vàng nhẫn giảm tới 2,5 triệu đồng/lượng, mức thấp 2 tháng",
+      "title": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng 65-90%; Chính phủ đã dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát; bảo vệ CPI nhưng gánh nặng ngân sách."
+    },
+    {
+      "title": "Giá vàng sụt xuống mức thấp 2 tháng",
       "impact": "↓",
-      "note": "Giá vàng miếng SJC giảm 300-500 nghìn đồng/lượng xuống 139-142 triệu đồng/lượng, vàng nhẫn giảm 400 nghìn-2,5 triệu đồng/lượng. Giá bán vàng nhẫn rơi sát 140 triệu đồng/lượng mức thấp 2 tháng. Vàng thế giới sụt xuống gần 4.000 USD/ounce, sự dịch chuyển khỏi tài sản an toàn."
+      "note": "Giá vàng miếng SJC giảm 300-700 nghìn đ/lượng xuống 137,4-142,0 triệu đ/lượng (thấp nhất 2 tháng); vàng nhẫn giảm 400 nghìn - 2,5 triệu đ/lượng; tâm lý rủi ro giảm, nhà đầu tư chuyển dòng vốn sang tài sản khác."
     }
   ]
 }
