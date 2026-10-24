@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-24",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ nhấn mạnh mục tiêu tăng trưởng hai con số là 'mệnh lệnh chính trị' với GDP 9 tháng 9.01%, yêu cầu quý 4 tăng >12.5%, tập trung khơi thông vốn tín dụng vùng Đông Nam Bộ (dư nợ 6,8 triệu tỷ đồng). Dầu thế giới tăng 65-90% tạo áp lực lạm phát mặc dù Chính phủ nỗ lực kiểm soát giá trong nước. Vàng thế giới tuột mốc 4.000 USD/oz, thị trường ngoại bán ròng 443 tỷ đồng, chứng khoán Mỹ sụt điểm và vụ CMS phơi bày lỗ hổng quản trị, tạo áp lực cân bằng lợi nhuận và tăng trưởng ngắn hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Tuần này thị trường chứng khoán Việt Nam chịu ảnh hưởng tiêu cực từ bán tháo toàn cầu khi cổ phiếu AI và vàng bị xả mạnh do căng thẳng địa chính trị tại Vùng Vịnh. Giá dầu thế giới tăng 65-90% tạo áp lực lạm phát, mặc dù Chính phủ kiểm soát giá xăng dầu và điện ở mức thấp. Khối ngoại bán ròng 443 tỷ đồng, chứng khoán Mỹ sụt điểm lan rộng; Fed giảm kỳ vọng tăng lãi suất. Tuy nhiên, Ngân hàng Nhà nước tích cực can thiệp ổn định thị trường bất động sản và vùng Đông Nam Bộ với dư nợ tín dụng 6,8 triệu tỷ đồng vẫn là điểm tựa.",
   "top": [
     {
-      "title": "Mục tiêu tăng trưởng hai con số là 'mệnh lệnh chính trị'",
+      "title": "Bán tháo toàn cầu, Fed dịch chuyển kỳ vọng lãi suất",
+      "impact": "↓",
+      "note": "Tuần 18-24/10, cổ phiếu AI bị bán tháo mạnh, giá dầu thô tăng lên 116-117 USD/thùng (cao nhất 6 tháng) do căng thẳng Vùng Vịnh. Lợi suất trái phiếu Pháp kỳ hạn 10 năm vượt 5% lần đầu sau 24 năm. Kỳ vọng Fed tăng lãi suất trong năm 2026 giảm mạnh do lo ngại công ty công nghệ vay nợ ồ ạt cho AI đầu tư."
+    },
+    {
+      "title": "Chứng khoán Mỹ sụt điểm, bán tháo lan rộng ngoài công nghệ",
+      "impact": "↓",
+      "note": "Phiên 23/10, Dow Jones giảm 1,23% (-652,82 điểm còn 52.215,16), S&P 500 giảm 0,52%, Nasdaq giảm 0,21%. Áp lực bán lan từ cổ phiếu công nghệ sang nhóm phòng thủ (tiêu dùng thiết yếu, tiện ích, y tế). American Express cắt giảm 5% lực lượng lao động; Caterpillar giảm 2%, Goldman Sachs giảm 1%."
+    },
+    {
+      "title": "Giá dầu tăng 65-90%, Chính phủ kiểm soát lạm phát",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng tới 65-90%, nhưng Chính phủ dùng nhiều biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát lạm phát. Nếu không điều hành, giá xăng dầu trong nước có thể tăng tới 80%, kéo theo tác động lan rộng."
+    },
+    {
+      "title": "Dư nợ Đông Nam Bộ 6,8 triệu tỷ đồng, động lực tăng trưởng",
       "impact": "↑",
-      "note": "GDP 9 tháng 9.01%, quý 4 cần tăng >12.5%, mục tiêu cả năm ≥10% được Phó Thủ tướng Phạm Thị Thanh Trà coi là 'mệnh lệnh chính trị'. Xác định chiều hướng chính sách mạnh mẽ huy động vốn tạo động lực tăng trưởng."
+      "note": "Đến cuối tháng 9/2026, dư nợ tín dụng vùng Đông Nam Bộ ước đạt 6,8 triệu tỷ đồng, tăng 10,93% so với cuối năm 2025, chiếm gần 35% tổng dư nợ toàn quốc, đóng góp 31,4% vào tăng trưởng GDP cả nước năm 2026."
     },
     {
-      "title": "Vùng Đông Nam Bộ - động lực tăng trưởng chính 2026-2030",
-      "impact": "↑",
-      "note": "Dư nợ tín dụng SE Bộ ≈6,8 triệu tỷ đồng (35% cả nước), tăng 10,93% so cuối 2025, đóng góp 31,4% tăng trưởng GDP cả nước 2026. Hội nghị cấp cao ngày 23/10 xác định vùng là trung tâm công nghiệp công nghệ cao, tập trung vốn chiến lược."
-    },
-    {
-      "title": "Dầu thế giới tăng 65-90%, rủi ro lạm phát dù kiểm soát giá",
+      "title": "Khối ngoại bán ròng 443 tỷ đồng, xả mạnh ACB và cổ phiếu lớn",
       "impact": "↓",
-      "note": "Giá dầu thế giới tăng 65-90%; Thủ tướng cảnh báo nếu không kiểm soát, giá xăng dầu trong nước tăng 80% kéo theo lạm phát, xói mòn thành quả tăng trưởng. Chính phủ chưa tăng giá điện để kiểm soát CPI."
+      "note": "Phiên 23/10, khối ngoại bán ròng 443 tỷ đồng. Cổ phiếu ACB bị xả mạnh nhất 469 tỷ đồng, FPT 146 tỷ đồng, PNJ 110 tỷ đồng, STB 84 tỷ đồng. Dấu hiệu nhà đầu tư ngoài dịch chuyển dòng tiền ra khỏi thị trường chứng khoán Việt Nam."
     },
     {
-      "title": "Vàng thế giới tuột mốc 4.000 USD/oz, áp lực tài sản rủi ro",
+      "title": "Hai lãnh đạo CMS bị phạt vì che giấu quyền sở hữu gần 14 năm",
       "impact": "↓",
-      "note": "Giá vàng giao ngay 3.996,9 USD/oz (giảm 0,7%), lần đầu tuột mốc 4.000 USD/oz kể từ giữa tháng 7. Phản ánh lo lạm phát toàn cầu khi Fed duy trì lãi suất cao, dầu Brent tăng lên 117 USD/thùng (6 tháng cao nhất)."
-    },
-    {
-      "title": "Chứng khoán Mỹ sụt điểm, khối ngoại bán ròng 443 tỷ",
-      "impact": "↓",
-      "note": "Dow Jones -1,23%, S&P 500 -0,52%, Nasdaq -0,21% ngày 23/10 do bán tháo lan từ nhóm công nghệ. Khối ngoại bán ròng 443 tỷ (ACB -469 tỷ, FPT -146 tỷ, PNJ -110 tỷ) dù tự doanh mua ròng 12 tỷ, phản ánh sức cản từ thị trường ngoài."
-    },
-    {
-      "title": "CMS: Hai lãnh đạo bị phạt vì dùng tài khoản giả che giấu sở hữu",
-      "impact": "↓",
-      "note": "UBCKNN phạt Phó TGĐ Trần Văn Trung 225 triệu đồng (dùng tk tên Trần Ngọc Linh tại MBS, 13/01/2022-22/09/2023) và KT trưởng Đinh Thị Thủy 225 triệu đồng (dùng tk tên Nguyễn Thúy Dung tại FTS, 03/12/2010-15/08/2024) vì che giấu sở hữu thực sự. Tín hiệu quản trị yếu, phạm vi vi phạm gần 14 năm."
+      "note": "Ông Trần Văn Trung (Phó TGĐ) bị phạt 225 triệu đồng dùng tài khoản tên Trần Ngọc Linh từ 13/01/2022-22/09/2023; bà Đinh Thị Thủy (Kế toán trưởng) phạt 225 triệu đồng dùng tài khoản tên Nguyễn Thúy Dung từ 03/12/2010-15/08/2024 (gần 14 năm) để che giấu quyền sở hữu thực sự cổ phiếu CMS."
     }
   ]
 }
