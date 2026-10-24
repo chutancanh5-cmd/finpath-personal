@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-24",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Xuất khẩu tăng 12% (29,25 tỷ USD) với động lực từ điện tử (tăng 21%), tạo xuất siêu 1,82 tỷ USD liên tiếp. Chính phủ cam kết tăng trưởng 2 con số năm 2026 (từ 10% trở lên) và kiểm soát lạm phát bằng giữ giá xăng dầu, điện thấp. Tuy nhiên, bán tháo cổ phiếu AI toàn cầu, khối ngoại bán ròng 443 tỷ đồng, và giá dầu cao nhất 6 tháng (xung đột Vùng Vịnh) tạo áp lực lạm phát và rủi ro rút vốn. Những yếu tố tích cực nội bộ cần cân bằng với rủi ro từ thị trường toàn cầu.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Tuần trước TTCK Việt Nam tăng trưởng tích cực với VN-Index hồi phục 68 điểm (4%) nhờ VIC, VHM, VPL tăng giá, xuất khẩu tăng 12,41% lên 29,25 tỷ USD và xuất siêu 1,82 tỷ USD lần thứ hai liên tiếp. Tuy nhiên, giá dầu thế giới tăng 65-90% tạo áp lực lạm phát, bán tháo cổ phiếu AI toàn cầu và chứng khoán Mỹ sụt điểm gây rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Xuất khẩu tăng 12%, xuất siêu 1,82 tỷ USD liên tiếp",
+      "title": "Xuất khẩu tăng 12,41%, xuất siêu 1,82 tỷ USD lần thứ 2 liên tiếp",
       "impact": "↑",
-      "note": "Kim ngạch xuất khẩu nửa đầu tháng 10 đạt 29,25 tỷ USD, tăng 12,41%. Máy vi tính, điện tử tăng 21,17% lên 11,59 tỷ USD. Cán cân thương mại xuất siêu 1,82 tỷ USD, đánh dấu kỳ xuất siêu thứ hai liên tiếp, tạo động lực mạnh cho tăng trưởng nền kinh tế."
+      "note": "Kim ngạch xuất khẩu nửa đầu tháng 10 đạt 29,25 tỷ USD, tăng 12,41% so với nửa đầu tháng 9. Máy vi tính, sản phẩm điện tử và linh kiện tăng 21,17% lên 11,59 tỷ USD (tương ứng tăng hơn 2,03 tỷ USD). Cán cân thương mại xuất siêu 1,82 tỷ USD."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát bằng giữ giá xăng dầu, điện thấp",
+      "title": "VN-Index tăng 68 điểm, VIC đóng góp 36,7 điểm trong tuần",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ áp dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện. Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng, là ưu tiên trong điều hành giá cả."
+      "note": "Tuần 19-23/10, VN-Index hồi phục từ 1.690 lên 1.774 điểm (tăng 68 điểm, 4%). VIC tăng từ 215.000 lên 236.500 đồng/cp, đóng góp 36,7 điểm; VHM và VPL lần lượt đóng góp 6,2 và 2,8 điểm. Bất động sản dẫn đầu các ngành tăng 7,6%."
     },
     {
-      "title": "Tăng trưởng 2 con số là mệnh lệnh chính trị năm 2026",
+      "title": "Phó Thủ tướng: tăng trưởng 10%+ là mệnh lệnh chính trị năm 2026",
       "impact": "↑",
-      "note": "Phó Thủ tướng Phạm Thị Thanh Trà khẳng định mục tiêu tăng trưởng GDP từ 10% trở lên là mệnh lệnh chính trị. GDP 9 tháng đạt 9,01%, quý 3 tăng 9,95%. Chính phủ yêu cầu quý 4 phải tăng trên 12,5% để hoàn thành mục tiêu cả năm."
+      "note": "GDP 9 tháng đạt 9,01% tăng trưởng, quý 3 tăng 9,95%. Mục tiêu tăng trưởng cả năm từ 10% trở lên yêu cầu quý 4 tăng trên 12,5%. Phó Thủ tướng Phạm Thị Thanh Trà nhấn mạnh cải cách bộ máy và bảo đảm an sinh xã hội."
     },
     {
-      "title": "Bán tháo cổ phiếu AI lan rộng, lợi suất trái phiếu tăng",
+      "title": "Giá dầu thế giới tăng 65-90%, Chính phủ kiểm soát lạm phát nội địa",
       "impact": "↓",
-      "note": "Đợt bán tháo mạnh cổ phiếu công nghệ/AI trên thị trường toàn cầu do lo ngại nợ công và lãi suất cao. Lợi suất trái phiếu chính phủ Pháp vượt 5% lần đầu 24 năm, lợi suất T-Bond 10 năm Mỹ giảm dưới 5% lần đầu 1 tháng. Đây là tín hiệu tiêu cực cho dòng vốn vào các thị trường mới nổi như Việt Nam."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ áp dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện. Thủ tướng cảnh báo nếu không kiểm soát, lạm phát có thể tăng 80%, xói mòn thành quả tăng trưởng."
     },
     {
-      "title": "Khối ngoại bán ròng 443 tỷ đồng, mạnh nhất tại ACB",
+      "title": "Bán tháo cổ phiếu AI lan rộng, lợi suất trái phiếu Pháp vượt 5%",
       "impact": "↓",
-      "note": "Phiên giao dịch 23/10, khối ngoại bán ròng 443 tỷ đồng, bán mạnh nhất tại ACB (469 tỷ), FPT (146 tỷ), PNJ (110 tỷ). Dòng tiền ngoại rút khỏi TTCK Việt Nam là dấu hiệu tiêu cực giữa bán tháo toàn cầu, mặc dù VN-Index hồi phục gần 4% trong tuần."
+      "note": "Đợt bán mạnh cổ phiếu công nghệ/AI trên thế giới do lo ngại nợ công và lãi suất cao. Lợi suất trái phiếu chính phủ Pháp vượt 5% lần đầu tiên sau 24 năm do bất ổn chính trị; lợi suất T-Bond 10 năm Mỹ giảm dưới 5% lần đầu 1 tháng, tín hiệu tiêu cực cho dòng vốn vào thị trường mới nổi."
     },
     {
-      "title": "Giá dầu cao nhất 6 tháng do xung đột Vùng Vịnh tăng nhiệt",
+      "title": "Chứng khoán Mỹ sụt điểm, Dow Jones giảm 1,23% ngày 23/10",
       "impact": "↓",
-      "note": "Những dấu hiệu tăng nhiệt của xung đột ở Vùng Vịnh đẩy giá dầu thô lên mức cao nhất 6 tháng. Với Việt Nam là nước nhập khẩu dầu, giá dầu tăng sẽ gây áp lực lên chi phí sản xuất, dù Chính phủ đang cố gắng kiểm soát giá xăng dầu trong nước."
+      "note": "Phiên 23/10, Dow Jones giảm 652,82 điểm (-1,23%) còn 52.215,16 điểm, S&P 500 giảm 0,52%, Nasdaq giảm 0,21%. Áp lực bán tháo từ nhóm cổ phiếu công nghệ lan sang các nhóm cổ phiếu phòng thủ, gây rủi ro lây lan sang thị trường Việt Nam."
     }
   ]
 }
