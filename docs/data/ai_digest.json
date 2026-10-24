@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-24",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán phục hồi mạnh với VN-Index tăng 4% trong tuần, nhờ dòng tiền bắt đáy và hỗ trợ từ nhóm cổ phiếu vốn hóa lớn. Chính phủ tiếp tục chính sách kiểm soát lạm phát và hỗ trợ lãi suất cho doanh nghiệp nhỏ. Sân bay Long Thành, dự án 16 tỷ USD, chuẩn bị khởi động hoạt động từ 24/12/2026, mở ra động lực mới cho kinh tế. Tuy nhiên, khối ngoại tiếp tục bán ròng ~1000 tỷ đồng và áp lực lợi nhuận từ lạm phát khí đốt đang tác động đến lợi nhuận ngân hàng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán phục hồi mạnh với VN-Index tăng 4% trong tuần, song khối ngoại liên tục bán ròng gần 1.000 tỷ đồng. Vĩ mô: GDP 9 tháng đạt 9,01%, cần tăng tốc Q4 trên 12,5% để hoàn thành mục tiêu 10% năm, Chính phủ kiểm soát lạm phát bằng cách giữ giá xăng dầu và điện thấp trước áp lực tăng 65-90% từ thế giới. Tuy nhiên, nền tảng tăng trưởng chưa vững vì một số ngành gặp áp lực: ngân hàng có dấu hiệu rủi ro tín dụng (SGB báo lãi Q3 giảm 78,7%), và rủi ro cổ phiếu cá nhân (KOS giảm 86%, công ty chứng khoán APG lỗ 108 tỷ).",
   "top": [
     {
-      "title": "Sân bay Long Thành bắt đầu khai thác 24/12/2026",
-      "impact": "↑",
-      "note": "Siêu dự án 16 tỷ USD sẽ bắt đầu hoạt động từ 24/12/2026 với công suất 366 chuyến bay/tuần (322 nội địa, 44 quốc tế). Dự án này là động lực cơ sở hạ tầng lớn, thúc đẩy tăng trưởng GDP hướng mục tiêu 10%+ năm 2027."
-    },
-    {
-      "title": "VN-Index phục hồi mạnh +4% tuần 19-23/10",
-      "impact": "↑",
-      "note": "VN-Index tăng 68,24 điểm (+4%) lên 1.774,15 điểm sau phiên tăng thứ 4 liên tiếp. Dòng tiền bắt đáy xuất hiện mạnh, thanh khoản buổi chiều ngày 23/10 tăng 72% so với sáng. Nhóm cổ phiếu vốn hóa lớn dẫn dắt, rổ VN30 có 23 mã tăng giá."
-    },
-    {
-      "title": "Khối ngoại bán ròng gần 1000 tỷ đồng tuần 19-23/10",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng tổng cộng 969 tỷ đồng tuần qua, mạnh nhất tại ACB (469 tỷ). Mặc dù có 2 phiên mua ròng giữa tuần, nhà đầu tư nước ngoài quay đầu bán ròng vào cuối tuần, tạo áp lực ngoại tệ."
-    },
-    {
-      "title": "Chính phủ kiểm soát lạm phát, cân bằng tăng trưởng",
+      "title": "Thủ tướng: Lạm phát tăng xói mòn thành quả tăng trưởng",
       "impact": "→",
-      "note": "Thủ tướng nhấn mạnh giá xăng dầu thế giới tăng 65-90%, Chính phủ sử dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát CPI. Lạm phát tăng sẽ xói mòn thành quả tăng trưởng GDP."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá trong nước thấp, không tăng giá điện để kiểm soát lạm phát. Điều hành giá là nhiệm vụ quan trọng để người dân hưởng lợi thực từ tăng trưởng GDP."
     },
     {
-      "title": "Ngân hàng (Saigonbank) báo lãi Q3 giảm 78,7%",
-      "impact": "↓",
-      "note": "SGB báo lãi trước thuế Q3/2026 đạt 17,8 tỷ đồng, giảm 78,7% so với cùng kỳ. Chi phí dự phòng rủi ro tín dụng tăng từ 10,9 tỷ lên 42,7 tỷ đồng (gấp 3,9 lần), chi phí lãi tăng 27% nhanh hơn thu nhập lãi (tăng 17,8%)."
-    },
-    {
-      "title": "PVcomBank ưu đãi lãi suất cho vay từ 6,29%/năm",
+      "title": "Phó Thủ tướng: Tăng trưởng hai con số là mệnh lệnh chính trị",
       "impact": "↑",
-      "note": "Hưởng ứng chỉ thị NHNN giảm lãi suất cho vay 1,5-2%/năm, PVcomBank triển khai gói tín dụng ưu đãi giảm tới 2,5%/năm cho các doanh nghiệp nhỏ, hộ kinh doanh, nông nghiệp từ 20/10-31/01/2027, mức lãi từ 6,29%/năm."
+      "note": "GDP 9 tháng đạt 9,01%, Q3 đạt 9,95%, mục tiêu cả năm từ 10% trở lên, quý 4 phải tăng trên 12,5%. Phó Thủ tướng nhấn mạnh quyết tâm đạt mục tiêu đối với năm 2027 từ 10% trở lên."
+    },
+    {
+      "title": "Chứng khoán Tuần 19-23/10: Thị trường trở lại mạnh mẽ",
+      "impact": "↑",
+      "note": "VN-Index tăng mạnh 4% (68,24 điểm) trong tuần, đóng cửa tại 1.774,15 điểm với 4 phiên tăng liên tiếp. HNX-Index tăng 1,38%. Lực cầu mạnh quay trở lại sau áp lực bán ở đầu tuần."
+    },
+    {
+      "title": "Ngân hàng đầu tiên báo lãi quý 3 tăng trưởng âm",
+      "impact": "↓",
+      "note": "SGB: chi phí lãi tăng 27% nhanh hơn thu nhập lãi tăng 17,8%, dự phòng tăng gấp 3,9 lần lên 42,7 tỷ đồng, lãi trước thuế Q3 giảm 78,7% xuống 17,8 tỷ đồng, chỉ hoàn thành 21% kế hoạch năm."
+    },
+    {
+      "title": "Một công ty chứng khoán báo lỗ hơn 100 tỷ đồng vì KOS",
+      "impact": "↓",
+      "note": "APG lỗ ròng gần 108 tỷ đồng Q3, chủ yếu từ FVTPL giảm 119 tỷ đồng khi KOS giảm 86% từ 37.000 đồng/cp xuống còn ~5.000 đồng/cp. Danh mục FVTPL cuối Q3 có giá trị gần 330 tỷ đồng."
+    },
+    {
+      "title": "DPM duy trì đà tăng trưởng, sản phẩm vượt kế hoạch",
+      "impact": "↑",
+      "note": "DPM (PVFCCo - Phú Mỹ) sản lượng Urê 9 tháng đạt khoảng 688 nghìn tấn, hoàn thành 105% kế hoạch. Duy trì tăng trưởng bất chấp giá khí, tỷ giá gia tăng và thị trường phân bón biến động phức tạp."
     }
   ]
 }
