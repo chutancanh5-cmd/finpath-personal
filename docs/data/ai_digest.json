@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-24",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Tuần này thị trường chứng khoán Việt Nam chịu ảnh hưởng tiêu cực từ bán tháo toàn cầu khi cổ phiếu AI và vàng bị xả mạnh do căng thẳng địa chính trị tại Vùng Vịnh. Giá dầu thế giới tăng 65-90% tạo áp lực lạm phát, mặc dù Chính phủ kiểm soát giá xăng dầu và điện ở mức thấp. Khối ngoại bán ròng 443 tỷ đồng, chứng khoán Mỹ sụt điểm lan rộng; Fed giảm kỳ vọng tăng lãi suất. Tuy nhiên, Ngân hàng Nhà nước tích cực can thiệp ổn định thị trường bất động sản và vùng Đông Nam Bộ với dư nợ tín dụng 6,8 triệu tỷ đồng vẫn là điểm tựa.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Bán tháo cổ phiếu Mỹ (công nghệ sụt điểm, bất ổn Pháp-nợ công) và dòng vốn ngoại bán ròng 443 tỷ gây áp lực. Tuy nhiên, xuất khẩu tăng 12,41% (điện tử +21,17%), xuất siêu 1,82 tỷ USD và kiểm soát lạm phát tốt là chỉ báo tích cực. Rủi ro bất ổn tài chính toàn cầu vẫn cao, trong khi mục tiêu tăng trưởng 10%+ năm 2027 (Q4 cần tăng trên 12,5%) tạo áp lực.",
   "top": [
     {
-      "title": "Bán tháo toàn cầu, Fed dịch chuyển kỳ vọng lãi suất",
-      "impact": "↓",
-      "note": "Tuần 18-24/10, cổ phiếu AI bị bán tháo mạnh, giá dầu thô tăng lên 116-117 USD/thùng (cao nhất 6 tháng) do căng thẳng Vùng Vịnh. Lợi suất trái phiếu Pháp kỳ hạn 10 năm vượt 5% lần đầu sau 24 năm. Kỳ vọng Fed tăng lãi suất trong năm 2026 giảm mạnh do lo ngại công ty công nghệ vay nợ ồ ạt cho AI đầu tư."
-    },
-    {
-      "title": "Chứng khoán Mỹ sụt điểm, bán tháo lan rộng ngoài công nghệ",
-      "impact": "↓",
-      "note": "Phiên 23/10, Dow Jones giảm 1,23% (-652,82 điểm còn 52.215,16), S&P 500 giảm 0,52%, Nasdaq giảm 0,21%. Áp lực bán lan từ cổ phiếu công nghệ sang nhóm phòng thủ (tiêu dùng thiết yếu, tiện ích, y tế). American Express cắt giảm 5% lực lượng lao động; Caterpillar giảm 2%, Goldman Sachs giảm 1%."
-    },
-    {
-      "title": "Giá dầu tăng 65-90%, Chính phủ kiểm soát lạm phát",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%, nhưng Chính phủ dùng nhiều biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát lạm phát. Nếu không điều hành, giá xăng dầu trong nước có thể tăng tới 80%, kéo theo tác động lan rộng."
-    },
-    {
-      "title": "Dư nợ Đông Nam Bộ 6,8 triệu tỷ đồng, động lực tăng trưởng",
+      "title": "Xuất khẩu tăng 12,41%, xuất siêu 1,82 tỷ USD hai kỳ liên tiếp",
       "impact": "↑",
-      "note": "Đến cuối tháng 9/2026, dư nợ tín dụng vùng Đông Nam Bộ ước đạt 6,8 triệu tỷ đồng, tăng 10,93% so với cuối năm 2025, chiếm gần 35% tổng dư nợ toàn quốc, đóng góp 31,4% vào tăng trưởng GDP cả nước năm 2026."
+      "note": "Nửa đầu tháng 10, xuất khẩu đạt 29,25 tỷ USD tăng 12,41%, nhập khẩu giảm 4,9%. Điện tử là động lực chính tăng 21,17% (tăng 2,03 tỷ USD so với kỳ trước), tạo quỹ đạo mạnh cho TTCK và cân bằng ngoại hối."
     },
     {
-      "title": "Khối ngoại bán ròng 443 tỷ đồng, xả mạnh ACB và cổ phiếu lớn",
+      "title": "Chứng khoán Mỹ sụt điểm, bán tháo lan rộng khỏi công nghệ",
       "impact": "↓",
-      "note": "Phiên 23/10, khối ngoại bán ròng 443 tỷ đồng. Cổ phiếu ACB bị xả mạnh nhất 469 tỷ đồng, FPT 146 tỷ đồng, PNJ 110 tỷ đồng, STB 84 tỷ đồng. Dấu hiệu nhà đầu tư ngoài dịch chuyển dòng tiền ra khỏi thị trường chứng khoán Việt Nam."
+      "note": "Dow Jones giảm 1,23%, S&P 500 giảm 0,52%, áp lực bán từ cổ phiếu công nghệ (Nasdaq -0,21%) lan sang phòng thủ. American Express cắt 5% nhân công chuẩn bị cho AI. Rủi ro lây lan sang TTCK VN, nhất là cổ phiếu công nghệ."
     },
     {
-      "title": "Hai lãnh đạo CMS bị phạt vì che giấu quyền sở hữu gần 14 năm",
+      "title": "Dầu cao nhất 6 tháng, xăng dầu thế giới tăng 65-90%",
       "impact": "↓",
-      "note": "Ông Trần Văn Trung (Phó TGĐ) bị phạt 225 triệu đồng dùng tài khoản tên Trần Ngọc Linh từ 13/01/2022-22/09/2023; bà Đinh Thị Thủy (Kế toán trưởng) phạt 225 triệu đồng dùng tài khoản tên Nguyễn Thúy Dung từ 03/12/2010-15/08/2024 (gần 14 năm) để che giấu quyền sở hữu thực sự cổ phiếu CMS."
+      "note": "Xung đột Vùng Vịnh đẩy dầu lên mức cao nhất 6 tháng, giá xăng dầu toàn cầu tăng 65-90%. Chính phủ giữ giá trong nước ở mức thấp, không tăng giá điện, nhưng vẫn tạo áp lực chi phí sản xuất toàn ngành."
+    },
+    {
+      "title": "Bất ổn tài chính toàn cầu: Nợ công Mỹ hơn 1 nghìn tỷ USD/năm, lợi suất Pháp cao nhất 24 năm",
+      "impact": "↓",
+      "note": "Biểu tình ở Pháp, lợi suất trái phiếu kỳ hạn 10 năm vượt 5% lần đầu trong 24 năm. Nợ công Mỹ hơn 1 nghìn tỷ USD/năm, tạo rủi ro bất ổn hệ thống tài chính toàn cầu ảnh hưởng đến TTCK VN."
+    },
+    {
+      "title": "Khối ngoại bán ròng 443 tỷ đồng, xả ACB mạnh nhất 469 tỷ",
+      "impact": "↓",
+      "note": "Phiên 23/10, khối ngoại bán ròng 443 tỷ đồng. ACB bị xả mạnh nhất 469 tỷ đồng, FPT bị bán 146 tỷ đồng. Chỉ báo áp lực vốn ngoài trên TTCK VN trong bối cảnh bán tháo toàn cầu."
+    },
+    {
+      "title": "Tăng trưởng 9 tháng 9.01%, Q4 cần tăng tốc trên 12,5% để đạt 10%",
+      "impact": "→",
+      "note": "GDP 9 tháng tăng 9.01%, Q3 tăng 9.95%. Để hoàn thành mục tiêu cả năm 10%+, quý cuối cần tăng tốc trên 12,5% — áp lực lớn với động lực chủ yếu từ đầu tư công, xuất khẩu, tiêu dùng."
     }
   ]
 }
