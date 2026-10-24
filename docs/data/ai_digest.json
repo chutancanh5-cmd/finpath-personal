@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-24",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế duy trì động lực tăng trưởng hai con số với GDP 9 tháng tăng 9.01%, cần quý 4 tăng trên 12.5% để hoàn thành mục tiêu năm. Tín dụng vùng Đông Nam Bộ (6,8 triệu tỷ đồng, 35% tổng dư nợ) hỗ trợ tăng trưởng, nhưng doanh nghiệp gặp áp lực lãi suất vay cao trên 10%/năm. Khối ngoại tiếp tục bán ròng, giá dầu thế giới tăng cao tạo áp lực lạm phát, trong khi Chính phủ kiểm soát giá xăng dầu trong nước.",
+  "summary_vi": "Chính phủ nỗ lực đạt mục tiêu tăng trưởng 2 con số cả năm (GDP 9 tháng tăng 9.01%, quý 4 cần tăng trên 12,5%) bằng cách khơi thông tín dụng cho Đông Nam Bộ vùng động lực lớn nhất. Dù giá xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát giá nội địa để hạn chế lạm phát xói mòn thành quả tăng trưởng. Tuy vậy, thị trường chứng khoán toàn cầu đối mặt áp lực bán tháo (Dow Jones giảm 1,23%), và các vi phạm công bố thông tin trong giao dịch cổ phiếu cảnh báo rủi ro quản trị nội bộ.",
   "top": [
     {
-      "title": "Tăng trưởng hai con số là mệnh lệnh chính trị",
+      "title": "Mục tiêu tăng trưởng 2 con số là \"mệnh lệnh chính trị\"",
       "impact": "↑",
-      "note": "GDP 9 tháng tăng 9.01%, quý 3 tăng 9.95%, cần quý 4 tăng trên 12.5% để hoàn thành mục tiêu cả năm từ 10% trở lên. Động lực từ đầu tư công, xuất nhập khẩu, tiêu dùng."
+      "note": "Phó Thủ tướng Phạm Thị Thanh Trà xác nhận GDP 9 tháng tăng 9.01%, quý 3 tăng 9.95%, quý 4 phải tăng trên 12,5% để hoàn thành mục tiêu cả năm từ 10% trở lên. Động lực từ đầu tư công, xuất nhập khẩu, tiêu dùng."
     },
     {
-      "title": "Tín dụng Đông Nam Bộ hỗ trợ tăng trưởng khu vực",
+      "title": "Khơi thông tín dụng cho vùng Đông Nam Bộ",
       "impact": "↑",
-      "note": "Dư nợ tín dụng vùng Đông Nam Bộ gần 6,8 triệu tỷ đồng (chiếm 35% tổng dư nợ cả nước), tăng 10.93% so với cuối năm 2025. Vùng này chiếm 31.4% tăng trưởng chung cả nước."
+      "note": "Dư nợ tín dụng Đông Nam Bộ đạt gần 6,8 triệu tỷ đồng, tăng 10,93% so với cuối 2025, chiếm 35% tổng dư nợ cả nước. Vùng đóng góp 31,4% vào tăng trưởng chung, BIDV và ngân hàng ưu tiên cấp vốn cho hạ tầng, công nghiệp công nghệ cao."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát bằng cách giữ giá xăng dầu, không tăng giá điện",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ sử dụng biện pháp điều hành để giữ giá trong nước ở mức thấp. Nếu không kiểm soát, lạm phát sẽ xói mòn thành quả tăng trưởng."
+      "title": "Kiểm soát lạm phát giữa áp lực giá xăng dầu toàn cầu tăng 65-90%",
+      "impact": "↑",
+      "note": "Chính phủ sử dụng biện pháp điều hành giữ giá xăng dầu trong nước ở mức thấp so với khu vực và không tăng giá điện. Nếu không kiểm soát, lạm phát sẽ xói mòn thành quả tăng trưởng kinh tế."
     },
     {
-      "title": "Lãi suất vay ngân hàng cao trên 10%/năm gây áp lực doanh nghiệp",
+      "title": "Chứng khoán Mỹ sụt điểm bán tháo lan rộng",
       "impact": "↓",
-      "note": "Doanh nghiệp tại TP.HCM, Đồng Nai, Tây Ninh phàn nàn lãi suất cao. Công ty có lãi gộp 15-17% nhưng nếu vay trên 10%/năm sẽ không có lợi nhuận, kéo dài vài năm."
+      "note": "Dow Jones giảm 1,23% xuống 52.215,16 điểm, S&P 500 giảm 0,52%, Nasdaq giảm 0,21%. Áp lực bán từ nhóm công nghệ lan sang các lĩnh vực khác (tiêu dùng thiết yếu, tiện ích, y tế). American Express cắt giảm 5% nhân viên."
     },
     {
-      "title": "Khối ngoại tiếp tục bán ròng 443 tỷ đồng, mạnh nhất tại ACB",
+      "title": "Vi phạm công bố thông tin giao dịch cổ phiếu CMS",
       "impact": "↓",
-      "note": "23/10, khối ngoại bán ròng 443 tỷ đồng toàn HOSE, mạnh nhất ACB với 469 tỷ đồng, theo sau FPT 146 tỷ đồng, PNJ 110 tỷ đồng. Tự doanh mua ròng 240 tỷ tại ACB nhưng không cân bằng đà bán ngoại."
+      "note": "Hai lãnh đạo CMH Group (Phó Tổng giám đốc Trần Văn Trung, Kế toán trưởng Đinh Thị Thủy) mỗi người bị phạt 225 triệu đồng vì sử dụng tài khoản người khác giao dịch, che giấu quyền sở hữu thực sự, vi phạm từ 2010-2024."
     },
     {
-      "title": "Chứng khoán Mỹ giảm, dầu Brent tăng gần 117 USD/thùng",
+      "title": "Giá vàng thế giới gãy mốc 4.000 USD/oz",
       "impact": "↓",
-      "note": "Dow Jones giảm 1.23%, S&P 500 giảm 0.52%, Nasdaq giảm 0.21%. Dầu Brent tăng hơn 6% trong tuần, mức cao nhất 6 tháng gần 117 USD/thùng, tạo lo ngại lạm phát toàn cầu."
+      "note": "Giá vàng giao ngay giảm 0,7% xuống 3.996,9 USD/oz - mức thấp nhất 3 tháng. Dầu Brent tăng hơn 6% trong tuần lên gần 117 USD/thùng, mức cao nhất 6 tháng, tạo lo ngại lạm phát toàn cầu."
     }
   ]
 }
