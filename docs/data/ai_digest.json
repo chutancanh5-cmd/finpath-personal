@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-24",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Bán tháo cổ phiếu Mỹ (công nghệ sụt điểm, bất ổn Pháp-nợ công) và dòng vốn ngoại bán ròng 443 tỷ gây áp lực. Tuy nhiên, xuất khẩu tăng 12,41% (điện tử +21,17%), xuất siêu 1,82 tỷ USD và kiểm soát lạm phát tốt là chỉ báo tích cực. Rủi ro bất ổn tài chính toàn cầu vẫn cao, trong khi mục tiêu tăng trưởng 10%+ năm 2027 (Q4 cần tăng trên 12,5%) tạo áp lực.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Xuất khẩu bứt phát tăng 12% với cán cân xuất siêu 1,82 tỷ USD cho thấy động lực tăng trưởng vẫn mạnh, GDP 9 tháng tăng 9,01% sẽ đẩy quý 4 vượt mục tiêu 12,5%. Tuy nhiên áp lực từ thế giới gia tăng khi chứng khoán Mỹ sụt 1,23%, cổ phiếu AI bị bán tháo, vàng liên tục giảm, giá dầu lên cao nhất 6 tháng. Chính phủ tích cực điều hành giá (không tăng điện, giữ xăng dầu mức thấp) để kiểm soát lạm phát mặc dù giá dầu thế giới tăng 65-90%.",
   "top": [
     {
-      "title": "Xuất khẩu tăng 12,41%, xuất siêu 1,82 tỷ USD hai kỳ liên tiếp",
+      "title": "Xuất khẩu tăng 12%, xuất siêu 1,82 tỷ USD",
       "impact": "↑",
-      "note": "Nửa đầu tháng 10, xuất khẩu đạt 29,25 tỷ USD tăng 12,41%, nhập khẩu giảm 4,9%. Điện tử là động lực chính tăng 21,17% (tăng 2,03 tỷ USD so với kỳ trước), tạo quỹ đạo mạnh cho TTCK và cân bằng ngoại hối."
+      "note": "Kim ngạch xuất khẩu nửa đầu tháng 10 đạt 29,25 tỷ USD, tăng 12,41%, nhập khẩu giảm 4,9%, tạo cán cân xuất siêu 1,82 tỷ USD (kỳ thứ 2 liên tiếp). Điện tử tăng 21,17% (+2,03 tỷ USD) là động lực chính."
     },
     {
-      "title": "Chứng khoán Mỹ sụt điểm, bán tháo lan rộng khỏi công nghệ",
+      "title": "GDP tăng 9,01% (9 tháng), mục tiêu quý 4 vượt 12,5%",
+      "impact": "↑",
+      "note": "9 tháng tăng 9,01%, quý 3 tăng 9,95%. Để hoàn thành mục tiêu cả năm từ 10% trở lên, quý 4 phải tăng tốc mạnh > 12,5%. Phó Thủ tướng nhấn mạnh tăng trưởng hai con số là \"mệnh lệnh chính trị\" để người dân được hưởng lợi."
+    },
+    {
+      "title": "Chứng khoán Mỹ sụt, bán tháo AI, vàng, dầu cao 6 tháng",
       "impact": "↓",
-      "note": "Dow Jones giảm 1,23%, S&P 500 giảm 0,52%, áp lực bán từ cổ phiếu công nghệ (Nasdaq -0,21%) lan sang phòng thủ. American Express cắt 5% nhân công chuẩn bị cho AI. Rủi ro lây lan sang TTCK VN, nhất là cổ phiếu công nghệ."
+      "note": "Phiên 23/10, Dow Jones giảm 1,23% (-652,82 điểm), S&P 500 giảm 0,52%, Nasdaq giảm 0,21%. Áp lực bán tháo cổ phiếu AI lan rộng sang các lĩnh vực khác, vàng giảm, giá dầu thô lên cao nhất 6 tháng do lo ngại xung đột Vùng Vịnh."
     },
     {
-      "title": "Dầu cao nhất 6 tháng, xăng dầu thế giới tăng 65-90%",
-      "impact": "↓",
-      "note": "Xung đột Vùng Vịnh đẩy dầu lên mức cao nhất 6 tháng, giá xăng dầu toàn cầu tăng 65-90%. Chính phủ giữ giá trong nước ở mức thấp, không tăng giá điện, nhưng vẫn tạo áp lực chi phí sản xuất toàn ngành."
-    },
-    {
-      "title": "Bất ổn tài chính toàn cầu: Nợ công Mỹ hơn 1 nghìn tỷ USD/năm, lợi suất Pháp cao nhất 24 năm",
-      "impact": "↓",
-      "note": "Biểu tình ở Pháp, lợi suất trái phiếu kỳ hạn 10 năm vượt 5% lần đầu trong 24 năm. Nợ công Mỹ hơn 1 nghìn tỷ USD/năm, tạo rủi ro bất ổn hệ thống tài chính toàn cầu ảnh hưởng đến TTCK VN."
-    },
-    {
-      "title": "Khối ngoại bán ròng 443 tỷ đồng, xả ACB mạnh nhất 469 tỷ",
-      "impact": "↓",
-      "note": "Phiên 23/10, khối ngoại bán ròng 443 tỷ đồng. ACB bị xả mạnh nhất 469 tỷ đồng, FPT bị bán 146 tỷ đồng. Chỉ báo áp lực vốn ngoài trên TTCK VN trong bối cảnh bán tháo toàn cầu."
-    },
-    {
-      "title": "Tăng trưởng 9 tháng 9.01%, Q4 cần tăng tốc trên 12,5% để đạt 10%",
+      "title": "Dầu thế giới tăng 65-90%, Chính phủ kiểm soát giá",
       "impact": "→",
-      "note": "GDP 9 tháng tăng 9.01%, Q3 tăng 9.95%. Để hoàn thành mục tiêu cả năm 10%+, quý cuối cần tăng tốc trên 12,5% — áp lực lớn với động lực chủ yếu từ đầu tư công, xuất khẩu, tiêu dùng."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ giữ giá xăng dầu trong nước ở mức thấp so với khu vực, không tăng giá điện để kiểm soát CPI. Nếu không điều hành, giá xăng dầu trong nước có thể tăng đến 80%."
+    },
+    {
+      "title": "Vàng giảm 2,1 triệu đồng/lượng, chạm đáy 2 tháng",
+      "impact": "↓",
+      "note": "Giữa 12-24/10, giá vàng miếng SJC giảm tổng cộng 2,1 triệu đồng/lượng (mua-bán), chạm đáy trong vòng 2 tháng. Phản ánh tâm lý rủi ro tăng từ bán tháo vàng toàn cầu."
+    },
+    {
+      "title": "Lixco lợi nhuận tăng 84%, biên lợi nhuận gộp cải thiện",
+      "impact": "↑",
+      "note": "Quý 3/2026, Lixco lãi ròng 84 tỷ đồng tăng 84%, nhờ biên lợi nhuận gộp từ 21,4% lên 25,2% và cổ tức 59 tỷ đồng từ Xalivico. Doanh thu tăng 10% lên 860 tỷ đồng, cho thấy hiệu quả chi phí cải thiện."
     }
   ]
 }
