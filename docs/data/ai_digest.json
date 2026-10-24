@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-24",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Xuất khẩu bứt phát tăng 12% với cán cân xuất siêu 1,82 tỷ USD cho thấy động lực tăng trưởng vẫn mạnh, GDP 9 tháng tăng 9,01% sẽ đẩy quý 4 vượt mục tiêu 12,5%. Tuy nhiên áp lực từ thế giới gia tăng khi chứng khoán Mỹ sụt 1,23%, cổ phiếu AI bị bán tháo, vàng liên tục giảm, giá dầu lên cao nhất 6 tháng. Chính phủ tích cực điều hành giá (không tăng điện, giữ xăng dầu mức thấp) để kiểm soát lạm phát mặc dù giá dầu thế giới tăng 65-90%.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Xuất khẩu tăng 12% (29,25 tỷ USD) với động lực từ điện tử (tăng 21%), tạo xuất siêu 1,82 tỷ USD liên tiếp. Chính phủ cam kết tăng trưởng 2 con số năm 2026 (từ 10% trở lên) và kiểm soát lạm phát bằng giữ giá xăng dầu, điện thấp. Tuy nhiên, bán tháo cổ phiếu AI toàn cầu, khối ngoại bán ròng 443 tỷ đồng, và giá dầu cao nhất 6 tháng (xung đột Vùng Vịnh) tạo áp lực lạm phát và rủi ro rút vốn. Những yếu tố tích cực nội bộ cần cân bằng với rủi ro từ thị trường toàn cầu.",
   "top": [
     {
-      "title": "Xuất khẩu tăng 12%, xuất siêu 1,82 tỷ USD",
+      "title": "Xuất khẩu tăng 12%, xuất siêu 1,82 tỷ USD liên tiếp",
       "impact": "↑",
-      "note": "Kim ngạch xuất khẩu nửa đầu tháng 10 đạt 29,25 tỷ USD, tăng 12,41%, nhập khẩu giảm 4,9%, tạo cán cân xuất siêu 1,82 tỷ USD (kỳ thứ 2 liên tiếp). Điện tử tăng 21,17% (+2,03 tỷ USD) là động lực chính."
+      "note": "Kim ngạch xuất khẩu nửa đầu tháng 10 đạt 29,25 tỷ USD, tăng 12,41%. Máy vi tính, điện tử tăng 21,17% lên 11,59 tỷ USD. Cán cân thương mại xuất siêu 1,82 tỷ USD, đánh dấu kỳ xuất siêu thứ hai liên tiếp, tạo động lực mạnh cho tăng trưởng nền kinh tế."
     },
     {
-      "title": "GDP tăng 9,01% (9 tháng), mục tiêu quý 4 vượt 12,5%",
+      "title": "Chính phủ kiểm soát lạm phát bằng giữ giá xăng dầu, điện thấp",
       "impact": "↑",
-      "note": "9 tháng tăng 9,01%, quý 3 tăng 9,95%. Để hoàn thành mục tiêu cả năm từ 10% trở lên, quý 4 phải tăng tốc mạnh > 12,5%. Phó Thủ tướng nhấn mạnh tăng trưởng hai con số là \"mệnh lệnh chính trị\" để người dân được hưởng lợi."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ áp dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện. Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng, là ưu tiên trong điều hành giá cả."
     },
     {
-      "title": "Chứng khoán Mỹ sụt, bán tháo AI, vàng, dầu cao 6 tháng",
+      "title": "Tăng trưởng 2 con số là mệnh lệnh chính trị năm 2026",
+      "impact": "↑",
+      "note": "Phó Thủ tướng Phạm Thị Thanh Trà khẳng định mục tiêu tăng trưởng GDP từ 10% trở lên là mệnh lệnh chính trị. GDP 9 tháng đạt 9,01%, quý 3 tăng 9,95%. Chính phủ yêu cầu quý 4 phải tăng trên 12,5% để hoàn thành mục tiêu cả năm."
+    },
+    {
+      "title": "Bán tháo cổ phiếu AI lan rộng, lợi suất trái phiếu tăng",
       "impact": "↓",
-      "note": "Phiên 23/10, Dow Jones giảm 1,23% (-652,82 điểm), S&P 500 giảm 0,52%, Nasdaq giảm 0,21%. Áp lực bán tháo cổ phiếu AI lan rộng sang các lĩnh vực khác, vàng giảm, giá dầu thô lên cao nhất 6 tháng do lo ngại xung đột Vùng Vịnh."
+      "note": "Đợt bán tháo mạnh cổ phiếu công nghệ/AI trên thị trường toàn cầu do lo ngại nợ công và lãi suất cao. Lợi suất trái phiếu chính phủ Pháp vượt 5% lần đầu 24 năm, lợi suất T-Bond 10 năm Mỹ giảm dưới 5% lần đầu 1 tháng. Đây là tín hiệu tiêu cực cho dòng vốn vào các thị trường mới nổi như Việt Nam."
     },
     {
-      "title": "Dầu thế giới tăng 65-90%, Chính phủ kiểm soát giá",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ giữ giá xăng dầu trong nước ở mức thấp so với khu vực, không tăng giá điện để kiểm soát CPI. Nếu không điều hành, giá xăng dầu trong nước có thể tăng đến 80%."
-    },
-    {
-      "title": "Vàng giảm 2,1 triệu đồng/lượng, chạm đáy 2 tháng",
+      "title": "Khối ngoại bán ròng 443 tỷ đồng, mạnh nhất tại ACB",
       "impact": "↓",
-      "note": "Giữa 12-24/10, giá vàng miếng SJC giảm tổng cộng 2,1 triệu đồng/lượng (mua-bán), chạm đáy trong vòng 2 tháng. Phản ánh tâm lý rủi ro tăng từ bán tháo vàng toàn cầu."
+      "note": "Phiên giao dịch 23/10, khối ngoại bán ròng 443 tỷ đồng, bán mạnh nhất tại ACB (469 tỷ), FPT (146 tỷ), PNJ (110 tỷ). Dòng tiền ngoại rút khỏi TTCK Việt Nam là dấu hiệu tiêu cực giữa bán tháo toàn cầu, mặc dù VN-Index hồi phục gần 4% trong tuần."
     },
     {
-      "title": "Lixco lợi nhuận tăng 84%, biên lợi nhuận gộp cải thiện",
-      "impact": "↑",
-      "note": "Quý 3/2026, Lixco lãi ròng 84 tỷ đồng tăng 84%, nhờ biên lợi nhuận gộp từ 21,4% lên 25,2% và cổ tức 59 tỷ đồng từ Xalivico. Doanh thu tăng 10% lên 860 tỷ đồng, cho thấy hiệu quả chi phí cải thiện."
+      "title": "Giá dầu cao nhất 6 tháng do xung đột Vùng Vịnh tăng nhiệt",
+      "impact": "↓",
+      "note": "Những dấu hiệu tăng nhiệt của xung đột ở Vùng Vịnh đẩy giá dầu thô lên mức cao nhất 6 tháng. Với Việt Nam là nước nhập khẩu dầu, giá dầu tăng sẽ gây áp lực lên chi phí sản xuất, dù Chính phủ đang cố gắng kiểm soát giá xăng dầu trong nước."
     }
   ]
 }
