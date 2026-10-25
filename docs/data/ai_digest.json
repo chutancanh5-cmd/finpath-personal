@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-25",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán hồi phục mạnh 4% (68 điểm) trong tuần 19-23/10 sau 4 tuần giảm, VN-Index vượt 1,774 điểm hướng tới 1,800. Chính phủ duy trì kiểm soát giá xăng dầu ở mức thấp bất chấp giá thế giới tăng 65-90%, cam kết tăng trưởng GRDP 11%+ và phân bổ 0.1% GDP hàng năm cho nhân tài AI, bán dẫn, lượng tử. Tín hiệu kỹ thuật cải thiện và chính sách hỗ trợ tạo động lực tích cực, nhưng áp lực lạm phát toàn cầu vẫn là rủi ro cần theo dõi.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường hồi phục kỹ thuật sau 4 tuần giảm liên tiếp, VN-Index tăng 68,24 điểm lên 1.774,15 điểm, nhưng khối ngoại bán ròng 1.105 tỷ đồng tạo áp lực. Chính phủ chủ động kiểm soát lạm phát khi giá xăng dầu thế giới tăng 65-90%, không tăng giá điện để bảo vệ tăng trưởng GDP. Các chính sách hỗ trợ (GRDP Hà Nội 11%+, nhân tài 0,1% GDP/năm, mục tiêu GDP 2027 10%+) tạo động lực, nhưng sức mua thị trường còn yếu, chủ yếu từ cổ phiếu đơn lẻ như VIC.",
   "top": [
     {
-      "title": "VN-Index hồi phục 68 điểm, VIC dẫn dắt thị trường",
+      "title": "Thủ tướng: Lạm phát tăng sẽ xói mòn thành quả tăng trưởng",
       "impact": "↑",
-      "note": "VN-Index tăng 68 điểm (4%) trong tuần 19-23/10, VIC đóng góp 36.7 điểm khi tăng từ 215,000 đồng lên 236,500 đồng/cp, ngành bất động sản tăng 7.6% dẫn đầu các ngành, tín hiệu sức mua phục hồi sau chuỗi 4 tuần giảm liên tiếp."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát CPI; mục tiêu tăng trưởng GDP từ 10% trở lên năm 2027 để bảo đảm người dân được hưởng lợi từ tăng trưởng."
     },
     {
-      "title": "Chính phủ kiểm soát giá xăng dầu bất chấp tăng 65-90%",
+      "title": "Xu thế dòng tiền: Thị trường thực sự đã chạm đáy?",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%, Chính phủ triển khai biện pháp bảo đảm nguồn cung để giữ giá trong nước ở mức thấp so với khu vực, không tăng giá điện, nhằm kiểm soát lạm phát và bảo đảm CPI không xói mòn thành quả tăng trưởng."
+      "note": "VN-Index tăng 2,8% (46,7 điểm) ngày 21/10, nhưng các chuyên gia cảnh báo áp lực bán sẽ tăng ở vùng 1800 điểm; thị trường vẫn trong nhịp phục hồi kỹ thuật bình thường của xu hướng giảm, sức mua còn yếu."
     },
     {
-      "title": "Hà Nội, Hà Tĩnh cam kết tăng trưởng kinh tế 11%+ và 12.36%",
+      "title": "VN-Index tăng hơn 68 điểm tuần qua, riêng VIC đóng góp gần 37 điểm",
       "impact": "↑",
-      "note": "Hà Nội duy trì mục tiêu tăng trưởng GRDP 11% trở lên cả năm, Hà Tĩnh ghi nhận 12.36% (thứ 2 quốc gia) trong 9 tháng đầu năm nhờ ngành công nghiệp tăng 25.64%, với liên hợp gang thép Formosa đóng góp bình quân 20.27% GRDP tỉnh."
+      "note": "VN-Index hồi phục gần 4% (tăng 68,24 điểm) trong tuần 19-23/10, từ 1.690 lên 1.774,15 điểm; VIC tăng từ 215.000 lên 236.500 đ/cp, tăng trần 21/10; ngành bất động sản tăng 7,6%."
     },
     {
-      "title": "Chính phủ phân bổ 0.1% GDP hàng năm cho nhân tài chiến lược",
+      "title": "Chính phủ đặt mục tiêu dành 0,1% GDP mỗi năm cho nhân tài",
       "impact": "↑",
-      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP phân bổ khoảng 0.1% GDP mỗi năm cho thu hút nhân tài lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu, với mục tiêu thu hút 1,000 nhân tài quốc gia đến năm 2030 giải quyết các bài toán chiến lược."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính riêng; phấn đấu thu hút khoảng 1.000 nhân tài quốc gia đến 2030, tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu."
     },
     {
-      "title": "VN-Index vượt 1,774 hướng mục tiêu 1,800 điểm",
+      "title": "Hà Nội kiên trì mục tiêu tăng trưởng GRDP cả năm từ 11% trở lên",
       "impact": "↑",
-      "note": "VN-Index vượt qua 1,774 điểm sau phiên cuối tuần, hướng tới vùng kháng cự 1,800, với chỉ báo RSI tiếp tục đi lên, MACD cắt lên đường tín hiệu, thanh khoản trên mức trung bình 20 phiên cho thấy sức mua phục hồi bền vững."
+      "note": "Chủ tịch UBND Hà Nội ký Kế hoạch 411/KH-UBND ngày 22/10/2026 để triển khai mục tiêu GRDP tăng từ 11% trở lên năm 2026; phát huy cơ chế, chính sách đặc thù cho Thủ đô."
     },
     {
-      "title": "Lixco đạt lợi nhuận kỷ lục, nhận 59 tỷ cổ tức từ liên kết",
+      "title": "Nghịch lý của tỉnh tăng trưởng cao thứ hai cả nước, hội tụ cả \"ông lớn\" FDI lẫn \"họ nhà Vin\"",
       "impact": "↑",
-      "note": "Lixco đạt lợi nhuận quý 3/2026 là 84 tỷ đồng (tăng 84%), doanh thu 860 tỷ đồng, nhờ biên lợi nhuận gộp mở rộng từ 21.4% lên 25.2% và nhận 59 tỷ đồng cổ tức từ công ty liên kết Xalivico, phản ánh khôi phục hiệu quả kinh doanh ngành hóa phẩm."
+      "note": "Hà Tĩnh tăng trưởng GRDP 12,36% trong 9 tháng đầu 2026 (thứ 2 cả nước), công nghiệp tăng 25,64%; Formosa Hà Tĩnh đóng góp bình quân 20,27% GRDP (2019-2024), nộp 74.400 tỷ đồng tiền thuế giai đoạn 2015-2025."
     }
   ]
 }
