@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-25",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "TTCK VN phục hồi mạnh với VN-Index tăng 68 điểm (4%) trong tuần, cổ phiếu bất động sản và Vingroup dẫn đầu. Xuất khẩu tăng 12,41% với thặng dư 1,82 tỷ USD liên tiếp, cho thấy nền tảng kinh tế vững chắc hướng tới mục tiêu GDP 10%+ năm 2027. Chính phủ kiểm soát lạm phát hiệu quả bằng cách giữ giá xăng dầu thấp dù thế giới tăng 65-90%. Tuy nhiên, bán tháo cổ phiếu AI toàn cầu, lợi suất eurozone tăng cao tạo áp lực tâm lý ngắn hạn. Tăng trưởng vùng chủ yếu từ FDI: Hà Tĩnh tăng 12,36% nhưng phụ thuộc vào Formosa thép.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Xuất khẩu Việt Nam tăng mạnh 12,41% với cán cân thương mại xuất siêu 1,82 tỷ USD, chủ yếu từ điện tử tăng 21%, hỗ trợ thị trường chứng khoán hồi phục. Tuy nhiên, rủi ro từ kinh tế thế giới gia tăng (bán tháo cổ phiếu AI, nợ công Mỹ vượt 1000 tỷ USD/năm, xung đột Vùng Vịnh đẩy dầu cao nhất 6 tháng) có thể kìm hãm lợi nhuận doanh nghiệp do chi phí đầu vào tăng. Chính phủ duy trì kiểm soát lạm phát và hướng tới mục tiêu tăng trưởng GDP 10% năm 2027.",
   "top": [
     {
-      "title": "VN-Index hồi phục 4% trong tuần, VIC đóng góp 37 điểm",
+      "title": "Xuất khẩu tăng 12%, xuất siêu 1,82 tỷ USD liên tiếp",
       "impact": "↑",
-      "note": "Tuần 19-23/10: VN-Index tăng 68 điểm từ ~1.706 lên 1.774 điểm. VIC tăng từ 215.000 đ lên 236.500 đ/cp, đóng góp 36,7 điểm, tăng trần phiên 21/10. Bất động sản dẫn đầu tăng 7,6%, tiêu dùng không thiết yếu tăng 5,38%, công nghiệp tăng 3,1%."
+      "note": "Nửa đầu tháng 10, kim ngạch xuất khẩu đạt 29,25 tỷ USD tăng 12,41%, trong đó máy vi tính/điện tử tăng 21,17% (11,59 tỷ USD). Cán cân thương mại xuất siêu 1,82 tỷ USD đánh dấu kỳ xuất siêu thứ hai liên tiếp, thúc đẩy tăng trưởng kinh tế."
     },
     {
-      "title": "Xuất khẩu tăng 12,41%, xuất siêu 1,82 tỷ USD liên tiếp 2 kỳ",
-      "impact": "↑",
-      "note": "Nửa đầu tháng 10/2026: kim ngạch xuất khẩu 29,25 tỷ USD (+12,41%), nhập khẩu giảm 4,9%. Máy vi tính, sản phẩm điện tử tăng 21,17% lên 11,59 tỷ USD (+2,03 tỷ USD). Giày dép tăng 23,82%. Điểm yếu: điện thoại giảm 11,61% xuống 2,57 tỷ USD."
-    },
-    {
-      "title": "Chứng khoán Mỹ sụt điểm, bán tháo lan rộng khỏi công nghệ",
+      "title": "Kinh tế thế giới bất ổn: bán tháo AI, nợ công Mỹ, giá dầu cao",
       "impact": "↓",
-      "note": "Phiên 23/10: Dow Jones giảm 652,82 điểm (-1,23% về 52.215,16), S&P 500 giảm 0,52%, Nasdaq giảm 0,21%. Bán tháo công nghệ (phiên 22/10) lan sang nhóm phòng thủ, tiêu dùng thiết yếu, tiện ích. American Express giảm >3% vì cắt 5% lực lượng lao động để chuẩn bị AI."
+      "note": "Giá dầu tăng cao nhất 6 tháng do xung đột Vùng Vịnh; cổ phiếu AI bị bán tháo; nợ công Mỹ vượt 1000 tỷ USD/năm; lãi suất trái phiếu Pháp cao nhất 24 năm (>5%). Áp lực chi phí sản xuất tăng và lo ngại lạm phát lan rộng có thể ảnh hưởng tiêu cực đến lợi nhuận doanh nghiệp VN."
     },
     {
-      "title": "Thủ tướng hướng tới GDP 10%+ năm 2027, kiểm soát lạm phát",
+      "title": "VN-Index hồi phục 4%, tăng 68 điểm tuần qua",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ giữ giá xăng trong nước ở mức thấp, không tăng giá điện (phát biểu 18/10). Thủ tướng: 'Nếu lạm phát tăng thì thành quả tăng trưởng bị xói mòn'. Mục tiêu GDP 10%+ năm 2027 với nền tảng CPI được kiểm soát hiệu quả."
+      "note": "Tuần 19-23/10, VN-Index tăng từ 1.690 lên 1.774 điểm (+68 điểm, +4%), với VIC đóng góp 37 điểm (tăng từ 215.000 lên 236.500 đ/cp). Bất động sản dẫn đầu các ngành tăng 7,6%, tạo động lực cho thị trường."
     },
     {
-      "title": "Lợi suất trái phiếu Pháp cao nhất 24 năm, eurozone rủi ro tăng",
-      "impact": "↓",
-      "note": "Tuần 18-24/10: lợi suất trái phiếu kho bạc Pháp 10 năm vượt 5% lần đầu tiên sau 24 năm do biểu tình biến bạo loạn. Lợi suất T-Bond Mỹ 10 năm giảm dưới 5% (tìm kiếm an toàn). Vàng bị bán tháo cùng cổ phiếu AI, giá SJC giảm 2,1 triệu đ/lượng trong 2 tuần (12-24/10)."
-    },
-    {
-      "title": "Hà Tĩnh tăng trưởng 12,36%, đứng thứ 2 cả nước - chủ yếu từ FDI",
+      "title": "Chính phủ kiểm soát lạm phát, mục tiêu GDP 10% năm 2027",
       "impact": "↑",
-      "note": "GRDP Hà Tĩnh 9 tháng 2026 tăng 12,36%, công nghiệp tăng 25,64%. Formosa: sản phẩm thép chiếm 64% xuất khẩu tỉnh, nộp 74.400 tỷ đ thuế giai đoạn 2015-2025 (15.900 tỷ đ vào ngân sách địa phương). Tăng trưởng phụ thuộc FDI, cần phát triển doanh nghiệp địa phương."
+      "note": "Dù giá xăng dầu thế giới tăng 65-90%, Thủ tướng Lê Minh Hưng khẳng định Chính phủ giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện. Chính sách này bảo đảm lạm phát không xói mòn thành quả tăng trưởng, hướng tới mục tiêu GDP 10% trở lên năm 2027."
+    },
+    {
+      "title": "Hà Tĩnh tăng trưởng 12,36%, FDI Formosa đóng góp lớn",
+      "impact": "↑",
+      "note": "Hà Tĩnh tăng trưởng GRDP 12,36% trong 9 tháng đầu năm (thứ hai cả nước), công nghiệp tăng 25,64%. Formosa Hà Tĩnh đóng góp trung bình 20,27% GRDP toàn tỉnh giai đoạn 2019-2024 và nộp 74.400 tỷ đồng tiền thuế (2015-2025)."
+    },
+    {
+      "title": "Giá vàng giảm 2 triệu đồng, chạm đáy 2 tháng",
+      "impact": "→",
+      "note": "Hai tuần liên tiếp (12-24/10), giá vàng miếng SJC giảm tổng cộng 2,1 triệu đồng/lượng ở cả mua và bán, vàng nhẫn 9999 giảm 2,5-5,8 triệu đồng. Giảm giá phản ánh lo ngại của nhà đầu tư toàn cầu về ổn định kinh tế."
     }
   ]
 }
