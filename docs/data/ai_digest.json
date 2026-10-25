@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng vốn ngoại tiềm năng ~10 tỷ USD từ MSCI nâng hạng là tín hiệu tích cực lớn nhất. Chính phủ kiểm soát lạm phát tốt (xăng/điện ổn định) hỗ trợ tăng trưởng GDP 10%+ năm 2027, kết hợp chiến lược nhân tài (0,1% GDP/năm) cho dài hạn. Thị trường phục hồi kỹ thuật nhưng rủi ro đòn bẩy cao (margin 5,1% kỷ lục) cần theo dõi.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam xuất hiện nhiều tín hiệu tích cực trong tuần, từ triển vọng nâng hạng MSCI với dòng tiền ngoại 10 tỷ USD tiềm năng, đến phục hồi kỹ thuật và các chính sách hỗ trợ chiến lược từ Chính phủ. Tuy nhiên, rủi ro margin kỷ lục 5,1%, khối ngoại bán ròng và lãi suất tiết kiệm cao (7%/năm) có thể giới hạn đà tăng ngắn hạn.",
   "top": [
     {
-      "title": "SSI dự báo 10 tỷ USD chảy vào thị trường nếu VN chiếm 0,5% tỷ trọng MSCI",
+      "title": "MSCI nâng hạng: 10 tỷ USD tiềm năng chảy vào chứng khoán Việt Nam",
       "impact": "↑",
-      "note": "Giám đốc Phân tích SSI Phạm Lưu Hưng nêu kịch bản 0,5% tỷ trọng VN trong dòng MSCI mới sẽ đưa khoảng 10 tỷ USD vào thị trường. PLX, BSR, PVN, MSR đang cải thiện tỷ lệ free-float; sở hữu nước ngoài hiệu dụng tăng từng năm."
+      "note": "Giám đốc Phân tích SSI dự báo dòng vốn tiềm năng 10 tỷ USD nếu Việt Nam chiếm 0,5%; các vấn đề free-float đang được giải quyết từ Petrolimex, BSR, PVN và Masan."
     },
     {
-      "title": "Tỷ lệ margin lập kỷ lục 5,1% trên vốn hóa thị trường",
+      "title": "Tỷ lệ margin toàn thị trường lập kỷ lục 5,1%",
       "impact": "↓",
-      "note": "Dư nợ cho vay tại các CTCK đạt ~455.000 tỷ đồng (cao nhất lịch sử), tỷ lệ so với vốn hóa 9 triệu tỷ đồng = 5,1%. So 2017 (1,5%) và 2021 (3,1%), quá nhiều đòn bẩy tạo rủi ro systemmic nếu thị trường điều chỉnh."
+      "note": "Dư nợ cho vay tại CTCK đạt 455 triệu tỷ đồng, tỷ lệ so với vốn hóa 9 triệu tỷ đồng là 5,1% mức cao nhất lịch sử, tăng từ 1,5% năm 2017 và 3,1% năm 2021."
     },
     {
-      "title": "Thủ tướng khẳng định kiểm soát lạm phát dù xăng dầu thế giới tăng 65-90%",
+      "title": "VN-Index hồi phục mạnh, nhắm mục tiêu 1800 điểm",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, VN không tăng giá xăng/điện để kiểm soát CPI. Mục tiêu tăng trưởng GDP 10% trở lên năm 2027 yêu cầu ổn định giá cả để người dân hưởng lợi từ tăng trưởng."
+      "note": "VN-Index tiếp tục tăng, bứt phá qua Kijun và mây Span B; RSI và MACD tích cực; hỗ trợ 1760-1770, mục tiêu 1800 điểm; khối VIN dẫn dắt."
     },
     {
-      "title": "Hà Nội kiên trì mục tiêu GRDP cả năm từ 11% trở lên",
+      "title": "Lãi suất tiết kiệm ngân hàng cao lên 7%/năm",
+      "impact": "→",
+      "note": "Lãi suất tiết kiệm 12 tháng cao nhất 7%/năm tại MBV, PGBank, Sacombank, VCBNeo, VIB; kỳ hạn 18 tháng VPBank 7,4%/năm; có thể lôi kéo dòng tiền từ chứng khoán."
+    },
+    {
+      "title": "Chính phủ chương trình nhân tài 0,1% GDP mỗi năm",
       "impact": "↑",
-      "note": "UBND Hà Nội ký Kế hoạch 411/KH-UBND ngày 22/10 duy trì mục tiêu tăng trưởng GRDP cả năm từ 11%. Chuyển hóa đất đai, đầu tư, khoa học-công nghệ thành động lực phát triển, gắn với nâng cao năng suất chất lượng."
+      "note": "Nghị quyết 336/NQ-CP (23/10) phân bổ 0,1% GDP/năm cho chương trình nhân tài; mục tiêu tuyển 1,000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu."
     },
     {
-      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài trong các lĩnh vực ưu tiên",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10: Bộ Tài chính xây dựng cơ chế tài chính riêng với mục tiêu 0,1% GDP/năm cho nhân tài. Phấn đấu 1000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu."
-    },
-    {
-      "title": "Giá vàng giảm 2,1 triệu đồng/lượng trong 2 tuần, chạm đáy 2 tháng",
+      "title": "KOS giảm sàn 25 phiên liên tiếp, khối ngoại bán ròng",
       "impact": "↓",
-      "note": "Vàng miếng SJC tuần 12-24/10 giảm tổng 2,1 triệu đồng/lượng, giao dịch cuối tuần 138,7-141,7 triệu đồng. Dòng vốn rơi dòng khỏi hàng hóa, phản ánh kỳ vọng lãi suất thực và sức mua chứng khoán tăng."
+      "note": "Cổ phiếu KOS rơi từ 30,050 đồng xuống 5,050 đồng/cp trong 25 phiên giảm sàn liên tiếp từ 21/9 đến 23/10; khối ngoại bán ròng 443 tỷ đồng chủ yếu tại ACB."
     }
   ]
 }
