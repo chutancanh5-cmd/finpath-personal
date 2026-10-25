@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-10-25",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Xuất khẩu tăng 12% và xuất siêu liên tiếp là tín hiệu tích cực cho thị trường. VN-Index hồi phục 4% (68 điểm), nhóm bất động sản và ngân hàng dẫn đầu, được hỗ trợ bởi thanh khoản cải thiện. Chính phủ đầu tư 0,1% GDP/năm cho nhân tài trong các lĩnh vực AI, bán dẫn. Tuy nhiên, khối ngoại bán ròng 480 tỷ đồng và áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% là rủi ro ngắn hạn.",
+  "summary_vi": "Xuất khẩu tăng 12,41%, xuất siêu 1,82 tỷ USD lần 2 liên tiếp; VN-Index hồi phục 4% (68 điểm) với bất động sản dẫn đầu. Chính phủ dành 0,1% GDP/năm cho nhân tài trong AI, bán dẫn; Hà Tĩnh tăng trưởng 12,36% đứng thứ 2 cả nước nhờ FDI lớn. Tuy rủi ro tồn tại từ khối ngoại bán ròng 480 tỷ đồng và áp lực lạm phát (xăng dầu thế giới tăng 65-90%), chiều hướng tích cực vẫn chiếm ưu thế.",
   "top": [
     {
       "title": "Xuất khẩu tăng 12%, xuất siêu 2 kỳ liên tiếp",
@@ -17,7 +17,7 @@
     {
       "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài công nghệ",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10: bố trí khoảng 0,1% GDP mỗi năm để thu hút nhân tài. Phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 trong lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược. Mục tiêu tăng trưởng GDP từ 10% trở lên năm 2027."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10: bố trí khoảng 0,1% GDP mỗi năm để thu hút nhân tài. Phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 trong lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
     },
     {
       "title": "Khối ngoại bán ròng 480 tỷ đồng cuối tuần",
@@ -27,12 +27,12 @@
     {
       "title": "Áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90%",
       "impact": "↓",
-      "note": "Thủ tướng Lê Minh Hưng: giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ giữ giá trong nước ở mức thấp, không tăng giá điện. Nếu không điều hành, giá trong nước có tăng 80%. Lạm phát tăng sẽ xói mòn thành quả tăng trưởng. CPI 9 tháng được kiểm soát nhưng rủi ro vẫn tồn tại."
+      "note": "Thủ tướng Lê Minh Hưng: giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ giữ giá trong nước ở mức thấp, không tăng giá điện. Nếu không điều hành, giá trong nước có tăng 80%. Lạm phát tăng sẽ xói mòn thành quả tăng trưởng; CPI 9 tháng được kiểm soát nhưng rủi ro vẫn tồn tại."
     },
     {
-      "title": "Lixco lãi tăng 84%, Netco lãi giảm 81% Q3/2026",
-      "impact": "→",
-      "note": "Lixco: doanh thu thuần 860 tỷ đồng (+10%), lãi ròng 84 tỷ đồng (+84%), biên lợi nhuận gộp mở rộng từ 21,4% lên 25,2%, chia cổ tức 59 tỷ từ Xalivico. Netco: doanh thu tăng nhưng lãi ròng sụt 81% do giá nguyên liệu tăng. Phân hóa rõ nét trong ngành bột giặt."
+      "title": "Hà Tĩnh tăng trưởng 12,36%, đứng thứ 2 cả nước",
+      "impact": "↑",
+      "note": "9 tháng đầu năm 2026: Hà Tĩnh tăng trưởng GRDP 12,36%, công nghiệp tăng 25,64% đóng góp 8,13 điểm phần trăm. Formosa Hà Tĩnh đóng góp 20,27% GRDP (2019-2024), nộp 74.400 tỷ đồng tiền thuế; thép chiếm 64% kim ngạch xuất khẩu hàng hóa tỉnh."
     }
   ]
 }
