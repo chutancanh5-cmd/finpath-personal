@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam xuất hiện nhiều tín hiệu tích cực trong tuần, từ triển vọng nâng hạng MSCI với dòng tiền ngoại 10 tỷ USD tiềm năng, đến phục hồi kỹ thuật và các chính sách hỗ trợ chiến lược từ Chính phủ. Tuy nhiên, rủi ro margin kỷ lục 5,1%, khối ngoại bán ròng và lãi suất tiết kiệm cao (7%/năm) có thể giới hạn đà tăng ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục hưởng lợi từ dòng vốn nước ngoài tiềm năng (10 tỷ USD theo dự báo SSI khi nâng hạng MSCI) và chính sách hỗ trợ với 0,1% GDP/năm cho nhân tài và công nghệ chiến lược (AI, bán dẫn). VN-Index hồi phục mạnh 2,8% vượt vùng kháng cự, hướng đến mục tiêu 1.800 điểm. Thủ tướng cam kết kiểm soát lạm phát bằng ổn định giá xăng dầu và điện. Tuy nhiên, tỷ lệ margin lập kỷ lục 5,1% trên vốn hóa thị trường tiềm ẩn rủi ro ngắn hạn từ đòn bẩy quá cao.",
   "top": [
     {
-      "title": "MSCI nâng hạng: 10 tỷ USD tiềm năng chảy vào chứng khoán Việt Nam",
+      "title": "SSI dự báo 10 tỷ USD dòng vốn vào chứng khoán VN",
       "impact": "↑",
-      "note": "Giám đốc Phân tích SSI dự báo dòng vốn tiềm năng 10 tỷ USD nếu Việt Nam chiếm 0,5%; các vấn đề free-float đang được giải quyết từ Petrolimex, BSR, PVN và Masan."
+      "note": "Nếu Việt Nam chiếm tỷ trọng 0,5% dòng vốn nâng hạng MSCI, chứng khoán VN có thể nhận ~10 tỷ USD. SSI nhấn mạnh cần tháo gỡ điểm nghẽn free-float: Petrolimex đã giải quyết được một phần, BSR và các doanh nghiệp PVN lên kế hoạch cụ thể cho năm 2027."
     },
     {
-      "title": "Tỷ lệ margin toàn thị trường lập kỷ lục 5,1%",
+      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài",
+      "impact": "↑",
+      "note": "Nghị quyết 336/NQ-CP (23/10) giao xây dựng cơ chế tài chính thu hút nhân tài. Phấn đấu thu hút ~1.000 nhân tài quốc gia đến 2030, tập trung vào AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+    },
+    {
+      "title": "VN-Index hồi phục mạnh, bứt phá vượt 1.800 điểm",
+      "impact": "↑",
+      "note": "VN-Index tăng 2,8% (46,7 điểm) trong phiên 21/10, thanh khoản vượt mức trung bình 20 phiên. MACD, RSI tích cực, vượt qua Kijun và mây Span B, nhịp hồi phục kỹ thuật, nhắm mục tiêu 1.800 điểm."
+    },
+    {
+      "title": "Tỷ lệ margin lập kỷ lục 5,1% trên vốn hóa",
       "impact": "↓",
-      "note": "Dư nợ cho vay tại CTCK đạt 455 triệu tỷ đồng, tỷ lệ so với vốn hóa 9 triệu tỷ đồng là 5,1% mức cao nhất lịch sử, tăng từ 1,5% năm 2017 và 3,1% năm 2021."
+      "note": "Dư nợ cho vay CTCK cuối Q3/2026 ước đạt 455.000 tỷ đồng, tăng 10.000 tỷ từ Q2, mức cao nhất lịch sử. Tỷ lệ trên vốn hóa 9 triệu tỷ đồng là 5,1%, so với 1,5% năm 2017 và 3,1% năm 2021."
     },
     {
-      "title": "VN-Index hồi phục mạnh, nhắm mục tiêu 1800 điểm",
+      "title": "Hà Nội mục tiêu GRDP tăng từ 11% trở lên cả năm",
       "impact": "↑",
-      "note": "VN-Index tiếp tục tăng, bứt phá qua Kijun và mây Span B; RSI và MACD tích cực; hỗ trợ 1760-1770, mục tiêu 1800 điểm; khối VIN dẫn dắt."
+      "note": "Chủ tịch UBND TP ký Kế hoạch 411/KH-UBND (22/10) thực hiện Nghị quyết 32-NQ/TU. Hà Nội tập trung chuyển hóa nguồn lực đất đai, đầu tư, khoa học-công nghệ, dữ liệu thành động lực phát triển."
     },
     {
-      "title": "Lãi suất tiết kiệm ngân hàng cao lên 7%/năm",
+      "title": "Thủ tướng: kiểm soát CPI, xăng dầu, không tăng giá điện",
       "impact": "→",
-      "note": "Lãi suất tiết kiệm 12 tháng cao nhất 7%/năm tại MBV, PGBank, Sacombank, VCBNeo, VIB; kỳ hạn 18 tháng VPBank 7,4%/năm; có thể lôi kéo dòng tiền từ chứng khoán."
-    },
-    {
-      "title": "Chính phủ chương trình nhân tài 0,1% GDP mỗi năm",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP (23/10) phân bổ 0,1% GDP/năm cho chương trình nhân tài; mục tiêu tuyển 1,000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu."
-    },
-    {
-      "title": "KOS giảm sàn 25 phiên liên tiếp, khối ngoại bán ròng",
-      "impact": "↓",
-      "note": "Cổ phiếu KOS rơi từ 30,050 đồng xuống 5,050 đồng/cp trong 25 phiên giảm sàn liên tiếp từ 21/9 đến 23/10; khối ngoại bán ròng 443 tỷ đồng chủ yếu tại ACB."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ áp dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Hướng tới mục tiêu GDP tăng 10% trở lên năm 2027."
     }
   ]
 }
