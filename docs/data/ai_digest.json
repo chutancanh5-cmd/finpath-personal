@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-25",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Xuất khẩu Việt Nam tăng mạnh 12,41% với cán cân thương mại xuất siêu 1,82 tỷ USD, chủ yếu từ điện tử tăng 21%, hỗ trợ thị trường chứng khoán hồi phục. Tuy nhiên, rủi ro từ kinh tế thế giới gia tăng (bán tháo cổ phiếu AI, nợ công Mỹ vượt 1000 tỷ USD/năm, xung đột Vùng Vịnh đẩy dầu cao nhất 6 tháng) có thể kìm hãm lợi nhuận doanh nghiệp do chi phí đầu vào tăng. Chính phủ duy trì kiểm soát lạm phát và hướng tới mục tiêu tăng trưởng GDP 10% năm 2027.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hồi phục với VN-Index tăng 4% tuần qua, nhờ động lực từ xuất khẩu mạnh (điện tử +21,17%) và doanh nghiệp vượt kế hoạch. Tuy nhiên, áp lực từ bên ngoài leo thang: vàng/AI bị bán tháo mạnh, chứng khoán Mỹ giảm, giá dầu thế giới tăng 65-90% tạo áp lực lạm phát. Chính phủ chủ động kiểm soát lạm phát bằng các biện pháp điều hành giá xăng dầu và điện để bảo vệ tăng trưởng GDP.",
   "top": [
     {
-      "title": "Xuất khẩu tăng 12%, xuất siêu 1,82 tỷ USD liên tiếp",
+      "title": "Xuất khẩu tăng 12%, xuất siêu 1,82 tỷ USD hai kỳ liên tiếp",
       "impact": "↑",
-      "note": "Nửa đầu tháng 10, kim ngạch xuất khẩu đạt 29,25 tỷ USD tăng 12,41%, trong đó máy vi tính/điện tử tăng 21,17% (11,59 tỷ USD). Cán cân thương mại xuất siêu 1,82 tỷ USD đánh dấu kỳ xuất siêu thứ hai liên tiếp, thúc đẩy tăng trưởng kinh tế."
+      "note": "Nửa đầu tháng 10, kim ngạch xuất khẩu đạt 29,25 tỷ USD tăng 12,41%, nhập khẩu giảm 4,9%. Máy vi tính, sản phẩm điện tử tăng 21,17% (tăng 2,03 tỷ USD), giày dép tăng 23,82%, nhưng điện thoại giảm 11,61%. Cán cân thương mại xuất siêu 1,82 tỷ USD."
     },
     {
-      "title": "Kinh tế thế giới bất ổn: bán tháo AI, nợ công Mỹ, giá dầu cao",
+      "title": "VN-Index hồi phục 4%, tăng 68 điểm trong tuần",
+      "impact": "↑",
+      "note": "Tuần 19-23/10, VN-Index tăng hơn 68 điểm (từ 1.690 lên 1.774 điểm), VIC tăng từ 215.000 đồng lên 236.500 đồng/cổ phiếu, đóng góp 37 điểm. Bất động sản tăng 7,6%, đa số ngành tăng, khối lượng giao dịch cải thiện."
+    },
+    {
+      "title": "Kinh tế thế giới bất ổn: bán tháo AI, vàng, giá dầu cao nhất 6 tháng",
       "impact": "↓",
-      "note": "Giá dầu tăng cao nhất 6 tháng do xung đột Vùng Vịnh; cổ phiếu AI bị bán tháo; nợ công Mỹ vượt 1000 tỷ USD/năm; lãi suất trái phiếu Pháp cao nhất 24 năm (>5%). Áp lực chi phí sản xuất tăng và lo ngại lạm phát lan rộng có thể ảnh hưởng tiêu cực đến lợi nhuận doanh nghiệp VN."
+      "note": "Vàng trong nước giảm 2 triệu đồng/lượng (hai tuần liên tiếp), cổ phiếu AI bị bán tháo mạnh. Giá dầu thô tăng cao nhất 6 tháng. Lợi suất trái phiếu Pháp vượt 5% (cao nhất 24 năm). Nợ công Mỹ vượt 1 nghìn tỷ USD/năm."
     },
     {
-      "title": "VN-Index hồi phục 4%, tăng 68 điểm tuần qua",
-      "impact": "↑",
-      "note": "Tuần 19-23/10, VN-Index tăng từ 1.690 lên 1.774 điểm (+68 điểm, +4%), với VIC đóng góp 37 điểm (tăng từ 215.000 lên 236.500 đ/cp). Bất động sản dẫn đầu các ngành tăng 7,6%, tạo động lực cho thị trường."
+      "title": "Chứng khoán Mỹ sụt điểm, bán tháo lan rộng từ công nghệ",
+      "impact": "↓",
+      "note": "Dow Jones giảm 1,23% (-652,82 điểm), S&P 500 giảm 0,52%, Nasdaq giảm 0,21%. Bán tháo từ cổ phiếu công nghệ lan sang lĩnh vực phòng thủ (tiêu dùng, tiện ích, y tế). American Express cắt giảm 5% lực lượng lao động."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát, mục tiêu GDP 10% năm 2027",
-      "impact": "↑",
-      "note": "Dù giá xăng dầu thế giới tăng 65-90%, Thủ tướng Lê Minh Hưng khẳng định Chính phủ giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện. Chính sách này bảo đảm lạm phát không xói mòn thành quả tăng trưởng, hướng tới mục tiêu GDP 10% trở lên năm 2027."
-    },
-    {
-      "title": "Hà Tĩnh tăng trưởng 12,36%, FDI Formosa đóng góp lớn",
-      "impact": "↑",
-      "note": "Hà Tĩnh tăng trưởng GRDP 12,36% trong 9 tháng đầu năm (thứ hai cả nước), công nghiệp tăng 25,64%. Formosa Hà Tĩnh đóng góp trung bình 20,27% GRDP toàn tỉnh giai đoạn 2019-2024 và nộp 74.400 tỷ đồng tiền thuế (2015-2025)."
-    },
-    {
-      "title": "Giá vàng giảm 2 triệu đồng, chạm đáy 2 tháng",
+      "title": "Thủ tướng: Chính phủ kiểm soát lạm phát, mục tiêu GDP 10% năm 2027",
       "impact": "→",
-      "note": "Hai tuần liên tiếp (12-24/10), giá vàng miếng SJC giảm tổng cộng 2,1 triệu đồng/lượng ở cả mua và bán, vàng nhẫn 9999 giảm 2,5-5,8 triệu đồng. Giảm giá phản ánh lo ngại của nhà đầu tư toàn cầu về ổn định kinh tế."
+      "note": "Giá xăng dầu thế giới tăng 65-90%. Chính phủ giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện. CPI 9 tháng được kiểm soát tốt để bảo vệ tăng trưởng GDP hướng tới 10% năm 2027."
+    },
+    {
+      "title": "DPM hoàn thành 105% kế hoạch sản xuất Urê 9 tháng 2026",
+      "impact": "↑",
+      "note": "Phú Mỹ (DPM) sản xuất Urê đạt 688 nghìn tấn, hoàn thành 105% kế hoạch 9 tháng 2026. Duy trì sản xuất ổn định, doanh thu kinh doanh tích cực bất chấp giá khí và tỷ giá gia tăng tạo áp lực lên chi phí."
     }
   ]
 }
