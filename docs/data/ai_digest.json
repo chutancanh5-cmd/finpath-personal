@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục hưởng lợi từ dòng vốn nước ngoài tiềm năng (10 tỷ USD theo dự báo SSI khi nâng hạng MSCI) và chính sách hỗ trợ với 0,1% GDP/năm cho nhân tài và công nghệ chiến lược (AI, bán dẫn). VN-Index hồi phục mạnh 2,8% vượt vùng kháng cự, hướng đến mục tiêu 1.800 điểm. Thủ tướng cam kết kiểm soát lạm phát bằng ổn định giá xăng dầu và điện. Tuy nhiên, tỷ lệ margin lập kỷ lục 5,1% trên vốn hóa thị trường tiềm ẩn rủi ro ngắn hạn từ đòn bẩy quá cao.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường hồi phục kỹ thuật từ vùng đáy với VN-Index vượt 1,775 điểm, tiềm năng nhận 10 tỷ USD vốn ngoại nếu nâng hạng MSCI, nhưng rủi ro lớn từ dư nợ margin lập kỷ lục 5,1% vốn hóa. Chính phủ hỗ trợ bằng ổn định giá và đầu tư công nghệ (0,1% GDP/năm) để hướng tới GDP 10%+ năm 2027.",
   "top": [
     {
-      "title": "SSI dự báo 10 tỷ USD dòng vốn vào chứng khoán VN",
+      "title": "Tiềm năng 10 tỷ USD vốn ngoại nếu nâng hạng MSCI",
       "impact": "↑",
-      "note": "Nếu Việt Nam chiếm tỷ trọng 0,5% dòng vốn nâng hạng MSCI, chứng khoán VN có thể nhận ~10 tỷ USD. SSI nhấn mạnh cần tháo gỡ điểm nghẽn free-float: Petrolimex đã giải quyết được một phần, BSR và các doanh nghiệp PVN lên kế hoạch cụ thể cho năm 2027."
+      "note": "Giám đốc Phân tích SSI dự báo nếu Việt Nam chiếm tỷ trọng 0,5% MSCI, dòng vốn tiềm năng có thể đạt 10 tỷ USD. Điều quan trọng là tháo gỡ điểm nghẽn free-float: PLX, BSR, một số doanh nghiệp PVN có kế hoạch cụ thể cho năm 2027; MSR tỷ lệ free-float cũng tăng sau khi Masan thoái vốn."
+    },
+    {
+      "title": "VN-Index hồi phục vượt vùng cản 1,775 điểm",
+      "impact": "→",
+      "note": "VN-Index tăng 2,8% (46,7 điểm) ngày 21/10 sau 4 tuần giảm liên tiếp, kết thúc tuần ở 1,774 điểm. Mục tiêu kháng cự 1,800 điểm nhưng chuyên gia vẫn thận trọng, nhận định chỉ là nhịp hồi phục kỹ thuật của xu hướng giảm, cần yếu tố hỗ trợ mạnh hơn để lôi kéo dòng tiền trở lại."
+    },
+    {
+      "title": "Dư nợ cho vay lập kỷ lục, tỷ lệ margin/vốn hóa 5,1%",
+      "impact": "↓",
+      "note": "Dư nợ cho vay tại các CTCK (margin + ứng trước tiền bán) ước đạt 455 tỷ đồng cuối Q3/2026, tăng 10 tỷ đồng so với Q2, tỷ lệ so với vốn hóa xấp xỉ 5,1% — mức cao nhất trong lịch sử chứng khoán Việt Nam (so sánh: 1,5% cuối 2017, 3,1% cuối 2021). Rủi ro thanh khoản và buộc bán nếu thị trường lại giảm."
     },
     {
       "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP (23/10) giao xây dựng cơ chế tài chính thu hút nhân tài. Phấn đấu thu hút ~1.000 nhân tài quốc gia đến 2030, tập trung vào AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP ngày 23/10, bố trí ~0,1% GDP mỗi năm trong ngân sách khoa học, công nghệ và chuyển đổi số để thu hút, trọng dụng nhân tài. Phấn đấu thu hút khoảng 1,000 nhân tài quốc gia đến năm 2030, tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
     },
     {
-      "title": "VN-Index hồi phục mạnh, bứt phá vượt 1.800 điểm",
-      "impact": "↑",
-      "note": "VN-Index tăng 2,8% (46,7 điểm) trong phiên 21/10, thanh khoản vượt mức trung bình 20 phiên. MACD, RSI tích cực, vượt qua Kijun và mây Span B, nhịp hồi phục kỹ thuật, nhắm mục tiêu 1.800 điểm."
-    },
-    {
-      "title": "Tỷ lệ margin lập kỷ lục 5,1% trên vốn hóa",
-      "impact": "↓",
-      "note": "Dư nợ cho vay CTCK cuối Q3/2026 ước đạt 455.000 tỷ đồng, tăng 10.000 tỷ từ Q2, mức cao nhất lịch sử. Tỷ lệ trên vốn hóa 9 triệu tỷ đồng là 5,1%, so với 1,5% năm 2017 và 3,1% năm 2021."
-    },
-    {
-      "title": "Hà Nội mục tiêu GRDP tăng từ 11% trở lên cả năm",
-      "impact": "↑",
-      "note": "Chủ tịch UBND TP ký Kế hoạch 411/KH-UBND (22/10) thực hiện Nghị quyết 32-NQ/TU. Hà Nội tập trung chuyển hóa nguồn lực đất đai, đầu tư, khoa học-công nghệ, dữ liệu thành động lực phát triển."
-    },
-    {
-      "title": "Thủ tướng: kiểm soát CPI, xăng dầu, không tăng giá điện",
+      "title": "Giá vàng giảm mạnh trong 2 tuần, chạm đáy 2 tháng",
       "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ áp dụng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện để kiểm soát lạm phát. Hướng tới mục tiêu GDP tăng 10% trở lên năm 2027."
+      "note": "Giá vàng miếng SJC giảm tổng cộng ~2,1 triệu đồng/lượng trong 2 tuần (12-24/10), chạm đáy trong vòng 2 tháng. Giá vàng nhẫn '4 số 9' biến động cùng chiều. Xu hướng chuyển hướng tài sản từ vàng sang kênh khác, có thể tích cực cho chứng khoán hoặc gửi ngân hàng khi lãi suất ổn định 7%/năm."
+    },
+    {
+      "title": "Lixco lợi nhuận kỷ lục, Netco áp lực giá nguyên liệu",
+      "impact": "→",
+      "note": "Q3/2026: Lixco doanh thu 860 tỷ đồng (+10% YoY), lãi ròng tăng 84% lên 84 tỷ đồng (biên gộp 25,2% từ 21,4%), nhận cổ tức 59 tỷ từ công ty liên kết Xalivico. Ngược lại, Netco tuy doanh thu tăng nhưng lãi ròng sụt 81% do giá nguyên liệu đầu vào leo thang. Phân hóa rõ rệt trong ngành bột giặt."
     }
   ]
 }
