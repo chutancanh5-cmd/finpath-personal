@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-25",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ và NHNN tích cực hỗ trợ tăng trưởng hai con số: VPBank giảm lãi suất 1,5%, NHNN mở rộng room tín dụng 1,7 triệu tỷ đồng cho 35 dự án lớn, Chính phủ đầu tư 0,1% GDP mỗi năm cho nhân tài công nghệ. Thị trường hồi phục mạnh VN-Index +68,24 điểm, chấm dứt 4 tuần giảm, tuy khối ngoại bán ròng 1.105 tỷ đồng gây lo ngại. Tăng trưởng vĩ mô Hà Tĩnh 12,36% (thứ 2 cả nước, công nghiệp +25,64%) và Hà Nội cam kết ≥11% GRDP hỗ trợ triển vọng doanh nghiệp, nhưng áp lực xăng dầu thế giới +65-90% vẫn cần giám sát.",
+  "summary_vi": "Chính phủ tăng cường hỗ trợ kinh tế thông qua cơ chế loại trừ 1,7 triệu tỷ đồng từ room tín dụng cho 35 dự án trọng điểm và làn sóng giảm lãi suất rộng rãi từ các ngân hàng, nhằm thúc đẩy tăng trưởng hai con số. Chiến lược thu hút nhân tài với mức chi 0,1% GDP/năm cho các lĩnh vực AI, bán dẫn và công nghệ phản ánh cam kết phát triển lâu dài. Thị trường chứng khoán phục hồi mạnh với VN-Index tăng 68,24 điểm tuần qua sau 4 tuần giảm liên tiếp. Tuy nhiên, lạm phát toàn cầu vẫn là rủi ro lớn với giá xăng dầu thế giới tăng 65-90%, đòi hỏi kiểm soát CPI chặt chẽ để bảo vệ thành quả tăng trưởng.",
   "top": [
     {
-      "title": "Giảm lãi suất: VPBank hạ 1,5% từ 26/10",
+      "title": "NHNN loại trừ 1,7 triệu tỷ đồng từ room tín dụng cho 35 dự án trọng điểm",
       "impact": "↑",
-      "note": "VPBank từ 26/10 giảm 1,5% lãi suất cho vay kinh doanh 6 ngành trọng điểm (dược, bán lẻ, vật liệu xây dựng, du lịch, nông nghiệp, thủ công mỹ nghệ), SME được giảm 1,5% vốn lưu động, lãi suất huy động giảm 0,5%, hạn mức 10.000 tỷ đồng. Chi phí tài chính giảm hỗ trợ sản xuất kinh doanh."
+      "note": "Ngân hàng Nhà nước cấp bổ sung hạn mức tăng trưởng tín dụng cho các ngân hàng thương mại tham gia tài trợ 35 công trình, dự án quy mô lớn với tổng nhu cầu vốn vay 1,7 triệu tỷ đồng, nhằm thúc đẩy tăng trưởng kinh tế hai con số."
     },
     {
-      "title": "NHNN mở rộng room tín dụng 1,7 triệu tỷ đồng cho 35 dự án",
+      "title": "Làn sóng giảm lãi suất sôi động từ các ngân hàng",
       "impact": "↑",
-      "note": "NHNN ngày 23/10 có cơ chế loại trừ/cấp bổ sung hạn mức tăng trưởng tín dụng cho 35 công trình, dự án quy mô lớn, trọng điểm với tổng nhu cầu vốn khoảng 1,7 triệu tỷ đồng. Mục tiêu thúc đẩy tăng trưởng kinh tế hai con số 2027. Tín dụng toàn nền đạt 20,7 triệu tỷ đồng, tăng 11,7% so cuối 2025."
+      "note": "VPBank từ ngày 26/10 giảm 1,5% lãi suất cho vay cho 6 ngành nghề trọng điểm (dược, bán lẻ, xây dựng, du lịch, nông nghiệp, thủ công); SME giảm tới 1,5% vốn lưu động; lãi suất huy động giảm 0,5% trên kênh trực tuyến."
     },
     {
-      "title": "VN-Index hồi phục 68,24 điểm, khối ngoại bán ròng 1.105 tỷ",
-      "impact": "→",
-      "note": "Tuần 19-23/10, VN-Index tăng 68,24 điểm lên 1.774,15 điểm, chấm dứt 4 tuần giảm. Phiên 21/10 tăng 2,8% kỷ lục từ đầu tháng 4/2026. Thanh khoản HoSE bình quân 718 triệu CP/phiên. Khối ngoại bán ròng 63,7 triệu đơn vị (1.105 tỷ đồng) gây lo ngại, nhà đầu tư thận trọng."
-    },
-    {
-      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài, công nghệ",
+      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài trong lĩnh vực công nghệ",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính riêng dành 0,1% GDP mỗi năm cho nhân tài. Phấn đấu 1.000 nhân tài đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược. Chiến lược dài hạn hỗ trợ công nghệ, mở cơ hội ngành công nghệ."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính riêng để thu hút nhân tài với mục tiêu bố trí khoảng 0,1% GDP mỗi năm, tập trung vào AI, bán dẫn, lượng tử, khoa học dữ liệu và công nghệ chiến lược."
     },
     {
-      "title": "Hà Tĩnh GRDP 12,36% (thứ 2 cả nước), công nghiệp +25,64%",
+      "title": "Giá xăng dầu thế giới tăng 65-90% - Rủi ro lạm phát",
+      "impact": "↓",
+      "note": "Thủ tướng Lê Minh Hưng cảnh báo giá xăng dầu thế giới tăng 65-90%; Chính phủ phải dùng các biện pháp kiểm soát giá trong nước để chống lạm phát; nếu CPI tăng, thành quả tăng trưởng sẽ bị xói mòn."
+    },
+    {
+      "title": "VN-Index hồi phục mạnh, phá vỡ chuỗi 4 tuần giảm liên tiếp",
       "impact": "↑",
-      "note": "Hà Tĩnh 9 tháng đầu 2026 tăng GRDP 12,36%, công nghiệp tăng 25,64% đóng góp 8,13 điểm phần trăm. Thép chiếm 64% kim ngạch xuất khẩu 2025, Formosa nộp 74.400 tỷ đồng tiền thuế (2015-2025), 15.900 tỷ vào ngân sách địa phương. Động lực FDI mạnh hỗ trợ doanh nghiệp dài hạn."
+      "note": "VN-Index tăng 68,24 điểm lên 1774,15 điểm trong tuần 19-23/10, tăng 2,8% từ vùng hỗ trợ; khối lượng khớp lệnh bình quân HoSE đạt 718 triệu cổ phiếu/phiên; chỉ báo kỹ thuật MACD, RSI tích cực, hỗ trợ triển vọng ngắn hạn."
     },
     {
-      "title": "Xăng dầu thế giới +65-90%, Chính phủ kiểm soát lạm phát",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, áp lực chi phí tiềm tàng. Chính phủ giữ giá xăng dầu, không tăng giá điện trong nước để kiểm soát CPI và bảo vệ tăng trưởng. Thủ tướng nhấn mạnh: lạm phát tăng sẽ xói mòn thành quả tăng trưởng. Rủi ro được giảm nhẹ nhưng cần theo dõi."
+      "title": "Hà Nội kiên trì mục tiêu tăng trưởng GRDP 11%+ năm 2026",
+      "impact": "↑",
+      "note": "Chủ tịch UBND Hà Nội ký kế hoạch triển khai Nghị quyết Đảng bộ thành phố, kiên trì mục tiêu tăng trưởng GRDP cả năm từ 11% trở lên; Hà Tĩnh đạt 12,36% trong 9 tháng đầu năm, công nghiệp tăng 25,64%, đứng thứ 2 cả nước."
     }
   ]
 }
