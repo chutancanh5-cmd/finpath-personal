@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-25",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Xuất khẩu tăng 12,41%, xuất siêu 1,82 tỷ USD lần 2 liên tiếp; VN-Index hồi phục 4% (68 điểm) với bất động sản dẫn đầu. Chính phủ dành 0,1% GDP/năm cho nhân tài trong AI, bán dẫn; Hà Tĩnh tăng trưởng 12,36% đứng thứ 2 cả nước nhờ FDI lớn. Tuy rủi ro tồn tại từ khối ngoại bán ròng 480 tỷ đồng và áp lực lạm phát (xăng dầu thế giới tăng 65-90%), chiều hướng tích cực vẫn chiếm ưu thế.",
+  "summary_vi": "Thị trường chứng khoán hồi phục mạnh 4% (68 điểm) trong tuần 19-23/10 sau 4 tuần giảm, VN-Index vượt 1,774 điểm hướng tới 1,800. Chính phủ duy trì kiểm soát giá xăng dầu ở mức thấp bất chấp giá thế giới tăng 65-90%, cam kết tăng trưởng GRDP 11%+ và phân bổ 0.1% GDP hàng năm cho nhân tài AI, bán dẫn, lượng tử. Tín hiệu kỹ thuật cải thiện và chính sách hỗ trợ tạo động lực tích cực, nhưng áp lực lạm phát toàn cầu vẫn là rủi ro cần theo dõi.",
   "top": [
     {
-      "title": "Xuất khẩu tăng 12%, xuất siêu 2 kỳ liên tiếp",
+      "title": "VN-Index hồi phục 68 điểm, VIC dẫn dắt thị trường",
       "impact": "↑",
-      "note": "Nửa đầu tháng 10: xuất khẩu 29,25 tỷ USD tăng 12,41%, nhập khẩu giảm 4,9%, cán cân thương mại xuất siêu 1,82 tỷ USD. Máy vi tính, điện tử là động lực chính, tăng 21,17% lên 11,59 tỷ USD; giày dép tăng 23,82%."
+      "note": "VN-Index tăng 68 điểm (4%) trong tuần 19-23/10, VIC đóng góp 36.7 điểm khi tăng từ 215,000 đồng lên 236,500 đồng/cp, ngành bất động sản tăng 7.6% dẫn đầu các ngành, tín hiệu sức mua phục hồi sau chuỗi 4 tuần giảm liên tiếp."
     },
     {
-      "title": "VN-Index hồi phục 4%, nhóm bất động sản dẫn đầu",
+      "title": "Chính phủ kiểm soát giá xăng dầu bất chấp tăng 65-90%",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng tới 65-90%, Chính phủ triển khai biện pháp bảo đảm nguồn cung để giữ giá trong nước ở mức thấp so với khu vực, không tăng giá điện, nhằm kiểm soát lạm phát và bảo đảm CPI không xói mòn thành quả tăng trưởng."
+    },
+    {
+      "title": "Hà Nội, Hà Tĩnh cam kết tăng trưởng kinh tế 11%+ và 12.36%",
       "impact": "↑",
-      "note": "Tuần 19-23/10: VN-Index tăng 68 điểm (hơn 4%), đóng cửa 1774,15 điểm. VIC tăng từ 215.000 lên 236.500 đồng/cp, đóng góp 37 điểm. Bất động sản tăng 7,6%, ngân hàng tăng qua các mã STB (+6,86%), ACB (+3,9%), LPB (+3,59%). Thanh khoản cải thiện vượt mức trung bình 20 phiên."
+      "note": "Hà Nội duy trì mục tiêu tăng trưởng GRDP 11% trở lên cả năm, Hà Tĩnh ghi nhận 12.36% (thứ 2 quốc gia) trong 9 tháng đầu năm nhờ ngành công nghiệp tăng 25.64%, với liên hợp gang thép Formosa đóng góp bình quân 20.27% GRDP tỉnh."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài công nghệ",
+      "title": "Chính phủ phân bổ 0.1% GDP hàng năm cho nhân tài chiến lược",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10: bố trí khoảng 0,1% GDP mỗi năm để thu hút nhân tài. Phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 trong lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP phân bổ khoảng 0.1% GDP mỗi năm cho thu hút nhân tài lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu, với mục tiêu thu hút 1,000 nhân tài quốc gia đến năm 2030 giải quyết các bài toán chiến lược."
     },
     {
-      "title": "Khối ngoại bán ròng 480 tỷ đồng cuối tuần",
-      "impact": "↓",
-      "note": "Phiên cuối tuần (24/10): khối ngoại bán ròng 480,04 tỷ đồng. Giá trị mua 1.807,54 tỷ đồng, bán 2.287,58 tỷ đồng. Độ rộng thị trường cân bằng (144 mã tăng, 156 mã giảm, 73 mã đứng giá). Dòng tiền tập trung tại một số cổ phiếu, chưa lan tỏa đều khắp thị trường."
-    },
-    {
-      "title": "Áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90%",
-      "impact": "↓",
-      "note": "Thủ tướng Lê Minh Hưng: giá xăng dầu thế giới tăng 65-90% nhưng Chính phủ giữ giá trong nước ở mức thấp, không tăng giá điện. Nếu không điều hành, giá trong nước có tăng 80%. Lạm phát tăng sẽ xói mòn thành quả tăng trưởng; CPI 9 tháng được kiểm soát nhưng rủi ro vẫn tồn tại."
-    },
-    {
-      "title": "Hà Tĩnh tăng trưởng 12,36%, đứng thứ 2 cả nước",
+      "title": "VN-Index vượt 1,774 hướng mục tiêu 1,800 điểm",
       "impact": "↑",
-      "note": "9 tháng đầu năm 2026: Hà Tĩnh tăng trưởng GRDP 12,36%, công nghiệp tăng 25,64% đóng góp 8,13 điểm phần trăm. Formosa Hà Tĩnh đóng góp 20,27% GRDP (2019-2024), nộp 74.400 tỷ đồng tiền thuế; thép chiếm 64% kim ngạch xuất khẩu hàng hóa tỉnh."
+      "note": "VN-Index vượt qua 1,774 điểm sau phiên cuối tuần, hướng tới vùng kháng cự 1,800, với chỉ báo RSI tiếp tục đi lên, MACD cắt lên đường tín hiệu, thanh khoản trên mức trung bình 20 phiên cho thấy sức mua phục hồi bền vững."
+    },
+    {
+      "title": "Lixco đạt lợi nhuận kỷ lục, nhận 59 tỷ cổ tức từ liên kết",
+      "impact": "↑",
+      "note": "Lixco đạt lợi nhuận quý 3/2026 là 84 tỷ đồng (tăng 84%), doanh thu 860 tỷ đồng, nhờ biên lợi nhuận gộp mở rộng từ 21.4% lên 25.2% và nhận 59 tỷ đồng cổ tức từ công ty liên kết Xalivico, phản ánh khôi phục hiệu quả kinh doanh ngành hóa phẩm."
     }
   ]
 }
