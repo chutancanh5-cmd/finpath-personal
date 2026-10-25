@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-25",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán phục hồi mạnh (VN-Index tăng 68,24 điểm), nhưng dòng tiền ngoài vẫn bán ròng 1.105 tỷ đồng. Áp lực lạm phát từ giá xăng dầu thế giới tăng 65-90% vẫn là rủi ro chính dù Chính phủ kiểm soát giá trong nước. Mục tiêu tăng trưởng GRDP cao của Hà Nội (11%+) và Hà Tĩnh (12,36%) là tích cực, nhưng mảng bất động sản nước ngoài yếu (Nomura) cần theo dõi.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Giảm lãi suất (VPBank -1,5% từ 26/10), chính sách tăng trưởng (Hà Nội ≥11% GRDP, nhân tài 0,1% GDP) và phục hồi kỹ thuật (VN-Index +68,24 điểm tuần 19-23/10) tạo điều kiện tích cực. Nhà đầu tư nước ngoài bán ròng 1.105 tỷ đồng và áp lực xăng dầu (+65-90% thế giới) vẫn là rủi ro, tuy Chính phủ kiểm soát. Tăng trưởng kinh tế vĩ mô mạnh (Hà Tĩnh GRDP 12,36%, công nghiệp +25,64%) hỗ trợ kỳ vọng doanh nghiệp dài hạn.",
   "top": [
     {
-      "title": "VN-Index phục hồi mạnh, vượt vùng kháng cự 1.780-1.790 điểm",
+      "title": "Giảm lãi suất: VPBank hạ 1,5% từ 26/10",
       "impact": "↑",
-      "note": "Tuần 19-23/10, VN-Index tăng 68,24 điểm lên 1.774,15 điểm, chấm dứt 4 tuần giảm liên tiếp. Thanh khoản cải thiện vượt mức trung bình 20 phiên (718 triệu cổ phiếu/phiên, 15.865 tỷ đồng/phiên). Chỉ báo MACD giao cắt lên tín hiệu, RSI tăng, hướng kiểm định vùng 1.800 điểm."
+      "note": "VPBank triển khai chương trình giảm 1,5% lãi suất cho vay kinh doanh 6 ngành trọng điểm, SME được giảm 1,5% vốn lưu động, lãi suất huy động giảm 0,5%, hạn mức 10.000 tỷ đồng. Giảm chi phí tài chính hỗ trợ khả năng đầu tư sản xuất kinh doanh, tích cực cho doanh nghiệp."
     },
     {
-      "title": "Khối ngoại bán ròng gần 1.105 tỷ đồng, áp lực dòng tiền âm",
-      "impact": "↓",
-      "note": "Tuần 19-23/10, khối ngoại bán ròng hơn 63,7 triệu đơn vị, tổng giá trị 1.105 tỷ đồng toàn thị trường (HoSE 968 tỷ đồng, HNX 106 tỷ đồng, UPCoM 30 tỷ đồng). Dòng tiền ngoài âm liên tục tạo áp lực cản trở sóng hồi phục."
-    },
-    {
-      "title": "Giá xăng dầu thế giới tăng 65-90%, áp lực lạm phát",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng tới 65-90%, Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp và không tăng giá điện để kiểm soát CPI. Tuy vậy vẫn áp lực chi phí doanh nghiệp; Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng GDP."
-    },
-    {
-      "title": "Hà Nội, Hà Tĩnh tăng trưởng GRDP cao, hỗ trợ tăng trưởng kinh tế",
-      "impact": "↑",
-      "note": "Hà Nội kiên trì mục tiêu tăng trưởng GRDP cả năm từ 11% trở lên (Kế hoạch 411/KH-UBND ngày 22-10-2026). Hà Tĩnh ghi nhận tăng trưởng GRDP 12,36% trong 9 tháng đầu năm (thứ 2 cả nước), công nghiệp tăng 25,64% với động lực từ thép, Formosa nộp 74.400 tỷ đồng tiền thuế giai đoạn 2015-2025."
-    },
-    {
-      "title": "Nomura Real Estate lợi nhuận nước ngoài dự báo về 0 năm 2027",
-      "impact": "↓",
-      "note": "Nomura Real Estate đạt doanh thu kỷ lục 942,5 tỷ yên năm tài chính 2026, nhưng lợi nhuận mảng nước ngoài (Việt Nam là thị trường lớn nhất) dự báo về 0 trong năm tài chính kết thúc tháng 3/2027. Tập đoàn tham gia 12 dự án, hơn 30.000 căn hộ chủ yếu ở TPHCM và Hà Nội."
-    },
-    {
-      "title": "Chính phủ bố trí 0.1% GDP mỗi năm thu hút nhân tài, công nghệ",
+      "title": "VN-Index hồi phục 68,24 điểm, nhà đầu tư ngoại bán ròng 1.105 tỷ",
       "impact": "→",
-      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính bố trí khoảng 0.1% GDP mỗi năm cho nhân tài. Phấn đấu thu hút khoảng 1.000 nhân tài quốc gia đến năm 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "note": "Tuần 19-23/10, VN-Index tăng 68,24 điểm lên 1.774,15 điểm, chấm dứt 4 tuần giảm liên tiếp, thanh khoản bình quân HoSE 718 triệu CP/phiên, 15.865 tỷ đồng/phiên. Khối ngoại bán ròng 63,7 triệu đơn vị (1.105 tỷ đồng) toàn thị trường gây lo ngại về bền vững phục hồi."
+    },
+    {
+      "title": "Hà Nội kiên trì GRDP tăng trưởng ≥11%",
+      "impact": "↑",
+      "note": "Hà Nội ký Kế hoạch 411/KH-UBND ngày 22/10 hướng tới tăng trưởng GRDP cả năm ≥11%, thực hiện Nghị quyết 32-NQ/TU. Chính sách này tạo động lực cho doanh nghiệp hoạt động trên địa bàn thủ đô, hỗ trợ tăng trưởng kỳ vọng ngắn hạn."
+    },
+    {
+      "title": "Xăng dầu thế giới tăng 65-90%, Chính phủ kiểm soát lạm phát",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, áp lực chi phí tiềm tàng cho doanh nghiệp. Chính phủ giữ giá xăng dầu, điện trong nước ở mức thấp để kiểm soát CPI, bảo vệ mục tiêu tăng trưởng GDP 2027 ≥10%. Rủi ro được giảm nhẹ nhưng cần theo dõi."
+    },
+    {
+      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài, công nghệ",
+      "impact": "↑",
+      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP ngày 23/10 dành 0,1% GDP mỗi năm cho thu hút nhân tài, phấn đấu 1.000 nhân tài đến 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược. Chính sách dài hạn hỗ trợ phát triển công nghệ, tạo cơ hội cho cổ phiếu ngành công nghệ."
+    },
+    {
+      "title": "Hà Tĩnh GRDP 12,36% (thứ 2 cả nước), công nghiệp +25,64%",
+      "impact": "↑",
+      "note": "Hà Tĩnh tăng trưởng GRDP 12,36% (9 tháng đầu 2026), công nghiệp tăng 25,64% đóng góp 8,13 điểm phần trăm. Thép chiếm 64% kim ngạch xuất khẩu hàng hóa, Formosa nộp 74.400 tỷ đồng tiền thuế giai đoạn 2015-2025, nộp 15.900 tỷ vào ngân sách địa phương. Tăng trưởng vĩ mô mạnh hỗ trợ lợi nhuận doanh nghiệp dài hạn."
     }
   ]
 }
