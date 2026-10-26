@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-26",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán 26/10 chịu áp lực bán mạnh từ khối ngoại (900 tỷ đồng) và tự doanh CTCK, VN-Index giảm 10,6 điểm (-0,6%) sau 3 phiên tăng liên tiếp. Nhóm ngân hàng lớn (VCB, MBB, HDB) cùng các cổ phiếu vốn hóa lớn chịu áp lực giảm, và giá vàng chạm đáy 2 tháng qua. Tuy nhiên, các tín hiệu vĩ mô dài hạn vẫn khả quan với dự án siêu cảng Cần Giờ (128.873 tỷ đồng), OCB báo lợi nhuận tăng 20%, và Chính phủ cam kết dành 0,1% GDP cho nhân tài công nghệ.",
+  "summary_vi": "VN-Index giảm 0,6% hôm nay khi khối ngoại bán ròng mạnh (900 tỷ đồng) và áp lực điều chỉnh bao trùm diện rộng (421 mã giảm), bất chấp các tín hiệu vĩ mô dương như lãi suất bắt đầu giảm, OCB tăng 20% lợi nhuận, dự án siêu cảng Cần Giờ 128.873 tỷ đồng khởi công, và chính phủ cấp 0,1% GDP/năm cho nhân tài. Sức mạnh bán từ nước ngoài và tự doanh CTCK áp đảo, chiều hướng ngắn hạn vẫn yếu.",
   "top": [
     {
       "title": "Khối ngoại bán ròng 900 tỷ đồng, VN-Index đứt chuỗi tăng",
       "impact": "↓",
-      "note": "Phiên 26/10, khối ngoại bán ròng gần 900 tỷ đồng trên HoSE, VN-Index giảm 10,6 điểm xuống 1.763,55 điểm (-0,6%) sau 3 phiên tăng; thanh khoản HoSE 13.530 tỷ đồng, độ rộng thị trường nghiêng về bán với 203 mã giảm, 106 mã tăng, 95 mã đứng giá."
+      "note": "VN-Index giảm 10,6 điểm xuống 1.763,55 điểm (-0,6%), khối ngoại bán ròng gần 900 tỷ đồng trên HoSE đứt chuỗi 3 phiên tăng liên tiếp. Nhóm ngân hàng (VCB, MBB, HDB, SHB, TCB) bị áp lực mạnh, EIB giảm gần 4%, bất động sản giảm trên 2%."
     },
     {
-      "title": "Dự án siêu cảng Cần Giờ 128.873 tỷ đồng khởi công tháng 10",
+      "title": "Siêu cảng Cần Giờ 128.873 tỷ đồng khởi công tháng 10",
       "impact": "↑",
-      "note": "Cảng trung chuyển quốc tế Cần Giờ khởi công tháng 10/2026 với liên danh VIMC-Cảng Sài Gòn-Terminal Investment Limited (MSC), tổng vốn 128.873 tỷ đồng (gần 5 tỷ USD), diện tích 571 ha, là dự án cảng biển quy mô lớn nhất từng được chấp thuận tại Việt Nam."
+      "note": "Dự án Cảng trung chuyển quốc tế Cần Giờ khởi công tháng 10/2026 (liên danh VIMC-Cảng Sài Gòn-MSC Thụy Sĩ), tổng vốn 128.873 tỷ đồng (gần 5 tỷ USD), diện tích 571 ha — siêu công trình lớn nhất từng được chấp thuận đầu tư tại Việt Nam."
+    },
+    {
+      "title": "Lãi suất huy động chấm dứt tăng, bắt đầu giảm từ tháng 10",
+      "impact": "↑",
+      "note": "Chuỗi tăng lãi suất tiết kiệm 11 tháng liên tiếp chấm dứt, hàng loạt ngân hàng giảm lãi suất tối thiểu 0,5 điểm % theo chỉ đạo NHNN. Dự báo lãi suất sẽ đi ngang đến hết năm, giảm dần từ 2027 — hỗ trợ chi phí vay doanh nghiệp."
     },
     {
       "title": "OCB tăng trưởng lợi nhuận 20% sau 9 tháng",
       "impact": "↑",
-      "note": "OCB báo lợi nhuận quý III 1.653 tỷ đồng (+7,5% so cùng kỳ), lũy kế 9 tháng đạt 4.123 tỷ đồng (+20%); thu thuần dịch vụ quý III tăng 62,3%, thu từ lãi tăng 14,2% lên 2.768 tỷ đồng."
+      "note": "OCB báo lợi nhuận lũy kế 9 tháng 4.123 tỷ đồng (+20%), quý 3 lợi nhuận 1.653 tỷ đồng (+7,5%). Thu thuần dịch vụ quý 3 tăng 62,3%, thu từ lãi 2.768 tỷ đồng (+14,2%) — đa dạng hóa thu nhập hiệu quả."
     },
     {
-      "title": "Giá vàng giảm 2,1 triệu đồng/lượng trong 2 tuần, chạm đáy 2 tháng",
-      "impact": "↓",
-      "note": "Vàng miếng SJC giảm liên tiếp trong 2 tuần (12-24/10) tổng cộng 2,1 triệu đồng/lượng, hôm 26/10 ở 138,7-141,7 triệu đồng/lượng, mức thấp nhất 2 tháng qua; phản ánh tâm lý nhà đầu tư chuyển dịch từ an toàn sang tìm kiếm rủi ro."
-    },
-    {
-      "title": "Chính phủ bố trí 0,1% GDP hàng năm cho nhân tài công nghệ",
+      "title": "Chính phủ cấp 0,1% GDP/năm cho nhân tài công nghệ",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính bố trí 0,1% GDP mỗi năm trong ngân sách khoa học, công nghệ và chuyển đổi số; phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính bố trí ~0,1% GDP mỗi năm trong ngân sách khoa học, công nghệ và chuyển đổi số. Mục tiêu 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
     },
     {
-      "title": "NDN báo lỗ 10 tỷ đồng quý 3 do thị trường giảm giá",
+      "title": "Tự doanh CTCK bán ròng mạnh nhất 11 phiên",
       "impact": "↓",
-      "note": "NDN đảo chiều từ lãi 71 tỷ sang lỗ 10 tỷ đồng quý III 2026; doanh thu giảm 19%, chi phí tài chính tăng 92% lên 26 tỷ đồng do biến động tiêu cực thị trường chứng khoán làm giảm hiệu quả danh mục."
+      "note": "Tự doanh CTCK bán ròng mạnh nhất EIB (-193 tỷ đồng), tiếp VCB (-41 tỷ), GEX (-25 tỷ), MSN (-23 tỷ), MBB (-22 tỷ). Phiên chiều áp lực hạ giá tăng 18,3%, 421 mã giảm, 258 mã tăng, thanh khoản HoSE 11,8 ngàn tỷ đồng."
     }
   ]
 }
