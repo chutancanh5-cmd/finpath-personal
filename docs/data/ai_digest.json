@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng trưởng mạnh (GDP quý 3 tăng 9,95%, doanh thu doanh nghiệp tăng 23,5%, lợi nhuận tăng 38,2%) với các chính sách tích cực bao gồm siêu dự án cảng 128.873 tỷ đồng (gần 5 tỷ USD) khởi công tháng 10/2026, mục tiêu tăng trưởng GDP 10%+ giai đoạn 2026-2030, và quỹ nhân tài dành 0,1% GDP/năm cho 1.000 nhân tài đến 2030. Tuy nhiên, 70% cổ phiếu vẫn giảm giá từ đầu năm bất chấp lợi nhuận doanh nghiệp tăng tốc, kèm rủi ro từ khủng hoảng thị trường Trung Quốc (mất 3,5 nghìn tỷ USD vốn hóa) tạo áp lực tâm lý ngắn hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán hôm nay chịu áp lực điều chỉnh với khối ngoại bán ròng mạnh nhất trong 11 phiên và VN-Index lùi dưới mốc tham chiếu, phản ánh lo ngại của nhà đầu tư nước ngoài. Tuy nhiên, các tín hiệu chính sách vĩ mô lại khá tích cực khi Chính phủ khởi công siêu cảng Cần Giờ 5 tỷ USD và cam kết dành 0,1% GDP hàng năm cho nhân tài trong lĩnh vực AI, bán dẫn. Mục tiêu tăng trưởng GDP từ 10% trở lên 2026-2030 yêu cầu huy động 280-300 tỷ USD/năm, trong đó khu vực tư nhân phải đóng góp lớn, mở ra cơ hội cho thị trường vốn dù hiện tại còn chịu áp lực kỹ thuật ngắn hạn.",
   "top": [
     {
-      "title": "70% cổ phiếu giảm dù GDP quý 3 tăng 9,95% và lợi nhuận tăng 38%",
+      "title": "Khối ngoại bán ròng mạnh nhất 11 phiên",
       "impact": "↓",
-      "note": "Thống kê 330 cổ phiếu có khối lượng 50.000 cổ phiếu/phiên cho thấy 70% giảm giá từ đầu 2026, trong đó 41% mất trên 20% giá trị; cùng kỳ kinh tế tăng mạnh với GDP Q3 tăng 9,95%, doanh thu quý 1/2026 tăng 23,5%, lợi nhuận tăng 38,2%, nhưng chỉ số tăng do phụ thuộc nhóm vốn hóa lớn như Vingroup."
+      "note": "Khối ngoại bán ròng với thanh khoản phiên chiều tăng 18,3% so với sáng. Áp lực hạ giá bán mạnh lên từ 15h, kéo theo các cổ phiếu blue-chips như VIC trả lại biên độ 1,09%, BID mất 1,46%, SSB rơi 4,5%, cho thấy sự lo ngại của nhà đầu tư nước ngoài."
     },
     {
-      "title": "Khởi công siêu cảng Cần Giờ 128.873 tỷ đồng (gần 5 tỷ USD)",
-      "impact": "↑",
-      "note": "Cảng trung chuyển quốc tế Cần Giờ tổng vốn 128.873 tỷ đồng, liên danh VIMC - Cảng Sài Gòn - Terminal Investment Limited Holding S.A (MSC Thụy Sĩ), diện tích 571 ha; Chủ tịch UBND TP.HCM quyết tâm ấn định thời điểm khởi công trong tháng 10/2026."
-    },
-    {
-      "title": "Chứng khoán Trung Quốc mất 3,5 nghìn tỷ USD trong 5 tháng",
+      "title": "VN-Index giảm 1,37 điểm, độ rộng bị áp lực",
       "impact": "↓",
-      "note": "Thị trường chứng khoán Trung Quốc mất 3,5 nghìn tỷ USD giá trị vốn hóa so với mức đỉnh tháng 5/2026; CSI 300 rơi vào thị trường đầu cơ giá xuống do nhu cầu tiêu dùng ảm đạm kéo dài, cuộc đua giảm giá giữa doanh nghiệp tổn hại lợi nhuận ngân hàng, ô tô điện, AI."
+      "note": "VN-Index lùi về dưới mốc tham chiếu, giảm 1,37 điểm (-0,08%) dừng tại 1.772,78 điểm; HNX-Index giảm 0,33% xuống 261,84 điểm. Độ rộng thị trường nghiêng về bên bán với 356 mã giảm, 235 mã tăng. VN30 có 25 mã tụt giá so với phiên sáng, đóng cửa giảm 0,92%."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài đến 2030",
+      "title": "Việt Nam khởi công siêu cảng quốc tế Cần Giờ",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10/2026 yêu cầu Bộ Tài chính xây dựng cơ chế bố trí khoảng 0,1% GDP mỗi năm; mục tiêu thu hút, trọng dụng khoảng 1.000 nhân tài quốc gia đến 2030, ưu tiên AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "note": "Dự án cảng quốc tế Cần Giờ có vốn đầu tư 128.873 tỷ đồng (gần 5 tỷ USD), diện tích 571 ha, liên danh VIMC-Cảng Sài Gòn-MSC (Thụy Sĩ). Quyết định khởi công tháng 10/2026 được chính phủ ưu tiên, thể hiện cam kết kích thích tăng trưởng thông qua cơ sở hạ tầng và thu hút FDI."
     },
     {
-      "title": "Nhu cầu vốn 280-300 tỷ USD/năm cho tăng trưởng GDP 10%+ giai đoạn 2026-2030",
+      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài",
       "impact": "↑",
-      "note": "Để đạt tăng trưởng GDP bình quân 10% trở lên năm 2026-2030, Việt Nam cần duy trì tốc độ tăng vốn đầu tư 13-15%/năm, nhu cầu tổng cộng 280-300 tỷ USD/năm; ngân sách nhà nước dự kiến đáp ứng khoảng 22%, phần còn lại phải huy động từ tư nhân."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế huy động khoảng 0,1% GDP mỗi năm để thu hút 1.000 nhân tài quốc gia đến năm 2030, tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu—công nghệ chiến lược giúp tăng trưởng dài hạn."
     },
     {
-      "title": "NDN lỗ 10 tỷ quý 3/2026 do dự phòng chứng khoán tăng",
-      "impact": "↓",
-      "note": "CTCP Đầu tư Phát triển Nhà Đà Nẵng lỗ 10 tỷ đồng quý 3/2026 (so với lãi 71 tỷ quý 3/2025) do danh mục chứng khoán biến động tiêu cực, chi phí tài chính tăng 92% lên 26 tỷ; danh mục phình 72% thành 668 tỷ đồng, dự phòng 51 tỷ đồng."
+      "title": "Mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030",
+      "impact": "↑",
+      "note": "Để đạt tăng trưởng bình quân 10% trở lên, Việt Nam cần duy trì tốc độ tăng vốn đầu tư 13-15%/năm. Tổng nhu cầu vốn ước tính 280-300 tỷ USD/năm, trong đó ngân sách nhà nước chỉ đáp ứng 22%, phần còn lại từ khu vực tư nhân và FDI—thúc đẩy phát triển thị trường vốn dài hạn."
+    },
+    {
+      "title": "Lãi suất huy động bắt đầu giảm theo chỉ đạo NHNN",
+      "impact": "→",
+      "note": "Chuỗi tăng lãi suất tiết kiệm 11 tháng liên tiếp có dấu hiệu chấm dứt khi hàng loạt ngân hàng giảm lãi suất huy động tối thiểu 0,5 điểm phần trăm theo công văn 21/10/2026 của NHNN. Mặt bằng lãi suất dự báo đi ngang đến hết năm, giảm dần từ 2027 để hỗ trợ tăng trưởng kinh tế."
     }
   ]
 }
