@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận phiên điều chỉnh với VN-Index giảm 10,6 điểm (-0,6%) khi khối ngoại bán ròng gần 900 tỷ đồng, áp lực bán tập trung vào nhóm ngân hàng và các cổ phiếu vốn hóa lớn. Tuy nhiên, tích cực nhất là sự khởi công siêu dự án cảng biển 5 tỷ USD với sự hợp tác của MSC, đồng thời chính phủ cam kết dành 0,1% GDP cho nhân tài công nghệ hàng năm. Các hoạt động kinh doanh cơ bản như OCB vẫn duy trì tăng trưởng lợi nhuận 20%, nhưng rủi ro ngắn hạn từ áp lực bán khối ngoại vẫn là yếu tố không thể bỏ qua.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán hôm nay ghi nhận sắc đỏ khi khối ngoại bán ròng gần 900 tỷ đồng, VN-Index giảm 0,6% sau 3 phiên tăng liên tiếp. Tuy nhiên, các tín hiệu vĩ mô lạc quan với TP.HCM nhắm hút 19 tỷ USD FDI, dự án cảng Cần Giờ vốn 128.873 tỷ đồng sắp khởi công, và Chính phủ dành 0,1% GDP mỗi năm cho nhân tài AI, bán dẫn. Ngân hàng OCB tăng lợi nhuận 20% trong 9 tháng, nhưng áp lực bán từ khối ngoại vẫn là rủi ro ngắn hạn cần theo dõi.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 900 tỷ, VN-Index giảm 10,6 điểm",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 900 tỷ đồng trên HoSE ngày 26/10, khiến VN-Index giảm 10,6 điểm xuống 1.763,55 điểm, đứt chuỗi 3 phiên tăng liên tiếp. Nhóm ngân hàng (VCB, TCB, MBB, HDB, SHB) và bất động sản chịu áp lực bán mạnh, EIB giảm gần 4%."
+      "title": "TP.HCM đặt mục tiêu hút 19 tỷ USD vốn FDI",
+      "impact": "↑",
+      "note": "TP.HCM hướng tới xây dựng hệ sinh thái kết nối FDI, công nghệ, tài chính và hạ tầng tại diễn đàn CEO 500 ngày 26/10, nhằm chuyển cơ hội hợp tác quốc tế thành dự án cụ thể, tạo động lực tăng trưởng mới cho kinh tế."
     },
     {
-      "title": "Việt Nam khởi công siêu cảng Cần Giờ 128.873 tỷ đồng với MSC",
+      "title": "Khởi công siêu cảng Cần Giờ vốn 128.873 tỷ đồng (gần 5 tỷ USD)",
       "impact": "↑",
-      "note": "Dự án Cảng trung chuyển quốc tế Cần Giờ khởi công tháng 10/2026, liên danh VIMC-Cảng Sài Gòn-Terminal Investment Limited (MSC Thụy Sĩ), tổng vốn 128.873 tỷ đồng (gần 5 tỷ USD), diện tích 571 ha. Siêu công trình lớn nhất từng được chấp thuận đầu tư tại Việt Nam."
+      "note": "Dự án Cảng trung chuyển quốc tế Cần Giờ khởi công tháng 10/2026, liên danh VIMC, Cảng Sài Gòn và MSC (Thụy Sĩ), tổng vốn 128.873 tỷ đồng, diện tích 571 ha, là dự án cảng biển quy mô nhất từng được chấp thuận đầu tư tại Việt Nam."
+    },
+    {
+      "title": "Khối ngoại bán ròng gần 900 tỷ đồng, VN-Index giảm 0,6%",
+      "impact": "↓",
+      "note": "VN-Index giảm 10,6 điểm xuống 1.763,55 điểm sau 3 phiên tăng, khối ngoại bán ròng gần 900 tỷ đồng trên HoSE, nhóm ngân hàng (VCB, TCB, MBB, HDB) chịu áp lực, 203 mã giảm, 106 mã tăng, thanh khoản 13.530 tỷ đồng."
     },
     {
       "title": "OCB tăng trưởng lợi nhuận 20% sau 9 tháng",
       "impact": "↑",
-      "note": "Ngân hàng OCB báo lợi nhuận lũy kế 9 tháng 4.123 tỷ đồng, tăng hơn 20% so với cùng kỳ; quý 3 lợi nhuận 1.653 tỷ đồng (+7,5%), thu thuần từ lãi 2.768 tỷ đồng (+14,2%), thu dịch vụ tăng 62,3%."
+      "note": "OCB lợi nhuận quý 3/2026 đạt 1.653 tỷ đồng (+7,5% YoY), lũy kế 9 tháng 4.123 tỷ đồng (+20% YoY); thu thuần 3.291 tỷ đồng (+12,3%), thu từ lãi +14,2%, dịch vụ +62,3%, phản ánh sức khỏe hoạt động cốt lõi của ngân hàng."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài công nghệ",
+      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP (23/10) giao Bộ Tài chính bố trí khoảng 0,1% GDP mỗi năm trong ngân sách khoa học, công nghệ, đổi mới sáng tạo. Mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 bố trí ngân sách 0,1% GDP mỗi năm cho nhân tài, phấn đấu 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược, hỗ trợ chuyển đổi số."
     },
     {
-      "title": "KDH bị loại khỏi rổ chỉ số VNDIAMOND",
+      "title": "Tự doanh CTCK bán ròng 225 tỷ đồng trong phiên 26/10",
       "impact": "↓",
-      "note": "Theo dự báo Yuanta, trong cơ cấu chỉ số VNDIAMOND tháng 10/2026, cổ phiếu KDH sẽ bị loại khỏi rổ 18 mã (còn 17), không có mã mới bổ sung. Các ứng viên gần nhất đạt tỷ lệ sở hữu nước ngoài 95% là HCM (68,8%) và VCB (68,6%)."
-    },
-    {
-      "title": "NDN báo lỗ 10 tỷ do thị trường chứng khoán yếu",
-      "impact": "↓",
-      "note": "CTCP Đầu tư Phát triển Nhà Đà Nẵng lỗ 10 tỷ đồng quý 3/2026 (so với lãi 71 tỷ cùng kỳ năm ngoái), do danh mục chứng khoán giảm giá, chi phí tài chính tăng 92% lên 26 tỷ đồng. Lũy kế 9 tháng lợi nhuận chỉ 15 tỷ đồng, giảm 89%."
+      "note": "Tự doanh CTCK bán ròng 225 tỷ đồng trên HOSE, tập trung vào EIB (-193 tỷ), VCB (-41 tỷ), GEX (-25 tỷ), MSN (-23 tỷ), MBB (-22 tỷ đồng), cho thấy áp lực bán từ nhà đầu tư nội địa trên cổ phiếu vốn hóa lớn."
     }
   ]
 }
