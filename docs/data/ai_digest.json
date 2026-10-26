@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán phục hồi mạnh (+4% tuần, VN-Index 1.774,15 điểm) khi kỳ vọng Fed giữ lãi suất ổn định thúc đẩy dòng tiền nội. Chính phủ rõ ràng mục tiêu tăng trưởng GDP 10%+/năm giai đoạn 2026-2030, cần huy động 280-300 tỷ USD vốn đầu tư hàng năm trong đó ngân sách chỉ đáp ứng 22%, tạo cơ hội lớn cho khu vực tư nhân và đầu tư nước ngoài. Tuy giá xăng dầu toàn cầu tăng 65-90%, Chính phủ kiểm soát tốt CPI và giá dầu-điện nội địa; song chênh lệch tín dụng-huy động lớn sẽ tạo áp lực lãi suất năm 2027.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán hồi phục mạnh với VN-Index tăng 4% trong tuần, phản ánh kỳ vọng lãi suất đạt đỉnh. Chính phủ điều chỉnh chính sách tiền tệ (giảm lãi suất huy động) và tài chính (đầu tư công nghệ, huy động vốn quốc tế) để hỗ trợ tăng trưởng GDP từ 10% trở lên. Tuy nhiên, áp lực từ giá xăng dầu thế giới tăng 65-90% và thâm hụt huy động so với tín dụng vẫn là những rủi ro ngắn hạn cần giám sát, khó giảm lãi suất sâu trong năm 2027.",
   "top": [
     {
       "title": "VN-Index phục hồi +4% tuần 19-23/10, lấy lại mất mát tháng 10",
       "impact": "↑",
-      "note": "VN-Index tăng 68,24 điểm (từ 1.705,91 lên 1.774,15 điểm), lấy lại toàn bộ mất mát từ đầu tháng 10 (-10,34 điểm); thanh khoản tăng +18,3% lên 17.260 tỷ đồng bình quân; khối ngoại bán ròng 1.104 tỷ đồng. Fed giữ nguyên lãi suất 90% khả năng trong cuộc họp 2 ngày tới."
+      "note": "VN-Index tăng 68,24 điểm lên 1.774,15 điểm, lấy lại toàn bộ mất mát từ đầu tháng 10; thanh khoản tăng +18,3% lên 17.260 tỷ đồng bình quân; kỳ vọng Fed giữ nguyên lãi suất 90% khả năng thúc đẩy dòng tiền nội."
     },
     {
-      "title": "Mục tiêu tăng trưởng GDP 10%+ năm 2027 cần 280-300 tỷ USD vốn đầu tư hàng năm",
+      "title": "Mục tiêu tăng trưởng GDP 10%+ giai đoạn 2026-2030 cần 280-300 tỷ USD vốn đầu tư hàng năm",
       "impact": "↑",
-      "note": "Theo TS Cấn Văn Lực (BIDV), Việt Nam cần duy trì tốc độ tăng vốn đầu tư toàn xã hội 13-15%/năm; ngân sách nhà nước dự kiến chỉ đáp ứng 22% nhu cầu vốn, phần còn lại phải huy động từ khu vực tư nhân trong nước và vốn nước ngoài; yếu tố vốn đóng góp 40-42% vào tăng trưởng kinh tế."
+      "note": "Việt Nam cần tăng vốn đầu tư toàn xã hội 13-15% mỗi năm; ngân sách nhà nước chỉ đáp ứng 22% nhu cầu vốn, phần còn lại từ khu vực tư nhân trong nước và vốn nước ngoài; yếu tố vốn đóng góp 40-42% vào tăng trưởng kinh tế."
     },
     {
       "title": "SHB phát hành trái phiếu 229 triệu SGD tại Singapore — giao dịch đầu tiên ngân hàng Việt Nam",
       "impact": "↑",
-      "note": "SHS đóng vai trò Điều phối trong nước thương vụ phát hành trái phiếu quốc tế 229 triệu đô la Singapore của SHB; giao dịch mở rộng tiếp cận nhà đầu tư quốc tế tại Singapore (trung tâm tài chính hàng đầu khu vực), đánh dấu bước tiến trong hành trình huy động vốn quốc tế."
+      "note": "SHB thực hiện giao dịch phát hành trái phiếu quốc tế 229 triệu đô la Singapore tại Singapore; giao dịch mở rộng tiếp cận nhà đầu tư quốc tế tại trung tâm tài chính hàng đầu khu vực, đánh dấu bước tiến trong hành trình huy động vốn quốc tế."
     },
     {
       "title": "Chính phủ cấp 0,1% GDP/năm cho nhân tài, phấn đấu 1.000 nhân tài quốc gia đến 2030",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 bố trí khoảng 0,1% GDP mỗi năm trong ngân sách khoa học công nghệ; hướng tới 1.000 nhân tài quốc gia đến 2030 ở AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược hỗ trợ chuyển đổi số và mục tiêu tăng trưởng dài hạn."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 bố trí khoảng 0,1% GDP mỗi năm trong ngân sách khoa học công nghệ; hướng tới 1.000 nhân tài quốc gia đến 2030 ở AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược hỗ trợ chuyển đổi số."
     },
     {
-      "title": "Lạm phát toàn cầu: giá xăng dầu thế giới +65-90%, Chính phủ kiểm soát tốt CPI nội địa",
-      "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng báo cáo 18/10: giá xăng dầu thế giới tăng 65-90%; nếu không can thiệp, giá dầu nội địa có thể tăng 80%. Chính phủ bảo đảm nguồn cung, giữ giá xăng dầu và không tăng điện để kiểm soát CPI 9 tháng đầu năm thành công, bảo vệ thành quả tăng trưởng."
+      "title": "Lạm phát toàn cầu: giá xăng dầu thế giới +65-90%, Chính phủ kiểm soát CPI nội địa",
+      "impact": "↓",
+      "note": "Giá xăng dầu thế giới tăng 65-90%; nếu không can thiệp, giá dầu nội địa có thể tăng 80%. Chính phủ bảo đảm nguồn cung, giữ giá xăng dầu trong nước ở mức thấp và không tăng điện để kiểm soát lạm phát; Thủ tướng nhấn mạnh: lạm phát tăng sẽ xói mòn thành quả tăng trưởng."
     },
     {
       "title": "Chênh lệch tín dụng-huy động lớn: lãi suất huy động khó giảm sâu năm 2027",
       "impact": "→",
-      "note": "Công văn 9608/NHNN-CSTT (19-20/10) quy định chế tài: tổ chức tín dụng không tuân thủ bị xem xét chỉ tiêu tín dụng 2026 hoặc giao chỉ tiêu thấp 2027. 19 ngân hàng đã giảm 0,5%/năm (19-20/10); VDSC kỳ vọng lãi suất huy động giảm nhanh ngắn hạn nhưng khó giảm sâu 2027 do thâm hụt huy động so với tín dụng vẫn lớn."
+      "note": "Công văn 9608/NHNN-CSTT quy định chế tài: tổ chức tín dụng không tuân thủ bị xem xét chỉ tiêu tín dụng 2026 hoặc giao chỉ tiêu thấp 2027. 19 ngân hàng đã giảm lãi suất 0,5% mỗi năm; dự báo lãi suất huy động giảm nhanh ngắn hạn nhưng khó giảm sâu 2027 do thâm hụt huy động so với tín dụng vẫn lớn."
     }
   ]
 }
