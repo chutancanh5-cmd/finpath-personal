@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi mạnh với VN-Index hướng tới vùng kháng cự 1800 điểm, được hỗ trợ bởi triển vọng dòng vốn ngoại lạc quan về nâng hạng MSCI (10 tỷ USD tiềm năng) và chính sách hỗ trợ từ Chính phủ (kiểm soát lạm phát, đầu tư nhân tài công nghệ 0,1% GDP/năm). Hà Nội đặt mục tiêu GRDP tăng 11%+ và Chính phủ hướng tới GDP 2027 từ 10% trở lên. Tuy nhiên, rủi ro hệ thống gia tăng khi tỷ lệ margin/vốn hóa lập kỷ lục 5,1%.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tín hiệu tích cực với VN-Index tăng 4% trong tuần và khả năng hấp dẫn dòng vốn ngoại qua tiềm năng nâng hạng MSCI (10 tỷ USD). Chính phủ ưu tiên đầu tư vào nhân tài công nghệ (0.1% GDP/năm, 1,000 nhân tài tới 2030) và kiểm soát lạm phát hiệu quả dù xăng dầu thế giới tăng 65-90%. Tuy nhiên, dư nợ cho vay lập kỷ lục với tỷ lệ margin/vốn hóa 5.1% là rủi ro cần lưu ý ngắn hạn.",
   "top": [
     {
-      "title": "SSI dự báo 10 tỷ USD chảy vào thị trường khi nâng hạng MSCI",
+      "title": "Chính phủ dành 0.1% GDP mỗi năm cho nhân tài công nghệ",
       "impact": "↑",
-      "note": "Giám đốc Phân tích SSI dự báo nếu Việt Nam chiếm tỷ trọng 0,5% danh mục nâng hạng MSCI, dòng vốn tiềm năng khoảng 10 tỷ USD (tỷ trọng thực tế có thể cao hơn). Điều quan trọng là tháo gỡ điểm nghẽn free-float: Petrolimex (PLX) đã giải quyết một phần, Masan High-Tech Materials (MSR) tăng free-float sau thoái vốn, các công ty PVN có kế hoạch cụ thể 2027."
+      "note": "Nghị quyết 336/NQ-CP (23/10) bố trí ngân sách khoảng 0.1% GDP mỗi năm. Phấn đấu thu hút 1,000 nhân tài quốc gia tới năm 2030, ưu tiên AI, bán dẫn, lượng tử, khoa học dữ liệu. Tạo đà tăng trưởng dài hạn qua đổi mới sáng tạo."
     },
     {
-      "title": "Dư nợ margin lập kỷ lục 5,1% vốn hóa, 455 nghìn tỷ đồng",
+      "title": "Tiềm năng 10 tỷ USD dòng vốn từ nâng hạng MSCI",
+      "impact": "↑",
+      "note": "Nếu Việt Nam chiếm tỷ trọng 0.5%, dòng vốn tiềm năng 10 tỷ USD. Tăng trưởng free-float: PLX giải quyết vấn đề, BSR, PVN có kế hoạch 2027, MSR tăng sau khi Masan thoái vốn. Sở hữu nước ngoài hiệu dụng cải thiện qua từng năm."
+    },
+    {
+      "title": "Kiểm soát lạm phát dù xăng dầu thế giới tăng 65-90%",
+      "impact": "↑",
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ dùng biện pháp giữ giá xăng dầu, điện ở mức thấp trong nước. Thủ tướng nhấn mạnh CPI 9 tháng được kiểm soát tốt, hướng tới mục tiêu GDP tăng từ 10% trở lên năm 2027."
+    },
+    {
+      "title": "VN-Index hồi phục mạnh tăng 4% trong tuần lên 1,774 điểm",
+      "impact": "↑",
+      "note": "Tuần 19-23/10, VN-Index tăng 68 điểm (4%), ngày 21/10 tăng 2.8% (46.7 điểm) với lan tỏa tốt và thanh khoản mạnh. VN-Index tiến sát vùng kháng cự 1,775-1,800. Kết quả Q3 tốt hỗ trợ định giá cổ phiếu hấp dẫn."
+    },
+    {
+      "title": "Dư nợ CTCK lập đỉnh 455.000 tỷ, tỷ lệ margin/vốn hóa 5.1%",
       "impact": "↓",
-      "note": "Dư nợ cho vay tại các CTCK (margin + ứng trước tiền bán) ước đạt 455 nghìn tỷ đồng cuối Q3/2026, tăng 10 nghìn tỷ đồng so với Q2, tỷ lệ so với vốn hóa hai sàn 5,1% — mức cao nhất trong lịch sử. So sánh: 1,5% cuối 2017, 3,1% cuối 2021. Rủi ro thanh khoản và buộc bán nếu điều chỉnh."
+      "note": "Tỷ lệ margin/vốn hóa thị trường 5.1% là mức cao nhất lịch sử. Dư nợ cho vay CTCK ước 455.000 tỷ đồng cuối Q3/2026, tăng 10.000 tỷ so với Q2, trong khi vốn hóa giảm 248.000 tỷ. Rủi ro đòn bẩy cao khi thanh khoản thị trường còn yếu."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài công nghệ",
-      "impact": "↑",
-      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP ngày 23/10, bố trí ~0,1% GDP mỗi năm trong ngân sách khoa học, công nghệ, chuyển đổi số để thu hút nhân tài. Phấn đấu 1,000 nhân tài quốc gia đến 2030, tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược. Bộ KHCN xác định ngành mũi nhọn, dự án trọng điểm, bài toán lớn cần giải quyết."
-    },
-    {
-      "title": "VN-Index hồi phục mạnh hướng tới 1800 điểm",
-      "impact": "↑",
-      "note": "VN-Index tiếp tục đà tăng mạnh với thanh khoản cải thiện vượt mức trung bình 20 phiên, vượt vùng kháng cự Kijun và mây Span B. RSI đi lên kiểm định vùng đỉnh, MACD giao cắt lên tín hiệu, histogram chuyển dương. Vùng hỗ trợ 1760-1770, kháng cự 1780-1790, mục tiêu 1800 điểm. Lực cầu phản ứng tích cực quanh 1750."
-    },
-    {
-      "title": "Hà Nội kiên trì GRDP tăng 11%+ cả năm 2026",
-      "impact": "↑",
-      "note": "Chủ tịch UBND thành phố ký kế hoạch 411/KH-UBND ngày 22/10, triển khai Nghị quyết 32-NQ/TU Ban Chấp hành Đảng bộ Hà Nội khóa XVIII. Kiên trì mục tiêu tăng trưởng GRDP cả năm từ 11% trở lên, gắn cơ chế chính sách đặc thù, chuyển hóa nguồn lực đất đai, đầu tư, khoa học công nghệ."
-    },
-    {
-      "title": "Chính phủ kiểm soát lạm phát khi xăng dầu tăng 65-90%",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh kiểm soát CPI trong 9 tháng đầu năm khi giá xăng dầu thế giới tăng 65-90%. Chính phủ triển khai giải pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện. Hướng tới GDP tăng từ 10% trở lên năm 2027 để người dân được hưởng thực tế từ tăng trưởng."
+      "title": "Giá vàng giảm 2.1 triệu đồng/lượng trong 2 tuần, chạm đáy 2 tháng",
+      "impact": "↓",
+      "note": "Giá vàng SJC giảm tổng 2.1 triệu đồng/lượng tuần 12-24/10, từ ~140.7 xuống 138.7 triệu đồng/lượng (mua). Giá vàng thế giới giảm 4% trong tuần, thấp nhất 3 tháng. Brent tăng 6% căng thẳng Vùng Vịnh nhưng không giúp vàng tránh giảm sâu."
     }
   ]
 }
