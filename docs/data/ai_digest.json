@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường được hỗ trợ bởi kỳ vọng 'lãi suất đạt đỉnh - chứng khoán tạo đáy' khi Fed giữ lãi suất ở mức cao (90% khả năng), dẫn VN-Index phục hồi +68,24 điểm (+4%) tuần trước. Chính phủ đặt mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030 với nhu cầu vốn 280-300 tỷ USD/năm, trong đó ngân sách nhà nước chỉ đáp ứng 22%, mở ra cơ hội to lớn cho thị trường vốn trung dài hạn. Tuy nhiên, thị trường đang điều chỉnh ngắn hạn sau nhịp tăng, với 356 mã giảm, VN-Index dừng 1.772,78 điểm dưới vùng kháng cự 1.800. Chính phủ tăng cường đầu tư vào công nghệ với 0,1% GDP/năm cho nhân tài, hướng tới tuyển 1.000 nhân tài quốc gia cho AI, bán dẫn, lượng tử.",
+  "summary_vi": "Chính phủ kiểm soát lạm phát hiệu quả khi giữ giá xăng dầu/điện ổn định dù giá thế giới tăng 65-90%, tạo nền tảng cho mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030 với nhu cầu vốn 280-300 tỷ USD/năm. Chính sách đầu tư 0,1% GDP vào công nghệ cao (AI, bán dẫn, lượng tử) và cơ hội huy động vốn quốc tế (SHB phát hành trái phiếu 229 triệu SGD tại Singapore) đều khả quan. Ngắn hạn thị trường chờ tín hiệu mạnh trước vùng kháng cự 1.800 điểm, nhưng tín hiệu lãi suất đạt đỉnh với VN-Index tăng 68,24 điểm (+4%) tuần trước tạo bệ đỡ cho dòng tiền.",
   "top": [
     {
-      "title": "Kỳ vọng lãi suất đạt đỉnh - chứng khoán tạo đáy",
+      "title": "Chính phủ kiểm soát lạm phát bằng giữ giá xăng dầu/điện ổn định",
       "impact": "↑",
-      "note": "VN-Index tuần trước tăng +68,24 điểm (+4%), cắt chuỗi 4 tuần giảm liên tiếp. Thị trường lãi suất tương lai đặt cược Fed giữ nguyên lãi suất với 90% khả năng. Thanh khoản toàn thị trường bình quân 17.260 tỷ đồng, tăng +18,3% so với tuần trước, tín hiệu dòng tiền quay lại."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá trong nước ở mức thấp và không tăng giá điện để bảo vệ tăng trưởng kinh tế, kiểm soát CPI trong 9 tháng đầu năm."
     },
     {
-      "title": "Mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030",
+      "title": "Mục tiêu tăng trưởng GDP 10%+ (2026-2030) mở cơ hội đầu tư",
       "impact": "↑",
-      "note": "Nhu cầu vốn đầu tư toàn xã hội ước tính 280-300 tỷ USD/năm, ngân sách nhà nước chỉ đáp ứng 22%, phần còn lại huy động từ khu vực tư nhân trong nước và vốn nước ngoài. Mở cơ hội phát triển thị trường vốn trung dài hạn, tăng nhu cầu phát hành cổ phiếu và trái phiếu."
+      "note": "Nhu cầu vốn đầu tư ước tính 280-300 tỷ USD/năm, ngân sách nhà nước chỉ đáp ứng 22%, phần còn lại huy động từ khu vực tư nhân, mở ra cơ hội to lớn cho thị trường vốn trung dài hạn."
     },
     {
-      "title": "NHNN hạ lãi suất huy động, chuỗi tăng 11 tháng chấm dứt",
-      "impact": "↓",
-      "note": "NHNN ban hành công văn 9736/NHNN-CSTT ngày 21/10/2026 chỉ đạo hạ mặt bằng lãi suất huy động tối thiểu 0,5 điểm phần trăm. Chuỗi tăng 11 tháng liên tiếp dừng lại, lãi suất sẽ đi ngang đến hết năm, giảm từ 2027. Lãi suất tiết kiệm kém hấp dẫn hơn, tăng áp lực để tìm lợi suất ở chứng khoán."
-    },
-    {
-      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài",
+      "title": "Đầu tư 0,1% GDP/năm cho nhân tài trong công nghệ cao",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10/2026 giao Bộ Tài chính bố trí khoảng 0,1% GDP mỗi năm trong ngân sách khoa học, công nghệ, đổi mới sáng tạo. Phấn đấu tuyển khoảng 1.000 nhân tài quốc gia đến 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu."
-    },
-    {
-      "title": "Thị trường điều chỉnh trước vùng kháng cự kỹ thuật",
-      "impact": "↓",
-      "note": "VN-Index giảm 1,37 điểm (-0,08%) xuống 1.772,78 điểm, đứng dưới mốc tham chiếu. Độ rộng thị trường nghiêng về bên bán: 356 mã giảm, 235 mã tăng, 953 mã đứng giá. Dòng tiền chốt lời sau nhịp tăng tuần trước, chờ đợi tín hiệu mạnh hơn trước vùng kháng cự 1.800 điểm."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10/2026 bố trí ngân sách cho AI, bán dẫn, lượng tử, khoa học dữ liệu, phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 giải quyết bài toán chiến lược."
     },
     {
       "title": "SHB phát hành trái phiếu 229 triệu SGD tại Singapore",
       "impact": "↑",
-      "note": "Thương vụ đầu tiên của ngân hàng Việt Nam phát hành trái phiếu tại Singapore, được SHS điều phối. Mở cơ hội huy động vốn tại trung tâm tài chính hàng đầu khu vực, nâng cao uy tín tiếp cận thị trường vốn quốc tế của hệ thống ngân hàng Việt Nam."
+      "note": "Giao dịch đầu tiên của ngân hàng Việt Nam tại thị trường Singapore, được SHS điều phối, mở cơ hội huy động vốn quốc tế tại trung tâm tài chính hàng đầu khu vực."
+    },
+    {
+      "title": "VN-Index tăng 68,24 điểm (+4%), tín hiệu lãi suất đạt đỉnh",
+      "impact": "↑",
+      "note": "VN-Index tăng 68,24 điểm (+4%) tuần trước, cắt chuỗi 4 tuần giảm liên tiếp, thanh khoản tăng 18,3%, Fed giữ lãi suất với 90% khả năng tạo bệ đỡ cho dòng tiền."
+    },
+    {
+      "title": "Thị trường chờ tín hiệu mạnh, dòng tiền thoái lui chốt lời",
+      "impact": "↓",
+      "note": "VN-Index hôm nay giảm 1,37 điểm (-0,08%) xuống 1.772,78 điểm, 356 mã giảm vs 235 mã tăng, dòng tiền chốt lời sau nhịp tăng, chờ tín hiệu mạnh hơn trước vùng kháng cự 1.800 điểm."
     }
   ]
 }
