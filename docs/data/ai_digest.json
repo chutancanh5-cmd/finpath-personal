@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "VN-Index tăng 4% trong tuần nhưng khối ngoại bán ròng 1.000 tỷ đồng; margin/vốn hóa lên kỷ lục 5,1% cảnh báo rủi ro ngắn hạn. Tích cực là tiềm năng 10 tỷ USD chảy vào nếu Việt Nam nâng hạng MSCI (giải quyết vấn đề free-float), kết hợp chính sách vĩ mô tích cực: GRDP Hà Nội 11%, đầu tư 0,1% GDP cho nhân tài cao cấp. Áp lực từ giá xăng dầu thế giới tăng 65-90% được Chính phủ kiểm soát bằng các biện pháp hỗ trợ, tuy vẫn đặt thách thức cho lạm phát.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi mạnh với VN-Index tăng 4% trong tuần, chấm dứt chuỗi 5 tuần giảm liên tiếp. Chính phủ đặt mục tiêu tăng trưởng GDP từ 10% trở lên giai đoạn 2026-2030, tạo nhu cầu vốn 280-300 tỷ USD/năm từ khu vực tư nhân và nước ngoài. Điều kiện nâng hạng MSCI đang cải thiện, kỳ vọng 10 tỷ USD vốn ngoại chảy vào. Tuy nhiên, tỷ lệ margin lập kỷ lục 5,1% và lãi suất khó giảm sâu năm 2027 là những rủi ro cần lưu ý.",
   "top": [
     {
-      "title": "VN-Index tăng 4% nhưng khối ngoại bán ròng 1.000 tỷ",
-      "impact": "→",
-      "note": "VN-Index tuần 43 tăng 68,24 điểm (+4,00%) lên 1.774,15 điểm, chấm dứt chuỗi 5 tuần giảm; bất động sản đóng góp ròng 35,6 điểm (VIC +27,5 điểm, VHM +4,5 điểm), ngân hàng +16,8 điểm. Thanh khoản bình quân 14.654 tỷ đồng/phiên (+19,52%). Khối ngoại bán ròng hơn 1.000 tỷ đồng trong tuần."
-    },
-    {
-      "title": "Tiềm năng 10 tỷ USD vào chứng khoán nếu nâng hạng MSCI",
+      "title": "VN-Index tăng 4% sau 5 tuần giảm liên tiếp",
       "impact": "↑",
-      "note": "SSI Research: nếu Việt Nam chiếm tỷ trọng 0,5% (mức giả định thấp), dòng vốn tiềm năng đạt khoảng 10 tỷ USD. Các vấn đề free-float đang được giải quyết: PLX, BSR, doanh nghiệp PVN có kế hoạch cụ thể cho năm 2027; Masan tăng free-float MSR khi thoái vốn một phần."
+      "note": "VN-Index tăng 68,24 điểm lên 1.774,15 điểm trong tuần 43/2026. Bất động sản đóng góp ròng 35,6 điểm (VIC +27,5 điểm, VHM +4,5 điểm), ngân hàng đóng góp 16,8 điểm. Thanh khoản bình quân 14.654 tỷ đồng/phiên, tăng 19,52% so với tuần trước."
     },
     {
-      "title": "Margin/vốn hóa lập kỷ lục 5,1%, cao nhất lịch sử",
+      "title": "Chính phủ nhắm tăng trưởng GDP 10% giai đoạn 2026-2030",
+      "impact": "↑",
+      "note": "Nhu cầu vốn đầu tư toàn xã hội 280-300 tỷ USD/năm, ngân sách chỉ đáp ứng 22%, phần còn lại từ khu vực tư nhân trong nước và vốn nước ngoài. Yếu tố vốn dự kiến đóng góp 40-42% vào tăng trưởng."
+    },
+    {
+      "title": "MSCI nâng hạng: tiềm năng 10 tỷ USD chảy vào",
+      "impact": "↑",
+      "note": "Nếu Việt Nam chiếm tỷ trọng 0,5%, dòng vốn tiềm năng đạt khoảng 10 tỷ USD. Điều kiện free-float cải thiện: PLX, BSR, doanh nghiệp PVN có kế hoạch cụ thể năm 2027; Masan tăng free-float MSR khi thoái vốn một phần."
+    },
+    {
+      "title": "Công văn 9608 giảm lãi suất huy động, nhưng khó giảm sâu",
+      "impact": "→",
+      "note": "Công văn 9608/NHNN-CSTT áp dụng chế tài cụ thể cho lãi suất. Ít nhất 19 ngân hàng giảm lãi suất huy động 0,5 điểm %/năm trong 2 ngày 19-20/10; tuy nhiên khó giảm sâu năm 2027 do thâm hụt huy động so với tín dụng vẫn lớn."
+    },
+    {
+      "title": "Tỷ lệ margin lập kỷ lục 5,1%, cảnh báo rủi ro",
       "impact": "↓",
-      "note": "Dư nợ cho vay CTCK đạt 455.000 tỷ đồng cuối quý 3/2026 (cao nhất lịch sử), tăng 10.000 tỷ so với quý 2. Tỷ lệ margin/vốn hóa = 5,1% (từ 1,5% năm 2017, 3,1% năm 2021), trong khi vốn hóa thị trường giảm 248.000 tỷ quý 3, tạo cảnh báo rủi ro từ đòn bẩy cao."
-    },
-    {
-      "title": "Chính phủ kiểm soát lạm phát giữa áp lực giá dầu tăng 65-90%",
-      "impact": "→",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; nếu không điều hành, trong nước có thể tăng 80%. Chính phủ bảo đảm cung ứng, giữ giá xăng ở mức thấp khu vực và không tăng giá điện. Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng, hướng tới GDP ≥10% năm 2027."
-    },
-    {
-      "title": "Hà Nội kiên trì mục tiêu tăng trưởng GRDP từ 11% trở lên",
-      "impact": "↑",
-      "note": "UBND Hà Nội ban hành Kế hoạch 411/KH-UBND ngày 22/10 triển khai Nghị quyết 32-NQ/TU ngày 14/10, kiên trì mục tiêu tăng trưởng GRDP cả năm từ 11% trở lên, phát huy cơ chế chính sách đặc thù cho Thủ đô."
+      "note": "Dư nợ cho vay CTCK đạt 455.000 tỷ đồng cuối quý 3/2026 (cao nhất lịch sử), tỷ lệ margin/vốn hóa = 5,1% so với 1,5% năm 2017 và 3,1% năm 2021. Vốn hóa thị trường giảm 248.000 tỷ quý 3, tạo cảnh báo từ đòn bẩy cao."
     },
     {
       "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài công nghệ cao",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính 0,1% GDP/năm cho nhân tài trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược; mục tiêu 1.000 nhân tài quốc gia đến năm 2030."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính 0,1% GDP/năm cho nhân tài trong AI, bán dẫn, lượng tử, khoa học dữ liệu; mục tiêu 1.000 nhân tài quốc gia đến năm 2030."
     }
   ]
 }
