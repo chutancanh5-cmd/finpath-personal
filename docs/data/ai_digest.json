@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-27",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán có tín hiệu hồi phục mạnh với VN-Index tăng 4% trong tuần 19-23/10 nhờ nhóm bất động sản dẫn dòng tiền. Tuy phiên 26/10 chứng kiến khối ngoại bán ròng 877 tỷ đồng khiến VN-Index giảm 10.6 điểm, nhưng các tín hiệu vĩ mô dài hạn vẫn tích cực: TP.HCM quyết hút 19 tỷ USD FDI năm 2026, ngân hàng OCB báo lợi nhuận tăng 20% và Chính phủ dành 0.1% GDP hàng năm cho nhân tài công nghệ.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường diễn biến hỗn hợp: nhóm bất động sản hút dòng tiền mạnh trong tuần trước (VN-Index tăng 4%, thanh khoản +20%), trong khi phiên 26/10 suy yếu với dòng tiền ngoài bán ròng; ngành chứng khoán chịu áp lực sâu từ nhân sự suy giảm (VCK -286 người, doanh thu -23.3%) và môi giới khó khăn, nhưng lợi nhuận ngân hàng mạnh (OCB +20%) và dự án FDI TP.HCM (19 tỷ USD) phần nào bù đắp tâm lý.",
   "top": [
     {
-      "title": "TP.HCM nhắm hút 19 tỷ USD FDI năm 2026",
+      "title": "Cổ phiếu bất động sản hút dòng tiền mạnh",
       "impact": "↑",
-      "note": "TP.HCM đặt mục tiêu thu hút 19 tỷ USD vốn FDI với ưu tiên các dòng chất lượng cao trong tài chính, công nghệ, chuyển đổi số, kinh tế xanh. Xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng để tạo động lực tăng trưởng mới."
+      "note": "Tuần 19-23/10, thanh khoản HOSE tăng 20%+ (716 triệu đơn vị/phiên, 15.8 ngàn tỷ đ/phiên); nhóm bất động sản bùng nổ với SZC, BCM, IJC, NLG, HDC, DXS, EVG tăng khối lượng trên 100%; VN-Index tăng 4% lên 1.774 điểm."
     },
     {
-      "title": "Cổ phiếu bất động sản bùng nổ, VN-Index tăng 4%",
+      "title": "TP.HCM đặt mục tiêu hút 19 tỷ USD FDI năm 2026",
       "impact": "↑",
-      "note": "Tuần 19-23/10, thanh khoản hồi phục mạnh: VN-Index tăng 4% lên 1.774 điểm, HNX-Index tăng 1.4% lên 262.7 điểm. Khối lượng HOSE tăng 20% lên 716 triệu đơn vị/phiên; HNX tăng 30% lên 61 triệu đơn vị/phiên. Nhóm BĐS (SZC, BCM, IJC, NLG, HDC, DXS, EVG) dẫn dòng với khối lượng tăng trên 100%."
+      "note": "TP.HCM ưu tiên dòng vốn FDI chất lượng cao tập trung vào tài chính, công nghệ, chuyển đổi số, kinh tế xanh, phát triển bền vững; xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng."
     },
     {
-      "title": "Khối ngoại bán ròng 877 tỷ đồng, tâm điểm FPT",
+      "title": "VCK mất 286 nhân sự, doanh thu giảm 23.3% Q3",
       "impact": "↓",
-      "note": "Phiên 26/10, khối ngoại bán ròng 877 tỷ đồng (mua 1.189 tỷ, bán 2.065 tỷ); tâm điểm FPT. Tự doanh cũng bán ròng 217 tỷ (mua 551 tỷ, bán 768 tỷ), tâm điểm EIB 193 tỷ. VN-Index giảm 10.6 điểm xuống 1.763,55 điểm; thanh khoản HOSE chỉ 13.5 ngàn tỷ đồng, giảm 20% so phiên trước."
+      "note": "Nhân sự VPS giảm từ 1.921 (cuối Q2) xuống 1.635 (cuối Q3), giảm 286 người (~15% trong 3 tháng); doanh thu hoạt động Q3 giảm 23.3% do thanh khoản thị trường suy yếu."
     },
     {
-      "title": "OCB báo lợi nhuận tăng 20% sau 9 tháng",
-      "impact": "↑",
-      "note": "Ngân hàng OCB lợi nhuận 9 tháng đạt 4.123 tỷ đồng, tăng hơn 20% so cùng kỳ; quý 3/2026 lợi nhuận trước thuế 1.653 tỷ đồng (+7.5%). Tổng thu thuần quý 3 tăng 12.3% lên 3.291 tỷ đồng; thu dịch vụ tăng 62.3% nhờ thanh toán, thẻ, bảo lãnh."
-    },
-    {
-      "title": "Chính phủ dành 0.1% GDP hàng năm cho nhân tài",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP (23/10) bố trí 0.1% GDP mỗi năm cho thu hút, trọng dụng nhân tài quốc gia; phấn đấu tuyển 1.000 nhân tài đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
-    },
-    {
-      "title": "UBCKNN cảnh báo giả mạo website VCBF",
+      "title": "Dòng tiền ngoài bán ròng FPT phiên 26/10",
       "impact": "↓",
-      "note": "Phát hiện website giả https://tai-chinh-dau-tu.luonghabdcc.chatgpt.site sao chép thương hiệu VCBF, hướng dẫn nhà đầu tư mở tài khoản tại https://quytangtruong.com/dashboard để giao dịch, nạp rút tiền. Website chính thức VCBF là https://www.vcbf.com."
+      "note": "Khối ngoại bán ròng 877 tỷ đ với tâm điểm FPT; tự doanh bán ròng 217 tỷ đ (tâm điểm EIB 193 tỷ đ); VN-Index giảm 10.6 điểm xuống 1.763,55 điểm, thanh khoản HOSE 13.5 ngàn tỷ đ, giảm 20% so với phiên thứ sáu tuần trước."
+    },
+    {
+      "title": "OCB tăng lợi nhuận 20% sau 9 tháng",
+      "impact": "↑",
+      "note": "Lợi nhuận lũy kế 9 tháng đạt 4.123 tỷ đ (tăng 20%); Q3 lợi nhuận trước thuế 1.653 tỷ đ (tăng 7.5%); tổng thu thuần tăng 12.3%, thu từ lãi tăng 14.2%, dịch vụ tăng 62.3%."
+    },
+    {
+      "title": "Chính phủ chi 0.1% GDP/năm cho nhân tài",
+      "impact": "↑",
+      "note": "Mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu; ngân sách 0.1% GDP mỗi năm từ nguồn khoa học, công nghệ, đổi mới sáng tạo."
     }
   ]
 }
