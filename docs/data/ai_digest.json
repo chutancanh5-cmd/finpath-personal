@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường nhận tín hiệu tích cực từ Chính phủ kiểm soát lạm phát (xăng dầu +65-90% nhưng giữ giá trong nước thấp), NHNN hạn chế tín dụng (19 NH giảm lãi suất 0,5%/năm), và mục tiêu tăng trưởng GDP 10%+ 2026-2030 cần 280-300 tỷ USD vốn. VN-Index tăng 4% tuần qua với BĐS dẫn đầu. Tuy nhiên, tồn tại rủi ro từ khối ngoại bán ròng >1000 tỷ đồng, giá vàng suy yếu, và lãi suất khó giảm sâu do thâm hụt huy động/tín dụng.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tuần hồi phục mạnh nhất kể từ đầu năm (+4%), xác nhận vùng đáy quanh 1.700-1.720 điểm. Tín hiệu lãi suất đạt đỉnh khi NHNN buộc các ngân hàng giảm lãi suất huy động (19 NH giảm 0,5%/năm chỉ trong 2 ngày), tạo động lực cho định giá cổ phiếu. Các doanh nghiệp tiếp tục tăng trưởng lợi nhuận bất chấp giá cổ phiếu giảm sâu, mở cơ hội khi định giá hạ xuống dưới mức lịch sử. Mục tiêu GDP 10%+ 2026-2030 cần 280-300 tỷ USD/năm vốn đầu tư. Tuy nhiên, khối ngoại vẫn bán ròng >1.000 tỷ và lãi suất khó giảm sâu do thâm hụt huy động/tín dụng.",
   "top": [
     {
-      "title": "Vingroup huy động 230 tỷ Won trái phiếu Hàn Quốc, lãi suất 8%",
+      "title": "VN-Index +4%, tuần tăng mạnh nhất năm 2026",
       "impact": "↑",
-      "note": "Ngày 24/10/2026, Vingroup phát hành thành công 230 tỷ Won (~4.500 tỷ đồng) trái phiếu Hàn Quốc kỳ hạn 3 năm, lãi suất cố định 8%/năm, bảo đảm bằng cổ phiếu Vinhomes và Vinpearl. Bước đa dạng hóa vốn quốc tế, tiếp cận nhà đầu tư Hàn Quốc, giảm phụ thuộc vào một thị trường hoặc loại tiền tệ."
+      "note": "VN-Index tăng 68,24 điểm lên 1.774,15 điểm, chấm dứt chuỗi 5 tuần giảm liên tiếp. Giá trị giao dịch bình quân HOSE đạt 13.427 tỷ đồng/phiên, tăng 19,76% so với tuần trước. Tín hiệu lãi suất đạt đỉnh - chứng khoán tạo đáy hỗ trợ dòng tiền nội địa."
     },
     {
-      "title": "Công văn 9608 NHNN, 19 ngân hàng giảm lãi suất huy động 0,5%/năm",
+      "title": "NHNN yêu cầu giảm lãi suất huy động 0,5%/năm",
       "impact": "↑",
-      "note": "Công văn 9608/NHNN-CSTT (19-20/10) quy định tỷ lệ huy động/tín dụng, áp dụng chế tài: NH không tuân thủ sẽ bị giảm hạn mức tăng trưởng tín dụng 2026, giao chỉ tiêu thấp 2027. Ít nhất 19 NH giảm lãi suất huy động 0,5 điểm %/năm chỉ trong hai ngày. Lãi suất dự báo ổn định đến cuối năm nhưng khó giảm sâu trong 2027 do thâm hụt vốn lớn."
+      "note": "Công văn 9608/NHNN-CSTT: 19 ngân hàng giảm lãi suất huy động trong 2 ngày (19-20/10). VDSC dự báo lãi suất huy động sẽ giảm nhanh ngắn hạn và ổn định đến cuối năm, nhưng khó giảm sâu trong năm 2027 do thâm hụt huy động so với tín dụng vẫn lớn."
     },
     {
-      "title": "Chính phủ bố trí 0.1% GDP/năm cho thu hút nhân tài",
+      "title": "Lợi nhuận doanh nghiệp tăng trưởng bất chấp định giá giảm sâu",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10/2026 giao Bộ Tài chính xây dựng cơ chế tài chính, bố trí ngân sách khoảng 0.1% GDP mỗi năm trong lĩnh vực khoa học, công nghệ, đổi mới sáng tạo. Mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "note": "Chuyên gia Mirae Asset: 513 doanh nghiệp công bố BCTC quý 3, nhiều doanh nghiệp vẫn tăng trưởng lợi nhuận liên tục. Định giá nhiều nhóm ngành giảm xuống dưới mức lịch sử, độ rộng thị trường cải thiện, tạo cơ hội đầu tư cho nhà đầu tư chọn lọc công ty có triển vọng lợi nhuận tốt."
     },
     {
-      "title": "Mục tiêu GDP 10%+ 2026-2030 cần 280-300 tỷ USD vốn/năm",
+      "title": "Mục tiêu GDP 10%+, cần 280-300 tỷ USD vốn/năm",
       "impact": "↑",
-      "note": "TS Cấn Văn Lực (BIDV) cho biết mục tiêu GDP 10%+ yêu cầu duy trì tốc độ tăng vốn đầu tư toàn xã hội 13-15%/năm, tổng nhu cầu 280-300 tỷ USD/năm. Ngân sách nhà nước chỉ đáp ứng 22%, phần còn lại huy động từ khu vực tư nhân trong nước và vốn nước ngoài, tạo động lực mạnh cho thị trường vốn trung, dài hạn."
+      "note": "TS Cấn Văn Lực (BIDV): mục tiêu GDP 10%+ 2026-2030 đòi hỏi tốc độ tăng vốn đầu tư toàn xã hội 13-15%/năm. Tổng nhu cầu vốn 280-300 tỷ USD/năm, ngân sách nhà nước chỉ đáp ứng khoảng 22%, phần còn lại phải huy động từ khu vực tư nhân trong nước và vốn nước ngoài."
     },
     {
-      "title": "VN-Index tăng 4% (+68,24 điểm), BĐS dẫn đầu +35,6 điểm",
-      "impact": "↑",
-      "note": "Tuần 43/2026 (19-23/10), VN-Index tăng 68,24 điểm (+4%), ngắt chuỗi 5 tuần giảm liên tiếp; thanh khoản tăng 19,76% với giá trị giao dịch 13.427 tỷ đồng/phiên trên HOSE. Bất động sản đóng góp ròng +35,6 điểm (chủ yếu VIC +27,5 điểm), ngân hàng +16,8 điểm (STB +5,6, LPB +3,5 điểm). Khối ngoại bán ròng >1000 tỷ là rủi ro."
+      "title": "BĐS dẫn đầu hồi phục +35,6 điểm, khối ngoại bán ròng >1.000 tỷ",
+      "impact": "→",
+      "note": "Tuần 43/2026, bất động sản đóng góp ròng 35,6 điểm (VIC +27,5, VHM +4,5 điểm), ngân hàng +16,8 điểm (STB +5,6, LPB +3,5 điểm). Khối ngoại bán ròng >1.000 tỷ đồng. Phục hồi chủ yếu từ dòng tiền nội địa, tập trung vào cổ phiếu vốn hóa lớn."
     },
     {
-      "title": "Giá vàng giảm 2 tuần liên tiếp, chạm đáy 2 tháng",
+      "title": "Giá xăng dầu toàn cầu +65-90%, Chính phủ kiểm soát giá trong nước",
       "impact": "↓",
-      "note": "Tuần 12-24/10, giá vàng miếng SJC giảm tổng 2,1 triệu đồng/lượng, chạm đáy 2 tháng. Sáng 26/10, vàng miếng SJC 138,7-141,7 triệu đồng/lượng, vàng thế giới 3.986 USD/ounce. Chênh lệch trong nước-thế giới 16,7 triệu đồng/lượng. Khảo sát Kitco News: giới chuyên gia dự báo giá vàng tiếp tục giảm trong tuần này."
+      "note": "Giá xăng dầu thế giới tăng 65-90%. Chính phủ áp dụng biện pháp điều hành để giữ giá xăng dầu trong nước thấp, không tăng giá điện, kiểm soát CPI trong 9 tháng đầu năm. Rủi ro lạm phát vẫn tồn tại nếu giá dầu tiếp tục tăng."
     }
   ]
 }
