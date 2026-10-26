@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-26",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tuần hồi phục mạnh nhất kể từ đầu năm (+4%), xác nhận vùng đáy quanh 1.700-1.720 điểm. Tín hiệu lãi suất đạt đỉnh khi NHNN buộc các ngân hàng giảm lãi suất huy động (19 NH giảm 0,5%/năm chỉ trong 2 ngày), tạo động lực cho định giá cổ phiếu. Các doanh nghiệp tiếp tục tăng trưởng lợi nhuận bất chấp giá cổ phiếu giảm sâu, mở cơ hội khi định giá hạ xuống dưới mức lịch sử. Mục tiêu GDP 10%+ 2026-2030 cần 280-300 tỷ USD/năm vốn đầu tư. Tuy nhiên, khối ngoại vẫn bán ròng >1.000 tỷ và lãi suất khó giảm sâu do thâm hụt huy động/tín dụng.",
+  "summary_vi": "Chính phủ tập trung kiểm soát lạm phát và hỗ trợ tăng trưởng hai con số: giữ giá xăng dầu, không tăng giá điện, bố trí 0,1% GDP/năm cho nhân tài (AI, bán dẫn), đồng thời đặt mục tiêu tăng vốn đầu tư 13-15%/năm. NHNN chỉ đạo giảm lãi suất huy động (với chế tài cụ thể) nhưng khó giảm sâu năm 2027 do thâm hụt huy động. Thị trường chứng khoán hồi phục tích cực với VN-Index tăng 4% tuần qua, FDI (Nomura Real Estate) tiếp tục lạc quan về Việt Nam.",
   "top": [
     {
-      "title": "VN-Index +4%, tuần tăng mạnh nhất năm 2026",
+      "title": "Công văn 9608 NHNN-CSTT: giảm lãi suất huy động với chế tài cụ thể",
       "impact": "↑",
-      "note": "VN-Index tăng 68,24 điểm lên 1.774,15 điểm, chấm dứt chuỗi 5 tuần giảm liên tiếp. Giá trị giao dịch bình quân HOSE đạt 13.427 tỷ đồng/phiên, tăng 19,76% so với tuần trước. Tín hiệu lãi suất đạt đỉnh - chứng khoán tạo đáy hỗ trợ dòng tiền nội địa."
+      "note": "NHNN giao chỉ tiêu lãi suất huy động với chế tài: ngân hàng không tuân thủ bị xem xét lại chỉ tiêu tín dụng năm 2026, giao chỉ tiêu thấp năm 2027 hoặc yêu cầu tỷ lệ an toàn cao hơn. Từ 19-20/10, ít nhất 19 ngân hàng đã giảm 0,5 điểm %/năm, nhưng VDSC dự báo lãi suất huy động khó giảm sâu năm 2027 do thâm hụt huy động so với tín dụng còn lớn."
     },
     {
-      "title": "NHNN yêu cầu giảm lãi suất huy động 0,5%/năm",
+      "title": "GDP 10% năm 2027: nhu cầu vốn đầu tư 280-300 tỷ USD/năm",
       "impact": "↑",
-      "note": "Công văn 9608/NHNN-CSTT: 19 ngân hàng giảm lãi suất huy động trong 2 ngày (19-20/10). VDSC dự báo lãi suất huy động sẽ giảm nhanh ngắn hạn và ổn định đến cuối năm, nhưng khó giảm sâu trong năm 2027 do thâm hụt huy động so với tín dụng vẫn lớn."
+      "note": "Để đạt mục tiêu tăng vốn đầu tư toàn xã hội 13-15%/năm, Việt Nam cần 280-300 tỷ USD/năm; ngân sách nhà nước chỉ đáp ứng 22%, phần còn lại từ khu vực tư nhân trong nước và FDI. Yếu tố vốn dự kiến đóng góp 40-42% vào tăng trưởng kinh tế."
     },
     {
-      "title": "Lợi nhuận doanh nghiệp tăng trưởng bất chấp định giá giảm sâu",
+      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài (AI, bán dẫn, lượng tử)",
       "impact": "↑",
-      "note": "Chuyên gia Mirae Asset: 513 doanh nghiệp công bố BCTC quý 3, nhiều doanh nghiệp vẫn tăng trưởng lợi nhuận liên tục. Định giá nhiều nhóm ngành giảm xuống dưới mức lịch sử, độ rộng thị trường cải thiện, tạo cơ hội đầu tư cho nhà đầu tư chọn lọc công ty có triển vọng lợi nhuận tốt."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính riêng để thu hút 1.000 nhân tài quốc gia đến 2030. Ngân sách khoảng 0,1% GDP/năm nằm trong tổng lực lượng khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số."
     },
     {
-      "title": "Mục tiêu GDP 10%+, cần 280-300 tỷ USD vốn/năm",
+      "title": "Thủ tướng kiểm soát lạm phát: giữ xăng dầu, không tăng giá điện",
       "impact": "↑",
-      "note": "TS Cấn Văn Lực (BIDV): mục tiêu GDP 10%+ 2026-2030 đòi hỏi tốc độ tăng vốn đầu tư toàn xã hội 13-15%/năm. Tổng nhu cầu vốn 280-300 tỷ USD/năm, ngân sách nhà nước chỉ đáp ứng khoảng 22%, phần còn lại phải huy động từ khu vực tư nhân trong nước và vốn nước ngoài."
+      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ dùng biện pháp bảo đảm nguồn cung, giữ giá xăng dầu trong nước ở mức thấp so với khu vực và không tăng giá điện. CPI 9 tháng đầu năm được kiểm soát, Thủ tướng nhấn mạnh 'lạm phát tăng sẽ xói mòn thành quả tăng trưởng'."
     },
     {
-      "title": "BĐS dẫn đầu hồi phục +35,6 điểm, khối ngoại bán ròng >1.000 tỷ",
-      "impact": "→",
-      "note": "Tuần 43/2026, bất động sản đóng góp ròng 35,6 điểm (VIC +27,5, VHM +4,5 điểm), ngân hàng +16,8 điểm (STB +5,6, LPB +3,5 điểm). Khối ngoại bán ròng >1.000 tỷ đồng. Phục hồi chủ yếu từ dòng tiền nội địa, tập trung vào cổ phiếu vốn hóa lớn."
+      "title": "Nomura Real Estate tiếp tục mở rộng tại Việt Nam (TPHCM, Hà Nội)",
+      "impact": "↑",
+      "note": "Nomura Real Estate đạt doanh thu 942,5 tỷ yên (~5,97 tỷ USD) và lợi nhuận kỷ lục năm tài chính 2026. Việt Nam là thị trường lớn nhất mảng nước ngoài; tập đoàn đã tham gia 12 dự án hơn 30.000 căn hộ chủ yếu tại TPHCM và Hà Nội, vẫn mở thêm dự án bất chấp lợi nhuận mảng nước ngoài dự báo về 0 năm tài chính 2027."
     },
     {
-      "title": "Giá xăng dầu toàn cầu +65-90%, Chính phủ kiểm soát giá trong nước",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%. Chính phủ áp dụng biện pháp điều hành để giữ giá xăng dầu trong nước thấp, không tăng giá điện, kiểm soát CPI trong 9 tháng đầu năm. Rủi ro lạm phát vẫn tồn tại nếu giá dầu tiếp tục tăng."
+      "title": "VN-Index hồi phục 4% tuần 43/2026, chấm dứt 5 tuần giảm liên tiếp",
+      "impact": "↑",
+      "note": "VN-Index kết thúc tuần 43/2026 tại 1.774,15 điểm (+68,24 điểm, +4,00%). Bất động sản đóng góp ròng khoảng 35,6 điểm (VIC +27,5 điểm, VHM +4,5 điểm); ngân hàng đóng góp ròng 16,8 điểm. Giá trị giao dịch khớp lệnh bình quân HOSE đạt 13.427 tỷ đồng/phiên, tăng 19,76% so với tuần trước."
     }
   ]
 }
