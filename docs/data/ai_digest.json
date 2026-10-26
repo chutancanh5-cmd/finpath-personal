@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tín hiệu tích cực với VN-Index tăng 4% trong tuần và khả năng hấp dẫn dòng vốn ngoại qua tiềm năng nâng hạng MSCI (10 tỷ USD). Chính phủ ưu tiên đầu tư vào nhân tài công nghệ (0.1% GDP/năm, 1,000 nhân tài tới 2030) và kiểm soát lạm phát hiệu quả dù xăng dầu thế giới tăng 65-90%. Tuy nhiên, dư nợ cho vay lập kỷ lục với tỷ lệ margin/vốn hóa 5.1% là rủi ro cần lưu ý ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán phục hồi 4% trong tuần 43/2026, chấm dứt chuỗi giảm 5 tuần, với động lực từ bất động sản (VIC, VHM) và ngân hàng, tuy khối ngoại vẫn bán ròng >1.000 tỷ. Chính phủ hỗ trợ tăng trưởng qua mục tiêu GRDP Hà Nội ≥11% và chi 0,1% GDP/năm cho nhân tài công nghệ cao, kỳ vọng nâng hạng MSCI mang tới 10 tỷ USD dòng vốn ngoại. Tuy nhiên, dư nợ margin đạt kỷ lục 5,1% vốn hóa thị trường và áp lực lạm phát từ giá dầu toàn cầu tăng 65-90% là những rủi ro ngắn hạn cần lưu ý.",
   "top": [
     {
-      "title": "Chính phủ dành 0.1% GDP mỗi năm cho nhân tài công nghệ",
+      "title": "VN-Index phục hồi 4%, chấm dứt 5 tuần giảm liên tiếp",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP (23/10) bố trí ngân sách khoảng 0.1% GDP mỗi năm. Phấn đấu thu hút 1,000 nhân tài quốc gia tới năm 2030, ưu tiên AI, bán dẫn, lượng tử, khoa học dữ liệu. Tạo đà tăng trưởng dài hạn qua đổi mới sáng tạo."
+      "note": "VN-Index tăng 68,24 điểm lên 1.774,15 điểm trong tuần 43/2026, thanh khoản bình quân cải thiện 19,76% lên 14.654 tỷ đồng/phiên; bất động sản đóng góp ròng 35,6 điểm (VIC +27,5, VHM +4,5), ngân hàng đóng góp 16,8 điểm."
     },
     {
-      "title": "Tiềm năng 10 tỷ USD dòng vốn từ nâng hạng MSCI",
+      "title": "Nâng hạng MSCI: tiềm năng 10 tỷ USD dòng vốn ngoại",
       "impact": "↑",
-      "note": "Nếu Việt Nam chiếm tỷ trọng 0.5%, dòng vốn tiềm năng 10 tỷ USD. Tăng trưởng free-float: PLX giải quyết vấn đề, BSR, PVN có kế hoạch 2027, MSR tăng sau khi Masan thoái vốn. Sở hữu nước ngoài hiệu dụng cải thiện qua từng năm."
+      "note": "Nếu Việt Nam chiếm tỷ trọng 0,5% chỉ số nâng hạng MSCI, dòng vốn tiềm năng đạt ~10 tỷ USD; PLX, BSR, PVN, MSR đã cải thiện tỷ lệ free-float và sở hữu nước ngoài, tuy cần thực hiện tiêu chí thực tế chứ không chỉ cam kết."
     },
     {
-      "title": "Kiểm soát lạm phát dù xăng dầu thế giới tăng 65-90%",
+      "title": "Chính phủ chi 0,1% GDP/năm cho nhân tài công nghệ cao",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ dùng biện pháp giữ giá xăng dầu, điện ở mức thấp trong nước. Thủ tướng nhấn mạnh CPI 9 tháng được kiểm soát tốt, hướng tới mục tiêu GDP tăng từ 10% trở lên năm 2027."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế huy động 0,1% GDP/năm cho nhân tài trong AI, bán dẫn, lượng tử, khoa học dữ liệu, mục tiêu 1.000 nhân tài đến 2030."
     },
     {
-      "title": "VN-Index hồi phục mạnh tăng 4% trong tuần lên 1,774 điểm",
+      "title": "Hà Nội mục tiêu tăng trưởng GRDP ≥11% cả năm 2026",
       "impact": "↑",
-      "note": "Tuần 19-23/10, VN-Index tăng 68 điểm (4%), ngày 21/10 tăng 2.8% (46.7 điểm) với lan tỏa tốt và thanh khoản mạnh. VN-Index tiến sát vùng kháng cự 1,775-1,800. Kết quả Q3 tốt hỗ trợ định giá cổ phiếu hấp dẫn."
+      "note": "UBND Hà Nội phê duyệt Kế hoạch 411/KH-UBND ngày 22/10 triển khai Nghị quyết 32-NQ/TU ngày 14/10 của Ban Chấp hành Đảng bộ, kiên trì mục tiêu GRDP ≥11% hỗ trợ tăng trưởng toàn quốc."
     },
     {
-      "title": "Dư nợ CTCK lập đỉnh 455.000 tỷ, tỷ lệ margin/vốn hóa 5.1%",
+      "title": "Dư nợ margin lập kỷ lục 5,1% vốn hóa thị trường",
       "impact": "↓",
-      "note": "Tỷ lệ margin/vốn hóa thị trường 5.1% là mức cao nhất lịch sử. Dư nợ cho vay CTCK ước 455.000 tỷ đồng cuối Q3/2026, tăng 10.000 tỷ so với Q2, trong khi vốn hóa giảm 248.000 tỷ. Rủi ro đòn bẩy cao khi thanh khoản thị trường còn yếu."
+      "note": "Dư nợ margin cuối Q3/2026 đạt 455.000 tỷ đồng (cao nhất lịch sử), tỷ lệ margin/vốn hóa thị trường 5,1% (cao nhất lịch sử); vốn hóa giảm 248.000 tỷ so với Q2 nhưng margin tăng 10.000 tỷ, tạo rủi ro tài chính cao."
     },
     {
-      "title": "Giá vàng giảm 2.1 triệu đồng/lượng trong 2 tuần, chạm đáy 2 tháng",
+      "title": "Giá dầu toàn cầu tăng 65-90%, áp lực lạm phát toàn cầu",
       "impact": "↓",
-      "note": "Giá vàng SJC giảm tổng 2.1 triệu đồng/lượng tuần 12-24/10, từ ~140.7 xuống 138.7 triệu đồng/lượng (mua). Giá vàng thế giới giảm 4% trong tuần, thấp nhất 3 tháng. Brent tăng 6% căng thẳng Vùng Vịnh nhưng không giúp vàng tránh giảm sâu."
+      "note": "Giá xăng dầu thế giới tăng 65-90%; Thủ tướng Lê Minh Hưng nhấn mạnh Chính phủ giữ giá xăng dầu, điện thấp để kiểm soát lạm phát, hướng tới tăng trưởng GDP ≥10% năm 2027."
     }
   ]
 }
