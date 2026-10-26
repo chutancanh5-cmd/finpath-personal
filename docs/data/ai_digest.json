@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán hôm nay chịu áp lực từ khối ngoại bán ròng 892 tỷ đồng khiến cổ phiếu giảm loạt và VN-Index lùi dưới tham chiếu, phản ánh tâm lý thận trọng. Tuy nhiên, các tin tức vĩ mô vẫn tích cực khi Chính phủ khởi công siêu cảng Can Giờ 128.873 tỷ đồng (5 tỷ USD) với MSC, cam kết dành 0.1% GDP hàng năm cho nhân tài AI/bán dẫn, đồng thời ngân hàng vẫn duy trì tăng trưởng lợi nhuận mạnh (OCB +20% 9 tháng). Việt Nam tiếp tục chứng tỏ khả năng tiếp cận thị trường vốn quốc tế (SHB phát hành trái phiếu Singapore). Ngắn hạn thị trường thận trọng nhưng các động lực vĩ mô vẫn hỗ trợ triển vọng dài hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực điều chỉnh mạnh hôm nay khi khối ngoại bán ròng 892 tỷ đồng, cổ phiếu giảm loạt với VN30 có 25 mã tụt giá và VN-Index lùi 10 điểm. Tuy nhiên, các yếu tố vĩ mô vẫn hỗ trợ: dự án siêu cảng Cần Giờ 128.873 tỷ đồng (5 tỷ USD) khởi công, Chính phủ cam kết 0.1% GDP/năm cho nhân tài công nghệ, ngân hàng OCB tăng lãi 20% 9 tháng, và SHB thành công phát hành trái phiếu quốc tế. Nhà đầu tư nên thận trọng trong ngắn hạn nhưng kỳ vọng vào những động lực vĩ mô dài hạn.",
   "top": [
     {
-      "title": "Khởi công siêu cảng Can Giờ 128.873 tỷ đồng với MSC",
-      "impact": "↑",
-      "note": "Dự án Cảng trung chuyển quốc tế Can Giờ tổng vốn 128.873 tỷ đồng (gần 5 tỷ USD), liên danh VIMC-Cảng Sài Gòn-MSC (hãng tàu lớn nhất thế giới). Diện tích 571 ha, khởi công tháng 10/2026. Là dự án cảng biển quy mô lớn nhất từng được chấp thuận tại Việt Nam, nâng cao năng lực logistics và thu hút FDI."
+      "title": "Khối ngoại bán ròng 892 tỷ đồng, áp lực lên thị trường",
+      "impact": "↓",
+      "note": "Phiên 26/10, khối ngoại bán ròng 892 tỷ đồng toàn thị trường; FPT bị bán mạnh nhất 258 tỷ đồng, theo sau HDB 80 tỷ, VPL 70 tỷ; VN-Index giảm 10 điểm về 1.763 điểm, thanh khoản HoSE 13.500 tỷ đồng."
     },
     {
-      "title": "Khối ngoại bán ròng 892 tỷ đồng, VN-Index giảm",
+      "title": "Thị trường giảm rộng, VN30 có 25 mã tụt giá",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 892 tỷ đồng cổ phiếu trên toàn thị trường. FPT bị bán ròng mạnh nhất với 258 tỷ đồng. VN-Index giảm 10 điểm xuống 1.763 điểm, thanh khoản HoSE >13.500 tỷ đồng. Tâm lý thị trường thận trọng, dòng tiền nước ngoài suy yếu."
+      "note": "Áp lực hạ giá bán tăng mạnh phiên chiều 26/10; VN30 có 25 mã giảm so với sáng, bao gồm các trụ; SSB rơi 4.5%, VIC trả lại 1.09% biên độ, BID mất 1.46%; thanh khoản HoSE chiều tăng 18.3%, VN30 tăng 41.5% so với sáng."
+    },
+    {
+      "title": "Khởi công siêu cảng Cần Giờ 128.873 tỷ đồng với MSC",
+      "impact": "↑",
+      "note": "Dự án Cảng trung chuyển quốc tế Cần Giờ tổng vốn 128.873 tỷ đồng (gần 5 tỷ USD), liên danh VIMC-Cảng Sài Gòn-MSC (hãng tàu lớn nhất thế giới), diện tích 571 ha, khởi công tháng 10/2026, là dự án cảng biển quy mô lớn nhất từng được chấp thuận tại Việt Nam."
     },
     {
       "title": "OCB lợi nhuận 9 tháng tăng 20%, quý III +7.5%",
       "impact": "↑",
-      "note": "Ngân hàng Phương Đông lợi nhuận trước thuế quý III 1.653 tỷ đồng (+7.5% YoY), lũy kế 9 tháng đạt 4.123 tỷ đồng (+20%). Thu thuần từ lãi tăng 14.2% lên 2.768 tỷ đồng, thu dịch vụ tăng 62.3%. Ngành ngân hàng vẫn giữ đà tăng trưởng vững chắc."
+      "note": "OCB lợi nhuận trước thuế quý III 1.653 tỷ đồng (+7.5% YoY), lũy kế 9 tháng 4.123 tỷ đồng (+20%); thu thuần từ lãi tăng 14.2% lên 2.768 tỷ đồng, thu dịch vụ quý III tăng 62.3% phản ánh đa dạng hóa doanh thu."
     },
     {
-      "title": "Cổ phiếu giảm loạt chiều nay, VN30 -0.92%",
+      "title": "Chính phủ dành 0.1% GDP mỗi năm cho nhân tài",
+      "impact": "↑",
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính bố trí 0.1% GDP/năm cho nhân tài; phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+    },
+    {
+      "title": "NDN báo lỗ quý 3 do thị trường chứng khoán giảm",
       "impact": "↓",
-      "note": "Áp lực bán tăng vọt chiều 26/10 khiến cổ phiếu rơi mạnh. VN30 có 25 mã tụt giá so với sáng. Thanh khoản HoSE chiều tăng 18.3% so với sáng, VN30 tăng 41.5%. VIC trả lại 1.09% biên độ, BID mất 1.46%, SSB rơi 4.5%."
-    },
-    {
-      "title": "Chính phủ dành 0.1% GDP/năm cho nhân tài AI, bán dẫn",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính bố trí khoảng 0.1% GDP mỗi năm cho nhân tài. Mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược. Tín hiệu tích cực về đầu tư vào sáng tạo và cơ sở con người."
-    },
-    {
-      "title": "SHB phát hành trái phiếu 229 triệu SGD tại Singapore",
-      "impact": "↑",
-      "note": "SHB phát hành 229 triệu SGD trái phiếu quốc tế tại Singapore, lần đầu một ngân hàng Việt Nam làm việc này. SHS đảm nhận Tổ chức Tư vấn và Điều phối trong nước. Cho thấy khả năng tiếp cận thị trường vốn quốc tế và kết nối sâu rộng của doanh nghiệp Việt Nam."
+      "note": "NDN lỗ 10 tỷ quý III/2026 so với lãi 71 tỷ cùng kỳ; doanh thu giảm 19% xuống 7.5 tỷ, chi phí tài chính tăng 92% lên 26 tỷ; danh mục chứng khoán phình 72% lên 668 tỷ do biến động tiêu cực thị trường."
     }
   ]
 }
