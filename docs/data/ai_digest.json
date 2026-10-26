@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang điều chỉnh với dòng tiền chờ đợi trước vùng kháng cự 1800 điểm, song NHNN giảm lãi suất huy động 0,5% theo công văn 21/10 để giảm chi phí vốn doanh nghiệp. VN-Index tuần trước tăng 4% lấy lại điểm mất tháng 10, khuyến khích bởi kỳ vọng Fed giữ nguyên lãi suất >90%. Giá vàng giảm 2,1 triệu đồng/lượng có thể dẫn dòng tiền sang TTCK. Mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030 cần huy động 280-300 tỷ USD/năm từ khu vực tư nhân, mở cơ hội cho thị trường vốn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường được hỗ trợ bởi kỳ vọng 'lãi suất đạt đỉnh - chứng khoán tạo đáy' khi Fed giữ lãi suất ở mức cao (90% khả năng), dẫn VN-Index phục hồi +68,24 điểm (+4%) tuần trước. Chính phủ đặt mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030 với nhu cầu vốn 280-300 tỷ USD/năm, trong đó ngân sách nhà nước chỉ đáp ứng 22%, mở ra cơ hội to lớn cho thị trường vốn trung dài hạn. Tuy nhiên, thị trường đang điều chỉnh ngắn hạn sau nhịp tăng, với 356 mã giảm, VN-Index dừng 1.772,78 điểm dưới vùng kháng cự 1.800. Chính phủ tăng cường đầu tư vào công nghệ với 0,1% GDP/năm cho nhân tài, hướng tới tuyển 1.000 nhân tài quốc gia cho AI, bán dẫn, lượng tử.",
   "top": [
     {
-      "title": "Cổ phiếu điều chỉnh, dòng tiền chờ đợi",
+      "title": "Kỳ vọng lãi suất đạt đỉnh - chứng khoán tạo đáy",
+      "impact": "↑",
+      "note": "VN-Index tuần trước tăng +68,24 điểm (+4%), cắt chuỗi 4 tuần giảm liên tiếp. Thị trường lãi suất tương lai đặt cược Fed giữ nguyên lãi suất với 90% khả năng. Thanh khoản toàn thị trường bình quân 17.260 tỷ đồng, tăng +18,3% so với tuần trước, tín hiệu dòng tiền quay lại."
+    },
+    {
+      "title": "Mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030",
+      "impact": "↑",
+      "note": "Nhu cầu vốn đầu tư toàn xã hội ước tính 280-300 tỷ USD/năm, ngân sách nhà nước chỉ đáp ứng 22%, phần còn lại huy động từ khu vực tư nhân trong nước và vốn nước ngoài. Mở cơ hội phát triển thị trường vốn trung dài hạn, tăng nhu cầu phát hành cổ phiếu và trái phiếu."
+    },
+    {
+      "title": "NHNN hạ lãi suất huy động, chuỗi tăng 11 tháng chấm dứt",
       "impact": "↓",
-      "note": "VN-Index có 204 cổ phiếu đỏ, trong đó 79 mã giảm quá 1%, tương ứng 31,8% giá trị khớp lệnh. Dòng tiền bắt đầu thoái lui, bên bán chiếm ưu thế. Nhà đầu tư hạn chế mua mới trước khi chỉ số vượt vùng kháng cự 1800 điểm (hiện cao nhất 1781,45 điểm)."
+      "note": "NHNN ban hành công văn 9736/NHNN-CSTT ngày 21/10/2026 chỉ đạo hạ mặt bằng lãi suất huy động tối thiểu 0,5 điểm phần trăm. Chuỗi tăng 11 tháng liên tiếp dừng lại, lãi suất sẽ đi ngang đến hết năm, giảm từ 2027. Lãi suất tiết kiệm kém hấp dẫn hơn, tăng áp lực để tìm lợi suất ở chứng khoán."
     },
     {
-      "title": "NHNN chỉ đạo hạ lãi suất huy động 0,5%, chấm dứt đà tăng",
-      "impact": "→",
-      "note": "Ngân hàng Nhà nước ban hành công văn số 9736/NHNN-CSTT ngày 21/10 quán triệt hạ lãi suất huy động tối thiểu 0,5%. Chuỗi tăng lãi suất 11 tháng liên tiếp chấm dứt, dự kiến lãi suất đi ngang đến hết 2026 rồi giảm dần từ 2027."
-    },
-    {
-      "title": "VN-Index tăng 4% tuần trước, thanh khoản tăng 18%",
+      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài",
       "impact": "↑",
-      "note": "VN-Index tăng 68,24 điểm (+4%) trong tuần 19-23/10, lấy lại toàn bộ lỗ tháng 10. Thanh khoản bình quân đạt 17.260 tỷ đồng tăng 18,3%, khớp lệnh tăng 19,3% lên 14.654 tỷ đồng. Dòng tiền nội hồi phục được khuyến khích bởi kỳ vọng Fed giữ nguyên lãi suất >90%."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10/2026 giao Bộ Tài chính bố trí khoảng 0,1% GDP mỗi năm trong ngân sách khoa học, công nghệ, đổi mới sáng tạo. Phấn đấu tuyển khoảng 1.000 nhân tài quốc gia đến 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu."
     },
     {
-      "title": "Mục tiêu GDP 10% 2026-2030, nhu cầu vốn 280-300 tỷ USD/năm",
-      "impact": "↑",
-      "note": "Để đạt tăng trưởng GDP bình quân 10% từ 2026-2030, Việt Nam cần tốc độ tăng vốn đầu tư 13-15% mỗi năm. Tổng nhu cầu vốn 280-300 tỷ USD/năm, ngân sách nhà nước chỉ đáp ứng 22%, phần còn lại từ khu vực tư nhân trong nước và vốn nước ngoài."
-    },
-    {
-      "title": "Giá vàng giảm 2,1 triệu đồng/lượng, chạm đáy 2 tháng",
-      "impact": "↑",
-      "note": "Giá vàng miếng SJC giảm tổng cộng 2,1 triệu đồng/lượng trong 2 tuần (12-24/10), xuống 137-142 triệu đồng/lượng. Điều chỉnh giá vàng có thể khuyến khích dòng tiền chuyển sang tài sản rủi ro như cổ phiếu."
-    },
-    {
-      "title": "Xăng dầu thế giới tăng 65-90%, rủi ro lạm phát",
+      "title": "Thị trường điều chỉnh trước vùng kháng cự kỹ thuật",
       "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, Chính phủ dùng biện pháp giữ giá xăng dầu trong nước ở mức thấp, không tăng giá điện. Lạm phát tăng sẽ xói mòn thành quả tăng trưởng, với rủi ro lan rộng từ năng lượng sang giá cả hàng hóa khác."
+      "note": "VN-Index giảm 1,37 điểm (-0,08%) xuống 1.772,78 điểm, đứng dưới mốc tham chiếu. Độ rộng thị trường nghiêng về bên bán: 356 mã giảm, 235 mã tăng, 953 mã đứng giá. Dòng tiền chốt lời sau nhịp tăng tuần trước, chờ đợi tín hiệu mạnh hơn trước vùng kháng cự 1.800 điểm."
+    },
+    {
+      "title": "SHB phát hành trái phiếu 229 triệu SGD tại Singapore",
+      "impact": "↑",
+      "note": "Thương vụ đầu tiên của ngân hàng Việt Nam phát hành trái phiếu tại Singapore, được SHS điều phối. Mở cơ hội huy động vốn tại trung tâm tài chính hàng đầu khu vực, nâng cao uy tín tiếp cận thị trường vốn quốc tế của hệ thống ngân hàng Việt Nam."
     }
   ]
 }
