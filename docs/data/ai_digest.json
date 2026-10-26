@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán hôm nay chịu áp lực điều chỉnh với khối ngoại bán ròng mạnh nhất trong 11 phiên và VN-Index lùi dưới mốc tham chiếu, phản ánh lo ngại của nhà đầu tư nước ngoài. Tuy nhiên, các tín hiệu chính sách vĩ mô lại khá tích cực khi Chính phủ khởi công siêu cảng Cần Giờ 5 tỷ USD và cam kết dành 0,1% GDP hàng năm cho nhân tài trong lĩnh vực AI, bán dẫn. Mục tiêu tăng trưởng GDP từ 10% trở lên 2026-2030 yêu cầu huy động 280-300 tỷ USD/năm, trong đó khu vực tư nhân phải đóng góp lớn, mở ra cơ hội cho thị trường vốn dù hiện tại còn chịu áp lực kỹ thuật ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán hôm nay chịu áp lực từ khối ngoại bán ròng 892 tỷ đồng khiến cổ phiếu giảm loạt và VN-Index lùi dưới tham chiếu, phản ánh tâm lý thận trọng. Tuy nhiên, các tin tức vĩ mô vẫn tích cực khi Chính phủ khởi công siêu cảng Can Giờ 128.873 tỷ đồng (5 tỷ USD) với MSC, cam kết dành 0.1% GDP hàng năm cho nhân tài AI/bán dẫn, đồng thời ngân hàng vẫn duy trì tăng trưởng lợi nhuận mạnh (OCB +20% 9 tháng). Việt Nam tiếp tục chứng tỏ khả năng tiếp cận thị trường vốn quốc tế (SHB phát hành trái phiếu Singapore). Ngắn hạn thị trường thận trọng nhưng các động lực vĩ mô vẫn hỗ trợ triển vọng dài hạn.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng mạnh nhất 11 phiên",
+      "title": "Khởi công siêu cảng Can Giờ 128.873 tỷ đồng với MSC",
+      "impact": "↑",
+      "note": "Dự án Cảng trung chuyển quốc tế Can Giờ tổng vốn 128.873 tỷ đồng (gần 5 tỷ USD), liên danh VIMC-Cảng Sài Gòn-MSC (hãng tàu lớn nhất thế giới). Diện tích 571 ha, khởi công tháng 10/2026. Là dự án cảng biển quy mô lớn nhất từng được chấp thuận tại Việt Nam, nâng cao năng lực logistics và thu hút FDI."
+    },
+    {
+      "title": "Khối ngoại bán ròng 892 tỷ đồng, VN-Index giảm",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng với thanh khoản phiên chiều tăng 18,3% so với sáng. Áp lực hạ giá bán mạnh lên từ 15h, kéo theo các cổ phiếu blue-chips như VIC trả lại biên độ 1,09%, BID mất 1,46%, SSB rơi 4,5%, cho thấy sự lo ngại của nhà đầu tư nước ngoài."
+      "note": "Khối ngoại bán ròng 892 tỷ đồng cổ phiếu trên toàn thị trường. FPT bị bán ròng mạnh nhất với 258 tỷ đồng. VN-Index giảm 10 điểm xuống 1.763 điểm, thanh khoản HoSE >13.500 tỷ đồng. Tâm lý thị trường thận trọng, dòng tiền nước ngoài suy yếu."
     },
     {
-      "title": "VN-Index giảm 1,37 điểm, độ rộng bị áp lực",
+      "title": "OCB lợi nhuận 9 tháng tăng 20%, quý III +7.5%",
+      "impact": "↑",
+      "note": "Ngân hàng Phương Đông lợi nhuận trước thuế quý III 1.653 tỷ đồng (+7.5% YoY), lũy kế 9 tháng đạt 4.123 tỷ đồng (+20%). Thu thuần từ lãi tăng 14.2% lên 2.768 tỷ đồng, thu dịch vụ tăng 62.3%. Ngành ngân hàng vẫn giữ đà tăng trưởng vững chắc."
+    },
+    {
+      "title": "Cổ phiếu giảm loạt chiều nay, VN30 -0.92%",
       "impact": "↓",
-      "note": "VN-Index lùi về dưới mốc tham chiếu, giảm 1,37 điểm (-0,08%) dừng tại 1.772,78 điểm; HNX-Index giảm 0,33% xuống 261,84 điểm. Độ rộng thị trường nghiêng về bên bán với 356 mã giảm, 235 mã tăng. VN30 có 25 mã tụt giá so với phiên sáng, đóng cửa giảm 0,92%."
+      "note": "Áp lực bán tăng vọt chiều 26/10 khiến cổ phiếu rơi mạnh. VN30 có 25 mã tụt giá so với sáng. Thanh khoản HoSE chiều tăng 18.3% so với sáng, VN30 tăng 41.5%. VIC trả lại 1.09% biên độ, BID mất 1.46%, SSB rơi 4.5%."
     },
     {
-      "title": "Việt Nam khởi công siêu cảng quốc tế Cần Giờ",
+      "title": "Chính phủ dành 0.1% GDP/năm cho nhân tài AI, bán dẫn",
       "impact": "↑",
-      "note": "Dự án cảng quốc tế Cần Giờ có vốn đầu tư 128.873 tỷ đồng (gần 5 tỷ USD), diện tích 571 ha, liên danh VIMC-Cảng Sài Gòn-MSC (Thụy Sĩ). Quyết định khởi công tháng 10/2026 được chính phủ ưu tiên, thể hiện cam kết kích thích tăng trưởng thông qua cơ sở hạ tầng và thu hút FDI."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính bố trí khoảng 0.1% GDP mỗi năm cho nhân tài. Mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược. Tín hiệu tích cực về đầu tư vào sáng tạo và cơ sở con người."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài",
+      "title": "SHB phát hành trái phiếu 229 triệu SGD tại Singapore",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế huy động khoảng 0,1% GDP mỗi năm để thu hút 1.000 nhân tài quốc gia đến năm 2030, tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu—công nghệ chiến lược giúp tăng trưởng dài hạn."
-    },
-    {
-      "title": "Mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030",
-      "impact": "↑",
-      "note": "Để đạt tăng trưởng bình quân 10% trở lên, Việt Nam cần duy trì tốc độ tăng vốn đầu tư 13-15%/năm. Tổng nhu cầu vốn ước tính 280-300 tỷ USD/năm, trong đó ngân sách nhà nước chỉ đáp ứng 22%, phần còn lại từ khu vực tư nhân và FDI—thúc đẩy phát triển thị trường vốn dài hạn."
-    },
-    {
-      "title": "Lãi suất huy động bắt đầu giảm theo chỉ đạo NHNN",
-      "impact": "→",
-      "note": "Chuỗi tăng lãi suất tiết kiệm 11 tháng liên tiếp có dấu hiệu chấm dứt khi hàng loạt ngân hàng giảm lãi suất huy động tối thiểu 0,5 điểm phần trăm theo công văn 21/10/2026 của NHNN. Mặt bằng lãi suất dự báo đi ngang đến hết năm, giảm dần từ 2027 để hỗ trợ tăng trưởng kinh tế."
+      "note": "SHB phát hành 229 triệu SGD trái phiếu quốc tế tại Singapore, lần đầu một ngân hàng Việt Nam làm việc này. SHS đảm nhận Tổ chức Tư vấn và Điều phối trong nước. Cho thấy khả năng tiếp cận thị trường vốn quốc tế và kết nối sâu rộng của doanh nghiệp Việt Nam."
     }
   ]
 }
