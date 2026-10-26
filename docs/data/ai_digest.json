@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán phục hồi 4% trong tuần 43/2026, chấm dứt chuỗi giảm 5 tuần, với động lực từ bất động sản (VIC, VHM) và ngân hàng, tuy khối ngoại vẫn bán ròng >1.000 tỷ. Chính phủ hỗ trợ tăng trưởng qua mục tiêu GRDP Hà Nội ≥11% và chi 0,1% GDP/năm cho nhân tài công nghệ cao, kỳ vọng nâng hạng MSCI mang tới 10 tỷ USD dòng vốn ngoại. Tuy nhiên, dư nợ margin đạt kỷ lục 5,1% vốn hóa thị trường và áp lực lạm phát từ giá dầu toàn cầu tăng 65-90% là những rủi ro ngắn hạn cần lưu ý.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "VN-Index tăng 4% trong tuần nhưng khối ngoại bán ròng 1.000 tỷ đồng; margin/vốn hóa lên kỷ lục 5,1% cảnh báo rủi ro ngắn hạn. Tích cực là tiềm năng 10 tỷ USD chảy vào nếu Việt Nam nâng hạng MSCI (giải quyết vấn đề free-float), kết hợp chính sách vĩ mô tích cực: GRDP Hà Nội 11%, đầu tư 0,1% GDP cho nhân tài cao cấp. Áp lực từ giá xăng dầu thế giới tăng 65-90% được Chính phủ kiểm soát bằng các biện pháp hỗ trợ, tuy vẫn đặt thách thức cho lạm phát.",
   "top": [
     {
-      "title": "VN-Index phục hồi 4%, chấm dứt 5 tuần giảm liên tiếp",
-      "impact": "↑",
-      "note": "VN-Index tăng 68,24 điểm lên 1.774,15 điểm trong tuần 43/2026, thanh khoản bình quân cải thiện 19,76% lên 14.654 tỷ đồng/phiên; bất động sản đóng góp ròng 35,6 điểm (VIC +27,5, VHM +4,5), ngân hàng đóng góp 16,8 điểm."
+      "title": "VN-Index tăng 4% nhưng khối ngoại bán ròng 1.000 tỷ",
+      "impact": "→",
+      "note": "VN-Index tuần 43 tăng 68,24 điểm (+4,00%) lên 1.774,15 điểm, chấm dứt chuỗi 5 tuần giảm; bất động sản đóng góp ròng 35,6 điểm (VIC +27,5 điểm, VHM +4,5 điểm), ngân hàng +16,8 điểm. Thanh khoản bình quân 14.654 tỷ đồng/phiên (+19,52%). Khối ngoại bán ròng hơn 1.000 tỷ đồng trong tuần."
     },
     {
-      "title": "Nâng hạng MSCI: tiềm năng 10 tỷ USD dòng vốn ngoại",
+      "title": "Tiềm năng 10 tỷ USD vào chứng khoán nếu nâng hạng MSCI",
       "impact": "↑",
-      "note": "Nếu Việt Nam chiếm tỷ trọng 0,5% chỉ số nâng hạng MSCI, dòng vốn tiềm năng đạt ~10 tỷ USD; PLX, BSR, PVN, MSR đã cải thiện tỷ lệ free-float và sở hữu nước ngoài, tuy cần thực hiện tiêu chí thực tế chứ không chỉ cam kết."
+      "note": "SSI Research: nếu Việt Nam chiếm tỷ trọng 0,5% (mức giả định thấp), dòng vốn tiềm năng đạt khoảng 10 tỷ USD. Các vấn đề free-float đang được giải quyết: PLX, BSR, doanh nghiệp PVN có kế hoạch cụ thể cho năm 2027; Masan tăng free-float MSR khi thoái vốn một phần."
     },
     {
-      "title": "Chính phủ chi 0,1% GDP/năm cho nhân tài công nghệ cao",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế huy động 0,1% GDP/năm cho nhân tài trong AI, bán dẫn, lượng tử, khoa học dữ liệu, mục tiêu 1.000 nhân tài đến 2030."
-    },
-    {
-      "title": "Hà Nội mục tiêu tăng trưởng GRDP ≥11% cả năm 2026",
-      "impact": "↑",
-      "note": "UBND Hà Nội phê duyệt Kế hoạch 411/KH-UBND ngày 22/10 triển khai Nghị quyết 32-NQ/TU ngày 14/10 của Ban Chấp hành Đảng bộ, kiên trì mục tiêu GRDP ≥11% hỗ trợ tăng trưởng toàn quốc."
-    },
-    {
-      "title": "Dư nợ margin lập kỷ lục 5,1% vốn hóa thị trường",
+      "title": "Margin/vốn hóa lập kỷ lục 5,1%, cao nhất lịch sử",
       "impact": "↓",
-      "note": "Dư nợ margin cuối Q3/2026 đạt 455.000 tỷ đồng (cao nhất lịch sử), tỷ lệ margin/vốn hóa thị trường 5,1% (cao nhất lịch sử); vốn hóa giảm 248.000 tỷ so với Q2 nhưng margin tăng 10.000 tỷ, tạo rủi ro tài chính cao."
+      "note": "Dư nợ cho vay CTCK đạt 455.000 tỷ đồng cuối quý 3/2026 (cao nhất lịch sử), tăng 10.000 tỷ so với quý 2. Tỷ lệ margin/vốn hóa = 5,1% (từ 1,5% năm 2017, 3,1% năm 2021), trong khi vốn hóa thị trường giảm 248.000 tỷ quý 3, tạo cảnh báo rủi ro từ đòn bẩy cao."
     },
     {
-      "title": "Giá dầu toàn cầu tăng 65-90%, áp lực lạm phát toàn cầu",
-      "impact": "↓",
-      "note": "Giá xăng dầu thế giới tăng 65-90%; Thủ tướng Lê Minh Hưng nhấn mạnh Chính phủ giữ giá xăng dầu, điện thấp để kiểm soát lạm phát, hướng tới tăng trưởng GDP ≥10% năm 2027."
+      "title": "Chính phủ kiểm soát lạm phát giữa áp lực giá dầu tăng 65-90%",
+      "impact": "→",
+      "note": "Giá xăng dầu thế giới tăng 65-90%; nếu không điều hành, trong nước có thể tăng 80%. Chính phủ bảo đảm cung ứng, giữ giá xăng ở mức thấp khu vực và không tăng giá điện. Thủ tướng nhấn mạnh lạm phát tăng sẽ xói mòn thành quả tăng trưởng, hướng tới GDP ≥10% năm 2027."
+    },
+    {
+      "title": "Hà Nội kiên trì mục tiêu tăng trưởng GRDP từ 11% trở lên",
+      "impact": "↑",
+      "note": "UBND Hà Nội ban hành Kế hoạch 411/KH-UBND ngày 22/10 triển khai Nghị quyết 32-NQ/TU ngày 14/10, kiên trì mục tiêu tăng trưởng GRDP cả năm từ 11% trở lên, phát huy cơ chế chính sách đặc thù cho Thủ đô."
+    },
+    {
+      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài công nghệ cao",
+      "impact": "↑",
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính 0,1% GDP/năm cho nhân tài trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược; mục tiêu 1.000 nhân tài quốc gia đến năm 2030."
     }
   ]
 }
