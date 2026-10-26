@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-26",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán ròng mạnh từ khối ngoại và tự doanh CTCK khiến VN-Index giảm 0,60%, nhưng các tín hiệu vĩ mô dài hạn vẫn tích cực với mục tiêu tăng trưởng GDP 10% giai đoạn 2026-2030, dự án siêu cảng Cần Giờ 128.873 tỷ đồng (5 tỷ USD) và các ngân hàng ghi nhận lợi nhuận tăng trưởng 20%. Nhà đầu tư cần cân nhắc giữa áp lực điều chỉnh ngắn hạn và triển vọng phát triển kinh tế dài hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán 26/10 chịu áp lực bán mạnh từ khối ngoại (900 tỷ đồng) và tự doanh CTCK, VN-Index giảm 10,6 điểm (-0,6%) sau 3 phiên tăng liên tiếp. Nhóm ngân hàng lớn (VCB, MBB, HDB) cùng các cổ phiếu vốn hóa lớn chịu áp lực giảm, và giá vàng chạm đáy 2 tháng qua. Tuy nhiên, các tín hiệu vĩ mô dài hạn vẫn khả quan với dự án siêu cảng Cần Giờ (128.873 tỷ đồng), OCB báo lợi nhuận tăng 20%, và Chính phủ cam kết dành 0,1% GDP cho nhân tài công nghệ.",
   "top": [
     {
-      "title": "VN-Index giảm 0,60% do tự doanh CTCK bán ròng mạnh",
+      "title": "Khối ngoại bán ròng 900 tỷ đồng, VN-Index đứt chuỗi tăng",
       "impact": "↓",
-      "note": "Phiên 26/10, VN-Index giảm 10,60 điểm về 1.763,55 điểm (-0,60%); tự doanh CTCK bán ròng 225 tỷ đồng với mã EIB bị bán mạnh nhất (-193 tỷ), tiếp theo VCB (-41 tỷ), GEX (-25 tỷ), MSN (-23 tỷ), MBB (-22 tỷ)."
-    },
-    {
-      "title": "Khối ngoại bán ròng mạnh nhất 11 phiên, áp lực lên thị trường",
-      "impact": "↓",
-      "note": "Phiên 26/10, khối ngoại bán ròng với thanh khoản tăng mạnh; VN30 có 25 mã tụt giá so với sáng bao gồm các trụ lớn; SSB giảm 4,5%, VIC trả lại 1,09% biên độ, BID mất 1,46%; thanh khoản HoSE chiều tăng 18,3%, VN30 tăng 41,5% so với sáng."
+      "note": "Phiên 26/10, khối ngoại bán ròng gần 900 tỷ đồng trên HoSE, VN-Index giảm 10,6 điểm xuống 1.763,55 điểm (-0,6%) sau 3 phiên tăng; thanh khoản HoSE 13.530 tỷ đồng, độ rộng thị trường nghiêng về bán với 203 mã giảm, 106 mã tăng, 95 mã đứng giá."
     },
     {
       "title": "Dự án siêu cảng Cần Giờ 128.873 tỷ đồng khởi công tháng 10",
       "impact": "↑",
-      "note": "Dự án Cảng trung chuyển quốc tế Cần Giờ tổng vốn đầu tư 128.873 tỷ đồng (gần 5 tỷ USD), liên danh VIMC-Cảng Sài Gòn-Terminal Investment Limited (MSC - hãng tàu lớn nhất thế giới), diện tích 571 ha, là dự án cảng biển quy mô lớn nhất từng được chấp thuận tại Việt Nam."
+      "note": "Cảng trung chuyển quốc tế Cần Giờ khởi công tháng 10/2026 với liên danh VIMC-Cảng Sài Gòn-Terminal Investment Limited (MSC), tổng vốn 128.873 tỷ đồng (gần 5 tỷ USD), diện tích 571 ha, là dự án cảng biển quy mô lớn nhất từng được chấp thuận tại Việt Nam."
     },
     {
       "title": "OCB tăng trưởng lợi nhuận 20% sau 9 tháng",
       "impact": "↑",
-      "note": "Ngân hàng Phương Đông ghi nhận lợi nhuận lũy kế 9 tháng đạt 4.123 tỷ đồng tăng hơn 20% so với cùng kỳ; thu thuần dịch vụ quý III tăng 62,3% so với quý III/2025, thu thuần từ lãi tăng 14,2% lên 2.768 tỷ đồng."
+      "note": "OCB báo lợi nhuận quý III 1.653 tỷ đồng (+7,5% so cùng kỳ), lũy kế 9 tháng đạt 4.123 tỷ đồng (+20%); thu thuần dịch vụ quý III tăng 62,3%, thu từ lãi tăng 14,2% lên 2.768 tỷ đồng."
     },
     {
-      "title": "Chính phủ dành 0.1% GDP mỗi năm cho nhân tài công nghệ",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính bố trí khoảng 0.1% GDP mỗi năm cho nhân tài; phấn đấu thu hút khoảng 1.000 nhân tài quốc gia đến năm 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "title": "Giá vàng giảm 2,1 triệu đồng/lượng trong 2 tuần, chạm đáy 2 tháng",
+      "impact": "↓",
+      "note": "Vàng miếng SJC giảm liên tiếp trong 2 tuần (12-24/10) tổng cộng 2,1 triệu đồng/lượng, hôm 26/10 ở 138,7-141,7 triệu đồng/lượng, mức thấp nhất 2 tháng qua; phản ánh tâm lý nhà đầu tư chuyển dịch từ an toàn sang tìm kiếm rủi ro."
     },
     {
-      "title": "SHB phát hành trái phiếu 229 triệu SGD tại Singapore",
+      "title": "Chính phủ bố trí 0,1% GDP hàng năm cho nhân tài công nghệ",
       "impact": "↑",
-      "note": "Ngân hàng TMCP Sài Gòn – Hà Nội phát hành trái phiếu quốc tế 229 triệu đô la Singapore tại Singapore, được ghi nhận là giao dịch đầu tiên của ngân hàng Việt Nam tại thị trường này, mở rộng kênh huy động vốn quốc tế và kết nối với các nhà đầu tư quốc tế."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính bố trí 0,1% GDP mỗi năm trong ngân sách khoa học, công nghệ và chuyển đổi số; phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu."
+    },
+    {
+      "title": "NDN báo lỗ 10 tỷ đồng quý 3 do thị trường giảm giá",
+      "impact": "↓",
+      "note": "NDN đảo chiều từ lãi 71 tỷ sang lỗ 10 tỷ đồng quý III 2026; doanh thu giảm 19%, chi phí tài chính tăng 92% lên 26 tỷ đồng do biến động tiêu cực thị trường chứng khoán làm giảm hiệu quả danh mục."
     }
   ]
 }
