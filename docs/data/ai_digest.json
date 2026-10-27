@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán hôm nay ghi nhận tín hiệu tích cực từ ngành ngân hàng (ACB tín dụng +11,5%, OCB lợi nhuận +20% trong 9 tháng) và nhóm bất động sản với thanh khoản tăng 20% trên HOSE. Chính phủ tiếp tục hỗ trợ nhân tài (0,1% GDP/năm) và TP.HCM nhắm mục tiêu 19 tỷ USD FDI chất lượng cao. Tuy nhiên, ngành chứng khoán đối mặt thách thức với VPS giảm 286 nhân viên và hoạt động môi giới suy yếu do thanh khoản thị trường còn yếu.",
+  "summary_vi": "Thị trường phục hồi mạnh trong tuần vừa qua với nhóm bất động sản hút tiền mạnh, trong khi ngành ngân hàng tiếp tục khẳng định sức mạnh (ACB tăng trưởng tín dụng 11,5%, Fitch nâng xếp hạng). Chính phủ tăng cường hỗ trợ công nghệ (0,1% GDP cho nhân tài AI, bán dẫn) và TP.HCM nhắm hút 19 tỷ USD FDI chất lượng cao. Tuy nhiên, áp lực từ ngành chứng khoán (VPS mất 286 nhân viên) cần theo dõi. Thị trường toàn cầu lạc quan về AI (Anthropic IPO, Meta huy động 95 tỷ USD).",
   "top": [
     {
-      "title": "ACB: Tín dụng tăng 11,5%, xếp hạng nâng BB",
+      "title": "ACB tăng trưởng tín dụng, Fitch nâng xếp hạng BB",
       "impact": "↑",
-      "note": "Cho vay khách hàng đạt 765 nghìn tỷ đồng, tăng 11,5% từ đầu năm. Fitch Ratings nâng xếp hạng lên BB, huy động thành công 500 triệu USD vốn quốc tế."
+      "note": "Cho vay khách hàng đạt 765 nghìn tỷ đồng, tăng 11,5% so với đầu năm; huy động thành công vay hợp vốn quốc tế 500 triệu USD; Fitch nâng xếp hạng từ B+ lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính và quản trị rủi ro."
     },
     {
-      "title": "OCB: Lợi nhuận 9 tháng tăng 20%",
+      "title": "Chứng khoán Mỹ tăng, AI boom thúc đẩy",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế 9 tháng đạt 4.123 tỷ đồng, tăng hơn 20%. Tổng thu thuần quý III tăng 12,3%, trong đó thu từ lãi tăng 14,2%, thu dịch vụ tăng 62,3%."
+      "note": "S&P 500 tăng 0,7% đạt 7.676,77 điểm, Nasdaq tăng 0,82% đạt 26.169,38 điểm. Anthropic nộp hồ sơ IPO với doanh thu 16,29 tỷ USD/6 tháng (tăng 1.304% YoY); Meta huy động 95 tỷ USD cho AI, SpaceX vay 40 tỷ USD chip AI; chip stocks tăng (Nvidia +2,4%, Micron +3%, Broadcom +2,3%)."
     },
     {
-      "title": "Nhóm bất động sản hút tiền mạnh",
+      "title": "TP.HCM hút 19 tỷ USD FDI, ưu tiên chất lượng cao",
       "impact": "↑",
-      "note": "Tuần 19-23/10, VN-Index tăng 4% lên 1.774 điểm. Thanh khoản HOSE tăng 20%, nhóm BĐS như SZC, BCM, IJC, NLG, HDC có khối lượng giao dịch tăng trên 100%."
+      "note": "Năm 2026, TP.HCM đặt mục tiêu thu hút 19 tỷ USD vốn FDI, ưu tiên tài chính, công nghệ, chuyển đổi số, kinh tế xanh; mục tiêu xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng."
     },
     {
-      "title": "VPS: Giảm 286 nhân viên trong quý III",
+      "title": "Cổ phiếu bất động sản hút tiền mạnh",
+      "impact": "↑",
+      "note": "Tuần 19-23/10: VN-Index tăng 4% về 1.774 điểm, HOSE khối lượng +20% đạt 716 triệu đơn vị/phiên, giá trị giao dịch +20% đạt 15,8 ngàn tỷ đồng/phiên. Nhóm BĐS bứt phá mạnh, khối lượng +100% ở SZC, BCM, IJC, NLG, HDC, DXS, EVG."
+    },
+    {
+      "title": "VPS khủng hoảng nhân sự, ngành chứng khoán gặp khó",
       "impact": "↓",
-      "note": "Nhân sự giảm từ 1.921 xuống 1.635 (giảm 15% trong 3 tháng). Doanh thu hoạt động đạt 2.076 tỷ đồng, giảm 23,3% so với cùng kỳ do thanh khoản môi giới suy yếu."
+      "note": "Q3/2026: VPS giảm 286 nhân viên xuống 1.635, giảm 15% trong 3 tháng; so với đỉnh Q2/2022 (2.561 người) giảm 926 người (36%). Doanh thu Q3 giảm 23,3% do thanh khoản môi giới suy yếu."
     },
     {
-      "title": "Ngành môi giới chứng khoán chật vật",
-      "impact": "↓",
-      "note": "Phản hồi khách hàng thưa dần, nhà đầu tư không muốn giao dịch trong bối cảnh thanh khoản yếu và thiếu động lực thị trường, tạo áp lực lên doanh thu."
-    },
-    {
-      "title": "Chính phủ: 0,1% GDP/năm cho nhân tài, tập trung AI, bán dẫn",
+      "title": "Chính phủ hỗ trợ nhân tài công nghệ",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 dành 0,1% GDP mỗi năm cho nhân tài. Phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10: bố trí ngân sách 0,1% GDP mỗi năm cho nhân tài; mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 trong các lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu."
     }
   ]
 }
