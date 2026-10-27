@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-27",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực từ hai phía: từ ngoài là khả năng Fed tiếp tục tăng lãi suất do lạm phát tái phát, từ trong là dòng vốn nước ngoài bán ròng 21.000 tỷ đồng từ đầu năm. Tuy nhiên, ngành ngân hàng cho thấy dấu hiệu khởi sắc (ACB, OCB tăng trưởng lợi nhuận 20%+), và chính phủ đẩy mạnh thu hút FDI 19 tỷ USD vào lĩnh vực công nghệ, tài chính. Rủi ro đến từ sự sụt giảm nhân sự tại VPS gây áp lực lên ngành chứng khoán.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính sách nhân tài (0,1% GDP hàng năm) và mục tiêu FDI TP.HCM (19 tỷ USD) tạo động lực tăng trưởng cho công nghệ, tài chính, bán dẫn. ACB tăng tín dụng 11,5%, Fitch nâng BB, Fed sẽ công bố PCE tuần này hỗ trợ FDI toàn cầu nếu tốt. Tuy nhiên, khối ngoại xả hàng mạnh (21.000 tỷ đ) và doanh thu môi giới giảm 23,3% tạo áp lực ngắn hạn.",
   "top": [
     {
-      "title": "Fed có thể tiếp tục tăng lãi suất do lạm phát tái phát",
-      "impact": "↓",
-      "note": "Lạm phát Mỹ tăng trong tháng 9, kinh tế quý 3 tăng tốc nhờ nhu cầu AI, thị trường lao động ổn định (thất nghiệp 4,2%). Giới phân tích dự Fed sẽ tiếp tục tăng lãi suất tuần này, áp lực tiêu cực đến TTCK Việt Nam do lãi suất USD cao."
-    },
-    {
-      "title": "ACB tín dụng tăng 11,5%, Fitch nâng BB",
+      "title": "Fed tạm dừng tăng lãi suất nếu PCE tốt tuần này",
       "impact": "↑",
-      "note": "Cho vay khách hàng ACB đạt 765 nghìn tỷ đồng, tăng 11,5% so với đầu năm; huy động vay hợp vốn quốc tế 500 triệu USD; Fitch Ratings nâng xếp hạng tín nhiệm lên BB, triển vọng Ổn định."
+      "note": "Lạm phát Mỹ tăng tháng 9 nhưng thất nghiệp ổn định (4,2%). Fed sẽ công bố chỉ số PCE thứ năm tuần này — nếu tốt, Fed có thể tạm dừng tăng lãi suất, hỗ trợ dòng FDI vào Việt Nam."
     },
     {
-      "title": "Nhà đầu tư nước ngoài bán ròng 21.000 tỷ từ đầu năm",
-      "impact": "↓",
-      "note": "Tính đến đầu tháng 10, giá trị bán ròng nhà đầu tư nước ngoài đạt 21.000 tỷ đồng, mức cao nhất từ trước đến nay, tỷ trọng sở hữu ngoại giảm xuống 11%. Áp lực bán mạnh từ nước ngoài."
-    },
-    {
-      "title": "TPHCM mục tiêu hút 19 tỷ USD FDI năm 2026",
+      "title": "ACB tăng tín dụng 11,5%, Fitch nâng xếp hạng BB",
       "impact": "↑",
-      "note": "TP.HCM quyết thực hiện mục tiêu thu hút 19 tỷ USD vốn FDI, ưu tiên lĩnh vực tài chính, công nghệ, chuyển đổi số, kinh tế xanh; xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng."
+      "note": "Cho vay khách hàng đạt 765 nghìn tỷ đ, tăng 11,5% từ đầu năm. ACB huy động thành công 500 triệu USD vay hợp vốn quốc tế, Fitch nâng xếp hạng BB triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập."
     },
     {
-      "title": "VPS mất 286 nhân viên, doanh thu giảm 23,3%",
-      "impact": "↓",
-      "note": "VPS nhân sự giảm 286 người xuống 1.635 (từ 1.921 hôm 30/6, tương đương 15%), doanh thu Q3 giảm 23,3%, phản ánh áp lực từ thanh khoản suy yếu đối với hoạt động chứng khoán."
-    },
-    {
-      "title": "OCB lợi nhuận 9 tháng tăng hơn 20%",
+      "title": "TP.HCM hút 19 tỷ USD FDI năm 2026, ưu tiên công nghệ",
       "impact": "↑",
-      "note": "Lợi nhuận lũy kế 9 tháng 2026 đạt 4.123 tỷ đồng, tăng hơn 20%; Q3 tăng 7,5%. Tổng thu thuần Q3 tăng 12,3%, đặc biệt doanh thu dịch vụ tăng 62,3%."
+      "note": "TP.HCM đặt mục tiêu hút 19 tỷ USD vốn FDI, ưu tiên chất lượng cao vào tài chính, công nghệ, chuyển đổi số, kinh tế xanh. Hệ sinh thái FDI-công nghệ-tài chính-hạ tầng sẽ tạo động lực tăng trưởng cho các cổ phiếu liên quan."
+    },
+    {
+      "title": "Chính phủ bố trí 0,1% GDP hàng năm cho nhân tài",
+      "impact": "↑",
+      "note": "Chính phủ ban hành Nghị quyết 336 bố trí ngân sách 0,1% GDP mỗi năm cho thu hút nhân tài quốc gia, tập trung vào AI, bán dẫn, lượng tử, khoa học dữ liệu. Mục tiêu 1.000 nhân tài quốc gia đến 2030 tạo nền tảng phát triển ngành công nghệ dài hạn."
+    },
+    {
+      "title": "Khối ngoại bán ròng 21.000 tỷ từ đầu năm",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 21.000 tỷ đ từ đầu năm (mức cao nhất từ trước), tỷ trọng sở hữu giảm xuống 11%. Xu hướng xả hàng mạnh từ nhà đầu tư quốc tế tạo áp lực đáng kể lên thị trường chứng khoán ngắn hạn."
+    },
+    {
+      "title": "VPS giảm 286 nhân viên, doanh thu môi giới giảm 23,3%",
+      "impact": "↓",
+      "note": "Chứng khoán VPS giảm 286 nhân sự trong Q3 (từ 1.921 xuống 1.635), doanh thu hoạt động giảm 23,3% so với cùng kỳ. Sự sụt giảm phản ánh áp lực từ thanh khoản thị trường suy yếu tác động đến hoạt động môi giới."
     }
   ]
 }
