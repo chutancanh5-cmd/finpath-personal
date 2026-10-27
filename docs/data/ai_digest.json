@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường phiên 27/10 ghi nhận áp lực bán mạnh với VN-Index giảm 0,1% xuống 1.762 điểm, thanh khoản chỉ 10.334 tỷ đồng phản ánh tâm lý thận trọng, điều chỉnh lần thứ hai liên tiếp. Tuy nhiên, các tín hiệu tích cực dài hạn xuất hiện qua việc ACB được Fitch nâng xếp hạng lên BB, dự án Vingroup 18 tỷ USD đang triển khai quy mô lớn chưa từng có, và chính phủ cấp bổ 0,1% GDP hàng năm cho tuyển dụng nhân tài trong AI. Khối ngoại bán ròng 319 tỷ đồng nhưng mua lớn TCB 197 tỷ đồng cho thấy sự chọn lựa cơ cấu.",
+  "summary_vi": "Thị trường chứng khoán diễn biến trầm lắng phiên thứ hai liên tiếp với thanh khoản chỉ 10.334 tỷ đồng, khối ngoại bán ròng 319 tỷ và VN-Index giảm 0,1%. Tuy nhiên, các tín hiệu tích cực từ chính sách (0.1% GDP cho nhân tài, tập trung AI/bán dẫn), ngân hàng ACB (tín dụng tăng 11.5%, Fitch nâng xếp hạng BB) và các dự án megaproject lớn (Vingroup 18 tỷ USD, KIM LONG xuất khẩu) có thể hỗ trợ thị trường dài hạn. Ngắn hạn, áp lực bán và suy giảm lợi nhuận ngành chứng khoán vẫn là rủi ro đáng chú ý.",
   "top": [
     {
-      "title": "Thị trường ghi nhận điều chỉnh lần thứ hai, thanh khoản suy yếu",
+      "title": "Thị trường 2 phiên liên tiếp điều chỉnh, khối ngoại bán ròng 319 tỷ",
       "impact": "↓",
-      "note": "VN-Index giảm 0,1% xuống 1.762 điểm, thanh khoản HoSE chỉ 10.334 tỷ đồng. Lực bán áp đảo với 340 mã giảm so với 240 mã tăng, hơn 100 cổ phiếu giảm trên 1%."
+      "note": "VN-Index giảm 0,1% xuống 1.762 điểm; thanh khoản suy yếu chỉ 10.334 tỷ đồng; 340 mã giảm so với 240 mã tăng; khối ngoại bán ròng 319 tỷ đồng với ACB bị bán ròng 177 tỷ, FPT 149 tỷ; sắc đỏ áp đảo hơn 100 cổ phiếu giảm quá 1%."
     },
     {
-      "title": "Cổ phiếu chứng khoán lợi nhuận quý 3 giảm 50% so với cùng kỳ",
+      "title": "ACB: Tín dụng tăng 11.5%, Fitch Ratings nâng xếp hạng lên BB",
+      "impact": "↑",
+      "note": "Tăng trưởng tín dụng 9 tháng 2026 đạt 11.5%; cho vay khách hàng 765 nghìn tỷ đồng; huy động thành công khoản vay 500 triệu USD; Fitch Ratings nâng xếp hạng từ B+ lên BB với triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập."
+    },
+    {
+      "title": "Chính phủ đặt mục tiêu dành 0.1% GDP mỗi năm cho nhân tài",
+      "impact": "↑",
+      "note": "Nghị quyết 336/NQ-CP ban hành 23/10/2026 dành khoảng 0.1% GDP/năm cho tuyển dụng nhân tài; mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030; tập trung vào AI, bán dẫn, lượng tử, khoa học dữ liệu."
+    },
+    {
+      "title": "Vingroup khởi động siêu dự án Vinhomes Global Gate Hạ Long 18 tỷ USD",
+      "impact": "↑",
+      "note": "Khu đô thị phức hợp Hạ Long Xanh tại Quảng Ninh đang thi công cao độ; quý I-II/2026 huy động 12.155-12.799 lao động; chi phí xăng dầu 10 tỷ đồng/ngày; dự án tuyển thêm 6.000 lao động."
+    },
+    {
+      "title": "Lợi nhuận ngành chứng khoán giảm 50%, thanh khoản suy yếu",
       "impact": "↓",
-      "note": "Nhóm chứng khoán ghi nhận mức suy giảm mạnh, đặc biệt các công ty có tỷ trọng lớn danh mục tự doanh cổ phiếu niêm yết. Một số công ty chứng khoán đã tiệm cận giới hạn cho vay ký quỹ tối đa."
+      "note": "Lợi nhuận sau thuế nhóm chứng khoán quý III giảm 50% so với cùng kỳ năm trước; suy giảm tập trung ở công ty có tỷ trọng lớn danh mục tự doanh cổ phiếu niêm yết; dư nợ cho vay ký quỹ một số công ty tiệm cận ngưỡng tối đa."
     },
     {
-      "title": "Siêu dự án 18 tỷ USD của Vingroup triển khai quy mô kỷ lục",
+      "title": "KIM LONG MOTOR ký MOU Costa Rica, mở cơ hội xuất khẩu xe Việt Trung Mỹ",
       "impact": "↑",
-      "note": "Dự án Vinhomes Global Gate Hạ Long tại Quảng Ninh giai đoạn thi công cao độ với 12.155 lao động, chi phí xăng dầu 10 tỷ đồng/ngày. Tạo động lực đáng kể cho kinh tế xã hội và thị trường lao động địa phương."
-    },
-    {
-      "title": "ACB được Fitch Ratings nâng xếp hạng lên BB, triển vọng Ổn định",
-      "impact": "↑",
-      "note": "ACB tăng trưởng tín dụng 11,5% trong 9 tháng 2026, huy động thành công 500 triệu USD vay hợp vốn quốc tế. Fitch ghi nhận sức mạnh tài chính độc lập và năng lực quản trị rủi ro thận trọng."
-    },
-    {
-      "title": "Chính phủ dành 0,1% GDP mỗi năm để tuyển dụng nhân tài",
-      "impact": "↑",
-      "note": "Mục tiêu tuyển dụng 1.000 nhân tài quốc gia đến 2030 tập trung vào AI, bán dẫn, lượng tử, khoa học dữ liệu. Hiện 26% doanh nghiệp Việt Nam ứng dụng AI, tăng từ 18% năm trước."
-    },
-    {
-      "title": "Khối ngoại bán ròng 319 tỷ nhưng mua lớn TCB 197 tỷ đồng",
-      "impact": "→",
-      "note": "Khối ngoại rút ròng 319 tỷ đồng toàn thị trường, nhưng TCB nhận mua ròng 197 tỷ đồng (đơn vị mua lớn nhất), trong khi ACB bị bán ròng 177 tỷ đồng. Cho thấy chiến lược chọn lựa cổ phiếu ngân hàng."
+      "note": "27/10/2026, KIM LONG MOTOR ký Biên bản Ghi nhớ Hợp tác với Vertex R.L (Costa Rica) để đưa dòng xe thương mại vào Costa Rica và khu vực Trung Mỹ; sự kiện chứng kiến bởi Đại sứ Costa Rica kiêm nhiệm Việt Nam."
     }
   ]
 }
