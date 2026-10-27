@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-10-27",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang cân bằng giữa những tín hiệu tích cực từ ngành ngân hàng (ACB tăng trưởng tín dụng 11,5%, OCB lợi nhuận tăng 20%) và nỗ lực thu hút FDI chất lượng cao (TP.HCM mục tiêu 19 tỷ USD), nhưng phải đối mặt với rủi ro xả hàng từ khối ngoại (bán ròng 21.000 tỷ đồng) và áp lực từ chính sách tiền tệ toàn cầu khi Fed cân nhắc tiếp tục tăng lãi suất do lạm phát dai dẳng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam nhận những tín hiệu tích cực từ ngành ngân hàng (ACB tăng 11,5% tín dụng, OCB tăng 20% lợi nhuận) và chiến lược FDI chất lượng cao (TP.HCM mục tiêu 19 tỷ USD). Môi trường vĩ mô cũng thuận lợi hơn khi Fed tạm dừng tăng lãi suất; kinh tế Mỹ duy trì tăng trưởng nhờ tiêu dùng vững và nhu cầu AI bùng nổ. Chính phủ Việt Nam cũng đẩy mạnh đầu tư vào nhân tài công nghệ. Tuy nhiên, rủi ro ngắn hạn vẫn hiện hữu từ áp lực bán liên tục của khối ngoại (21.000 tỷ đồng từ đầu năm).",
   "top": [
     {
       "title": "Khối ngoại bán ròng 21.000 tỷ từ đầu năm, tỷ trọng sở hữu giảm xuống 11%",
@@ -10,9 +10,9 @@
       "note": "Nhà đầu tư nước ngoài bán ròng khoảng 21.000 tỷ đồng từ đầu năm 2026 (mức cao nhất từ trước); tỷ trọng sở hữu giảm từ mức cao xuống còn 11%, phản ánh xu hướng xả hàng dai dẳng của khối ngoại trước những biến động thị trường toàn cầu."
     },
     {
-      "title": "Fed có thể tiếp tục tăng lãi suất giữa lo ngại lạm phát dai dẳng",
-      "impact": "↓",
-      "note": "Lạm phát Mỹ tăng trong tháng 9, nền kinh tế Mỹ tăng tốc quý 3 nhờ tiêu dùng vững; thị trường lao động ổn định (thất nghiệp 4,2%); các nhà phân tích đánh giá nếu không vì lợi suất trái phiếu Mỹ tăng, Fed sẽ có khả năng cao tiếp tục tăng lãi suất, gây áp lực lên thị trường mới nổi."
+      "title": "Fed tạm dừng tăng lãi suất, kinh tế Mỹ tăng tốc nhờ AI",
+      "impact": "↑",
+      "note": "Fed tạm dừng tăng lãi suất trong bối cảnh lãi suất trái phiếu Mỹ tăng đã giúp thắt lại điều kiện tài chính; nền kinh tế Mỹ tăng tốc quý 3 nhờ tiêu dùng vững và nhu cầu AI bùng nổ; thị trường lao động ổn định với thất nghiệp 4,2%, tạo môi trường thuận lợi cho thị trường mới nổi."
     },
     {
       "title": "TP.HCM mục tiêu hút 19 tỷ USD FDI năm 2026, ưu tiên công nghệ và tài chính",
@@ -25,9 +25,9 @@
       "note": "Ngân hàng TMCP Á Châu ghi nhận tăng trưởng tín dụng 11,5% (cho vay khách hàng 765 nghìn tỷ đồng), huy động thành công 500 triệu USD vay hợp vốn quốc tế; Fitch Ratings nâng xếp hạng tín nhiệm lên BB với triển vọng Ổn định, ghi nhận sức mạnh tài chính và quản trị rủi ro."
     },
     {
-      "title": "Người Việt nắm giữ gần 500 tấn vàng 'trong két', thị trường vốn cần hút dòng tiền",
+      "title": "OCB lợi nhuận tăng 20% sau 9 tháng 2026",
       "impact": "↑",
-      "note": "Chủ tịch KIM Việt Nam cho biết người Việt sở hữu gần 500 tấn vàng; Việt Nam có tiềm năng trở thành bến đỗ đầu tư an toàn trước những biến động vĩ mô toàn cầu; thị trường vốn cần huy động dòng tiền này vào đầu tư."
+      "note": "Ngân hàng OCB ghi nhận lợi nhuận lũy kế 9 tháng đạt 4.123 tỷ đồng, tăng hơn 20% so với cùng kỳ; tổng thu thuần tăng 12,3%, trong đó thu từ lãi tăng 14,2%, phản ánh hoạt động kinh doanh cốt lõi mạnh mẽ."
     },
     {
       "title": "Chính phủ dành 0.1% GDP hàng năm cho nhân tài, phấn đấu tuyển 1.000 người đến 2030",
