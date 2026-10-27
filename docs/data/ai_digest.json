@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-27",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Các chỉ số kinh tế vĩ mô chính đều dương: xuất khẩu tăng 12.4% (động lực từ điện tử), các ngân hàng tăng trưởng lợi nhuận hơn 20%, Chính phủ kiểm soát lạm phát tốt bất chấp giá xăng dầu thế giới tăng 65-90%. Việt Nam được FTSE Russell nâng hạng thị trường mới nổi thứ cấp (tháng 9/2026) và dòng tiền ETF bắt đầu vào ròng (30.3 tỷ VN30 ETF, +23.1 tỷ DIAMOND ETF), chuẩn bị cho dòng vốn quốc tế. Tuy nhiên, thanh khoản giao dịch suy yếu (4.605 tỷ đồng, giảm 16%) và giá vàng giảm 2 tuần liên tiếp là cảnh báo rủi ro ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán hôm nay diễn biến cân bằng nhưng yếu với thanh khoản suy giảm, số mã giảm vẫn chiếm ưu thế. Tuy vậy, các tín hiệu tích cực từ tăng trưởng tín dụng (ACB tăng 11.5%), nhóm nguyên vật liệu sôi động, và nỗ lực thu hút FDI của TP.HCM (mục tiêu 19 tỷ USD) tạo cơ hội phục hồi. Giá vàng giảm 50 triệu đồng từ đầu năm phản ánh sự chốt lời và tái cân bằng danh mục nhà đầu tư.",
   "top": [
     {
-      "title": "Xuất khẩu tăng 12.4%, xuất siêu hai kỳ liên tiếp",
-      "impact": "↑",
-      "note": "Nửa đầu tháng 10/2026, kim ngạch xuất khẩu đạt 29.25 tỷ USD (tăng 12.41%), nhập khẩu giảm 4.9%, cán cân thương mại xuất siêu 1.82 tỷ USD. Điện tử (máy vi tính, sản phẩm điện tử, linh kiện) tăng 21.17% lên 11.59 tỷ USD là động lực chính, tăng 2.03 tỷ USD so với kỳ trước."
+      "title": "Thị trường thanh khoản yếu, sắc đỏ chiếm ưu thế",
+      "impact": "→",
+      "note": "Sàn HOSE sáng 27/10 có 180 mã giảm vs 109 mã tăng. Tổng giá trị khớp lệnh chỉ 4.605 tỷ đồng, thấp nhất 5 phiên và giảm 16% so với sáng hôm trước. Áp lực bán cân bằng nhưng thanh khoản suy yếu gây rủi ro ngắn hạn."
     },
     {
-      "title": "Chính phủ kiểm soát lạm phát, mục tiêu GDP 10%+ năm 2027",
+      "title": "ACB: Tín dụng tăng 11.5%, Fitch nâng xếp hạng BB",
       "impact": "↑",
-      "note": "Giá xăng dầu thế giới tăng 65-90%, nhưng Chính phủ giữ giá xăng dầu, điện trong nước ở mức thấp để kiểm soát CPI; mục tiêu tăng trưởng GDP từ 10% trở lên năm 2027."
+      "note": "Ngân hàng ACB báo cáo 9 tháng 2026 với tín dụng tăng 11.5% đạt 765 nghìn tỷ đồng, phân khúc doanh nghiệp là động lực chính. Fitch Ratings nâng một bậc xếp hạng lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập."
     },
     {
-      "title": "Dòng tiền ETF vào ròng, nhà đầu tư nước ngoài quay lại",
+      "title": "TP.HCM mục tiêu 19 tỷ USD FDI, xây dựng hệ sinh thái đầu tư",
       "impact": "↑",
-      "note": "DCVFM VN30 ETF vào ròng 30.3 tỷ đồng, DCVFMVN DIAMOND ETF +23.1 tỷ đồng (đảo chiều từ -90.5 tỷ tuần trước), VINACAPITAL VN100 ETF +7.3 tỷ đồng. Tính từ đầu tháng 10, quy mô rút ròng toàn thị trường 409.2 tỷ đồng (giảm 37.1% so với tháng trước)."
+      "note": "TP.HCM quyết thực hiện mục tiêu thu hút 19 tỷ USD vốn FDI năm 2026, xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng. Nhấn mạnh FDI chất lượng cao, tạo động lực tăng trưởng mới bối cảnh kinh tế toàn cầu tái cấu trúc."
     },
     {
-      "title": "ACB tín dụng tăng 11.5%, Fitch nâng xếp hạng BB",
-      "impact": "↑",
-      "note": "Tín dụng ACB đạt 765 nghìn tỷ đồng (tăng 11.5% so với đầu năm), huy động thành công 500 triệu USD vay hợp vốn quốc tế. Fitch Ratings nâng xếp hạng tín nhiệm lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập và năng lực quản trị rủi ro."
+      "title": "Giá vàng giảm 50 triệu đồng từ đầu năm, chốt lời sang cổ phiếu",
+      "impact": "→",
+      "note": "Giá vàng miếng SJC hôm 27/10 ở mức 141,5 triệu đồng/lượng, giảm hơn 50 triệu đồng so với đỉnh đầu năm (khoảng 191+ triệu đồng). Phản ánh nhà đầu tư chốt lời vàng, tái cân bằng danh mục từ tài sản an toàn sang cấp vốn chủ."
     },
     {
-      "title": "FTSE Russell nâng hạng, chuẩn bị dòng vốn quốc tế",
+      "title": "Nguyên vật liệu và bán lẻ tăng, cân bằng áp lực bán",
       "impact": "↑",
-      "note": "FTSE Russell nâng hạng Việt Nam lên thị trường mới nổi thứ cấp vào tháng 9/2026. Việt Nam có 13.7 triệu tài khoản chứng khoán, nhà đầu tư nội bộ đóng góp 90% giá trị giao dịch, sẵn sàng hưởng lợi từ dòng vốn ngoài."
+      "note": "Nhóm nguyên vật liệu ghi nhận tình trạng khá tích cực: HPG, NKG, HSG, MSR, HHP tăng giá. Nhóm bán lẻ (MWG, FRT) thể hiện sắc xanh, giúp cân bằng áp lực bán toàn thị trường."
     },
     {
-      "title": "OCB lợi nhuận 9 tháng tăng hơn 20%",
+      "title": "Chính phủ bố trí 0.1% GDP hàng năm cho nhân tài (Nghị quyết 336)",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế 9 tháng 2026 đạt 4.123 tỷ đồng (tăng hơn 20% YoY); tổng thu thuần quý 3 đạt 3.291 tỷ đồng (tăng 12.3% YoY), thu thuần dịch vụ tăng 62.3% YoY từ thanh toán, thẻ, bảo lãnh."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính, bố trí ngân sách khoảng 0.1% GDP mỗi năm cho nhân tài. Hỗ trợ thu hút 1.000 nhân tài quốc gia đến 2030, tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu."
     }
   ]
 }
