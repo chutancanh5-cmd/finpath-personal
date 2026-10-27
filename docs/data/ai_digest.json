@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-27",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách hỗ trợ nhân tài (0.1% GDP/năm) và nhu cầu huy động 1.7 triệu tỷ đồng/năm ở TP.HCM kích thích tăng trưởng; ACB mạnh mẽ với tín dụng +11.5% và xếp hạng Fitch BB nâng. Mục tiêu 19 tỷ USD FDI năm 2026 mở cơ hội tài chính, công nghệ. Rủi ro từ Trung Quốc (mất 3.500 tỷ USD) và thất bại dự án BĐS lớn cần canh chừng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Chính phủ tăng cường đầu tư công nghệ (0.1% GDP/năm cho nhân tài AI, bán dẫn, lượng tử) và TP.HCM chuẩn bị huy động 1.7 triệu tỷ đồng vốn 2026-2030, tạo cơ hội lớn cho ngành công nghệ tài chính. FPT ứng dụng AI vào dầu khí toàn cầu (thị trường 7.5 tỷ USD), ACB ghi nhận tín dụng tăng 11.5% và Fitch nâng xếp hạng lên BB là những khí cầu lạc quan. Tuy nhiên, thị trường chứng khoán hôm nay yếu với thanh khoản giảm 16% và cần phát triển sản phẩm tài chính để tối ưu hóa dòng vốn nước ngoài.",
   "top": [
     {
-      "title": "ACB: Tín dụng tăng 11.5%, Fitch nâng BB",
+      "title": "FPT ứng dụng AI vào dầu khí toàn cầu",
       "impact": "↑",
-      "note": "Cho vay 765 nghìn tỷ đồng, tăng 11.5% so đầu năm, chủ yếu từ doanh nghiệp. Fitch Ratings nâng xếp hạng BB, ghi nhận sức mạnh tài chính độc lập và năng lực quản trị rủi ro thận trọng."
+      "note": "FPT xây dựng mô hình AI từ 45 triệu bản ghi dữ liệu thô, đạt độ chính xác vượt mức 60% hiện tại, mở cơ hội tiếp cận thị trường dầu khí toàn cầu dự kiến chi 7.5 tỷ USD cho AI"
     },
     {
-      "title": "TP.HCM cần huy động 1.7 triệu tỷ đồng/năm",
+      "title": "Chính phủ đầu tư 0.1% GDP/năm cho nhân tài công nghệ",
       "impact": "↑",
-      "note": "Nhu cầu huy động 1,7 triệu tỷ đồng/năm giai đoạn 2026-2030 (22% tổng nhu cầu cả nước); vốn phải duy trì 40% GDP để đạt tăng trưởng 13-15%/năm."
+      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP phân bổ 0.1% GDP hàng năm cho nhân tài, lên kế hoạch thu hút 1,000 nhân tài đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu"
     },
     {
-      "title": "Chính phủ dành 0.1% GDP/năm cho nhân tài",
+      "title": "ACB tín dụng tăng 11.5%, Fitch nâng xếp hạng BB",
       "impact": "↑",
-      "note": "Ngân sách khoảng 0.1% GDP mỗi năm cho nhân tài (Nghị quyết 336/NQ-CP); mục tiêu 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu."
+      "note": "ACB 9 tháng 2026 tín dụng tăng 11.5% lên 765 nghìn tỷ đồng, huy động 500 triệu USD vốn quốc tế, Fitch Ratings nâng xếp hạng tín nhiệm lên BB với triển vọng Ổn định"
     },
     {
-      "title": "Thị trường Trung Quốc mất 3.500 tỷ USD",
+      "title": "TP.HCM cần huy động 1.7 triệu tỷ đồng vốn 2026-2030",
+      "impact": "↑",
+      "note": "TP.HCM cần huy động 1.7 triệu tỷ đồng vốn đầu tư/năm giai đoạn 2026-2030 (22% tổng nhu cầu cả nước), với chỉ tiêu thu hút 19 tỷ USD FDI năm 2026 trong công nghệ, tài chính, chuyển đổi số"
+    },
+    {
+      "title": "Thị trường chứng khoán yếu, thanh khoản giảm 16%",
       "impact": "↓",
-      "note": "Mất 3.500 tỷ USD giá trị kể từ tháng 5/2026; CSI 300 vào thị trường giá xuống, lợi nhuận doanh nghiệp bị ăn mòn bởi tăng trưởng chậm."
+      "note": "HoSE sáng 27/10 khớp 4.605 tỷ đồng (thấp nhất 5 phiên, giảm 16% so với sáng hôm qua), 180 mã giảm giá; danh sách cổ phiếu bị cắt margin cập nhật, hiện có 67 mã không đủ điều kiện"
     },
     {
-      "title": "TP.HCM mục tiêu 19 tỷ USD FDI năm 2026",
-      "impact": "↑",
-      "note": "Mục tiêu thu hút 19 tỷ USD vốn đầu tư nước ngoài năm 2026; ưu tiên tài chính, công nghệ, chuyển đổi số, kinh tế xanh, phát triển bền vững."
-    },
-    {
-      "title": "Thép Thủ Đức chấm dứt dự án BĐS Trường Thọ",
+      "title": "Việt Nam thị trường chứng khoán bị hạn chế sản phẩm tài chính",
       "impact": "↓",
-      "note": "Chấm dứt hợp tác Refico sau 10 năm (từ 2016); dự án 6.3ha Trường Thọ vẫn chưa triển khai, ảnh hưởng niềm tin vào bất động sản."
+      "note": "Việt Nam chỉ có khoảng 100 quỹ đối với 13.7 triệu tài khoản chứng khoán, trong khi Hàn Quốc có 5,000 quỹ; thị trường được mô tả giống cửa hàng đông khách nhưng quá ít hàng để bán"
     }
   ]
 }
