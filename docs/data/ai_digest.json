@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-27",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Hơn 20 ngân hàng giảm lãi suất cho vay với gói tín dụng ưu đãi tổng 451.000 tỷ đồng hỗ trợ doanh nghiệp sản xuất kinh doanh. Các ngân hàng lớn ghi nhận tăng trưởng tốt (VietABank +16,25% tài sản, ACB +11,5% tín dụng) và được nâng xếp hạng. Chính phủ cam kết 0,1% GDP mỗi năm cho nhân tài, chuyển đổi số để thoát bẫy thu nhập trung bình. Thị trường chứng khoán gặp áp lực ngắn hạn với thanh khoản yếu, nhưng động lực từ ngân hàng và chính sách vẫn là yếu tố tích cực.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường phiên 27/10 ghi nhận điều chỉnh lần thứ 2 liên tiếp với thanh khoản sụt giảm kỷ lục (VN30 chiều 2.884 tỷ đ), khối ngoại bán ròng 319 tỷ đ, lợi nhuận chứng khoán giảm 50%. Tuy nhiên, hơn 20 ngân hàng giảm lãi suất mạnh (2,5-3 điểm %), gói vay ưu đãi 451.000 tỷ đ, Chính phủ cam kết 0,1% GDP/năm cho nhân tài và AI đến 2030. Rủi ro thanh khoản ngắn hạn áp đảo, nhưng hỗ trợ chính sách tạo điều kiện phục hồi dài hạn.",
   "top": [
     {
-      "title": "Hơn 20 ngân hàng giảm lãi suất cho vay",
-      "impact": "↑",
-      "note": "15 ngân hàng công bố gói tín dụng ưu đãi tổng 451.000 tỷ đồng (2,2% dư nợ hệ thống). Nam A Bank giảm 3,25 điểm %, Vietcombank 3 điểm %, Agribank và PVcomBank 2,5 điểm %/năm. Tập trung cho doanh nghiệp nhỏ vừa, nông nghiệp, xuất nhập khẩu, công nghệ cao, logistics."
-    },
-    {
-      "title": "VietABank tăng trưởng hiệu quả 9 tháng 2026",
-      "impact": "↑",
-      "note": "Tổng tài sản 156.490 tỷ đồng tăng 16,25%, lợi nhuận trước thuế 1.191 tỷ đồng tăng 13,42%. Thu nhập lãi tăng 26,7%, dịch vụ tăng 51,03%, lãi ngoại hối gấp 2,1 lần cùng kỳ. Nợ xấu kiểm soát 1,38%."
-    },
-    {
-      "title": "ACB nâng xếp hạng Fitch lên BB, tín dụng +11,5%",
-      "impact": "↑",
-      "note": "9 tháng 2026, cho vay 765.000 tỷ đồng tăng 11,5% so đầu năm. Huy động vay hợp vốn quốc tế 500 triệu USD. Fitch Ratings nâng xếp hạng lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập và quản trị rủi ro thận trọng."
-    },
-    {
-      "title": "Chính phủ cam kết 0,1% GDP mỗi năm cho nhân tài",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính 0,1% GDP/năm cho nhân tài. Mục tiêu 1.000 nhân tài quốc gia đến 2030 ở AI, bán dẫn, lượng tử, khoa học dữ liệu. Mục tiêu năm 2045 thu nhập bình quân 14.375 USD/người."
-    },
-    {
-      "title": "VietinBank hỗ trợ lãi suất 6%/năm cho doanh nghiệp",
-      "impact": "↑",
-      "note": "Chương trình Khơi nguồn tăng trưởng từ 23/10 đến 31/12/2026, lãi suất ưu đãi từ 6%/năm, thời gian vay lên 6 tháng, dành cho doanh nghiệp sản xuất kinh doanh. Cụ thể hóa định hướng giảm lãi suất của Chính phủ và NHNN."
-    },
-    {
-      "title": "Thị trường giằng co, thanh khoản VN30 suy yếu kỷ lục",
+      "title": "Thị trường điều chỉnh lần 2 liên tiếp, thanh khoản kỷ lục sụt giảm",
       "impact": "↓",
-      "note": "27/10, VN-Index giảm 1,7 điểm xuống 1.761,87, HNX 259,5 điểm. 420 mã giảm/300 mã tăng, khối ngoại bán ròng 319 tỷ đồng. Thanh khoản VN30 chiều 2.884 tỷ đồng - mức thấp kỷ lục. Dòng tiền thận trọng, ngân hàng và dầu khí đỏ chủ đạo."
+      "note": "27/10 VN-Index giảm 1,7 điểm xuống 1.761,87, HNX 259,5 điểm. Thanh khoản VN30 chiều 2.884 tỷ đ - mức thấp kỷ lục từ đầu năm. 420 mã giảm/300 mã tăng, khối ngoại bán ròng 319 tỷ đ, dòng tiền thận trọng."
+    },
+    {
+      "title": "Lợi nhuận chứng khoán giảm 50%, thanh khoản yếu tác động mạnh",
+      "impact": "↓",
+      "note": "Quý III 2026, lợi nhuận nhóm chứng khoán giảm 50% so cùng kỳ. Các công ty có tỷ trọng tự doanh cổ phiếu bị ảnh hưởng nặng. Dư nợ cho vay ký quỹ tiếp cận giới hạn 2 lần vốn chủ sở hữu."
+    },
+    {
+      "title": "Hơn 20 ngân hàng giảm lãi suất cho vay, gói 451.000 tỷ đ",
+      "impact": "↑",
+      "note": "15 ngân hàng công bố gói tín dụng ưu đãi tổng 451.000 tỷ đ (2,2% dư nợ hệ thống). Nam A Bank giảm 3,25 điểm %, Vietcombank 3 điểm %, Agribank và PVcomBank 2,5 điểm %/năm, tập trung cho SME nông nghiệp, xuất nhập khẩu, công nghệ cao, logistics."
+    },
+    {
+      "title": "ACB tăng trưởng 11,5%, Fitch nâng xếp hạng lên BB",
+      "impact": "↑",
+      "note": "9 tháng 2026, ACB cho vay 765.000 tỷ đ tăng 11,5%, huy động vay hợp vốn quốc tế 500 triệu USD. Fitch Ratings nâng xếp hạng lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập và quản trị rủi ro thận trọng."
+    },
+    {
+      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài, tập trung AI bán dẫn",
+      "impact": "↑",
+      "note": "Nghị quyết 336/NQ-CP (23/10) bố trí 0,1% GDP/năm cho cơ chế thu hút nhân tài. Mục tiêu 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu. Hướng tới nước phát triển năm 2045, thu nhập bình quân 14.375 USD/người."
+    },
+    {
+      "title": "VietABank và VietinBank tăng trưởng, lãi suất ưu đãi từ 6%/năm",
+      "impact": "↑",
+      "note": "VietABank 9 tháng 2026 tài sản 156.490 tỷ đ tăng 16,25%, lợi nhuận 1.191 tỷ đ tăng 13,42%. VietinBank lãi suất ưu đãi 6%/năm (23/10-31/12), gói tín dụng Khơi nguồn tăng trưởng 10.000 tỷ đ giảm 1,5 điểm %."
     }
   ]
 }
