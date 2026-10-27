@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dòng tiền ngoại vẫn xả hàng mạnh (21 tỷ từ đầu năm, tỷ trọng ngoại giảm 11%), nhưng ngân hàng thể hiện khỏe với tăng trưởng tín dụng 20% (ACB 11,5%, OCB +20%). Thế giới bước vào giai đoạn AI boom: Anthropic IPO, Meta/SpaceX đầu tư 135 tỷ USD, chứng khoán Mỹ tăng 0,7-0,8%. Chính phủ VN ưu tiên chiến lược AI/bán dẫn/lượng tử (0,1% GDP/năm). TP.HCM hướng tới 19 tỷ USD FDI chất lượng cao. Rủi ro: dòng tiền yếu, ngành môi giới sàng lọc (VPS giảm 286 nhân viên, doanh thu giảm 23,3%).",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ dòng bán ròng 21 nghìn tỷ đồng của khối ngoại từ đầu năm và thanh khoản suy yếu, tuy nhiên được cân bằng bởi tín hiệu tích cực từ ngành ngân hàng (ACB, OCB tăng trưởng mạnh, xếp hạng tín nhiệm nâng), kế hoạch FDI chất lượng cao 19 tỷ USD vào TP.HCM, và chiến lược nhân tài AI/bán dẫn của Chính phủ.",
   "top": [
     {
-      "title": "Bán ròng 21 tỷ từ đầu năm, nhà đầu tư ngoại xả hàng",
+      "title": "Bán ròng 21 tỷ từ đầu năm, khối ngoại xả hàng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 21.000 tỷ đồng từ đầu năm đến đầu tháng 10 — mức cao nhất từ trước đến nay. Tỷ trọng sở hữu ngoại giảm xuống 11%. Dòng tiền âm liên tục là áp lực bán trên thị trường chứng khoán VN ngắn hạn."
+      "note": "Khối ngoại bán ròng khoảng 21.000 tỷ đồng từ đầu năm đến đầu tháng 10 — mức cao nhất từ trước đến nay, tỷ trọng sở hữu ngoại giảm xuống 11%, áp lực bán liên tục gây sức ép lên thị trường."
     },
     {
-      "title": "ACB tín dụng tăng 11,5%, Fitch nâng xếp hạng BB",
+      "title": "ACB tín dụng tăng 11,5%, Fitch nâng BB",
       "impact": "↑",
-      "note": "Cho vay khách hàng ACB đạt 765 nghìn tỷ đồng, tăng 11,5% so với đầu năm; huy động thành công vay hợp vốn quốc tế 500 triệu USD; Fitch Ratings nâng xếp hạng lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập."
+      "note": "Cho vay khách hàng ACB đạt 765 nghìn tỷ đồng, tăng 11,5% so với đầu năm; huy động vay hợp vốn quốc tế 500 triệu USD; Fitch Ratings nâng xếp hạng tín nhiệm lên BB, triển vọng Ổn định."
     },
     {
-      "title": "Anthropic IPO, AI boom thúc đẩy chip stocks Mỹ",
+      "title": "TPHCM hướng tới 19 tỷ USD FDI chất lượng cao",
       "impact": "↑",
-      "note": "Anthropic nộp hồ sơ IPO trên Nasdaq (mã ANT), doanh thu 6 tháng đầu 16,29 tỷ USD tăng 1.304%. Dow Jones +0,28%, S&P 500 +0,7%, Nasdaq +0,82%. Meta/SpaceX huy động 135 tỷ USD cho AI. Chip stocks tăng: Nvidia +2,4%, Micron +3%, Broadcom +2,3%."
-    },
-    {
-      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài AI, bán dẫn",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10/2026: Chính phủ bố trí khoảng 0,1% GDP mỗi năm cho nhân tài. Mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "note": "TP.HCM quyết thực hiện mục tiêu thu hút 19 tỷ USD vốn FDI năm 2026, ưu tiên FDI chất lượng vào công nghệ, tài chính, kinh tế xanh; xây dựng hệ sinh thái kết nối FDI, công nghệ, hạ tầng, tài chính."
     },
     {
       "title": "OCB lợi nhuận 9 tháng tăng hơn 20%",
       "impact": "↑",
-      "note": "Lợi nhuận 9 tháng 2026 đạt 4.123 tỷ đồng, tăng 20% so với cùng kỳ; Q3 tăng 7,5%. Tổng thu thuần Q3 tăng 12,3% (3.291 tỷ đồng), thu dịch vụ tăng 62,3%. Khối ngân hàng đa dạng hóa doanh thu."
+      "note": "Lợi nhuận 9 tháng 2026 đạt 4.123 tỷ đồng, tăng hơn 20%; Q3 tăng 7,5%. Tổng thu thuần Q3 tăng 12,3%, dặc biệt doanh thu dịch vụ tăng 62,3%, phản ánh đa dạng hóa nguồn thu."
     },
     {
-      "title": "VPS giảm 286 nhân viên, ngành chứng khoán chật vật",
+      "title": "VN-Index giảm 10,6 điểm, thanh khoản suy yếu",
       "impact": "↓",
-      "note": "Q3/2026 VPS giảm 286 nhân viên xuống 1.635 (từ 1.921 hôm 30/6, giảm 15%). So với đỉnh quý 2/2022 giảm 926 người (36%). Doanh thu Q3 giảm 23,3% do thanh khoản môi giới suy yếu."
+      "note": "VN-Index giảm 10,6 điểm về 1.763,55 điểm (27/10), thanh khoản HOSE chỉ hơn 13.500 tỷ đồng, giảm hơn 20%, thị trường đang chịu áp lực điều chỉnh."
+    },
+    {
+      "title": "VPS mất 286 nhân viên, áp lực hoạt động môi giới",
+      "impact": "↓",
+      "note": "VPS nhân sự giảm 286 người xuống 1.635 (từ 1.921 hôm 30/6, tương đương 15%), doanh thu Q3 giảm 23,3%, phản ánh áp lực từ thanh khoản thị trường suy yếu đối với hoạt động chứng khoán."
     }
   ]
 }
