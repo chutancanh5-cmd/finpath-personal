@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán hôm nay nhận được loạt tín hiệu tích cực từ chiến lược huy động vốn FDI lớn của TP.HCM (19 tỷ USD năm 2026) và nhu cầu vốn đầu tư kỷ lục (1,7 triệu tỷ đồng/năm giai đoạn 2026-2030). Ngành ngân hàng được tăng cường bởi kết quả mạnh của ACB (tín dụng +11,5%, Fitch nâng xếp hạng BB) và các chính sách hỗ trợ từ Chính phủ (0,1% GDP/năm cho nhân tài). Nhóm nguyên vật liệu và bán lẻ diễn biến tích cực với VIC tăng 2% kéo VN-Index. Tuy nhiên, thanh khoản suy yếu (4.605 tỷ đồng) và áp lực chốt lời ngắn hạn vẫn tồn tại.",
+  "summary_vi": "Thị trường nhận tín hiệu tích cực từ chính sách nhân tài (0,1% GDP/năm cho AI, bán dẫn, lượng tử), FDI TP.HCM (19 tỷ USD năm 2026), xếp hạng Fitch nâng ACB lên BB, và FTSE Russell nâng Việt Nam. Tuy nhiên thanh khoản suy yếu (4.605 tỷ đồng sáng, giảm 16%) và cổ phiếu nhỏ hiểm họa như DNN (thanh khoản 100 cp/phiên) cảnh báo rủi ro ngắn hạn cần quan sát.",
   "top": [
-    {
-      "title": "ACB tăng trưởng tín dụng 11,5%, Fitch nâng xếp hạng BB",
-      "impact": "↑",
-      "note": "Cho vay khách hàng đạt 765 nghìn tỷ đồng tăng 11,5% so với đầu năm, chủ yếu từ phân khúc doanh nghiệp; huy động thành công 500 triệu USD vay hợp vốn quốc tế; Fitch Ratings nâng một bậc xếp hạng tín nhiệm lên BB với triển vọng Ổn định"
-    },
-    {
-      "title": "TP.HCM cần huy động 1,7 triệu tỷ đồng/năm giai đoạn 2026-2030",
-      "impact": "↑",
-      "note": "Trung bình mỗi năm giai đoạn 2026-2030, TP.HCM cần huy động 1,7 triệu tỷ đồng vốn đầu tư toàn xã hội (22% tổng nhu cầu cả nước); vốn đầu tư xã hội duy trì 40% GDP và tăng trưởng vốn 13-15%/năm phù hợp tầm nhìn tăng trưởng 2 con số"
-    },
     {
       "title": "TP.HCM thu hút 19 tỷ USD FDI năm 2026",
       "impact": "↑",
-      "note": "TP.HCM đặt mục tiêu thu hút 19 tỷ USD vốn đầu tư nước ngoài năm 2026; ưu tiên FDI chất lượng cao vào tài chính, công nghệ, chuyển đổi số, kinh tế xanh và phát triển bền vững; tạo dư địa cho dự án quy mô lớn"
+      "note": "TP.HCM đặt mục tiêu huy động 19 tỷ USD vốn FDI năm 2026, ưu tiên dòng vốn chất lượng cao vào tài chính, công nghệ, chuyển đổi số, kinh tế xanh. Tạo cơ hội đầu tư quy mô lớn cho nhà đầu tư quốc tế và bổ sung vốn cho các dự án cơ sở hạ tầng."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài đến 2030",
+      "title": "Chính phủ bô trí 0,1% GDP/năm cho nhân tài quốc gia",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính; bố trí ngân sách khoảng 0,1% GDP mỗi năm cho huy động nhân tài trong khoa học, công nghệ, đổi mới sáng tạo; phấn đấu thu hút khoảng 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu"
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10/2026 giao Bộ Tài chính xây dựng cơ chế tài chính riêng. Phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược — tạo động lực cho chuyển đổi số và công nghiệp mũi nhọn."
     },
     {
-      "title": "Nhóm nguyên vật liệu, bán lẻ diễn biến tích cực",
+      "title": "ACB tín dụng tăng 11,5%, Fitch nâng xếp hạng BB",
       "impact": "↑",
-      "note": "Ngành nguyên vật liệu ghi nhận diễn biến tích cực với cổ phiếu HPG, NKG, HSG, MSR, HHP dẫn dắt; nhóm bán lẻ MWG, FRT tăng; VIC tăng 2% kéo VN-Index tăng gần 5 điểm tại 10h45 ngày 27/10"
+      "note": "9 tháng 2026, ACB cho vay 765 nghìn tỷ đồng tăng 11,5%, phân khúc doanh nghiệp là động lực chính. Huy động 500 triệu USD vốn vay hợp vốn quốc tế. Fitch Ratings nâng xếp hạng lên BB, triển vọng Ổn định — ghi nhận sức mạnh tài chính và quản trị rủi ro."
     },
     {
-      "title": "Việt Nam nâng hạng thị trường mới nổi, tiềm năng quỹ lớn",
+      "title": "Việt Nam nâng hạng FTSE Russell, 13,7 triệu tài khoản chứng khoán",
       "impact": "↑",
-      "note": "Việt Nam được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp vào tháng 9/2026; hiện có 13,7 triệu tài khoản chứng khoán với 90% giá trị giao dịch từ nhà đầu tư nội địa; chỉ có khoảng 100 quỹ đại chúng so với 5.000 quỹ Hàn Quốc, cho thấy tiềm năng phát triển sâu rộng"
+      "note": "FTSE Russell nâng Việt Nam lên thị trường mới nổi thứ cấp tháng 9/2026, thu hút dòng vốn quốc tế. Việt Nam có 13,7 triệu tài khoản chứng khoán với nhà đầu tư trong nước đóng góp 90% giá trị giao dịch, tạo nền tảng phát triển dựa trên nội lực."
+    },
+    {
+      "title": "Thị trường suy yếu, thanh khoản giảm 16% so với hôm trước",
+      "impact": "↓",
+      "note": "Phiên 27/10, VN-Index giảm 0,05% với 109 mã tăng và 180 mã giảm. Thanh khoản HoSE sáng chỉ 4.605 tỷ đồng (thấp nhất 5 phiên, giảm 16% so với 26/10). Áp lực bán vẫn lớn, 78 cổ phiếu giảm quá 1%, tâm lý thị trường thận trọng."
+    },
+    {
+      "title": "DNN tăng sốc 400 lần, nhưng thanh khoản cực thấp (100 cp/phiên)",
+      "impact": "→",
+      "note": "Cổ phiếu DNN (DAWACO — cấp nước Đà Nẵng) từ 100 đồng (tháng 5/2025) lên 43.500 đồng, tăng 400 lần. Tăng kịch trần 13,8% phiên 26/10 nhưng thanh khoản cực thấp (vài trăm đến vài nghìn cp/phiên), phân cấu cổ đông tập trung — rủi ro thanh toán cao khi mua số lượng lớn."
     }
   ]
 }
