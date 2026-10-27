@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-27",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán giằng co với VN-Index giảm 1,7 điểm, thanh khoản HoSE 10.334 tỷ đồng ở mức thấp; sắc đỏ áp đảo (420 mã giảm/300 mã tăng), khối ngoại bán ròng 319-320 tỷ đồng. Tuy nhiên ngành ngân hàng tăng trưởng khả quan: VietABank tài sản 156.490 tỷ đồng (+16,25%), ACB tín dụng +11,5%, được Fitch nâng BB. Chính phủ công bố chính sách hỗ trợ 0,1% GDP/năm cho 1.000 nhân tài trong AI, bán dẫn đến 2030. Rủi ro ngắn hạn từ thanh khoản yếu và lợi nhuận chứng khoán quý 3 giảm 50%.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán giao dịch áp lực bán mạnh với VN-Index giảm liên tiếp, khối ngoại rút ròng 319 tỷ đồng, thanh khoản HoSE 10.334 tỷ đồng ở mức thấp, và ngành chứng khoán ghi nhận lợi nhuận giảm 50% quý III. Tuy vậy, tín dụng ngân hàng vẫn tăng trưởng tốt với VietABank lợi nhuận tăng 13,42% và ACB được nâng xếp hạng Fitch lên BB. Chính phủ triển khai hỗ trợ lãi suất 6%/năm cho doanh nghiệp sản xuất kinh doanh. Rủi ro ngắn hạn từ dòng tiền yếu, sắc đỏ áp đảo, nhưng động lực từ ngân hàng và chính sách hỗ trợ vẫn còn.",
   "top": [
     {
-      "title": "VietABank vượt kế hoạch cả năm chỉ sau 9 tháng",
+      "title": "VietABank lợi nhuận tăng 13,42%, tài sản 156.490 tỷ đồng",
       "impact": "↑",
-      "note": "Tổng tài sản 156.490 tỷ đồng tăng 16,25%, lợi nhuận trước thuế 1.191 tỷ đồng tăng 13,42%, huy động vốn 116.010 tỷ đồng tăng 12,54%, dư nợ cho vay 96.680 tỷ đồng tăng 11,34%, nợ xấu 1,38%. Thu nhập lãi 8.074 tỷ đồng tăng 26,7%, dịch vụ tăng 51,03%, ngoại hối gấp 2,1 lần."
+      "note": "9 tháng 2026, lợi nhuận trước thuế 1.191 tỷ đồng tăng 13,42% so cùng kỳ, tổng tài sản 156.490 tỷ đồng tăng 16,25%, dư nợ cho vay 96.680 tỷ đồng tăng 11,34%, nợ xấu kiểm soát 1,38%. Thu nhập dịch vụ tăng 51%, ngoại hối gấp 2,1 lần cùng kỳ, cho thấy cơ cấu doanh thu đa dạng hóa tốt."
     },
     {
-      "title": "ACB tín dụng tăng 11,5%, Fitch nâng xếp hạng BB, huy động 500 triệu USD",
-      "impact": "↑",
-      "note": "Cho vay khách hàng 765 nghìn tỷ đồng tăng 11,5% so với đầu năm, phân khúc doanh nghiệp là động lực chính, bán lẻ +2,2%, SME +2,8%. Huy động thành công vay hợp vốn quốc tế 500 triệu USD, Fitch Ratings nâng một bậc lên BB triển vọng Ổn định."
-    },
-    {
-      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài trong AI, bán dẫn, lượng tử",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính cơ chế riêng, mục tiêu 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược. Kinh phí nằm trong ngân sách khoa học công nghệ, được cân đối từng năm, hỗ trợ chuyển đổi số dài hạn."
-    },
-    {
-      "title": "Thị trường giằng co phiên thứ hai, thanh khoản VN30 thấp kỷ lục",
+      "title": "VN-Index giảm liên tiếp, 420 mã giảm áp đảo",
       "impact": "↓",
-      "note": "VN-Index giảm 1,7 điểm còn 1.761,87 điểm, VN30 giảm 0,06% với 15 mã đỏ/10 mã xanh. Thanh khoản VN30 phiên chiều chỉ 2.884 tỷ đồng là mức thấp nhất kể từ đầu năm, tổng khớp lệnh HoSE 10.334 tỷ đồng. GAS giảm 1,99%, nhóm tài chính-ngân hàng như TCB, HCM, SSB, HDB, VIX, VPB giảm 1-2%."
+      "note": "27/10, VN-Index giảm 1,7 điểm xuống 1.761,87 điểm, HNX-Index tăng 0,2 điểm lên 259,5. Độ rộng thị trường: 420 mã giảm vượt trội so ~300 mã tăng; sắc đỏ áp đảo tài chính-ngân hàng, bất động sản, dầu khí, công nghiệp; thanh khoản HoSE 10.334 tỷ đồng ở mức thấp."
     },
     {
-      "title": "Lợi nhuận chứng khoán quý 3 giảm 50% do thanh khoản yếu",
+      "title": "Khối ngoại bán ròng 319 tỷ đồng, chỉ TCB được mua",
       "impact": "↓",
-      "note": "Lợi nhuận sau thuế nhóm chứng khoán giảm 50% so với cùng kỳ năm trước, tập trung ở công ty có tỷ trọng lớn danh mục tự doanh cổ phiếu niêm yết. Công ty cho vay margin, môi giới, đầu tư trái phiếu kết quả ổn định, dư nợ margin đạt ngưỡng tối đa 2 lần vốn chủ sở hữu."
+      "note": "Khối ngoại bán ròng 319 tỷ đồng trên toàn thị trường; TCB được mua ròng 197 tỷ đồng (cao nhất), MSN 54 tỷ, VIB 33 tỷ; ACB bị bán ròng 177 tỷ đồng, FPT 149 tỷ đồng, phản ánh dòng tiền thận trọng và chọn lọc từ nhà đầu tư nước ngoài."
     },
     {
-      "title": "Khối ngoại bán ròng 319-320 tỷ đồng, mua ròng TCB 197 tỷ đồng",
+      "title": "ACB tín dụng tăng 11,5%, Fitch nâng lên BB",
+      "impact": "↑",
+      "note": "9 tháng 2026, ACB cho vay khách hàng 765 nghìn tỷ đồng tăng 11,5% so đầu năm, phân khúc doanh nghiệp là động lực chính. Fitch Ratings nâng xếp hạng tín nhiệm lên BB (từ BB-), triển vọng Ổn định; huy động thành công vay hợp vốn quốc tế 500 triệu USD."
+    },
+    {
+      "title": "Lợi nhuận chứng khoán Q3 giảm 50% so cùng kỳ",
+      "impact": "↓",
+      "note": "Quý 3/2026, lợi nhuận nhóm chứng khoán giảm 50% so cùng kỳ năm trước, trong khi nhóm phi tài chính tăng 71,5%. Mức suy giảm tập trung ở công ty có tỷ trọng lớn danh mục tự doanh cổ phiếu niêm yết, phản ánh tác động từ thị trường suy yếu và thanh khoản thấp."
+    },
+    {
+      "title": "VietinBank hỗ trợ lãi suất 6%/năm cho doanh nghiệp",
       "impact": "→",
-      "note": "Khối ngoại phiên 27/10 bán ròng 319 tỷ đồng toàn thị trường, mua ròng TCB 197 tỷ đồng mạnh nhất (chiều mua), MSN 54 tỷ, VIB 33 tỷ, VIC 30 tỷ. Chiều bán: ACB bán ròng 177 tỷ đồng, FPT 149 tỷ đồng, GMD 69 tỷ đồng, VPL 67 tỷ đồng."
+      "note": "Từ 23/10-31/12/2026, VietinBank triển khai chương trình \"Khơi nguồn tăng trưởng\" với lãi suất ưu đãi từ 6%/năm, thời gian vay lên 6 tháng dành cho DNNN sản xuất kinh doanh. Chương trình cụ thể hóa định hướng của Chính phủ và NHNN về giảm lãi suất, hỗ trợ phục hồi dòng tiền doanh nghiệp."
     }
   ]
 }
