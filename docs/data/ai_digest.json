@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục nhận tín hiệu tích cực từ sự gia tăng dòng tiền ETF (vào ròng 60+ tỷ đồng) và các chỉ báo sức khỏe ngân hàng với ACB tăng 11.5% tín dụng lên 765 nghìn tỷ đồng, Fitch nâng xếp hạng BB. Chính phủ đẩy mạnh chính sách thu hút nhân tài (0.1% GDP/năm) và TP.HCM đặt mục tiêu 19 tỷ USD FDI, tạo động lực tăng trưởng dài hạn. Tuy nhiên, rủi ro vẫn tồn tại với khoản tạm lỗ 99 tỷ đồng trong danh mục cổ phiếu của Lideco, yêu cầu nhà đầu tư giữ cân bằng trong chiến lược.",
+  "summary_vi": "Chính sách công nghệ cao bổ sung 0,1% GDP/năm cho nhân tài (AI, bán dẫn, lượng tử) cùng FDI chất lượng cao 19 tỷ USD tại TP.HCM tạo động lực tăng trưởng dài hạn cho nền kinh tế. Hệ thống tài chính biểu hiện sức khỏe với ACB tín dụng +11,5%, vay quốc tế 500 triệu USD, Fitch nâng xếp hạng BB. Tuy nhiên, ngắn hạn vẫn có rủi ro từ danh mục chứng khoán lỗ nặng (Lideco 99 tỷ đồng), thiếu nhà đầu tư tổ chức lớn (~100 quỹ), bất động sản khó khăn.",
   "top": [
     {
-      "title": "ACB tín dụng tăng 11.5%, Fitch nâng xếp hạng BB",
+      "title": "ACB tín dụng +11,5%, Fitch nâng BB",
       "impact": "↑",
-      "note": "Ngân hàng TMCP Á Châu báo cáo cho vay khách hàng đạt 765 nghìn tỷ đồng, tăng 11.5% từ đầu năm 2026; huy động thành công 500 triệu USD vay hợp vốn quốc tế. Fitch Ratings vừa nâng một bậc xếp hạng lên BB với triển vọng Ổn định, ghi nhận sức mạnh tài chính và năng lực quản trị rủi ro."
+      "note": "Tín dụng khách hàng ACB đạt 765 nghìn tỷ đồng (tăng 11,5% từ đầu năm); huy động thành công vay hợp vốn quốc tế 500 triệu USD; Fitch Ratings nâng xếp hạng tín nhiệm lên BB với triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập và quản trị rủi ro thận trọng."
     },
     {
-      "title": "TP.HCM mục tiêu 19 tỷ USD vốn FDI năm 2026",
+      "title": "TP.HCM Thu hút 19 tỷ USD FDI 2026",
       "impact": "↑",
-      "note": "TP. Hồ Chí Minh quyết thực hiện mục tiêu hút 19 tỷ USD FDI, ưu tiên các dòng vốn chất lượng cao tập trung vào tài chính, công nghệ, chuyển đổi số và kinh tế xanh. Xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng."
+      "note": "TP.HCM quyết định thực hiện mục tiêu thu hút 19 tỷ USD vốn FDI năm 2026; ưu tiên dòng vốn chất lượng cao trong tài chính, công nghệ, chuyển đổi số, kinh tế xanh; xây dựng hệ sinh thái kết nối FDI, công nghệ, tài chính và hạ tầng để kiến tạo cơ hội tăng trưởng mới."
     },
     {
-      "title": "Dòng tiền ETF vào ròng mua cổ phiếu Việt",
+      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài công nghệ",
       "impact": "↑",
-      "note": "DCVFM VN30 ETF dẫn đầu với 30,3 tỷ đồng vào ròng, DCVFMVN DIAMOND ETF +23,1 tỷ đồng đảo chiều từ rút ròng 90,5 tỷ tuần trước, VINACAPITAL VN100 ETF +7,3 tỷ đồng. Quy mô rút ròng từ đầu tháng 10 là 409,2 tỷ đồng, giảm 37,1% so với tháng trước."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính riêng; bố trí khoảng 0,1% GDP mỗi năm cho nhân tài trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược; mục tiêu thu hút khoảng 1.000 nhân tài quốc gia đến năm 2030."
     },
     {
-      "title": "Chính phủ dành 0.1% GDP mỗi năm cho nhân tài",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính riêng, phấn đấu thu hút khoảng 1,000 nhân tài quốc gia đến năm 2030. Tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu và các lĩnh vực ưu tiên khác."
-    },
-    {
-      "title": "Lideco tạm lỗ 99 tỷ từ danh mục chứng khoán",
+      "title": "Lideco lỗ 99 tỷ danh mục chứng khoán quý 3",
       "impact": "↓",
-      "note": "Quý 3/2026, CTCP Phát triển Đô thị Từ Liêm báo lỗ 77 tỷ đồng; danh mục chứng khoán giá gốc 605 tỷ đồng nhưng giá trị hợp lý chỉ 506 tỷ đồng (tạm lỗ 99 tỷ). Phải trích lập dự phòng 101 tỷ đồng, gấp 4 lần mức 24,2 tỷ đầu năm."
+      "note": "Danh mục chứng khoán kinh doanh NTL có giá gốc 605 tỷ đồng nhưng giá trị hợp lý chỉ 506 tỷ đồng (tạm lỗ 99 tỷ đồng), trích dự phòng 101 tỷ đồng; TCH nắm 23,5 triệu cổ phiếu tạm âm 39 tỷ đồng (13% giá vốn); PAN tạm lỗ từ tăng tỷ trọng từ 39,3 tỷ lên 91,4 tỷ đồng."
     },
     {
-      "title": "500 tấn vàng \"trong két\", thị trường vốn cần hút",
-      "impact": "↑",
-      "note": "Người Việt đang nắm gần 500 tấn vàng, thị trường vốn cần hút dòng tiền này. Việt Nam vừa được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp tháng 9, có tiềm năng thành bến đỗ đầu tư an toàn."
+      "title": "Thị trường chứng khoán thiếu nhà đầu tư tổ chức lớn",
+      "impact": "↓",
+      "note": "Hàn Quốc có gần 5.000 quỹ đại chúng cộng 300-500 quỹ mới/năm; Việt Nam chỉ có khoảng 100 quỹ. Mặc dù Việt Nam có 13,7 triệu tài khoản chứng khoán và 90% giao dịch từ nhà đầu tư trong nước, thị trường vẫn thiếu nhà đầu tư tổ chức đủ lớn để ổn định cấu trúc."
+    },
+    {
+      "title": "Thép Thủ Đức chấm dứt dự án bất động sản 10 năm",
+      "impact": "↓",
+      "note": "TDS chấm dứt thỏa thuận hợp tác với Refico (từ 29/09/2016); dự án phức hợp 6,3ha tại Trường Thọ với Refico nắm 74% vốn, TDS 26% chưa triển khai sau 10 năm, phản ánh bất động sản vẫn gặp khó khăn, các dự án real estate dài hạn đình trệ."
     }
   ]
 }
