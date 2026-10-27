@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường đối mặt áp lực từ thanh khoản suy yếu (4.605 tỷ đ HoSE sáng, thấp nhất 5 phiên, giảm 16%) và lợi nhuận chứng khoán giảm 50% quý 3, tuy nhiên ngân hàng và công nghệ vẫn có tín hiệu tích cực. Ngân hàng ACB báo cáo tín dụng tăng 11,5% (765 nghìn tỷ đ), huy động 500 triệu USD và được Fitch nâng xếp hạng BB. Chính phủ bố trí 0,1% GDP/năm để hỗ trợ nhân tài AI, bán dẫn, lượng tử; TP.HCM cần huy động 1,7 triệu tỷ đ vốn/năm (2026-2030) với FDI mục tiêu 19 tỷ USD năm 2026.",
+  "summary_vi": "Dòng tiền vĩ mô tích cực từ siêu dự án Vingroup 18 tỷ USD, chính sách nhân tài công nghệ (0,1% GDP/năm), tín dụng ngân hàng tăng 11,5% (ACB được Fitch nâng BB) và xu hướng AI ở 26% doanh nghiệp Việt Nam tạo nền tảng dài hạn. Nhưng ngắn hạn, thanh khoản suy yếu (4.605 tỷ đ thấp nhất 5 phiên), lợi nhuận chứng khoán giảm 50% và nhà đầu tư chốt lời nhẹ tạo áp lực điều chỉnh.",
   "top": [
     {
-      "title": "Chứng khoán giảm lợi nhuận 50%, áp lực điều chỉnh",
+      "title": "Vingroup khởi động siêu dự án 18 tỷ USD tại Quảng Ninh",
+      "impact": "↑",
+      "note": "Dự án Vinhomes Global Gate Hạ Long (khu Hạ Long Xanh) quý II/2026 có 12.155 lao động, tiêu thụ 10 tỷ đồng xăng dầu/ngày; đang tuyển thêm 6.000 lao động. Tạo động lực kinh tế - xã hội, việc làm, nhu cầu vật tư xây dựng, sản xuất."
+    },
+    {
+      "title": "Chính phủ bổ trí 0,1% GDP/năm cho nhân tài AI-bán dẫn-lượng tử",
+      "impact": "↑",
+      "note": "Nghị quyết 336/NQ-CP (23/10) giao Bộ Tài chính xây dựng cơ chế tài chính hỗ trợ nhân tài với mục tiêu 0,1% GDP mỗi năm; phấn đấu thu hút ~1.000 nhân tài quốc gia đến 2030 trong lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+    },
+    {
+      "title": "ACB tín dụng tăng 11,5%, huy động 500 triệu USD, Fitch nâng BB",
+      "impact": "↑",
+      "note": "ACB 9 tháng 2026: cho vay khách hàng 765 nghìn tỷ đồng (tăng 11,5% từ đầu năm), động lực chính từ doanh nghiệp; huy động hợp vốn quốc tế 500 triệu USD; Fitch nâng xếp hạng tín nhiệm lên BB, triển vọng Ổn định."
+    },
+    {
+      "title": "Chứng khoán giảm lợi nhuận 50% quý 3, thanh khoản suy yếu",
       "impact": "↓",
-      "note": "Nhóm chứng khoán quý 3 lợi nhuận giảm 50% so với cùng kỳ; nhóm tài chính tổng thể tăng 6,9% (thấp hơn phi tài chính +71,5%), sự khác biệt theo mô hình rõ ràng: công ty có tỷ trọng lớn tự doanh chứng khoán chịu áp lực mạnh nhất."
+      "note": "Nhóm chứng khoán quý 3 giảm 50% so với cùng kỳ 2025, tập trung ở công ty có tỷ trọng lớn tự doanh chứng khoán. HoSE sáng 27/10 khớp 4.605 tỷ đ (thấp nhất 5 phiên, giảm 16% so với sáng hôm qua); 180 mã giảm, chỉ TCB và VPB giao dịch trên 100 tỷ đ."
     },
     {
-      "title": "ACB tín dụng tăng 11,5%, Fitch nâng BB",
+      "title": "26% doanh nghiệp Việt Nam ứng dụng AI, 87% cần reskill nhân sự",
       "impact": "↑",
-      "note": "ACB 9 tháng 2026 cho vay khách hàng đạt 765 nghìn tỷ đ (tăng 11,5% so với đầu năm), huy động hợp vốn quốc tế 500 triệu USD, động lực chính từ phân khúc doanh nghiệp; Fitch nâng xếp hạng tín nhiệm lên BB, triển vọng Ổn định."
+      "note": "Khảo sát AWS 2026: 26% doanh nghiệp Việt Nam đã ứng dụng AI (tăng từ 18% năm 2025), 61% còn giai đoạn thử nghiệm; 87% nhà tuyển dụng coi đào tạo kỹ năng là yếu tố quan trọng. Chương trình quốc gia phát triển nhân lực AI mục tiêu 10 triệu người lao động có kỹ năng cơ bản đến 2030."
     },
     {
-      "title": "Thanh khoản suy yếu liên tục, 4.605 tỷ đ thấp nhất 5 phiên",
-      "impact": "↓",
-      "note": "HoSE sáng 27/10 khớp 4.605 tỷ đ (giảm 16% so với sáng hôm qua, thấp nhất 5 phiên); 180 mã giảm, 109 mã tăng; 78 mã giảm trên 1%, chỉ TCB và VPB giao dịch trên 100 tỷ đ."
-    },
-    {
-      "title": "Chính phủ hỗ trợ nhân tài công nghệ 0,1% GDP/năm",
+      "title": "FPT phát triển AI dự đoán xi măng dầu khí, ngành chi 7,5 tỷ USD",
       "impact": "↑",
-      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP (23/10) phân bổ 0,1% GDP mỗi năm cho hỗ trợ nhân tài, phấn đấu thu hút ~1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chi战lược."
-    },
-    {
-      "title": "FPT phát triển AI cho dầu khí (7,5 tỷ USD toàn cầu)",
-      "impact": "↑",
-      "note": "FPT xây dựng mô hình AI dự đoán thời gian xi măng bắt đầu đông cứng từ 9 triệu bản ghi chất lượng cao (lọc từ 45 triệu bản ghi thô), vượt quá mức 60% chính xác của tập đoàn dầu khí; ngành dầu khí toàn cầu chi 7,5 tỷ USD cho AI."
-    },
-    {
-      "title": "TP.HCM huy động 1,7 triệu tỷ đ vốn/năm (2026-2030)",
-      "impact": "↑",
-      "note": "TP.HCM cần huy động 1,7 triệu tỷ đ vốn đầu tư toàn xã hội/năm giai đoạn 2026-2030 (22% tổng nhu cầu cả nước); mục tiêu 19 tỷ USD FDI năm 2026, ưu tiên tài chính, công nghệ, chuyển đổi số, kinh tế xanh."
+      "note": "FPT xây dựng mô hình AI từ 9 triệu bản ghi chất lượng cao (lọc từ 45 triệu bản ghi thô) dự đoán thời gian xi măng bắt đầu đông cứng, vượt 60% chính xác của mô hình tự xây trước đó. Ngành dầu khí toàn cầu dự kiến chi 7,5 tỷ USD cho AI; cơ hội cho công ty công nghệ Việt."
     }
   ]
 }
