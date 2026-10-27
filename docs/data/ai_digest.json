@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-27",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán hôm nay diễn biến cân bằng nhưng yếu với thanh khoản suy giảm, số mã giảm vẫn chiếm ưu thế. Tuy vậy, các tín hiệu tích cực từ tăng trưởng tín dụng (ACB tăng 11.5%), nhóm nguyên vật liệu sôi động, và nỗ lực thu hút FDI của TP.HCM (mục tiêu 19 tỷ USD) tạo cơ hội phục hồi. Giá vàng giảm 50 triệu đồng từ đầu năm phản ánh sự chốt lời và tái cân bằng danh mục nhà đầu tư.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán hôm nay nhận được loạt tín hiệu tích cực từ chiến lược huy động vốn FDI lớn của TP.HCM (19 tỷ USD năm 2026) và nhu cầu vốn đầu tư kỷ lục (1,7 triệu tỷ đồng/năm giai đoạn 2026-2030). Ngành ngân hàng được tăng cường bởi kết quả mạnh của ACB (tín dụng +11,5%, Fitch nâng xếp hạng BB) và các chính sách hỗ trợ từ Chính phủ (0,1% GDP/năm cho nhân tài). Nhóm nguyên vật liệu và bán lẻ diễn biến tích cực với VIC tăng 2% kéo VN-Index. Tuy nhiên, thanh khoản suy yếu (4.605 tỷ đồng) và áp lực chốt lời ngắn hạn vẫn tồn tại.",
   "top": [
     {
-      "title": "Thị trường thanh khoản yếu, sắc đỏ chiếm ưu thế",
-      "impact": "→",
-      "note": "Sàn HOSE sáng 27/10 có 180 mã giảm vs 109 mã tăng. Tổng giá trị khớp lệnh chỉ 4.605 tỷ đồng, thấp nhất 5 phiên và giảm 16% so với sáng hôm trước. Áp lực bán cân bằng nhưng thanh khoản suy yếu gây rủi ro ngắn hạn."
-    },
-    {
-      "title": "ACB: Tín dụng tăng 11.5%, Fitch nâng xếp hạng BB",
+      "title": "ACB tăng trưởng tín dụng 11,5%, Fitch nâng xếp hạng BB",
       "impact": "↑",
-      "note": "Ngân hàng ACB báo cáo 9 tháng 2026 với tín dụng tăng 11.5% đạt 765 nghìn tỷ đồng, phân khúc doanh nghiệp là động lực chính. Fitch Ratings nâng một bậc xếp hạng lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập."
+      "note": "Cho vay khách hàng đạt 765 nghìn tỷ đồng tăng 11,5% so với đầu năm, chủ yếu từ phân khúc doanh nghiệp; huy động thành công 500 triệu USD vay hợp vốn quốc tế; Fitch Ratings nâng một bậc xếp hạng tín nhiệm lên BB với triển vọng Ổn định"
     },
     {
-      "title": "TP.HCM mục tiêu 19 tỷ USD FDI, xây dựng hệ sinh thái đầu tư",
+      "title": "TP.HCM cần huy động 1,7 triệu tỷ đồng/năm giai đoạn 2026-2030",
       "impact": "↑",
-      "note": "TP.HCM quyết thực hiện mục tiêu thu hút 19 tỷ USD vốn FDI năm 2026, xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng. Nhấn mạnh FDI chất lượng cao, tạo động lực tăng trưởng mới bối cảnh kinh tế toàn cầu tái cấu trúc."
+      "note": "Trung bình mỗi năm giai đoạn 2026-2030, TP.HCM cần huy động 1,7 triệu tỷ đồng vốn đầu tư toàn xã hội (22% tổng nhu cầu cả nước); vốn đầu tư xã hội duy trì 40% GDP và tăng trưởng vốn 13-15%/năm phù hợp tầm nhìn tăng trưởng 2 con số"
     },
     {
-      "title": "Giá vàng giảm 50 triệu đồng từ đầu năm, chốt lời sang cổ phiếu",
-      "impact": "→",
-      "note": "Giá vàng miếng SJC hôm 27/10 ở mức 141,5 triệu đồng/lượng, giảm hơn 50 triệu đồng so với đỉnh đầu năm (khoảng 191+ triệu đồng). Phản ánh nhà đầu tư chốt lời vàng, tái cân bằng danh mục từ tài sản an toàn sang cấp vốn chủ."
-    },
-    {
-      "title": "Nguyên vật liệu và bán lẻ tăng, cân bằng áp lực bán",
+      "title": "TP.HCM thu hút 19 tỷ USD FDI năm 2026",
       "impact": "↑",
-      "note": "Nhóm nguyên vật liệu ghi nhận tình trạng khá tích cực: HPG, NKG, HSG, MSR, HHP tăng giá. Nhóm bán lẻ (MWG, FRT) thể hiện sắc xanh, giúp cân bằng áp lực bán toàn thị trường."
+      "note": "TP.HCM đặt mục tiêu thu hút 19 tỷ USD vốn đầu tư nước ngoài năm 2026; ưu tiên FDI chất lượng cao vào tài chính, công nghệ, chuyển đổi số, kinh tế xanh và phát triển bền vững; tạo dư địa cho dự án quy mô lớn"
     },
     {
-      "title": "Chính phủ bố trí 0.1% GDP hàng năm cho nhân tài (Nghị quyết 336)",
+      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài đến 2030",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính, bố trí ngân sách khoảng 0.1% GDP mỗi năm cho nhân tài. Hỗ trợ thu hút 1.000 nhân tài quốc gia đến 2030, tập trung AI, bán dẫn, lượng tử, khoa học dữ liệu."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính; bố trí ngân sách khoảng 0,1% GDP mỗi năm cho huy động nhân tài trong khoa học, công nghệ, đổi mới sáng tạo; phấn đấu thu hút khoảng 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu"
+    },
+    {
+      "title": "Nhóm nguyên vật liệu, bán lẻ diễn biến tích cực",
+      "impact": "↑",
+      "note": "Ngành nguyên vật liệu ghi nhận diễn biến tích cực với cổ phiếu HPG, NKG, HSG, MSR, HHP dẫn dắt; nhóm bán lẻ MWG, FRT tăng; VIC tăng 2% kéo VN-Index tăng gần 5 điểm tại 10h45 ngày 27/10"
+    },
+    {
+      "title": "Việt Nam nâng hạng thị trường mới nổi, tiềm năng quỹ lớn",
+      "impact": "↑",
+      "note": "Việt Nam được FTSE Russell nâng hạng lên thị trường mới nổi thứ cấp vào tháng 9/2026; hiện có 13,7 triệu tài khoản chứng khoán với 90% giá trị giao dịch từ nhà đầu tư nội địa; chỉ có khoảng 100 quỹ đại chúng so với 5.000 quỹ Hàn Quốc, cho thấy tiềm năng phát triển sâu rộng"
     }
   ]
 }
