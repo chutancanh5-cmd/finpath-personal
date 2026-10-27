@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ và hệ thống ngân hàng tích cực hỗ trợ tín dụng với 451.000 tỷ đồng gói ưu đãi và giảm lãi suất 2,5-3,25 điểm %, bên cạnh đầu tư 0,1% GDP/năm cho R&D và nhân tài. Hai ngân hàng hàng đầu (TCB, ACB) được Fitch nâng rating, khẳng định sức mạnh tài chính độc lập. Tuy vậy thị trường vẫn giằng co phiên thứ 2 liên tiếp với thanh khoản thấp kỷ lục, 420 mã giảm áp đảo, khối ngoại bán ròng 319 tỷ, dòng tiền thận trọng chưa đủ kích thích TTCK.",
+  "summary_vi": "Thị trường giao dịch giằng co với áp lực từ khối ngoại bán ròng 318-319 tỷ đồng, VN-Index giảm nhẹ 0,10% xuống 1.761,87 điểm. Tuy nhiên, chính sách hỗ trợ mạnh mẽ từ Chính phủ và ngân hàng (22 ngân hàng giảm lãi suất, gói ưu đãi 451 nghìn tỷ đồng) cùng việc Fitch nâng xếp hạng các ngân hàng lớn (TCB, ACB lên BB) tạo tín hiệu tích cực. Chính phủ cũng ưu tiên đầu tư 0,1% GDP mỗi năm cho nhân tài để phát triển AI và công nghệ, hướng tới mục tiêu nước phát triển vào 2045.",
   "top": [
     {
-      "title": "Hơn 20 ngân hàng giảm lãi suất 2,5-3,25 điểm %",
+      "title": "Hơn 20 ngân hàng giảm lãi suất, gói ưu đãi 451 nghìn tỷ đồng",
       "impact": "↑",
-      "note": "15 ngân hàng công bố gói tín dụng ưu đãi tổng 451.000 tỷ đồng (2,2% dư nợ toàn hệ thống 20,72 triệu tỷ đồng). Nam A Bank giảm 3,25%, Vietcombank 3%, Agribank và PVcomBank 2,5%/năm. HDBank 10.000 tỷ từ 20/10-30/11, lãi từ 8%/năm, doanh nghiệp sản xuất, xuất khẩu, nông nghiệp được ưu tiên."
+      "note": "22 ngân hàng công bố giảm lãi suất, trong đó 15 ngân hàng có gói tín dụng ưu đãi tổng cộng 451.000 tỷ đồng (2,2% dư nợ toàn hệ thống 20,72 triệu tỷ đồng). Nam A Bank giảm 3,25%, Vietcombank giảm 3%, Agribank và PVcomBank giảm 2,5% mỗi năm. Các gói tập trung vay ngắn hạn phục vụ sản xuất kinh doanh cho doanh nghiệp nhỏ, vừa, nông nghiệp, xuất nhập khẩu."
     },
     {
-      "title": "Fitch nâng xếp hạng Techcombank BB- lên BB",
+      "title": "Fitch nâng xếp hạng Techcombank BB- lên BB, ACB lên BB",
       "impact": "↑",
-      "note": "27/10: Fitch nâng Long-Term Issuer Default Rating (IDR) TCB từ BB- lên BB, Viability Rating (VR) từ bb- lên bb, triển vọng Ổn định. Ghi nhận cải thiện chất lượng tài sản, hồ sơ kinh doanh, năng lực quản trị rủi ro, duy trì tiêu chuẩn tín dụng thận trọng."
+      "note": "Fitch Ratings nâng Techcombank từ BB- lên BB (triển vọng Ổn định), nâng Viability Rating từ bb- lên bb, ghi nhận cải thiện chất lượng tài sản, hồ sơ kinh doanh, năng lực quản trị rủi ro. ACB 9 tháng 2026 tín dụng tăng 11,5% (765 nghìn tỷ đồng), huy động 500 triệu USD, Fitch cũng nâng hạng lên BB, kiểm soát nợ xấu 1,38%."
     },
     {
-      "title": "ACB tín dụng tăng 11,5%, Fitch nâng rating BB",
+      "title": "Chính phủ bố trí 0,1% GDP mỗi năm cho nhân tài, phấn đấu 1.000 nhân tài đến 2030",
       "impact": "↑",
-      "note": "9 tháng 2026: cho vay khách hàng 765 nghìn tỷ đồng tăng 11,5% so với đầu năm, doanh nghiệp là động lực. Fitch nâng xếp hạng lên BB, triển vọng Ổn định. Huy động thành công 500 triệu USD vốn hợp vốn quốc tế, kiểm soát nợ xấu 1,38%."
+      "note": "Nghị quyết 336/NQ-CP giao Bộ Tài chính xây dựng cơ chế tài chính bố trí ngân sách khoảng 0,1% GDP mỗi năm. Mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 trong lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược nhằm thoát khỏi bẫy thu nhập trung bình, hướng tới mục tiêu 14.375 USD/người vào 2045."
     },
     {
-      "title": "Chính phủ phân bổ 0,1% GDP/năm cho nhân tài R&D",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP (23/10): phân bổ khoảng 0,1% GDP/năm cho khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số. Mục tiêu 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược, nâng năng suất lao động dài hạn."
-    },
-    {
-      "title": "Thị trường giằng co phiên thứ 2 liên tiếp",
+      "title": "Khối ngoại tiếp tục bán ròng 318-319 tỷ đồng",
       "impact": "↓",
-      "note": "27/10: VN-Index giảm 1,7 điểm xuống 1.761,87, giảm lần thứ 2 liên tiếp. 420 mã giảm vs 300 mã tăng. Thanh khoản VN30 buổi chiều chỉ 2.884 tỷ đồng, mức thấp kỷ lục từ đầu năm. Dòng tiền thận trọng, giằng co, lực bán áp đảo."
+      "note": "Khối ngoại bán ròng 318,4-319 tỷ đồng trong phiên 27/10, tiếp tục áp lực bán. ACB bị bán ròng mạnh nhất 177 tỷ đồng, FPT gần 149 tỷ đồng. TCB dẫn đầu mua ròng 197 tỷ đồng, VNZ 171 tỷ đồng. Khối ngoại rút khỏi thị trường trong bối cảnh giao dịch trầm lắng."
     },
     {
-      "title": "Khối ngoại bán ròng 319 tỷ đồng",
-      "impact": "↓",
-      "note": "27/10: khối ngoại bán ròng 319 tỷ đồng trên toàn thị trường. FPT bị bán ròng gần 149 tỷ đồng, ACB 177 tỷ đồng. TCB được mua 197 tỷ đồng, VNZ 171 tỷ đồng. Dòng tiền nước ngoài rút khỏi thị trường trong bối cảnh trầm lắng."
+      "title": "VN-Index giảm nhẹ 0,10%, thanh khoảng suy yếu, 420 mã giảm",
+      "impact": "→",
+      "note": "VN-Index giảm 1,68 điểm xuống 1.761,87 điểm (-0,10%), phiên thứ 2 giảm liên tiếp. Thanh khoảng 13.922 tỷ đồng, dưới mức trung bình 20 phiên. Độ rộng thị trường 420 mã giảm vs 300 mã tăng, 56 mã đứng giá. Vùng hỗ trợ 1750-1760, kháng cự 1770-1780."
+    },
+    {
+      "title": "VietinBank và ngân hàng triển khai lãi suất ưu đãi từ 6%/năm",
+      "impact": "↑",
+      "note": "VietinBank triển khai chương trình Khơi nguồn tăng trưởng từ 23/10 đến 31/12/2026 với lãi suất ưu đãi từ 6%/năm, thời gian vay lên đến 6 tháng. VietABank 9 tháng 2026 tài sản 156 nghìn tỷ đồng tăng 16,25%, lợi nhuận trước thuế tăng 13,42%, thu nhập dịch vụ tăng 51,03%."
     }
   ]
 }
