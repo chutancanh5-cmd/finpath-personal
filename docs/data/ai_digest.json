@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Bất động sản bùng nổ với VN-Index tăng 4% tuần 19-23/10, khối lượng giao dịch HOSE tăng 20% đạt 716 triệu đơn vị/phiên. Ngân hàng đồng loạt giảm lãi suất huy động (VPBank giảm 0,4%, hàng chục ngân hàng triển khai gói tín dụng chục nghìn tỷ), TP.HCM hướng tới 19 tỷ USD FDI 2026, chính sách 0.1% GDP/năm cho nhân tài công nghệ tạo động lực dài hạn. Rủi ro: VPS mất 286 nhân viên, doanh thu chứng khoán giảm 23,3%, lãi suất thực tế vẫn cao 8-9%/năm dù niêm yết giảm.",
+  "summary_vi": "Thị trường chứng khoán phục hồi mạnh với VN-Index tăng 4% tuần 19-23/10, bất động sản hút tiền mạnh, khối lượng HOSE tăng 20% đạt 716 triệu đơn vị/phiên. Ngân hàng tiếp tục tăng trưởng (OCB lợi nhuận 9 tháng tăng 20%), TP.HCM mục tiêu 19 tỷ USD FDI, Chính phủ bố trí 0,1% GDP/năm cho nhân tài công nghệ. Tuy nhiên, áp lực từ ngành brokerage (VPS mất 286 nhân viên, doanh thu giảm 23,3%) và lãi suất niêm yết giảm nhưng thực tế vẫn cao là rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "VPS mất 286 nhân viên trong quý 3",
+      "title": "VN-Index tăng 4%, bất động sản hút tiền mạnh",
+      "impact": "↑",
+      "note": "Tuần 19-23/10: VN-Index tăng 4% lên 1.774 điểm, HNX tăng 1,4% lên 262,7 điểm; khối lượng HOSE tăng 20% đạt 716 triệu đơn vị/phiên, giá trị 15,8 nghìn tỷ đồng/phiên; bất động sản là tâm điểm dòng tiền với SZC, BCM, IJC, NLG, HDC khối lượng tăng 100%+."
+    },
+    {
+      "title": "OCB tăng trưởng lợi nhuận 20% sau 9 tháng",
+      "impact": "↑",
+      "note": "Lợi nhuận trước thuế quý 3 đạt 1.653 tỷ đồng tăng 7,5% cùng kỳ; lũy kế 9 tháng 4.123 tỷ đồng tăng 20% cùng kỳ; tổng thu thuần tăng 12,3%, thu từ lãi tăng 14,2%, thu dịch vụ tăng 62,3%."
+    },
+    {
+      "title": "VPS sụt giảm nhân sự, doanh thu chứng khoán giảm 23,3%",
       "impact": "↓",
-      "note": "VPS giảm 286 người so với Q2 (từ 1,921 → 1,635), tương đương 15% trong quý. Từ đỉnh 2,561 người tháng 6/2022 đã giảm 36%. Doanh thu hoạt động Q3 giảm 23,3%, phản ánh sức ép từ thanh khoản thị trường yếu."
+      "note": "VPS giảm 286 nhân viên quý 3 (từ 1.921 xuống 1.635), giảm 15% trong 3 tháng; từ đỉnh 2.561 người tháng 6/2022 đã giảm 36%; doanh thu hoạt động môi giới quý 3 giảm 23,3% so với cùng kỳ, phản ánh thanh khoản thị trường suy yếu."
     },
     {
-      "title": "Lãi suất huy động: công bố giảm nhưng thực tế vẫn cao",
-      "impact": "→",
-      "note": "Ngân hàng niêm yết giảm lãi suất nhưng khách hàng gửi tiền lớn được tư vấn 8-9%/năm. Khách gửi 200 triệu được tư vấn 8%/năm trong khi bảng giá niêm yết tại quầy chỉ 3%/6 tháng, chênh lệch gấp 2,7 lần."
-    },
-    {
-      "title": "Bất động sản bùng nổ, VN-Index tăng 4%",
+      "title": "TP.HCM quyết tâm hút 19 tỷ USD FDI năm 2026",
       "impact": "↑",
-      "note": "Tuần 19-23/10: VN-Index tăng 4%, khối lượng HOSE tăng 20% đạt 716 triệu đơn vị/phiên, giá trị giao dịch tăng 20% lên 15,8 nghìn tỷ đồng/phiên. SZC, BCM, IJC, NLG, HDC, DXS, EVG khối lượng tăng 100%+."
+      "note": "Phó Chủ tịch UBND TP.HCM Nguyễn Công Vinh: thành phố quyết thực hiện mục tiêu 19 tỷ USD FDI 2026; ưu tiên FDI chất lượng cao trong tài chính, công nghệ, chuyển đổi số, kinh tế xanh, phát triển bền vững."
     },
     {
-      "title": "Ngân hàng giảm lãi suất liên tiếp",
+      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài",
       "impact": "↑",
-      "note": "VPBank giảm 0,4% lãi suất huy động kỳ hạn 6-13 tháng (còn 6,6-6,7%/năm trực tuyến). Hàng chục ngân hàng thông báo giảm lãi suất, triển khai gói tín dụng ưu đãi hàng chục nghìn tỷ đồng hỗ trợ sản xuất kinh doanh."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10: Chính phủ giao Bộ Tài chính xây dựng cơ chế tài chính dành 0,1% GDP mỗi năm; phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu."
     },
     {
-      "title": "Chính sách 0.1% GDP/năm cho nhân tài công nghệ",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10: Chính phủ bố trí khoảng 0.1% GDP mỗi năm cho cơ chế trọng dụng nhân tài. Phấn đấu thu hút khoảng 1,000 nhân tài quốc gia đến năm 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu."
-    },
-    {
-      "title": "TP.HCM hướng tới 19 tỷ USD FDI năm 2026",
-      "impact": "↑",
-      "note": "Phó Chủ tịch UBND TP.HCM: thành phố quyết thực hiện mục tiêu 19 tỷ USD FDI năm 2026. Ưu tiên FDI chất lượng cao trong tài chính, công nghệ, chuyển đổi số, kinh tế xanh, phát triển bền vững."
+      "title": "Ngành brokerage chịu áp lực từ thanh khoản yếu",
+      "impact": "↓",
+      "note": "Khách hàng giao dịch ít hơn, dòng tiền đứng ngoài; khi thị trường thiếu động lực, người môi giới gần như không có nhiều thứ để chuyển hóa thành doanh thu, tạo áp lực lên thu nhập ngành."
     }
   ]
 }
