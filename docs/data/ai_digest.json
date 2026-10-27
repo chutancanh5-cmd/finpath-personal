@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-27",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường phục hồi mạnh trong tuần vừa qua với nhóm bất động sản hút tiền mạnh, trong khi ngành ngân hàng tiếp tục khẳng định sức mạnh (ACB tăng trưởng tín dụng 11,5%, Fitch nâng xếp hạng). Chính phủ tăng cường hỗ trợ công nghệ (0,1% GDP cho nhân tài AI, bán dẫn) và TP.HCM nhắm hút 19 tỷ USD FDI chất lượng cao. Tuy nhiên, áp lực từ ngành chứng khoán (VPS mất 286 nhân viên) cần theo dõi. Thị trường toàn cầu lạc quan về AI (Anthropic IPO, Meta huy động 95 tỷ USD).",
+  "summary_vi": "Tâm lý lạc quan về AI thế giới thúc đẩy thị trường Mỹ tăng (Anthropic nộp hồ sơ IPO, doanh thu 16,29 tỷ USD tăng 1.304%, chip stocks tăng mạnh). Trong nước, ngành ngân hàng tiếp tục khẳng định sức mạnh với ACB tín dụng tăng 11,5% (765 nghìn tỷ đồng) và Fitch nâng xếp hạng BB, OCB lợi nhuận 9 tháng tăng hơn 20%. TP.HCM đặt mục tiêu hút 19 tỷ USD FDI chất lượng cao, Chính phủ dành 0,1% GDP/năm cho nhân tài công nghệ. Tuy nhiên, ngành chứng khoán gặp áp lực (VPS mất 286 nhân viên, doanh thu giảm 23,3%), dòng tiền lấy lại tâm lý cẩn trọng.",
   "top": [
     {
-      "title": "ACB tăng trưởng tín dụng, Fitch nâng xếp hạng BB",
+      "title": "Anthropic IPO, AI boom đẩy chip stocks tăng",
       "impact": "↑",
-      "note": "Cho vay khách hàng đạt 765 nghìn tỷ đồng, tăng 11,5% so với đầu năm; huy động thành công vay hợp vốn quốc tế 500 triệu USD; Fitch nâng xếp hạng từ B+ lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính và quản trị rủi ro."
+      "note": "Anthropic nộp hồ sơ IPO trên Nasdaq (mã ANT), doanh thu 6 tháng đầu năm 16,29 tỷ USD tăng 1.304% (từ 1,16 tỷ USD cùng kỳ 2025). Nasdaq tăng 0,82%, S&P 500 tăng 0,7%; chip stocks tăng mạnh: Nvidia +2,4%, Micron +3%, Broadcom +2,3% — lạc quan về AI kích thích tâm lý nhà đầu tư toàn cầu."
     },
     {
-      "title": "Chứng khoán Mỹ tăng, AI boom thúc đẩy",
+      "title": "ACB tín dụng tăng 11,5%, Fitch nâng xếp hạng BB",
       "impact": "↑",
-      "note": "S&P 500 tăng 0,7% đạt 7.676,77 điểm, Nasdaq tăng 0,82% đạt 26.169,38 điểm. Anthropic nộp hồ sơ IPO với doanh thu 16,29 tỷ USD/6 tháng (tăng 1.304% YoY); Meta huy động 95 tỷ USD cho AI, SpaceX vay 40 tỷ USD chip AI; chip stocks tăng (Nvidia +2,4%, Micron +3%, Broadcom +2,3%)."
+      "note": "Cho vay khách hàng ACB đạt 765 nghìn tỷ đồng, tăng 11,5% so với đầu năm; huy động thành công vay hợp vốn quốc tế 500 triệu USD; Fitch Ratings nâng xếp hạng ACB lên BB, triển vọng Ổn định, ghi nhận sức mạnh tài chính độc lập và quản trị rủi ro."
     },
     {
-      "title": "TP.HCM hút 19 tỷ USD FDI, ưu tiên chất lượng cao",
+      "title": "OCB lợi nhuận 9 tháng tăng hơn 20%",
       "impact": "↑",
-      "note": "Năm 2026, TP.HCM đặt mục tiêu thu hút 19 tỷ USD vốn FDI, ưu tiên tài chính, công nghệ, chuyển đổi số, kinh tế xanh; mục tiêu xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng."
+      "note": "Lợi nhuận lũy kế 9 tháng 2026 đạt 4.123 tỷ đồng, tăng hơn 20% so với cùng kỳ; quý 3 lợi nhuận 1.653 tỷ đồng tăng 7,5%, tổng thu thuần 3.291 tỷ đồng tăng 12,3%, trong đó thu thuần dịch vụ tăng 62,3%."
     },
     {
-      "title": "Cổ phiếu bất động sản hút tiền mạnh",
+      "title": "TP.HCM nhắm hút 19 tỷ USD FDI năm 2026",
       "impact": "↑",
-      "note": "Tuần 19-23/10: VN-Index tăng 4% về 1.774 điểm, HOSE khối lượng +20% đạt 716 triệu đơn vị/phiên, giá trị giao dịch +20% đạt 15,8 ngàn tỷ đồng/phiên. Nhóm BĐS bứt phá mạnh, khối lượng +100% ở SZC, BCM, IJC, NLG, HDC, DXS, EVG."
+      "note": "TP.HCM đặt mục tiêu thu hút 19 tỷ USD vốn FDI trong năm 2026, ưu tiên dòng vốn chất lượng cao trong tài chính, công nghệ, chuyển đổi số, kinh tế xanh; xây dựng hệ sinh thái kết nối FDI-công nghệ-tài chính-hạ tầng."
     },
     {
-      "title": "VPS khủng hoảng nhân sự, ngành chứng khoán gặp khó",
+      "title": "VPS giảm 286 nhân viên, ngành chứng khoán chật vật",
       "impact": "↓",
-      "note": "Q3/2026: VPS giảm 286 nhân viên xuống 1.635, giảm 15% trong 3 tháng; so với đỉnh Q2/2022 (2.561 người) giảm 926 người (36%). Doanh thu Q3 giảm 23,3% do thanh khoản môi giới suy yếu."
+      "note": "Quý 3/2026 VPS giảm 286 nhân viên xuống 1.635 (từ 1.921 hôm 30/6), giảm 15% trong 3 tháng; so với đỉnh quý 2/2022 giảm 926 người (36%). Doanh thu quý 3 đạt 2.076 tỷ đồng, giảm 23,3% do thanh khoản môi giới suy yếu."
     },
     {
-      "title": "Chính phủ hỗ trợ nhân tài công nghệ",
+      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10: bố trí ngân sách 0,1% GDP mỗi năm cho nhân tài; mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 trong các lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10/2026: Chính phủ giao Bộ Tài chính xây dựng cơ chế tài chính, bố trí ngân sách khoảng 0,1% GDP mỗi năm; mục tiêu thu hút 1.000 nhân tài quốc gia đến 2030 cho các lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu."
     }
   ]
 }
