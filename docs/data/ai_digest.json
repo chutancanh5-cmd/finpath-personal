@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ công bố các chính sách hỗ trợ kinh tế toàn diện: tăng trưởng GDP mục tiêu 10%/năm, 13 tỷ USD dự án hạ tầng TPHCM, 451 nghìn tỷ đồng gói vay ưu đãi từ 20+ ngân hàng, và 2,7 tỷ USD cho Trung tâm Tài chính quốc tế TPHCM. Thêm vào đó là sửa đổi Luật Chứng khoán nâng cao quản trị và cam kết đầu tư 0,1% GDP cho nhân tài công nghệ. Tuy nhiên, lạm phát cao (CPI 9 tháng 4,52%) và thâm hụt thương mại (19,42 tỷ USD) là rủi ro cho năm 2027.",
+  "summary_vi": "Chính phủ nâng hạn mức tín dụng ưu đãi hơn 451 nghìn tỷ đồng, giảm lãi suất 1,5-3%/năm cho SME và sản xuất kinh doanh. Thủ tướng cam kết GDP tăng 10%/năm, TP.HCM công bố 12 dự án FDI 13 tỷ USD vào cảng, năng lượng, công nghệ. Tâm tài chính quốc tế TPHCM huy động 2,7 tỷ USD. Tuy nhiên, lạm phát 4,52%, nhập siêu 19,42 tỷ USD và áp lực chất lượng tín dụng năm 2027 cần lưu ý. Sức hấp dẫn cổ phiếu vẫn hạn chế (chênh 0,2% so tiền gửi).",
   "top": [
     {
-      "title": "Thủ tướng công bố mục tiêu GDP trên 10%/năm",
+      "title": "Thủ tướng cam kết GDP bình quân 10%/năm, trở thành trung tâm R&D toàn cầu",
       "impact": "↑",
-      "note": "Tại Diễn đàn Kinh tế Mùa Thu 2026 sáng 28/10, Thủ tướng Lê Minh Hưng khẳng định Việt Nam sẽ tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển sang mô hình 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế."
+      "note": "Tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), Thủ tướng Lê Minh Hưng đề ra mục tiêu tăng trưởng GDP bình quân 10%/năm trở lên, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế, kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "12 siêu dự án tổng vốn 13 tỷ USD đổ vào TPHCM",
+      "title": "TP.HCM công bố 12 dự án FDI tổng vốn 13 tỷ USD",
       "impact": "↑",
-      "note": "TPHCM công bố 12 dự án đầu tư lớn gồm: Cảng trung chuyển quốc tế Cần Giờ 4,933 tỷ USD, Khu phức hợp thông minh Thủ Thiêm (Lotte-Phát Đạt) 2,292 tỷ USD, và 10 dự án khác trong lĩnh vực cảng, năng lượng, đô thị thông minh."
+      "note": "Cảng trung chuyển quốc tế Cần Giờ (4,933 tỷ USD, do Vinalines-Cảng Sài Gòn-TIL), Khu phức hợp thông minh Thủ Thiêm Lotte-Phát Đạt (2,292 tỷ USD) cộng 10 dự án khác trong cảng biển, năng lượng, R&D, giáo dục, đang triển khai."
     },
     {
-      "title": "Sửa đổi Luật Chứng khoán nâng cao tiêu chuẩn quản trị",
+      "title": "Trung tâm Tài chính quốc tế TPHCM công bố 10 thành viên, huy động 2,7 tỷ USD",
       "impact": "↑",
-      "note": "Sáng 28/10, Quốc hội thảo luận dự án sửa đổi Luật Chứng khoán tập trung nâng cao tiêu chuẩn người đại diện pháp luật công ty chứng khoán, công ty quản lý quỹ. Mục tiêu khơi thông dòng vốn và bảo đảm an toàn hệ thống, tạo điều kiện thị trường chứng khoán trưởng thành hơn."
+      "note": "VIFC-HCMC công bố 10 công ty holding (EQuest Capital, Sơn Kim Capital, VinaCapital, Gemadept Holdings, Keppel, v.v.) với vốn điều lệ 33,63 triệu USD, dự kiến huy động & đầu tư 2,7 tỷ USD đến 2027 vào giáo dục, hạ tầng, logistics, năng lượng, fintech."
     },
     {
-      "title": "22 ngân hàng giảm lãi suất cho vay, hạn mức 451.000 tỷ đồng",
+      "title": "22 ngân hàng giảm lãi suất, cung cấp 451 nghìn tỷ đồng gói tín dụng ưu đãi",
       "impact": "↑",
-      "note": "15 ngân hàng công bố gói tín dụng ưu đãi: Nam A Bank giảm tới 3,25%/năm, Vietcombank tới 3%/năm cho vay ngắn hạn, Agribank và PVcomBank tới 2,5%/năm. Ưu tiên vốn ngắn hạn (dưới 6 tháng) cho SME, nông nghiệp, xuất nhập khẩu, công nghệ cao, logistics, năng lượng."
+      "note": "15 ngân hàng triển khai gói tín dụng hạn mức 451.000 tỷ đồng (2,2% dư nợ), mức giảm 1,5-3%/năm cho SME, hộ kinh doanh, nông nghiệp, xuất khẩu, công nghệ cao, hạ tầng. 4 ngân hàng nhà nước giảm tiền gửi 12 tháng từ 5,9% xuống 5,4%/năm."
     },
     {
-      "title": "Trung tâm Tài chính quốc tế TPHCM dự kiến huy động 2,7 tỷ USD",
-      "impact": "↑",
-      "note": "Trung tâm Tài chính quốc tế Việt Nam tại TPHCM (VIFC-HCMC) công bố 10 thành viên đầu tiên với vốn điều lệ 33,63 triệu USD. Dự kiến huy động và đầu tư đến 2027 khoảng 2,7 tỷ USD vào giáo dục, hạ tầng, hàng hải, logistics, năng lượng, fintech."
+      "title": "Thị trường tài chính 2027 đối diện áp lực lạm phát, nhập siêu, tỷ giá",
+      "impact": "↓",
+      "note": "Saigon Ratings cảnh báo 2027: CPI 9T2026 là 4,52%, nhập siêu 19,42 tỷ USD, chênh lệch tín dụng-huy động, áp lực đáo hạn trái phiếu sẽ ảnh hưởng thanh khoản và chất lượng tín dụng, mặc dù GDP 9T2026 tăng 9,01%, FDI 21,07 tỷ USD."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài công nghệ",
-      "impact": "↑",
-      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP ngày 23/10 bố trí ngân sách khoảng 0,1% GDP mỗi năm. Mục tiêu thu hút khoảng 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
+      "title": "Danh mục chứng khoán Lideco lỗ kỷ lục 77 tỷ, dự phòng tăng gấp 4 lần",
+      "impact": "↓",
+      "note": "Danh mục kinh doanh >600 tỷ đồng (30% tài sản) quay đầu giảm giá. Dự phòng giảm giá tăng từ 24 tỷ (đầu năm) lên 101 tỷ (quý 3). Cổ phiếu TCH (Hoàng Huy) từ 311 tỷ gốc xuống 272 tỷ hợp lý, chênh 39 tỷ. Dòng tiền kinh doanh âm >600 tỷ, phản ánh rủi ro định giá cổ phiếu."
     }
   ]
 }
