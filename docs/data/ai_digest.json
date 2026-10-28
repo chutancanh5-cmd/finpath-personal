@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường cân bằng giữa những tín hiệu tích cực từ FDI (13 tỷ USD công bố tại Diễn đàn Kinh tế Mùa thu) và chính sách giảm lãi suất cho vay từ 20+ ngân hàng hỗ trợ doanh nghiệp, nhưng bị cân bằng bởi áp lực bán ròng liên tục từ khối ngoại (318,4 tỷ đồng) và thanh khoảng suy giảm. VN-Index gặp khó khăn vượt kháng cự 1.770 điểm, mặc dù một số ngân hàng như ACB cải thiện xếp hạng Fitch và tăng tín dụng 11,5%. Sự ổn định của chính sách tiền tệ và hỗ trợ công nghệ (0,1% GDP cho nhân tài) mở ra cơ hội tăng trưởng dài hạn, nhưng rủi ro ngắn hạn từ dòng vốn ngoại vẫn cần theo dõi.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường hôm nay nhận được các tín hiệu vĩ mô tích cực mạnh: 12 dự án FDI tổng 13 tỷ USD được công bố tại AEF 2026, hơn 20 ngân hàng giảm lãi suất với hạn mức ưu đãi vượt 451.000 tỷ đồng. Đồng thời, Chính phủ bố trí 0,1% GDP hàng năm cho nhân tài công nghệ (AI, bán dẫn, lượng tử). Tuy khối ngoại bán ròng 318,4 tỷ đồng gây áp lực, nhưng lượng FDI khổng lồ và chính sách tiền tệ nới lỏng sẽ hỗ trợ tăng trưởng dài hạn, làm vơi đi lo ngại ngắn hạn.",
   "top": [
     {
-      "title": "12 dự án FDI 13 tỷ USD công bố tại AEF 2026",
+      "title": "12 dự án FDI tổng vốn 13 tỷ USD công bố tại AEF 2026",
       "impact": "↑",
-      "note": "12 dự án đầu tư trong và ngoài nước với tổng vốn hơn 13 tỷ USD chính thức công bố ngày 28/10 tại Diễn đàn Kinh tế Mùa thu 2026 ở TPHCM. Sự kiện quy tụ hơn 2.700 đại biểu từ 27 quốc gia và 214 diễn giả. Thủ tướng Lê Minh Hưng dự phiên khai mạc, đối thoại 60 phút với lãnh đạo WEF về định vị Việt Nam trong tương lai toàn cầu."
+      "note": "12 dự án đầu tư trong và ngoài nước với tổng vốn hơn 13 tỷ USD chính thức công bố ngày 28/10 tại Diễn đàn Kinh tế Mùa thu 2026 ở TPHCM. Sự kiện quy tụ hơn 2.700 đại biểu từ 27 quốc gia/vùng lãnh thổ và 214 diễn giả, có sự phối hợp của WEF. Thủ tướng Lê Minh Hưng dự phiên khai mạc."
     },
     {
       "title": "22 ngân hàng giảm lãi suất cho vay, gói ưu đãi 451.000 tỷ đồng",
       "impact": "↑",
-      "note": "Ít nhất 22 ngân hàng công bố giảm lãi suất, trong đó Nam A Bank giảm 3,25%/năm, Vietcombank 3%/năm, Agribank và PVcomBank 2,5%/năm, VietinBank từ 6%/năm. 15 ngân hàng triển khai gói tín dụng ưu đãi tổng 451.000 tỷ đồng (2,2% dư nợ toàn hệ thống 20,72 triệu tỷ đồng), hỗ trợ sản xuất kinh doanh, SME, doanh nghiệp nhỏ và vừa."
+      "note": "Ít nhất 22 ngân hàng công bố giảm lãi suất cho vay. Nam A Bank giảm 3,25%/năm, Vietcombank 3%/năm, Agribank và PVcomBank 2,5%/năm. 15 ngân hàng triển khai gói tín dụng ưu đãi tổng 451.000 tỷ đồng (~2,2% dư nợ toàn hệ thống 20,72 triệu tỷ đồng), ưu tiên doanh nghiệp sản xuất, SME, nông nghiệp, xuất nhập khẩu."
     },
     {
-      "title": "ACB tín dụng tăng 11,5%, Fitch nâng xếp hạng BB",
+      "title": "ACB tín dụng tăng 11,5%, Fitch Ratings nâng xếp hạng lên BB",
       "impact": "↑",
-      "note": "9 tháng 2026, ACB cho vay khách hàng đạt 765 triệu tỷ đồng, tăng 11,5% so với đầu năm. Fitch Ratings nâng xếp hạng tín nhiệm ACB lên BB, triển vọng Ổn định. ACB huy động thành công vay hợp vốn quốc tế trị giá 500 triệu USD, duy trì chất lượng tài sản tốt."
+      "note": "9 tháng 2026, ACB cho vay khách hàng đạt 765 nghìn tỷ đồng, tăng 11,5% so với đầu năm. Fitch Ratings nâng xếp hạng tín nhiệm lên BB (triển vọng Ổn định), ghi nhận sức mạnh tài chính độc lập. ACB huy động thành công vay hợp vốn quốc tế 500 triệu USD, duy trì chất lượng tài sản tốt."
     },
     {
-      "title": "Khối ngoại bán ròng 318,4 tỷ đồng, PYN Elite bán DSE",
+      "title": "Khối ngoại bán ròng 318,4 tỷ đồng, PYN Elite bán DSE 1 triệu cổ phiếu",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 318,4 tỷ đồng ngày 27/10 (khớp lệnh 326,3 tỷ đồng bán ròng). Quỹ PYN Elite Fund (Phần Lan, tài sản 805 triệu euro ~23.400 tỷ đồng) bán 1.038.000 cổ phiếu DSE, giảm sở hữu từ 8,2% xuống 7,95%. FPT bị bán ròng mạnh nhất 150 tỷ đồng."
+      "note": "Khối ngoại bán ròng 318,4 tỷ đồng (khớp lệnh 326,3 tỷ đồng) ngày 27/10, đặc biệt FPT bị bán ròng mạnh 150 tỷ đồng. Quỹ ngoại PYN Elite Fund (Phần Lan, quản lý 805 triệu euro ~23.400 tỷ đồng) bán 1.038.000 cổ phiếu DSE, giảm sở hữu từ 8,2% xuống 7,95%."
     },
     {
-      "title": "Chính phủ bố trí 0,1% GDP/năm cho nhân tài công nghệ",
+      "title": "Chính phủ bố trí 0,1% GDP mỗi năm cho nhân tài công nghệ",
       "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP (23/10) giao Bộ Tài chính xây dựng cơ chế tài chính riêng bố trí khoảng 0,1% GDP mỗi năm cho nhân tài. Phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược. Nguồn kinh phí trong ngân sách khoa học, công nghệ, đổi mới sáng tạo."
+      "note": "Nghị quyết 336/NQ-CP (23/10) giao Bộ Tài chính xây dựng cơ chế tài chính riêng, bố trí khoảng 0,1% GDP mỗi năm cho thu hút, trọng dụng nhân tài. Phấn đấu thu hút 1.000 nhân tài quốc gia đến 2030 cho AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược và các lĩnh vực ưu tiên."
     },
     {
-      "title": "VN-Index 1.761,87, thất bại 1.770, thanh khoảng 13.922 tỷ",
+      "title": "VN-Index 1.761,87 điểm, thất bại kháng cự 1.770, thanh khoảng 13.922 tỷ",
       "impact": "↓",
-      "note": "VN-Index đóng cửa 1.761,87 điểm, giảm 1,68 điểm (0,10%), thất bại kiểm định kháng cự 1.772 điểm. Thanh khoảng HoSE 13.922 tỷ đồng, dưới trung bình 20 phiên; 192 mã giảm, 118 mã tăng, 56 mã đứng giá. Nếu không vượt 1.775-1.780 với thanh khoảng cải thiện, rủi ro lùi về 1.750."
+      "note": "VN-Index đóng cửa 1.761,87 điểm, giảm 1,68 điểm (0,10%), thất bại kiểm định kháng cự 1.772 điểm. Thanh khoảng HoSE 13.922 tỷ đồng dưới trung bình 20 phiên; 192 mã giảm, 118 mã tăng, 56 mã đứng giá. Nếu không vượt vùng 1.775-1.780 với thanh khoảng cải thiện, có rủi ro lùi về 1.750."
     }
   ]
 }
