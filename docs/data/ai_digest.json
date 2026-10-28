@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ công bố mục tiêu tăng trưởng GDP trên 10%/năm và huy động FDI 13 tỷ USD thông qua Diễn đàn Kinh tế, đi kèm gói giảm lãi suất ngân hàng 451.000 tỷ đồng. Tuy nhiên, ngắn hạn thị trường chứng khoán đang yếu với thanh khoản khó khăn (64% dao động <1%) và dòng tiền chảy vào vàng. Cơ cấu tăng trưởng đã chuyển sang tích cực hơn nhưng cần thời gian để phản ánh vào giá chứng khoán.",
+  "summary_vi": "Thủ tướng công bố mục tiêu tăng trưởng GDP 10%/năm và chiến lược \"cùng đầu tư, cùng sáng tạo\" tạo động lực dài hạn. Các yếu tố tích cực hôm nay bao gồm 12 dự án FDI 13 tỷ USD sắp công bố, 20+ ngân hàng giảm lãi suất với gói tín dụng 451.000 tỷ đồng, Quốc hội sửa Luật Chứng khoán nhằm khơi thông dòng vốn, và ACB tăng tín dụng 11,5%. Tuy nhiên, thị trường hôm nay yếu với thanh khoản thấp (64% dao động <1%), phản ánh nhà đầu tư còn thận trọng dù các tin tức lạc quan.",
   "top": [
     {
-      "title": "Hơn 20 ngân hàng giảm lãi suất, gói vay ưu đãi 451.000 tỷ đồng",
+      "title": "Thủ tướng công bố mục tiêu GDP 10%+",
       "impact": "↑",
-      "note": "22 ngân hàng công bố giảm lãi suất, 15 ngân hàng triển khai gói vay ưu đãi tổng cộng hơn 451.000 tỷ đồng (2,2% dư nợ toàn hệ thống), giảm từ 2,5 đến 3,25 điểm phần trăm/năm, tập trung vào sản xuất, SME, nông nghiệp, xuất nhập khẩu — hỗ trợ dòng tiền kinh doanh và nâng tính thanh khoản."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 sáng 28/10 khẳng định Việt Nam quyết tâm đạt tăng trưởng GDP bình quân 10%/năm trở lên, chuyển từ mô hình \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" với các tập đoàn quốc tế."
     },
     {
-      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
+      "title": "12 dự án FDI tổng 13 tỷ USD được công bố",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng tại Diễn đàn Kinh tế Mùa thu 2026 khẳng định Việt Nam đặt mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển từ mô hình 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới toàn cầu."
+      "note": "Trong AEF 2026 tại TPHCM, 12 dự án đầu tư trong và ngoài nước với tổng vốn hơn 13 tỷ USD sẽ chính thức được công bố ngày 28/10, hỗ trợ mục tiêu tăng trưởng dài hạn của Chính phủ."
     },
     {
-      "title": "FDI 13 tỷ USD đổ bộ Việt Nam qua 12 dự án lớn",
+      "title": "Quốc hội sửa Luật Chứng khoán",
       "impact": "↑",
-      "note": "12 dự án đầu tư trong và ngoài nước được công bố tại Diễn đàn Kinh tế Mùa thu 2026 (TPHCM) với tổng vốn hơn 13 tỷ USD, tăng cường kết nối đầu tư, công nghệ và đổi mới sáng tạo, hỗ trợ tạo chuỗi cung ứng mới."
+      "note": "Sáng 28/10, Quốc hội thảo luận dự án Luật sửa đổi Luật Chứng khoán, tập trung vào tiêu chuẩn lãnh đạo công ty chứng khoán, cải thiện tính minh bạch, nhằm khơi thông dòng vốn và bảo đảm an toàn hệ thống."
     },
     {
-      "title": "Thanh khoản thị trường yếu, 64% dao động nhỏ hơn 1%",
+      "title": "20+ ngân hàng giảm lãi suất 451.000 tỷ đồng",
+      "impact": "↑",
+      "note": "Ít nhất 22 ngân hàng công bố giảm lãi suất cho vay, 15 ngân hàng đưa ra gói tín dụng ưu đãi với tổng hạn mức 451.000 tỷ đồng (2,2% dư nợ toàn hệ thống), giảm 2,5-3,25 điểm phần trăm/năm, hỗ trợ doanh nghiệp và đầu tư."
+    },
+    {
+      "title": "Thị trường giằng co, thanh khoản yếu",
       "impact": "↓",
-      "note": "Phiên 28/10 có 64% thanh khoản HoSE tập trung ở nhóm dao động rất nhỏ (<1%), cung cầu không gặp nhau, tính thanh khoản VN30 giảm khoảng 17% so với mức trung bình các phiên sáng tuần trước, cho thấy nhà đầu tư lớn giảm cường độ giao dịch."
+      "note": "Phiên sáng 28/10: Cung cầu không gặp nhau, 64% thanh khoản HoSE tập trung ở biên độ dao động dưới 1%, thanh khoản khớp lệnh giảm 17% so với mức trung bình tuần trước, nhà đầu tư giảm cường độ giao dịch."
     },
     {
-      "title": "Lideco lỗ kỷ lục 77 tỷ do danh mục chứng khoán xấu",
-      "impact": "↓",
-      "note": "Danh mục chứng khoán kinh doanh hơn 605 tỷ đồng của Lideco giảm giá từ 605 tỷ xuống 506 tỷ (chênh lệch 99 tỷ), dự phòng giảm giá tăng từ 24 tỷ lên gần 101 tỷ đồng, khiến Lideco lỗ kỷ lục gần 77 tỷ đồng quý 3/2026, phản ánh áp lực từ thị trường chứng khoán."
-    },
-    {
-      "title": "ACB cho vay tăng 11,5%, Fitch nâng xếp hạng BB",
+      "title": "ACB tăng tín dụng 11,5%, Fitch nâng xếp hạng BB",
       "impact": "↑",
-      "note": "ACB 9 tháng 2026 cho vay khách hàng đạt 765 nghìn tỷ đồng (tăng 11,5% từ đầu năm), huy động vay quốc tế 500 triệu USD, Fitch Ratings nâng xếp hạng tín nhiệm lên BB với triển vọng ổn định, ghi nhận sức mạnh tài chính độc lập và năng lực quản trị rủi ro."
+      "note": "ACB 9 tháng 2026: Cho vay khách hàng đạt 765 nghìn tỷ đồng, tăng 11,5% so với đầu năm, Fitch Ratings nâng xếp hạng tín nhiệm lên BB (triển vọng Ổn định), huy động 500 triệu USD quốc tế."
     }
   ]
 }
