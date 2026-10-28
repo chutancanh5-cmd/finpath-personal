@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận những tín hiệu tích cực từ chính sách vĩ mô: Chính phủ cam kết tăng trưởng GDP trên 10%/năm, TP HCM kêu gọi 13 tỷ USD FDI qua 12 dự án lớn, chính sách giảm thuế xuất khẩu phân bón về 0% hỗ trợ xuất khẩu, và ngành ngân hàng tăng tốc mạnh với NCB lập kỷ lục lợi nhuận 1.574 tỷ đồng 9 tháng (+141,4% YoY). Tuy nhiên, thanh khoản thị trường vẫn ở mức thấp, khối ngoại tiếp tục bán ròng, phản ánh sự thận trọng trước bền vững của đà phục hồi.",
+  "summary_vi": "Hôm nay thị trường nhân được các tín hiệu vĩ mô tích cực từ Chính phủ với mục tiêu GDP trên 10% và kêu gọi FDI 13 tỷ USD cho TP HCM, trong khi NCB lập kỷ lục lợi nhuận 1.574 tỷ đồng (tăng 141%). Giảm thuế xuất khẩu phân bón có lợi cho DCM (tiết kiệm ~203 tỷ đồng/năm) và các doanh nghiệp ngoài tư. Tuy nhiên, khối ngoại tiếp tục bán ròng FPT (211 triệu cp từ đầu năm = 16.500 tỷ), kéo cổ phiếu giảm 50%, tạo áp lực âm cần theo dõi. Chỉ số VN-Index tăng nhẹ 0.27% dù thanh khoản thấp, cho thấy sự phân hóa trên thị trường.",
   "top": [
     {
-      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
-      "impact": "↑",
-      "note": "Ngày 28/10, Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026, xác định Việt Nam bước vào giai đoạn phát triển bản lề với mục tiêu GDP tăng bình quân 10%/năm trở lên, đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới toàn cầu."
+      "title": "Khối ngoại bán ròng FPT, cổ phiếu giảm 50%",
+      "impact": "↓",
+      "note": "Khối ngoại đã bán ròng 211 triệu cổ phiếu FPT từ đầu năm (giá trị 16.500 tỷ), 8 phiên liên tiếp bán ròng. Cổ phiếu đóng cửa 54.000 đồng/cp, giảm 50% so với đỉnh đầu 2025. Vốn hóa giảm xuống 100.000 tỷ đồng, room ngoại mở rộng kỷ lục 22%, tỷ lệ sở hữu nước ngoài xuống dưới 27%."
     },
     {
-      "title": "TP HCM công bố 13 tỷ USD FDI, dự án Cảng Cần Giờ 4,933 tỷ USD",
+      "title": "NCB lập kỷ lục lợi nhuận 9 tháng",
       "impact": "↑",
-      "note": "Ngày 28/10, TP HCM công bố 12 dự án đầu tư với tổng vốn 13 tỷ USD; dự án lớn nhất là Cảng trung chuyển quốc tế Cần Giờ với vốn khoảng 4,933 tỷ USD. Các dự án tập trung vào cảng biển, năng lượng, đô thị thông minh, R&D, giáo dục."
+      "note": "Lợi nhuận sau thuế lũy kế 9 tháng đạt 1.574 tỷ đồng, tăng 141% so với cùng kỳ 2025. Quý 3 riêng lẻ đạt 847 tỷ đồng, tăng 66% QoQ và 346% YoY. Thu nhập lãi thuần tăng 71%, tổng thu nhập hoạt động (TOI) tăng 74% so với 9T 2025."
     },
     {
-      "title": "Giảm thuế xuất khẩu phân bón 0%, DCM tiết kiệm 203 tỷ đồng/năm",
+      "title": "Chính phủ giảm thuế xuất khẩu phân bón về 0%",
       "impact": "↑",
-      "note": "Chính sách giảm thuế xuất khẩu phân bón về 0% cải thiện giá bán ròng trên thị trường quốc tế. DCM được hưởng lợi nhiều nhất, ước tính tiết kiệm khoảng 203 tỷ đồng/năm tương đương 9,2% lợi nhuận trước thuế 2025, với tỷ trọng xuất khẩu urê đạt 59,7%."
+      "note": "Đề xuất giảm thuế xuất khẩu phân bón có lợi trực tiếp cho ngành. DCM được hưởng lợi nhất với tiết kiệm khoảng 203 tỷ đồng/năm (9,2% lợi nhuận trước thuế 2025). DPM cũng được hưởng lợi tích cực, trong khi LAS chịu áp lực nhẹ hơn."
     },
     {
-      "title": "NCB lập kỷ lục lợi nhuận 1.574 tỷ đồng, +141,4% YoY",
+      "title": "TP HCM công bố 12 dự án FDI 13 tỷ USD",
       "impact": "↑",
-      "note": "Lợi nhuận sau thuế 9 tháng đạt gần 1.574 tỷ đồng, tăng 141,4% so cùng kỳ 2025; riêng quý 3 đạt 847 tỷ đồng, tăng 346% so cùng kỳ. Thu nhập lãi thuần tăng 71%, huy động tiền gửi tăng 43,16%, cho thấy hiệu quả hoạt động kinh doanh vượt trội."
+      "note": "Tại Diễn đàn Kinh tế Mùa Thu 2026 (28/10), TP HCM công bố 12 dự án đầu tư tổng vốn 13 tỷ USD. Nổi bật: Cảng trung chuyển quốc tế Cần Giờ với vốn khoảng 4,933 tỷ USD, tập trung vào cảng biển, năng lượng, đô thị thông minh, giáo dục."
     },
     {
-      "title": "VLB doanh thu 442 tỷ (+35%), lợi nhuận 117 tỷ (+86%), cổ phiếu lập đỉnh 53.700 đ",
+      "title": "Mục tiêu tăng trưởng GDP trên 10%/năm",
       "impact": "↑",
-      "note": "Quý 3/2026, VLB đạt doanh thu 442 tỷ đồng tăng 35%, lợi nhuận sau thuế 117 tỷ đồng tăng 86%, sản lượng tiêu thụ 2 triệu m³ đá tăng 19%. Lũy kế 9 tháng lợi nhuận trước thuế ~708 tỷ đồng = 2,5 lần kế hoạch cả năm, được thúc đẩy từ dự án sân bay Long Thành."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa Thu 2026 xác nhận Việt Nam quyết tâm đạt tăng trưởng GDP bình quân từ 10%/năm trở lên, trở thành trung tâm R&D và đổi mới sáng tạo toàn cầu, kêu gọi các tập đoàn quốc tế cùng đầu tư."
     },
     {
-      "title": "VN-Index tăng 4,78 điểm (+0,27%), thanh khoản vẫn thấp",
-      "impact": "→",
-      "note": "VN-Index đóng cửa tại 1.766,65 điểm tăng 4,78 điểm, được dẫn dắt bởi nhóm ngân hàng (HDB +3,86%, VCB +2,5%, VPB +1,29%). Tuy nhiên, khối ngoại bán ròng hơn 260 tỷ FPT, thanh khoản HoSE chỉ ~12.167 tỷ đồng, phản ánh sự thận trọng của thị trường."
+      "title": "Digiworld giảm sàn dù lợi nhuận Q3 tăng mạnh",
+      "impact": "↓",
+      "note": "Cổ phiếu Digiworld bất ngờ giảm sàn trong phiên 28/10 dù lợi nhuận quý III tăng trưởng mạnh. Sự bất thường này phản ánh áp lực bán từ nhà đầu tư, trong bối cảnh thanh khoản thị trường thấp và sự phân hóa giữa các nhóm cổ phiếu."
     }
   ]
 }
