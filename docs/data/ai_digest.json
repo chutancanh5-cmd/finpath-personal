@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ công bố mục tiêu tăng trưởng GDP 10%/năm và kêu gọi FDI 13 tỷ USD cho TP HCM, chính sách giảm thuế xuất khẩu phân bón tạo kỳ vọng dài hạn; song ngắn hạn thị trường chịu áp lực từ khối ngoại bán ròng 4 phiên liên tiếp (FPT 260 tỷ), ngành chứng khoán gặp khó (DSC giảm 57% lợi nhuận), nhưng ngân hàng vẫn tăng trưởng mạnh (NCB +141%) tạo cơ hội cho nhà đầu tư nội địa.",
+  "summary_vi": "Thị trường chứng khoán VN hôm nay phân hóa rõ rệt với áp lực bán ròng mạnh từ khối ngoại (4 phiên liên tiếp, FPT 260 tỷ đồng), đồng thời ngành chứng khoán gặp khó (DSC giảm 57% lợi nhuận). Tuy nhiên, có tín hiệu tích cực từ ngành ngân hàng (NCB lãi kỷ lục 1.574 tỷ đồng, tăng 141%), dự án FDI 13 tỷ USD tại TP HCM và chính sách giảm thuế xuất khẩu phân bón. Rủi ro lớn đến từ suy giảm cơn sốt AI có thể khiến dòng vốn ngoại quay lại.",
   "top": [
     {
-      "title": "Thủ tướng công bố mục tiêu tăng trưởng GDP 10%/năm",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10) công bố Việt Nam hướng tới tăng trưởng GDP bình quân 10%/năm trở lên, chuyển từ mô hình \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để kiến tạo chuỗi giá trị toàn cầu."
+      "title": "Khối ngoại bán ròng FPT 260 tỷ, chuỗi 4 phiên liên tiếp",
+      "impact": "↓",
+      "note": "Phiên 28/10, khối ngoại bán ròng FPT 260 tỷ đồng, tiếp tục chuỗi bán ròng 4 phiên liên tiếp với tổng bán ròng 251 tỷ đồng. Từ đầu năm, ngoại bán ròng 211 triệu cổ phiếu FPT (16.500 tỷ đồng). Room ngoại hở 22% — mức chưa từng xảy ra trong lịch sử."
     },
     {
-      "title": "NCB đạt lợi nhuận kỷ lục 1.574 tỷ đồng, tăng 141%",
+      "title": "NCB lợi nhuận kỷ lục 1.574 tỷ đồng, tăng 141,4%",
       "impact": "↑",
-      "note": "NCB báo lợi nhuận sau thuế 9 tháng 2026 đạt 1.574 tỷ đồng, tăng 141,4% so cùng kỳ 2025, lập kỷ lục cao nhất từ thành lập. Thu nhập lãi thuần tăng 71% lên 3.334 tỷ đồng, huy động tiền gửi tăng 43,16% lên 188.879 tỷ đồng."
+      "note": "NCB báo lợi nhuận sau thuế 9 tháng 2026 tăng 141,4% so cùng kỳ, lập kỷ lục cao nhất từ thành lập. Quý 3 đạt 847 tỷ đồng, tăng 66% so q2. Thu nhập lãi thuần tăng 71% lên 3.333,8 tỷ đồng, huy động tiền gửi tăng 43,16% lên 188.879 tỷ đồng."
+    },
+    {
+      "title": "DSC hạ 57,3% mục tiêu lợi nhuận năm 2026",
+      "impact": "↓",
+      "note": "DSC điều chỉnh kế hoạch 2026 với lợi nhuận giảm 57,3% còn 152 tỷ đồng, doanh thu giảm 14,3% còn 640 tỷ đồng. Quý III lợi nhuận chỉ 4,1 tỷ đồng giảm 97,5% so cùng kỳ, doanh thu giảm 38%, tự doanh và môi giới cùng lỗ."
     },
     {
       "title": "TP HCM công bố 12 dự án FDI tổng 13 tỷ USD",
       "impact": "↑",
-      "note": "Tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), TP HCM công bố 12 dự án đầu tư với tổng vốn 13 tỷ USD, tập trung cảng biển (Cảng trung chuyển quốc tế Cần Giờ 4,933 tỷ USD), năng lượng, đô thị thông minh, R&D và giáo dục."
+      "note": "Tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), TP HCM công bố 12 dự án đầu tư 13 tỷ USD tập trung lĩnh vực cảng biển, năng lượng, đô thị thông minh, R&D và giáo dục. Nổi bật Cảng trung chuyển quốc tế Cần Giờ 4,933 tỷ USD."
     },
     {
-      "title": "Đề xuất giảm thuế xuất khẩu phân bón về 0%",
+      "title": "Giảm thuế xuất khẩu phân bón về 0%",
       "impact": "↑",
-      "note": "Chính sách giảm thuế xuất khẩu phân bón được đề xuất. DCM được hưởng lợi nhiều nhất, ước tiết kiệm 203 tỷ đồng/năm (9,2% lợi nhuận 2025), tỷ trọng xuất khẩu urê 59,7%. DPM cũng được hưởng lợi, LAS tác động hạn chế hơn."
+      "note": "Chính sách giảm thuế xuất khẩu phân bón hỗ trợ cạnh tranh giá quốc tế. DCM được hưởng lợi nhiều nhất, tiết kiệm 203 tỷ đồng/năm (9,2% lợi nhuận 2025) với tỷ trọng xuất khẩu urê 59,7%. DPM cũng hưởng lợi, LAS tác động hạn chế."
     },
     {
-      "title": "Khối ngoại bán ròng 4 phiên liên tiếp, FPT bị bán 260 tỷ",
+      "title": "Rủi ro USD từ suy giảm cơn sốt AI",
       "impact": "↓",
-      "note": "Phiên 28/10, khối ngoại bán ròng 251 tỷ đồng, phiên thứ 4 liên tiếp. FPT bị bán ròng mạnh nhất 260 tỷ đồng. Từ đầu năm, ngoại bán ròng FPT 211 triệu cổ phiếu (16.500 tỷ đồng). Khối ngoại còn nắm 455 triệu cổ phiếu FPT (27% sở hữu), room ngoại 22% - cao nhất từng có."
-    },
-    {
-      "title": "DSC giảm 57,3% mục tiêu lợi nhuận năm 2026",
-      "impact": "↓",
-      "note": "DSC điều chỉnh kế hoạch 2026 với lợi nhuận giảm 57,3% còn 152 tỷ đồng, doanh thu giảm 14,3% còn 640 tỷ đồng. Quý III, lợi nhuận trước thuế chỉ 4,1 tỷ đồng, giảm 97,5% so cùng kỳ 2025 do doanh thu hoạt động giảm 38%."
+      "note": "Nếu đầu tư AI đảo chiều, USD có thể không còn hưởng lợi từ vai trò tài sản trú ẩn an toàn. Tuần trước, dòng vốn trú ẩn đã chuyển sang yên Nhật và franc Thụy Sĩ, khả năng bán tài sản Mỹ gây áp lực cổ phiếu công nghệ."
     }
   ]
 }
