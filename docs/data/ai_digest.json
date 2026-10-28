@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-10-28",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ công bố mục tiêu tăng trưởng GDP 10%/năm và FDI 13 tỷ USD cho TP HCM, cùng chính sách giảm thuế xuất khẩu, tạo kỳ vọng tích cực dài hạn. Ngân hàng tăng trưởng mạnh (NCB lợi nhuận +141%), là tín hiệu tích cực cho ngành tài chính. Tuy nhiên, ngắn hạn thị trường chịu áp lực từ khối ngoại bán ròng 4 phiên liên tiếp (FPT 260 tỷ) và ngành chứng khoán gặp khó (DSC giảm 57% mục tiêu). Xu hướng này tạo cơ hội cho nhà đầu tư nội địa khi các mã công nghệ bị bán mạnh, room ngoại mở rộng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Chính phủ công bố mục tiêu tăng trưởng GDP 10%/năm và kêu gọi FDI 13 tỷ USD cho TP HCM, chính sách giảm thuế xuất khẩu phân bón tạo kỳ vọng dài hạn; song ngắn hạn thị trường chịu áp lực từ khối ngoại bán ròng 4 phiên liên tiếp (FPT 260 tỷ), ngành chứng khoán gặp khó (DSC giảm 57% lợi nhuận), nhưng ngân hàng vẫn tăng trưởng mạnh (NCB +141%) tạo cơ hội cho nhà đầu tư nội địa.",
   "top": [
     {
       "title": "Thủ tướng công bố mục tiêu tăng trưởng GDP 10%/năm",
@@ -10,7 +10,7 @@
       "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10) công bố Việt Nam hướng tới tăng trưởng GDP bình quân 10%/năm trở lên, chuyển từ mô hình \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để kiến tạo chuỗi giá trị toàn cầu."
     },
     {
-      "title": "NCB đạt lợi nhuận kỷ lục, tăng 141% so cùng kỳ",
+      "title": "NCB đạt lợi nhuận kỷ lục 1.574 tỷ đồng, tăng 141%",
       "impact": "↑",
       "note": "NCB báo lợi nhuận sau thuế 9 tháng 2026 đạt 1.574 tỷ đồng, tăng 141,4% so cùng kỳ 2025, lập kỷ lục cao nhất từ thành lập. Thu nhập lãi thuần tăng 71% lên 3.334 tỷ đồng, huy động tiền gửi tăng 43,16% lên 188.879 tỷ đồng."
     },
@@ -27,7 +27,7 @@
     {
       "title": "Khối ngoại bán ròng 4 phiên liên tiếp, FPT bị bán 260 tỷ",
       "impact": "↓",
-      "note": "Phiên 28/10, khối ngoại bán ròng 251 tỷ đồng, phiên thứ 4 liên tiếp. FPT bị bán ròng mạnh nhất 260 tỷ đồng. Từ đầu năm, ngoại bán ròng FPT 211 triệu cổ phiếu (16,5 triệu tỷ đồng). Khối ngoại còn nắm 455 triệu cổ phiếu FPT (27% sở hữu), room ngoại 22% - cao nhất từng có."
+      "note": "Phiên 28/10, khối ngoại bán ròng 251 tỷ đồng, phiên thứ 4 liên tiếp. FPT bị bán ròng mạnh nhất 260 tỷ đồng. Từ đầu năm, ngoại bán ròng FPT 211 triệu cổ phiếu (16.500 tỷ đồng). Khối ngoại còn nắm 455 triệu cổ phiếu FPT (27% sở hữu), room ngoại 22% - cao nhất từng có."
     },
     {
       "title": "DSC giảm 57,3% mục tiêu lợi nhuận năm 2026",
