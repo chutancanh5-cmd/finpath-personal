@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-28",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ công bố mục tiêu tăng trưởng GDP 10% và tiếp nhận 13+ tỷ USD dự án FDI, đồng thời hơn 20 ngân hàng giảm lãi suất cho vay tới 3,25%/năm với gói tín dụng 451.000 tỷ đồng. Tuy nhiên, Lideco lỗ kỷ lục 77 tỷ đồng do danh mục chứng khoán 605 tỷ giảm còn 506 tỷ, thị trường Trung Quốc sụp đổ >20% với can thiệp không hiệu quả, và chỉ 7% trái phiếu ngân hàng Việt Nam được xếp hạng tín nhiệm—những yếu tố gây áp lực ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính phủ phấn đấu tăng trưởng GDP trên 10%/năm với 4 đề xuất chiến lược kêu gọi FDI; hôm nay 12 dự án đầu tư gần 13 tỷ USD sẽ được công bố tại Diễn đàn Kinh tế Mùa thu. Hơn 20 ngân hàng giảm lãi suất cho vay với tổng gói ưu đãi 451.000 tỷ đồng, hỗ trợ doanh nghiệp nhỏ và vừa. Thị trường chứng khoán sẽ có bước tiến về hạ tầng công nghệ cho phép giao dịch 24/24 giờ. Tuy nhiên, áp lực từ giảm giá cổ phiếu vẫn ảnh hưởng đến một số doanh nghiệp.",
   "top": [
     {
-      "title": "Thủ tướng công bố mục tiêu GDP 10%, chuyển mô hình đầu tư toàn cầu",
+      "title": "Thủ tướng: Mục tiêu tăng trưởng GDP trên 10%/năm",
       "impact": "↑",
-      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 ngày 28/10, Thủ tướng Lê Minh Hưng cam kết tăng trưởng GDP bình quân từ 10%/năm, đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với tập đoàn quốc tế để tạo chuỗi giá trị mới toàn cầu."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (ngày 28/10) khẳng định Việt Nam đặt mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, kèm 4 đề xuất chiến lược kêu gọi các tập đoàn quốc tế từ mô hình \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\"."
     },
     {
-      "title": "12 dự án FDI hơn 13 tỷ USD chính thức công bố tại TPHCM",
+      "title": "13 tỷ USD FDI sẽ được công bố hôm nay",
       "impact": "↑",
-      "note": "Trong khuôn khổ Diễn đàn Kinh tế Mùa thu (26-29/10), 12 dự án từ trong và ngoài nước tổng vốn hơn 13 tỷ USD được công bố chính thức ngày 28/10, tăng cường kết nối đầu tư, công nghệ và đổi mới sáng tạo giữa TPHCM với các trung tâm kinh tế toàn cầu."
+      "note": "Trong khuôn khổ Diễn đàn Kinh tế Mùa thu 2026 (26-29/10) tại TPHCM, 12 dự án đầu tư trong và ngoài nước với tổng vốn hơn 13 tỷ USD sẽ chính thức được công bố vào ngày 28/10."
     },
     {
-      "title": "22 ngân hàng giảm lãi suất, gói tín dụng 451.000 tỷ đồng",
+      "title": "Hơn 20 ngân hàng giảm lãi suất cho vay",
       "impact": "↑",
-      "note": "15 ngân hàng công bố gói tín dụng ưu đãi tổng 451.000 tỷ đồng (2,2% dư nợ hệ thống), giảm lãi suất 1,5-3,25%/năm, tập trung vay ngắn hạn cho doanh nghiệp sản xuất kinh doanh, SME, nông nghiệp, xuất nhập khẩu, công nghiệp hỗ trợ."
+      "note": "Ít nhất 22 ngân hàng công bố giảm lãi suất, trong đó 15 ngân hàng thương mại cung cấp gói tín dụng ưu đãi với tổng hạn mức hơn 451.000 tỷ đồng (2,2% dư nợ toàn hệ thống). Mức giảm từ 1,5 đến 3,25 điểm phần trăm/năm, ưu tiên doanh nghiệp nhỏ vừa, nông nghiệp, xuất nhập khẩu."
     },
     {
-      "title": "Lideco lỗ kỷ lục 77 tỷ đồng, danh mục chứng khoán giảm mạnh",
-      "impact": "↓",
-      "note": "Danh mục chứng khoán kinh doanh 605 tỷ đồng của Lideco giảm còn 506 tỷ đồng giá trị hợp lý, khoản dự phòng tăng gần 101 tỷ từ 24 tỷ đầu năm (cổ phiếu TCH giảm 39 tỷ), khiến doanh nghiệp lỗ kỷ lục 77 tỷ quý 3/2026."
+      "title": "Nâng cấp hạ tầng IT cho giao dịch 24/24 giờ",
+      "impact": "↑",
+      "note": "Quốc hội thảo luận sửa đổi Luật Chứng khoán, trong đó đề cập đầu tư cơ sở hạ tầng công nghệ thông tin hiện đại để thị trường chứng khoán hoạt động liên tục, an toàn, minh bạch, phục vụ hơn 14 triệu tài khoản cá nhân và tổ chức."
     },
     {
-      "title": "Chứng khoán Trung Quốc giảm 20%, can thiệp không hiệu quả",
-      "impact": "↓",
-      "note": "Thị trường chứng khoán Trung Quốc giảm hơn 20% từ đỉnh cao; 'đội quân quốc gia' (quỹ nhà nước) can thiệp mua cổ phiếu nhưng chỉ nâng đỡ thị trường không nâng đỡ niềm tin, thị trường quay đầu giảm 1,3% ngày 27/10, có thể ảnh hưởng tâm lý nhà đầu tư châu Á."
+      "title": "ACB: Tín dụng tăng 11,5%, Fitch nâng xếp hạng BB",
+      "impact": "↑",
+      "note": "Ngân hàng TMCP Á Châu (ACB) công bố kết quả 9 tháng 2026 với tăng trưởng tín dụng 11,5% (765 nghìn tỷ đồng), tập trung vào doanh nghiệp. Fitch Ratings nâng xếp hạng tín nhiệm của ACB lên BB, triển vọng Ổn định."
     },
     {
-      "title": "Trái phiếu ngân hàng Việt Nam chỉ 7% được xếp hạng tín nhiệm",
+      "title": "Lideco lỗ kỷ lục do danh mục chứng khoán đảo chiều",
       "impact": "↓",
-      "note": "Cuối năm 2025, chỉ 2/28 ngân hàng thương mại Việt Nam có trái phiếu được xếp hạng tín nhiệm (7%), thấp hơn đáng kể so với Thái Lan (60%), Malaysia, Hàn Quốc, Trung Quốc (trên 75%), khiến nhà đầu tư khó so sánh mức độ rủi ro."
+      "note": "CTCP Phát triển Đô thị Từ Liêm (Lideco) lỗ kỷ lục gần 77 tỷ đồng trong quý 3/2026 do danh mục chứng khoán gốc 605 tỷ đồng chỉ còn giá trị hợp lý 506 tỷ đồng, khoản dự phòng giảm giá tăng lên gần 101 tỷ đồng, trong khi dòng tiền kinh doanh âm hơn 600 tỷ đồng."
     }
   ]
 }
