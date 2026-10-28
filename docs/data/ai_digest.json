@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngày 28/10, chính phủ công bố các mục tiêu tăng trưởng tham vọng (GDP 10%/năm, 13 tỷ USD dự án TPHCM, 2,7 tỷ USD vào trung tâm tài chính quốc tế) và hỗ trợ kinh tế (451.000 tỷ đồng gói vay ưu đãi, 0,1% GDP cho nhân tài công nghệ). Tuy nhiên, thị trường tài chính 2027 sẽ đối diện rủi ro lạm phát (CPI 4,52%) và chênh lệch tài chính (nhập siêu 19,42 tỷ USD); phiên chứng khoán hôm nay giao dịch yếu với biến độ nhỏ.",
+  "summary_vi": "Chính phủ công bố các chính sách hỗ trợ kinh tế toàn diện: tăng trưởng GDP mục tiêu 10%/năm, 13 tỷ USD dự án hạ tầng TPHCM, 451 nghìn tỷ đồng gói vay ưu đãi từ 20+ ngân hàng, và 2,7 tỷ USD cho Trung tâm Tài chính quốc tế TPHCM. Thêm vào đó là sửa đổi Luật Chứng khoán nâng cao quản trị và cam kết đầu tư 0,1% GDP cho nhân tài công nghệ. Tuy nhiên, lạm phát cao (CPI 9 tháng 4,52%) và thâm hụt thương mại (19,42 tỷ USD) là rủi ro cho năm 2027.",
   "top": [
     {
       "title": "Thủ tướng công bố mục tiêu GDP trên 10%/năm",
@@ -15,14 +15,14 @@
       "note": "TPHCM công bố 12 dự án đầu tư lớn gồm: Cảng trung chuyển quốc tế Cần Giờ 4,933 tỷ USD, Khu phức hợp thông minh Thủ Thiêm (Lotte-Phát Đạt) 2,292 tỷ USD, và 10 dự án khác trong lĩnh vực cảng, năng lượng, đô thị thông minh."
     },
     {
-      "title": "Thị trường tài chính 2027 đối diện áp lực từ lạm phát và tỷ giá",
-      "impact": "↓",
-      "note": "GDP 9 tháng 2026 tăng 9,01%, nhưng CPI tăng 4,52% và nhập siêu 19,42 tỷ USD. Saigon Ratings cảnh báo áp lực lạm phát, tỷ giá, chi phí vốn sẽ ảnh hưởng đến chất lượng tín dụng và khả năng huy động vốn của thị trường năm 2027."
+      "title": "Sửa đổi Luật Chứng khoán nâng cao tiêu chuẩn quản trị",
+      "impact": "↑",
+      "note": "Sáng 28/10, Quốc hội thảo luận dự án sửa đổi Luật Chứng khoán tập trung nâng cao tiêu chuẩn người đại diện pháp luật công ty chứng khoán, công ty quản lý quỹ. Mục tiêu khơi thông dòng vốn và bảo đảm an toàn hệ thống, tạo điều kiện thị trường chứng khoán trưởng thành hơn."
     },
     {
       "title": "22 ngân hàng giảm lãi suất cho vay, hạn mức 451.000 tỷ đồng",
       "impact": "↑",
-      "note": "15 ngân hàng công bố gói tín dụng ưu đãi: Nam A Bank giảm 3,25%/năm, Vietcombank 3%/năm, Agribank/PVcomBank 2,5%/năm. Ưu tiên vốn ngắn hạn cho SME, nông nghiệp, xuất nhập khẩu, công nghệ cao, logistics, năng lượng."
+      "note": "15 ngân hàng công bố gói tín dụng ưu đãi: Nam A Bank giảm tới 3,25%/năm, Vietcombank tới 3%/năm cho vay ngắn hạn, Agribank và PVcomBank tới 2,5%/năm. Ưu tiên vốn ngắn hạn (dưới 6 tháng) cho SME, nông nghiệp, xuất nhập khẩu, công nghệ cao, logistics, năng lượng."
     },
     {
       "title": "Trung tâm Tài chính quốc tế TPHCM dự kiến huy động 2,7 tỷ USD",
