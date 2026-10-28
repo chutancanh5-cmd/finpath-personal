@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang giữa hai tác động: mặt tích cực từ chính sách GDP 10%+/năm, FDI mới 13 tỷ USD vào HCM, lợi nhuận NCB tăng 141,4%; mặt tiêu cực từ cổ phiếu hàng đầu FPT sụt 50%, vốn hóa thị trường xuống mức 3 năm, khối ngoại bán ròng liên tiếp, công ty chứng khoán DSC hạ 57% mục tiêu. Thị trường đang điều chỉnh, thanh khoản yếu, cần xác nhận lực cầu quay trở lại.",
+  "summary_vi": "Chính phủ công bố chiến lược rõ ràng với mục tiêu tăng trưởng GDP trên 10% và R&D toàn cầu, kêu gọi FDI với vốn thực hiện 21 tỷ USD trong 9 tháng đầu năm và phấn đấu 30 tỷ USD cả năm 2026. TP HCM vừa công bố gói đầu tư 13 tỷ USD bao gồm cảng Cần Giờ (4,933 tỷ USD), năng lượng, đô thị thông minh, phản ánh nỗ lực thu hút vốn nước ngoài. Tuy nhiên, thị trường chứng khoán chịu áp lực từ suy yếu bluechip như FPT (thủng đáy 3 năm, vốn hóa 100 tỷ tỷ đ) và thua lỗ của chứng khoán DSC (lãi giảm 57%, quý 3 chỉ 4 tỷ đ). Khối ngoại bán ròng 4 phiên liên tiếp, FPT bị bán mạnh 260 tỷ đồng. Chính sách vĩ mô tích cực cần thời gian phát huy, động lực thị trường ngắn hạn vẫn yếu.",
   "top": [
     {
-      "title": "Thủ tướng mục tiêu tăng trưởng GDP 10%+, chiến lược R&D toàn cầu",
+      "title": "Bộ trưởng TF: FDI không thể thiếu với GDP 10%, ICOR 4,5-4,8",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng tại Diễn đàn kinh tế Mùa thu 28/10 xác định mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất 4 chiến lược kêu gọi tập đoàn quốc tế từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để kiến tạo chuỗi giá trị mới toàn cầu."
+      "note": "Bộ trưởng Ngô Văn Tuấn khẳng định FDI thiết yếu; 9 tháng 2026 đạt khoảng 21 tỷ USD, phấn đấu 30 tỷ USD cả năm. Tổng vốn đầu tư cần 40% GDP, hệ số ICOR giảm từ 6,4 xuống 4,5-4,8 để đạt tăng trưởng 2 con số."
     },
     {
-      "title": "HCM công bố 12 dự án FDI 13 tỷ USD, nổi bật cảng Cần Giờ 4,933 tỷ USD",
+      "title": "Thủ tướng: Tăng trưởng GDP trên 10%, trở thành trung tâm R&D toàn cầu",
       "impact": "↑",
-      "note": "TP HCM công bố 12 dự án đầu tư tổng vốn 13 tỷ USD tại Diễn đàn kinh tế Mùa thu, bao gồm cảng biển, năng lượng, đô thị thông minh, R&D, giáo dục. Dự án Cảng trung chuyển quốc tế Cần Giờ là lớn nhất với 4,933 tỷ USD."
+      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa Thu 28/10, Thủ tướng Lê Minh Hưng đặt mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên giai đoạn 2026-2030, kêu gọi các tập đoàn quốc tế chuyển từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\"."
     },
     {
-      "title": "NCB lãi kỷ lục 1.574 tỷ đồng sau 9 tháng, tăng 141,4% YoY",
+      "title": "TP HCM công bố 12 dự án FDI tổng 13 tỷ USD, nổi bật Cảng Cần Giờ 4,933 tỷ USD",
       "impact": "↑",
-      "note": "Ngân hàng NCB ghi nhận lãi sau thuế lũy kế 9 tháng 2026 đạt 1.574 tỷ đồng, tăng 141,4% so cùng kỳ 2025, lập kỷ lục cao nhất lịch sử. Thu nhập lãi thuần đạt 3.333,8 tỷ đồng (tăng 71%), huy động khách hàng 188.879 tỷ đồng (tăng 43,16%)."
+      "note": "Công bố tại Diễn đàn Kinh tế Mùa Thu 28/10, gồm 12 dự án trong cảng biển-logistics, đô thị thông minh, giáo dục, R&D. Dự án Cảng trung chuyển quốc tế Cần Giờ lấy vốn 4,933 tỷ USD, đang trong quá trình triển khai."
     },
     {
-      "title": "FPT sụt 50%, vốn hóa ~100.000 tỷ đ - mức thấp 3 năm",
+      "title": "FPT cổ phiếu thủng đáy 3 năm, vốn hóa 100 tỷ tỷ đồng, không lọt top 10",
       "impact": "↓",
-      "note": "Cổ phiếu FPT giảm từ đỉnh đầu 2025 khoảng 108.000 đ xuống 54.000 đ phiên 28/10, vốn hóa thị trường còn khoảng 100.000 tỷ đồng - mức thấp nhất kể từ tháng 8/2023, không đủ lọt top 10 công ty giá trị nhất TTCK VN."
+      "note": "Cổ phiếu FPT đóng cửa 28/10 ở 54.000 đ/cp, giảm 50% từ đỉnh đầu 2025. Vốn hóa khoảng 100 tỷ tỷ đồng, mức thấp nhất kể từ tháng 8/2023, không đủ lọt top 10 công ty giá trị nhất TTCK VN."
     },
     {
-      "title": "Khối ngoại bán ròng 251 tỷ đ phiên 28/10, bán FPT 260 tỷ",
+      "title": "Chứng khoán DSC giảm 57% lợi nhuận năm, quý 3 lao dốc 98%",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 251 tỷ đồng phiên 28/10, kéo dài chuỗi bán ròng lên 4 phiên liên tiếp, tập trung mạnh vào FPT với 260 tỷ đồng. Trong tháng 10, FPT bị bán ròng lũy kế 1.760 tỷ đồng, phản ánh xu hướng rút vốn ngoại bất chấp kỳ vọng nâng hạng."
+      "note": "Quý 3/2026 DSC lãi trước thuế 4 tỷ đ, giảm 98% so với cùng kỳ, chỉ thực hiện 27% kế hoạch năm. HĐQT hạ mục tiêu lãi từ 356 tỷ xuống 152 tỷ đ (-57%), doanh thu giảm 14% xuống 640 tỷ đ. Hoạt động tự doanh và môi giới đều bị lỗ."
     },
     {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận từ 356 tỷ xuống 152 tỷ",
+      "title": "Khối ngoại bán ròng 4 phiên liên tiếp, FPT bị bán mạnh 260 tỷ đồng",
       "impact": "↓",
-      "note": "CTCP Chứng khoán DSC hạ mục tiêu lợi nhuận trước thuế năm 2026 từ 356 tỷ đồng xuống 152 tỷ đồng (giảm 57%), doanh thu từ 747 tỷ xuống 640 tỷ (giảm 14%), sau khi Q3 chỉ lãi 4 tỷ đ (giảm 98% YoY), chi phí hoạt động tăng 93%."
+      "note": "Phiên 28/10 khối ngoại bán ròng 251 tỷ đ, chuỗi bán ròng thứ 4 liên tiếp. FPT bị bán mạnh nhất 260 tỷ đ, tháng 10 FPT bị bán ròng lũy kế 1.760 tỷ đ, bất chấp kỳ vọng trở lại sau nâng hạng."
     }
   ]
 }
