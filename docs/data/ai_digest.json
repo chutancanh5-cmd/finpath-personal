@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán VN chịu tác động hỗn hợp giữa tín hiệu tích cực (TP HCM kêu gọi 13 tỷ USD FDI, thủ tướng cam kết tăng trưởng GDP trên 10%, NCB lợi nhuận tăng 141%) và áp lực tiêu cực (khối ngoại bán ròng FPT 260 tỷ/phiên liên tiếp 4 phiên, DSC hạ mục tiêu lợi nhuận 57%, rủi ro USD từ suy yếu cơn sốt AI). Dòng vốn ngoại tiếp tục chảy ra, trong khi các tín hiệu vĩ mô dài hạn vẫn khả quan.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đang giữa hai tác động: mặt tích cực từ chính sách GDP 10%+/năm, FDI mới 13 tỷ USD vào HCM, lợi nhuận NCB tăng 141,4%; mặt tiêu cực từ cổ phiếu hàng đầu FPT sụt 50%, vốn hóa thị trường xuống mức 3 năm, khối ngoại bán ròng liên tiếp, công ty chứng khoán DSC hạ 57% mục tiêu. Thị trường đang điều chỉnh, thanh khoản yếu, cần xác nhận lực cầu quay trở lại.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng FPT 260 tỷ, chuỗi 4 phiên liên tiếp",
-      "impact": "↓",
-      "note": "Ngày 28/10, khối ngoại bán ròng tổng 251 tỷ đồng nhưng tập trung vào FPT (260 tỷ). Từ đầu năm, FPT bị bán ròng 211 triệu cổ phiếu (16.500 tỷ đ), thứ 2 toàn sàn. Khối ngoại còn nắm 455 triệu cp FPT (27%, thấp nhất nhiều năm), hở room ngoại 22% — mức kỷ lục chưa từng xảy ra."
-    },
-    {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận năm 2026",
-      "impact": "↓",
-      "note": "HĐQT Chứng khoán DSC hạ lợi nhuận trước thuế từ 356 tỷ xuống 152 tỷ đồng (giảm 57%) sau Q3 khó khăn. Q3/2026 chỉ lãi 4,1 tỷ đồng (giảm 98%). Doanh thu giảm 14% còn 640 tỷ, chi phí tăng 25%. Tự doanh lỗ 2 tỷ, môi giới lỗ 3 tỷ, chi phí lãi vay tăng 67% lên 69 tỷ đồng."
-    },
-    {
-      "title": "NCB lợi nhuận kỷ lục 1.574 tỷ đồng, tăng 141,4%",
+      "title": "Thủ tướng mục tiêu tăng trưởng GDP 10%+, chiến lược R&D toàn cầu",
       "impact": "↑",
-      "note": "Ngân hàng Quốc Dân xác lập kỷ lục lợi nhuận sau thuế 1.574 tỷ đồng 9 tháng 2026 (tăng 141,4% so 2025). Q3 đạt 847 tỷ (tăng 346% so cùng kỳ). Thu nhập lãi thuần 3.333,8 tỷ (tăng 71%), tổng thu nhập hoạt động 3.942,2 tỷ (tăng 74%). Huy động tiền gửi tăng 43,16%, đạt 188.879 tỷ đồng."
+      "note": "Thủ tướng Lê Minh Hưng tại Diễn đàn kinh tế Mùa thu 28/10 xác định mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất 4 chiến lược kêu gọi tập đoàn quốc tế từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "TP HCM kêu gọi 12 dự án FDI tổng 13 tỷ USD",
+      "title": "HCM công bố 12 dự án FDI 13 tỷ USD, nổi bật cảng Cần Giờ 4,933 tỷ USD",
       "impact": "↑",
-      "note": "Ngày 28/10 tại Diễn đàn Kinh tế Mùa Thu 2026, TP HCM công bố 12 dự án đầu tư 13 tỷ USD trong lĩnh vực: cảng biển-logistics, đô thị thông minh, giáo dục, R&D. Nổi bật Cảng trung chuyển quốc tế Cần Giờ (~4,933 tỷ USD). Các dự án đã được chấp thuận, đang triển khai."
+      "note": "TP HCM công bố 12 dự án đầu tư tổng vốn 13 tỷ USD tại Diễn đàn kinh tế Mùa thu, bao gồm cảng biển, năng lượng, đô thị thông minh, R&D, giáo dục. Dự án Cảng trung chuyển quốc tế Cần Giờ là lớn nhất với 4,933 tỷ USD."
     },
     {
-      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
+      "title": "NCB lãi kỷ lục 1.574 tỷ đồng sau 9 tháng, tăng 141,4% YoY",
       "impact": "↑",
-      "note": "Phát biểu sáng 28/10 tại Diễn đàn Kinh tế Mùa Thu, Thủ tướng Lê Minh Hưng cam kết tăng trưởng GDP bình quân từ 10%/năm trở lên. Đưa ra 4 đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế. Mục tiêu trở thành trung tâm R&D toàn cầu."
+      "note": "Ngân hàng NCB ghi nhận lãi sau thuế lũy kế 9 tháng 2026 đạt 1.574 tỷ đồng, tăng 141,4% so cùng kỳ 2025, lập kỷ lục cao nhất lịch sử. Thu nhập lãi thuần đạt 3.333,8 tỷ đồng (tăng 71%), huy động khách hàng 188.879 tỷ đồng (tăng 43,16%)."
     },
     {
-      "title": "Rủi ro USD từ suy yếu cơn sốt AI",
+      "title": "FPT sụt 50%, vốn hóa ~100.000 tỷ đ - mức thấp 3 năm",
       "impact": "↓",
-      "note": "Nếu câu chuyện AI gặp trở ngại, vị thế 'hầm trú ẩn' của USD có thể xung đột với vai trò mới. Tuần trước, khi định giá cổ phiếu AI Mỹ chịu áp lực, dòng vốn trú ẩn chuyển sang yên Nhật/franc Thụy Sĩ. Mối liên hệ AI-USD suy yếu, ảnh hưởng dòng vốn vào tài sản Mỹ."
+      "note": "Cổ phiếu FPT giảm từ đỉnh đầu 2025 khoảng 108.000 đ xuống 54.000 đ phiên 28/10, vốn hóa thị trường còn khoảng 100.000 tỷ đồng - mức thấp nhất kể từ tháng 8/2023, không đủ lọt top 10 công ty giá trị nhất TTCK VN."
+    },
+    {
+      "title": "Khối ngoại bán ròng 251 tỷ đ phiên 28/10, bán FPT 260 tỷ",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 251 tỷ đồng phiên 28/10, kéo dài chuỗi bán ròng lên 4 phiên liên tiếp, tập trung mạnh vào FPT với 260 tỷ đồng. Trong tháng 10, FPT bị bán ròng lũy kế 1.760 tỷ đồng, phản ánh xu hướng rút vốn ngoại bất chấp kỳ vọng nâng hạng."
+    },
+    {
+      "title": "DSC hạ 57% mục tiêu lợi nhuận từ 356 tỷ xuống 152 tỷ",
+      "impact": "↓",
+      "note": "CTCP Chứng khoán DSC hạ mục tiêu lợi nhuận trước thuế năm 2026 từ 356 tỷ đồng xuống 152 tỷ đồng (giảm 57%), doanh thu từ 747 tỷ xuống 640 tỷ (giảm 14%), sau khi Q3 chỉ lãi 4 tỷ đ (giảm 98% YoY), chi phí hoạt động tăng 93%."
     }
   ]
 }
