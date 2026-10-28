@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường nhận được tín hiệu tích cực từ luồng FDI mạnh mẽ hơn 13 tỷ USD và chính sách hỗ trợ tín dụng rộng rãi với 451 tỷ đồng gói vay ưu đãi từ 15 ngân hàng, cùng định hướng dài hạn tăng cường nhân tài công nghệ 0,1% GDP/năm. ACB tín dụng tăng 11,5% với xếp hạng Fitch BB. Tuy nhiên, lỗ hổng quản trị (7% trái phiếu ngân hàng có xếp hạng) và áp lực lãi suất tiết kiệm giảm xuống gần 0% cần giám sát, cùng rủi ro từ chứng khoán Trung Quốc suy yếu.",
+  "summary_vi": "Thủ tướng Lê Minh Hưng công bố mục tiêu tăng trưởng GDP trên 10%/năm và định vị Việt Nam thành trung tâm R&D toàn cầu; 12 dự án FDI tổng hơn 13 tỷ USD chính thức công bố tại TPHCM. Hơn 20 ngân hàng giảm lãi suất cho vay (1,5-3,25 điểm %), tổng gói tín dụng ưu đãi 451.000 tỷ đồng hỗ trợ sản xuất kinh doanh. Tuy nhiên, TTCK Trung Quốc vẫn giảm >20% với can thiệp nhà nước không hiệu quả, có thể tác động tiêu cực đến tâm lý nhà đầu tư khu vực ngắn hạn.",
   "top": [
     {
-      "title": "12 dự án FDI 13 tỷ USD công bố tại AEF 2026",
+      "title": "Thủ tướng công bố mục tiêu GDP trên 10%/năm, trung tâm R&D toàn cầu",
       "impact": "↑",
-      "note": "12 dự án đầu tư trong và ngoài nước với tổng vốn hơn 13 tỷ USD được công bố hôm nay (28/10) tại Diễn đàn Kinh tế Mùa thu 2026 (26-29/10) tại TPHCM, với sự dự kiến của Thủ tướng Lê Minh Hưng và đối thoại với lãnh đạo WEF về \"Định vị Việt Nam trong tương lai toàn cầu\", ghi nhận sự ưu tiên cấp cao cho hấp dẫn FDI."
+      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 ngày 28/10, Thủ tướng Lê Minh Hưng khẳng định Việt Nam quyết tâm đạt tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất 4 chiến lược chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "15 ngân hàng giảm lãi suất, gói ưu đãi 451 tỷ đồng",
+      "title": "Hơn 13 tỷ USD vốn FDI chính thức vào TPHCM trong AEF 2026",
       "impact": "↑",
-      "note": "15 ngân hàng thương mại công bố gói tín dụng ưu đãi tổng 451 tỷ đồng (tương đương 2,2% dư nợ toàn hệ thống 20,72 triệu tỷ đồng), giảm 1,5-3 điểm phần trăm/năm, tập trung hỗ trợ doanh nghiệp nhỏ vừa, SME, sản xuất kinh doanh, xuất nhập khẩu, công nghệ cao, logistics từ tháng 10 đến hết tháng 12/2026."
+      "note": "Trong Diễn đàn Kinh tế Mùa thu (26-29/10), 12 dự án đầu tư trong và ngoài nước với tổng vốn hơn 13 tỷ USD được công bố chính thức ngày 28/10, tăng cường kết nối đầu tư, công nghệ và đổi mới sáng tạo giữa TPHCM với các trung tâm kinh tế toàn cầu."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP/năm cho nhân tài, mục tiêu 1.000 nhân tài đến 2030",
+      "title": "Hơn 20 ngân hàng giảm lãi suất, 451.000 tỷ đồng tín dụng ưu đãi",
       "impact": "↑",
-      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP ngày 23/10 mục tiêu bố trí ngân sách khoảng 0,1% GDP mỗi năm trong tổng lực lượng cho khoa học, công nghệ, đổi mới sáng tạo để thu hút 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược, hướng tới thoát khỏi bẫy thu nhập trung bình."
+      "note": "15 ngân hàng công bố gói tín dụng ưu đãi tổng 451.000 tỷ đồng (2,2% dư nợ toàn hệ thống 20,72 triệu tỷ đồng), giảm lãi suất 1,5-3,25 điểm %, tập trung vay ngắn hạn cho doanh nghiệp sản xuất kinh doanh, SME, nông nghiệp, xuất nhập khẩu, công nghiệp hỗ trợ đến hết tháng 12/2026."
     },
     {
-      "title": "ACB 9 tháng 2026: Tín dụng 11,5%, Fitch BB ổn định",
-      "impact": "↑",
-      "note": "Ngân hàng TMCP Á Châu 9 tháng 2026 cho vay khách hàng đạt 765 nghìn tỷ đồng tăng 11,5%, phân khúc doanh nghiệp là động lực chính, huy động thành công khoản vay hợp vốn quốc tế 500 triệu USD; Fitch Ratings nâng xếp hạng lên BB với triển vọng Ổn định, ghi nhận sức mạnh tài chính và quản trị rủi ro thận trọng."
+      "title": "Sáp nhập HNX-HOSE: 300 cổ phiếu 463.500 tỷ đồng chuyển sàn 28/12",
+      "impact": "→",
+      "note": "Phiên giao dịch cuối HNX là 23/12/2026; 24-25/12 toàn bộ 300 cổ phiếu niêm yết HNX (giá trị vốn hóa 463.500 tỷ đồng tính cuối tháng 9/2026) tạm ngừng giao dịch để chuyển đổi, từ 28/12/2026 giao dịch chính thức tại HOSE theo Thông tư 139/2025/TT-BTC."
     },
     {
-      "title": "Chỉ 7% trái phiếu ngân hàng VN được xếp hạng, so với 60-75% khu vực",
+      "title": "TTCK Trung Quốc giảm >20%, can thiệp nhà nước thất bại hiệu quả",
       "impact": "↓",
-      "note": "Cuối năm 2025, chỉ 2 trong 28 ngân hàng thương mại Việt Nam có trái phiếu được xếp hạng tín nhiệm (7%), trong khi Thái Lan 60%, Malaysia/Hàn Quốc/Trung Quốc trên 75%; trái phiếu ngân hàng chiếm 46% tổng giá trị trái phiếu doanh nghiệp lưu hành (tháng 9/2026), tiềm ẩn rủi ro tín dụng và quản trị không được bình ổn đầy đủ."
+      "note": "TTCK Trung Quốc đại lục giảm hơn 20% từ đỉnh gần nhất; 'đội quân quốc gia' (quỹ nhà nước) can thiệp mua cổ phiếu nhưng chỉ 'nâng đỡ thị trường' không 'nâng đỡ niềm tin nhà đầu tư', thị trường quay đầu giảm 1,3% ngày 27/10, có thể ảnh hưởng tâm lý nhà đầu tư châu Á."
     },
     {
-      "title": "Chứng khoán Trung Quốc giảm 20%, can thiệp thị trường không hiệu quả",
-      "impact": "↓",
-      "note": "Chứng khoán Trung Quốc đại lục giảm hơn 20% so với mức đỉnh gần nhất, bước vào thị trường giá xuống, dù chính phủ TQ huy động \"đội quân quốc gia\" can thiệp vẫn quay đầu giảm 1,3% ngày 27/10; từ đầu năm nằm trong nhóm thị trường giảm mạnh nhất châu Á cùng Indonesia, Ấn Độ, tiềm ẩn rủi ro ngoại lực ảnh hưởng tâm lý nhà đầu tư khu vực."
+      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài R&D, AI, bán dẫn",
+      "impact": "↑",
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính dành 0,1% GDP mỗi năm để thu hút nhân tài toàn cầu, phấn đấu tuyển dụng 1.000 nhân tài quốc gia đến 2030 trong lĩnh vực AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
     }
   ]
 }
