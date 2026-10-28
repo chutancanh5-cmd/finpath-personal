@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán VN hôm nay phân hóa rõ rệt với áp lực bán ròng mạnh từ khối ngoại (4 phiên liên tiếp, FPT 260 tỷ đồng), đồng thời ngành chứng khoán gặp khó (DSC giảm 57% lợi nhuận). Tuy nhiên, có tín hiệu tích cực từ ngành ngân hàng (NCB lãi kỷ lục 1.574 tỷ đồng, tăng 141%), dự án FDI 13 tỷ USD tại TP HCM và chính sách giảm thuế xuất khẩu phân bón. Rủi ro lớn đến từ suy giảm cơn sốt AI có thể khiến dòng vốn ngoại quay lại.",
+  "summary_vi": "Thị trường chứng khoán VN chịu tác động hỗn hợp giữa tín hiệu tích cực (TP HCM kêu gọi 13 tỷ USD FDI, thủ tướng cam kết tăng trưởng GDP trên 10%, NCB lợi nhuận tăng 141%) và áp lực tiêu cực (khối ngoại bán ròng FPT 260 tỷ/phiên liên tiếp 4 phiên, DSC hạ mục tiêu lợi nhuận 57%, rủi ro USD từ suy yếu cơn sốt AI). Dòng vốn ngoại tiếp tục chảy ra, trong khi các tín hiệu vĩ mô dài hạn vẫn khả quan.",
   "top": [
     {
       "title": "Khối ngoại bán ròng FPT 260 tỷ, chuỗi 4 phiên liên tiếp",
       "impact": "↓",
-      "note": "Phiên 28/10, khối ngoại bán ròng FPT 260 tỷ đồng, tiếp tục chuỗi bán ròng 4 phiên liên tiếp với tổng bán ròng 251 tỷ đồng. Từ đầu năm, ngoại bán ròng 211 triệu cổ phiếu FPT (16.500 tỷ đồng). Room ngoại hở 22% — mức chưa từng xảy ra trong lịch sử."
+      "note": "Ngày 28/10, khối ngoại bán ròng tổng 251 tỷ đồng nhưng tập trung vào FPT (260 tỷ). Từ đầu năm, FPT bị bán ròng 211 triệu cổ phiếu (16.500 tỷ đ), thứ 2 toàn sàn. Khối ngoại còn nắm 455 triệu cp FPT (27%, thấp nhất nhiều năm), hở room ngoại 22% — mức kỷ lục chưa từng xảy ra."
+    },
+    {
+      "title": "DSC hạ 57% mục tiêu lợi nhuận năm 2026",
+      "impact": "↓",
+      "note": "HĐQT Chứng khoán DSC hạ lợi nhuận trước thuế từ 356 tỷ xuống 152 tỷ đồng (giảm 57%) sau Q3 khó khăn. Q3/2026 chỉ lãi 4,1 tỷ đồng (giảm 98%). Doanh thu giảm 14% còn 640 tỷ, chi phí tăng 25%. Tự doanh lỗ 2 tỷ, môi giới lỗ 3 tỷ, chi phí lãi vay tăng 67% lên 69 tỷ đồng."
     },
     {
       "title": "NCB lợi nhuận kỷ lục 1.574 tỷ đồng, tăng 141,4%",
       "impact": "↑",
-      "note": "NCB báo lợi nhuận sau thuế 9 tháng 2026 tăng 141,4% so cùng kỳ, lập kỷ lục cao nhất từ thành lập. Quý 3 đạt 847 tỷ đồng, tăng 66% so q2. Thu nhập lãi thuần tăng 71% lên 3.333,8 tỷ đồng, huy động tiền gửi tăng 43,16% lên 188.879 tỷ đồng."
+      "note": "Ngân hàng Quốc Dân xác lập kỷ lục lợi nhuận sau thuế 1.574 tỷ đồng 9 tháng 2026 (tăng 141,4% so 2025). Q3 đạt 847 tỷ (tăng 346% so cùng kỳ). Thu nhập lãi thuần 3.333,8 tỷ (tăng 71%), tổng thu nhập hoạt động 3.942,2 tỷ (tăng 74%). Huy động tiền gửi tăng 43,16%, đạt 188.879 tỷ đồng."
     },
     {
-      "title": "DSC hạ 57,3% mục tiêu lợi nhuận năm 2026",
-      "impact": "↓",
-      "note": "DSC điều chỉnh kế hoạch 2026 với lợi nhuận giảm 57,3% còn 152 tỷ đồng, doanh thu giảm 14,3% còn 640 tỷ đồng. Quý III lợi nhuận chỉ 4,1 tỷ đồng giảm 97,5% so cùng kỳ, doanh thu giảm 38%, tự doanh và môi giới cùng lỗ."
-    },
-    {
-      "title": "TP HCM công bố 12 dự án FDI tổng 13 tỷ USD",
+      "title": "TP HCM kêu gọi 12 dự án FDI tổng 13 tỷ USD",
       "impact": "↑",
-      "note": "Tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), TP HCM công bố 12 dự án đầu tư 13 tỷ USD tập trung lĩnh vực cảng biển, năng lượng, đô thị thông minh, R&D và giáo dục. Nổi bật Cảng trung chuyển quốc tế Cần Giờ 4,933 tỷ USD."
+      "note": "Ngày 28/10 tại Diễn đàn Kinh tế Mùa Thu 2026, TP HCM công bố 12 dự án đầu tư 13 tỷ USD trong lĩnh vực: cảng biển-logistics, đô thị thông minh, giáo dục, R&D. Nổi bật Cảng trung chuyển quốc tế Cần Giờ (~4,933 tỷ USD). Các dự án đã được chấp thuận, đang triển khai."
     },
     {
-      "title": "Giảm thuế xuất khẩu phân bón về 0%",
+      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
       "impact": "↑",
-      "note": "Chính sách giảm thuế xuất khẩu phân bón hỗ trợ cạnh tranh giá quốc tế. DCM được hưởng lợi nhiều nhất, tiết kiệm 203 tỷ đồng/năm (9,2% lợi nhuận 2025) với tỷ trọng xuất khẩu urê 59,7%. DPM cũng hưởng lợi, LAS tác động hạn chế."
+      "note": "Phát biểu sáng 28/10 tại Diễn đàn Kinh tế Mùa Thu, Thủ tướng Lê Minh Hưng cam kết tăng trưởng GDP bình quân từ 10%/năm trở lên. Đưa ra 4 đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế. Mục tiêu trở thành trung tâm R&D toàn cầu."
     },
     {
-      "title": "Rủi ro USD từ suy giảm cơn sốt AI",
+      "title": "Rủi ro USD từ suy yếu cơn sốt AI",
       "impact": "↓",
-      "note": "Nếu đầu tư AI đảo chiều, USD có thể không còn hưởng lợi từ vai trò tài sản trú ẩn an toàn. Tuần trước, dòng vốn trú ẩn đã chuyển sang yên Nhật và franc Thụy Sĩ, khả năng bán tài sản Mỹ gây áp lực cổ phiếu công nghệ."
+      "note": "Nếu câu chuyện AI gặp trở ngại, vị thế 'hầm trú ẩn' của USD có thể xung đột với vai trò mới. Tuần trước, khi định giá cổ phiếu AI Mỹ chịu áp lực, dòng vốn trú ẩn chuyển sang yên Nhật/franc Thụy Sĩ. Mối liên hệ AI-USD suy yếu, ảnh hưởng dòng vốn vào tài sản Mỹ."
     }
   ]
 }
