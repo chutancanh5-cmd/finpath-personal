@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng vốn FDI tiếp tục mạnh với 13 tỷ USD dự án mới và VIFC huy động 2,7 tỷ USD, trong khi Chính phủ cam kết GDP 10%/năm và 22 ngân hàng giảm lãi suất 451.000 tỷ đồng hỗ trợ tín dụng. Tuy nhiên, áp lực lạm phát (CPI 4,52%), nhập siêu (19,42 tỷ USD) và dòng tiền ngắn hạn yếu (64% dao động dưới 1%) tạo thách thức. Triển vọng dài hạn tích cực nhờ chiến lược FDI và cải tiến quản lý, nhưng các cổ phiếu vẫn đối mặt biến động tâm lý và rủi ro macro ngắn hạn.",
+  "summary_vi": "Ngày 28/10, chính phủ công bố các mục tiêu tăng trưởng tham vọng (GDP 10%/năm, 13 tỷ USD dự án TPHCM, 2,7 tỷ USD vào trung tâm tài chính quốc tế) và hỗ trợ kinh tế (451.000 tỷ đồng gói vay ưu đãi, 0,1% GDP cho nhân tài công nghệ). Tuy nhiên, thị trường tài chính 2027 sẽ đối diện rủi ro lạm phát (CPI 4,52%) và chênh lệch tài chính (nhập siêu 19,42 tỷ USD); phiên chứng khoán hôm nay giao dịch yếu với biến độ nhỏ.",
   "top": [
     {
-      "title": "Giảm lãi suất hạn mức 451.000 tỷ đồng",
+      "title": "Thủ tướng công bố mục tiêu GDP trên 10%/năm",
       "impact": "↑",
-      "note": "22 ngân hàng công bố giảm lãi suất, 15 ngân hàng mở gói ưu đãi tổng 451.000 tỷ đồng (2,2% dư nợ toàn hệ thống), cắt giảm 1,5-3,25 điểm phần trăm/năm. Nam A Bank giảm tới 3,25%, Vietcombank 3%, Agribank và PVcomBank 2,5%, hỗ trợ trực tiếp tín dụng cho SME, nông nghiệp, xuất khẩu."
+      "note": "Tại Diễn đàn Kinh tế Mùa Thu 2026 sáng 28/10, Thủ tướng Lê Minh Hưng khẳng định Việt Nam sẽ tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển sang mô hình 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế."
     },
     {
-      "title": "Áp lực lạm phát và cân cân thương mại âm",
+      "title": "12 siêu dự án tổng vốn 13 tỷ USD đổ vào TPHCM",
+      "impact": "↑",
+      "note": "TPHCM công bố 12 dự án đầu tư lớn gồm: Cảng trung chuyển quốc tế Cần Giờ 4,933 tỷ USD, Khu phức hợp thông minh Thủ Thiêm (Lotte-Phát Đạt) 2,292 tỷ USD, và 10 dự án khác trong lĩnh vực cảng, năng lượng, đô thị thông minh."
+    },
+    {
+      "title": "Thị trường tài chính 2027 đối diện áp lực từ lạm phát và tỷ giá",
       "impact": "↓",
-      "note": "CPI 9 tháng tăng 4,52%, cân cân thương mại nhập siêu 19,42 tỷ USD, gây áp lực lên thanh khoản hệ thống và chất lượng tín dụng. Saigon Ratings cảnh báo những thách thức về chi phí vốn và huy động vốn trong năm 2027."
+      "note": "GDP 9 tháng 2026 tăng 9,01%, nhưng CPI tăng 4,52% và nhập siêu 19,42 tỷ USD. Saigon Ratings cảnh báo áp lực lạm phát, tỷ giá, chi phí vốn sẽ ảnh hưởng đến chất lượng tín dụng và khả năng huy động vốn của thị trường năm 2027."
     },
     {
-      "title": "Thủ tướng cam kết GDP 10%/năm, chuyển sang cùng đầu tư",
+      "title": "22 ngân hàng giảm lãi suất cho vay, hạn mức 451.000 tỷ đồng",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại AEF 2026 ngày 28/10 kêu gọi tập đoàn quốc tế chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới, hướng tới tăng trưởng bình quân 10%/năm trở lên."
+      "note": "15 ngân hàng công bố gói tín dụng ưu đãi: Nam A Bank giảm 3,25%/năm, Vietcombank 3%/năm, Agribank/PVcomBank 2,5%/năm. Ưu tiên vốn ngắn hạn cho SME, nông nghiệp, xuất nhập khẩu, công nghệ cao, logistics, năng lượng."
     },
     {
-      "title": "VIFC-HCMC 10 thành viên đầu tiên, huy động 2,7 tỷ USD",
+      "title": "Trung tâm Tài chính quốc tế TPHCM dự kiến huy động 2,7 tỷ USD",
       "impact": "↑",
-      "note": "Ngày 28/10, Trung tâm Tài chính quốc tế Việt Nam tại TPHCM công bố 10 thành viên đầu tiên với vốn điều lệ 33,63 triệu USD, dự kiến huy động 2,7 tỷ USD đến 2027 để phát triển giáo dục, hạ tầng, hàng hải, logistics, năng lượng, fintech."
+      "note": "Trung tâm Tài chính quốc tế Việt Nam tại TPHCM (VIFC-HCMC) công bố 10 thành viên đầu tiên với vốn điều lệ 33,63 triệu USD. Dự kiến huy động và đầu tư đến 2027 khoảng 2,7 tỷ USD vào giáo dục, hạ tầng, hàng hải, logistics, năng lượng, fintech."
     },
     {
-      "title": "Thị trường lình xình, 64% thanh khoản dao động nhỏ",
-      "impact": "↓",
-      "note": "Sáng 28/10, HoSE 64% thanh khoản tập trung ở nhóm dao động rất nhỏ, 83% rổ VN30 dao động dưới 1%, giao dịch rổ VN30 giảm 17% so với trung bình các phiên trước. Dòng tiền yếu phản ánh tâm lý e dè của nhà đầu tư."
-    },
-    {
-      "title": "12 dự án đầu tư 13 tỷ USD được công bố",
+      "title": "Chính phủ dành 0,1% GDP mỗi năm cho nhân tài công nghệ",
       "impact": "↑",
-      "note": "Trong AEF 2026 tại TPHCM, 12 dự án đầu tư trong và ngoài nước với tổng vốn hơn 13 tỷ USD được chính thức công bố ngày 28/10, tạo động lực cho chuỗi cung ứng và nhu cầu vốn của doanh nghiệp Việt Nam."
+      "note": "Chính phủ ban hành Nghị quyết 336/NQ-CP ngày 23/10 bố trí ngân sách khoảng 0,1% GDP mỗi năm. Mục tiêu thu hút khoảng 1.000 nhân tài quốc gia đến 2030 trong AI, bán dẫn, lượng tử, khoa học dữ liệu, công nghệ chiến lược."
     }
   ]
 }
