@@ -2,37 +2,38 @@
   "_opus": true,
   "date": "2026-10-28",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường nhận tín hiệu tích cực từ chính sách vĩ mô mạnh: Thủ tướng cam kết tăng trưởng GDP trên 10%/năm, TPHCM kêu gọi đầu tư 13 tỷ USD vào 12 dự án hạ tầng, hơn 20 ngân hàng cắt giảm lãi suất cho vay tới 3,25%/năm. Lãi suất tiền gửi giảm 50 điểm cơ bản làm cổ phiếu hấp dẫn hơn so với tiền gửi. Sửa đổi Luật Chứng khoán và phát triển Trung tâm Tài chính quốc tế tiếp tục mở rộng cơ hội tăng trưởng, dù thị trường ghi nhận phân hóa rõ nét trong phiên 28/10.",
+  "summary_vi": "Thị trường chứng khoán nhận được hỗ trợ mạnh từ các tín hiệu vĩ mô: Thủ tướng cam kết tăng trưởng GDP trên 10%/năm, TP.HCM công bố 12 dự án tổng 13 tỷ USD, và 22 ngân hàng giảm lãi suất cho vay (mức sâu tới 3,25%/năm). Các cổ phiếu blue-chips phục hồi mạnh (46% cổ phiếu biên độ > 1%), MSCI tiếp tục được thảo luận nâng hạng. Tuy nhiên, Lideco ghi nhận lỗ kỷ lục 77 tỷ đồng và vàng rung lắc, phản ánh áp lực từ các công ty tài chính và biến động thị trường."
+  ,
   "top": [
     {
-      "title": "Mục tiêu tăng trưởng GDP trên 10%/năm",
+      "title": "Thủ tướng: GDP trên 10%/năm, trở thành hub R&D toàn cầu",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng tại Diễn đàn Kinh tế Mùa Thu 2026 (28/10) cam kết Việt Nam đạt tăng trưởng GDP bình quân 10%/năm trở lên và trở thành trung tâm R&D, đổi mới sáng tạo toàn cầu. Đề xuất chuyển từ mô hình 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu 28/10 tại Diễn đàn Kinh tế Mùa Thu 2026 khẳng định Việt Nam bước vào giai đoạn phát triển bản lề với mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, trở thành trung tâm R&D và đổi mới sáng tạo toàn cầu. Đề xuất chiến lược chuyển từ mô hình \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để kiến tạo chuỗi giá trị mới."
     },
     {
-      "title": "TPHCM công bố 12 dự án đầu tư tổng 13 tỷ USD",
+      "title": "TP.HCM công bố 12 dự án đầu tư tổng 13 tỷ USD",
       "impact": "↑",
-      "note": "12 dự án đầu tư tổng 13 tỷ USD được công bố ngày 28/10 tại Diễn đàn Kinh tế. Nổi bật: Cảng trung chuyển quốc tế Cần Giờ 4,933 tỷ USD (Vietship/Cảng Sài Gòn/TIL), khu phức hợp thông minh Thủ Thiêm 2,292 tỷ USD (Lotte-Phát Đạt), cảng Mỹ Xuân 6 (66,6 triệu USD). Bao gồm cảng biển, năng lượng, đô thị thông minh, R&D, giáo dục."
+      "note": "Ngày 28/10 tại Diễn đàn Kinh tế Mùa Thu 2026, TP.HCM công bố 12 dự án với tổng vốn đầu tư 13 tỷ USD. Nổi bật: Cảng trung chuyển quốc tế Cần Giờ khoảng 4,933 tỷ USD (do Vietship, Cảng Sài Gòn, Terminal Investment Limited đầu tư), Khu phức hợp thông minh Thủ Thiêm khoảng 2,292 tỷ USD (Lotte-Phát Đạt), cảng Mỹ Xuân 6 (~66,6 triệu USD). Lĩnh vực: cảng biển, năng lượng, đô thị thông minh, R&D, giáo dục."
     },
     {
-      "title": "Hơn 20 ngân hàng giảm lãi suất cho vay",
+      "title": "22 ngân hàng giảm lãi suất cho vay, 451 tỷ đ gói ưu đãi",
       "impact": "↑",
-      "note": "15 ngân hàng công bố gói vay ưu đãi tổng 451.000+ tỷ đồng (tương đương 2,2% dư nợ toàn hệ thống). Mức giảm sâu: Nam A Bank -3,25%/năm, Vietcombank -3%/năm (vay ngắn hạn), Agribank/PVcomBank -2,5%/năm. HDBank cấp 10.000 tỷ đồng (20/10-30/11/2026) với lãi suất từ 8%/năm cho vay 2 tháng. Tập trung hỗ trợ SME, sản xuất, nông nghiệp, công nghệ cao, logistics."
+      "note": "Ít nhất 22 ngân hàng công bố giảm lãi suất, trong đó 15 ngân hàng công bố gói vay ưu đãi tổng hạn mức hơn 451 triệu tỷ đồng (2,2% dư nợ toàn hệ thống). Mức giảm sâu: Nam A Bank -3,25%/năm, Vietcombank -3%/năm (vay ngắn hạn), Agribank-PVcomBank -2,5%/năm. Bốn ngân hàng nhà nước (Vietcombank, Agribank, BIDV, VietinBank) giảm lãi suất tiền gửi 12 tháng từ 5,9% xuống 5,4%. HDBank cấp 10 triệu tỷ đồng (20/10-30/11) với lãi suất từ 8%/năm. Ưu tiên SME, sản xuất, nông nghiệp, công nghệ cao."
     },
     {
-      "title": "Lãi suất tiền gửi giảm 50 điểm cơ bản",
+      "title": "Blue-chips phục hồi mạnh, 46% cổ phiếu biên độ > 1%",
       "impact": "↑",
-      "note": "Bốn ngân hàng lớn (Vietcombank, Agribank, BIDV, VietinBank) giảm lãi suất huy động kỳ hạn 12 tháng từ 5,9% xuống 5,4% (từ 20-21/10). Ít nhất 24 ngân hàng giảm, mức sâu nhất -0,9 điểm phần trăm. Lệnh từ Thủ tướng Nguyễn Văn Thắng (16/10) yêu cầu giảm lãi suất cho vay 1,5-2%, được NHNN hỗ trợ với Công văn 9608 (18/10)."
+      "note": "Phiên 28/10: VN-Index xuất hiện bán khá mạnh lúc 2h15 nhưng dòng tiền \"phản công\" nhanh chóng, dẫn đầu là nhóm cổ phiếu blue-chips. Thống kê HoSE: 46% cổ phiếu đạt biên độ phục hồi hơn 1% so với giá thấp nhất phiên. Trong 176 cổ phiếu còn đỏ cuối phiên, chỉ 84 mã giảm quá 1%. VN30-Index đóng cửa đảo chiều tăng 0,1%, 15 mã xanh 12 mã đỏ. HDB tăng mạnh 3,86%."
     },
     {
-      "title": "Quốc hội thảo luận sửa Luật Chứng khoán",
+      "title": "Bộ Tài chính tiếp tục làm việc với MSCI nâng hạng thị trường",
       "impact": "↑",
-      "note": "Quốc hội sáng 28/10 thảo luận sửa đổi Luật Chứng khoán với trọng tâm tiêu chuẩn người đại diện công ty chứng khoán/quỹ và điều kiện CEO. Các đại biểu đề xuất khơi thông dòng vốn, bảo đảm an toàn hệ thống. Đại biểu Trần Hoàng Ngân (TPHCM) kiến nghị đầu tư hạ tầng cho giao dịch không nghỉ trưa, 24/24 giờ liên tục để liên thông thị trường toàn cầu."
+      "note": "Sáng 28/10, Bộ trưởng Tài chính Ngô Văn Tuấn tại Quốc hội khẳng định cơ quan quản lý tiếp tục làm việc với MSCI để tiếp tục đánh giá và xếp hạng thị trường. Nâng hạng MSCI sẽ đồng nghĩa với thu hút các quỹ đầu tư quốc tế vì an tâm với tính công khai, minh bạch và chuẩn mực, hỗ trợ xây dựng thị trường chứng khoán đạt chuẩn quốc tế."
     },
     {
-      "title": "VIFC-HCMC dự kiến huy động 2,7 tỷ USD đến 2027",
-      "impact": "↑",
-      "note": "10 công ty holding đầu tiên gia nhập Trung tâm Tài chính quốc tế Việt Nam tại TPHCM (28/10) với tổng vốn đăng ký/cam kết 33,63 triệu USD. Dự kiến huy động và đầu tư 2,7 tỷ USD đến năm 2027. Lĩnh vực: giáo dục, hạ tầng, hàng hải-logistics, năng lượng, fintech, thanh toán, hàng hóa. Phát triển hub tài chính quốc tế."
+      "title": "Lideco lỗ kỷ lục 77 tỷ đồng, danh mục giảm gần 100 tỷ",
+      "impact": "↓",
+      "note": "Báo cáo tài chính quý 3/2026 của Lideco: danh mục chứng khoán kinh doanh giá gốc hơn 605 tỷ đồng (chiếm 30% tổng tài sản, tăng 27% so với đầu năm), nhưng giá trị hợp lý chỉ còn 506 tỷ đồng, thua lỗ gần 100 tỷ đồng. Khoản dự phòng giảm giá chứng khoán tăng lên gần 101 tỷ đồng (từ hơn 24 tỷ đầu năm). Cổ phiếu TCH chiếm tỷ trọng lớn: giá gốc 311 tỷ, giá trị hợp lý 272 tỷ (chênh lệch 39 tỷ). Lideco lỗ kỷ lục 76,7 tỷ đồng quý 3."
     }
   ]
 }
