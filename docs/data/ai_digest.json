@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tác động trái chiều từ khối ngoại bán ròng mạnh (605,2 tỷ đồng, cao nhất 4 tuần) và các tín hiệu tích cực từ ngân hàng NCB (lợi nhuận 1.574 tỷ tăng 141,4%) cùng chính phủ cam kết GDP 10%+/năm. Áp lực bán khiến 119 mã giảm quá 1% nhưng được phần cân bằng bởi triển vọng dài hạn từ kinh tế tầm thấp (UAV đạt 10 tỷ USD năm 2035) và sức mua trở lại trên thị trường kim loại quý. Rủi ro ngắn hạn từ suy yếu dòng tiền và khó khăn một số công ty chứng khoán vẫn cần theo dõi.",
+  "summary_vi": "Thị trường chứng khoán gặp áp lực ngắn hạn từ khối ngoại bán ròng mạnh (605,2 tỷ đồng) và DSC hạ mục tiêu lợi nhuận 57%, nhưng tín hiệu dài hạn tích cực từ chính sách tăng trưởng GDP > 10% của Thủ tướng, NCB báo cáo lợi nhuận kỷ lục (+141,4% YoY), và tiềm năng phát triển lĩnh vực kinh tế không gian tầm thấp (UAV dự báo 10 tỷ USD năm 2035). Rủi ro ngắn hạn từ sức ép bán tháo khu vực do lo ngại Indonesia bị MSCI hạ hạng.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 605,2 tỷ, cao nhất 4 tuần",
-      "impact": "↓",
-      "note": "Khối ngoại xả hơn 1.156 tỷ đồng trên HoSE ngày 28/10 (cao nhất 4 tuần), bán ròng 605,2 tỷ đồng (gấp 2,3 lần phiên trước). Gần 68% số mã chốt ở giá thấp nhất, 119 mã giảm quá 1%, phản ánh rút vốn ở diện rộng."
+      "title": "NCB lập kỷ lục lợi nhuận 9 tháng năm 2026",
+      "impact": "↑",
+      "note": "9 tháng lợi nhuận sau thuế đạt gần 1.574 tỷ đồng, tăng 141,4% so với cùng kỳ 2025. Riêng quý 3 lãi 847 tỷ đồng (tăng 346% YoY). Thu nhập lãi thuần tăng 71%, tổng huy động tiền gửi tăng 43,16% lên hơn 188.879 tỷ đồng, cho thấy ngành ngân hàng vẫn có động lực tăng trưởng mạnh."
     },
     {
-      "title": "NCB lợi nhuận 1.574 tỷ tăng 141,4%, lập kỷ lục",
+      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10% hàng năm",
       "impact": "↑",
-      "note": "Lợi nhuận sau thuế 9 tháng đạt gần 1.574 tỷ đồng (tăng 141,4% so 2025), cao nhất từ khi thành lập. Q3 lãi 847 tỷ tăng 346% cùng kỳ, thu nhập lãi thuần tăng 71%, tiền gửi khách hàng tăng 43,16%."
+      "note": "Tại WEF, Thủ tướng Lê Minh Hưng xác định mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên và đề xuất chuyển từ mô hình \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để kiến tạo chuỗi giá trị mới toàn cầu, tập trung vào phát triển R&D và đổi mới sáng tạo."
+    },
+    {
+      "title": "Khối ngoại bán ròng mạnh, áp lực bán tăng vọt",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 605,2 tỷ đồng (gấp 2,3 lần hôm trước), tổng xả hơn 1.156 tỷ đồng trên HoSE là mức cao nhất 4 tuần. Động thái rút vốn ở diện rộng, 119 mã cổ phiếu giảm quá 1% bất chấp VN-Index chỉ giảm 0,69%, cho thấy sức ép bán rất mạnh ngay từ 10h sáng."
     },
     {
       "title": "DSC hạ 57% mục tiêu lợi nhuận năm 2026",
       "impact": "↓",
-      "note": "Q3 lãi trước thuế chỉ 4 tỷ đồng (giảm 98% cùng kỳ), thực hiện 27% kế hoạch năm sau 9 tháng. HĐQT hạ mục tiêu lợi nhuận từ 356 tỷ xuống 152 tỷ (giảm 57%), hạ doanh thu từ 747 tỷ còn 640 tỷ (giảm 14%), chi phí tăng 25%."
+      "note": "Sau quý 3 chỉ lãi 4 tỷ đồng (giảm 98% YoY), thực hiện 27% kế hoạch sau 9 tháng, HĐQT hạ mục tiêu lợi nhuận trước thuế từ 356 tỷ xuống 152 tỷ đồng. Tổng doanh thu cũng hạ từ 747 tỷ xuống 640 tỷ đồng, chi phí tăng 25%, phản ánh ngành chứng khoán gặp khó khăn."
     },
     {
-      "title": "Thủ tướng: Mục tiêu tăng trưởng GDP 10%+/năm",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa Thu (28/10), khẳng định Việt Nam mục tiêu tăng trưởng GDP từ 10%/năm trở lên, chuyển sang mô hình 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới toàn cầu."
-    },
-    {
-      "title": "Indonesia tháo chạy, JCI giảm 35% cùng kỳ",
+      "title": "Thị trường Indonesia suy sụp do lo ngại hạ hạng MSCI",
       "impact": "↓",
-      "note": "Thị trường Indonesia chịu áp lực bán tháo vì lo MSCI hạ hạng. JCI sụt 14% trong một tháng, giảm 35% so cùng kỳ 2025. Lợi suất trái phiếu 10 năm vượt 7,5%, phiên đấu thầu 27/10 bán được 31,09 nghìn tỷ rupiah giảm 52,1% so phiên trước."
+      "note": "Chỉ số JCI giảm 14% trong 1 tháng qua, giảm 35% so với 2025, chạm 4.996,61 điểm (thấp nhất 6 năm). Lợi suất trái phiếu 10 năm lên 7,5%, lô bán trái phiếu chính phủ giảm 52,1%, dòng vốn rút khỏi khu vực gây áp lực lên các thị trường Đông Nam Á kể cả Việt Nam."
     },
     {
-      "title": "Kinh tế tầm thấp (UAV) dự báo 10 tỷ USD năm 2035",
+      "title": "Thị trường UAV Việt Nam dự báo 10 tỷ USD năm 2035",
       "impact": "↑",
-      "note": "Viện Phát triển không gian tầm thấp dẫn số liệu: thị trường kinh tế tầm thấp toàn cầu 128 tỷ USD năm 2030, thị trường UAV Việt Nam dự báo 10 tỷ USD năm 2035. Hiện 3.000 drone hoạt động phục vụ nông nghiệp Đồng bằng sông Cửu Long."
+      "note": "Thị trường dịch vụ kinh tế không gian tầm thấp toàn cầu dự báo đạt 128 tỷ USD năm 2030. Việt Nam hiện có 3.000 drone phục vụ nông nghiệp, với tiềm năng thị trường UAV lên 10 tỷ USD năm 2035, cho thấy cơ hội phát triển ngành công nghệ cao và sáng tạo."
     }
   ]
 }
