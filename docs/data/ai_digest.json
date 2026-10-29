@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Lợi nhuận các công ty chứng khoán giảm 3% với biên lợi nhuận thu hẹp do thanh khoản suy yếu, quý 3 giảm 42,9% giáng áp lực lên ngành. Tuy vậy, NCB ghi kỷ lục lợi nhuận tăng 141,4%, phản ánh sự phân hóa. Thủ tướng xác định mục tiêu tăng trưởng GDP 10% và vai trò quan trọng của FDI, mở ra cơ hội dài hạn. Chứng khoán Mỹ tăng 3 phiên hỗ trợ cảm nhận rủi ro toàn cầu.",
+  "summary_vi": "Thị trường gặp áp lực từ thanh khoản yếu và khối ngoại bán ròng kéo dài, lợi nhuận doanh nghiệp biến động theo ngành (ngành chứng khoán giảm 3%, NCB tăng 141%). Chính phủ cam kết tăng trưởng GDP 10%/năm và nhấn mạnh FDI cần thiết (21 tỷ USD 9 tháng, mục tiêu 30 tỷ năm 2026), tạo nền tảng chính sách dài hạn. Fed giữ lãi suất ổn định hỗ trợ tâm lý đầu tư toàn cầu.",
   "top": [
     {
-      "title": "Lợi nhuận chứng khoán suy yếu, biên lợi nhuận thu hẹp",
+      "title": "Ngành chứng khoán suy giảm 42,9% lợi nhuận quý 3, cổ phiếu giảm 13% năm",
       "impact": "↓",
-      "note": "Lợi nhuận 78 công ty chứng khoán 9 tháng đạt 28.638 tỷ đồng, giảm 3% YoY. Biên lợi nhuận thu hẹp từ 35,7% xuống 28,2%. Quý 3 giảm 42,9% xuống 8.600 tỷ đồng do thanh khoản suy yếu và dư nợ cho vay ký quỹ lập đỉnh."
+      "note": "78 công ty chứng khoán 9 tháng doanh thu tăng 22,9% nhưng lợi nhuận giảm 3% xuống 28.638 tỷ đồng, biên lợi nhuận thu hẹp từ 35,7% còn 28,2%. Quý 3 lợi nhuận giảm 42,9% xuống 8.600 tỷ đồng (thấp nhất 7 quý). Cổ phiếu chứng khoán từ đầu năm giảm 13% so VN-Index giảm 1%."
     },
     {
-      "title": "NCB lập kỷ lục lợi nhuận tăng 141%",
+      "title": "NCB lập kỷ lục lợi nhuận sau thuế 1.574 tỷ, tăng 141,4%",
       "impact": "↑",
-      "note": "Lợi nhuận 1.574 tỷ đồng 9 tháng, tăng 141,4% YoY, lập kỷ lục. Quý 3 đạt 847 tỷ đồng, tăng 346% YoY. Thu nhập lãi thuần tăng 71% nhờ đẩy mạnh hoạt động tín dụng."
+      "note": "NCB 9 tháng 2026 lợi nhuận sau thuế đạt 1.574 tỷ đồng (tăng 141,4% YoY), kỷ lục cao nhất lịch sử. Quý 3 đạt 847 tỷ tăng 66% QoQ và 346% YoY. Thu nhập lãi thuần tăng 71%, huy động tiền gửi tăng 43,16% lên 188.879 tỷ đồng."
     },
     {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận",
+      "title": "DSC hạ 57% mục tiêu lợi nhuận sau quý 3 lao dốc",
       "impact": "↓",
-      "note": "Quý 3 lợi nhuận 4 tỷ đồng, giảm 98% YoY. HĐQT hạ mục tiêu năm từ 356 tỷ xuống 152 tỷ đồng. Tự doanh và môi giới lỗ, chi phí lãi vay tăng 67%."
+      "note": "DSC quý 3/2026 lợi nhuận trước thuế chỉ 4 tỷ đồng (giảm 98% YoY), mới thực hiện 27% kế hoạch năm. HĐQT hạ mục tiêu lợi nhuận từ 356 tỷ xuống 152 tỷ đồng, giảm doanh thu từ 747 tỷ xuống 640 tỷ. Chi phí tăng 25%."
     },
     {
-      "title": "Thủ tướng xác định mục tiêu GDP tăng 10%",
+      "title": "Thủ tướng: GDP 10%/năm, chuyển từ đầu tư tại VN sang cùng sáng tạo",
       "impact": "↑",
-      "note": "Phát biểu 28/10 tại Diễn đàn Kinh tế Mùa thu 2026, Thủ tướng Lê Minh Hưng xác định tăng trưởng GDP 10%/năm, trở thành trung tâm R&D sáng tạo. Đề xuất chuyển sang \"cùng đầu tư, cùng sáng tạo\" với các tập đoàn quốc tế."
+      "note": "Thủ tướng Lê Minh Hưng (28/10, Diễn đàn Kinh tế Mùa thu 2026) xác nhận VN bước vào giai đoạn phát triển bản lề, mục tiêu GDP 10%/năm trở lên. Đề xuất 4 chiến lược kêu gọi tập đoàn quốc tế chuyển từ \"đầu tư tại VN\" sang \"cùng đầu tư, cùng sáng tạo\" kiến tạo chuỗi giá trị mới."
     },
     {
-      "title": "FDI quan trọng cho tăng trưởng 2 con số",
+      "title": "Bộ trưởng Tài chính: FDI cần thiết cho tăng trưởng GDP 2 con số",
       "impact": "↑",
-      "note": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn: FDI 9 tháng 2026 đạt 21 tỷ USD, phấn đấu 30 tỷ USD cả năm. Nhu cầu vốn 2026-2030 tăng gấp 2,67 lần, FDI là yếu tố quan trọng cho GDP 2 con số."
+      "note": "Bộ trưởng Ngô Văn Tuấn (24/10) khẳng định \"không thể tăng trưởng mà không cần FDI\". FDI 9 tháng 2026 đạt 21 tỷ USD, cả năm phấn đấu 30 tỷ USD. Để GDP 10%/năm cần tổng vốn đầu tư 40% GDP, nhu cầu vốn 2026-2030 tăng 2,67 lần."
     },
     {
-      "title": "Chứng khoán Mỹ tăng 3 phiên liên tiếp",
+      "title": "Chứng khoán Mỹ tăng 3 phiên liên tiếp, Fed giữ lãi suất ổn định",
       "impact": "↑",
-      "note": "S&P 500 tăng 0,28% đạt 7.743,98 điểm, Nasdaq tăng 0,27% đạt 26.549,85 điểm, Dow Jones tăng 0,19%. Fed giữ lãi suất 3,75-4%, phiên tăng thứ 3 liên tiếp."
+      "note": "S&P 500 tăng 0,28% lên 7.743,98 điểm, Nasdaq tăng 0,27% lên 26.549,85 điểm, Dow Jones tăng 0,19% (phiên 28/10). Fed giữ lãi suất 3,75-4%, Chủ tịch Kevin Warsh xác nhận tập trung ổn định giá và thị trường việc làm tích cực. Hỗ trợ tâm lý đầu tư toàn cầu."
     }
   ]
 }
