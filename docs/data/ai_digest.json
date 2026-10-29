@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính sách GDP 10%/năm và FDI cao (21-30 tỷ USD) cùng hiệu quả ngân hàng NCB (+141,4% lãi) tạo tín hiệu tích cực, nhưng khối ngoại bán ròng 4 phiên liên tiếp và nhu cầu vốn tăng gấp 2,67 lần giai đoạn 2026-2030 tạo áp lực. Một số doanh nghiệp như DSC buộc giảm mục tiêu lợi nhuận 57%, trong khi FPT thủng đáy 3 năm.",
+  "summary_vi": "Tín hiệu tích cực từ chính sách (10%+ GDP, NCB lãi 1.574 tỷ tăng 141%) bị chi phối bởi áp lực thị trường: khối ngoại bán ròng 4 phiên, DSC hạ 57% kế hoạch lãi, SCB cắt lãi suất cực sâu. US market tăng 3 phiên nhưng chưa bù đắp rủi ro nội sinh. Nhà đầu tư cần cân nhắc giữa tham vọng tăng trưởng và các tín hiệu sức khỏe tài chính yếu đi.",
   "top": [
     {
-      "title": "NCB lập kỷ lục lợi nhuận 1.574 tỷ đồng",
+      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%",
       "impact": "↑",
-      "note": "9 tháng đạt 1.574 tỷ đồng, tăng 141,4% so cùng kỳ 2025; riêng quý 3 lãi 847 tỷ tăng 346%. Thu nhập lãi thuần tăng 71%, TOI tăng 74% nhờ đẩy mạnh tín dụng và kiểm soát chất lượng tài sản tốt."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn kinh tế 28/10 cam kết tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất chuyển từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" với các tập đoàn quốc tế, nhu cầu vốn giai đoạn 2026-2030 tăng gấp 2,67 lần so với 2021-2025."
     },
     {
-      "title": "Khối ngoại bán ròng 4 phiên liên tiếp, FPT bị bán mạnh nhất",
-      "impact": "↓",
-      "note": "Phiên 28/10 khối ngoại bán ròng 251 tỷ đồng, FPT bị bán ròng mạnh nhất 260 tỷ; tháng 10 FPT bị bán ròng lũy kế 1.760 ngàn tỷ đồng, trạng thái rút vốn ngoại trở thành bình thường dù kỳ vọng nâng hạng."
-    },
-    {
-      "title": "PM Lê Minh Hưng: GDP 10%/năm, FDI 'cùng đầu tư, cùng sáng tạo'",
+      "title": "NCB lập kỷ lục lãi nhuận 9 tháng",
       "impact": "↑",
-      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa Thu 2026 (28/10), Thủ tướng khẳng định Việt Nam quyết tâm đạt tăng trưởng GDP từ 10%/năm trở lên, kêu gọi tập đoàn quốc tế chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' kiến tạo chuỗi giá trị mới."
+      "note": "Ngân hàng NCB ghi lãi sau thuế 9 tháng 1.574 tỷ đồng tăng 141,4% YoY (kỷ lục cao nhất lịch sử), Q3 đạt 847 tỷ tăng 346% cùng kỳ, thu nhập lãi thuần 3.333,8 tỷ tăng 71%, huy động khách hàng 188.879 tỷ tăng 43,16% từ cuối 2025."
     },
     {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận năm 2026",
+      "title": "DSC hạ 57% mục tiêu lãi nhuận năm 2026",
       "impact": "↓",
-      "note": "Quý 3 lãi trước thuế chỉ 4 tỷ đồng, giảm 98% so cùng kỳ 2025; HĐQT hạ mục tiêu lãi toàn năm từ 356 tỷ xuống 152 tỷ đồng, tổng doanh thu hạ 14% từ 747 tỷ còn 640 tỷ đồng."
+      "note": "Chứng khoán DSC chỉ lãi 4 tỷ đồng quý 3 (giảm 98% YoY), hạ mục tiêu lãi nhuận năm từ 356 tỷ xuống 152 tỷ đồng, chi phí lãi vay tăng 67% lên 69 tỷ đồng, cả tự doanh lẫn môi giới đều lỗ gộp hơn 2-3 tỷ."
     },
     {
-      "title": "FDI 9 tháng 21 tỷ USD, nhu cầu vốn gấp 2,67 lần 2026-2030",
-      "impact": "→",
-      "note": "FDI 9 tháng 21 tỷ USD, phấn đấu 30 tỷ USD cả năm 2026; để đạt GDP 10%/năm, tổng vốn đầu tư xã hội cần 40% GDP, nhu cầu vốn giai đoạn 2026-2030 tăng gấp 2,67 lần so 2021-2025, ICOR cần giảm từ 6,4 xuống 4,5-4,8."
+      "title": "Chứng khoán Mỹ tăng 3 phiên liên tiếp",
+      "impact": "↑",
+      "note": "S&P 500 tăng 0,28% đạt 7.743,98 điểm, Nasdaq +0,27%, Dow Jones +0,19% sau quyết định Fed giữ lãi suất 3,75-4%, Fed khẳng định ổn định giá cả và thị trường lao động tích cực, khả năng tăng lãi 0,25% trước hết 2026."
     },
     {
-      "title": "Chứng khoán Mỹ tăng 3 phiên liên tiếp, Fed giữ lãi suất 3,75-4%",
-      "impact": "→",
-      "note": "S&P 500 +0,28% (7.743,98 điểm), Nasdaq +0,27% (26.549,85 điểm), Dow Jones +0,19% (52.475,1 điểm); Fed giữ nguyên lãi suất, không loại trừ tăng thêm 0,25% trước cuối 2026; tâm lý thị trường hầu như không bất ngờ."
+      "title": "FPT cổ phiếu thủng đáy 3 năm",
+      "impact": "↓",
+      "note": "FPT đóng cửa 54.000 đồng/cổ phiếu (giảm 50% từ đầu 2025), vốn hóa ~100.000 tỷ đồng mức thấp nhất kể từ 8/2023 không đủ top 10 thị trường, công ty công bố tạm ứng cổ tức 10% (1.000 đồng/cp) thanh toán 10/12/2026."
+    },
+    {
+      "title": "SCB cắt lãi suất tiền gửi cực mạnh",
+      "impact": "↓",
+      "note": "Ngân hàng SCB giảm lãi suất tiền gửi 24-36 tháng từ 3,9% xuống 0,68%/năm, lãi suất không kỳ hạn chỉ 0,01%, thấp hơn ngân hàng nhà nước khoảng 5% và tư nhân tới 7%, tín hiệu hệ thống tài chính đang chịu áp lực."
     }
   ]
 }
