@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-29",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay cho thấy sự phân cực rõ nét. Mặt tích cực: chính sách FDI của Bộ Tài chính nhấn mạnh đầu tư trực tiếp nước ngoài là chìa khóa để đạt tăng trưởng GDP trên 10%, TP HCM kêu gọi 13 tỷ USD dự án mới, và ngân hàng NCB lập kỷ lục lợi nhuận 1,574 tỷ đồng. Tuy nhiên, khối ngoại liên tục rút vốn 4 phiên liên tiếp, cổ phiếu FPT lao xuống đáy 3 năm, và rủi ro từ cơn sốt AI toàn cầu cũng tiềm ẩn tác động tiêu cực nếu đảo chiều.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính sách Việt Nam định hướng mạnh: Thủ tướng cam kết tăng trưởng GDP 10%/năm với chiến lược \"cùng đầu tư, cùng sáng tạo\", TP HCM công bố 13 tỷ USD dự án FDI tại Diễn đàn Kinh tế Mùa Thu 28/10. Tín dụng phục hồi tốt với NCB lập kỷ lục lợi nhuận 1,574 tỷ (+141% YoY). Tuy nhiên, khối ngoại rút vốn liên tục (bán ròng 4 phiên, FPT mất 1,760 ngàn tỷ tháng 10) và Fed giữ lãi 3,75-4% dù lạm phát cao tạo rủi ro từ đồng USD và suy yếu chứng khoán.",
   "top": [
     {
-      "title": "Bộ trưởng Tài chính: FDI không thể thiếu để tăng trưởng",
+      "title": "Thủ tướng cam kết GDP 10%/năm, đổi chiến lược FDI",
       "impact": "↑",
-      "note": "Bộ trưởng Ngô Văn Tuấn khẳng định FDI thiết yếu để đạt tăng trưởng GDP, với mục tiêu 30 tỷ USD cả năm (9 tháng hiện tại đã đạt 21 tỷ USD). Để tăng trưởng 2 con số, tổng vốn đầu tư cần lên 40% GDP, ICOR giảm từ 6,4 xuống 4,5-4,8."
+      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa Thu 28/10, Thủ tướng Lê Minh Hưng khẳng định Việt Nam bước vào giai đoạn phát triển bản lề với mục tiêu tăng trưởng GDP bình quân 10%/năm trở lên, kêu gọi các tập đoàn quốc tế chuyển từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "Thủ tướng: Tăng trưởng 10%/năm, trở thành R&D toàn cầu",
+      "title": "TP HCM kêu gọi kỷ lục 13 tỷ USD FDI",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng tại Diễn đàn Kinh tế Mùa thu 28/10 khẳng định Việt Nam tăng trưởng GDP bình quân từ 10%/năm trở lên. Đề xuất chiến lược chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế để xây dựng chuỗi giá trị mới toàn cầu."
+      "note": "Ngày 28/10 tại Diễn đàn Kinh tế Mùa Thu, TP HCM công bố 12 dự án đầu tư tổng 13 tỷ USD, bao gồm cảng biển, năng lượng, đô thị thông minh, R&D. Nổi bật là Cảng trung chuyển quốc tế Cần Giờ với vốn 4,933 tỷ USD."
     },
     {
-      "title": "NCB lập kỷ lục lợi nhuận 1,574 tỷ đồng sau 9 tháng",
-      "impact": "↑",
-      "note": "Ngân hàng NCB đạt lợi nhuận sau thuế 1,574 tỷ đồng trong 9 tháng 2026 (tăng 141,4% YoY), kỷ lục cao nhất từ thành lập. Quý 3 riêng lãi 847 tỷ (tăng 346% YoY), với thu nhập lãi thuần tăng 71% nhờ mở rộng tín dụng."
+      "title": "Fed tạm dừng tăng lãi, lạm phát vẫn cao",
+      "impact": "→",
+      "note": "Cuộc họp FOMC 27-28/10, Fed duy trì lãi suất quỹ liên bang 3,75-4%, tuyên bố \"lạm phát vẫn ở mức cao\" nhưng chọn cách \"kiên nhẫn\" để thu thập thêm thông tin. Hai thành viên phản đối, ủng hộ tăng lãi 0,25%."
     },
     {
-      "title": "FPT lao xuống đáy 3 năm, vốn hóa 100.000 tỷ đồng",
+      "title": "NCB lập kỷ lục lợi nhuận 1,574 tỷ sau 9 tháng",
+      "impact": "↑",
+      "note": "Ngân hàng Quốc Dân (NCB) đạt lợi nhuận sau thuế 1,574 tỷ đồng trong 9 tháng 2026, tăng 141,4% YoY (kỷ lục cao nhất từ thành lập). Q3 riêng lãi 847 tỷ (+346% YoY), thu nhập lãi thuần tăng 71%, huy động tiền gửi tăng 43,16%."
+    },
+    {
+      "title": "Khối ngoại rút vốn liên tiếp, bán FPT mạnh",
       "impact": "↓",
-      "note": "Cổ phiếu FPT giá 54.000 đồng (chia đôi so với đỉnh năm 2025), vốn hóa thị trường chỉ còn 100.000 tỷ đồng (mức thấp nhất từ tháng 8/2023), rơi khỏi top 10 công ty giá trị nhất. HĐQT thông qua tạm ứng cổ tức 10% (1.000 đồng/cp) thanh toán 10/12/2026."
+      "note": "Phiên 28/10, khối ngoại bán ròng 251 tỷ đồng (phiên bán thứ 4 liên tiếp). FPT bị bán ròng mạnh nhất 260 tỷ đồng, lũy kế tháng 10 FPT bị khối ngoại bán 1.760 ngàn tỷ đồng, phản ánh xu hướng rút vốn bất chấp kỳ vọng nâng hạng."
     },
     {
-      "title": "Khối ngoại rút vốn, bán FPT 260 tỷ đơn lẻ phiên",
+      "title": "DSC hạ 57% lợi nhuận dự báo năm 2026",
       "impact": "↓",
-      "note": "Khối ngoại tiếp tục bán ròng 251 tỷ đồng trong phiên 28/10, phiên bán ròng thứ 4 liên tiếp. Bán FPT mạnh nhất 260 tỷ đồng, lũy kế tháng 10 bán 1.760 ngàn tỷ đồng cổ phiếu này, bất chấp kỳ vọng về nâng hạng."
-    },
-    {
-      "title": "TP HCM công bố 12 dự án 13 tỷ USD FDI",
-      "impact": "↑",
-      "note": "TP HCM công bố 12 dự án đầu tư tổng 13 tỷ USD tại Diễn đàn Kinh tế Mùa Thu 28/10, tập trung cảng biển, năng lượng, khu đô thị thông minh, R&D. Nổi bật: Cảng trung chuyển quốc tế Cần Giờ với vốn khoảng 4.933 tỷ USD."
+      "note": "Chứng khoán DSC Q3 lãi trước thuế chỉ 4 tỷ đồng, giảm 98% YoY (27% kế hoạch năm), nên HĐQT hạ mục tiêu lãi năm từ 356 tỷ xuống 152 tỷ (giảm 57%). Tự doanh lỗ 2 tỷ, môi giới lỗ 3 tỷ, chi phí lãi vay tăng 67%."
     }
   ]
 }
