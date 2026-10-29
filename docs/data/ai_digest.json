@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-29",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận những tín hiệu trái chiều: từ phía tích cực, ngân hàng NCB đạt lợi nhuận kỷ lục tăng 141,4% và chính phủ đặt mục tiêu GDP trên 10%/năm cùng chiến lược R&D toàn cầu; song đối mặt với sức ép từ thanh khoản yếu, lợi nhuận ngành chứng khoán giảm 3% và công ty DSC hạ mục tiêu 57%, đồng thời lãi suất gửi tiết kiệm tại một số ngân hàng xuống mức cực thấp, khiến triển vọng ngắn hạn vẫn còn bấp bênh.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chịu áp lực mạnh từ dòng vốn ngoại rút, với khối ngoại bán ròng -605,2 tỷ đồng (cao nhất 4 tuần) đẩy cổ phiếu giảm diện rộng. Ngành chứng khoán suy yếu toàn diện: lợi nhuận Q3 giảm 42,9% cùng kỳ, DSC phải hạ mục tiêu năm 57% xuống 152 tỷ đồng. Tuy vậy, NCB đạt lợi nhuận 1.574 tỷ tăng 141,4% YoY và Thủ tướng cam kết mục tiêu GDP 10%+/năm là tín hiệu tích cực dài hạn, nhưng chưa bù được áp lực bán hiện tại và rủi ro từ suy yếu dòng tiền môi giới.",
   "top": [
     {
-      "title": "NCB lập kỷ lục lợi nhuận 1.574 tỷ đồng 9 tháng, tăng 141,4%",
-      "impact": "↑",
-      "note": "Lợi nhuận sau thuế 9 tháng 2026 đạt gần 1.574 tỷ đồng, tăng 141,4% so với cùng kỳ 2025; riêng quý 3 lãi 847 tỷ đồng, tăng 346% cùng kỳ. Thu nhập lãi thuần tăng 71%, TOI tăng 74%; tiền gửi khách hàng tăng 43,16%, Casa tăng hơn 19.536 tỷ—tín hiệu mạnh từ hoạt động tín dụng cốt lõi."
-    },
-    {
-      "title": "Sector chứng khoán chịu áp lực sâu từ thanh khoản yếu",
+      "title": "Khối ngoại bán ròng -605,2 tỷ đồng, rút vốn diện rộng",
       "impact": "↓",
-      "note": "9 tháng 78 công ty chứng khoán tổng doanh thu 101.665 tỷ đồng (tăng 22,9%) nhưng lợi nhuận chỉ 28.638 tỷ (giảm 3%). Quý 3 đặc biệt khó khăn: lợi nhuận chỉ 8.600 tỷ, giảm 42,9% cùng kỳ, biên lợi nhuận xuống 24% (thấp nhất 7 quý). Tự doanh lỗ gộp, môi giới lỗ gộp, cho vay ký quỹ tăng 54,1% nhưng tăng rủi ro."
+      "note": "Khối ngoại xả hơn 1.156 tỷ đồng trên HoSE (cao nhất 4 tuần), bán ròng -605,2 tỷ đồng (gấp 2,3 lần hôm trước). Gần 68% số mã chốt ở giá thấp nhất, thanh khoản gia tăng kết hợp áp lực bán phản ánh rút vốn ở diện rộng thay vì giao dịch chọn lọc."
     },
     {
-      "title": "Chứng khoán DSC hạ mục tiêu lợi nhuận 57%, quý 3 chỉ lãi 4 tỷ",
-      "impact": "↓",
-      "note": "Quý 3/2026 lãi trước thuế chỉ hơn 4 tỷ đồng, giảm 98% cùng kỳ. HĐQT hạ mục tiêu lợi nhuận 2026 từ 356 tỷ xuống 152 tỷ đồng (giảm 57%); hạ doanh thu từ 747 tỷ còn 640 tỷ (giảm 14%). Tự doanh lỗ gần 2 tỷ, môi giới lỗ hơn 3 tỷ, cho vay 74 tỷ nhưng chi phí lãi vay tăng 67%."
-    },
-    {
-      "title": "Thủ tướng cam kết GDP trên 10%/năm, trung tâm R&D toàn cầu",
+      "title": "NCB lợi nhuận 1.574 tỷ tăng 141,4% YoY, lập kỷ lục",
       "impact": "↑",
-      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa Thu (28/10), Thủ tướng Lê Minh Hưng khẳng định Việt Nam phát triển bản lề với mục tiêu tăng trưởng GDP bình quân từ 10%/năm, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' kiến tạo chuỗi giá trị mới toàn cầu—chiến lược dài hạn hỗ trợ FDI."
+      "note": "Lợi nhuận sau thuế 9 tháng đạt gần 1.574 tỷ đồng (tăng 141,4% so 2025), lập kỷ lục cao nhất từ khi thành lập. Q3 riêng biệt mạnh: lãi 847 tỷ (tăng 346% cùng kỳ), thu nhập lãi thuần tăng 71%, tiền gửi khách hàng tăng 43,16%."
     },
     {
-      "title": "Chứng khoán Mỹ tăng 3 phiên liên tiếp, Fed giữ lãi suất 3,75-4%",
-      "impact": "↑",
-      "note": "S&P 500 tăng 0,28% lên 7.743,98 điểm, Nasdaq tăng 0,27%, Dow Jones tăng 0,19%. Đây là phiên tăng thứ 3 liên tiếp sau quyết định Fed giữ nguyên lãi suất 3,75-4%. Chủ tịch Fed Kevin Warsh đánh giá thị trường việc làm 'khá tích cực', không loại trừ tiếp tục tăng lãi suất 0,25 điểm phần trăm."
-    },
-    {
-      "title": "Lãi suất gửi tiết kiệm tại SCB chỉ 0,01-0,68%/năm, thấp kỷ lục",
+      "title": "Ngành chứng khoán lợi nhuận lao dốc 42,9%, chỉ 24% biên lợi",
       "impact": "↓",
-      "note": "SCB niêm yết lãi suất không kỳ hạn chỉ 0,01%/năm, kỳ hạn 1-5 tháng 0,08%, 6-11 tháng 0,48%, 24-36 tháng 0,68%—giảm mạnh so với trước. Lãi suất của SCB thấp hơn nhóm ngân hàng có vốn Nhà nước khoảng 5% và thấp hơn ngân hàng tư nhân tới 7%, tín hiệu áp lực lợi nhuận."
+      "note": "78 công ty chứng khoán 9 tháng: doanh thu 101.665 tỷ (tăng 22,9%) nhưng lợi nhuận chỉ 28.638 tỷ (giảm 3%). Q3 đặc biệt xấu: lợi nhuận 8.600 tỷ (giảm 42,9% cùng kỳ), biên lợi nhuận 24% (thấp nhất 7 quý). Tự doanh lỗ gộp, môi giới lỗ gộp, cho vay ký quỹ tăng nhưng tăng rủi ro khi thị trường điều chỉnh."
+    },
+    {
+      "title": "DSC hạ mục tiêu lợi nhuận 57% vì Q3 chỉ lãi 4 tỷ",
+      "impact": "↓",
+      "note": "Q3 lãi trước thuế chỉ 4 tỷ đồng (giảm 98% cùng kỳ), thực hiện 27% kế hoạch năm sau 9 tháng. HĐQT hạ mục tiêu lợi nhuận 2026 từ 356 tỷ xuống 152 tỷ (giảm 57%), hạ doanh thu từ 747 tỷ còn 640 tỷ (giảm 14%). Chi phí tăng 25%, lãi vay tăng 67%."
+    },
+    {
+      "title": "Thủ tướng: Mục tiêu GDP 10%+/năm, cùng đầu tư sáng tạo",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa Thu (28/10), khẳng định Việt Nam bước vào giai đoạn phát triển bản lề, mục tiêu tăng trưởng GDP từ 10%/năm trở lên, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới toàn cầu."
+    },
+    {
+      "title": "Nợ công 34% GDP, khả năng chống chịu kinh tế tốt",
+      "impact": "↑",
+      "note": "Thủ tướng thông tin tại Diễn đàn Kinh tế, nợ công Việt Nam ở mức khoảng 34% GDP, mức lành mạnh. Thủ tướng nhấn mạnh khả năng chống chịu không chỉ đứng vững trước cú sốc mà còn thích ứng, phục hồi, phát triển mạnh mẽ hơn sau biến động."
     }
   ]
 }
