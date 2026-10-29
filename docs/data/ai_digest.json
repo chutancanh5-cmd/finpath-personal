@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán gặp áp lực bán mạnh từ khối ngoại và tự doanh (bán ròng 825 tỷ đồng), VN-Index giảm 11 điểm với 430 mã giảm giá, đặc biệt nhóm dầu khí và bất động sản suy yếu. Mặc dù xuất nhập khẩu đạt kỷ lục 1.010,6 tỷ USD (+32,3%) và Thủ tướng đề ra mục tiêu GDP 10%/năm, rủi ro ngắn hạn vẫn lớn khi doanh nghiệp lớn hạ mục tiêu lợi nhuận (DSC giảm 57%) và bán áp lực từ cổ phiếu lớn như VHM (-2,2%), TCB (-89 tỷ khối bán).",
+  "summary_vi": "Thị trường chứng khoán gặp áp lực bán mạnh từ khối ngoại và tự doanh (bán ròng tổng 825 tỷ đ), VN-Index giảm 0,62% kiểm định vùng hỗ trợ 1740 điểm với 430 mã giảm giá. Mặc dù kinh tế ghi nhận tín hiệu tích cực từ xuất nhập khẩu kỷ lục 1.010,6 tỷ USD (+32,3%) và Thủ tướng cam kết GDP trên 10%/năm, thị trường lo lắng về rủi ro ngắn hạn: doanh nghiệp lớn hạ lợi nhuận (DSC giảm 57%), cổ phiếu sàn 8 phiên liên tiếp (PPT lao dốc 56%). Sự mismatch này tạo tâm lý thị trường thận trọng.",
   "top": [
     {
-      "title": "XNK vượt kỷ lục 1.000 tỷ USD, xuất khẩu tăng 27,4%",
+      "title": "XNK vượt kỷ lục 1.010,6 tỷ USD, tăng 32,3%",
       "impact": "↑",
-      "note": "10 tháng 2026, XNK đạt 1.010,6 tỷ USD tăng 32,3% YoY; riêng tháng 10 ước 122,2 tỷ USD (+47,6%); xuất khẩu 499 tỷ USD tăng 27,4%, dự kiến hoàn thành mục tiêu 15-16% cả năm."
+      "note": "10 tháng 2026 xuất nhập khẩu 1.010,6 tỷ USD tăng 32,3% YoY; xuất khẩu 499 tỷ USD tăng 27,4%; tháng 10 riêng ước 122,2 tỷ USD tăng 47,6%. Động lực kinh tế mạnh mẽ hỗ trợ bền vững."
     },
     {
-      "title": "Khối ngoại và tự doanh bán ròng 825 tỷ đồng",
+      "title": "Khối ngoại + tự doanh bán ròng 825 tỷ đ",
       "impact": "↓",
-      "note": "Phiên 29/10, khối ngoại bán ròng 540 tỷ đồng, tự doanh bán ròng 282 tỷ đồng; lực bán tập trung vào TCB (khối ngoại 118 tỷ, tự doanh 90 tỷ), FPT (115 tỷ), GAS (42 tỷ)."
+      "note": "Phiên 29/10, khối ngoại bán ròng 540 tỷ đ, tự doanh bán ròng 282 tỷ đ; lực bán tập trung TCB (khối ngoại 118 tỷ, tự doanh 90 tỷ), FPT (115 tỷ), GAS (42 tỷ), SAB (43 tỷ). Dòng tiền bán mạnh."
     },
     {
-      "title": "VN-Index giảm 11 điểm, 430 mã giảm giá",
+      "title": "VN-Index giảm 0,62%, 430 mã giảm giá",
       "impact": "↓",
-      "note": "VN-Index đóng cửa 1.755,61 điểm (-0,62%); độ rộng nghiêng tiêu cực 430 mã giảm vs 245 mã tăng; 18 mã giảm sàn gồm PVT, PVP, PPT; VHM giảm 2,2%, BSR -3,83%, GAS -2,19%."
+      "note": "VN-Index đóng cửa 1.755,61 điểm (-11,04 điểm, -0,62%); độ rộng tiêu cực 430 mã giảm vs 245 mã tăng; VHM giảm 2,2%, BSR giảm 3,83%, GAS giảm 2,19%. Chỉ số thất bại tại kháng cự 1770, kiểm định hỗ trợ 1740."
     },
     {
-      "title": "PPT rơi 56% trong 8 phiên liên tiếp",
+      "title": "PPT sàn 8 phiên liên tiếp, lao dốc 56%",
       "impact": "↓",
-      "note": "Cổ phiếu PPT (Petro Times) giảm từ 15.000 xuống 6.600 đồng (-56%) từ 20-29/10; vốn hóa mất từ 265 tỷ xuống 130 tỷ đồng; doanh nghiệp cho đây là do quan hệ cung cầu thị trường."
+      "note": "Petro Times (PPT) sàn từ 20-29/10, thị giá 15.000 → 6.600 đ/cổ phiếu (-56%); vốn hóa mất từ 265 tỷ xuống 130 tỷ đ (-135 tỷ). Doanh nghiệp khó khăn kinh doanh, dòng tiền panic."
     },
     {
       "title": "Thủ tướng: Mục tiêu GDP tăng 10%/năm",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại WEF (28/10) mục tiêu tăng trưởng GDP từ 10% bình quân/năm trở lên; chiến lược R&D và đổi mới sáng tạo, chuyển sang mô hình cùng đầu tư, cùng sáng tạo."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại WEF (28/10) cam kết GDP tăng từ 10% bình quân/năm trở lên; chiến lược trở thành trung tâm R&D và đổi mới sáng tạo, chuyển mô hình sang cùng đầu tư, cùng sáng tạo."
     },
     {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận năm 2026",
+      "title": "DSC hạ 57% mục tiêu lợi nhuận 2026",
       "impact": "↓",
-      "note": "DSC hạ mục tiêu lãi từ 356 tỷ xuống 152 tỷ đồng (-57%); quý 3/2026 chỉ lãi 4 tỷ đồng (-98% YoY); hoàn thành 27% kế hoạch sau 9 tháng; chi phí lãi vay tăng 67%."
+      "note": "HĐQT Chứng khoán DSC hạ mục tiêu lãi từ 356 tỷ xuống 152 tỷ đ (-57%); hạ doanh thu từ 747 tỷ xuống 640 tỷ đ (-14%); quý 3 lãi chỉ 4 tỷ đ (-98% YoY); chi phí lãi vay tăng 67%. Sức khỏe ngành chứng khoán yếu."
     }
   ]
 }
