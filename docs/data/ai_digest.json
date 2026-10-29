@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay cân bằng giữa tín hiệu tích cực từ chính sách (Thủ tướng cam kết GDP ≥10%/năm, FDI dự kiến 30 tỷ USD, TP HCM khởi động dự án 13 tỷ USD) và động lực ngân hàng mạnh (NCB lập kỷ lục lợi nhuận 1.574 tỷ đ), nhưng bị cản bởi sức ép bán từ khối ngoại (FPT bị bán ròng 1.760 tỷ đ tháng 10) và lo ngại từ phía broker (DSC hạ mục tiêu lợi nhuận 57%). Fed giữ nguyên lãi suất cũng tạo sự chờ đợi về xu hướng tiền tệ toàn cầu.",
+  "summary_vi": "Chính phủ cam kết GDP trên 10%/năm, kinh tế tầm thấp mở cơ hội 10 tỷ USD, và NCB đạt kỷ lục lợi nhuận tăng 141% là tín hiệu tích cực dài hạn. Nhưng khối ngoại tiếp tục rút vốn mạnh (FPT 1,76 ngàn tỷ tháng 10), DSC hạ 57% mục tiêu lợi nhuận, và lãi suất SCB giảm xuống 0,01-1,18% gây áp lực trên cổ phiếu ngắn hạn. Thị trường cân giữa triển vọng phát triển dài hạn từ chính sách mới và rủi ro rút vốn ngoại hiện tại.",
   "top": [
     {
-      "title": "NCB lập kỷ lục lợi nhuận 1.574 tỷ đ sau 9 tháng",
+      "title": "Thủ tướng cam kết GDP trên 10%/năm",
       "impact": "↑",
-      "note": "Lợi nhuận sau thuế 9 tháng đạt 1.574 tỷ đ tăng 141,4% YoY, riêng quý 3 đạt 847 tỷ đ tăng 346% YoY; thu nhập lãi thuần 3.333,8 tỷ đ tăng 71%; huy động tiền gửi và GTCV đạt 188.879 tỷ đ tăng 43,16% so cuối 2025."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10) đề ra mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, kêu gọi chuyển mô hình từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "Thủ tướng cam kết GDP ≥10%/năm, chuyển sang 'cùng đầu tư, cùng sáng tạo'",
+      "title": "Kinh tế tầm thấp mở cơ hội 10 tỷ USD",
       "impact": "↑",
-      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 ngày 28/10, Thủ tướng Lê Minh Hưng khẳng định Việt Nam bước vào giai đoạn phát triển bản lề với mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất chuyển từ mô hình 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'."
+      "note": "Thị trường thiết bị bay không người lái (UAV) Việt Nam dự báo đạt 10 tỷ USD vào năm 2035, thị trường toàn cầu 128 tỷ USD vào 2030 (theo Phó Viện trưởng Bùi Minh Phương). Bộ Chính trị xác định không gian tầm thấp là tài nguyên quốc gia qua Kết luận số 99 ngày 28/9/2026."
     },
     {
-      "title": "FDI 9 tháng 2026 đạt ~21 tỷ USD, phấn đấu 30 tỷ USD cả năm",
+      "title": "NCB lập kỷ lục lợi nhuận tăng 141%",
       "impact": "↑",
-      "note": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn khẳng định không thể tăng trưởng GDP hai con số mà không cần FDI; nhu cầu vốn 2026-2030 tăng gấp 2,67 lần so với 2021-2025; cần ICOR giảm từ 6,4 xuống 4,5-4,8 để đạt tổng vốn 40% GDP."
+      "note": "Lợi nhuận sau thuế 9 tháng đạt gần 1.574 tỷ đồng, tăng 141,4% so cùng kỳ 2025, lập kỷ lục hoạt động. Q3 đạt hơn 847 tỷ đồng, tăng 346% so cùng kỳ, thu nhập lãi thuần 3.333,8 tỷ tăng 71%, huy động tiền gửi tăng 43,16%."
     },
     {
-      "title": "TP HCM công bố 12 dự án 13 tỷ USD tại Diễn đàn Kinh tế Mùa thu",
-      "impact": "↑",
-      "note": "Ngày 28/10, TP HCM công bố 12 dự án thuộc lĩnh vực cảng biển, năng lượng, đô thị thông minh, R&D, giáo dục; nổi bật Cảng trung chuyển quốc tế Cần Giờ với tổng vốn khoảng 4,933 tỷ USD."
-    },
-    {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận năm 2026, quý 3 lãi 4 tỷ đ",
+      "title": "Khối ngoại bán ròng FPT 1,76 ngàn tỷ tháng 10",
       "impact": "↓",
-      "note": "Quý 3 lãi trước thuế hơn 4 tỷ đ giảm 98% YoY, HĐQT DSC hạ mục tiêu lãi năm từ 356 tỷ đ xuống 152 tỷ đ; hoạt động tự doanh và môi giới cùng lỗ gộp, chi phí lãi vay tăng 67% lên hơn 69 tỷ đ."
+      "note": "Khối ngoại tiếp tục bán ròng 4 phiên liên tiếp, FPT bị bán ròng 260 tỷ đồng phiên 28/10, tích lũy 1,76 ngàn tỷ đồng tháng 10, phản ánh xu hướng rút vốn ngoại chưa dừng bất chấp kỳ vọng về nâng hạng thị trường."
     },
     {
-      "title": "FPT bị bán ròng 260 tỷ đ phiên 28/10, giá 54.000 đ/cp",
+      "title": "DSC hạ 57% mục tiêu lợi nhuận",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng FPT 260 tỷ đ phiên 28/10 (cao nhất phiên), kéo dài chuỗi 4 phiên liên tiếp; cổ phiếu giảm 54.000 đ/cp (chia đôi so đỉnh 2025), vốn hóa 100.000 tỷ đ thấp nhất từ tháng 8/2023; lũy kế tháng 10 khối ngoại bán ròng FPT lên 1.760 tỷ đ."
+      "note": "Lợi nhuận Q3 giảm 98% xuống hơn 4 tỷ đồng, chỉ hoàn thành 27% kế hoạch năm. Mục tiêu lãi trước thuế năm 2026 được hạ từ 356 tỷ xuống 152 tỷ đồng (giảm 57%), mục tiêu doanh thu giảm 14% xuống 640 tỷ đồng do chi phí lãi vay tăng 67%."
+    },
+    {
+      "title": "SCB áp dụng lãi suất siêu thấp 0,01-1,18%",
+      "impact": "↓",
+      "note": "Ngân hàng TMCP Sài Gòn công bố lãi suất tiền gửi từ 0,01%/năm (không kỳ hạn) đến 1,18% (các kỳ hạn dài), giảm mạnh so trước. Lãi suất SCB thấp hơn ngân hàng vốn Nhà nước khoảng 5% và tư nhân tới 7%, gây áp lực lợi nhuận lĩnh vực ngân hàng."
     }
   ]
 }
