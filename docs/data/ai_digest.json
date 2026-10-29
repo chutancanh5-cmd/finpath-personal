@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-29",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường giao dịch với áp lực bán mạnh từ cả khối ngoại lẫn tự doanh, VN-Index giảm 11,04 điểm (-0,62%). Nhóm dầu khí chịu sức ép tập trung với PVT, PVP, PPT giảm sàn. Dòng tiền mua suy yếu đột biến, khối vốn nhỏ bị điều chỉnh mạnh. Tuy có cam kết tăng trưởng GDP 10% từ Thủ tướng, nhưng tâm lý thị trường vẫn tiêu cực với 430 mã giảm giá so với 245 mã tăng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Phiên 29/10 ghi nhận áp lực bán ròng mạnh từ khối ngoại và tự doanh (825 tỷ đồng), dòng tiền mua rút lui với thanh khoản sàn chỉ 15,7 ngàn tỷ đồng, khiến VN-Index giảm 0,62% với 130 cổ phiếu giảm sâu, nhất là nhóm năng lượng. Tuy nhiên, tín hiệu chính sách tích cực từ Thủ tướng (mục tiêu GDP >10%/năm, trung tâm R&D toàn cầu), nợ công ở mức 34% GDP an toàn, và VPBankS huy động 6.000 tỷ đồng cho margin gợi ý sự lạc quan dài hạn, cân bằng áp lực ngắn hạn.",
   "top": [
     {
-      "title": "VN-Index giảm 11,04 điểm, 430 mã giảm giá, 18 mã sàn",
-      "impact": "↓",
-      "note": "VN-Index đóng cửa ở 1.755,61 điểm (-11,04 điểm, -0,62%), HNX-Index giảm 3,25 điểm về 256,61 điểm. Thanh khoản toàn thị trường 15,7 nghìn tỷ đồng, với 430 mã giảm giá áp đảo 245 mã tăng, đáng chú ý có 18 mã giảm sàn chủ yếu từ nhóm dầu khí."
-    },
-    {
-      "title": "Nhóm dầu khí sụp đổ, PVT-PVP-PPT giảm sàn",
-      "impact": "↓",
-      "note": "PVT, PVP và PPT cùng giảm sàn. Các cổ phiếu dầu khí khác giảm sâu: PVS giảm 4,69%, BSR giảm 3,83%, PLX giảm 3,82%, OIL giảm 2,31%, GAS giảm 2,2%. Áp lực bán rộng từ công ty lọc hóa dầu đến dịch vụ dầu khí sau giai đoạn tăng hàng chục phần trăm."
-    },
-    {
-      "title": "Khối ngoại và tự doanh bán ròng gần 825 tỷ đồng",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng hơn 540 tỷ đồng với lực bán tập trung ở TCB (118 tỷ), FPT (115 tỷ), SSI (79 tỷ). Tự doanh đồng thuận bán ròng gần 282 tỷ đồng, trong đó TCB bị bán 90 tỷ, SAB bị bán 43 tỷ. HPG dẫn đầu mua ròng 63 tỷ đồng."
-    },
-    {
-      "title": "Dòng tiền mua rút lui, thanh khoản chiều sụt 23%",
-      "impact": "↓",
-      "note": "Thanh khoản sàn HoSE chiều nay chỉ 5.436,6 tỷ đồng, giảm 23% so với phiên sáng (8,8 nghìn tỷ). Bên mua hoàn toàn mất chủ động, chỉ chờ đợi người bán xả hàng. 130 cổ phiếu giảm sâu hơn 1%, phần lớn từ nhóm vốn hóa nhỏ."
-    },
-    {
-      "title": "Chứng khoán DSC hạ 57% mục tiêu lợi nhuận năm 2026",
-      "impact": "↓",
-      "note": "DSC hạ mục tiêu lãi trước thuế từ 356 tỷ xuống 152 tỷ đồng (-57%), hạ doanh thu từ 747 tỷ xuống 640 tỷ đồng (-14%). Quý 3/2026 lỗ ở hoạt động tự doanh 2 tỷ và môi giới 3 tỷ, chi phí lãi vay tăng 67% lên 69 tỷ đồng."
-    },
-    {
-      "title": "Thủ tướng cam kết GDP tăng trên 10%, nợ công 34% GDP",
+      "title": "Thủ tướng: Mục tiêu GDP >10%/năm, trung tâm R&D toàn cầu",
       "impact": "↑",
-      "note": "Tại Diễn đàn Kinh tế Mùa Thu 2026, Thủ tướng Lê Minh Hưng khẳng định Việt Nam đạt tăng trưởng GDP 10%/năm trở lên, trở thành trung tâm R&D và đổi mới sáng tạo toàn cầu. Nợ công hiện ở mức khoảng 34% GDP, dưới ngưỡng cảnh báo."
+      "note": "Thủ tướng Lê Minh Hưng tại Diễn đàn Kinh tế Mùa Thu 2026 (28/10) cam kết tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất kêu gọi các tập đoàn quốc tế cùng đầu tư, cùng sáng tạo. Đây là tín hiệu chính sách vĩ mô then chốt tạo kỳ vọng phát triển dài hạn cho nền kinh tế và thị trường chứng khoán."
+    },
+    {
+      "title": "Khối ngoại + tự doanh bán ròng 825 tỷ đồng",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 540 tỷ đồng với lực bán tập trung TCB (118 tỷ), FPT (115 tỷ), SSI (79 tỷ); tự doanh bán ròng 282 tỷ đồng, TCB bị bán 90 tỷ, SAB bị bán 43 tỷ. Tín hiệu yếu khi cả máy móc lẫn nhà đầu tư nội bộ đều xả hàng, áp lực bán mạnh từ các nhóm quyền lực."
+    },
+    {
+      "title": "VN-Index giảm 0,62%, 130 cổ phiếu giảm sâu, nhóm năng lượng lao dốc",
+      "impact": "↓",
+      "note": "VN-Index giảm 11,04 điểm về 1.755,61, HNX-Index giảm 3,25 điểm về 256,61. Ba mã dầu khí PVT, PVP, PPT giảm sàn; các cổ phiếu dầu khí khác giảm sâu (BSR -3,83%, PLX -3,82%, OIL -2,31%, GAS -2,2%). Thanh khoản 15,7 ngàn tỷ đồng, với 430 mã giảm áp đảo 245 mã tăng."
+    },
+    {
+      "title": "Dòng tiền mua rút lui, thanh khoản phiên chiều sụt 23%",
+      "impact": "↓",
+      "note": "Thanh khoản sàn HoSE chiều chỉ 5.436,6 tỷ đồng, giảm 23% so với phiên sáng (8,8 ngàn tỷ). Bên mua hoàn toàn mất chủ động, chỉ thụ động chờ giá ở các mức rất thấp. Báo hiệu nhịp điều chỉnh vẫn chưa kết thúc khi 130 cổ phiếu giảm sâu hơn 1%, tập trung nhóm vốn hóa nhỏ."
+    },
+    {
+      "title": "VPBankS huy động 6.000 tỷ đồng qua trái phiếu cho margin",
+      "impact": "↑",
+      "note": "Chứng khoán VPBank phê duyệt chào bán trái phiếu công chúng 6.000 tỷ đồng (60 triệu trái phiếu, lãi 9,5%/năm, kỳ hạn 12 tháng) bổ sung vốn cho hoạt động cho vay ký quỹ (margin) quý 4/2026-1/2027. Tín hiệu lạc quan cho thị trường khi công ty chứng khoán chuẩn bị vốn hỗ trợ giao dịch."
+    },
+    {
+      "title": "Nợ công Việt Nam ở mức 34% GDP, an toàn",
+      "impact": "↑",
+      "note": "Thủ tướng thông tin tại Diễn đàn Kinh tế Mùa Thu 2026 nợ công Việt Nam khoảng 34% GDP, dưới ngưỡng cảnh báo. Chỉ số tài khóa lành mạnh tạo không gian cho Chính phủ tiếp tục chính sách kích thích kinh tế, hỗ trợ tăng trưởng dài hạn."
     }
   ]
 }
