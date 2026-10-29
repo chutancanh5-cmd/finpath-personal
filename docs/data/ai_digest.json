@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-29",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường nội tệ có sắc thái trung tính nhưng lo ngại từ ngành chứng khoán (lợi nhuận quý 3 giảm 42,9%, 9 tháng giảm 3%) được cân bằng bởi thành tích ngoại lệ của NCB (tăng 141,4%). Chính sách tích cực từ Thủ tướng (GDP 10%/năm) và Bộ Tài chính (FDI cần thiết, 21 tỷ USD 9 tháng, mục tiêu 30 tỷ/năm) tạo nền tảng dài hạn. Quốc tế hỗ trợ: Fed giữ lãi suất ổn định, chứng khoán Mỹ tăng 3 phiên liên tiếp.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường phục hồi một số tín hiệu tích cực từ vĩ mô: chính phủ đặt mục tiêu tăng GDP 10%+ và tái định hướng chiến lược FDI thành \"cùng đầu tư, cùng sáng tạo\"; các quỹ ETF lớn quay lại mua vàng, bạc sau nhịp giảm sâu. Tuy nhiên, sector chứng khoán chịu áp lực từ thanh khoản suy yếu—doanh thu tăng 22,9% nhưng lợi nhuận giảm 3%, và công ty DSC phải hạ mục tiêu lợi nhuận 57%. Ngân hàng TMCP Quốc Dân (NCB) là điểm sáng với lợi nhuận 9 tháng tăng 141,4%, trong khi FDI 9 tháng đạt 21 tỷ USD, hướng tới mục tiêu 30 tỷ USD năm.",
   "top": [
     {
-      "title": "Ngành chứng khoán suy giảm 42,9% lợi nhuận quý 3, cổ phiếu giảm 13% năm",
+      "title": "NCB xác lập kỷ lục lợi nhuận 1.574 tỷ đồng 9 tháng",
+      "impact": "↑",
+      "note": "Lợi nhuận sau thuế 9 tháng đạt gần 1.574 tỷ đồng (tăng 141,4% so với cùng kỳ 2025); quý 3 riêng 847 tỷ đồng (tăng 346% so với cùng kỳ). Thu nhập lãi thuần tăng 71%, TOI tăng 74% nhờ hoạt động tín dụng cốt lõi—tín hiệu mạnh cho ngân hàng và thị trường."
+    },
+    {
+      "title": "Sector chứng khoán chịu áp lực từ thanh khoản suy yếu",
       "impact": "↓",
-      "note": "78 công ty chứng khoán 9 tháng doanh thu tăng 22,9% nhưng lợi nhuận giảm 3% xuống 28.638 tỷ đồng, biên lợi nhuận thu hẹp từ 35,7% còn 28,2%. Quý 3 lợi nhuận giảm 42,9% xuống 8.600 tỷ đồng (thấp nhất 7 quý). Cổ phiếu chứng khoán từ đầu năm giảm 13% so VN-Index giảm 1%."
+      "note": "9 tháng 78 công ty chứng khoán tổng doanh thu 101.665 tỷ đồng (tăng 22,9%) nhưng lợi nhuận chỉ 28.638 tỷ (giảm 3%), biên lợi nhuận thu hẹp từ 35,7% xuống 28,2%. Quý 3 đặc biệt khó khăn với lợi nhuận giảm 42,9%, doanh thu cho vay ký quỹ tăng 54,1% nhưng cũng gia tăng rủi ro."
     },
     {
-      "title": "NCB lập kỷ lục lợi nhuận sau thuế 1.574 tỷ, tăng 141,4%",
-      "impact": "↑",
-      "note": "NCB 9 tháng 2026 lợi nhuận sau thuế đạt 1.574 tỷ đồng (tăng 141,4% YoY), kỷ lục cao nhất lịch sử. Quý 3 đạt 847 tỷ tăng 66% QoQ và 346% YoY. Thu nhập lãi thuần tăng 71%, huy động tiền gửi tăng 43,16% lên 188.879 tỷ đồng."
-    },
-    {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận sau quý 3 lao dốc",
+      "title": "Chứng khoán DSC hạ mục tiêu lợi nhuận 57% do quý 3 lao dốc",
       "impact": "↓",
-      "note": "DSC quý 3/2026 lợi nhuận trước thuế chỉ 4 tỷ đồng (giảm 98% YoY), mới thực hiện 27% kế hoạch năm. HĐQT hạ mục tiêu lợi nhuận từ 356 tỷ xuống 152 tỷ đồng, giảm doanh thu từ 747 tỷ xuống 640 tỷ. Chi phí tăng 25%."
+      "note": "Quý 3 lãi chỉ 4 tỷ đồng (giảm 98% so với cùng kỳ); HĐQT hạ mục tiêu lợi nhuận năm từ 356 tỷ xuống 152 tỷ đồng (giảm 57%). Tự doanh lỗ 2 tỷ, môi giới lỗ 3 tỷ, còn cho vay ghi nhận 74 tỷ nhưng chi phí lãi vay tăng 67% lên 69 tỷ đồng."
     },
     {
-      "title": "Thủ tướng: GDP 10%/năm, chuyển từ đầu tư tại VN sang cùng sáng tạo",
+      "title": "Thủ tướng đặt mục tiêu tăng GDP 10%+, nâng chuỗi giá trị toàn cầu",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng (28/10, Diễn đàn Kinh tế Mùa thu 2026) xác nhận VN bước vào giai đoạn phát triển bản lề, mục tiêu GDP 10%/năm trở lên. Đề xuất 4 chiến lược kêu gọi tập đoàn quốc tế chuyển từ \"đầu tư tại VN\" sang \"cùng đầu tư, cùng sáng tạo\" kiến tạo chuỗi giá trị mới."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa Thu (28/10) khẳng định Việt Nam tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để tạo chuỗi giá trị mới—chiến lược đáng chú ý cho FDI và tăng trưởng dài hạn."
     },
     {
-      "title": "Bộ trưởng Tài chính: FDI cần thiết cho tăng trưởng GDP 2 con số",
+      "title": "FDI 9 tháng 21 tỷ USD, mục tiêu năm 30 tỷ USD",
       "impact": "↑",
-      "note": "Bộ trưởng Ngô Văn Tuấn (24/10) khẳng định \"không thể tăng trưởng mà không cần FDI\". FDI 9 tháng 2026 đạt 21 tỷ USD, cả năm phấn đấu 30 tỷ USD. Để GDP 10%/năm cần tổng vốn đầu tư 40% GDP, nhu cầu vốn 2026-2030 tăng 2,67 lần."
+      "note": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn khẳng định FDI không thể thiếu cho tăng trưởng 10%, VN phấn đấu đạt 30 tỷ USD cả năm từ 21 tỷ USD 9 tháng. Nhu cầu vốn giai đoạn 2026-2030 tăng gấp 2,67 lần so với 2021-2025; tổng vốn đầu tư toàn xã hội cần đạt 40% GDP với hệ số ICOR giảm từ 6,4 xuống 4,5-4,8."
     },
     {
-      "title": "Chứng khoán Mỹ tăng 3 phiên liên tiếp, Fed giữ lãi suất ổn định",
+      "title": "Quỹ ETF lớn mua lại vàng, bạc sau nhịp giảm sâu",
       "impact": "↑",
-      "note": "S&P 500 tăng 0,28% lên 7.743,98 điểm, Nasdaq tăng 0,27% lên 26.549,85 điểm, Dow Jones tăng 0,19% (phiên 28/10). Fed giữ lãi suất 3,75-4%, Chủ tịch Kevin Warsh xác nhận tập trung ổn định giá và thị trường việc làm tích cực. Hỗ trợ tâm lý đầu tư toàn cầu."
+      "note": "SPDR Gold Trust mua thêm 1,7 tấn vàng (tổng 1.043 tấn), phiên thứ 2 liên tiếp; iShares Silver Trust mua 42 tấn bạc (tổng 15.542 tấn) ngày 28/10. Dòng tiền từ các quỹ ETF kim loại quý xuất hiện tín hiệu phục hồi sau chuỗi bán mạnh, hỗ trợ giá vàng, bạc ổn định trở lại."
     }
   ]
 }
