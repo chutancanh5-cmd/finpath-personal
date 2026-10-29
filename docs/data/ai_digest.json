@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-29",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay ghi nhận phiên giảm với VN-Index mất hơn 12 điểm, các cổ phiếu vừa và nhỏ điều chỉnh mạnh do thanh khoản suy yếu. Tuy nhiên, Thủ tướng công bố mục tiêu GDP tăng trưởng trên 10% là tín hiệu tích cực dài hạn. Nợ công ở mức 34% GDP vẫn ở mức vừa phải, nhưng các công ty chứng khoán gặp khó khăn khi DSC phải hạ 57% mục tiêu lợi nhuận.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chịu áp lực lớn khi VN-Index giảm liên tục, khối ngoại bán ròng 430 tỷ đồng, cổ phiếu vừa và nhỏ điều chỉnh mạnh (130 mã giảm sâu, thanh khoản sụt 23%). Tuy vậy, các tín hiệu chính sách lạc quan về mục tiêu GDP trên 10% và cơ hội phát triển kinh tế tầm thấp (10 tỷ USD vào 2035) gợi ý tiềm năng hồi phục dài hạn.",
   "top": [
     {
-      "title": "Cổ phiếu vừa và nhỏ điều chỉnh mạnh",
+      "title": "Khối ngoại bán ròng 430 tỷ đồng, VN-Index giảm 11 điểm phiên 29/10",
       "impact": "↓",
-      "note": "Rổ Midcap có 18 mã giảm trên 2% và 13 mã khác giảm 1-2%. Thanh khoản khớp lệnh HoSE chiều nay chỉ 5.436,6 tỷ đồng, giảm 23% so với sáng. Nhóm vốn hóa nhỏ chịu áp lực bán mạnh hơn nhóm vốn hóa lớn."
+      "note": "Khối NĐTNN bán ròng 430 tỷ đồng trên toàn thị trường, với TCB bị bán ròng mạnh nhất (~118 tỷ đồng), theo sau là FPT (~115 tỷ) và SSI (~79 tỷ). VN-Index đóng cửa giảm 11 điểm xuống 1.756 điểm, khiến dòng tiền ngoại rút khỏi các cổ phiếu công nghệ và tài chính lớn."
     },
     {
-      "title": "VN-Index kết phiên sáng giảm 12.12 điểm",
+      "title": "Cổ phiếu vừa và nhỏ điều chỉnh mạnh, 130 mã giảm sâu quá 1%",
       "impact": "↓",
-      "note": "VN-Index sáng 29/10 về 1.754,53 điểm. Sắc đỏ áp đảo với 388 mã giảm so với 184 mã tăng. Có 17 cổ phiếu giảm sàn, trong đó 3 mã dầu khí (PVT, PVP, PPT) tạo sức ép lớn. Ngành năng lượng giảm 4,05%."
+      "note": "Nhóm Midcap và smallcap ghi nhận 130 mã giảm sâu vượt 1%, với 18 cổ phiếu giảm trên 2% như PVT (−6,78%), PNJ (−6,41%), VSC (−4,83%). Thanh khoản sàn HoSE chiều nay chỉ 5.436,6 tỷ đồng, sụt giảm 23% so với phiên sáng, cho thấy sự chủ động của dòng tiền vô cùng yếu."
     },
     {
-      "title": "Chứng khoán DSC hạ 57% mục tiêu lợi nhuận năm",
+      "title": "VN-Index kết phiên sáng giảm 12.12 điểm, sắc đỏ áp đảo",
       "impact": "↓",
-      "note": "Quý 3/2026 DSC chỉ lãi trước thuế hơn 4 tỷ đồng, giảm 98% so với cùng kỳ. HĐQT hạ mục tiêu lợi nhuận từ 356 tỷ đồng xuống 152 tỷ đồng. Hoạt động tự doanh và môi giới đều lỗ gộp gần 5 tỷ đồng."
+      "note": "VN-Index kết phiên sáng tại 1.754,53 điểm, giảm 12.12 điểm, với 388 mã giảm so với chỉ 184 mã tăng. HNX-Index giảm 2.53 điểm về 257.33, UPCoM-Index giảm 1.52 điểm. Ngành năng lượng giảm 4,05%, công nghệ thông tin giảm 2,64%, đặc biệt 17 cổ phiếu dầu khí như PVT, PVP, PPT giảm sàn."
     },
     {
-      "title": "Thủ tướng: Việt Nam quyết tâm đạt GDP tăng 10%+",
+      "title": "Chứng khoán DSC hạ 57% mục tiêu lợi nhuận năm 2026",
+      "impact": "↓",
+      "note": "Quý 3 lãi chỉ 4 tỷ đồng (giảm 98% so với cùng kỳ), HĐQT hạ mục tiêu lợi nhuận từ 356 tỷ xuống 152 tỷ đồng. Chi phí lãi vay tăng 67% lên 69 tỷ, giá vốn hàng bán tăng nhanh hơn doanh thu (−14%), hoạt động tự doanh và môi giới cùng lỗ gộp khoảng 5 tỷ đồng."
+    },
+    {
+      "title": "Thủ tướng: Việt Nam quyết tâm đạt tăng trưởng GDP trên 10%/năm",
       "impact": "↑",
-      "note": "Tại Diễn đàn Kinh tế Mùa Thu 2026 ngày 28/10, Thủ tướng Lê Minh Hưng khẳng định mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất chuyển từ mô hình 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với tập đoàn quốc tế."
+      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa Thu 2026 ngày 28/10, Thủ tướng Lê Minh Hưng khẳng định Việt Nam bước vào giai đoạn phát triển bản lề với mục tiêu GDP bình quân từ 10%/năm trở lên, đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' kêu gọi các tập đoàn quốc tế hợp tác lâu dài."
     },
     {
-      "title": "Nợ công Việt Nam ở mức 34% GDP",
-      "impact": "→",
-      "note": "Thủ tướng thông tin tại Diễn đàn Kinh tế mùa Thu 2026 rằng nợ công hiện ở khoảng 34% GDP. Mức này được đánh giá là vừa phải, đảm bảo bền vững tài khóa trong bối cảnh các cú sốc địa kinh tế gia tăng."
-    },
-    {
-      "title": "Casino RIC thua lỗ quý 2 liên tiếp",
-      "impact": "↓",
-      "note": "RIC (vận hành Casino Royal Hạ Long) quý 3 thua lỗ lần 2 liên tiếp, lỗ lũy kế hơn 600 tỷ đồng. Dù doanh thu casino tăng 27% lên 25,2 tỷ đồng nhưng bộ phận trò chơi có thưởng lỗ gần 10 tỷ, trái ngược lãi 3,5 tỷ năm trước."
+      "title": "Kinh tế tầm thấp (UAV) sẽ đạt 10 tỷ USD vào 2035",
+      "impact": "↑",
+      "note": "Phó Viện trưởng Viện Phát triển không gian tầm thấp nêu thị trường dịch vụ kinh tế tầm thấp toàn cầu đạt khoảng 128 tỷ USD vào 2030, trong đó Việt Nam dự báo thị trường thiết bị UAV đạt 10 tỷ USD vào 2035. Hiện Việt Nam đã có 3.000 drone hoạt động phục vụ nông nghiệp, mở ra cơ hội công nghệ và xuất khẩu lớn."
     }
   ]
 }
