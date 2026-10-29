@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán ngày 29/10 chịu áp lực bán mạnh từ khối ngoại và tự doanh, với VN-Index giảm 11,04 điểm (-0,62%) và dòng tiền ròng âm gần 825 tỷ đồng. Nhóm dầu khí suy yếu đáng kể với BSR giảm 3,83%, PLX giảm 3,82%, và PPT giảm sàn lần thứ 8 liên tiếp (mất 56% giá trị trong 8 phiên). Tuy nhiên, Chính phủ vẫn duy trì mục tiêu tăng trưởng GDP trên 10%/năm và nợ công ở mức quản lý được (34% GDP), tạo mặt tích cực cho triển vọng dài hạn. Nhà đầu tư cần theo dõi vùng hỗ trợ 1.740 điểm vì rủi ro điều chỉnh sâu hơn đang tăng.",
+  "summary_vi": "Thị trường chứng khoán gặp áp lực bán mạnh từ khối ngoại và tự doanh (bán ròng 825 tỷ đồng), VN-Index giảm 11 điểm với 430 mã giảm giá, đặc biệt nhóm dầu khí và bất động sản suy yếu. Mặc dù xuất nhập khẩu đạt kỷ lục 1.010,6 tỷ USD (+32,3%) và Thủ tướng đề ra mục tiêu GDP 10%/năm, rủi ro ngắn hạn vẫn lớn khi doanh nghiệp lớn hạ mục tiêu lợi nhuận (DSC giảm 57%) và bán áp lực từ cổ phiếu lớn như VHM (-2,2%), TCB (-89 tỷ khối bán).",
   "top": [
     {
-      "title": "VN-Index giảm 11,04 điểm, kiểm định vùng hỗ trợ 1.740 điểm",
-      "impact": "↓",
-      "note": "Chỉ số giảm 0,62% về 1.755,61 điểm với 215 mã giảm giá vượt trội so với 97 mã tăng. RSI hình thành đỉnh sau thấp hơn và đảo chiều giảm, MACD tiến sát ngưỡng 0. Rủi ro điều chỉnh ngắn hạn gia tăng nếu mất vùng 1.740 điểm."
-    },
-    {
-      "title": "Khối ngoại liên tiếp bán ròng 429,9 tỷ đồng",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 429,9 tỷ trên toàn thị trường, riêng khớp lệnh bán ròng 531,3 tỷ đồng. Lực bán tập trung ở TCB (118 tỷ), FPT (115 tỷ), SSI (79 tỷ), phản ánh nhà đầu tư nước ngoài cảnh báo với thị trường."
-    },
-    {
-      "title": "Tự doanh và khối ngoại cùng bán ròng 825 tỷ đồng",
-      "impact": "↓",
-      "note": "Dòng tiền ròng âm với tự doanh bán 282 tỷ đồng, khối ngoại bán 540 tỷ đồng. TCB bị bán ròng mạnh nhất 89 tỷ từ tự doanh, GAS bị bán 42 tỷ, NT2 bị bán 36 tỷ đồng."
-    },
-    {
-      "title": "Ngành dầu khí suy yếu mạnh, PPT giảm sàn lần 8 liên tiếp",
-      "impact": "↓",
-      "note": "BSR giảm 3,83%, PLX giảm 3,82%, OIL giảm 2,31%. Petro Times (PPT) giảm từ 15.000 xuống 6.600 đ/cổ (giảm 56% trong 8 phiên), vốn hóa bốc hơi từ 265 tỷ xuống 130 tỷ đồng, mất hơn 135 tỷ đồng trong thời gian ngắn."
-    },
-    {
-      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
+      "title": "XNK vượt kỷ lục 1.000 tỷ USD, xuất khẩu tăng 27,4%",
       "impact": "↑",
-      "note": "Tại Diễn đàn Kinh tế Mùa Thu 2026, Thủ tướng Lê Minh Hưng khẳng định Việt Nam đặt mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, đồng thời đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới toàn cầu."
+      "note": "10 tháng 2026, XNK đạt 1.010,6 tỷ USD tăng 32,3% YoY; riêng tháng 10 ước 122,2 tỷ USD (+47,6%); xuất khẩu 499 tỷ USD tăng 27,4%, dự kiến hoàn thành mục tiêu 15-16% cả năm."
     },
     {
-      "title": "Nợ công Việt Nam ở mức 34% GDP, khả năng chống chịu được nhấn mạnh",
-      "impact": "→",
-      "note": "Thủ tướng công bố nợ công ở mức khoảng 34% GDP, đồng thời nhấn mạnh cần phát triển khả năng chống chịu trước các cú sốc địa kinh tế, chu kỳ công nghệ và áp lực khí hậu gia tăng trong kỷ nguyên bất định."
+      "title": "Khối ngoại và tự doanh bán ròng 825 tỷ đồng",
+      "impact": "↓",
+      "note": "Phiên 29/10, khối ngoại bán ròng 540 tỷ đồng, tự doanh bán ròng 282 tỷ đồng; lực bán tập trung vào TCB (khối ngoại 118 tỷ, tự doanh 90 tỷ), FPT (115 tỷ), GAS (42 tỷ)."
+    },
+    {
+      "title": "VN-Index giảm 11 điểm, 430 mã giảm giá",
+      "impact": "↓",
+      "note": "VN-Index đóng cửa 1.755,61 điểm (-0,62%); độ rộng nghiêng tiêu cực 430 mã giảm vs 245 mã tăng; 18 mã giảm sàn gồm PVT, PVP, PPT; VHM giảm 2,2%, BSR -3,83%, GAS -2,19%."
+    },
+    {
+      "title": "PPT rơi 56% trong 8 phiên liên tiếp",
+      "impact": "↓",
+      "note": "Cổ phiếu PPT (Petro Times) giảm từ 15.000 xuống 6.600 đồng (-56%) từ 20-29/10; vốn hóa mất từ 265 tỷ xuống 130 tỷ đồng; doanh nghiệp cho đây là do quan hệ cung cầu thị trường."
+    },
+    {
+      "title": "Thủ tướng: Mục tiêu GDP tăng 10%/năm",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại WEF (28/10) mục tiêu tăng trưởng GDP từ 10% bình quân/năm trở lên; chiến lược R&D và đổi mới sáng tạo, chuyển sang mô hình cùng đầu tư, cùng sáng tạo."
+    },
+    {
+      "title": "DSC hạ 57% mục tiêu lợi nhuận năm 2026",
+      "impact": "↓",
+      "note": "DSC hạ mục tiêu lãi từ 356 tỷ xuống 152 tỷ đồng (-57%); quý 3/2026 chỉ lãi 4 tỷ đồng (-98% YoY); hoàn thành 27% kế hoạch sau 9 tháng; chi phí lãi vay tăng 67%."
     }
   ]
 }
