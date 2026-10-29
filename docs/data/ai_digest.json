@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-29",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Phiên 29/10 diễn ra khó khăn với dòng tiền rút lui (thanh khoảnh chiều sụt 23%), VN-Index giảm 11.04 điểm. Nhóm dầu khí bị bán mạnh (PVT, PVP, PPT giảm sàn) sau tăng mạnh 40-60% trước đó. Áp lực Fed vẫn để ngỏ tăng lãi suất tháng 12 ảnh hưởng tỷ giá; ngành chứng khoán yếu (DSC hạ mục tiêu 57%). Tuy Thủ tướng công bố mục tiêu tăng trưởng GDP 10%/năm nhưng dòng tiền chưa hồi phục, nhóm vốn hóa nhỏ điều chỉnh mạnh hơn.",
+  "summary_vi": "Thị trường ghi nhận phiên giảm sâu với VN-Index giảm 11.04 điểm về 1,755.61, rộng rãi 430 mã giảm giá trước 245 mã tăng. Nhóm dầu khí sụt mạnh (PVT, PVP, PPT giảm sàn) sau tăng 40-60% trước đó, dòng tiền rút lui mạnh chiều (thanh khoảnh giảm 23%). Áp lực từ Fed vẫn để ngỏ tăng lãi suất tháng 12 tác động tỷ giá và dòng vốn; ngành chứng khoán yếu với DSC hạ mục tiêu lợi nhuận 57%. Bất động sản phải huy động vốn gấp (Vinhomes huy động 2 nghìn tỷ trái phiếu). Mặc dù Thủ tướng cam kết tăng trưởng GDP 10%/năm, áp lực điều chỉnh vẫn áp đảo.",
   "top": [
+    {
+      "title": "Nhóm dầu khí sụt giảm sàn, PVT/PVP/PPT limit down",
+      "impact": "↓",
+      "note": "PVT, PVP, PPT cùng giảm sàn; PVS -4,69%, BSR -3,83%, PLX -3,82%, GAS -2,2%, OIL -2,31%. Áp lực bán rộng rãi từ các doanh nghiệp lọc hóa dầu, phân phối, vận tải. PVT tăng gần 60% từ cuối tháng 7 đến đầu tháng 10, BSR/GAS tăng khoảng 40%. Chốt lời gia tăng sau giai đoạn tăng nhanh, dòng tiền dịch chuyển giữa các ngành."
+    },
+    {
+      "title": "VN-Index giảm 11.04 điểm, 430 mã giảm giá",
+      "impact": "↓",
+      "note": "VN-Index khép phiên tại 1,755.61 điểm (giảm 11.04 điểm); HNX-Index 256.61 điểm (giảm 3.25 điểm); UPCoM-Index 124.1 điểm (giảm 1.64 điểm). Ghi nhận 430 mã giảm, 245 mã tăng; 18 mã giảm sàn. Giá trị giao dịch ~15.7 ngàn tỷ đồng. Thanh khoản chiều sụt giảm 23% so với sáng (6.9 vs 8.8 ngàn tỷ)."
+    },
     {
       "title": "Fed để ngỏ tăng lãi suất tháng 12",
       "impact": "↓",
-      "note": "Fed giữ biên độ lãi suất 3,75–4% nhưng để ngỏ khả năng tăng vào tháng 12/2026. Tác động chính là tỷ giá và dòng vốn ngoại cho Việt Nam; yêu cầu ổn định tỷ giá, kiểm soát lạm phát."
+      "note": "Fed cuộc họp 28/10 giữ biên độ 3,75–4%, để ngỏ tăng vào tháng 12. Tác động chủ yếu: tỷ giá, kỳ vọng nhà đầu tư về USD. Bài toán Việt Nam: ổn định tỷ giá, kiểm soát lạm phát, hạn chế tâm lý nắm giữ ngoại tệ từ nay đến cuối năm."
     },
     {
-      "title": "VN-Index giảm 11.04 điểm, dòng tiền rút lui mạnh",
+      "title": "DSC hạ 57% mục tiêu lợi nhuận, Q3 chỉ lãi 4 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 11.04 điểm về 1,755.61 điểm; thanh khoảnh chiều sụt 23% so với sáng (6,9 vs 8,8 ngàn tỷ đồng). 430 mã giảm, 245 mã tăng; 18 mã giảm sàn."
+      "note": "Chứng khoán DSC hạ mục tiêu lãi trước thuế năm 2026 từ 356 tỷ xuống 152 tỷ đồng. Quý 3 lãi trước thuế hơn 4 tỷ đồng (giảm 98% so với cùng kỳ), thực hiện 27% kế hoạch năm. Tự doanh lỗ gần 2 tỷ, môi giới lỗ hơn 3 tỷ, chi phí lãi vay tăng 67% lên hơn 69 tỷ đồng."
     },
     {
-      "title": "Nhóm dầu khí bị bán mạnh, 3 cái tên giảm sàn",
+      "title": "Vinhomes huy động 2 nghìn tỷ trái phiếu 36 tháng",
       "impact": "↓",
-      "note": "PVT, PVP, PPT giảm sàn. PVT tăng 60% từ cuối 7/2026 - 10/2026, BSR/GAS tăng 40% trước đó. Chốt lời gia tăng; dòng tiền dịch chuyển giữa các nhóm ngành."
+      "note": "Vinhomes phê duyệt phát hành 2 nghìn tỷ đồng trái phiếu riêng lẻ (mệnh giá 100 triệu/trái phiếu, 36 tháng, có bảo đảm tài sản, lãi suất kết hợp). Cộng phát hành 8 nghìn tỷ trái phiếu 24/9/2026 (đáo hạn 24/9/2028). Tín hiệu nhu cầu huy động cấp bách trong bất động sản."
     },
     {
-      "title": "DSC hạ mục tiêu lợi nhuận 2026 từ 356 tỷ xuống 152 tỷ đồng",
-      "impact": "↓",
-      "note": "Giảm 57% so với kế hoạch cũ. Quý 3/2026 lãi 4 tỷ đồng (giảm 98% YoY), thực hiện 27% kế hoạch năm. Tự doanh và môi giới lỗ gộp; chi phí lãi vay tăng 67%."
-    },
-    {
-      "title": "Thủ tướng công bố mục tiêu tăng trưởng GDP 10%/năm",
+      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng công bố tại Diễn đàn Kinh tế Mùa thu 2026 (28/10) mục tiêu tăng trưởng GDP 10%/năm, trở thành trung tâm R&D toàn cầu. Đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'."
-    },
-    {
-      "title": "Cổ phiếu vừa và nhỏ điều chỉnh mạnh, Midcap tổn hại nặng",
-      "impact": "↓",
-      "note": "Rổ Midcap có 18 mã giảm >2%: PVT -6,78%, PNJ -6,41%, VSC -4,83%, PLX -3,82%. VN30 chỉ có 7 mã trong 130 mã giảm >1%. Thanh khoảnh HoSE chiều giảm 23% so với sáng."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10) cam kết tăng trưởng GDP bình quân từ 10%/năm trở lên, trở thành trung tâm R&D toàn cầu. Đề xuất 4 chiến lược: chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'. Công bố nợ công khoảng 34% GDP (kiểm soát tốt)."
     }
   ]
 }
