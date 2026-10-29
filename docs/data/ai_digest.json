@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-29",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường phục hồi một số tín hiệu tích cực từ vĩ mô: chính phủ đặt mục tiêu tăng GDP 10%+ và tái định hướng chiến lược FDI thành \"cùng đầu tư, cùng sáng tạo\"; các quỹ ETF lớn quay lại mua vàng, bạc sau nhịp giảm sâu. Tuy nhiên, sector chứng khoán chịu áp lực từ thanh khoản suy yếu—doanh thu tăng 22,9% nhưng lợi nhuận giảm 3%, và công ty DSC phải hạ mục tiêu lợi nhuận 57%. Ngân hàng TMCP Quốc Dân (NCB) là điểm sáng với lợi nhuận 9 tháng tăng 141,4%, trong khi FDI 9 tháng đạt 21 tỷ USD, hướng tới mục tiêu 30 tỷ USD năm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường ghi nhận những tín hiệu trái chiều: từ phía tích cực, ngân hàng NCB đạt lợi nhuận kỷ lục tăng 141,4% và chính phủ đặt mục tiêu GDP trên 10%/năm cùng chiến lược R&D toàn cầu; song đối mặt với sức ép từ thanh khoản yếu, lợi nhuận ngành chứng khoán giảm 3% và công ty DSC hạ mục tiêu 57%, đồng thời lãi suất gửi tiết kiệm tại một số ngân hàng xuống mức cực thấp, khiến triển vọng ngắn hạn vẫn còn bấp bênh.",
   "top": [
     {
-      "title": "NCB xác lập kỷ lục lợi nhuận 1.574 tỷ đồng 9 tháng",
+      "title": "NCB lập kỷ lục lợi nhuận 1.574 tỷ đồng 9 tháng, tăng 141,4%",
       "impact": "↑",
-      "note": "Lợi nhuận sau thuế 9 tháng đạt gần 1.574 tỷ đồng (tăng 141,4% so với cùng kỳ 2025); quý 3 riêng 847 tỷ đồng (tăng 346% so với cùng kỳ). Thu nhập lãi thuần tăng 71%, TOI tăng 74% nhờ hoạt động tín dụng cốt lõi—tín hiệu mạnh cho ngân hàng và thị trường."
+      "note": "Lợi nhuận sau thuế 9 tháng 2026 đạt gần 1.574 tỷ đồng, tăng 141,4% so với cùng kỳ 2025; riêng quý 3 lãi 847 tỷ đồng, tăng 346% cùng kỳ. Thu nhập lãi thuần tăng 71%, TOI tăng 74%; tiền gửi khách hàng tăng 43,16%, Casa tăng hơn 19.536 tỷ—tín hiệu mạnh từ hoạt động tín dụng cốt lõi."
     },
     {
-      "title": "Sector chứng khoán chịu áp lực từ thanh khoản suy yếu",
+      "title": "Sector chứng khoán chịu áp lực sâu từ thanh khoản yếu",
       "impact": "↓",
-      "note": "9 tháng 78 công ty chứng khoán tổng doanh thu 101.665 tỷ đồng (tăng 22,9%) nhưng lợi nhuận chỉ 28.638 tỷ (giảm 3%), biên lợi nhuận thu hẹp từ 35,7% xuống 28,2%. Quý 3 đặc biệt khó khăn với lợi nhuận giảm 42,9%, doanh thu cho vay ký quỹ tăng 54,1% nhưng cũng gia tăng rủi ro."
+      "note": "9 tháng 78 công ty chứng khoán tổng doanh thu 101.665 tỷ đồng (tăng 22,9%) nhưng lợi nhuận chỉ 28.638 tỷ (giảm 3%). Quý 3 đặc biệt khó khăn: lợi nhuận chỉ 8.600 tỷ, giảm 42,9% cùng kỳ, biên lợi nhuận xuống 24% (thấp nhất 7 quý). Tự doanh lỗ gộp, môi giới lỗ gộp, cho vay ký quỹ tăng 54,1% nhưng tăng rủi ro."
     },
     {
-      "title": "Chứng khoán DSC hạ mục tiêu lợi nhuận 57% do quý 3 lao dốc",
+      "title": "Chứng khoán DSC hạ mục tiêu lợi nhuận 57%, quý 3 chỉ lãi 4 tỷ",
       "impact": "↓",
-      "note": "Quý 3 lãi chỉ 4 tỷ đồng (giảm 98% so với cùng kỳ); HĐQT hạ mục tiêu lợi nhuận năm từ 356 tỷ xuống 152 tỷ đồng (giảm 57%). Tự doanh lỗ 2 tỷ, môi giới lỗ 3 tỷ, còn cho vay ghi nhận 74 tỷ nhưng chi phí lãi vay tăng 67% lên 69 tỷ đồng."
+      "note": "Quý 3/2026 lãi trước thuế chỉ hơn 4 tỷ đồng, giảm 98% cùng kỳ. HĐQT hạ mục tiêu lợi nhuận 2026 từ 356 tỷ xuống 152 tỷ đồng (giảm 57%); hạ doanh thu từ 747 tỷ còn 640 tỷ (giảm 14%). Tự doanh lỗ gần 2 tỷ, môi giới lỗ hơn 3 tỷ, cho vay 74 tỷ nhưng chi phí lãi vay tăng 67%."
     },
     {
-      "title": "Thủ tướng đặt mục tiêu tăng GDP 10%+, nâng chuỗi giá trị toàn cầu",
+      "title": "Thủ tướng cam kết GDP trên 10%/năm, trung tâm R&D toàn cầu",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa Thu (28/10) khẳng định Việt Nam tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để tạo chuỗi giá trị mới—chiến lược đáng chú ý cho FDI và tăng trưởng dài hạn."
+      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa Thu (28/10), Thủ tướng Lê Minh Hưng khẳng định Việt Nam phát triển bản lề với mục tiêu tăng trưởng GDP bình quân từ 10%/năm, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' kiến tạo chuỗi giá trị mới toàn cầu—chiến lược dài hạn hỗ trợ FDI."
     },
     {
-      "title": "FDI 9 tháng 21 tỷ USD, mục tiêu năm 30 tỷ USD",
+      "title": "Chứng khoán Mỹ tăng 3 phiên liên tiếp, Fed giữ lãi suất 3,75-4%",
       "impact": "↑",
-      "note": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn khẳng định FDI không thể thiếu cho tăng trưởng 10%, VN phấn đấu đạt 30 tỷ USD cả năm từ 21 tỷ USD 9 tháng. Nhu cầu vốn giai đoạn 2026-2030 tăng gấp 2,67 lần so với 2021-2025; tổng vốn đầu tư toàn xã hội cần đạt 40% GDP với hệ số ICOR giảm từ 6,4 xuống 4,5-4,8."
+      "note": "S&P 500 tăng 0,28% lên 7.743,98 điểm, Nasdaq tăng 0,27%, Dow Jones tăng 0,19%. Đây là phiên tăng thứ 3 liên tiếp sau quyết định Fed giữ nguyên lãi suất 3,75-4%. Chủ tịch Fed Kevin Warsh đánh giá thị trường việc làm 'khá tích cực', không loại trừ tiếp tục tăng lãi suất 0,25 điểm phần trăm."
     },
     {
-      "title": "Quỹ ETF lớn mua lại vàng, bạc sau nhịp giảm sâu",
-      "impact": "↑",
-      "note": "SPDR Gold Trust mua thêm 1,7 tấn vàng (tổng 1.043 tấn), phiên thứ 2 liên tiếp; iShares Silver Trust mua 42 tấn bạc (tổng 15.542 tấn) ngày 28/10. Dòng tiền từ các quỹ ETF kim loại quý xuất hiện tín hiệu phục hồi sau chuỗi bán mạnh, hỗ trợ giá vàng, bạc ổn định trở lại."
+      "title": "Lãi suất gửi tiết kiệm tại SCB chỉ 0,01-0,68%/năm, thấp kỷ lục",
+      "impact": "↓",
+      "note": "SCB niêm yết lãi suất không kỳ hạn chỉ 0,01%/năm, kỳ hạn 1-5 tháng 0,08%, 6-11 tháng 0,48%, 24-36 tháng 0,68%—giảm mạnh so với trước. Lãi suất của SCB thấp hơn nhóm ngân hàng có vốn Nhà nước khoảng 5% và thấp hơn ngân hàng tư nhân tới 7%, tín hiệu áp lực lợi nhuận."
     }
   ]
 }
