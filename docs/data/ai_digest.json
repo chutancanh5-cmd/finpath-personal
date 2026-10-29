@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-29",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường ghi nhận phiên giảm sâu với VN-Index giảm 11.04 điểm về 1,755.61, rộng rãi 430 mã giảm giá trước 245 mã tăng. Nhóm dầu khí sụt mạnh (PVT, PVP, PPT giảm sàn) sau tăng 40-60% trước đó, dòng tiền rút lui mạnh chiều (thanh khoảnh giảm 23%). Áp lực từ Fed vẫn để ngỏ tăng lãi suất tháng 12 tác động tỷ giá và dòng vốn; ngành chứng khoán yếu với DSC hạ mục tiêu lợi nhuận 57%. Bất động sản phải huy động vốn gấp (Vinhomes huy động 2 nghìn tỷ trái phiếu). Mặc dù Thủ tướng cam kết tăng trưởng GDP 10%/năm, áp lực điều chỉnh vẫn áp đảo.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận phiên điều chỉnh mạnh với VN-Index giảm 11.04 điểm. Nhóm dầu khí chịu áp lực bán mạnh (PVT, PVP, PPT giảm sàn) sau giai đoạn tăng 40-60%, kéo theo hoạt động chốt lời rộng rãi. Dòng tiền suy yếu đột biến, bên mua mất tính chủ động, thanh khoản phiên chiều sụt 23%, cho thấy nhịp điều chỉnh chưa kết thúc. Áp lực từ Fed (giữ lãi suất 3,75-4%, khả năng tăng tháng 12) và suy yếu kinh doanh của các công ty chứng khoán (DSC hạ 57% mục tiêu lợi nhuận) tạo thêm rủi ro ngắn hạn cho thị trường.",
   "top": [
     {
-      "title": "Nhóm dầu khí sụt giảm sàn, PVT/PVP/PPT limit down",
+      "title": "Nhóm dầu khí giảm sàn, chốt lời sau tăng 40-60%",
       "impact": "↓",
-      "note": "PVT, PVP, PPT cùng giảm sàn; PVS -4,69%, BSR -3,83%, PLX -3,82%, GAS -2,2%, OIL -2,31%. Áp lực bán rộng rãi từ các doanh nghiệp lọc hóa dầu, phân phối, vận tải. PVT tăng gần 60% từ cuối tháng 7 đến đầu tháng 10, BSR/GAS tăng khoảng 40%. Chốt lời gia tăng sau giai đoạn tăng nhanh, dòng tiền dịch chuyển giữa các ngành."
+      "note": "PVT, PVP, PPT giảm hết biên độ hôm 29/10; BSR giảm 3.83%, PLX giảm 3.82%, OIL giảm 2.31%, GAS giảm 2.2%. Sau giai đoạn từ cuối tháng 7 đến đầu tháng 10, PVT tăng gần 60%, BSR và GAS tăng 40%. Hoạt động chốt lời khiến dòng tiền dịch chuyển sang nhóm ngành khác."
     },
     {
-      "title": "VN-Index giảm 11.04 điểm, 430 mã giảm giá",
+      "title": "VN-Index giảm 11.04 điểm, 430 mã giảm áp đảo",
       "impact": "↓",
-      "note": "VN-Index khép phiên tại 1,755.61 điểm (giảm 11.04 điểm); HNX-Index 256.61 điểm (giảm 3.25 điểm); UPCoM-Index 124.1 điểm (giảm 1.64 điểm). Ghi nhận 430 mã giảm, 245 mã tăng; 18 mã giảm sàn. Giá trị giao dịch ~15.7 ngàn tỷ đồng. Thanh khoản chiều sụt giảm 23% so với sáng (6.9 vs 8.8 ngàn tỷ)."
+      "note": "Kết phiên 29/10, VN-Index dừng tại 1,755.61 điểm (giảm 11.04); HNX-Index giảm 3.25 điểm về 256.61; giá trị giao dịch 15.7 ngàn tỷ đồng. Có 430 mã giảm giá, 245 mã tăng, 18 mã giảm sàn chủ yếu từ nhóm dầu khí (PVT, PVP, PPT)."
     },
     {
-      "title": "Fed để ngỏ tăng lãi suất tháng 12",
+      "title": "Dòng tiền rút lui, thanh khoản phiên chiều giảm 23%",
       "impact": "↓",
-      "note": "Fed cuộc họp 28/10 giữ biên độ 3,75–4%, để ngỏ tăng vào tháng 12. Tác động chủ yếu: tỷ giá, kỳ vọng nhà đầu tư về USD. Bài toán Việt Nam: ổn định tỷ giá, kiểm soát lạm phát, hạn chế tâm lý nắm giữ ngoại tệ từ nay đến cuối năm."
+      "note": "Phiên chiều 29/10, thanh khoản khớp lệnh HoSE chỉ 5.436,6 tỷ đồng (không tính thỏa thuận), giảm 23% so với phiên sáng 8.8 ngàn tỷ. Bên mua hoàn toàn thụ động, dòng tiền rút xuống các mức giá thấp. Sự thay đổi này báo hiệu nhịp điều chỉnh vẫn chưa kết thúc."
     },
     {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận, Q3 chỉ lãi 4 tỷ đồng",
+      "title": "Cổ phiếu Midcap điều chỉnh mạnh, thanh khoản hàng trăm tỷ",
       "impact": "↓",
-      "note": "Chứng khoán DSC hạ mục tiêu lãi trước thuế năm 2026 từ 356 tỷ xuống 152 tỷ đồng. Quý 3 lãi trước thuế hơn 4 tỷ đồng (giảm 98% so với cùng kỳ), thực hiện 27% kế hoạch năm. Tự doanh lỗ gần 2 tỷ, môi giới lỗ hơn 3 tỷ, chi phí lãi vay tăng 67% lên hơn 69 tỷ đồng."
+      "note": "Rổ Midcap xuất hiện hàng loạt cổ phiếu giảm mạnh: PVT giảm 6.78%, VSC giảm 4.83%, PLX giảm 3.82%, PNJ giảm 6.41%, NVL giảm 1.43%, VPI giảm 1.03%, GMD giảm 2.78%. Nhóm vốn hóa nhỏ tổn hại nặng hơn với 18 mã giảm vượt 2% và 13 mã giảm 1-2%."
     },
     {
-      "title": "Vinhomes huy động 2 nghìn tỷ trái phiếu 36 tháng",
+      "title": "Chứng khoán DSC hạ 57% mục tiêu lợi nhuận năm 2026",
       "impact": "↓",
-      "note": "Vinhomes phê duyệt phát hành 2 nghìn tỷ đồng trái phiếu riêng lẻ (mệnh giá 100 triệu/trái phiếu, 36 tháng, có bảo đảm tài sản, lãi suất kết hợp). Cộng phát hành 8 nghìn tỷ trái phiếu 24/9/2026 (đáo hạn 24/9/2028). Tín hiệu nhu cầu huy động cấp bách trong bất động sản."
+      "note": "Sau quý 3 chỉ lãi trước thuế 4 tỷ đồng (giảm 98% YoY), DSC thực hiện 27% kế hoạch năm. HĐQT hạ mục tiêu lãi từ 356 tỷ xuống 152 tỷ đồng (giảm 57%), hạ doanh thu từ 747 tỷ còn 640 tỷ, đồng thời chi phí tăng 25%. Hoạt động tự doanh và môi giới đều lỗ gộp."
     },
     {
-      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10) cam kết tăng trưởng GDP bình quân từ 10%/năm trở lên, trở thành trung tâm R&D toàn cầu. Đề xuất 4 chiến lược: chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'. Công bố nợ công khoảng 34% GDP (kiểm soát tốt)."
+      "title": "Fed giữ lãi suất, áp lực tỷ giá và dòng vốn ngoài",
+      "impact": "↓",
+      "note": "Ngày 28/10, Fed giữ nguyên biên độ lãi suất 3,75-4%, khả năng tăng tháng 12 vẫn để ngỏ. Theo PGS.TS. Nguyễn Văn Phương (Đại học Kinh tế, Hà Nội), bài toán Việt Nam từ nay đến cuối năm là giảm chi phí vốn, ổn định tỷ giá, kiểm soát lạm phát, hạn chế tâm lý nắm giữ ngoại tệ. Kỳ vọng tăng lãi tháng 12 tạo áp lực lên dòng vốn."
     }
   ]
 }
