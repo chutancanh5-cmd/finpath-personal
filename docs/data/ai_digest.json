@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-29",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán gặp áp lực ngắn hạn từ khối ngoại bán ròng mạnh (605,2 tỷ đồng) và DSC hạ mục tiêu lợi nhuận 57%, nhưng tín hiệu dài hạn tích cực từ chính sách tăng trưởng GDP > 10% của Thủ tướng, NCB báo cáo lợi nhuận kỷ lục (+141,4% YoY), và tiềm năng phát triển lĩnh vực kinh tế không gian tầm thấp (UAV dự báo 10 tỷ USD năm 2035). Rủi ro ngắn hạn từ sức ép bán tháo khu vực do lo ngại Indonesia bị MSCI hạ hạng.",
+  "summary_vi": "Khối ngoại bán ròng mạnh 605,2 tỷ đồng tạo áp lực lên thị trường, 119 mã giảm quá 1%, phản ánh lo ngại rủi ro khu vực do Indonesia cảnh báo MSCI (JCI giảm 35% YoY). Tuy nhiên, NCB lập kỷ lục lãi 1.574 tỷ đồng (tăng 141,4%) và chính phủ cam kết tăng trưởng GDP 10%/năm, mở cơ hội lâu dài trong lĩnh vực UAV/drone (dự báo 10 tỷ USD năm 2035). Thị trường cân bằng giữa áp lực bán ngắn hạn từ nước ngoài và kỳ vọng tăng trưởng dài hạn.",
   "top": [
     {
-      "title": "NCB lập kỷ lục lợi nhuận 9 tháng năm 2026",
-      "impact": "↑",
-      "note": "9 tháng lợi nhuận sau thuế đạt gần 1.574 tỷ đồng, tăng 141,4% so với cùng kỳ 2025. Riêng quý 3 lãi 847 tỷ đồng (tăng 346% YoY). Thu nhập lãi thuần tăng 71%, tổng huy động tiền gửi tăng 43,16% lên hơn 188.879 tỷ đồng, cho thấy ngành ngân hàng vẫn có động lực tăng trưởng mạnh."
-    },
-    {
-      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10% hàng năm",
-      "impact": "↑",
-      "note": "Tại WEF, Thủ tướng Lê Minh Hưng xác định mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên và đề xuất chuyển từ mô hình \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" để kiến tạo chuỗi giá trị mới toàn cầu, tập trung vào phát triển R&D và đổi mới sáng tạo."
-    },
-    {
-      "title": "Khối ngoại bán ròng mạnh, áp lực bán tăng vọt",
+      "title": "Khối ngoại bán ròng 605 tỷ, áp lực giảm giá diện rộng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 605,2 tỷ đồng (gấp 2,3 lần hôm trước), tổng xả hơn 1.156 tỷ đồng trên HoSE là mức cao nhất 4 tuần. Động thái rút vốn ở diện rộng, 119 mã cổ phiếu giảm quá 1% bất chấp VN-Index chỉ giảm 0,69%, cho thấy sức ép bán rất mạnh ngay từ 10h sáng."
+      "note": "Nhà đầu tư nước ngoài xả 1.156 tỷ đồng trên HoSE, bán ròng -605,2 tỷ (gấp 2,3 lần hôm trước). 119 mã giảm quá 1%, 68% mã chốt ở giá thấp nhất, sức ép bán duy trì liên tục ở diện rộng."
     },
     {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận năm 2026",
-      "impact": "↓",
-      "note": "Sau quý 3 chỉ lãi 4 tỷ đồng (giảm 98% YoY), thực hiện 27% kế hoạch sau 9 tháng, HĐQT hạ mục tiêu lợi nhuận trước thuế từ 356 tỷ xuống 152 tỷ đồng. Tổng doanh thu cũng hạ từ 747 tỷ xuống 640 tỷ đồng, chi phí tăng 25%, phản ánh ngành chứng khoán gặp khó khăn."
-    },
-    {
-      "title": "Thị trường Indonesia suy sụp do lo ngại hạ hạng MSCI",
-      "impact": "↓",
-      "note": "Chỉ số JCI giảm 14% trong 1 tháng qua, giảm 35% so với 2025, chạm 4.996,61 điểm (thấp nhất 6 năm). Lợi suất trái phiếu 10 năm lên 7,5%, lô bán trái phiếu chính phủ giảm 52,1%, dòng vốn rút khỏi khu vực gây áp lực lên các thị trường Đông Nam Á kể cả Việt Nam."
-    },
-    {
-      "title": "Thị trường UAV Việt Nam dự báo 10 tỷ USD năm 2035",
+      "title": "NCB lập kỷ lục lãi, tăng 141% so với cùng kỳ 2025",
       "impact": "↑",
-      "note": "Thị trường dịch vụ kinh tế không gian tầm thấp toàn cầu dự báo đạt 128 tỷ USD năm 2030. Việt Nam hiện có 3.000 drone phục vụ nông nghiệp, với tiềm năng thị trường UAV lên 10 tỷ USD năm 2035, cho thấy cơ hội phát triển ngành công nghệ cao và sáng tạo."
+      "note": "Lợi nhuận sau thuế 9 tháng đạt gần 1.574 tỷ đồng, Q3 một mình lãi 847 tỷ (tăng 346% YoY). Thu nhập lãi thuần tăng 71%, huy động tiền gửi tăng 43,16% lên hơn 188.879 tỷ đồng, tín hiệu mạnh cho ngành ngân hàng."
+    },
+    {
+      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
+      "impact": "↑",
+      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa Thu 2026 ngày 28/10, Thủ tướng Lê Minh Hưng xác định mục tiêu tăng trưởng GDP 10%+, trở thành trung tâm R&D toàn cầu, chuyển từ 'đầu tư tại VN' sang 'cùng đầu tư, cùng sáng tạo'."
+    },
+    {
+      "title": "DSC hạ mục tiêu lãi 57%, Q3 lỗ 98%",
+      "impact": "↓",
+      "note": "Chứng khoán DSC Q3/2026 lãi trước thuế chỉ 4 tỷ đồng (giảm 98% YoY). HĐQT hạ mục tiêu lãi năm 2026 từ 356 tỷ xuống 152 tỷ, chi phí tăng 25%, phản ánh ngành chứng khoán gặp khó khăn."
+    },
+    {
+      "title": "Indonesia lo ngại MSCI hạ hạng, Jakarta Composite giảm 35% YoY",
+      "impact": "↓",
+      "note": "Chỉ số JCI sụt gần 14% trong 1 tháng, giảm 35% so với 2025, thấp nhất 6 năm. Nếu MSCI hạ hạng, cổ phiếu Indonesia sẽ rút khỏi chỉ số, gây thêm sức ép bán vốn nước ngoài lên khu vực."
+    },
+    {
+      "title": "Thị trường UAV Việt Nam dự báo 10 tỷ USD vào 2035",
+      "impact": "↑",
+      "note": "Thị trường dịch vụ kinh tế không gian tầm thấp toàn cầu dự báo đạt 128 tỷ USD năm 2030. Việt Nam hiện có 3.000 drone đang bay phục vụ nông nghiệp, cơ hội phát triển lĩnh vực công nghệ cao mới."
     }
   ]
 }
