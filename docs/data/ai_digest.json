@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD với tăng trưởng 27,2% (xuất) và 37,6% (nhập). Vingroup báo lợi nhuận 43,7 nghìn tỷ đồng, gấp 6 lần cùng kỳ, huy động 2,3 tỷ USD quốc tế. Thủ tướng cam kết mục tiêu GDP tăng trưởng 10%/năm và biến Việt Nam thành trung tâm R&D toàn cầu. Chính sách tiền tệ toàn cầu ổn định hỗ trợ dòng vốn. Rủi ro gần: vụ hack Binance 6 tỷ USD gây bất ổn tiền điện tử.",
+  "summary_vi": "Nền kinh tế Việt Nam cho thấy khí thế tăng trưởng mạnh với kim ngạch xuất nhập khẩu vượt mốc 1.000 tỷ USD lần đầu. Chính phủ đặt mục tiêu GDP tăng trưởng 10%+ và đầu tư nhân tài qua cơ chế 0,1% GDP năm, tín hiệu tích cực cho chuyển đổi số và phát triển dài hạn. Tuy nhiên, áp lực lãi suất toàn cầu vẫn tồn tại (BOJ kỳ vọng tăng lãi suất tháng 12), và vụ hack Binance 6 tỷ USD có thể tác động cảm nhận rủi ro của nhà đầu tư ngoài.",
   "top": [
     {
-      "title": "Xuất nhập khẩu VN lần đầu vượt 1.000 tỷ USD",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu",
       "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD (xuất 493,6 tỷ USD +27,2%, nhập 507,6 tỷ USD +37,6%). Việt Nam xếp thứ 18 thế giới xuất khẩu, thứ 20 nhập khẩu. Khu vực FDI đóng góp 778 tỷ USD tăng 37%."
+      "note": "Kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD từ đầu năm tới 29/10, tăng 27,2% xuất khẩu (493,6 tỷ USD) và 37,6% nhập khẩu (507,6 tỷ USD). Sector FDI đóng góp 778 tỷ USD (tăng 37%). Việt Nam đứng thứ 18 thế giới về xuất khẩu, thứ 20 về nhập khẩu."
     },
     {
-      "title": "Vingroup lãi 43,7 nghìn tỷ đồng, gấp 6 lần cùng kỳ",
+      "title": "Thủ tướng công bố mục tiêu GDP tăng trưởng 10%+",
       "impact": "↑",
-      "note": "Lợi nhuận sau thuế 9 tháng: 43,7 nghìn tỷ đồng (gấp 6 lần), hoàn thành 125% kế hoạch cả năm. Doanh thu 372,5 nghìn tỷ đồng gấp 2,2 lần. Huy động 2,3 tỷ USD từ các nhà đầu tư quốc tế."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Thế giới sáng 28/10, đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới. Mục tiêu GDP bình quân từ 10%/năm trở lên và trở thành trung tâm R&D toàn cầu."
     },
     {
-      "title": "Thủ tướng công bố mục tiêu GDP 10%+, trung tâm R&D toàn cầu",
+      "title": "Chính phủ dành 0,1% GDP năm cho nhân tài",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng xác định mục tiêu tăng trưởng GDP bình quân 10%/năm trở lên. Chuyển sang mô hình 'cùng đầu tư, cùng sáng tạo' với tập đoàn quốc tế. Kiến tạo chuỗi giá trị mới toàn cầu."
+      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính để thu hút nhân tài. Mục tiêu tuyển 1.000 nhân tài quốc gia đến 2030, tập trung vào AI, bán dẫn, lượng tử, khoa học dữ liệu và công nghệ chiến lược."
     },
     {
-      "title": "Chính sách tiền tệ toàn cầu: Fed, ECB giữ nguyên; BOJ đợi tháng 12",
+      "title": "Giá vàng thế giới giảm sâu, lãi suất toàn cầu tăng áp lực",
       "impact": "→",
-      "note": "Fed (28/10) và ECB (29/10) giữ lãi suất không đổi. BOJ dự kiến giữ 1,25%, xác suất 80% tăng tháng 12. Đồng yên tăng lên 157,5 yên/USD. Chu kỳ thắt chặt chính sách vẫn tiếp tục."
+      "note": "Vàng giao ngay giảm hơn 0,7% phiên 29/10. Lợi suất trái phiếu 10 năm tăng 3 điểm cơ bản, kỳ hạn 30 năm tăng 4 điểm cơ bản (28/10). Đây là kết quả của chu kỳ thắt chặt chính sách toàn cầu, giá năng lượng cao, xung đột Trung Đông chưa hạ nhiệt."
     },
     {
-      "title": "VPBankS huy động 6.000 tỷ đồng trái phiếu cho margin",
+      "title": "BOJ giữ lãi suất 1,25%, kỳ vọng 80% tăng tháng 12",
       "impact": "→",
-      "note": "Trái phiếu VPXPO2627001 kỳ hạn 12 tháng, lãi suất 9,5%/năm. 60 triệu trái phiếu, mệnh giá 100.000 đồng, chào bán quý 4/2026-1/2027. Dùng cho hoạt động giao dịch ký quỹ (margin)."
+      "note": "BOJ sáng 30/10 giữ nguyên lãi suất 1,25% bất chấp áp lực lạm phát. Tuy nhiên, 80% kỳ vọng tăng lãi suất vào tháng 12/2026. Động thái này ảnh hưởng tỷ giá yên/đô và dòng vốn ngoài."
     },
     {
-      "title": "Binance bị hack, 6 tỷ USD tài sản chuyển khỏi ví nóng",
+      "title": "Binance bị hack 6 tỷ USD, Ethereum hacker dùng EIP-7702",
       "impact": "↓",
-      "note": "Các ví nóng Binance (14, 16, Hot Wallet 34) bị chiếm quyền EIP-7702. Binance 14 chuyển 167.464 ETH và 1,615 tỷ USDT. Tether đóng băng tài sản để ngăn chặn. Nguy hiểm cho thị trường tiền điện tử."
+      "note": "Rạng sáng 30/10 giờ VN, hơn 6 tỷ USD chuyển khỏi ví nóng Binance (ETH, USDT, token khác). Hacker lợi dụng cơ chế ủy quyền EIP-7702 Ethereum. Tether đã đóng băng một phần tài sản. Sự kiện có thể ảnh hưởng cảm nhận rủi ro và tâm lý nhà đầu tư toàn cầu."
     }
   ]
 }
