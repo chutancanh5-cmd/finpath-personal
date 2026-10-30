@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường nhận được tín hiệu tích cực từ phía vĩ mô với Standard Chartered nâng dự báo GDP 2027 lên 11% và Thủ tướng lập mục tiêu tăng trưởng 10%+ kèm chiến lược FDI toàn cầu, đồng thời doanh nghiệp ghi nhận kết quả xuất sắc (SGN +105% lợi nhuận, FPT Retail +114%). Tuy nhiên, áp lực từ dòng tiền nước ngoài yếu (khối ngoại bán ròng 647 tỷ phiên thứ 6 liên tiếp) và sự kiện Binance bị hack 6,3 tỷ USD làm lung lay niềm tin nhà đầu tư, kéo chỉ số VN-Index giảm 0,8%. Kỳ vọng tăng trưởng cao được bù lại bởi tâm lý chốt lời nhanh, tạo cân bằng giữa tích cực (vĩ mô) và tiêu cực (dòng tiền, sự kiện bên ngoài).",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được tín hiệu vĩ mô tích cực mạnh: Thủ tướng cam kết tăng trưởng GDP trên 10% bình quân, Standard Chartered nâng dự báo GDP 2028 lên 9,1%, BOJ tuyên bố sẵn sàng tăng lãi suất. Các ngân hàng đồng loạt giảm lãi suất huy động hỗ trợ doanh nghiệp cuối năm. Tuy vậy, khối ngoại tiếp tục bán ròng phiên thứ 6 liên tiếp (647 tỷ đồng), và cấu trúc vốn lạnh (11,2 triệu tỷ tiền gửi nhưng không chảy vào sản xuất) là rủi ro ngắn hạn cần theo dõi.",
   "top": [
     {
-      "title": "Standard Chartered nâng dự báo GDP 2027 lên 11%",
+      "title": "Standard Chartered nâng dự báo GDP 2028 lên 9,1%",
       "impact": "↑",
-      "note": "Dự báo tăng trưởng GDP 2026 đạt 9,5%, 2027 đạt 11%, nâng 2028 từ 6,7% lên 9,1%, hỗ trợ từ chính sách tài khóa, FDI mạnh 12% và nhu cầu nội địa gia tăng."
+      "note": "Standard Chartered dự báo GDP VN 9,5% năm 2026, 11% năm 2027, nâng dự báo 2028 từ 6,7% lên 9,1%, nhờ chính sách tài khóa, tiền tệ, FDI giải ngân tăng 12% và nhu cầu trong nước gia tăng."
     },
     {
-      "title": "Thủ tướng lập mục tiêu GDP 10%+, chiến lược FDI toàn cầu",
+      "title": "Thủ tướng cam kết tăng trưởng GDP bình quân 10%/năm trở lên",
       "impact": "↑",
-      "note": "Mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' nhằm kiến tạo chuỗi giá trị mới toàn cầu."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu ngày 28/10 tại Diễn đàn Kinh tế Mùa thu 2026, khẳng định mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'."
     },
     {
-      "title": "Khối ngoại bán ròng 647 tỷ, phiên thứ 6 liên tiếp",
+      "title": "BOJ giữ lãi suất, tuyên bố chuẩn bị tăng sau 14 năm chống giảm phát",
+      "impact": "↑",
+      "note": "Ngân hàng Trung ương Nhật Bản giữ lãi suất ngày 30/10, tuyên bố giành chiến thắng trong cuộc chiến chống giảm phát 14 năm khi lạm phát cơ bản gần đạt mục tiêu 2%, sẽ điều chỉnh lãi suất vài tháng một lần."
+    },
+    {
+      "title": "Khối ngoại bán ròng 647 tỷ phiên thứ 6 liên tiếp",
       "impact": "↓",
-      "note": "Khối ngoại duy trì trạng thái bán ròng 647 tỷ đồng, xả mạnh VIC (354 tỷ đồng) và TCB (133 tỷ đồng), dấu hiệu suy yếu dòng tiền nước ngoài."
+      "note": "Khối ngoại duy trì bán ròng 647 tỷ đồng, xả mạnh VIC (354 tỷ đồng), TCB (133 tỷ đồng), MBB (43 tỷ đồng), VPL (38 tỷ đồng), tạo áp lực lên các cổ phiếu vốn lớn."
     },
     {
-      "title": "Binance bị hack 6,3 tỷ USD trong 20 phút",
-      "impact": "↓",
-      "note": "Tin tặc đánh cắp 6,3 tỷ USD từ Binance qua xâm nhập máy tính DevOps, các chuyên gia cáo buộc liên quan Triều Tiên, gây lung lay niềm tin vào tài sản kỹ thuật số."
+      "title": "Dân giữ 11,2 triệu tỷ tiền gửi, 500 tấn vàng nhưng vốn không vào sản xuất",
+      "impact": "→",
+      "note": "Đại biểu Quốc hội chỉ ra cấu trúc vốn lạnh: tiền gửi dân cư vượt 11,2 triệu tỷ đồng, người dân nắm 500 tấn vàng (12% GDP), dư nợ tín dụng 155% GDP nhưng 80% vốn huy động kỳ hạn dưới 12 tháng."
     },
     {
-      "title": "SGN lập đỉnh doanh thu, lợi nhuận quý 3",
+      "title": "MSB, VietABank, GPBank giảm lãi suất huy động 0,5 điểm phần trăm",
       "impact": "↑",
-      "note": "Doanh thu quý 3 đạt 433 tỷ đồng tăng 23% YoY, lợi nhuận ròng 78 tỷ đồng tăng 105% YoY, cổ phiếu tăng trần 2 phiên liên tiếp."
-    },
-    {
-      "title": "FPT Retail tăng 33% doanh thu, 114% lợi nhuận 9 tháng",
-      "impact": "↑",
-      "note": "Doanh thu hợp nhất 48,3 ngàn tỷ đồng tăng 33%, lợi nhuận trước thuế 1,7 ngàn tỷ đồng tăng 114%, Long Châu mở rộng 324 nhà thuốc mới."
+      "note": "MSB, VietABank, GPBank điều chỉnh giảm lãi suất huy động 0,5% cho kỳ hạn 6–36 tháng nhằm hưởng ứng chủ trương Chính phủ, Ngân hàng Nhà nước, hỗ trợ chi phí vốn doanh nghiệp."
     }
   ]
 }
