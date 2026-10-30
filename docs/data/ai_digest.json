@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Xuất nhập khẩu Việt Nam vượt mốc kỷ lục 1.001,3 tỷ USD trong 10 tháng đầu năm 2026 với tăng trưởng 32,3%, phản ánh sức mạnh kinh tế. Thủ tướng công bố mục tiêu tăng trưởng GDP từ 10%/năm trở lên và chiến lược quốc tế hóa, tạo triển vọng tích cực. Tuy nhiên, dòng tiền nước ngoài tiếp tục bán ròng, VN-Index giảm điểm và kiểm định vùng hỗ trợ 1.740 điểm, cho thấy áp lực điều chỉnh ngắn hạn. Các doanh nghiệp chứng khoán cũng gặp khó khăn với lợi nhuận giảm mạnh, cân bằng bức tranh tích cực và tiêu cực.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Việt Nam thiết lập kỷ lục xuất nhập khẩu vượt 1.000 tỷ USD (tính đến 29/10, tăng 32,3% so với cùng kỳ), phản ánh sức mạnh của nền kinh tế. Thủ tướng khẳng định mục tiêu tăng trưởng GDP hơn 10%/năm và chuyển sang mô hình cùng đầu tư, cùng sáng tạo với các tập đoàn quốc tế. Tuy nhiên, áp lực bán ròng từ khối ngoại vẫn hiện hữu, và một số doanh nghiệp chứng khoán gặp khó khăn, đòi hỏi nhà đầu tư cân nhắc rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD",
+      "title": "Xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD",
       "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu 10 tháng đầu năm 1.001,3 tỷ USD (tăng 32,3%), khu vực FDI đóng góp 778 tỷ USD tăng 37%, tạo động lực mạnh cho cổ phiếu ngành ngoại thương, chế biến và hậu cần."
+      "note": "Kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD đến 29/10, tăng 32,3% so với cùng kỳ năm trước. Xuất khẩu 493,6 tỷ USD (↑ 27,2%), nhập khẩu 507,6 tỷ USD (↑ 37,6%). Khu vực FDI đóng góp 778 tỷ USD (↑ 37%), ba nhóm hàng chính (máy tính, điện thoại, máy móc) chiếm 532 tỷ USD."
     },
     {
-      "title": "Mục tiêu GDP tăng 10%+ hàng năm",
+      "title": "Thủ tướng: Việt Nam quyết tâm đạt GDP trên 10%/năm",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng công bố tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển chiến lược từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế, mở ra cơ hội lợi nhuận dài hạn."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), đề ra mục tiêu tăng trưởng GDP bình quân từ 10%/năm, trở thành trung tâm R&D toàn cầu. Đề xuất 4 chiến lược kêu gọi tập đoàn quốc tế chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'."
     },
     {
-      "title": "Khối ngoại bán ròng 429,9 tỷ đồng",
+      "title": "Khối ngoại bán ròng hơn 500 tỷ đồng, VN-Index giảm 0,62%",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 429,9 tỷ đồng phiên 29/10 với giao dịch khớp lệnh bán ròng 531,3 tỷ đồng, áp lực bán tập trung vào TCB (118 tỷ đ), FPT (115 tỷ đ), SSI (79 tỷ đ) cho thấy sự thận trọng bất chấp tin tích cực."
+      "note": "Phiên 29/10, khối ngoại bán ròng 429,9 tỷ đồng (khớp lệnh bán ròng 531,3 tỷ). Áp lực bán tập trung vào TCB (118 tỷ), FPT (115 tỷ), SSI (79 tỷ). VN-Index giảm 11,04 điểm do áp lực từ bất động sản (VHM -2,2%), năng lượng (BSR -3,83%, GAS -2,19%). Tự doanh cũng bán ròng 282 tỷ đồng."
     },
     {
-      "title": "VN-Index giảm 11 điểm, kiểm định 1.740",
+      "title": "Chứng khoán DSC hạ 57% mục tiêu lợi nhuận 2026",
       "impact": "↓",
-      "note": "VN-Index giảm 11,04 điểm (-0,62%) về 1.755,61 điểm, độ rộng thị trường âm với 215 mã giảm, kiểm định vùng hỗ trợ 1.740 điểm, rủi ro điều chỉnh sâu nếu mất hỗ trợ này."
+      "note": "DSC quý 3 lãi 4 tỷ đồng (giảm 98% so với cùng kỳ năm ngoái). HĐQT hạ mục tiêu lãi trước thuế 2026 từ 356 tỷ xuống 152 tỷ đồng (-57%), doanh thu từ 747 tỷ xuống 640 tỷ (-14%). Tự doanh và môi giới cùng lỗ, chi phí lãi vay tăng 67% lên 69 tỷ đồng."
     },
     {
-      "title": "DSC hạ 57% mục tiêu lợi nhuận năm",
+      "title": "Giá vàng giảm 1,1% sau báo cáo lạm phát PCE Mỹ",
+      "impact": "→",
+      "note": "GDP Mỹ quý 3 tăng 3,4% (vượt dự báo 3,1%), chỉ số PCE tăng 0,5% MoM và 3,6% YoY (thấp hơn dự báo 3,7% nhưng cao gấp rưỡi mục tiêu 2% của Fed). Giá vàng giao ngay giảm 46 USD/oz xuống 4.022,5 USD/oz (-1,1%). Bạc giảm 1,8 USD/oz (-3,3%)."
+    },
+    {
+      "title": "Petro Times giảm sàn 8 phiên liên tiếp, mất 56% giá trị",
       "impact": "↓",
-      "note": "DSC quý 3/2026 chỉ lãi trước thuế hơn 4 tỷ đồng (giảm 98%), HĐQT hạ mục tiêu năm từ 356 tỷ đồng xuống 152 tỷ đồng do chi phí lãi vay tăng 67% lên 69 tỷ đồng, phản ánh áp lực chi phí tài chính."
-    },
-    {
-      "title": "NHNN hỗ trợ cơ chế giao dịch VIFC",
-      "impact": "↑",
-      "note": "Ngân hàng Nhà nước xem xét cho phép doanh nghiệp thực hiện giao dịch vốn thông qua tài khoản tại các ngân hàng trong nước, tháo gỡ vướng mắc cho nhà đầu tư tại Trung tâm Tài chính quốc tế Việt Nam, hỗ trợ quốc tế hóa tài chính."
+      "note": "Cổ phiếu PPT giảm sàn từ 20-29/10 (8 phiên liên tiếp), giảm từ 15.000 đ/cp xuống 6.600 đ/cp (-56%). Vốn hóa sụt từ 265 tỷ đồng xuống 130 tỷ đồng (-135 tỷ). Thanh khoản tăng mạnh phiên 29/10 với 496.000 cổ phiếu. Công ty giải trình do vướng mắc kinh doanh và tâm lý nhà đầu tư."
     }
   ]
 }
