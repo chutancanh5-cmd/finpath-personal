@@ -1,5 +1,5 @@
 {
-  "_opus": false,
+  "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Tích cực",
   "summary_vi": "Kinh tế Việt Nam ghi nhận những điểm sáng vĩ mô đáng kể: xuất nhập khẩu lần đầu vượt 1.001,3 tỷ USD (tăng 32,3%), Thủ tướng cam kết mục tiêu tăng trưởng GDP trên 10%/năm và chuyển sang mô hình cùng đầu tư sáng tạo với tập đoàn quốc tế, FPT Retail tăng doanh thu 33% và lợi nhuận 114%. Tuy nhiên, áp lực quốc tế gia tăng: chứng khoán Mỹ giảm (Nasdaq -1,38%, Alphabet -13%), hack Binance 5,6 tỷ USD làm xáo trộn thị trường tiền số. Nội lực kinh tế Việt Nam đủ mạnh để hấp thụ áp lực ngắn hạn.",
@@ -31,7 +31,7 @@
     },
     {
       "title": "NHNN xem xét cơ chế giao dịch vốn cho Trung tâm Tài chính quốc tế",
-      "impact": "↑",
+      "impact": "→",
       "note": "Tại cuộc làm việc 28/10 trong khuôn khổ Diễn đàn Kinh tế Mùa thu 2026, Phó Thống đốc NHNN Phạm Thanh Hà công bố NHNN xem xét cho phép duy trì tài khoản tại các ngân hàng, tổ chức tín dụng để thực hiện giao dịch vốn tại VIFC-HCMC. Giải pháp tháo gỡ vướng mắc, bảo đảm tuân thủ pháp luật."
     }
   ]
