@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Ngày hôm nay ghi nhận những tín hiệu vĩ mô tích cực: IMF dự báo GDP bình quân đầu người Việt Nam vượt Indonesia lần đầu tiên đạt 5.259 USD, Thủ tướng cam kết tăng trưởng GDP trên 10%/năm và xây dựng trung tâm R&D toàn cầu. Đáng chú ý là các doanh nghiệp báo cáo lợi nhuận tăng mạnh (FPT Retail +33%, MSB +27%), VinFast nhận thêm 436,4 triệu USD bổ sung vốn. Tuy nhiên, diễn biến thị trường khiếp sợ với VN-Index giảm 0,8%, khối ngoại tiếp tục bán ròng 641 tỷ đồng, áp lực chốt lời ngắn hạn vẫn chiếm ưu thế trước kỳ vọng cao của Chính phủ.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán hôm nay gặp áp lực lớn với VN-Index giảm 0,8% xuống 1.741,62 điểm, 453 cổ phiếu giảm giá, thể hiện dòng tiền yếu và tâm lý nhà đầu tư mong manh khi áp lực chốt lời tăng mạnh. Cơ cấu vốn nền kinh tế còn phụ thuộc quá lớn vào tín dụng ngân hàng (155% GDP) và vàng cá nhân (12% GDP), chưa phát triển đủ thị trường trái phiếu. Tuy nhiên, các tín hiệu chính sách tích cực từ chính phủ (mục tiêu GDP tăng 10%/năm) và kết quả kinh doanh tốt của nhiều doanh nghiệp còn giữ nền tảng cho phục hồi trung hạn.",
   "top": [
     {
-      "title": "IMF dự báo GDP bình quân đầu người Việt Nam vượt Indonesia",
-      "impact": "↑",
-      "note": "IMF dự báo GDP danh nghĩa bình quân đầu người Việt Nam 2026 đạt 5.259 USD, vượt mức 5.153 USD Indonesia lần đầu tiên, Việt Nam xếp thứ 5 ASEAN sau Singapore, Brunei, Malaysia, Thái Lan. Tăng 8,9% so với 4.829 USD năm 2025; năm 2030 dự báo đạt 7.105 USD."
-    },
-    {
-      "title": "Thủ tướng Lê Minh Hưng: Mục tiêu tăng trưởng GDP 10%/năm",
-      "impact": "↑",
-      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu ngày 28/10, Thủ tướng Lê Minh Hưng khẳng định mục tiêu tăng trưởng GDP bình quân 10%/năm trở lên. Kêu gọi chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo', trở thành trung tâm R&D và đổi mới sáng tạo toàn cầu."
-    },
-    {
-      "title": "VN-Index giảm 0,8%, khối ngoại bán ròng 641 tỷ đồng",
+      "title": "VN-Index giảm 0,8% với 453 cổ phiếu chìm sắc đỏ",
       "impact": "↓",
-      "note": "VN-Index giảm 13,99 điểm xuống 1.741,62 điểm phiên 30/10; 518 mã giảm vs 233 mã tăng. Khối ngoại bán ròng 641 tỷ đồng, VIC bị xả 353 tỷ, TCB 133 tỷ, MBB 43 tỷ. Áp lực lỗ T+ tăng vọt: 42% cổ phiếu thua lỗ 3%+ (từ 29% hôm trước), 23,5% thua lỗ 5%+"
+      "note": "VN-Index giảm 13,99 điểm xuống 1.741,62 điểm; trên HoSE chỉ 67 mã tăng giá trong khi 245 mã giảm. Thanh khoản toàn thị trường 15.770 tỷ đồng. Khối ngoại tiếp tục bán ròng kéo dài chuỗi bán trong nhiều phiên liên tiếp."
     },
     {
-      "title": "FPT Retail tăng doanh thu 33%, lợi nhuận 114% sau 9 tháng",
-      "impact": "↑",
-      "note": "Doanh thu 9 tháng 48,3 ngàn tỷ đồng (tăng 33%), lợi nhuận trước thuế 1,7 ngàn tỷ đồng (tăng 114%). Long Châu có 2.741 nhà thuốc và 244 trung tâm tiêm chủng, tăng 324 và 21 điểm so với đầu năm, mỗi nhà thuốc thu bình quân 1,3 tỷ đồng/tháng."
+      "title": "Cấu trúc vốn nền kinh tế: tín dụng 155% GDP, vàng 12% GDP",
+      "impact": "→",
+      "note": "Nợ tín dụng tương đương 155% GDP, nhưng 80% vốn huy động có kỳ hạn dưới 12 tháng; người dân nắm 500 tấn vàng (12% GDP) trong khi thị trường trái phiếu doanh nghiệp mới 11% GDP, chưa đạt mục tiêu 20% năm 2025."
     },
     {
-      "title": "MSB tăng 27,1% lợi nhuận quý III, tín dụng tăng 13,5%",
+      "title": "MSB tăng trưởng lợi nhuận quý III tăng 27,1%",
       "impact": "↑",
-      "note": "Lợi nhuận trước thuế quý III đạt 2.017 tỷ đồng, tăng 27,1%; lũy kế 9 tháng 5.440 tỷ đồng. Thu nhập lãi thuần tăng 21,7% lên 9.621 tỷ đồng, tín dụng tăng 13,5%, CIR duy trì 37,3%, khẳng định sức khỏe ngành ngân hàng."
+      "note": "MSB báo cáo lợi nhuận trước thuế quý III/2026 đạt 2.017 tỷ đồng, tăng 27,1% so với cùng kỳ; 9 tháng lũy kế 5.440 tỷ đồng. Thu nhập lãi thuần tăng 21%, tín dụng tăng 13,5%."
     },
     {
-      "title": "Phạm Nhật Vượng bổ sung 436,4 triệu USD vào VinFast",
+      "title": "Chính phủ đặt mục tiêu GDP tăng 10%/năm",
       "impact": "↑",
-      "note": "Phạm Nhật Vượng hoàn tất góp 11.000 tỷ đồng (436,4 triệu USD) vào CTCP VinFast Việt Nam ngày 29/10. Đây là lần thứ 2 trong quý III, sau khoản góp 20.000 tỷ, tổng bổ sung vốn quý III lên 31.000 tỷ đồng."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu ngày 28/10 đặt mục tiêu tăng trưởng GDP bình quân 10%/năm trở lên, chuyển sang mô hình 'cùng đầu tư, cùng sáng tạo'. 9 tháng 2026 GDP tăng 9,01%, xuất khẩu tăng 24,5%."
+    },
+    {
+      "title": "FPT Retail doanh thu tăng 33%, lợi nhuận tăng 114%",
+      "impact": "↑",
+      "note": "FPT Retail báo cáo 9 tháng doanh thu 48,3 ngàn tỷ đồng, tăng 33% so với cùng kỳ; lợi nhuận trước thuế 1,7 ngàn tỷ đồng, tăng 114%. Long Châu đóng góp 70% doanh thu, kênh bán online tăng 29%."
+    },
+    {
+      "title": "Tỷ phú Phạm Nhật Vượng góp 436,4 triệu USD vào VinFast",
+      "impact": "↑",
+      "note": "Phạm Nhật Vượng hoàn tất góp 11.000 tỷ đồng (tương đương 436,4 triệu USD) vào CTCP VinFast Việt Nam (theo báo cáo SEC ngày 29/10), đây là đợt bổ sung vốn thứ hai trong quý III/2026 để củng cố năng lực tài chính."
     }
   ]
 }
