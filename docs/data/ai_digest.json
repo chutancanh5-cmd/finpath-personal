@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được tín hiệu vĩ mô tích cực mạnh: Thủ tướng cam kết tăng trưởng GDP trên 10% bình quân, Standard Chartered nâng dự báo GDP 2028 lên 9,1%, BOJ tuyên bố sẵn sàng tăng lãi suất. Các ngân hàng đồng loạt giảm lãi suất huy động hỗ trợ doanh nghiệp cuối năm. Tuy vậy, khối ngoại tiếp tục bán ròng phiên thứ 6 liên tiếp (647 tỷ đồng), và cấu trúc vốn lạnh (11,2 triệu tỷ tiền gửi nhưng không chảy vào sản xuất) là rủi ro ngắn hạn cần theo dõi.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chính thức được nâng hạng, với dự báo GDP 2027 đạt 11% và mục tiêu chiến lược 10%+ từ Chính phủ tạo nền tảng tích cực. Tuy nhiên, rủi ro vĩ mô đáng chú ý từ cấu trúc tài chính không cân bằng (vốn dài hạn thiếu, 500 tấn vàng nằm ngoài sản xuất), nguy cơ thắt chặt từ BOJ ảnh hưởng dòng vốn ngoại, và dòng tiền trong nước yếu khiến cổ phiếu khó duy trì đà tăng dù kết quả kinh doanh tích cực.",
   "top": [
     {
-      "title": "Standard Chartered nâng dự báo GDP 2028 lên 9,1%",
+      "title": "TTCK nâng hạng, tháo gỡ FOF để giữ vốn ngoại",
       "impact": "↑",
-      "note": "Standard Chartered dự báo GDP VN 9,5% năm 2026, 11% năm 2027, nâng dự báo 2028 từ 6,7% lên 9,1%, nhờ chính sách tài khóa, tiền tệ, FDI giải ngân tăng 12% và nhu cầu trong nước gia tăng."
+      "note": "FTSE Russell khẳng định đợt chuyển đổi đầu tiên (nâng hạng thị trường mới nổi) diễn ra rất hiệu quả, tạo niềm tin cho các tái cơ cấu danh mục tiếp theo. Diễn đàn 30/10 đề xuất tháo gỡ rào cản tỷ lệ sở hữu nước ngoài, nâng cao chất lượng IPO, minh bạch chính sách để giữ chân dòng vốn quốc tế bền vững."
     },
     {
-      "title": "Thủ tướng cam kết tăng trưởng GDP bình quân 10%/năm trở lên",
+      "title": "Standard Chartered nâng dự báo GDP 2028 lên 9,1%, 2027 đạt 11%",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu ngày 28/10 tại Diễn đàn Kinh tế Mùa thu 2026, khẳng định mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'."
+      "note": "GDP 2026 dự báo 9,5%, 2027 đạt 11%, 2028 nâng từ 6,7% lên 9,1% nhờ hỗ trợ chính sách tài khóa, tiền tệ, FDI giải ngân tăng 12%, nhu cầu trong nước gia tăng. Kỳ vọng tăng trưởng duy trì 2 chữ số đầu 2027."
     },
     {
-      "title": "BOJ giữ lãi suất, tuyên bố chuẩn bị tăng sau 14 năm chống giảm phát",
+      "title": "Thủ tướng cam kết GDP 10%+, chiến lược đầu tư-sáng tạo toàn cầu",
       "impact": "↑",
-      "note": "Ngân hàng Trung ương Nhật Bản giữ lãi suất ngày 30/10, tuyên bố giành chiến thắng trong cuộc chiến chống giảm phát 14 năm khi lạm phát cơ bản gần đạt mục tiêu 2%, sẽ điều chỉnh lãi suất vài tháng một lần."
+      "note": "Phát biểu 28/10 tại Diễn đàn Kinh tế Mùa thu 2026: mục tiêu GDP bình quân từ 10%/năm trở lên, biến Việt Nam thành trung tâm R&D và đổi mới sáng tạo toàn cầu. Kêu gọi tập đoàn quốc tế chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'."
     },
     {
-      "title": "Khối ngoại bán ròng 647 tỷ phiên thứ 6 liên tiếp",
+      "title": "Cấu trúc tài chính mất cân bằng: 500 tấn vàng, 11,2 triệu tỷ gửi nhưng vốn dài hạn thiếu",
       "impact": "↓",
-      "note": "Khối ngoại duy trì bán ròng 647 tỷ đồng, xả mạnh VIC (354 tỷ đồng), TCB (133 tỷ đồng), MBB (43 tỷ đồng), VPL (38 tỷ đồng), tạo áp lực lên các cổ phiếu vốn lớn."
+      "note": "Đại biểu QH Lê Hoàng Anh (30/10) cảnh báo: dân giữ ~500 tấn vàng (12% GDP), tiền gửi dân cư vượt 11,2 triệu tỷ đồng; nhưng dư nợ tín dụng ~155% GDP, 80% tiền gửi kỳ hạn dưới 12 tháng khi nửa dư nợ là khoản trung, dài hạn. Thị trường trái phiếu doanh nghiệp chỉ 11% GDP, chưa đạt mục tiêu 20%."
     },
     {
-      "title": "Dân giữ 11,2 triệu tỷ tiền gửi, 500 tấn vàng nhưng vốn không vào sản xuất",
-      "impact": "→",
-      "note": "Đại biểu Quốc hội chỉ ra cấu trúc vốn lạnh: tiền gửi dân cư vượt 11,2 triệu tỷ đồng, người dân nắm 500 tấn vàng (12% GDP), dư nợ tín dụng 155% GDP nhưng 80% vốn huy động kỳ hạn dưới 12 tháng."
+      "title": "BOJ giữ nguyên lãi suất, chuẩn bị thắt chặt từ tháng 12/2026",
+      "impact": "↓",
+      "note": "BOJ tuyên bố chiến thắng chống giảm phát khi lạm phát cơ bản Nhật gần 2%, sẽ duy trì ổn định, điều chỉnh lãi suất 'phù hợp' vài tháng một lần. Thống đốc Ueda khẳng định thảo luận lãi suất tại mỗi cuộc họp bao gồm 12/2026, ưu tiên rủi ro lạm phát. Tín hiệu thắt chặt có ảnh hưởng dòng vốn ngoại."
     },
     {
-      "title": "MSB, VietABank, GPBank giảm lãi suất huy động 0,5 điểm phần trăm",
-      "impact": "↑",
-      "note": "MSB, VietABank, GPBank điều chỉnh giảm lãi suất huy động 0,5% cho kỳ hạn 6–36 tháng nhằm hưởng ứng chủ trương Chính phủ, Ngân hàng Nhà nước, hỗ trợ chi phí vốn doanh nghiệp."
+      "title": "Dòng tiền yếu, tâm lý mong manh: cổ phiếu khó duy trì đà tăng",
+      "impact": "↓",
+      "note": "VN-Index giảm 13,99 điểm (-0,80%) xuống 1.741,62. SSI nhận định kết quả kinh doanh tích cực nhưng cổ phiếu vẫn không tăng như kỳ vọng do dòng tiền thị trường yếu. Nhà đầu tư mong manh sẵn sàng chốt lời sau vài phiên tăng, chưa kiên nhẫn nắm giữ dài hạn."
     }
   ]
 }
