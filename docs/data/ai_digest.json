@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam ghi nhận những điểm sáng vĩ mô đáng kể: xuất nhập khẩu lần đầu vượt 1.001,3 tỷ USD (tăng 32,3%), Thủ tướng cam kết mục tiêu tăng trưởng GDP trên 10%/năm và chuyển sang mô hình cùng đầu tư sáng tạo với tập đoàn quốc tế, FPT Retail tăng doanh thu 33% và lợi nhuận 114%. Tuy nhiên, áp lực quốc tế gia tăng: chứng khoán Mỹ giảm (Nasdaq -1,38%, Alphabet -13%), hack Binance 5,6 tỷ USD làm xáo trộn thị trường tiền số. Nội lực kinh tế Việt Nam đủ mạnh để hấp thụ áp lực ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Việt Nam đạt cột mốc lịch sử xuất nhập khẩu 1.001,3 tỷ USD với tăng trưởng 27-37%, thể hiện nền kinh tế mạnh. Thủ tướng công bố mục tiêu tăng trưởng GDP 10%/năm và chiến lược kêu gọi FDI vào R&D, sáng tạo — tín hiệu tích cực cho dòng vốn nước ngoài. Tuy nhiên, Nasdaq giảm 1,38% do Alphabet sụt 13%, sự cố Binance bị hack hơn 6 tỷ USD gây lo ngại, và khối ngoại bán ròng 4 phiên liên tiếp phản ánh tính thận trọng. Thị trường cân nhắc giữa yếu tố vĩ mô tích cực từ kinh tế VN với áp lực tâm lý toàn cầu.",
   "top": [
     {
-      "title": "Xuất nhập khẩu Việt Nam vượt 1.000 tỷ USD lần đầu",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên",
       "impact": "↑",
-      "note": "Đến 29/10, kim ngạch xuất nhập khẩu hàng hóa đạt 1.001,3 tỷ USD (xuất khẩu 493,6 tỷ USD tăng 27,2%, nhập khẩu 507,6 tỷ USD tăng 37,6%). Khu vực FDI đóng góp 778 tỷ USD tăng 37%. Ba nhóm hàng chính (máy vi tính/điện tử/linh kiện, điện thoại, máy móc) chiếm 532 tỷ USD tăng 49%. Mốc kỷ lục này xác nhận sức mạnh kinh tế Việt Nam."
+      "note": "Đến 29/10, kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD (xuất khẩu 493,6 tỷ USD tăng 27,2%, nhập khẩu 507,6 tỷ USD tăng 37,6%). FDI chiếm 778 tỷ USD tăng 37%. Ba nhóm hàng chính (máy vi tính/điện tử/linh kiện, điện thoại, máy móc) đạt 532 tỷ USD tăng 49% — mốc kỷ lục xác nhận sức mạnh kinh tế Việt Nam."
     },
     {
-      "title": "Thủ tướng cam kết GDP trên 10%, trung tâm R&D toàn cầu",
+      "title": "Thủ tướng cam kết tăng trưởng GDP 10%/năm, trung tâm R&D toàn cầu",
       "impact": "↑",
-      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), Thủ tướng Lê Minh Hưng nêu mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên. Đề xuất 4 chiến lược chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo', kiến tạo chuỗi giá trị mới toàn cầu và đưa Việt Nam thành trung tâm R&D."
+      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), Thủ tướng Lê Minh Hưng nêu mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên. Đề xuất 4 chiến lược chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo', kiến tạo chuỗi giá trị mới toàn cầu — tín hiệu kêu gọi FDI vào công nghệ."
     },
     {
-      "title": "FPT Retail tăng trưởng 33% doanh thu sau 9 tháng",
+      "title": "FPT Retail tăng trưởng 33% doanh thu, lợi nhuận tăng gấp 2",
       "impact": "↑",
-      "note": "FPT Retail đạt doanh thu 48,3 ngàn tỷ đồng trong 9 tháng, tăng 33% YoY. Lợi nhuận trước thuế 1,7 ngàn tỷ đồng, tăng 114%. Hệ thống Long Châu đạt 33,4 ngàn tỷ đồng (tăng 35%, chiếm 69% tổng doanh thu) với 2.741 nhà thuốc và 244 trung tâm tiêm chủng, mỗi cửa hàng doanh số 1,3 tỷ đồng/tháng."
+      "note": "9 tháng 2026, FPT Retail đạt doanh thu 48,3 ngàn tỷ đồng tăng 33%, lợi nhuận trước thuế 1,7 ngàn tỷ đồng tăng 114% YoY. Long Châu 33,4 ngàn tỷ đồng (tăng 35%, chiếm 69%) với 2.741 nhà thuốc, 244 trung tâm tiêm chủng — dòng tiền lợi nhuận tốt của doanh nghiệp lớn."
     },
     {
-      "title": "Chứng khoán Mỹ giảm vì Alphabet sụt 13%, nguy hiểm cho thị trường toàn cầu",
+      "title": "Chứng khoán Mỹ giảm, Alphabet sụt 13% phiên tồi tệ nhất 22 năm",
       "impact": "↓",
-      "note": "Phiên 29/10, S&P 500 giảm 0,3% còn 7.720,39 điểm, Nasdaq giảm 1,38% còn 26.184,72 điểm. Alphabet giảm 13% (phiên tồi tệ nhất từ 2004) sau báo cáo Q3 với EPS và doanh thu thấp kỳ vọng, dòng tiền tự do âm 9,07 tỷ USD, vốn hóa bốc hơi 500 tỷ USD. Caterpillar cũng giảm 9%."
+      "note": "Nasdaq giảm 1,38% còn 26.184,72 điểm, S&P 500 giảm 0,3%. Alphabet sụt 13% (phiên tồi tệ nhất kể từ IPO 2004), 'bốc hơi' 500 tỷ USD, doanh thu và EPS không đạt kỳ vọng, dòng tiền tự do âm 9,07 tỷ USD — sụt giảm ông lớn tech tác động tâm lý nhà đầu tư toàn cầu."
     },
     {
-      "title": "5,6 tỷ USD rời khỏi ví Binance, nghi bị hack lớn nhất lịch sử",
+      "title": "Nghi vấn Binance bị hack, hơn 6 tỷ USD bị chuyển khỏi ví nóng",
       "impact": "↓",
-      "note": "Rạng sáng 30/10 giờ Việt Nam (20:24 UTC 29/10), ví Binance 14 chuyển 167.464 ETH và 63 loại token (khoảng 1,615 tỷ USDT) tới địa chỉ lạ. Hacker lợi dụng lỗ hổng EIP-7702 của Ethereum. Tính chung, hacker nắm hơn 5,7 tỷ USD (1,5 tỷ USD Bitcoin, 900 triệu USD Ether). Khoảng 2,54 tỷ USD bị đóng băng."
+      "note": "Rạng sáng 30/10 (20:24 UTC 29/10), ví Binance 14 chuyển 167.464 ETH, 1,615 tỷ USDT và 63 loại token tới địa chỉ lạ. Hacker dùng lỗ hổng EIP-7702 Ethereum. Lợi dụng cơ chế ủy quyền để không cần xác nhận từng giao dịch — sự cố bảo mật toàn cầu gây lo ngại tiền mã hóa, tâm lý nhà đầu tư."
     },
     {
-      "title": "NHNN xem xét cơ chế giao dịch vốn cho Trung tâm Tài chính quốc tế",
-      "impact": "→",
-      "note": "Tại cuộc làm việc 28/10 trong khuôn khổ Diễn đàn Kinh tế Mùa thu 2026, Phó Thống đốc NHNN Phạm Thanh Hà công bố NHNN xem xét cho phép duy trì tài khoản tại các ngân hàng, tổ chức tín dụng để thực hiện giao dịch vốn tại VIFC-HCMC. Giải pháp tháo gỡ vướng mắc, bảo đảm tuân thủ pháp luật."
+      "title": "Khối ngoại bán ròng 4 phiên liên tiếp, áp lực bán 825 tỷ đồng",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng liên tiếp phiên 28-29/10, tổng giá trị bán ròng gần 825 tỷ đồng (29/10). Kết hợp tự doanh cũng bán ròng — phản ánh lo ngại nhà đầu tư ngoại về triển vọng ngắn hạn, chốt lợi hoặc tránh rủi ro."
     }
   ]
 }
