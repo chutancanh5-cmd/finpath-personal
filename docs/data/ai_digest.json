@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Việt Nam ghi dấu ấn kinh tế với xuất nhập khẩu vượt 1.001,3 tỷ USD lần đầu tiên (xuất +27,2%, nhập +37,6%), trong khi Thủ tướng cam kết tăng trưởng GDP 10%/năm và hít lực FDI vào R&D. Bán lẻ/dược phẩm mạnh (FPT Retail +33%, lợi nhuận +114%). Tuy nhiên, áp lực toàn cầu từ Nasdaq giảm (Alphabet -13%), Binance bị hack 6 tỷ USD, và khối ngoại bán ròng 825 tỷ đồng tạo rủi ro ngắn hạn cho thị trường VN.",
+  "summary_vi": "Xuất nhập khẩu vượt 1.001,3 tỷ USD lần đầu tiên (xuất +27,2%, nhập +37,6%), đánh dấu thành tựu kinh tế vừa mới của Việt Nam với lợi thế cạnh tranh toàn cầu. Thủ tướng cam kết tăng trưởng GDP 10%/năm và chuyển sang mô hình sáng tạo chung với FDI. Lợi nhuận doanh nghiệp mạnh với FPT Retail +114%, NCB Bank +141%, nhưng tâm lý toàn cầu rủi ro (Alphabet -13%, khối ngoại bán ròng 825 tỷ) tạo áp lực ngắn hạn.",
   "top": [
     {
       "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên",
       "impact": "↑",
-      "note": "Đến 29/10, kim ngạch xuất nhập khẩu 1.001,3 tỷ USD (xuất khẩu 493,6 tỷ USD tăng 27,2%, nhập khẩu 507,6 tỷ USD tăng 37,6%). Việt Nam xếp 18 thế giới xuất khẩu, 20 nhập khẩu. FDI chiếm 778 tỷ USD tăng 37%."
+      "note": "Đến 29/10, kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD (xuất khẩu 493,6 tỷ USD tăng 27,2%, nhập khẩu 507,6 tỷ USD tăng 37,6%), chỉ sau 10 tháng năm nay. Việt Nam xếp hạng 18 thế giới về xuất khẩu, 20 nhập khẩu, khẩu độc từ FDI chiếm 778 tỷ USD tăng 37%."
     },
     {
-      "title": "Thủ tướng cam kết GDP 10%/năm, kêu gọi FDI vào R&D sáng tạo",
+      "title": "Thủ tướng cam kết tăng trưởng GDP 10%/năm, kêu gọi FDI vào R&D",
       "impact": "↑",
-      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), Thủ tướng Lê Minh Hưng nêu mục tiêu tăng trưởng GDP từ 10%/năm trở lên, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo', kiến tạo chuỗi giá trị mới toàn cầu."
+      "note": "Phát biểu tại Diễn đàn Kinh tế Thế giới (28/10), Thủ tướng Lê Minh Hưng đặt mục tiêu GDP bình quân 10%/năm trở lên, chuyển mô hình từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' nhằm kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "FPT Retail tăng trưởng 33%, lợi nhuận tăng gấp 2 sau 9 tháng",
+      "title": "FPT Retail tăng trưởng 33% doanh thu, 114% lợi nhuận sau 9 tháng",
       "impact": "↑",
-      "note": "Doanh thu 48,3 ngàn tỷ đồng tăng 33%, lợi nhuận trước thuế 1,7 ngàn tỷ đồng tăng 114%. Long Châu 33,4 ngàn tỷ đồng tăng 35%, chiếm 69%, có 2.741 nhà thuốc, 244 trung tâm tiêm chủng."
+      "note": "Doanh thu hợp nhất 48,3 ngàn tỷ đồng tăng 33%, lợi nhuận trước thuế 1,7 ngàn tỷ đồng tăng 114%. Long Châu đạt 33,4 ngàn tỷ đồng tăng 35%, chiếm 69% doanh thu, có 2.741 nhà thuốc trên toàn quốc (tăng 324 điểm năm nay)."
+    },
+    {
+      "title": "NCB Bank lợi nhuận +141%, dư nợ cho vay tăng 54,5%",
+      "impact": "↑",
+      "note": "Sau 9 tháng 2026, Ngân hàng NCB ghi nhận lợi nhuận trước thuế 1.574 tỷ đồng tăng 141% cùng kỳ. Dư nợ cho vay khách hàng đạt 150.661 tỷ đồng (+54,5% so với cuối 2025), tốc độ tăng trưởng mạnh nhất hệ thống, phục hồi mạnh sau giai đoạn khó khăn."
     },
     {
       "title": "Chứng khoán Mỹ giảm, Alphabet sụt 13% phiên tồi tệ nhất 22 năm",
       "impact": "↓",
-      "note": "Nasdaq giảm 1,38%, S&P 500 giảm 0,3%. Alphabet sụt 13% (từ 2004), 'bốc hơi' 500 tỷ USD, doanh thu/EPS không đạt kỳ vọng, dòng tiền tự do âm 9,07 tỷ USD."
+      "note": "Nasdaq giảm 1,38%, S&P 500 giảm 0,3%. Cổ phiếu Alphabet giảm 13% (phiên giảm mạnh nhất kể từ 2004), 'bốc hơi' 500 tỷ USD vốn hóa, doanh thu và EPS không đạt kỳ vọng, dòng tiền tự do âm 9,07 tỷ USD."
     },
     {
-      "title": "Binance bị nghi hack, hơn 6 tỷ USD chuyển khỏi ví nóng",
+      "title": "Khối ngoại bán ròng 825 tỷ đồng, tiếp tục bán liên tiếp",
       "impact": "↓",
-      "note": "20:24 UTC 29/10, ví Binance 14 chuyển 167.464 ETH, 1,615 tỷ USDT, 63 token lạ. Hacker lợi dụng lỗi hổng EIP-7702 Ethereum, bypass xác nhận từng giao dịch."
-    },
-    {
-      "title": "Khối ngoại bán ròng 825 tỷ đồng liên tiếp 4 phiên",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng phiên 28-29/10, tổng 825 tỷ đồng (29/10). Tự doanh cũng bán ròng, phản ánh lo ngại về triển vọng ngắn hạn."
+      "note": "Khối ngoại bán ròng 825 tỷ đồng phiên 29/10, kéo dài chuỗi bán ròng 4 phiên liên tiếp. Tự doanh cũng bán ròng, phản ánh lo ngại về rủi ro toàn cầu và triển vọng ngắn hạn của thị trường chứng khoán VN."
     }
   ]
 }
