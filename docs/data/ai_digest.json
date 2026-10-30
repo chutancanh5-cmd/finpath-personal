@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chính thức được nâng hạng, với dự báo GDP 2027 đạt 11% và mục tiêu chiến lược 10%+ từ Chính phủ tạo nền tảng tích cực. Tuy nhiên, rủi ro vĩ mô đáng chú ý từ cấu trúc tài chính không cân bằng (vốn dài hạn thiếu, 500 tấn vàng nằm ngoài sản xuất), nguy cơ thắt chặt từ BOJ ảnh hưởng dòng vốn ngoại, và dòng tiền trong nước yếu khiến cổ phiếu khó duy trì đà tăng dù kết quả kinh doanh tích cực.",
+  "summary_vi": "Thủ tướng cam kết tăng trưởng GDP ≥10%/năm, Standard Chartered nâng dự báo 2027 lên 11%, FDI giải ngân tăng 12%. Tuy nhiên, thị trường chứng khoán gặp áp lực (VN-Index -0,80%), giá vàng lao dốc 2,95% xuống 3.901 USD/oz, cấu trúc vốn yếu với 11,2 triệu tỷ gửi tiền và 500 tấn vàng (~12% GDP) chưa chảy vào sản xuất.",
   "top": [
     {
-      "title": "TTCK nâng hạng, tháo gỡ FOF để giữ vốn ngoại",
+      "title": "Thủ tướng cam kết tăng trưởng GDP ≥10%/năm dài hạn",
       "impact": "↑",
-      "note": "FTSE Russell khẳng định đợt chuyển đổi đầu tiên (nâng hạng thị trường mới nổi) diễn ra rất hiệu quả, tạo niềm tin cho các tái cơ cấu danh mục tiếp theo. Diễn đàn 30/10 đề xuất tháo gỡ rào cản tỷ lệ sở hữu nước ngoài, nâng cao chất lượng IPO, minh bạch chính sách để giữ chân dòng vốn quốc tế bền vững."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu 28/10 tại Diễn đàn Kinh tế Mùa thu 2026 khẳng định Việt Nam quyết tâm đạt tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển từ mô hình 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế, kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "Standard Chartered nâng dự báo GDP 2028 lên 9,1%, 2027 đạt 11%",
+      "title": "Standard Chartered nâng dự báo GDP 2027 lên 11%, 2028 lên 9,1%",
       "impact": "↑",
-      "note": "GDP 2026 dự báo 9,5%, 2027 đạt 11%, 2028 nâng từ 6,7% lên 9,1% nhờ hỗ trợ chính sách tài khóa, tiền tệ, FDI giải ngân tăng 12%, nhu cầu trong nước gia tăng. Kỳ vọng tăng trưởng duy trì 2 chữ số đầu 2027."
+      "note": "Standard Chartered dự báo GDP 2026 đạt 9,5%, năm 2027 đạt 11%, năm 2028 nâng từ 6,7% lên 9,1%, nhờ hỗ trợ chính sách tài khóa, tiền tệ, FDI giải ngân 9 tháng tăng 12%, nhu cầu trong nước gia tăng, tăng trưởng kỳ vọng duy trì 2 chữ số đầu 2027."
     },
     {
-      "title": "Thủ tướng cam kết GDP 10%+, chiến lược đầu tư-sáng tạo toàn cầu",
+      "title": "BOJ giữ nguyên lãi suất, sẵn sàng tăng từ tháng 12/2026",
       "impact": "↑",
-      "note": "Phát biểu 28/10 tại Diễn đàn Kinh tế Mùa thu 2026: mục tiêu GDP bình quân từ 10%/năm trở lên, biến Việt Nam thành trung tâm R&D và đổi mới sáng tạo toàn cầu. Kêu gọi tập đoàn quốc tế chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo'."
+      "note": "Ngân hàng Trung ương Nhật Bản 30/10 giữ nguyên lãi suất, tuyên bố chiến thắng chống giảm phát khi lạm phát cơ bản Nhật gần mức 2%, sẽ thảo luận lãi suất tại mỗi cuộc họp bao gồm 12/2026, với hướng thắt chặt để duy trì lạm phát ổn định, hỗ trợ USD yếu và xuất khẩu Việt Nam."
     },
     {
-      "title": "Cấu trúc tài chính mất cân bằng: 500 tấn vàng, 11,2 triệu tỷ gửi nhưng vốn dài hạn thiếu",
+      "title": "VN-Index giảm 0,80%, dòng tiền yếu, tâm lý chốt lời",
       "impact": "↓",
-      "note": "Đại biểu QH Lê Hoàng Anh (30/10) cảnh báo: dân giữ ~500 tấn vàng (12% GDP), tiền gửi dân cư vượt 11,2 triệu tỷ đồng; nhưng dư nợ tín dụng ~155% GDP, 80% tiền gửi kỳ hạn dưới 12 tháng khi nửa dư nợ là khoản trung, dài hạn. Thị trường trái phiếu doanh nghiệp chỉ 11% GDP, chưa đạt mục tiêu 20%."
+      "note": "VN-Index giảm 13,99 điểm (-0,80%), xuống 1.741,62 điểm phiên cuối tuần. Dòng tiền trên thị trường vẫn rất yếu, nhiều cổ phiếu với kết quả kinh doanh tích cực vẫn chịu áp lực bán, tâm lý nhà đầu tư mong manh sẵn sàng chốt lời ngay sau vài phiên tăng thay vì kiên nhẫn nắm giữ dài hạn."
     },
     {
-      "title": "BOJ giữ nguyên lãi suất, chuẩn bị thắt chặt từ tháng 12/2026",
+      "title": "Giá vàng lao dốc 2,95% xuống 3.901 USD/oz, mức thấp 1 năm",
       "impact": "↓",
-      "note": "BOJ tuyên bố chiến thắng chống giảm phát khi lạm phát cơ bản Nhật gần 2%, sẽ duy trì ổn định, điều chỉnh lãi suất 'phù hợp' vài tháng một lần. Thống đốc Ueda khẳng định thảo luận lãi suất tại mỗi cuộc họp bao gồm 12/2026, ưu tiên rủi ro lạm phát. Tín hiệu thắt chặt có ảnh hưởng dòng vốn ngoại."
+      "note": "Giá vàng thế giới giảm gần 119 USD/ounce (2,95%), xuống quanh 3.901 USD/ounce trong phiên 30/10, mức thấp nhất trong 1 năm, do triển vọng lãi suất Fed và dữ liệu lạm phát Mỹ chậm lại; giá vàng miếng SJC trong nước giảm 1,3 triệu đồng xuống 141,4 triệu đồng/lượng, thấp nhất kể từ cuối tháng 7/2026."
     },
     {
-      "title": "Dòng tiền yếu, tâm lý mong manh: cổ phiếu khó duy trì đà tăng",
-      "impact": "↓",
-      "note": "VN-Index giảm 13,99 điểm (-0,80%) xuống 1.741,62. SSI nhận định kết quả kinh doanh tích cực nhưng cổ phiếu vẫn không tăng như kỳ vọng do dòng tiền thị trường yếu. Nhà đầu tư mong manh sẵn sàng chốt lời sau vài phiên tăng, chưa kiên nhẫn nắm giữ dài hạn."
+      "title": "Dân giữ 11,2 triệu tỷ gửi tiền, 500 tấn vàng, vốn không vào sản xuất",
+      "impact": "→",
+      "note": "Đại biểu QH Lê Hoàng Anh 30/10 cảnh báo: tiền gửi dân cư vượt 11,2 triệu tỷ đồng, người dân nắm ~500 tấn vàng (~12% GDP), nhưng dư nợ tín dụng ~155% GDP, 80% tiền gửi kỳ hạn dưới 12 tháng khi nửa dư nợ là khoản trung, dài hạn; thị trường trái phiếu doanh nghiệp chỉ 11% GDP, chưa đạt mục tiêu 20%, phản ánh vấn đề cấu trúc huy động vốn."
     }
   ]
 }
