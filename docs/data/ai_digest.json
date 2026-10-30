@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Xuất nhập khẩu vượt 1.001,3 tỷ USD lần đầu tiên (xuất +27,2%, nhập +37,6%), đánh dấu thành tựu kinh tế vừa mới của Việt Nam với lợi thế cạnh tranh toàn cầu. Thủ tướng cam kết tăng trưởng GDP 10%/năm và chuyển sang mô hình sáng tạo chung với FDI. Lợi nhuận doanh nghiệp mạnh với FPT Retail +114%, NCB Bank +141%, nhưng tâm lý toàn cầu rủi ro (Alphabet -13%, khối ngoại bán ròng 825 tỷ) tạo áp lực ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế vĩ mô sáng với xuất nhập khẩu vượt 1.001,3 tỷ USD lần đầu tiên (xuất +27,2%, nhập +37,6%) và chính phủ cam kết tăng trưởng GDP 10%/năm, tuy nhiên thị trường chứng khoán hôm nay chịu áp lực bán mạnh (VN-Index giảm 18,76 điểm) do lo ngại từ công nghệ Mỹ (Alphabet -13%) và khối ngoại bán ròng. Lợi nhuận doanh nghiệp tăng trưởng mạnh (FPT Retail +114%, NCB +141%) tạo ra sự chênh lệch rủi ro-cơ hội ngắn hạn.",
   "top": [
     {
       "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên",
@@ -30,9 +30,9 @@
       "note": "Nasdaq giảm 1,38%, S&P 500 giảm 0,3%. Cổ phiếu Alphabet giảm 13% (phiên giảm mạnh nhất kể từ 2004), 'bốc hơi' 500 tỷ USD vốn hóa, doanh thu và EPS không đạt kỳ vọng, dòng tiền tự do âm 9,07 tỷ USD."
     },
     {
-      "title": "Khối ngoại bán ròng 825 tỷ đồng, tiếp tục bán liên tiếp",
+      "title": "VN-Index giảm 18,76 điểm, áp lực bán mạnh phiên sáng 30/10",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 825 tỷ đồng phiên 29/10, kéo dài chuỗi bán ròng 4 phiên liên tiếp. Tự doanh cũng bán ròng, phản ánh lo ngại về rủi ro toàn cầu và triển vọng ngắn hạn của thị trường chứng khoán VN."
+      "note": "VN-Index lúc 10h30 phiên 30/10 giảm xuống 1.736,85 điểm (-18,76 điểm). Thanh khoản khớp lệnh vượt 3.434 tỷ đồng, gấp 3 lần mốc 9h30. Độ rộng 3 sàn nghiêng về phe bán với HOSE 199 mã giảm. Nhóm bất động sản (VIC -2,16%, VHM -1,93%) và ngân hàng (TCB -2,01%, VPB -1,51%) chịu áp lực lớn."
     }
   ]
 }
