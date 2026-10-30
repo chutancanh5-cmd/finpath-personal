@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngày 30/10 ghi nhận các bước đột phá vĩ mô: xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (tăng 27-37%), Thủ tướng xác nhận mục tiêu GDP 10%+ và chuyển sang mô hình \"cùng đầu tư, cùng sáng tạo\" toàn cầu. Các doanh nghiệp lớn Vingroup (lợi nhuận tăng 6 lần) và FPT Retail (doanh thu tăng 33%) ghi nhận tăng trưởng mạnh. NHNN tháo gỡ vướng mắc cho VIFC, hỗ trợ dòng vốn quốc tế. Rủi ro ngắn hạn từ áp lực công nghệ toàn cầu (Alphabet) và chu kỳ thắt chặt chính sách trên toàn cầu.",
+  "summary_vi": "Xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD với tăng trưởng 27,2% (xuất) và 37,6% (nhập). Vingroup báo lợi nhuận 43,7 nghìn tỷ đồng, gấp 6 lần cùng kỳ, huy động 2,3 tỷ USD quốc tế. Thủ tướng cam kết mục tiêu GDP tăng trưởng 10%/năm và biến Việt Nam thành trung tâm R&D toàn cầu. Chính sách tiền tệ toàn cầu ổn định hỗ trợ dòng vốn. Rủi ro gần: vụ hack Binance 6 tỷ USD gây bất ổn tiền điện tử.",
   "top": [
     {
-      "title": "Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD",
+      "title": "Xuất nhập khẩu VN lần đầu vượt 1.000 tỷ USD",
       "impact": "↑",
-      "note": "Đến 29/10, tổng kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD (xuất 493,6 tỷ tăng 27,2%, nhập 507,6 tỷ tăng 37,6%). Khu vực FDI đóng góp 778 tỷ USD tăng 37%, doanh nghiệp trong nước 223 tỷ USD tăng 16%. Máy vi tính, điện thoại, linh kiện chiếm 532 tỷ USD tăng 49%."
+      "note": "Kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD (xuất 493,6 tỷ USD +27,2%, nhập 507,6 tỷ USD +37,6%). Việt Nam xếp thứ 18 thế giới xuất khẩu, thứ 20 nhập khẩu. Khu vực FDI đóng góp 778 tỷ USD tăng 37%."
     },
     {
-      "title": "Thủ tướng: GDP 10%+, R&D toàn cầu",
+      "title": "Vingroup lãi 43,7 nghìn tỷ đồng, gấp 6 lần cùng kỳ",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10) cam kết tăng trưởng GDP bình quân 10%/năm trở lên, chuyển từ mô hình 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế, nhằm kiến tạo chuỗi giá trị mới."
+      "note": "Lợi nhuận sau thuế 9 tháng: 43,7 nghìn tỷ đồng (gấp 6 lần), hoàn thành 125% kế hoạch cả năm. Doanh thu 372,5 nghìn tỷ đồng gấp 2,2 lần. Huy động 2,3 tỷ USD từ các nhà đầu tư quốc tế."
     },
     {
-      "title": "Vingroup lãi 43,7 nghìn tỷ đồng, gấp 6 lần",
+      "title": "Thủ tướng công bố mục tiêu GDP 10%+, trung tâm R&D toàn cầu",
       "impact": "↑",
-      "note": "Lợi nhuận sau thuế hợp nhất 9 tháng 2026 đạt 43,7 nghìn tỷ đồng, hoàn thành 125% kế hoạch cả năm. Doanh thu thuần 372,5 nghìn tỷ đồng tăng 2,2 lần. Huy động 2,3 tỷ USD từ quốc tế, tổng tài sản 1,6 triệu tỷ đồng tăng 44,8%."
+      "note": "Thủ tướng Lê Minh Hưng xác định mục tiêu tăng trưởng GDP bình quân 10%/năm trở lên. Chuyển sang mô hình 'cùng đầu tư, cùng sáng tạo' với tập đoàn quốc tế. Kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "FPT Retail tăng 33% doanh thu, 114% lợi nhuận",
-      "impact": "↑",
-      "note": "Doanh thu 48,3 nghìn tỷ đồng tăng 33%, lợi nhuận trước thuế 1,7 nghìn tỷ đồng tăng 114%. Long Châu đạt 33,4 nghìn tỷ đồng chiếm 69%, tăng 35%, mở 324 nhà thuốc mới, hiện có 2.741 nhà thuốc toàn quốc."
+      "title": "Chính sách tiền tệ toàn cầu: Fed, ECB giữ nguyên; BOJ đợi tháng 12",
+      "impact": "→",
+      "note": "Fed (28/10) và ECB (29/10) giữ lãi suất không đổi. BOJ dự kiến giữ 1,25%, xác suất 80% tăng tháng 12. Đồng yên tăng lên 157,5 yên/USD. Chu kỳ thắt chặt chính sách vẫn tiếp tục."
     },
     {
-      "title": "Alphabet giảm 13%, mất 500 tỷ USD",
+      "title": "VPBankS huy động 6.000 tỷ đồng trái phiếu cho margin",
+      "impact": "→",
+      "note": "Trái phiếu VPXPO2627001 kỳ hạn 12 tháng, lãi suất 9,5%/năm. 60 triệu trái phiếu, mệnh giá 100.000 đồng, chào bán quý 4/2026-1/2027. Dùng cho hoạt động giao dịch ký quỹ (margin)."
+    },
+    {
+      "title": "Binance bị hack, 6 tỷ USD tài sản chuyển khỏi ví nóng",
       "impact": "↓",
-      "note": "Cổ phiếu Alphabet giảm mạnh nhất lịch sử kể từ 2004 (-13% ngày 29/10), dòng tiền tự do âm 9,07 tỷ USD (dự báo âm 2,7 tỷ), doanh thu quảng cáo tìm kiếm 63,35 tỷ USD tăng 12% nhưng thấp kỳ vọng, AI Mode kiếm tiền yếu hơn."
-    },
-    {
-      "title": "NHNN xem xét cơ chế giao dịch VIFC",
-      "impact": "↑",
-      "note": "Phó Thống đốc NHNN Phạm Thanh Hà (28/10) xem xét cho phép giao dịch vốn tại VIFC-HCMC qua tài khoản các ngân hàng hoạt động trong nước, bảo đảm kiểm soát dòng tiền và tuân thủ pháp luật, tháo gỡ vướng mắc cho nhà đầu tư."
+      "note": "Các ví nóng Binance (14, 16, Hot Wallet 34) bị chiếm quyền EIP-7702. Binance 14 chuyển 167.464 ETH và 1,615 tỷ USDT. Tether đóng băng tài sản để ngăn chặn. Nguy hiểm cho thị trường tiền điện tử."
     }
   ]
 }
