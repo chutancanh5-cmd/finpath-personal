@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường hôm nay chứng kiến áp lực bán mạnh từ khối ngoại (641 tỷ đồng) và cổ phiếu ngân hàng lao dốc toàn diện (13/13 mã trong VN30 giảm), khiến VN-Index giảm 1,44% xuống 1.741 điểm. Tuy nhiên, các tín hiệu vĩ mô dài hạn vẫn tích cực: Thủ tướng quyết tâm đạt tăng trưởng GDP từ 10%/năm giai đoạn 2026-2030, IMF dự báo GDP bình quân đầu người Việt Nam vượt Indonesia, các doanh nghiệp niêm yết báo lợi nhuận mạnh. Cần theo dõi tác động từ yếu tố vĩ mô toàn cầu.",
+  "summary_vi": "Thị trường có những tín hiệu vĩ mô tích cực với GDP bình quân đầu người Việt Nam dự báo vượt Indonesia (5.259 USD), mục tiêu tăng trưởng 10%/năm từ Chính phủ. Các doanh nghiệp tư nhân tăng trưởng mạnh (MSB +27%, FPT Retail +33%). Tuy nhiên, tâm lý nhà đầu tư vẫn mong manh do dòng tiền yếu, khối ngoại bán ròng 641 tỷ đồng, nhiều cổ phiếu quay về đáy và áp lực chốt lời cao dù kết quả kinh doanh tích cực. Nhà đầu tư dài hạn có cơ hội, nhưng ngắn hạn còn rủi ro.",
   "top": [
     {
-      "title": "VN-Index giảm 1,44%, khối ngoại bán ròng 641 tỷ đồng",
+      "title": "GDP bình quân đầu người Việt Nam vượt Indonesia",
+      "impact": "↑",
+      "note": "IMF dự báo GDP danh nghĩa bình quân đầu người Việt Nam 2026 đạt 5.259 USD, vượt Indonesia 5.153 USD, đứng thứ 5 ASEAN. Tăng 8,9% so với mức 4.829 USD năm 2025, gần gấp đôi so với một thập kỷ trước."
+    },
+    {
+      "title": "Thủ tướng xác định mục tiêu tăng trưởng GDP 10%/năm",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng tuyên bố Việt Nam quyết tâm đạt tăng trưởng GDP bình quân từ 10%/năm, trở thành trung tâm R&D và đổi mới sáng tạo toàn cầu. Đề xuất chuyển từ mô hình 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' với các tập đoàn quốc tế."
+    },
+    {
+      "title": "MSB tăng lợi nhuận trước thuế 27% quý III",
+      "impact": "↑",
+      "note": "Ngân hàng Hàng Hải Việt Nam (MSB) công bố lợi nhuận trước thuế quý III/2026 đạt 2.017 tỷ đồng, tăng 27,1% so với cùng kỳ; 9 tháng lũy kế 5.440 tỷ đồng. Thu nhập lãi thuần tăng 21,7%, tín dụng tăng 13,5%."
+    },
+    {
+      "title": "FPT Retail tăng trưởng 33% doanh thu 9 tháng",
+      "impact": "↑",
+      "note": "FPT Retail (FRT) doanh thu hợp nhất 9 tháng đạt 48,3 ngàn tỷ đồng, tăng 33%. Lợi nhuận trước thuế tăng 114% lên 1,7 ngàn tỷ đồng. Long Châu chiếm 69% doanh thu, có 2.741 nhà thuốc."
+    },
+    {
+      "title": "Khối ngoại bán ròng 641 tỷ đồng, VIC xả 353 tỷ",
       "impact": "↓",
-      "note": "Phiên 30/10, VN-Index giảm 14 điểm xuống 1.741 điểm (-1,44%), HNX-Index giảm 0,96% xuống 254,14 điểm. Khối ngoại bán ròng 641 tỷ đồng toàn thị trường; VIC bị bán ròng mạnh nhất với 353 tỷ đồng, theo sau TCB 133 tỷ đồng."
+      "note": "Khối ngoại bán ròng khoảng 641 tỷ đồng toàn thị trường phiên 30/10. VIC dẫn đầu danh sách bị xả với 353 tỷ đồng, TCB 133 tỷ đồng, MBB 43 tỷ đồng. Tín hiệu yếu từ nhà đầu tư nước ngoài."
     },
     {
-      "title": "Toàn bộ 13 cổ phiếu ngân hàng trong VN30 giảm, 4 mã rơi vượt 2%",
+      "title": "Dòng tiền yếu, VN-Index giảm 0,80%, tâm lý mong manh",
       "impact": "↓",
-      "note": "SSB giảm 3,53%, TCB giảm 3,36%, LPB giảm 3,22%, MBB giảm 2,03%, chỉ SHB và STB giảm dưới 1%. Toàn nhóm ngân hàng 28 mã: 20 mã giảm quá 1%, EIB giảm 4,17%. Thị trường có 420 mã giảm so 218 mã tăng."
-    },
-    {
-      "title": "Thủ tướng quyết tâm tăng trưởng GDP từ 10%/năm 2026-2030",
-      "impact": "↑",
-      "note": "Phát biểu ngày 28/10 tại Diễn đàn Kinh tế Mùa thu 2026, Thủ tướng Lê Minh Hưng khẳng định Việt Nam bước vào giai đoạn phát triển bản lề với mục tiêu tăng trưởng GDP 10%/năm, trở thành trung tâm R&D và đổi mới sáng tạo toàn cầu."
-    },
-    {
-      "title": "IMF dự báo GDP bình quân đầu người Việt Nam vượt Indonesia",
-      "impact": "↑",
-      "note": "IMF dự báo GDP danh nghĩa bình quân đầu người Việt Nam 2026 đạt 5.259 USD, vượt Indonesia 5.153 USD (nền kinh tế lớn nhất Đông Nam Á), đứng thứ 5 ASEAN. Mức tăng 8,9% so với 4.829 USD năm 2025, gần gấp đôi một thập kỷ trước."
-    },
-    {
-      "title": "MSB lợi nhuận Q3 tăng 27,1%, tín dụng tăng 13,5%",
-      "impact": "↑",
-      "note": "Ngân hàng TMCP Hàng Hải Việt Nam báo lợi nhuận trước thuế quý III 2.017 tỷ đồng, tăng 27,1% so cùng kỳ; lũy kế 9 tháng 5.440 tỷ đồng. Thu nhập lãi thuần tăng 21,6%, tín dụng tăng 13,5%, chỉ tiêu CIR ổn định 37,3%."
-    },
-    {
-      "title": "FPT Retail doanh thu 9 tháng tăng 33%, lợi nhuận tăng 114%",
-      "impact": "↑",
-      "note": "CTCP Bán lẻ Kỹ thuật số FPT (FRT) đạt doanh thu hợp nhất 48,3 ngàn tỷ đồng sau 9 tháng, tăng 33%; lợi nhuận trước thuế 1,7 ngàn tỷ đồng, tăng 114%. Long Châu: 2.741 nhà thuốc doanh thu 33,4 ngàn tỷ đồng (+35%), chiếm 69% doanh thu."
+      "note": "VN-Index phiên 30/10 giảm 13,99 điểm (-0,80%) xuống 1.741,62 điểm. Dòng tiền yếu, nhà đầu tư hay chốt lời ngay thay vì nắm giữ. Khi báo cáo kinh doanh tích cực được công bố, cổ phiếu chỉ tăng vài phiên rồi chịu áp lực bán."
     }
   ]
 }
