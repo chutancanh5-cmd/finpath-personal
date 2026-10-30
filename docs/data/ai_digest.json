@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Việt Nam đạt cột mốc lịch sử xuất nhập khẩu 1.001,3 tỷ USD với tăng trưởng 27-37%, thể hiện nền kinh tế mạnh. Thủ tướng công bố mục tiêu tăng trưởng GDP 10%/năm và chiến lược kêu gọi FDI vào R&D, sáng tạo — tín hiệu tích cực cho dòng vốn nước ngoài. Tuy nhiên, Nasdaq giảm 1,38% do Alphabet sụt 13%, sự cố Binance bị hack hơn 6 tỷ USD gây lo ngại, và khối ngoại bán ròng 4 phiên liên tiếp phản ánh tính thận trọng. Thị trường cân nhắc giữa yếu tố vĩ mô tích cực từ kinh tế VN với áp lực tâm lý toàn cầu.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Việt Nam ghi dấu ấn kinh tế với xuất nhập khẩu vượt 1.001,3 tỷ USD lần đầu tiên (xuất +27,2%, nhập +37,6%), trong khi Thủ tướng cam kết tăng trưởng GDP 10%/năm và hít lực FDI vào R&D. Bán lẻ/dược phẩm mạnh (FPT Retail +33%, lợi nhuận +114%). Tuy nhiên, áp lực toàn cầu từ Nasdaq giảm (Alphabet -13%), Binance bị hack 6 tỷ USD, và khối ngoại bán ròng 825 tỷ đồng tạo rủi ro ngắn hạn cho thị trường VN.",
   "top": [
     {
       "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên",
       "impact": "↑",
-      "note": "Đến 29/10, kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD (xuất khẩu 493,6 tỷ USD tăng 27,2%, nhập khẩu 507,6 tỷ USD tăng 37,6%). FDI chiếm 778 tỷ USD tăng 37%. Ba nhóm hàng chính (máy vi tính/điện tử/linh kiện, điện thoại, máy móc) đạt 532 tỷ USD tăng 49% — mốc kỷ lục xác nhận sức mạnh kinh tế Việt Nam."
+      "note": "Đến 29/10, kim ngạch xuất nhập khẩu 1.001,3 tỷ USD (xuất khẩu 493,6 tỷ USD tăng 27,2%, nhập khẩu 507,6 tỷ USD tăng 37,6%). Việt Nam xếp 18 thế giới xuất khẩu, 20 nhập khẩu. FDI chiếm 778 tỷ USD tăng 37%."
     },
     {
-      "title": "Thủ tướng cam kết tăng trưởng GDP 10%/năm, trung tâm R&D toàn cầu",
+      "title": "Thủ tướng cam kết GDP 10%/năm, kêu gọi FDI vào R&D sáng tạo",
       "impact": "↑",
-      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), Thủ tướng Lê Minh Hưng nêu mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên. Đề xuất 4 chiến lược chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo', kiến tạo chuỗi giá trị mới toàn cầu — tín hiệu kêu gọi FDI vào công nghệ."
+      "note": "Phát biểu tại Diễn đàn Kinh tế Mùa thu 2026 (28/10), Thủ tướng Lê Minh Hưng nêu mục tiêu tăng trưởng GDP từ 10%/năm trở lên, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo', kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "FPT Retail tăng trưởng 33% doanh thu, lợi nhuận tăng gấp 2",
+      "title": "FPT Retail tăng trưởng 33%, lợi nhuận tăng gấp 2 sau 9 tháng",
       "impact": "↑",
-      "note": "9 tháng 2026, FPT Retail đạt doanh thu 48,3 ngàn tỷ đồng tăng 33%, lợi nhuận trước thuế 1,7 ngàn tỷ đồng tăng 114% YoY. Long Châu 33,4 ngàn tỷ đồng (tăng 35%, chiếm 69%) với 2.741 nhà thuốc, 244 trung tâm tiêm chủng — dòng tiền lợi nhuận tốt của doanh nghiệp lớn."
+      "note": "Doanh thu 48,3 ngàn tỷ đồng tăng 33%, lợi nhuận trước thuế 1,7 ngàn tỷ đồng tăng 114%. Long Châu 33,4 ngàn tỷ đồng tăng 35%, chiếm 69%, có 2.741 nhà thuốc, 244 trung tâm tiêm chủng."
     },
     {
       "title": "Chứng khoán Mỹ giảm, Alphabet sụt 13% phiên tồi tệ nhất 22 năm",
       "impact": "↓",
-      "note": "Nasdaq giảm 1,38% còn 26.184,72 điểm, S&P 500 giảm 0,3%. Alphabet sụt 13% (phiên tồi tệ nhất kể từ IPO 2004), 'bốc hơi' 500 tỷ USD, doanh thu và EPS không đạt kỳ vọng, dòng tiền tự do âm 9,07 tỷ USD — sụt giảm ông lớn tech tác động tâm lý nhà đầu tư toàn cầu."
+      "note": "Nasdaq giảm 1,38%, S&P 500 giảm 0,3%. Alphabet sụt 13% (từ 2004), 'bốc hơi' 500 tỷ USD, doanh thu/EPS không đạt kỳ vọng, dòng tiền tự do âm 9,07 tỷ USD."
     },
     {
-      "title": "Nghi vấn Binance bị hack, hơn 6 tỷ USD bị chuyển khỏi ví nóng",
+      "title": "Binance bị nghi hack, hơn 6 tỷ USD chuyển khỏi ví nóng",
       "impact": "↓",
-      "note": "Rạng sáng 30/10 (20:24 UTC 29/10), ví Binance 14 chuyển 167.464 ETH, 1,615 tỷ USDT và 63 loại token tới địa chỉ lạ. Hacker dùng lỗ hổng EIP-7702 Ethereum. Lợi dụng cơ chế ủy quyền để không cần xác nhận từng giao dịch — sự cố bảo mật toàn cầu gây lo ngại tiền mã hóa, tâm lý nhà đầu tư."
+      "note": "20:24 UTC 29/10, ví Binance 14 chuyển 167.464 ETH, 1,615 tỷ USDT, 63 token lạ. Hacker lợi dụng lỗi hổng EIP-7702 Ethereum, bypass xác nhận từng giao dịch."
     },
     {
-      "title": "Khối ngoại bán ròng 4 phiên liên tiếp, áp lực bán 825 tỷ đồng",
+      "title": "Khối ngoại bán ròng 825 tỷ đồng liên tiếp 4 phiên",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng liên tiếp phiên 28-29/10, tổng giá trị bán ròng gần 825 tỷ đồng (29/10). Kết hợp tự doanh cũng bán ròng — phản ánh lo ngại nhà đầu tư ngoại về triển vọng ngắn hạn, chốt lợi hoặc tránh rủi ro."
+      "note": "Khối ngoại bán ròng phiên 28-29/10, tổng 825 tỷ đồng (29/10). Tự doanh cũng bán ròng, phản ánh lo ngại về triển vọng ngắn hạn."
     }
   ]
 }
