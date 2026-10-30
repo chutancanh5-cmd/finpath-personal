@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-30",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD trong năm, khẳng định vị thế thương mại toàn cầu và hỗ trợ mục tiêu tăng trưởng GDP 10%+ của Chính phủ. Tuy nhiên, thị trường chứng khoán chịu áp lực bán mạnh từ khối ngoại và tự doanh với giá trị bán ròng gần 825 tỷ đồng, trong khi một số công ty chứng khoán và doanh nghiệp ghi nhận kết quả kinh doanh suy giảm đáng kể, phản ánh tâm lý nhà đầu tư còn thận trọng về triển vọng ngắn hạn.",
+  "summary_vi": "Xuất nhập khẩu Việt Nam vượt kỷ lục 1.001,3 tỷ USD trong 10 tháng với FDI tăng 37%, hỗ trợ mục tiêu tăng trưởng GDP 10%/năm của Chính phủ. Tuy nhiên, lạm phát toàn cầu vẫn cao (Mỹ 3,6%, eurozone 3,8% - gấp rưỡi mục tiêu), tạo áp lực lãi suất toàn cầu. Thị trường chứng khoán chịu áp lực bán từ khối ngoại (430 tỷ đồng phiên 29/10) và một số doanh nghiệp hạ mục tiêu lợi nhuận mạnh, phản ánh tâm lý thận trọng ngắn hạn.",
   "top": [
     {
-      "title": "Xuất nhập khẩu kỷ lục: 1.001 tỷ USD trong 10 tháng",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu",
       "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD (tăng 32,3% so với cùng kỳ 2025), lần đầu vượt ngưỡng 1.000 tỷ USD khi còn hơn 2 tháng nữa kết thúc năm. Xuất khẩu 493,6 tỷ USD (+27,2%), nhập khẩu 507,6 tỷ USD (+37,6%), FDI chiếm 778 tỷ USD (+37%)."
+      "note": "Kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD trong 10 tháng, tăng 32,3% YoY. Xuất khẩu 493,6 tỷ USD (+27,2%), nhập khẩu 507,6 tỷ USD (+37,6%). FDI đóng góp 778 tỷ USD (+37%), doanh nghiệp trong nước 223 tỷ USD (+16%). Việt Nam đứng thứ 18 thế giới về xuất khẩu, thứ 20 về nhập khẩu."
     },
     {
-      "title": "Chính phủ đề ra mục tiêu tăng trưởng GDP 10%/năm",
+      "title": "Chính phủ mục tiêu tăng trưởng GDP 10%/năm",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng khẳng định Việt Nam quyết tâm đạt tăng trưởng GDP bình quân từ 10%/năm trở lên, kêu gọi các tập đoàn quốc tế chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị toàn cầu."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu ngày 28/10 khẳng định Việt Nam quyết tâm tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo', kêu gọi tập đoàn quốc tế tham gia kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "Khối ngoại, tự doanh cùng bán ròng mạnh",
+      "title": "Lạm phát Mỹ 3,6%, eurozone 3,8% - gấp rưỡi mục tiêu",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 540 tỷ đồng, tự doanh bán ròng 282 tỷ đồng, tổng cộng gần 825 tỷ đồng trong phiên 29/10. Lực bán tập trung vào TCB (bán 89-118 tỷ), FPT (115 tỷ), GAS (42 tỷ). VN-Index giảm 11,04 điểm (-0,62%)."
+      "note": "Chỉ số PCE Mỹ tháng 9 tăng 3,6% YoY, cao gấp rưỡi mục tiêu 2% của Fed. Lạm phát eurozone tháng 9 là 3,8% (tăng từ 3,2% tháng 8) do giá năng lượng tăng từ chiến tranh Mỹ-Iran. ECB giữ lãi suất ở 2,5%. Áp lực lãi suất toàn cầu tăng."
     },
     {
-      "title": "Chứng khoán DSC hạ mục tiêu lợi nhuận 57%",
+      "title": "Khối ngoại bán ròng 430 tỷ, VN-Index giảm 0,62%",
       "impact": "↓",
-      "note": "Quý 3/2026 lãi trước thuế chỉ 4 tỷ đồng (giảm 98%), mục tiêu năm hạ từ 356 tỷ xuống 152 tỷ đồng. Doanh thu hạ 14% xuống 640 tỷ, chi phí tăng 25%, phản ánh tình trạng khó khăn của ngành chứng khoán."
+      "note": "Phiên 29/10, khối ngoại bán ròng 430 tỷ đồng, tự doanh CTCK bán ròng mạnh: TCB -89 tỷ, GAS -42 tỷ, NT2 -36 tỷ, STB -24 tỷ, VIC -18 tỷ. VN-Index giảm 11,04 điểm (-0,62%) xuống 1.755,61 điểm, phản ánh áp lực bán mạnh."
     },
     {
-      "title": "Petro Times (PPT) nằm sàn 8 phiên liên tiếp",
-      "impact": "↓",
-      "note": "Giá cổ phiếu PPT giảm từ 15.000 đ/cp xuống 6.600 đ/cp (giảm 56%) trong 8 phiên từ 20-29/10. Vốn hóa thị trường bốc hơi hơn 135 tỷ đồng. Công ty gặp khó khăn kinh doanh do biến động thị trường và vấn đề hoạt động nội bộ."
-    },
-    {
-      "title": "NHNN tháo gỡ vướng mắc giao dịch vốn cho VIFC",
+      "title": "VPBankS huy động 6.000 tỷ cho vay margin",
       "impact": "↑",
-      "note": "NHNN dự kiến cho phép thực hiện giao dịch vốn qua tài khoản các ngân hàng hiện tại cho Trung tâm Tài chính quốc tế Việt Nam tại TP.HCM (VIFC-HCMC) trong lúc chờ ngân hàng thành viên, nhằm thuận lợi dòng vốn quốc tế."
+      "note": "VPBankS phê duyệt chào bán 6.000 tỷ đồng trái phiếu (60 triệu đơn vị, mệnh giá 100.000 đồng/cp), lãi suất 9,5%/năm, kỳ hạn 12 tháng, quý 4/2026-1/2027, toàn bộ dùng cho hoạt động giao dịch ký quỹ (margin)."
+    },
+    {
+      "title": "Petro Times (PPT) nằm sàn 8 phiên, giảm 56%",
+      "impact": "↓",
+      "note": "Cổ phiếu PPT giảm sàn 8 phiên liên tiếp từ 20-29/10, giá giảm từ 15.000 đ/cp xuống 6.600 đ/cp (giảm 56%, mất 9,59% phiên cuối). Vốn hóa bốc hơi hơn 135 tỷ đồng từ 265 tỷ xuống 130 tỷ đồng. Công ty gặp khó khăn kinh doanh."
     }
   ]
 }
