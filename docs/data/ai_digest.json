@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Dự báo tăng trưởng GDP 11% năm 2027 từ Standard Chartered và cam kết trên 10%/năm từ Thủ tướng chỉ ra triển vọng vĩ mô dài hạn tích cực. Tuy nhiên, thị trường chứng khoán lao dốc tuần này (VN-Index -1,83%, 453 cổ phiếu giảm) với khối ngoại bán ròng 6 phiên liên tiếp, phản ánh dòng tiền yếu và tâm lý thận trọng. Vấn đề cấu trúc vẫn tồn tại: vốn dồi dào (11,2 triệu tỷ tiền gửi, 500 tấn vàng) nhưng chưa chảy đủ vào sản xuất, thị trường trái phiếu doanh nghiệp chỉ 11% GDP.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường nhận được tín hiệu tích cực từ phía vĩ mô với Standard Chartered nâng dự báo GDP 2027 lên 11% và Thủ tướng lập mục tiêu tăng trưởng 10%+ kèm chiến lược FDI toàn cầu, đồng thời doanh nghiệp ghi nhận kết quả xuất sắc (SGN +105% lợi nhuận, FPT Retail +114%). Tuy nhiên, áp lực từ dòng tiền nước ngoài yếu (khối ngoại bán ròng 647 tỷ phiên thứ 6 liên tiếp) và sự kiện Binance bị hack 6,3 tỷ USD làm lung lay niềm tin nhà đầu tư, kéo chỉ số VN-Index giảm 0,8%. Kỳ vọng tăng trưởng cao được bù lại bởi tâm lý chốt lời nhanh, tạo cân bằng giữa tích cực (vĩ mô) và tiêu cực (dòng tiền, sự kiện bên ngoài).",
   "top": [
     {
-      "title": "Standard Chartered dự báo GDP Việt Nam 11% năm 2027",
+      "title": "Standard Chartered nâng dự báo GDP 2027 lên 11%",
       "impact": "↑",
-      "note": "Standard Chartered nâng dự báo tăng trưởng GDP Việt Nam lên 11% năm 2027 (từ 9,5% năm 2026, 9,1% năm 2028), nhờ hỗ trợ từ chính sách tài khóa, tiền tệ, FDI mạnh mẽ và nhu cầu nội địa gia tăng; kỳ vọng tăng trưởng 2 chữ số sẽ hỗ trợ thu nhập hộ gia đình và triển vọng tiêu dùng."
+      "note": "Dự báo tăng trưởng GDP 2026 đạt 9,5%, 2027 đạt 11%, nâng 2028 từ 6,7% lên 9,1%, hỗ trợ từ chính sách tài khóa, FDI mạnh 12% và nhu cầu nội địa gia tăng."
     },
     {
-      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
+      "title": "Thủ tướng lập mục tiêu GDP 10%+, chiến lược FDI toàn cầu",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng tuyên bố Việt Nam bước vào giai đoạn phát triển bản lề với mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên; kêu gọi các tập đoàn quốc tế chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới toàn cầu; Việt Nam đã vào nhóm nước thu nhập trung bình cao."
+      "note": "Mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' nhằm kiến tạo chuỗi giá trị mới toàn cầu."
     },
     {
-      "title": "Khối ngoại bán ròng phiên thứ 6 liên tiếp",
+      "title": "Khối ngoại bán ròng 647 tỷ, phiên thứ 6 liên tiếp",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 647 tỷ đồng phiên 30/10 (lần thứ 6 liên tiếp), tập trung xả VIC (354 tỷ) và TCB (133 tỷ); diễn biến này phản ánh nhà đầu tư nước ngoài tiếp tục rút khỏi các cổ phiếu trụ, tạo áp lực giảm trên thị trường."
+      "note": "Khối ngoại duy trì trạng thái bán ròng 647 tỷ đồng, xả mạnh VIC (354 tỷ đồng) và TCB (133 tỷ đồng), dấu hiệu suy yếu dòng tiền nước ngoài."
     },
     {
-      "title": "VN-Index giảm 1,83% trong tuần, 453 cổ phiếu giảm",
+      "title": "Binance bị hack 6,3 tỷ USD trong 20 phút",
       "impact": "↓",
-      "note": "VN-Index giảm 32,53 điểm (-1,83%) trong tuần 26-30/10, HNX-Index giảm 9,96 điểm (-3,79%); 453 cổ phiếu giảm giá trên cả 3 sàn; dòng tiền thiếu sự đồng thuận, thanh khoản yếu, lực cầu chưa đủ mạnh để duy trì đà phục hồi."
+      "note": "Tin tặc đánh cắp 6,3 tỷ USD từ Binance qua xâm nhập máy tính DevOps, các chuyên gia cáo buộc liên quan Triều Tiên, gây lung lay niềm tin vào tài sản kỹ thuật số."
     },
     {
-      "title": "Vốn 11,2 triệu tỷ không chảy vào sản xuất",
-      "impact": "→",
-      "note": "Tiền gửi dân cư vượt 11,2 triệu tỷ đồng, người dân nắm giữ 500 tấn vàng (12% GDP), nhưng thị trường trái phiếu doanh nghiệp chỉ 11% GDP, chưa đạt mục tiêu 20%; thiếu kênh dẫn vốn nội địa khiến doanh nghiệp phải thành lập công ty mẹ nước ngoài để huy động vốn."
-    },
-    {
-      "title": "Nhiều ngân hàng giảm lãi suất huy động",
+      "title": "SGN lập đỉnh doanh thu, lợi nhuận quý 3",
       "impact": "↑",
-      "note": "MSB, VietABank, GPBank điều chỉnh giảm lãi suất huy động 0,5 điểm phần trăm tại các kỳ hạn 6-36 tháng, hưởng ứng chủ trương chính sách của Chính phủ và NHNN; các chương trình tín dụng ưu đãi được triển khai để hỗ trợ doanh nghiệp trong cao điểm sản xuất, kinh doanh cuối năm."
+      "note": "Doanh thu quý 3 đạt 433 tỷ đồng tăng 23% YoY, lợi nhuận ròng 78 tỷ đồng tăng 105% YoY, cổ phiếu tăng trần 2 phiên liên tiếp."
+    },
+    {
+      "title": "FPT Retail tăng 33% doanh thu, 114% lợi nhuận 9 tháng",
+      "impact": "↑",
+      "note": "Doanh thu hợp nhất 48,3 ngàn tỷ đồng tăng 33%, lợi nhuận trước thuế 1,7 ngàn tỷ đồng tăng 114%, Long Châu mở rộng 324 nhà thuốc mới."
     }
   ]
 }
