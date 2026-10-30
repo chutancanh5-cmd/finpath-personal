@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam cho thấy khí thế tăng trưởng mạnh với kim ngạch xuất nhập khẩu vượt mốc 1.000 tỷ USD lần đầu. Chính phủ đặt mục tiêu GDP tăng trưởng 10%+ và đầu tư nhân tài qua cơ chế 0,1% GDP năm, tín hiệu tích cực cho chuyển đổi số và phát triển dài hạn. Tuy nhiên, áp lực lãi suất toàn cầu vẫn tồn tại (BOJ kỳ vọng tăng lãi suất tháng 12), và vụ hack Binance 6 tỷ USD có thể tác động cảm nhận rủi ro của nhà đầu tư ngoài.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán VN-Index giảm 1,44% sáng 30/10 do áp lực từ nhóm bất động sản, nhưng Việt Nam ghi dấu ấn tích cực với xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (1.001,3 tỷ USD, FDI tăng 37%). FPT Retail và Đạt Phương tăng trưởng doanh thu lần lượt 33% và 48%. Thủ tướng Lê Minh Hưng nêu chiến lược GDP 10%+ và kêu gọi chuyển từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" với các tập đoàn quốc tế. Tuy nhiên, áp lực từ chu kỳ thắt chặt tiền tệ toàn cầu (BOJ, Fed, ECB) và giá vàng giảm đến mức thấp nhất 3 tháng là rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu",
+      "title": "Xuất nhập khẩu Việt Nam vượt mốc 1.000 tỷ USD",
       "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD từ đầu năm tới 29/10, tăng 27,2% xuất khẩu (493,6 tỷ USD) và 37,6% nhập khẩu (507,6 tỷ USD). Sector FDI đóng góp 778 tỷ USD (tăng 37%). Việt Nam đứng thứ 18 thế giới về xuất khẩu, thứ 20 về nhập khẩu."
+      "note": "Kim ngạch xuất nhập khẩu đạt 1.001,3 tỷ USD đến 29/10. Xuất khẩu 493,6 tỷ USD (tăng 27,2%), nhập khẩu 507,6 tỷ USD (tăng 37,6%). Khu vực FDI chiếm 778 tỷ USD, tăng 37%. Việt Nam xếp hạng thứ 18 thế giới về xuất khẩu, thứ 20 về nhập khẩu."
     },
     {
-      "title": "Thủ tướng công bố mục tiêu GDP tăng trưởng 10%+",
+      "title": "Thủ tướng: Việt Nam quyết tâm đạt tăng trưởng GDP 10%+",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Diễn đàn Kinh tế Thế giới sáng 28/10, đề xuất chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới. Mục tiêu GDP bình quân từ 10%/năm trở lên và trở thành trung tâm R&D toàn cầu."
+      "note": "Thủ tướng Lê Minh Hưng tại Diễn đàn Kinh tế Mùa thu 2026 (28/10) công bố mục tiêu tăng trưởng GDP bình quân 10%/năm trở lên và đề xuất chuyển từ \"đầu tư tại Việt Nam\" sang \"cùng đầu tư, cùng sáng tạo\" với các tập đoàn quốc tế, hướng tới hình thành thị trường R&D toàn cầu."
     },
     {
-      "title": "Chính phủ dành 0,1% GDP năm cho nhân tài",
-      "impact": "↑",
-      "note": "Nghị quyết 336/NQ-CP ngày 23/10 giao Bộ Tài chính xây dựng cơ chế tài chính để thu hút nhân tài. Mục tiêu tuyển 1.000 nhân tài quốc gia đến 2030, tập trung vào AI, bán dẫn, lượng tử, khoa học dữ liệu và công nghệ chiến lược."
-    },
-    {
-      "title": "Giá vàng thế giới giảm sâu, lãi suất toàn cầu tăng áp lực",
-      "impact": "→",
-      "note": "Vàng giao ngay giảm hơn 0,7% phiên 29/10. Lợi suất trái phiếu 10 năm tăng 3 điểm cơ bản, kỳ hạn 30 năm tăng 4 điểm cơ bản (28/10). Đây là kết quả của chu kỳ thắt chặt chính sách toàn cầu, giá năng lượng cao, xung đột Trung Đông chưa hạ nhiệt."
-    },
-    {
-      "title": "BOJ giữ lãi suất 1,25%, kỳ vọng 80% tăng tháng 12",
-      "impact": "→",
-      "note": "BOJ sáng 30/10 giữ nguyên lãi suất 1,25% bất chấp áp lực lạm phát. Tuy nhiên, 80% kỳ vọng tăng lãi suất vào tháng 12/2026. Động thái này ảnh hưởng tỷ giá yên/đô và dòng vốn ngoài."
-    },
-    {
-      "title": "Binance bị hack 6 tỷ USD, Ethereum hacker dùng EIP-7702",
+      "title": "Thị trường chứng khoán suy yếu, VN-Index giảm 1,44%",
       "impact": "↓",
-      "note": "Rạng sáng 30/10 giờ VN, hơn 6 tỷ USD chuyển khỏi ví nóng Binance (ETH, USDT, token khác). Hacker lợi dụng cơ chế ủy quyền EIP-7702 Ethereum. Tether đã đóng băng một phần tài sản. Sự kiện có thể ảnh hưởng cảm nhận rủi ro và tâm lý nhà đầu tư toàn cầu."
+      "note": "Sáng 30/10, VN-Index giảm hơn 25 điểm (-1,44%), lùi về 1.730,35 điểm. HNX-Index giảm 254,14 điểm (-0,96%). 420 mã giảm, 218 mã tăng. Bất động sản áp lực mạnh: VIC (-2,9%), VHM (-2,42%), VRE (-1,66%). Thanh khoản HOSE chỉ 286 triệu đơn vị, giảm 32,98%."
+    },
+    {
+      "title": "FPT Retail tăng trưởng 33% doanh thu 9 tháng",
+      "impact": "↑",
+      "note": "Doanh thu hợp nhất 48,3 ngàn tỷ đồng (tăng 33%). Lợi nhuận trước thuế 1,7 ngàn tỷ đồng (tăng 114%). Long Châu chiếm 69% doanh thu với 2.741 nhà thuốc, mỗi nhà thuốc thu bình quân 1,3 tỷ đồng/tháng."
+    },
+    {
+      "title": "Đạt Phương tăng doanh thu 48% sau 9 tháng",
+      "impact": "↑",
+      "note": "Doanh thu thuần 9 tháng đạt 4.209 tỷ đồng (tăng 48%). Lợi nhuận trước thuế 391 tỷ đồng (tăng 24%), lợi nhuận sau thuế 332 tỷ đồng (tăng 15%). Xây dựng đóng góp 3.704 tỷ đồng, tăng 54%."
+    },
+    {
+      "title": "Giá vàng SJC giảm 1,3 triệu đồng/lượng, chạm đáy 3 tháng",
+      "impact": "↓",
+      "note": "Vàng miếng SJC sáng 30/10 giảm 1,3 triệu đồng/lượng (-0,9%), giao dịch 139-142,7 triệu đồng/lượng, mức thấp nhất kể từ cuối tháng 7/2026. Nhân tố: lợi suất trái phiếu 10 năm tăng >3 điểm cơ bản, vàng thế giới giảm >0,7%."
     }
   ]
 }
