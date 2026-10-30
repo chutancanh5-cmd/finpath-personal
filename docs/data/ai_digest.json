@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-30",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam khép lại tháng 10 trong sắc đỏ với áp lực mạnh từ khối ngoại tiếp tục bán ròng phiên thứ 6 liên tiếp (647 tỷ đồng) và 453 cổ phiếu giảm giá. VN-Index tuần qua mất 32,53 điểm (-1,83%), dòng tiền yếu khiến tâm lý chốt lời mạnh. Tuy nhiên, kết quả kinh doanh quý 3 tích cực từ các doanh nghiệp (SGN doanh thu +23%, lợi nhuận +105%; FPT Retail +33%; MSB lợi nhuận +27%) và dự báo vĩ mô tích cực (GDP 2027 dự báo 11%) mang lại tín hiệu kỳ vọng dài hạn. BOJ tín hiệu tăng lãi suất có thể gia tăng áp lực USD ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Dự báo tăng trưởng GDP 11% năm 2027 từ Standard Chartered và cam kết trên 10%/năm từ Thủ tướng chỉ ra triển vọng vĩ mô dài hạn tích cực. Tuy nhiên, thị trường chứng khoán lao dốc tuần này (VN-Index -1,83%, 453 cổ phiếu giảm) với khối ngoại bán ròng 6 phiên liên tiếp, phản ánh dòng tiền yếu và tâm lý thận trọng. Vấn đề cấu trúc vẫn tồn tại: vốn dồi dào (11,2 triệu tỷ tiền gửi, 500 tấn vàng) nhưng chưa chảy đủ vào sản xuất, thị trường trái phiếu doanh nghiệp chỉ 11% GDP.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng phiên 6, VIC xả 354 tỷ",
+      "title": "Standard Chartered dự báo GDP Việt Nam 11% năm 2027",
+      "impact": "↑",
+      "note": "Standard Chartered nâng dự báo tăng trưởng GDP Việt Nam lên 11% năm 2027 (từ 9,5% năm 2026, 9,1% năm 2028), nhờ hỗ trợ từ chính sách tài khóa, tiền tệ, FDI mạnh mẽ và nhu cầu nội địa gia tăng; kỳ vọng tăng trưởng 2 chữ số sẽ hỗ trợ thu nhập hộ gia đình và triển vọng tiêu dùng."
+    },
+    {
+      "title": "Thủ tướng cam kết tăng trưởng GDP trên 10%/năm",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng tuyên bố Việt Nam bước vào giai đoạn phát triển bản lề với mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên; kêu gọi các tập đoàn quốc tế chuyển từ 'đầu tư tại Việt Nam' sang 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới toàn cầu; Việt Nam đã vào nhóm nước thu nhập trung bình cao."
+    },
+    {
+      "title": "Khối ngoại bán ròng phiên thứ 6 liên tiếp",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 647 tỷ đồng phiên 30/10, lần thứ 6 liên tiếp, VIC chịu áp lực mạnh nhất 354 tỷ, TCB 133 tỷ. Xu hướng bán ròng liên tiếp gây áp lực tâm lý nhà đầu tư, khiến VN-Index tuần qua mất 32,53 điểm (-1,83%)."
+      "note": "Khối ngoại bán ròng 647 tỷ đồng phiên 30/10 (lần thứ 6 liên tiếp), tập trung xả VIC (354 tỷ) và TCB (133 tỷ); diễn biến này phản ánh nhà đầu tư nước ngoài tiếp tục rút khỏi các cổ phiếu trụ, tạo áp lực giảm trên thị trường."
     },
     {
-      "title": "VN-Index 1.741,62 điểm, 453 cổ phiếu sắc đỏ",
+      "title": "VN-Index giảm 1,83% trong tuần, 453 cổ phiếu giảm",
       "impact": "↓",
-      "note": "Phiên 30/10 VN-Index giảm 13,99 điểm (-0,8%) xuống 1.741,62, giảm thứ 2 liên tiếp. Cả tuần mất 32,53 điểm, HNX-Index giảm 3,79%. HoSE chỉ 67 mã tăng so với 245 mã giảm, toàn thị trường 453 cổ phiếu sắc đỏ, thanh khoản 15.770 tỷ đồng."
+      "note": "VN-Index giảm 32,53 điểm (-1,83%) trong tuần 26-30/10, HNX-Index giảm 9,96 điểm (-3,79%); 453 cổ phiếu giảm giá trên cả 3 sàn; dòng tiền thiếu sự đồng thuận, thanh khoản yếu, lực cầu chưa đủ mạnh để duy trì đà phục hồi."
     },
     {
-      "title": "Standard Chartered nâng GDP 2028 lên 9,1%, 2027 đạt 11%",
-      "impact": "↑",
-      "note": "Standard Chartered dự báo GDP 2026: 9,5%, 2027: 11%, 2028: 9,1% (nâng từ 6,7% cũ). Hỗ trợ từ chính sách tài khóa/tiền tệ, FDI giải ngân 9 tháng +12%, nhu cầu nội địa gia tăng, hỗ trợ tiêu dùng và đầu tư."
-    },
-    {
-      "title": "Thủ tướng cam kết GDP tăng trưởng trên 10%/năm",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng ngày 28/10 khẳng định mục tiêu tăng trưởng GDP bình quân từ 10%/năm trở lên, đưa 4 đề xuất chiến lược kêu gọi FDI tăng hợp tác, chuyển sang mô hình 'cùng đầu tư, cùng sáng tạo' để kiến tạo chuỗi giá trị mới."
-    },
-    {
-      "title": "SGN lập đỉnh: doanh thu 433 tỷ (+23%), lợi nhuận 78 tỷ (+105%)",
-      "impact": "↑",
-      "note": "CTCP Phục vụ Mặt đất Sài Gòn Q3/2026 doanh thu 433 tỷ đồng (+23% YoY), lợi nhuận ròng 78 tỷ đồng (+105% YoY), biên lợi nhuận gộp cải thiện từ 28,6% lên 33,7%. Cổ phiếu tăng trần 2 phiên liên tiếp nhờ thêm khách hàng United Airlines, Sun PhuQuoc Airways."
-    },
-    {
-      "title": "MSB, VietABank, GPBank giảm lãi suất 0,5%",
+      "title": "Vốn 11,2 triệu tỷ không chảy vào sản xuất",
       "impact": "→",
-      "note": "MSB, VietABank, GPBank giảm lãi suất huy động 0,5% kỳ hạn 6-36 tháng. MSB áp 5,8% (6-11 tháng), 6,3% (12 tháng), chương trình lãi suất đặc biệt 6,5-7%/năm với điều kiện tiền gửi max 5 tỷ đồng. Động thái hỗ trợ chi phí vốn doanh nghiệp và hưởng ứng chủ trương Chính phủ/NHNN."
+      "note": "Tiền gửi dân cư vượt 11,2 triệu tỷ đồng, người dân nắm giữ 500 tấn vàng (12% GDP), nhưng thị trường trái phiếu doanh nghiệp chỉ 11% GDP, chưa đạt mục tiêu 20%; thiếu kênh dẫn vốn nội địa khiến doanh nghiệp phải thành lập công ty mẹ nước ngoài để huy động vốn."
+    },
+    {
+      "title": "Nhiều ngân hàng giảm lãi suất huy động",
+      "impact": "↑",
+      "note": "MSB, VietABank, GPBank điều chỉnh giảm lãi suất huy động 0,5 điểm phần trăm tại các kỳ hạn 6-36 tháng, hưởng ứng chủ trương chính sách của Chính phủ và NHNN; các chương trình tín dụng ưu đãi được triển khai để hỗ trợ doanh nghiệp trong cao điểm sản xuất, kinh doanh cuối năm."
     }
   ]
 }
