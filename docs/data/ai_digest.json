@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-31",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam giảm 33 điểm dưới áp lực bán của nhóm ngân hàng; vàng lao dốc xuống 3.875 USD/ounce (thấp nhất kể từ tháng 10/2025), gây tổn thất cho nhà đầu tư. Chứng khoán Mỹ giảm 2,86% (Nasdaq) làm tăng áp lực toàn cầu. Tuy nhiên, xuất nhập khẩu tăng mạnh 49,4% và các công ty như Vinamilk, CC1 ghi nhận lợi nhuận tăng trưởng tốt; các đề xuất chính sách hỗ trợ tăng trưởng 10% năm 2027 mang lại hy vọng dài hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Xuất khẩu tăng mạnh 49% và doanh nghiệp xây dựng, sữa ghi nhận lợi nhuận khả quan nhờ giải ngân đầu tư công hỗ trợ bước phục hồi kinh tế. Tuy nhiên, thị trường chứng khoán chịu áp lực từ khối ngoại bán ròng liên tiếp và ngân hàng suy yếu, trong khi giá vàng lao dốc 30% kéo lỗ nhà đầu tư. Tâm lý ổn định xung quanh mục tiêu tăng trưởng 10% năm 2027 nhưng cần giải quyết áp lực tín dụng cao 155% GDP.",
   "top": [
     {
-      "title": "VN-Index mất 33 điểm do áp lực bán ngân hàng",
+      "title": "Vàng lao dốc hơn 30%, nhà đầu tư lỗ hàng chục triệu đồng",
       "impact": "↓",
-      "note": "VN-Index giảm hơn 32,5 điểm (khoảng 1,8%) trong tuần 26-30/10. Nhóm tài chính giảm 2%, với 4 mã ngân hàng trong top 10 cổ phiếu tác động tiêu cực nhất: LPB lấy đi 2,6 điểm, VPB và TCB lấy đi 2,1 điểm mỗi cái, BID lấy đi 1,4 điểm; TCX lấy đi 1,3 điểm. HNX-Index giảm 3,8%."
+      "note": "Giá vàng thế giới từ 5.595 USD/ounce (tháng 1/2026) xuống 3.875 USD/ounce (31/10), giảm 146 USD trong một phiên, gây lỗ hơn 30%. Vàng miếng SJC trong nước giảm 2,4 triệu đồng còn 136-139 triệu đồng/lượng, nhà đầu tư mua tháng đầu lỗ khoảng 5,3-9 triệu đồng/lượng; khoảng cách vàng trong nước vs thế giới khoảng 19 triệu đồng/lượng"
     },
     {
-      "title": "Vàng lao dốc xuống 3.875 USD/ounce, nhà đầu tư lỗ hàng chục triệu",
+      "title": "VN-Index mất 32,5 điểm, khối ngoại bán ròng lần 6 liên tiếp",
       "impact": "↓",
-      "note": "Vàng thế giới giảm 146 USD trong một phiên, xuống mức thấp nhất kể từ tháng 10/2025; so với đỉnh 5.595 USD/ounce hồi tháng 1/2026, đã mất 30%. Vàng miếng SJC trong nước giảm 2,4 triệu đồng, đạt 136-139 triệu đồng/lượng; người mua lỗ khoảng 5,3-9 triệu đồng so với đầu tháng."
+      "note": "VN-Index giảm 32,5 điểm (1,8%) tuần 26-30/10, nhóm tài chính giảm 2% với 4 mã ngân hàng trong top ảnh hưởng tiêu cực: LPB mất 2,6 điểm, VPB và TCB mất 2,1 điểm mỗi cái, BID mất 1,4 điểm; khối ngoại bán ròng 647 tỷ đồng phiên 30/10 (phiên 6 liên tiếp); HNX-Index giảm 3,8%"
     },
     {
-      "title": "Nasdaq giảm 2.86%, cổ phiếu công nghệ bị bán tháo mạnh",
-      "impact": "↓",
-      "note": "Chứng khoán Mỹ giảm mạnh ngày 31/10: Nasdaq sụt 2,86% còn 25.473 điểm (phiên giảm mạnh nhất từ tháng 6), S&P 500 giảm 1,82%, Dow Jones giảm 1,09%. Intel lao dốc 29% do triển vọng yếu, doanh thu AI giảm 5% còn 8,1 tỷ USD. Áp lực bán gia tăng trước cuộc bầu cử giữa nhiệm kỳ ở Mỹ."
-    },
-    {
-      "title": "Xuất nhập khẩu Ninh Bình, Hưng Yên tăng 49,4%, cán mốc 93,94 tỷ USD",
+      "title": "Xuất nhập khẩu Ninh Bình, Hưng Yên 10 tháng tăng 49,4%",
       "impact": "↑",
-      "note": "Trong 10 tháng 2026, kim ngạch xuất nhập khẩu đạt 93,94 tỷ USD, tăng 49,4% so với cùng kỳ (Ninh Bình +56,4%, Hưng Yên +30,5%). Dự kiến cán mốc 100 tỷ USD vào 15/11. Số doanh nghiệp tham gia 5.575 tăng 8,7%, tờ khai hải quan 1,49 triệu tăng 22,8%."
+      "note": "Kim ngạch xuất nhập khẩu 10 tháng 2026 đạt 93,94 tỷ USD tăng 49,4% (Ninh Bình 71,75 tỷ USD tăng 56,4%, Hưng Yên 22,19 tỷ USD tăng 30,5%), số doanh nghiệp tham gia 5.575 tăng 8,7%, tờ khai hải quan 1,49 triệu tăng 22,8%, dự kiến cán 100 tỷ USD vào 15/11"
     },
     {
-      "title": "Vinamilk lãi ròng quý 3 đạt 2.964 tỷ đồng, tăng 17%",
+      "title": "CC1 doanh thu Q3 tăng 89%, 9 tháng tăng 51%",
       "impact": "↑",
-      "note": "Vinamilk báo lãi ròng quý 3/2026 đạt 2.964 tỷ đồng, tăng 17% so với cùng kỳ. Doanh thu 18.465 tỷ đồng tăng 8,7%; lợi nhuận gộp 7.637 tỷ đồng tăng 8%. Thị trường nội địa tăng 8,8%; dòng sản phẩm cao cấp Green Farm chiếm tỷ trọng ngày càng lớn."
+      "note": "Doanh thu Q3 đạt 4,8 nghìn tỷ đồng, lũy kế 9 tháng 11,2 nghìn tỷ đồng tăng 51%, tổng tài sản tăng 8,1 nghìn tỷ đồng lên 25,3 nghìn tỷ đồng (tăng 47% so với đầu năm), dòng tiền kinh doanh 9 tháng đạt 4,1 nghìn tỷ đồng nhờ giải ngân đầu tư công thúc đẩy thi công hạ tầng"
     },
     {
-      "title": "Quốc hội đề xuất tăng trưởng 10% năm 2027 với ba đột phá",
+      "title": "Vinamilk Q3 lãi ròng tăng 17%, doanh thu tăng 8,7%",
       "impact": "↑",
-      "note": "Sáng 31/10, Quốc hội thảo luận kế hoạch tăng trưởng với ba đột phá chiến lược (thể chế, hạ tầng, nhân lực) và ba động lực (đầu tư, tiêu dùng, xuất khẩu). Cần tháo gỡ nguồn vốn dài hạn với dư nợ tín dụng 155% GDP, mở rộng thị trường trái phiếu từ 11% lên 20% GDP để cân bằng kỳ hạn huy động-cho vay."
+      "note": "Lãi ròng Q3/2026 đạt 2.964 tỷ đồng tăng 17%, doanh thu 18.465 tỷ đồng tăng 8,7%, lợi nhuận gộp 7.637 tỷ đồng tăng 8%, thị trường nội địa tăng 8,8% với dòng sản phẩm cao cấp Green Farm chiếm tỷ trọng ngày càng lớn"
+    },
+    {
+      "title": "Quốc hội đề xuất tăng trưởng 10% năm 2027, ba đột phá chiến lược",
+      "impact": "↑",
+      "note": "GDP 9 tháng 2026 tăng 9,01%, xuất khẩu tăng 24,5%, sáng 31/10 Quốc hội thảo luận mục tiêu tăng trưởng 10% năm 2027 với ba đột phá (thể chế, hạ tầng, nhân lực chất lượng cao) và các động lực mới (khu kinh tế đặc biệt, trung tâm tài chính quốc tế, khu phi thuế quan, khu thương mại tự do)"
     }
   ]
 }
