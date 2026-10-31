@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-31",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán VN chịu áp lực điều chỉnh ngắn hạn với thanh khoản suy giảm 51-58%, khối ngoại bán ròng 641,5 tỷ đồng, và ảnh hưởng từ Nasdaq giảm 2,86% do bán tháo cổ phiếu AI. Tuy nhiên, nền tảng vĩ mô vẫn mạnh: GDP 2027 dự báo 11%, xuất nhập khẩu tăng 49,4%, Quốc hội thúc đẩy 3 đột phá chiến lược. Rủi ro ngắn hạn từ thanh khoản thị trường và áp lực bán ngoại cần theo dõi, nhưng triển vọng kinh tế dài hạn vẫn tích cực.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính sách ủng hộ tăng trưởng 2 con số cùng báo cáo kinh tế tích cực (xuất khẩu tăng 49,4%, CC1 doanh thu tăng 51%, Vinamilk lợi nhuận tăng 17%) tạo nền tảng lạc quan. Standard Chartered nâng dự báo tăng trưởng 2027 lên 11%, thị trường chứng khoán được nâng hạng giữ chân vốn ngoại. Tuy nhiên, khối ngoại bán ròng 641,5 tỷ đồng và sụt giảm TTCK Mỹ (Nasdaq -2,86%) gây điều chỉnh ngắn hạn, liên quan kỳ vọng chính sách tiền tệ Mỹ.",
   "top": [
     {
-      "title": "Thanh khoản giảm 51-58%, doanh thu Sở GD sụt mạnh",
-      "impact": "↓",
-      "note": "Quý 3/2026, giá trị giao dịch HOSE+HNX chỉ 18,1 ngàn tỷ đồng, giảm 58% so với 42,6 ngàn tỷ đồng quý 3/2025. Doanh thu VNX quý này 539 tỷ đồng, giảm 51% so với cùng kỳ. Tình trạng này gây áp lực đáng kể đến thu nhập nhà đầu tư và khả năng kêu gọi vốn của doanh nghiệp."
+      "title": "Standard Chartered dự báo GDP 2027 = 11%, nâng từ dự báo trước",
+      "impact": "↑",
+      "note": "Standard Chartered dự báo GDP: 2026 = 9,5%, 2027 = 11%, 2028 = 9,1% (nâng từ 6,7%). Hỗ trợ bởi chính sách tài khóa/tiền tệ, FDI mạnh (9 tháng tăng 12%), nhu cầu nội địa gia tăng. Kỳ vọng tăng trưởng 2 chữ số đầu 2027 hỗ trợ thu nhập hộ gia đình và triển vọng tiêu dùng."
     },
     {
-      "title": "Khối ngoại bán ròng 641,5 tỷ, nhóm ngân hàng lao dốc",
+      "title": "Khối ngoại bán ròng 641,5 tỷ đồng, nhóm ngân hàng lao dốc",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 641,5 tỷ đồng, đóng góp 639,9 tỷ đồng từ khớp lệnh. HoSE 253 mã giảm, chỉ 72 mã tăng. Nhóm ngân hàng bị ảnh hưởng nặng nề: TCB -3,36%, VIX -3,23%, MBB -2,03%, VCB, BID, CTG, VPB cũng chìm sắc đỏ."
+      "note": "Nhà đầu tư nước ngoài bán ròng 641,5 tỷ đồng (khớp lệnh 639,9 tỷ). Trên HoSE: 253 mã giảm, 72 mã tăng. Nhóm ngân hàng chịu áp lực nặng: TCB -3,36%, VIX -3,23%, MBB -2,03%, VCB, BID, CTG, VPB, ACB cũng sắc đỏ. Dòng tiền vào nhóm giảm (8.051 tỷ) cao gấp 4 lần nhóm tăng (1.945 tỷ)."
     },
     {
       "title": "Nasdaq -2,86%, Intel -29%, cổ phiếu AI bị bán tháo",
       "impact": "↓",
-      "note": "Chỉ số Nasdaq sụt 2,86% xuống 25.473 điểm, phiên giảm mạnh nhất từ tháng 6, thấp 8% so với mức cao gần đây. Intel lao dốc 29% do triển vọng yếu, PC market chậm lại. Bán tháo cổ phiếu AI trong bối cảnh chốt lời cuối tháng và bầu cử giữa nhiệm kỳ Mỹ."
+      "note": "Chỉ số Nasdaq giảm 2,86% xuống 25.473 điểm, phiên giảm mạnh nhất kể từ tháng 6, thấp hơn 8% so với mức cao gần đây. Intel lao dốc 29% do triển vọng yếu: PC market chậm lại, doanh thu AI giảm 5% còn 8,1 tỷ USD. Bán tháo AI trong bối cảnh chốt lời cuối tháng và bầu cử giữa nhiệm kỳ Mỹ, điều chỉnh kỳ vọng lãi suất Fed."
     },
     {
-      "title": "Standard Chartered dự báo GDP 11% năm 2027, 9,1% năm 2028",
+      "title": "Xuất nhập khẩu Ninh Bình + Hưng Yên tăng 49,4%, cán 100 tỷ USD",
       "impact": "↑",
-      "note": "Ngân hàng Standard Chartered nâng dự báo GDP 2026 lên 9,5%, 2027 lên 11%, nâng 2028 từ 6,7% lên 9,1%. Tăng trưởng được hỗ trợ từ chính sách tài khóa/tiền tệ, FDI mạnh (9T tăng 12%), nhu cầu trong nước gia tăng. Kỳ vọng tăng 2 chữ số đầu 2027 hỗ trợ thu nhập hộ gia đình."
+      "note": "Kim ngạch xuất nhập khẩu 10 tháng/2026 của hai tỉnh đạt 93,94 tỷ USD, tăng 49,4% so với cùng kỳ. Ninh Bình đạt 71,75 tỷ USD (+56,4%), Hưng Yên đạt 22,19 tỷ USD (+30,5%). Dự kiến cán 100 tỷ USD vào 15/11/2026. Với 5.575 doanh nghiệp tham gia (+8,7%), 1,49 triệu tờ khai (+22,8%), phản ánh nhu cầu xuất khẩu mạnh."
     },
     {
-      "title": "Xuất nhập khẩu Ninh Bình-Hưng Yên tăng 49,4%, cán 100 tỷ USD",
+      "title": "Quốc hội đề xuất 3 đột phá chiến lược cho tăng trưởng 2 chữ số",
       "impact": "↑",
-      "note": "10 tháng năm 2026, kim ngạch xuất nhập khẩu hai tỉnh đạt 93,94 tỷ USD, tăng 49,4% so với cùng kỳ, dự kiến cán 100 tỷ USD vào 15/11. Ninh Bình riêng 71,75 tỷ USD (+56,4%), Hưng Yên 22,19 tỷ USD (+30,5%). 5.575 doanh nghiệp tham gia, 1,49 triệu tờ khai hải quan (+22,8%)."
+      "note": "Sáng 31/10, Quốc hội khóa XVI thảo luận tình hình kinh tế-xã hội. Đại biểu Trần Hoàng Ngân đề xuất: 3 đột phá (thể chế, hạ tầng, nhân lực chất lượng); 3 động lực (đầu tư, tiêu dùng, xuất khẩu); triển khai động lực mới (KTĐ đặc biệt, TMT quốc tế, thương mại tự do). Mục tiêu tăng trưởng 10% năm 2027 và những năm tiếp theo."
     },
     {
-      "title": "Quốc hội đề xuất 3 đột phá chiến lược tăng trưởng 2 chữ số",
+      "title": "CC1 doanh thu tăng 51%, tổng tài sản tăng 47% nhờ giải ngân hạ tầng",
       "impact": "↑",
-      "note": "Sáng 31/10, Quốc hội khóa XVI thảo luận tình hình kinh tế-xã hội. Đại biểu Trần Hoàng Ngân đề xuất 3 đột phá: thể chế, hạ tầng, nhân lực chất lượng cao; phát huy 3 động lực (đầu tư, tiêu dùng, xuất khẩu); triển khai động lực mới (KTĐ, TMT, khu thương mại tự do, phi thuế quan). Mục tiêu tăng trưởng 10% năm 2027 và những năm tiếp theo."
+      "note": "Tổng Công ty Xây dựng Số 1 (CC1): doanh thu 9 tháng = 11,2 ngàn tỷ đồng (+51%), quý 3 = 4,8 ngàn tỷ đồng (+89%). Tổng tài sản tăng 47% lên 25,3 ngàn tỷ đồng (so với đầu năm 17,2 ngàn tỷ). Dòng tiền kinh doanh chuyển sang dương: 4,1 ngàn tỷ đồng. Phản ánh lực cầu mạnh từ giải ngân đầu tư công xây dựng hạ tầng."
     }
   ]
 }
