@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-10-31",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách ủng hộ tăng trưởng 2 con số cùng báo cáo kinh tế tích cực (xuất khẩu tăng 49,4%, CC1 doanh thu tăng 51%, Vinamilk lợi nhuận tăng 17%) tạo nền tảng lạc quan. Standard Chartered nâng dự báo tăng trưởng 2027 lên 11%, thị trường chứng khoán được nâng hạng giữ chân vốn ngoại. Tuy nhiên, khối ngoại bán ròng 641,5 tỷ đồng và sụt giảm TTCK Mỹ (Nasdaq -2,86%) gây điều chỉnh ngắn hạn, liên quan kỳ vọng chính sách tiền tệ Mỹ.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Tuần cuối tháng 10, thị trường chứng khoán Việt Nam gặp áp lực bán mạnh (VN-Index -32.5 điểm, -1.8%) do tác động liên đới từ chứng khoán Mỹ giảm (Nasdaq -2.86%) và nhóm ngân hàng kéo giảm. Tuy nhiên, các doanh nghiệp lớn vẫn tăng trưởng tốt (Vinamilk lãi +17%, xuất nhập khẩu +49.4%), dòng vốn chuyển sang cổ phiếu từ vàng/bạc, và dự báo tăng trưởng 11% năm 2027 tạo triển vọng tích cực lâu dài.",
   "top": [
     {
-      "title": "Standard Chartered dự báo GDP 2027 = 11%, nâng từ dự báo trước",
-      "impact": "↑",
-      "note": "Standard Chartered dự báo GDP: 2026 = 9,5%, 2027 = 11%, 2028 = 9,1% (nâng từ 6,7%). Hỗ trợ bởi chính sách tài khóa/tiền tệ, FDI mạnh (9 tháng tăng 12%), nhu cầu nội địa gia tăng. Kỳ vọng tăng trưởng 2 chữ số đầu 2027 hỗ trợ thu nhập hộ gia đình và triển vọng tiêu dùng."
-    },
-    {
-      "title": "Khối ngoại bán ròng 641,5 tỷ đồng, nhóm ngân hàng lao dốc",
+      "title": "VN-Index mất 32.5 điểm do ngân hàng gây sức ép",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 641,5 tỷ đồng (khớp lệnh 639,9 tỷ). Trên HoSE: 253 mã giảm, 72 mã tăng. Nhóm ngân hàng chịu áp lực nặng: TCB -3,36%, VIX -3,23%, MBB -2,03%, VCB, BID, CTG, VPB, ACB cũng sắc đỏ. Dòng tiền vào nhóm giảm (8.051 tỷ) cao gấp 4 lần nhóm tăng (1.945 tỷ)."
+      "note": "Áp lực bán khiến VN-Index giảm 32.5 điểm (1.8%) trong tuần cuối tháng 10. Nhóm tài chính dẫn đầu chiều tiêu cực: LPB lấy đi 2.6 điểm, VPB và TCB mỗi cái 2.1 điểm, BID 1.4 điểm, TCX 1.3 điểm. HNX-Index sụt hơn 3.8%. VIC (+7.3 điểm) và VPL (+1.6 điểm) giúp hỗ trợ."
     },
     {
-      "title": "Nasdaq -2,86%, Intel -29%, cổ phiếu AI bị bán tháo",
+      "title": "Nasdaq lao dốc 2.86%, cổ phiếu AI bị bán tháo mạnh",
       "impact": "↓",
-      "note": "Chỉ số Nasdaq giảm 2,86% xuống 25.473 điểm, phiên giảm mạnh nhất kể từ tháng 6, thấp hơn 8% so với mức cao gần đây. Intel lao dốc 29% do triển vọng yếu: PC market chậm lại, doanh thu AI giảm 5% còn 8,1 tỷ USD. Bán tháo AI trong bối cảnh chốt lời cuối tháng và bầu cử giữa nhiệm kỳ Mỹ, điều chỉnh kỳ vọng lãi suất Fed."
+      "note": "Chứng khoán Mỹ giảm mạnh ngày 31/10: Nasdaq -2.86% (25.473 điểm, mức thấp nhất từ tháng 6), S&P 500 -1.82%, Dow Jones -1.09%. Cổ phiếu công nghệ bị bán mạnh, Intel lao dốc 29% do triển vọng yếu, PC market chậm lại, doanh thu AI giảm 5% còn 8.1 tỷ USD, ảnh hưởng dòng vốn ngoại vào Việt Nam."
     },
     {
-      "title": "Xuất nhập khẩu Ninh Bình + Hưng Yên tăng 49,4%, cán 100 tỷ USD",
-      "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu 10 tháng/2026 của hai tỉnh đạt 93,94 tỷ USD, tăng 49,4% so với cùng kỳ. Ninh Bình đạt 71,75 tỷ USD (+56,4%), Hưng Yên đạt 22,19 tỷ USD (+30,5%). Dự kiến cán 100 tỷ USD vào 15/11/2026. Với 5.575 doanh nghiệp tham gia (+8,7%), 1,49 triệu tờ khai (+22,8%), phản ánh nhu cầu xuất khẩu mạnh."
+      "title": "Vàng rơi 3.6%, bạc mất 6%, quỹ ETF lớn mua vào",
+      "impact": "→",
+      "note": "Giá vàng giao ngay rơi 146 USD xuống 3.874 USD/ounce (mức thấp nhất hơn 1 năm), bạc giảm 6% xuống 49 USD/ounce. Tuy nhiên SPDR Gold Trust mua thêm 0.57 tấn vàng, iShares Silver Trust (SLV) mua thêm 103.85 tấn bạc, cho thấy dòng vốn từ tài sản an toàn chuyển sang cấu trúc khác."
     },
     {
-      "title": "Quốc hội đề xuất 3 đột phá chiến lược cho tăng trưởng 2 chữ số",
+      "title": "Vinamilk lãi ròng quý 3 tăng hơn 17%",
       "impact": "↑",
-      "note": "Sáng 31/10, Quốc hội khóa XVI thảo luận tình hình kinh tế-xã hội. Đại biểu Trần Hoàng Ngân đề xuất: 3 đột phá (thể chế, hạ tầng, nhân lực chất lượng); 3 động lực (đầu tư, tiêu dùng, xuất khẩu); triển khai động lực mới (KTĐ đặc biệt, TMT quốc tế, thương mại tự do). Mục tiêu tăng trưởng 10% năm 2027 và những năm tiếp theo."
+      "note": "Vinamilk báo lãi ròng quý 3/2026 đạt 2.964 tỷ đồng, tăng 17% so với cùng kỳ. Doanh thu thuần đạt 18.465 tỷ đồng (+8.7%), thị trường nội địa tăng 8.8%, dòng sản phẩm cao cấp Green Farm chiếm tỷ trọng ngày càng lớn hơn trong doanh thu nội địa."
     },
     {
-      "title": "CC1 doanh thu tăng 51%, tổng tài sản tăng 47% nhờ giải ngân hạ tầng",
+      "title": "Xuất nhập khẩu Ninh Bình, Hưng Yên tăng 49.4%, sắp cán 100 tỷ USD",
       "impact": "↑",
-      "note": "Tổng Công ty Xây dựng Số 1 (CC1): doanh thu 9 tháng = 11,2 ngàn tỷ đồng (+51%), quý 3 = 4,8 ngàn tỷ đồng (+89%). Tổng tài sản tăng 47% lên 25,3 ngàn tỷ đồng (so với đầu năm 17,2 ngàn tỷ). Dòng tiền kinh doanh chuyển sang dương: 4,1 ngàn tỷ đồng. Phản ánh lực cầu mạnh từ giải ngân đầu tư công xây dựng hạ tầng."
+      "note": "Trong 10 tháng năm 2026, kim ngạch xuất nhập khẩu đạt 93.94 tỷ USD, tăng 49.4% so với cùng kỳ (Hưng Yên +30.5%, Ninh Bình +56.4%). Dự kiến cán mốc 100 tỷ USD vào 15/11. Số doanh nghiệp tham gia tăng 8.7% lên 5.575, tờ khai hải quan tăng 22.8% lên 1.49 triệu."
+    },
+    {
+      "title": "Standard Chartered dự báo GDP 2027 là 11%, 2028 là 9.1%",
+      "impact": "↑",
+      "note": "Standard Chartered dự báo tăng trưởng GDP 2026 là 9.5%, 2027 là 11%, 2028 là 9.1% (nâng từ 6.7%). Nhờ hỗ trợ chính sách tài khóa, tiền tệ, FDI giải ngân trong 9 tháng tăng 12%, nhu cầu nội địa gia tăng. Kỳ vọng tăng trưởng 2 chữ số hỗ trợ thu nhập hộ gia đình và triển vọng tiêu dùng bền vững."
     }
   ]
 }
