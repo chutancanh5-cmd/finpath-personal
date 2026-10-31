@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-10-31",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực ngắn hạn mạnh từ thanh khoản sụt 58% (giá trị Q3 chỉ 18,1 ngàn tỷ), khối ngoại bán ròng 641,5 tỷ, và tác động từ bán tháo cổ phiếu công nghệ toàn cầu (Nasdaq -2,86%, Intel -29%). Giá vàng lao dốc 30% từ đỉnh phản ánh tâm lý thận trọng rộng rãi. Tuy nhiên, FDI thực hiện 21,07 tỷ USD (cao nhất 5 năm), chính sách hướng tới tăng trưởng 10% năm 2027 và dự báo GDP 2027 đạt 11% vẫn hỗ trợ triển vọng dài hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực lớn từ bán ròng ngoại 641,5 tỷ đồng và thanh khoản sụt 58% (18,1 vs 42,6 nghìn tỷ đồng quý trước), kéo theo tâm lý thị trường thận trọng. Giá vàng lao dốc >30% từ đỉnh tháng 1 xuống 3.875 USD/ounce, dẫn nhà đầu tư chịu lỗ nặng. Tuy nhiên, dòng FDI mạnh với 21,07 tỷ USD trong 9 tháng (cao nhất 5 năm) và dự báo GDP 2027 tăng 11% từ Standard Chartered vẫn mở ra tín hiệu lạc quan cho dài hạn.",
   "top": [
     {
-      "title": "VNX giảm lãi quý 3 hơn 50% khi thanh khoản thị trường lao dốc",
+      "title": "Thị trường Mỹ sụt giảm, Nasdaq -2,86%, Intel lao dốc 29%",
       "impact": "↓",
-      "note": "Giá trị giao dịch toàn thị trường Q3/2026 giảm 58% xuống 18,1 ngàn tỷ đồng so với 42,6 ngàn tỷ đồng Q3/2025. Lãi sau thuế VNX quý 3 giảm 52% xuống khoảng 525 tỷ đồng. Lũy kế 9 tháng: lãi 1,912 tỷ đồng (giảm 9%), thực hiện 65% mục tiêu cả năm."
+      "note": "Phiên 31/10, Nasdaq giảm 2,86% (25.473 điểm, mức thấp nhất từ tháng 6), Dow Jones giảm 1,09%, S&P 500 mất 1,82%. Intel giảm gần 29% do doanh thu AI và PC sụt 5% xuống 8,1 tỷ USD. Sự điều chỉnh chính sách tiền tệ Mỹ tác động áp lực lên cổ phiếu công nghệ toàn cầu, ảnh hưởng tâm lý đầu tư."
     },
     {
-      "title": "Chứng khoán Mỹ \"đỏ lửa\" vì bán tháo cổ phiếu công nghệ",
+      "title": "Khối ngoại bán ròng 641,5 tỷ đồng, áp lực lên chỉ số",
       "impact": "↓",
-      "note": "Nasdaq sụt 2,86% xuống 25.473 điểm, phiên giảm mạnh nhất từ tháng 6. S&P 500 giảm 1,82%, Dow Jones giảm 1,09%. Cổ phiếu Intel lao dốc 29% với triển vọng yếu kém Q4 về PC, doanh thu mảng máy tính cá nhân và AI giảm 5% xuống 8,1 tỷ USD."
+      "note": "Nhà đầu tư nước ngoài bán ròng 641,5 tỷ đồng, giao dịch khớp lệnh bán ròng 639,9 tỷ đồng. Trên HoSE, 253 mã giảm giá vs 72 mã tăng. Nhóm ngân hàng bị bán mạnh (TCB -3,36%, VIX -3,23%, MBB -2,03%), gợi ý tâm lý thận trọng của khối ngoại."
     },
     {
-      "title": "Giá vàng thế giới lao dốc mạnh nhất 1 năm qua",
+      "title": "Thanh khoản TTCK Việt Nam sụt 58%, lãi VNX giảm 52%",
       "impact": "↓",
-      "note": "Giá vàng giao ngay giảm 3,6% xuống 3.874 USD/ounce, mức thấp nhất kể từ tháng 10/2025 và giảm 30% từ đỉnh 5.595 USD/ounce tháng 1/2026. Bạc giảm 6% xuống 49 USD/ounce. SPDR Gold Trust mua thêm 0,57 tấn vàng, iShares Silver Trust mua thêm 103,85 tấn bạc trong ngày 30/10."
+      "note": "Quý 3/2026, giá trị giao dịch toàn thị trường chỉ đạt 18,1 nghìn tỷ đồng, giảm 58% so với 42,6 nghìn tỷ đồng quý 3/2025. Doanh thu VNX giảm 51%, lãi sau thuế giảm 52% so với cùng kỳ. Lũy kế 9 tháng, VNX chỉ thực hiện 65% mục tiêu lợi nhuận cả năm."
     },
     {
-      "title": "Khối ngoại bán ròng mạnh tay, cuối tuần xả hơn 600 tỷ",
+      "title": "Vàng lao dốc hơn 30%, nhà đầu tư chịu lỗ nặng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 641,5 tỷ đồng. Trên HoSE: 253 mã giảm so với 72 mã tăng. Nhóm ngân hàng bị áp lực mạnh: TCB giảm 3,36%, VIX giảm 3,23%, MBB giảm 2,03%, MSB giảm 1,56%, SSI giảm 1,53%."
+      "note": "Giá vàng thế giới giảm 146 USD xuống 3.875 USD/ounce (31/10), mức thấp nhất từ tháng 10/2025. So với đỉnh 5.595 USD/ounce tháng 1/2026, vàng đã giảm hơn 30%. Trong nước, vàng SJC giảm 2,4 triệu đồng/lượng về 139 triệu đồng/lượng. Khoảng cách vàng trong nước so với thế giới vẫn ~19 triệu đồng/lượng."
     },
     {
-      "title": "Standard Chartered dự báo Việt Nam ưu tiên tăng trưởng năm 2027",
+      "title": "FDI 9 tháng 2026 đạt 21,07 tỷ USD, cao nhất 5 năm",
       "impact": "↑",
-      "note": "Dự báo GDP 2026 đạt 9,5%, 2027 đạt 11%, nâng dự báo 2028 từ 6,7% lên 9,1%. Hỗ trợ từ chính sách tài khóa/tiền tệ, FDI mạnh (giải ngân 9 tháng 2026 tăng 12%), và nhu cầu trong nước gia tăng. Kỳ vọng tăng trưởng duy trì 2 chữ số đầu năm 2027."
+      "note": "Vốn đầu tư trực tiếp nước ngoài thực hiện 21,07 tỷ USD trong 9 tháng (mức cao nhất cùng kỳ 5 năm qua), chế biến/chế tạo chiếm 82,6%. Unilever và các doanh nghiệp FDI lớn tiếp tục mở rộng đầu tư, phát triển chuỗi cung ứng nội địa, hỗ trợ năng lực cạnh tranh dài hạn."
     },
     {
-      "title": "Doanh nghiệp FDI tạo lực kéo nâng cao năng lực chuỗi cung ứng Việt Nam",
+      "title": "Standard Chartered dự báo GDP 2027 tăng 11%, 2028 tăng 9,1%",
       "impact": "↑",
-      "note": "Vốn FDI thực hiện 9 tháng đầu 2026 đạt 21,07 tỷ USD, mức cao nhất cùng kỳ trong 5 năm qua. Chế biến, chế tạo chiếm 82,6% FDI. Unilever và các công ty nước ngoài tiếp tục mở rộng đầu tư phát triển chuỗi cung ứng nội địa."
+      "note": "Standard Chartered nâng dự báo GDP Việt Nam 2026 từ 9,5%, năm 2027 đạt 11% (ưu tiên tăng trưởng), năm 2028 nâng từ 6,7% lên 9,1% nhờ hỗ trợ chính sách tài khóa, tiền tệ, FDI mạnh và nhu cầu nội địa gia tăng. Kỳ vọng duy trì tăng trưởng 2 chữ số đầu 2027 hỗ trợ thu nhập hộ gia đình."
     }
   ]
 }
