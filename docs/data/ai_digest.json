@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-01",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chứng kiến dòng tiền suy yếu (thanh khoản HoSE 11.764 tỷ đồng/phiên, giảm 12,39%), áp lực bán mạnh từ nhóm ngân hàng. Tuy vậy, nền kinh tế vĩ mô duy trì đà tăng trưởng mạnh (9,01% sau 9 tháng), cao gấp gần 5 lần Thái Lan, với vốn đầu tư tăng 16,7% và doanh nghiệp xây dựng phục hồi tốt. Chứng khoán Mỹ bán tháo nặng (Nasdaq -2,86%), cùng rủi ro từ tiền điện tử sau sự cố Binance, có ảnh hưởng tới dòng vốn ngoại. Chính phủ nới lỏng tín dụng tiêu dùng và hướng tới mục tiêu tăng trưởng 10% năm 2027.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối diện áp lực mạnh từ chuỗi giảm sàn kỷ lục của KOS (mất 90% giá trị trong 6 tuần), bán ròng của khối ngoại gần 1 tỷ USD tháng 10, và thanh khoản sụt giảm lần thứ 5 liên tiếp. Tuy nhiên, tăng trưởng kinh tế 9,01% (cao gấp 4,7 lần Thái Lan), ngành xây dựng tăng mạnh (CC1 doanh thu tăng 51% trong 9 tháng), và nới hạn mức vay nhỏ mở ra triển vọng hỗ trợ tín dụng tiêu dùng có thể giảm bớt áp lực ngắn hạn.",
   "top": [
     {
-      "title": "Dòng tiền suy yếu, nhóm ngân hàng áp lực lớn nhất",
+      "title": "KOS lao dốc 90% trong 6 tuần, chuỗi giảm sàn 29 phiên",
       "impact": "↓",
-      "note": "Thanh khoản HoSE bình quân 11.764 tỷ đồng/phiên, giảm 12,39% so tuần trước. Ngân hàng lấy đi ròng 23,6 điểm (đảo chiều từ +16,8 điểm tuần trước), nổi bật LPB -6,3 điểm, TCB -3,9 điểm, VPB -3,5 điểm. Giá trị giao dịch khớp lệnh cả ba sàn 12.781 tỷ đồng/phiên, giảm 12,78%."
+      "note": "Cổ phiếu KOS mất gần 90% giá trị chỉ trong 6 tuần (từ ngày 21/09), xóa sổ hàng nghìn tỷ đồng vốn hoá do lãnh đạo Kosy bị các công ty chứng khoán bán giải chấp liên tục. Dù vậy chuỗi 29 phiên sàn vẫn chưa phá kỷ lục CDO 34 phiên (2016-2017)."
     },
     {
-      "title": "GDP Việt Nam tăng 9,01% (9 tháng), cao gấp ~5 lần Thái Lan",
-      "impact": "↑",
-      "note": "Quý III tăng 9,95% YoY, quý I: 8,15%, quý II: 8,81%. Vốn đầu tư tăng 16,7%. Tốc độ tăng của Việt Nam cao gấp khoảng 4,7 lần mức dự báo của IMF cho Thái Lan năm 2026 (1,9%). Động lực chính từ công nghiệp, xây dựng, xuất khẩu."
-    },
-    {
-      "title": "Chứng khoán Mỹ bán tháo cổ phiếu công nghệ mạnh",
+      "title": "Khối ngoại bán ròng gần 1 tỷ USD tháng 10",
       "impact": "↓",
-      "note": "Ngày 31/10, Nasdaq giảm 2,86% xuống 25.473 điểm (phiên giảm mạnh nhất từ tháng 6), S&P 500 -1,82% xuống 7.580 điểm, Dow Jones -1,09% xuống 51.770 điểm. Intel lao dốc 29%, Amazon -1%. Áp lực có thể lan sang các thị trường nổi địa."
+      "note": "Nhà đầu tư nước ngoài bán ròng 23.700 tỷ đồng trong tháng 10, khi thanh khoản khớp lệnh giảm lần thứ 5 liên tiếp xuống mức thấp nhất kể từ tháng 1/2025. Dòng tiền chưa quay trở lại đủ mạnh dù thị trường trải qua nhịp điều chỉnh kéo dài 5 tuần."
     },
     {
-      "title": "CC1 doanh thu 11,2 ngàn tỷ đồng (9 tháng), tăng 51%",
+      "title": "GDP Việt Nam 9 tháng tăng 9,01%, cao gấp 4,7 lần Thái Lan",
       "impact": "↑",
-      "note": "Quý III doanh thu 4,8 ngàn tỷ đồng, tăng 89% YoY. Tổng tài sản tăng 47% so đầu năm (25,3 ngàn tỷ đồng). Dòng tiền kinh doanh chuyển dương đạt 4,1 ngàn tỷ đồng. Giải ngân đầu tư công được đẩy mạnh hỗ trợ thi công."
+      "note": "GDP 9 tháng/2026 tăng 9,01%, với Q3/2026 tăng 9,95% (cao hơn Q1: 8,15%, Q2: 8,81%). Theo IMF, Thái Lan dự báo chỉ tăng 1,9% cả năm 2026. Tăng trưởng được thúc đẩy bởi công nghiệp, xây dựng, xuất khẩu tăng 24,5% và vốn đầu tư tăng 16,7%."
     },
     {
-      "title": "Nâng hạn mức vay nhỏ lên 400 triệu đồng",
+      "title": "CC1 doanh thu tăng 51% sau 9 tháng, dòng tiền kinh doanh hồi phục",
       "impact": "↑",
-      "note": "Thông tư 29/2026/TT-NHNN từ 15/8/2026 nâng hạn mức khoản vay giá trị nhỏ lên 400 triệu đồng. Tạo dư địa tiếp cận vốn cho lao động thu nhập trung bình, thấp, hỗ trợ tín dụng tiêu dùng tăng trưởng mạnh."
+      "note": "Tổng Công ty Xây dựng Số 1 ghi nhận 9 tháng doanh thu 11.2 ngàn tỷ đồng (+51%), Q3 doanh thu 4.8 ngàn tỷ (+89% YoY). Tài sản mở rộng 47% lên 25.3 ngàn tỷ; dòng tiền từ hoạt động kinh doanh chuyển dương đạt 4.1 ngàn tỷ, nhờ giải ngân đầu tư công được thúc đẩy."
     },
     {
-      "title": "Rút ròng 790 triệu USD từ ETF Bitcoin, Ethereum, Solana",
+      "title": "Thanh khoản sụt giảm 12,39%, dòng tiền suy yếu trên diện rộng",
       "impact": "↓",
-      "note": "Bitcoin ETF rút 643 triệu USD, Ethereum ETF rút 135 triệu USD, Solana ETF rút 10 triệu USD (phiên 30/10). Sự cố Binance bị tấn công mạng mất 6,3 tỷ USD. Rủi ro từ tiền điện tử gia tăng, ảnh hưởng tâm lý đầu tư toàn cầu."
+      "note": "Giá trị giao dịch khớp lệnh HoSE tuần này đạt 11.764 tỷ đồng/phiên, giảm 12,39% so với tuần trước. Nhóm ngân hàng gây áp lực lớn nhất (-23,6 điểm), đảo chiều hoàn toàn so với tuần trước; dịch vụ tài chính tiếp tục lấy đi -5,1 điểm."
+    },
+    {
+      "title": "Nới hạn mức vay nhỏ lên 400 triệu đồng, mở rộng tín dụng tiêu dùng",
+      "impact": "↑",
+      "note": "Thông tư 29/2026/TT-NHNN từ 15/08/2026 nâng hạn mức khoản vay giá trị nhỏ tối đa 400 triệu đồng tại các tổ chức tín dụng, tạo dư địa đáp ứng nhu cầu vốn tiêu dùng. Chính sách này hỗ trợ người dân tiếp cận vốn linh hoạt hơn, đặc biệt là nhóm có thu nhập trung bình, thấp."
     }
   ]
 }
