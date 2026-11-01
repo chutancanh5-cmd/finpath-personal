@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-01",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tăng trưởng mạnh 9,95% quý III và 9,01% chín tháng đầu năm, Chính phủ đặt mục tiêu tăng trưởng hai con số (10%/năm) từ 2027 với ba đột phá chiến lược. Tuy nhiên, thị trường chứng khoán đối mặt áp lực lớn từ dòng tiền: khối ngoại bán ròng gần 1 tỷ USD tháng 10, VN-Index giảm 1,83%, thanh khoản sụt giảm lần thứ năm liên tiếp. Nhà đầu tư tìm tới các kênh an toàn hơn như tiết kiệm ngân hàng (lãi suất 6,6-7,4%/năm) và vàng, phản ánh tâm lý thận trọng.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối diện sự điều chỉnh mạnh với VN-Index giảm 1,83% tuần cuối tháng 10 do khối ngoại bán ròng ~1 tỷ USD và thanh khoản suy yếu 5 tháng liên tiếp. Tuy nhiên, nền kinh tế vẫn khởi sắc với GDP quý III tăng 9,95% YoY, các công ty xây dựng và thực phẩm ghi nhận tăng trưởng mạnh. Rủi ro ngắn hạn từ dòng tiền nước ngoài cần cân nhắc với cơ hội dài hạn từ nền kinh tế vĩ mô tích cực.",
   "top": [
     {
       "title": "Khối ngoại bán ròng gần 1 tỷ USD tháng 10",
@@ -30,9 +30,9 @@
       "note": "Thanh khoản giảm 12,78% so với tuần trước, nhóm ngân hàng lấy đi ròng 23,6 điểm chỉ số (LPB -6,3, TCB -3,9, VPB -3,5 điểm), phản ánh nhà đầu tư chuyển sang tìm kiếm an toàn."
     },
     {
-      "title": "Giá vàng giảm 5,3 triệu đồng/lượng trong tháng 10",
-      "impact": "→",
-      "note": "Giá vàng miếng SJC khép lại tháng ở mức thấp nhất 3 tháng qua (136-139 triệu đồng/lượng), người mua thiệt khoảng 12 triệu đồng/lượng so với đầu tháng, dòng vốn tìm tới tiết kiệm ngân hàng với lãi suất 6,6-7,4%/năm."
+      "title": "CC1 doanh thu tăng 51%, tài sản tăng 47%",
+      "impact": "↑",
+      "note": "CC1 doanh thu 9 tháng đạt 11.2 ngàn tỷ đồng, tăng 51% YoY; tài sản tăng 47% lên 25,3 ngàn tỷ đồng; dòng tiền kinh doanh chuyển dương 4,1 ngàn tỷ đồng nhờ tăng tốc giải ngân đầu tư công."
     }
   ]
 }
