@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế quý III tăng 9,95% vượt tăng trưởng khu vực, nhưng thị trường chứng khoán gặp khó khăn với áp lực bán gia tăng. VN-Index giảm 32,5 điểm, khối ngoại tiếp tục bán ròng, thanh khoản suy giảm và dòng tiền phân hóa. Áp lực từ chứng khoán Mỹ (Nasdaq -2,86%) tác động tiêu cực. Dòng vốn tập trung vào cổ phiếu có câu chuyện riêng và hưởng từ giải ngân đầu tư công. Rủi ro cấu trúc vốn: dư nợ tín dụng 155% GDP với 80% tiền gửi ngắn hạn khiến ngân hàng khó cung ứng vốn dài hạn.",
+  "summary_vi": "Thị trường có tín hiệu tích cực từ tăng trưởng GDP 9,01% trong 9 tháng và kết quả kinh doanh mạnh của công ty như Vinamilk (lãi ròng tăng 17%), CC1 (doanh thu tăng 51%), kèm chính sách nới hạn mức vay nhỏ lên 400 triệu; tuy nhiên áp lực bán từ khối ngoại (bán ròng 647 tỷ liên tiếp), thanh khoản suy giảm, và tác động tiêu cực từ chứng khoán Mỹ (Nasdaq giảm 2,86%) đang gây nguy hiểm cho đà hồi phục ngắn hạn.",
   "top": [
     {
-      "title": "VN-Index giảm 32,5 điểm tuần cuối tháng 10",
+      "title": "GDP Việt Nam tăng 9,01% trong 9 tháng, quý III đạt 9,95%",
+      "impact": "↑",
+      "note": "GDP Việt Nam tăng 9,01% lũy kế 9 tháng 2026, trong đó quý III tăng 9,95% so với cùng kỳ năm trước, cao hơn quý I (8,15%) và quý II (8,81%). Đà tăng trưởng được thúc đẩy bởi công nghiệp, xây dựng, xuất khẩu (tăng 24,5%) và đầu tư (tăng 16,7%), giúp Việt Nam vượt xa Thái Lan với tốc độ gấp khoảng 4,7 lần."
+    },
+    {
+      "title": "Vinamilk lãi ròng quý III tăng 17%, thị trường nội địa phục hồi",
+      "impact": "↑",
+      "note": "Quý III 2026, Vinamilk lãi ròng 2,964 tỷ đồng, tăng hơn 17% so với cùng kỳ. Doanh thu thuần đạt 18,465 tỷ đồng tăng 8,7%, lợi nhuận gộp tăng 8%. Doanh thu nội địa tăng 8,8%, các dòng sản phẩm cao cấp và sữa không lactose chiếm tỷ trọng lớn hơn."
+    },
+    {
+      "title": "Chứng khoán Mỹ rớt mạnh, Nasdaq giảm 2,86% trong phiên 31/10",
       "impact": "↓",
-      "note": "VN-Index mất 32,53 điểm (1,83%) xuống 1.741,62 điểm. Khối ngoại tiếp tục bán ròng phiên thứ 6 liên tiếp với 647 tỷ đồng. Thanh khoản giảm 9,38% (645 triệu cổ phiếu/phiên). Nhóm ngân hàng dẫn đầu chiều tiêu cực với 4 mã trong top 10 tác động xấu (LPB -2,6 điểm, VPB -2,1 điểm, TCB -2,1 điểm, BID -1,4 điểm)."
+      "note": "Phiên giao dịch ngày 31/10, chứng khoán Mỹ rơi vào sắc đỏ do bán tháo cổ phiếu công nghệ. Nasdaq giảm 2,86% (phiên giảm mạnh nhất kể từ tháng 6), S&P 500 mất 1,82%, Dow Jones giảm 1,09%. Intel lao dốc gần 29% khi doanh thu PC và AI giảm 5%."
     },
     {
-      "title": "GDP Việt Nam tăng 9,95% quý III/2026",
-      "impact": "↑",
-      "note": "GDP quý III tăng 9,95% so cùng kỳ, cao hơn quý I (8,15%) và quý II (8,81%). Chín tháng đầu năm tăng 9,01%. Tốc độ tăng trưởng cao gấp 4,7 lần so với dự báo cả năm của Thái Lan (1,9% theo IMF). Đà tăng được thúc đẩy bởi công nghiệp, xây dựng, xuất khẩu (tăng 24,5%) và đầu tư (tăng 16,7%)."
-    },
-    {
-      "title": "Chứng khoán Mỹ giảm sâu: Nasdaq -2,86%, S&P 500 -1,82%",
+      "title": "VN-Index giảm 32,5 điểm, khối ngoại bán ròng 647 tỷ liên tiếp",
       "impact": "↓",
-      "note": "Phiên 31/10, Nasdaq sụt 2,86% xuống 25.473 điểm (phiên giảm mạnh nhất từ tháng 6, thấp 8% so mức cao gần đây). S&P 500 giảm 1,82% còn 7.580,07 điểm. Dow Jones giảm 1,09% xuống 51.770,31 điểm. Áp lực bán tập trung ở nhóm cổ phiếu công nghệ/AI. Intel lao dốc 29% do triển vọng yếu về máy tính cá nhân."
+      "note": "Tuần cuối tháng 10, VN-Index giảm 32,5 điểm (-1,83%), xuống 1.741,62 điểm. Khối ngoại duy trì trạng thái bán ròng phiên thứ 6 liên tiếp với giá trị 647 tỷ đồng. Thanh khoản suy giảm 9,38%, tâm lý nhà đầu tư thận trọng."
     },
     {
-      "title": "CC1 doanh thu tăng 89% quý III nhờ giải ngân đầu tư công",
+      "title": "CC1 doanh thu quý III tăng 89%, lũy kế 9 tháng tăng 51%",
       "impact": "↑",
-      "note": "Quý III, doanh thu CC1 đạt gần 4.800 tỷ đồng, tăng 89% YoY. Lũy kế 9 tháng doanh thu 11.200 tỷ đồng, tăng 51%. Tổng tài sản tăng 8.100 tỷ đồng (47%) lên 25.300 tỷ đồng. Dòng tiền kinh doanh chuyển dương: 4.100 tỷ đồng sau 9 tháng. Động lực chủ yếu từ thi công các công trình hạ tầng trọng điểm."
+      "note": "Quý III 2026, CC1 đạt doanh thu gần 4.800 tỷ đồng, tăng 89% so với cùng kỳ. Lũy kế 9 tháng doanh thu đạt 11.200 tỷ đồng, tăng 51%. Tổng tài sản tăng 47% lên 25.300 tỷ đồng, dòng tiền kinh doanh chuyển từ âm sang dương 4.100 tỷ đồng."
     },
     {
-      "title": "Vinamilk lợi nhuận tăng 17% quý III/2026",
+      "title": "Nới hạn mức khoản vay nhỏ lên tối đa 400 triệu đồng",
       "impact": "↑",
-      "note": "Quý III, lợi nhuận ròng 2.964 tỷ đồng, tăng 17% YoY. Doanh thu thuần 18.465 tỷ đồng, tăng 8,7%. Lợi nhuận gộp 7.637 tỷ đồng, tăng 8%. Thị trường nội địa tăng 8,8%, các dòng sữa cao cấp (Green Farm) chiếm tỷ trọng lớn hơn. Nguồn thu tài chính tăng mạnh, công ty liên kết có lãi."
-    },
-    {
-      "title": "Dư nợ tín dụng 155% GDP, cấu trúc vốn chênh lệch kỳ hạn",
-      "impact": "→",
-      "note": "Nền kinh tế phụ thuộc cao vào tín dụng ngân hàng với dư nợ 155% GDP. Gần 80% vốn huy động có kỳ hạn dưới 12 tháng, nhưng khoảng 50% dư nợ là trung-dài hạn, tạo chênh lệch kỳ hạn. Thị trường trái phiếu doanh nghiệp mới đạt khoảng 11% GDP, thấp hơn mục tiêu 20% năm 2025."
+      "note": "Thông tư 29/2026/TT-NHNN từ ngày 15/8/2026 nâng hạn mức khoản vay giá trị nhỏ tại các tổ chức tín dụng lên tối đa 400 triệu đồng. Chính sách mở rộng cửa tín dụng tiêu dùng, tạo dư địa đáp ứng nhu cầu vốn của người dân có thu nhập trung bình, giảm áp lực tìm kiếm vốn từ kênh ngoài chính thức."
     }
   ]
 }
