@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-01",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP quý III tăng 9,95% so với cùng kỳ (chín tháng tăng 9,01%), hỗ trợ bởi đầu tư công, xuất khẩu tăng 24,5% và phục hồi tiêu dùng nội địa. Tuy nhiên, thị trường chứng khoán Việt Nam đang đối diện áp lực điều chỉnh kỹ thuật ngắn hạn với các tín hiệu tiêu cực trên VN-Index (Death Cross, Stochastic cắt xuống), trong khi thị trường toàn cầu chao đảo (Nasdaq -2,86%, giá vàng -3.874 USD/ounce). Chính phủ đẩy nhanh chính sách nới lỏng tín dụng (nâng hạn mức vay nhỏ lên 400 triệu đồng) và hướng tới mục tiêu tăng trưởng hai con số năm 2027.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chứng kiến dòng tiền suy yếu (thanh khoản HoSE 11.764 tỷ đồng/phiên, giảm 12,39%), áp lực bán mạnh từ nhóm ngân hàng. Tuy vậy, nền kinh tế vĩ mô duy trì đà tăng trưởng mạnh (9,01% sau 9 tháng), cao gấp gần 5 lần Thái Lan, với vốn đầu tư tăng 16,7% và doanh nghiệp xây dựng phục hồi tốt. Chứng khoán Mỹ bán tháo nặng (Nasdaq -2,86%), cùng rủi ro từ tiền điện tử sau sự cố Binance, có ảnh hưởng tới dòng vốn ngoại. Chính phủ nới lỏng tín dụng tiêu dùng và hướng tới mục tiêu tăng trưởng 10% năm 2027.",
   "top": [
     {
-      "title": "GDP Việt Nam tăng 9,95% quý III, gấp 4,7 lần Thái Lan",
-      "impact": "↑",
-      "note": "GDP quý III/2026 tăng 9,95% so với cùng kỳ năm trước, lũy kế chín tháng tăng 9,01% — cao gấp khoảng 4,7 lần mức tăng dự báo cả năm của Thái Lan (1,9%). Đà tăng được thúc đẩy bởi công nghiệp, xây dựng, xuất khẩu (tăng 24,5%) và vốn đầu tư (tăng 16,7%)."
-    },
-    {
-      "title": "VN-Index, HNX-Index giảm liên tiếp, giao cắt tử thần hình thành",
+      "title": "Dòng tiền suy yếu, nhóm ngân hàng áp lực lớn nhất",
       "impact": "↓",
-      "note": "Ngày 30/10, VN-Index giảm phiên thứ 2 liên tiếp với mẫu High Wave Candle, đang kiểm tra đường Middle Bollinger Bands, Stochastic cắt xuống ở vùng overbought. HNX-Index giao cắt tử thần hình thành giữa SMA 50 và SMA 20 ngày, nằm dưới Fibonacci 61,8% (vùng 253-258 điểm), cho thấy triển vọng ngắn hạn tiêu cực."
+      "note": "Thanh khoản HoSE bình quân 11.764 tỷ đồng/phiên, giảm 12,39% so tuần trước. Ngân hàng lấy đi ròng 23,6 điểm (đảo chiều từ +16,8 điểm tuần trước), nổi bật LPB -6,3 điểm, TCB -3,9 điểm, VPB -3,5 điểm. Giá trị giao dịch khớp lệnh cả ba sàn 12.781 tỷ đồng/phiên, giảm 12,78%."
     },
     {
-      "title": "Nasdaq sụt 2,86%, bán tháo toàn bộ cổ phiếu công nghệ",
-      "impact": "↓",
-      "note": "Ngày 31/10, Nasdaq giảm 2,86% xuống 25.473 điểm (phiên giảm mạnh nhất kể từ tháng 6), S&P 500 giảm 1,82% xuống 7.580 điểm, Dow Jones giảm 1,09% xuống 51.770 điểm. Intel lao dốc 29%, Amazon giảm hơn 1%. Áp lực bán tập trung ở nhóm cổ phiếu công nghệ, có khả năng kéo theo thị trường chứng khoán toàn cầu."
-    },
-    {
-      "title": "Giá vàng thế giới lao xuống 3.874 USD/ounce, thấp nhất 1 năm",
-      "impact": "↓",
-      "note": "Giá vàng từ đỉnh lịch sử 5.000 USD/ounce đã lao xuống 3.874 USD/ounce trong phiên cuối tuần 31/10 — mức thấp nhất trong hơn 1 năm. Áp lực bán gây ra bởi Fed duy trì thắt chặt chính sách tiền tệ và bán tháo cổ phiếu công nghệ trên thị trường toàn cầu."
-    },
-    {
-      "title": "Nâng hạn mức vay nhỏ lên 400 triệu đồng, nới lỏng tín dụng tiêu dùng",
+      "title": "GDP Việt Nam tăng 9,01% (9 tháng), cao gấp ~5 lần Thái Lan",
       "impact": "↑",
-      "note": "Thông tư 29/2026/TT-NHNN từ ngày 15-8-2026 nâng mức tối đa khoản vay giá trị nhỏ lên 400 triệu đồng, tạo thêm dư địa tiếp cận vốn cho tầng lớp lao động có thu nhập trung bình, thấp, hỗ trợ tiêu dùng và kinh doanh nhỏ trong bối cảnh tín dụng tiêu dùng tăng trưởng mạnh."
+      "note": "Quý III tăng 9,95% YoY, quý I: 8,15%, quý II: 8,81%. Vốn đầu tư tăng 16,7%. Tốc độ tăng của Việt Nam cao gấp khoảng 4,7 lần mức dự báo của IMF cho Thái Lan năm 2026 (1,9%). Động lực chính từ công nghiệp, xây dựng, xuất khẩu."
     },
     {
-      "title": "Quốc hội đề xuất ba đột phá chiến lược cho tăng trưởng hai con số",
+      "title": "Chứng khoán Mỹ bán tháo cổ phiếu công nghệ mạnh",
+      "impact": "↓",
+      "note": "Ngày 31/10, Nasdaq giảm 2,86% xuống 25.473 điểm (phiên giảm mạnh nhất từ tháng 6), S&P 500 -1,82% xuống 7.580 điểm, Dow Jones -1,09% xuống 51.770 điểm. Intel lao dốc 29%, Amazon -1%. Áp lực có thể lan sang các thị trường nổi địa."
+    },
+    {
+      "title": "CC1 doanh thu 11,2 ngàn tỷ đồng (9 tháng), tăng 51%",
       "impact": "↑",
-      "note": "Ngày 31/10, đại biểu Quốc hội đề xuất ba đột phá chiến lược (thể chế, hạ tầng, nhân lực chất lượng cao) để hiện thực hóa mục tiêu tăng trưởng 10% năm 2027. Phát huy ba động lực truyền thống (đầu tư, tiêu dùng, xuất khẩu) và triển khai các khu kinh tế đặc biệt, trung tâm tài chính quốc tế, khu thương mại tự do."
+      "note": "Quý III doanh thu 4,8 ngàn tỷ đồng, tăng 89% YoY. Tổng tài sản tăng 47% so đầu năm (25,3 ngàn tỷ đồng). Dòng tiền kinh doanh chuyển dương đạt 4,1 ngàn tỷ đồng. Giải ngân đầu tư công được đẩy mạnh hỗ trợ thi công."
+    },
+    {
+      "title": "Nâng hạn mức vay nhỏ lên 400 triệu đồng",
+      "impact": "↑",
+      "note": "Thông tư 29/2026/TT-NHNN từ 15/8/2026 nâng hạn mức khoản vay giá trị nhỏ lên 400 triệu đồng. Tạo dư địa tiếp cận vốn cho lao động thu nhập trung bình, thấp, hỗ trợ tín dụng tiêu dùng tăng trưởng mạnh."
+    },
+    {
+      "title": "Rút ròng 790 triệu USD từ ETF Bitcoin, Ethereum, Solana",
+      "impact": "↓",
+      "note": "Bitcoin ETF rút 643 triệu USD, Ethereum ETF rút 135 triệu USD, Solana ETF rút 10 triệu USD (phiên 30/10). Sự cố Binance bị tấn công mạng mất 6,3 tỷ USD. Rủi ro từ tiền điện tử gia tăng, ảnh hưởng tâm lý đầu tư toàn cầu."
     }
   ]
 }
