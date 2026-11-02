@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tháng 11 mở ra với những tín hiệu lạc quan từ chính sách (giảm giá điện 2%, thuế xăng dầu về 0%) và mục tiêu tăng trưởng hai con số 2027 với chiến lược nâng cấp thể chế, hạ tầng, nhân lực; thương mại Việt-Trung mạnh (253.1 tỷ USD, +37.6%) và hạ tầng triển khai tích cực. Tuy nhiên thị trường vẫn giằng co quanh 1730 điểm với áp lực điều chỉnh, và lợi nhuận công ty chứng khoán quý 3 giảm 43% năm trên năm. Lịch sử cho thấy tháng 11 thường tăng 70%, nhưng cần cân bằng giữa triển vọng dài hạn tích cực và rủi ro ngắn hạn.",
+  "summary_vi": "Tháng 11 mở ra với những tín hiệu lạc quan từ chính sách (giảm giá điện 2%, thuế xăng dầu về 0%) và mục tiêu tăng trưởng hai con số 2027 với chiến lược nâng cấp thể chế, hạ tầng, nhân lực; thương mại Việt-Trung mạnh (253,1 tỷ USD, +37,6%) và hạ tầng triển khai tích cực. Tuy nhiên thị trường vẫn giằng co quanh 1730 điểm với áp lực điều chỉnh, và lợi nhuận công ty chứng khoán quý 3 giảm 43% năm trên năm. Lịch sử cho thấy tháng 11 thường tăng 70%, nhưng cần cân bằng giữa triển vọng dài hạn tích cực và rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Giảm giá điện, giảm thuế xăng dầu kiềm chế lạm phát",
+      "title": "Giảm giá điện 2%, giảm thuế xăng dầu từ 1/11",
       "impact": "↑",
-      "note": "Từ 1/11, giá điện giảm 2% và thuế tiêu thụ đặc biệt xăng dầu về 0%, góp phần kiềm chế lạm phát, giảm chi phí sản xuất và chi phí sinh hoạt, hỗ trợ ổn định kinh tế vĩ mô."
+      "note": "Từ 1/11/2026, giá bán lẻ điện bình quân giảm 2% và thuế tiêu thụ đặc biệt xăng dầu về 0%, góp phần kiềm chế lạm phát, giảm chi phí sản xuất và chi phí sinh hoạt, hỗ trợ ổn định kinh tế vĩ mô."
     },
     {
-      "title": "Quốc hội đề xuất tăng trưởng 10% năm 2027",
+      "title": "Quốc hội đề xuất mục tiêu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Quốc hội đề xuất mục tiêu tăng trưởng 10% năm 2027 với ba đột phá chiến lược (thể chế, hạ tầng, nhân lực chất lượng cao) và ba động lực (đầu tư, tiêu dùng, xuất khẩu); hình thành khu kinh tế đặc biệt, trung tâm tài chính quốc tế."
+      "note": "Kỳ họp thứ Hai Quốc hội khóa XVI (31/10) đề xuất tăng trưởng 10% năm 2027 dựa ba đột phá chiến lược (thể chế, hạ tầng, nhân lực chất lượng cao) và ba động lực (đầu tư, tiêu dùng, xuất khẩu)."
     },
     {
-      "title": "T&T Group triển khai dự án hạ tầng chiến lược",
+      "title": "VN-Index tháng 11 lịch sử 10 năm tăng 70%, hiệu suất 3,8%",
       "impact": "↑",
-      "note": "Cảng hàng không Quảng Trị sẽ khai thác thương mại vào tháng 3/2027; T&T Group đầu tư giao thông, logistics, năng lượng tại các địa bàn trọng điểm, góp phần tăng cường kết nối liên vùng."
+      "note": "Thống kê 10 năm gần nhất cho thấy tháng 11 có xác suất tăng điểm lên 70%, hiệu suất bình quân 3,8%, xếp thứ hai năm; sau hai tháng giảm liên tiếp (tháng 9-10), thị trường mở dư địa cho nhịp hồi phục kỹ thuật."
     },
     {
-      "title": "Thương mại Việt-Trung tăng 37.6% trong 9 tháng",
-      "impact": "↑",
-      "note": "Kim ngạch thương mại song phương 9 tháng đạt 253.1 tỷ USD, tăng 37.6%; xuất khẩu Việt sang Trung Quốc 65.8 tỷ USD (+32.9%), nhập khẩu 187.3 tỷ USD (+39.3%), thúc đẩy giao dịch CNY."
-    },
-    {
-      "title": "Tháng 11 lịch sử 10 năm tăng 70%, hiệu suất 3.8%",
-      "impact": "→",
-      "note": "Thống kê 10 năm qua cho thấy tháng 11 có xác suất tăng điểm 70%, hiệu suất bình quân 3.8%, xếp thứ hai tháng tốt nhất; tuy nhiên Nasdaq -5.3%, CSI 300 vào bear market, VN-Index giảm 1.535% tháng 10."
-    },
-    {
-      "title": "Lợi nhuận công ty chứng khoán quý 3 giảm 43%",
+      "title": "Lợi nhuận công ty chứng khoán quý 3 giảm 43% năm trên năm",
       "impact": "↓",
-      "note": "Lợi nhuận 82 công ty chứng khoán quý 3 chỉ 8.6 ngàn tỷ đồng, giảm 30% vs quý 2 và 43% vs quý 3/2025; doanh thu tự doanh và môi giới sụt giảm, chỉ mảng cho vay margin tăng 13 ngàn tỷ đồng."
+      "note": "Lợi nhuận 82 công ty chứng khoán quý 3/2026 đạt 8,6 ngàn tỷ đồng, giảm 30% so quý 2 và 43% so quý 3/2025; doanh thu tự doanh và môi giới sụt giảm, chỉ mảng cho vay margin duy trì tăng lên 13 ngàn tỷ đồng."
+    },
+    {
+      "title": "Doanh thu CC1 tăng 51% lũy kế 9 tháng, tài sản tăng 47%",
+      "impact": "↑",
+      "note": "CC1 đạt doanh thu 11,2 ngàn tỷ đồng lũy kế 9 tháng, tăng 51% so cùng kỳ; tổng tài sản 25,3 ngàn tỷ đồng tăng 47% từ đầu năm; dòng tiền kinh doanh chuyển dương 4,1 ngàn tỷ đồng."
+    },
+    {
+      "title": "Thị trường quốc tế suy yếu, Nasdaq -5,3%, CSI 300 vào bear market",
+      "impact": "↓",
+      "note": "Tháng 10, Nasdaq giảm 5,3% (mạnh nhất kể từ tháng 3/2025), S&P 500 mất 0,9%; CSI 300 Trung Quốc vào bear market giảm 8,5% tháng 10 và 21,4% so đỉnh tháng 6; Hàn Quốc -16,4%, Indonesia -15,6%."
     }
   ]
 }
