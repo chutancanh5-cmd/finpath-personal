@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-03",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam tiếp tục chịu áp lực điều chỉnh với VN-Index giảm 1,77% khi khối ngoại rút ròng trong phiên thứ 7 liên tiếp, bán mạnh nhóm ngân hàng gần 589 tỷ đồng. Các CTCK ghi nhận lợi nhuận sụt giảm 30% QoQ do tự doanh và môi giới suy giảm, chỉ có cho vay margin là điểm sáng. Tuy vậy, XNK lần đầu vượt 1.000 tỷ USD (tăng 32% YoY) và VND tăng giá mạnh trong bối cảnh áp lực kép, tạo yếu tố cân bằng một phần cho triển vọng ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán ghi nhận điều chỉnh mạnh với VN-Index giảm 1,77%, khối ngoại liên tục rút vốn lần thứ 7 liên tiếp, áp lực lên nhóm ngân hàng. Tuy nhiên, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD với cơ cấu chuyển sang công nghệ cao tăng 32%. Chính sách tăng trưởng hai con số đang được khơi thông, đồng VND trụ vững nhất châu Á giảm 1,87% so với USD từ đầu năm.",
   "top": [
     {
-      "title": "VN-Index giảm 1,77% với thanh khoản đột biến",
+      "title": "VN-Index giảm mạnh 1,77%, thanh khoản đột biến",
       "impact": "↓",
-      "note": "VN-Index giảm hơn 30 điểm (-1,77%), đóng cửa tại 1.710,72 điểm, với thanh khoản vượt mức trung bình 20 phiên. Chỉ báo kỹ thuật cho thấy RSI hình thành đỉnh sau thấp hơn, MACD tiến sát khả năng giao cắt xuống, vùng hỗ trợ quan trọng ở 1.700-1.705 điểm."
+      "note": "VN-Index xuống 1710,72 điểm (-1,77%), thanh khoản vượt mức trung bình 20 phiên, RSI suy yếu và MACD tiến sát giao cắt xuống, cho thấy động lượng giảm gia tăng."
     },
     {
-      "title": "Khối ngoại rút ròng 450 tỷ đồng, bán mạnh ngân hàng 589 tỷ",
+      "title": "Khối ngoại rút ròng 450 tỷ đồng, bán mạnh ngân hàng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 450 tỷ đồng toàn thị trường (phiên thứ 7 liên tiếp), bán mạnh nhóm ngân hàng với tổng ~636 tỷ đồng (MBB 182 tỷ, VCB 155 tỷ, ACB 117 tỷ, STB 105 tỷ), rút ròng ròng khoảng 589 tỷ đồng sau bù trừ."
+      "note": "Khối ngoại rút ròng 450 tỷ đồng lần thứ 7 liên tiếp, bán ròng nhóm ngân hàng 589 tỷ đồng, đặc biệt MBB rút 182 tỷ và VCB rút 155 tỷ đồng."
     },
     {
-      "title": "Xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, cơ cấu nâng cao",
       "impact": "↑",
-      "note": "Kim ngạch XNK vượt mốc lịch sử 1.000 tỷ USD trong 10 tháng năm 2026, tăng hơn 32% so với cùng kỳ năm ngoái. Ngành chế biến chế tạo đóng góp 87,4%, sản phẩm công nghệ cao, bán dẫn, thiết bị điện tử chiếm tỷ trọng chính, nâng cao giá trị chuỗi cung ứng."
+      "note": "Xuất nhập khẩu lần đầu vượt mốc 1.000 tỷ USD, tăng 32% so với cùng kỳ năm trước, ngành công nghiệp chế biến chế tạo đóng góp 87,4%."
     },
     {
-      "title": "Lợi nhuận CTCK giảm 30% QoQ, 43% YoY",
+      "title": "Công ty chứng khoán kinh doanh ảm đạm, lợi nhuận quý 3 giảm mạnh",
       "impact": "↓",
-      "note": "82 công ty chứng khoán ghi nhận lợi nhuận sau thuế 8.600 tỷ đồng quý 3/2026, giảm 30% so với quý 2 và 43% so với Q3/2025. Tự doanh và môi giới sụt giảm đáng kể, chỉ lãi từ cho vay margin đạt kỷ lục gần 13.000 tỷ đồng, tăng từ 12.200 tỷ quý 2."
+      "note": "Lợi nhuận sau thuế 82 CTCK quý 3/2026 đạt 8,6 ngàn tỷ đồng, giảm 30% so với quý 2 và 43% so với cùng kỳ quý 3/2025, chỉ dựa vào cho vay margin."
     },
     {
-      "title": "VND tăng giá mạnh, USD/VND giảm 1,87% YTD",
+      "title": "Giá vàng thế giới phục hồi mạnh, vàng SJC tăng 1 triệu/lượng",
       "impact": "↑",
-      "note": "Tỷ giá USD/VND giảm 1,87% từ đầu năm 2026, đưa VND vào nhóm 3 đồng tiền châu Á tăng giá mạnh nhất so với USD giữa áp lực kép từ nhập siêu và USD mạnh lên. Giá USD ngân hàng giảm 1,5%, thị trường tự do giảm 2,87%."
+      "note": "Giá vàng thế giới tăng 2,3% lên 3.963,80 USD/ounce, phục hồi từ đáy thấp tháng 10/2025; vàng miếng SJC Việt Nam tăng 1 triệu đồng/lượng lên 140 triệu đồng."
     },
     {
-      "title": "Giá vàng thế giới tăng 2,3%, lên 3.963,80 USD/ounce",
+      "title": "VND là đồng tiền châu Á tăng giá mạnh nhất so với USD",
       "impact": "↑",
-      "note": "Giá vàng giao ngay tăng 2,3% phiên 2/11, lên 3.963,80 USD/ounce, phục hồi mạnh từ đáy thấp nhất kể từ tháng 10/2025. Giá dầu giảm hơn 6% xoa dịu lo ngại lạm phát, USD suy yếu hỗ trợ kim loại quý, bù phần nào lo ngại Fed tăng lãi suất tháng 12."
+      "note": "VND giảm 1,87% so với USD từ đầu năm, là nhóm ba đồng tiền tăng giá mạnh nhất châu Á, bất chấp USD Index tăng 3,49% và áp lực nhập siêu."
     }
   ]
 }
