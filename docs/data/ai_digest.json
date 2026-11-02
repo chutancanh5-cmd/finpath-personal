@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính sách hỗ trợ kinh tế bước vào giai đoạn mới với giảm giá điện 2% và thuế xăng dầu về 0%, cùng giải ngân đầu tư công được thúc đẩy nhằm đạt mục tiêu tăng trưởng 10% năm 2027. Thương mại Việt-Trung tăng mạnh (253,1 tỷ USD), doanh nghiệp hưởng lợi từ ngành xây dựng và vật liệu. Tuy nhiên, áp lực từ dòng tiền suy yếu (khối ngoại bán ròng 1 tỷ USD, thanh khoản giảm 5 tháng liên tiếp) và rủi ro tài chính ngân hàng (Vietcombank trích dự phòng 5.000 tỷ cho nợ xấu) cân bằng những tín hiệu tích cực, giữ thị trường ở chế độ chờ đợi.",
+  "summary_vi": "Thị trường chứng khoán tháng 10 chịu áp lực bán mạnh từ khối ngoại (bán ròng 1 tỷ USD) và thanh khoản suy yếu liên tiếp 5 tháng. Tuy nhiên, chính sách hỗ trợ (giảm giá điện 2%, thuế xăng dầu về 0% từ 1/11) và giải ngân vốn đầu tư công cuối năm mở cơ hội cho xây dựng, vật liệu xây dựng. Những cổ phiếu bị chiết khấu sâu có tiềm năng bứt phá trong quý 4, trong khi rủi ro từ nợ xấu ngân hàng và dòng tiền suy yếu cần theo dõi.",
   "top": [
     {
-      "title": "Giảm giá điện 2%, thuế xăng dầu về 0% từ 1/11",
-      "impact": "↑",
-      "note": "Từ 1/11/2026, giá bán lẻ điện bình quân giảm 2%. Giá xăng E5RON92 giảm 1,804 đồng/lít, E10RON95-III giảm 1,575 đồng/lít khi thuế tiêu thụ đặc biệt được đưa về 0%. Chính sách kiềm chế lạm phát, ổn định kinh tế vĩ mô, hỗ trợ sản xuất và giảm chi phí sinh hoạt."
-    },
-    {
-      "title": "Khối ngoại bán ròng 23.700 tỷ đồng, thanh khoản giảm 5 tháng liên tiếp",
+      "title": "Khối ngoại bán ròng 1 tỷ USD tháng 10",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng trong tháng 10 tương đương ~1 tỷ USD. Thanh khoản khớp lệnh HoSE giảm 23,36% so với bình quân 5 tháng, suy yếu 5 tháng liên tiếp xuống mức thấp nhất từ tháng 1/2025. VN-Index biến động (xuống 1.705,91 điểm), nhóm ngân hàng lấy đi 23,6 điểm."
+      "note": "Nhà đầu tư nước ngoài bán ròng 23.700 tỷ đồng (khoảng 1 tỷ USD) trong tháng 10. Điều này cho thấy sự không lạc quan của dòng tiền nước ngoài và rủi ro rút vốn tiếp tục từ thị trường chứng khoán Việt Nam."
     },
     {
-      "title": "Vietcombank trích lập dự phòng 5.000 tỷ cho nợ xấu năng lượng",
+      "title": "Thanh khoản suy yếu 5 tháng liên tiếp, ngân hàng gây áp lực",
       "impact": "↓",
-      "note": "Chi phí dự phòng quý 3/2026 đạt 6.184 tỷ (gấp 8 lần cùng kỳ), trong đó 5.000 tỷ cho lô trái phiếu doanh nghiệp ngành năng lượng. Lũy kế 9 tháng trích 9.180 tỷ (gấp 4 lần cùng kỳ). Lãi quý 3 giảm 35,6% so với quý liền trước."
+      "note": "Giá trị giao dịch khớp lệnh HoSE tuần này 11.764 tỷ đồng/phiên, giảm 23,36% so với bình quân 5 tháng, thấp nhất từ tháng 1/2025. Nhóm ngân hàng gây áp lực -23,6 điểm vào VN-Index, với LPB, TCB, VPB, STB dẫn đầu áp lực bán."
     },
     {
-      "title": "Thương mại Việt-Trung tăng 37,6%, đạt 253,1 tỷ USD trong 9 tháng",
+      "title": "Giảm giá điện 2%, xăng dầu giảm thuế về 0%",
       "impact": "↑",
-      "note": "Kim ngạch hai chiều tăng 37,6%. Xuất khẩu Việt sang Trung Quốc 65,8 tỷ USD (+32,9%), nhập khẩu 187,3 tỷ USD (+39,3%). ACB ưu đãi lên 30 đồng/CNY cho cả mua và bán để hỗ trợ giao dịch ngoại tệ doanh nghiệp."
+      "note": "Từ 1/11/2026, giá bán lẻ điện bình quân giảm 2%, xăng E5RON92 giảm 1.804 đồng/lít, E10RON95-III giảm 1.575 đồng/lít. Chính sách kiềm chế lạm phát, ổn định kinh tế vĩ mô, hỗ trợ sản xuất và giảm chi phí sinh hoạt."
     },
     {
-      "title": "CC1 doanh thu tăng 51%, tổng tài sản tăng 47%",
+      "title": "Vật liệu xây dựng kỳ vọng bứt phá từ giải ngân cuối năm",
       "impact": "↑",
-      "note": "Tổng Công ty Xây dựng Số 1 quý 3 doanh thu gần 4.800 tỷ (+89%), 9 tháng 11.200 tỷ (+51%). Tổng tài sản tăng từ 17.200 tỷ lên 25.300 tỷ (+47%). Dòng tiền hoạt động chuyển sang dương (4.100 tỷ). Hưởng lợi từ giải ngân dự án hạ tầng trọng điểm."
+      "note": "Chuyên gia dự báo áp lực đẩy nhanh giải ngân vốn ngân sách cuối năm sẽ gia tăng nhu cầu thép, xi măng, đá xây dựng. Nhóm cung ứng vật liệu xây dựng kỳ vọng hưởng lợi sớm hơn các doanh nghiệp thi công xây lắp."
+    },
+    {
+      "title": "CC1 doanh thu tăng 51% (9 tháng), dòng tiền chuyển dương",
+      "impact": "↑",
+      "note": "Tổng Công ty Xây dựng Số 1 đạt doanh thu 11.200 tỷ đồng (9 tháng +51%), quý 3 doanh thu 4.800 tỷ (+89%). Dòng tiền từ hoạt động kinh doanh chuyển từ âm sang dương: 4.100 tỷ đồng. Tổng tài sản tăng 47% lên 25.300 tỷ đồng."
     },
     {
       "title": "Vinamilk lãi ròng tăng 17%, thị trường nội địa phục hồi",
       "impact": "↑",
-      "note": "Quý 3/2026 lãi ròng 2.964 tỷ (+17%), doanh thu 18.465 tỷ (+8,7%). Thị trường nội địa doanh thu 14.718 tỷ (+8,8%). Các dòng sản phẩm premium (Green Farm, Flex) tăng tỷ trọng, phân khúc cao cấp chiếm tỷ trọng lớn hơn."
+      "note": "Quý 3/2026 lãi ròng 2.964 tỷ đồng (+17%), doanh thu thuần 18.465 tỷ (+8,7%). Thị trường nội địa doanh thu 14.718 tỷ (+8,8%), các dòng sản phẩm cao cấp Green Farm và Flex tăng tỷ trọng, chiếm vị trí nổi bật."
     }
   ]
 }
