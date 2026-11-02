@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-02",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán VN gặp áp lực lớn khi VN-Index giảm 31 điểm xuống 1.710,72 điểm, cấu trúc xấu với 61% cổ phiếu phá đáy, 150 mã giảm >2%, khối ngoại bán ròng 453 tỷ đồng, thanh khoản chỉ 15.900 tỷ đồng. Tuy nhiên bên ngoài thị trường chứng khoán có tín hiệu vĩ mô tích cực: xuất nhập khẩu lần đầu vượt 1.000 tỷ USD tăng 32% YoY với cơ cấu chuyển sang công nghệ cao, chính sách đầu tư hoàn thiện hướng tăng trưởng 2 con số, và NCB ghi nhận lợi nhuận tăng 140,6%.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam gặp áp lực bán mạnh ngày 2/11 với VN-Index giảm 30.9 điểm (-1.77%), khối ngoại bán ròng 453 tỷ đồng kéo hàng loạt cổ phiếu ngân hàng sụp đổ và thanh khoản vẫn thấp. Lợi nhuận công ty chứng khoán quý 3 giảm 30% q/q do suy giảm từ mảng tự doanh và môi giới. Tuy vậy, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD tăng 32% y/y, Luật Đầu tư được sửa đổi ưu đãi đầu tư, và đồng VND vẫn duy trì sức mạnh giảm 1.87% so với USD từ đầu năm.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 453 tỷ, VN-Index giảm 31 điểm xuống 1.710,72",
+      "title": "VN-Index giảm 1.77%, khối ngoại bán ròng mạnh",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 453 tỷ đồng toàn thị trường, bán mạnh MBB (182 tỷ), VCB (155 tỷ), ACB (118 tỷ), STB (106 tỷ). Tỷ lệ tăng/giảm cổ phiếu HSX chỉ 0,16/1 là kỷ lục thứ hai sau 20/7. Thanh khoản HOSE chỉ 15.900 tỷ đồng."
+      "note": "VN-Index giảm 30.9 điểm (-1.77%) xuống 1.710,72 điểm. Hàng loạt cổ phiếu ngân hàng sụp đổ: VPB giảm 6.1%, VCB giảm 4.8%, LPB giảm 4.43%, OCB giảm 4.25%, BID giảm 4.19%. Khối ngoại bán ròng 453 tỷ đồng, trong đó MBB, VCB, ACB bị bán mạnh nhất."
     },
     {
-      "title": "Cấu trúc thị trường xấu: 61% cổ phiếu phá đáy 22/7, 74% phá đáy 19/10",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD",
+      "impact": "↑",
+      "note": "Kim ngạch xuất nhập khẩu lần đầu vượt mốc 1.000 tỷ USD, tăng 32% so với cùng kỳ năm trước. Cơ cấu chuyển mạnh sang hàng chế biến chế tạo, điện tử và công nghệ cao, đóng góp tới 87.4% tổng kim ngạch 10 tháng."
+    },
+    {
+      "title": "Lợi nhuận công ty chứng khoán quý 3 giảm sâu",
       "impact": "↓",
-      "note": "VN-Index cao hơn đáy 22/7 nhưng 61% cổ phiếu trong VNAllshare đã thấp hơn mức đó. Chưa thủng đáy 19/10 tính giá đóng cửa nhưng 74% cổ phiếu đã phá. Phiên hôm nay 150 cổ phiếu đóng cửa giảm quá 2%, cho thấy tổn thương rộng rãi."
+      "note": "Lợi nhuận sau thuế của 82 công ty chứng khoán đạt 8.6 ngàn tỷ đồng quý 3/2026, giảm 30% so với quý 2 và giảm 43% so với cùng kỳ năm trước do suy giảm từ mảng tự doanh và môi giới."
     },
     {
-      "title": "Xuất nhập khẩu Việt Nam vượt 1.000 tỷ USD, tăng 32% YoY",
+      "title": "Luật Đầu tư được sửa đổi ưu đãi đầu tư",
       "impact": "↑",
-      "note": "Kim ngạch XNK lần đầu vượt 1.000 tỷ USD, tăng hơn 32% so cùng kỳ năm trước. Công nghiệp chế biến chế tạo chiếm 87,4% kim ngạch, điện tử, công nghệ cao, bán dẫn thay thế dầu thô, than, nông sản thô, đánh dấu chuyển sang nâng cao giá trị chuỗi cung ứng."
+      "note": "Dự án Luật sửa đổi, bổ sung Luật Đầu tư được giới thiệu với 55 lượt ý kiến tại phiên thảo luận Quốc hội, nhằm khơi thông nguồn vốn và đáp ứng nhu cầu đầu tư rất lớn để đạt mục tiêu tăng trưởng hai con số."
     },
     {
-      "title": "Chính sách đầu tư sửa đổi hướng tăng trưởng 2 con số, khơi thông vốn",
-      "impact": "↑",
-      "note": "Bộ trưởng Tài chính Ngô Văn Tuấn nhấn mạnh nhu cầu vốn đầu tư rất lớn để đạt mục tiêu tăng trưởng 2 con số. Dự án Luật sửa đổi Luật Đầu tư nhân 55 lượt ý kiến thảo luận, sẽ hoàn thiện chính sách ưu đãi gắn với kết quả đầu ra có thể kiểm soát, giám sát."
-    },
-    {
-      "title": "NCB lợi nhuận 9 tháng tăng 140,6%, NVB tăng 5% duy nhất trong nhóm NH",
-      "impact": "↑",
-      "note": "NCB công bố lợi nhuận trước thuế 9 tháng 1.574 tỷ đồng, tăng 140,6% so cùng kỳ (cao nhất ngành), tổng tài sản 238.221 tỷ đồng tăng 46% vs cuối 2025. Cổ phiếu NVB tăng 5% lên 14.700 đồng, duy nhất tăng trong 28 mã ngân hàng hôm nay."
-    },
-    {
-      "title": "Thanh khoản thấp, phân hóa tiếp diễn, dòng tiền vào chiết khấu sâu",
+      "title": "Khối ngoại xả 560 tỷ đồng cổ phiếu ngân hàng",
       "impact": "↓",
-      "note": "Thanh khoản bình quân thị trường <16 ngàn tỷ đồng/phiên (HOSE >15 ngàn tỷ). VN-Index tìm vùng đáy bền vững nhưng cần lực cầu bứt phá đồng thuận và độ rộng thị trường tích cực. Áp lực từ nhóm vốn hóa lớn và bán ròng kéo dài khối ngoại chưa tấy, tuy dòng tiền bắt đầu quay lại nhóm cổ phiếu chiết khấu sâu."
+      "note": "Khối ngoại bán ròng mạnh 4 cổ phiếu ngân hàng: MBB bán ròng 182 tỷ đồng, VCB 155 tỷ đồng, ACB 118 tỷ đồng, STB 106 tỷ đồng. MBB, VCB, ACB là những mã tác động tiêu cực nhất tới VN-Index."
+    },
+    {
+      "title": "Đồng VND tăng giá so với USD",
+      "impact": "↑",
+      "note": "Tỷ giá USD/VND giảm 1.87% từ đầu năm 2026 xuống mức 25.802 đồng/USD tính đến 2/11, đưa VND vào nhóm 3 đồng tiền tăng giá mạnh nhất so với USD trong khu vực châu Á."
     }
   ]
 }
