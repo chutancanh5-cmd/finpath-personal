@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-02",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán ghi nhận phiên điều chỉnh mạnh khi khối ngoại rút ròng gần 589 tỷ đồng khỏi nhóm ngân hàng, VN-Index giảm 1,77% xuống 1.710,72 điểm với 564 mã giảm; tuy nhiên, tín hiệu vĩ mô dài hạn vẫn tích cực gồm xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (tăng 32%), VND trở thành đồng tiền châu Á tăng giá mạnh nhất so với USD, và Chính phủ đẩy mạnh sửa Luật Đầu tư khơi thông vốn. Rủi ro ngắn hạn từ lợi nhuận ngành chứng khoán giảm 30-43% nhưng nền tảng kinh tế vẫn khả quan.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chịu áp lực bán mạnh từ khối ngoại (bán ròng 589 tỷ đồng nhóm ngân hàng, 7 phiên liên tiếp), dẫn đến VN-Index giảm 1,77% xuống 1.710,72 điểm với 150 cổ phiếu giảm trên 2%. Tuy nhiên, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (tăng 32% cùng kỳ) và VND tăng giá mạnh (USD/VND giảm 1,87%) là những tín hiệu tích cực cho nền kinh tế. Ngân hàng gặp khó khăn khi lợi nhuận toàn ngành Q3 giảm 30% so với Q2, trong khi Chính phủ thúc đẩy cải cách Luật Đầu tư để khơi thông nguồn vốn cho tăng trưởng hai con số.",
   "top": [
     {
       "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên",
@@ -31,7 +31,7 @@
     },
     {
       "title": "Sửa Luật Đầu tư khơi thông vốn cho mục tiêu hai con số",
-      "impact": "↑",
+      "impact": "→",
       "note": "Bộ Tài chính giải trình trước Quốc hội về dự án Luật sửa đổi Luật Đầu tư, nhấn mạnh hoàn thiện chính sách ưu đãi gắn với kết quả đầu ra; dự án đã nhận 55 lượt ý kiến tại thảo luận tổ, thêm 15 ĐBQH ý kiến tại hội trường."
     }
   ]
