@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-02",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán bị bán tháo mạnh (VN-Index -1,77%, 564 mã giảm) do khối ngoại bán ròng ngân hàng. Tuy nhiên, các tín hiệu vĩ mô vẫn mạnh: xuất nhập khẩu vượt 1.000 tỷ USD (+32%), VND tăng giá (giảm 1,87% so với USD), và chính phủ sửa Luật Đầu tư khơi thông vốn. Rủi ro ngắn hạn từ lợi nhuận công ty chứng khoán giảm 30-43%, nhưng nền tảng kinh tế vẫn khả quan.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán ghi nhận phiên điều chỉnh mạnh khi khối ngoại rút ròng gần 589 tỷ đồng khỏi nhóm ngân hàng, VN-Index giảm 1,77% xuống 1.710,72 điểm với 564 mã giảm; tuy nhiên, tín hiệu vĩ mô dài hạn vẫn tích cực gồm xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (tăng 32%), VND trở thành đồng tiền châu Á tăng giá mạnh nhất so với USD, và Chính phủ đẩy mạnh sửa Luật Đầu tư khơi thông vốn. Rủi ro ngắn hạn từ lợi nhuận ngành chứng khoán giảm 30-43% nhưng nền tảng kinh tế vẫn khả quan.",
   "top": [
     {
-      "title": "VN-Index giảm 1,77% do bán tháo mạnh",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên",
+      "impact": "↑",
+      "note": "Kim ngạch xuất nhập khẩu 10 tháng năm 2026 lần đầu vượt 1.000 tỷ USD, tăng 32% so với cùng kỳ; ngành công nghiệp chế biến chế tạo đóng góp 87,4% thay vì dầu thô, nông sản thô, cho thấy chuyển dịch cơ cấu xuất khẩu tích cực."
+    },
+    {
+      "title": "Khối ngoại rút ròng gần 600 tỷ đồng khỏi ngân hàng",
       "impact": "↓",
-      "note": "VN-Index giảm 30,9 điểm xuống 1.710,72 điểm; 564 mã giảm, 141 mã tăng; khối ngoại bán ròng nhóm ngân hàng (VCB, VPB, BID, VHM tác động tiêu cực 11,33 điểm)."
+      "note": "MBB, VCB, ACB, STB, VPB, SHB bị bán ròng tổng 636 tỷ đồng; sau bù phần mua TCB, TPB thì rút ròng 589 tỷ đồng. Áp lực lớn nhất MBB (182 tỷ đồng), VCB (155 tỷ đồng); khối ngoại bán ròng toàn thị trường 450 tỷ đồng, nối dài chuỗi rút vốn sang phiên 7 liên tiếp."
     },
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu",
-      "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu 10 tháng lần đầu vượt 1.000 tỷ USD, tăng 32% so với cùng kỳ năm trước; ngành công nghiệp chế biến chế tạo đóng góp 87,4%."
-    },
-    {
-      "title": "Công ty chứng khoán quý 3 lợi nhuận giảm mạnh",
+      "title": "VN-Index giảm 1,77%, bán tháo dữ dội trên diện rộng",
       "impact": "↓",
-      "note": "Lợi nhuận sau thuế 82 công ty chứng khoán đạt 8,6 ngàn tỷ đồng, giảm 30% so với quý 2 và giảm 43% so với quý 3/2025."
+      "note": "VN-Index giảm 30,9 điểm xuống 1.710,72 điểm; tỷ lệ tăng/giảm chỉ 0,16/1 (564 mã giảm, 141 mã tăng) là kỷ lục sau 20/7; 61% cổ phiếu VNAllshare đã dưới đáy 22/7, 74% cổ phiếu phá đáy 19/10 dù VN-Index chưa thủng."
     },
     {
-      "title": "VND tăng giá so với USD",
-      "impact": "↑",
-      "note": "VND giảm 1,87% so với USD từ đầu năm; tỷ giá ngân hàng quanh 25.580 đồng mua, 25.990 đồng bán; VND vào nhóm 3 đồng tiền châu Á tăng giá mạnh nhất."
+      "title": "Lợi nhuận công ty chứng khoán Q3 giảm 30-43%",
+      "impact": "↓",
+      "note": "82 công ty chứng khoán ghi nhận lợi nhuận 8,6 ngàn tỷ đồng Q3/2026, giảm 30% so với quý 2 và giảm 43% so với Q3/2025; doanh thu tự doanh và môi giới sụt giảm đáng kể, chỉ cho vay margin (13 ngàn tỷ đồng) duy trì tăng trưởng."
     },
     {
-      "title": "Giá vàng tăng 1 triệu đồng/lượng",
+      "title": "VND tăng giá mạnh nhất châu Á so với USD",
       "impact": "↑",
-      "note": "Vàng miếng SJC tăng lên 137-140 triệu đồng/lượng; vàng nhẫn tăng 400.000 đến 1 triệu đồng/lượng tùy thương hiệu."
+      "note": "Tỷ giá USD/VND giảm 1,87% từ đầu năm 2026 đến 2/11, đưa VND vào nhóm 3 đồng tiền châu Á tăng giá mạnh nhất; giá USD tự do quanh 26.000 đồng, chênh 60 đồng so với ngân hàng, hẹp hơn trước."
     },
     {
-      "title": "Sửa Luật Đầu tư khơi thông vốn",
+      "title": "Sửa Luật Đầu tư khơi thông vốn cho mục tiêu hai con số",
       "impact": "↑",
-      "note": "Bộ Tài chính đẩy mạnh hoàn thiện chính sách ưu đãi đầu tư đặc biệt gắn với kết quả đầu ra để đạt mục tiêu tăng trưởng hai con số từ 2027."
+      "note": "Bộ Tài chính giải trình trước Quốc hội về dự án Luật sửa đổi Luật Đầu tư, nhấn mạnh hoàn thiện chính sách ưu đãi gắn với kết quả đầu ra; dự án đã nhận 55 lượt ý kiến tại thảo luận tổ, thêm 15 ĐBQH ý kiến tại hội trường."
     }
   ]
 }
