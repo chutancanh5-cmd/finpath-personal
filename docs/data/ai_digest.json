@@ -2,37 +2,13 @@
   "_opus": true,
   "date": "2026-11-02",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam gặp áp lực bán mạnh ngày 2/11 với VN-Index giảm 30.9 điểm (-1.77%), khối ngoại bán ròng 453 tỷ đồng kéo hàng loạt cổ phiếu ngân hàng sụp đổ và thanh khoản vẫn thấp. Lợi nhuận công ty chứng khoán quý 3 giảm 30% q/q do suy giảm từ mảng tự doanh và môi giới. Tuy vậy, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD tăng 32% y/y, Luật Đầu tư được sửa đổi ưu đãi đầu tư, và đồng VND vẫn duy trì sức mạnh giảm 1.87% so với USD từ đầu năm.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam giảm sâu hôm 2/11 khi VN-Index mất 30,9 điểm (-1,77%) do khối ngoại bán ròng mạnh nhóm ngân hàng, với VPB giảm 6,1%, VCB giảm 4,8%. Lợi nhuận 82 công ty chứng khoán quý 3 cũng sụt giảm 30% so với Q2 và 43% so với Q3/2025. Tuy nhiên, xuất nhập khẩu vượt 1.000 tỷ USD (tăng 32%), VND mạnh lên, và Chính phủ tập trung vào mục tiêu tăng trưởng 2 con số với chính sách ưu đãi đầu tư chiến lược.",
   "top": [
-    {
-      "title": "VN-Index giảm 1.77%, khối ngoại bán ròng mạnh",
-      "impact": "↓",
-      "note": "VN-Index giảm 30.9 điểm (-1.77%) xuống 1.710,72 điểm. Hàng loạt cổ phiếu ngân hàng sụp đổ: VPB giảm 6.1%, VCB giảm 4.8%, LPB giảm 4.43%, OCB giảm 4.25%, BID giảm 4.19%. Khối ngoại bán ròng 453 tỷ đồng, trong đó MBB, VCB, ACB bị bán mạnh nhất."
-    },
-    {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD",
-      "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu lần đầu vượt mốc 1.000 tỷ USD, tăng 32% so với cùng kỳ năm trước. Cơ cấu chuyển mạnh sang hàng chế biến chế tạo, điện tử và công nghệ cao, đóng góp tới 87.4% tổng kim ngạch 10 tháng."
-    },
-    {
-      "title": "Lợi nhuận công ty chứng khoán quý 3 giảm sâu",
-      "impact": "↓",
-      "note": "Lợi nhuận sau thuế của 82 công ty chứng khoán đạt 8.6 ngàn tỷ đồng quý 3/2026, giảm 30% so với quý 2 và giảm 43% so với cùng kỳ năm trước do suy giảm từ mảng tự doanh và môi giới."
-    },
-    {
-      "title": "Luật Đầu tư được sửa đổi ưu đãi đầu tư",
-      "impact": "↑",
-      "note": "Dự án Luật sửa đổi, bổ sung Luật Đầu tư được giới thiệu với 55 lượt ý kiến tại phiên thảo luận Quốc hội, nhằm khơi thông nguồn vốn và đáp ứng nhu cầu đầu tư rất lớn để đạt mục tiêu tăng trưởng hai con số."
-    },
-    {
-      "title": "Khối ngoại xả 560 tỷ đồng cổ phiếu ngân hàng",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng mạnh 4 cổ phiếu ngân hàng: MBB bán ròng 182 tỷ đồng, VCB 155 tỷ đồng, ACB 118 tỷ đồng, STB 106 tỷ đồng. MBB, VCB, ACB là những mã tác động tiêu cực nhất tới VN-Index."
-    },
-    {
-      "title": "Đồng VND tăng giá so với USD",
-      "impact": "↑",
-      "note": "Tỷ giá USD/VND giảm 1.87% từ đầu năm 2026 xuống mức 25.802 đồng/USD tính đến 2/11, đưa VND vào nhóm 3 đồng tiền tăng giá mạnh nhất so với USD trong khu vực châu Á."
-    }
+    {"title": "VN-Index giảm 30,9 điểm (-1,77%), khối ngoại bán ròng nhóm ngân hàng", "impact": "↓", "note": "VN-Index mất 30,9 điểm (-1,77%) xuống 1.710,72 điểm; VPB giảm 6,1%, VCB giảm 4,8%, LPB giảm 4,43%, BID giảm 4,19%; khối ngoại bán ròng mạnh nhóm ngân hàng"},
+    {"title": "Công ty chứng khoán kinh doanh ảm đạm quý 3", "impact": "↓", "note": "Lợi nhuận 82 CTCK quý 3 đạt 8,6 ngàn tỷ đồng, giảm 30% so với Q2 và 43% so với Q3/2025; doanh thu tự doanh và môi giới sụt giảm đáng kể"},
+    {"title": "Xuất nhập khẩu Việt Nam vượt 1.000 tỷ USD", "impact": "↑", "note": "Tổng kim ngạch xuất nhập khẩu vượt mốc 1.000 tỷ USD lần đầu, tăng hơn 32% so với cùng kỳ năm trước; ngành chế biến chế tạo đóng góp 87,4%"},
+    {"title": "VND mạnh lên, tỷ giá USD/VND giảm 1,87%", "impact": "↑", "note": "Từ đầu năm tới 2/11, tỷ giá USD/VND giảm 1,87%; trên thị trường tự do, giá USD giảm 140 đồng; VND vào nhóm 3 đồng tiền châu Á tăng giá mạnh nhất so với USD"},
+    {"title": "NVB tăng 5%, ngân hàng duy nhất tăng giá phiên 2/11", "impact": "↑", "note": "NVB của NCB tăng 5% lên 14.700 đồng/cp; NCB có lợi nhuận trước thuế 9 tháng đạt 1.574 tỷ đồng tăng 140,6% so với cùng kỳ"},
+    {"title": "Bộ trưởng Bộ Tài chính giải trình sửa Luật Đầu tư", "impact": "↑", "note": "Bộ trưởng Ngô Văn Tuấn nhấn mạnh cần hoàn thiện chính sách ưu đãi đầu tư đặc biệt với mục tiêu tăng trưởng hai con số; nhu cầu vốn đầu tư là rất lớn"}
   ]
 }
