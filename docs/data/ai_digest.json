@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận sự cân bằng giữa các tín hiệu tích cực từ chính sách và phục hồi nội địa, với các tín hiệu tiêu cực từ áp lực bán của khối ngoại và thanh khoản yếu liên tiếp. Chính phủ giảm giá điện 2% và thuế xăng dầu về 0% từ 1/11 để kiềm chế lạm phát, trong khi các doanh nghiệp như CC1 và Vinamilk ghi nhận tăng trưởng tích cực. Tuy nhiên, khối ngoại bán ròng gần 1 tỷ USD trong tháng 10, thanh khoản suy yếu trong 5 tháng liên tiếp, và cổ phiếu ngân hàng giảm mạnh (24/28 mã ngân hàng giảm) tạo áp lực tiêu cực trên thị trường. Vietcombank trích lập dự phòng 5.000 tỷ đồng bất ngờ cũng phản ánh rủi ro tín dụng tiềm ẩn.",
+  "summary_vi": "Chính sách hỗ trợ kinh tế bước vào giai đoạn mới với giảm giá điện 2% và thuế xăng dầu về 0%, cùng giải ngân đầu tư công được thúc đẩy nhằm đạt mục tiêu tăng trưởng 10% năm 2027. Thương mại Việt-Trung tăng mạnh (253,1 tỷ USD), doanh nghiệp hưởng lợi từ ngành xây dựng và vật liệu. Tuy nhiên, áp lực từ dòng tiền suy yếu (khối ngoại bán ròng 1 tỷ USD, thanh khoản giảm 5 tháng liên tiếp) và rủi ro tài chính ngân hàng (Vietcombank trích dự phòng 5.000 tỷ cho nợ xấu) cân bằng những tín hiệu tích cực, giữ thị trường ở chế độ chờ đợi.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 1 tỷ USD tháng 10, thanh khoản suy yếu liên tiếp 5 tháng",
-      "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 23.700 tỷ đồng (~1 tỷ USD) trong tháng 10. Giá trị giao dịch khớp lệnh trên HoSE giảm 23,36% so với bình quân 5 tháng, và thanh khoản đã suy yếu trong 5 tháng liên tiếp xuống mức thấp nhất kể từ tháng 1/2025. Áp lực bán từ khối ngoại và dòng tiền yếu là yếu tố tiêu cực lớn nhất cho thị trường."
-    },
-    {
-      "title": "Chính phủ giảm giá điện 2% và thuế xăng dầu về 0% từ 1/11",
+      "title": "Giảm giá điện 2%, thuế xăng dầu về 0% từ 1/11",
       "impact": "↑",
-      "note": "Từ 1/11/2026, giá bán lẻ điện bình quân giảm 2% còn giá xăng dầu giảm mạnh do thuế tiêu thụ đặc biệt được đưa về 0%. Các biện pháp này nhằm kiềm chế áp lực lạm phát, ổn định kinh tế vĩ mô, hỗ trợ sản xuất và giảm chi phí sinh hoạt, có tác động lan tỏa sâu rộng đến nền kinh tế."
+      "note": "Từ 1/11/2026, giá bán lẻ điện bình quân giảm 2%. Giá xăng E5RON92 giảm 1,804 đồng/lít, E10RON95-III giảm 1,575 đồng/lít khi thuế tiêu thụ đặc biệt được đưa về 0%. Chính sách kiềm chế lạm phát, ổn định kinh tế vĩ mô, hỗ trợ sản xuất và giảm chi phí sinh hoạt."
     },
     {
-      "title": "Vietcombank bất ngờ trích lập dự phòng 5.000 tỷ đồng",
+      "title": "Khối ngoại bán ròng 23.700 tỷ đồng, thanh khoản giảm 5 tháng liên tiếp",
       "impact": "↓",
-      "note": "Chi phí dự phòng quý 3/2026 của Vietcombank đạt 6.184 tỷ đồng, gấp gần 8 lần cùng kỳ năm trước, chủ yếu là 5.000 tỷ đồng dành cho lô trái phiếu doanh nghiệp ngành năng lượng. Lũy kế 9 tháng, chi phí dự phòng lên 9.180 tỷ đồng, gấp 4 lần cùng kỳ, phản ánh rủi ro tín dụng từ khách hàng trong ngành năng lượng."
+      "note": "Nhà đầu tư nước ngoài bán ròng trong tháng 10 tương đương ~1 tỷ USD. Thanh khoản khớp lệnh HoSE giảm 23,36% so với bình quân 5 tháng, suy yếu 5 tháng liên tiếp xuống mức thấp nhất từ tháng 1/2025. VN-Index biến động (xuống 1.705,91 điểm), nhóm ngân hàng lấy đi 23,6 điểm."
     },
     {
-      "title": "Cổ phiếu ngân hàng giảm sâu, 24/28 mã giảm giá trong tuần",
+      "title": "Vietcombank trích lập dự phòng 5.000 tỷ cho nợ xấu năng lượng",
       "impact": "↓",
-      "note": "Nhóm cổ phiếu ngân hàng ghi nhận sắc đỏ áp đảo với 24/28 mã giảm giá trong tuần 26-30/10. LPBank giảm 10,64%, Eximbank -9,80%, SeABank -9,61%, TCB -5,26%, VPB -4,77%. Nhóm ngân hàng lấy đi ròng khoảng 23,6 điểm từ VN-Index, tạo áp lực giảm trên thị trường."
+      "note": "Chi phí dự phòng quý 3/2026 đạt 6.184 tỷ (gấp 8 lần cùng kỳ), trong đó 5.000 tỷ cho lô trái phiếu doanh nghiệp ngành năng lượng. Lũy kế 9 tháng trích 9.180 tỷ (gấp 4 lần cùng kỳ). Lãi quý 3 giảm 35,6% so với quý liền trước."
     },
     {
-      "title": "CC1 tăng trưởng 51% doanh thu từ giải ngân đầu tư công",
+      "title": "Thương mại Việt-Trung tăng 37,6%, đạt 253,1 tỷ USD trong 9 tháng",
       "impact": "↑",
-      "note": "Tổng Công ty Xây dựng Số 1 (CC1) công bố doanh thu 9 tháng đạt 11.2 ngàn tỷ đồng, tăng 51% so với cùng kỳ năm trước. Quý 3 doanh thu đạt 4.8 ngàn tỷ đồng, tăng 89%, được thúc đẩy bởi giải ngân đầu tư công và thi công các công trình hạ tầng trọng điểm. Dòng tiền từ hoạt động kinh doanh chuyển sang dương, đạt 4.1 ngàn tỷ đồng."
+      "note": "Kim ngạch hai chiều tăng 37,6%. Xuất khẩu Việt sang Trung Quốc 65,8 tỷ USD (+32,9%), nhập khẩu 187,3 tỷ USD (+39,3%). ACB ưu đãi lên 30 đồng/CNY cho cả mua và bán để hỗ trợ giao dịch ngoại tệ doanh nghiệp."
     },
     {
-      "title": "Vinamilk lợi nhuận ròng tăng 17%, thị trường nội địa phục hồi",
+      "title": "CC1 doanh thu tăng 51%, tổng tài sản tăng 47%",
       "impact": "↑",
-      "note": "Quý 3/2026, Vinamilk lãi ròng 2,964 tỷ đồng, tăng 17% so với cùng kỳ. Doanh thu đạt 18,465 tỷ đồng, tăng 8,7%. Thị trường nội địa tiếp tục là trụ cột tăng trưởng với doanh thu 14,718 tỷ đồng, tăng 8,8%. Các ngành hàng chủ lực gồm sữa nước, sữa chua, sữa đặc đều giữ đà tăng, phân khúc cao cấp chiếm tỷ trọng lớn hơn, phản ánh phục hồi của tiêu dùng nội địa."
+      "note": "Tổng Công ty Xây dựng Số 1 quý 3 doanh thu gần 4.800 tỷ (+89%), 9 tháng 11.200 tỷ (+51%). Tổng tài sản tăng từ 17.200 tỷ lên 25.300 tỷ (+47%). Dòng tiền hoạt động chuyển sang dương (4.100 tỷ). Hưởng lợi từ giải ngân dự án hạ tầng trọng điểm."
+    },
+    {
+      "title": "Vinamilk lãi ròng tăng 17%, thị trường nội địa phục hồi",
+      "impact": "↑",
+      "note": "Quý 3/2026 lãi ròng 2.964 tỷ (+17%), doanh thu 18.465 tỷ (+8,7%). Thị trường nội địa doanh thu 14.718 tỷ (+8,8%). Các dòng sản phẩm premium (Green Farm, Flex) tăng tỷ trọng, phân khúc cao cấp chiếm tỷ trọng lớn hơn."
     }
   ]
 }
