@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-02",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường cân cân giữa những tín hiệu vĩ mô tích cực và áp lực rút vốn ngắn hạn. Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu (tăng 32%), cơ cấu chuyển sang công nghệ cao, VND là 1 trong 3 đồng tiền tăng giá mạnh nhất châu Á, và Chính phủ tập trung cải cách luật đầu tư cho tăng trưởng hai con số. Tuy nhiên, khối ngoại rút 450 tỷ đồng (tiếp tục phiên thứ 7), 75% mã giảm giá, ngân hàng mất 589 tỷ đồng, và lợi nhuận chứng khoán sụt 30% QoQ là tín hiệu tiêu cực ngắn hạn. Rủi ro chính đến từ dòng tiền âm và sự phụ thuộc margin lending để duy trì lợi nhuận.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Phiên giao dịch 2/11 diễn biến tiêu cực với VN-Index giảm 1,77%, khối ngoại bán ròng 453 tỷ đồng (phiên thứ 7 liên tiếp), trong đó nhóm ngân hàng bị rút mạnh 589 tỷ. Lợi nhuận các công ty chứng khoán giảm 30% so với quý trước do tự doanh suy yếu, mặc dù cho vay margin tăng. Tuy vậy, dòng vốn quốc tế có dấu hiệu dịch chuyển từ Mỹ sang châu Á (quỹ châu Á hút 10 tỷ USD, Mỹ rút 6,65 tỷ), còn xuất nhập khẩu Việt Nam vượt 1.000 tỷ USD lần đầu (+32% YoY) là tín hiệu tích cực cho triển vọng trung hạn.",
   "top": [
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu, hàng công nghệ cao thay thế",
-      "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu 10 tháng 2026 vượt 1.000 tỷ USD, tăng hơn 32% YoY, chỉ cần 7 năm để tăng từ 500 tỷ lên 1.000 tỷ. Ngành chế biến chế tạo chiếm 87,4%, sản phẩm công nghệ cao, bán dẫn, thiết bị điện tử đã thay thế dầu thô, than đá, cho thấy chuyên biệt hóa và khả năng chống lạm phát cao hơn."
-    },
-    {
-      "title": "Khối ngoại rút ròng hơn 450 tỷ, 281 mã giảm giá (75% giao dịch)",
+      "title": "Khối ngoại bán ròng lần thứ 7 liên tiếp",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 450 tỷ đồng phiên 2/11, nối dài chuỗi rút vốn thứ 7 liên tiếp. Độ rộng thị trường giảm mạnh với 281 mã giảm giá (75% số mã giao dịch), chỉ 46 mã tăng, 47 mã đứng giá, phản ánh áp lực điều chỉnh lan rộng trên toàn thị trường."
+      "note": "Khối ngoại bán ròng 453,4 tỷ đồng trên HoSE phiên 2/11. Độ rộng thị trường nghiêng hẳn về bên bán với 281 mã giảm giá (75% số cổ phiếu giao dịch), có 14 mã giảm sàn. VN-Index đóng cửa giảm 1,77% xuống 1.710,72 điểm. Áp lực điều chỉnh lan rộng, không còn tập trung ở riêng lẻ mà đã bao trùm nhiều nhóm ngành."
     },
     {
-      "title": "Nhóm ngân hàng mất ròng 589 tỷ: MBB 182 tỷ, VCB 155 tỷ, ACB 117 tỷ",
+      "title": "Nhóm ngân hàng bị rút vốn ngoại 589 tỷ đồng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 589 tỷ đồng từ ngân hàng với MBB bị rút 182 tỷ, VCB 155 tỷ, ACB 117 tỷ, STB 105 tỷ, VPB/SHB trên 35 tỷ đồng mỗi mã. Nhóm ngân hàng chiếm 34% giá trị giao dịch toàn thị trường và giảm 3,12%, kéo VN-Index xuống."
+      "note": "MBB, VCB, ACB, STB, VPB, SHB bị khối ngoại bán mạnh tổng hơn 636 tỷ đồng, sau khi bù phần mua tại TCB, TPB nhóm ngân hàng vẫn bị rút ròng 589 tỷ. Áp lực lớn nhất ở MBB (182 tỷ), VCB (155 tỷ), ACB (117 tỷ), STB (105 tỷ). Nhóm ngân hàng chiếm 34% giá trị giao dịch toàn thị trường nhưng giảm 3,12%."
     },
     {
-      "title": "VND tăng giá 1,87% so USD, xếp top 3 châu Á mặc USD mạnh",
-      "impact": "↑",
-      "note": "Từ đầu năm 2026 đến 30/10, VND tăng giá 1,87% so USD, đưa VND vào nhóm 3 đồng tiền tăng mạnh nhất châu Á dù chỉ số USD tăng 3,49% lên 101,75 điểm. Giá bán USD tại ngân hàng giảm 1,5%, thị trường tự do giảm 2,87%, phản ánh sức mạnh dự trữ ngoại hối."
-    },
-    {
-      "title": "Lợi nhuận chứng khoán sụt 30% QoQ, chỉ margin lending tăng trưởng",
+      "title": "Lợi nhuận công ty chứng khoán giảm 30% trong quý 3",
       "impact": "↓",
-      "note": "Lợi nhuận 82 công ty chứng khoán đạt 8.600 tỷ đồng Q3/2026, giảm 30% so Q2 và 43% so Q3/2025. Doanh thu tự doanh, môi giới sụt giảm, lãi cho vay margin đạt 13 ngàn tỷ (tăng từ 12,2 ngàn tỷ Q2), trở thành trụ cột duy nhất duy trì lợi nhuận và bộc lộ phụ thuộc vào leverage."
+      "note": "82 công ty chứng khoán ghi nhận lợi nhuận sau thuế 8,6 ngàn tỷ đồng quý 3/2026, giảm 30% so với quý 2 và 43% so với cùng kỳ năm trước. Mảng tự doanh và môi giới sụt giảm, chỉ mảng cho vay margin tăng đạt 13 ngàn tỷ đồng (từ 12,2 ngàn tỷ quý 2, 9,4 ngàn tỷ cùng kỳ), không đủ bù đắp lỗ từ tự doanh."
     },
     {
-      "title": "Chính phủ đẩy cải cách Luật Đầu tư, hướng tới tăng trưởng 10%/năm",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu",
       "impact": "↑",
-      "note": "Bộ trưởng Tài chính Ngô Văn Tuấn nhấn mạnh nhu cầu vốn đầu tư rất lớn để đạt mục tiêu tăng trưởng 10% năm 2027 và những năm tiếp theo. Dự án Luật sửa đổi Luật Đầu tư nhận 55 ý kiến tại tổ thảo luận và 15 ý kiến từ ĐBQH, cho thấy tiến độ cải cách chính sách ưu đãi đầu tư đặc biệt."
+      "note": "Tổng kim ngạch xuất nhập khẩu Việt Nam lần đầu vượt mốc 1.000 tỷ USD, tăng hơn 32% so với cùng kỳ năm trước. Cơ cấu hàng hóa chuyển mạnh sang công nghiệp chế biến chế tạo (87,4% tổng kim ngạch), công nghệ cao, bán dẫn, thiết bị điện tử chiếm tỷ trọng chính thay cho dầu thô, than đá. Điều này đánh dấu bước tiến không chỉ về quy mô mà cả chất lượng giá trị chuỗi cung ứng."
+    },
+    {
+      "title": "Dòng vốn quốc tế dịch chuyển từ Mỹ sang châu Á",
+      "impact": "↑",
+      "note": "Quỹ cổ phiếu Mỹ bị rút ròng 6,65 tỷ USD trong tuần, trong khi quỹ cổ phiếu châu Á hút ròng gần 10 tỷ USD. Nhóm thị trường mới nổi (EM) thu hút thêm 2,2 tỷ USD, đánh dấu tuần hút ròng thứ ba liên tiếp. Diễn biến cho thấy dòng vốn quốc tế đang tái phân bổ từ Mỹ về các thị trường châu Á, tuy còn phụ thuộc vào triển vọng lợi nhuận doanh nghiệp Việt Nam."
+    },
+    {
+      "title": "VND tăng giá mạnh so với USD bất chấp áp lực kép",
+      "impact": "→",
+      "note": "Tỷ giá USD/VND giảm 1,87% từ đầu năm đến 2/11/2026, đưa VND vào nhóm ba đồng tiền châu Á tăng giá mạnh nhất so với USD. Tại ngân hàng thương mại giá USD phổ biến 25.990 đồng (bán), thị trường tự do 26.050 đồng (bán). Mặc dù USD mạnh lên toàn cầu (DXY +3,49% YTD) nhưng VND vẫn tăng giá, phản ánh sức mạnh của nền kinh tế Việt Nam nhưng có thể kéo theo áp lực cạnh tranh giá cho xuất khẩu."
     }
   ]
 }
