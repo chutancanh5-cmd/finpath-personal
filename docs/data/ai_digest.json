@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-02",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Tuần bắt đầu với những chính sách hỗ trợ nền kinh tế: giảm thuế xăng dầu về 0% và giảm giá điện 2% góp phần kiềm chế lạm phát. Giải ngân đầu tư công thúc đẩy tăng trưởng mạnh (CC1 doanh thu tăng 51%, thương mại Việt-Trung tăng 37,6%), nhu cầu nội địa phục hồi (Vinamilk lãi tăng 17%). Tuy nhiên, thị trường chứng khoán vẫn gặp áp lực với VN-Index giằng co quanh 1730 điểm, giá vàng lao dốc thấp nhất 1 năm do lo ngại lãi suất cao từ Fed.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính sách giảm giá điện 2% và thuế tiêu thụ đặc biệt xăng về 0% từ 1/11 hỗ trợ kiềm chế lạm phát và chi phí sản xuất. Mục tiêu tăng trưởng hai con số năm 2027 với ba đột phá chiến lược về thể chế, hạ tầng và nhân lực tạo kỳ vọng lạc quan dài hạn. Thương mại Việt-Trung tăng 37,6% (9 tháng, 253,1 tỷ USD), doanh nghiệp lớn như CC1 và Vinamilk ghi nhận tăng trưởng lợi nhuận vượt trội (CC1 doanh thu ↑89% quý 3, Vinamilk lãi ↑17%), phản ánh sức khỏe cơ bản của nền kinh tế. Tuy nhiên, ngắn hạn VN-Index chịu áp lực điều chỉnh quanh 1730 điểm với các chỉ báo kỹ thuật suy yếu.",
   "top": [
     {
-      "title": "Giảm thuế xăng dầu, giảm giá điện kiềm chế lạm phát",
+      "title": "Giảm giá điện, thuế xăng để kiềm chế lạm phát cuối năm",
       "impact": "↑",
-      "note": "Từ 1/11, thuế tiêu thụ đặc biệt xăng dầu về 0%, giá xăng E5RON92 giảm 1.804 đồng/lít; giá điện bình quân giảm 2%. Chính sách tác động tích cực đến CPI, hỗ trợ sản xuất kinh doanh và dòng tiền nội địa."
+      "note": "Từ 1/11, giá điện giảm 2% và thuế tiêu thụ đặc biệt xăng dầu về 0%, xăng E5RON92 giảm 1.804 đồng/lít. Chuyên gia đánh giá các giải pháp này có ý nghĩa tích cực cho hoạt động kinh tế, hỗ trợ ổn định CPI và giảm chi phí sản xuất trong những tháng cuối năm."
     },
     {
-      "title": "VN-Index áp lực điều chỉnh quanh 1730 điểm",
+      "title": "Quốc hội đề xuất mục tiêu tăng trưởng hai con số năm 2027",
+      "impact": "↑",
+      "note": "Đại biểu Quốc hội 31/10 kiến nghị tăng trưởng 10% năm 2027 và các năm tiếp theo thông qua ba đột phá chiến lược về thể chế, hạ tầng, nguồn nhân lực chất lượng cao; phát huy ba động lực tăng trưởng (đầu tư, tiêu dùng, xuất khẩu)."
+    },
+    {
+      "title": "CC1 doanh thu tăng vọt nhờ đẩy nhanh thi công hạ tầng",
+      "impact": "↑",
+      "note": "Quý 3/2026 CC1 doanh thu 4.800 tỷ đồng, tăng 89% so với cùng kỳ. Lũy kế 9 tháng doanh thu 11.200 tỷ đồng, tăng 51%. Động lực từ giải ngân đầu tư công, tổng tài sản tăng 47% lên 25.300 tỷ đồng, dòng tiền hoạt động chuyển sang dương 4.100 tỷ đồng."
+    },
+    {
+      "title": "Thương mại Việt-Trung tăng 37,6%, kim ngạch 253,1 tỷ USD",
+      "impact": "↑",
+      "note": "9 tháng năm 2026, kim ngạch thương mại Việt-Trung đạt 253,1 tỷ USD, tăng 37,6% so với cùng kỳ. Xuất khẩu sang Trung Quốc 65,8 tỷ USD (+32,9%), nhập khẩu 187,3 tỷ USD (+39,3%). Thương mại ngày càng gắn chặt với chuỗi cung ứng, logistics và đầu tư sản xuất chung."
+    },
+    {
+      "title": "Vinamilk lãi ròng tăng 17%, doanh thu quý 3 tăng 8,7%",
+      "impact": "↑",
+      "note": "Quý 3/2026 Vinamilk lãi ròng 2.964 tỷ đồng, tăng 17% so với cùng kỳ. Doanh thu quý 3 đạt 18.465 tỷ đồng, tăng 8,7%. Thị trường nội địa tăng 8,8%, các sản phẩm chủ lực sữa nước, sữa chua, phân khúc cao cấp Green Farm giữ đà tăng."
+    },
+    {
+      "title": "VN-Index giằng co quanh 1730, triển vọng ngắn hạn tiêu cực",
       "impact": "↓",
-      "note": "VN-Index giằng co, đóng cửa 1.741,62 điểm. RSI hình thành đỉnh sau thấp hơn, MACD còn suy yếu. Thanh khoảng tích cực quanh 1730 điểm nhưng chưa đủ mạnh để bứt phá, vùng kháng cự 1750-1760 điểm."
-    },
-    {
-      "title": "Doanh thu CC1 tăng 51% lũy kế 9 tháng từ giải ngân đầu tư công",
-      "impact": "↑",
-      "note": "CC1 doanh thu 9 tháng đạt 11.200 tỷ đồng (+51%), quý 3 đạt 4.800 tỷ (+89%). Động lực từ giải ngân đầu tư công, tổng tài sản tăng 47%. Dòng tiền hoạt động chuyển sang dương 4.100 tỷ đồng."
-    },
-    {
-      "title": "Giá vàng lao dốc xuống mức thấp nhất 1 năm",
-      "impact": "↓",
-      "note": "Giá vàng giảm gần 3% trong tuần, lao dốc dưới 3.900 USD/oz (thấp nhất 1 năm), vàng trong nước SJC giảm 5,3 triệu đồng/lượng trong tháng 10. Áp lực từ kỳ vọng Fed tăng lãi suất trong tháng 12 và Q1/2027."
-    },
-    {
-      "title": "Lợi nhuận Vinamilk quý 3 tăng 17%, thị trường nội địa phục hồi",
-      "impact": "↑",
-      "note": "Vinamilk lãi ròng quý 3 đạt 2.964 tỷ đồng (+17%), doanh thu 9 tháng tăng 8,7%. Thị trường nội địa tăng 8,8%, các sản phẩm chủ lực như sữa nước, sữa chua, phân khúc cao cấp Green Farm giữ đà tăng."
-    },
-    {
-      "title": "Nhóm xây dựng/vật liệu hưởng lợi từ giải ngân cuối năm",
-      "impact": "↑",
-      "note": "Vật liệu xây dựng (thép, xi măng, đá) dự kỳ nhu cầu tăng từ đẩy nhanh giải ngân trong 4 tháng cuối năm. Nhóm xây lắp có triển vọng cải thiện lợi nhuận Q4/2026 - Q1/2027, chi phí vật liệu là yếu tố quan trọng."
+      "note": "VN-Index kiểm định vùng hỗ trợ 1730 điểm, đóng cửa 1.741,62 điểm. RSI hình thành đỉnh thấp hơn và suy yếu, MACD chưa vượt 0. Chỉ báo kỹ thuật phản ánh động lượng tăng suy yếu, nhịp điều chỉnh ngắn hạn tìm vùng cân bằng mới."
     }
   ]
 }
