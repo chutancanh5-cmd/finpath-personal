@@ -2,13 +2,37 @@
   "_opus": true,
   "date": "2026-11-02",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam giảm sâu hôm 2/11 khi VN-Index mất 30,9 điểm (-1,77%) do khối ngoại bán ròng mạnh nhóm ngân hàng, với VPB giảm 6,1%, VCB giảm 4,8%. Lợi nhuận 82 công ty chứng khoán quý 3 cũng sụt giảm 30% so với Q2 và 43% so với Q3/2025. Tuy nhiên, xuất nhập khẩu vượt 1.000 tỷ USD (tăng 32%), VND mạnh lên, và Chính phủ tập trung vào mục tiêu tăng trưởng 2 con số với chính sách ưu đãi đầu tư chiến lược.",
+  "summary_vi": "Thị trường chứng khoán hôm nay giảm mạnh khi VN-Index mất 30,9 điểm (-1,77%) do khối ngoại bán ròng mạnh nhóm ngân hàng; kết quả kinh doanh quý 3 của CTCK suy giảm 30%, chỉ có cho vay margin duy trì tăng trưởng. Tuy nhiên, xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD (tăng 32%) với chuyển dịch mạnh sang công nghệ cao (87,4%), còn VND tiếp tục tăng giá 1,87% so USD từ đầu năm, mở ra lợi thế cho xuất khẩu. Lãi suất huy động giảm 0,5% theo chỉ đạo NHNN, tạo điều kiện giảm chi phí vốn cho nền kinh tế.",
   "top": [
-    {"title": "VN-Index giảm 30,9 điểm (-1,77%), khối ngoại bán ròng nhóm ngân hàng", "impact": "↓", "note": "VN-Index mất 30,9 điểm (-1,77%) xuống 1.710,72 điểm; VPB giảm 6,1%, VCB giảm 4,8%, LPB giảm 4,43%, BID giảm 4,19%; khối ngoại bán ròng mạnh nhóm ngân hàng"},
-    {"title": "Công ty chứng khoán kinh doanh ảm đạm quý 3", "impact": "↓", "note": "Lợi nhuận 82 CTCK quý 3 đạt 8,6 ngàn tỷ đồng, giảm 30% so với Q2 và 43% so với Q3/2025; doanh thu tự doanh và môi giới sụt giảm đáng kể"},
-    {"title": "Xuất nhập khẩu Việt Nam vượt 1.000 tỷ USD", "impact": "↑", "note": "Tổng kim ngạch xuất nhập khẩu vượt mốc 1.000 tỷ USD lần đầu, tăng hơn 32% so với cùng kỳ năm trước; ngành chế biến chế tạo đóng góp 87,4%"},
-    {"title": "VND mạnh lên, tỷ giá USD/VND giảm 1,87%", "impact": "↑", "note": "Từ đầu năm tới 2/11, tỷ giá USD/VND giảm 1,87%; trên thị trường tự do, giá USD giảm 140 đồng; VND vào nhóm 3 đồng tiền châu Á tăng giá mạnh nhất so với USD"},
-    {"title": "NVB tăng 5%, ngân hàng duy nhất tăng giá phiên 2/11", "impact": "↑", "note": "NVB của NCB tăng 5% lên 14.700 đồng/cp; NCB có lợi nhuận trước thuế 9 tháng đạt 1.574 tỷ đồng tăng 140,6% so với cùng kỳ"},
-    {"title": "Bộ trưởng Bộ Tài chính giải trình sửa Luật Đầu tư", "impact": "↑", "note": "Bộ trưởng Ngô Văn Tuấn nhấn mạnh cần hoàn thiện chính sách ưu đãi đầu tư đặc biệt với mục tiêu tăng trưởng hai con số; nhu cầu vốn đầu tư là rất lớn"}
+    {
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, chuyển sang công nghệ cao",
+      "impact": "↑",
+      "note": "Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (tăng 32% so cùng kỳ); ngành chế biến chế tạo đóng góp 87,4% với sự chuyển dịch mạnh sang bán dẫn, thiết bị điện tử và linh kiện tinh vi, thay vì hàng thô; tạo lợi thế cạnh tranh dài hạn cho cổ phiếu xuất khẩu và công nghệ."
+    },
+    {
+      "title": "VN-Index giảm 30,9 điểm, khối ngoại bán ròng mạnh nhóm NH",
+      "impact": "↓",
+      "note": "VN-Index giảm 30,9 điểm (-1,77%) xuống 1.710,72 điểm; khối ngoại bán ròng mạnh nhóm ngân hàng (VCB -4,8%, VPB -6,1%, BID -4,19%, LPB -4,43%); 564 mã giảm, 141 mã tăng; thanh khoản giao dịch 724 triệu cổ phiếu (~15,8 ngàn tỷ đồng)."
+    },
+    {
+      "title": "VND tăng giá 1,87% so USD, nhóm 3 đồng tiền châu Á mạnh nhất",
+      "impact": "↑",
+      "note": "Tỷ giá USD/VND giảm 1,87% từ đầu năm; VND nằm trong nhóm 3 đồng tiền châu Á tăng giá mạnh nhất so USD bất chấp đồng USD mạnh lên quốc tế; giá USD tự do giảm 140-160 đồng so ngày 30/10, chênh lệch với ngân hàng hẹp xuống 60 đồng/USD."
+    },
+    {
+      "title": "Lãi suất huy động giảm 0,5%, theo chỉ đạo NHNN",
+      "impact": "→",
+      "note": "Nhiều ngân hàng điều chỉnh giảm lãi suất huy động 0,5%/năm, tập trung kỳ hạn 6 tháng trở lên; mức lãi suất niêm yết trên 7%/năm thu hẹp, phần lớn ngân hàng niêm yết 12 tháng dưới 7%; NHNN ổn định mặt bằng lãi suất, giảm chi phí vốn cho nền kinh tế."
+    },
+    {
+      "title": "NCB tăng 5%, lợi nhuận 9 tháng tăng 140,6%",
+      "impact": "↑",
+      "note": "NCB (NVB) tăng 5% lên 14.700 đồng (duy nhất mã ngân hàng tăng trong phiên); lợi nhuận trước thuế 9 tháng 2026 đạt 1.574 tỷ đồng (+140,6% so cùng kỳ); tổng tài sản 238.221 tỷ đồng (+46% so 31/12/2025); vượt kế hoạch năm tất cả chỉ tiêu (tài sản +25%, CASA +28%)."
+    },
+    {
+      "title": "CTCK quý 3 suy giảm 30%, cho vay margin lập đỉnh",
+      "impact": "↓",
+      "note": "82 CTCK quý 3/2026 lợi nhuận 8,6 ngàn tỷ đồng (giảm 30% QoQ, 43% YoY); mảng tự doanh và môi giới suy giảm, cho vay margin lập kỷ lục 13 ngàn tỷ đồng (tăng từ 12,2 ngàn tỷ Q2 và 9,4 ngàn tỷ cùng kỳ); sự phân hóa rõ nét giữa các CTCK."
+    }
   ]
 }
