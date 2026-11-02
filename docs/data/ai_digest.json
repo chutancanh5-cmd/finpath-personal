@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-02",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tháng 10 chịu áp lực bán mạnh từ khối ngoại (bán ròng 1 tỷ USD) và thanh khoản suy yếu liên tiếp 5 tháng. Tuy nhiên, chính sách hỗ trợ (giảm giá điện 2%, thuế xăng dầu về 0% từ 1/11) và giải ngân vốn đầu tư công cuối năm mở cơ hội cho xây dựng, vật liệu xây dựng. Những cổ phiếu bị chiết khấu sâu có tiềm năng bứt phá trong quý 4, trong khi rủi ro từ nợ xấu ngân hàng và dòng tiền suy yếu cần theo dõi.",
+  "summary_vi": "Tuần bắt đầu với những chính sách hỗ trợ nền kinh tế: giảm thuế xăng dầu về 0% và giảm giá điện 2% góp phần kiềm chế lạm phát. Giải ngân đầu tư công thúc đẩy tăng trưởng mạnh (CC1 doanh thu tăng 51%, thương mại Việt-Trung tăng 37,6%), nhu cầu nội địa phục hồi (Vinamilk lãi tăng 17%). Tuy nhiên, thị trường chứng khoán vẫn gặp áp lực với VN-Index giằng co quanh 1730 điểm, giá vàng lao dốc thấp nhất 1 năm do lo ngại lãi suất cao từ Fed.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 1 tỷ USD tháng 10",
+      "title": "Giảm thuế xăng dầu, giảm giá điện kiềm chế lạm phát",
+      "impact": "↑",
+      "note": "Từ 1/11, thuế tiêu thụ đặc biệt xăng dầu về 0%, giá xăng E5RON92 giảm 1.804 đồng/lít; giá điện bình quân giảm 2%. Chính sách tác động tích cực đến CPI, hỗ trợ sản xuất kinh doanh và dòng tiền nội địa."
+    },
+    {
+      "title": "VN-Index áp lực điều chỉnh quanh 1730 điểm",
       "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 23.700 tỷ đồng (khoảng 1 tỷ USD) trong tháng 10. Điều này cho thấy sự không lạc quan của dòng tiền nước ngoài và rủi ro rút vốn tiếp tục từ thị trường chứng khoán Việt Nam."
+      "note": "VN-Index giằng co, đóng cửa 1.741,62 điểm. RSI hình thành đỉnh sau thấp hơn, MACD còn suy yếu. Thanh khoảng tích cực quanh 1730 điểm nhưng chưa đủ mạnh để bứt phá, vùng kháng cự 1750-1760 điểm."
     },
     {
-      "title": "Thanh khoản suy yếu 5 tháng liên tiếp, ngân hàng gây áp lực",
+      "title": "Doanh thu CC1 tăng 51% lũy kế 9 tháng từ giải ngân đầu tư công",
+      "impact": "↑",
+      "note": "CC1 doanh thu 9 tháng đạt 11.200 tỷ đồng (+51%), quý 3 đạt 4.800 tỷ (+89%). Động lực từ giải ngân đầu tư công, tổng tài sản tăng 47%. Dòng tiền hoạt động chuyển sang dương 4.100 tỷ đồng."
+    },
+    {
+      "title": "Giá vàng lao dốc xuống mức thấp nhất 1 năm",
       "impact": "↓",
-      "note": "Giá trị giao dịch khớp lệnh HoSE tuần này 11.764 tỷ đồng/phiên, giảm 23,36% so với bình quân 5 tháng, thấp nhất từ tháng 1/2025. Nhóm ngân hàng gây áp lực -23,6 điểm vào VN-Index, với LPB, TCB, VPB, STB dẫn đầu áp lực bán."
+      "note": "Giá vàng giảm gần 3% trong tuần, lao dốc dưới 3.900 USD/oz (thấp nhất 1 năm), vàng trong nước SJC giảm 5,3 triệu đồng/lượng trong tháng 10. Áp lực từ kỳ vọng Fed tăng lãi suất trong tháng 12 và Q1/2027."
     },
     {
-      "title": "Giảm giá điện 2%, xăng dầu giảm thuế về 0%",
+      "title": "Lợi nhuận Vinamilk quý 3 tăng 17%, thị trường nội địa phục hồi",
       "impact": "↑",
-      "note": "Từ 1/11/2026, giá bán lẻ điện bình quân giảm 2%, xăng E5RON92 giảm 1.804 đồng/lít, E10RON95-III giảm 1.575 đồng/lít. Chính sách kiềm chế lạm phát, ổn định kinh tế vĩ mô, hỗ trợ sản xuất và giảm chi phí sinh hoạt."
+      "note": "Vinamilk lãi ròng quý 3 đạt 2.964 tỷ đồng (+17%), doanh thu 9 tháng tăng 8,7%. Thị trường nội địa tăng 8,8%, các sản phẩm chủ lực như sữa nước, sữa chua, phân khúc cao cấp Green Farm giữ đà tăng."
     },
     {
-      "title": "Vật liệu xây dựng kỳ vọng bứt phá từ giải ngân cuối năm",
+      "title": "Nhóm xây dựng/vật liệu hưởng lợi từ giải ngân cuối năm",
       "impact": "↑",
-      "note": "Chuyên gia dự báo áp lực đẩy nhanh giải ngân vốn ngân sách cuối năm sẽ gia tăng nhu cầu thép, xi măng, đá xây dựng. Nhóm cung ứng vật liệu xây dựng kỳ vọng hưởng lợi sớm hơn các doanh nghiệp thi công xây lắp."
-    },
-    {
-      "title": "CC1 doanh thu tăng 51% (9 tháng), dòng tiền chuyển dương",
-      "impact": "↑",
-      "note": "Tổng Công ty Xây dựng Số 1 đạt doanh thu 11.200 tỷ đồng (9 tháng +51%), quý 3 doanh thu 4.800 tỷ (+89%). Dòng tiền từ hoạt động kinh doanh chuyển từ âm sang dương: 4.100 tỷ đồng. Tổng tài sản tăng 47% lên 25.300 tỷ đồng."
-    },
-    {
-      "title": "Vinamilk lãi ròng tăng 17%, thị trường nội địa phục hồi",
-      "impact": "↑",
-      "note": "Quý 3/2026 lãi ròng 2.964 tỷ đồng (+17%), doanh thu thuần 18.465 tỷ (+8,7%). Thị trường nội địa doanh thu 14.718 tỷ (+8,8%), các dòng sản phẩm cao cấp Green Farm và Flex tăng tỷ trọng, chiếm vị trí nổi bật."
+      "note": "Vật liệu xây dựng (thép, xi măng, đá) dự kỳ nhu cầu tăng từ đẩy nhanh giải ngân trong 4 tháng cuối năm. Nhóm xây lắp có triển vọng cải thiện lợi nhuận Q4/2026 - Q1/2027, chi phí vật liệu là yếu tố quan trọng."
     }
   ]
 }
