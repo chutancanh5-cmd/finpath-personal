@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "FDI đạt kỷ lục 54,85 tỷ USD (tăng 74%, cao nhất từ 2009) với dòng vốn mới vượt 30,7 tỷ USD, chủ yếu vào công nghiệp chế tạo. Tuy nhiên thị trường nội bộ yếu khi VN-Index giảm 11 điểm xuống 1.699 điểm và khối ngoại bán ròng 496 tỷ (bán mạnh MBB, VCB). Lạm phát 4,57% tăng áp lực, Chính phủ hỗ trợ tăng trưởng qua giảm lãi suất cho vay xuống 7,9%. Cơ hội vĩ mô lớn nhưng cần sự ổn định của thị trường chứng khoán.",
+  "summary_vi": "Vốn FDI đạt kỷ lục 54,85 tỷ USD trong 10 tháng (tăng 74%, cao nhất từ 2009), hứa hẹn tăng trưởng 2 con số. Tuy nhiên, lạm phát ở mức cao 4,57% và khối ngoại bán ròng 496 tỷ đồng gây áp lực lên ngân hàng (MBB, VCB), làm VN-Index thủng mốc 1700. Chính phủ hỗ trợ tín dụng với lãi suất 7,9%/năm, các doanh nghiệp tăng trưởng tốt (Petrolimex lãi gấp đôi, nhờ giá dầu 95 USD/thùng), nhưng tâm lý thị trường vẫn thận trọng.",
   "top": [
     {
-      "title": "FDI đạt 54,85 tỷ USD, cao nhất 17 năm",
+      "title": "FDI đạt 54,85 tỷ USD trong 10 tháng, cao nhất từ 2009",
       "impact": "↑",
-      "note": "10 tháng 2026, FDI đăng ký đạt 54,85 tỷ USD (+74% so cùng kỳ 2025), cao nhất kể từ 2009. Cấp phép mới gần 3.500 dự án với 30,7 tỷ USD (gấp đôi so cùng kỳ), dòng vốn tập trung công nghiệp chế biến chế tạo (24,1 tỷ USD), bất động sản (7 tỷ USD), vận tải-kho bãi cũng thu hút lớn."
+      "note": "Vốn FDI đăng ký đạt 54,85 tỷ USD, tăng 74% so cùng kỳ 2025, cao nhất từ năm 2009. Vốn mới gần 3.500 dự án đạt 30,7 tỷ USD (tăng hơn gấp đôi), tập trung công nghiệp chế biến chế tạo 24,1 tỷ USD, bất động sản 7 tỷ USD."
     },
     {
-      "title": "Khối ngoại bán ròng 496 tỷ, ngân hàng chịu áp lực",
-      "impact": "↓",
-      "note": "Phiên 3/11, khối ngoại bán ròng 496 tỷ đồng toàn thị trường, bán mạnh MBB (-254 tỷ) và VCB (-219 tỷ), bán VIC (-114 tỷ). Chiều mua HPG (+227 tỷ), SHB (+125 tỷ), VHM (+119 tỷ), cho thấy xu hướng xả hàng ngân hàng để gom công nghiệp."
+      "title": "Petrolimex lãi ròng quý 3 gấp đôi cùng kỳ, giá dầu 95 USD",
+      "impact": "↑",
+      "note": "PLX quý 3/2026 doanh thu tăng 66% lên 138,5 ngàn tỷ đồng, lãi ròng gấp đôi cùng kỳ. Giá dầu thế giới tăng từ 75 USD lên 95 USD/thùng (tăng 27%), sản lượng xuất bán tăng 18%, giúp tăng hiệu quả kinh doanh."
     },
     {
-      "title": "VN-Index giảm 11 điểm, thủng 1.700 điểm, cổ phiếu trụ suy yếu",
+      "title": "Khối ngoại bán ròng 496 tỷ, MBB/VCB áp lực nặng",
       "impact": "↓",
-      "note": "VN-Index đóng cửa 1.699 điểm (-11 điểm), thanh khoản HoSE gần 13.000 tỷ đồng. VIC giảm 3,31%, VHM giảm 1,59% chiều, riêng VIC khiến chỉ số mất hơn 12 điểm. BSR giảm 2,95%, GAS/ATC giảm 2,08%, tâm lý thị trường thận trọng, độ rộng cổ phiếu cân bằng nhưng các mã trụ yếu."
+      "note": "Phiên 3/11, khối ngoại bán ròng 496 tỷ đồng toàn thị trường, bán mạnh MBB (-254 tỷ) và VCB (-219 tỷ). Chiều mua HPG (+227 tỷ), SHB (+125 tỷ), VHM (+119 tỷ), cho thấy xu hướng xả ngân hàng để gom công nghiệp."
     },
     {
       "title": "CPI 10 tháng tăng 4,57%, lạm phát cơ bản 4,24%",
       "impact": "↓",
-      "note": "CPI tháng 10 tăng 0,20% tháng trước, tăng 5,09% so cùng kỳ năm trước. Bình quân 10 tháng 2026 tăng 4,57%; nhóm giao thông tăng 6,98% (nhiên liệu +13,09%), nhà ở/điện nước tăng 6,66%, ăn uống tăng 4,61%. Áp lực lạm phát cao hạn chế không gian giảm lãi suất."
+      "note": "CPI tháng 10 tăng 5,09% so cùng kỳ năm trước, bình quân 10 tháng 2026 tăng 4,57%; nhóm giao thông tăng 6,98% (nhiên liệu +13,09%), nhà ở/điện nước tăng 6,66%, ăn uống tăng 4,61%. Áp lực lạm phát cao hạn chế không gian chính sách tiền tệ."
     },
     {
-      "title": "SACOMBANK tung gói vay 7,9%/năm hỗ trợ FDI",
-      "impact": "→",
-      "note": "Gói tín dụng 10.000 tỷ đồng lãi 7,9%/năm (2/11-31/12/2026) dành doanh nghiệp mới hoạt động xuất nhập khẩu và FDI, tiếp nối gói 100.000 tỷ từ tháng 8. Biên lợi nhuận nhà băng chỉ 0,79%, hưởng ứng chỉ đạo Chính phủ tăng trưởng GDP 2 con số."
-    },
-    {
-      "title": "Khu công nghiệp VSIP Nghệ An 3 chuẩn bị khởi công 52,5 triệu USD",
+      "title": "SACOMBANK gói vay 10.000 tỷ lãi 7,9%/năm hỗ trợ FDI",
       "impact": "↑",
-      "note": "Dự án khu công nghiệp 181,12 ha, vốn 52,5 triệu USD tại Nghệ An sáng 3/11 kiểm tra chuẩn bị khởi công. Hoàn thành GPMB 50,96% (92,30 ha), phê duyệt bồi thường 87,76 ha với kinh phí 154,71 tỷ đồng, mở ra loạt cơ hội việc làm mới."
+      "note": "Gói tín dụng 10.000 tỷ đồng lãi 7,9%/năm từ 2/11 đến 31/12/2026 dành doanh nghiệp mới hoạt động xuất nhập khẩu và FDI. Biên lợi nhuận nhà băng 0,79%, hưởng ứng mục tiêu Chính phủ tăng trưởng GDP 2 con số."
+    },
+    {
+      "title": "VN-Index thủng 1700, cổ phiếu trụ suy yếu, thanh khoản yếu",
+      "impact": "↓",
+      "note": "VN-Index đóng cửa 1.699 điểm (-11 điểm), thanh khoản HoSE 13.000 tỷ đồng. VIC giảm 3,31%, riêng VIC khiến chỉ số mất hơn 12 điểm, BSR giảm 2,95%, GAS/ATC giảm 2,08%. Tâm lý thị trường thận trọng, độ rộng cân bằng nhưng cổ phiếu trụ yếu."
     }
   ]
 }
