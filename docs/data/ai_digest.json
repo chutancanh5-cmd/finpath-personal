@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-03",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Lạm phát cơ bản tháng 10 đạt 4,57%, cao hơn mục tiêu, tạo áp lực chính sách tiền tệ và hạn chế tăng trưởng. Ngành chứng khoán suy yếu trở lại sau nhịp hồi phục ngắn, nhiều mã về vùng giá thấp 1 năm. Ngành ngân hàng phân hóa mạnh với 20/28 mã giảm từ đầu năm. Tuy nhiên, Vietcombank được phê duyệt tăng vốn 5.431 tỷ đồng và giá vàng tăng mạnh có thể hỗ trợ lãi suất cao hơn, lợi cho cổ phiếu ngân hàng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường hôm nay (3/11) có hồi phục tích cực: VN-Index hồi tham chiếu ~1.710 điểm, lực mua quay lại với 330 mã tăng vs 240 giảm, nhóm tài chính-ngân hàng, bất động sản, kim loại tích cực. Áp lực tiêu cực vẫn từ lạm phát (CPI 10 tháng +4,57%, xăng +6,86%) và ngành chứng khoán suy yếu. Tích cực: Vietcombank được phê duyệt tăng vốn 5.431 tỷ đồng, giá vàng bứt phá mạnh (vàng SJC +1,2 triệu, áp sát 3.950 USD/ounce). Thị trường vốn Việt Nam vốn hóa 10,57 triệu tỷ đồng (82,3% GDP), đủ sâu để phát triển từ quy mô sang chất lượng dài hạn.",
   "top": [
     {
-      "title": "CPI tháng 10 tăng 4,57%, lạm phát cơ bản tăng 4,24%",
+      "title": "CPI 10 tháng tăng 4,57%, áp lực từ xăng dầu",
       "impact": "↓",
-      "note": "CPI 10 tháng 2026 tăng 4,57% so với cùng kỳ năm 2025, lạm phát cơ bản tăng 4,24%. Xăng tăng 6,86%, nhóm giao thông tăng 2,66%, là áp lực chính lên lạm phát. Lạm phát cao ép chính sách tiền tệ chặt chẽ, làm cơ chế suy yếu và hạn chế tăng trưởng cổ phiếu."
+      "note": "CPI tháng 10 tăng 5,09% so với cùng kỳ, bình quân 10 tháng tăng 4,57%; lạm phát cơ bản tăng 4,24%. Giá xăng tăng 6,86%, nhóm giao thông tăng 6,98%, là áp lực chính. Tăng chi phí hoạt động doanh nghiệp, giảm sức mua nhà đầu tư."
     },
     {
-      "title": "Cổ phiếu chứng khoán suy yếu trở lại sau nhịp hồi phục",
+      "title": "Cổ phiếu chứng khoán suy yếu trở lại sau nhịp hồi",
       "impact": "↓",
-      "note": "Nhịp hồi phục ngành chứng khoán cuối tháng 10 nhanh chóng bị lu mờ. Nhiều mã lùi về vùng giá thấp nhất trong vòng một năm do triển vọng kinh doanh chịu sức ép từ hoạt động tự doanh, môi giới và rủi ro cuộc đua cho vay margin."
+      "note": "Nhịp hồi phục cuối tháng 10 bị lu mờ nhanh, nhiều mã lùi về vùng giá thấp nhất trong vòng một năm. Triển vọng kinh doanh chịu sức ép từ hoạt động tự doanh, môi giới, rủi ro cuộc đua cho vay margin."
     },
     {
-      "title": "Ngành ngân hàng phân hóa, 20/28 mã giảm từ đầu năm",
-      "impact": "↓",
-      "note": "Từ đầu năm 2026, chỉ 8/28 cổ phiếu ngân hàng tăng giá (MSB +52%, ABB +36%, VBB +32%), còn 20 mã giảm giá. Sự phân hóa mạnh phản ánh áp lực lên định giá ngành và triển vọng kinh doanh không đều giữa các ngân hàng."
-    },
-    {
-      "title": "Vietcombank được phê duyệt tăng vốn điều lệ 5.431 tỷ đồng",
+      "title": "VN-Index hồi tham chiếu 3/11, lực mua quay lại",
       "impact": "↑",
-      "note": "NHNN chấp thuận VCB tăng vốn từ 83.557 tỷ lên 88.988 tỷ đồng qua phát hành riêng lẻ 6,5% số cổ phiếu (543,1 triệu cổ phiếu). Giải pháp này hỗ trợ nâng cao vốn cho ngân hàng hàng đầu phục vụ nhu cầu mở rộng kinh doanh."
+      "note": "VN-Index tạm nghỉ trưa gần 1.710 điểm (hồi tham chiếu), HNX-Index ở sát tham chiếu. 330 mã tăng vs 240 giảm; nhóm tài chính-ngân hàng, bất động sản, kim loại có diễn biến tích cực. Lực mua hồi phục đáng kể."
     },
     {
-      "title": "Giá vàng tăng mạnh 1,2-1,5 triệu đồng/lượng, thế giới áp sát 3.950 USD",
+      "title": "Vietcombank được phê duyệt tăng vốn 5.431 tỷ đồng",
       "impact": "↑",
-      "note": "Vàng miếng SJC tăng 1,2 triệu đồng lên 141,2 triệu đồng/lượng, vàng nhẫn tăng 400.000-1,5 triệu đồng/lượng trong phiên 3/11. Vàng thế giới áp sát 3.950 USD/ounce, tín hiệu lạm phát cao có thể tạo điều kiện nâng lãi suất, hỗ trợ cổ phiếu ngân hàng."
+      "note": "NHNN chấp thuận VCB tăng vốn từ 83.557 lên 88.988 tỷ đồng qua phát hành riêng lẻ 543,1 triệu cổ phiếu cho nhà đầu tư chuyên nghiệp. Hỗ trợ kế hoạch cơ cấu lại vốn nhà nước 2026-2030, mở rộng năng lực tín dụng."
     },
     {
-      "title": "VN-Index lực mua hồi phục 3/11, 330 mã tăng vs 240 mã giảm",
+      "title": "Giá vàng bứt phá mạnh, thoát đáy năm",
       "impact": "↑",
-      "note": "Phiên 3/11, VN-Index tạm nghỉ trưa gần 1.710 điểm, lực mua hồi phục đáng kể. 330 mã tăng so với 240 mã giảm, sắc xanh ở nhóm trụ tài chính-ngân hàng, bất động sản, kim loại. VHM tăng ~1,5%, HPG tăng 3,2%, thể hiện chuyển biến tích cực."
+      "note": "Vàng miếng SJC tăng 1,2 triệu đồng/lượng lên 141,2 triệu đồng, vàng nhẫn tăng 400 nghìn-1,5 triệu đồng/lượng. Vàng thế giới áp sát 3.950 USD/ounce, thoát đáy 1 năm khi vàng năm 2026 giảm ~7% từ đầu năm nhưng bắt đầu quay đầu."
+    },
+    {
+      "title": "Thị trường vốn Việt Nam vốn hóa 10,57 triệu tỷ đồng",
+      "impact": "↑",
+      "note": "Vốn hóa TTCK HOSE, HNX, UPCoM đạt 10,57 triệu tỷ đồng (tương đương 82,3% GDP 2025 ước tính), thanh khoản bình quân 29.300 tỷ đồng/phiên. Nền tảng vững chắc để phát triển từ quy mô sang chất lượng dài hạn."
     }
   ]
 }
