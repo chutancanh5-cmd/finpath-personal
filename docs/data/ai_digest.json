@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán 3/11 phản ứng trái chiều với nền tảng kinh tế vững chắc. GDP 9 tháng tăng 9,01% và FDI đạt 54,85 tỷ USD (tăng 74%, cao nhất từ 2009) tạo hỗ trợ dài hạn, song khối ngoại bán ròng lần thứ 8 liên tiếp kéo VN-Index rơi dưới 1.700 điểm với thanh khoản cực thấp. Chính sách hỗ trợ tín dụng từ các ngân hàng và lợi nhuận doanh nghiệp tăng (Petrolimex lãi gấp đôi) mang tín hiệu tích cực, nhưng áp lực bán kỹ thuật vẫn chiếm ưu thế ngắn hạn.",
+  "summary_vi": "Kinh tế Việt Nam ghi nhận những điểm sáng với GDP tăng 9,01% và FDI đạt kỷ lục 54,85 tỷ USD (tăng 74%), phản ánh sự ổn định và hấp dẫn của môi trường đầu tư. Tuy nhiên, thị trường chứng khoán đối mặt áp lực đáng kể khi VN-Index mất mốc 1.700 điểm (phiên giảm thứ 4 liên tiếp) và khối ngoại tiếp tục bán ròng phiên thứ 8 liên tiếp với giá trị gần 600 tỷ đồng. Sự mất cân bằng giữa cơ sở kinh tế vĩ mô tốt nhưng áp lực bán từ nhà đầu tư nước ngoài cho thấy rủi ro ngắn hạn, trong khi lạm phát vẫn được kiểm soát ở mức 4,57%.",
   "top": [
     {
-      "title": "Vốn FDI 54,85 tỷ USD, cao nhất từ 2009",
+      "title": "VN-Index mất mốc 1.700 điểm, khối ngoại nối dài bán ròng",
+      "impact": "↓",
+      "note": "VN-Index giảm 11,1 điểm (0,65%), đóng cửa dưới 1.700 điểm trong phiên 3/11, phiên giảm thứ 4 liên tiếp. Khối ngoại bán ròng gần 600 tỷ đồng trong phiên thứ 8 liên tiếp, với MBB bị bán ròng 260 tỷ đồng và VCB bị bán ròng 220 tỷ đồng. VIC giảm 3,31%, lấy đi hơn 12 điểm chỉ số."
+    },
+    {
+      "title": "FDI đạt kỷ lục 54,85 tỷ USD, cao nhất từ 2009",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 10 tháng 2026 đạt 54,85 tỷ USD, tăng 74% CK, cao nhất kể từ 2009; dòng vốn mới 30,7 tỷ USD (gấp đôi); tập trung công nghiệp chế biến chế tạo 24,1 tỷ USD, hỗ trợ chiến lược tái cấu trúc chuỗi cung ứng toàn cầu."
+      "note": "Vốn FDI đăng ký vào Việt Nam trong 10 tháng năm 2026 đạt 54,85 tỷ USD, tăng 74% so với cùng kỳ, cao nhất kể từ năm 2009. Dòng vốn đăng ký mới đạt 30,7 tỷ USD từ gần 3.500 dự án cấp phép mới, tập trung chủ yếu vào công nghiệp chế biến, chế tạo 24,1 tỷ USD."
     },
     {
       "title": "GDP 9 tháng tăng 9,01%, dẫn đầu ASEAN",
       "impact": "↑",
-      "note": "GDP 9 tháng 2026 tăng 9,01% CK, dẫn đầu ASEAN nhờ công nghiệp chế biến, dịch vụ, xuất nhập khẩu; lạm phát 4,57% kiểm soát, thu ngân sách vượt dự toán, nợ công an toàn; nền tảng vĩ mô vững vàng hỗ trợ mục tiêu tăng trưởng 2 con số 2026-2030."
+      "note": "GDP 9 tháng năm 2026 tăng 9,01% so với cùng kỳ, nhờ sự phục hồi của công nghiệp chế biến, chế tạo, dịch vụ và hoạt động xuất nhập khẩu. Lạm phát nằm trong ngưỡng mục tiêu, thu ngân sách vượt dự toán, nợ công duy trì trong phạm vi an toàn theo chuẩn mực quốc tế."
     },
     {
-      "title": "Petrolimex lãi gấp đôi, giá dầu 95 USD",
-      "impact": "↑",
-      "note": "PLX Q3 lãi ròng gấp đôi CK; doanh thu tăng 66% lên 138,5 ngàn tỷ đồng; giá dầu tăng từ 75 USD lên 95 USD/thùng Q3 (có lúc 105 USD), biên lợi nhuận xăng dầu tăng 62%, sản lượng xuất bán tăng 18%."
-    },
-    {
-      "title": "VN-Index mất mốc 1.700, khối ngoại bán",
+      "title": "Khối ngoại và tự doanh cùng bán ròng 630 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 11,1 điểm (-0,65%), đóng cửa dưới 1.700 lần đầu, phiên giảm thứ 4 liên tiếp; VIC -3,31% kéo 12 điểm chỉ số, dầu khí yếu (GAS -2,08%, BSR -2,95%); khối ngoại bán ròng phiên thứ 8 liên tiếp tổng 630 tỷ đ (MBB 260 tỷ, VCB 220 tỷ)."
+      "note": "Phiên 3/11, khối ngoại bán ròng gần 600 tỷ đồng, tự doanh bán ròng nhẹ 30 tỷ đồng. MBB và VCB là hai mã bị bán ròng mạnh nhất lần lượt 260 tỷ và 220 tỷ đồng, VIC bị bán ròng 114 tỷ đồng. HPG được mua ròng gần 230 tỷ đồng."
     },
     {
-      "title": "SACOMBANK vay ưu đãi 10.000 tỷ đồng",
+      "title": "Petrolimex lãi gấp đôi, giá dầu neo cao",
       "impact": "↑",
-      "note": "SACOMBANK gói vay 10.000 tỷ đồng lãi suất 7,9%/năm dành khách hàng mới FDI và xuất nhập khẩu (02/11-31/12/2026); mức giảm 1,5-2% từ bình thường 8,5-9,5%; hưởng ứng mục tiêu tăng trưởng GDP 2 con số."
+      "note": "Petrolimex (PLX) quý 3/2026 ghi nhận doanh thu tăng 66% lên 138,5 nghìn tỷ đồng, lãi ròng gấp đôi cùng kỳ. Giá dầu thế giới tăng từ 75 USD/thùng lên 95 USD/thùng trong quý, có lúc chạm 105 USD/thùng; biên lợi nhuận xăng dầu tăng 62%, sản lượng xuất bán tăng 18%."
     },
     {
-      "title": "Thanh khoản cực thấp, chỉ 13,8 ngàn tỷ",
-      "impact": "↓",
-      "note": "Giá trị giao dịch toàn thị trường 13,8 ngàn tỷ đồng, sàn HOSE thanh khoản giảm 30%, HNX giảm 45%; cổ phiếu tăng 340 mã nhưng bị kéo xuống bởi 300 mã giảm từ vốn hóa lớn; rủi ro lạm phát, địa chính trị trước G20, thuế Mỹ tạo áp lực."
+      "title": "CPI mười tháng tăng 4,57%, kiểm soát lạm phát",
+      "impact": "→",
+      "note": "Chỉ số giá tiêu dùng 10 tháng năm 2026 tăng 4,57% so với cùng kỳ, lạm phát cơ bản tăng 4,24%. CPI tháng 10 tăng 0,20% so với tháng trước, chủ yếu do giá xăng dầu trong nước điều chỉnh tăng theo giá nhiên liệu thế giới."
     }
   ]
 }
