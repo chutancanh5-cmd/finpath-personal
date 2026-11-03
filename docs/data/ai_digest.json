@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Nền tảng vĩ mô khá vững với FDI đạt kỷ lục 54,85 tỷ USD (+74% YoY, cao nhất từ 2009) và kim ngạch xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên (1.010,55 tỷ USD, +32,3% YoY), thể hiện động lực tăng trưởng mạnh. Chính phủ hỗ trợ doanh nghiệp qua gói vay 10.000 tỷ đồng lãi suất 7,9%/năm để thúc đẩy GDP 2 con số. Tuy nhiên, lạm phát 4,57% (giá nhiên liệu +13,09%) gây áp lực lên lợi suất, và thị trường chứng khoán suy yếu với VN-Index thủng 1.700 điểm do cổ phiếu trụ giảm mạnh trong bối cảnh thanh khoản cực thấp.",
+  "summary_vi": "Ngày 3/11, thị trường chứng khoán chịu áp lực khi khối ngoại bán ròng 496 tỷ đồng, VN-Index thủng 1.700 điểm do cổ phiếu trụ suy yếu (VIC -3,31%, VHM -1,59%). Tuy nhiên, nền tảng vĩ mô vẫn hỗ trợ với FDI đạt kỷ lục 54,85 tỷ USD (+74%, cao nhất từ 2009) và kim ngạch xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên (1.010,55 tỷ USD, +32,3%). Rủi ro: CPI 10 tháng +4,57%, giá nhiên liệu +13,09% kéo theo áp lực lãi suất, thanh khoản thị trường cực thấp.",
   "top": [
+    {
+      "title": "Khối ngoại bán ròng 496 tỷ đồng, MBB và VCB chịu áp lực",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng khoảng 496 tỷ đồng cổ phiếu trên toàn thị trường, trong đó MBB bị bán 254 tỷ đồng, VCB bị bán 219 tỷ đồng, VIC bị bán 114 tỷ đồng. Chiều mua, HPG được mua mạnh 227 tỷ, SHB 125 tỷ, VHM 119 tỷ."
+    },
+    {
+      "title": "VN-Index dưới 1.700 điểm, cổ phiếu trụ lao dốc",
+      "impact": "↓",
+      "note": "VN-Index đóng cửa phiên giảm 11 điểm tại 1.699 điểm. VIC giảm 3,31%, VHM giảm 0,16% sáng nhưng -1,59% chiều, riêng VIC khiến chỉ số mất hơn 12 điểm. BSR giảm 2,95%, GAS -2,08%, ATC -2,08%. Thanh khoản sáng 6.000 tỷ đồng, chỉ VN30 có 14 mã tăng 11 mã giảm."
+    },
     {
       "title": "FDI đạt kỷ lục 54,85 tỷ USD, cao nhất từ 2009",
       "impact": "↑",
-      "note": "10 tháng 2026, FDI đăng ký vào Việt Nam đạt 54,85 tỷ USD, tăng 74% so với cùng kỳ 2025. Gần 3.500 dự án mới cấp phép với vốn hơn 30,7 tỷ USD (gấp đôi), tập trung chủ yếu vào công nghiệp chế biến chế tạo (24,1 tỷ USD) và bất động sản (7 tỷ USD)."
+      "note": "10 tháng 2026, FDI đăng ký vào Việt Nam đạt 54,85 tỷ USD, tăng 74% so cùng kỳ 2025. Gần 3.500 dự án mới cấp phép với vốn hơn 30,7 tỷ USD (gấp đôi so cùng kỳ), tập trung chủ yếu vào công nghiệp chế biến chế tạo (24,1 tỷ USD) và bất động sản (7 tỷ USD)."
     },
     {
       "title": "Kim ngạch xuất nhập khẩu lần đầu vượt 1.000 tỷ USD",
       "impact": "↑",
-      "note": "10 tháng 2026, tổng kim ngạch xuất nhập khẩu đạt 1.010,55 tỷ USD, tăng 32,3% YoY; xuất khẩu tăng 27,5%, nhập khẩu tăng 37,4%. Tháng 10 ghi nhận xuất siêu 7,31 tỷ USD, lần thứ hai liên tiếp xuất siêu trong năm 2026."
+      "note": "10 tháng 2026, tổng kim ngạch xuất nhập khẩu đạt 1.010,55 tỷ USD, tăng 32,3% so cùng kỳ; xuất khẩu tăng 27,5%, nhập khẩu tăng 37,4%, cán cân hàng hóa nhập siêu 12,07 tỷ USD. Tháng 10 ghi nhận xuất siêu 7,31 tỷ USD, lần thứ hai liên tiếp xuất siêu trong năm."
     },
     {
-      "title": "CPI bình quân 10 tháng tăng 4,57%, giá nhiên liệu tăng 13,09%",
+      "title": "CPI bình quân 10 tháng tăng 4,57%, lạm phát cơ bản 4,24%",
       "impact": "↓",
-      "note": "CPI 10 tháng 2026 tăng 4,57% so với cùng kỳ 2025, lạm phát cơ bản tăng 4,24%; CPI tháng 10 tăng 5,09% YoY. Nhóm ăn uống tác động 1,65 điểm, nhà ở/điện nước tác động 1,51 điểm, giao thông tăng 6,98% (nhiên liệu +13,09%), tạo áp lực lên biên lợi nhuận."
-    },
-    {
-      "title": "VN-Index thủng 1.700, cổ phiếu trụ suy yếu, thanh khoản cực thấp",
-      "impact": "↓",
-      "note": "Chiều 3/11, VN-Index rơi dưới 1.700 điểm, nhóm cổ phiếu lớn suy yếu (VIC -3,31%, VHM -1,59% chiều), riêng VIC khiến chỉ số mất hơn 12 điểm. Nhóm dầu khí suy yếu (BSR -2,95%, GAS -2,08%); thanh khoản sáng chỉ hơn 6.000 tỷ đồng, VN30 có 14 mã tăng 11 mã giảm."
+      "note": "CPI 10 tháng 2026 tăng 4,57% so cùng kỳ 2025, lạm phát cơ bản tăng 4,24%; CPI tháng 10 tăng 5,09% so cùng kỳ. Nhóm giao thông tăng 6,98% (nhiên liệu +13,09%), nhà ở/điện nước tăng 6,66%, ăn uống tăng 4,61%. Áp lực lạm phát cao khó cho giảm lãi suất."
     },
     {
       "title": "SACOMBANK triển khai gói vay 10.000 tỷ đồng lãi 7,9%/năm",
-      "impact": "↑",
-      "note": "Từ 02/11/2026 đến 31/12/2026, SACOMBANK cung cấp vay 10.000 tỷ đồng với lãi suất 7,9%/năm cho doanh nghiệp mới hoạt động trong xuất nhập khẩu và FDI, tiếp nối gói 100.000 tỷ đồng từ tháng 8 với mức giảm 1,5-2%, hưởng ứng chỉ đạo thúc đẩy GDP 2 con số."
-    },
-    {
-      "title": "Giá vàng bứt phá 1,2-1,5 triệu đồng, thoát đáy một năm",
       "impact": "→",
-      "note": "Giá vàng miếng SJC tăng mạnh 1,2 triệu đồng mỗi chiều lên 141,2 triệu đồng/lượng, vàng nhẫn tăng 1,2-1,5 triệu đồng/lượng. Giá vàng thế giới áp sát 3.950 USD/ounce, thoát đáy một năm, phản ánh nhà đầu tư tìm kiếm tài sản an toàn giữa thị trường chứng khoán yếu."
+      "note": "Từ 2/11 đến 31/12/2026, SACOMBANK cung cấp vay 10.000 tỷ đồng lãi 7,9%/năm cho doanh nghiệp mới hoạt động trong xuất nhập khẩu và FDI. Tiếp nối gói 100.000 tỷ từ tháng 8 với lãi suất giảm 1,5-2%. Biên lợi nhuận nhà băng chỉ 0,79%, hưởng ứng chỉ đạo Chính phủ thúc đẩy GDP 2 con số."
     }
   ]
 }
