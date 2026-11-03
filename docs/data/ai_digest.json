@@ -2,38 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam ghi nhận tín hiệu bứt phá mạnh mẽ với FDI toàn bộ đạt kỷ lục 54,85 tỷ USD (tăng 74% so cùng kỳ), chế biến chế tạo chiếm 47,5% vốn cấp mới; VND tăng 1,87% từ đầu năm hạn chế áp lực nhập siêu. Tuy nhiên, thị trường chứng khoán bị phân hóa mạnh: VN-Index cao nhưng nhiều cổ phiếu (đặc biệt ngân hàng) giảm sâu, 14/28 mã NH giao dịch dưới 15.000 đ, lợi nhuận ngành CTCK sụt giảm 30% QoQ và 43% YoY.",
+  "summary_vi": "Kinh tế Việt Nam ghi nhận tín hiệu tích cực từ FDI kỷ lục 54,85 tỷ USD (+74% YoY) và chính sách sửa Luật Đầu tư nhằm tăng trưởng hai con số, tuy nhiên thị trường chứng khoán diễn biến yếu kém với phân hóa mạnh, lợi nhuận CTCK sụt 30-43% quý 3 và khối ngoại bán ròng. Động lực toàn cầu suy yếu khi Nasdaq, S&P 500 giảm điểm và giá dầu lao dốc dưới 100 USD, trong khi Trung Quốc triển khai công cụ cứu chứng khoán nhưng nhà đầu tư vẫn hoài nghi.",
   "top": [
     {
-      "title": "FDI toàn bộ kỷ lục 54,85 tỷ USD, tăng 74%",
+      "title": "FDI đạt kỷ lục 54,85 tỷ USD",
       "impact": "↑",
-      "note": "10 tháng 2026, tổng vốn FDI (cấp mới, điều chỉnh, góp vốn, mua cổ phần) đạt 54,85 tỷ USD, cao nhất từ 2009; cấp mới 30,73 tỷ USD (+2,2 lần so cùng kỳ), chế biến chế tạo 14,61 tỷ USD (47,5%), Singapore dẫn đầu 9,52 tỷ USD (31%)"
+      "note": "FDI đăng ký trong 10 tháng năm 2026 đạt 54,85 tỷ USD, tăng 74% YoY, cao nhất 17 năm qua. Ngành công nghiệp chế biến chiếm 47,5%, Singapore là nhà đầu tư lớn nhất với 31% tổng vốn cấp mới."
     },
     {
-      "title": "Cổ phiếu ngân hàng rẻ dưới mệnh giá mặc lãi cao",
-      "impact": "↓",
-      "note": "14/28 mã NH giao dịch dưới 15.000 đ/cp chốt 2/11, trong đó PCB 8.600 đ, VAB 9.000 đ, PGB 9.400 đ (all < mệnh giá 10.000 đ); NVB 14.700 đ, SGB 12.800 đ, nhưng many đạt lãi tỷ đó Q1-Q3/2026"
-    },
-    {
-      "title": "VN-Index cao nhưng phân hóa mạnh, ngành giảm sâu",
-      "impact": "↓",
-      "note": "Tháng 10/2026 VN-Index 1.741,62 điểm (giảm 27 điểm), tuần cuối mất 32,53 điểm (-1,83%); công nghệ -7,5%, logistics -6,7%, hóa chất -4,7%, cấp vừa -3,93%, cấp nhỏ -3,12%, VN30 -2,73%; khối ngoại bán ròng mạnh, chỉ du lịch+Vingroup tăng"
-    },
-    {
-      "title": "CTCK lãi Q3 sụt 30% QoQ, 43% YoY",
-      "impact": "↓",
-      "note": "82 công ty chứng khoán ghi lãi 8,6 ngàn tỷ đồng Q3/2026 (giảm 30% vs Q2, 43% vs Q3/2025) do tự doanh-môi giới sụt; chỉ cho vay margin tăng (13 ngàn tỷ vs 12,2 ngàn tỷ Q2, 9,4 ngàn tỷ Q3/2025)"
-    },
-    {
-      "title": "VND tăng 1,87% từ đầu năm, #3 châu Á",
+      "title": "Sửa Luật Đầu tư tăng trưởng hai con số",
       "impact": "↑",
-      "note": "USD/VND giảm 1,87% (đến 30/10/2026) giữa áp lực nhập siêu; giá NH giảm 1,5%, tự do giảm 2,87%; tỷ giá trung tâm tăng 2,02%, nhưng giá bán USD suy yếu, chênh lệch tự do-NH từ 220 đ xuống 60 đ"
+      "note": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn nhấn mạnh hoàn thiện chính sách ưu đãi đầu tư đặc biệt gắn kết quả, khơi thông nguồn lực vốn đầu tư để đạt mục tiêu tăng trưởng hai con số."
     },
     {
-      "title": "Sửa Luật Đầu tư, nhu cầu vốn rất lớn",
-      "impact": "↑",
-      "note": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn giải trình dự án sửa Luật Đầu tư (55 lượt ý kiến tổ, 15 ý kiến hội trường), nhấn mạnh nhu cầu vốn đầu tư rất lớn; chính sách ưu đãi gắn kết quả đầu ra, quy định rõ cơ chế thu hồi"
+      "title": "Thị trường chứng khoán phân hóa, nhóm ngành suy yếu",
+      "impact": "↓",
+      "note": "VN-Index tháng 10 giảm khoảng 27 điểm, nhưng công nghệ giảm 7,5%, logistics giảm 6,7%, hóa chất/chứng khoán giảm 4,7%. Vốn hóa vừa/nhỏ giảm 3,93%/3,12%, khối ngoại bán ròng 589 tỷ đồng ở nhóm ngân hàng."
+    },
+    {
+      "title": "CTCK lợi nhuận sụt 30-43%",
+      "impact": "↓",
+      "note": "Lợi nhuận 82 công ty chứng khoán quý 3/2026 đạt 8,6 ngàn tỷ đồng, giảm 30% QoQ và 43% YoY. Mảng tự doanh và môi giới sụt giảm, chỉ cho vay margin lập đỉnh mới duy trì lợi nhuận ngành."
+    },
+    {
+      "title": "Trung Quốc triển khai SFISF, nhà đầu tư hoài nghi",
+      "impact": "↓",
+      "note": "PBOC triển khai công cụ hoán đổi SFISF tái khởi động từ 2024. CSI 300 tăng 0,8% phiên 2/11 nhưng mất toàn bộ mức tăng phiên 3/11, giảm 1%, Star 50 giảm gần 3%, cho thấy hiệu lực hạn chế."
+    },
+    {
+      "title": "Nasdaq, S&P 500 giảm, dầu lao dốc",
+      "impact": "↓",
+      "note": "Nasdaq giảm 1,07%, S&P 500 giảm 0,51% do bán áp đè cổ phiếu công nghệ/AI. Giá dầu WTI lao dốc dưới ngưỡng 100 USD/thùng (giảm gần 8%) sau tín hiệu hòa bình Trung Đông."
     }
   ]
 }
-
