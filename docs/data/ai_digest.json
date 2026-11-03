@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt những áp lực vĩ mô trái chiều. Vốn FDI đạt kỷ lục 54,85 tỷ USD (tăng 74% YoY) phản ánh sức hút kinh tế mạnh mẽ, nhưng lạm phát 4,57% với xăng dầu tăng 13,09% YoY tạo áp lực lên chính sách tiền tệ và lợi nhuận doanh nghiệp. Thanh khoản thị trường suy giảm mạnh (doanh thu môi giới giảm 58%), trong khi cổ phiếu ngân hàng định giá thấp lịch sử bất chấp lợi nhuận cao, phản ánh tâm lý bi quan của nhà đầu tư giữa lãi suất cao.",
+  "summary_vi": "Thị trường ghi nhận tín hiệu vừa tích cực vừa tiêu cực: Vốn FDI đăng ký 10 tháng đạt 54,85 tỷ USD (kỷ lục 17 năm, +74%), xuất nhập khẩu vượt 1.000 tỷ USD, và Chính phủ triển khai gói tín dụng 10.000 tỷ đồng hỗ trợ doanh nghiệp. Tuy nhiên, lạm phát 10 tháng tăng 4,57% (nhóm giao thông +6,98%, nhiên liệu +13,09%) tạo áp lực lên lợi suất, còn doanh thu môi giới chứng khoán suy giảm 58% phản ánh thanh khoản thị trường yếu.",
   "top": [
     {
-      "title": "FDI đạt kỷ lục 54,85 tỷ USD trong 10 tháng",
+      "title": "Vốn FDI đạt kỷ lục 54,85 tỷ USD trong 17 năm",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký 10 tháng 2026 đạt 54,85 tỷ USD, tăng 74% YoY, cao nhất kể từ năm 2009. Dự án cấp mới 3.478 với vốn 30,73 tỷ USD (gấp 2,2 lần YoY); ngành chế biến chế tạo dẫn đầu 14,61 tỷ USD (47,5%), vận tải kho bãi 5,15 tỷ USD (16,7%). Singapore nhà đầu tư lớn nhất 9,52 tỷ USD (31%), Hàn Quốc 5,81 tỷ USD (18,9%)."
+      "note": "Vốn FDI đăng ký 10 tháng 2026 đạt 54,85 tỷ USD, tăng 74% so với cùng kỳ, cao nhất từ 2009. Vốn đăng ký cấp mới 30,73 tỷ USD; công nghiệp chế biến chiếm 47,5%; Singapore 31%, Hàn Quốc 18,9% tổng vốn."
     },
     {
-      "title": "CPI 10 tháng 4,57%, xăng dầu tăng 13,09% YoY",
-      "impact": "↓",
-      "note": "CPI bình quân 10 tháng 2026 tăng 4,57%, lạm phát cơ bản 4,24%. Nhóm giao thông tăng 6,98% do xăng dầu tăng 13,09% YoY; nhóm nhà ở tăng 6,66%, thực phẩm tăng 4,61%. Áp lực lạm phát từ nhiên liệu có thể ép NHNN duy trì chính sách tiền tệ chặt chẽ, ảnh hưởng lợi nhuận doanh nghiệp."
-    },
-    {
-      "title": "Doanh thu môi giới giảm 58%, lãi gộp giảm 93%",
-      "impact": "↓",
-      "note": "Doanh thu môi giới 81 công ty chứng khoán Q3 2026 đạt 2,985 tỷ đồng, giảm 58% YoY và 19% QoQ; lãi gộp giảm 93% tương ứng. Giá trị giao dịch bình quân 18,1 nghìn tỷ đồng/phiên giảm 58% YoY. 2/3 công ty ghi lỗ gộp môi giới, phản ánh suy giảm thanh khoản do lãi suất cao."
-    },
-    {
-      "title": "14/28 cổ phiếu ngân hàng dưới 15.000 đ/cổ phiếu",
-      "impact": "↓",
-      "note": "Chốt phiên 2/11, có 14/28 mã ngân hàng dưới 15.000 đ, trong đó PCB 8.600 đ, VAB 9.000 đ, PGB 9.400 đ thấp hơn mệnh giá 10.000 đ. Hiện tượng định giá thấp xuất hiện dù nhiều ngân hàng lợi nhuận hàng nghìn tỷ/quý, phản ánh lo ngại nhà đầu tư về vòng lãi suất cao kéo dài."
-    },
-    {
-      "title": "SACOMBANK gói 10.000 tỷ lãi suất 7,9%/năm",
+      "title": "CPI 10 tháng tăng 4,57%, nhiên liệu tăng 13,09%",
       "impact": "↑",
-      "note": "SACOMBANK triển khai gói tín dụng 10.000 tỷ đồng lãi suất 7,9%/năm (02/11-31/12/2026) cho doanh nghiệp xuất nhập khẩu và FDI. Bối cảnh: xuất nhập khẩu 10 tháng 1.010,6 tỷ USD (tăng 32,3%), FDI đến 30/9 đạt 21,07 tỷ USD (cao nhất 9 tháng trong 5 năm). Chính sách tiền tệ hỗ trợ sản xuất kinh doanh giữa áp lực lạm phát."
+      "note": "CPI 10 tháng tăng 4,57% so với 2025; nhóm giao thông tăng 6,98% (xăng tăng 6,86%, dầu diesel +0,75%); nhóm hàng ăn tăng 4,61%, nhà ở/điện nước tăng 6,66%; lạm phát cơ bản tăng 4,24%."
     },
     {
-      "title": "Trung Quốc kích hoạt công cụ giải cứu chứng khoán",
+      "title": "SACOMBANK hỗ trợ tín dụng 10.000 tỷ đồng ở 7,9%/năm",
+      "impact": "↑",
+      "note": "Gói tín dụng 10.000 tỷ đồng lãi suất 7,9%/năm cho doanh nghiệp xuất nhập khẩu và FDI (02/11-31/12/2026). Kim ngạch XNK 10 tháng đạt 1.010,6 tỷ USD (+32,3%); vốn FDI 9 tháng đạt 21,07 tỷ USD, cao nhất 5 năm."
+    },
+    {
+      "title": "Doanh thu môi giới chứng khoán giảm 58%",
+      "impact": "↓",
+      "note": "Doanh thu môi giới Q3/2026 đạt 2,985 tỷ đồng, giảm 58% so với Q3/2025 và giảm 19% so với Q2/2026. Lãi gộp giảm 93%; 2/3 công ty chứng khoán lỗ gộp môi giới; giá trị giao dịch trung bình 18,1 ngàn tỷ đồng/phiên, giảm 58% so với cùng kỳ."
+    },
+    {
+      "title": "Cổ phiếu ngân hàng phân hóa: 20/28 mã giảm",
       "impact": "→",
-      "note": "PBOC khôi phục công cụ hoán đổi SFISF trong cuộc họp 2/11 với 23 công ty chứng khoán, 26 ngân hàng. CSI 300 tăng 0,8% rồi mất lãi, Star 50 tăng 3% ngay sau đó giảm 3%. Rủi ro: nếu biện pháp không hiệu quả, áp lực khu vực có thể lan sang Việt Nam; cơ hội nếu Trung Quốc ổn định được tâm lý thị trường."
+      "note": "Trong 28 mã ngân hàng, 8 tăng giá, 20 giảm giá từ đầu năm. MSB tăng 52% (từ 10.330 lên 15.750 đồng/cổ phiếu); ABB tăng 36% (từ 12.790 lên 17.400 đồng); VBB tăng 32% (từ 9.450 lên 12.450 đồng)."
+    },
+    {
+      "title": "Quỹ ADV Partners mất 75 triệu USD đầu tư Món Huế",
+      "impact": "↓",
+      "note": "Quỹ ADV Partners tố giác ông Huy Nhật chiếm đoạt 75 triệu USD. Chuỗi 200 cửa hàng sụp đổ tháng 10/2019; nhiều nhà cung ứng và lao động bị nợ tiền; phản ánh rủi ro môi trường kinh doanh."
     }
   ]
 }
