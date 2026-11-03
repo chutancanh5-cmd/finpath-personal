@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-03",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán suy giảm mạnh với VN-Index giảm 1,77% xuống 1710,72 điểm, thanh khoản khối lượng HOSE giảm 10%, HNX giảm 30%, dòng tiền rút khỏi nhóm chứng khoán. Lợi nhuận 82 CTCK giảm 30% QoQ và 43% YoY xuống 8,6 ngàn tỷ đồng. Nền tảng vĩ mô vẫn có tín hiệu tích cực: xuất nhập khẩu vượt 1.000 tỷ USD (tăng 32%), VND tăng giá trong nhóm 3 mạnh châu Á, công nghiệp chế biến 87,4% cơ cấu xuất khẩu.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Xuất nhập khẩu lần đầu vượt 1000 tỷ USD với cơ cấu hàng chế biến chế tạo/công nghệ cao chiếm 87,4%, đồng VND tăng giá mạnh nhất châu Á giúp sức cạnh tranh. Chính sách đầu tư được hoàn thiện để đạt tăng trưởng 2 con số. Tuy nhiên, thị trường chứng khoán toàn cầu yếu (Nasdaq -1,07%, S&P -0,51%), CTCK nội địa kinh doanh ảm đạm với lợi nhuận quý 3 giảm 30%. Dự án hạ tầng lớn (sân bay Gia Bình) được triển khai tích cực, cân bằng áp lực từ thị trường chứng khoán.",
   "top": [
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, cơ cấu nâng cao",
+      "title": "Xuất nhập khẩu: vượt 1000 tỷ USD lần đầu",
       "impact": "↑",
-      "note": "Kim ngạch xuất nhập khẩu lần đầu vượt mốc 1.000 tỷ USD, tăng 32% so với cùng kỳ, với ngành công nghiệp chế biến chế tạo đóng góp 87,4% và sản phẩm công nghệ cao, bán dẫn chiếm tỷ trọng chính."
+      "note": "Tổng kim ngạch xuất nhập khẩu 10 tháng năm 2026 lần đầu vượt 1000 tỷ USD, tăng hơn 32% so với năm trước. Công nghiệp chế biến chế tạo đóng góp 87,4%; sản phẩm công nghệ cao, bán dẫn, thiết bị điện tử chiếm tỷ trọng chính, đánh dấu chuyển dịch từ tăng quy mô sang nâng cao giá trị chuỗi cung ứng."
     },
     {
-      "title": "CTCK lợi nhuận giảm 30-43%, chỉ có cho vay margin tăng",
-      "impact": "↓",
-      "note": "Lợi nhuận sau thuế của 82 CTCK đạt 8,6 ngàn tỷ đồng quý 3, giảm 30% so quý 2 và 43% so cùng kỳ 2025, chỉ mảng cho vay margin tăng lên gần 13 ngàn tỷ đồng."
-    },
-    {
-      "title": "VN-Index rơi xuống 1.710 điểm, thanh khoản đột biến",
-      "impact": "↓",
-      "note": "VN-Index giảm 1,77% còn 1.710,72 điểm với thanh khoản vượt trung bình 20 phiên, RSI suy yếu, MACD gần vượt ngưỡng 0, tín hiệu rủi ro điều chỉnh sâu thêm nếu mất vùng hỗ trợ 1.700 điểm."
-    },
-    {
-      "title": "VND tăng 1,87% bất chấp áp lực USD mạnh",
+      "title": "VND mạnh nhất châu Á, giảm 1,87% so với USD",
       "impact": "↑",
-      "note": "Từ đầu năm, VND tăng giá 1,87% so USD mặc dù USD Index tăng 3,49%, đưa VND vào nhóm 3 đồng tiền châu Á tăng giá mạnh nhất so USD trong 10 đồng được theo dõi."
+      "note": "Từ đầu năm đến 30/10/2026, tỷ giá USD/VND giảm 1,87%, đưa VND vào nhóm 3 đồng tiền châu Á tăng giá mạnh nhất. Mặc dù chịu áp lực nhập siêu hàng hóa và USD mạnh lên trên thị trường quốc tế, đồng VND vẫn tăng giá, hỗ trợ cạnh tranh xuất khẩu."
     },
     {
-      "title": "Dòng tiền rút khỏi nhóm chứng khoán, sàn HNX giảm 30%",
-      "impact": "↓",
-      "note": "Tuần cuối tháng 10, nhóm chứng khoán bị rút tiền với APS giảm thanh khoản 63%, VPB, SHS, MBS giảm 30-55%, sàn HNX khối lượng giao dịch giảm 30%, giá trị giảm 26%."
+      "title": "Sửa Luật Đầu tư hỗ trợ tăng trưởng 2 con số",
+      "impact": "↑",
+      "note": "Bộ trưởng Tài chính Ngô Văn Tuấn giải trình dự án Luật sửa đổi Luật Đầu tư trước Quốc hội, nhận 55 lượt ý kiến và 15 ý kiến tại phiên thảo luận hội trường. Dự kiến hoàn thiện chính sách ưu đãi đầu tư đặc biệt theo hướng gắn với kết quả đầu ra, nhu cầu vốn đầu tư rất lớn."
     },
     {
-      "title": "14/28 cổ phiếu ngân hàng định giá dưới 15 nghìn đồng",
+      "title": "Thị trường toàn cầu yếu, Nasdaq giảm 1,07%",
       "impact": "↓",
-      "note": "Tính đến 2/11, 14 mã cổ phiếu ngân hàng giao dịch dưới 15 nghìn đồng/cổ phiếu, trong đó 3 mã thấp hơn mệnh giá 10 nghìn đồng (PCB 8.600 đồng, VAB 9.000 đồng, PGB 9.400 đồng), bất chấp nhiều ngân hàng báo lãi hàng ngàn tỷ đồng."
+      "note": "Chỉ số Nasdaq giảm 1,07% (25.164,32 điểm), S&P 500 giảm 0,51% (7.541,4 điểm) do bán cổ phiếu công nghệ/AI. Giá dầu WTI trượt dưới 100 USD/thùng, giảm 8% sau tín hiệu tích cực về hòa bình Trung Đông. Sentiment tiêu cực toàn cầu tạo áp lực truyền dẫn."
+    },
+    {
+      "title": "CTCK kinh doanh ảm đạm, lợi nhuận quý 3 giảm 30%",
+      "impact": "↓",
+      "note": "82 CTCK báo lợi nhuận sau thuế quý 3/2026 là 8,6 ngàn tỷ đồng, giảm 30% so với quý 2 và 43% so với cùng kỳ 2025. Mảng tự doanh và môi giới sụt giảm đáng kể; chỉ cho vay margin tăng (13 ngàn tỷ đồng), trở thành trụ cột duy trì lợi nhuận ngành."
+    },
+    {
+      "title": "Sân bay Gia Bình: GPMB 97%, cơ sở hạ tầng triển khai",
+      "impact": "↑",
+      "note": "Tuyến đường kết nối sân bay Gia Bình - Hà Nội (dự án PPP-BT, 8 tỷ USD) đã bàn giao mặt bằng 392 hecta (97%), chi trả bồi thường 3.767 tỷ đồng, hoàn thành tháo dỡ nhà (99%). Nhà thầu đang triển khai nền, móng, cấu pháp cầu, rà phá bom mìn đạt 100%."
     }
   ]
 }
