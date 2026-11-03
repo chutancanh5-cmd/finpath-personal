@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-03",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Lạm phát vẫn cao (CPI 10 tháng tăng 4,57%, tháng 10 tăng 5,09% YoY) với áp lực mạnh từ xăng dầu (tăng 6,86%). Nhà đầu tư bất an quay sang tài sản trú ẩn (vàng tăng mạnh lên 141,2 triệu đồng/lượng). Ngành chứng khoán yếu do lo ngại kết quả kinh doanh Q3 và rủi ro cho vay margin, phần lớn mã ngân hàng giảm giá mặc dù một số mã như MSB, ABB, VBB tăng trên 30%. Thị trường chứng khoán hồi nhẹ cuối ngày nhưng thanh khoản thấp, khiến triển vọng ngắn hạn vẫn tiêu cực.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường Việt Nam hôm nay chứng kiến sự cân bằng giữa áp lực lạm phát (CPI 10 tháng tăng 4,57%, lạm phát cơ bản 4,24%) và những tín hiệu dương từ thanh khoản. Lạm phát cao nhất từ nhóm giao thông (+6,98%) và nhiên liệu (+13,09%), tác động tiêu cực đến sức mua và tâm lý nhà đầu tư. Hôm nay thị trường có dấu hiệu hồi phục với lực mua tăng trở lại, VN-Index hồi về tham chiếu, trong khi giá vàng nội tăng mạnh 1,2-1,5 triệu/lượng, phản ánh tìm kiếm tài sản an toàn. Ngành chứng khoán tiếp tục suy yếu với phần lớn cổ phiếu lùi về đáy 1 năm, ngân hàng phân hóa rõ nét với 20/28 mã giảm từ đầu năm.",
   "top": [
     {
-      "title": "CPI 10 tháng tăng 4,57%, xăng dầu gia tăng áp lực lạm phát",
+      "title": "CPI 10 tháng tăng 4,57%, lạm phát cơ bản 4,24%",
       "impact": "↓",
-      "note": "CPI 10 tháng 2026 tăng 4,57% so cùng kỳ 2025, tháng 10 tăng 5,09% YoY. Xăng tăng 6,86% (tháng 10), dầu diesel tăng 0,75%, nhóm giao thông tăng 6,98% (10 tháng). Áp lực lạm phát cao đe dọa chính sách tiền tệ thắt chặt, tăng lãi suất điều hành, gây sức ép lên định giá cổ phiếu."
+      "note": "Nhóm giao thông tăng 6,98%, nhiên liệu tăng 13,09%, xăng trong nước tăng 6,86%. Áp lực lạm phát cao làm suy yếu sức mua, gia tăng chi phí hoạt động doanh nghiệp và rủi ro điều chỉnh chính sách tiền tệ."
     },
     {
-      "title": "Ngành chứng khoán yếu, nhiều mã lùi vào vùng giá thấp 1 năm",
+      "title": "Cổ phiếu chứng khoán lùi về đáy 1 năm",
       "impact": "↓",
-      "note": "Nhịp hồi phục cuối tháng 10 nhanh bị lu mờ bởi diễn biến suy yếu. Triển vọng kinh doanh chịu sức ép từ hoạt động tự doanh, môi giới và rủi ro cho vay margin. Nhà đầu tư lo ngại chất lượng lợi nhuận ngành chứng khoán, đặc biệt từ kết quả Q3/2026."
+      "note": "Nhịp hồi phục cuối tháng 10 không duy trì, nhiều mã suy yếu do áp lực từ hoạt động tự doanh, môi giới và rủi ro từ cuộc đua cho vay margin. Tâm lý nhà đầu tư ngành chứng khoán yếu kém ngắn hạn."
     },
     {
-      "title": "Ngân hàng phân hóa: MSB +52%, nhưng 20/28 mã giảm giá",
+      "title": "Lãi suất tiết kiệm kỳ hạn 6-12 tháng phổ biến ~6%/năm",
       "impact": "→",
-      "note": "Từ đầu năm 2026, 28 mã ngân hàng: chỉ 8 mã tăng, 20 mã giảm. MSB tăng 52% (từ 10.330 lên 15.750 đồng), ABB tăng 36%, VBB tăng 32%. Phân hóa rõ nét giữa ngân hàng mạnh và yếu, thể hiện thị trường chọn lọc từng cổ phiếu."
+      "note": "Lãi suất kỳ hạn 6 tháng dao động 4,15%-7%/năm, 12 tháng 5 ngân hàng niêm yết 7%/năm. Điều chỉnh lãi suất giảm nhẹ nhằm kiểm soát lạm phát nhưng vẫn ở mức cao, hỗ trợ doanh nghiệp có giới hạn."
     },
     {
-      "title": "Vàng tăng mạnh lên 141,2 triệu đồng/lượng, nhà đầu tư tìm trú ẩn",
+      "title": "Vàng trong nước tăng 1,2-1,5 triệu đồng/lượng",
       "impact": "↑",
-      "note": "Vàng miếng SJC tăng 1,2 triệu đồng/lượng (3/11 so 2/11), lên 141,2 triệu đồng/lượng ở chiều bán. Vàng nhẫn tăng 500.000 đến 1,5 triệu đồng/lượng. Sự bứt phá vàng bạc phản ánh nhu cầu tài sản trú ẩn giữa bất ổn lạm phát và thị trường chứng khoán."
+      "note": "Vàng miếng SJC tăng lên 141,2 triệu đồng/lượng, vàng thế giới áp sát 3.950 USD/oz thoát đáy 1 năm. Thị trường vàng nóng lên, phản ánh nhà đầu tư tìm kiếm tài sản an toàn trước áp lực lạm phát."
     },
     {
-      "title": "Lãi suất huy động lùi về 6%/năm, cạnh tranh lãi suất căng thẳng",
-      "impact": "→",
-      "note": "Lãi suất tiết kiệm kỳ hạn 6-12 tháng phổ biến lùi về 6%/năm sau đợt giảm 0,5% cuối tháng 10. 4 ngân hàng thương mại nhà nước 6,6%/năm, VCBNeo 7%/năm, SeABank chỉ 4,15%/năm kỳ hạn 6 tháng. Cạnh tranh lãi suất chứng tỏ áp lực thanh khoản ở một số ngân hàng."
+      "title": "VN-Index hôm 3/11: Lực mua trở lại, 330 tăng vs 240 giảm",
+      "impact": "↑",
+      "note": "VHM tăng 1,5%, HPG tăng 3,2%, độ rộng nghiêng về mã tăng, thanh khoản phục hồi. Tín hiệu dương sau chuỗi ngày suy yếu, cho thấy nhà đầu tư dần quay trở lại thị trường."
     },
     {
-      "title": "Thị trường phục hồi nhẹ nhưng thanh khoản suy giảm đáng lo",
+      "title": "Ngân hàng phân hóa: 20/28 mã giảm, MSB +52%, ABB +36%",
       "impact": "→",
-      "note": "VN-Index hồi về tham chiếu 3/11, độ rộng 330 mã tăng vs 240 mã giảm. Tuy nhiên thanh khoản phiên sáng chỉ hơn 6 ngàn tỷ đồng (ảm đạm). Lực mua hồi phục nhưng thanh khoản thấp là tín hiệu cảnh báo về sự thiếu hụt niềm tin nhà đầu tư."
+      "note": "Từ đầu năm 2026 đến nay, chỉ 8/28 mã NH tăng, 20 mã giảm. MSB tăng 52%, ABB tăng 36%, VBB tăng 32%, còn nhiều mã khác giảm mạnh. Sự chênh lệch hiệu suất lớn tạo cơ hội nhưng cũng rủi ro lựa chọn."
     }
   ]
 }
