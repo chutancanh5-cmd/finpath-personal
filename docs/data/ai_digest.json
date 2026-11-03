@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Xuất nhập khẩu Việt Nam lần đầu vượt 1.000 tỷ USD với tăng trưởng 32% YoY, tái cấu trúc sang sản phẩm công nghiệp chế tạo và công nghệ cao (87,4%). Chính phủ đẩy mạnh ba đột phá chiến lược hỗ trợ tăng trưởng 10%, với định hướng hoàn thiện chính sách ưu đãi đầu tư. Tuy nhiên, thị trường chứng khoán ghi nhận áp lực: CTCK giảm lợi nhuận 30-43%, VN-Index mất hỗ trợ kỹ thuật quanh 1.700 điểm. Rủi ro lạm phát toàn cầu (4,7%) và căng thẳng địa chính trị cũng tác động tiêu cực ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán giảm mạnh (VN-Index -1,77%) với thanh khoản đột biến, nhưng xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (+32% YoY) là tín hiệu tích cực dài hạn. VND tăng giá (USD/VND -1,87%) hỗ trợ các doanh nghiệp xuất khẩu, trong khi lợi nhuận các công ty chứng khoán sụt giảm 30-43%. Chính phủ sửa Luật Đầu tư để khơi thông nguồn vốn hướng tới mục tiêu tăng trưởng hai con số.",
   "top": [
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, chuyển sang công nghệ cao",
-      "impact": "↑",
-      "note": "Tổng kim ngạch xuất nhập khẩu vượt 1.000 tỷ USD lần đầu, tăng hơn 32% YoY. Ngành công nghiệp chế biến chế tạo đóng góp 87,4% trong 10 tháng; sản phẩm bán dẫn, thiết bị điện tử và linh kiện tinh vi chiếm tỷ trọng chính, thay thế dầu thô và nông sản thô."
-    },
-    {
-      "title": "Chính sách ưu đãi đầu tư được hoàn thiện hướng tới tăng trưởng 10%",
-      "impact": "↑",
-      "note": "Bộ trưởng Tài chính Ngô Văn Tuấn nhấn mạnh yêu cầu hoàn thiện chính sách ưu đãi đầu tư gắn với kết quả đầu ra có thể kiểm soát; Quốc hội đề xuất ba đột phá chiến lược (thể chế, hạ tầng, nhân lực) và ba động lực tăng trưởng (đầu tư, tiêu dùng, xuất khẩu) nhằm đạt mục tiêu 10% năm 2027."
-    },
-    {
-      "title": "VN-Index mất hỗ trợ kỹ thuật, lợi nhuận CTCK sụt 30-43%",
+      "title": "VN-Index lùi về 1.710,72 điểm (-1,77%) với thanh khoản vượt trung bình 20 phiên",
       "impact": "↓",
-      "note": "VN-Index giảm hơn 30 điểm đóng cửa tại 1.710,72 (-1,77%); lợi nhuận sau thuế 82 CTCK quý 3/2026 đạt 8.600 tỷ đồng, giảm 30% QoQ và 43% YoY. Tự doanh và môi giới sụt giảm đáng kể; chỉ cho vay margin tăng liên tục, nhưng chưa đủ bù đắp."
+      "note": "Chỉ số vượt mức trung bình 20 phiên, RSI hình thành đỉnh sau thấp hơn. Thị trường cần tìm kiếm vùng cân bằng mới quanh hỗ trợ 1.700-1.705 điểm, có khả năng kiểm định ngưỡng 1.800 điểm trong tháng 11."
     },
     {
-      "title": "Lạm phát toàn cầu 4,7% với rủi ro từ chiến tranh và căng thẳng",
+      "title": "Xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, tăng 32% so với cùng kỳ năm trước",
+      "impact": "↑",
+      "note": "Tổng kim ngạch xuất nhập khẩu Việt Nam 10 tháng đạt 1.000 tỷ USD, ngành công nghiệp chế biến chế tạo đóng góp 87,4%. Chuyển từ tăng trưởng quy mô sang nâng cao giá trị, sản phẩm công nghệ cao và bán dẫn chiếm tỷ trọng chính trong cơ cấu xuất khẩu."
+    },
+    {
+      "title": "Lợi nhuận CTCK quý 3 giảm 30% QoQ, 43% YoY - mảng cho vay margin là điểm sáng duy nhất",
       "impact": "↓",
-      "note": "IMF dự báo lạm phát toàn cầu năm 2026 ở 4,7%; Mỹ 3,6%, Trung Quốc 1%, nhưng chiến tranh Mỹ-Iran và căng thẳng thương mại tiếp tục gây sức ép lên giá cả, có khả năng cản trở hồi phục kinh tế."
+      "note": "Lợi nhuận sau thuế 82 CTCK ở mức 8.600 tỷ đồng trong quý 3/2026, sụt giảm đáng kể từ mảng tự doanh và môi giới. Lãi từ cho vay margin gần 13 ngàn tỷ đồng, tuy nhiên chưa đủ bù đắp tổng suy giảm."
     },
     {
-      "title": "Đồng VND tăng giá mạnh, USD/VND giảm 1,87% từ đầu năm",
+      "title": "VND tăng giá mạnh (USD/VND -1,87% từ đầu năm), vào top 3 đồng tiền châu Á tăng giá nhất",
       "impact": "↑",
-      "note": "Tỷ giá USD/VND giảm 1,87% từ đầu năm đến 30/10/2026, đưa VND vào nhóm ba đồng tiền tăng giá mạnh nhất châu Á so với USD. Trên thị trường tự do, USD giảm 140-160 đồng trong ngày 2/11 xuống 26.000-26.050 đồng."
+      "note": "Bất chấp USD Index tăng 3,49%, VND vẫn tăng giá; chênh lệch giữa giá USD tự do và ngân hàng thu hẹp từ 220 đồng/USD còn 60 đồng/USD. Hỗ trợ doanh nghiệp xuất khẩu và ổn định tâm lý thị trường ngoại tệ."
     },
     {
-      "title": "Giá vàng SJC tăng 1 triệu đồng/lượng, neo tại 140 triệu đồng",
+      "title": "Giá vàng miếng SJC tăng 1 triệu đồng/lượng, neo tại 140 triệu đồng",
+      "impact": "→",
+      "note": "Giá vàng miếng SJC, vàng nhẫn đồng loạt tăng 1 triệu đồng/lượng so với phiên cuối tuần trước. Phản ánh lo ngại về lạm phát toàn cầu (IMF dự báo 4,7% năm 2026) giữa bối cảnh căng thẳng địa chính trị."
+    },
+    {
+      "title": "Chính phủ sửa Luật Đầu tư, khơi thông vốn để đạt mục tiêu tăng trưởng hai con số",
       "impact": "↑",
-      "note": "Giá vàng miếng SJC tăng 1 triệu đồng/lượng mỗi chiều mua-bán từ đầu phiên sáng 2/11, giá bán neo tại 140 triệu đồng/lượng; vàng nhẫn giá bán thấp hơn SJC từ 1-3 triệu đồng/lượng."
+      "note": "Bộ trưởng Bộ Tài chính nhấn mạnh hoàn thiện chính sách ưu đãi đầu tư đặc biệt gắn với kết quả đầu ra có thể lượng hóa, kiểm tra, giám sát. Nhu cầu vốn đầu tư rất lớn để hiện thực hóa mục tiêu tăng trưởng 10% năm 2027."
     }
   ]
 }
