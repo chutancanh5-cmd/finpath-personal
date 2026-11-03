@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam ghi nhận những điểm sáng với GDP tăng 9,01% và FDI đạt kỷ lục 54,85 tỷ USD (tăng 74%), phản ánh sự ổn định và hấp dẫn của môi trường đầu tư. Tuy nhiên, thị trường chứng khoán đối mặt áp lực đáng kể khi VN-Index mất mốc 1.700 điểm (phiên giảm thứ 4 liên tiếp) và khối ngoại tiếp tục bán ròng phiên thứ 8 liên tiếp với giá trị gần 600 tỷ đồng. Sự mất cân bằng giữa cơ sở kinh tế vĩ mô tốt nhưng áp lực bán từ nhà đầu tư nước ngoài cho thấy rủi ro ngắn hạn, trong khi lạm phát vẫn được kiểm soát ở mức 4,57%.",
+  "summary_vi": "Kinh tế vĩ mô ổn định với GDP 9 tháng tăng 9,01%, Standard Chartered nâng dự báo 2028 từ 6,7% lên 9,1%; lạm phát nằm trong mục tiêu 4,57%. Ngành dầu khí khởi sắc nhờ giá dầu neo cao (75-95 USD/thùng), Petrolimex ghi lãi gấp đôi. Tuy nhiên tâm lý thị trường yếu: VN-Index thủng 1.700 lần đầu, khối ngoại nối dài chuỗi bán ròng phiên 8 liên tiếp với ~600 tỷ đồng.",
   "top": [
     {
-      "title": "VN-Index mất mốc 1.700 điểm, khối ngoại nối dài bán ròng",
-      "impact": "↓",
-      "note": "VN-Index giảm 11,1 điểm (0,65%), đóng cửa dưới 1.700 điểm trong phiên 3/11, phiên giảm thứ 4 liên tiếp. Khối ngoại bán ròng gần 600 tỷ đồng trong phiên thứ 8 liên tiếp, với MBB bị bán ròng 260 tỷ đồng và VCB bị bán ròng 220 tỷ đồng. VIC giảm 3,31%, lấy đi hơn 12 điểm chỉ số."
-    },
-    {
-      "title": "FDI đạt kỷ lục 54,85 tỷ USD, cao nhất từ 2009",
+      "title": "GDP 9 tháng tăng 9,01%, Standard Chartered nâng dự báo",
       "impact": "↑",
-      "note": "Vốn FDI đăng ký vào Việt Nam trong 10 tháng năm 2026 đạt 54,85 tỷ USD, tăng 74% so với cùng kỳ, cao nhất kể từ năm 2009. Dòng vốn đăng ký mới đạt 30,7 tỷ USD từ gần 3.500 dự án cấp phép mới, tập trung chủ yếu vào công nghiệp chế biến, chế tạo 24,1 tỷ USD."
+      "note": "GDP 9 tháng năm 2026 tăng 9,01% so cùng kỳ; Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm), duy trì 9,5% năm 2026 và 11% năm 2027 nhờ chính sách tài khóa/tiền tệ, FDI mạnh mẽ, nhu cầu tiêu dùng/đầu tư gia tăng."
     },
     {
-      "title": "GDP 9 tháng tăng 9,01%, dẫn đầu ASEAN",
-      "impact": "↑",
-      "note": "GDP 9 tháng năm 2026 tăng 9,01% so với cùng kỳ, nhờ sự phục hồi của công nghiệp chế biến, chế tạo, dịch vụ và hoạt động xuất nhập khẩu. Lạm phát nằm trong ngưỡng mục tiêu, thu ngân sách vượt dự toán, nợ công duy trì trong phạm vi an toàn theo chuẩn mực quốc tế."
-    },
-    {
-      "title": "Khối ngoại và tự doanh cùng bán ròng 630 tỷ đồng",
+      "title": "VN-Index thủng 1.700, khối ngoại bán ròng phiên 8",
       "impact": "↓",
-      "note": "Phiên 3/11, khối ngoại bán ròng gần 600 tỷ đồng, tự doanh bán ròng nhẹ 30 tỷ đồng. MBB và VCB là hai mã bị bán ròng mạnh nhất lần lượt 260 tỷ và 220 tỷ đồng, VIC bị bán ròng 114 tỷ đồng. HPG được mua ròng gần 230 tỷ đồng."
+      "note": "VN-Index giảm 11,1 điểm (-0,65%), đóng cửa dưới 1.700 lần đầu, phiên giảm thứ 4 liên tiếp; khối ngoại bán ròng phiên 8 liên tiếp với giá trị ~600 tỷ đồng, MBB bán ròng 260 tỷ, VCB bán ròng 220 tỷ; VIC giảm 3,31% lấy đi hơn 12 điểm chỉ số."
     },
     {
       "title": "Petrolimex lãi gấp đôi, giá dầu neo cao",
       "impact": "↑",
-      "note": "Petrolimex (PLX) quý 3/2026 ghi nhận doanh thu tăng 66% lên 138,5 nghìn tỷ đồng, lãi ròng gấp đôi cùng kỳ. Giá dầu thế giới tăng từ 75 USD/thùng lên 95 USD/thùng trong quý, có lúc chạm 105 USD/thùng; biên lợi nhuận xăng dầu tăng 62%, sản lượng xuất bán tăng 18%."
+      "note": "Quý 3/2026, giá dầu thế giới tăng từ 75 lên 95 USD/thùng (có lúc 105 USD); Petrolimex báo doanh thu tăng 66% lên 138,5 nghìn tỷ đồng, lãi ròng gấp đôi cùng kỳ, lãi gộp tăng 62%; sản lượng xuất bán tăng 18%."
     },
     {
-      "title": "CPI mười tháng tăng 4,57%, kiểm soát lạm phát",
+      "title": "CPI 10 tháng tăng 4,57%, lạm phát nằm ngưỡng",
       "impact": "→",
-      "note": "Chỉ số giá tiêu dùng 10 tháng năm 2026 tăng 4,57% so với cùng kỳ, lạm phát cơ bản tăng 4,24%. CPI tháng 10 tăng 0,20% so với tháng trước, chủ yếu do giá xăng dầu trong nước điều chỉnh tăng theo giá nhiên liệu thế giới."
+      "note": "CPI 10 tháng 2026 tăng 4,57% so cùng kỳ năm trước; lạm phát cơ bản tăng 4,24%; tháng 10 CPI tăng 0,20% MoM nhưng 5,09% YoY chủ yếu do xăng dầu; nhóm giao thông tăng 6,98%, thực phẩm tăng 4,61%."
+    },
+    {
+      "title": "Khu công nghiệp VSIP Nghệ An 3 khởi công",
+      "impact": "↑",
+      "note": "Vốn đăng ký 52,5 triệu USD, diện tích 181,12 ha; hoàn thành 50,96% giải phóng mặt bằng, kinh phí bồi thường 154,71 tỷ đồng; dự kiến tạo cơ hội việc làm, thúc đẩy FDI tại miền Trung."
+    },
+    {
+      "title": "Cổ phiếu thép tăng 3-4%, thị trường phân hóa",
+      "impact": "→",
+      "note": "HPG, NKG, HSG, VGS tăng 3-4% trong phiên 3/11; cổ phiếu vốn hóa nhỏ bộc lộ sức mua tích cực; thanh khoản toàn thị trường 13,8 ngàn tỷ, giảm 30% so phiên trước do khối ngoại bán."
     }
   ]
 }
