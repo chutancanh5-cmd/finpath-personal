@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường vĩ mô hôm nay có tín hiệu hỗn hợp: FDI đạt mức kỷ lục 54,85 tỷ USD (cao nhất từ 2009, tăng 74%) cùng gói tín dụng ưu đãi từ ngân hàng (SACOMBANK 10.000 tỷ, 7,9%) hỗ trợ tăng trưởng GDP 2 con số. Tuy nhiên, lạm phát tiếp tục cao (10 tháng tăng 4,57%, giá nhiên liệu tăng 13,09%) và khối ngoại bán ròng 496 tỷ đồng (đặc biệt MBB, VCB) gây áp lực lên thị trường chứng khoán, với VN-Index mất mốc 1700 điểm. Nhà đầu tư chuyển sang tài sản an toàn (vàng tăng 1,6 triệu trong 2 phiên), phản ánh tâm lý thận trọng giữa những rủi ro lạm phát ngắn hạn.",
+  "summary_vi": "FDI đạt kỷ lục 54,85 tỷ USD (tăng 74%, cao nhất từ 2009) với dòng vốn mới vượt 30,7 tỷ USD, chủ yếu vào công nghiệp chế tạo. Tuy nhiên thị trường nội bộ yếu khi VN-Index giảm 11 điểm xuống 1.699 điểm và khối ngoại bán ròng 496 tỷ (bán mạnh MBB, VCB). Lạm phát 4,57% tăng áp lực, Chính phủ hỗ trợ tăng trưởng qua giảm lãi suất cho vay xuống 7,9%. Cơ hội vĩ mô lớn nhưng cần sự ổn định của thị trường chứng khoán.",
   "top": [
     {
-      "title": "FDI đạt kỷ lục 54,85 tỷ USD, tăng 74% so với cùng kỳ",
+      "title": "FDI đạt 54,85 tỷ USD, cao nhất 17 năm",
       "impact": "↑",
-      "note": "Vốn đầu tư trực tiếp nước ngoài đăng ký 10 tháng năm 2026 đạt 54,85 tỷ USD, mức cao nhất kể từ 2009. Dòng vốn mới tăng mạnh với 3.500 dự án cấp phép mới đạt 30,7 tỷ USD (tăng gấp đôi). Tập trung vào công nghiệp chế biến, chế tạo (24,1 tỷ USD) và bất động sản (7 tỷ USD)."
+      "note": "10 tháng 2026, FDI đăng ký đạt 54,85 tỷ USD (+74% so cùng kỳ 2025), cao nhất kể từ 2009. Cấp phép mới gần 3.500 dự án với 30,7 tỷ USD (gấp đôi so cùng kỳ), dòng vốn tập trung công nghiệp chế biến chế tạo (24,1 tỷ USD), bất động sản (7 tỷ USD), vận tải-kho bãi cũng thu hút lớn."
     },
     {
-      "title": "CPI 10 tháng tăng 4,57%, lạm phát cơ bản tăng 4,24%",
+      "title": "Khối ngoại bán ròng 496 tỷ, ngân hàng chịu áp lực",
       "impact": "↓",
-      "note": "Chỉ số giá tiêu dùng bình quân 10 tháng năm 2026 tăng 4,57% so với cùng kỳ năm 2025. Nhóm giá giao thông tăng 6,98% (nhiên liệu tăng 13,09%), nhóm nhà ở tăng 6,66%, nhóm hàng ăn tăng 4,61%, gây áp lực lạm phát không nhỏ."
+      "note": "Phiên 3/11, khối ngoại bán ròng 496 tỷ đồng toàn thị trường, bán mạnh MBB (-254 tỷ) và VCB (-219 tỷ), bán VIC (-114 tỷ). Chiều mua HPG (+227 tỷ), SHB (+125 tỷ), VHM (+119 tỷ), cho thấy xu hướng xả hàng ngân hàng để gom công nghiệp."
     },
     {
-      "title": "Khối ngoại bán ròng 496 tỷ đồng, ngành ngân hàng bị áp lực",
+      "title": "VN-Index giảm 11 điểm, thủng 1.700 điểm, cổ phiếu trụ suy yếu",
       "impact": "↓",
-      "note": "Giao dịch khối ngoại bán ròng khoảng 496 tỷ đồng cổ phiếu toàn thị trường phiên 3/11. Hai cổ phiếu ngân hàng bị bán mạnh: MBB bị bán 254 tỷ đồng, VCB bị bán 219 tỷ đồng. Khối ngoại chỉ mua mạnh HPG (227 tỷ), SHB (125 tỷ), VHM (119 tỷ), cho thấy sự rút vốn từ ngân hàng."
+      "note": "VN-Index đóng cửa 1.699 điểm (-11 điểm), thanh khoản HoSE gần 13.000 tỷ đồng. VIC giảm 3,31%, VHM giảm 1,59% chiều, riêng VIC khiến chỉ số mất hơn 12 điểm. BSR giảm 2,95%, GAS/ATC giảm 2,08%, tâm lý thị trường thận trọng, độ rộng cổ phiếu cân bằng nhưng các mã trụ yếu."
     },
     {
-      "title": "SACOMBANK triển khai gói vay 10.000 tỷ đồng lãi suất 7,9%/năm",
+      "title": "CPI 10 tháng tăng 4,57%, lạm phát cơ bản 4,24%",
+      "impact": "↓",
+      "note": "CPI tháng 10 tăng 0,20% tháng trước, tăng 5,09% so cùng kỳ năm trước. Bình quân 10 tháng 2026 tăng 4,57%; nhóm giao thông tăng 6,98% (nhiên liệu +13,09%), nhà ở/điện nước tăng 6,66%, ăn uống tăng 4,61%. Áp lực lạm phát cao hạn chế không gian giảm lãi suất."
+    },
+    {
+      "title": "SACOMBANK tung gói vay 7,9%/năm hỗ trợ FDI",
+      "impact": "→",
+      "note": "Gói tín dụng 10.000 tỷ đồng lãi 7,9%/năm (2/11-31/12/2026) dành doanh nghiệp mới hoạt động xuất nhập khẩu và FDI, tiếp nối gói 100.000 tỷ từ tháng 8. Biên lợi nhuận nhà băng chỉ 0,79%, hưởng ứng chỉ đạo Chính phủ tăng trưởng GDP 2 con số."
+    },
+    {
+      "title": "Khu công nghiệp VSIP Nghệ An 3 chuẩn bị khởi công 52,5 triệu USD",
       "impact": "↑",
-      "note": "SACOMBANK phát hành gói tín dụng ưu đãi quy mô 10.000 tỷ đồng với lãi suất 7,9%/năm dành cho khách hàng doanh nghiệp mới hoạt động trong lĩnh vực xuất nhập khẩu và FDI, áp dụng từ 2/11 đến 31/12/2026. Hưởng ứng mục tiêu tăng trưởng GDP 2 con số của Chính phủ."
-    },
-    {
-      "title": "VN-Index mất mốc 1700 điểm, cổ phiếu trụ suy yếu",
-      "impact": "↓",
-      "note": "VN-Index đóng cửa phiên 3/11 giảm 11 điểm tại 1.699 điểm. Cổ phiếu trụ yếu: VIC lao dốc giảm 3,31%, VHM giảm 0,16%, BSR giảm 2,95%, GAS giảm sâu. VN30-Index chỉ 14 mã xanh/11 mã đỏ. Thanh khoản trên HoSE đạt 13.000 tỷ đồng, thị trường phân hóa."
-    },
-    {
-      "title": "Giá vàng miếng SJC tăng 1,6 triệu đồng trong 2 phiên",
-      "impact": "↑",
-      "note": "Giá vàng miếng SJC tại các đơn vị kinh doanh tăng tổng cộng 1,6 triệu đồng/lượng trong 2 phiên 2-3/11, đạt 137,6-140,6 triệu đồng/lượng. Dòng tiền chuyển sang tài sản an toàn phản ánh tâm lý thận trọng của nhà đầu tư giữa áp lực lạm phát."
+      "note": "Dự án khu công nghiệp 181,12 ha, vốn 52,5 triệu USD tại Nghệ An sáng 3/11 kiểm tra chuẩn bị khởi công. Hoàn thành GPMB 50,96% (92,30 ha), phê duyệt bồi thường 87,76 ha với kinh phí 154,71 tỷ đồng, mở ra loạt cơ hội việc làm mới."
     }
   ]
 }
