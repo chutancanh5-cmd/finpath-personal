@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-03",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán quay lại chiều điều chỉnh với VN-Index giảm 1,77% và thanh khoản bất thường, phản ánh áp lực khi lợi nhuận CTCK suy giảm 30-43%. Tuy nhiên, nền kinh tế vĩ mô cho thấy điểm sáng: xuất nhập khẩu vượt 1.000 tỷ USD (tăng 32%), đồng VND tăng 1,87%, và Chính phủ tiếp tục đẩy các cải cách luật pháp. Sự phân hóa rõ rệt giữa tín hiệu vĩ mô tích cực và áp lực thị trường ngắn hạn đòi hỏi cần cân nhắc kỹ trong lựa chọn cổ phiếu.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán suy giảm mạnh với VN-Index giảm 1,77% xuống 1710,72 điểm, thanh khoản khối lượng HOSE giảm 10%, HNX giảm 30%, dòng tiền rút khỏi nhóm chứng khoán. Lợi nhuận 82 CTCK giảm 30% QoQ và 43% YoY xuống 8,6 ngàn tỷ đồng. Nền tảng vĩ mô vẫn có tín hiệu tích cực: xuất nhập khẩu vượt 1.000 tỷ USD (tăng 32%), VND tăng giá trong nhóm 3 mạnh châu Á, công nghiệp chế biến 87,4% cơ cấu xuất khẩu.",
   "top": [
     {
       "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, cơ cấu nâng cao",
@@ -30,9 +30,9 @@
       "note": "Tuần cuối tháng 10, nhóm chứng khoán bị rút tiền với APS giảm thanh khoản 63%, VPB, SHS, MBS giảm 30-55%, sàn HNX khối lượng giao dịch giảm 30%, giá trị giảm 26%."
     },
     {
-      "title": "Sửa Luật Đầu tư, mục tiêu tăng trưởng hai con số",
-      "impact": "↑",
-      "note": "Bộ trưởng Tài chính Ngô Văn Tuấn nhấn mạnh nhu cầu vốn đầu tư rất lớn để đạt mục tiêu tăng trưởng hai con số, hoàn thiện chính sách ưu đãi đầu tư gắn với kết quả đầu ra có thể lượng hóa."
+      "title": "14/28 cổ phiếu ngân hàng định giá dưới 15 nghìn đồng",
+      "impact": "↓",
+      "note": "Tính đến 2/11, 14 mã cổ phiếu ngân hàng giao dịch dưới 15 nghìn đồng/cổ phiếu, trong đó 3 mã thấp hơn mệnh giá 10 nghìn đồng (PCB 8.600 đồng, VAB 9.000 đồng, PGB 9.400 đồng), bất chấp nhiều ngân hàng báo lãi hàng ngàn tỷ đồng."
     }
   ]
 }
