@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế Việt Nam ghi nhận tín hiệu bứt phá với FDI kỷ lục 54,85 tỷ USD (tăng 74%, cao nhất 17 năm) chủ yếu từ ngành chế tạo (47,5%) và các chính sách hỗ trợ tín dụng 7,9%/năm. Tuy nhiên, thị trường chứng khoán tiếp tục gặp khó khăn với thanh khoản suy yếu (doanh thu môi giới giảm 58% YoY), lạm phát 4,57% tạo rủi ro chính sách tiền tệ, và cổ phiếu ngân hàng bị định giá thấp bất chấp lợi nhuận cao. Áp lực ngắn hạn từ thanh khoản chưa bù đắp được triển vọng dài hạn từ nhân tố kinh tế.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt những áp lực vĩ mô trái chiều. Vốn FDI đạt kỷ lục 54,85 tỷ USD (tăng 74% YoY) phản ánh sức hút kinh tế mạnh mẽ, nhưng lạm phát 4,57% với xăng dầu tăng 13,09% YoY tạo áp lực lên chính sách tiền tệ và lợi nhuận doanh nghiệp. Thanh khoản thị trường suy giảm mạnh (doanh thu môi giới giảm 58%), trong khi cổ phiếu ngân hàng định giá thấp lịch sử bất chấp lợi nhuận cao, phản ánh tâm lý bi quan của nhà đầu tư giữa lãi suất cao.",
   "top": [
     {
-      "title": "FDI kỷ lục 54,85 tỷ USD, cao nhất 17 năm",
+      "title": "FDI đạt kỷ lục 54,85 tỷ USD trong 10 tháng",
       "impact": "↑",
-      "note": "Vốn đầu tư trực tiếp nước ngoài 10 tháng 2026 đăng ký 54,85 tỷ USD, tăng 74% YoY, cao nhất từ năm 2009 đến nay. Vốn cấp mới 30,73 tỷ USD gấp 2,2 lần YoY; ngành chế biến chế tạo dẫn đầu 14,61 tỷ USD (47,5%), vận tải kho bãi 5,15 tỷ USD (16,7%). Singapore là nhà đầu tư lớn nhất 9,52 tỷ USD (31%), tiếp Hàn Quốc 5,81 tỷ USD (18,9%)."
+      "note": "Vốn FDI đăng ký 10 tháng 2026 đạt 54,85 tỷ USD, tăng 74% YoY, cao nhất kể từ năm 2009. Dự án cấp mới 3.478 với vốn 30,73 tỷ USD (gấp 2,2 lần YoY); ngành chế biến chế tạo dẫn đầu 14,61 tỷ USD (47,5%), vận tải kho bãi 5,15 tỷ USD (16,7%). Singapore nhà đầu tư lớn nhất 9,52 tỷ USD (31%), Hàn Quốc 5,81 tỷ USD (18,9%)."
     },
     {
-      "title": "Doanh thu môi giới chứng khoán giảm 58% YoY",
+      "title": "CPI 10 tháng 4,57%, xăng dầu tăng 13,09% YoY",
       "impact": "↓",
-      "note": "Quý 3/2026, doanh thu môi giới công ty chứng khoán đạt 2,985 tỷ đồng, giảm 58% so với Q3/2025 và 19% QoQ; lãi gộp bốc hơi 93%. Giá trị giao dịch bình quân HOSE-HNX chỉ 18,1 nghìn tỷ đồng/phiên, giảm 58% YoY. Hai phần ba công ty chứng khoán chịu lỗ gộp môi giới, phản ánh thanh khoản suy yếu từ lãi suất cao và cuộc đua không phí."
+      "note": "CPI bình quân 10 tháng 2026 tăng 4,57%, lạm phát cơ bản 4,24%. Nhóm giao thông tăng 6,98% do xăng dầu tăng 13,09% YoY; nhóm nhà ở tăng 6,66%, thực phẩm tăng 4,61%. Áp lực lạm phát từ nhiên liệu có thể ép NHNN duy trì chính sách tiền tệ chặt chẽ, ảnh hưởng lợi nhuận doanh nghiệp."
     },
     {
-      "title": "CPI 10 tháng tăng 4,57%, lạm phát cơ bản 4,24%",
+      "title": "Doanh thu môi giới giảm 58%, lãi gộp giảm 93%",
       "impact": "↓",
-      "note": "CPI bình quân 10 tháng 2026 tăng 4,57% so với cùng kỳ 2025; lạm phát cơ bản tăng 4,24%. Nhóm giao thông tăng 6,98% (nhiên liệu +13,09%), nhóm nhà ở tăng 6,66%, nhóm ăn uống tăng 4,61%. CPI tháng 10 tăng 0,20% chủ yếu từ xăng tăng 6,86% theo giá thế giới."
+      "note": "Doanh thu môi giới 81 công ty chứng khoán Q3 2026 đạt 2,985 tỷ đồng, giảm 58% YoY và 19% QoQ; lãi gộp giảm 93% tương ứng. Giá trị giao dịch bình quân 18,1 nghìn tỷ đồng/phiên giảm 58% YoY. 2/3 công ty ghi lỗ gộp môi giới, phản ánh suy giảm thanh khoản do lãi suất cao."
     },
     {
-      "title": "SACOMBANK triển khai gói tín dụng 10.000 tỷ đồng lãi suất 7,9%",
+      "title": "14/28 cổ phiếu ngân hàng dưới 15.000 đ/cổ phiếu",
+      "impact": "↓",
+      "note": "Chốt phiên 2/11, có 14/28 mã ngân hàng dưới 15.000 đ, trong đó PCB 8.600 đ, VAB 9.000 đ, PGB 9.400 đ thấp hơn mệnh giá 10.000 đ. Hiện tượng định giá thấp xuất hiện dù nhiều ngân hàng lợi nhuận hàng nghìn tỷ/quý, phản ánh lo ngại nhà đầu tư về vòng lãi suất cao kéo dài."
+    },
+    {
+      "title": "SACOMBANK gói 10.000 tỷ lãi suất 7,9%/năm",
       "impact": "↑",
-      "note": "Từ 2/11/2026, SACOMBANK triển khai gói tín dụng ưu đãi 10.000 tỷ đồng lãi suất 7,9%/năm đến 31/12/2026 cho doanh nghiệp mới hoạt động xuất nhập khẩu và FDI. Hưởng ứng chỉ đạo Chính phủ-NHNN hỗ trợ tăng trưởng 2 con số; xuất nhập khẩu 10 tháng đạt 1.010,6 tỷ USD (tăng 32,3%), vốn FDI đến 30/9 đạt 21,07 tỷ USD."
+      "note": "SACOMBANK triển khai gói tín dụng 10.000 tỷ đồng lãi suất 7,9%/năm (02/11-31/12/2026) cho doanh nghiệp xuất nhập khẩu và FDI. Bối cảnh: xuất nhập khẩu 10 tháng 1.010,6 tỷ USD (tăng 32,3%), FDI đến 30/9 đạt 21,07 tỷ USD (cao nhất 9 tháng trong 5 năm). Chính sách tiền tệ hỗ trợ sản xuất kinh doanh giữa áp lực lạm phát."
     },
     {
-      "title": "Cổ phiếu ngân hàng định giá thấp bất chấp lợi nhuận cao",
-      "impact": "↓",
-      "note": "Có 14/28 cổ phiếu ngân hàng giao dịch dưới 15.000 đồng/cổ phiếu, trong đó 3 mã PCB (8.600 đồng), VAB (9.000 đồng), PGB (9.400 đồng) thấp hơn mệnh giá 10.000 đồng. Tình trạng xảy ra ngay cả khi nhiều ngân hàng ghi nhận lợi nhuận lớn 9 tháng đầu năm, phản ánh lo ngại nhà đầu tư về vòng lợi suất tiền gửi cao."
-    },
-    {
-      "title": "VPBank chính thức đạt vốn điều lệ 100.000 tỷ đồng",
+      "title": "Trung Quốc kích hoạt công cụ giải cứu chứng khoán",
       "impact": "→",
-      "note": "Từ 3/11/2026, hơn 2,066 tỷ cổ phiếu VPB (tỷ lệ trả cổ tức 26,04%) chính thức giao dịch bổ sung, nâng tổng cổ phiếu niêm yết lên 10 tỷ đơn vị, tương ứng vốn điều lệ 100.000 tỷ đồng. VPBank trở thành ngân hàng thứ hai đạt mốc này sau MB, nhóm ngân hàng có quy mô vốn lớn nhất hệ thống."
+      "note": "PBOC khôi phục công cụ hoán đổi SFISF trong cuộc họp 2/11 với 23 công ty chứng khoán, 26 ngân hàng. CSI 300 tăng 0,8% rồi mất lãi, Star 50 tăng 3% ngay sau đó giảm 3%. Rủi ro: nếu biện pháp không hiệu quả, áp lực khu vực có thể lan sang Việt Nam; cơ hội nếu Trung Quốc ổn định được tâm lý thị trường."
     }
   ]
 }
