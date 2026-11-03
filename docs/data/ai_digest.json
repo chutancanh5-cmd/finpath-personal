@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Vĩ mô tích cực với GDP 9 tháng tăng 9,01% và dự báo 11% năm 2027 hỗ trợ bởi FDI mạnh; tuy nhiên thị trường ngắn hạn suy yếu khi VN-Index mất mốc 1700 do khối ngoại bán ròng 630 tỷ và cổ phiếu trụ giảm mạnh. Lạm phát kiểm soát 4,57% cho phép chính sách tiền tệ hỗ trợ tăng trưởng. Cơ hội hồi phục sẽ rõ hơn khi chỉ số tìm được cân bằng tại vùng 1680-1690.",
+  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng mạnh với GDP 9 tháng tăng 9,01% và dự báo 11% năm 2027 hỗ trợ bởi FDI mạnh cùng làn sóng IPO quay trở lại (hơn 21.000 tỷ đồng). Tuy nhiên, thị trường chứng khoán chịu áp lực lớn từ khối ngoại bán ròng liên tục (gần 30.000 tỷ kể từ nâng hạng), VN-Index vừa thủng mốc 1700 với thanh khoản cực thấp. Lạm phát tăng 4,57% 10 tháng và giá dầu neo cao 95 USD/thùng tạo rủi ro, dù hỗ trợ doanh nghiệp năng lượng.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01% - xác nhận tăng trưởng hai chữ số",
-      "impact": "↑",
-      "note": "GDP 9 tháng đầu 2026 tăng 9,01% so với cùng kỳ 2025, được thúc đẩy bởi sản xuất chế biến-chế tạo, dịch vụ và xuất-nhập khẩu, với lạm phát kiểm soát và nợ công duy trì trong phạm vi an toàn theo chuẩn mực quốc tế."
-    },
-    {
-      "title": "Standard Chartered duy trì dự báo GDP 11% năm 2027",
-      "impact": "↑",
-      "note": "Standard Chartered dự báo GDP Việt Nam 9,5% năm 2026 và 11% năm 2027, nâng forecast 2028 từ 6,7% lên 9,1% (tăng 2,4%), hỗ trợ bởi chính sách tài khóa-tiền tệ, dòng vốn FDI mạnh và nhu cầu tiêu dùng, đầu tư gia tăng."
-    },
-    {
-      "title": "VN-Index thủng mốc tâm lý 1700, thanh khoản sụt 30%",
+      "title": "Khối ngoại bán ròng 30.000 tỷ kể từ nâng hạng ngày 21/9",
       "impact": "↓",
-      "note": "VN-Index giảm 11 điểm xuống 1699,62 điểm mất mốc 1700, thanh khoản sụt dưới mức trung bình 20 phiên, chỉ báo kỹ thuật RSI suy yếu, MACD giao cắt xuống phản ánh động lượng giảm chiếm ưu thế."
+      "note": "Trong 1 tháng rưỡi kể từ 21/9 (khi FTSE Russell nâng hạng), khối ngoại bán ròng gần 30.000 tỷ đồng, bằng 1/4 tổng giá trị bán ròng từ đầu năm (121.000 tỷ đồng, gần kỷ lục 125.000 tỷ năm ngoái). Chỉ 3/32 phiên không có xả hàng trên HoSE."
     },
     {
-      "title": "Khối ngoại bán ròng 630 tỷ đồng phiên 3/11",
+      "title": "VN-Index thủng 1700, thanh khoản sụt 30% và 45%",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 600 tỷ đồng chủ yếu vào MBB (-260 tỷ) và VCB (-220 tỷ), tổng dòng bán ròng vượt 630 tỷ, phản ánh tâm lý thận trọng và áp lực bán từ nhà đầu tư quốc tế."
+      "note": "VN-Index giảm hơn 11 điểm xuống 1699,62 điểm, thanh khoản HOSE sụt giảm 30% so với phiên trước, HNX giảm 45%. Kỹ thuật xấu: RSI hình thành đỉnh sau thấp, MACD giao cắt xuống, histogram đảo chiều âm."
     },
     {
-      "title": "Petrolimex lãi ròng gấp đôi Q3 nhờ giá dầu neo cao",
+      "title": "GDP 9 tháng tăng 9,01%, dự báo 11% năm 2027",
       "impact": "↑",
-      "note": "Petrolimex báo lãi ròng Q3 gấp đôi cùng kỳ, doanh thu tăng 66% lên 138,5 ngàn tỷ đồng, lãi gộp tăng 62%, nhờ giá dầu thế giới tăng từ 75 USD lên 95 USD/thùng và sản lượng xuất bán tăng 18%."
+      "note": "GDP 9 tháng đầu 2026 tăng 9,01% so với cùng kỳ, Standard Chartered dự báo 9,5% năm 2026 và 11% năm 2027, nâng 2028 từ 6,7% lên 9,1% (+2,4 điểm), hỗ trợ bởi chính sách tài khóa-tiền tệ, FDI, tiêu dùng và đầu tư trong nước."
     },
     {
-      "title": "VIC, VHM giảm mạnh ép chỉ số xuống dưới 1700",
-      "impact": "↓",
-      "note": "VIC giảm 3,31%, VHM giảm 1,59% phiên chiều, VIC riêng tác động hơn 12 điểm lên chỉ số, thanh khoản HOSE sụt giảm 30% so với phiên trước, phản ánh thiếu hỗ trợ từ cổ phiếu vốn hóa lớn."
+      "title": "CPI 10 tháng tăng 4,57%, lạm phát cơ bản 4,24%",
+      "impact": "→",
+      "note": "CPI tháng 10 tăng 0,20% so với tháng trước, tăng 5,09% so với cùng kỳ 2025. Bình quân 10 tháng CPI tăng 4,57%; nhóm giao thông tăng 6,98% (nhiên liệu tăng 13,09%), nhóm nhà ở tăng 6,66%."
+    },
+    {
+      "title": "IPO hơn 21.000 tỷ từ 6 thương vụ trong năm 2026",
+      "impact": "↑",
+      "note": "Năm 2026 có 6 thương vụ IPO gồm DMX (13.300 tỷ), HPA, LPS, HGI, F88, DVV huy động tổng cộng hơn 21.000 tỷ đồng, đa dạng từ bán lẻ, nông nghiệp, tài chính, hạ tầng, phản ánh sự tự tin của thị trường."
+    },
+    {
+      "title": "Giá dầu 95 USD/thùng, Petrolimex lãi gấp đôi Q3",
+      "impact": "↑",
+      "note": "Giá dầu thế giới tăng từ 75 USD/thùng lên 95 USD/thùng (tăng 27%), Petrolimex lãi ròng Q3 gấp đôi cùng kỳ với doanh thu tăng 66% lên 138,5 nghìn tỷ đồng, lãi gộp tăng 62%, sản lượng xuất bán tăng 18%."
     }
   ]
 }
