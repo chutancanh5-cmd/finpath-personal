@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Kinh tế vĩ mô ổn định với GDP 9 tháng tăng 9,01%, Standard Chartered nâng dự báo 2028 từ 6,7% lên 9,1%; lạm phát nằm trong mục tiêu 4,57%. Ngành dầu khí khởi sắc nhờ giá dầu neo cao (75-95 USD/thùng), Petrolimex ghi lãi gấp đôi. Tuy nhiên tâm lý thị trường yếu: VN-Index thủng 1.700 lần đầu, khối ngoại nối dài chuỗi bán ròng phiên 8 liên tiếp với ~600 tỷ đồng.",
+  "summary_vi": "Kinh tế Việt Nam tiếp tục phát triển khỏe khi GDP 9 tháng tăng 9,01% và triển vọng 9,5% năm 2026 cùng 11% năm 2027 theo Standard Chartered; lạm phát kiểm soát tốt ở 4,57%, dòng vốn FDI bền vững. Tuy vậy, thị trường chứng khoán điều chỉnh mạnh khi VN-Index mất mốc 1.700 điểm, khối ngoại liên tục bán ròng 630 tỷ đồng, cần theo dõi kỹ để phân biệt điều chỉnh lành tính hay cảnh báo rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "GDP 9 tháng tăng 9,01%, Standard Chartered nâng dự báo",
+      "title": "GDP dự báo 9,5% năm 2026 và 11% năm 2027",
       "impact": "↑",
-      "note": "GDP 9 tháng năm 2026 tăng 9,01% so cùng kỳ; Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm), duy trì 9,5% năm 2026 và 11% năm 2027 nhờ chính sách tài khóa/tiền tệ, FDI mạnh mẽ, nhu cầu tiêu dùng/đầu tư gia tăng."
+      "note": "Standard Chartered duy trì dự báo GDP Việt Nam 9,5% năm 2026 và nâng 11% năm 2027, điều chỉnh tăng thêm 2,4 điểm phần trăm cho năm 2028 (từ 6,7% lên 9,1%); được hỗ trợ bởi chính sách tài khóa, tiền tệ, FDI và nhu cầu tiêu dùng, đầu tư trong nước."
     },
     {
-      "title": "VN-Index thủng 1.700, khối ngoại bán ròng phiên 8",
+      "title": "Khối ngoại bán ròng 630 tỷ đồng, MBB VCB bị bán mạnh",
       "impact": "↓",
-      "note": "VN-Index giảm 11,1 điểm (-0,65%), đóng cửa dưới 1.700 lần đầu, phiên giảm thứ 4 liên tiếp; khối ngoại bán ròng phiên 8 liên tiếp với giá trị ~600 tỷ đồng, MBB bán ròng 260 tỷ, VCB bán ròng 220 tỷ; VIC giảm 3,31% lấy đi hơn 12 điểm chỉ số."
+      "note": "Phiên 03/11, khối ngoại bán ròng gần 600 tỷ đồng: MBB bị bán 260 tỷ đồng, VCB 220 tỷ đồng, VIC 114 tỷ đồng; tự doanh cũng bán nhẹ 30 tỷ đồng, là phiên bán ròng thứ 8 liên tiếp của khối ngoại."
     },
     {
-      "title": "Petrolimex lãi gấp đôi, giá dầu neo cao",
+      "title": "VN-Index mất mốc 1.700 điểm, phiên giảm thứ 4 liên tiếp",
+      "impact": "↓",
+      "note": "VN-Index giảm 11,1 điểm (-0,65%), lần đầu tiên đóng cửa dưới mốc tâm lý 1.700 điểm; áp lực chủ yếu từ VIC giảm 3,31% (mất 12 điểm chỉ số) và nhóm dầu khí, thanh khoản sụt giảm 30% tại HOSE."
+    },
+    {
+      "title": "Petrolimex lãi quý 3 gấp đôi cùng kỳ nhờ giá dầu cao",
       "impact": "↑",
-      "note": "Quý 3/2026, giá dầu thế giới tăng từ 75 lên 95 USD/thùng (có lúc 105 USD); Petrolimex báo doanh thu tăng 66% lên 138,5 nghìn tỷ đồng, lãi ròng gấp đôi cùng kỳ, lãi gộp tăng 62%; sản lượng xuất bán tăng 18%."
+      "note": "Giá dầu thô tăng từ bình quân 75 USD/thùng lên 95 USD/thùng (tăng 27%, có lúc 105 USD); PLX lãi ròng quý 3 gấp đôi cùng kỳ, doanh thu quý 3 tăng 66% lên 138,5 nghìn tỷ đồng, sản lượng xuất bán tăng 18%."
     },
     {
-      "title": "CPI 10 tháng tăng 4,57%, lạm phát nằm ngưỡng",
-      "impact": "→",
-      "note": "CPI 10 tháng 2026 tăng 4,57% so cùng kỳ năm trước; lạm phát cơ bản tăng 4,24%; tháng 10 CPI tăng 0,20% MoM nhưng 5,09% YoY chủ yếu do xăng dầu; nhóm giao thông tăng 6,98%, thực phẩm tăng 4,61%."
-    },
-    {
-      "title": "Khu công nghiệp VSIP Nghệ An 3 khởi công",
+      "title": "GDP 9 tháng 9,01%, chuyển từ thu hút vốn sang kiến tạo hệ sinh thái",
       "impact": "↑",
-      "note": "Vốn đăng ký 52,5 triệu USD, diện tích 181,12 ha; hoàn thành 50,96% giải phóng mặt bằng, kinh phí bồi thường 154,71 tỷ đồng; dự kiến tạo cơ hội việc làm, thúc đẩy FDI tại miền Trung."
+      "note": "GDP 9 tháng 2026 tăng 9,01% so cùng kỳ nhờ phục hồi ngành công nghiệp chế biến chế tạo, dịch vụ; lạm phát kiểm soát tốt ở 4,57%, nợ công ở nhóm thấp thế giới; các chỉ số kinh tế vĩ mô khác được giữ vững."
     },
     {
-      "title": "Cổ phiếu thép tăng 3-4%, thị trường phân hóa",
-      "impact": "→",
-      "note": "HPG, NKG, HSG, VGS tăng 3-4% trong phiên 3/11; cổ phiếu vốn hóa nhỏ bộc lộ sức mua tích cực; thanh khoản toàn thị trường 13,8 ngàn tỷ, giảm 30% so phiên trước do khối ngoại bán."
+      "title": "Khu công nghiệp VSIP Nghệ An 3 chuẩn bị khởi công, vốn 52,5 triệu USD",
+      "impact": "↑",
+      "note": "Dự án khu công nghiệp VSIP Nghệ An 3 vốn đăng ký 52,5 triệu USD, quy mô 181,12 ha, chuẩn bị khởi công; đã hoàn thành giải phóng mặt bằng 92,30 ha (50,96%), mở ra cơ hội việc làm mới và thu hút FDI tiếp tục tại miền Trung."
     }
   ]
 }
