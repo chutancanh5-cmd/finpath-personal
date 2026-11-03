@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-03",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam ghi nhận tín hiệu khả quan: xuất nhập khẩu lần đầu vượt 1.000 tỷ USD (tăng 32,3%), công nghiệp chế biến chế tạo/công nghệ cao chiếm 87,4%; Chính phủ hỗ trợ qua Luật Đầu tư và lãi suất 7,9% cho doanh nghiệp. Đồng VND tăng giá mạnh bất chấp áp lực USD toàn cầu; dự án hạ tầng PPP (~8 tỷ USD) tiến độ tốt. Tuy nhiên, thị trường chứng khoán chịu áp lực: lợi nhuận CTCK giảm 30-43%, đồng thời chứng khoán Mỹ (Nasdaq, S&P 500) ghi nhận điều chỉnh do bán tháo cổ phiếu công nghệ/AI.",
+  "summary_vi": "Xuất nhập khẩu Việt Nam vượt lần đầu mốc 1.000 tỷ USD với tăng 32,3%, vốn FDI 21,07 tỷ USD là cao nhất 5 năm; cơ cấu chuyển sang công nghệ cao (87,4% chế biến chế tạo). Chính phủ sửa Luật Đầu tư khơi thông vốn, các ngân hàng hỗ trợ lãi suất 7,9% cho XNK-FDI, VND tăng 1,87% so đầu năm. Tuy nhóm chứng khoán suy giảm 30% lãi QoQ do áp lực từ bán tháo AI ở Mỹ, nhưng động lực vĩ mô tích cực vẫn chiếm ưu thế cho tăng trưởng 2 con số.",
   "top": [
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, tăng 32,3%",
       "impact": "↑",
-      "note": "10 tháng 2026 tổng kim ngạch xuất nhập khẩu đạt 1.010,6 tỷ USD, tăng 32,3% so cùng kỳ; vốn FDI đến 30/09 là 21,07 tỷ USD (cao nhất 9 tháng trong 5 năm). Công nghiệp chế biến chế tạo chiếm 87,4%, bán dẫn/điện tử/công nghệ cao thay thế dầu thô, tạo hiệu ứng lan tỏa chuỗi cung ứng"
+      "note": "10 tháng 2026, XNK đạt 1.010,6 tỷ USD (+32,3% so cùng kỳ), chế biến chế tạo 87,4%; bán dẫn, điện tử, công nghệ cao thay thế sản phẩm thô, nâng chất lượng xuất khẩu"
     },
     {
-      "title": "SACOMBANK triển khai gói tín dụng ưu đãi 10.000 tỷ đồng",
+      "title": "Vốn FDI đạt 21,07 tỷ USD, cao nhất 9 tháng trong 5 năm",
       "impact": "↑",
-      "note": "Ngày 02/11, gói tín dụng 10.000 tỷ đồng cho doanh nghiệp mới, xuất nhập khẩu, FDI với lãi suất 7,9%/năm từ 02/11-31/12/2026, hỗ trợ tăng trưởng 2 con số, tối ưu chi phí vốn và mở rộng kinh doanh"
+      "note": "Vốn FDI đến 30/9/2026 là 21,07 tỷ USD, tạo hiệu ứng lan tỏa tới chuỗi cung ứng, sản xuất, lắp ráp và logistics, thúc đẩy tăng trưởng GDP"
     },
     {
-      "title": "Luật Đầu tư sửa đổi, hoàn thiện ưu đãi khơi thông nguồn lực",
+      "title": "Sửa Luật Đầu tư hoàn thiện chính sách ưu đãi",
       "impact": "↑",
-      "note": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn nhấn mạnh hoàn thiện chính sách ưu đãi đầu tư đặc biệt gắn kết quả đầu ra lượng hóa, quy định cơ chế chấm dứt nếu không thực hiện cam kết, để đạt mục tiêu tăng trưởng 2 con số với nhu cầu vốn rất lớn"
+      "note": "Bộ trưởng Ngô Văn Tuấn nhấn mạnh nhu cầu vốn đầu tư rất lớn; chính sách gắn với kết quả đầu ra có thể lượng hóa, quy định rõ cơ chế thu hồi ưu đãi"
     },
     {
-      "title": "VND vào nhóm 3 đồng tăng giá mạnh nhất châu Á vs USD",
+      "title": "VND tăng 1,87% so đầu năm, top 3 châu Á",
       "impact": "↑",
-      "note": "Tỷ giá USD/VND giảm 1,87% từ đầu năm (30/10), VND vào nhóm 3 đồng tăng giá mạnh nhất châu Á; tỷ giá liên ngân hàng 25.802 đồng, chênh lệch thị trường tự do/ngân hàng thu hẹp 60 đồng/USD, bất chấp DXY tăng 3,49% và áp lực nhập siêu"
+      "note": "USD/VND giảm 1,87% từ đầu năm đến 30/10; giá ngân hàng giảm 1,5%, tự do giảm 2,87%; chênh lệch tự do-ngân hàng thu hẹp 60 đồng, bất chấp DXY +3,49%"
     },
     {
-      "title": "Dự án sân bay PPP (~8 tỷ USD) đạt tiến độ giải phóng mặt bằng",
+      "title": "SACOMBANK cho vay 10.000 tỷ đồng lãi 7,9%",
       "impact": "↑",
-      "note": "Tuyến kết nối sân bay Gia Bình-Hà Nội (dự án PPP, loại BT, từ Km9 đến Km27+766 qua Bắc Ninh): GPMB 99% (402,4 ha), bàn giao 97%, di chuyển mộ 100% (2.899 ngôi), chi trả bồi thường/hỗ trợ 3.767 tỷ đồng"
+      "note": "Gói tín dụng từ 02/11-31/12/2026 dành doanh nghiệp XNK và FDI, lãi suất hỗ trợ 7,9%/năm; hỗ trợ tận dụng cơ hội cuối năm khi XNK tăng trưởng mạnh"
     },
     {
-      "title": "Lợi nhuận CTCK giảm 30-43%, rủi ro thị trường chứng khoán",
+      "title": "CTCK lãi Q3 giảm 30% QoQ, margin chỉ điểm sáng",
       "impact": "↓",
-      "note": "82 công ty chứng khoán quý 3/2026 lãi 8.600 tỷ đồng, giảm 30% vs Q2 (12.200 tỷ), giảm 43% vs cùng kỳ Q3/2025; tự doanh/môi giới sụt giảm đáng kể, cho vay margin lập đỉnh 13 ngàn tỷ đồng nhưng chưa bù đắp"
+      "note": "82 công ty chứng khoán lãi 8,6 ngàn tỷ Q3/2026, giảm 30% so Q2 và 43% YoY do tự doanh-môi giới sụt; lãi cho vay margin đạt 13 ngàn tỷ, duy nhất tăng"
     }
   ]
 }
