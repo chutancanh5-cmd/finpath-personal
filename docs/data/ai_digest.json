@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam duy trì tăng trưởng mạnh 9.01% trong 9 tháng đầu năm, với dự báo lạc quan từ Standard Chartered: 11% năm 2027 và nâng 2028 từ 6,7% lên 9,1%. Giá dầu thế giới neo cao (95 USD/thùng) hỗ trợ lợi nhuận doanh nghiệp năng lượng. Tuy nhiên khối ngoại bán ròng 600 tỷ đồng, đặc biệt các cổ phiếu ngân hàng, tạo áp lực bán ngắn hạn trên thị trường.",
+  "summary_vi": "Kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP 9 tháng đạt 9,01% và triển vọng lên 11% năm 2027 theo Standard Chartered. Lãi suất vay được giảm 0,5-1,5 điểm phần trăm, hỗ trợ doanh nghiệp tái đầu tư. Giá dầu neo cao 95 USD/thùng giúp Petrolimex lãi gấp đôi, sản lượng tăng 18%. Đầu tư nước ngoài vẫn chảy vào với khu công nghiệp VSIP Nghệ An 3 khởi công. Tuy nhiên khối ngoại bán ròng gần 630 tỷ đồng, đặc biệt tại các cổ phiếu ngân hàng, tạo áp lực điều chỉnh ngắn hạn.",
   "top": [
     {
-      "title": "Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1%",
+      "title": "Standard Chartered nâng dự báo GDP 2028 lên 9,1%",
       "impact": "↑",
-      "note": "Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm), duy trì GDP 2027 ở 11%. Triển vọng tích cực được hỗ trợ bởi chính sách tài khóa, tiền tệ, dòng vốn FDI mạnh mẽ và nhu cầu tiêu dùng, đầu tư trong nước gia tăng."
+      "note": "Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm), duy trì GDP 2027 ở 11%. Triển vọng được hỗ trợ bởi chính sách tài khóa, tiền tệ, dòng FDI mạnh mẽ và nhu cầu tiêu dùng, đầu tư trong nước gia tăng."
     },
     {
-      "title": "GDP 9 tháng 2026 tăng 9.01%, nhóm dẫn đầu ASEAN",
+      "title": "GDP 9 tháng 2026 tăng 9,01%, dẫn đầu ASEAN",
       "impact": "↑",
-      "note": "GDP 9 tháng đầu năm 2026 ghi nhận tăng 9.01% so với cùng kỳ, nhờ phục hồi mạnh ngành công nghiệp chế biến, chế tạo, dịch vụ và xuất nhập khẩu. Kết quả này tạo đà cho mục tiêu tăng trưởng hai chữ số giai đoạn 2026-2030."
+      "note": "GDP 9 tháng đầu năm 2026 tăng 9,01% so với cùng kỳ, nhờ phục hồi mạnh ngành công nghiệp chế biến, chế tạo, dịch vụ và xuất nhập khẩu. Lạm phát kiểm soát, thu ngân sách vượt dự toán, nợ công an toàn."
     },
     {
-      "title": "Giá dầu từ 75 USD tăng lên 95 USD/thùng, Petrolimex lãi gấp đôi",
+      "title": "Doanh nghiệp được giảm lãi suất 0,5-1,5 điểm phần trăm",
       "impact": "↑",
-      "note": "Giá dầu thô thế giới trong quý 3 từ bình quân 75 USD/thùng tăng 27% lên 95 USD/thùng, thậm chí chạm 105 USD/thùng. Petrolimex ghi nhận doanh thu quý 3 tăng 66%, lợi nhuận gộp tăng 62%, lãi ròng gấp đôi cùng kỳ."
+      "note": "Ít nhất 2 ngân hàng giảm lãi suất cho cả vay mới lẫn dư nợ hiện hành. Doanh nghiệp tiết kiệm hàng trăm triệu đồng mỗi tháng, hỗ trợ tái đầu tư và cải thiện chế độ người lao động cuối năm Tết."
     },
     {
-      "title": "Khối ngoại bán ròng 600 tỷ đồng, bán mạnh MBB và VCB",
+      "title": "Giá dầu tăng từ 75 lên 95 USD/thùng, Petrolimex lãi gấp đôi",
+      "impact": "↑",
+      "note": "Giá dầu thô tăng 27% từ bình quân 75 USD lên 95 USD/thùng quý 3 (cao nhất 105 USD/thùng). Petrolimex ghi nhận doanh thu tăng 66% lên 138,5 ngàn tỷ đồng, lãi gộp tăng 62% lên 7,3 ngàn tỷ đồng, lãi ròng gấp đôi."
+    },
+    {
+      "title": "Khối ngoại bán ròng 630 tỷ đồng, bán mạnh MBB, VCB",
       "impact": "↓",
-      "note": "Phiên 03/11, khối ngoại bán ròng gần 600 tỷ đồng, trong đó MBB bị bán ròng 260 tỷ đồng, VCB bị bán ròng 220 tỷ đồng. Tự doanh bán ròng nhẹ 30 tỷ đồng, tổng áp lực bán đạt hơn 630 tỷ đồng."
+      "note": "Phiên 03/11, khối ngoại bán ròng gần 630 tỷ đồng, trong đó MBB bị bán ròng 260 tỷ đồng, VCB bị bán ròng 220 tỷ đồng. Tạo áp lực bán mạnh trên nhóm cổ phiếu ngân hàng và thị trường chứng khoán chung."
     },
     {
       "title": "Khu công nghiệp VSIP Nghệ An 3 khởi công, 52,5 triệu USD",
       "impact": "↑",
-      "note": "Dự án khu công nghiệp VSIP Nghệ An 3 có vốn đăng ký 52,5 triệu USD, diện tích 181,12 ha. Đã hoàn thành 50,96% giải phóng mặt bằng với kinh phí 154,71 tỷ đồng, tạo cơ hội việc làm mới và hỗ trợ tăng trưởng khu vực."
-    },
-    {
-      "title": "CPI 10 tháng tăng 4.57%, lạm phát cơ bản 4.24%",
-      "impact": "→",
-      "note": "CPI bình quân 10 tháng 2026 tăng 4.57% so với cùng kỳ, lạm phát cơ bản 4.24%. Tháng 10 CPI tăng 0,20% so với tháng trước chủ yếu do giá xăng dầu điều chỉnh, nằm trong ngưỡng kiểm soát."
+      "note": "Dự án khu công nghiệp VSIP Nghệ An 3 có vốn đăng ký 52,5 triệu USD, diện tích 181,12 ha. Đã hoàn thành 50,96% giải phóng mặt bằng với kinh phí bồi thường 154,71 tỷ đồng, sắp khởi công, tạo cơ hội việc làm và hỗ trợ tăng trưởng."
     }
   ]
 }
