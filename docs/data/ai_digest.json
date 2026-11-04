@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ngày 4/11 có các tín hiệu tích cực khi VN-Index tăng 33 điểm, được hỗ trợ bởi gói chính sách hỗ trợ kinh tế toàn diện: toàn bộ 46 ngân hàng giảm lãi suất huy động và cho vay, Chính phủ giảm thuế xăng xuống 0% và hạ giá điện 2% để kiềm chế lạm phát (CPI 10 tháng 4,57% so mục tiêu 4,5%). IPO Chứng khoán HD thành công với định giá 1,8 tỷ USD, PV GAS báo lãi tăng 80% nhờ giá dầu cao và sản lượng LNG khởi sắc. Tuy nhiên, mức giảm lãi suất cho vay thực tế chỉ 0,2-0,5%/năm, thấp hơn mục tiêu 1,5-2%/năm.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi tích cực với VN-Index tăng 33 điểm, thanh khoản cải thiện và IPO lớn của Chứng khoán HD huy động 4.737 tỷ đồng. PV GAS ghi nhận lãi ròng tăng 80% nhờ giá dầu cao, còn Chính phủ triển khai 5 giải pháp kiềm chế lạm phát. Tuy nhiên, nhà đầu tư vẫn cảnh báo định giá suy giảm (P/E kỳ vọng hạ xuống 12 lần) do lãi suất cao, yêu cầu xác nhận xu hướng tăng trong các phiên tiếp theo.",
   "top": [
-    {
-      "title": "46 ngân hàng giảm lãi suất, tạo dư địa tín dụng",
-      "impact": "↑",
-      "note": "Toàn bộ 46 ngân hàng thương mại giảm lãi suất tiền gửi 0,5-0,7%/năm (kỳ hạn 6+ tháng), lãi suất cho vay giảm 0,2-0,5%/năm. Hơn 20 ngân hàng có chương trình tín dụng ưu đãi giảm 1,5-2%/năm, chi phí lãi vay doanh nghiệp giảm hàng trăm triệu đồng mỗi tháng."
-    },
-    {
-      "title": "PV GAS lãi ròng tăng 80%, sở hữu 51 ngàn tỷ tiền",
-      "impact": "↑",
-      "note": "PV GAS ghi nhận lãi ròng quý 3/2026 đạt 4.58 ngàn tỷ đồng, tăng 80% so với cùng kỳ. Giá dầu Brent bình quân quý 3 là 97 USD/thùng (tăng 41%), sản lượng tiêu thụ khí khô và LNG tăng 24%, sở hữu gần 51 ngàn tỷ đồng tiền mặt."
-    },
-    {
-      "title": "Giảm thuế xăng 0% và giá điện giảm 2%",
-      "impact": "↑",
-      "note": "Chính phủ điều chỉnh thuế tiêu thụ đặc biệt xăng về 0% và hạ giá bán lẻ điện 2% để kiềm chế lạm phát. Mục tiêu CPI năm 2026 là 4,5% nhưng CPI 10 tháng đã tăng 4,57%. Các biện pháp này giúp giảm chi phí sản xuất, vận chuyển và lưu thông của doanh nghiệp."
-    },
     {
       "title": "VN-Index tăng 33 điểm, hồi phục kỹ thuật",
       "impact": "↑",
-      "note": "VN-Index tăng 33 điểm, đóng cửa gần mức cao nhất phiên với thanh khoản vượt mức trung bình 20 phiên. Chỉ số hình thành nến xanh biên độ rộng, RSI bật tăng, kiểm định thành công vùng đáy 1.700 điểm, có khả năng tiếp tục tăng tới 1.750-1.765 điểm."
+      "note": "VN-Index tăng 33 điểm với thanh khoản cải thiện vượt mức trung bình 20 phiên; kiểm định thành công vùng đáy 1700 điểm; RSI bật tăng, nhưng MACD chưa hoàn toàn xác nhận đảo chiều. Cần xác nhận khả năng vượt vùng kháng cự 1740-1750 điểm."
     },
     {
-      "title": "Chứng khoán HD chốt giá IPO 38.900 đồng/cổ phiếu",
+      "title": "Chứng khoán HD chốt IPO 38.900 đồng, huy động 4.737 tỷ đồng",
       "impact": "↑",
-      "note": "Chứng khoán HD chốt giá IPO 38.900 đồng/cổ phiếu, định giá sau phát hành 47.400 tỷ đồng (tương đương 1,8 tỷ USD). Đợt IPO dự kiến huy động 4.737 tỷ đồng, 60% dùng bổ sung vốn cho vay giao dịch ký quỹ từ quý IV/2026 đến quý II/2027."
+      "note": "HDS chào bán 121,8 triệu cổ phiếu lần đầu, huy động 4.737 tỷ đồng, định giá sau phát hành 47.400 tỷ đồng (1,8 tỷ USD). Dự kiến dành 60% (2.842 tỷ đồng) bổ sung vốn cho vay ký quỹ, hỗ trợ mở rộng dịch vụ trên nền vốn 14.041 tỷ đồng."
     },
     {
-      "title": "Lãi suất cho vay giảm 0,2-0,5%, thấp hơn mục tiêu",
+      "title": "PV GAS tăng lãi 80% nhờ giá dầu, doanh thu 121 ngàn tỷ",
+      "impact": "↑",
+      "note": "GAS ghi nhận doanh thu quý 3/2026 tăng 11% lên 39,7 ngàn tỷ đồng; lãi ròng tăng 80% lên 4,58 ngàn tỷ đồng do giá dầu Brent tăng 41% lên 97 USD/thùng và sản lượng khí tăng 24%. Lũy kế 9 tháng doanh thu đạt 121 ngàn tỷ đồng, tăng 32%."
+    },
+    {
+      "title": "Giá vàng tăng 2.7% sau bầu cử Mỹ, USD suy yếu",
+      "impact": "↑",
+      "note": "Vàng thế giới tăng 2,7% lên 4.036 USD/ounce trong phiên 4/11 sau chiến thắng Đảng Dân chủ tại bầu cử Mỹ. Đồng USD suy yếu do lo ngại triển vọng tài khóa; vàng trong nước tăng 1,8 triệu đồng/lượng lên 142,4 triệu đồng/lượng (SJC)."
+    },
+    {
+      "title": "Bộ Tài chính triển khai 5 giải pháp kiềm chế lạm phát",
+      "impact": "↑",
+      "note": "Giảm thuế tiêu thụ đặc biệt xăng xuống 0% và giảm giá bán lẻ điện 2% để kiềm chế lạm phát. CPI bình quân 10 tháng 4,57%, cao hơn mục tiêu 4,5%. Giải pháp tập trung kiểm soát cung cầu, dự trữ hàng hóa thiết yếu và theo dõi biến động giá thị trường."
+    },
+    {
+      "title": "TVS hạ dự báo VN-Index Q4 xuống 1800-1850, hạ P/E kỳ vọng",
       "impact": "↓",
-      "note": "Mặc dù Ngân hàng Nhà nước yêu cầu giảm lãi suất cho vay 1,5-2%/năm, thực tế chỉ giảm 0,2-0,5%/năm sau nửa tháng triển khai. Mức giảm này thấp hơn đáng kể, có thể hạn chế tác động kích thích đầu tư và nhu cầu vốn tín dụng."
+      "note": "Chứng khoán Thiên Việt điều chỉnh dự báo cuối Q4/2026 xuống 1800-1850 điểm (thấp hơn trước), hạ P/E kỳ vọng từ 15 lần xuống 12 lần. Sức hấp dẫn TTCK suy giảm do lãi suất tiền gửi 12 tháng cao, E/P không còn tạo chênh lệch đủ hấp dẫn."
     }
   ]
 }
