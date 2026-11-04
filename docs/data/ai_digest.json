@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "NHNN quyết liệt giảm mặt bằng lãi suất 0,5-1%/năm và bơm thanh khoản 48.800 tỷ đồng kỳ hạn 182 ngày để hỗ trợ hệ thống ngân hàng. Dự báo GDP tăng 11% năm 2027, xuất khẩu tăng 12%, tạo triển vọng tích cực cho kinh tế. Tuy nhiên, khối ngoại bán ròng 122 ngàn tỷ vượt kỷ lục 2025 và mục tiêu CPI 4,5% đặt thách thức cho chính sách giá.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm 04/11 rất sôi động với 40+ cổ phiếu kịch trần, VN-Index tăng hơn 13 điểm. NHNN chủ động giảm lãi suất huy động 0,5-1%/năm và bơm thanh khoản dài hạn 48.800 tỷ đồng qua hoán đổi USD/VND 182 ngày để hỗ trợ tín dụng. PVG lãi tăng 80% nhờ dầu Brent 97 USD/thùng và sản lượng khí tăng 24%. Dự báo GDP 2027 đạt 11% theo Standard Chartered với dự trữ ngoại hối cao nhất 3 năm. Rủi ro từ khối ngoại bán ròng 122 ngàn tỷ (vượt kỷ lục 2025) cần chú ý.",
   "top": [
     {
-      "title": "NHNN giảm lãi suất 0,5-1%/năm, bơm 48.800 tỷ thanh khoản",
+      "title": "40+ cổ phiếu kịch trần, VN-Index tăng mạnh",
       "impact": "↑",
-      "note": "Phó Thống đốc Phạm Thanh Hà công bố NHNN sẽ cung ứng thanh khoản chủ động; yêu cầu ngân hàng giảm lãi suất huy động 0,5-1%/năm cho kỳ hạn 6 tháng trở lên. Hoán đổi USD/VND kỳ hạn 182 ngày (dài nhất năm 2026), quy mô 2 tỷ USD, cung ứng 48.800 tỷ đồng vào 9/11."
+      "note": "VN-Index tăng hơn 13 điểm (+0,77%), thanh khoản HoSE chiều tăng 89% so với sáng, 374 mã tăng, 188 mã giảm. Nhóm chứng khoán nổi bật: SSI thanh khoản 940.2 tỷ đồng (+6,52%), VIX 674.5 tỷ, VCI 432.4 tỷ, VND 296.8 tỷ. TCX, FPT, VIX, VIG kịch trần. Nhóm vừa và nhỏ hưởng lợi nhất."
     },
     {
-      "title": "GDP tăng 11% năm 2027, dự báo Standard Chartered",
+      "title": "NHNN yêu cầu giảm lãi suất huy động 0,5-1%/năm",
       "impact": "↑",
-      "note": "Standard Chartered duy trì GDP 2026 ở 9,5%, năm 2027 ở 11%, nâng 2028 từ 6,7% lên 9,1% (+2,4 điểm). Hỗ trợ bởi FDI kỷ lục, xuất khẩu ASEAN/Ấn Độ tăng 12%, tăng trưởng tiêu dùng và đầu tư trong nước."
+      "note": "Phó Thống đốc Phạm Thanh Hà công bố NHNN yêu cầu các tổ chức tín dụng giảm lãi suất huy động từ 0,5-1%/năm cho tiền gửi mới từ 6 tháng trở lên. NHNN sẽ điều hành thanh khoản chủ động, cung ứng vốn cho thị trường để hỗ trợ giảm mặt bằng lãi suất."
+    },
+    {
+      "title": "PV GAS lãi tăng 80%, doanh thu 39.7 ngàn tỷ",
+      "impact": "↑",
+      "note": "Lợi nhuận ròng quý 3 gần 4.58 ngàn tỷ đồng, tăng 80% so với cùng kỳ. Doanh thu thuần 39.7 ngàn tỷ, tăng 11%. Giá vốn tăng 6% lên 33.5 ngàn tỷ. Lợi nhuận gộp tăng 52% lên 6.2 ngàn tỷ. Giá dầu Brent quý 3 bình quân 97 USD/thùng, tăng 41%. Sản lượng tiêu thụ khí khô và LNG tăng 24%."
+    },
+    {
+      "title": "GDP Việt Nam dự báo 11% năm 2027",
+      "impact": "↑",
+      "note": "Standard Chartered duy trì dự báo GDP 2026: 9,5%; 2027: 11%. Nâng dự báo 2028 từ 6,7% lên 9,1%, tăng 2,4 điểm phần trăm. Nợ công thuộc nhóm thấp nhất thế giới. Hỗ trợ từ chính sách tài khóa ổn định, dòng vốn FDI mạnh mẽ, nhu cầu tiêu dùng và đầu tư gia tăng."
+    },
+    {
+      "title": "NHNN bơm 48.800 tỷ đồng thanh khoản kỳ hạn 182 ngày",
+      "impact": "↑",
+      "note": "NHNN cung ứng gần 48.800 tỷ đồng thông qua hoán đổi USD/VND kỳ hạn 182 ngày, quy mô tối đa 2 tỷ USD. Tỷ giá mua giao ngay 24.399 đồng/USD, bán kỳ hạn 24.704 đồng/USD. Kỳ hạn 182 ngày dài hơn nhiều lần can thiệp trước, hỗ trợ thanh khoản dài hạn cho hệ thống."
     },
     {
       "title": "Khối ngoại bán ròng 122 ngàn tỷ, vượt kỷ lục 2025",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 122 ngàn tỷ đồng trên HOSE 10 tháng 2026, vượt kỷ lục 111 ngàn tỷ đồng cả năm 2025. Tháng 10 bán ròng 24 ngàn tỷ; MCH bán ròng 9,6 ngàn tỷ, HDB 3,4 ngàn tỷ, PNJ 2,1 ngàn tỷ."
-    },
-    {
-      "title": "Bộ Tài chính kiểm soát CPI khoảng 4,5%",
-      "impact": "→",
-      "note": "CPI bình quân 10 tháng tăng 4,57%, cao hơn mục tiêu cả năm 4,5%. Bộ Tài chính nêu giải pháp: theo dõi giá, bảo đảm cân đối cung cầu, dự trữ lưu thông hàng hóa (xăng dầu, lương thực, thuốc)."
-    },
-    {
-      "title": "Kinh tế Việt Nam xuất khẩu tăng 12%, dự trữ ngoại hối cao nhất 3 năm",
-      "impact": "↑",
-      "note": "Xuất khẩu sang ASEAN và Ấn Độ tăng 12% trong 8 tháng 2026. Thặng dư tài khoản vãng lai ước 2,8% GDP; dự trữ ngoại hối tương đương hơn 5 tháng nhập khẩu, mức cao nhất 3 năm. Hàng AI đóng góp 70% tăng trưởng xuất khẩu."
-    },
-    {
-      "title": "PV GAS lãi tăng 80%, dầu Brent 97 USD/thùng",
-      "impact": "↑",
-      "note": "PV GAS lãi ròng quý 3 đạt 4.580 tỷ đồng (tăng 80%), doanh thu 39,7 ngàn tỷ (tăng 11%). Dầu Brent bình quân quý 3 ở 97 USD/thùng (tăng 41%), sản lượng khí khô và LNG tăng 24%."
+      "note": "Khối ngoại bán ròng gần 122 ngàn tỷ đồng trên HOSE trong 10 tháng 2026, vượt kỷ lục 111 ngàn tỷ của cả năm 2025. Không có tháng mua ròng nào. Tháng 10 bán ròng 24 ngàn tỷ (cao nhất từ 10/2025). MCH bị bán ròng 9.6 ngàn tỷ, HDB 3.4 ngàn tỷ, PNJ 2.1 ngàn tỷ, FPT 1.9 ngàn tỷ, ACB 1.4 ngàn tỷ."
     }
   ]
 }
