@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi mạnh nhờ kỳ vọng lạm phát được kiểm soát và chính sách hỗ trợ thanh khoản toàn hệ thống. Tất cả 46 ngân hàng đã giảm lãi suất huy động và hơn 20 ngân hàng triển khai gói tín dụng ưu đãi, giảm đáng kể chi phí tài chính cho doanh nghiệp. VN-Index tăng 1,97% với 548 mã tăng, tâm lý mua chủ động đặc biệt nhóm chứng khoán. Tuy nhiên, khối ngoại tiếp tục bán ròng kỷ lục 122 ngàn tỷ đồng trong 10 tháng tạo áp lực dài hạn. Doanh thu năng lượng bùng nổ (PV GAS lãi tăng 80%) hỗ trợ thị trường nhưng chưa thể đảo ngược xu hướng bán của nhà đầu tư nước ngoài.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hồi phục mạnh mẽ ngày 4/11 với VN-Index tăng 1,97% từ vùng đáy 1.700 điểm, được hỗ trợ bởi chính sách kiềm lạm phát của Chính phủ (giảm giá điện 2%, thuế xăng 0%) và đợt giảm lãi suất toàn ngành ngân hàng rộng rãi. Tuy nhiên, áp lực bán từ khối ngoại vẫn lớn (122 ngàn tỷ đồng trong 10 tháng) là rủi ro cần chú ý trong những phiên tiếp theo.",
   "top": [
     {
-      "title": "Toàn bộ 46 ngân hàng giảm lãi suất huy động, 20+ triển khai gói tín dụng ưu đãi",
+      "title": "Chính phủ giảm giá điện 2% và bỏ thuế xăng",
       "impact": "↑",
-      "note": "Tất cả 46 ngân hàng thương mại giảm lãi suất huy động 0,5-0,7%/năm kỳ hạn từ 6 tháng trở lên; hơn 20 ngân hàng công bố gói tín dụng ưu đãi mức giảm 1,5-2%/năm cho lĩnh vực sản xuất kinh doanh; doanh nghiệp tiết giảm chi phí lãi vay hàng trăm triệu đồng mỗi tháng."
+      "note": "Bộ Tài chính công bố giảm giá bán lẻ điện 2% và hạ thuế tiêu thụ đặc biệt xăng về 0% từ tháng 11 để kiềm chế CPI. CPI bình quân 10 tháng tăng 4,57% (cao hơn mục tiêu 4,5% cả năm), đặt áp lực lớn cho 2 tháng cuối năm. Chính sách giảm chi phí đầu vào sẽ hỗ trợ doanh nghiệp và người tiêu dùng."
     },
     {
-      "title": "VN-Index tăng 1,97% phục hồi từ vùng đáy, 548 mã tăng",
+      "title": "VN-Index tăng 1,97% phục hồi từ vùng đáy",
       "impact": "↑",
-      "note": "VN-Index tăng 33,4 điểm lên 1.733,02 điểm, HNX tăng 6,46 điểm (+2,57%); 548 mã tăng, 186 mã giảm; thanh khoản HoSE đạt hơn 15,2 ngàn tỷ đồng; thanh khoản chiều tăng 89% so với sáng, thể hiện tâm lý mua chủ động rộng rãi."
+      "note": "VN-Index tăng 33,4 điểm lên 1.733,02 điểm, HNX-Index tăng 2,57% lên 257,88 điểm. Độ rộng thị trường tích cực với 548 mã tăng/186 mã giảm. Thanh khoản HOSE buổi chiều tăng 89% so với sáng, đạt 15,2 ngàn tỷ đồng, cho thấy lực mua chủ động."
     },
     {
-      "title": "Bộ Tài chính công bố giải pháp kiểm soát CPI khoảng 4,5%",
+      "title": "46 ngân hàng đồng loạt giảm lãi suất cho vay",
       "impact": "↑",
-      "note": "CPI bình quân 10 tháng tăng 4,57%, cao hơn mục tiêu 4,5% năm 2026; 5 nhóm giải pháp gồm giảm thuế xăng xuống 0%, giảm giá điện 2%, bảo đảm cung hàng hóa thiết yếu, hỗ trợ doanh nghiệp khó khăn; mục tiêu giảm chi phí sản xuất và sinh hoạt."
+      "note": "Toàn bộ 46 ngân hàng thương mại giảm lãi suất tiền gửi niêm yết 0,5-0,7%/năm (kỳ hạn 6+ tháng). Lãi suất cho vay phát sinh mới giảm 0,2-0,5%/năm, với hơn 20 ngân hàng giảm thêm 1,5-2%/năm, hỗ trợ thanh khoản và kinh doanh cuối năm."
     },
     {
-      "title": "PV GAS lãi ròng tăng 80%, doanh thu quý 3 đạt hơn 39,7 ngàn tỷ đồng",
-      "impact": "↑",
-      "note": "GAS lãi ròng gần 4,58 ngàn tỷ đồng (+80%); doanh thu thuần hơn 39,7 ngàn tỷ đồng (+11%); giá dầu Brent bình quân quý 3 neo 97 USD/thùng (+41%); sản lượng khí khô, LNG tăng 24%; lũy kế 9 tháng doanh thu 121 ngàn tỷ đồng tăng 32%."
-    },
-    {
-      "title": "Khối ngoại bán ròng 122 ngàn tỷ đồng trong 10 tháng, vượt kỷ lục 2025",
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ, vượt kỷ lục 2025",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng hơn 122 ngàn tỷ đồng trên HOSE lũy kế, vượt kỷ lục 111 ngàn tỷ đồng năm 2025; tháng 10 bán ròng hơn 24 ngàn tỷ; MCH bị bán ròng 9,6 ngàn tỷ đồng dẫn đầu, HDB gần 3,4 ngàn tỷ, PNJ hơn 2,1 ngàn tỷ."
+      "note": "Khối ngoại bán ròng gần 122 ngàn tỷ đồng trên HOSE trong 10 tháng, vượt qua kỷ lục 111 ngàn tỷ của cả năm 2025. Tháng 10 bán ròng 24 ngàn tỷ đồng (mức cao nhất kể từ 10/2025), với MCH bị bán ròng 9,6 ngàn tỷ. Áp lực bán mạnh là rủi ro cho đồng Việt Nam."
     },
     {
-      "title": "Cổ phiếu chứng khoán kịch trần, 40 mã tăng hết biên độ phiên chiều",
+      "title": "PV GAS lãi tăng 80% nhờ giá dầu tăng",
       "impact": "↑",
-      "note": "40 cổ phiếu tăng hết biên độ phiên chiều 4/11; nhóm chứng khoán nóng nhất với TCX, CTS, VND, VCI, VIX, VIG kịch trần; SSI tăng 6,52% với thanh khoản 940,2 tỷ đồng; VIX khớp lệnh tăng 2,7 lần, VCI tăng 3,2 lần."
+      "note": "Q3/2026, PV GAS lãi ròng gần 4,58 ngàn tỷ đồng (+80%), doanh thu 39,7 ngàn tỷ (+11%). Giá dầu Brent trung bình trong quý 97 USD/thùng (+41% so với Q3/2025), sản lượng tiêu thụ khí khô và LNG tăng 24%."
+    },
+    {
+      "title": "Giá vàng trong nước tăng mạnh",
+      "impact": "↑",
+      "note": "Vàng miếng SJC tăng 1,8 triệu đồng/lượng lên 142,4 triệu đồng/lượng, vàng nhẫn tăng 1-2,8 triệu đồng/lượng tùy thương hiệu. Vàng thế giới tăng 2,9% lên 4.041 USD/ounce, thể hiện dòng vốn tìm kiếm bảo toàn giá trị."
     }
   ]
 }
