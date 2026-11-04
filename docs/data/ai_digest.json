@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam nâng cao triển vọng tăng trưởng với dự báo 11% GDP năm 2027, dòng vốn FDI kỷ lục và xuất khẩu AI phát triển mạnh chiếm 70% tăng trưởng xuất khẩu. Chính sách tiền tệ nới lỏng (giảm lãi suất 0,5-1,5 điểm phần trăm) hỗ trợ doanh nghiệp. Dự trữ ngoại hối đạt mức cao nhất 3 năm tương đương 5 tháng nhập khẩu. Rủi ro ngắn hạn từ sức ép toàn cầu (Trung Quốc giảm 15% YTD, bầu cử Mỹ) nhưng Việt Nam vẫn hưởng lợi từ chuyển dịch sản xuất.",
+  "summary_vi": "Kinh tế Việt Nam tiếp tục ghi nhận những tín hiệu tích cực với xuất khẩu tăng trưởng mạnh nhờ làn sóng AI, dự trữ ngoại hối lên mức cao nhất 3 năm. Lãi suất cho vay giảm 0,5-1,5 điểm phần trăm hỗ trợ doanh nghiệp tiết kiệm chi phí. Standard Chartered nâng dự báo tăng trưởng GDP năm 2028 lên 9,1% với nền tảng tài khóa an toàn (nợ công thuộc nhóm thấp thế giới), tạo triển vọng tích cực cho TTCK. Tuy đó, thị trường Trung Quốc liên tục suy yếu với CSI 300 giảm 8,5% tháng 10 có thể ảnh hưởng ngắn hạn đến nhóm chu kỳ.",
   "top": [
     {
-      "title": "Standard Chartered nâng dự báo GDP Việt Nam 2027 lên 11%, tăng 2028 từ 6,7% lên 9,1%",
+      "title": "Xuất khẩu Việt Nam tăng 12% nhờ AI",
       "impact": "↑",
-      "note": "Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm), duy trì 9,5% năm 2026 và 11% năm 2027. Triển vọng hỗ trợ bởi chính sách tài khóa-tiền tệ, dòng FDI mạnh và nhu cầu tiêu dùng, đầu tư nội địa gia tăng."
+      "note": "Xuất khẩu Việt Nam sang ASEAN và Ấn Độ trong 8 tháng năm 2026 tăng hơn 12%, các mặt hàng liên quan AI đóng góp hơn 70% vào đà tăng trưởng xuất khẩu. Thặng dư tài khoản vãng lai mở rộng lên 2,8% GDP, dự trữ ngoại hối nâng lên tương đương hơn 5 tháng nhập khẩu — mức cao nhất trong 3 năm."
     },
     {
-      "title": "Xuất khẩu tăng 12% sang ASEAN-Ấn Độ, hàng AI đóng góp 70% tăng trưởng",
+      "title": "Standard Chartered nâng dự báo GDP 2028 lên 9,1%",
       "impact": "↑",
-      "note": "Kim ngạch xuất khẩu sang ASEAN và Ấn Độ tăng hơn 12% trong 8 tháng 2026 (theo S&P Global). Hàng AI đóng góp hơn 70% vào đà tăng trưởng xuất khẩu. Thặng dư tài khoản vãng lai 2,8% GDP, dự trữ ngoại hối tương đương 5 tháng nhập khẩu (cao nhất 3 năm)."
+      "note": "Standard Chartered nâng dự báo tăng trưởng GDP Việt Nam năm 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm) dựa trên chính sách tài khóa-tiền tệ, dòng vốn FDI mạnh mẽ và nhu cầu tiêu dùng gia tăng. Nợ công Việt Nam thuộc nhóm thấp nhất thế giới."
     },
     {
-      "title": "Doanh nghiệp được giảm lãi suất 0,5-1,5 điểm phần trăm từ ngân hàng",
+      "title": "Lãi suất cho vay giảm 0,5-1,5 điểm phần trăm",
       "impact": "↑",
-      "note": "Nhiều doanh nghiệp nhận giảm lãi suất cho vay 0,5-1,5 điểm phần trăm, tiết kiệm hàng trăm triệu đồng mỗi tháng. Có 2 ngân hàng xác nhận giảm lãi suất cho cả khoản vay mới và dư nợ hiện có, hỗ trợ sản xuất kinh doanh cuối năm."
+      "note": "Nhiều ngân hàng đã thông báo giảm lãi suất cho vay từ 0,5 đến 1,5 điểm phần trăm cho cả khoản vay mới và dư nợ hiện hữu. Doanh nghiệp tiết kiệm được hàng trăm triệu đồng mỗi tháng, giúp tái đầu tư sản xuất kinh doanh."
     },
     {
-      "title": "Giá dầu 95 USD/thùng Q3, Petrolimex lãi ròng gấp đôi cùng kỳ",
+      "title": "Petrolimex lãi ròng quý 3 gấp đôi cùng kỳ",
       "impact": "↑",
-      "note": "Giá dầu thô Q3 tăng từ 75 USD lên 95 USD/thùng (tối đa 105 USD/thùng). Petrolimex báo doanh thu Q3 tăng 66% lên 138,5 ngàn tỷ đồng, lãi ròng gấp đôi cùng kỳ nhờ giá dầu cao kết hợp sản lượng tăng 18%."
+      "note": "Petrolimex ghi nhận doanh thu quý 3 tăng 66% lên gần 138,5 nghìn tỷ đồng, lãi gộp tăng 62% lên hơn 7,3 nghìn tỷ đồng. Giá dầu thế giới trong quý 3 từ 75 USD tăng lên 95 USD/thùng (có lúc chạm 105 USD/thùng), sản lượng xăng dầu xuất bán tăng 18%."
     },
     {
-      "title": "Vietcombank được NHNN chấp thuận tăng vốn điều lệ 5,431 tỷ đồng",
+      "title": "MSR vượt mục tiêu doanh thu và lợi nhuận",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước chấp thuận Vietcombank tăng vốn điều lệ 5,431 tỷ đồng thông qua phát hành cổ phiếu riêng lẻ. Động thái hỗ trợ khả năng cung cấp tín dụng và mở rộng hoạt động của ngân hàng lớn nhất."
+      "note": "Masan High-Tech Materials (UPCoM: MSR) ghi nhận doanh thu 9 tháng 25,687 tỷ đồng vượt 27% so với kế hoạch, NPAT Pre-MI 4,350 tỷ đồng vượt 74% kế hoạch. Quý 3 NPAT Pre-MI 2,148 tỷ đồng tăng 29% so với quý trước nhờ giá vonfram tăng mạnh và sự mở rộng năng lực chế biến."
     },
     {
-      "title": "Trung Quốc tạm dừng IPO, CSI 300 giảm 15% YTD, 8,5% tháng 10",
-      "impact": "→",
-      "note": "Chỉ số CSI 300 Trung Quốc giảm 15% từ đầu 2026 (tháng 10 giảm 8,5%, mức tệ nhất 10+ năm) so với S&P 500 Mỹ tăng 10%. Giới chức tạm dừng IPO và bán cổ phiếu quy mô lớn nhằm ổn định thị trường, cho thấy sức ép kinh tế toàn cầu nhưng cơ hội chuyển dịch sản xuất sang Việt Nam."
+      "title": "Chứng khoán Trung Quốc tạm dừng IPO, CSI 300 giảm 8,5%",
+      "impact": "↓",
+      "note": "Nhà chức trách Trung Quốc yêu cầu tạm hoãn IPO và bán cổ phiếu quy mô lớn để ổn định thị trường. Chỉ số CSI 300 giảm 8,5% tháng 10 (mức giảm theo tháng mạnh nhất hơn 1 thập kỷ), giảm 15% cả năm 2026, tạo áp lực tiêu cực cho các cổ phiếu chu kỳ khu vực châu Á."
     }
   ]
 }
