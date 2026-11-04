@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngân hàng Nhà nước nới lỏng thanh khoản với giao dịch hoán đổi USD/VND dài hạn 182 ngày (48.800 tỷ đồng/2 tỷ USD) và các ngân hàng thương mại giảm lãi suất cho doanh nghiệp 0,5-1,5 điểm phần trăm, giúp nền kinh tế thêm động lực. Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1%, chỉ ra triển vọng tăng trưởng hai con số bền vững. Doanh nghiệp như PV GAS lãi tăng 80% nhờ giá dầu cao (97 USD/thùng) và nhu cầu LNG tăng 24%, thị trường cổ phiếu cũng khởi sắc hôm nay. Tuy nhiên, khối ngoại đã bán ròng 122 ngàn tỷ đồng (kỷ lục năm 2025) và Trung Quốc tạm dừng IPO vì thị trường suy giảm, gây áp lực ngắn hạn.",
+  "summary_vi": "Ngân hàng Nhà nước bơm thanh khoản dài hạn 48.800 tỷ đồng qua hoán đổi USD/VND 182 ngày để hỗ trợ hệ thống ngân hàng, kết hợp yêu cầu giảm lãi suất mở rộng tín dụng. Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1%, chỉ ra triển vọng hai con số bền vững nhờ FDI kỷ lục và xuất khẩu AI chiếm 70% tăng trưởng. Thị trường cổ phiếu phục hồi với VN-Index +0,77%, ngân hàng và công nghệ dẫn sóng. Tuy nhiên, khối ngoại bán ròng 122 ngàn tỷ đồng (vượt kỷ lục 2025) tạo áp lực ngắn hạn.",
   "top": [
     {
-      "title": "NHNN bơm 48.800 tỷ đồng/2 tỷ USD kỳ hạn 182 ngày",
+      "title": "NHNN bơm 48.800 tỷ đồng thanh khoản dài hạn 182 ngày",
       "impact": "↑",
-      "note": "NHNN phát hành hoán đổi USD/VND kỳ hạn 182 ngày (dài nhất năm 2026) với quy mô tối đa 2 tỷ USD, cung cấp 48.800 tỷ đồng cho hệ thống ngân hàng, đồng thời yêu cầu giảm lãi suất và mở rộng dư địa tín dụng."
+      "note": "Ngân hàng Nhà nước phát hành hoán đổi USD/VND kỳ hạn 182 ngày (dài nhất năm 2026) với quy mô tối đa 2 tỷ USD, cung ứng 48.800 tỷ đồng cho hệ thống ngân hàng vào 9/11, yêu cầu đồng thời giảm lãi suất và mở rộng dư địa tín dụng."
     },
     {
       "title": "Standard Chartered nâng GDP 2028 từ 6,7% lên 9,1%",
       "impact": "↑",
-      "note": "Standard Chartered duy trì dự báo GDP 2026 ở 9,5%, GDP 2027 ở 11%, và tăng mục tiêu GDP 2028 từ 6,7% lên 9,1% (+2,4 điểm), dựa trên chính sách hỗ trợ, FDI mạnh mẽ, nhu cầu tiêu dùng và đầu tư tăng."
+      "note": "Standard Chartered duy trì dự báo GDP 2026 ở 9,5%, GDP 2027 ở 11%, và tăng mục tiêu GDP 2028 từ 6,7% lên 9,1% (điều chỉnh +2,4 điểm phần trăm), hỗ trợ bởi chính sách tài khóa, FDI mạnh mẽ, nhu cầu tiêu dùng tăng và dự trữ ngoại hối ở mức cao nhất 3 năm."
     },
     {
-      "title": "Khối ngoại bán ròng 122 ngàn tỷ đồng trong 10 tháng",
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ, vượt kỷ lục 2025",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 122 ngàn tỷ đồng trên HOSE từ đầu năm, vượt mức kỷ lục gần 111 ngàn tỷ đồng của cả năm 2025; tháng 10 bán ròng 24 ngàn tỷ, cao nhất kể từ tháng 10/2025."
+      "note": "Khối ngoại bán ròng gần 122 ngàn tỷ đồng trên HOSE từ đầu năm 2026, vượt mức kỷ lục gần 111 ngàn tỷ đồng của cả năm 2025. Tháng 10 riêng bán ròng 24 ngàn tỷ đồng (cao nhất kể từ tháng 10/2025), với MCH bị bán ròng 9.6 ngàn tỷ đồng dẫn đầu."
     },
     {
-      "title": "PV GAS lãi ròng tăng 80%, sở hữu 51 ngàn tỷ đồng",
+      "title": "PV GAS lãi tăng 80%, giá dầu Brent 97 USD/thùng",
       "impact": "↑",
-      "note": "GAS ghi nhận lãi ròng quý 3/2026 đạt gần 4.58 ngàn tỷ đồng, tăng 80% so với cùng kỳ; doanh thu 39.7 ngàn tỷ đồng tăng 11%, nhờ giá dầu Brent bình quân 97 USD/thùng (+41%) và sản lượng khí khô, LNG tăng 24%."
+      "note": "PV GAS ghi nhận lãi ròng quý 3/2026 đạt gần 4.58 ngàn tỷ đồng, tăng 80% so với cùng kỳ; doanh thu 39.7 ngàn tỷ đồng tăng 11%, nhờ giá dầu Brent bình quân 97 USD/thùng (tăng 41%) và sản lượng khí khô, LNG tăng 24%."
     },
     {
-      "title": "Ngân hàng giảm lãi suất cho doanh nghiệp 0,5-1,5 điểm",
+      "title": "Thị trường chứng khoán phục hồi, VN-Index +0,77%",
       "impact": "↑",
-      "note": "Nhiều doanh nghiệp báo cáo nhận được thông báo giảm lãi suất từ ngân hàng 0,5 đến 1,5 điểm phần trăm, tiết kiệm hàng trăm triệu đồng mỗi tháng; hai ngân hàng xác nhận giảm lãi cả vay mới lẫn dư nợ hiện có."
+      "note": "VN-Index tăng 13,27 điểm (+0,77%) lên 1.712,63 điểm, HNX-Index tăng 0,69% lên 253,15 điểm. Ngân hàng dẫn sóng (VCB +1,87%, VPB +1,65%), công nghệ tăng 4,3% (FPT +4,56%, ITD +3,82%). Độ rộng khởi sắc: 374 mã tăng, 188 mã giảm."
     },
     {
-      "title": "Trung Quốc tạm dừng IPO, CSI 300 giảm 8,5% tháng 10",
-      "impact": "↓",
-      "note": "Chính phủ Trung Quốc yêu cầu ngân hàng tạm hoãn IPO và bán cổ phiếu quy mô lớn để ổn định thị trường; chỉ số CSI 300 giảm 8,5% tháng 10 (mạnh nhất trên 10 năm), từ đầu năm đã mất 15% so với S&P 500 tăng 10%."
+      "title": "Giá vàng tăng 1,9%, USD yếu sau dự báo bầu cử Mỹ",
+      "impact": "↑",
+      "note": "Giá vàng giao ngay tại châu Á tăng 76 USD/oz lên 4.008 USD/oz (tăng 1,9%), tái lập mốc 4.000 USD/oz. Chỉ số Dollar Index giảm 0,4% xuống 101,45 điểm sau dự báo Đảng Dân chủ Mỹ giành quyền kiểm soát cả hai viện Quốc hội, lợi cho xuất khẩu Việt Nam."
     }
   ]
 }
