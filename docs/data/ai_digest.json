@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "VN-Index tăng vọt 33,4 điểm (+1,97%) lên 1.733,02 điểm khi tâm lý nhà đầu tư chuyển từ thận trọng sang chủ động giải ngân, được thúc đẩy bởi kết quả bầu cử Mỹ giảm lo ngại xung đột Trung Đông và các biện pháp hỗ trợ của Chính phủ. NHNN quyết liệt cung ứng 48.800 tỷ đồng thanh khoản dài hạn (182 ngày) để hỗ trợ giảm lãi suất 0,5-1%/năm. Triển vọng tăng trưởng mạnh: GDP 2027 dự báo 11%, dự trữ ngoại hối cao nhất 3 năm, xuất khẩu ASEAN+Ấn Độ tăng 12%. Tuy vậy, khối ngoại tiếp tục bán ròng kỷ lục 122 ngàn tỷ đồng (10 tháng, vượt con số cả năm 2025) và CPI 10 tháng 4,57% vẫn cao hơn mục tiêu 4,5%, tạo áp lực cân bằng ngắn hạn.",
+  "summary_vi": "Hệ thống ngân hàng giảm lãi suất toàn diện (cả 46 ngân hàng) với lãi suất cho vay giảm 0,2-0,5%/năm, hơn 20 ngân hàng triển khai gói tín dụng ưu đãi giảm 1,5-2%/năm, tạo điều kiện thuận lợi cho doanh nghiệp tiếp cận vốn rẻ. Chính phủ chủ động kiểm soát lạm phát bằng giảm thuế xăng xuống 0% và hạ giá điện 2%, giảm chi phí sản xuất khi CPI 10 tháng đạt 4,57% vượt mục tiêu 4,5%. Thị trường phản ứng tích cực với VN-Index tăng vọt 1,97% (+33,4 điểm) lên 1.733 điểm, thanh khoản tăng 89% và 40 cổ phiếu kịch trần, thúc đẩy bởi kết quả bầu cử Mỹ làm giảm lo ngại xung đột Trung Đông. Dữ liệu kinh tế vĩ mô mạnh mẽ: GDP 2027 dự báo 11%, dự trữ ngoại hối cao nhất 3 năm (5 tháng nhập khẩu), xuất khẩu ASEAN+Ấn Độ tăng 12%. Tuy vậy, khối ngoại tiếp tục bán ròng kỷ lục 122 ngàn tỷ đồng (10 tháng, vượt cả năm 2025) là rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "VN-Index tăng 33,4 điểm, 40 mã kịch trần, thanh khoản tăng 89%",
+      "title": "Toàn bộ 46 ngân hàng giảm lãi suất cho vay",
       "impact": "↑",
-      "note": "VN-Index tăng 1,97% lên 1.733,02 điểm trong phiên 4/11, lấy lại toàn bộ tổn thất từ chuỗi giảm liên tiếp. Thanh khoản HoSE buổi chiều tăng 89% so với sáng với ~40 cổ phiếu đạt kịch trần, nhóm chứng khoán hưởng lợi nhất (TCX, FPT, VIX, VCI, VND kịch trần; SSI +6,52%). Phiên chiều bùng nổ gấp đôi số mã tăng trên 2% so với sáng, phản ánh sự chủ động mua rất cao."
+      "note": "Tất cả 46 ngân hàng thương mại đã giảm lãi suất tiền gửi 0,5-0,7%/năm, lãi suất cho vay phát sinh mới giảm 0,2-0,5%/năm. Hơn 20 ngân hàng công bố gói tín dụng ưu đãi với mức giảm 1,5-2%/năm, giúp giảm chi phí lãi vay cho doanh nghiệp hàng trăm triệu đồng mỗi tháng."
     },
     {
-      "title": "NHNN bơm 48.800 tỷ hoán đổi USD/VND 182 ngày, yêu cầu giảm lãi 0,5-1%",
+      "title": "Bộ Tài chính triển khai 5 giải pháp kiểm soát lạm phát",
       "impact": "↑",
-      "note": "NHNN can thiệp thị trường ngoại tệ tối đa 2 tỷ USD (gần 48.800 tỷ đồng) kỳ hạn 182 ngày, dài nhất trong năm 2026 (trước đó 7-21 ngày). Tỷ giá mua giao ngay 24.399 đồng/USD, bán kỳ hạn 24.704 đồng/USD, giao dịch 9/11/2026. NHNN yêu cầu ngân hàng giảm lãi suất huy động từ 0,5-1%/năm cho tiền gửi mới kỳ hạn 6 tháng trở lên."
+      "note": "CPI 10 tháng đạt 4,57% vượt mục tiêu cả năm 4,5%. Chính phủ giảm thuế tiêu thụ đặc biệt với xăng về 0% và hạ giá điện 2% để kiềm chế lạm phát hai tháng cuối năm, giảm chi phí sản xuất, vận chuyển và lưu thông cho doanh nghiệp và người dân."
     },
     {
-      "title": "Khối ngoại bán ròng kỷ lục 122 ngàn tỷ (10 tháng), vượt 2025",
+      "title": "Viễn cảnh kinh tế mạnh mẽ: GDP 2027 có thể đạt 11%",
+      "impact": "↑",
+      "note": "Standard Chartered duy trì dự báo GDP 2026 là 9,5% và nâng dự báo 2027 lên 11%, cũng nâng 2028 từ 6,7% lên 9,1% (+2,4 điểm phần trăm). Dự trữ ngoại hối tương đương hơn 5 tháng nhập khẩu (cao nhất 3 năm), hàng hóa liên quan AI chiếm 70% đà tăng xuất khẩu 12% sang ASEAN và Ấn Độ."
+    },
+    {
+      "title": "VN-Index tăng vọt 1,97% lên 1.733 điểm, 40 mã kịch trần",
+      "impact": "↑",
+      "note": "VN-Index hôm 4/11 tăng 33,4 điểm lên 1.733,02, lấy lại toàn bộ mất mát từ chuỗi giảm liên tiếp. Hơn 40 cổ phiếu đạt kịch trần, thanh khoản buổi chiều tăng 89% so với sáng, nhóm chứng khoán hưởng lợi nhất (TCX, FPT, VIX, VCI, VND kịch trần), phản ánh chuyển biến rõ rệt từ thận trọng quan sát sang giải ngân chủ động."
+    },
+    {
+      "title": "Lợi nhuận PV GAS tăng 80% nhờ giá dầu Brent tăng",
+      "impact": "↑",
+      "note": "PV GAS lãi ròng quý 3 đạt 4,58 ngàn tỷ đồng (+80%), doanh thu 39,7 ngàn tỷ đồng (+11%). Giá dầu Brent bình quân quý 3 đạt 97 USD/thùng (+41% so cùng kỳ), sản lượng tiêu thụ khí khô và LNG tăng 24%, lợi nhuận gộp tăng 52% lên hơn 6,2 ngàn tỷ."
+    },
+    {
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ trong 10 tháng, vượt 2025",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 122 ngàn tỷ đồng trên HOSE trong 10 tháng 2026, vượt kỷ lục 111 ngàn tỷ đồng của cả năm 2025. Tháng 10 riêng bán ròng 24 ngàn tỷ (cao nhất kể từ 10/2025), với MCH 9,6 ngàn tỷ, HDB 3,4 ngàn tỷ, PNJ 2,1 ngàn tỷ, FPT 1,9 ngàn tỷ, ACB 1,4 ngàn tỷ đồng. Chưa có tháng nào mua ròng trong năm 2026."
-    },
-    {
-      "title": "GDP 2027 dự báo 11%, dự trữ ngoại hối hơn 5 tháng nhập khẩu",
-      "impact": "↑",
-      "note": "Standard Chartered duy trì dự báo GDP Việt Nam 9,5% năm 2026 và 11% năm 2027, nâng dự báo 2028 từ 6,7% lên 9,1% (+2,4 điểm). Dự trữ ngoại hối tương đương hơn 5 tháng nhập khẩu (cao nhất 3 năm). Thặng dư tài khoản vãng lai mở rộng 2,8% GDP nhờ xuất khẩu ASEAN+Ấn Độ tăng 12%, với hàng hóa liên quan AI đóng góp hơn 70%."
-    },
-    {
-      "title": "CPI 10 tháng 4,57%, giảm giá điện & thuế xăng kiềm chế lạm phát",
-      "impact": "→",
-      "note": "CPI bình quân 10 tháng 2026 là 4,57%, cao hơn mục tiêu 4,5%, đặt áp lực lớn lên công tác điều hành tháng cuối năm. Bộ Tài chính triển khai 5 nhóm giải pháp: giảm giá điện, giảm thuế tiêu thụ đặc biệt với xăng, bảo đảm nguồn cung, dự báo diễn biến giá cả thị trường, và hỗ trợ phân phối hàng hóa."
-    },
-    {
-      "title": "PVG tăng lãi 80%, sở hữu 51 ngàn tỷ tiền, hưởng lợi giá dầu",
-      "impact": "↑",
-      "note": "PV GAS (GAS) lãi ròng quý 3/2026 khoảng 4,58 ngàn tỷ đồng, tăng 80% so với cùng kỳ. Giá dầu Brent bình quân 97 USD/thùng (+41%), sản lượng khí khô + LNG tăng 24%, lợi nhuận gộp tăng 52% lên hơn 6,2 ngàn tỷ. Sở hữu gần 51 ngàn tỷ đồng tiền mặt. Lũy kế 9 tháng doanh thu 121 ngàn tỷ đồng, tăng 32% so với cùng kỳ."
+      "note": "Khối ngoại bán ròng 122 ngàn tỷ đồng trên HOSE trong 10 tháng 2026, vượt kỷ lục 111 ngàn tỷ đồng của cả năm 2025. Tháng 10 bán ròng 24 ngàn tỷ (cao nhất kể từ 10/2025), chưa có tháng nào mua ròng, với MCH 9,6 ngàn tỷ, HDB 3,4 ngàn tỷ, PNJ 2,1 ngàn tỷ bị bán ròng mạnh."
     }
   ]
 }
