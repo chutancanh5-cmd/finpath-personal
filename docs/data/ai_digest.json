@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-04",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "NHNN bơm thanh khoản dài hạn (48.800 tỷ VND qua swap 182 ngày) và các doanh nghiệp bắt đầu hưởng giảm lãi suất 0,5-1,5%, tạo điểm sáng chính sách hỗ trợ. Dự báo GDP năm 2027 nâng lên 11% từ các tổ chức quốc tế và dự trữ ngoại hối tăng cao (tương đương 5 tháng nhập khẩu - cao nhất 3 năm). Tuy nhiên, khối ngoại bán ròng 122 ngàn tỷ VND trong 10 tháng (vượt kỷ lục 2025), với tháng 10 riêng đạt 24 ngàn tỷ VND, kèm sức ép từ thị trường Trung Quốc (CSI 300 giảm 8,5% tháng 10), tạo rủi ro ngắn hạn cho nhà đầu tư.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Ngân hàng Nhà nước nới lỏng thanh khoản với giao dịch hoán đổi USD/VND dài hạn 182 ngày (48.800 tỷ đồng/2 tỷ USD) và các ngân hàng thương mại giảm lãi suất cho doanh nghiệp 0,5-1,5 điểm phần trăm, giúp nền kinh tế thêm động lực. Standard Chartered nâng dự báo GDP 2028 từ 6,7% lên 9,1%, chỉ ra triển vọng tăng trưởng hai con số bền vững. Doanh nghiệp như PV GAS lãi tăng 80% nhờ giá dầu cao (97 USD/thùng) và nhu cầu LNG tăng 24%, thị trường cổ phiếu cũng khởi sắc hôm nay. Tuy nhiên, khối ngoại đã bán ròng 122 ngàn tỷ đồng (kỷ lục năm 2025) và Trung Quốc tạm dừng IPO vì thị trường suy giảm, gây áp lực ngắn hạn.",
   "top": [
     {
-      "title": "NHNN bơm thanh khoản dài hạn qua hoán đổi ngoại tệ",
+      "title": "NHNN bơm 48.800 tỷ đồng/2 tỷ USD kỳ hạn 182 ngày",
       "impact": "↑",
-      "note": "NHNN dự kiến cung ứng gần 48.800 tỷ VND cho hệ thống ngân hàng thông qua giao dịch hoán đổi USD/VND kỳ hạn 182 ngày (tối đa 2 tỷ USD, giá 24.399 VND/USD mua giao ngay, 24.704 VND/USD bán kỳ hạn). Kỳ hạn dài hơn nhiều so với các lần can thiệp trước, nhằm giảm lãi suất và mở rộng dư địa tín dụng."
+      "note": "NHNN phát hành hoán đổi USD/VND kỳ hạn 182 ngày (dài nhất năm 2026) với quy mô tối đa 2 tỷ USD, cung cấp 48.800 tỷ đồng cho hệ thống ngân hàng, đồng thời yêu cầu giảm lãi suất và mở rộng dư địa tín dụng."
     },
     {
-      "title": "Khối ngoại bán ròng kỷ lục, vượt năm 2025",
+      "title": "Standard Chartered nâng GDP 2028 từ 6,7% lên 9,1%",
+      "impact": "↑",
+      "note": "Standard Chartered duy trì dự báo GDP 2026 ở 9,5%, GDP 2027 ở 11%, và tăng mục tiêu GDP 2028 từ 6,7% lên 9,1% (+2,4 điểm), dựa trên chính sách hỗ trợ, FDI mạnh mẽ, nhu cầu tiêu dùng và đầu tư tăng."
+    },
+    {
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ đồng trong 10 tháng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 122 ngàn tỷ VND trong 10 tháng 2026, vượt kỷ lục 111 ngàn tỷ VND của cả năm 2025. Riêng tháng 10 bán ròng 24 ngàn tỷ VND (cao nhất từ tháng 10/2025), với MCH bị bán ròng 9.6 ngàn tỷ VND dẫn đầu."
+      "note": "Khối ngoại bán ròng gần 122 ngàn tỷ đồng trên HOSE từ đầu năm, vượt mức kỷ lục gần 111 ngàn tỷ đồng của cả năm 2025; tháng 10 bán ròng 24 ngàn tỷ, cao nhất kể từ tháng 10/2025."
     },
     {
-      "title": "Dự báo GDP Việt Nam lên 11% năm 2027",
+      "title": "PV GAS lãi ròng tăng 80%, sở hữu 51 ngàn tỷ đồng",
       "impact": "↑",
-      "note": "Standard Chartered duy trì dự báo GDP 2026 ở 9,5% và nâng 2027 lên 11%. Nâng dự báo 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm). Được hỗ trợ bởi chính sách tài khóa, tiền tệ, dòng FDI mạnh và nhu cầu tiêu dùng, đầu tư trong nước gia tăng. Dự trữ ngoại hối cao tương đương 5 tháng nhập khẩu (cao nhất 3 năm)."
+      "note": "GAS ghi nhận lãi ròng quý 3/2026 đạt gần 4.58 ngàn tỷ đồng, tăng 80% so với cùng kỳ; doanh thu 39.7 ngàn tỷ đồng tăng 11%, nhờ giá dầu Brent bình quân 97 USD/thùng (+41%) và sản lượng khí khô, LNG tăng 24%."
     },
     {
-      "title": "Doanh nghiệp được giảm lãi suất cho vay",
+      "title": "Ngân hàng giảm lãi suất cho doanh nghiệp 0,5-1,5 điểm",
       "impact": "↑",
-      "note": "Nhiều doanh nghiệp nhận giảm lãi suất 0,5-1,5 điểm phần trăm, tiết kiệm hàng trăm triệu VND/tháng. Ít nhất 2 ngân hàng xác nhận giảm lãi suất cho cả khoản vay mới và dư nợ hiện hữu, giúp doanh nghiệp tăng nguồn lực sản xuất."
-    },
-    {
-      "title": "PV GAS lãi ròng tăng 80% nhờ giá dầu",
-      "impact": "↑",
-      "note": "PV GAS Q3 doanh thu 39.700 tỷ VND (tăng 11% YoY), lãi ròng gần 4.580 tỷ VND (tăng 80%). Giá dầu Brent bình quân Q3 đạt 97 USD/thùng (tăng 41%), sản lượng khí khô và LNG tăng 24%. Lũy kế 9 tháng doanh thu đạt 121 ngàn tỷ VND (tăng 32%)."
+      "note": "Nhiều doanh nghiệp báo cáo nhận được thông báo giảm lãi suất từ ngân hàng 0,5 đến 1,5 điểm phần trăm, tiết kiệm hàng trăm triệu đồng mỗi tháng; hai ngân hàng xác nhận giảm lãi cả vay mới lẫn dư nợ hiện có."
     },
     {
       "title": "Trung Quốc tạm dừng IPO, CSI 300 giảm 8,5% tháng 10",
       "impact": "↓",
-      "note": "Nhà chức trách Trung Quốc yêu cầu các ngân hàng tạm hoãn IPO và bán cổ phiếu quy mô lớn để ổn định thị trường. CSI 300 giảm 8,5% tháng 10 (mức giảm mạnh nhất hơn 10 năm), xuống 15% từ đầu năm. Thị trường chịu sức ép từ vấn đề kinh tế vĩ mô và nghi ngờ về đầu tư AI."
+      "note": "Chính phủ Trung Quốc yêu cầu ngân hàng tạm hoãn IPO và bán cổ phiếu quy mô lớn để ổn định thị trường; chỉ số CSI 300 giảm 8,5% tháng 10 (mạnh nhất trên 10 năm), từ đầu năm đã mất 15% so với S&P 500 tăng 10%."
     }
   ]
 }
