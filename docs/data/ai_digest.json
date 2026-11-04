@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi mạnh mẽ với VN-Index tăng 33,4 điểm (+1,97%) nhờ sự chuyển biến tích cực trong tâm lý nhà đầu tư, được thúc đẩy bởi kết quả bầu cử Mỹ. Các chính sách hỗ trợ từ NHNN (giảm lãi suất và cung cấp thanh khoản dài hạn qua hoán đổi USD/VND 2 tỷ USD) tạo đà tích cực cho thị trường. Tuy nhiên, áp lực bán liên tục từ khối ngoại (122 ngàn tỷ đồng trong 10 tháng) vẫn là rủi ro ngắn hạn, đồng thời CPI tăng 4,57% vượt mục tiêu 4,5% đặt áp lực lên chính sách tiền tệ. Triển vọng dài hạn vẫn tích cực với dự báo GDP tăng 9,5% năm 2026 và 11% năm 2027.",
+  "summary_vi": "Tâm lý thị trường Việt Nam tích cực trong phiên 4/11 khi VN-Index bứt phá 33,4 điểm (+1,97%) lên 1.733,02 điểm, nhà đầu tư chủ động giải ngân tại nhiều nhóm cổ phiếu, đặc biệt là chứng khoán. NHNN quyết liệt cung ứng thanh khoản dài hạn (182 ngày) lên tới 48.800 tỷ đồng và yêu cầu giảm mặt bằng lãi suất 0,5-1%/năm, hỗ trợ mục tiêu giảm lãi suất và mở rộng tín dụng. Kinh tế ghi nhận tín hiệu tích cực: xuất khẩu phục hồi mạnh (+12% sang ASEAN/Ấn Độ), dòng vốn FDI kỷ lục, dự báo tăng trưởng GDP 9,5% năm 2026 và 11% năm 2027. Tuy nhiên, khối ngoại bán ròng kỷ lục 122 ngàn tỷ đồng trong 10 tháng tạo rủi ro ngắn hạn, mặc dù áp lực bán giảm trong phiên 4/11 xuống chỉ 70 tỷ đồng.",
   "top": [
     {
       "title": "VN-Index bứt phá 33,4 điểm, tâm lý nhà đầu tư chuyển biến rõ rệt",
       "impact": "↑",
-      "note": "VN-Index tăng 33,4 điểm (+1,97%) lên 1.733,02 điểm, lấy lại toàn bộ tổn thất từ các phiên giảm liên tiếp. Tâm lý nhà đầu tư từ thận trọng quan sát chuyển sang chủ động giải ngân. Tới 40 cổ phiếu đạt kịch trần, thanh khoản buổi chiều tăng 89% so với buổi sáng, được hỗ trợ bởi kết quả cuộc bầu cử giữa nhiệm kỳ Mỹ ngày 3/11."
+      "note": "VN-Index tăng 33,4 điểm (+1,97%) lên 1.733,02 điểm, lấy lại toàn bộ tổn thất từ chuỗi phiên giảm liên tiếp. Thanh khoản HoSE buổi chiều tăng 89% so với sáng, tới 40 cổ phiếu đạt kịch trần (chứng khoán hưởng lợi nhất: TCX, FPT tăng kịch trần, SSI +6,52%, VIX, VCI, VND cũng tăng kịch trần). Tâm lý chuyển từ thận trọng quan sát sang chủ động giải ngân."
     },
     {
-      "title": "NHNN quyết liệt giảm lãi suất và bơm thanh khoản dài hạn",
+      "title": "NHNN cung ứng 48.800 tỷ đồng hoán đổi USD/VND kỳ hạn 182 ngày",
       "impact": "↑",
-      "note": "NHNN thực hiện hoán đổi USD/VND kỳ hạn 182 ngày (dài hơn các đợt trước 7-21 ngày) với quy mô tối đa 2 tỷ USD, cung cấp gần 48.800 tỷ đồng thanh khoản, tỷ giá spot 24.399 đồng/USD. NHNN yêu cầu các ngân hàng giảm lãi suất huy động 0,5-1%/năm cho tiền gửi kỳ hạn 6 tháng trở lên để hỗ trợ nền kinh tế."
+      "note": "NHNN can thiệp thị trường ngoại tệ kỳ hạn 182 ngày (dài hơn các lần trước 7-21 ngày), tối đa 2 tỷ USD, cung cấp gần 48.800 tỷ đồng thanh khoản với tỷ giá mua giao ngay 24.399 đồng/USD, tỷ giá bán kỳ hạn 24.704 đồng/USD. Ngày giao dịch 9/11/2026. Đây là biện pháp cung ứng thanh khoản dài hạn hỗ trợ giảm lãi suất và mở rộng tín dụng."
+    },
+    {
+      "title": "NHNN yêu cầu giảm lãi suất huy động 0,5-1%/năm",
+      "impact": "↑",
+      "note": "Phó Thống đốc NHNN Phạm Thanh Hà cho biết NHNN sẽ điều hành thanh khoản chủ động để hỗ trợ giảm mặt bằng lãi suất. NHNN yêu cầu các tổ chức tín dụng giảm từ 0,5-1%/năm lãi suất huy động cho tiền gửi mới phát sinh có kỳ hạn từ 6 tháng trở lên, kết hợp giảm chi phí và chia sẻ lợi nhuận với khách hàng."
     },
     {
       "title": "Khối ngoại bán ròng 122 ngàn tỷ đồng trong 10 tháng, vượt kỷ lục 2025",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 122 ngàn tỷ đồng trên HOSE trong 10 tháng đầu năm 2026, vượt kỷ lục 111 ngàn tỷ đồng của cả năm 2025. Tháng 10 bán ròng 24 ngàn tỷ đồng (mức cao nhất kể từ tháng 10/2025). Trong 22 phiên tháng 10, khối ngoại có 20 phiên bán ròng, đặc biệt MCH bị bán 9,6 ngàn tỷ đồng, HDB 3,4 ngàn tỷ đồng, PNJ 2,1 ngàn tỷ đồng."
+      "note": "Khối ngoại bán ròng 122 ngàn tỷ đồng trên HOSE trong 10 tháng, vượt kỷ lục 111 ngàn tỷ đồng của cả năm 2025. Tháng 10 bán ròng 24 ngàn tỷ (mức cao nhất kể từ 10/2025), với MCH bị bán ròng 9,6 ngàn tỷ đồng, HDB 3,4 ngàn tỷ, PNJ 2,1 ngàn tỷ, FPT 1,9 ngàn tỷ, ACB 1,4 ngàn tỷ đồng."
     },
     {
-      "title": "CPI 10 tháng tăng 4,57%, vượt mục tiêu 4,5%, cần kiểm soát giá",
-      "impact": "→",
-      "note": "CPI bình quân 10 tháng năm 2026 tăng 4,57%, cao hơn mục tiêu 4,5% của cả năm. Bộ Tài chính triển khai biện pháp: chủ động theo dõi dự báo giá; đảm bảo cân đối cung cầu hàng thiết yếu (xăng dầu, lương thực, thực phẩm, thuốc); bảo đảm dự trữ và lưu thông hàng hóa."
-    },
-    {
-      "title": "GDP Việt Nam dự báo tăng 9,5% năm 2026 và 11% năm 2027",
+      "title": "GDP Việt Nam dự báo tăng 11% năm 2027, nợ công nhóm thấp nhất",
       "impact": "↑",
-      "note": "Standard Chartered duy trì dự báo GDP Việt Nam tăng 9,5% năm 2026, 11% năm 2027. Nâng dự báo 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm). Triển vọng được hỗ trợ bởi chính sách tài khóa, tiền tệ, dòng vốn FDI mạnh mẽ, nhu cầu tiêu dùng và đầu tư trong nước gia tăng."
+      "note": "Standard Chartered duy trì dự báo GDP Việt Nam tăng 9,5% năm 2026 và 11% năm 2027, nâng dự báo 2028 từ 6,7% lên 9,1% (+2,4 điểm). Nợ công Việt Nam thuộc nhóm thấp nhất thế giới. Tăng trưởng được hỗ trợ bởi chính sách tài khóa, tiền tệ, dòng vốn FDI mạnh mẽ, nhu cầu tiêu dùng và đầu tư trong nước."
     },
     {
-      "title": "PV GAS lãi ròng tăng 80%, lợi nhuận quý 3 đạt 4,58 ngàn tỷ đồng",
+      "title": "Xuất khẩu +12%, dự trữ ngoại hối cao nhất 3 năm",
       "impact": "↑",
-      "note": "Q3/2026, PV GAS doanh thu 39,7 ngàn tỷ đồng (+11% YoY), lợi nhuận ròng 4,58 ngàn tỷ đồng (+80%) nhờ giá dầu Brent bình quân 97 USD/thùng (+41% YoY) và sản lượng tiêu thụ khí khô, LNG tăng 24%. Lũy kế 9 tháng doanh thu 121 ngàn tỷ đồng (+32%), biên lợi nhuận cải thiện từ 11,5% lên 15,7%."
+      "note": "Xuất khẩu Việt Nam sang ASEAN và Ấn Độ tăng hơn 12% trong 8 tháng năm 2026. Thặng dư tài khoản vãng lai mở rộng lên 2,8% GDP. Dự trữ ngoại hối tương đương hơn 5 tháng nhập khẩu, cao nhất trong 3 năm. Hàng hóa liên quan AI đóng góp hơn 70% vào đà tăng xuất khẩu."
     }
   ]
 }
