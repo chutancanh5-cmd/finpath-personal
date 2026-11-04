@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường bắt đầu hồi phục với VN-Index tăng 33 điểm nhờ tâm lý mua đuổi cải thiện, tuy nhiên áp lực bán từ cơ cấu danh mục ETF (~20.000 tỷ đồng) tuần này là rủi ro chính. Chính phủ triển khai biện pháp hỗ trợ (giảm thuế xăng về 0%, giảm giá điện 2%) để kiềm chế lạm phát ở 4,5%, nhưng tốc độ truyền tải giảm lãi suất cho vay vẫn chậm. Các công ty năng lượng được lợi từ giá dầu cao (GAS lãi tăng 80%), trong khi một số doanh nghiệp gặp khó khăn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán hồi phục với VNI +33 điểm nhờ chính sách hỗ trợ (giảm TTĐB xăng, điện) mặc dù CPI 10 tháng vẫn cao hơn mục tiêu 4,5%. Vàng thế giới bứt phá +2,7% lên 4.036 USD/oz do USD suy yếu sau bầu cử Mỹ. Áp lực bán từ ETF rebalance (20.000 tỷ) và lãi suất cho vay giảm chậm (0,2-0,5% vs yêu cầu 1,5-2%) là những rủi ro gần hạn. Lợi nhuận doanh nghiệp năng lượng mạnh (PV GAS lãi +80%) cho thấy lợi ích từ giá dầu cao.",
   "top": [
     {
-      "title": "Các quỹ ETF cơ cấu danh mục với áp lực bán 20.000 tỷ",
+      "title": "ETF rebalance 20.000 tỷ, KDH bị loại VNDiamond",
       "impact": "↓",
-      "note": "Các quỹ ETF tổng quy mô ~20.000 tỷ đồng sẽ cơ cấu danh mục từ 9-13/11/2026. Quỹ FUEVFVND dự kiến bán ra ~4,8 triệu cổ phiếu KDH. KDH bị loại khỏi rổ VNDiamond do không đạt tiêu chí duy trì FOL. Danh mục mới có hiệu lực từ 16/11/2026."
+      "note": "Các quỹ ETF mô phỏng chỉ số VNDiamond, VN30, VNFin Lead sẽ rebalance từ 9-13/11, trong đó quỹ FUEVFVND dự kiến bán ra khoảng 4,8 triệu cổ phiếu KDH do bị loại khỏi VNDiamond. Tổng tài sản ba quỹ quản lý khoảng 20.000 tỷ đồng tạo áp lực bán trong kỳ này."
     },
     {
-      "title": "Chính phủ triển khai 5 nhóm giải pháp kiểm soát CPI 4,5%",
+      "title": "Bộ Tài chính giảm TTĐB xăng về 0%, điện -2%",
+      "impact": "↑",
+      "note": "Bộ Tài chính giảm thuế tiêu thụ đặc biệt xăng về 0% và giảm giá bán lẻ điện 2% để kiềm chế lạm phát. CPI bình quân 10 tháng là 4,57%, cao hơn mục tiêu 4,5% cả năm. Các biện pháp này nhằm giảm chi phí sản xuất và sinh hoạt, hỗ trợ mục tiêu kiểm soát lạm phát những tháng cuối năm."
+    },
+    {
+      "title": "VN-Index +33 điểm, hồi phục kỹ thuật",
+      "impact": "↑",
+      "note": "VNI tăng 33 điểm, kiểm định thành công vùng đáy 1.700 điểm và hình thành nến xanh biên độ rộng. Thanh khoản cải thiện vượt mức trung bình 20 phiên, lực cầu chiếm ưu thế với dòng tiền quay trở lại. RSI bật tăng kiểm định lại đường xu hướng giảm ngắn hạn."
+    },
+    {
+      "title": "PV GAS lãi +80%, lợi nhuận 4,58 ngàn tỷ",
+      "impact": "↑",
+      "note": "Quý 3/2026, PV GAS lãi ròng gần 4,58 ngàn tỷ đồng, tăng 80% so với cùng kỳ. Giá dầu Brent bình quân quý 3 là 97 USD/thùng (tăng 41% cùng kỳ) và sản lượng tiêu thụ khí khô, LNG tăng 24%. Lũy kế 9 tháng, doanh thu đạt gần 121 ngàn tỷ đồng, tăng 32% so với cùng kỳ."
+    },
+    {
+      "title": "Lãi suất cho vay giảm 0,2-0,5%, yêu cầu 1,5-2%",
       "impact": "→",
-      "note": "CPI bình quân 10 tháng = 4,57%, cao hơn mục tiêu cả năm 4,5%. Chính phủ giảm giá điện 2%, điều chỉnh thuế xăng về 0%, bảo đảm cung cấp hàng hóa, quản lý kỳ vọng lạm phát. Mục tiêu giảm lãi suất cho vay 1,5-2%/năm, nhưng thực tế mới giảm 0,2-0,5%."
+      "note": "NHNN yêu cầu giảm lãi suất cho vay 1,5-2%/năm cho sản xuất kinh doanh, nhưng thực tế hơn 20 ngân hàng chỉ giảm 0,2-0,5%/năm. Các tổ chức tín dụng giảm lãi suất huy động bình quân 0,5%/năm, thấp hơn mục tiêu 0,5-1%/năm của NHNN."
     },
     {
-      "title": "Giá vàng tăng mạnh sau bầu cử Mỹ",
+      "title": "Vàng thế giới +2,7% lên 4.036 USD/oz",
       "impact": "↑",
-      "note": "Giá vàng thế giới tăng gần 3% lên 4.040 USD/ounce. Đồng USD suy yếu sau chiến thắng Đảng Dân chủ tại bầu cử giữa kỳ Mỹ. Lo ngại triển vọng tài khóa Mỹ hỗ trợ giá vàng."
-    },
-    {
-      "title": "VN-Index tăng 33 điểm, hồi phục kỹ thuật ngắn hạn",
-      "impact": "↑",
-      "note": "VN-Index tăng 33 điểm, kiểm định thành công vùng đáy 1.700 điểm. Thanh khoản vượt mức trung bình 20 phiên. RSI bật tăng kiểm định lại đường xu hướng giảm. Vùng hỗ trợ: 1700-1710; kháng cự: 1740-1750."
-    },
-    {
-      "title": "PV GAS lãi ròng tăng 80%, sở hữu ~51 ngàn tỷ tiền",
-      "impact": "↑",
-      "note": "GAS lãi ròng ~4,58 ngàn tỷ đồng, tăng 80% so với cùng kỳ. Giá dầu Brent tăng 41% lên 97 USD/thùng quý 3. Sản lượng khí khô và LNG tăng 24%. Lũy kế 9 tháng doanh thu ~121 ngàn tỷ đồng, tăng 32%."
-    },
-    {
-      "title": "DVV giảm sàn phiên thứ 2 ngay sau niêm yết",
-      "impact": "↓",
-      "note": "Cổ phiếu DVV giảm sàn lần thứ 2 liên tiếp kể từ niêm yết 2/11/2026. Mất 18% giá trị sau 3 phiên, vốn hóa còn ~4,5 ngàn tỷ đồng. Thanh khoản thấp (chỉ 123,100 cp giao dịch, ~5,6 tỷ đồng). Tương phản: lãi Q3 tăng 61%."
+      "note": "Vàng tăng vọt 2,7% lên 4.036 USD/ounce trong phiên 4/11, mức tăng mạnh nhất kể từ 19/8. Đà tăng được hỗ trợ bởi USD suy yếu sau chiến thắng áp đảo của Đảng Dân chủ trong bầu cử giữa kỳ tại Mỹ. Vàng trong nước tăng 1-2,8 triệu đồng/lượng, SJC lên 142,4 triệu đồng/lượng."
     }
   ]
 }
