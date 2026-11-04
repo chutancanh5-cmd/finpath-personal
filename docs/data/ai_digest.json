@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán bùng nổ với 40 cổ phiếu kịch trần, VN-Index tăng 33 điểm nhờ kỳ vọng Trung Đông hạ nhiệt sau bầu cử Mỹ, thanh khoản HoSE chiều tăng 89%. NHNN triển khai quyết liệt giảm lãi suất: yêu cầu ngân hàng giảm lãi suất huy động 0,5-1%/năm, bơm 48.800 tỷ đồng thanh khoản kỳ hạn 182 ngày để mở rộng dư địa tín dụng. Kinh tế Việt Nam dự báo tăng 9,5% năm 2026, 11% năm 2027 với xuất khẩu sang ASEAN/Ấn Độ tăng 12%, dự trữ ngoại hối cao nhất 3 năm, AI đóng góp 70% tăng trưởng xuất khẩu. Rủi ro từ khối ngoại bán ròng kỷ lục 122 ngàn tỷ (vượt 2025 111 ngàn tỷ) và CPI vẫn ở 4,57% (cao hơn mục tiêu 4,5%).",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi mạnh mẽ với VN-Index tăng 33,4 điểm (+1,97%) nhờ sự chuyển biến tích cực trong tâm lý nhà đầu tư, được thúc đẩy bởi kết quả bầu cử Mỹ. Các chính sách hỗ trợ từ NHNN (giảm lãi suất và cung cấp thanh khoản dài hạn qua hoán đổi USD/VND 2 tỷ USD) tạo đà tích cực cho thị trường. Tuy nhiên, áp lực bán liên tục từ khối ngoại (122 ngàn tỷ đồng trong 10 tháng) vẫn là rủi ro ngắn hạn, đồng thời CPI tăng 4,57% vượt mục tiêu 4,5% đặt áp lực lên chính sách tiền tệ. Triển vọng dài hạn vẫn tích cực với dự báo GDP tăng 9,5% năm 2026 và 11% năm 2027.",
   "top": [
     {
-      "title": "NHNN quyết liệt giảm lãi suất, yêu cầu ngân hàng giảm 0,5-1%/năm",
+      "title": "VN-Index bứt phá 33,4 điểm, tâm lý nhà đầu tư chuyển biến rõ rệt",
       "impact": "↑",
-      "note": "Phó Thống đốc Phạm Thanh Hà công bố NHNN yêu cầu các tổ chức tín dụng giảm lãi suất huy động từ 0,5-1%/năm cho tiền gửi mới từ 6 tháng trở lên. NHNN sẽ điều hành thanh khoản chủ động, cung ứng vốn để hỗ trợ giảm mặt bằng lãi suất. Giảm áp lực chi phí cho doanh nghiệp vay vốn."
+      "note": "VN-Index tăng 33,4 điểm (+1,97%) lên 1.733,02 điểm, lấy lại toàn bộ tổn thất từ các phiên giảm liên tiếp. Tâm lý nhà đầu tư từ thận trọng quan sát chuyển sang chủ động giải ngân. Tới 40 cổ phiếu đạt kịch trần, thanh khoản buổi chiều tăng 89% so với buổi sáng, được hỗ trợ bởi kết quả cuộc bầu cử giữa nhiệm kỳ Mỹ ngày 3/11."
     },
     {
-      "title": "NHNN bơm 48.800 tỷ đồng thanh khoản dài hạn 182 ngày",
+      "title": "NHNN quyết liệt giảm lãi suất và bơm thanh khoản dài hạn",
       "impact": "↑",
-      "note": "NHNN cung ứng gần 48.800 tỷ đồng thông qua hoán đổi USD/VND kỳ hạn 182 ngày, quy mô tối đa 2 tỷ USD, ngày giá trị 9/11/2026. Tỷ giá mua giao ngay 24.399 đồng/USD, bán kỳ hạn 24.704 đồng/USD. Kỳ hạn dài hơn đáng kể so với các đợt can thiệp trước, mở rộng dư địa tín dụng."
+      "note": "NHNN thực hiện hoán đổi USD/VND kỳ hạn 182 ngày (dài hơn các đợt trước 7-21 ngày) với quy mô tối đa 2 tỷ USD, cung cấp gần 48.800 tỷ đồng thanh khoản, tỷ giá spot 24.399 đồng/USD. NHNN yêu cầu các ngân hàng giảm lãi suất huy động 0,5-1%/năm cho tiền gửi kỳ hạn 6 tháng trở lên để hỗ trợ nền kinh tế."
     },
     {
-      "title": "40 cổ phiếu kịch trần, VN-Index tăng 33 điểm",
-      "impact": "↑",
-      "note": "VN-Index tăng 33 điểm, đóng cửa 1.733 điểm. 40+ cổ phiếu kịch trần, nhóm chứng khoán nổi bật: TCX, FPT, VIX, VIG, CTS, VND, VCI cùng kịch trần. SSI thanh khoản 940.2 tỷ đồng (+6,52%), VIX 674.5 tỷ, VCI 432.4 tỷ, VND 296.8 tỷ. Thanh khoản HoSE chiều tăng 89% so với sáng, tâm lý cực kỳ hưng phấn."
-    },
-    {
-      "title": "GDP Việt Nam dự báo tăng 11% năm 2027, nợ công thấp nhất thế giới",
-      "impact": "↑",
-      "note": "Standard Chartered duy trì dự báo GDP 2026: 9,5%; 2027: 11%. Nâng dự báo 2028 từ 6,7% lên 9,1%, tăng 2,4 điểm phần trăm. Nợ công thuộc nhóm thấp nhất thế giới. Hỗ trợ từ chính sách tài khóa-tiền tệ ổn định, dòng vốn FDI mạnh mẽ, nhu cầu tiêu dùng và đầu tư gia tăng."
-    },
-    {
-      "title": "Kinh tế Việt Nam: xuất khẩu tăng 12%, FDI kỷ lục, AI 70% tăng trưởng",
-      "impact": "↑",
-      "note": "Xuất khẩu sang ASEAN/Ấn Độ tăng 12% trong 8 tháng 2026, bù đắp suy giảm thị trường Âu-Mỹ. Thặng dư tài khoản vãng lai mở rộng 2,8% GDP, dự trữ ngoại hối tương đương 5 tháng nhập khẩu (cao nhất 3 năm). Các mặt hàng liên quan AI đóng góp hơn 70% vào đà tăng trưởng xuất khẩu, dòng vốn FDI kỷ lục."
-    },
-    {
-      "title": "Khối ngoại bán ròng 122 ngàn tỷ, vượt kỷ lục 2025",
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ đồng trong 10 tháng, vượt kỷ lục 2025",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 122 ngàn tỷ đồng trên HOSE trong 10 tháng 2026, vượt kỷ lục 111 ngàn tỷ của cả năm 2025. Không tháng mua ròng nào, tháng 10 bán ròng 24 ngàn tỷ (cao nhất từ 10/2025). MCH bị bán ròng 9,6 ngàn tỷ, HDB 3,4 ngàn tỷ, PNJ 2,1 ngàn tỷ, FPT 1,9 ngàn tỷ, ACB 1,4 ngàn tỷ. Tâm lý nhà đầu tư nước ngoài yếu đi."
+      "note": "Khối ngoại bán ròng 122 ngàn tỷ đồng trên HOSE trong 10 tháng đầu năm 2026, vượt kỷ lục 111 ngàn tỷ đồng của cả năm 2025. Tháng 10 bán ròng 24 ngàn tỷ đồng (mức cao nhất kể từ tháng 10/2025). Trong 22 phiên tháng 10, khối ngoại có 20 phiên bán ròng, đặc biệt MCH bị bán 9,6 ngàn tỷ đồng, HDB 3,4 ngàn tỷ đồng, PNJ 2,1 ngàn tỷ đồng."
+    },
+    {
+      "title": "CPI 10 tháng tăng 4,57%, vượt mục tiêu 4,5%, cần kiểm soát giá",
+      "impact": "→",
+      "note": "CPI bình quân 10 tháng năm 2026 tăng 4,57%, cao hơn mục tiêu 4,5% của cả năm. Bộ Tài chính triển khai biện pháp: chủ động theo dõi dự báo giá; đảm bảo cân đối cung cầu hàng thiết yếu (xăng dầu, lương thực, thực phẩm, thuốc); bảo đảm dự trữ và lưu thông hàng hóa."
+    },
+    {
+      "title": "GDP Việt Nam dự báo tăng 9,5% năm 2026 và 11% năm 2027",
+      "impact": "↑",
+      "note": "Standard Chartered duy trì dự báo GDP Việt Nam tăng 9,5% năm 2026, 11% năm 2027. Nâng dự báo 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm). Triển vọng được hỗ trợ bởi chính sách tài khóa, tiền tệ, dòng vốn FDI mạnh mẽ, nhu cầu tiêu dùng và đầu tư trong nước gia tăng."
+    },
+    {
+      "title": "PV GAS lãi ròng tăng 80%, lợi nhuận quý 3 đạt 4,58 ngàn tỷ đồng",
+      "impact": "↑",
+      "note": "Q3/2026, PV GAS doanh thu 39,7 ngàn tỷ đồng (+11% YoY), lợi nhuận ròng 4,58 ngàn tỷ đồng (+80%) nhờ giá dầu Brent bình quân 97 USD/thùng (+41% YoY) và sản lượng tiêu thụ khí khô, LNG tăng 24%. Lũy kế 9 tháng doanh thu 121 ngàn tỷ đồng (+32%), biên lợi nhuận cải thiện từ 11,5% lên 15,7%."
     }
   ]
 }
