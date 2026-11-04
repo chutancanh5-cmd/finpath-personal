@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam có phiên phục hồi mạnh với VN-Index tăng 33,4 điểm (+1,97%) lên 1.733,02 điểm sau 4 phiên giảm liên tiếp. Tâm lý nhà đầu tư cải thiện rõ rệt do kết quả bầu cử Mỹ giảm lo ngại căng thẳng Trung Đông. Chính phủ tập trung kiểm soát CPI thông qua giảm thuế xăng xuống 0% và giảm giá điện 2%, trong khi hơn 20 ngân hàng triển khai gói tín dụng ưu đãi với lãi suất giảm 1,5-2%/năm hỗ trợ doanh nghiệp. Tuy nhiên, khối ngoại tiếp tục bán ròng 122 ngàn tỷ đồng trong 10 tháng, vượt kỷ lục 2025, tạo áp lực trung hạn cho thị trường.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phục hồi mạnh nhờ kỳ vọng lạm phát được kiểm soát và chính sách hỗ trợ thanh khoản toàn hệ thống. Tất cả 46 ngân hàng đã giảm lãi suất huy động và hơn 20 ngân hàng triển khai gói tín dụng ưu đãi, giảm đáng kể chi phí tài chính cho doanh nghiệp. VN-Index tăng 1,97% với 548 mã tăng, tâm lý mua chủ động đặc biệt nhóm chứng khoán. Tuy nhiên, khối ngoại tiếp tục bán ròng kỷ lục 122 ngàn tỷ đồng trong 10 tháng tạo áp lực dài hạn. Doanh thu năng lượng bùng nổ (PV GAS lãi tăng 80%) hỗ trợ thị trường nhưng chưa thể đảo ngược xu hướng bán của nhà đầu tư nước ngoài.",
   "top": [
     {
-      "title": "Toàn bộ 46 ngân hàng giảm lãi suất huy động, sóng giảm lãi cho vay lan rộng",
+      "title": "Toàn bộ 46 ngân hàng giảm lãi suất huy động, 20+ triển khai gói tín dụng ưu đãi",
       "impact": "↑",
-      "note": "Tất cả 46 ngân hàng thương mại đã giảm lãi suất tiền gửi 0,5-0,7%/năm kỳ hạn từ 6 tháng trở lên. Lãi suất cho vay phát sinh mới giảm 0,2-0,5%/năm. Hơn 20 ngân hàng công bố gói ưu đãi với mức giảm 1,5-2%/năm cho lĩnh vực sản xuất và ưu tiên, giúp doanh nghiệp tiết giảm chi phí hàng trăm triệu đồng mỗi tháng."
+      "note": "Tất cả 46 ngân hàng thương mại giảm lãi suất huy động 0,5-0,7%/năm kỳ hạn từ 6 tháng trở lên; hơn 20 ngân hàng công bố gói tín dụng ưu đãi mức giảm 1,5-2%/năm cho lĩnh vực sản xuất kinh doanh; doanh nghiệp tiết giảm chi phí lãi vay hàng trăm triệu đồng mỗi tháng."
     },
     {
-      "title": "VN-Index phục hồi mạnh 33,4 điểm, tâm lý mua đuổi chủ động",
+      "title": "VN-Index tăng 1,97% phục hồi từ vùng đáy, 548 mã tăng",
       "impact": "↑",
-      "note": "VN-Index tăng 33,4 điểm (+1,97%) lên 1.733,02 điểm, HNX-Index tăng 2,57%. Có 548 mã tăng so với 186 mã giảm. Thanh khoản HOSE đạt 15,2 ngàn tỷ đồng. Sự chuyển biến tâm lý từ thận trọng sang chủ động giải ngân đặc biệt mạnh trong phiên chiều (thanh khoản tăng 89%), liên quan đến kết quả bầu cử Mỹ giảm lo ngại xung đột."
+      "note": "VN-Index tăng 33,4 điểm lên 1.733,02 điểm, HNX tăng 6,46 điểm (+2,57%); 548 mã tăng, 186 mã giảm; thanh khoản HoSE đạt hơn 15,2 ngàn tỷ đồng; thanh khoản chiều tăng 89% so với sáng, thể hiện tâm lý mua chủ động rộng rãi."
     },
     {
-      "title": "Khối ngoại bán ròng 122 ngàn tỷ đồng trong 10 tháng, vượt 2025",
+      "title": "Bộ Tài chính công bố giải pháp kiểm soát CPI khoảng 4,5%",
+      "impact": "↑",
+      "note": "CPI bình quân 10 tháng tăng 4,57%, cao hơn mục tiêu 4,5% năm 2026; 5 nhóm giải pháp gồm giảm thuế xăng xuống 0%, giảm giá điện 2%, bảo đảm cung hàng hóa thiết yếu, hỗ trợ doanh nghiệp khó khăn; mục tiêu giảm chi phí sản xuất và sinh hoạt."
+    },
+    {
+      "title": "PV GAS lãi ròng tăng 80%, doanh thu quý 3 đạt hơn 39,7 ngàn tỷ đồng",
+      "impact": "↑",
+      "note": "GAS lãi ròng gần 4,58 ngàn tỷ đồng (+80%); doanh thu thuần hơn 39,7 ngàn tỷ đồng (+11%); giá dầu Brent bình quân quý 3 neo 97 USD/thùng (+41%); sản lượng khí khô, LNG tăng 24%; lũy kế 9 tháng doanh thu 121 ngàn tỷ đồng tăng 32%."
+    },
+    {
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ đồng trong 10 tháng, vượt kỷ lục 2025",
       "impact": "↓",
-      "note": "Khối ngoại đã bán ròng tích lũy 122 ngàn tỷ đồng từ đầu năm 2026, vượt con số kỷ lục gần 111 ngàn tỷ đồng của cả năm 2025. Tháng 10 riêng bán ròng hơn 24 ngàn tỷ đồng. 20 trong 22 phiên giao dịch tháng 10 là phiên bán ròng, với MCH bị bán ròng 9,6 ngàn tỷ đồng dẫn đầu."
+      "note": "Khối ngoại bán ròng hơn 122 ngàn tỷ đồng trên HOSE lũy kế, vượt kỷ lục 111 ngàn tỷ đồng năm 2025; tháng 10 bán ròng hơn 24 ngàn tỷ; MCH bị bán ròng 9,6 ngàn tỷ đồng dẫn đầu, HDB gần 3,4 ngàn tỷ, PNJ hơn 2,1 ngàn tỷ."
     },
     {
-      "title": "Bộ Tài chính giảm thuế xăng 0% và giá điện 2% để kiểm soát CPI",
+      "title": "Cổ phiếu chứng khoán kịch trần, 40 mã tăng hết biên độ phiên chiều",
       "impact": "↑",
-      "note": "CPI bình quân 10 tháng 2026 tăng 4,57%, vượt mục tiêu 4,5% của cả năm. Bộ Tài chính trình 5 nhóm giải pháp: giảm thuế tiêu thụ đặc biệt xăng xuống 0%, giảm giá bán lẻ điện 2%, bảo đảm nguồn cung hàng hóa thiết yếu, hỗ trợ doanh nghiệp khó khăn và kiểm soát giá. Các biện pháp nhằm giảm chi phí sản xuất và sinh hoạt hai tháng cuối năm."
-    },
-    {
-      "title": "Lợi nhuận PV GAS tăng 80% nhờ giá dầu Brent và sản lượng LNG",
-      "impact": "↑",
-      "note": "PV GAS (GAS) lãi ròng quý 3 tăng 80% lên gần 4,58 ngàn tỷ đồng. Doanh thu thuần hơn 39,7 ngàn tỷ đồng tăng 11%. Giá dầu Brent bình quân quý 3 neo ở 97 USD/thùng (tăng 41% so với cùng kỳ). Sản lượng tiêu thụ khí khô và LNG tăng 24%. Lũy kế 9 tháng doanh thu 121 ngàn tỷ đồng tăng 32%."
-    },
-    {
-      "title": "Loạt cổ phiếu kịch trần, nhóm chứng khoán nóng với thanh khoản vọt 89%",
-      "impact": "↑",
-      "note": "Tổng 40 cổ phiếu tăng hết biên độ phiên chiều 4/11. Nhóm chứng khoán dẫn đầu với 6 mã kịch trần (TCX, CTS, VND, VCI, VIX, VIG). SSI tăng 6,52% với thanh khoản đột biến 940,2 tỷ đồng. VIX khớp lệnh tăng 2,7 lần, VCI tăng 3,2 lần. Thanh khoản HoSE buổi chiều tăng 89% so với sáng, chứng minh sức mua chủ động cực cao."
+      "note": "40 cổ phiếu tăng hết biên độ phiên chiều 4/11; nhóm chứng khoán nóng nhất với TCX, CTS, VND, VCI, VIX, VIG kịch trần; SSI tăng 6,52% với thanh khoản 940,2 tỷ đồng; VIX khớp lệnh tăng 2,7 lần, VCI tăng 3,2 lần."
     }
   ]
 }
