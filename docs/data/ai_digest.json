@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-04",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán ngày 4/11 sôi động với VN-Index tăng 33 điểm, thanh khoản tăng 39%, được hỗ trợ bởi đợt giảm lãi suất rộng rãi từ 46 ngân hàng (giảm 0,5-0,7%/năm). Tuy nhiên CPI bình quân 10 tháng tăng 4,57% vượt mục tiêu cả năm 4,5%, bắt Bộ Tài chính phải ra 5 giải pháp gồm giảm thuế xăng xuống 0% và hạ giá bán lẻ điện 2%. Khối ngoại vẫn bán ròng phiên thứ 9 liên tiếp (125 tỷ đồng), trong khi một số chứng khoán hạ kỳ vọng VN-Index xuống 1.800-1.850 điểm vào cuối quý IV.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ngày 4/11 có các tín hiệu tích cực khi VN-Index tăng 33 điểm, được hỗ trợ bởi gói chính sách hỗ trợ kinh tế toàn diện: toàn bộ 46 ngân hàng giảm lãi suất huy động và cho vay, Chính phủ giảm thuế xăng xuống 0% và hạ giá điện 2% để kiềm chế lạm phát (CPI 10 tháng 4,57% so mục tiêu 4,5%). IPO Chứng khoán HD thành công với định giá 1,8 tỷ USD, PV GAS báo lãi tăng 80% nhờ giá dầu cao và sản lượng LNG khởi sắc. Tuy nhiên, mức giảm lãi suất cho vay thực tế chỉ 0,2-0,5%/năm, thấp hơn mục tiêu 1,5-2%/năm.",
   "top": [
     {
-      "title": "VN-Index tăng 33 điểm, thanh khoản tăng 39%",
+      "title": "46 ngân hàng giảm lãi suất, tạo dư địa tín dụng",
       "impact": "↑",
-      "note": "VN-Index tăng 33,4 điểm, thanh khoản sàn HOSE đạt gần 18 ngàn tỷ đồng, tăng 39% so với phiên trước. Tâm lý mua đuổi mạnh mẽ ở cổ phiếu vừa và nhỏ, tự doanh mua ròng 299 tỷ đồng."
+      "note": "Toàn bộ 46 ngân hàng thương mại giảm lãi suất tiền gửi 0,5-0,7%/năm (kỳ hạn 6+ tháng), lãi suất cho vay giảm 0,2-0,5%/năm. Hơn 20 ngân hàng có chương trình tín dụng ưu đãi giảm 1,5-2%/năm, chi phí lãi vay doanh nghiệp giảm hàng trăm triệu đồng mỗi tháng."
     },
     {
-      "title": "46 ngân hàng giảm lãi suất huy động và cho vay",
+      "title": "PV GAS lãi ròng tăng 80%, sở hữu 51 ngàn tỷ tiền",
       "impact": "↑",
-      "note": "Toàn bộ 46 ngân hàng thương mại giảm lãi suất tiền gửi 0,5-0,7%/năm (kỳ hạn 6+ tháng), lãi suất cho vay giảm 0,2-0,5%/năm. Hơn 20 ngân hàng có chương trình tín dụng ưu đãi giảm 1,5-2%/năm, chi phí lãi vay doanh nghiệp giảm hàng trăm triệu đồng/tháng."
+      "note": "PV GAS ghi nhận lãi ròng quý 3/2026 đạt 4.58 ngàn tỷ đồng, tăng 80% so với cùng kỳ. Giá dầu Brent bình quân quý 3 là 97 USD/thùng (tăng 41%), sản lượng tiêu thụ khí khô và LNG tăng 24%, sở hữu gần 51 ngàn tỷ đồng tiền mặt."
     },
     {
-      "title": "CPI 4,57% vượt mục tiêu, Bộ Tài chính ra 5 giải pháp",
-      "impact": "↓",
-      "note": "CPI bình quân 10 tháng 2026 tăng 4,57%, cao hơn mục tiêu cả năm 4,5%. Bộ Tài chính đề ra 5 nhóm giải pháp gồm giảm thuế tiêu thụ đặc biệt xăng về 0% và hạ giá bán lẻ điện 2% để kiềm chế lạm phát những tháng cuối năm."
-    },
-    {
-      "title": "PV GAS lãi ròng quý 3 tăng 80%",
+      "title": "Giảm thuế xăng 0% và giá điện giảm 2%",
       "impact": "↑",
-      "note": "PV GAS ghi nhận lãi ròng quý 3/2026 đạt 4,58 ngàn tỷ đồng, tăng 80% so với cùng kỳ. Giá dầu Brent bình quân quý 3 là 97 USD/thùng (+41%), sản lượng khí khô và LNG tăng 24%, lũy kế 9 tháng doanh thu gần 121 ngàn tỷ (+32%)."
+      "note": "Chính phủ điều chỉnh thuế tiêu thụ đặc biệt xăng về 0% và hạ giá bán lẻ điện 2% để kiềm chế lạm phát. Mục tiêu CPI năm 2026 là 4,5% nhưng CPI 10 tháng đã tăng 4,57%. Các biện pháp này giúp giảm chi phí sản xuất, vận chuyển và lưu thông của doanh nghiệp."
     },
     {
-      "title": "Khối ngoại bán ròng phiên thứ 9 liên tiếp",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 125 tỷ đồng phiên 4/11, đây là phiên bán ròng thứ 9 liên tiếp. Giá trị ròng thấp hơn các phiên trước nhưng vẫn thể hiện áp lực bán liên tục từ nhà đầu tư nước ngoài dù thị trường đang tăng."
+      "title": "VN-Index tăng 33 điểm, hồi phục kỹ thuật",
+      "impact": "↑",
+      "note": "VN-Index tăng 33 điểm, đóng cửa gần mức cao nhất phiên với thanh khoản vượt mức trung bình 20 phiên. Chỉ số hình thành nến xanh biên độ rộng, RSI bật tăng, kiểm định thành công vùng đáy 1.700 điểm, có khả năng tiếp tục tăng tới 1.750-1.765 điểm."
     },
     {
-      "title": "TVS hạ kỳ vọng VN-Index, giảm định giá P/E",
+      "title": "Chứng khoán HD chốt giá IPO 38.900 đồng/cổ phiếu",
+      "impact": "↑",
+      "note": "Chứng khoán HD chốt giá IPO 38.900 đồng/cổ phiếu, định giá sau phát hành 47.400 tỷ đồng (tương đương 1,8 tỷ USD). Đợt IPO dự kiến huy động 4.737 tỷ đồng, 60% dùng bổ sung vốn cho vay giao dịch ký quỹ từ quý IV/2026 đến quý II/2027."
+    },
+    {
+      "title": "Lãi suất cho vay giảm 0,2-0,5%, thấp hơn mục tiêu",
       "impact": "↓",
-      "note": "Chứng khoán Thiên Việt dự báo VN-Index cuối quý IV/2026 ở 1.800-1.850 điểm (hạ từ dự báo trước), giảm định giá P/E kỳ vọng từ 15 lần xuống 12 lần. P/E hiện tại VN-Index 11,2 lần, phản ánh nhà đầu tư không sẵn sàng trả giá cao cho tăng trưởng lợi nhuận."
+      "note": "Mặc dù Ngân hàng Nhà nước yêu cầu giảm lãi suất cho vay 1,5-2%/năm, thực tế chỉ giảm 0,2-0,5%/năm sau nửa tháng triển khai. Mức giảm này thấp hơn đáng kể, có thể hạn chế tác động kích thích đầu tư và nhu cầu vốn tín dụng."
     }
   ]
 }
