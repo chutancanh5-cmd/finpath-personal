@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán tăng tích cực ngày 4/11 với VN-Index +0,77% và 207 mã tăng giá. Tuy nhiên, khối ngoại bán ròng kỷ lục 122 ngàn tỷ đồng (vượt 2025) gây rủi ro thanh khoản. Nền kinh tế được hỗ trợ mạnh từ xuất khẩu tăng 12%, dự trữ ngoại hối cao nhất 3 năm, dự báo GDP 11% (2027), và lãi suất cho vay giảm. Lợi nhuận doanh nghiệp tăng mạnh (Petrolimex, MSR) nhờ giá dầu cao.",
+  "summary_vi": "Nền kinh tế Việt Nam hiện có triển vọng tích cực với dự báo GDP 2027 đạt 11%, được hỗ trợ bởi xuất khẩu tăng 12% sang ASEAN/Ấn Độ, dòng vốn FDI kỷ lục, dự trữ ngoại hối cao nhất 3 năm. Thị trường chứng khoán tăng diện rộng với VN-Index +0,77%, lãi suất cho vay giảm 0,5-1,5%, lợi nhuận doanh nghiệp tăng mạnh (PV GAS +80%) nhờ giá dầu Brent 97 USD. Tuy nhiên, khối ngoại bán ròng kỷ lục 122 ngàn tỷ (vượt 111 ngàn tỷ năm 2025) và thị trường Trung Quốc suy yếu (CSI 300 -8,5% tháng 10) tạo rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 122 ngàn tỷ, vượt kỷ lục 2025",
-      "impact": "↓",
-      "note": "10 tháng 2026, khối ngoại bán ròng gần 122 ngàn tỷ đồng trên HOSE, vượt kỷ lục 111 ngàn tỷ đồng của cả năm 2025. Tháng 10 bán ròng 24 ngàn tỷ đồng (cao nhất kể từ 10/2025), MCH bị bán 9,6 ngàn tỷ, HDB 3,4 ngàn tỷ, PNJ 2,1 ngàn tỷ. 20/22 phiên tháng 10 có bán ròng. Rủi ro định giá và thanh khoản tại các blue-chip."
+      "title": "PV GAS tăng lãi 80%, sở hữu 51 ngàn tỷ đồng",
+      "impact": "↑",
+      "note": "Lợi nhuận ròng GAS đạt 4,58 ngàn tỷ đồng quý 3, tăng 80% so với cùng kỳ. Giá dầu Brent bình quân quý 3 là 97 USD/thùng (tăng 41%), sản lượng tiêu thụ khí khô và LNG tăng 24%. Doanh thu 9 tháng 121 ngàn tỷ, tăng 32% so với cùng kỳ."
     },
     {
       "title": "Standard Chartered nâng dự báo GDP 2027 lên 11%",
       "impact": "↑",
-      "note": "Standard Chartered duy trì dự báo tăng trưởng GDP Việt Nam 9,5% (2026) và 11% (2027), nâng dự báo năm 2028 từ 6,7% lên 9,1%. Tăng trưởng được hỗ trợ bởi dòng vốn FDI kỷ lục, chính sách tài khóa/tiền tệ an toàn, nợ công thấp nhất thế giới. Triển vọng ổn định dài hạn cho nền kinh tế."
+      "note": "Standard Chartered duy trì dự báo GDP Việt Nam 9,5% (2026) và nâng mục tiêu năm 2027 là 11%, cũng nâng dự báo 2028 từ 6,7% lên 9,1% (+2,4 điểm %). Triển vọng hỗ trợ bởi chính sách tài khóa/tiền tệ, FDI mạnh, nợ công thấp nhất thế giới."
+    },
+    {
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ, vượt kỷ lục 2025",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 122 ngàn tỷ đồng trên HOSE trong 10 tháng 2026, vượt kỷ lục 111 ngàn tỷ của cả năm 2025. Tháng 10 bán ròng 24 ngàn tỷ. MCH bị bán 9,6 ngàn tỷ, HDB 3,4 ngàn tỷ, PNJ 2,1 ngàn tỷ. 20/22 phiên tháng 10 có bán ròng."
+    },
+    {
+      "title": "Xuất khẩu sang ASEAN/Ấn Độ tăng 12%, dự trữ ngoại hối cao 3 năm",
+      "impact": "↑",
+      "note": "Xuất khẩu Việt Nam sang ASEAN/Ấn Độ trong 8 tháng 2026 tăng hơn 12%, bù đắp suy giảm nhu cầu từ Âu/Mỹ. Thặng dư tài khoản vãng lai ước tính 2,8% GDP, dự trữ ngoại hối tương đương hơn 5 tháng nhập khẩu (cao nhất 3 năm). Hàng liên quan AI đóng góp hơn 70% tăng xuất khẩu."
     },
     {
       "title": "Cổ phiếu tăng diện rộng, 207 mã tăng, ngân hàng dẫn sóng",
       "impact": "↑",
-      "note": "VN-Index tăng 0,77%, HoSE ghi nhận 207 mã tăng/76 mã giảm. Ngân hàng mạnh: VCB +1,87%, VPB +1,65%, CTG +1,16%, STB +1,8%. FPT +4,56%. Biên độ thực tế cao với 188 mã tăng trên 1% từ đáy phiên. Cổ phiếu chứng khoán nổi bật cả biên độ lẫn thanh khoản. Động lực mua rõ nét."
+      "note": "VN-Index tăng 0,77%, HoSE ghi nhận 207 mã tăng/76 mã giảm. Ngân hàng mạnh: VCB +1,87%, VPB +1,65%, CTG +1,16%, STB +1,8%. FPT +4,56%. Biên độ thực tế cao với 188 mã tăng trên 1% từ đáy phiên. Động lực mua rõ nét dần theo thời gian."
     },
     {
-      "title": "Xuất khẩu tăng 12%, dự trữ ngoại hối cao 3 năm",
-      "impact": "↑",
-      "note": "Xuất khẩu Việt Nam sang ASEAN/Ấn Độ trong 8 tháng 2026 tăng hơn 12%, bù đắp nhu cầu suy giảm từ thị trường Âu/Mỹ. Thặng dư tài khoản vãng lai 2,8% GDP, dự trữ ngoại hối tương đương hơn 5 tháng nhập khẩu (cao nhất 3 năm). AI đóng góp hơn 70% tăng xuất khẩu. Nền tảng tài khóa vững chắc."
-    },
-    {
-      "title": "Lãi suất cho vay giảm 0,5-1,5 điểm %, doanh nghiệp tiết kiệm",
-      "impact": "↑",
-      "note": "Các doanh nghiệp nhận được thông báo giảm lãi suất từ 2 ngân hàng với mức 0,5-1,5 điểm % cho cả khoản vay mới lẫn dư nợ. Tiết kiệm hàng trăm triệu đồng mỗi tháng hỗ trợ tái đầu tư, sản xuất, và chi trả lương cuối năm/Tết. Động lực giảm lãi từ nỗ lực hỗ trợ kinh tế."
-    },
-    {
-      "title": "Petrolimex lãi gấp đôi nhờ giá dầu cao",
-      "impact": "↑",
-      "note": "Petrolimex Q3 2026 lãi ròng gấp đôi cùng kỳ nhờ giá dầu thế giới tăng từ 75 USD lên 95 USD/thùng. Doanh thu quý 3 đạt 138,5 ngàn tỷ (+66%), lợi nhuận gộp 7,3 ngàn tỷ (+62%), sản lượng tăng 18%. Các công ty con hoạt động trong chuyên doanh (dầu mỡ nhờn, gas, nhiên liệu bay) cũng duy trì tăng trưởng tích cực."
+      "title": "Thị trường Trung Quốc suy yếu, CSI 300 -8,5% tháng 10",
+      "impact": "↓",
+      "note": "Chỉ số CSI 300 giảm 8,5% trong tháng 10, mức giảm theo tháng mạnh nhất hơn một thập kỷ. Từ đầu năm CSI 300 mất 15%, trái ngược S&P 500 tăng 10%. Nhà chức trách Trung Quốc tạm dừng IPO nhằm ổn định thị trường."
     }
   ]
 }
