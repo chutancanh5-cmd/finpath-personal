@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-04",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam duy trì tăng trưởng mạnh mẽ: GDP 9 tháng đạt 9,01%, Standard Chartered nâng dự báo năm 2027 lên 11% và năm 2028 lên 9,1%. Chính sách giảm lãi suất vay (0,5-1,5 điểm %) hỗ trợ doanh nghiệp tiết kiệm hàng trăm triệu đồng/tháng. Giá dầu cao (95 USD/thùng, cao nhất 105 USD/thùng) giúp Petrolimex lãi gấp đôi và sản lượng tăng 18%. Dòng vốn FDI tiếp tục chảy vào với khu công nghiệp VSIP Nghệ An 3 (52,5 triệu USD). Tuy nhiên, khối ngoại bán ròng 630 tỷ đồng phản ánh lo ngại ngắn hạn.",
+  "summary_vi": "Nền kinh tế Việt Nam duy trì đà tăng trưởng mạnh với GDP 9 tháng 9.01% và dự báo 11% năm 2027, được hỗ trợ bởi chính sách tài khóa-tiền tệ, FDI vào, và nhu cầu tiêu dùng tăng. Doanh nghiệp được hỗ trợ từ giảm lãi suất 0,5-1,5% và giá dầu cao (95 USD/thùng), tăng dòng tiền và lợi nhuận. Tuy nhiên, sự suy yếu ở Trung Quốc (CSI 300 giảm 15% năm) và rủi ro toàn cầu có thể tạo áp lực ngắn hạn lên thị trường cổ phiếu Việt Nam.",
   "top": [
     {
-      "title": "Standard Chartered nâng dự báo GDP 2028 lên 9,1%",
+      "title": "GDP dự báo 11% năm 2027",
       "impact": "↑",
-      "note": "Standard Chartered duy trì dự báo GDP 2026: 9,5%, 2027: 11%, nâng dự báo 2028 từ 6,7% lên 9,1% (tăng 2,4 điểm phần trăm). Triển vọng tích cực được hỗ trợ bởi chính sách tài khóa, tiền tệ, dòng vốn FDI mạnh mẽ, nhu cầu tiêu dùng và đầu tư trong nước gia tăng. Kỳ vọng tăng trưởng hai chữ số đầu năm 2027."
+      "note": "Standard Chartered duy trì dự báo GDP 9,5% năm 2026 và 11% năm 2027, nâng dự báo 2028 từ 6,7% lên 9,1%, được hỗ trợ bởi chính sách tài khóa-tiền tệ, FDI mạnh mẽ và nhu cầu tiêu dùng. Triển vọng tích cực này hỗ trợ tăng trưởng doanh thu và lợi nhuận doanh nghiệp trong dài hạn."
     },
     {
-      "title": "GDP 9 tháng 2026 tăng 9,01%, dẫn đầu ASEAN",
+      "title": "Giá dầu neo cao, Petrolimex lãi quý 3 gấp đôi",
       "impact": "↑",
-      "note": "GDP 9 tháng đầu năm 2026 tăng 9,01% so với cùng kỳ, nhờ phục hồi và bứt phá của ngành công nghiệp chế biến, chế tạo, dịch vụ và xuất nhập khẩu. Lạm phát nằm trong ngưỡng mục tiêu, nợ công duy trì an toàn. Việt Nam tiếp tục giữ vị thế top 4 kinh tế ASEAN với mục tiêu tăng hai chữ số giai đoạn 2026-2030."
+      "note": "Giá dầu thô thế giới tăng từ 75 USD/thùng lên 95 USD/thùng (tăng 27%) trong quý 3, chạm 105 USD/thùng. Petrolimex (PLX) ghi nhận doanh thu tăng 66% lên 138,5 ngàn tỷ đồng và lãi ròng gấp đôi cùng kỳ, hỗ trợ cổ phiếu năng lượng."
     },
     {
-      "title": "Giá dầu 95 USD/thùng, Petrolimex lãi gấp đôi quý 3",
+      "title": "Doanh nghiệp được giảm lãi suất 0,5-1,5%",
       "impact": "↑",
-      "note": "Giá dầu thô quý 3/2026 tăng 27% từ bình quân 75 USD/thùng lên 95 USD/thùng (cao nhất 105 USD/thùng). Petrolimex doanh thu tăng 66% lên gần 138,5 nghìn tỷ đồng, lãi gộp tăng 62% hơn 7,3 nghìn tỷ đồng, sản lượng xuất bán tăng 18% giúp giảm chi phí cố định."
+      "note": "Nhiều doanh nghiệp được ngân hàng giảm lãi suất cho vay từ 0,5 đến 1,5 điểm phần trăm, tiết kiệm hàng trăm triệu đồng mỗi tháng. Giảm chi phí tài chính giúp cải thiện dòng tiền và khả năng tái đầu tư, hỗ trợ lợi nhuận ròng doanh nghiệp."
     },
     {
-      "title": "Doanh nghiệp được giảm lãi suất vay 0,5-1,5 điểm %",
-      "impact": "↑",
-      "note": "Nhiều doanh nghiệp nhận được giảm lãi suất từ 0,5 đến 1,5 điểm phần trăm; ít nhất 2 ngân hàng chấp nhận giảm cho cả khoản vay mới và dư nợ hiện hành. Doanh nghiệp tiết kiệm được hàng trăm triệu đồng mỗi tháng để tái đầu tư sản xuất, kinh doanh và cải thiện chế độ lao động."
-    },
-    {
-      "title": "Khối ngoại bán ròng 630 tỷ đồng, áp lực ngân hàng",
+      "title": "Trung Quốc tạm dừng IPO, CSI 300 giảm 15% năm",
       "impact": "↓",
-      "note": "Phiên 3/11, khối ngoại và tự doanh cùng bán ròng tổng 630 tỷ đồng, phần lớn từ khối ngoại. Nhóm ngân hàng (MBB, VCB, ACB, STB, VPB, SHB) bị bán mạnh; dòng tiền âm cho thấy lo ngại ngắn hạn dù nền tảng vĩ mô vẫn tích cực."
+      "note": "Chỉ số CSI 300 Trung Quốc giảm 8,5% tháng 10 (mức giảm tháng mạnh nhất hơn một thập kỷ), đã mất 15% từ đầu năm, trái ngược với S&P 500 Mỹ tăng 10%. Sự suy yếu của thị trường Trung Quốc tạo áp lực xuống đối với khu vực, bao gồm triển vọng cho cổ phiếu Việt Nam."
     },
     {
-      "title": "Khu công nghiệp VSIP Nghệ An 3 khởi công, 52,5 triệu USD",
+      "title": "GDP 9 tháng tăng 9.01%, mục tiêu hai chữ số 2026-2030",
       "impact": "↑",
-      "note": "Dự án khu công nghiệp VSIP Nghệ An 3 có vốn đăng ký 52,5 triệu USD, diện tích 181,12 ha. Đã hoàn thành 50,96% giải phóng mặt bằng (92,30 ha) với kinh phí bồi thường 154,71 tỷ đồng. Dự án tạo cơ hội việc làm mới và tiếp tục khẳng định dòng vốn FDI chảy vào các khu vực."
+      "note": "GDP 9 tháng đầu 2026 tăng 9.01% so với cùng kỳ, nhờ phục hồi mạnh của ngành công nghiệp chế biến-chế tạo, dịch vụ và xuất nhập khẩu. Kết quả xác nhận đà tăng mạnh, là nền tảng cho mục tiêu tăng trưởng hai chữ số giai đoạn 2026-2030."
+    },
+    {
+      "title": "Khởi công khu công nghiệp VSIP Nghệ An 3",
+      "impact": "↑",
+      "note": "Dự án khu công nghiệp VSIP Nghệ An 3 có tổng vốn đăng ký 52,5 triệu USD, quy mô 181,12 ha, đã hoàn thành giải phóng mặt bằng 92,30 ha (50,96%). Đầu tư hạ tầng mở ra cơ hội việc làm mới và hỗ trợ dòng vốn FDI vào miền Trung."
     }
   ]
 }
