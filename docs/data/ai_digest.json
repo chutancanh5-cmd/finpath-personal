@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Hôm 5/11, chính phủ ưu tiên cao kiểm soát lạm phát 2 tháng cuối năm gắn mục tiêu tăng trưởng 2 con số; lãi suất bắt đầu hạ nhiệt (giảm 0,4-0,5%) giúp giảm chi phí tín dụng. Hà Nội khởi động đầu tư metro hơn 1 triệu tỷ đồng kích thích tăng trưởng. Dầu khí PVOIL tăng lợi nhuận vọt (gấp 5,7 lần) nhờ giá dầu Brent 97 USD/thùng; Bắc Ninh tiếp tục thu hút FDI mạnh mẽ với 52,49 tỷ USD. Thị trường phân hóa (VN-Index +0,34%) nhưng xu hướng vĩ mô khá tích cực.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Nền kinh tế Việt Nam có tín hiệu tích cực từ FDI mạnh (Bắc Ninh vượt 50 tỷ USD), lãi suất bắt đầu hạ nhiệt sau chỉ đạo của Ngân hàng Nhà nước, và dầu khí báo lãi cao nhờ giá dầu 97 USD/thùng tăng 40%. Tuy nhiên, thị trường chứng khoán chịu áp lực ngắn hạn với phân hóa mạnh (147 xanh/148 đỏ), dòng tiền chảy sang vàng (+2-2,5 triệu đồng/lượng), và Thủ tướng nhấn mạnh kiểm soát lạm phát có thể tiếp tục kiềm chế động lực tăng ngắn hạn.",
   "top": [
     {
-      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "title": "Lãi suất bắt đầu hạ nhiệt, nới lỏng điều kiện vay vốn",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm, hướng đến mục tiêu tăng trưởng 2 con số gắn ổn định kinh tế vĩ mô; chính sách tập trung này giúp kiềm chế áp lực giá hàng, tạo điều kiện cho thị trường chứng khoán phục hồi."
+      "note": "Lãi suất huy động giảm 0,4-0,5% (so đầu tháng 10), ngân hàng cổ phần giảm 0,5-0,7%, lãi suất cho vay thực tế giảm 0,2-0,5%. Ngân hàng Nhà nước yêu cầu giảm thêm 1,5-2%/năm cho sản xuất kinh doanh. Xu hướng hạ lãi suất mở rộng dư địa tín dụng, hỗ trợ doanh nghiệp và thu hút nhà đầu tư trở lại thị trường chứng khoán."
     },
     {
-      "title": "Hà Nội khởi động 5 tuyến metro hơn 1 triệu tỷ đồng",
+      "title": "FDI tiếp tục mạnh - Bắc Ninh vượt 50 tỷ USD",
       "impact": "↑",
-      "note": "HĐND TP Hà Nội thông qua nghị quyết 5 tuyến metro (số 1, 2, 8, 10, 14) dài 253,5 km, tổng mức đầu tư hơn 1 triệu tỷ đồng, dự hoàn thành 2030; đầu tư công lớn này kích thích tăng trưởng và tạo nhu cầu cho các nhóm ngành xây dựng, vật liệu, công nghiệp hỗ trợ."
+      "note": "Bắc Ninh đạt 52,49 tỷ USD vốn FDI đăng ký luỹ kế trên 3.705 dự án, xếp thứ 2 toàn quốc sau TP.HCM (156,79 tỷ USD). Thu hút các tập đoàn Foxconn, Amkor, Canon. Tính đến tháng 9/2026, Việt Nam có 48.106 dự án FDI còn hiệu lực với tổng vốn hơn 571 tỷ USD từ 154 quốc gia."
     },
     {
-      "title": "Lãi suất bắt đầu hạ nhiệt, ngân hàng giảm 0,4-0,5%",
+      "title": "Lợi nhuận dầu khí vượt tăng - PVOIL lãi gấp 5,7 lần",
       "impact": "↑",
-      "note": "Đầu tháng 11, lãi suất huy động giảm khoảng 0,4%, lãi suất cho vay thực tế giảm 0,2-0,5%, Ngân hàng Nhà nước yêu cầu giảm thêm 1,5-2%/năm cho sản xuất kinh doanh và lĩnh vực ưu tiên; xu hướng hạ lãi suất giúp giảm chi phí tín dụng, hỗ trợ doanh nghiệp và nhà đầu tư."
+      "note": "PVOIL quý 3/2026 ghi nhận lãi ròng 716 tỷ đồng, gấp 5,7 lần cùng kỳ 2025. Doanh thu thuần 90,4 ngàn tỷ đồng gấp 2,8 lần, lợi nhuận gộp 2,44 ngàn tỷ đồng gấp 2,4 lần, nhờ giá dầu Brent trung bình 97 USD/thùng tăng 40% so với cùng kỳ."
     },
     {
-      "title": "PVOIL lãi quý 3 gấp 5,7 lần nhờ giá dầu Brent 97 USD/thùng",
+      "title": "Đầu tư hạ tầng lớn - 5 tuyến metro Hà Nội",
       "impact": "↑",
-      "note": "PVOIL ghi nhận lợi nhuận ròng quý 3 đạt 716 tỷ đồng, gấp 5,7 lần cùng kỳ; doanh thu thuần 90,4 ngàn tỷ đồng gấp 2,8 lần; giá dầu Brent trung bình 97 USD/thùng tăng 40% so với cùng kỳ; kết quả tốt của ngành dầu khí hỗ trợ chỉ số chứng khoán."
+      "note": "HĐND TP Hà Nội thông qua dự án 5 tuyến metro (số 1, 2, 8, 10, 14) tổng chiều dài 253,5 km, tổng mức đầu tư hơn 1 triệu tỷ đồng, mức trần 120 triệu USD/km, mục tiêu hoàn thành 2030. Động lực tăng trưởng dài hạn cho ngành xây dựng, vật liệu xây dựng, công nghiệp hỗ trợ."
     },
     {
-      "title": "Lãi suất cao tạo áp lực lên biên lãi ròng ngân hàng",
-      "impact": "↓",
-      "note": "SSI Research dự báo lãi suất sẽ duy trì ở mức cao, tạo áp lực lên biên lãi ròng ngân hàng; mặc dù BID +39%, CTG +29%, TPB +57% tăng trưởng tốt nhưng VCB đi ngang so với cùng kỳ; rủi ro lạm phát kéo lãi suất cao lâu dài ảnh hưởng lợi nhuận nhóm ngân hàng."
+      "title": "Thủ tướng nhấn mạnh kiểm soát lạm phát - ưu tiên 2 tháng cuối năm",
+      "impact": "→",
+      "note": "Tại họp Chính phủ ngày 4/11, Thủ tướng Lê Minh Hưng nhấn mạnh Chính phủ quyết tâm kiểm soát lạm phát theo mục tiêu Quốc hội, đặc biệt ưu tiên cao nhất trong 2 tháng cuối năm khi tác động giá dầu, năng lượng vẫn rủi ro. Chính sách nên giúp ổn định giá hàng nhưng có thể kiềm chế động lực tăng ngắn hạn."
     },
     {
-      "title": "Bắc Ninh vượt 50 tỷ USD FDI, xếp thứ 2 toàn quốc",
-      "impact": "↑",
-      "note": "Bắc Ninh đạt 52,49 tỷ USD FDI đăng ký lũy kế trên 3.705 dự án, xếp thứ 2 sau TP.HCM (156,79 tỷ USD); thu hút các tập đoàn Foxconn, Amkor, Canon; phát triển hệ sinh thái sản xuất phụ trợ công nghệ cao, hỗ trợ chuỗi cung ứng quốc tế."
+      "title": "Giá vàng bứt phá - dòng tiền chảy sang tài sản an toàn",
+      "impact": "→",
+      "note": "Giá vàng miếng SJC tăng 2,1-2,2 triệu đồng/lượng sáng 5/11 lên 144,5 triệu đồng/lượng (cao nhất 3 tuần), vàng nhẫn tăng 1,8-2,5 triệu đồng/lượng. Tổng tăng 4 phiên (2-5/11): vàng miếng +5,5 triệu, vàng nhẫn +5-7,5 triệu đồng/lượng. Dòng tiền chảy sang vàng phản ánh tâm lý thận trọng của nhà đầu tư trước áp lực thị trường chứng khoán."
     }
   ]
 }
