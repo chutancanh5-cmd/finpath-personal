@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ ưu tiên kiểm soát lạm phát trong 2 tháng cuối năm, lãi suất bắt đầu hạ nhiệt giảm 0,4% từ đầu tháng 11. Đầu tư hạ tầng mở rộng với 5 tuyến metro Hà Nội (tổng 1 triệu tỷ đồng) và FDI vào Bắc Ninh vượt 52,49 tỷ USD, đứng thứ 2 quốc gia. Doanh nghiệp dầu khí như PVOIL hưởng lợi từ giá dầu Brent 97 USD/thùng. Tuy nhiên, áp lực lãi suất cao vẫn tiếp tục tác động lên lợi nhuận ngân hàng trong ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán mất đà khi VN-Index chỉ tăng 0,34% phiên sáng sau khi lên cao nhất +1,16%. Tín hiệu tích cực từ dầu khí (PVOIL lãi gấp 5,7 lần nhờ giá dầu tăng 40%), dự án hạ tầng Hà Nội (5 tuyến metro, 1 triệu tỷ đồng) và FDI liên tục chảy vào Bắc Ninh (52,49 tỷ USD). Áp lực từ lãi suất cao kiềm chế biên lãi ngân hàng và nhà đầu tư chạy vào vàng (tăng 2-2,5 triệu đồng/lượng), phản ánh cân nhắc rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "title": "PVOIL lãi quý 3 gấp 5,7 lần nhờ giá dầu tăng 40%",
       "impact": "↑",
-      "note": "Phát biểu tại phiên họp Chính phủ 4/11, Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất cho mục tiêu kiểm soát lạm phát tháng 11-12/2026 gắn với tăng trưởng 2 con số, tạo kỳ vọng ổn định vĩ mô cho thị trường."
+      "note": "Doanh thu thuần 90,4 ngàn tỷ đồng (tăng 2,8 lần), lãi ròng 716 tỷ đồng (tăng 5,7 lần) nhờ giá dầu Brent trung bình 97 USD/thùng (tăng 40% so với cùng kỳ). Tích cực cho toàn ngành năng lượng."
     },
     {
-      "title": "Lãi suất huy động giảm 0,4%, chương trình tín dụng ưu đãi",
+      "title": "Hà Nội duyệt 5 tuyến metro với tổng đầu tư hơn 1 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Sau nửa tháng triển khai yêu cầu từ NHNN, lãi suất huy động giảm khoảng 0,4% đến đầu tháng 11; khối NHTM nhà nước và ngoại giảm 0,5%/năm, khối cổ phần giảm 0,5-0,7%/năm. Hơn 20 ngân hàng công bố chương trình tín dụng ưu đãi cho sản xuất kinh doanh."
+      "note": "HĐND TP Hà Nội thông qua nghị quyết 4/11 triển khai 5 tuyến (số 1, 2, 8, 10, 14), tổng chiều dài 253,5km, mức trần 120 triệu USD/km, mục tiêu hoàn thành 2030. Tạo cơ hội cho xây dựng, hạ tầng."
     },
     {
-      "title": "Bắc Ninh vượt 50 tỷ USD FDI, đứng thứ 2 quốc gia",
+      "title": "FDI tiếp tục chảy vào, Bắc Ninh vượt 50 tỷ USD",
       "impact": "↑",
-      "note": "Tính đến tháng 9/2026, Bắc Ninh ghi nhận tổng vốn FDI đăng ký luỹ kế 52,49 tỷ USD trên 3.705 dự án, chỉ sau TP.HCM (156,79 tỷ USD); thu hút Foxconn, Amkor, Canon phát triển công nghiệp điện tử và sản xuất phụ trợ."
+      "note": "Bắc Ninh đạt 52,49 tỷ USD vốn FDI lũy kế (3.705 dự án), đứng thứ 2 sau TP.HCM. Thu hút Foxconn, Amkor, Canon. Cho thấy sự tin tưởng của nhà đầu tư nước ngoài vào nền kinh tế."
     },
     {
-      "title": "Hà Nội khởi động 5 tuyến metro, tổng 1 triệu tỷ đồng",
-      "impact": "↑",
-      "note": "HĐND TP Hà Nội 4/11 thông qua chính sách đặc thù 5 tuyến metro (số 1, 2, 8, 10, 14) dài 253,5 km, tổng mức đầu tư hơn 1 triệu tỷ đồng, mức trần 120 triệu USD/km, mục tiêu hoàn thành 2030; đẩy mạnh đầu tư hạ tầng."
-    },
-    {
-      "title": "Lãi suất cao tiếp tục áp lực biên lãi ròng ngân hàng",
+      "title": "Lãi suất cao áp lực lên biên lãi ròng ngân hàng",
       "impact": "↓",
-      "note": "SSI Research cảnh báo lãi suất cho vay vẫn duy trì ở mức cao sẽ tiếp tục tạo áp lực lên biên lãi ròng; VCB lãi trước thuế giảm 36% QoQ, STB giảm 52% so cùng kỳ, chi phí lãi vay tăng 53% lên 212 tỷ đồng."
+      "note": "SSI Research cảnh báo lãi suất dự báo duy trì mức cao. Lãi suất huy động giảm 0,4-0,7%/năm, nhưng lãi suất cho vay chỉ giảm 0,2-0,5%, buộc ngân hàng chấp nhận biên lãi ròng bị bóp chặt trong ngắn hạn."
     },
     {
-      "title": "PVOIL lãi quý 3 gấp 5.7 lần, dầu Brent 97 USD/thùng",
-      "impact": "↑",
-      "note": "Giá Brent DTD quý 3 trung bình 97 USD/thùng tăng 40% so cùng kỳ; PVOIL doanh thu thuần 90,4 ngàn tỷ đồng gấp 2.8 lần cùng kỳ, lãi ròng 716 tỷ đồng gấp 5.7 lần cùng kỳ nhờ cơ cấu doanh thu mở rộng."
+      "title": "Giá vàng tăng 2-2,5 triệu đồng/lượng, nhà đầu tư tìm tài sản an toàn",
+      "impact": "↓",
+      "note": "Vàng miếng SJC bán ra 144,5 triệu đồng/lượng (tăng 2,1-2,2), vàng nhẫn tăng 1,8-2,5 triệu đồng/lượng. Xu hướng tìm kiếm tài sản trú ẩn cho thấy nhà đầu tư cân nhắc rủi ro ngắn hạn."
+    },
+    {
+      "title": "VN-Index mất đà sau khi lên +1,16%, cổ phiếu phân hóa mạnh",
+      "impact": "→",
+      "note": "VN-Index đạt 1753,15 điểm lúc 9h21 (+1,16%), rồi lùi về +0,34% kết phiên sáng. Cổ phiếu tăng quá 1% giảm từ 209 xuống 70 mã, độ rộng từ 198 xanh xuống 147 xanh/148 đỏ. Sự suy yếu có đồng thuận cao, không phải áp lực tập trung."
     }
   ]
 }
