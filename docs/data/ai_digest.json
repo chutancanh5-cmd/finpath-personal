@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường phân hóa với khối ngoại bán ròng 225 tỷ đồng, nhưng chính phủ tập trung kiểm soát lạm phát 2 tháng cuối năm và thúc đẩy đầu tư cơ sở hạ tầng quy mô lớn. Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ thanh khoản doanh nghiệp. Tuy nhiên vàng tăng mạnh 4 phiên liên tiếp và cổ phiếu dầu khí suy yếu bất chấp lợi nhuận cao phản ánh lo ngại của thị trường về rủi ro vĩ mô ngắn hạn.",
+  "summary_vi": "Thị trường diễn biến trái chiều giữa sự hỗ trợ từ chính sách tiền tệ (ngân hàng giảm lãi suất 1,5-3%/năm) và áp lực từ khối ngoại bán ròng 225 tỷ đồng. Dòng tiền chuyển dịch từ VN30 sang cổ phiếu vừa, nhỏ, tuy thanh khoản chưa ổn định. Giá vàng tăng mạnh 5-7,5 triệu đồng/lượng trong 4 phiên, phản ánh nhu cầu tránh rủi ro. Chính phủ ưu tiên kiểm soát lạm phát trong 2 tháng cuối năm và triển khai đầu tư hạ tầng lớn (metro Hà Nội 253,5km, tổng hơn 1 triệu tỷ đồng). Cổ phiếu dầu khí gặp khó khăn dù lợi nhuận vẫn mạnh trên 20,000 tỷ đồng.",
   "top": [
     {
-      "title": "Hà Nội đầu tư 1 triệu tỷ đồng 5 tuyến metro",
+      "title": "Vietcombank giảm lãi suất cho vay hỗ trợ doanh nghiệp",
       "impact": "↑",
-      "note": "Hà Nội thông qua đầu tư 5 tuyến metro (số 1, 2, 8, 10, 14) với tổng chiều dài 253,5km, tổng mức đầu tư hơn 1 triệu tỷ đồng, mục tiêu hoàn thành năm 2030."
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng giảm lãi suất cho vay 1,5% đến 2%/năm; riêng một số lĩnh vực ưu tiên giảm tới 3%/năm, giúp doanh nghiệp tiếp cận vốn với chi phí hợp lý."
     },
     {
-      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "title": "Giá vàng tăng 5-7,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm và tập trung tháo gỡ dự án tồn đọng, giải ngân để đẩy tăng trưởng 2 con số."
+      "note": "Vàng miếng SJC và vàng nhẫn 4 số 9 tăng 5-7,5 triệu đồng/lượng trong 4 phiên (2-5/11), vàng miếng SJC sáng 5/11 neo 144,5 triệu đồng/lượng (cao nhất 3 tuần); giá vàng thế giới lên 4.125 USD/ounce."
     },
     {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm",
+      "title": "Khối ngoại bán ròng 225 tỷ đồng, ưu tiên VIX",
+      "impact": "↓",
+      "note": "Phiên 5/11, khối ngoại bán ròng khoảng 225 tỷ đồng toàn thị trường; mua mạnh VIX (452 tỷ đồng) nhưng bán ròng VCB (89 tỷ đồng) và VHM (76 tỷ đồng)."
+    },
+    {
+      "title": "Hà Nội khống chế 120 triệu USD/km cho 5 tuyến metro",
       "impact": "↑",
-      "note": "Từ 19/10 đến 31/12, Vietcombank triển khai chương trình giảm lãi suất cho vay 1,5-2%/năm, riêng một số lĩnh vực ưu tiên giảm tới 3%/năm để hỗ trợ doanh nghiệp tiếp cận vốn."
+      "note": "HĐND TP Hà Nội 4-11 thông qua 5 tuyến metro (số 1, 2, 8, 10, 14) với tổng chiều dài 253,5km, tổng mức đầu tư hơn 1 triệu tỷ đồng, dự kiến hoàn thành năm 2030."
     },
     {
-      "title": "Khối ngoại bán ròng 225 tỷ, mua mạnh VIX",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 225 tỷ đồng toàn thị trường phiên 5/11. Mua mạnh VIX 452 tỷ đồng nhưng bán ròng VCB 89 tỷ đồng, VHM 76 tỷ đồng, VPB 56 tỷ đồng."
+      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "impact": "→",
+      "note": "Thủ tướng Lê Minh Hưng 4-11 nhấn mạnh kiểm soát lạm phát là ưu tiên cao nhất trong 2 tháng cuối năm 2026, với mục tiêu tăng trưởng 2 con số và giữ vững ổn định kinh tế vĩ mô."
     },
     {
-      "title": "Vàng tăng 4 phiên liên tiếp, neo vùng cao",
+      "title": "Cổ phiếu dầu khí giảm 40-50% bất chấp lợi nhuận 20 nghìn tỷ",
       "impact": "↓",
-      "note": "Vàng miếng SJC và nhẫn tăng 5,5-7,5 triệu đồng/lượng trong 4 phiên (2-5/11). Giá bán phổ biến vàng miếng SJC 144,5 triệu đồng/lượng (cao nhất 3 tuần), vàng thế giới lên 4.125 USD/ounce."
-    },
-    {
-      "title": "Cổ phiếu dầu khí yếu bất chấp lợi nhuận 20 nghìn tỷ",
-      "impact": "↓",
-      "note": "11 doanh nghiệp dầu khí ghi nhận lợi nhuận trước thuế Q3 vượt 20 nghìn tỷ đồng (quý 2 liên tiếp), giá dầu Brent neo 100 USD/thùng, nhưng cổ phiếu giảm 40-50% từ đỉnh, mất xu hướng tăng dài hạn."
+      "note": "11 doanh nghiệp dầu khí quý 3/2026 ghi nhận lợi nhuận trước thuế 20,449 tỷ đồng, nhưng cổ phiếu vẫn giảm 40-50% so với vùng đỉnh bất chấp giá dầu Brent neo 100 USD/thùng."
     }
   ]
 }
