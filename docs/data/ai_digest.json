@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách tiền tệ hỗ trợ với lãi suất huy động giảm 0,4%, tạo dư địa cho tín dụng tăng trưởng. Hà Nội phê duyệt 5 tuyến metro với tổng đầu tư hơn 1 triệu tỷ đồng, Bắc Ninh thu hút FDI 52,49 tỷ USD với các tập đoàn công nghệ hàng đầu. Ngành dầu khí duy trì lợi nhuận cao 20,449 tỷ đồng quý 3 nhờ giá Brent 97 USD/thùng. Tuy nhiên, áp lực lạm phát vẫn tồn tại với giá vàng tăng 7,5 triệu đồng/lượng trong 4 phiên, đòi hỏi kiểm soát chặt trong 2 tháng cuối năm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường cân bằng giữa áp lực kiểm soát lạm phát và những yếu tố tích cực: Chính phủ đặt ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm, trong bối cảnh khối ngoại bán ròng; tuy nhiên, lãi suất bắt đầu hạ nhiệt, kết quả kinh doanh quý 3 tăng vọt (PVOIL lãi gấp 5.7 lần), và vốn FDI vẫn chảy vào (Bắc Ninh đạt 50+ tỷ USD). Các dự án hạ tầng lớn như 5 tuyến metro Hà Nội (1 triệu tỷ đồng) được triển khai, hỗ trợ tăng trưởng dài hạn giữa rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Hà Nội phê duyệt 5 tuyến metro, tổng đầu tư hơn 1 triệu tỷ đồng",
-      "impact": "↑",
-      "note": "HĐND TP Hà Nội thông qua 5 tuyến metro (số 1, 2, 8, 10, 14) với tổng chiều dài 253,5 km, mức trần 120 triệu USD/km, hoàn thành năm 2030. Kích thích tăng trưởng ngành xây dựng, vật liệu, thiết bị công nghiệp."
-    },
-    {
-      "title": "Lãi suất huy động giảm 0,4%, khối ngân hàng giảm 0,5-0,7% theo chỉ đạo Ngân hàng Nhà nước",
-      "impact": "↑",
-      "note": "Lãi suất huy động giảm 0,4% so với đầu tháng 10, khối ngân hàng nhà nước giảm bình quân 0,5%, khối cổ phần giảm 0,5-0,7%. Lãi suất cho vay thực tế mới giảm 0,2-0,5%, tạo điều kiện cho sản xuất kinh doanh."
-    },
-    {
-      "title": "Bắc Ninh vượt 50 tỷ USD FDI, xây dựng trung tâm chuỗi cung ứng công nghệ cao",
-      "impact": "↑",
-      "note": "Tính đến tháng 9/2026, Bắc Ninh đạt 52,49 tỷ USD vốn FDI trên 3.705 dự án, thứ 2 sau TP.HCM (156,79 tỷ USD). Thu hút loạt tập đoàn lớn như Foxconn, Amkor, Canon trong lĩnh vực công nghiệp điện tử."
-    },
-    {
-      "title": "PVOIL lãi quý 3 gấp 5,7 lần nhờ giá dầu Brent 97 USD/thùng",
-      "impact": "↑",
-      "note": "Doanh thu 90,4 ngàn tỷ đồng (gấp 2,8 lần YoY), lợi nhuận ròng 716 tỷ đồng (gấp 5,7 lần). Giá dầu trung bình tăng 40% so với cùng kỳ, lợi suất từ giá bán xăng tăng 40-42%."
-    },
-    {
-      "title": "Giá vàng miếng SJC tăng 7,5 triệu đồng/lượng trong 4 phiên, lên 144,5 triệu đồng/lượng",
+      "title": "Thủ tướng ưu tiên cao nhất kiểm soát lạm phát 2 tháng cuối năm",
       "impact": "↓",
-      "note": "Vàng nhẫn 4 số 9 tăng 5-7,5 triệu đồng/lượng, vàng miếng SJC tăng 5,5 triệu đồng/lượng từ 2-5/11. Dòng vốn chạy sang vàng phản ánh lo ngại về lạm phát, yêu cầu Chính phủ ưu tiên kiểm soát."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu 4/11 nhấn mạnh kiểm soát lạm phát là ưu tiên cao nhất đặc biệt 2 tháng cuối 2026, gắn với mục tiêu tăng trưởng 2 con số; lưu ý khó khăn trong tháo gỡ dự án tồn đọng và giải ngân thấp tại nhiều bộ cơ quan."
     },
     {
-      "title": "Số siêu giàu tài sản >30 triệu USD tại Việt Nam đạt 1.233 người, tăng 59% trong 5 năm",
+      "title": "PVOIL lãi quý 3 gấp 5.7 lần nhờ giá dầu Brent 97 USD/thùng",
       "impact": "↑",
-      "note": "Theo Knight Frank, Việt Nam có 1.233 người siêu giàu năm 2026, thuộc nhóm tăng trưởng nhanh nhất thế giới. Thế hệ F2 bắt đầu quản lý tài sản lớn, tạo nhu cầu cao cho sản phẩm đầu tư, bất động sản cao cấp."
+      "note": "PVOIL doanh thu thuần hơn 90.4 ngàn tỷ đồng (gấp 2.8 lần cùng kỳ), lợi nhuận ròng 716 tỷ đồng (gấp 5.7 lần), nhờ giá dầu Brent DTD trung bình 97 USD/thùng (+40% so cùng kỳ), giá bán xăng tăng 40-42%."
+    },
+    {
+      "title": "Bắc Ninh vốn FDI đạt 52.49 tỷ USD, thứ 2 toàn quốc",
+      "impact": "↑",
+      "note": "Bắc Ninh vượt mốc 50 tỷ USD vốn FDI với 3.705 dự án, chỉ sau TP.HCM (156.79 tỷ USD); thu hút các công ty FDI lớn như Foxconn, Amkor, Canon trong lĩnh vực công nghiệp điện tử, bán dẫn."
+    },
+    {
+      "title": "Lãi suất huy động giảm khoảng 0.4%, cho vay giảm 0.2–0.5%",
+      "impact": "↑",
+      "note": "Sau hơn nửa tháng triển khai chỉ đạo NHNN, lãi suất huy động đầu tháng 11 giảm 0.4%, lãi suất cho vay thực tế giảm 0.2–0.5% (chậm hơn mục tiêu 1.5–2%); các ngân hàng công bố chương trình tín dụng ưu đãi cho sản xuất kinh doanh."
+    },
+    {
+      "title": "Hà Nội phê duyệt 5 tuyến metro tổng mức 1 triệu tỷ đồng",
+      "impact": "↑",
+      "note": "HĐND TP Hà Nội 4/11 thông qua cơ chế đầu tư 5 tuyến metro (số 1, 2, 8, 10, 14) tổng 253.5km, mức trần 120 triệu USD/km, tổng mức đầu tư hơn 1 triệu tỷ đồng, mục tiêu hoàn thành 2030."
+    },
+    {
+      "title": "VN-Index tăng 5.84 điểm, khối ngoại bán ròng bất chấp lệnh mua VIX",
+      "impact": "→",
+      "note": "VN-Index phiên sáng 5/11 giao dịch 1,738.86 điểm (+5.84), HNX-Index -2.51, sắc xanh 310 mã và sắc đỏ 283 mã; khối ngoại bán ròng bất chấp lệnh mua lớn tại VIX, cổ phiếu trụ như VCB, GAS, HPG, MSN giảm 0.68–1.3%."
     }
   ]
 }
