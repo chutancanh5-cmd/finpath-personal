@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận VN-Index tăng 7.71 điểm đóng cửa 1,740.73 với dòng tiền phân hóa rõ rệt: rổ VN30 chỉ chiếm 50% thanh khoản (thấp nhất 25 phiên) trong khi mid/small-cap hút dòng tiền mạnh. Khối ngoại áp lực bán ròng 225 tỷ đồng toàn thị trường. Chính sách hỗ trợ mạnh: Vietcombank giảm lãi suất 1,5-2%/năm, Hà Nội phê duyệt metro 253,5km tổng 1 triệu tỷ đồng, tài khoán chứng khoán tăng 2,5 triệu từ đầu năm lên 14,3 triệu. Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm.",
+  "summary_vi": "VN-Index tăng 0,44% nhưng khối ngoại bán ròng 225 tỷ, thị trường phân hóa với cấp vừa-nhỏ hút dòng tiền. Chính sách hỗ trợ tích cực: VCB giảm lãi suất 1,5-3%, Hà Nội đầu tư metro 1 triệu tỷ đồng; song Chính phủ ưu tiên kiểm soát lạm phát trong 2 tháng cuối năm có thể buộc siết tiền tệ. Dòng vốn không rõ ràng (vàng tăng 5,5 triệu/lượng, con trai Trần Đình Long chỉ mua 20% HPG) cảnh báo nhà đầu tư chưa tự tin về triển vọng ngắn hạn.",
   "top": [
     {
-      "title": "Vietcombank giảm lãi suất 1,5-2% hỗ trợ tín dụng sản xuất",
-      "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, VCB triển khai chương trình tín dụng giảm lãi suất 1,5-2%/năm, một số lĩnh vực ưu tiên giảm tới 3%/năm, thực hiện chỉ đạo giảm mặt bằng lãi suất Ngân hàng Nhà nước."
-    },
-    {
-      "title": "Dòng tiền chuyển từ VN30 sang mid-cap/small-cap",
-      "impact": "→",
-      "note": "Rổ VN30 chiếm chỉ 50% thanh khoản HoSE phiên 5/11 (thấp nhất 25 phiên), giảm 21% so với phiên sáng. Dòng tiền mạnh ở mid-cap như VIX, VND, PNJ, TCH, DXG, KDH, DIG, GMD; thanh khoản HoSE toàn phiên đạt 16.000 tỷ đồng."
-    },
-    {
-      "title": "Khối ngoại bán ròng 225 tỷ đồng, mua VIX 452 tỷ",
+      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
       "impact": "↓",
-      "note": "Phiên 5/11, khối ngoại bán ròng khoảng 225 tỷ đồng toàn thị trường; mua mạnh VIX (452 tỷ), CTG (101 tỷ), VIC (54 tỷ) nhưng bán ròng VCB (89 tỷ), VHM (76 tỷ), VPB (56 tỷ)."
+      "note": "Thủ tướng yêu cầu ưu tiên cao nhất cho mục tiêu kiểm soát lạm phát trong 2 tháng cuối năm 2026; chính sách siết lạm phát có thể dẫn tới tăng lãi suất, áp lực lên cổ phiếu."
     },
     {
-      "title": "Nhà đầu tư tăng 2,5 triệu tài khoản từ đầu năm",
+      "title": "Hà Nội phê duyệt đầu tư metro 5 tuyến với 1 triệu tỷ",
       "impact": "↑",
-      "note": "Cuối tháng 10/2026, tổng 14,3 triệu tài khoản nhà đầu tư (14% dân số), tăng 2,5 triệu từ đầu năm; tháng 10 mở 252.000 tài khoản, chủ yếu cá nhân, phản ánh sự mở rộng nhịp độ tham gia thị trường."
+      "note": "HĐND Hà Nội thông qua đầu tư 5 tuyến metro (tuyến 1, 2, 8, 10, 14) tổng 253,5km với mức đầu tư hơn 1 triệu tỷ đồng, mục tiêu hoàn thành năm 2030."
     },
     {
-      "title": "Hà Nội phê duyệt 5 tuyến metro 1 triệu tỷ đồng",
+      "title": "VCB giảm lãi suất cho vay 1,5-3%",
       "impact": "↑",
-      "note": "HĐND TP Hà Nội 4-11 thông qua 5 tuyến metro (số 1, 2, 8, 10, 14) với tổng 253,5km, tổng mức đầu tư hơn 1 triệu tỷ đồng, dự kiến hoàn thành năm 2030, tạo nhu cầu vốn khổng lồ."
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank giảm lãi suất cho vay 1,5-2%, một số lĩnh vực ưu tiên giảm tới 3%/năm, hỗ trợ doanh nghiệp tiếp cận vốn."
     },
     {
-      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
-      "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng 4-11 nhấn mạnh kiểm soát lạm phát là ưu tiên cao nhất trong 2 tháng cuối năm 2026, công khai mục tiêu tăng trưởng 2 con số và giữ vững ổn định kinh tế vĩ mô."
+      "title": "Khối ngoại bán ròng 225 tỷ đồng",
+      "impact": "↓",
+      "note": "Phiên 5/11, khối ngoại bán ròng khoảng 225 tỷ đồng cổ phiếu trong khi tự doanh CTCK mua ròng 258 tỷ, cho thấy dòng vốn ngoại chưa mạnh mẽ."
+    },
+    {
+      "title": "Trần Vũ Minh chỉ hoàn thành 20% kế hoạch mua HPG",
+      "impact": "↓",
+      "note": "Ông Trần Vũ Minh mua 10 triệu cp HPG (20% của 50 triệu đăng ký từ 7-28/10/2026) do diễn biến thị trường chưa phù hợp; HPG giảm khoảng 9% từ đầu năm."
+    },
+    {
+      "title": "Vàng miếng tăng 5,5 triệu trong 4 phiên",
+      "impact": "↓",
+      "note": "Vàng miếng SJC tăng 5,5 triệu đồng/lượng trong 4 phiên (2-5/11), đạt 144,5 triệu/lượng cao nhất 3 tuần; vàng thế giới tăng 1,6% lên 4.125 USD/ounce, dấu hiệu nhà đầu tư tìm nơi trú ẩn an toàn."
     }
   ]
 }
