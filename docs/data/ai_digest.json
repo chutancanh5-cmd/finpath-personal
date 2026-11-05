@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-05",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ ưu tiên kiểm soát lạm phát trong 2 tháng cuối năm kèm mục tiêu tăng trưởng 2 con số, Phân bón Cà Mau báo doanh thu Q3 tăng 92% với lãi ròng tăng 31%, Vietcombank giảm lãi suất cho vay 1,5-2%/năm để hỗ trợ doanh nghiệp. Thị trường phục hồi lần thứ 2 liên tiếp với dòng tiền dịch chuyển sang midcap/smallcap, tuy nhiên giá vàng tăng và khối ngoại bán ròng cảnh báo một số rủi ro tâm lý ngắn hạn.",
+  "summary_vi": "Dòng tiền ngoài quay trở lại TTCK mạnh mẽ với 105 triệu cổ phiếu VIX sang tay và khối ngoại mua ròng 33+ triệu, kết quả kinh doanh nổi bật (DCM doanh thu Q3 tăng 92%), chính sách hỗ trợ rộng rãi (Vietcombank giảm lãi suất 1,5-2%/năm, Hà Nội phê duyệt 5 tuyến metro hơn 1 triệu tỷ đồng). Tuy nhiên, giá vàng tăng 2 triệu đồng/lượng có nguy cơ rút tiền khỏi TTCK, và Chính phủ ưu tiên kiểm soát lạm phát trong 2 tháng cuối năm là rủi ro ngắn hạn.",
   "top": [
     {
+      "title": "Khối ngoại mua ròng 33+ triệu cổ phiếu, VIX sang tay 105 triệu",
+      "impact": "↑",
+      "note": "Cổ phiếu VIX ghi nhận thanh khoản đột biến 105 triệu đơn vị, khối ngoại mua ròng trên 33 triệu. Dòng tiền ngoài quay trở lại TTCK, tập trung vào chứng khoán là tín hiệu tích cực cho hồi phục."
+    },
+    {
+      "title": "Phân bón Cà Mau doanh thu Q3 tăng 92%, lãi ròng tăng 31%",
+      "impact": "↑",
+      "note": "DCM báo doanh thu 5,7 ngàn tỷ đồng (tăng 92%), lãi ròng 430 tỷ đồng (tăng 31%). Mảng ure 9,4 ngàn tỷ đồng lũy kế 9 tháng (tăng 50%), vượt 93% kế hoạch lợi nhuận năm — xuất khẩu mạnh, nhu cầu toàn cầu phục hồi."
+    },
+    {
+      "title": "Hà Nội phê duyệt 5 tuyến metro, tổng đầu tư hơn 1 triệu tỷ đồng",
+      "impact": "↑",
+      "note": "Năm tuyến (số 1, 2, 8, 10, 14) tổng 253,5km, mức trần 120 triệu USD/km, hoàn thành 2030. Dự án hạ tầng lớn kích thích ngành bất động sản, xây dựng, vật liệu xây dựng."
+    },
+    {
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%/năm, ngành khác 3%/năm",
+      "impact": "↑",
+      "note": "Từ 19/10 - 31/12/2026, Vietcombank triển khai chương trình tín dụng giảm 1,5-2%/năm (một số lĩnh vực 3%/năm) để thúc đẩy sản xuất kinh doanh — giải phóng dòng vốn cho doanh nghiệp."
+    },
+    {
+      "title": "Giá vàng tăng mạnh 2 triệu đồng/lượng, quốc tế tăng 1,5% lên 4.120 USD/ounce",
+      "impact": "↓",
+      "note": "Vàng nhẫn tăng 1,4-2 triệu đồng/lượng, vàng miếng SJC tăng 100.000 đồng lên 142,5 triệu đồng. Dòng tiền tìm kiếm tài sản an toàn, có nguy cơ rút khỏi TTCK."
+    },
+    {
       "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh kiểm soát lạm phát là ưu tiên cao nhất trong 2 tháng cuối năm 2026, gắn với mục tiêu tăng trưởng 2 con số và ổn định kinh tế vĩ mô — điều kiện cơ bản để TTCK phát triển bền vững."
-    },
-    {
-      "title": "Phân bón Cà Mau doanh thu Q3 tăng 92%, vượt 93% kế hoạch năm",
-      "impact": "↑",
-      "note": "Doanh thu quý 3 đạt 5,7 ngàn tỷ đồng (tăng 92%), lãi ròng 430 tỷ đồng (tăng 31%), với mảng phân đạm (ure) đóng góp 9,4 ngàn tỷ đồng lũy kế 9 tháng — tín hiệu nhu cầu toàn cầu phục hồi, kinh tế nội địa khởi sắc."
-    },
-    {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%/năm đến hết năm",
-      "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, Vietcombank giảm lãi suất cho vay 1,5-2%/năm, một số lĩnh vực giảm 3%/năm để hỗ trợ sản xuất kinh doanh — thực hiện chỉ đạo NHNN, giải phóng dòng vốn cho doanh nghiệp."
-    },
-    {
-      "title": "Dòng tiền dịch chuyển mạnh sang cổ phiếu vừa và nhỏ",
-      "impact": "↑",
-      "note": "Cổ phiếu midcap/smallcap (VIX, VND, PNJ, TCH, DXG, KDH, DIG, GMD) giao dịch rất lớn, rổ VN30 chiếm chỉ 50% tổng khớp lệnh HoSE — phân bổ dòng tiền rộng cho toàn thị trường, tăng khả năng phục hồi bền vững."
-    },
-    {
-      "title": "Giá vàng trong nước tăng mạnh, vàng nhẫn nhích 1,4-2 triệu/lượng",
       "impact": "→",
-      "note": "Vàng nhẫn tăng 1,4-2 triệu đồng/lượng, vàng quốc tế tăng 1,5% lên 4.120 USD/ounce — nhà đầu tư tìm kiếm tài sản an toàn, gợi ý một số lo ngại ngắn hạn tuy chưa chuyển thành rủi ro lớn."
-    },
-    {
-      "title": "Ông Nguyễn Đức Tài: 1 tỷ đồng vào MWG 20 năm trước thành 400 tỷ",
-      "impact": "↑",
-      "note": "Khoản đầu tư 1 tỷ đồng vào MWG năm 2007 (lúc định giá 10 triệu USD) giờ tương đương 400 tỷ đồng (MWG định giá 4 tỷ USD) — thể hiện tiềm năng cổ phiếu công nghệ dài hạn, nâng tâm lý nhà đầu tư."
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh kiểm soát lạm phát là ưu tiên cao nhất tháng 11-12, gắn mục tiêu tăng trưởng 2 con số. Chỉ rõ khó khăn trong giải ngân dự án và xử lý bất động sản dôi dư."
     }
   ]
 }
