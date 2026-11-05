@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường nhận tín hiệu tích cực từ lãi suất bắt đầu giảm (huy động giảm ~0,4%, cho vay giảm 0,2-0,5%) và chính sách kiềm chế lạm phát (giảm thuế xăng 0%, giá điện 2%), kéo theo phục hồi mạnh chứng khoán Mỹ (Dow +3,3%) và giá dầu lao dốc 9% giảm chi phí đầu vào. Tuy nhiên, khối ngoại tiếp tục bán ròng 122 ngàn tỷ đồng (vượt kỷ lục năm 2025) và ETF rebalancing 20.000 tỷ đồng vào 9-13/11 tạo áp lực ngắn hạn, trong khi CPI vẫn cao hơn mục tiêu 4,5%.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chứng khoán Mỹ tăng bùng nổ 3,3% sau bầu cử, kéo theo TTCK VN phiên 4/11 cộng 33,4 điểm với công nghệ dẫn đầu (+6,12%). NHNN triển khai hoán đổi ngoại tệ kỳ hạn 6 tháng hỗ trợ thanh khoản, lãi suất huy động giảm ~0,4%, cho vay giảm 0,2-0,5%. Bộ Tài chính giảm thuế xăng về 0% và giá bán lẻ điện 2% để kiểm soát CPI quanh 4,5%. Rủi ro: khối ngoại bán ròng 122 ngàn tỷ (vượt kỷ lục năm 2025), giá vàng thế giới mất 30% so với đỉnh tháng 1.",
   "top": [
+    {
+      "title": "Chứng khoán Mỹ tăng 3,3%, Dow lần đầu vượt 53.000",
+      "impact": "↑",
+      "note": "Dow Jones tăng 1.569,4 điểm lên 53.356,12 điểm (tăng 3,30%, lần đầu vượt 53.000 từ 8/9 và phiên tăng mạnh nhất từ 9/4/2025). S&P 500 tăng 1,58% lên 7.688,62 điểm. Nasdaq tăng 1,44% lên 25.736,51 điểm. Kết quả bầu cử Mỹ 3/11: Đảng Dân chủ thắng cả Thượng viện và Hạ viện, tạo chướng ngại cho chính sách Trump."
+    },
     {
       "title": "Lãi suất bắt đầu hạ nhiệt, cho vay giảm 0,2-0,5%",
       "impact": "↑",
-      "note": "Sau hơn nửa tháng yêu cầu từ NHNN, lãi suất huy động giảm khoảng 0,4% đến đầu tháng 11, lãi suất cho vay giảm 0,2-0,5% (thấp hơn mục tiêu giảm 1,5-2%/năm). NHTM Nhà nước giảm bình quân 0,5%/năm, NHTM cổ phần giảm 0,5-0,7%/năm. Giảm chi phí vốn cho doanh nghiệp, hỗ trợ tăng trưởng tín dụng."
+      "note": "Sau hơn nửa tháng yêu cầu từ NHNN giảm lãi suất huy động 0,5-1%/năm (kỳ hạn 6+ tháng) và cho vay 1,5-2%/năm, thực tế lãi suất huy động giảm khoảng 0,4% đến đầu 11. NHTM Nhà nước giảm bình quân 0,5%/năm, cổ phần giảm 0,5-0,7%/năm. Lãi suất cho vay giảm 0,2-0,5%, thấp hơn mục tiêu."
     },
     {
       "title": "Bộ Tài chính giảm xăng 0%, giá điện 2%, kiềm chế lạm phát",
       "impact": "↑",
-      "note": "CPI bình quân 10 tháng 4,57% cao hơn mục tiêu 4,5%, Chính phủ triển khai 5 nhóm giải pháp. Điều chỉnh thuế tiêu thụ đặc biệt xăng xuống 0%, giảm giá bán lẻ điện 2%, bảo đảm cung cấp hàng thiết yếu (xăng dầu, lương thực, thuốc). Các biện pháp giảm chi phí sản xuất, vận chuyển và lạm phát những tháng cuối năm."
+      "note": "CPI bình quân 10 tháng tăng 4,57%, cao hơn mục tiêu 4,5%. Chính phủ triển khai 5 nhóm giải pháp: điều chỉnh thuế tiêu thụ đặc biệt xăng xuống 0%, giảm giá bán lẻ điện 2%, bảo đảm cung cấp hàng thiết yếu (xăng dầu, lương thực, thuốc). Các biện pháp giảm chi phí sản xuất, vận chuyển những tháng cuối năm."
     },
     {
-      "title": "PV GAS lãi 80% quý 3 nhờ dầu Brent 97 USD/thùng",
+      "title": "NHNN triển khai hoán đổi ngoại tệ 6 tháng hỗ trợ thanh khoản",
       "impact": "↑",
-      "note": "Lợi nhuận ròng 4,58 ngàn tỷ đồng tăng 80%, doanh thu 39,7 ngàn tỷ đồng tăng 11%, biên lợi nhuận cải thiện từ 11,5% lên 15,7%. Giá dầu Brent bình quân Q3 là 97 USD/thùng tăng 41% YoY, sản lượng khí khô và LNG tăng 24%. Ngành năng lượng tăng trưởng mạnh, sở hữu tiền mặt gần 51 ngàn tỷ."
+      "note": "Ngân hàng Nhà nước triển khai nghiệp vụ hoán đổi giữa ngoại tệ và đồng Việt Nam kỳ hạn 6 tháng. Giải pháp hỗ trợ thanh khoản VND cho các tổ chức tín dụng, giảm áp lực lãi suất thị trường. Công cụ chính sách tiền tệ linh hoạt giữa tỷ giá ổn định."
     },
     {
-      "title": "Chứng khoán Mỹ tăng 3,3%, dầu giảm 9%, tín hiệu thị trường",
-      "impact": "→",
-      "note": "Dow Jones tăng 3,3% lên 53.356,12 điểm (lần đầu vượt 53.000), S&P 500 +1,58%, Nasdaq +1,44% sau bầu cử Quốc hội Mỹ. Dầu thô giảm do kỳ vọng xung đột Mỹ-Iran kết thúc sớm. Phục hồi toàn cầu hỗ trợ Việt Nam nhưng đồng thời áp lực từ dầu thấp lên cổ phiếu năng lượng."
+      "title": "PV GAS lãi 80%, doanh thu gộp +52% nhờ dầu Brent",
+      "impact": "↑",
+      "note": "Quý 3/2026, GAS lãi ròng 4,58 ngàn tỷ đồng tăng 80%, doanh thu 39,7 ngàn tỷ tăng 11%, lợi nhuận gộp tăng 52% lên 6,2 ngàn tỷ, biên lợi nhuận cải thiện từ 11,5% lên 15,7%. Giá dầu Brent bình quân Q3: 97 USD/thùng tăng 41% YoY, sản lượng khí khô và LNG tăng 24%."
     },
     {
-      "title": "ETF khổng lồ 20.000 tỷ cơ cấu danh mục 9-13/11",
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ, vượt kỷ lục 2025",
       "impact": "↓",
-      "note": "Các quỹ ETF mô phỏng VNDiamond, VN30, VNFin Lead (tổng tài sản 20.000 tỷ đồng) sẽ cơ cấu danh mục 9-13/11, hiệu lực 16/11. KDH bị loại khỏi VNDiamond (danh mục giảm 18 xuống 17 mã), FUEVFVND sẽ bán khoảng 4,8 triệu cổ phiếu KDH. Rebalancing tạo áp lực bán kỹ thuật trên thị trường tuần tới."
-    },
-    {
-      "title": "Khối ngoại bán ròng 122 ngàn tỷ trong 10 tháng 2026",
-      "impact": "↓",
-      "note": "Nhà đầu tư nước ngoài bán ròng 122 ngàn tỷ đồng trên HOSE, vượt mức kỷ lục 111 ngàn tỷ của cả năm 2025. Dù hôm nay quay lại gom FPT, VCB, VPB, LPB, BID, CTG, VHM, nhưng dòng vốn chảy ra liên tục vẫn là rủi ro, tiềm ẩn áp lực bán ngắn hạn."
+      "note": "Nhà đầu tư nước ngoài bán ròng gần 122 ngàn tỷ đồng trên HOSE trong 10 tháng đầu năm 2026, vượt mức kỷ lục 111 ngàn tỷ của cả năm 2025. Riêng phiên 4/11, khối ngoại bán ròng 70,3 tỷ (giao dịch khớp lệnh bán ròng 105,6 tỷ). Dòng vốn nước ngoài chảy ra liên tục là rủi ro ngắn hạn."
     }
   ]
 }
