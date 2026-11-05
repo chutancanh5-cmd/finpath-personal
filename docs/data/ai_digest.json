@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-11-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "CPI bình quân 10 tháng tăng 4,57%, vượt mục tiêu 4,5% cả năm, buộc Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm qua giảm giá điện 2% và thuế xăng về 0%. Lãi suất bắt đầu hạ nhiệt (giảm 0,2-0,5%), ngân hàng nhà nước triển khai hoán đổi ngoại tệ hỗ trợ thanh khoản. Chứng khoán Mỹ tăng mạnh giúp tâm lý thị trường VN khởi sắc, nhưng khối ngoại vẫn bán ròng gần 122 ngàn tỷ đồng sau 10 tháng, gấp 1,1 lần kỷ lục năm 2025.",
+  "summary_vi": "Chứng khoán Mỹ tăng mạnh (Dow Jones +3,30%, vượt 53.000 lần đầu tiên từ 9/2025) sau bầu cử Mỹ tạo hy vọng giảm chiến tranh thương mại. Trong nước, Chính phủ ưu tiên cao kiểm soát lạm phát với CPI 10 tháng 4,57% qua giảm thuế xăng 0%, giá bán lẻ điện 2%. Lãi suất hạ nhiệt: cho vay giảm 0,2-0,5%, huy động giảm 0,4%. NHNN hỗ trợ thanh khoản bằng hoán đổi ngoại tệ 6 tháng. Rủi ro: giá vàng tăng 2,5-4,6 triệu/lượng và khối ngoại bán ròng 122 ngàn tỷ là dấu hiệu e dè.",
   "top": [
     {
       "title": "CPI cao hơn mục tiêu, Chính phủ ưu tiên kiểm soát 2 tháng cuối năm",
@@ -25,14 +25,14 @@
       "note": "NHNN triển khai công cụ hoán đổi ngoại tệ - VND kỳ hạn 6 tháng hỗ trợ thanh khoản VND cho các tổ chức tín dụng. Giải pháp linh hoạt này giảm áp lực lãi suất, hỗ trợ nguồn vốn đầu vào và cải thiện tình hình tín dụng ngành ngân hàng."
     },
     {
-      "title": "Khối ngoại quay trở lại gom FPT, bán ròng 70,3 tỷ đồng",
+      "title": "Thủ tướng ưu tiên cao nhất kiểm soát lạm phát 2 tháng cuối năm",
       "impact": "→",
-      "note": "Nhà đầu tư ngoài bán ròng 70,3 tỷ đồng phiên 04/11 nhưng quay trở lại gom FPT. Tổng khối ngoại bán ròng 122 ngàn tỷ đồng sau 10 tháng 2026, vượt kỷ lục 111 ngàn tỷ năm 2025. Dòng vốn ngoài gom lại cổ phiếu mũi nhọn, phản ánh tâm lý chọn lọc."
+      "note": "Phiên họp Chính phủ 4/11, Thủ tướng Lê Minh Hưng nhấn mạnh quyết tâm giữ ổn định kinh tế vĩ mô, tập trung kiểm soát lạm phát theo mục tiêu Quốc hội đề ra, ưu tiên cao nhất các 2 tháng cuối năm 2026. Cơ bản đã đạt nhưng vẫn còn khó khăn, thách thức."
     },
     {
-      "title": "Giá vàng tăng 2,5-4,6 triệu đồng/lượng, trở lại mức đỉnh sau 1 tuần",
-      "impact": "→",
-      "note": "Vàng miếng SJC bán ra 144,5 triệu đồng/lượng, vàng nhẫn bán ra 142,3-143 triệu đồng/lượng, tăng 2,1-2,5 triệu đồng/lượng. Vàng thế giới 4.061 USD/ounce. Mức tăng phản ánh nhu cầu trú ẩn, không tác động trực tiếp đến TTCK nhưng báo hiệu lo ngại về rủi ro vĩ mô."
+      "title": "Giá vàng tăng mạnh 2,5-4,6 triệu/lượng, trở lại mức đỉnh",
+      "impact": "↓",
+      "note": "Sáng 5/11, vàng nhẫn tăng 1,8-2,5 triệu đồng/lượng, vàng miếng SJC tăng 2,1-2,2 triệu đồng/lượng. Giá vàng nhẫn tại các thương hiệu tăng 2,5-4,6 triệu/lượng, bán ra ở 142,3-143 triệu/lượng. Vàng miếng SJC tăng 3,3 triệu so với sáng hôm trước, niêm yết 144,5 triệu/lượng. Đây là dấu hiệu nhà đầu tư e dè về kinh tế toàn cầu."
     }
   ]
 }
