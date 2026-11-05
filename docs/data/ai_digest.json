@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường phân hóa dưới áp lực bán ròng của khối ngoại (122 tỷ đồng từ đầu năm) và rủi ro lạm phát, nhưng được hỗ trợ bởi tham gia thị trường tăng mạnh (+2,5 triệu tài khoản), FDI công nghệ cao tập trung ở Bắc Ninh (52,49 tỷ USD), và đầu tư hạ tầng metro lớn tại Hà Nội (>1 triệu tỷ đồng). Tầng lớp siêu giàu phát triển nhanh (59% tăng trong 5 năm tới) là yếu tố dương dài hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán vẫn duy trì đà tích cực nhưng thanh khoản suy yếu mạnh (giảm 42% so với chiều qua), khối ngoại tiếp tục bán ròng 122 tỷ USD từ đầu năm gây áp lực. Chính phủ ưu tiên cao nhất kiểm soát lạm phát 2 tháng cuối năm, đồng thời dòng vốn nước ngoài (FTSE 2,1 tỷ USD, FDI) vẫn duy trì đầu tư. Ngành dầu khí hưởng lợi từ giá dầu Brent 97 USD/thùng, PVOIL lãi gấp 5.7 lần. Nhà đầu tư cá nhân mở tài khoản tăng 2,5 triệu nhưng cần cảnh báo về sự mất cân bằng từ khối ngoại.",
   "top": [
     {
-      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất cho mục tiêu kiểm soát lạm phát trong 2 tháng cuối năm 2026 gắn với tăng trưởng 2 con số và ổn định vĩ mô. Chính sách này bảo vệ sức mua, hỗ trợ tiêu dùng và ổn định lãi suất cho cổ phiếu."
+    },
+    {
+      "title": "Khối ngoại bán ròng 122 tỷ USD từ đầu năm, áp lực xâm nhập",
       "impact": "↓",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm 2026, gắn với mục tiêu tăng trưởng 2 con số và ổn định vĩ mô; lưu ý tỷ lệ giải ngân thấp, cần tháo gỡ dự án tồn đọng."
+      "note": "Nhà đầu tư nước ngoài bán ròng 122 tỷ USD trên HoSE từ đầu năm đến tháng 10/2026 (gần kỷ lục cả năm 2025), riêng tháng 10 bán ròng 24 tỷ USD. Dòng vốn này gây áp lực giảm điểm và làm suy yếu đà tăng của chỉ số."
     },
     {
-      "title": "Khối ngoại bán ròng 122 tỷ đồng từ đầu năm",
+      "title": "FTSE bổ sung 2,1 tỷ USD vốn thụ động vào chứng khoán Việt Nam",
+      "impact": "↑",
+      "note": "Tổng dòng vốn từ các quỹ theo dõi chỉ số FTSE vào 27 cổ phiếu Việt Nam ước tính đạt 2,1 tỷ USD khi hoàn tất lộ trình nâng hạng. Kỳ rà soát tháng 12/2026 dự kiến duy trì 27 mã hiện diện, chủ yếu điều chỉnh tỷ trọng."
+    },
+    {
+      "title": "PVOIL lãi quý 3 gấp 5.7 lần, giá dầu Brent 97 USD/thùng",
+      "impact": "↑",
+      "note": "Tổng công ty Dầu Việt Nam ghi nhận lãi ròng 716 tỷ đồng quý 3/2026, gấp 5.7 lần cùng kỳ, nhờ giá dầu Brent DTD trung bình 97 USD/thùng tăng 40% so với cùng kỳ, kéo theo giá bán xăng tăng 40-42%."
+    },
+    {
+      "title": "Bắc Ninh vượt 50 tỷ USD FDI, số 2 toàn quốc sau TP.HCM",
+      "impact": "↑",
+      "note": "Bắc Ninh đạt 52,49 tỷ USD tổng vốn FDI đăng ký luỹ kế trên 3.705 dự án, thứ 2 toàn quốc. Thành phố thu hút loạt tập đoàn công nghệ như Foxconn, Amkor, Canon, định hình thành trung tâm chuỗi cung ứng công nghệ cao toàn cầu."
+    },
+    {
+      "title": "Thanh khoản HoSE giảm 42% so với chiều qua, VN-Index giằng co",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 122 tỷ đồng từ đầu năm 2026 (gần kỷ lục cả năm 2025), tháng 10 riêng bán ròng 24 tỷ đồng trên HoSE, áp lực này kéo theo VN-Index giảm 1,5% trong tháng."
-    },
-    {
-      "title": "Bắc Ninh thu hút 52,49 tỷ USD FDI, thứ 2 toàn quốc",
-      "impact": "↑",
-      "note": "Bắc Ninh vượt mốc 52,49 tỷ USD FDI từ 3.705 dự án (thứ 2 sau TP.HCM), thu hút các công ty Foxconn, Amkor, Canon và loạt doanh nghiệp công nghệ cao, phát triển hệ sinh thái sản xuất phụ trợ."
-    },
-    {
-      "title": "Hà Nội khống chế trần 120 triệu USD/km cho 5 tuyến metro",
-      "impact": "↑",
-      "note": "5 tuyến metro (1, 2, 8, 10, 14) tổng chiều dài 253,5 km, mức đầu tư >1 triệu tỷ đồng, mục tiêu hoàn thành năm 2030, thúc đẩy tăng trưởng kinh tế dài hạn."
-    },
-    {
-      "title": "Số siêu giàu tăng 59% trong 5 năm, 1.233 người năm 2026",
-      "impact": "↑",
-      "note": "Việt Nam có 1.233 người siêu giàu (tài sản >30 triệu USD) năm 2026, dự báo tăng 59% trong 5 năm tới (nhanh nhất thế giới); thế hệ F2 tiếp nhận gia sản, 81% sẽ thay đổi đơn vị quản lý."
-    },
-    {
-      "title": "Tài khoản chứng khoán tăng 2,5 triệu từ đầu năm",
-      "impact": "↑",
-      "note": "Tới cuối tháng 10: 14,3 triệu tài khoản cá nhân (14% dân số), tăng 2,5 triệu tài khoản từ đầu năm 2026; tháng 10 riêng tăng 252 nghìn tài khoản, cho thấy sự gia tăng mạnh mẽ tham gia thị trường."
+      "note": "Giá trị khớp lệnh HoSE chiều 5/11 giảm 42% so với chiều qua, rổ VN30 chiếm chỉ 50% tổng thanh khoản sàn (mức thấp nhất 25 phiên). VN-Index tăng 5,84 điểm nhưng hầu hết từ VIC tăng 1,71%, thể hiện tâm lý dè dặt của nhà đầu tư."
     }
   ]
 }
