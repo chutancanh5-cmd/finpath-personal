@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán đối mặt sức ép từ khối ngoại bán ròng mạnh (122 tỷ USD từ đầu năm), trong khi đó thanh khoản VN30 giảm xuống mức thấp nhất 25 phiên (chỉ 50% sàn HoSE). Tuy nhiên, những yếu tố hỗ trợ vĩ mô bao gồm: chính phủ ưu tiên cao kiểm soát lạm phát 2 tháng cuối năm, lộ trình nâng hạng FTSE sẽ mang dòng vốn thụ động 2,1 tỷ USD, và sự tham gia mạnh của nhà đầu tư cá nhân (2,5 triệu tài khoản mới). FDI vẫn chảy mạnh vào hạ tầng, với Bắc Ninh đạt 52,49 tỷ USD tích lũy.",
+  "summary_vi": "Thị trường phân hóa trong phiên 5/11 với VN-Index tăng nhẹ 8 điểm nhưng thanh khoản VN30 giảm 21% so với sáng; khối ngoại tiếp tục bán ròng 225 tỷ đồng gây áp lực ngắn hạn. Tuy vậy, dấu hiệu tích cực bao gồm: Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm, tài khoản chứng khoán mới tăng 2,5 triệu từ đầu năm, FDI tiếp tục chảy mạnh vào Bắc Ninh đạt 52,49 tỷ USD. Dòng tiền đang chuyển từ blue-chip sang cổ phiếu vừa và nhỏ.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 24 nghìn tỷ tháng 10",
+      "title": "Khối ngoại bán ròng 225 tỷ đồng phiên 5/11",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng hơn 24.000 tỷ đồng trên HoSE trong tháng 10/2026, nâng tổng bán ròng từ đầu năm lên 122.000 tỷ đồng, gần bằng mức kỷ lục cả năm 2025. Áp lực này hạn chế khả năng phục hồi của thị trường ngắn hạn."
+      "note": "Khối ngoại bán ròng khoảng 225 tỷ đồng toàn thị trường, bán mạnh VCB (89 tỷ), VHM (76 tỷ), VPB (56 tỷ) gây áp lực ngắn hạn; mua chủ yếu VIX (452 tỷ) nhưng chưa cân bằng được lệnh bán chung."
     },
     {
-      "title": "Nâng hạng FTSE hưởng dòng vốn 2,1 tỷ USD",
-      "impact": "↑",
-      "note": "Lộ trình nâng hạng lên thị trường mới nổi thứ cấp của FTSE hoàn tất tháng 9/2026, dự kiến dòng vốn thụ động từ các quỹ theo dõi chỉ số FTSE có thể đạt 2,1 tỷ USD, với 27 cổ phiếu Việt Nam được duy trì trong bộ chỉ số."
-    },
-    {
-      "title": "Thủ tướng ưu tiên kiểm soát lạm phát cuối năm",
-      "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất cho mục tiêu kiểm soát lạm phát trong 2 tháng cuối năm 2026, gắn với mục tiêu tăng trưởng 2 con số và ổn định kinh tế vĩ mô, trong bối cảnh tiếp tục thúc đẩy giải ngân đầu tư công."
-    },
-    {
-      "title": "Thêm 2,5 triệu tài khoản chứng khoán mới năm 2026",
-      "impact": "↑",
-      "note": "Từ đầu năm 2026, số lượng tài khoản chứng khoán nhà đầu tư cá nhân tăng hơn 2,5 triệu, đạt tổng 14,3 triệu tài khoản (14% dân số). Tăng mạnh trong tháng 10 với 252.000 tài khoản mới, thể hiện sự tham gia mạnh của nhà đầu tư bán lẻ."
-    },
-    {
-      "title": "Giá vàng tăng 7,5 triệu đồng trong 4 phiên",
+      "title": "Thanh khoản VN30 giảm 21% chiều so với sáng",
       "impact": "↓",
-      "note": "Giá vàng miếng SJC tăng tổng 5,5 triệu đồng/lượng trong 4 phiên (2-5/11), vàng nhẫn tăng 5-7,5 triệu đồng/lượng. Giá bán vàng miếng đạt 144,5 triệu đồng/lượng lúc 10h sáng 5/11 (cao nhất 3 tuần), thể hiện việc xoay trở vốn vào tài sản an toàn."
+      "note": "Rổ VN30 giảm 21% chiều so với sáng, 44% so với chiều hôm qua; VN30 chỉ chiếm 50% tổng HoSE là mức thấp nhất 25 phiên, cho thấy dòng tiền chuyển từ blue-chip sang cổ phiếu vừa và nhỏ."
     },
     {
-      "title": "Bắc Ninh vượt 50 tỷ USD FDI tích lũy",
+      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
       "impact": "↑",
-      "note": "Tỉnh Bắc Ninh đạt 52,49 tỷ USD vốn FDI đăng ký luỹ kế, đứng thứ hai sau TP.HCM (156,79 tỷ USD), trên 3.705 dự án đầu tư nước ngoài, khẳng định vị trí là thủ phủ công nghiệp miền Bắc với sự tham gia của các doanh nghiệp lớn như Foxconn, Amkor, Canon."
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát; kết hợp mục tiêu tăng trưởng 2 con số, tạo nền tảng ổn định vĩ mô tích cực cho triển vọng dài hạn của thị trường."
+    },
+    {
+      "title": "2,5 triệu tài khoản chứng khoán mở mới từ đầu năm",
+      "impact": "↑",
+      "note": "Cuối tháng 10 có hơn 14,3 triệu tài khoản (14% dân số); tháng 10 tăng 252.000 tài khoản; nhà đầu tư cá nhân tiếp tục quan tâm bất chấp biến động, tạo nền tảng dài hạn cho thị trường."
+    },
+    {
+      "title": "Bắc Ninh vượt 50 tỷ USD FDI, đứng thứ 2 toàn quốc",
+      "impact": "↑",
+      "note": "Bắc Ninh đạt 52,49 tỷ USD FDI luỹ kế (3.705 dự án), đứng thứ 2 sau TP.HCM (156,79 tỷ USD); tiếp tục hút Foxconn, Amkor, Canon tạo nền tảng cho chuỗi cung ứng công nghệ cao toàn cầu."
+    },
+    {
+      "title": "Viconship tăng danh mục chứng khoán lên 2.700 tỷ đồng",
+      "impact": "↑",
+      "note": "Danh mục của Viconship tăng từ 716 tỷ (cuối Q2) lên 2.700 tỷ (cuối Q3), gấp 3,8 lần; tập trung GEX (1.500 tỷ, 55% danh mục), EIB (486 tỷ), VIX (291 tỷ), PET (279 tỷ); tín hiệu doanh nghiệp bình thường tăng cược vào cổ phiếu."
     }
   ]
 }
