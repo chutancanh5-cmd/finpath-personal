@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường đón nhận tín hiệu lạc quan khi lãi suất bắt đầu hạ nhiệt, với Ngân hàng NHNN yêu cầu giảm lãi suất huy động 0,5-1% và cho vay 1,5-2% để hỗ trợ nền kinh tế; giá dầu tăng mạnh đến 97 USD/thùng (+40%) giúp các doanh nghiệp dầu khí có lợi nhuận tăng vọt. Tuy nhiên, lạm phát vẫn là rủi ro khi CPI 10 tháng đạt 4,57% vượt mục tiêu 4,5%, khiến Chính phủ ưu tiên cao nhất kiểm soát lạm phát 2 tháng cuối năm. Giá vàng trong nước lên 144,5 triệu đồng/lượng, phản ánh tâm lý tìm kiếm tài sản an toàn trong bối cảnh kinh tế toàn cầu thay đổi.",
+  "summary_vi": "Giá vàng tăng mạnh lên 144,5 triệu đồng/lượng nhờ bầu cử Mỹ làm đồng USD suy yếu; Chính phủ ưu tiên kiểm soát lạm phát ở mức 4,5% khi CPI bình quân 10 tháng đã ở 4,57%, cao hơn mục tiêu. Ngân hàng Nhà nước yêu cầu giảm lãi suất (huy động giảm ~0,4%), tạo áp lực lên biên lãi ròng ngân hàng nhưng có tín hiệu hạ lãi suất bắt đầu. Giá dầu Brent DTD ở 97 USD/thùng hỗ trợ các công ty dầu khí phát triển tốt.",
   "top": [
     {
       "title": "Lãi suất bắt đầu hạ nhiệt",
       "impact": "↑",
-      "note": "Ngân hàng NHNN yêu cầu giảm lãi suất huy động 0,5-1%/năm và cho vay 1,5-2%/năm; lãi suất huy động thực tế đã giảm 0,4-0,7% so với đầu tháng 10, tạo điều kiện cho các ngân hàng điều chỉnh lãi suất cho vay."
+      "note": "Ngân hàng Nhà nước yêu cầu giảm lãi suất huy động 0,5–1%/năm và lãi suất cho vay 1,5–2%/năm cho sản xuất kinh doanh; đến đầu tháng 11, lãi suất huy động giảm khoảng 0,4% so với đầu tháng 10. Tín hiệu tích cực cho chi phí vay doanh nghiệp nhưng ngân hàng sẽ chịu áp lực biên lãi ròng."
     },
     {
-      "title": "PVOIL lãi quý 3 gấp 5,7 lần nhờ giá dầu cao",
-      "impact": "↑",
-      "note": "Doanh thu thuần 90,4 ngàn tỷ đồng (gấp 2,8 lần cùng kỳ), lãi ròng 716 tỷ đồng (gấp 5,7 lần), hưởng lợi từ giá dầu Brent trung bình 97 USD/thùng tăng 40% so với cùng kỳ."
-    },
-    {
-      "title": "Dự báo lãi suất cao, áp lực lên biên lãi ròng ngân hàng",
+      "title": "CPI cao hơn mục tiêu, Chính phủ ưu tiên kiểm soát lạm phát",
       "impact": "↓",
-      "note": "VCB lợi nhuận đi ngang cùng kỳ, giảm 36% so với quý trước; CTG +29%, BID +39%; áp lực lên biên lãi ròng khi các ngân hàng phải giảm lãi suất cho vay."
+      "note": "CPI bình quân 10 tháng tăng 4,57%, vượt mục tiêu cả năm 4,5%. Thủ tướng Lê Minh Hưng ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm với các giải pháp giảm giá điện, thuế xăng, bảo đảm cung ứng hàng thiết yếu."
     },
     {
-      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "title": "PVOIL lãi quý 3 tăng vọt từ giá dầu",
+      "impact": "↑",
+      "note": "PVOIL ghi nhận lãi ròng 716 tỷ đồng quý 3, gấp 5,7 lần cùng kỳ, nhờ giá dầu Brent DTD trung bình 97 USD/thùng (tăng 40% so với cùng kỳ), doanh thu thuần 90,4 ngàn tỷ đồng gấp 2,8 lần cùng kỳ."
+    },
+    {
+      "title": "Giá vàng tăng mạnh nhất 3 tháng",
       "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh Chính phủ đặt ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm để đạt mục tiêu tăng trưởng 2 con số gắn với ổn định kinh tế vĩ mô."
+      "note": "Vàng miếng SJC tăng 3,3 triệu đồng/lượng ngày 4/11 lên mốc 144,5 triệu đồng/lượng sáng 5/11; giá vàng thế giới 4.126 USD/ounce tăng 196 USD, hỗ trợ bởi đảng Dân chủ giành chiến thắng bầu cử Mỹ → đồng USD suy yếu."
     },
     {
-      "title": "CPI 10 tháng 4,57% vượt mục tiêu cả năm",
+      "title": "Áp lực biên lãi ròng nhóm ngân hàng từ lãi suất cao",
       "impact": "↓",
-      "note": "Bộ Tài chính nêu CPI bình quân 10 tháng là 4,57%, cao hơn mục tiêu 4,5% cả năm, đặt áp lực lớn cho công tác điều hành giá những tháng cuối năm 2026."
+      "note": "SSI Research cảnh báo các ngân hàng thương mại sẽ giảm cả lãi suất huy động và cho vay, gây áp lực lên biên lãi ròng trong ngắn hạn; VCB quý 3 lợi nhuận trước thuế đi ngang so với cùng kỳ, giảm 36% so với quý 2 sau chi phí dự phòng bất thường."
     },
     {
-      "title": "Giá vàng tăng mạnh 5/11, lên 144,5 triệu đồng/lượng",
+      "title": "Công nghiệp văn hóa trở thành động lực tăng trưởng mới",
       "impact": "↑",
-      "note": "Vàng miếng SJC tăng 2,1 triệu đồng lên 144,5 triệu đồng/lượng; vàng nhẫn tăng 1,8 triệu đồng lên 142,3 triệu đồng/lượng; giá vàng thế giới 4.061 USD/ounce, phục hồi mạnh từ giai đoạn điều chỉnh."
+      "note": "Những concert quốc tế tạo dòng chảy kinh tế lan tỏa tới du lịch, thương mại, dịch vụ; Chính phủ hướng tới Quyết định số 2486/QĐ-TTg ngày 14/11/2025 phát triển công nghiệp văn hóa như nguồn lực tăng trưởng kinh tế."
     }
   ]
 }
