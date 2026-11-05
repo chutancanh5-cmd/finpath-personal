@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường nhận tín hiệu tích cực từ phục hồi mạnh của chứng khoán Mỹ (Dow Jones +3,30% vượt 53.000 điểm, S&P 500 +1,58%) kéo theo giá dầu lao dốc ~9%, giảm áp lực chi phí đầu vào cho doanh nghiệp. Chính sách hỗ trợ từ NHNN (hoán đổi ngoại tệ 6 tháng) và Bộ Tài chính (giảm thuế xăng xuống 0%, giảm giá điện 2%, yêu cầu lãi suất cho vay giảm 1,5-2%) tạo đà kiềm chế lạm phát. Tuy nhiên, nhà đầu tư nước ngoài vẫn bán ròng 122 ngàn tỷ đồng trong 10 tháng (vượt mức năm 2025), và rebalancing ETF tháng 11 có thể tạo áp lực kỹ thuật.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường nhận tín hiệu tích cực từ lãi suất bắt đầu giảm (huy động giảm ~0,4%, cho vay giảm 0,2-0,5%) và chính sách kiềm chế lạm phát (giảm thuế xăng 0%, giá điện 2%), kéo theo phục hồi mạnh chứng khoán Mỹ (Dow +3,3%) và giá dầu lao dốc 9% giảm chi phí đầu vào. Tuy nhiên, khối ngoại tiếp tục bán ròng 122 ngàn tỷ đồng (vượt kỷ lục năm 2025) và ETF rebalancing 20.000 tỷ đồng vào 9-13/11 tạo áp lực ngắn hạn, trong khi CPI vẫn cao hơn mục tiêu 4,5%.",
   "top": [
     {
-      "title": "Chứng khoán Mỹ bùng nổ, dầu giảm 9%",
+      "title": "Lãi suất bắt đầu hạ nhiệt, cho vay giảm 0,2-0,5%",
       "impact": "↑",
-      "note": "Dow Jones tăng 3,30% lên 53.356,12 điểm (lần đầu vượt 53.000), S&P 500 +1,58%, Nasdaq +1,44%. Dầu thô giảm chóng mặt do nhà đầu tư dự tính kết quả bầu cử Mỹ (đảng Dân chủ giành đa số cả Thượng viện lẫn Hạ viện) sẽ làm tăng khả năng cuộc xung đột Mỹ-Iran kết thúc sớm. Phục hồi Mỹ hạn chế rủi ro rơi tự do toàn cầu, giá dầu thấp giảm chi phí sản xuất, vận chuyển cho doanh nghiệp Việt."
+      "note": "Sau hơn nửa tháng yêu cầu từ NHNN, lãi suất huy động giảm khoảng 0,4% đến đầu tháng 11, lãi suất cho vay giảm 0,2-0,5% (thấp hơn mục tiêu giảm 1,5-2%/năm). NHTM Nhà nước giảm bình quân 0,5%/năm, NHTM cổ phần giảm 0,5-0,7%/năm. Giảm chi phí vốn cho doanh nghiệp, hỗ trợ tăng trưởng tín dụng."
     },
     {
-      "title": "Bộ Tài chính giảm thuế xăng 0%, giảm giá điện 2%, yêu cầu lãi suất cho vay giảm 1,5-2%",
+      "title": "Bộ Tài chính giảm xăng 0%, giá điện 2%, kiềm chế lạm phát",
       "impact": "↑",
-      "note": "CPI bình quân 10 tháng là 4,57%, cao hơn mục tiêu 4,5% cả năm, đặt áp lực lớn cho 2 tháng cuối năm. Ban Chỉ đạo điều hành giá Chính phủ triển khai 5 nhóm giải pháp: điều chỉnh thuế tiêu thụ đặc biệt xăng xuống 0%, giảm bán lẻ điện 2%, bảo đảm cung cấp hàng thiết yếu, theo dõi giá cả. Các biện pháp này giảm chi phí đầu vào, hỗ trợ doanh nghiệp và kiềm chế lạm phát."
+      "note": "CPI bình quân 10 tháng 4,57% cao hơn mục tiêu 4,5%, Chính phủ triển khai 5 nhóm giải pháp. Điều chỉnh thuế tiêu thụ đặc biệt xăng xuống 0%, giảm giá bán lẻ điện 2%, bảo đảm cung cấp hàng thiết yếu (xăng dầu, lương thực, thuốc). Các biện pháp giảm chi phí sản xuất, vận chuyển và lạm phát những tháng cuối năm."
     },
     {
-      "title": "NHNN triển khai hoán đổi ngoại tệ 6 tháng hỗ trợ thanh khoản",
+      "title": "PV GAS lãi 80% quý 3 nhờ dầu Brent 97 USD/thùng",
       "impact": "↑",
-      "note": "Ngân hàng Nhà nước triển khai công cụ hoán đổi giữa ngoại tệ và VND kỳ hạn 6 tháng để hỗ trợ nguồn vốn VND cho các tổ chức tín dụng, giảm áp lực lãi suất thị trường. Động thái này cho thấy chủ động, linh hoạt trong điều hành, cùng lúc đáp ứng mục tiêu thanh khoản và kiềm chế lãi suất, tạo dư địa điều chỉnh lãi suất cho vay giảm hơn."
+      "note": "Lợi nhuận ròng 4,58 ngàn tỷ đồng tăng 80%, doanh thu 39,7 ngàn tỷ đồng tăng 11%, biên lợi nhuận cải thiện từ 11,5% lên 15,7%. Giá dầu Brent bình quân Q3 là 97 USD/thùng tăng 41% YoY, sản lượng khí khô và LNG tăng 24%. Ngành năng lượng tăng trưởng mạnh, sở hữu tiền mặt gần 51 ngàn tỷ."
     },
     {
-      "title": "PV GAS lãi 80%, dầu Brent 97 USD/thùng tăng 41%",
-      "impact": "↑",
-      "note": "Quý 3/2026, GAS lãi ròng 4.58 ngàn tỷ đồng tăng 80%, doanh thu 39.7 ngàn tỷ đồng tăng 11%. Giá dầu Brent bình quân Q3 là 97 USD/thùng (+41% YoY), sản lượng tiêu thụ khí khô và LNG tăng 24%, biên lợi nhuận cải thiện từ 11,5% lên 15,7%. Ngành năng lượng tăng trưởng mạnh nhờ giá cả quốc tế, hỗ trợ chỉ số thị trường."
+      "title": "Chứng khoán Mỹ tăng 3,3%, dầu giảm 9%, tín hiệu thị trường",
+      "impact": "→",
+      "note": "Dow Jones tăng 3,3% lên 53.356,12 điểm (lần đầu vượt 53.000), S&P 500 +1,58%, Nasdaq +1,44% sau bầu cử Quốc hội Mỹ. Dầu thô giảm do kỳ vọng xung đột Mỹ-Iran kết thúc sớm. Phục hồi toàn cầu hỗ trợ Việt Nam nhưng đồng thời áp lực từ dầu thấp lên cổ phiếu năng lượng."
     },
     {
-      "title": "Quỹ ETF tổng 20.000 tỷ cơ cấu danh mục 9-13/11, áp lực KDH",
+      "title": "ETF khổng lồ 20.000 tỷ cơ cấu danh mục 9-13/11",
       "impact": "↓",
-      "note": "Quỹ ETF mô phỏng VNDiamond, VN30, VNFin Lead (tổng tài sản 20.000 tỷ đồng) sẽ cơ cấu danh mục 9-13/11. KDH bị loại khỏi VNDiamond (danh mục giảm từ 18 xuống 17 mã vì không khắc phục tiêu chí FOL), FUEVFVND sẽ bán khoảng 4,8 triệu cổ phiếu KDH. Rebalancing có thể tạo áp lực bán lên thị trường trong tuần tới."
+      "note": "Các quỹ ETF mô phỏng VNDiamond, VN30, VNFin Lead (tổng tài sản 20.000 tỷ đồng) sẽ cơ cấu danh mục 9-13/11, hiệu lực 16/11. KDH bị loại khỏi VNDiamond (danh mục giảm 18 xuống 17 mã), FUEVFVND sẽ bán khoảng 4,8 triệu cổ phiếu KDH. Rebalancing tạo áp lực bán kỹ thuật trên thị trường tuần tới."
     },
     {
-      "title": "Nhà đầu tư nước ngoài bán ròng 122 ngàn tỷ trong 10 tháng 2026",
+      "title": "Khối ngoại bán ròng 122 ngàn tỷ trong 10 tháng 2026",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 122 ngàn tỷ đồng trên HOSE sau 10 tháng 2026, vượt mức kỷ lục 111 ngàn tỷ của cả năm 2025. Mặc dù hôm nay quay trở lại gom FPT và tập trung vào ngân hàng (VCB, VPB, LPB, BID, CTG) và bất động sản (VHM), nhưng dòng vốn chảy ra liên tục tiềm ẩn rủi ro áp lực bán lên thị trường ngắn hạn."
+      "note": "Nhà đầu tư nước ngoài bán ròng 122 ngàn tỷ đồng trên HOSE, vượt mức kỷ lục 111 ngàn tỷ của cả năm 2025. Dù hôm nay quay lại gom FPT, VCB, VPB, LPB, BID, CTG, VHM, nhưng dòng vốn chảy ra liên tục vẫn là rủi ro, tiềm ẩn áp lực bán ngắn hạn."
     }
   ]
 }
