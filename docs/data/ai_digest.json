@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường phân hóa trong phiên 5/11 với VN-Index tăng nhẹ 8 điểm nhưng thanh khoản VN30 giảm 21% so với sáng; khối ngoại tiếp tục bán ròng 225 tỷ đồng gây áp lực ngắn hạn. Tuy vậy, dấu hiệu tích cực bao gồm: Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm, tài khoản chứng khoán mới tăng 2,5 triệu từ đầu năm, FDI tiếp tục chảy mạnh vào Bắc Ninh đạt 52,49 tỷ USD. Dòng tiền đang chuyển từ blue-chip sang cổ phiếu vừa và nhỏ.",
+  "summary_vi": "Chính sách tiền tệ tích cực (Vietcombank giảm lãi suất 1,5-3%, Hà Nội đầu tư metro 1 triệu tỷ đồng) và gia tăng tài khoản cá nhân (thêm 2,5 triệu từ đầu năm) là tín hiệu tích cực, nhưng dòng tiền yếu (khối ngoại bán ròng 225 tỷ, thanh khoản VN30 giảm mạnh xuống mức thấp 25 phiên). Thủ tướng nhấn mạnh ưu tiên kiểm soát lạm phát 2 tháng cuối năm, phản ánh lo ngại vĩ mô. Vàng tăng mạnh 5-7,5 triệu đồng/lượng trong 4 phiên, cho thấy tâm lý bảo toàn tài sản.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 225 tỷ đồng phiên 5/11",
+      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "impact": "→",
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối 2026, bên cạnh mục tiêu tăng trưởng 2 con số. Quyết định này phản ánh lo ngại về áp lực giá cả nhưng cũng là cam kết hỗ trợ ổn định kinh tế vĩ mô."
+    },
+    {
+      "title": "Hà Nội đầu tư 5 tuyến metro tổng 1 triệu tỷ đồng",
+      "impact": "↑",
+      "note": "HĐND TP Hà Nội thông qua cơ chế đặc thù cho 5 tuyến metro (số 1, 2, 8, 10, 14) tổng chiều dài 253,5km, mức trần 120 triệu USD/km, mục tiêu hoàn thành 2030. Dự án hạ tầng lớn tạo động lực tăng trưởng và hỗ trợ ngành xây dựng."
+    },
+    {
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm",
+      "impact": "↑",
+      "note": "Từ 19/10-31/12/2026, Vietcombank triển khai chương trình tín dụng với mức giảm 1,5-2%/năm, một số lĩnh vực ưu tiên giảm tới 3%/năm. Hỗ trợ doanh nghiệp tiếp cận vốn với chi phí hợp lý, thúc đẩy sản xuất kinh doanh."
+    },
+    {
+      "title": "Khối ngoại bán ròng 225 tỷ bất chấp gom VIX 452 tỷ",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng khoảng 225 tỷ đồng toàn thị trường, bán mạnh VCB (89 tỷ), VHM (76 tỷ), VPB (56 tỷ) gây áp lực ngắn hạn; mua chủ yếu VIX (452 tỷ) nhưng chưa cân bằng được lệnh bán chung."
+      "note": "Phiên 5/11, khối ngoại bán ròng 225 tỷ đồng trên toàn thị trường. Dù gom mạnh VIX (452 tỷ), CTG (101 tỷ), VIC (54 tỷ), nhưng bán ròng VCB (89 tỷ) và VHM (76 tỷ). Nhà đầu tư ngoại giảm tỷ trọng blue-chip ngân hàng, áp lực bán tiếp tục."
     },
     {
-      "title": "Thanh khoản VN30 giảm 21% chiều so với sáng",
-      "impact": "↓",
-      "note": "Rổ VN30 giảm 21% chiều so với sáng, 44% so với chiều hôm qua; VN30 chỉ chiếm 50% tổng HoSE là mức thấp nhất 25 phiên, cho thấy dòng tiền chuyển từ blue-chip sang cổ phiếu vừa và nhỏ."
-    },
-    {
-      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "title": "Giá vàng tăng 5-7,5 triệu đồng/lượng trong 4 phiên",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát; kết hợp mục tiêu tăng trưởng 2 con số, tạo nền tảng ổn định vĩ mô tích cực cho triển vọng dài hạn của thị trường."
+      "note": "Trong 4 phiên (2-5/11), vàng miếng SJC tăng 5,5 triệu đồng/lượng lên 144,5 triệu/lượng (cao nhất 3 tuần). Vàng nhẫn tăng 5-7,5 triệu/lượng. Vàng thế giới lên 4.125 USD/ounce, tăng 1,6% phiên này, 3,4% phiên trước."
     },
     {
-      "title": "2,5 triệu tài khoản chứng khoán mở mới từ đầu năm",
+      "title": "Việt Nam có thêm 2,5 triệu tài khoản chứng khoán",
       "impact": "↑",
-      "note": "Cuối tháng 10 có hơn 14,3 triệu tài khoản (14% dân số); tháng 10 tăng 252.000 tài khoản; nhà đầu tư cá nhân tiếp tục quan tâm bất chấp biến động, tạo nền tảng dài hạn cho thị trường."
-    },
-    {
-      "title": "Bắc Ninh vượt 50 tỷ USD FDI, đứng thứ 2 toàn quốc",
-      "impact": "↑",
-      "note": "Bắc Ninh đạt 52,49 tỷ USD FDI luỹ kế (3.705 dự án), đứng thứ 2 sau TP.HCM (156,79 tỷ USD); tiếp tục hút Foxconn, Amkor, Canon tạo nền tảng cho chuỗi cung ứng công nghệ cao toàn cầu."
-    },
-    {
-      "title": "Viconship tăng danh mục chứng khoán lên 2.700 tỷ đồng",
-      "impact": "↑",
-      "note": "Danh mục của Viconship tăng từ 716 tỷ (cuối Q2) lên 2.700 tỷ (cuối Q3), gấp 3,8 lần; tập trung GEX (1.500 tỷ, 55% danh mục), EIB (486 tỷ), VIX (291 tỷ), PET (279 tỷ); tín hiệu doanh nghiệp bình thường tăng cược vào cổ phiếu."
+      "note": "Cuối tháng 10, tổng 14,3 triệu tài khoản cá nhân (14% dân số), tăng 2,5 triệu từ đầu năm. Tháng 10 thêm 252.000 tài khoản. Nhà đầu tư cá nhân gia tăng bất chấp biến động thị trường và áp lực khối ngoại bán ròng 122.000 tỷ đồng từ đầu năm."
     }
   ]
 }
