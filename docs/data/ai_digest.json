@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-05",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay diễn ra trong bối cảnh lãi suất vẫn duy trì cao trong ngắn hạn, tạo áp lực lên biên lãi ròng ngân hàng mặc dù Ngân hàng Nhà nước đã yêu cầu giảm lãi suất. CPI bình quân 10 tháng đạt 4,57%, vượt mục tiêu 4,5%, thúc đẩy chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm bằng các biện pháp giảm giá điện và xăng dầu. Giá hàng hóa quốc tế (dầu Brent 97 USD/thùng, vàng, bạc) tiếp tục tăng mạnh, hỗ trợ ngành năng lượng nhưng khối ngoại vẫn bán ròng mạnh 122 ngàn tỷ đồng từ đầu năm, đặt áp lực lên thị trường.",
+  "summary_vi": "Thị trường hôm nay cân bằng giữa tín hiệu tích cực từ luồng FDI mạnh (Bắc Ninh vượt 50 tỷ USD) và lợi nhuận dầu khí cao, nhưng chịu áp lực từ lãi suất còn cao và lạm phát CPI vượt mục tiêu năm. Lãi suất cho vay/huy động chưa giảm đủ, tạo áp lực lên biên lãi ròng ngân hàng ngắn hạn. Chính phủ ưu tiên cao kiểm soát lạm phát 2 tháng cuối năm với biện pháp hỗ trợ lãi suất giảm nhẹ và bảo đảm cung ứng.",
   "top": [
     {
-      "title": "CPI tháng 10 cao hơn mục tiêu, chính phủ ưu tiên kiểm soát lạm phát",
-      "impact": "→",
-      "note": "CPI bình quân 10 tháng đạt 4,57%, vượt mục tiêu 4,5% của cả năm. Thủ tướng yêu cầu ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm; Bộ Tài chính dự kiến giảm giá điện và thuế xăng dầu để kiềm chế CPI, tác động trực tiếp vào chi phí sản xuất và giá hàng hóa."
-    },
-    {
-      "title": "Lãi suất huy động và cho vay bắt đầu hạ nhiệt, áp lực biên lãi ngân hàng",
-      "impact": "↓",
-      "note": "Sau hơn nửa tháng NHNN yêu cầu giảm, lãi suất huy động giảm khoảng 0,4% so với đầu tháng 10, lãi suất cho vay thực tế chỉ giảm 0,2–0,5%, thấp hơn mức yêu cầu 1,5–2%. Điều này vẫn tạo áp lực lên biên lãi ròng nhóm ngân hàng trong ngắn hạn."
-    },
-    {
-      "title": "Dầu Brent vượt 97 USD/thùng, PVOIL lãi quý 3 gấp 5,7 lần",
+      "title": "FDI Bắc Ninh vượt mốc 50 tỷ USD, đứng thứ 2 toàn quốc",
       "impact": "↑",
-      "note": "Giá dầu Brent trung bình quý 3 đạt 97 USD/thùng (tăng 40% YoY), doanh thu PVOIL quý 3 lên 90,4 ngàn tỷ đồng (gấp 2,8 lần), lãi ròng 716 tỷ đồng (gấp 5,7 lần cùng kỳ). Ngành dầu khí được hỗ trợ mạnh, nhưng dòng tiền hoạt động âm do đọng vốn phải thu."
+      "note": "Tính đến 9/2026, Bắc Ninh tiếp nhận 52,49 tỷ USD FDI trên 3.705 dự án, đứng thứ 2 sau TP.HCM (156,79 tỷ USD), hỗ trợ phát triển kinh tế và chuỗi cung ứng công nghệ cao."
     },
     {
-      "title": "Vàng và bạc tăng mạnh nhờ phục hồi quốc tế",
+      "title": "Giá dầu Brent 97 USD/thùng, PVOIL lãi quý 3 gấp 5,7 lần",
       "impact": "↑",
-      "note": "Giá bạc thế giới bật tăng lên 53,3 USD/ounce (tăng 3,6 USD từ hôm trước), vàng tăng 88 USD/ounce lên 4.135 USD/ounce. Trong nước, vàng nhẫn tăng 1,8–2,5 triệu đồng/lượng, vàng miếng SJC tăng 2,1–2,2 triệu đồng/lượng. Tín hiệu căng thẳng địa chính trị hoặc yếu đồng USD đang thúc đẩy hàng hóa quý."
+      "note": "Giá dầu Brent DTD quý 3 trung bình 97 USD/thùng (tăng 40%), PVOIL ghi nhận doanh thu 90,4 ngàn tỷ đồng (gấp 2,8 lần), lợi nhuận ròng 716 tỷ đồng (gấp 5,7 lần cùng kỳ)."
     },
     {
-      "title": "Khối ngoại bán ròng 122 ngàn tỷ đồng 10 tháng đầu năm",
+      "title": "Lãi suất cao, áp lực lên biên lãi ròng ngân hàng",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng gần 122 ngàn tỷ đồng trên HOSE sau 10 tháng, vượt mức kỷ lục 111 ngàn tỷ đồng của cả năm 2025. Riêng tháng 10, giá trị bán ròng tiếp tục tăng, phản ánh tín hiệu yếu từ nhà đầu tư quốc tế."
+      "note": "Dự báo lãi suất vẫn duy trì ở mức cao trong ngắn hạn, mặc dù đã bắt đầu giảm nhẹ 0,2-0,5% cho vay và 0,4% huy động, tạo áp lực lên biên lãi ròng (NIM) của khối ngân hàng."
     },
     {
-      "title": "Chủ tịch Nguyễn Đỗ Lăng (Apec) đăng ký bán 20 triệu cổ phiếu",
-      "impact": "→",
-      "note": "Nguyễn Đỗ Lăng đăng ký bán 10 triệu cổ phiếu APS (giảm từ 14,3% xuống 2,26% vốn) và 10 triệu cổ phiếu API (giảm từ 19,6% xuống 7,71%) trong giai đoạn 05/11–04/12/2026 để đáp ứng nhu cầu cá nhân. Tín hiệu thoái toàn bộ vốn từ nhân vật chủ chốt."
+      "title": "CPI 10 tháng 4,57%, vượt mục tiêu năm 4,5%",
+      "impact": "↓",
+      "note": "CPI bình quân 10 tháng đạt 4,57%, vượt mục tiêu năm, đòi hỏi các giải pháp điều hành giá, bảo đảm cung cấp hàng hóa thiết yếu trong 2 tháng cuối năm."
+    },
+    {
+      "title": "Giá vàng, bạc tăng mạnh hôm 5/11",
+      "impact": "↑",
+      "note": "Giá bạc thế giới vượt 53,3 USD/ounce (tăng 3,6 USD), giá vàng thế giới tăng 88 USD/ounce lên 4.135 USD/ounce, hỗ trợ lợi suất xuất khẩu và tiết kiệm gia đình."
+    },
+    {
+      "title": "KOS bán giải chấp 43,7 triệu cổ phiếu, Chủ tịch tư nhân bị bán",
+      "impact": "↓",
+      "note": "Sau 29 phiên giảm sàn liên tiếp, KOS đảo chiều nhưng Chủ tịch Nguyễn Việt Cường bị bán giải chấp 12,93 triệu cổ phiếu, tổng 7 cá nhân/tổ chức liên quan bị bán 43,7 triệu đơn vị, phản ánh vấn đề thanh khoản của ban lãnh đạo."
     }
   ]
 }
