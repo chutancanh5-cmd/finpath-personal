@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường cân bằng giữa áp lực kiểm soát lạm phát và những yếu tố tích cực: Chính phủ đặt ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm, trong bối cảnh khối ngoại bán ròng; tuy nhiên, lãi suất bắt đầu hạ nhiệt, kết quả kinh doanh quý 3 tăng vọt (PVOIL lãi gấp 5.7 lần), và vốn FDI vẫn chảy vào (Bắc Ninh đạt 50+ tỷ USD). Các dự án hạ tầng lớn như 5 tuyến metro Hà Nội (1 triệu tỷ đồng) được triển khai, hỗ trợ tăng trưởng dài hạn giữa rủi ro ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường nhận các tín hiệu kinh tế tích cực từ dòng vốn FTSE 2,1 tỷ USD, lãi suất bắt đầu hạ nhiệt, FDI tiếp tục mạnh và dự án hạ tầng lớn được triển khai. Tuy nhiên, phiên sáng 5/11 diễn biến giằng co với khối ngoại bán ròng, áp lực tại cổ phiếu trụ (VCB, GAS, HPG giảm), gợi ý nhà đầu tư vẫn thận trọng. Chính phủ ưu tiên cao kiểm soát lạm phát trong 2 tháng cuối năm, tạo sự cân bằng giữa tăng trưởng và ổn định vĩ mô.",
   "top": [
     {
-      "title": "Thủ tướng ưu tiên cao nhất kiểm soát lạm phát 2 tháng cuối năm",
-      "impact": "↓",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu 4/11 nhấn mạnh kiểm soát lạm phát là ưu tiên cao nhất đặc biệt 2 tháng cuối 2026, gắn với mục tiêu tăng trưởng 2 con số; lưu ý khó khăn trong tháo gỡ dự án tồn đọng và giải ngân thấp tại nhiều bộ cơ quan."
+      "title": "FTSE nâng hạng: dòng vốn 2,1 tỷ USD vào 27 cổ phiếu Việt Nam",
+      "impact": "↑",
+      "note": "Việt Nam chính thức nâng hạng lên thị trường mới nổi cấp 2 (tháng 9/2026). Tổng dòng vốn thụ động từ quỹ theo dõi FTSE vào chứng khoán Việt Nam tiềm lực 2,1 tỷ USD khi hoàn tất lộ trình. Kỳ rà soát tháng 12/2026 dự kiến duy trì 27 cổ phiếu VN, chủ yếu điều chỉnh tỷ trọng."
+    },
+    {
+      "title": "Lãi suất bắt đầu hạ nhiệt, tạo dư địa tín dụng",
+      "impact": "↑",
+      "note": "Sau hơn nửa tháng triển khai chỉ đạo NHNN, lãi suất huy động giảm khoảng 0,4–0,5%, lãi suất cho vay giảm 0,2–0,5%. Các ngân hàng đã công bố chương trình tín dụng ưu đãi cho sản xuất kinh doanh và lĩnh vực ưu tiên."
     },
     {
       "title": "PVOIL lãi quý 3 gấp 5.7 lần nhờ giá dầu Brent 97 USD/thùng",
       "impact": "↑",
-      "note": "PVOIL doanh thu thuần hơn 90.4 ngàn tỷ đồng (gấp 2.8 lần cùng kỳ), lợi nhuận ròng 716 tỷ đồng (gấp 5.7 lần), nhờ giá dầu Brent DTD trung bình 97 USD/thùng (+40% so cùng kỳ), giá bán xăng tăng 40-42%."
+      "note": "PVOIL doanh thu thuần hơn 90.4 ngàn tỷ đồng (gấp 2.8 lần cùng kỳ), lợi nhuận ròng 716 tỷ đồng (gấp 5.7 lần), nhờ giá dầu Brent DTD trung bình 97 USD/thùng (+40% so cùng kỳ), giá bán xăng tăng 40–42%."
     },
     {
-      "title": "Bắc Ninh vốn FDI đạt 52.49 tỷ USD, thứ 2 toàn quốc",
+      "title": "Hà Nội triển khai 5 tuyến metro, tổng mức 1 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Bắc Ninh vượt mốc 50 tỷ USD vốn FDI với 3.705 dự án, chỉ sau TP.HCM (156.79 tỷ USD); thu hút các công ty FDI lớn như Foxconn, Amkor, Canon trong lĩnh vực công nghiệp điện tử, bán dẫn."
+      "note": "HĐND TP Hà Nội 4/11 phê duyệt cơ chế đầu tư 5 tuyến metro (số 1, 2, 8, 10, 14) tổng 253,5 km, mức trần 120 triệu USD/km, tổng mức đầu tư hơn 1 triệu tỷ đồng, mục tiêu hoàn thành 2030."
     },
     {
-      "title": "Lãi suất huy động giảm khoảng 0.4%, cho vay giảm 0.2–0.5%",
+      "title": "Bắc Ninh vượt 50 tỷ USD FDI, đứng thứ 2 toàn quốc",
       "impact": "↑",
-      "note": "Sau hơn nửa tháng triển khai chỉ đạo NHNN, lãi suất huy động đầu tháng 11 giảm 0.4%, lãi suất cho vay thực tế giảm 0.2–0.5% (chậm hơn mục tiêu 1.5–2%); các ngân hàng công bố chương trình tín dụng ưu đãi cho sản xuất kinh doanh."
+      "note": "Bắc Ninh vượt mốc 50 tỷ USD vốn FDI với 3.705 dự án, chỉ sau TP.HCM (156,79 tỷ USD). Thành phố thu hút các công ty FDI lớn như Foxconn, Amkor, Canon trong lĩnh vực công nghiệp điện tử, bán dẫn."
     },
     {
-      "title": "Hà Nội phê duyệt 5 tuyến metro tổng mức 1 triệu tỷ đồng",
-      "impact": "↑",
-      "note": "HĐND TP Hà Nội 4/11 thông qua cơ chế đầu tư 5 tuyến metro (số 1, 2, 8, 10, 14) tổng 253.5km, mức trần 120 triệu USD/km, tổng mức đầu tư hơn 1 triệu tỷ đồng, mục tiêu hoàn thành 2030."
-    },
-    {
-      "title": "VN-Index tăng 5.84 điểm, khối ngoại bán ròng bất chấp lệnh mua VIX",
+      "title": "Thủ tướng ưu tiên cao kiểm soát lạm phát trong 2 tháng cuối năm",
       "impact": "→",
-      "note": "VN-Index phiên sáng 5/11 giao dịch 1,738.86 điểm (+5.84), HNX-Index -2.51, sắc xanh 310 mã và sắc đỏ 283 mã; khối ngoại bán ròng bất chấp lệnh mua lớn tại VIX, cổ phiếu trụ như VCB, GAS, HPG, MSN giảm 0.68–1.3%."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu 4/11 nhấn mạnh kiểm soát lạm phát là ưu tiên cao nhất đặc biệt trong 2 tháng cuối 2026, gắn với mục tiêu tăng trưởng 2 con số. Chỉ rõ khó khăn trong giải ngân dự án, xử lý cơ sở dôi dư, cần thúc đẩy xuất khẩu, đầu tư tư nhân."
     }
   ]
 }
