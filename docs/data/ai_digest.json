@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-05",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán mất đà khi VN-Index chỉ tăng 0,34% phiên sáng sau khi lên cao nhất +1,16%. Tín hiệu tích cực từ dầu khí (PVOIL lãi gấp 5,7 lần nhờ giá dầu tăng 40%), dự án hạ tầng Hà Nội (5 tuyến metro, 1 triệu tỷ đồng) và FDI liên tục chảy vào Bắc Ninh (52,49 tỷ USD). Áp lực từ lãi suất cao kiềm chế biên lãi ngân hàng và nhà đầu tư chạy vào vàng (tăng 2-2,5 triệu đồng/lượng), phản ánh cân nhắc rủi ro ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường có tín hiệu tích cực dài hạn: lãi suất bắt đầu hạ nhiệt (huy động giảm 0,4%, cho vay dự báo giảm 1,5-2%), dầu khí phục hồi mạnh (PVOIL lãi 716 tỷ đồng gấp 5,7 lần nhờ giá dầu 97 USD/thùng), dự án hạ tầng Hà Nội 1 triệu tỷ đồng, FDI Bắc Ninh vượt 50 tỷ USD. Ngắn hạn chỉ số rung lắc (lên +1,16% rồi về +0,34%) với độ rộng suy yếu (147 mã xanh/148 mã đỏ), nhà đầu tư tìm kiếm tài sản an toàn qua vàng tăng 2,1-2,2 triệu đồng/lượng.",
   "top": [
+    {
+      "title": "Lãi suất bắt đầu hạ nhiệt, tạo đòn bẩy cho tín dụng và TTCK",
+      "impact": "↑",
+      "note": "Lãi suất huy động giảm khoảng 0,4% đầu tháng 11, lãi suất cho vay giảm 0,2-0,5% thực tế. Ngân hàng Nhà nước yêu cầu giảm thêm 1,5-2%/năm cho sản xuất kinh doanh và lĩnh vực ưu tiên. Giảm chi phí vốn tạo dư địa tăng tín dụng, hỗ trợ hoạt động kinh tế."
+    },
     {
       "title": "PVOIL lãi quý 3 gấp 5,7 lần nhờ giá dầu tăng 40%",
       "impact": "↑",
-      "note": "Doanh thu thuần 90,4 ngàn tỷ đồng (tăng 2,8 lần), lãi ròng 716 tỷ đồng (tăng 5,7 lần) nhờ giá dầu Brent trung bình 97 USD/thùng (tăng 40% so với cùng kỳ). Tích cực cho toàn ngành năng lượng."
+      "note": "Doanh thu thuần 90,4 ngàn tỷ đồng (tăng 2,8 lần cùng kỳ), lãi ròng 716 tỷ đồng (tăng 5,7 lần cùng kỳ). Giá dầu Brent trung bình 97 USD/thùng (tăng 40% so với cùng kỳ). Lực kéo mạnh cho ngành dầu khí và các dự án liên quan."
     },
     {
       "title": "Hà Nội duyệt 5 tuyến metro với tổng đầu tư hơn 1 triệu tỷ đồng",
       "impact": "↑",
-      "note": "HĐND TP Hà Nội thông qua nghị quyết 4/11 triển khai 5 tuyến (số 1, 2, 8, 10, 14), tổng chiều dài 253,5km, mức trần 120 triệu USD/km, mục tiêu hoàn thành 2030. Tạo cơ hội cho xây dựng, hạ tầng."
+      "note": "HĐND TP Hà Nội thông qua nghị quyết 4/11 triển khai 5 tuyến (số 1, 2, 8, 10, 14), tổng chiều dài 253,5 km, mức trần 120 triệu USD/km, mục tiêu hoàn thành 2030. Kích thích ngành xây dựng, bất động sản, hạ tầng dài hạn."
     },
     {
       "title": "FDI tiếp tục chảy vào, Bắc Ninh vượt 50 tỷ USD",
       "impact": "↑",
-      "note": "Bắc Ninh đạt 52,49 tỷ USD vốn FDI lũy kế (3.705 dự án), đứng thứ 2 sau TP.HCM. Thu hút Foxconn, Amkor, Canon. Cho thấy sự tin tưởng của nhà đầu tư nước ngoài vào nền kinh tế."
+      "note": "Bắc Ninh đạt 52,49 tỷ USD vốn FDI lũy kế (3.705 dự án), đứng thứ 2 sau TP.HCM (156,79 tỷ USD). Thu hút Foxconn, Amkor, Canon. Phản ánh sự tin tưởng nhà đầu tư nước ngoài vào công nghệ cao Việt Nam."
     },
     {
-      "title": "Lãi suất cao áp lực lên biên lãi ròng ngân hàng",
+      "title": "Lãi suất cao kiềm chế biên lãi ròng ngân hàng ngắn hạn",
       "impact": "↓",
-      "note": "SSI Research cảnh báo lãi suất dự báo duy trì mức cao. Lãi suất huy động giảm 0,4-0,7%/năm, nhưng lãi suất cho vay chỉ giảm 0,2-0,5%, buộc ngân hàng chấp nhận biên lãi ròng bị bóp chặt trong ngắn hạn."
+      "note": "Lãi suất huy động giảm 0,4-0,7%/năm, nhưng lãi suất cho vay giảm chỉ 0,2-0,5% thực tế. Chứng chỉ tiền gửi tăng 41% so với đầu năm. Ngân hàng chịu áp lực bóp chặt biên lãi ròng 2 tháng cuối năm."
     },
     {
-      "title": "Giá vàng tăng 2-2,5 triệu đồng/lượng, nhà đầu tư tìm tài sản an toàn",
-      "impact": "↓",
-      "note": "Vàng miếng SJC bán ra 144,5 triệu đồng/lượng (tăng 2,1-2,2), vàng nhẫn tăng 1,8-2,5 triệu đồng/lượng. Xu hướng tìm kiếm tài sản trú ẩn cho thấy nhà đầu tư cân nhắc rủi ro ngắn hạn."
-    },
-    {
-      "title": "VN-Index mất đà sau khi lên +1,16%, cổ phiếu phân hóa mạnh",
+      "title": "VN-Index mất đà, độ rộng suy yếu cảnh báo rung lắc ngắn hạn",
       "impact": "→",
-      "note": "VN-Index đạt 1753,15 điểm lúc 9h21 (+1,16%), rồi lùi về +0,34% kết phiên sáng. Cổ phiếu tăng quá 1% giảm từ 209 xuống 70 mã, độ rộng từ 198 xanh xuống 147 xanh/148 đỏ. Sự suy yếu có đồng thuận cao, không phải áp lực tập trung."
+      "note": "VN-Index đạt 1753,15 điểm lúc 9h21 (+1,16%), rồi lùi về +0,34% kết phiên sáng. Mã xanh giảm từ 198 xuống 147, mã đỏ tăng từ 42 lên 148. Cổ phiếu tăng quá 1% giảm từ 209 xuống 70 mã, sự suy yếu rộng rãi trong toàn thị trường."
     }
   ]
 }
