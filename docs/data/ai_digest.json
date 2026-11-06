@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-06",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam giảm 1,22% (VN-Index xuống 1.725 điểm, -15 điểm) chịu áp lực bán tháo toàn cầu (S&P 500 -4,4%, Nasdaq -5,5%, Nikkei -6%). Điểm sáng: khối ngoại quay lại mua ròng 436 tỷ đồng (KDH 171 tỷ, VND 99 tỷ, VIX 93 tỷ). Tuy nhiên, thanh khoản tiếp tục ở mức cực thấp (12.380 tỷ/phiên, giảm tháng thứ 5 liên tiếp). Lãi suất tiền gửi cao (9,1%/năm) kéo dòng tiền khỏi cổ phiếu, hạn chế dòng vốn dài hạn khi chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ làn sóng bán tháo chứng khoán Mỹ, khối ngoại tiếp tục bán ròng phiên thứ 10. Lãi suất tiền gửi lên tới 9-10%/năm là cản trở chính cho định giá cổ phiếu khi nhà đầu tư có thể đạt lợi suất cao với rủi ro thấp. Tuy nhiên, Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm và Vietcombank giảm lãi suất hỗ trợ doanh nghiệp. VN-Index mở phiên sáng 6/11 giảm 1,57% nhưng thanh khoản tăng mạnh 32% cho thấy dấu hiệu bắt đáy.",
   "top": [
     {
-      "title": "Khối ngoại đảo chiều mua ròng 436 tỷ đồng sau chuỗi bán",
+      "title": "Chứng khoán toàn cầu lao dốc, Việt Nam chịu ảnh hưởng tâm lý",
+      "impact": "↓",
+      "note": "Thị trường Mỹ bán tháo mạnh; Nikkei giảm hơn 6%, Kospi giảm 5,5%, Hang Seng giảm 1,15%. Việc siết kiểm soát AI tác động chủ yếu ngắn hạn; VN gần như không có cổ phiếu AI quy mô lớn nhưng tâm lý nhà đầu tư bị kéo theo đáng kể."
+    },
+    {
+      "title": "Thủ tướng ưu tiên cao nhất kiểm soát lạm phát 2 tháng cuối năm",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng 436 tỷ đồng trong phiên 6/11 (KDH 171 tỷ, VND 99 tỷ, VIX 93 tỷ, MSN 86 tỷ, VIC 75 tỷ), quay lại sau chuỗi bán ròng kéo dài, cho thấy nhà đầu tư nước ngoài tìm kiếm mức giá hấp dẫn dù bán tháo quốc tế còn tiếp tục."
+      "note": "Phát biểu tại phiên họp Chính phủ thường kỳ tháng 10 (4/11), Thủ tướng Lê Minh Hưng nhấn mạnh quyết tâm kiên định mục tiêu tăng trưởng 2 con số gắn với giữ vững ổn định kinh tế vĩ mô, ưu tiên cao nhất kiểm soát lạm phát."
     },
     {
-      "title": "Bán tháo toàn cầu: S&P 500 -4,4%, Nasdaq -5,5%, Nikkei -6%",
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ doanh nghiệp",
+      "impact": "↑",
+      "note": "Từ 19/10-31/12, Vietcombank triển khai chương trình tín dụng giảm lãi suất từ 1,5-2%/năm cho các lĩnh vực ưu tiên, riêng một số lĩnh vực giảm tới 3%/năm, thực hiện chỉ đạo của Ngân hàng Nhà nước."
+    },
+    {
+      "title": "Lãi suất tiền gửi tới 9-10% cản trở định giá cổ phiếu",
       "impact": "↓",
-      "note": "Sóng bán tháo mạnh tại Mỹ (S&P 500 -4,4%, Nasdaq -5,5% do lo ngại công nghệ/AI) lan sang châu Á với Nikkei giảm 6%, Kospi -5,5%, Hang Seng -1,15%; VN-Index mở cửa bốc hơi 27 điểm (-1,57%), tối kết phiên giảm 15 điểm (-0,88%)."
+      "note": "VPBank cộng lãi suất gửi tiền tới 9,1%/năm kỳ hạn 12 tháng. CEO Digiworld phân tích lãi suất Việt Nam khó giảm sâu vì lợi suất trái phiếu Mỹ vẫn quanh 5%, khiến định giá cổ phiếu bị ép dù doanh nghiệp hoạt động tốt."
     },
     {
-      "title": "Thanh khoản giảm tháng thứ 5 liên tiếp, xuống 12.380 tỷ/phiên",
+      "title": "HGI bị phạt 435,5 tỷ đồng trước khi lên UPCoM",
       "impact": "↓",
-      "note": "Giá trị khớp lệnh HoSE tháng 10 đạt 12.380 tỷ đồng/phiên, giảm 6,88% so với tháng 9 và 23,36% so với bình quân 5 tháng, là mức thấp nhất kể từ tháng 1/2025, phản ánh dòng tiền chưa quay trở lại đủ mạnh."
+      "note": "CTCP Đầu tư Quốc tế Hoàng Anh Gia Lai (HGI) nhận quyết định phạt 435,5 tỷ đồng: 64 tỷ tiền phạt hành chính, 320 tỷ truy thu thuế TNDN, 51,6 tỷ chậm nộp. Sự kiện diễn ra ngay trước ngày lên UPCoM (9/11), tác động tiêu cực đến HAGL."
     },
     {
-      "title": "Lãi suất tiền gửi lên 9,1%/năm, hút dòng tiền khỏi cổ phiếu",
+      "title": "VN-Index mở phiên giảm 1,57%, thanh khoản tăng tín hiệu bắt đáy",
       "impact": "↓",
-      "note": "VPBank cộng 2,2%/năm cho gửi kỳ hạn 6-12 tháng dưới 10 tỷ đồng và 2%/năm trên 10 tỷ, nâng lãi suất online kỳ hạn 12 tháng lên 8,8-9,1%/năm; Chủ tịch Digiworld nhận định nếu lãi suất 10%/năm thì không cổ phiếu nào có thể tăng giá."
-    },
-    {
-      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
-      "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất cho mục tiêu kiểm soát lạm phát trong 2 tháng cuối năm 2026 gắn với mục tiêu tăng trưởng 2 con số, chỉ đạo duy trì thắt chặt tiền tệ hạn chế không gian giảm lãi suất cho vay."
-    },
-    {
-      "title": "HGI bị phạt 435,5 triệu đồng trước lên UPCoM ngày 9/11",
-      "impact": "↓",
-      "note": "Hoàng Anh Gia Lai (HGI, 'con gà đẻ trứng vàng' của HAG) nhận quyết định phạt hành chính 435,5 triệu đồng (gồm 64 triệu tiền phạt, 320 triệu truy thu thuế TNDN, 51,6 triệu chậm nộp) vì hành vi khai sai thuế, sự kiện xấu diễn ra ngay trước ngày lên sàn UPCoM."
+      "note": "VN-Index giảm 1,57% (-21,18 điểm) với 67 mã xanh/234 mã đỏ; VN30-Index giảm 1,4%. Thanh khoản HoSE sáng đạt 7.309 tỷ đồng, tăng 32% so với bình quân 3 phiên đầu tuần, cho thấy hoạt động bắt đáy xuất hiện."
     }
   ]
 }
