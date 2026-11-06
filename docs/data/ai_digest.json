@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-06",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chìm sâu trong sắc đỏ với VN-Index giảm 1,22%, chịu áp lực bán tháo từ thị trường quốc tế (Nikkei -6%, Kospi -5,5%). Thanh khoản khớp lệnh HoSE bình quân chỉ 12.380 tỷ đồng/phiên, giảm tháng thứ 5 liên tiếp và thấp nhất kể từ tháng 1/2025. Áp lực còn đến từ lãi suất cao (8,8-9,1%/năm tại ngân hàng) khiến nhà đầu tư chảy dòng tiền sang tiết kiệm thay vì mua cổ phiếu. Tuy vậy, Chính phủ ưu tiên kiểm soát lạm phát và Vietcombank giảm lãi suất cho vay có thể hỗ trợ nền kinh tế và thị trường trong dài hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam giảm 1,22% (VN-Index xuống 1.719,55 điểm) chịu áp lực bán tháo từ châu Á (Nikkei -6%, Kospi -5,5%). Thanh khoản khớp lệnh HoSE chỉ 12.380 tỷ/phiên, giảm lần thứ 5 liên tiếp xuống mức thấp nhất kể từ tháng 1/2025, cho thấy dòng tiền chưa quay lại. Lãi suất tiền gửi cao (9,1%/năm) hút dòng tiền khỏi cổ phiếu. Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm có thể duy trì thắt chặt tiền tệ. HGI bị phạt 435,5 tỷ đồng trước lên sàn UPCoM gây rủi ro quản trị.",
   "top": [
     {
-      "title": "VN-Index giảm 1,22% do áp lực bán toàn diện",
+      "title": "VN-Index giảm 1,22%, 460 mã đỏ áp đảo 165 mã xanh",
       "impact": "↓",
-      "note": "VN-Index lùi về 1.719,55 điểm (-1,22%), HNX-Index giảm 0,62%. Độ rộng thị trường: 460 mã giảm, 165 mã tăng. Các cổ phiếu lớn toàn đỏ gồm VIC (-1,43%), VHM (-1,58%), VCB (-1,29%), MBB (-1,79%), TCB, CTG, TPB, SSB, LPB."
+      "note": "VN-Index lùi về 1.719,55 điểm (-1,22%, -21 điểm); HNX-Index giảm 0,62% xuống 255,02 điểm. Độ rộng âm sâu 460 mã giảm/165 mã tăng. VIC giảm 1,43% (-5,48 điểm chỉ số), VHM giảm 1,58%, VCB giảm 1,29%, MBB giảm 1,79%."
     },
     {
-      "title": "Thanh khoản chứng khoán xuống thấp nhất 10 tháng",
+      "title": "Nikkei -6%, Kospi -5,5%, VN-Index bốc hơi 27 điểm mở cửa",
       "impact": "↓",
-      "note": "Giá trị giao dịch khớp lệnh HoSE bình quân tháng 10 đạt 12.380 tỷ đồng/phiên, giảm 6,88% so với tháng 9 và thấp hơn 23,36% so với bình quân 5 tháng. Đây là tháng thứ 5 liên tiếp thanh khoản giảm, xuống mức thấp nhất kể từ tháng 1/2025."
+      "note": "Thị trường khu vực bán tháo mạnh: Nikkei giảm 6%, Kospi giảm 5,5%, Hang Seng giảm 1,15%; VN-Index mở cửa sáng 6/11 bốc hơi 27 điểm (-1,57%). Thanh khoản HoSE sáng 7.309 tỷ đồng (cao hơn bình quân nhưng chưa phục hồi giá)."
     },
     {
-      "title": "Thị trường châu Á bán tháo mạnh, Việt Nam theo xu hướng",
+      "title": "Thanh khoản xuống 12.380 tỷ/phiên, thấp nhất từ tháng 1/2025",
       "impact": "↓",
-      "note": "Nikkei giảm hơn 6%, Kospi giảm 5,5%, Sanghai giảm 1,14%, Hang Seng giảm 1,15%. VN-Index mở cửa sáng 6/11 bốc hơi 27 điểm (-1,57%) phản ứng áp lực bán tháo từ thị trường Mỹ đêm qua."
+      "note": "Giá trị giao dịch khớp lệnh HoSE tháng 10 đạt 12.380 tỷ/phiên, giảm 6,88% so với tháng 9 và 23,36% so với bình quân 5 tháng. Tháng thứ 5 liên tiếp thanh khoản giảm; tổng 3 sàn 17.170 tỷ/phiên. Dòng tiền chưa quay trở lại đủ mạnh."
     },
     {
-      "title": "Lãi suất tiền gửi cao (9,1%/năm) cạnh tranh với định giá cổ phiếu",
+      "title": "Lãi suất tiền gửi 9,1%/năm cạnh tranh định giá cổ phiếu",
       "impact": "↓",
-      "note": "VPBank cộng thêm 2,2%/năm cho tiền gửi kỳ hạn 6-12 tháng, đưa lãi suất tiết kiệm online lên 8,8-9,1%/năm. Chủ tịch Digiworld: nếu lãi suất tiền gửi 10%, không cổ phiếu nào có thể tăng giá. DGW doanh thu +44%, lãi ròng +102% nhưng cổ phiếu chỉ tăng 4,3% từ đầu năm."
+      "note": "VPBank cộng 2,2%/năm tiền gửi dưới 10 tỷ và 2%/năm trên 10 tỷ, nâng lãi suất online kỳ hạn 12 tháng lên 8,9-9,1%/năm. Chủ tịch Digiworld: nếu lãi suất 10%, không cổ phiếu nào tăng giá. DGW doanh thu +44%, lãi ròng +102% nhưng cổ phiếu +4,3% từ đầu năm."
     },
     {
       "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh mục tiêu tăng trưởng 2 con số gắn với ổn định vĩ mô, ưu tiên cao nhất kiểm soát lạm phát trong tháng 11-12/2026. Thứ trưởng Bộ Tài chính: giảm giá điện và thuế xăng dầu sẽ góp phần kiềm chế lạm phát."
+      "impact": "↓",
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát trong tháng 11-12/2026 gắn mục tiêu tăng trưởng 2 con số. Chỉ đạo này hàm ý duy trì thắt chặt tiền tệ, hạn chế dòng tiền rủng rỉnh cho thị trường."
     },
     {
-      "title": "Giá vàng giảm 3,5 triệu đồng/lượng trong 1 ngày",
-      "impact": "→",
-      "note": "Giá vàng trong nước giảm từ 144,5 triệu đồng/lượng (đỉnh hôm 5/11) xuống 141 triệu đồng/lượng hôm 6/11. Vàng miếng SJC: 138-141 triệu đồng/lượng, vàng nhẫn: 136,5-140,5 triệu đồng/lượng. Giá vàng thế giới giảm 41 USD/ounce về 4.046 USD/ounce."
+      "title": "HGI bị phạt 435,5 tỷ đồng, trước lên UPCoM 9/11",
+      "impact": "↓",
+      "note": "Hoàng Anh Gia Lai (HGI, 'con gà đẻ trứng vàng' của HAG) nhận quyết định phạt 435,5 tỷ đồng (64 triệu tiền phạt, 320 triệu truy thu thuế TNDN, 51,6 triệu chậm nộp) vì khai sai thuế, sự kiện xấu diễn ra ngay trước lên sàn IPO UPCoM."
     }
   ]
 }
