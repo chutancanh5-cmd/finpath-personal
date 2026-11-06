@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Mỹ ghi nhận phiên giảm mạnh nhất hơn 1 năm rưỡi (Nasdaq -5,52%, S&P 500 -4,36%, Dow Jones -3,44%), áp lực bán tháo từ cổ phiếu công nghệ tác động tiêu cực tới tâm lý nhà đầu tư. Khối ngoại tiếp tục rút vốn khỏi TTCK VN với bán ròng hơn 232 tỷ đồng, nối dài chuỗi phiên thứ 10 liên tiếp. Tích cực là Vietcombank giảm lãi suất cho vay 1,5-3%/năm, Phân bón Cà Mau doanh thu Q3 tăng 92% vượt kế hoạch lợi nhuận, nhưng dự báo tương lai nhạy cảm với mục tiêu kiểm soát lạm phát mà Chính phủ ưu tiên trong 2 tháng cuối năm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán VN tiếp tục chịu áp lực từ rút vốn ngoại (phiên thứ 10 liên tiếp, bán ròng 232 tỷ đồng) giữa bối cảnh chứng khoán Mỹ giảm mạnh nhất 18 tháng do lo ngại AI. Tuy vậy, chính sách trong nước hỗ trợ: Thủ tướng ưu tiên kiểm soát lạm phát, Vietcombank giảm lãi suất 1,5-2%/năm khích động kinh tế. Doanh nghiệp như phân bón Cà Mau (doanh thu quý 3 +92%, vượt 93% kế hoạch lợi nhuận) vẫn ghi nhận kỳ kinh doanh tốt nhờ xuất khẩu mạnh.",
   "top": [
     {
       "title": "Chứng khoán Mỹ giảm mạnh nhất hơn 1 năm rưỡi",
       "impact": "↓",
-      "note": "Nasdaq giảm 5,52%, S&P 500 giảm 4,36%, Dow Jones giảm 3,44% - phiên giảm mạnh nhất kể từ tháng 4/2025. Áp lực bán tháo lan rộng từ cổ phiếu công nghệ, chip, AI do lo ngại chính sách của Đảng Dân chủ sẽ làm chậm phát triển các trung tâm dữ liệu."
+      "note": "Nasdaq giảm 5,52%, S&P 500 giảm 4,36%, Dow Jones giảm 3,44% - phiên giảm nhất kể từ tháng 4/2025. Áp lực bán tháo từ cổ phiếu công nghệ/AI do lo ngại chính sách Đảng Dân chủ làm chậm trung tâm dữ liệu. Giá dầu tăng do tấn công tàu ở eo biển Hormuz."
     },
     {
       "title": "Khối ngoại bán ròng hơn 232 tỷ đồng, phiên thứ 10 liên tiếp",
       "impact": "↓",
-      "note": "Khối ngoại tiếp tục rút vốn khỏi TTCK VN với mức bán ròng hơn 232 tỷ đồng. Tự doanh mua ròng gần 254 tỷ đồng nhưng không bù đắp được lực bán của khối ngoại trong bối cảnh thị trường chịu áp lực từ chứng khoán Mỹ."
+      "note": "Khối ngoại tiếp tục rút vốn với bán ròng hơn 232 tỷ đồng. Tự doanh mua ròng gần 254 tỷ đồng nhưng không bù được áp lực bán của ngoại, phản ánh lo ngại từ diễn biến chứng khoán Mỹ."
     },
     {
-      "title": "Vietcombank triển khai giảm lãi suất cho vay 1,5-3%/năm",
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%/năm",
       "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, Vietcombank giảm lãi suất cho vay từ 1,5% đến 2%/năm, riêng một số lĩnh vực lãi suất ngắn hạn giảm tới 3%/năm, hỗ trợ doanh nghiệp tiếp cận vốn với chi phí hợp lý theo chỉ đạo của Ngân hàng Nhà nước."
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank giảm lãi suất cho vay 1,5-2%/năm, một số lĩnh vực ưu tiên giảm tới 3%/năm theo chỉ đạo Ngân hàng Nhà nước khích động sản xuất kinh doanh."
     },
     {
-      "title": "Phân bón Cà Mau doanh thu Q3 tăng 92%, vượt 93% kế hoạch lợi nhuận năm",
+      "title": "Phân bón Cà Mau doanh thu quý 3 tăng 92%, vượt kế hoạch",
       "impact": "↑",
-      "note": "Doanh thu quý 3 hơn 5.7 ngàn tỷ đồng tăng 92%, lãi ròng tăng 31% lên 430 tỷ đồng. Lũy kế 9 tháng doanh thu hơn 17.7 ngàn tỷ đồng, vượt kế hoạch lợi nhuận năm nhờ xuất khẩu Ure tăng mạnh."
+      "note": "Doanh thu quý 3 hơn 5.700 tỷ đồng tăng 92%, lãi ròng 430 tỷ đồng tăng 31%. Vượt 93% kế hoạch lợi nhuận năm nhờ xuất khẩu Ure tăng mạnh, ghi nhận kỳ kinh doanh thuận lợi."
     },
     {
-      "title": "Giá vàng trong nước sáng 6/11 giảm nhẹ sau 4 phiên tăng",
-      "impact": "↓",
-      "note": "Vàng nhẫn mất tới 1,8 triệu đồng/lượng, vàng miếng SJC giảm 1,5 triệu đồng/lượng xuống 141 triệu đồng/lượng. Phiên điều chỉnh nhẹ sau 4 phiên tăng liên tiếp (2-5/11) khi giá vàng quốc tế cũng giảm 0,9%."
+      "title": "Ông Nguyễn Đức Tài: 1 tỷ đồng MWG 20 năm = 400 tỷ đồng",
+      "impact": "↑",
+      "note": "MWG từ định giá 10 triệu USD năm 2007 lên 4 tỷ USD hiện nay, tương đương lợi suất 400 lần, khẳng định tiềm năng tăng trưởng của công ty công nghệ Việt Nam."
     },
     {
       "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
       "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh Chính phủ ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm theo mục tiêu Quốc hội, đồng thời quyết tâm đạt mục tiêu tăng trưởng 2 con số gắn với ổn định kinh tế vĩ mô."
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát theo mục tiêu Quốc hội, kiên định tăng trưởng 2 con số gắn ổn định vĩ mô, tháo gỡ dự án tồn đọng."
     }
   ]
 }
