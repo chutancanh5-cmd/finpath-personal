@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tuần giảm thứ 2 liên tiếp với VN-Index giảm 0,88% xuống 1.725,36 điểm, thanh khoản sụt giảm xuống mức thấp nhất kể từ đầu năm 2025 (13.517 tỷ đồng/phiên, giảm 5,48%). Mặc dù khối ngoại quay lại mua ròng 435 tỷ đồng, áp lực chốt lời trong nước vẫn chiếm ưu thế. Tích cực: các chính sách hỗ trợ như Vietcombank hạ lãi suất 1,5-3%/năm, Bách Hoá Xanh vượt kế hoạch mở cửa hàng (gần 1.800). Xuất khẩu 6 nhóm hàng kỳ vọng bứt phá 2027 nhưng rủi ro logistics từ xung đột địa chính trị vẫn tiềm ẩn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam cho thấy dấu hiệu stabilization khi khối ngoại quay lại mua ròng 446 tỷ đồng sau 10 phiên bán liên tiếp, nhưng sức mua này chưa đủ để thắng áp lực chốt lời trong nước, khiến VN-Index giảm 15,37 điểm (-0,88%) xuống 1.725,36. Chính sách tín dụng được hỗ trợ (Vietcombank giảm 1.5-3% lãi suất), các chuỗi bán lẻ (BHX, MM Mega Market) tăng tốc mở rộng, nhưng thanh khoản giảm 5 tháng liên tiếp xuống mức thấp nhất từ tháng 1/2025 phản ánh tâm lý thận trọng. Tiềm năng xuất khẩu 6 nhóm hàng năm 2027 tồn tại nhưng rủi ro logistics từ xung đột địa chính trị vẫn tiềm ẩn.",
   "top": [
     {
-      "title": "Thị trường giằng co mạnh, VN-Index giảm tuần thứ 2",
-      "impact": "↓",
-      "note": "VN-Index giảm 15,37 điểm (-0,88%) xuống 1.725,36 điểm; tuần giảm 16,26 điểm (-0,93%). Sắc đỏ áp đảo với 440 mã giảm, 281 mã tăng. Khối ngoại mua ròng 435 tỷ đồng nhưng không đủ sức nâng đỡ khi áp lực chốt lời gia tăng. VIC, VHM, VCB lấy đi hơn 9,54 điểm."
-    },
-    {
-      "title": "Thanh khoản cực thấp, giảm tháng thứ 5 liên tiếp",
-      "impact": "↓",
-      "note": "Giá trị giao dịch khớp lệnh bình quân toàn ba sàn đạt 13.517 tỷ đồng/phiên, giảm 5,48% so với tháng 9 và thấp hơn 18,18% so với bình quân 5 tháng. Thanh khoản khớp lệnh xuống mức thấp nhất kể từ tháng 1/2025, cho thấy dòng tiền chưa quay trở lại."
-    },
-    {
-      "title": "Vietcombank hạ lãi suất cho vay 1,5-3%/năm",
+      "title": "Khối ngoại quay lại mua ròng, tự doanh gom ngân hàng",
       "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh. Giảm lãi suất 1,5-2%/năm; riêng một số lĩnh vực, lãi suất cho vay ngắn hạn được giảm tới 3%/năm. Nhằm khơi thông dòng vốn hỗ trợ doanh nghiệp."
+      "note": "Sau 10 phiên bán ròng liên tiếp, khối ngoại mua ròng 446 tỷ đồng, tự doanh mua 228 tỷ đồng. Dòng tiền tập trung vào ngân hàng (TPB 161B, VPB 107B, CTG 42B, SSI 45B) và chứng khoán (VND 99B, VIX 93B). Signaling cho sự quay trở lại của các nhà đầu tư nước ngoài sau giai đoạn điều chỉnh kéo dài."
     },
     {
-      "title": "Bách Hoá Xanh tăng tốc mở cửa hàng, hướng tới 10 tỷ USD",
+      "title": "Thanh khoản khớp lệnh xuống mức thấp nhất 10 tháng",
+      "impact": "↓",
+      "note": "Giá trị giao dịch khớp lệnh bình quân toàn ba sàn tháng 10 đạt 13.517 tỷ đồng/phiên, giảm 5,48% so với tháng 9 và thấp hơn 18,18% so với bình quân 5 tháng. Đây là mức thấp nhất kể từ tháng 1/2025, cho thấy dòng tiền chưa quay trở lại đủ mạnh dù thị trường đã trải qua nhịp điều chỉnh kéo dài."
+    },
+    {
+      "title": "Vietcombank giảm lãi suất tín dụng 1.5-3%/năm hỗ trợ sản xuất kinh doanh",
       "impact": "↑",
-      "note": "BHX mở gần 1.800 cửa hàng (vượt kế hoạch 1.000) dù chưa hết 2026. Sắp ra mắt mô hình mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng để đạt mục tiêu doanh thu 10 tỷ USD vào năm 2030. Tăng tốc đáp ứng xu hướng chuyển dịch sang kênh hiện đại."
+      "note": "Từ 19/10-31/12/2026, Vietcombank triển khai chương trình hạ lãi suất 1.5-2%/năm; một số lĩnh vực ngắn hạn giảm tới 3%/năm. Thực hiện chủ trương Chính phủ - Ngân hàng Nhà nước khơi thông dòng vốn hỗ trợ doanh nghiệp và cộng đồng."
     },
     {
-      "title": "6 nhóm hàng xuất khẩu kỳ vọng bứt phá 2027",
-      "impact": "→",
-      "note": "Các nhóm hàng gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền dự báo trở thành \"ngôi sao mới\". Cơ hội từ nhu cầu tiêu dùng, đầu tư, tái thiết quốc tế. Nhưng rủi ro logistics: cước vận chuyển container 40 feet tăng từ 1.500-2.000 USD lên 4.000-6.000 USD do xung đột Nga-Ukraine, Trung Đông."
+      "title": "Bách Hoá Xanh vượt kế hoạch mở cửa hàng, hướng tới 10 tỷ USD 2030",
+      "impact": "↑",
+      "note": "BHX đã mở gần 1.800 cửa hàng năm 2026, vượt xa kế hoạch 1.000 cửa hàng. Sắp ra mắt mô hình mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng để đạt mục tiêu doanh thu 10 tỷ USD năm 2030, phản ánh xu hướng chuyển dịch từ kênh truyền thống sang bán lẻ hiện đại."
     },
     {
-      "title": "World Bank: Năng suất lao động là chìa khóa thoát \"bẫy thu nhập trung bình\"",
+      "title": "6 nhóm hàng xuất khẩu triển vọng 2027, nhưng chi phí logistics tăng 100-200%",
       "impact": "→",
-      "note": "Chuyên gia World Bank tại Việt Nam khuyến nghị cần tập trung bứt phá năng suất lao động và cải cách thị trường vốn để gia nhập nhóm quốc gia thu nhập cao, không dựa vào mô hình tăng trưởng cũ."
+      "note": "Dự báo gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền sẽ bứt phá năm 2027. Nhưng cước vận chuyển container 40 feet đi Trung Đông tăng từ mức 1.500-2.000 USD lên 4.000-6.000 USD do xung đột Nga-Ukraine, Trung Đông, tạo áp lực lợi nhuận cho các doanh nghiệp xuất khẩu."
+    },
+    {
+      "title": "Nhà đầu tư cá nhân mở 252.000 tài khoản mới tháng 10",
+      "impact": "↑",
+      "note": "Số tài khoản giao dịch chứng khoán nhà đầu tư trong nước tăng 252.159 tài khoản, trong đó cá nhân tăng 251.974 tài khoản (tổng 14.331.814 tài khoản). Cho thấy sự quan tâm của thị trường lẻ vẫn được duy trì dù thanh khoản khớp lệnh đang yếu."
     }
   ]
 }
