@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-06",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ bán tháo toàn cầu, với VN-Index giảm 1,57% sáng 6/11, Nikkei -6%, Kospi -5,5%. Thanh khoản khớp lệnh ở mức cực thấp, giảm 5 tháng liên tiếp xuống 12.380 tỷ đồng/phiên (thấp nhất từ tháng 1/2025), còn lãi suất cao toàn cầu (Mỹ ~5%) là trở ngại chính cho định giá cổ phiếu. Chính phủ triển khai giải pháp hỗ trợ: Vietcombank giảm lãi suất cho vay 1,5-3%/năm, ưu tiên kiểm soát lạm phát trong 2 tháng cuối năm.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ làn sóng bán tháo toàn cầu, VN-Index giảm 1,22% (-21,18 điểm) với thanh khoản cực thấp (5 tháng liên tiếp giảm, 13.517 tỷ đồng/phiên). Lãi suất tiền gửi 10%/năm do Mỹ duy trì cao đang kìm hãm định giá cổ phiếu mặc dù lợi nhuận doanh nghiệp tăng mạnh. Tuy nhiên, chính phủ ưu tiên kiểm soát lạm phát cuối năm, Vietcombank giảm lãi suất tín dụng 1,5-3%/năm, và dòng tiền bắt đáy bắt đầu xuất hiện với thanh khoản tăng 32% so với bình quân.",
   "top": [
     {
-      "title": "Thanh khoản khớp lệnh giảm 5 tháng liên tiếp",
+      "title": "Chứng khoán toàn cầu lao dốc, Việt Nam chịu ảnh hưởng tâm lý",
       "impact": "↓",
-      "note": "HoSE giao dịch 12.380 tỷ đồng/phiên, giảm 6,88% vs tháng 9 và 23,36% vs bình quân 5 tháng, xuống mức thấp nhất từ tháng 1/2025, cho thấy dòng tiền chưa quay trở lại đủ mạnh."
+      "note": "Chứng khoán Mỹ bán tháo mạnh do lo ngại kiểm soát AI, Nikkei giảm 6%, Kospi giảm 5,5%. Tác động lên Việt Nam chủ yếu là tâm lý vì thị trường VN gần như không có nhóm cổ phiếu AI quy mô lớn."
     },
     {
-      "title": "VN-Index mở cửa giảm 1,57% do bán tháo toàn cầu",
-      "impact": "↓",
-      "note": "VN-Index bốc hơi hơn 27 điểm sáng 6/11, chỉ 26 mã xanh/219 mã đỏ. Áp lực bán toàn diện phản ứng làn sóng bán tháo cổ phiếu AI từ thị trường Mỹ đêm qua."
-    },
-    {
-      "title": "Chứng khoán châu Á lao dốc: Nikkei -6%, Kospi -5,5%",
-      "impact": "↓",
-      "note": "Làn sóng bán tháo cổ phiếu công nghệ AI tập trung ở thị trường Mỹ lan sang khu vực châu Á, ảnh hưởng chủ yếu đến tâm lý nhà đầu tư Việt Nam và khối ngoại."
-    },
-    {
-      "title": "Lãi suất cao 5%+ cản trở định giá cổ phiếu",
-      "impact": "↓",
-      "note": "Lợi suất Trái phiếu Chính phủ Mỹ quanh 5%, lãi suất Việt Nam khó giảm sâu. Dù lãi ròng tăng mạnh, nhà đầu tư ưu tiên tiền gửi thay cổ phiếu do lãi suất hấp dẫn."
-    },
-    {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm",
-      "impact": "↑",
-      "note": "Từ 19/10-31/12/2026, khách hàng được giảm lãi suất 1,5-2%/năm, một số lĩnh vực giảm tới 3%/năm, hỗ trợ sản xuất kinh doanh theo chỉ đạo Ngân hàng Nhà nước."
-    },
-    {
-      "title": "Thủ tướng ưu tiên kiểm soát lạm phát trong 2 tháng cuối năm",
+      "title": "VN-Index giảm 1,22%, dòng tiền bắt đáy cô lập",
       "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh mục tiêu tăng trưởng 2 con số gắn với ổn định vĩ mô, ưu tiên cao nhất kiểm soát lạm phát tháng 11-12 để duy trì nền tảng kinh tế vĩ mô vững chắc."
+      "note": "Phiên sáng VN-Index mở giảm 1,57% (-27,18 điểm) rồi phục hồi còn -1,22% (-21,18 điểm). Thanh khoản HoSE sáng đạt 7.309 tỷ đồng tăng 32% so với bình quân 3 phiên đầu tuần, cho thấy nỗ lực bắt đáy."
+    },
+    {
+      "title": "Thanh khoản giảm 5 tháng liên tiếp, tài khoản vẫn tăng 252.000",
+      "impact": "→",
+      "note": "Thanh khoản khớp lệnh 13.517 tỷ đồng/phiên, giảm 5,48% vs tháng 9 và thấp hơn 18,18% so với bình quân 5 tháng, xuống thấp nhất từ tháng 1/2025. Tuy nhiên tài khoán chứng khoán tăng 252.159 lên 14.331.814 tài khoản."
+    },
+    {
+      "title": "Lãi suất 10% kìm hãm cổ phiếu bất chấp lợi nhuận tăng",
+      "impact": "↓",
+      "note": "Lãi suất tiền gửi quanh 10%/năm do lợi suất trái phiếu Mỹ cao 5%, khiến lãi suất Việt Nam khó giảm. Dù DGW lợi nhuận +102%, giá cổ phiếu chỉ tăng 4,3% do lãi suất phi rủi ro hấp dẫn quá."
+    },
+    {
+      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "impact": "↑",
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh tăng trưởng 2 con số gắn ổn định vĩ mô, ưu tiên cao nhất kiểm soát lạm phát tháng 11-12/2026 để duy trì nền tảng kinh tế vĩ mô."
+    },
+    {
+      "title": "World Bank: Năng suất lao động và thị trường vốn là chìa khóa",
+      "impact": "↑",
+      "note": "Chuyên gia World Bank Sacha Dray nhận định Việt Nam cần bứt phá năng suất lao động và cải cách thị trường vốn để vượt qua bẫy thu nhập trung bình, hướng tới quốc gia thu nhập cao."
     }
   ]
 }
