@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường Mỹ giảm sâu nhất kể từ 4/2025 (Nasdaq -5,52%, S&P 500 -4,36%) kéo VN-Index giảm 1,22% sáng 6/11 với áp lực bán toàn diện (234 mã đỏ/67 mã xanh), khối ngoại bán ròng phiên thứ 10 liên tiếp. Tuy nhiên, hỗ trợ từ chính phủ xuất hiện: tỷ giá trung tâm hạ xuống 25,615 VND/USD, Vietcombank + 20+ ngân hàng giảm lãi suất 0,5-3%/năm, ưu tiên kiểm soát lạm phát 2 tháng cuối năm. Doanh nghiệp xuất khẩu Phân bón Cà Mau doanh thu Q3 tăng 92% nhờ Ure. Rủi ro quốc tế vẫn cao ngắn hạn nhưng chính sách hỗ trợ nội tệ giúp cân bằng tâm lý thị trường.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ bán tháo toàn cầu (Mỹ giảm 3-5%), VN-Index mở cửa giảm 1,57%. Lãi suất cao 10% vẫn là chướng ngại chính cho định giá cổ phiếu dù nhiều doanh nghiệp vẫn tăng trưởng tốt. Chính phủ tăng cường hỗ trợ qua giảm lãi suất và kiểm soát lạm phát 2 tháng cuối năm, nhưng áp lực vĩ mô toàn cầu vẫn chiếm ưu thế ngắn hạn.",
   "top": [
     {
       "title": "Chứng khoán Mỹ giảm mạnh nhất hơn 1 năm",
       "impact": "↓",
-      "note": "Nasdaq giảm 5,52% xuống 24.315 điểm, S&P 500 giảm 4,36% xuống 7.353,73 điểm, Dow Jones giảm 3,44% xuống 51.523,06 điểm. Phiên giảm mạnh nhất kể từ 4/2025. Cổ phiếu AI và chip bị bán tháo mạnh do lo ngại Đảng Dân chủ kiểm soát Quốc hội sẽ chậm tiến độ xây dựng trung tâm dữ liệu."
+      "note": "Nasdaq giảm 5,52% xuống 24.315 điểm, S&P 500 giảm 4,36% xuống 7.353,73 điểm, Dow Jones giảm 3,44% xuống 51.523,06 điểm — phiên giảm mạnh nhất kể từ tháng 4/2025. Áp lực bán tháo lan rộng từ công nghệ sang các nhóm khác."
     },
     {
-      "title": "VN-Index mở cửa giảm 1,22%, khối ngoại bán ròng phiên 10",
+      "title": "Lãi suất 10% kìm hãm định giá cổ phiếu",
       "impact": "↓",
-      "note": "VN-Index giảm 21,18 điểm, 67 mã xanh/234 mã đỏ, bốc hơi 27 điểm khi mở cửa. Khối ngoại bán ròng hơn 232 tỷ đồng, nối dài chuỗi rút vốn. Khu vực châu Á cùng tình hình: Nikkei -6%, Kospi -5,5%, Hang Seng -1,15%."
+      "note": "Chủ tịch Digiworld Đoàn Hồng Việt chỉ rằng lãi suất là nguyên nhân chính khiến cổ phiếu hoạt động kém. DGW 9 tháng doanh thu 26,8 ngàn tỷ, lãi ròng 786 tỷ (+102% YoY) nhưng giá chỉ tăng 4,3% từ đầu năm."
     },
     {
-      "title": "Tỷ giá hạ, 20+ ngân hàng giảm lãi suất 0,5-3%/năm",
+      "title": "Bán tháo lan rộng từ quốc tế",
+      "impact": "↓",
+      "note": "Nikkei giảm hơn 6%, Kospi giảm 5,5%, Hang Seng giảm 1,15%. VN-Index mở cửa giảm 1,57%, độ rộng cực thấp chỉ 26 xanh/219 đỏ 5 phút sau khi mở cửa, thanh khoản tăng 32% so với bình quân."
+    },
+    {
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm",
       "impact": "↑",
-      "note": "Tỷ giá trung tâm hạ xuống 25,615 VND/USD. Vietcombank từ 19/10-31/12 giảm lãi suất cho vay 1,5-2%/năm, một số lĩnh vực giảm 3%/năm. Hơn 20 ngân hàng khác cùng giảm 0,5%/năm. Mục đích hỗ trợ sản xuất kinh doanh, khơi thông dòng vốn."
+      "note": "Từ 19/10-31/12/2026, khách hàng được giảm lãi suất cho vay 1,5-2%/năm, riêng một số lĩnh vực giảm tới 3%/năm. Hơn 20 ngân hàng khác cùng giảm 0,5%/năm để hỗ trợ doanh nghiệp tiếp cận vốn."
     },
     {
-      "title": "Phân bón Cà Mau Q3 doanh thu tăng 92%, vượt 93% kế hoạch",
+      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "impact": "→",
+      "note": "Thủ tướng Lê Minh Hưng phát biểu 4/11 tại Chính phủ thường kỳ: ưu tiên cao nhất kiểm soát lạm phát, quyết tâm tăng trưởng 2 con số gắn với ổn định kinh tế vĩ mô, tháo gỡ dự án tồn đọng."
+    },
+    {
+      "title": "Phân bón Cà Mau Q3 doanh thu tăng 92%, lãi tăng 31%",
       "impact": "↑",
-      "note": "DCM Q3 doanh thu 5.700 tỷ đồng (+92% YoY), lãi ròng 430 tỷ đồng (+31%). 9 tháng đầu năm doanh thu 17.700 tỷ đồng (+43%), vượt 93% kế hoạch lợi nhuận năm. Xuất khẩu Ure chiếm 9.400 tỷ đồng (+50%)."
-    },
-    {
-      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
-      "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu 4/11: ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm, quyết tâm tăng trưởng 2 con số gắn với ổn định kinh tế vĩ mô. Tháo gỡ dự án tồn đọng, thúc đẩy xuất khẩu, giảm nhập siêu."
-    },
-    {
-      "title": "VPBankS phát hành 843,75 triệu cổ phiếu thưởng tỷ lệ 100:45",
-      "impact": "→",
-      "note": "Tăng vốn điều lệ từ 18.750 tỷ lên 27.187,5 tỷ đồng (+45%). Phát hành từ thặng dư vốn cổ phần năm 2025, dự kiến năm 2026. Cổ phiếu thưởng không bị hạn chế chuyển nhượng, phát hành để tăng vốn cổ phần."
+      "note": "DCM Q3 doanh thu 5.700 tỷ đồng (+92% YoY), lãi ròng 430 tỷ (+31%). 9 tháng đầu năm doanh thu 17.700 tỷ đồng (+43%), vượt 93% kế hoạch lợi nhuận năm. Xuất khẩu Ure chiếm 9.400 tỷ đồng (+50%)."
     }
   ]
 }
