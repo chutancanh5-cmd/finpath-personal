@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam kết phiên trong sắc đỏ với VN-Index giảm 15,37 điểm (0,88%) xuống 1.725,36 do áp lực chốt lời cao, dù khối ngoại quay lại mua ròng 435,3 tỷ đồng sau chuỗi 10 phiên bán ròng liên tiếp. Tuy nhiên, chiến thắng bầu cử Mỹ của Đảng Dân chủ được coi là chất xúc tác tích cực cho thị trường chứng khoán Việt Nam, cùng với các chương trình giảm lãi suất cho vay từ Vietcombank. Triển vọng 6 nhóm hàng xuất khẩu bứt phá năm 2027 là tín hiệu dài hạn tích cực, nhưng rủi ro logistics từ xung đột địa chính trị vẫn là mối lo.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường điều chỉnh do áp lực chốt lời (VN-Index -2,4% YTD, công nghệ -15,9%) và độ rộng tiêu cực (212 giảm vs 101 tăng). Tuy nhiên, khối ngoại quay lại mua ròng 435 tỷ đồng, Chính phủ tăng hỗ trợ tín dụng (VCB giảm lãi suất 1,5-3%/năm), bầu cử Mỹ thuận lợi, và bán lẻ phát triển mạnh. Dự báo phục hồi từ tháng 11 đến Q1/2027 với mức tăng ~19%.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng 435 tỷ đồng nhưng VN-Index vẫn giảm",
+      "title": "Thị trường giảm điểm, khối ngoại mua ròng 435 tỷ đồng",
       "impact": "↓",
-      "note": "VN-Index giảm 15,37 điểm (0,88%) xuống 1.725,36, với 212 mã giảm và 101 mã tăng, áp lực chốt lời mạnh ở VIC (-1,5%), VHM (-1,9%), FPT (-4%). Khối ngoại mua ròng 435,3 tỷ đồng nhưng lực mua chưa đủ nâng đỡ thị trường."
+      "note": "VN-Index giảm 15,37 điểm (0,88%) xuống 1.725,36; VN30 giảm 2,7%, VNMidcap giảm 1,8%; độ rộng tiêu cực (212 mã giảm vs 101 mã tăng). Khối ngoại mua ròng 435,3 tỷ đồng sau chuỗi 10 phiên bán liên tiếp, nhưng lực mua chưa đủ nâng đỡ thị trường."
     },
     {
-      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng là chất xúc tác cho VN-Index",
+      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng áp đảo, chất xúc tác tích cực",
       "impact": "↑",
-      "note": "VinaCapital đánh giá chiến thắng áp đảo của Đảng Dân chủ là chất xúc tác rõ rệ cho chứng khoán Việt Nam vì không kỳ vọng can thiệp vào xuất khẩu, tác động lớn hơn trên thị trường chứng khoán so với nền kinh tế."
+      "note": "VinaCapital đánh giá chiến thắng áp đảo của Đảng Dân chủ là chất xúc tác tích cực cho VN-Index vì Trump không dự kiến can thiệp xuất khẩu Việt Nam. Tác động đối với thị trường chứng khoán có thể lớn hơn đáng kể so với tác động kinh tế."
     },
     {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%, tối đa 3%/năm",
+      "title": "Vietcombank giảm lãi suất 1,5-3%/năm, hỗ trợ doanh nghiệp",
       "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, VCB triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh với mức giảm 1,5-2%/năm, một số lĩnh vực ưu tiên giảm tới 3%/năm, nhằm khơi thông dòng vốn và hỗ trợ doanh nghiệp."
+      "note": "Từ 19/10 - 31/12/2026, Vietcombank triển khai chương trình tín dụng giảm lãi suất 1,5-2%/năm; lĩnh vực ưu tiên giảm tới 3%/năm. Biện pháp khơi thông dòng vốn, tạo động lực tăng trưởng trong bối cảnh thị trường cần hỗ trợ."
     },
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm hàng bứt phá 2027",
-      "impact": "→",
-      "note": "6 nhóm hàng kỳ vọng bứt phá năm 2027: đồ gỗ, dệt may, giày dép, linh kiện điện tử, ô tô, tàu thuyền. Tuy vậy, cước vận tải container 40 feet sang Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD do xung đột Nga, Ukraine, Trung Đông chưa hạ nhiệt."
-    },
-    {
-      "title": "Lãi suất đạt đỉnh, VN-Index kỳ vọng hồi phục từ tháng 11 đến Q1/2027",
-      "impact": "→",
-      "note": "Nhịp hồi phục sau tháng 11 kỳ vọng tăng 19% từ đáy đến vùng đỉnh quý I 2027, tuy hiện tại VN30 giảm 2,7%, VNMidcap giảm 1,8%, công nghệ thông tin giảm mạnh 15,9% từ đầu năm."
-    },
-    {
-      "title": "Bách Hoá Xanh mở gần 1.800 cửa hàng vượt mục tiêu, thử mô hình mini",
+      "title": "Xuất khẩu vượt 1.000 tỷ USD, 6 nhóm hàng bứt phá 2027",
       "impact": "↑",
-      "note": "BHX mở được gần 1.800 cửa hàng (vượt mục tiêu 1.000 năm 2026) với tốc độ tăng tốc, thử nghiệm mô hình mini sẽ nhân rộng khi ổn định để hướng tới doanh thu 10 tỷ USD vào 2030."
+      "note": "6 nhóm hàng kỳ vọng bứt phá: đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền. Rủi ro: chi phí container 40 feet sang Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD do xung đột Nga, Ukraine, Trung Đông."
+    },
+    {
+      "title": "Lãi suất đạt đỉnh, dự báo hồi phục từ tháng 11 đến Q1/2027",
+      "impact": "↓",
+      "note": "VN-Index giảm 1,5% tháng 10 (YTD -2,4%), loại Vingroup giảm 8,9%; công nghệ giảm 15,9%, năng lượng -8%, tài chính -3,5%. Dự báo nhịp hồi phục sau tháng 11 tăng ~19% từ đáy đến đỉnh Q1/2027."
+    },
+    {
+      "title": "Bách Hoá Xanh mở 1.800 cửa hàng vượt mục tiêu, thử mô hình mini",
+      "impact": "↑",
+      "note": "Bách Hoá Xanh mở 1.800 cửa hàng vượt mục tiêu 1.000 năm 2026; thử nghiệm mô hình mini với tín hiệu khả quan, sẽ nhân rộng song song mô hình hiện hữu hướng tới doanh thu 10 tỷ USD năm 2030."
     }
   ]
 }
