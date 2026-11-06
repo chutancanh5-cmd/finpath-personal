@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường giằng co mạnh với VN-Index giảm 0,88% trên áp lực chốt lời, nhưng dòng tiền ngoại bất ngờ quay lại mua ròng 446 tỷ đồng sau 10 phiên bán liên tiếp, tạo tín hiệu bắt đáy tích cực. Thanh khoản vẫn ở mức cực thấp (giảm 5,48% tháng 10, thấp nhất kể từ tháng 1/2025), chỉ ra dòng tiền chưa quay trở lại đủ mạnh. Trên nền tảng vĩ mô, xuất nhập khẩu vượt 1.000 tỷ USD với 6 nhóm hàng triển vọng năm 2027, trong khi các doanh nghiệp lớn như Bách Hoá Xanh tăng tốc mở rộng và chính sách hỗ trợ (Vietcombank giảm lãi suất 1,5-2%/năm) tạo động lực dài hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Dòng tiền ngoại quay trở lại mua ròng 446 tỷ đồng sau chuỗi 10 phiên bán ròng, tự doanh gom mạnh 228 tỷ đồng vào nhóm ngân hàng. Vietcombank giảm lãi suất 1,5-2%/năm thúc đẩy tín dụng cho doanh nghiệp. Xuất nhập khẩu vượt 1.000 tỷ USD với 6 nhóm hàng triển vọng năm 2027. Tuy nhiên thanh khoản vẫn ở mức cực thấp (giảm tháng thứ 5 liên tiếp) và cước vận tải biển tăng cao gây áp lực chi phí.",
   "top": [
     {
-      "title": "Khối ngoại quay lại mua ròng 446 tỷ đồng sau 10 phiên bán liên tiếp",
+      "title": "Khối ngoại + tự doanh quay lại mua ròng 674 tỷ đồng",
       "impact": "↑",
-      "note": "Phiên 06/11, nhà đầu tư nước ngoài đảo chiều mua ròng 446 tỷ đồng khớp lệnh, dòng tiền mạnh nhất vào KDH (171 tỷ đồng), VND (99 tỷ đồng), VIX (93 tỷ đồng), tạo tín hiệu bắt đáy sau chuỗi 10 phiên bán ròng liên tiếp. Cùng chiều, tự doanh gom mạnh 228 tỷ đồng, tập trung vào nhóm ngân hàng."
+      "note": "Khối ngoại mua ròng 446 tỷ đồng (trong đó KDH 171 tỷ, VND 99 tỷ, VIX 93 tỷ), tự doanh mua ròng 228 tỷ đồng tập trung vào nhóm ngân hàng (TPB 161 tỷ, VPB 107 tỷ), sau chuỗi 10 phiên bán ròng liên tiếp."
     },
     {
-      "title": "VN-Index giảm 0,88%, thị trường sắc đỏ trên áp lực chốt lời",
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%/năm",
+      "impact": "↑",
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank giảm lãi suất cho vay 1,5-2%/năm cho sản xuất kinh doanh, một số lĩnh vực giảm tới 3%/năm, hỗ trợ doanh nghiệp tiếp cận vốn."
+    },
+    {
+      "title": "Thanh khoản khớp lệnh giảm tháng thứ 5 liên tiếp",
       "impact": "↓",
-      "note": "Kết phiên 06/11, VN-Index giảm 15,37 điểm xuống 1.725,36 điểm, HNX-Index tăng nhẹ 0,05%; tuần ghi nhận giảm 0,93%. Áp lực điều chỉnh tập trung ở cổ phiếu vốn hóa lớn (VIC giảm 1,5%, VHM giảm 1,9%), gần 400 mã giảm giá trên 3 sàn."
+      "note": "HoSE đạt 12.380 tỷ đồng/phiên (giảm 6,88% so với tháng 9), toàn thị trường 13.517 tỷ đồng/phiên (giảm 5,48%), xuống thấp nhất kể từ tháng 1/2025, dòng tiền chưa quay trở lại đủ mạnh."
     },
     {
-      "title": "Thanh khoản khớp lệnh giảm 5,48%, mức thấp nhất từ tháng 1/2025",
+      "title": "Xuất nhập khẩu 2026 vượt 1.000 tỷ USD, 6 nhóm hàng triển vọng",
+      "impact": "↑",
+      "note": "Đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền được kỳ vọng bứt phá năm 2027; tuy nhiên cước vận tải biển tăng từ 1.500-2.000 USD lên 4.000-6.000 USD/container 40 feet."
+    },
+    {
+      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng 10 tỷ USD năm 2030",
+      "impact": "↑",
+      "note": "Mở gần 1.800 cửa hàng năm 2026 vượt kế hoạch 1.000, sắp nhân rộng mô hình mini, tổng Giám đốc MWG nhận định kết hợp nhiều định dạng sẽ tạo cơ hội đạt mục tiêu 10 tỷ USD."
+    },
+    {
+      "title": "UBCKNN phạt 1,5 tỷ đồng, cấm giao dịch 2 năm thao túng BCE",
       "impact": "↓",
-      "note": "Tháng 10, tổng giá trị giao dịch khớp lệnh 3 sàn bình quân 13.517 tỷ đồng/phiên, giảm 5,48% so với tháng trước, thấp hơn 18,18% so với bình quân 5 tháng trước, giảm tháng thứ năm liên tiếp, chỉ ra dòng tiền chưa quay trở lại đủ mạnh."
-    },
-    {
-      "title": "Bách Hoá Xanh mở mô hình mini, tăng tốc hướng tới doanh thu 10 tỷ USD",
-      "impact": "↑",
-      "note": "Tại họp định kỳ 06/11, Bách Hoá Xanh đang thử nghiệm mô hình mini với tín hiệu khả quan, sẽ nhân rộng song song với cửa hàng hiện hữu. Đầu năm 2026 đặt mục tiêu 1.000 cửa hàng nhưng đến nay đã gần 1.800 cửa hàng, mục tiêu doanh thu 10 tỷ USD năm 2030."
-    },
-    {
-      "title": "Vietcombank giảm lãi suất 1,5-2%/năm hỗ trợ sản xuất kinh doanh",
-      "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh, giảm lãi suất cho vay 1,5-2%/năm; riêng một số lĩnh vực lãi suất ngắn hạn giảm tới 3%/năm, hỗ trợ doanh nghiệp tiếp cận vốn với chi phí hợp lý."
-    },
-    {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm hàng triển vọng 2027",
-      "impact": "↑",
-      "note": "6 nhóm hàng triển vọng năm 2027 gồm: đồ gỗ nội ngoại thất, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền, có khả năng tận dụng nhu cầu tiêu dùng, đầu tư và tái thiết tại thị trường quốc tế, nền tảng tăng trưởng dài hạn cho nền kinh tế."
+      "note": "Ông Lê Việt Cường bị xử phạt 1,5 tỷ đồng do sử dụng 8 tài khoản thao túng cổ phiếu BCE từ 16/10/2024-04/03/2025, cấm giao dịch kể từ 10/11/2026."
     }
   ]
 }
