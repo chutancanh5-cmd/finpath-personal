@@ -1,33 +1,33 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán 06/11 giảm khi áp lực chốt lời gia tăng dù khối ngoại bắt đầu mua ròng lại (435 tỷ đồng), thanh khoản vẫn ở mức cực thấp tháng thứ 5 liên tiếp. Bên cạnh đó, Việt Nam ghi nhận xuất nhập khẩu vượt 1.000 tỷ USD với 6 nhóm hàng triển vọng cho 2027, bán lẻ (Bách Hoá Xanh) đẩy mạnh mở rộng, ngân hàng giảm lãi suất hỗ trợ sản xuất. Rủi ro chính: chi phí logistics tăng cao do xung đột địa chính trị, nhu cầu cải cách chất lượng tăng trưởng.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận tuần giảm thứ 2 liên tiếp với VN-Index giảm 0,88% xuống 1.725,36 điểm, thanh khoản sụt giảm xuống mức thấp nhất kể từ đầu năm 2025 (13.517 tỷ đồng/phiên, giảm 5,48%). Mặc dù khối ngoại quay lại mua ròng 435 tỷ đồng, áp lực chốt lời trong nước vẫn chiếm ưu thế. Tích cực: các chính sách hỗ trợ như Vietcombank hạ lãi suất 1,5-3%/năm, Bách Hoá Xanh vượt kế hoạch mở cửa hàng (gần 1.800). Xuất khẩu 6 nhóm hàng kỳ vọng bứt phá 2027 nhưng rủi ro logistics từ xung đột địa chính trị vẫn tiềm ẩn.",
   "top": [
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm hàng bứt phá 2027",
-      "impact": "↑",
-      "note": "XNK toàn năm vượt 1.000 tỷ USD. 6 nhóm triển vọng: đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền. Rủi ro: cước vận tải biển tăng từ 1.500-2.000 USD lên 4.000-6.000 USD/container 40 feet do xung đột Nga-Ukraine, Trung Đông."
-    },
-    {
-      "title": "Bách Hoá Xanh tăng tốc mở chuỗi, mô hình mini khả quan",
-      "impact": "↑",
-      "note": "Mở gần 1.800 cửa hàng trong 2026 (vượt kế hoạch 1.000). Sắp ra mắt mô hình mini, kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD năm 2030."
-    },
-    {
-      "title": "VN-Index giảm 15,37 điểm, thị trường chìm sắc đỏ",
+      "title": "Thị trường giằng co mạnh, VN-Index giảm tuần thứ 2",
       "impact": "↓",
-      "note": "VN-Index giảm 15,37 điểm (-0,88%) xuống 1.725,36 điểm. Khối ngoại mua ròng 435 tỷ đồng nhưng áp lực chốt lời trong nước gia tăng, sắc đỏ áp đảo (440 mã giảm)."
+      "note": "VN-Index giảm 15,37 điểm (-0,88%) xuống 1.725,36 điểm; tuần giảm 16,26 điểm (-0,93%). Sắc đỏ áp đảo với 440 mã giảm, 281 mã tăng. Khối ngoại mua ròng 435 tỷ đồng nhưng không đủ sức nâng đỡ khi áp lực chốt lời gia tăng. VIC, VHM, VCB lấy đi hơn 9,54 điểm."
     },
     {
-      "title": "Thanh khoản xuống mức cực thấp, tháng thứ 5 liên tiếp",
+      "title": "Thanh khoản cực thấp, giảm tháng thứ 5 liên tiếp",
       "impact": "↓",
-      "note": "Thanh khoản khớp lệnh HoSE tháng 10 đạt 12.380 tỷ đồng/phiên (giảm 6,88% vs tháng 9, thấp 23,36% vs trung bình 5 tháng). Dòng tiền chưa quay trở lại đủ mạnh dù thị trường điều chỉnh kéo dài."
+      "note": "Giá trị giao dịch khớp lệnh bình quân toàn ba sàn đạt 13.517 tỷ đồng/phiên, giảm 5,48% so với tháng 9 và thấp hơn 18,18% so với bình quân 5 tháng. Thanh khoản khớp lệnh xuống mức thấp nhất kể từ tháng 1/2025, cho thấy dòng tiền chưa quay trở lại."
     },
     {
-      "title": "Vietcombank giảm lãi suất cho vay hỗ trợ sản xuất",
+      "title": "Vietcombank hạ lãi suất cho vay 1,5-3%/năm",
       "impact": "↑",
-      "note": "Từ 19/10-31/12/2026, Vietcombank giảm lãi suất 1,5-2%/năm (một số lĩnh vực giảm 3%/năm). Nhằm khơi thông dòng vốn và thúc đẩy sản xuất kinh doanh."
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh. Giảm lãi suất 1,5-2%/năm; riêng một số lĩnh vực, lãi suất cho vay ngắn hạn được giảm tới 3%/năm. Nhằm khơi thông dòng vốn hỗ trợ doanh nghiệp."
+    },
+    {
+      "title": "Bách Hoá Xanh tăng tốc mở cửa hàng, hướng tới 10 tỷ USD",
+      "impact": "↑",
+      "note": "BHX mở gần 1.800 cửa hàng (vượt kế hoạch 1.000) dù chưa hết 2026. Sắp ra mắt mô hình mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng để đạt mục tiêu doanh thu 10 tỷ USD vào năm 2030. Tăng tốc đáp ứng xu hướng chuyển dịch sang kênh hiện đại."
+    },
+    {
+      "title": "6 nhóm hàng xuất khẩu kỳ vọng bứt phá 2027",
+      "impact": "→",
+      "note": "Các nhóm hàng gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền dự báo trở thành \"ngôi sao mới\". Cơ hội từ nhu cầu tiêu dùng, đầu tư, tái thiết quốc tế. Nhưng rủi ro logistics: cước vận chuyển container 40 feet tăng từ 1.500-2.000 USD lên 4.000-6.000 USD do xung đột Nga-Ukraine, Trung Đông."
     },
     {
       "title": "World Bank: Năng suất lao động là chìa khóa thoát \"bẫy thu nhập trung bình\"",
