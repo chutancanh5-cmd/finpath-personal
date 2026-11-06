@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường toàn cầu chịu áp lực mạnh với chứng khoán Mỹ giảm sâu nhất 18 tháng (Nasdaq -5,52%, S&P 500 -4,36%, Dow -3,44%), khối ngoại rút vốn liên tiếp lần thứ 10 bán ròng 232 tỷ đồng tạo rủi ro ngắn hạn cho VN-Index. Tuy chính sách hỗ trợ trong nước (kiểm soát lạm phát, Vietcombank giảm lãi suất 1,5-2%/năm) và doanh nghiệp như Phân bón Cà Mau ghi doanh thu quý 3 tăng 92%, nhưng áp lực bên ngoài đang áp đảo tâm lý nhà đầu tư.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Mỹ giảm mạnh nhất hơn 1 năm (Nasdaq -5,52%, S&P500 -4,36%, Dow -3,44%) tạo áp lực lên TTCK toàn cầu, nhưng chính phủ Việt Nam ứng phó tích cực với ưu tiên kiểm soát lạm phát 2 tháng cuối năm và các ngân hàng giảm lãi suất 1,5-3%/năm hỗ trợ doanh nghiệp. Doanh nghiệp nội địa vẫn duy trì tăng trưởng tốt (Phân bón Cà Mau Q3 +92%), cho thấy nền kinh tế vẫn có đà. Rủi ro ngắn hạn từ biến động toàn cầu vẫn đáng chú ý, nhưng các biện pháp hỗ trợ trong nước có thể hạn chế tác động tiêu cực.",
   "top": [
     {
-      "title": "Chứng khoán Mỹ giảm mạnh nhất hơn 1 năm rưỡi",
+      "title": "Chứng khoán Mỹ sụp đổ, phiên giảm mạnh nhất hơn 1 năm",
       "impact": "↓",
-      "note": "Nasdaq giảm 5,52%, S&P 500 giảm 4,36%, Dow Jones giảm 3,44% - phiên giảm nhất kể từ tháng 4/2025. Áp lực bán tháo từ cổ phiếu công nghệ/AI do lo ngại chính sách Đảng Dân chủ làm chậm trung tâm dữ liệu. Giá dầu tăng do tấn công tàu ở eo biển Hormuz."
+      "note": "Nasdaq giảm 5,52% xuống 24.315 điểm, S&P500 giảm 4,36% xuống 7.353,73 điểm, Dow Jones giảm 3,44% xuống 51.523,06 điểm. Đây là phiên giảm mạnh nhất kể từ tháng 4/2025, do lo ngại Đảng Dân chủ kiểm soát Quốc hội sẽ làm chậm xây dựng trung tâm dữ liệu AI, khiến áp lực bán tháo lan rộng từ cổ phiếu công nghệ sang các nhóm khác."
     },
     {
-      "title": "Khối ngoại bán ròng hơn 232 tỷ đồng, phiên thứ 10 liên tiếp",
-      "impact": "↓",
-      "note": "Khối ngoại tiếp tục rút vốn với bán ròng hơn 232 tỷ đồng. Tự doanh mua ròng gần 254 tỷ đồng nhưng không bù được áp lực bán của ngoại, phản ánh lo ngại từ diễn biến chứng khoán Mỹ."
-    },
-    {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%/năm",
+      "title": "Chính phủ ưu tiên cao kiểm soát lạm phát 2 tháng cuối năm",
       "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, Vietcombank giảm lãi suất cho vay 1,5-2%/năm, một số lĩnh vực ưu tiên giảm tới 3%/năm theo chỉ đạo Ngân hàng Nhà nước khích động sản xuất kinh doanh."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại phiên họp Chính phủ ngày 4/11 nhấn mạnh quyết tâm kiên định mục tiêu tăng trưởng 2 con số gắn với ổn định kinh tế vĩ mô, đặc biệt ưu tiên cao nhất cho kiểm soát lạm phát theo mục tiêu Quốc hội đề ra trong 2 tháng cuối năm 2026."
     },
     {
-      "title": "Phân bón Cà Mau doanh thu quý 3 tăng 92%, vượt kế hoạch",
+      "title": "Vietcombank giảm lãi suất 1,5-3%/năm hỗ trợ doanh nghiệp",
       "impact": "↑",
-      "note": "Doanh thu quý 3 hơn 5.700 tỷ đồng tăng 92%, lãi ròng 430 tỷ đồng tăng 31%. Vượt 93% kế hoạch lợi nhuận năm nhờ xuất khẩu Ure tăng mạnh, ghi nhận kỳ kinh doanh thuận lợi."
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng giảm lãi suất cho vay từ 1,5-2%/năm, riêng lĩnh vực ưu tiên giảm tới 3%/năm, nhằm hỗ trợ doanh nghiệp và người dân tiếp cận vốn với chi phí hợp lý, góp phần khơi thông dòng vốn."
     },
     {
-      "title": "Ông Nguyễn Đức Tài: 1 tỷ đồng MWG 20 năm = 400 tỷ đồng",
+      "title": "Phân bón Cà Mau (DCM) doanh thu Q3 tăng 92%",
       "impact": "↑",
-      "note": "MWG từ định giá 10 triệu USD năm 2007 lên 4 tỷ USD hiện nay, tương đương lợi suất 400 lần, khẳng định tiềm năng tăng trưởng của công ty công nghệ Việt Nam."
+      "note": "Nhờ kênh xuất khẩu Ure được đẩy mạnh, DCM ghi nhận doanh thu thuần quý 3 hơn 5.700 tỷ đồng, tăng 92% so với cùng kỳ năm trước; lũy kế 9 tháng đạt hơn 17.700 tỷ đồng (+43%), vượt 93% kế hoạch lợi nhuận cả năm."
     },
     {
-      "title": "Thủ tướng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "title": "VPBankS phát hành 843,75 triệu cổ phiếu thưởng",
       "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh ưu tiên cao nhất kiểm soát lạm phát theo mục tiêu Quốc hội, kiên định tăng trưởng 2 con số gắn ổn định vĩ mô, tháo gỡ dự án tồn đọng."
+      "note": "VPBankS phát hành 843,75 triệu cổ phiếu thưởng tương đương 45% tổng lưu hành (tỷ lệ 100:45), tăng vốn điều lệ từ 18.750 tỷ đồng lên 27.187,5 tỷ đồng, dự kiến phát hành trong năm 2026 theo quyết định HĐQT."
+    },
+    {
+      "title": "Giá vàng trong nước giảm 1,5-3,5 triệu đồng/lượng",
+      "impact": "→",
+      "note": "Sáng 6/11, giá vàng miếng SJC giảm 3,5 triệu đồng/lượng xuống 138-141 triệu đồng/lượng; vàng nhẫn giảm 1,8-2,6 triệu đồng/lượng. Mức giảm có chiều ngược với giá vàng thế giới tăng 0,7% lên 4.089,7 USD/oz, phản ánh bất ổn trên thị trường khi dòng vốn ngoại rút khỏi khu vực."
     }
   ]
 }
