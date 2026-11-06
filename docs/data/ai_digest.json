@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-06",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam sáng 06/11 chịu sức ép bán tháo từ các thị trường quốc tế (Nikkei -6%, Kospi -5.5%), với VN-Index giảm sâu trên 1.5%. Lãi suất cao (lợi suất trái phiếu Mỹ ở 5%) tiếp tục cản trở dòng vốn vào cổ phiếu, dù các công ty có kết quả kinh doanh tốt. Tuy nhiên, các ngân hàng như Vietcombank đang triển khai chương trình giảm lãi suất cho vay 1.5-3%/năm nhằm hỗ trợ doanh nghiệp. Áp lực từ tâm lý toàn cầu và lãi suất cao đang là những rủi ro ngắn hạn chính cho nhà đầu tư.",
+  "summary_vi": "Thị trường chứng khoán chịu sức ép từ bán tháo toàn cầu (Nikkei -6%, Kospi -5.5%), VN-Index chốt phiên chiều giảm 0.88% xuống 1.725,36 điểm; khối ngoại nối dài chuỗi bán ròng sang phiên thứ 10 với 232 tỷ đồng. Lãi suất cao (quanh 10%/năm) tiếp tục áp chế định giá cổ phiếu, khiến doanh nghiệp lợi nhuận cao cũng khó tăng giá. Vietcombank triển khai giảm lãi suất cho vay 1,5-3%/năm hỗ trợ doanh nghiệp, và 6 nhóm hàng xuất khẩu (đồ gỗ, dệt may, giày dép, linh kiện điện tử, ô tô, tàu thuyền) kỳ vọng phát triển năm 2027 bất chấp rủi ro logistics.",
   "top": [
     {
-      "title": "Bán tháo toàn cầu lấy đi hơn 27 điểm VN-Index sáng 06/11",
+      "title": "VN-Index giảm 0.88%, khối ngoại bán ròng lần thứ 10",
       "impact": "↓",
-      "note": "Nikkei giảm 6%, Kospi giảm 5.5%, Hang Seng giảm 1.15%. VN-Index mở cửa giảm 27 điểm (-1.57%), chỉ 26 mã xanh/219 mã đỏ, độ rộng cực thấp. Lực mua bắt đáy kích thích thanh khoản tăng, nhưng giá không phục hồi rõ nét. VN30 giảm 1.4% với 3 mã xanh/25 mã đỏ."
+      "note": "Chốt phiên chiều, VN-Index giảm 15.37 điểm (-0.88%) xuống 1.725,36 điểm; HNX-Index tăng 0.12 điểm. Độ rộng tiêu cực với 440 mã giảm, 281 mã tăng. Khối ngoại bán ròng 232 tỷ đồng, nối dài chuỗi rút vốn sang phiên thứ 10; tự doanh mua ròng 254 tỷ đồng."
     },
     {
-      "title": "Lãi suất cao cản trở đầu tư cổ phiếu dù doanh số tốt",
+      "title": "Chứng khoán toàn cầu lao dốc, tác động tâm lý đến Việt Nam",
       "impact": "↓",
-      "note": "DGW 9 tháng đạt doanh thu 26.8 ngàn tỷ đồng (+44%), lãi ròng 786 tỷ đồng (+102%), nhưng cổ phiếu chỉ tăng 4.3%. Chủ tịch Digiworld nhận định lãi suất là nguyên nhân: lợi suất trái phiếu Mỹ ở 5% khiến lãi suất Việt Nam khó giảm sâu, làm định giá cổ phiếu ở mức thấp."
+      "note": "Chứng khoán quốc tế giảm mạnh do bán tháo cổ phiếu công nghệ (Nikkei -6%, Kospi -5.5%). Mặc dù Việt Nam không có nhóm cổ phiếu AI quy mô tương tự, tác động chủ yếu là tâm lý lo ngại của nhà đầu tư; chuyên gia VNDIRECT dự báo đây là phản ứng ngắn hạn."
     },
     {
-      "title": "VCB giảm lãi suất 1.5-3%/năm hỗ trợ doanh nghiệp",
+      "title": "Lãi suất cao (10%/năm) áp chế định giá cổ phiếu",
+      "impact": "↓",
+      "note": "Digiworld 9 tháng đạt doanh thu 26.8 ngàn tỷ đồng (+44%), lãi ròng 786 tỷ đồng (+102%), nhưng cổ phiếu chỉ tăng 4.3% từ đầu năm. Chủ tịch Digiworld nhận định lãi suất là nguyên nhân chính: lợi suất trái phiếu Mỹ ở 5% khiến lãi suất Việt Nam khó giảm, làm khó định giá cổ phiếu ở mức cao."
+    },
+    {
+      "title": "Vietcombank triển khai giảm lãi suất cho vay 1,5-3%/năm",
       "impact": "↑",
-      "note": "Từ 19/10-31/12/2026, Vietcombank triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh và lĩnh vực ưu tiên, giảm lãi suất cho vay 1.5-2%/năm, một số lĩnh vực giảm tới 3%/năm. Phản ánh chủ trương Ngân hàng Nhà nước giảm mặt bằng lãi suất hỗ trợ doanh nghiệp."
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh và lĩnh vực ưu tiên, giảm lãi suất cho vay 1,5-2%/năm; riêng một số lĩnh vực, lãi suất ngắn hạn giảm tới 3%/năm. Thực hiện chủ trương của Ngân hàng Nhà nước giảm mặt bằng lãi suất."
     },
     {
-      "title": "HGI bị phạt 435.5 triệu đồng trước IPO ngày 09/11",
+      "title": "6 nhóm hàng xuất khẩu triển vọng bứt phá năm 2027",
+      "impact": "↑",
+      "note": "Chuyên gia dự báo đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền sẽ trở thành nhóm hàng xuất khẩu triển vọng năm 2027; tuy nhiên, cước vận tàu Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD/container 40 feet, đặt ra rủi ro logistics."
+    },
+    {
+      "title": "HGI bị phạt 435,5 triệu đồng trước lên UPCoM 09/11",
       "impact": "↓",
-      "note": "HGI nhận Quyết định xử phạt vi phạm thuế từ cơ quan Thuế tỉnh Gia Lai ngày 03/11: 435.5 triệu đồng (64 triệu tiền phạt + 320 triệu thuế TNDN truy thu + 51.6 triệu chậm nộp). Sự kiện diễn ra trước thềm lên UPCoM ngày 09/11/2026 của doanh nghiệp 'gà đẻ trứng vàng' thuộc HAGL bầu Đức."
-    },
-    {
-      "title": "Giá vàng giảm 1.4 triệu đồng/lượng, khách hàng thưa thớt",
-      "impact": "↓",
-      "note": "Giá vàng miếng SJC giảm 1.4 triệu đồng/lượng xuống 141 triệu đồng/lượng so với hôm trước. Vàng nhẫn giảm 200-500 nghìn đồng/lượng tại các thương hiệu. Lượng khách giao dịch tại các phố vàng thưa thớt, công trình mở rộng cửa hàng Cầu Giấy đóng cửa, tâm lý tiêu dùng suy yếu."
-    },
-    {
-      "title": "Năng suất lao động và thị trường vốn - chìa khóa vượt bẫy thu nhập trung bình",
-      "impact": "→",
-      "note": "Chuyên gia World Bank nhận định Việt Nam cần tập trung bứt phá năng suất lao động và cải cách thị trường vốn để thoát khỏi 'bẫy thu nhập trung bình' gia nhập nhóm quốc gia thu nhập cao. Việt Nam cần chuyển dịch từ mô hình tăng trưởng thuần túy sang chất lượng tăng trưởng dài hạn."
+      "note": "HGI nhận Quyết định xử phạt vi phạm thuế từ Cơ quan Thuế tỉnh Gia Lai: tổng 435,5 triệu đồng (64 triệu phạt hành chính + 320 triệu truy thu thuế TNDN + 51,6 triệu chậm nộp). Sự kiện xảy ra ngày 03/11, trước thềm lên UPCoM của 'gà đẻ trứng vàng' thuộc HAGL."
     }
   ]
 }
