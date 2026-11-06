@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Dòng tiền ngoại quay trở lại mua ròng 446 tỷ đồng sau chuỗi 10 phiên bán ròng, tự doanh gom mạnh 228 tỷ đồng vào nhóm ngân hàng. Vietcombank giảm lãi suất 1,5-2%/năm thúc đẩy tín dụng cho doanh nghiệp. Xuất nhập khẩu vượt 1.000 tỷ USD với 6 nhóm hàng triển vọng năm 2027. Tuy nhiên thanh khoản vẫn ở mức cực thấp (giảm tháng thứ 5 liên tiếp) và cước vận tải biển tăng cao gây áp lực chi phí.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đóng cửa trong sắc đỏ với VN-Index giảm 15,37 điểm do áp lực chốt lời gia tăng, thanh khoản khớp lệnh giảm 5 tháng liên tiếp xuống mức thấp nhất kể từ tháng 1/2025. Dù khối ngoại quay lại mua ròng 435 tỷ đồng nhưng không đủ sức nâng đỡ thị trường. Tích cực hơn, chiến thắng của Đảng Dân chủ Mỹ được đánh giá là chất xúc tác cho TTCK VN, chương trình tín dụng khích thích từ Vietcombank và triển vọng xuất khẩu năm 2027 mang lại tín hiệu phục hồi.",
   "top": [
     {
-      "title": "Khối ngoại + tự doanh quay lại mua ròng 674 tỷ đồng",
-      "impact": "↑",
-      "note": "Khối ngoại mua ròng 446 tỷ đồng (trong đó KDH 171 tỷ, VND 99 tỷ, VIX 93 tỷ), tự doanh mua ròng 228 tỷ đồng tập trung vào nhóm ngân hàng (TPB 161 tỷ, VPB 107 tỷ), sau chuỗi 10 phiên bán ròng liên tiếp."
-    },
-    {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%/năm",
-      "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, Vietcombank giảm lãi suất cho vay 1,5-2%/năm cho sản xuất kinh doanh, một số lĩnh vực giảm tới 3%/năm, hỗ trợ doanh nghiệp tiếp cận vốn."
-    },
-    {
-      "title": "Thanh khoản khớp lệnh giảm tháng thứ 5 liên tiếp",
+      "title": "VN-Index giảm 15,37 điểm, khối ngoại mua ròng chưa đủ sức",
       "impact": "↓",
-      "note": "HoSE đạt 12.380 tỷ đồng/phiên (giảm 6,88% so với tháng 9), toàn thị trường 13.517 tỷ đồng/phiên (giảm 5,48%), xuống thấp nhất kể từ tháng 1/2025, dòng tiền chưa quay trở lại đủ mạnh."
+      "note": "VN-Index giảm 15,37 điểm (0,88%) xuống 1.725,36 điểm. Áp lực chốt lời tập trung ở nhóm cổ phiếu vốn hóa lớn: VIC giảm 1,5%, VHM giảm 1,9%, FPT giảm 4%. Khối ngoại mua ròng 435 tỷ đồng sau chuỗi 10 phiên bán ròng liên tiếp, nhưng lực mua này chưa đủ nâng đỡ thị trường."
     },
     {
-      "title": "Xuất nhập khẩu 2026 vượt 1.000 tỷ USD, 6 nhóm hàng triển vọng",
-      "impact": "↑",
-      "note": "Đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền được kỳ vọng bứt phá năm 2027; tuy nhiên cước vận tải biển tăng từ 1.500-2.000 USD lên 4.000-6.000 USD/container 40 feet."
-    },
-    {
-      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng 10 tỷ USD năm 2030",
-      "impact": "↑",
-      "note": "Mở gần 1.800 cửa hàng năm 2026 vượt kế hoạch 1.000, sắp nhân rộng mô hình mini, tổng Giám đốc MWG nhận định kết hợp nhiều định dạng sẽ tạo cơ hội đạt mục tiêu 10 tỷ USD."
-    },
-    {
-      "title": "UBCKNN phạt 1,5 tỷ đồng, cấm giao dịch 2 năm thao túng BCE",
+      "title": "Thanh khoản khớp lệnh giảm 5 tháng liên tiếp xuống thấp nhất 2025",
       "impact": "↓",
-      "note": "Ông Lê Việt Cường bị xử phạt 1,5 tỷ đồng do sử dụng 8 tài khoản thao túng cổ phiếu BCE từ 16/10/2024-04/03/2025, cấm giao dịch kể từ 10/11/2026."
+      "note": "HoSE tháng 10 đạt 12.380 tỷ đồng/phiên (giảm 6,88% so với tháng 9), toàn ba sàn 13.517 tỷ đồng/phiên (giảm 5,48%), xuống mức thấp nhất kể từ tháng 1/2025, thấp hơn 18,18% so với bình quân 5 tháng, cho thấy dòng tiền chưa quay trở lại đủ mạnh dù thị trường đã điều chỉnh kéo dài."
+    },
+    {
+      "title": "Chiến thắng Đảng Dân chủ Mỹ là chất xúc tác tích cực cho VN-Index",
+      "impact": "↑",
+      "note": "VinaCapital đánh giá chiến thắng áp đảo của Đảng Dân chủ trong bầu cử giữa nhiệm kỳ Mỹ là tín hiệu tích cực cho nền kinh tế và thị trường chứng khoán Việt Nam, củng cố những nhận định rằng không có can thiệp vào hoạt động xuất khẩu Việt Nam sang Mỹ."
+    },
+    {
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm hàng triển vọng 2027",
+      "impact": "↑",
+      "note": "6 nhóm hàng triển vọng năm 2027: đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền. Tuy vậy, cước vận tải biển tăng từ 1.500-2.000 USD lên 4.000-6.000 USD/container 40 feet do xung đột ở Nga, Ukraine, Trung Đông chưa hạ nhiệt, gây áp lực lên chi phí logistik."
+    },
+    {
+      "title": "Vietcombank giảm lãi suất vay 1,5-2%, tối đa 3%/năm",
+      "impact": "↑",
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh với mức giảm 1,5-2%/năm, riêng một số lĩnh vực giảm tới 3%/năm so với mức hiện hành, nhằm khơi thông dòng vốn."
+    },
+    {
+      "title": "World Bank: Năng suất và thị trường vốn là chìa khóa thu nhập cao",
+      "impact": "→",
+      "note": "Chuyên gia World Bank nhận định Việt Nam cần tập trung bứt phá năng suất lao động và cải cách thị trường vốn để thoát bẫy thu nhập trung bình, hướng tới mục tiêu trở thành quốc gia thu nhập cao, không dừa lại ở duy trì tốc độ mở rộng thuần túy."
     }
   ]
 }
