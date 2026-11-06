@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-06",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ biến động quốc tế và thanh khoản suy yếu liên tục. VN-Index giảm 1,57% sáng 6/11 với mức thanh khoản HoSE chỉ 12.380 tỷ đồng/phiên (xuống thấp nhất 10 tháng sau 5 tháng giảm liên tiếp). Lãi suất cao (5% trái phiếu Mỹ) tiếp tục ép chặt định giá cổ phiếu mặc dù doanh nghiệp có lãi. Tuy nhiên, chính phủ đẩy mạnh hỗ trợ tín dụng giảm lãi suất vay và cam kết kiểm soát lạm phát trong 2 tháng cuối năm, tạo tín hiệu tích cực cho tăng trưởng.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay lập kỷ lục giảm sâu (VN-Index -1.22%, -21 điểm về 1.719,55 điểm) dưới áp lực bán tháo từ thị trường quốc tế, đặc biệt Mỹ. Khối ngoại tiếp tục rút vốn sang phiên thứ 10 liên tiếp, thanh khoản khớp lệnh suy yếu tháng thứ 5 liên tiếp xuống mức thấp nhất từ tháng 1/2025. Lãi suất cao là rào cản cấu trúc cản trở định giá cổ phiếu, dù Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm và triển khai gói hỗ trợ tín dụng giảm lãi suất từ 1,5-2%/năm. Dòng tiền từ các chính sách hỗ trợ chưa đủ mạnh để bù đắp áp lực bán.",
   "top": [
     {
-      "title": "Biến động quốc tế tác động mạnh, VN-Index giảm sáng 6/11",
+      "title": "Nhịp đập thị trường 06/11: Sắc đỏ bao phủ",
       "impact": "↓",
-      "note": "VN-Index giảm 1,57% (bốc hơi 27 điểm) sáng 6/11 do áp lực bán toàn diện từ các thị trường châu Á: Nikkei -6%, Kospi -5,5%, Hang Seng -1,15%. Độ rộng cực thấp với chỉ 26 mã xanh/219 mã đỏ trên HOSE, VN30 giảm 1,4%."
+      "note": "VN-Index giảm 1,22% (-21 điểm) về 1.719,55 điểm; HNX-Index giảm 0,62% về 255,02 điểm. Độ rộng 460 mã giảm/165 mã tăng, lệch pha mạnh về phía bán. Công nghệ (-2,95%) và truyền thông (-2,31%) dẫn đầu suy yếu."
     },
     {
-      "title": "Thanh khoản khớp lệnh HoSE xuống mức thấp nhất 10 tháng",
+      "title": ""Choáng váng" với biến động quốc tế, dòng tiền bắt đáy nỗ lực cân bằng, khối ngoại mua ròng",
       "impact": "↓",
-      "note": "Thanh khoản bình quân HoSE tháng 10: 12.380 tỷ đồng/phiên, giảm 6,88% so tháng 9 và thấp hơn 23,36% so bình quân 5 tháng. Đây là mức thấp nhất kể từ tháng 1/2025 sau 5 tháng giảm liên tiếp, dòng tiền chưa quay trở lại đủ mạnh."
+      "note": "Sàn chứng khoán châu Á sáng 6/11 chìm trong sắc đỏ: Nikkei -6%, Kospi -5,5%, Hang Seng -1,15%. VN-Index mở cửa giảm 1,57%, chỉ 26 mã xanh/219 mã đỏ lúc 9h20. Áp lực bán mạnh từ thị trường Mỹ đêm qua."
     },
     {
-      "title": "Lãi suất cao kìm hãm định giá cổ phiếu bất chấp lợi nhuận tăng",
+      "title": "Chủ tịch Digiworld: Lãi suất tiền gửi 10% thì không cổ phiếu nào có thể tăng giá",
       "impact": "↓",
-      "note": "DGW lãi ròng 9 tháng tăng 102% (786 tỷ đồng) và doanh thu tăng 44% (26.8 ngàn tỷ đồng) nhưng cổ phiếu chỉ tăng 4,3% từ đầu năm. Chủ tịch Digiworld khẳng định: lãi suất Mỹ 5% khiến lãi suất Việt Nam khó giảm sâu, ảnh hưởng định giá cổ phiếu."
+      "note": "Chủ tịch Digiworld nhận định lãi suất là nguyên nhân chính kìm hãm cổ phiếu. DGW đạt doanh thu 26,8 ngàn tỷ đồng (+44%), lãi ròng 786 tỷ đồng (+102%) nhưng giá chỉ tăng 4,3% năm. Lãi suất trong nước khó giảm khi lợi suất trái phiếu Mỹ vẫn ~5%."
     },
     {
-      "title": "Chính phủ ưu tiên cao kiểm soát lạm phát, hỗ trợ tăng trưởng 2 con số",
+      "title": "Thủ tướng Lê Minh Hưng yêu cầu ưu tiên cao nhất cho mục tiêu kiểm soát lạm phát trong 2 tháng cuối năm",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại phiên họp Chính phủ 4/11 yêu cầu ưu tiên cao nhất kiểm soát lạm phát trong 2 tháng cuối năm, gắn với tăng trưởng 2 con số và ổn định vĩ mô. Chỉ đạo thúc đẩy xuất khẩu, giảm nhập siêu, tháo gỡ khó khăn doanh nghiệp."
+      "note": "Chính phủ quyết tâm giữ mục tiêu lạm phát 4,5% năm 2026 (CPI bình quân 10 tháng hiện 4,57%). Ưu tiên cao kiểm soát giá 2 tháng cuối năm; tập trung tháo gỡ khó khăn cho doanh nghiệp, thúc đẩy xuất khẩu."
     },
     {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ doanh nghiệp",
+      "title": "Vietcombank đẩy mạnh triển khai chương trình tín dụng thúc đẩy sản xuất, kinh doanh và các lĩnh vực ưu tiên",
       "impact": "↑",
-      "note": "Vietcombank triển khai từ 19/10 đến 31/12/2026 chương trình giảm lãi suất cho vay từ 1,5% đến 2%/năm, riêng một số lĩnh vực ưu tiên ngắn hạn giảm tới 3%/năm. Động thái nhằm khơi thông dòng vốn, giảm chi phí tiếp cận vốn cho doanh nghiệp."
+      "note": "Vietcombank từ 19/10 đến 31/12/2026 giảm lãi suất cho vay 1,5%-2%/năm theo định hướng NHNN; riêng một số lĩnh vực giảm tới 3%/năm. Hành động tuân thủ chủ trương Chính phủ hỗ trợ doanh nghiệp tiếp cận vốn với chi phí hợp lý."
     },
     {
-      "title": "Phân bón Cà Mau (DCM) báo lãi ròng Q3 tăng 31%, vượt 93% kế hoạch năm",
-      "impact": "↑",
-      "note": "Quý 3/2026: Doanh thu DCM 5,7 ngàn tỷ đồng (+92%), lãi ròng 430 tỷ đồng (+31%). Lũy kế 9 tháng: doanh thu 17,7 ngàn tỷ đồng (+43%), vượt 93% kế hoạch lợi nhuận cả năm. Mảng phân đạm (ure) tăng 50% nhờ xuất khẩu được đẩy mạnh."
+      "title": "Thanh khoản cực thấp, nhà đầu tư cá nhân vẫn mở mới 252.000 tài khoản chứng khoán trong tháng 10",
+      "impact": "→",
+      "note": "Giá trị giao dịch HoSE bình quân 12.380 tỷ đồng/phiên (giảm 6,88% so tháng 9), thấp nhất từ tháng 1/2025 sau 5 tháng giảm liên tiếp. Dù vậy, tài khoản mới tăng 252.159 (nhà đầu tư cá nhân 251.974), cho thấy sự quan tâm của nhà đầu tư dù thanh khoản yếu."
     }
   ]
 }
