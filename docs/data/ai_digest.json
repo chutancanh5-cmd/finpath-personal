@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-06",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ bán tháo toàn cầu (Mỹ giảm 3-5%), VN-Index mở cửa giảm 1,57%. Lãi suất cao 10% vẫn là chướng ngại chính cho định giá cổ phiếu dù nhiều doanh nghiệp vẫn tăng trưởng tốt. Chính phủ tăng cường hỗ trợ qua giảm lãi suất và kiểm soát lạm phát 2 tháng cuối năm, nhưng áp lực vĩ mô toàn cầu vẫn chiếm ưu thế ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán VN chịu áp lực mạnh từ biến động quốc tế (Nasdaq giảm 5,52%, Nikkei giảm 6%) và áp lực lãi suất cao (5% ở Mỹ kìm hãm định giá cổ phiếu). VN-Index giảm 1,57% sáng mở với độ rộng tiêu cực, nhưng chính phủ và các ngân hàng hỗ trợ bằng cách giảm lãi suất cho vay, trong khi doanh nghiệp vẫn ghi nhận kết quả kinh doanh khả quan. Rủi ro ngắn hạn từ quốc tế vẫn chiếm ưu thế.",
   "top": [
     {
-      "title": "Chứng khoán Mỹ giảm mạnh nhất hơn 1 năm",
+      "title": "Chứng khoán Mỹ & châu Á giảm sâu nhất 1+ năm",
       "impact": "↓",
-      "note": "Nasdaq giảm 5,52% xuống 24.315 điểm, S&P 500 giảm 4,36% xuống 7.353,73 điểm, Dow Jones giảm 3,44% xuống 51.523,06 điểm — phiên giảm mạnh nhất kể từ tháng 4/2025. Áp lực bán tháo lan rộng từ công nghệ sang các nhóm khác."
+      "note": "Nasdaq giảm 5,52%, S&P 500 giảm 4,36%, Dow Jones giảm 3,44% — mức giảm mạnh nhất kể từ tháng 4/2025. Nikkei giảm hơn 6%, Kospi giảm 5,5%. Áp lực bán tháo này kéo theo VN-Index giảm 1,57% sáng mở với chỉ 26 mã xanh / 219 mã đỏ trên HOSE."
     },
     {
-      "title": "Lãi suất 10% kìm hãm định giá cổ phiếu",
+      "title": "Lãi suất cao là rào cản định giá cổ phiếu",
       "impact": "↓",
-      "note": "Chủ tịch Digiworld Đoàn Hồng Việt chỉ rằng lãi suất là nguyên nhân chính khiến cổ phiếu hoạt động kém. DGW 9 tháng doanh thu 26,8 ngàn tỷ, lãi ròng 786 tỷ (+102% YoY) nhưng giá chỉ tăng 4,3% từ đầu năm."
+      "note": "Chủ tịch Digiworld nêu: lãi suất Mỹ vẫn quanh 5%, khiến lãi suất VN khó giảm sâu. Dù DGW lãi ròng tăng 102% (786 tỷ đồng) trong 9 tháng, giá cổ phiếu chỉ tăng 4,3%, thể hiện mismatch giữa lợi nhuận và định giá."
     },
     {
-      "title": "Bán tháo lan rộng từ quốc tế",
-      "impact": "↓",
-      "note": "Nikkei giảm hơn 6%, Kospi giảm 5,5%, Hang Seng giảm 1,15%. VN-Index mở cửa giảm 1,57%, độ rộng cực thấp chỉ 26 xanh/219 đỏ 5 phút sau khi mở cửa, thanh khoản tăng 32% so với bình quân."
-    },
-    {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm",
+      "title": "Chính phủ ưu tiên kiểm soát lạm phát Q4",
       "impact": "↑",
-      "note": "Từ 19/10-31/12/2026, khách hàng được giảm lãi suất cho vay 1,5-2%/năm, riêng một số lĩnh vực giảm tới 3%/năm. Hơn 20 ngân hàng khác cùng giảm 0,5%/năm để hỗ trợ doanh nghiệp tiếp cận vốn."
+      "note": "Thủ tướng Lê Minh Hưng nhấn mạnh mục tiêu kiểm soát lạm phát là ưu tiên cao nhất trong 2 tháng cuối năm, gắn với giữ vững ổn định vĩ mô và tăng trưởng 2 con số. Chỉ đạo này tạo hỗ trợ chính sách cho thị trường."
     },
     {
-      "title": "Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
-      "impact": "→",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu 4/11 tại Chính phủ thường kỳ: ưu tiên cao nhất kiểm soát lạm phát, quyết tâm tăng trưởng 2 con số gắn với ổn định kinh tế vĩ mô, tháo gỡ dự án tồn đọng."
-    },
-    {
-      "title": "Phân bón Cà Mau Q3 doanh thu tăng 92%, lãi tăng 31%",
+      "title": "Hơn 20 ngân hàng giảm lãi suất cho vay 1,5-3%/năm",
       "impact": "↑",
-      "note": "DCM Q3 doanh thu 5.700 tỷ đồng (+92% YoY), lãi ròng 430 tỷ (+31%). 9 tháng đầu năm doanh thu 17.700 tỷ đồng (+43%), vượt 93% kế hoạch lợi nhuận năm. Xuất khẩu Ure chiếm 9.400 tỷ đồng (+50%)."
+      "note": "Vietcombank và nhiều ngân hàng khác triển khai từ 19/10-31/12/2026, giảm lãi suất cho vay từ 1,5% đến 2%/năm, riêng một số lĩnh vực ngắn hạn giảm tới 3%/năm. Động thái này nhằm khơi thông dòng vốn và hỗ trợ doanh nghiệp, người dân tiếp cận nguồn vốn với chi phí hợp lý."
+    },
+    {
+      "title": "Phân bón Cà Mau (DCM) xuất khẩu Ure tăng 92%",
+      "impact": "↑",
+      "note": "Quý 3/2026: Doanh thu DCM đạt 5,7 ngàn tỷ đồng (+92% so với Q3/2025), lãi ròng 430 tỷ đồng (+31%). Lũy kế 9 tháng: doanh thu 17,7 ngàn tỷ đồng (+43%), vượt 93% kế hoạch lợi nhuận năm. Mảng phân đạm (ure) đóng góp 9,4 ngàn tỷ đồng (+50%) nhờ kênh xuất khẩu được đẩy mạnh."
+    },
+    {
+      "title": "VPBankS phát hành 843,75 triệu cổ phiếu thưởng",
+      "impact": "↑",
+      "note": "VPBankS (VPX) phát hành cổ phiếu thưởng tỷ lệ 100:45 từ vốn chủ sở hữu, tăng vốn điều lệ từ 18.750 tỷ đồng lên 27.187,5 tỷ đồng. Phương án được cổ đông thông qua bằng lấy ý kiến văn bản kết thúc 4/11/2026, dự kiến thực hiện trong năm 2026. Động thái này tăng cường nguồn vốn cho hoạt động kinh doanh."
     }
   ]
 }
