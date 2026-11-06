@@ -1,13 +1,18 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Mỹ giảm mạnh nhất hơn 1 năm (Nasdaq -5,52%, S&P500 -4,36%, Dow -3,44%) tạo áp lực lên TTCK toàn cầu, nhưng chính phủ Việt Nam ứng phó tích cực với ưu tiên kiểm soát lạm phát 2 tháng cuối năm và các ngân hàng giảm lãi suất 1,5-3%/năm hỗ trợ doanh nghiệp. Doanh nghiệp nội địa vẫn duy trì tăng trưởng tốt (Phân bón Cà Mau Q3 +92%), cho thấy nền kinh tế vẫn có đà. Rủi ro ngắn hạn từ biến động toàn cầu vẫn đáng chú ý, nhưng các biện pháp hỗ trợ trong nước có thể hạn chế tác động tiêu cực.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Áp lực bán mạnh lan rộng từ thị trường Mỹ (Nasdaq -5,52%, S&P 500 -4,36%) sang châu Á; VN-Index mở cửa giảm 1,22% với khối ngoại tiếp tục bán ròng ngày thứ 10 và áp lực toàn diện (234 mã đỏ/67 mã xanh), giá vàng giảm mạnh. Chính sách trong nước có tín hiệu tích cực (kiểm soát lạm phát, giảm lãi suất 1,5-3%/năm), nhưng chưa đủ để khống chế áp lực tâm lý rủi ro từ bên ngoài; trong ngắn hạn, thị trường vẫn tiếp tục chịu sức ép bán tháo.",
   "top": [
     {
       "title": "Chứng khoán Mỹ sụp đổ, phiên giảm mạnh nhất hơn 1 năm",
       "impact": "↓",
       "note": "Nasdaq giảm 5,52% xuống 24.315 điểm, S&P500 giảm 4,36% xuống 7.353,73 điểm, Dow Jones giảm 3,44% xuống 51.523,06 điểm. Đây là phiên giảm mạnh nhất kể từ tháng 4/2025, do lo ngại Đảng Dân chủ kiểm soát Quốc hội sẽ làm chậm xây dựng trung tâm dữ liệu AI, khiến áp lực bán tháo lan rộng từ cổ phiếu công nghệ sang các nhóm khác."
+    },
+    {
+      "title": "VN-Index mở cửa giảm 1,22%, khối ngoại bán ròng ngày thứ 10",
+      "impact": "↓",
+      "note": "VN-Index giảm 21,18 điểm với chỉ 67 mã xanh và 234 mã đỏ, bốc hơi hơn 27 điểm khi mở cửa; khối ngoại tiếp tục bán ròng hơn 232 tỷ đồng, nối dài chuỗi rút vốn; khu vực châu Á chung tình hình (Nikkei -6%, Kospi -5,5%)."
     },
     {
       "title": "Chính phủ ưu tiên cao kiểm soát lạm phát 2 tháng cuối năm",
@@ -25,14 +30,9 @@
       "note": "Nhờ kênh xuất khẩu Ure được đẩy mạnh, DCM ghi nhận doanh thu thuần quý 3 hơn 5.700 tỷ đồng, tăng 92% so với cùng kỳ năm trước; lũy kế 9 tháng đạt hơn 17.700 tỷ đồng (+43%), vượt 93% kế hoạch lợi nhuận cả năm."
     },
     {
-      "title": "VPBankS phát hành 843,75 triệu cổ phiếu thưởng",
-      "impact": "→",
-      "note": "VPBankS phát hành 843,75 triệu cổ phiếu thưởng tương đương 45% tổng lưu hành (tỷ lệ 100:45), tăng vốn điều lệ từ 18.750 tỷ đồng lên 27.187,5 tỷ đồng, dự kiến phát hành trong năm 2026 theo quyết định HĐQT."
-    },
-    {
-      "title": "Giá vàng trong nước giảm 1,5-3,5 triệu đồng/lượng",
-      "impact": "→",
-      "note": "Sáng 6/11, giá vàng miếng SJC giảm 3,5 triệu đồng/lượng xuống 138-141 triệu đồng/lượng; vàng nhẫn giảm 1,8-2,6 triệu đồng/lượng. Mức giảm có chiều ngược với giá vàng thế giới tăng 0,7% lên 4.089,7 USD/oz, phản ánh bất ổn trên thị trường khi dòng vốn ngoại rút khỏi khu vực."
+      "title": "Giá vàng trong nước lao dốc khỏi đỉnh tuần, giảm 1,5-3,5 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Sáng 6/11, giá vàng miếng SJC giảm 3,5 triệu đồng/lượng xuống 138-141 triệu đồng/lượng; vàng nhẫn giảm 1,8-2,6 triệu đồng/lượng rời khỏi mốc đỉnh tuần; quốc tế giảm 0,9%, phản ánh nhà đầu tư tránh rủi ro khi dòng vốn ngoại rút khỏi khu vực."
     }
   ]
 }
