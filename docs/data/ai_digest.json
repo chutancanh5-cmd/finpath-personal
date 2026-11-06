@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-06",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay lập kỷ lục giảm sâu (VN-Index -1.22%, -21 điểm về 1.719,55 điểm) dưới áp lực bán tháo từ thị trường quốc tế, đặc biệt Mỹ. Khối ngoại tiếp tục rút vốn sang phiên thứ 10 liên tiếp, thanh khoản khớp lệnh suy yếu tháng thứ 5 liên tiếp xuống mức thấp nhất từ tháng 1/2025. Lãi suất cao là rào cản cấu trúc cản trở định giá cổ phiếu, dù Chính phủ ưu tiên kiểm soát lạm phát 2 tháng cuối năm và triển khai gói hỗ trợ tín dụng giảm lãi suất từ 1,5-2%/năm. Dòng tiền từ các chính sách hỗ trợ chưa đủ mạnh để bù đắp áp lực bán.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phiên 6/11 chìm sâu trong sắc đỏ với VN-Index giảm 1,22% xuống 1.719,55 điểm dưới áp lực bán tháo toàn cầu (Nikkei -6%, Kospi -5,5%). Khối ngoại tiếp tục bán ròng phiên thứ 10 liên tiếp (232 tỷ đồng), dòng tiền rút khỏi vàng (giảm 3,5 triệu/lượng). Lãi suất cao là trở ngại cấu trúc cho định giá cổ phiếu; mặc dù Chính phủ triển khai gói hỗ trợ (giảm lãi suất cho vay 1,5-3%, kiềm chế lạm phát), các biện pháp còn hạn chế trong ngắn hạn khi CPI 10 tháng đạt 4,57% vượt mục tiêu 4,5%.",
   "top": [
     {
-      "title": "Nhịp đập thị trường 06/11: Sắc đỏ bao phủ",
+      "title": "Thị trường lao dốc, VN-Index -1,22% giữa phiên 6/11",
       "impact": "↓",
-      "note": "VN-Index giảm 1,22% (-21 điểm) về 1.719,55 điểm; HNX-Index giảm 0,62% về 255,02 điểm. Độ rộng 460 mã giảm/165 mã tăng, lệch pha mạnh về phía bán. Công nghệ (-2,95%) và truyền thông (-2,31%) dẫn đầu suy yếu."
+      "note": "VN-Index giảm 21 điểm xuống 1.719,55 điểm, HNX-Index giảm 0,62% về 255,02 điểm. Độ rộng cực lệch: 460 mã giảm, 165 mã tăng. VIC, VHM, VCB, MCH chịu áp lực mạnh nhất, kéo đi tổng cộng 9,56 điểm từ chỉ số."
     },
     {
-      "title": "Bán tháo quốc tế lan tỏa, Nikkei -6%, Kospi -5,5%, VN-Index -1,57% sáng",
+      "title": "Áp lực bán toàn cầu lan tỏa mạnh, Nikkei -6%, Kospi -5,5%",
       "impact": "↓",
-      "note": "Sàn chứng khoán châu Á sáng 6/11 chìm trong sắc đỏ do áp lực bán từ thị trường Mỹ đêm qua: Nikkei -6%, Kospi -5,5%, Hang Seng -1,15%. VN-Index mở cửa lúc 9h giảm 1,57% (-27 điểm), độ rộng cực lệch: 26 mã xanh/219 mã đỏ lúc 9h20."
+      "note": "Bán tháo từ thị trường Mỹ đêm qua ảnh hưởng toàn khu vực châu Á. VN-Index mở cửa giảm 1,57% (-27 điểm), độ rộng lúc 9h20 chỉ 26 mã xanh trên 245 mã (tỷ lệ 1:8 rất mất cân bằng)."
     },
     {
-      "title": "Chủ tịch Digiworld: Lãi suất tiền gửi 10% thì không cổ phiếu nào có thể tăng giá",
+      "title": "Giá vàng 'bốc hơi' 3,5 triệu đồng/lượng, dòng tiền chảy ra",
       "impact": "↓",
-      "note": "Chủ tịch Digiworld nhận định lãi suất là nguyên nhân chính kìm hãm cổ phiếu. DGW đạt doanh thu 26,8 ngàn tỷ đồng (+44%), lãi ròng 786 tỷ đồng (+102%) nhưng giá chỉ tăng 4,3% năm. Lãi suất trong nước khó giảm khi lợi suất trái phiếu Mỹ vẫn ~5%."
+      "note": "Giá vàng miếng SJC từ 144,5 triệu (đỉnh hôm qua) xuống 141 triệu đồng/lượng hôm nay. Vàng nhẫn giảm 1,8 triệu/lượng, vàng miếng giảm 1,5 triệu/lượng. Tài sản trú ẩn bị xả hàng khi nhà đầu tư tìm cơ hội bắt đáy ở cổ phiếu."
     },
     {
-      "title": "Khối ngoại bán ròng liên tiếp phiên 10, hơn 232 tỷ đồng",
-      "impact": "↓",
-      "note": "Khối ngoại tiếp tục bán ròng phiên thứ 10 liên tiếp với giá trị hơn 232 tỷ đồng, nối dài chuỗi rút vốn. Trong khi đó, tự doanh mua ròng gần 254 tỷ đồng. Dòng tiền ngoại thoái vốn liên tục khiến cổ phiếu trụ vẫn bị ép mạnh."
-    },
-    {
-      "title": "Thủ tướng Lê Minh Hưng ưu tiên kiểm soát lạm phát 2 tháng cuối năm",
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ doanh nghiệp",
       "impact": "↑",
-      "note": "Chính phủ quyết tâm giữ mục tiêu lạm phát 4,5% năm 2026 (CPI bình quân 10 tháng hiện 4,57%, cao hơn mục tiêu). Ưu tiên cao kiểm soát giá 2 tháng cuối năm; tập trung tháo gỡ khó khăn cho doanh nghiệp, thúc đẩy xuất khẩu."
+      "note": "Chương trình từ 19/10 đến 31/12/2026: giảm lãi suất 1,5-2%/năm theo định hướng Ngân hàng Nhà nước; các lĩnh vực ưu tiên được giảm tới 3%/năm. Hỗ trợ chi phí vay vốn cho doanh nghiệp và cá nhân trong bối cảnh thị trường căng thẳng."
     },
     {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%/năm, hỗ trợ sản xuất kinh doanh",
+      "title": "Vingroup phát hành trái phiếu won, mở cầu huy động vốn Hàn Quốc",
       "impact": "↑",
-      "note": "Vietcombank từ 19/10 đến 31/12/2026 giảm lãi suất cho vay 1,5%-2%/năm theo định hướng NHNN; riêng một số lĩnh vực ưu tiên giảm tới 3%/năm. Biện pháp giúp doanh nghiệp tiếp cận vốn với chi phí hợp lý, giải phóng dòng tiền cho sản xuất."
+      "note": "Chứng khoán Shinhan tư vấn phát hành 230 tỷ won (4.500 tỷ đồng) trái phiếu Arirang ngày 30/10/2026, lần đầu doanh nghiệp Việt huy động vốn bằng won tại Hàn Quốc. Giải pháp tìm kiếm vốn từ nước ngoài giữa khó khăn huy động trong nước (gần 196.000 tỷ đồng trái phiếu đến hạn năm 2026)."
+    },
+    {
+      "title": "Giảm giá điện, thuế xăng để kiềm chế lạm phát 2 tháng cuối năm",
+      "impact": "↑",
+      "note": "Thứ trưởng Bộ Tài chính Nguyễn Đức Chi công bố giải pháp kiểm soát giá. CPI 10 tháng đạt 4,57%, cao hơn mục tiêu 4,5%; Chính phủ triển khai 5 nhóm nhiệm vụ cụ thể, ưu tiên kiểm soát giá hai tháng cuối năm bằng các biện pháp như giảm giá điện và thuế tiêu thụ đặc biệt xăng dầu."
     }
   ]
 }
