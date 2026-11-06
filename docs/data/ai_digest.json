@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-06",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chịu sức ép từ bán tháo toàn cầu (Nikkei -6%, Kospi -5.5%), VN-Index chốt phiên chiều giảm 0.88% xuống 1.725,36 điểm; khối ngoại nối dài chuỗi bán ròng sang phiên thứ 10 với 232 tỷ đồng. Lãi suất cao (quanh 10%/năm) tiếp tục áp chế định giá cổ phiếu, khiến doanh nghiệp lợi nhuận cao cũng khó tăng giá. Vietcombank triển khai giảm lãi suất cho vay 1,5-3%/năm hỗ trợ doanh nghiệp, và 6 nhóm hàng xuất khẩu (đồ gỗ, dệt may, giày dép, linh kiện điện tử, ô tô, tàu thuyền) kỳ vọng phát triển năm 2027 bất chấp rủi ro logistics.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam điều chỉnh với VN-Index giảm 0,88%, thanh khoản suy yếu tháng thứ 5 liên tiếp xuống 13.517 tỷ đồng/phiên, khối ngoại tiếp tục bán ròng phiên thứ 10 với 232 tỷ đồng. Tuy vậy, chính sách hỗ trợ kinh tế bắt đầu phát tác dụng khi Vietcombank giảm lãi suất vay 1,5-2%/năm (một số lĩnh vực giảm tới 3%/năm), giúp doanh nghiệp tiếp cận vốn rẻ hơn. Triển vọng xuất khẩu năm 2027 lạc quan với 6 ngành hàng bứt phá, đồng thời FDI vào bán lẻ được duy trì qua khoản đầu tư 15-20 triệu USD của MM Mega Market tại Hà Tĩnh.",
   "top": [
     {
       "title": "VN-Index giảm 0.88%, khối ngoại bán ròng lần thứ 10",
       "impact": "↓",
-      "note": "Chốt phiên chiều, VN-Index giảm 15.37 điểm (-0.88%) xuống 1.725,36 điểm; HNX-Index tăng 0.12 điểm. Độ rộng tiêu cực với 440 mã giảm, 281 mã tăng. Khối ngoại bán ròng 232 tỷ đồng, nối dài chuỗi rút vốn sang phiên thứ 10; tự doanh mua ròng 254 tỷ đồng."
+      "note": "Chốt phiên chiều, VN-Index giảm 15,37 điểm (-0,88%) xuống 1.725,36 điểm; HNX-Index tăng 0,12 điểm (+0,05%) lên 256,73 điểm. Độ rộng tiêu cực với 440 mã giảm, 281 mã tăng. Khối ngoại bán ròng 232 tỷ đồng, nối dài chuỗi rút vốn sang phiên thứ 10; tự doanh mua ròng 254 tỷ đồng."
     },
     {
-      "title": "Chứng khoán toàn cầu lao dốc, tác động tâm lý đến Việt Nam",
+      "title": "Thanh khoản suy yếu tháng thứ 5 liên tiếp",
       "impact": "↓",
-      "note": "Chứng khoán quốc tế giảm mạnh do bán tháo cổ phiếu công nghệ (Nikkei -6%, Kospi -5.5%). Mặc dù Việt Nam không có nhóm cổ phiếu AI quy mô tương tự, tác động chủ yếu là tâm lý lo ngại của nhà đầu tư; chuyên gia VNDIRECT dự báo đây là phản ứng ngắn hạn."
+      "note": "Giá trị giao dịch khớp lệnh bình quân trên HoSE tháng 10 đạt 12.380 tỷ đồng/phiên, giảm 6,88% so với tháng 9 và thấp hơn 23,36% so với bình quân 5 tháng. Tổng toàn ba sàn đạt 13.517 tỷ đồng/phiên, giảm 5,48% so với tháng trước, là mức thấp nhất kể từ tháng 1/2025."
     },
     {
-      "title": "Lãi suất cao (10%/năm) áp chế định giá cổ phiếu",
+      "title": "Lãi suất cao áp chế định giá cổ phiếu",
       "impact": "↓",
-      "note": "Digiworld 9 tháng đạt doanh thu 26.8 ngàn tỷ đồng (+44%), lãi ròng 786 tỷ đồng (+102%), nhưng cổ phiếu chỉ tăng 4.3% từ đầu năm. Chủ tịch Digiworld nhận định lãi suất là nguyên nhân chính: lợi suất trái phiếu Mỹ ở 5% khiến lãi suất Việt Nam khó giảm, làm khó định giá cổ phiếu ở mức cao."
+      "note": "Digiworld 9 tháng đạt doanh thu 26.800 tỷ đồng (+44%), lãi ròng 786 tỷ đồng (+102%), nhưng cổ phiếu chỉ tăng 4,3% từ đầu năm. Chủ tịch Digiworld nhận định lãi suất tiền gửi 10%/năm là nguyên nhân chính: lợi suất trái phiếu Mỹ ở 5% khiến lãi suất Việt Nam khó giảm sâu."
     },
     {
-      "title": "Vietcombank triển khai giảm lãi suất cho vay 1,5-3%/năm",
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm",
       "impact": "↑",
-      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh và lĩnh vực ưu tiên, giảm lãi suất cho vay 1,5-2%/năm; riêng một số lĩnh vực, lãi suất ngắn hạn giảm tới 3%/năm. Thực hiện chủ trương của Ngân hàng Nhà nước giảm mặt bằng lãi suất."
+      "note": "Từ 19/10 đến 31/12/2026, Vietcombank triển khai chương trình tín dụng thúc đẩy sản xuất kinh doanh, giảm lãi suất cho vay 1,5-2%/năm; riêng một số lĩnh vực ưu tiên, lãi suất ngắn hạn giảm tới 3%/năm so với mức hiện hành của Vietcombank."
     },
     {
-      "title": "6 nhóm hàng xuất khẩu triển vọng bứt phá năm 2027",
+      "title": "6 nhóm hàng xuất khẩu bứt phá năm 2027",
       "impact": "↑",
-      "note": "Chuyên gia dự báo đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền sẽ trở thành nhóm hàng xuất khẩu triển vọng năm 2027; tuy nhiên, cước vận tàu Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD/container 40 feet, đặt ra rủi ro logistics."
+      "note": "Xuất nhập khẩu vượt 1.000 tỷ USD, chuyên gia dự báo 6 nhóm hàng triển vọng năm 2027: đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền. Tuy nhiên, cước vận tàu Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD/container 40 feet do xung đột chính trị."
     },
     {
-      "title": "HGI bị phạt 435,5 triệu đồng trước lên UPCoM 09/11",
-      "impact": "↓",
-      "note": "HGI nhận Quyết định xử phạt vi phạm thuế từ Cơ quan Thuế tỉnh Gia Lai: tổng 435,5 triệu đồng (64 triệu phạt hành chính + 320 triệu truy thu thuế TNDN + 51,6 triệu chậm nộp). Sự kiện xảy ra ngày 03/11, trước thềm lên UPCoM của 'gà đẻ trứng vàng' thuộc HAGL."
+      "title": "MM Mega Market (Thái Lan) đầu tư 15-20 triệu USD tại Hà Tĩnh",
+      "impact": "↑",
+      "note": "Doanh nghiệp bán lẻ MM Mega Market muốn xây dựng trung tâm thương mại tại phường Thành Sen, tỉnh Hà Tĩnh với diện tích 1,2-2ha, quy mô 1-2 tầng, cam kết đi vào hoạt động trong 12 tháng từ khi giao đất. Cho thấy FDI vào lĩnh vực bán lẻ được duy trì."
     }
   ]
 }
