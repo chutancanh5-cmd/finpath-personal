@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-07",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên (Hải Phòng 13%, Hà Nội 11,1%, TPHCM 10,4%) và Ngân hàng Nhà nước công bố kế hoạch hiện đại hóa hệ thống, tăng cường tiếp cận vốn cho doanh nghiệp, tạo nền tảng vĩ mô tích cực. Bách Hoá Xanh mở rộng vượt kế hoạch gần gấp đôi với 1800 cửa hàng, phản ánh xu hướng chuyển dịch sang bán lẻ hiện đại. Tuy vậy, thị trường chứng khoán chịu áp lực điều chỉnh: vốn hóa HOSE giảm 1,5%, giá dầu rơi khỏi 100 USD/thùng. Bầu cử Mỹ tạo cơ hội nhưng lo ngại kiểm soát AI vẫn ảnh hưởng tiêu cực đến định giá toàn cầu.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán chịu áp lực bán mạnh trong tuần 2-6/11 với VN-Index giảm 16 điểm, vốn hóa HOSE giảm 1,5%; tuy nhiên các tín hiệu tích cực từ Quốc hội (giao mục tiêu tăng trưởng 10% năm 2027 cho 30 tỉnh thành), NHNN (hiện đại hóa ngân hàng, tăng tiếp cận vốn), và Bách Hoá Xanh (mở rộng gần 1.800 cửa hàng vượt kế hoạch) hỗ trợ triển vọng kinh tế trung hạn. Toàn cảnh vĩ mô cân bằng giữa áp lực ngắn hạn và cơ hội dài hạn.",
   "top": [
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên",
-      "impact": "↑",
-      "note": "Nghị quyết được 467/469 đại biểu tán thành (7/11) giao mục tiêu tăng trưởng 10% trở lên cho toàn quốc; Hải Phòng 13%, Quảng Ninh 12%, Hà Nội 11,1%, TPHCM 10,4%. Nhấn mạnh ổn định vĩ mô, kiểm soát lạm phát, phân cấp quyền lực địa phương. Tín hiệu tích cực cho dòng vốn đầu tư."
-    },
-    {
-      "title": "Ngân hàng Nhà nước công bố kế hoạch hiện đại hóa hệ thống ngân hàng",
-      "impact": "↑",
-      "note": "Thống đốc ký Quyết định 2409/QĐ-NHNN (1/11) về Kế hoạch hiện đại hóa hệ thống ngân hàng, xử lý TCTD yếu kém, tăng khả năng tiếp cận vốn cho doanh nghiệp nhỏ và vừa. Mở ra cơ hội mở rộng tín dụng hỗ trợ nền kinh tế."
-    },
-    {
-      "title": "Bách Hoá Xanh mở rộng vượt kế hoạch, hướng tới 10 tỷ USD doanh thu",
-      "impact": "↑",
-      "note": "Thử nghiệm mô hình BHX mini với tín hiệu khả quan (6/11). Đã mở gần 1800 cửa hàng vượt mục tiêu 1000 cửa hàng năm 2026. Chiến lược kết hợp nhiều định dạng nhằm đạt doanh thu 10 tỷ USD vào 2030 cho Tập đoàn MWG."
-    },
-    {
-      "title": "Vốn hóa HOSE giảm nhẹ, câu lạc bộ tỷ USD mất 2 doanh nghiệp",
+      "title": "VN-Index giảm 16 điểm, tất cả ngành giảm điểm trong tuần 2-6/11",
       "impact": "↓",
-      "note": "Tính đến 30/10: vốn hóa HOSE 8,42 triệu tỷ đồng, giảm 1,5% so với tháng trước; VN-Index 1741,62 điểm (giảm 1,53%), VNAllshare giảm 2,44%, VN30 giảm 2,72%. Câu lạc bộ >1 tỷ USD từ 51 doanh nghiệp xuống 49. Phản ánh áp lực điều chỉnh thị trường."
+      "note": "VN-Index kết tuần ở 1.725,36 điểm (giảm hơn 16 điểm), tất cả nhóm ngành đều giảm với nguyên vật liệu dẫn đầu -4,07%, công nghệ thông tin -3,7%, năng lượng -3,7%; VIC lấy đi 10 điểm, VCB 4,5 điểm, giá dầu rơi khỏi 100 USD/thùng."
     },
     {
-      "title": "Giá dầu rơi khỏi 100 USD/thùng, lo ngại xung đột Iran",
-      "impact": "↓",
-      "note": "Giá dầu thô giảm sâu, trượt khỏi mốc 100 USD/thùng trong tuần do kỳ vọng chính quyền Dân chủ Mỹ khó leo thang xung đột Iran. Rủi ro cho chi phí logistics, vận tải và lợi nhuận các doanh nghiệp liên quan."
-    },
-    {
-      "title": "VinaCapital: Bầu cử Mỹ là chất xúc tác tích cực cho VN-Index",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Chiến thắng áp đảo Đảng Dân chủ trong bầu cử giữa nhiệm kỳ Mỹ (3/11) là tín hiệu tích cực; VinaCapital kỳ vọng ít lo ngại can thiệp xuất khẩu Việt Nam. Tuy vậy, tăng trưởng xuất khẩu sang Mỹ dự báo chậm lại từ 2027."
+      "note": "7/11, Nghị quyết được 467/469 đại biểu tán thành, giao 30 tỉnh thành chỉ tiêu tăng trưởng từ 10% trở lên; Hải Phòng 13%, Quảng Ninh 12%, Hà Nội 11,1%, TPHCM 10,4%; năm 2027 xác định là năm 'tăng tốc, bứt phá'."
+    },
+    {
+      "title": "NHNN ký Quyết định hiện đại hóa hệ thống ngân hàng",
+      "impact": "↑",
+      "note": "1/11, Thống đốc ký Quyết định 2409/QĐ-NHNN Kế hoạch hiện đại hóa hệ thống, xử lý TCTD yếu kém, tăng khả năng tiếp cận vốn cho doanh nghiệp nhỏ và vừa, nâng cao sức chống chịu và an toàn hệ thống ngân hàng."
+    },
+    {
+      "title": "Bách Hoá Xanh mở rộng vượt kế hoạch, chuẩn bị ra mắt mô hình mini",
+      "impact": "↑",
+      "note": "BHX đã mở gần 1.800 cửa hàng vượt mục tiêu 1.000 cửa hàng năm 2026; đang thử nghiệm mô hình mini với tín hiệu khả quan, kết hợp nhiều định dạng nhằm đạt doanh thu 10 tỷ USD vào 2030."
+    },
+    {
+      "title": "Vốn hóa HOSE giảm 1,5%, câu lạc bộ tỷ USD mất 2 doanh nghiệp",
+      "impact": "↓",
+      "note": "Đến 30/10: vốn hóa HOSE 8,42 triệu tỷ đồng (giảm 1,5%), VN-Index 1.741,62 điểm (-1,53%), VNAllshare -2,44%, VN30 -2,72%; câu lạc bộ vốn hóa >1 tỷ USD giảm từ 51 xuống 49 doanh nghiệp."
+    },
+    {
+      "title": "Giá vàng bật tăng tuần 2-7/11 sau 3 tuần giảm liên tiếp",
+      "impact": "↑",
+      "note": "Tuần 2-7/11, giá vàng miếng SJC tăng 1 triệu đồng/lượng lên 138-141 triệu đồng, vàng nhẫn tăng 1,5-3,7 triệu đồng/lượng; chấm dứt 3 tuần giảm liên tiếp, phản ánh nhịp phục hồi sau bầu cử Mỹ."
     }
   ]
 }
