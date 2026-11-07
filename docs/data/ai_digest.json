@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tuần đầu tháng 11, VN-Index giảm 0,93% khi khối ngoại bán ròng 868 tỷ đồng, nhóm ngân hàng chịu áp lực lớn (MBB, VCB, ACB). Tuy nhiên, cuối tuần khối ngoại quay lại mua ròng 435,3 tỷ đồng, báo hiệu tín hiệu hồi phục. Bầu cử Mỹ với chiến thắng Đảng Dân chủ giảm rủi ro Trump cho xuất khẩu Việt Nam. Các chính sách hỗ trợ như giảm lãi suất từ Vietcombank (1,5-3%/năm) và triển vọng 6 nhóm hàng xuất khẩu năm 2027 là điểm sáng, tuy nhiên rủi ro logistics và margin cao kỷ lục vẫn là mối lo.",
+  "summary_vi": "Thị trường ghi nhận tín hiệu lẫn lộn: khối ngoại bán ròng 868 tỷ đồng với tâm điểm vào ngân hàng (MBB, VCB, ACB), vàng giảm 0,4% do kỳ vọng Fed tăng lãi suất theo báo cáo việc làm Mỹ mạnh (165.000 việc làm, thất nghiệp 4,1%). Mặt tích cực, Bách Hoá Xanh mở gần 1.800 cửa hàng vượt mục tiêu, xuất nhập khẩu vượt 1.000 tỷ USD với 6 nhóm hàng triển vọng 2027, Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ doanh nghiệp. Bầu cử Mỹ thắng Đảng Dân chủ là chất xúc tác tích cực cho thị trường, song rủi ro logistics tăng chi phí vận tải cần chú ý.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 868 tỷ, ba cổ phiếu ngân hàng tâm điểm",
+      "title": "Vàng giảm, USD tăng theo báo cáo việc làm Mỹ mạnh",
       "impact": "↓",
-      "note": "Tuần 2-6/11, khối ngoại bán ròng 868 tỷ đồng, MBB dẫn đầu với 653 tỷ, VCB 588 tỷ, ACB 315 tỷ. VN-Index giảm 16,26 điểm (-0,93%), VN30 giảm 2,7%, VNMidcap giảm 1,8%."
+      "note": "Báo cáo tạo 165.000 việc làm tháng 10, thất nghiệp 4,1%, dẫn kỳ vọng Fed tăng lãi suất. Vàng giảm 0,4% xuống 4.072,1 USD/oz, Dollar Index tăng 0,7% lên 102,3 điểm, lợi suất T-bond 10 năm tăng 2 bps lên 4.864%."
     },
     {
-      "title": "Khối ngoại mua ròng 435,3 tỷ cuối tuần",
-      "impact": "↑",
-      "note": "Sáng 7/11, khối ngoại bất ngờ quay lại mua ròng 435,3 tỷ đồng (khớp lệnh 170,2 tỷ), tín hiệu tích cực sau phiên bán ròng nhiều ngày liên tiếp."
+      "title": "Khối ngoại bán ròng 868 tỷ, ba ngân hàng tâm điểm",
+      "impact": "↓",
+      "note": "Tuần 2-6/11, khối ngoại bán ròng 868 tỷ đồng: MBB bán 653 tỷ, VCB 588 tỷ, ACB 315 tỷ. VN-Index giảm 16,26 điểm (-0,93%) xuống 1.725,36 điểm; độ rộng 212 mã giảm vs 101 mã tăng."
     },
     {
-      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng áp đảo, chất xúc tác cho VN-Index",
+      "title": "Bách Hoá Xanh mở gần 1.800 cửa hàng vượt mục tiêu",
       "impact": "↑",
-      "note": "Chiến thắng lịch sử của Đảng Dân chủ giảm rủi ro Trump can thiệp xuất khẩu Việt Nam. VinaCapital cho rằng tác động đối với thị trường chứng khoán có thể lớn hơn tác động kinh tế."
+      "note": "Mở rộng thành công vượt kế hoạch 1.000 cửa hàng/năm 2026, thử nghiệm mô hình BHX mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030."
+    },
+    {
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm bứt phá",
+      "impact": "→",
+      "note": "6 nhóm hàng triển vọng 2027: đồ gỗ nội ngoại thất, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền tận dụng nhu cầu tiêu dùng và đầu tư. Rủi ro: cước vận tải container 40 feet đi Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD do xung đột Nga-Ukraine, Trung Đông."
     },
     {
       "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm",
       "impact": "↑",
-      "note": "Từ 19/10-31/12/2026, Vietcombank triển khai chương trình giảm lãi suất cho vay từ 1,5-2%/năm, một số lĩnh vực giảm tới 3%/năm để thúc đẩy sản xuất, kinh doanh."
+      "note": "Từ 19/10-31/12/2026, giảm lãi suất cho vay từ 1,5-2%/năm cho sản xuất, kinh doanh, các lĩnh vực ưu tiên; một số lĩnh vực giảm tới 3%/năm theo chỉ đạo Ngân hàng Nhà nước, khơi thông dòng vốn."
     },
     {
-      "title": "6 nhóm hàng xuất khẩu triển vọng 2027, rủi ro logistics tăng",
-      "impact": "→",
-      "note": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm hàng triển vọng 2027 (đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền). Tuy nhiên, cước vận chuyển container 40 feet đi Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD."
-    },
-    {
-      "title": "VN-Index dự báo tạo đáy tháng 11, hồi phục 19% Q1/2027",
+      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng, chất xúc tác cho TTCK",
       "impact": "↑",
-      "note": "VN-Index tháng 10 giảm 2,4% (loại Vingroup giảm 8,9%). Dự báo nhịp hồi phục từ tháng 11 đến quý 1/2027 tăng bình quân 19%, tuy nhiên dư nợ margin ở mức cao kỷ lục là mối lo."
+      "note": "Chiến thắng áp đảo Đảng Dân chủ giảm rủi ro Trump can thiệp xuất khẩu Việt Nam. VinaCapital nhận định chất xúc tác rõ rệ cho VN-Index, tuy nhiên dự báo tăng trưởng xuất khẩu Việt sang Mỹ chậm lại năm 2027 do yếu tố kinh tế khác."
     }
   ]
 }
