@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-07",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 10% cho 2027 và chiến thắng Đảng Dân chủ tại Mỹ giảm rủi ro thương mại, tạo tín hiệu tích cực. Giá dầu giảm 17% tuần này hỗ trợ kinh tế. Tuy vậy, thị trường giảm 0,93% và phát hành cổ phiếu ngân hàng 16,7 tỷ đơn vị có thể cải thin lợi nhuận ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội giao mục tiêu tăng trưởng kinh tế 10% năm 2027 và bầu cử Mỹ (Đảng Dân chủ thắng) là tín hiệu tích cực cho thị trường. Tuy nhiên, VN-Index tuần vừa rồi giảm 0,93%, phản ánh bất ổn tâm lý nhà đầu tư. Gia tăng 16,7 tỷ cổ phiếu ngân hàng (tăng 18% từ cuối 2025) gây pha loãng vốn nhà đầu tư. Giá dầu giảm 17%/tuần rơi khỏi 100 USD giúp dè nén lạm phát, nhưng thị trường Mỹ vẫn bất ổn vì lo ngại AI.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% cho 2027",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, đặt mục tiêu tăng trưởng kinh tế từ 10% trở lên cho năm 2027, tạo đà tăng tốc phục hồi kinh tế."
+      "note": "Quốc hội thông qua Nghị quyết ngày 7/11 với 467/469 đại biểu tán thành mục tiêu tăng trưởng kinh tế năm 2027 từ 10% trở lên gắn với giữ ổn định vĩ mô. Chính sách tích cực khuyến khích đầu tư dài hạn và tạo tâm lý lạc quan cho thị trường chứng khoán."
     },
     {
-      "title": "Chiến thắng Đảng Dân chủ tại Mỹ là chất xúc tác cho VN-Index",
+      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng áp đảo",
       "impact": "↑",
-      "note": "VinaCapital đánh giá chiến thắng áp đảo của Đảng Dân chủ là chất xúc tác rõ rệt cho thị trường, giảm nguy cơ leo thang căng thẳng thương mại với Mỹ, hỗ trợ xuất khẩu Việt Nam."
+      "note": "Ngày 3/11, Đảng Dân chủ giành quyền kiểm soát cả Thượng viện và Hạ viện Mỹ. VinaCapital xác định đây là 'chất xúc tác rõ rệt cho VN-Index', không kỳ vọng Trump can thiệp xuất khẩu Việt Nam sang Mỹ."
     },
     {
-      "title": "Bách Hoá Xanh mở 1.800 cửa hàng vượt kế hoạch",
-      "impact": "↑",
-      "note": "Bách Hoá Xanh thử nghiệm mô hình mini với tín hiệu khả quan, đã mở gần 1.800 cửa hàng trong năm vượt mục tiêu 1.000 cửa hàng, hướng tới doanh thu 10 tỷ USD vào 2030."
-    },
-    {
-      "title": "VN-Index giảm 0,93% tuần 2-6/11, khối ngoại suy yếu",
+      "title": "VN-Index tuần 2-6/11 giảm 0,93%, xuống 1.725,36 điểm",
       "impact": "↓",
-      "note": "VN-Index mất 16,26 điểm xuống 1.725,36 điểm là tuần giảm thứ hai liên tiếp, khối ngoại bán ròng giảm 70%, áp lực bán quay trở lại phiên 6/11."
+      "note": "VN-Index tuần thứ hai liên tiếp giảm 16,26 điểm (0,93%), xuống còn 1.725,36 điểm. Giá trị bán ròng của khối ngoại giảm gần 70%. Chuyên gia khuyến nghị chờ cơ hội vùng hỗ trợ 1.700-1.720 điểm."
     },
     {
-      "title": "Ngân hàng phát hành 16,7 tỷ cổ phiếu, cải thin EPS",
+      "title": "Phát hành 16,7 tỷ cổ phiếu ngân hàng từ đầu năm",
       "impact": "↓",
-      "note": "Số lượng cổ phiếu lưu hành 28 ngân hàng tăng 16,7 tỷ đơn vị (18% so với cuối 2025), với Techcombank, VPBank, MB chiếm 46% mức tăng, có thể cải thin lợi nhuận trên cổ phiếu."
+      "note": "Tính đến 6/11/2026, 28 ngân hàng tăng lưu hành từ 94,2 tỷ cổ phiếu (cuối 2025) lên 110 tỷ, tương đương +18%. Techcombank (+3,54 tỷ), VPBank, MB chiếm gần 46% mức tăng. Pha loãng vốn gây áp lực tiêu cực đến định giá nhà đầu tư."
     },
     {
-      "title": "Giá dầu giảm 17% tuần, rơi khỏi 100 USD/thùng",
-      "impact": "↑",
-      "note": "Giá dầu thô giảm 17% cả tuần rơi khỏi ngưỡng 100 USD/thùng do kỳ vọng Đảng Dân chủ giảm căng thẳng với Iran, giảm áp lực lạm phát và chi phí nhập khẩu của Việt Nam."
+      "title": "Giá dầu thô giảm 17% tuần, rơi khỏi 100 USD/thùng",
+      "impact": "→",
+      "note": "Giá dầu thô giảm 17% trong tuần 1-7/11, trượt khỏi ngưỡng 100 USD/thùng. Hạ thấp dầu giúp giảm áp lực lạm phát nhưng ảnh hưởng tiêu cực đến cổ phiếu năng lượng và chi phí sản xuất."
+    },
+    {
+      "title": "Nasdaq hồi phục nhưng cổ phiếu chip/AI vẫn rủi ro",
+      "impact": "→",
+      "note": "Nasdaq tăng 1,09% vào 6/11 sau khi giảm 5,5% ngày hôm trước. Lo ngại Đảng Dân chủ tăng cường kiểm soát AI khiến cổ phiếu chip bán tháo. Sự bất ổn thị trường Mỹ ảnh hưởng gián tiếp tâm lý nhà đầu tư Việt."
     }
   ]
 }
