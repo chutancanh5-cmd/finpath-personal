@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-07",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Ngành ngân hàng tăng vốn 16,7 tỷ cổ phiếu (Techcombank +50%), nhưng khối ngoại bán ròng 868 tỷ đồng xả hàng MBB (-653 tỷ), VCB (-588 tỷ), ACB (-315 tỷ). Xuất nhập khẩu vượt 1.000 tỷ USD với 6 nhóm hàng triển vọng 2027, mặc dù rủi ro logistics tăng (cước vận 4-6 nghìn USD). Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ sản xuất, Bách Hoá Xanh mở 1.800 cửa hàng vượt mục tiêu hướng tới 10 tỷ USD doanh thu 2030. Áp lực từ môi trường lãi suất khi vàng giảm 0,4% và USD tăng 0,7% sau báo cáo việc làm Mỹ mạnh.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ khối ngoại bán ròng 868 tỷ đồng (tuần 2-6/11), tập trung xả hàng cổ phiếu ngân hàng MBB, VCB, ACB. Đồng thời, 16,7 tỷ cổ phiếu ngân hàng được cấp phát trong năm (18% tăng) gây suy giảm giá trị cổ phiếu. Tuy nhiên, áp lực được hạn chế bởi tín hiệu tích cực từ Nasdaq hồi phục +1,09%, chiến thắng áp đảo của Đảng Dân chủ Mỹ giảm bớt rủi ro thương mại, chương trình giảm lãi suất từ Vietcombank (1,5-3%/năm), và triển vọng xuất khẩu 6 nhóm hàng năm 2027 vượt 1.000 tỷ USD.",
   "top": [
     {
-      "title": "Khối ngoại xả hàng mạnh ngân hàng lớn",
+      "title": "Khối ngoại bán ròng 868 tỷ đồng, xả hàng mạnh ngân hàng",
       "impact": "↓",
-      "note": "Tuần 2-6/11, khối ngoại bán ròng 868 tỷ đồng, MBB bán 653 tỷ, VCB 588 tỷ, ACB 315 tỷ. VN-Index giảm 16,26 điểm (-0,93%) xuống 1.725,36 điểm, độ rộng 212 mã giảm vs 101 mã tăng, dù cuối tuần có mua ròng 435,3 tỷ."
+      "note": "Tuần 2-6/11, khối ngoại bán ròng 868 tỷ đồng toàn thị trường, tập trung tại MBB (653 tỷ), VCB (588 tỷ), ACB (315 tỷ). VN-Index giảm 16,26 điểm (-0,93%) xuống 1.725,36 điểm, phản ánh áp lực bán mạnh từ nhà đầu tư nước ngoài."
     },
     {
-      "title": "Ngành ngân hàng tăng vốn 16,7 tỷ cổ phiếu",
-      "impact": "→",
-      "note": "Cổ phiếu lưu hành 28 ngân hàng tăng 16,7 tỷ (18%) so với cuối 2025, đạt 110 tỷ. Techcombank dẫn đầu tăng 3,54 tỷ cổ phiếu (50% từ 7,09 tỷ lên 10,63 tỷ), VPBank, MB chiếm gần 46% mức tăng ngành."
-    },
-    {
-      "title": "6 nhóm hàng xuất khẩu triển vọng 2027",
-      "impact": "↑",
-      "note": "Xuất nhập khẩu vượt 1.000 tỷ USD. Đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền dự báo bứt phá. Rủi ro: cước container 40 feet tới Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD do xung đột Nga-Ukraine, Trung Đông."
-    },
-    {
-      "title": "Vietcombank giảm lãi suất cho vay",
-      "impact": "↑",
-      "note": "Từ 19/10-31/12/2026, giảm lãi suất cho vay 1,5-2%/năm (một số lĩnh vực 3%/năm) so với mức hiện hành, hỗ trợ doanh nghiệp tiếp cận vốn sản xuất và phát triển lĩnh vực ưu tiên theo chỉ đạo NHNN."
-    },
-    {
-      "title": "Bách Hoá Xanh tăng tốc mở rộng chuỗi",
-      "impact": "↑",
-      "note": "Mở gần 1.800 cửa hàng năm 2026 vượt mục tiêu 1.000, thử nghiệm mô hình BHX mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030."
-    },
-    {
-      "title": "Vàng giảm, USD tăng mạnh",
+      "title": "Ngành ngân hàng tăng vốn 16,7 tỷ cổ phiếu, suy giảm hiệu suất",
       "impact": "↓",
-      "note": "Báo cáo việc làm Mỹ tháng 10 tạo 165.000 việc làm, thất nghiệp 4,1%, dẫn kỳ vọng Fed tăng lãi suất. Vàng giảm 0,4% xuống 4.072,1 USD/oz, Dollar Index tăng 0,7% lên 102,3 điểm, lợi suất T-bond 10 năm tăng >2 basis point lên 4.864%."
+      "note": "Cổ phiếu lưu hành của 28 ngân hàng tăng 16,7 tỷ đơn vị (18% so với cuối 2025), đạt gần 110 tỷ. Techcombank dẫn đầu tăng 3,54 tỷ cổ phiếu (50% từ 7,09 tỷ lên 10,63 tỷ), VPBank, MB chiếm gần 46% mức tăng toàn ngành."
+    },
+    {
+      "title": "Nasdaq hồi phục, cổ phiếu chip dẫn đầu sự phục hồi thị trường",
+      "impact": "↑",
+      "note": "Nasdaq tăng 1,09% lên 24.579,42 điểm, S&P 500 +0,31% lên 7.376,86 điểm sau phiên bán tháo thứ Năm (-5,5%). Nhà đầu tư bắt đáy cổ phiếu chip, tín hiệu hồi phục toàn cầu hỗ trợ tâm lý thị trường Việt Nam."
+    },
+    {
+      "title": "Đảng Dân chủ thắng áp đảo, giảm lo ngại thương mại Mỹ-Việt",
+      "impact": "↑",
+      "note": "Chiến thắng lịch sử của Đảng Dân chủ Mỹ ngày 3/11 không gia tăng rủi ro xuất khẩu Việt Nam sang Mỹ. VinaCapital xem đây là chất xúc tác tích cực cho VN-Index, dù tăng trưởng xuất khẩu 2027 vẫn sẽ chậm lại do các nguyên nhân khác."
+    },
+    {
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ sản xuất",
+      "impact": "↑",
+      "note": "Từ 19/10-31/12/2026, Vietcombank giảm lãi suất cho vay 1,5-2%/năm (một số lĩnh vực 3%/năm), hỗ trợ doanh nghiệp tiếp cận vốn sản xuất kinh doanh và phát triển lĩnh vực ưu tiên theo chỉ đạo Ngân hàng Nhà nước."
+    },
+    {
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm hàng triển vọng 2027",
+      "impact": "↑",
+      "note": "Toàn bộ xuất nhập khẩu vượt 1.000 tỷ USD, đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền dự báo bứt phá. Rủi ro: cước container 40 feet tới Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD do xung đột Nga-Ukraine, Trung Đông."
     }
   ]
 }
