@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-07",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Tuần 2-6/11, thị trường ghi nhận sự phân hóa từ áp lực bán ngoại mạnh ở đầu tuần (868 tỷ đồng) nhưng quay đầu mua tích cực cuối tuần (435 tỷ đồng), được hỗ trợ bởi bầu cử Mỹ thuận lợi cho Việt Nam, chính sách giảm lãi suất từ các ngân hàng hàng đầu, và triển vọng xuất khẩu mạnh vượt 1.000 tỷ USD với 6 nhóm hàng mới. Doanh nghiệp nội bộ như Bách Hóa Xanh tăng tốc mở rộng chuỗi vượt kế hoạch, trong khi lãi suất tiền gửi giảm tạo không gian cho lãi suất cho vay hạ thêm. Rủi ro chi phí logistics tăng cao do xung đột địa chính trị vẫn cần theo dõi.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường ghi nhận áp lực điều chỉnh từ khối ngoại bán ròng 868 tỷ đồng trong tuần nhưng quay lại mua ròng 435,3 tỷ đồng cuối tuần tạo tín hiệu lạc quan. Chiến thắng bầu cử Mỹ của Đảng Dân chủ được dự báo là chất xúc tác tích cực. Vietcombank và chính sách hỗ trợ giảm lãi suất cho vay 1,5-2%/năm nhằm khơi thông dòng vốn. Xuất khẩu vượt 1.000 tỷ USD với 6 nhóm hàng kỳ vọng bứt phá năm 2027. Bách Hóa Xanh tiếp tục mở rộng mạnh vượt kế hoạch, hướng tới 10 tỷ USD doanh thu năm 2030.",
   "top": [
     {
-      "title": "Khối ngoại giao dịch phân hóa: bán ròng 868 tỷ tuần đầu, quay đầu mua ròng cuối tuần",
-      "impact": "→",
-      "note": "Tuần 2-6/11, khối ngoại bán ròng 868 tỷ đồng tập trung vào MBB (653 tỷ), VCB (588 tỷ), ACB (315 tỷ), nhưng cuối tuần quay đầu mua ròng 435,3 tỷ đồng, tín hiệu quay hồi dòng vốn nước ngoài sau áp lực."
+      "title": "Ba ngân hàng là tâm điểm bán ròng khối ngoại",
+      "impact": "↓",
+      "note": "MBB bán ròng 653 tỷ đồng, VCB 588 tỷ đồng, ACB 315 tỷ đồng tuần 2-6/11; luỹ kế tuần bán ròng 868 tỷ đồng nhưng quay lại mua 435,3 tỷ đồng cuối tuần"
     },
     {
-      "title": "Bầu cử Mỹ: Chiến thắng Đảng Dân chủ chất xúc tác cho VN-Index",
-      "impact": "↑",
-      "note": "Chiến thắng áp đảo Đảng Dân chủ là chất xúc tác tích cực cho VN-Index, VinaCapital cho rằng không lo Trump can thiệp xuất khẩu Việt Nam nên bầu cử lần này củng cố triển vọng tích cực cho thị trường."
+      "title": "VN-Index tạo đáy tháng 10, chỉ nâng đỡ bởi Vingroup",
+      "impact": "↓",
+      "note": "VN-Index giảm 1,5% tháng 10 (VN30 giảm 2,7%, VNMidcap 1,8%); loại nhóm Vingroup sẽ giảm 2,6%, độ rộng âm (237 mã giảm/159 mã tăng)"
     },
     {
-      "title": "Bách Hóa Xanh ra mắt mô hình mini, mở 1.800 cửa hàng vượt kế hoạch",
+      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng áp đảo",
       "impact": "↑",
-      "note": "Bách Hóa Xanh mở 1.800 cửa hàng năm 2026 (vượt mục tiêu 1.000), sắp ra mắt mô hình mini song song với hiện hữu, hướng tới doanh thu 10 tỷ USD vào 2030, tăng tốc mở rộng chuỗi bán lẻ."
+      "note": "VinaCapital: chiến thắng lịch sử Đảng Dân chủ là chất xúc tác rõ rệt cho VN-Index, tác động kinh tế khiêm tốn nhưng thị trường tích cực hơn"
     },
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm hàng bứt phá năm 2027",
+      "title": "Vietcombank giảm lãi suất cho vay hỗ trợ",
       "impact": "↑",
-      "note": "Xuất nhập khẩu vượt 1.000 tỷ USD năm 2026, 6 nhóm hàng triển vọng năm 2027 gồm đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền; rủi ro cước vận chuyển container 40 feet Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD."
+      "note": "Chương trình 19/10-31/12/2026, giảm lãi suất 1,5-2%/năm; riêng một số lĩnh vực giảm tới 3%/năm để khơi thông dòng vốn"
     },
     {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-2%/năm từ 19/10 đến 31/12",
+      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm triển vọng",
       "impact": "↑",
-      "note": "Vietcombank triển khai chương trình tín dụng từ 19/10 đến 31/12, giảm lãi suất cho vay từ 1,5-2%/năm, một số lĩnh vực giảm tới 3%/năm, hỗ trợ doanh nghiệp và người dân tiếp cận vốn với chi phí hợp lý."
+      "note": "Đồ gỗ, dệt may, giày dép, linh kiện điện tử, ô tô, tàu thuyền kỳ vọng bứt phá 2027; cước vận tăng 1.500-2.000 lên 4.000-6.000 USD container 40 feet Trung Đông"
     },
     {
-      "title": "Lãi suất đạt đỉnh, VN-Index dự báo tạo đáy tháng 11 và tăng Q1 2027",
+      "title": "Bách Hóa Xanh vượt kế hoạch, sắp ra mắt mini",
       "impact": "↑",
-      "note": "Lãi suất tiền gửi giảm phổ biến 0,5 điểm phần trăm/năm (ngân hàng nhà nước) và 0,5-0,7 (ngân hàng cổ phần), dự báo VN-Index tạo đáy tháng 11 và tăng bình quân 19% từ đáy tháng 11 đến vùng đỉnh Q1 2027."
+      "note": "Đã mở 1.800 cửa hàng vượt mục tiêu 1.000 năm nay; sắp nhân rộng mô hình mini hướng tới doanh thu 10 tỷ USD 2030"
     }
   ]
 }
