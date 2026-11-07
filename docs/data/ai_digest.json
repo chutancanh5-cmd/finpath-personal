@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-07",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng GDP 2027 từ 10% trở lên, tạo động lực cho nền kinh tế năm bứt phá. Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ doanh nghiệp tiếp cận vốn với chi phí hợp lý. Bách Hoá Xanh mở 1.800 cửa hàng vượt mục tiêu, hướng tới 10 tỷ USD doanh thu 2030. Bầu cử Mỹ kết thúc với chiến thắng áp đảo của Đảng Dân chủ, VinaCapital đánh giá là chất xúc tác tích cực cho VN-Index mặc dù áp lực tạm thời trên cổ phiếu AI toàn cầu.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội phê duyệt mục tiêu tăng trưởng GDP 2027 từ 10% trở lên; Vietcombank giảm lãi suất 1,5-3%/năm hỗ trợ doanh nghiệp; ngân hàng phát hành 16,7 tỷ cổ phiếu tăng vốn. Tuy nhiên, bầu cử Mỹ gây biến động lớn (Nasdaq bán tháo 5,5%), khối ngoại bán ròng 868 tỷ đồng, lạm phát và lãi suất toàn cầu vẫn ở mức cao từ xung đột Vùng Vịnh kéo dài.",
   "top": [
     {
-      "title": "Quốc hội quyết nghị mục tiêu GDP 2027 tăng từ 10% trở lên",
+      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Quốc hội thông qua với 467/469 đại biểu tán thành; mục tiêu tăng trưởng GDP từ 10% trở lên, GDP bình quân đầu người khoảng 6.100 USD; năm 2027 xác định là năm \"tăng tốc, bứt phá\" để thực hiện Nghị quyết Đại hội XIV."
+      "note": "Quốc hội 467/469 đại biểu tán thành Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027; mục tiêu tăng trưởng GDP từ 10% trở lên, GDP bình quân đầu người khoảng 6.100 USD; xác định 2027 là năm \"tăng tốc, bứt phá\" thực hiện Nghị quyết Đại hội XIV."
     },
     {
-      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm hỗ trợ doanh nghiệp",
+      "title": "Vietcombank giảm lãi suất 1,5-3%/năm hỗ trợ sản xuất kinh doanh",
       "impact": "↑",
-      "note": "Chương trình triển khai từ 19/10-31/12/2026: giảm lãi suất 1,5-2%/năm cho sản xuất kinh doanh; một số lĩnh vực ưu tiên giảm tới 3%/năm so với mức hiện hành để khơi thông dòng vốn."
+      "note": "Từ 19/10-31/12/2026, Vietcombank giảm lãi suất cho vay 1,5-2%/năm; một số lĩnh vực ưu tiên lãi suất ngắn hạn giảm tới 3%/năm so với mức hiện hành nhằm khơi thông dòng vốn."
     },
     {
-      "title": "VinaCapital: Chiến thắng Đảng Dân chủ là chất xúc tác tích cực cho VN-Index",
-      "impact": "↑",
-      "note": "Đảng Dân chủ thắng áp đảo ở bầu cử giữa nhiệm kỳ Mỹ, kiểm soát cả Thượng viện, Hạ viện và nhiều vị trí thống đốc; VinaCapital đánh giá tác động đối với thị trường chứng khoán VN-Index có thể lớn hơn đáng kể so với tác động kinh tế."
-    },
-    {
-      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng tới 10 tỷ USD doanh thu 2030",
-      "impact": "↑",
-      "note": "Năm 2026 đã mở gần 1.800 cửa hàng mới (vượt mục tiêu 1.000); thử nghiệm mô hình cửa hàng \"mini\" với tín hiệu khả quan; kết hợp nhiều định dạng để hướng tới mục tiêu doanh thu 10 tỷ USD vào 2030."
-    },
-    {
-      "title": "Bầu cử Mỹ làm dầu giảm 17%, Nasdaq điều chỉnh trước khi hồi phục",
-      "impact": "↓",
-      "note": "Đảng Dân chủ thắng áp đảo gây lo ngại kiểm soát AI; Nasdaq -5,5%, S&P 500 -4,4%, Dow -3,4% ngày 5/11 (phiên giảm mạnh nhất kể từ tháng 4/2025); giá dầu thô giảm 17% cả tuần, trượt khỏi 100 USD/thùng."
-    },
-    {
-      "title": "Gần 17 tỷ cổ phiếu ngân hàng được đưa ra thị trường từ đầu năm",
+      "title": "Bầu cử Mỹ - Dân chủ thắng, dầu rơi dưới 100 USD/thùng, vàng phục hồi",
       "impact": "→",
-      "note": "Tổng cổ phiếu lưu hành 28 ngân hàng tăng 16,7 tỷ đơn vị (tăng 18% so với cuối 2025); Techcombank tăng 50% từ 7,09 tỷ lên 10,63 tỷ cổ phiếu; VPBank, MB chiếm gần 46% mức tăng toàn ngành."
+      "note": "Đảng Dân chủ giành kiểm soát Thượng viện, Hạ viện, nhiều vị trí thống đốc; giá dầu thô giảm khỏi ngưỡng 100 USD/thùng vì kỳ vọng ít leo thang xung đột Iran; lạm phát và lãi suất toàn cầu vẫn ở mức cao do chiến tranh Vùng Vịnh kéo dài hơn 8 tháng."
+    },
+    {
+      "title": "Khối ngoại bán ròng 868 tỷ đồng, tập trung ngân hàng tuần 2-6/11",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 868 tỷ đồng luỹ kế 5 phiên; MBB là tâm điểm bán ròng mạnh nhất (653 tỷ đồng), theo sau VCB (588 tỷ đồng), ACB (315 tỷ đồng); tín hiệu tích cực cuối tuần khi ngoại quay lại mua ròng."
+    },
+    {
+      "title": "Gần 17 tỷ cổ phiếu ngân hàng phát hành từ đầu năm, TCB tăng 50%",
+      "impact": "↑",
+      "note": "28 ngân hàng phát hành 16,7 tỷ cổ phiếu (tăng 18% so với cuối 2025); TCB, VPBank, MB chiếm 46% mức tăng; riêng TCB tăng từ 7,09 tỷ lên 10,63 tỷ đơn vị thông qua trả cổ tức và phát hành tăng vốn điều lệ."
+    },
+    {
+      "title": "Bách Hoá Xanh thử nghiệm mô hình mini, hướng tới 10 tỷ USD doanh thu 2030",
+      "impact": "↑",
+      "note": "BHX đã mở gần 1.800 cửa hàng từ đầu năm (vượt mục tiêu 1.000); thử nghiệm mô hình cửa hàng mini với tín hiệu khả quan; kết hợp nhiều định dạng để hướng tới mục tiêu doanh thu 10 tỷ USD vào 2030."
     }
   ]
 }
