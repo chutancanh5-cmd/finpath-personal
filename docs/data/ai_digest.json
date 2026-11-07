@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-07",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội phê duyệt mục tiêu tăng trưởng kinh tế 10% năm 2027 là tín hiệu tích cực cho doanh nghiệp, nhưng thị trường chứng khoán vẫn suy yếu với VN-Index giảm liên tiếp và vốn hóa HOSE giảm 1,5% trong tháng 10. Chiến thắng của Đảng Dân chủ tại bầu cử Mỹ được kỳ vọng tạo chất xúc tác tích cực cho thị trường, song giá dầu giảm 17% cả tuần phản ánh rủi ro từ xung đột quốc tế. Các doanh nghiệp như Bách Hoá Xanh vẫn đẩy mạnh mở rộng, trong khi ngành ngân hàng tiếp tục phát hành cổ phiếu lớn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 10% trở lên năm 2027 (467/469 đại biểu tán thành), phát tín hiệu quyết tâm bứt phá kinh tế. Bầu cử Mỹ với chiến thắng áp đảo của Đảng Dân chủ giảm lo ngại chiến tranh thương mại, tích cực cho xuất khẩu Việt Nam. Giá dầu xuống dưới 100 USD/thùng, giảm áp lực lạm phát và chi phí kinh doanh. Tuy vậy, vốn hóa HOSE giảm 1,5% tháng 10 và giá vàng biến động khó lường tiếp tục tạo rủi ro ngắn hạn cho đầu tư.",
   "top": [
     {
-      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027",
       "impact": "↑",
-      "note": "Quốc hội với 467/469 đại biểu tán thành thông qua Nghị quyết phấn đấu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với giữ ổn định vĩ mô và kiểm soát lạm phát, tạo định hướng chiến lược tích cực cho doanh nghiệp Việt Nam."
+      "note": "Sáng 7/11, Quốc hội với 467/469 đại biểu tán thành thông qua Nghị quyết phấn đấu tăng trưởng kinh tế từ 10% trở lên gắn với giữ ổn định vĩ mô, kiểm soát lạm phát. Tín hiệu tích cực này hỗ trợ tâm lý nhà đầu tư và kỳ vọng tăng tốc kinh tế."
     },
     {
-      "title": "VN-Index giảm 0,93% tuần thứ 2 liên tiếp, vốn hóa HOSE suy yếu",
+      "title": "Bầu cử Mỹ: Đảng Dân chủ kiểm soát cả hai viện Quốc hội",
+      "impact": "↑",
+      "note": "Ngày 3/11, Đảng Dân chủ giành chiến thắng áp đảo, kiểm soát cả Thượng viện và Hạ viện. VinaCapital kỳ vọng đây là chất xúc tác tích cực cho VN-Index; giảm lo ngại chiến tranh thương mại, hỗ trợ triển vọng xuất khẩu Việt Nam sang Mỹ."
+    },
+    {
+      "title": "Giá dầu thô rơi khỏi mốc 100 USD/thùng",
+      "impact": "↑",
+      "note": "Giá dầu giảm 17% cả tuần (1-7/11), xuống dưới 100 USD/thùng do kỳ vọng giảm escalation xung đột Mỹ-Iran. Giảm giá dầu hỗ trợ kiểm soát lạm phát, giảm chi phí năng lượng và logistics cho doanh nghiệp."
+    },
+    {
+      "title": "Vốn hóa HOSE giảm 1,5%, câu lạc bộ tỷ USD suy yếu",
       "impact": "↓",
-      "note": "VN-Index giảm 16,26 điểm xuống 1.725,36 điểm trong tuần 2-6/11, là tuần giảm thứ 2 liên tiếp; vốn hóa cổ phiếu HOSE giảm 1,5% xuống 8,42 triệu tỷ đồng, câu lạc bộ tỷ USD giảm 2 doanh nghiệp, phản ánh tâm lý nhà đầu tư thận trọng."
+      "note": "Tính đến 30/10, vốn hóa cổ phiếu HOSE đạt 8,42 triệu tỷ đồng, giảm 1,5% so với tháng trước. Số doanh nghiệp có vốn hóa > 1 tỷ USD giảm từ 53 còn 51 (VIC, VHM, VCB, BID là top 4), phản ánh sự suy yếu cơ bản."
     },
     {
-      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng, tín hiệu tích cực cho VN-Index",
-      "impact": "↑",
-      "note": "Đảng Dân chủ giành quyền kiểm soát Thượng viện và Hạ viện ngày 3/11, VinaCapital kỳ vọng đây là chất xúc tác tích cực cho VN-Index; nguy cơ leo thang xung đột Mỹ-Iran giảm, kỳ vọng lạm phát và lãi suất sẽ cải thiện trong những tháng tới."
-    },
-    {
-      "title": "Ngành ngân hàng phát hành 16,7 tỷ cổ phiếu, TCB tăng 50%",
+      "title": "Ngân hàng phát hành 16,7 tỷ cổ phiếu, Techcombank tăng 50%",
       "impact": "→",
-      "note": "28 ngân hàng phát hành thêm 16,7 tỷ cổ phiếu (tăng 18%) từ đầu năm, trong đó Techcombank, VPBank, MB chiếm gần 50%; riêng TCB tăng từ 7,09 tỷ lên 10,63 tỷ cổ phiếu (50%), chủ yếu qua cổ tức bằng cổ phiếu và tăng vốn điều lệ."
+      "note": "28 ngân hàng phát hành thêm 16,7 tỷ cổ phiếu từ đầu năm (tăng 18% vs cuối 2025), Techcombank/VPBank/MB chiếm 46%. TCB tăng từ 7,09 tỷ lên 10,63 tỷ cổ phiếu (+50%), chủ yếu qua cổ tức và tăng vốn, cho thấy lạc quan nhưng có rủi ro giãn loãng."
     },
     {
-      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng doanh thu 10 tỷ USD năm 2030",
-      "impact": "↑",
-      "note": "Bách Hoá Xanh đã mở gần 1.800 cửa hàng vượt kế hoạch 1.000 cửa hàng đầu năm 2026, thử nghiệm mô hình mini để tăng tốc đạt mục tiêu doanh thu 10 tỷ USD năm 2030, phản ánh sức khỏe của bán lẻ hiện đại."
-    },
-    {
-      "title": "Giá dầu giảm 17% cả tuần, vàng biến động",
-      "impact": "↓",
-      "note": "Giá dầu thô giảm 17% cả tuần, trượt khỏi ngưỡng 100 USD/thùng do kỳ vọng xung đột Mỹ-Iran dịu xuống; giá vàng thế giới 4.065 USD/ounce biến động khó lường, vàng miếng SJC trong nước giảm 1,5 triệu đồng/lượng ngày 6/11, áp lực lên xuất nhập khẩu."
+      "title": "Giá vàng biến động mạnh, rơi 1,5-1,8 triệu đồng sau 4 phiên tăng",
+      "impact": "→",
+      "note": "Vàng tăng 1 triệu đồng/lượng tuần 2-7/11 (chấm dứt 3 tuần giảm), nhưng sáng 6/11 rơi 1,5-1,8 triệu đồng/lượng. Hiện mức 138-141 triệu đồng/lượng (thế giới 4.065 USD/ounce). Biến động khó lường tạo không chắc chắn cho nhà đầu tư."
     }
   ]
 }
