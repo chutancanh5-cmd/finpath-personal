@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận áp lực điều chỉnh từ khối ngoại bán ròng 868 tỷ đồng trong tuần nhưng quay lại mua ròng 435,3 tỷ đồng cuối tuần tạo tín hiệu lạc quan. Chiến thắng bầu cử Mỹ của Đảng Dân chủ được dự báo là chất xúc tác tích cực. Vietcombank và chính sách hỗ trợ giảm lãi suất cho vay 1,5-2%/năm nhằm khơi thông dòng vốn. Xuất khẩu vượt 1.000 tỷ USD với 6 nhóm hàng kỳ vọng bứt phá năm 2027. Bách Hóa Xanh tiếp tục mở rộng mạnh vượt kế hoạch, hướng tới 10 tỷ USD doanh thu năm 2030.",
+  "summary_vi": "Tuần đầu tháng 11, VN-Index giảm 0,93% khi khối ngoại bán ròng 868 tỷ đồng, nhóm ngân hàng chịu áp lực lớn (MBB, VCB, ACB). Tuy nhiên, cuối tuần khối ngoại quay lại mua ròng 435,3 tỷ đồng, báo hiệu tín hiệu hồi phục. Bầu cử Mỹ với chiến thắng Đảng Dân chủ giảm rủi ro Trump cho xuất khẩu Việt Nam. Các chính sách hỗ trợ như giảm lãi suất từ Vietcombank (1,5-3%/năm) và triển vọng 6 nhóm hàng xuất khẩu năm 2027 là điểm sáng, tuy nhiên rủi ro logistics và margin cao kỷ lục vẫn là mối lo.",
   "top": [
     {
-      "title": "Ba ngân hàng là tâm điểm bán ròng khối ngoại",
+      "title": "Khối ngoại bán ròng 868 tỷ, ba cổ phiếu ngân hàng tâm điểm",
       "impact": "↓",
-      "note": "MBB bán ròng 653 tỷ đồng, VCB 588 tỷ đồng, ACB 315 tỷ đồng tuần 2-6/11; luỹ kế tuần bán ròng 868 tỷ đồng nhưng quay lại mua 435,3 tỷ đồng cuối tuần"
+      "note": "Tuần 2-6/11, khối ngoại bán ròng 868 tỷ đồng, MBB dẫn đầu với 653 tỷ, VCB 588 tỷ, ACB 315 tỷ. VN-Index giảm 16,26 điểm (-0,93%), VN30 giảm 2,7%, VNMidcap giảm 1,8%."
     },
     {
-      "title": "VN-Index tạo đáy tháng 10, chỉ nâng đỡ bởi Vingroup",
-      "impact": "↓",
-      "note": "VN-Index giảm 1,5% tháng 10 (VN30 giảm 2,7%, VNMidcap 1,8%); loại nhóm Vingroup sẽ giảm 2,6%, độ rộng âm (237 mã giảm/159 mã tăng)"
-    },
-    {
-      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng áp đảo",
+      "title": "Khối ngoại mua ròng 435,3 tỷ cuối tuần",
       "impact": "↑",
-      "note": "VinaCapital: chiến thắng lịch sử Đảng Dân chủ là chất xúc tác rõ rệt cho VN-Index, tác động kinh tế khiêm tốn nhưng thị trường tích cực hơn"
+      "note": "Sáng 7/11, khối ngoại bất ngờ quay lại mua ròng 435,3 tỷ đồng (khớp lệnh 170,2 tỷ), tín hiệu tích cực sau phiên bán ròng nhiều ngày liên tiếp."
     },
     {
-      "title": "Vietcombank giảm lãi suất cho vay hỗ trợ",
+      "title": "Bầu cử Mỹ: Đảng Dân chủ thắng áp đảo, chất xúc tác cho VN-Index",
       "impact": "↑",
-      "note": "Chương trình 19/10-31/12/2026, giảm lãi suất 1,5-2%/năm; riêng một số lĩnh vực giảm tới 3%/năm để khơi thông dòng vốn"
+      "note": "Chiến thắng lịch sử của Đảng Dân chủ giảm rủi ro Trump can thiệp xuất khẩu Việt Nam. VinaCapital cho rằng tác động đối với thị trường chứng khoán có thể lớn hơn tác động kinh tế."
     },
     {
-      "title": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm triển vọng",
+      "title": "Vietcombank giảm lãi suất cho vay 1,5-3%/năm",
       "impact": "↑",
-      "note": "Đồ gỗ, dệt may, giày dép, linh kiện điện tử, ô tô, tàu thuyền kỳ vọng bứt phá 2027; cước vận tăng 1.500-2.000 lên 4.000-6.000 USD container 40 feet Trung Đông"
+      "note": "Từ 19/10-31/12/2026, Vietcombank triển khai chương trình giảm lãi suất cho vay từ 1,5-2%/năm, một số lĩnh vực giảm tới 3%/năm để thúc đẩy sản xuất, kinh doanh."
     },
     {
-      "title": "Bách Hóa Xanh vượt kế hoạch, sắp ra mắt mini",
+      "title": "6 nhóm hàng xuất khẩu triển vọng 2027, rủi ro logistics tăng",
+      "impact": "→",
+      "note": "Xuất nhập khẩu vượt 1.000 tỷ USD, 6 nhóm hàng triển vọng 2027 (đồ gỗ, dệt may, giày dép, linh kiện điện tử, linh kiện ô tô, tàu thuyền). Tuy nhiên, cước vận chuyển container 40 feet đi Trung Đông tăng từ 1.500-2.000 USD lên 4.000-6.000 USD."
+    },
+    {
+      "title": "VN-Index dự báo tạo đáy tháng 11, hồi phục 19% Q1/2027",
       "impact": "↑",
-      "note": "Đã mở 1.800 cửa hàng vượt mục tiêu 1.000 năm nay; sắp nhân rộng mô hình mini hướng tới doanh thu 10 tỷ USD 2030"
+      "note": "VN-Index tháng 10 giảm 2,4% (loại Vingroup giảm 8,9%). Dự báo nhịp hồi phục từ tháng 11 đến quý 1/2027 tăng bình quân 19%, tuy nhiên dư nợ margin ở mức cao kỷ lục là mối lo."
     }
   ]
 }
