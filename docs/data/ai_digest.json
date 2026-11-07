@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-07",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán chịu áp lực bán mạnh trong tuần 2-6/11 với VN-Index giảm 16 điểm, vốn hóa HOSE giảm 1,5%; tuy nhiên các tín hiệu tích cực từ Quốc hội (giao mục tiêu tăng trưởng 10% năm 2027 cho 30 tỉnh thành), NHNN (hiện đại hóa ngân hàng, tăng tiếp cận vốn), và Bách Hoá Xanh (mở rộng gần 1.800 cửa hàng vượt kế hoạch) hỗ trợ triển vọng kinh tế trung hạn. Toàn cảnh vĩ mô cân bằng giữa áp lực ngắn hạn và cơ hội dài hạn.",
+  "summary_vi": "Thị trường tuần qua chịu áp lực với VN-Index giảm 16 điểm, vốn hóa HOSE suy yếu (giảm 1,5%), nhưng Quốc hội thông qua kế hoạch phát triển 2027 với mục tiêu tăng trưởng từ 10% trở lên là tín hiệu tích cực. Bách Hoá Xanh mở cửa vượt kế hoạch (1.800 thay vì 1.000) hướng tới 10 tỷ USD doanh thu. Giá vàng bật tăng trở lại trong tuần sau 3 tuần giảm, cho thấy nhà đầu tư chuyển dịch sang tài sản an toàn giữa bất ổn định thị trường.",
   "top": [
     {
-      "title": "VN-Index giảm 16 điểm, tất cả ngành giảm điểm trong tuần 2-6/11",
+      "title": "Quốc hội thông qua kế hoạch phát triển 2027 tăng trưởng từ 10%",
+      "impact": "↑",
+      "note": "Quốc hội ngày 7/11 thông qua Nghị quyết với 467/469 đại biểu tán thành, giao chỉ tiêu tăng trưởng từ 10% trở lên cho 30 tỉnh thành năm 2027. Hải Phòng cao nhất 13%, Hà Nội 11,1%, TPHCM 10,4%. Quyết tâm chính sách hỗ trợ tăng trưởng tạo nền tảng lạc quan cho nền kinh tế."
+    },
+    {
+      "title": "VN-Index giảm 16 điểm tuần 02-06/11, toàn bộ ngành suy yếu",
       "impact": "↓",
-      "note": "VN-Index kết tuần ở 1.725,36 điểm (giảm hơn 16 điểm), tất cả nhóm ngành đều giảm với nguyên vật liệu dẫn đầu -4,07%, công nghệ thông tin -3,7%, năng lượng -3,7%; VIC lấy đi 10 điểm, VCB 4,5 điểm, giá dầu rơi khỏi 100 USD/thùng."
+      "note": "Tuần 02-06/11, VN-Index giảm hơn 16 điểm về 1.725,36 điểm. Toàn bộ các ngành đều giảm: nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%. VIC lấy đi hơn 10 điểm chỉ số, VCB hơn 4,5 điểm. Áp lực bán mạnh toàn thị trường."
     },
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng tới 10 tỷ USD doanh thu",
       "impact": "↑",
-      "note": "7/11, Nghị quyết được 467/469 đại biểu tán thành, giao 30 tỉnh thành chỉ tiêu tăng trưởng từ 10% trở lên; Hải Phòng 13%, Quảng Ninh 12%, Hà Nội 11,1%, TPHCM 10,4%; năm 2027 xác định là năm 'tăng tốc, bứt phá'."
-    },
-    {
-      "title": "NHNN ký Quyết định hiện đại hóa hệ thống ngân hàng",
-      "impact": "↑",
-      "note": "1/11, Thống đốc ký Quyết định 2409/QĐ-NHNN Kế hoạch hiện đại hóa hệ thống, xử lý TCTD yếu kém, tăng khả năng tiếp cận vốn cho doanh nghiệp nhỏ và vừa, nâng cao sức chống chịu và an toàn hệ thống ngân hàng."
-    },
-    {
-      "title": "Bách Hoá Xanh mở rộng vượt kế hoạch, chuẩn bị ra mắt mô hình mini",
-      "impact": "↑",
-      "note": "BHX đã mở gần 1.800 cửa hàng vượt mục tiêu 1.000 cửa hàng năm 2026; đang thử nghiệm mô hình mini với tín hiệu khả quan, kết hợp nhiều định dạng nhằm đạt doanh thu 10 tỷ USD vào 2030."
+      "note": "Bách Hoá Xanh vượt kế hoạch khi mở được gần 1.800 cửa hàng (so với mục tiêu 1.000) năm 2026. Công ty chuẩn bị ra mắt mô hình mini song song với mô hình hiện hữu, nhằm hướng tới doanh thu 10 tỷ USD vào 2030. Tín hiệu tích cực cho ngành bán lẻ."
     },
     {
       "title": "Vốn hóa HOSE giảm 1,5%, câu lạc bộ tỷ USD mất 2 doanh nghiệp",
       "impact": "↓",
-      "note": "Đến 30/10: vốn hóa HOSE 8,42 triệu tỷ đồng (giảm 1,5%), VN-Index 1.741,62 điểm (-1,53%), VNAllshare -2,44%, VN30 -2,72%; câu lạc bộ vốn hóa >1 tỷ USD giảm từ 51 xuống 49 doanh nghiệp."
+      "note": "Tính đến 30/10, vốn hóa cổ phiếu HOSE giảm 1,5% so với tháng trước, còn 8,42 triệu tỷ đồng. Câu lạc bộ doanh nghiệp vốn hóa hơn 1 tỷ USD giảm từ 53 xuống 51 doanh nghiệp. Vốn hóa thị trường suy yếu giữa bất ổn."
     },
     {
-      "title": "Giá vàng bật tăng tuần 2-7/11 sau 3 tuần giảm liên tiếp",
+      "title": "Giá vàng tăng 1 triệu đồng/lượng trong tuần sau 3 tuần giảm",
       "impact": "↑",
-      "note": "Tuần 2-7/11, giá vàng miếng SJC tăng 1 triệu đồng/lượng lên 138-141 triệu đồng, vàng nhẫn tăng 1,5-3,7 triệu đồng/lượng; chấm dứt 3 tuần giảm liên tiếp, phản ánh nhịp phục hồi sau bầu cử Mỹ."
+      "note": "Tuần 2-7/11, giá vàng miếng SJC tăng phổ biến 1 triệu đồng/lượng (từ 137-140 triệu lên 138-141 triệu đồng), chấm dứt chuỗi 3 tuần giảm. Vàng nhẫn tăng 1,5-3,7 triệu đồng/lượng tùy thương hiệu. Nhà đầu tư chuyển dịch sang tài sản an toàn."
+    },
+    {
+      "title": "Lãi suất ngân hàng huy động 6-7%/năm, VPBank 7,4% cao nhất",
+      "impact": "→",
+      "note": "Lãi suất huy động trực tuyến tại 35 ngân hàng niêm yết kỳ hạn 18 tháng từ 6-7%/năm. VPBank dẫn đầu 7,4%/năm, MBV, Sacombank, VCBNeo cùng 7%/năm, ngân hàng lớn (Agribank, BIDV, Vietcombank, VietinBank) 6,8%/năm. Lãi suất ổn định, phản ánh chính sách tiền tệ ổn định."
     }
   ]
 }
