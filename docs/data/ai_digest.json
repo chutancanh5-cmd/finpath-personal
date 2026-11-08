@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội 7/11 giao mục tiêu tăng trưởng 10%+ năm 2027 (467/469 đại biểu tán thành), tạo động lực chính sách tích cực. Thị trường chứng khoán xuất hiện tín hiệu tạo đáy ngắn hạn, lãi suất huy động giảm 50-70 điểm cơ bản, lạm phát hạ nhiệt do miễn thuế xăng, giảm giá điện, dầu thế giới giảm hơn 15%. Tuy nhiên VN-Index tuần vừa rồi giảm 16 điểm toàn ngành, áp lực lãi suất toàn cầu từ cạnh tranh vốn AI và chính sách Mỹ vẫn ảnh hưởng. Kinh tế cân bằng giữa tín hiệu chính sách khởi sắc và thách thức thị trường tài chính.",
+  "summary_vi": "Quốc hội 7/11 thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên (467/469 tán thành), 30/34 tỉnh được giao 2 con số với Hải Phòng 13%, Hà Nội 11,1%, TP.HCM 10,4%. SSI kỳ vọng VN-Index hình thành đáy tháng 11 khi lãi suất huy động giảm 50-70 điểm cơ bản, lạm phát hạ nhiệt. Tuy nhiên, tuần vừa rồi VN-Index giảm hơn 16 điểm toàn ngành do áp lực bất động sản, bầu cử Mỹ 3/11 gây lo ngại chứng khoán AI/năng lượng, dầu xuống dưới 100 USD/thùng.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10%+ năm 2027",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10%+",
       "impact": "↑",
-      "note": "Quốc hội 7/11 thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027 với 467/469 đại biểu tán thành, giao chỉ tiêu tăng trưởng 10% trở lên. Hải Phòng 13%, Quảng Ninh 12%, Hà Nội 11,1%, Đà Nẵng 11%, TP.HCM 10,4%. Cả 9 thành phố trực thuộc Trung ương được giao 2 con số."
+      "note": "Quốc hội 7/11 thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027 với 467/469 đại biểu tán thành, giao chỉ tiêu tăng trưởng cứng từ 10% trở lên, kết hợp ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
     },
     {
-      "title": "Lãi suất giảm, SSI gọi tín hiệu tạo đáy tháng 11",
+      "title": "30/34 tỉnh thành được giao mục tiêu 2 con số",
       "impact": "↑",
-      "note": "SSI Research nhận định thị trường có khả năng hình thành đáy ngắn hạn trong tháng 11 sau 2 tháng điều chỉnh. Lãi suất huy động ngân hàng giảm 50-70 điểm cơ bản xuống 6,8-7%/năm, lạm phát hạ nhiệt nhờ miễn thuế xăng, giảm giá điện 2%, giá dầu thế giới giảm hơn 15%."
+      "note": "Hải Phòng 13% (cao nhất), Quảng Ninh 12%, Hà Nội 11,1%, Đà Nẵng 11%, Đồng Nai 11%, TP.HCM 10,4%, Bắc Ninh 10,5%, Huế 10%, Cần Thơ 10,6%. Chỉ 4 tỉnh dưới 10%: Sơn La 9,3%, Quảng Trị 9%, Quảng Ngãi 9%."
     },
     {
-      "title": "VN-Index giảm 16 điểm, toàn bộ ngành lùi",
+      "title": "SSI kỳ vọng VN-Index hình thành đáy tháng 11",
+      "impact": "↑",
+      "note": "SSI Research nhận định thị trường có khả năng hình thành đáy ngắn hạn trong tháng 11 sau 2 tháng điều chỉnh. Lãi suất huy động giảm 50-70 điểm cơ bản xuống 6,8-7%/năm, lạm phát hạ nhiệt nhờ miễn thuế xăng, giảm giá điện 2%, dầu thế giới giảm >15%. Theo thống kê 4 năm, sau vùng đáy tăng bình quân 19% lên đỉnh quý 1 năm kế tiếp."
+    },
+    {
+      "title": "VN-Index tuần 02-06/11 giảm hơn 16 điểm",
       "impact": "↓",
-      "note": "Tuần 02-06/11, VN-Index giảm hơn 16 điểm xuống 1.725,36 điểm. Toàn bộ 10 ngành giảm: nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VIC lấy đi hơn 10 điểm, VCB hơn 4,5 điểm, BID gần 2,3 điểm."
+      "note": "VN-Index giảm hơn 16 điểm xuống 1.725,36 điểm. Toàn bộ 11 ngành giảm: nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VIC lấy đi >10 điểm, VCB >4,5 điểm, BID ~2,3 điểm, VHM >1,5 điểm, GAS >1,9 điểm."
     },
     {
-      "title": "Cạnh tranh vốn AI đẩy áp lực lãi suất toàn cầu",
+      "title": "Bầu cử Mỹ 3/11: Đảng Dân chủ giành kiểm soát lưỡng viện",
       "impact": "↓",
-      "note": "Cạnh tranh vốn cho AI, nhu cầu vay chính phủ tăng cao, bầu cử Mỹ 3/11 thay đổi chính sách kinh tế, lợi suất trái phiếu Nhật-Mỹ tăng. Chiến tranh Iran kéo dài 8+ tháng, USD và cổ phiếu công nghệ/AI mất giá mạnh, dầu thế giới rơi dưới 100 USD/thùng."
+      "note": "Đảng Dân chủ kiểm soát cả Thượng viện và Hạ viện từ phe Cộng hòa. Lo ngại tăng kiểm soát AI đẩy cổ phiếu công nghệ/AI mất giá mạnh, USD cũng mất giá. Dầu Brent giảm khỏi 100 USD/thùng khi kỳ vọng chính quyền Trump khó leo thang chiến tranh Iran."
     },
     {
-      "title": "Giá vàng miếng tăng 1 triệu đồng/lượng",
+      "title": "Yếu tố sức ép lãi suất toàn cầu 2027",
       "impact": "→",
-      "note": "Tuần 02-07/11, giá vàng miếng SJC tăng 1 triệu đồng/lượng lên 138-141 triệu đồng/lượng, vàng nhẫn 4 số 9 tăng 1,5-3,7 triệu đồng/lượng, chấm dứt 3 tuần giảm liên tiếp."
-    },
-    {
-      "title": "Bách Hoá Xanh vượt kế hoạch, nhân rộng mô hình mini",
-      "impact": "↑",
-      "note": "Bách Hoá Xanh đã mở gần 1.800 cửa hàng năm 2026, vượt kế hoạch 1.000 cửa hàng. Công ty thử nghiệm mô hình mini với tín hiệu khả quan, sẽ nhân rộng song song mô hình hiện hữu để hướng tới doanh thu 10 tỷ USD năm 2030."
+      "note": "Cạnh tranh vốn AI khổng lồ gia tăng sức ép lãi suất. Bầu cử Mỹ 3/11 có thể thay đổi chính sách: nếu giảm đầu tư AI, nhu cầu vốn AI suy giảm, dịu sức ép. Tuy nhiên nhu cầu vay chính phủ tăng (EU phát hành trái phiếu, lợi suất Nhật-Mỹ tăng) tiếp tục đẩy chi phí vốn quốc tế lên."
     }
   ]
 }
