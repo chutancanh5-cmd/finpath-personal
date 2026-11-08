@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-09",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam bước vào giai đoạn khả quan với loạt tín hiệu vĩ mô tích cực: GDP bình quân đầu người sắp vượt Indonesia, lãi suất huy động dự báo giảm 20-30 bps, và Quốc hội phê chuẩn mục tiêu tăng trưởng 10%+ năm 2027. Dòng tiền thị trường bắt đầu chọn lọc, ưu tiên các ngành ngân hàng, bán lẻ, thép có triển vọng lợi nhuận mạnh. Tuy vậy, thị trường vẫn chịu áp lực ngắn hạn từ nhịp điều chỉnh rộng rãi và rủi ro lãi suất toàn cầu năm 2027.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên, tín hiệu chính sách rõ ràng hỗ trợ tăng trưởng. IMF dự báo GDP Việt Nam 2026 hơn 542 tỷ USD, GDP bình quân đầu người 5.259 USD (+8,9%), vượt Indonesia xếp thứ 5 Đông Nam Á. Lợi nhuận ngân hàng tăng khoảng 20% quý III, kỳ vọng dẫn dắt thị trường. Tuy vậy VN-Index vẫn điều chỉnh mạnh giảm hơn 16 điểm tuần qua, tất cả nhóm ngành giảm, áp lực từ lãi suất toàn cầu tiếp tục đe dọa năm 2027.",
   "top": [
+    {
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 ≥10%",
+      "impact": "↑",
+      "note": "Ngày 7/11, 467/469 đại biểu tán thành Nghị quyết kế hoạch phát triển kinh tế 2027 với mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn."
+    },
     {
       "title": "GDP bình quân đầu người Việt Nam vượt Indonesia",
       "impact": "↑",
-      "note": "IMF dự báo GDP bình quân đầu người Việt Nam 2026 đạt 5.259 USD, tăng 8,9% so với 4.829 USD năm 2025, sắp vượt Indonesia (5.153 USD) để xếp thứ 5 ASEAN. Thành tựu này phản ánh quá trình phát triển nhanh, thu hút FDI tích cực và tạo triển vọng lợi suất cho các nhà đầu tư dài hạn."
+      "note": "IMF dự báo GDP bình quân đầu người Việt Nam 2026 đạt 5.259 USD (tăng 8,9% so với 4.829 USD năm 2025), sắp vượt Indonesia 5.153 USD để xếp thứ 5 khu vực Đông Nam Á, sau Thái Lan."
     },
     {
-      "title": "Lãi suất huy động dự báo giảm 20-30 bps",
+      "title": "GDP Việt Nam 2026 hơn 542 tỷ USD, tăng trưởng bình quân 6,09%/năm 2011-2024",
       "impact": "↑",
-      "note": "MBS dự báo lãi suất huy động tiếp tục giảm 20-30 điểm cơ bản đến cuối 2026; đồng USD/VND ổn định quanh 25.802 đồng, giảm 1,8% so với đầu năm sau 6 tháng liên tiếp. Giảm lãi suất hỗ trợ chi phí vay vốn doanh nghiệp và nâng cao sức mua hộ gia đình."
+      "note": "IMF dự báo GDP Việt Nam 2026 đạt hơn 542 tỷ USD. Giai đoạn 2011-2024, GDP bình quân đầu người tăng từ 1.690 USD (2010) lên 4.700 USD (2024), gấp 2,8 lần, tốc độ tăng bình quân 6,09%/năm."
     },
     {
-      "title": "Quốc hội phê chuẩn tăng trưởng 10%+ năm 2027",
+      "title": "Lợi nhuận ngân hàng quý III tăng ~20%, dẫn dắt dòng tiền",
       "impact": "↑",
-      "note": "Quốc hội với 467/469 đại biểu tán thành phê chuẩn Nghị quyết tăng trưởng kinh tế từ 10% trở lên năm 2027, gắn với giữ ổn định vĩ mô và kiểm soát lạm phát. Chỉ tiêu này thể hiện cam kết quyết liệt và tạo khung chính sách hỗ trợ lợi nhuận doanh nghiệp."
+      "note": "Chuyên gia dự báo dòng tiền sẽ ưu tiên ngân hàng, bán lẻ, thép đã chứng minh tăng trưởng lợi nhuận quý III. Lợi nhuận toàn ngành ngân hàng quý III tăng khoảng 20% so với cùng kỳ, chủ yếu từ tăng trưởng tín dụng."
     },
     {
-      "title": "Dòng tiền chọn lọc ngành ngân hàng, bán lẻ, thép",
+      "title": "Lãi suất huy động dự báo giảm 20-30 bps đến cuối 2026",
       "impact": "↑",
-      "note": "Chuyên gia phân tích dòng tiền ưu tiên các ngành chứng minh tăng trưởng lợi nhuận Q3, đặc biệt ngân hàng (lợi nhuận tăng khoảng 20% cùng kỳ), bán lẻ và thép. Cổ phiếu định giá rẻ sau nhịp điều chỉnh trong các ngành này có tiềm năng thu hút dòng vốn mạnh."
+      "note": "MBS dự báo lãi suất huy động giảm 20-30 điểm cơ bản từ nay đến cuối năm 2026. Tỷ giá USD/VND cuối tháng 10 ở 25.802 VND/USD, giảm 1,8% so với đầu năm, giảm liên tiếp 6 tháng. VND ổn định nhờ lãi suất cao, FDI tích cực, cán cân thương mại cải thiện."
     },
     {
-      "title": "VN-Index giảm, toàn ngành suy yếu tuần 02-06/11",
+      "title": "VN-Index tuần 02-06/11 giảm hơn 16 điểm, toàn ngành suy yếu",
       "impact": "↓",
-      "note": "Thị trường giao dịch khó khăn tuần 02-06/11 khi toàn bộ nhóm ngành giảm, VN-Index mất hơn 16 điểm xuống 1,725.36 điểm; VIC lấy đi hơn 10 điểm, VCB hơn 4.5 điểm. Áp lực từ bất động sản và ngân hàng vốn hóa lớn cho thấy tâm lý thị trường còn thận trọng."
-    },
-    {
-      "title": "Sức ép lãi suất toàn cầu từ AI và nợ công 2027",
-      "impact": "↓",
-      "note": "Cạnh tranh gay gắt về vốn AI thu hút lượng vốn khổng lồ, trong khi nhiều chính phủ tăng phát hành trái phiếu làm gia tăng nhu cầu vốn toàn cầu. Yếu tố này có thể gây sức ép lên mặt bằng lãi suất năm 2027 và ảnh hưởng chi phí vay vốn doanh nghiệp Việt Nam."
+      "note": "Tuần 02-06/11, toàn bộ nhóm ngành giảm: nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VN-Index giảm hơn 16 điểm xuống 1.725,36 điểm. VIC trừ 10 điểm, VCB -4,5 điểm chỉ số."
     }
   ]
 }
