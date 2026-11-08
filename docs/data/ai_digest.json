@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính sách hỗ trợ kinh tế từ Quốc hội (mục tiêu tăng trưởng 10%+ năm 2027) và Ngân hàng Nhà nước (giảm lãi suất thêm 20-30 điểm cơ bản) tạo dư địa hỗ trợ. Tuy nhiên, thị trường ngắn hạn vẫn gặp áp lực khi toàn bộ nhóm ngành giảm trong tuần vừa rồi, VN-Index chưa tạo được tín hiệu đảo chiều rõ ràng. Áp lực lãi suất toàn cầu từ cạnh tranh vốn AI và nợ chính phủ là rủi ro cần theo dõi.",
+  "summary_vi": "Thị trường chứng khoán tuần vừa qua ghi nhận VN-Index giảm 0,93% xuống 1.725,3 điểm với cổ phiếu ngân hàng (VIC, VCB) và bất động sản trở thành động lực kéo xuống; tuy nhiên, khía cạnh tích cực bắt đầu lộ diện từ phía chính sách khi Quốc hội thông qua mục tiêu tăng trưởng 10% trở lên cho năm 2027 và triển vọng giảm lãi suất 20-30 điểm cơ bản đến cuối năm. Bán lẻ vẫn khỏe mạnh với Bách Hoá Xanh vượt kế hoạch mở cửa hàng. Nhà đầu tư chờ tín hiệu rõ để xác định xu hướng phục hồi.",
   "top": [
     {
-      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng 2027 từ 10% trở lên",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Quốc hội thông qua với 467/469 phiếu tán thành Nghị quyết phát triển kinh tế - xã hội 2027, cam kết tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát — tín hiệu mạnh của chính sách hỗ trợ bứt phá kinh tế"
+      "note": "467/469 đại biểu Quốc hội tán thành Nghị quyết kế hoạch phát triển kinh tế-xã hội năm 2027 với mục tiêu tăng trưởng từ 10% trở lên; năm 2027 được xác định là năm 'tăng tốc, bứt phá' tạo hướng tích cực cho doanh nghiệp và đầu tư dài hạn"
     },
     {
-      "title": "Lãi suất huy động dự báo giảm thêm 20-30 điểm cơ bản đến cuối năm",
-      "impact": "↑",
-      "note": "MBS dự báo lãi suất huy động tiếp tục giảm 20-30 điểm cơ bản từ nay đến cuối năm 2026; 46/46 ngân hàng đã giảm lãi suất tiền gửi kỳ hạn 6 tháng trở lên, lãi suất cho vay phát sinh mới bình quân giảm 0,2-0,5% — hỗ trợ chi phí vốn cho doanh nghiệp"
-    },
-    {
-      "title": "Bách Hoá Xanh khai trương 1.800 cửa hàng, hướng doanh thu 10 tỷ USD",
-      "impact": "↑",
-      "note": "Chuỗi bán lẻ mở gần 1.800 cửa hàng năm 2026 (vượt kế hoạch 1.000), thử nghiệm mô hình mini với tín hiệu khả quan, kết hợp định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030 — phản ánh sức mua và xu thế chuyển dịch sang kênh hiện đại"
-    },
-    {
-      "title": "VN-Index giảm 0,93%, khối ngoại mới bắt đầu mua ròng",
-      "impact": "→",
-      "note": "VN-Index giảm 16,3 điểm xuống 1.725,3 điểm trong tuần, hồi phục mạnh giữa tuần (+41 điểm) nhờ hoán đổi USD và bầu cử Mỹ, nhưng phiên cuối tuần quay đầu giảm 15,37 điểm do diễn biến tiêu cực chứng khoán Mỹ-Nhật-Hàn — tín hiệu đảo chiều chưa rõ ràng"
-    },
-    {
-      "title": "Toàn bộ ngành giảm trong tuần, VIC lấy đi hơn 10 điểm",
+      "title": "VN-Index giảm 0,93%, đánh dấu tuần giảm thứ hai liên tiếp",
       "impact": "↓",
-      "note": "Tuần 02-06/11 toàn bộ nhóm ngành đều giảm: nguyên vật liệu -4,07%, CNTT -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VIC lấy đi >10 điểm, VCB >4,5 điểm, BID gần 2,3 điểm — áp lực từ các nhóm cổ phiếu vốn hóa lớn"
+      "note": "VN-Index giảm 16,3 điểm (-0,93%) xuống 1.725,3 điểm trong tuần 02-06/11; phiên 6/11 quay đầu giảm 15,37 điểm sau khi hồi phục 41 điểm ở giữa tuần; thanh khoản đạt 84.101 tỷ đồng nhưng tín hiệu đảo chiều chưa rõ ràng"
     },
     {
-      "title": "Áp lực lãi suất toàn cầu từ cạnh tranh vốn AI và nợ chính phủ",
+      "title": "Nhóm ngành ngân hàng và bất động sản kéo thị trường xuống",
       "impact": "↓",
-      "note": "Cạnh tranh vốn đầu tư trí tuệ nhân tạo kéo nhu cầu vốn khổng lồ; nhiều nước châu Âu tăng phát hành trái phiếu, lợi suất trái phiếu chính phủ Nhật Bản-Mỹ tăng — gây sức ép lên lãi suất thị trường quốc tế và tiềm ẩn rủi ro cho tỷ giá, lạm phát Việt Nam"
+      "note": "Toàn bộ nhóm ngành giảm trong tuần 02-06/11; VIC lấy đi hơn 10 điểm, VCB hơn 4,5 điểm, BID gần 2,3 điểm; VPB gần 1,7 điểm — các cổ phiếu vốn hóa lớn đóng vai trò kéo thị trường xuống đáng kể"
+    },
+    {
+      "title": "MBS dự báo lãi suất giảm 20-30 điểm cơ bản đến cuối năm",
+      "impact": "↑",
+      "note": "Lãi suất huy động dự kiến tiếp tục giảm 20-30 điểm cơ bản từ nay đến cuối năm 2026; tỷ giá USD/VND đến cuối tháng 10 ở 25.802 VND/USD (giảm 1,8% so với đầu năm) — hỗ trợ chi phí vốn cho doanh nghiệp"
+    },
+    {
+      "title": "HGI bị xử phạt 435,5 triệu đồng trước lên sàn",
+      "impact": "↓",
+      "note": "CTCP Đầu tư Quốc tế Hoàng Anh Gia Lai bị Thuế tỉnh Gia Lai xử phạt 435,5 triệu đồng (gồm 64 triệu phạt hành chính, 320 triệu truy thu thuế TNDN, 51,6 triệu chậm nộp) do khai sai; sự kiện xảy ra ngày 3/11 trước lên UPCoM 09/11 làm ảnh hưởng niềm tin nhà đầu tư"
+    },
+    {
+      "title": "Bách Hoá Xanh vượt kế hoạch, hướng doanh thu 10 tỷ USD 2030",
+      "impact": "↑",
+      "note": "Bách Hoá Xanh mở gần 1.800 cửa hàng năm 2026 (vượt kế hoạch 1.000); thử nghiệm mô hình mini với tín hiệu khả quan; kết hợp định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030 — phản ánh sức mua chuyển dịch sang kênh hiện đại"
     }
   ]
 }
