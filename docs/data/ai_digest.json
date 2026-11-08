@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-08",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính phủ cam kết mục tiêu tăng trưởng 10%+ năm 2027 cùng chính sách giảm lãi suất được triển khai liên tục: 46/46 ngân hàng giảm lãi suất cho vay, MBS dự báo lãi suất huy động còn giảm 20-30 điểm cơ bản. Các chuyên gia kỳ vọng VN-Index sẽ tạo đáy bền vững nếu dòng tiền quay lại mạnh, tuy nhiên sức ép lãi suất toàn cầu từ đầu tư AI và nợ chính phủ vẫn là rủi ro ngắn hạn cần theo dõi.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Chính sách hỗ trợ kinh tế từ Quốc hội (mục tiêu tăng trưởng 10%+ năm 2027) và Ngân hàng Nhà nước (giảm lãi suất thêm 20-30 điểm cơ bản) tạo dư địa hỗ trợ. Tuy nhiên, thị trường ngắn hạn vẫn gặp áp lực khi toàn bộ nhóm ngành giảm trong tuần vừa rồi, VN-Index chưa tạo được tín hiệu đảo chiều rõ ràng. Áp lực lãi suất toàn cầu từ cạnh tranh vốn AI và nợ chính phủ là rủi ro cần theo dõi.",
   "top": [
     {
-      "title": "Mục tiêu tăng trưởng 10%+ năm 2027",
+      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Quốc hội thông qua với 467/469 phiếu tán thành kế hoạch phát triển kinh tế - xã hội 2027, cam kết tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô và kiểm soát lạm phát — tín hiệu mạnh của chính sách hỗ trợ bứt phá kinh tế và thị trường chứng khoán"
+      "note": "Quốc hội thông qua với 467/469 phiếu tán thành Nghị quyết phát triển kinh tế - xã hội 2027, cam kết tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát — tín hiệu mạnh của chính sách hỗ trợ bứt phá kinh tế"
     },
     {
-      "title": "Giảm lãi suất cho vay, hỗ trợ tín dụng toàn ngành",
+      "title": "Lãi suất huy động dự báo giảm thêm 20-30 điểm cơ bản đến cuối năm",
       "impact": "↑",
-      "note": "46/46 ngân hàng giảm lãi suất tiền gửi; lãi suất cho vay phát sinh mới bình quân giảm 0,2-0,5% so với giữa tháng 10. Ngân hàng Nhà nước triển khai gói tái cấp vốn cho tín dụng nhà ở xã hội, giảm trực tiếp chi phí vốn cho doanh nghiệp và người dân"
+      "note": "MBS dự báo lãi suất huy động tiếp tục giảm 20-30 điểm cơ bản từ nay đến cuối năm 2026; 46/46 ngân hàng đã giảm lãi suất tiền gửi kỳ hạn 6 tháng trở lên, lãi suất cho vay phát sinh mới bình quân giảm 0,2-0,5% — hỗ trợ chi phí vốn cho doanh nghiệp"
     },
     {
-      "title": "Dự báo lãi suất huy động giảm thêm 20-30 bps đến cuối năm",
+      "title": "Bách Hoá Xanh khai trương 1.800 cửa hàng, hướng doanh thu 10 tỷ USD",
       "impact": "↑",
-      "note": "Chứng khoán MBS dự báo lãi suất huy động tiếp tục điều chỉnh giảm thêm 20-30 điểm cơ bản từ nay đến cuối năm 2026, được hỗ trợ bởi mặt bằng lãi suất cao trong nước, dòng FDI tích cực và triển vọng cải thiện cán cân thương mại"
+      "note": "Chuỗi bán lẻ mở gần 1.800 cửa hàng năm 2026 (vượt kế hoạch 1.000), thử nghiệm mô hình mini với tín hiệu khả quan, kết hợp định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030 — phản ánh sức mua và xu thế chuyển dịch sang kênh hiện đại"
     },
     {
-      "title": "Chuyên gia kỳ vọng VN-Index tạo đáy phục hồi bền vững",
-      "impact": "↑",
-      "note": "VN-Index giảm 0,9% tuần 02-06/11 nhưng giữ vùng đáy quanh 1.700 điểm với thanh khoản tăng 20%. Chuyên gia kỳ vọng hình thành mô hình 2 đáy phục hồi nếu thanh khoản duy trì mạnh, dòng tiền lan tỏa trên các nhóm cổ phiếu vốn hóa lớn"
+      "title": "VN-Index giảm 0,93%, khối ngoại mới bắt đầu mua ròng",
+      "impact": "→",
+      "note": "VN-Index giảm 16,3 điểm xuống 1.725,3 điểm trong tuần, hồi phục mạnh giữa tuần (+41 điểm) nhờ hoán đổi USD và bầu cử Mỹ, nhưng phiên cuối tuần quay đầu giảm 15,37 điểm do diễn biến tiêu cực chứng khoán Mỹ-Nhật-Hàn — tín hiệu đảo chiều chưa rõ ràng"
     },
     {
-      "title": "Bách Hoá Xanh khai trương 1.800 cửa hàng, hướng mục tiêu 10 tỷ USD năm 2030",
-      "impact": "↑",
-      "note": "Chuỗi bán lẻ đã mở gần 1.800 cửa hàng năm 2026 (vượt mục tiêu 1.000), đang thử nghiệm mô hình mini với tín hiệu khả quan. Hợp nhất nhiều định dạng cửa hàng để đạt doanh thu 10 tỷ USD năm 2030, phản ánh xu thế chuyển dịch khách hàng từ kênh truyền thống sang kênh hiện đại"
+      "title": "Toàn bộ ngành giảm trong tuần, VIC lấy đi hơn 10 điểm",
+      "impact": "↓",
+      "note": "Tuần 02-06/11 toàn bộ nhóm ngành đều giảm: nguyên vật liệu -4,07%, CNTT -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VIC lấy đi >10 điểm, VCB >4,5 điểm, BID gần 2,3 điểm — áp lực từ các nhóm cổ phiếu vốn hóa lớn"
     },
     {
       "title": "Áp lực lãi suất toàn cầu từ cạnh tranh vốn AI và nợ chính phủ",
       "impact": "↓",
-      "note": "Cuộc cạnh tranh gay gắt về vốn đầu tư trí tuệ nhân tạo kéo nhu cầu vốn khổng lồ; nhiều nước châu Âu tăng phát hành trái phiếu, lợi suất trái phiếu chính phủ Nhật Bản, Mỹ tăng — gây sức ép lên lãi suất thị trường quốc tế và tiềm ẩn rủi ro cho tỷ giá, lạm phát Việt Nam"
+      "note": "Cạnh tranh vốn đầu tư trí tuệ nhân tạo kéo nhu cầu vốn khổng lồ; nhiều nước châu Âu tăng phát hành trái phiếu, lợi suất trái phiếu chính phủ Nhật Bản-Mỹ tăng — gây sức ép lên lãi suất thị trường quốc tế và tiềm ẩn rủi ro cho tỷ giá, lạm phát Việt Nam"
     }
   ]
 }
