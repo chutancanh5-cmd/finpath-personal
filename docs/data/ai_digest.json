@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên, tín hiệu chính sách rõ ràng hỗ trợ tăng trưởng. IMF dự báo GDP Việt Nam 2026 hơn 542 tỷ USD, GDP bình quân đầu người 5.259 USD (+8,9%), vượt Indonesia xếp thứ 5 Đông Nam Á. Lợi nhuận ngân hàng tăng khoảng 20% quý III, kỳ vọng dẫn dắt thị trường. Tuy vậy VN-Index vẫn điều chỉnh mạnh giảm hơn 16 điểm tuần qua, tất cả nhóm ngành giảm, áp lực từ lãi suất toàn cầu tiếp tục đe dọa năm 2027.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường nhận được những tín hiệu vĩ mô tích cực: Quốc hội thông qua mục tiêu tăng trưởng GDP 10%+ năm 2027, IMF dự báo GDP 2026 đạt 542 tỷ USD với bình quân đầu người 5.259 USD (vượt Indonesia). Ngân hàng và bán lẻ hứa hẹn với lợi nhuận ngân hàng tăng 20% và Bách Hoá Xanh mở 1.800 cửa hàng. Tuy nhiên, áp lực từ sự cạnh tranh vốn toàn cầu cho AI, nhu cầu vay chính phủ tăng và phát hiện sai phạm tại quỹ tín dụng nhân dân cảnh báo rủi ro hệ thống cần lưu ý.",
   "top": [
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 ≥10%",
+      "title": "Quốc hội giao mục tiêu tăng trưởng GDP 10%+ năm 2027",
       "impact": "↑",
-      "note": "Ngày 7/11, 467/469 đại biểu tán thành Nghị quyết kế hoạch phát triển kinh tế 2027 với mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn."
+      "note": "467/469 đại biểu thông qua kế hoạch phát triển kinh tế-xã hội năm 2027 với mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định kinh tế vĩ mô và kiểm soát lạm phát. Đây là giai đoạn tăng tốc, bứt phá để thực hiện Nghị quyết Đại hội XIV của Đảng."
     },
     {
-      "title": "GDP bình quân đầu người Việt Nam vượt Indonesia",
+      "title": "GDP 542 tỷ USD, bình quân đầu người vượt Indonesia",
       "impact": "↑",
-      "note": "IMF dự báo GDP bình quân đầu người Việt Nam 2026 đạt 5.259 USD (tăng 8,9% so với 4.829 USD năm 2025), sắp vượt Indonesia 5.153 USD để xếp thứ 5 khu vực Đông Nam Á, sau Thái Lan."
+      "note": "IMF dự báo GDP 2026 đạt hơn 542 tỷ USD, GDP bình quân đầu người 5.259 USD (tăng 8,9% so với 2025), vượt Indonesia 5.153 USD. Việt Nam tăng tốc từ khi nước có GDP bình quân đầu người 1.690 USD năm 2010, gấp 2,8 lần."
     },
     {
-      "title": "GDP Việt Nam 2026 hơn 542 tỷ USD, tăng trưởng bình quân 6,09%/năm 2011-2024",
+      "title": "Lợi nhuận ngân hàng tăng 20%, dòng tiền ưu tiên ngân hàng, bán lẻ, thép",
       "impact": "↑",
-      "note": "IMF dự báo GDP Việt Nam 2026 đạt hơn 542 tỷ USD. Giai đoạn 2011-2024, GDP bình quân đầu người tăng từ 1.690 USD (2010) lên 4.700 USD (2024), gấp 2,8 lần, tốc độ tăng bình quân 6,09%/năm."
+      "note": "Chuyên gia chỉ ra lợi nhuận toàn ngành ngân hàng quý III tăng khoảng 20% so với cùng kỳ nhờ tăng trưởng tín dụng. Dòng tiền dự báo sẽ ưu tiên các nhóm ngành đã chứng minh khả năng tăng trưởng lợi nhuận, nổi bật là ngân hàng được dự báo có khả năng dẫn dắt chỉ số."
     },
     {
-      "title": "Lợi nhuận ngân hàng quý III tăng ~20%, dẫn dắt dòng tiền",
+      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, vượt mục tiêu 1.000",
       "impact": "↑",
-      "note": "Chuyên gia dự báo dòng tiền sẽ ưu tiên ngân hàng, bán lẻ, thép đã chứng minh tăng trưởng lợi nhuận quý III. Lợi nhuận toàn ngành ngân hàng quý III tăng khoảng 20% so với cùng kỳ, chủ yếu từ tăng trưởng tín dụng."
+      "note": "Trong năm 2026, Bách Hoá Xanh đã mở gần 1.800 cửa hàng, vượt xa mục tiêu 1.000 cửa hàng. BHX đang thử nghiệm mô hình mini, sẽ nhân rộng khi ổn định. Kết hợp nhiều định dạng sẽ tạo cơ hội khả quan đạt mục tiêu doanh thu 10 tỷ USD vào 2030."
     },
     {
-      "title": "Lãi suất huy động dự báo giảm 20-30 bps đến cuối 2026",
-      "impact": "↑",
-      "note": "MBS dự báo lãi suất huy động giảm 20-30 điểm cơ bản từ nay đến cuối năm 2026. Tỷ giá USD/VND cuối tháng 10 ở 25.802 VND/USD, giảm 1,8% so với đầu năm, giảm liên tiếp 6 tháng. VND ổn định nhờ lãi suất cao, FDI tích cực, cán cân thương mại cải thiện."
-    },
-    {
-      "title": "VN-Index tuần 02-06/11 giảm hơn 16 điểm, toàn ngành suy yếu",
+      "title": "Phát hiện sai phạm tại quỹ tín dụng nhân dân, thu hồi 130 tỷ đồng",
       "impact": "↓",
-      "note": "Tuần 02-06/11, toàn bộ nhóm ngành giảm: nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VN-Index giảm hơn 16 điểm xuống 1.725,36 điểm. VIC trừ 10 điểm, VCB -4,5 điểm chỉ số."
+      "note": "Công an tỉnh Ninh Bình bắt giữ 2 đối tượng tại Quỹ tín dụng nhân dân Thành Đô, xác định 7 nhóm hành vi trái pháp luật nhằm tham ô tài sản. Lực lượng công an thu hồi 130 tỷ đồng tiền nợ xấu và tài sản sai phạm. Cả nước có hơn 1.100 quỹ tín dụng nhân dân đang hoạt động."
+    },
+    {
+      "title": "Cạnh tranh vốn AI và nhu cầu vay chính phủ gây sức ép lãi suất 2027",
+      "impact": "↓",
+      "note": "Sự cạnh tranh gay gắt về vốn đầu tư cho trí tuệ nhân tạo (AI) thu hút lượng vốn khổng lồ. Nhu cầu vay vốn của các chính phủ tăng cao (châu Âu phát hành trái phiếu, lợi suất Nhật/Mỹ tăng), góp phần đẩy chi phí vốn trên thị trường quốc tế lên cao, gây sức ép lãi suất toàn cầu năm 2027."
     }
   ]
 }
