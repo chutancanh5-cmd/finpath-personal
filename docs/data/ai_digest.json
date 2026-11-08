@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-08",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "VN-Index giảm 16 điểm tuần 02-06/11 nhưng tín hiệu đáo chiều xuất hiện: Quốc hội 7/11 thông qua kế hoạch tăng trưởng 10%+ năm 2027 (467/469 đại biểu tán thành), lãi suất huy động giảm 50-70 điểm cơ bản (6,8-7%/năm), lạm phát hạ nhiệt do miễn thuế xăng, giảm giá điện 2%, giá dầu thế giới giảm hơn 15%. SSI nhận định thị trường có khả năng hình thành đáy trong tháng 11. Tuy nhiên rủi ro từ quốc tế (bầu cử Mỹ, chiến tranh Iran kéo dài 8+ tháng, dầu dưới 100 USD/thùng) vẫn tác động tiêu cực ngắn hạn.",
+  "summary_vi": "Quốc hội 7/11 giao mục tiêu tăng trưởng 10%+ năm 2027 (467/469 đại biểu tán thành), tạo động lực chính sách tích cực. Thị trường chứng khoán xuất hiện tín hiệu tạo đáy ngắn hạn, lãi suất huy động giảm 50-70 điểm cơ bản, lạm phát hạ nhiệt do miễn thuế xăng, giảm giá điện, dầu thế giới giảm hơn 15%. Tuy nhiên VN-Index tuần vừa rồi giảm 16 điểm toàn ngành, áp lực lãi suất toàn cầu từ cạnh tranh vốn AI và chính sách Mỹ vẫn ảnh hưởng. Kinh tế cân bằng giữa tín hiệu chính sách khởi sắc và thách thức thị trường tài chính.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng 10%+ năm 2027",
       "impact": "↑",
-      "note": "Quốc hội 7/11 thông qua Nghị quyết (467/469 đại biểu tán thành), giao chỉ tiêu tăng trưởng từ 10% trở lên năm 2027 cho 30 tỉnh thành. Hải Phòng cao nhất 13%, Quảng Ninh 12%, Hà Nội 11,1%, Đà Nẵng 11%, TP.HCM 10,4%."
+      "note": "Quốc hội 7/11 thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027 với 467/469 đại biểu tán thành, giao chỉ tiêu tăng trưởng 10% trở lên. Hải Phòng 13%, Quảng Ninh 12%, Hà Nội 11,1%, Đà Nẵng 11%, TP.HCM 10,4%. Cả 9 thành phố trực thuộc Trung ương được giao 2 con số."
     },
     {
-      "title": "SSI gọi tín hiệu VN-Index tạo đáy trong tháng 11",
+      "title": "Lãi suất giảm, SSI gọi tín hiệu tạo đáy tháng 11",
       "impact": "↑",
-      "note": "SSI Research nhận định thị trường có khả năng hình thành đáy ngắn hạn trong tháng 11, sau hai tháng điều chỉnh. Điều kiện thuận lợi: lãi suất huy động giảm 50-70 điểm cơ bản, lạm phát hạ nhiệt, giá dầu thế giới giảm hơn 15%, miễn thuế xăng, giá điện giảm 2%."
+      "note": "SSI Research nhận định thị trường có khả năng hình thành đáy ngắn hạn trong tháng 11 sau 2 tháng điều chỉnh. Lãi suất huy động ngân hàng giảm 50-70 điểm cơ bản xuống 6,8-7%/năm, lạm phát hạ nhiệt nhờ miễn thuế xăng, giảm giá điện 2%, giá dầu thế giới giảm hơn 15%."
     },
     {
-      "title": "VN-Index giảm 16 điểm, toàn bộ ngành đều suy yếu",
+      "title": "VN-Index giảm 16 điểm, toàn bộ ngành lùi",
       "impact": "↓",
-      "note": "Tuần 02-06/11, VN-Index giảm hơn 16 điểm xuống 1.725,36 điểm. Toàn bộ ngành đều giảm: nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VIC lấy đi hơn 10 điểm, VCB hơn 4,5 điểm."
+      "note": "Tuần 02-06/11, VN-Index giảm hơn 16 điểm xuống 1.725,36 điểm. Toàn bộ 10 ngành giảm: nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VIC lấy đi hơn 10 điểm, VCB hơn 4,5 điểm, BID gần 2,3 điểm."
     },
     {
-      "title": "Bầu cử Mỹ, chiến tranh Iran tác động tiêu cực thế giới",
+      "title": "Cạnh tranh vốn AI đẩy áp lực lãi suất toàn cầu",
       "impact": "↓",
-      "note": "Bầu cử quốc hội Mỹ 3/11, Đảng Dân chủ giành kiểm soát lưỡng viện. Triển vọng lạm phát-lãi suất cao do chiến tranh Iran kéo dài hơn 8 tháng; USD, cổ phiếu công nghệ/AI mất giá mạnh, dầu thế giới giảm sâu xuống dưới 100 USD/thùng."
+      "note": "Cạnh tranh vốn cho AI, nhu cầu vay chính phủ tăng cao, bầu cử Mỹ 3/11 thay đổi chính sách kinh tế, lợi suất trái phiếu Nhật-Mỹ tăng. Chiến tranh Iran kéo dài 8+ tháng, USD và cổ phiếu công nghệ/AI mất giá mạnh, dầu thế giới rơi dưới 100 USD/thùng."
     },
     {
-      "title": "Giá vàng miếng SJC tăng 1 triệu đồng/lượng trong tuần",
-      "impact": "↑",
-      "note": "Tuần 02-07/11, giá vàng miếng SJC tăng chung cả tuần 1 triệu đồng/lượng lên mức 138-141 triệu đồng/lượng. Vàng nhẫn 4 số 9 tăng 1,5-3,7 triệu đồng/lượng, chấm dứt 3 tuần giảm liên tiếp."
+      "title": "Giá vàng miếng tăng 1 triệu đồng/lượng",
+      "impact": "→",
+      "note": "Tuần 02-07/11, giá vàng miếng SJC tăng 1 triệu đồng/lượng lên 138-141 triệu đồng/lượng, vàng nhẫn 4 số 9 tăng 1,5-3,7 triệu đồng/lượng, chấm dứt 3 tuần giảm liên tiếp."
     },
     {
-      "title": "Bách Hoá Xanh vượt kế hoạch, hướng tới 10 tỷ USD năm 2030",
+      "title": "Bách Hoá Xanh vượt kế hoạch, nhân rộng mô hình mini",
       "impact": "↑",
-      "note": "Bách Hoá Xanh vượt kế hoạch mở được gần 1.800 cửa hàng (so với mục tiêu 1.000) năm 2026. Công ty đang thử nghiệm mô hình mini với tín hiệu khả quan, sẽ nhân rộng song song với mô hình hiện hữu để hướng tới doanh thu 10 tỷ USD năm 2030."
+      "note": "Bách Hoá Xanh đã mở gần 1.800 cửa hàng năm 2026, vượt kế hoạch 1.000 cửa hàng. Công ty thử nghiệm mô hình mini với tín hiệu khả quan, sẽ nhân rộng song song mô hình hiện hữu để hướng tới doanh thu 10 tỷ USD năm 2030."
     }
   ]
 }
