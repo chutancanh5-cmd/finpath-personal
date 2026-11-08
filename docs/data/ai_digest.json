@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-08",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội 7/11 thông qua mục tiêu tăng trưởng kinh tế 10%+ năm 2027 (467/469 phiếu tán thành), với 30/34 địa phương được giao tăng trưởng 2 con số, tạo động lực cho TTCK dài hạn. Lãi suất trong nước tiếp tục giảm (20-30 điểm cơ bản, cho vay giảm 0,2-0,5%), hỗ trợ bất động sản, tiêu dùng và các doanh nghiệp như Bách Hoá Xanh, Digiworld mở rộng. Tuy vậy, VN-Index tuần vừa giảm 16 điểm do áp lực bán từ nhóm ngân hàng, bất động sản, trong khi lãi suất toàn cầu chịu sức ép từ cạnh tranh vốn AI.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội 7/11 thông qua mục tiêu tăng trưởng kinh tế 10%+ năm 2027 (467/469 phiếu tán thành), tạo kỳ vọng tích cực cho nền kinh tế dài hạn. Lãi suất trong nước tiếp tục giảm (dự báo 20-30 bps thêm đến hết 2026, cho vay giảm 0,2-0,5%), NHNN tái cấp vốn nhà ở xã hội, hỗ trợ bất động sản và tiêu dùng. Doanh nghiệp như Bách Hoá Xanh, Digiworld cho thấy tín hiệu tăng trưởng mạnh, nhưng thị trường chứng khoán tuần vừa trải qua áp lực khi VN-Index giảm 16 điểm, tất cả ngành đều âm, nhất là ngân hàng và bất động sản (VIC -10+ điểm, VCB -4,5 điểm). Lãi suất toàn cầu chịu sức ép từ cạnh tranh vốn AI và nhu cầu vay chính phủ cao.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10%+ năm 2027",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027",
       "impact": "↑",
-      "note": "7/11, Quốc hội 467/469 phiếu tán thành thông qua Nghị quyết KT-XH 2027: năm tăng tốc, bứt phá tăng trưởng từ 10% trở lên, giữ ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
+      "note": "7/11, Quốc hội 467/469 phiếu tán thành Nghị quyết kế hoạch kinh tế-xã hội 2027: năm tăng tốc, bứt phá với tăng trưởng từ 10% trở lên, kiểm soát lạm phát, bảo đảm các cân đối vĩ mô lớn."
     },
     {
-      "title": "30 tỉnh thành nhận mục tiêu tăng trưởng 2 con số",
+      "title": "Lãi suất tiền gửi giảm, NHNN hỗ trợ nhà ở xã hội",
       "impact": "↑",
-      "note": "30/34 địa phương giao tăng trưởng 10%+: Hải Phòng 13%, Quảng Ninh 12%, Hà Nội 11,1%, Đà Nẵng 11%, Đồng Nai 11%, Bắc Ninh 10,5%, TPHCM 10,4%; 4 tỉnh dưới 10% (Sơn La 9,3%, Quảng Trị 9%, Quảng Ngãi 9%)."
+      "note": "46/46 NHTM giảm lãi suất tiền gửi; lãi suất cho vay phát sinh mới bình quân giảm 0,2-0,5%, MBS dự báo giảm thêm 20-30 bps đến hết 2026; NHNN triển khai gói tái cấp vốn hỗ trợ vay nhà ở xã hội."
     },
     {
-      "title": "Lãi suất huy động tiếp tục giảm 20-30 điểm cơ bản",
-      "impact": "↑",
-      "note": "MBS dự báo lãi suất huy động giảm thêm 20-30 điểm cơ bản từ nay đến hết 2026. 46/46 NHTM đã giảm tiền gửi kỳ hạn 6 tháng+; lãi suất cho vay mới giảm 0,2-0,5%, NHNN tái cấp vốn nhà ở xã hội."
-    },
-    {
-      "title": "Bách Hoá Xanh thử nghiệm mô hình mini, mở 1.800 cửa hàng vượt kế hoạch",
-      "impact": "↑",
-      "note": "Bách Hoá Xanh thử nghiệm mô hình mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030. Năm 2026 đã mở gần 1.800 cửa hàng, vượt xa mục tiêu 1.000 cửa hàng."
-    },
-    {
-      "title": "Digiworld kỳ vọng tăng trưởng 20% năm 2027, máy chủ vượt 1 tỷ USD",
-      "impact": "↑",
-      "note": "Digiworld (DGW) dự báo tăng trưởng 20% doanh thu và lợi nhuận sau thuế năm 2027 là khả thi. Thị trường máy chủ Việt Nam dự báo vượt 1 tỷ USD năm tới; thiết bị văn phòng, hàng ngoài ICT tăng ~50%."
-    },
-    {
-      "title": "VN-Index tuần 2-6/11 giảm 16 điểm, tất cả ngành lao dốc",
+      "title": "VN-Index tuần 2-6/11 giảm hơn 16 điểm, tất cả ngành âm",
       "impact": "↓",
-      "note": "VN-Index giảm hơn 16 điểm về 1.725,36 điểm; tất cả ngành giảm: nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%, bất động sản -1,64%, tài chính -1,57%. VIC lấy đi 10+ điểm, VCB 4,5 điểm, BID 2,3 điểm."
+      "note": "VN-Index giảm hơn 16 điểm về 1.725,36 điểm; nguyên vật liệu -4,07%, công nghệ -3,7%, năng lượng -3,7%, tài chính -1,57%; VIC -10+ điểm, VCB -4,5 điểm, BID -2,3 điểm, áp lực lớn từ ngân hàng và bất động sản."
+    },
+    {
+      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, thử nghiệm mô hình mini",
+      "impact": "↑",
+      "note": "Bách Hoá Xanh thử nghiệm mô hình cửa hàng mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030; năm 2026 đã mở gần 1.800 cửa hàng vượt xa mục tiêu 1.000."
+    },
+    {
+      "title": "Digiworld kỳ vọng tăng trưởng 20% năm 2027",
+      "impact": "↑",
+      "note": "Digiworld (DGW) đánh giá tăng trưởng 20% doanh thu và lợi nhuận sau thuế năm 2027 là khả thi; thị trường máy chủ Việt Nam dự báo vượt 1 tỷ USD năm 2027, thiết bị văn phòng tăng ~50%."
+    },
+    {
+      "title": "Tỷ giá USD/VND ổn định, cung ngoại tệ cải thiện",
+      "impact": "→",
+      "note": "Tỷ giá USD tại Vietcombank ~25.890 VND/USD, thị trường tự do ~26.130 VND/USD; tỷ giá trung tâm 25.637 VND/USD (+2,04% so với đầu năm); cung ngoại tệ cải thiện nhờ xuất khẩu, USD quốc tế suy yếu, hỗ trợ ổn định thị trường ngoại hối tháng cuối năm."
     }
   ]
 }
