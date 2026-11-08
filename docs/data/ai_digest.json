@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-08",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội phê duyệt mục tiêu tăng trưởng GDP 10% năm 2027 cho 30/34 địa phương, với Hải Phòng dẫn đầu 13%; thị trường chứng khoán diễn biến yếu trong tuần qua (VN-Index -16 điểm) nhưng các yếu tố kinh tế cơ bản vẫn hỗ trợ như doanh nghiệp bán lẻ mở rộng mạnh. Rủi ro đến từ biến động địa chính trị quốc tế (bầu cử Mỹ gây sức ép lên cổ phiếu công nghệ) và sức ép lãi suất toàn cầu từ cạnh tranh vốn đầu tư AI.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên (30/34 địa phương, Hải Phòng 13%) và NHNN giảm lãi suất tiếp tục hỗ trợ tín dụng, tạo tín hiệu tích cực dài hạn. Tuy nhiên, tuần 02-06/11 thị trường chứng khoán Việt Nam ghi nhận toàn bộ ngành giảm điểm, VN-Index mất hơn 16 điểm xuống 1.725,36, bị ảnh hưởng từ bầu cử Mỹ 3/11 khi Đảng Dân chủ kiểm soát lưỡng viện gây lo ngại kiểm soát AI, khiến USD yếu và cổ phiếu công nghệ mất giá. Diễn biến kỹ thuật VN-Index kém sắc với chỉ báo suy yếu, khó vượt kháng cự 1.740-1.750 điểm.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 10% năm 2027",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Nghị quyết được Quốc hội thông qua với 467/469 đại biểu tán thành sáng 7/11, giao chỉ tiêu tăng trưởng từ 10% trở lên cho 30/34 địa phương; Hà Nội 11,1%, TPHCM 10,4%, kỳ vọng đẩy mạnh hoạt động kinh tế và đầu tư."
+      "note": "Quốc hội với 467/469 đại biểu tán thành thông qua Nghị quyết năm 2027 sáng 7/11, giao chỉ tiêu tăng trưởng từ 10% trở lên cho 30/34 địa phương; Hải Phòng 13%, Hà Nội 11,1%, TPHCM 10,4%, tập trung phân cấp-phân quyền và ổn định kinh tế vĩ mô."
     },
     {
-      "title": "Bách Hoá Xanh tăng tốc mở rộng, mở 1.800 cửa hàng",
+      "title": "VN-Index tuần 02-06/11: Toàn ngành giảm, VN-Index mất hơn 16 điểm",
+      "impact": "↓",
+      "note": "VN-Index giảm hơn 16 điểm xuống 1.725,36 điểm; toàn bộ nhóm ngành giảm, dẫn đầu nguyên vật liệu -4,07%, CNTT -3,7%, năng lượng -3,7%; VIC lấy đi hơn 10 điểm, VCB >4,5 điểm, BĐS và tài chính yếu nhất."
+    },
+    {
+      "title": "Bầu cử Mỹ 3/11: Dân chủ kiểm soát lưỡng viện, USD yếu, dầu dưới 100 USD/thùng",
+      "impact": "↓",
+      "note": "Đảng Dân chủ kiểm soát cả Thượng viện và Hạ viện gây lo ngại kiểm soát AI; USD và cổ phiếu công nghệ mất giá mạnh; dầu thô giảm sâu trượt khỏi ngưỡng 100 USD/thùng; lạm phát và lãi suất vẫn cao do chiến tranh Iran hơn 8 tháng."
+    },
+    {
+      "title": "NHNN giảm lãi suất: 46/46 NHTM giảm lãi suất kỳ hạn từ 6 tháng trở lên",
       "impact": "↑",
-      "note": "Bách Hoá Xanh đã mở gần 1.800 cửa hàng vượt xa mục tiêu 1.000 năm 2026; thử nghiệm mô hình mini với tín hiệu khả quan, hướng tới doanh thu 10 tỷ USD năm 2030, phản ánh nhu cầu mạnh từ ngành bán lẻ và thị trường tiêu dùng."
+      "note": "Lãi suất tiền gửi phát sinh mới giảm khoảng 0,4 điểm phần trăm so với giữa tháng 10; lãi suất cho vay phát sinh mới giảm khoảng 0,2-0,5 điểm phần trăm; NHNN triển khai gói tái cấp vốn cho vay nhà ở xã hội hỗ trợ nhu cầu ở thực."
     },
     {
-      "title": "VN-Index giảm 16 điểm, các ngành BĐS-NH chịu áp lực",
-      "impact": "↓",
-      "note": "VN-Index giảm hơn 16 điểm về 1.725,36 điểm trong tuần 2-6/11, toàn bộ nhóm ngành giảm; VIC lấy đi hơn 10 điểm, VCB 4,5 điểm, BĐS và tài chính là những ngành yếu nhất trong tuần."
-    },
-    {
-      "title": "Bầu cử Mỹ gây biến động, USD tăng, cổ phiếu công nghệ giảm",
-      "impact": "↓",
-      "note": "Kết quả bầu cử quốc hội 3/11 cho Đảng Dân chủ kiểm soát lưỡng viện, gây lo ngại kiểm soát AI; đồng USD mạnh lên, cổ phiếu công nghệ mất giá mạnh, dầu giảm dưới 100 USD/thùng do kỳ vọng Trump khó leo thang với Iran."
-    },
-    {
-      "title": "Việt Nam-Anh hợp tác phát triển thị trường hàng hóa phái sinh",
+      "title": "Bách Hoá Xanh tăng tốc mở rộng, hướng tới doanh thu 10 tỷ USD 2030",
       "impact": "↑",
-      "note": "Việt Nam và Anh ký kết hợp tác 7/11 phát triển thị trường giao dịch hàng hóa phái sinh; công cụ quản trị rủi ro giá cho doanh nghiệp sản xuất, gắn với xây dựng Trung tâm tài chính quốc tế tại Việt Nam."
+      "note": "Bách Hoá Xanh thử nghiệm mô hình mini với tín hiệu khả quan, sẽ nhân rộng khi ổn định; đã mở gần 1.800 cửa hàng vượt mục tiêu 1.000 trong 2026; kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD năm 2030."
     },
     {
-      "title": "Sức ép lãi suất toàn cầu từ cạnh tranh vốn AI năm 2027",
-      "impact": "↓",
-      "note": "Cạnh tranh gay gắt về vốn đầu tư AI kéo tăng nhu cầu vốn và sức ép lên lãi suất thị trường; nhu cầu vay chính phủ Châu Âu cũng gia tăng, các yếu tố này có thể duy trì áp lực lên lãi suất toàn cầu năm 2027 nếu chính sách AI không thay đổi."
+      "title": "Sức ép lãi suất toàn cầu 2027: AI, chính phủ, lạm phát Mỹ",
+      "impact": "→",
+      "note": "Cạnh tranh vốn AI gia tăng nhu cầu vốn; nhu cầu vay chính phủ tăng cao (EU phát hành trái phiếu, lợi suất Nhật Bản-Mỹ tăng); kỳ vọng giảm lãi suất 2027 phụ thuộc chính sách Mỹ, nếu Mỹ chậm lại AI thì áp lực có thể dịu đi."
     }
   ]
 }
