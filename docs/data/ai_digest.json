@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-09",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Nền kinh tế Việt Nam ghi nhận những tín hiệu khả quan với xuất khẩu tháng 10 tăng vọt 51,43% và xuất siêu kỷ lục 7,31 tỷ USD, trong khi Quốc hội đã giao mục tiêu tăng trưởng 10% cho năm 2027. Ngân hàng Nhà nước sẽ cung ứng vốn thanh khoản và hỗ trợ giảm mặt bằng lãi suất, tạo điều kiện hỗ trợ doanh nghiệp và tăng trưởng. GDP bình quân đầu người dự báo sẽ vượt Indonesia, khẳng định vị trí kinh tế của Việt Nam tại Đông Nam Á. Tuy nhiên, thị trường chứng khoán vẫn chịu áp lực từ sự giảm điểm của các ngành công nghệ thông tin, năng lượng và tài chính tháng trước.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán tuần trước giảm với VN-Index giảm hơn 16 điểm, ngành công nghệ lao dốc -15,90%. Tuy nhiên, kinh tế vĩ mô ghi nhận những tín hiệu tích cực: xuất khẩu tháng 10 bứt phá 51,43% lên 64,67 tỷ USD tạo xuất siêu kỷ lục 7,31 tỷ USD; Ngân hàng Nhà nước sẽ cung vốn thanh khoản hỗ trợ giảm mặt bằng lãi suất; Quốc hội giao mục tiêu tăng trưởng 10% trở lên năm 2027; GDP bình quân đầu người Việt Nam dự báo 5.259 USD, vượt Indonesia. Rủi ro ngắn hạn từ suy yếu thị trường chứng khoán song được cân bằng bởi động lực từ xuất khẩu và hỗ trợ chính sách.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Xuất khẩu bứt phá, xuất siêu kỷ lục 7,31 tỷ USD",
       "impact": "↑",
-      "note": "Với 467/469 đại biểu tán thành (7/11), Quốc hội thông qua mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với giữ vững ổn định vĩ mô. Quyết định này phản ánh cam kết tăng tốc và bứt phá kinh tế."
+      "note": "Xuất khẩu tháng 10 tăng 51,43% so với cùng kỳ, đạt 64,67 tỷ USD; xuất siêu 7,31 tỷ USD. Nhóm máy tính và linh kiện điện tử tăng 159,70%. FDI giải ngân 3,01 tỷ USD (+20,4%). Động lực xuất khẩu trở thành hỗ trợ chính cho tăng trưởng."
     },
     {
-      "title": "Xuất khẩu tăng 51,43%, xuất siêu kỷ lục 7,31 tỷ USD",
+      "title": "Ngân hàng Nhà nước cung vốn thanh khoản, giảm lãi suất",
       "impact": "↑",
-      "note": "Xuất khẩu tháng 10 đạt 64,67 tỷ USD, tăng 51,43% so với cùng kỳ năm ngoái. Nhóm máy tính và linh kiện điện tử bứt phá 159,70%, tạo xuất siêu kỷ lục 7,31 tỷ USD, thu hẹp thâm hụt thương mại tích lũy 10 tháng."
+      "note": "NHNN cung ứng nguồn vốn thanh khoản, các ngân hàng giảm 0,5-0,7%/năm lãi suất huy động khoản tiền gửi 6 tháng trở lên; giảm 1,5-2%/năm lãi suất cho vay sản xuất kinh doanh. Hỗ trợ giảm mặt bằng lãi suất toàn hệ thống."
     },
     {
-      "title": "NHNN cung ứng vốn thanh khoản, giảm mặt bằng lãi suất",
+      "title": "Quốc hội phấn đấu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Phó Thống đốc NHNN khẳng định cung ứng thanh khoản chủ động. Các ngân hàng đã giảm 0,5-1%/năm lãi suất huy động cho tiền gửi mới kỳ hạn ≥6 tháng, giảm 1,5-2% lãi suất cho vay sản xuất kinh doanh, hỗ trợ tăng trưởng tín dụng."
+      "note": "Quốc hội thông qua Nghị quyết phấn đấu tăng trưởng kinh tế từ 10% trở lên năm 2027 với mục tiêu tạo đà tăng tốc, bứt phá, giữ ổn định vĩ mô và kiểm soát lạm phát. Tín hiệu chính sách tích cực cho kinh tế."
     },
     {
-      "title": "GDP bình quân đầu người dự báo 5.259 USD, vượt Indonesia",
+      "title": "GDP bình quân đầu người Việt Nam vượt Indonesia",
       "impact": "↑",
-      "note": "IMF dự báo GDP bình quân đầu người Việt Nam năm 2026 đạt 5.259 USD, tăng 8,9% so với năm trước, vượt Indonesia (5.153 USD). Việt Nam sẽ xếp thứ 5 Đông Nam Á, sau Thái Lan."
+      "note": "IMF dự báo GDP bình quân đầu người Việt Nam năm 2026 đạt 5.259 USD (+8,9% so với 4.829 USD năm 2025), vượt Indonesia (5.153 USD), Việt Nam vươn lên vị trí thứ 5 Đông Nam Á. Nền kinh tế Việt Nam tăng gấp đôi một thập kỷ trước."
     },
     {
-      "title": "Ngân hàng Thế giới dự báo giá bạc giảm năm 2027-2028",
+      "title": "Ngành IT giảm mạnh, thị trường chứng khoán yếu",
       "impact": "↓",
-      "note": "WB dự báo giá bạc trung bình sẽ giảm 11% xuống 62 USD/oz năm 2027 và tiếp tục giảm 6,5% xuống 58 USD/oz năm 2028. Áp lực giảm giá mạnh mẽ hơn vàng do tăng trưởng vượt trội năm 2026."
+      "note": "Tháng 10/2026, toàn bộ 7 chỉ số ngành giảm; chỉ số ngành IT (VNIT) giảm -15,90%, ngành năng lượng (VNENE) giảm -8,00%, ngành tài chính (VNFIN) giảm -3,55%. VN-Index giảm hơn 16 điểm tuần 02-06/11."
     },
     {
-      "title": "Chỉ số ngành công nghệ, năng lượng, tài chính giảm mạnh tháng 10",
+      "title": "Khối ngoại bán ròng chứng khoán",
       "impact": "↓",
-      "note": "Tháng 10, chỉ số công nghệ thông tin (VNIT) giảm -15,90%, chỉ số năng lượng (VNENE) giảm -8,00%, chỉ số tài chính (VNFIN) giảm -3,55%. Sáu ngành giảm điểm gây áp lực lên thị trường."
+      "note": "Phiên giao dịch tuần trước phản ánh áp lực bán từ khối ngoại, thị trường rơi vào giai đoạn rung lắc. Giá trị giao dịch cổ phiếu tháng 10 giảm 4,93% so với tháng 09 dù khối lượng tăng 4,36%."
     }
   ]
 }
