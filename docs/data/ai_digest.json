@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-09",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán chìm sâu trong sắc đỏ phiên 9/11 khi khối ngoại bán ròng 823 tỷ đồng, VN-Index giảm hơn 11 điểm với thanh khoản yếu. Bất động sản, ngân hàng gánh chịu áp lực bán mạnh. Dù vậy, tín hiệu dài hạn vẫn có từ mục tiêu tăng trưởng 10% năm 2027 của Quốc hội, dự án Long Thành 16 tỷ USD, và kế hoạch mở rộng các doanh nghiệp. Tâm lý thị trường thận trọng trước bầu cử Mỹ, lãi suất và lợi nhuận doanh nghiệp sẽ là động lực chính.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam phản ánh xu hướng lẫn lộn trong phiên 9/11: khối ngoại bán ròng 823 tỷ đồng và thanh khoản giảm mạnh 33% xuống 10,2k tỷ đồng, tuy nhiên chính sách tăng trưởng từ 10% trở lên năm 2027 được Quốc hội phê duyệt với 467/469 đại biểu tán thành và NHNN cam kết nới lỏng tiền tệ tạo kỳ vọng dài hạn. Các dự án hạ tầng lớn như sân bay Long Thành (16 tỷ USD) cùng sự bứt phá của bán lẻ hiện đại (BHX mở 1.800+ cửa hàng vượt kế hoạch) đang mở cơ hội đầu tư, nhưng rủi ro ngắn hạn từ dòng tiền yếu đòi hỏi giám sát chặt chẽ.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng 823 tỷ đồng, VN-Index giảm hơn 11 điểm",
+      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng từ 10% năm 2027",
+      "impact": "↑",
+      "note": "Ngày 7/11, 467/469 đại biểu Quốc hội tán thành thông qua Nghị quyết kế hoạch phát triển kinh tế - xã hội 2027 với mục tiêu tăng trưởng từ 10% trở lên, gắn với ổn định kinh tế vĩ mô và kiểm soát lạm phát. Tác động tích cực cho định hướng chính sách toàn macro."
+    },
+    {
+      "title": "NHNN cam kết nới lỏng tiền tệ hỗ trợ tăng trưởng hai chữ số",
+      "impact": "↑",
+      "note": "Tọa đàm 9/11 về giảm lãi suất tại VnEconomy, Ngân hàng Nhà nước tuyên bố sẽ cung ứng nguồn vốn thanh khoản cho thị trường và hỗ trợ giảm mặt bằng lãi suất. Tích cực cho doanh nghiệp vay vốn và thanh khoản thị trường."
+    },
+    {
+      "title": "Khối ngoại bán ròng 823 tỷ đồng, VN-Index giảm 11 điểm",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 823 tỷ đồng cổ phiếu toàn thị trường; xả mạnh HPG (-130 tỷ), VIC (-90 tỷ), PNJ (-84 tỷ); VN-Index giảm hơn 11 điểm trong phiên sáng, thanh khoản HoSE 14.000 tỷ đồng."
+      "note": "Phiên 9/11, khối ngoại bán ròng 823 tỷ đồng cổ phiếu toàn thị trường, VN-Index giảm 11 điểm chốt tại 1.714 điểm với thanh khoản HoSE gần 14.000 tỷ đồng. Tiêu cực, cho thấy áp lực xả hàng từ nhà đầu tư nước ngoài."
     },
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng từ 10% trở lên năm 2027",
+      "title": "Dự án sân bay Long Thành tổng vốn 16 tỷ USD",
       "impact": "↑",
-      "note": "Với 467/469 đại biểu tán thành (7/11), mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
+      "note": "Cảng hàng không quốc tế Long Thành quy hoạch 5.000 ha tại Đồng Nai, công suất 100 triệu hành khách và 5 triệu tấn hàng hóa mỗi năm khi hoàn thành, 4 đường băng dài 4km. Dự án hạ tầng đặc biệt quan trọng, hỗ trợ tăng trưởng kinh tế dài hạn."
     },
     {
-      "title": "Sân bay Long Thành 16 tỷ USD, công suất 100 triệu hành khách/năm",
-      "impact": "↑",
-      "note": "Dự án trên 5.000 ha Đồng Nai, giai đoạn 1 công suất 25 triệu hành khách + 1,2 triệu tấn hàng/năm; sở hữu 4 đường băng 4km dài nhất VN; cuối cùng tiếp nhận 100 triệu hành khách + 5 triệu tấn hàng/năm."
-    },
-    {
-      "title": "VN-Index giảm 21 điểm (-1,23%), HNX-Index giảm 1,33%",
+      "title": "Thanh khoản HSX sụt giảm 33%, gần 10,2k tỷ đồng",
       "impact": "↓",
-      "note": "Tạm nghỉ giữa phiên VN-Index lùi về 1.704,13 điểm; 332 mã giảm/248 mã tăng; VIC gây sức ép 10,32 điểm; thanh khoản HOSE 259 triệu đơn vị, giảm 37,6% so với phiên trước."
+      "note": "Phiên 9/11 giao dịch khớp lệnh HSX giảm 33% so với cuối tuần trước, chỉ đạt gần 10,2k tỷ đồng, thấp nhất kể từ 16/10. Dòng tiền chờ mua thụ động, rủi ro giá còn có cơ hội giảm sâu."
     },
     {
-      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng 10 tỷ USD năm 2030",
+      "title": "Bách Hoá Xanh mở 1.800+ cửa hàng, vượt kế hoạch 1.000",
       "impact": "↑",
-      "note": "BHX vượt kế hoạch 1.000 cửa hàng (6/11 đã mở gần 1.800); thử nghiệm mô hình mini với tín hiệu khả quan; kết hợp nhiều định dạng sẽ tạo cơ hội đạt doanh thu 10 tỷ USD 2030."
-    },
-    {
-      "title": "Chênh lệch vàng trong-ngoài thấp nhất 3 tuần (12,6 triệu/lượng)",
-      "impact": "→",
-      "note": "Vàng miếng SJC cao hơn giá thế giới quy đổi (bao gồm thuế, phí) khoảng 12,6 triệu đồng/lượng, thấp nhất kể từ giữa tháng 10/2026; giá vàng tăng 700 nghìn đồng so với 7/11 nhưng volatility giảm."
+      "note": "BHX đã mở 1.800+ cửa hàng năm 2026 (vượt kế hoạch 1.000), thử nghiệm mô hình mini với tín hiệu khả quan, hướng tới doanh thu 10 tỷ USD năm 2030. Tích cực cho bán lẻ hiện đại, phản ánh chuyển dịch tiêu dùng."
     }
   ]
 }
