@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-09",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Tuần giao dịch đầu tháng 11, thị trường chứng khoán Việt Nam cân bằng giữa yếu tố tích cực và tiêu cực. Chính phủ yêu cầu giảm lãi suất cho vay hỗ trợ doanh nghiệp, Quốc hội đề ra mục tiêu GDP 2027 tăng 10% trở lên, các doanh nghiệp như Bách Hoá Xanh mở rộng mạnh mẽ. Dự án hạ tầng Long Thành triển khai với vốn 16 tỷ USD tiếp tục thúc đẩy tăng trưởng dài hạn. Tuy nhiên khối ngoại bán ròng 823 tỷ đồng và thanh khoản HSX giảm 33% phản ánh tâm lý thị trường còn thận trọng.",
+  "summary_vi": "Quốc hội đặt mục tiêu tăng trưởng từ 10% năm 2027, đồng thời Chính phủ yêu cầu giảm lãi suất và kiểm soát chất lượng tín dụng bất động sản, tạo hỗ trợ chính sách cho nền kinh tế. Tuy nhiên, phiên 9/11 ghi nhận VN-Index giảm 11 điểm và khối ngoại bán ròng 823 tỷ, phản ánh tâm lý thận trọng. Dự án hạ tầng như sân bay Long Thành (16 tỷ USD) và kế hoạch mở rộng của Bách Hoá Xanh cung cấp động lực dài hạn, nhưng kỳ vọng phục hồi kinh tế vẫn phụ thuộc vào khả năng hấp thụ vốn.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu GDP 2027 tăng 10% trở lên",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Quốc hội thông qua nghị quyết với 467/469 đại biểu tán thành (7/11), đặt mục tiêu tăng trưởng kinh tế từ 10% trở lên gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
+      "note": "Với 467/469 đại biểu tán thành (7/11), Quốc hội thông qua Nghị quyết tăng trưởng kinh tế từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn — hỗ trợ tâm lý nhà đầu tư dài hạn."
     },
     {
-      "title": "Chính phủ yêu cầu giảm lãi suất cho vay",
+      "title": "Chính phủ yêu cầu Ngân hàng Nhà nước xử lý và giảm lãi suất",
       "impact": "↑",
-      "note": "Chính phủ ký Nghị quyết 353/NQ-CP (6/11/2026) yêu cầu NHNN xử lý các tổ chức tín dụng không chấp hành chỉ đạo giảm lãi suất, giám sát khả năng trả nợ doanh nghiệp bất động sản."
+      "note": "Chính phủ ký Nghị quyết 353/NQ-CP (6/11) yêu cầu Ngân hàng Nhà nước tăng cường thanh tra, xử lý nghiêm các tổ chức tín dụng không chấp hành chỉ đạo giảm lãi suất; kiểm soát chặt chẽ chất lượng tín dụng bất động sản — hỗ trợ chi phí vay vốn doanh nghiệp."
     },
     {
-      "title": "Khối ngoại bán ròng 823 tỷ đồng",
+      "title": "VN-Index giảm 11 điểm, khối ngoại bán ròng 823 tỷ",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 823 tỷ đồng toàn thị trường phiên 9/11, bán mạnh VIC (90 tỷ đồng) và HPG (130 tỷ đồng), phản ánh tâm lý thị trường thận trọng."
+      "note": "Phiên 9/11: VN-Index giảm 11,04 điểm (-0,64%) xuống 1.714,32 điểm, thanh khoản giảm 33% so với tuần trước (chỉ 10.15 ngàn tỷ đồng); khối ngoại bán ròng 823 tỷ đồng, xả HPG (-130 tỷ) và VIC (-90 tỷ) — tâm lý thận trọng, dòng tiền rút lui."
     },
     {
-      "title": "Sân bay Long Thành - dự án 16 tỷ USD",
+      "title": "Sân bay Long Thành 16 tỷ USD, công suất 100 triệu hành khách",
       "impact": "↑",
-      "note": "Sân bay Long Thành có tổng vốn đầu tư hơn 16 tỷ USD, giai đoạn 1 phục vụ 25 triệu hành khách/năm, toàn bộ hoàn thành lên tới 100 triệu hành khách/năm và 5 triệu tấn hàng hóa/năm."
+      "note": "Dự án hạ tầng giao thông trên 5.000 ha Đồng Nai, tổng vốn 16 tỷ USD: 3 giai đoạn với 4 đường băng dài 4km (dài nhất VN); giai đoạn 1 công suất 25 triệu hành khách/năm, toàn bộ lên tới 100 triệu hành khách/năm và 5 triệu tấn hàng hóa/năm — cơ hội khuếch tán kinh tế khu vực nam."
     },
     {
-      "title": "Thanh khoản HSX giảm mạnh 33%",
+      "title": "Bách Hoá Xanh kế hoạch mở chuỗi mini, hướng tới 10 tỷ USD",
+      "impact": "↑",
+      "note": "6/11, Tổng Giám đốc MWG công bố Bách Hoá Xanh thử nghiệm mô hình cửa hàng mini; BHX đã mở gần 1.800 cửa hàng năm 2026 (vượt mục tiêu 1.000), kết hợp nhiều định dạng để đạt mục tiêu doanh thu 10 tỷ USD năm 2030 — xu hướng chuyển dịch sang kênh bán lẻ hiện đại."
+    },
+    {
+      "title": "Lợi nhuận Berkshire giảm 28%, TV1 kiện toàn nhân sự",
       "impact": "↓",
-      "note": "Thanh khoản khớp lệnh HSX phiên 9/11 giảm 33% so với cuối tuần trước, chỉ đạt gần 10.200 tỷ đồng (thấp nhất từ 16/10), dòng tiền chờ mua quá thụ động."
-    },
-    {
-      "title": "Bách Hoá Xanh mở mới gần 1.800 cửa hàng",
-      "impact": "↑",
-      "note": "Bách Hoá Xanh thử nghiệm mô hình mini với tín hiệu khả quan, đã mở mới gần 1.800 cửa hàng vượt xa mục tiêu 1.000 năm 2026, hướng tới doanh thu 10 tỷ USD năm 2030."
+      "note": "Berkshire lợi nhuận ròng Q3 giảm 28% còn 22,11 tỷ USD do suy giảm bảo hiểm Geico; cùng lúc TV1 bổ nhiệm 3 Phó Tổng giám đốc do Chủ tịch Nguyễn Hữu Chỉnh bị Bộ Công an bắt (2/6 tạm đình chỉ) — rủi ro tập trung từ nhân sự."
     }
   ]
 }
