@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-10",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường nhận tín hiệu tích cực từ chính sách hỗ trợ: Quốc hội giao mục tiêu tăng trưởng GDP 2027 từ 10% trở lên, NHNN bơm thanh khoản VND từ 11/11 (tỷ giá 25.500 đ/USD), Chính phủ yêu cầu xử lý ngân hàng không giảm lãi suất. Dòng tiền hồi phục mạnh với khối lượng HOSE tăng 30%, HNX tăng 60%. Chi phí vốn ngân hàng tăng do nợ xấu cao cản trở giảm lãi suất. Rủi ro vẫn tồn tại từ khối ngoại bán ròng 800+ tỷ và Fed tín hiệu tiếp tục thắt chặt chính sách tiền tệ.",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027 với ổn định vĩ mô; NHNN bơm thanh khoản VND từ 11/11 qua mua ngoại tệ giao ngay (25.500 đ/USD) định kỳ hai phiên mỗi tuần. Dòng tiền hồi phục mạnh, khối lượng HOSE tăng 30%, HNX tăng 60%, nhóm chứng khoán và BĐS hút tiền nổi bật. Chính phủ yêu cầu giám sát chặt khả năng trả nợ BĐS và xử lý ngân hàng không giảm lãi suất, cảnh báo rủi ro tín dụng.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng GDP 10%+ năm 2027",
       "impact": "↑",
-      "note": "Quốc hội ngày 7/11 thông qua Nghị quyết (467/469 đại biểu tán thành) mục tiêu tăng trưởng GDP 2027 từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Năm 2027 được xác định là năm 'tăng tốc, bứt phá, tạo đà'."
+      "note": "Sáng 7/11, Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Xác định 2027 là năm 'tăng tốc, bứt phá, tạo đà'."
     },
     {
-      "title": "NHNN bơm thanh khoản VND từ 11/11, mua USD giao ngay định kỳ",
+      "title": "NHNN bơm VND định kỳ từ 11/11, mua ngoại tệ giao ngay",
       "impact": "↑",
-      "note": "NHNN từ 11/11/2026 thực hiện mua ngoại tệ giao ngay hai phiên mỗi tuần (thứ Hai, thứ Tư) với tỷ giá 25.500 đ/USD, cung ứng VND không xác định thời gian thu hồi. Hỗ trợ thanh khoản hệ thống ngân hàng trong bối cảnh thắt chặt chính sách tiền tệ."
+      "note": "NHNN từ 11/11/2026 thực hiện mua ngoại tệ giao ngay hai phiên mỗi tuần (thứ Hai, thứ Tư) với tỷ giá 25.500 đ/USD, cung ứng VND không xác định thời gian thu hồi, hỗ trợ thanh khoản hệ thống ngân hàng."
     },
     {
       "title": "Dòng tiền hồi phục mạnh vào chứng khoán và bất động sản",
       "impact": "↑",
-      "note": "Tuần 2-6/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), HNX tăng 60% (67 triệu đơn vị/phiên). Nhóm bất động sản hút tiền: KDH +200%, HDG, HDC, TAL, TIG, CEO +100% khối lượng. VN-Index giảm 1% nhưng thanh khoản tăng mạnh."
+      "note": "Tuần 02-06/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đ/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đ/phiên). Nhóm bất động sản và chứng khoán hút tiền nổi bật."
     },
     {
-      "title": "Chính phủ yêu cầu NHNN xử lý ngân hàng không giảm lãi suất",
+      "title": "Chính phủ yêu cầu xử lý nghiêm ngân hàng, giám sát BĐS",
+      "impact": "→",
+      "note": "Chính phủ qua Nghị quyết 353/NQ-CP ngày 6/11 yêu cầu NHNN tăng cường thanh tra, xử lý tổ chức tín dụng không giảm lãi suất cho vay; giám sát chặt chẽ chất lượng tín dụng, khả năng trả nợ đến hạn của doanh nghiệp bất động sản."
+    },
+    {
+      "title": "Sân bay Long Thành 16 tỷ USD, công suất 25 triệu hành khách/năm",
       "impact": "↑",
-      "note": "Chính phủ qua Nghị quyết 353/NQ-CP ngày 6/11 yêu cầu NHNN tăng cường thanh tra, xử lý các tổ chức tín dụng cạnh tranh lãi suất không lành mạnh; giám sát chặt chẽ chất lượng tín dụng và khả năng trả nợ doanh nghiệp bất động sản."
+      "note": "Dự án hạ tầng giao thông lớn nhất VN, tổng vốn 16 tỷ USD trên 5.000 ha, 3 giai đoạn. Giai đoạn 1 có 2 đường băng dài 4km (dài nhất VN), công suất 25 triệu lượt hành khách/năm, tiếp nhận máy bay lớn nhất thế giới, hỗ trợ tăng trưởng dài hạn."
     },
     {
-      "title": "Khối ngoại bán ròng hơn 800 tỷ đồng, áp lực lên chỉ số",
-      "impact": "↓",
-      "note": "Khối ngoại bán ròng 799 tỷ đ HOSE, 12 tỷ đ HNX, 4,7 tỷ đ UPCoM. Nhóm bất động sản yếu (VHM -2,74%), tiêu dùng (MCH -2,93%, VNM -1,56%, MSN -2,05%). Tín hiệu rút vốn của nhà đầu tư nước ngoài."
-    },
-    {
-      "title": "Fed tín hiệu tiếp tục tăng lãi suất, chi phí rủi ro ngân hàng tăng",
-      "impact": "↓",
-      "note": "Ba quan chức Fed phát biểu (6/11) cần thắt chặt chính sách hơn nữa. BLS báo cáo tạo 165.000 việc làm tháng 10 (vượt dự báo 100.000), thất nghiệp 4,1%, CPI 3,7%. Chi phí dự phòng nợ xấu cao: nợ nhóm 2→3 tăng từ 5%→20%, nhóm 3→4 lên 50%."
+      "title": "Loạt thương hiệu Việt về tay nước ngoài, M&A gia tăng",
+      "impact": "→",
+      "note": "Kokuyo (Nhật) hoàn tất nhận chuyển 46,82% vốn Thiên Long ngày 6/11, kế hoạch chào mua công khai thêm 18,19% để nâng lên trên 65% làm công ty con. Song song, Sabeco, Nhựa Bình Minh lần lượt đổi chủ, cho thấy M&A nước ngoài vẫn mạnh trong bối cảnh khối ngoại bán ròng."
     }
   ]
 }
