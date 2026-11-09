@@ -2,12 +2,17 @@
   "_opus": true,
   "date": "2026-11-09",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Hôm nay (9/11), thị trường chứng khoán Việt Nam hưởng lợi từ các chính sách hỗ trợ trong nước: NHNN điều hành thanh khoản tích cực, yêu cầu giảm lãi suất huy động 0,5-1%/năm và lãi suất cho vay 1,5-2% cho các lĩnh vực ưu tiên, nhằm hỗ trợ tăng trưởng 2 con số. Quốc hội thông qua mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên (467/469 đại biểu tán thành). GDP bình quân đầu người Việt Nam dự kiến đạt 5.259 USD năm 2026, vượt Indonesia (5.153 USD). Tuy nhiên, áp lực từ toàn cầu vẫn tồn tại: giá dầu và bitcoin giảm nhẹ, ngành công nghệ/AI yếu do OpenAI chỉ huy động được 11 tỷ USD (thấp hơn kỳ vọng 30 tỷ USD).",
+  "summary_vi": "Thị trường chứng khoán Việt Nam nhận lực hỗ trợ mạnh từ chính sách: NHNN điều hành thanh khoản chủ động, yêu cầu giảm lãi suất huy động 0,5-1% và cho vay 1,5-2%, kích thích tăng trưởng 2 con số. Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027 (467/469 tán thành), GDP bình quân đầu người Việt Nam sắp vượt Indonesia đạt 5.259 USD. Doanh nghiệp như Lilama 10 tận dụng cơ hội với đơn hàng 1,7 tỷ USD, bán lẻ tăng tốc qua mở rộng Bách Hoá Xanh. Rủi ro từ toàn cầu: giá dầu, bitcoin giảm phản ánh sự thận trọng của nhà đầu tư.",
   "top": [
+    {
+      "title": "Lilama 10 gửi module cuối cùng dự án TA'ZIZ Methanol 1,7 tỷ USD",
+      "impact": "↑",
+      "note": "Module thứ 6 (cuối cùng) rời cảng Quảng Ngãi ngày 3/11, tổng 6.000 tấn thiết bị vận chuyển sang UAE. Lilama 10 đảm nhiệm thi công, lắp đặt kết cấu, hệ thống điện, đường ống trên các module công nghiệp. Lãi 9 tháng vượt 500% kế hoạch cả năm, minh chứng sức mạnh doanh nghiệp xuất khẩu Việt Nam."
+    },
     {
       "title": "NHNN điều hành thanh khoản tích cực, giảm lãi suất 0,5-1% và 1,5-2%",
       "impact": "↑",
-      "note": "Phó Thống đốc Phạm Thanh Hà xác nhận NHNN cung ứng nguồn vốn thanh khoản chủ động; các ngân hàng giảm lãi suất huy động niêm yết 0,5%/năm cho tiền gửi từ 6 tháng trở lên, giảm lãi suất cho vay 1,5-2% cho sản xuất, kinh doanh. Lãi suất huy động thực tế giảm khoảng 0,4%/năm, lãi suất cho vay giảm 0,2-0,5% cuối tháng 10."
+      "note": "Phó Thống đốc Phạm Thanh Hà xác nhận NHNN cung ứng nguồn vốn thanh khoản chủ động; các ngân hàng giảm lãi suất huy động niêm yết 0,5%/năm cho tiền gửi từ 6 tháng trở lên, giảm lãi suất cho vay 1,5-2% cho sản xuất, kinh doanh. Lãi suất huy động thực tế giảm khoảng 0,4%/năm cuối tháng 10."
     },
     {
       "title": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027",
@@ -15,24 +20,19 @@
       "note": "Sáng 7/11, Quốc hội thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027 với 467/469 đại biểu tán thành (99,6%), phấn đấu tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
     },
     {
-      "title": "GDP bình quân đầu người 5.259 USD, vượt Indonesia",
+      "title": "GDP bình quân đầu người 5.259 USD, sắp vượt Indonesia",
       "impact": "↑",
-      "note": "Theo IMF, GDP bình quân đầu người Việt Nam năm 2026 đạt 5.259 USD (tăng 8,9% so với 4.829 USD năm 2025), vượt Indonesia (5.153 USD) để xếp thứ 5 ASEAN, ngay sau Thái Lan; GDP danh nghĩa dự báo 542 tỷ USD."
+      "note": "Theo IMF, GDP bình quân đầu người Việt Nam năm 2026 đạt 5.259 USD (tăng 8,9%), vượt Indonesia (5.153 USD) để xếp thứ 5 ASEAN. GDP danh nghĩa dự báo 542 tỷ USD; đầu tư công 1 triệu tỷ đồng (38,7 tỷ USD) hỗ trợ tăng trưởng."
+    },
+    {
+      "title": "Bách Hoá Xanh mở gần 1.800 cửa hàng, sắp ra mắt mô hình mini",
+      "impact": "↑",
+      "note": "Chuỗi bán lẻ thực phẩm mở 1.800 cửa hàng vượt mục tiêu 1.000; đang thử nghiệm mô hình mini với tín hiệu khả quan, sẽ nhân rộng song song với mô hình hiện hữu. Kết hợp định dạng cửa hàng nhằm đạt doanh thu 10 tỷ USD vào 2030."
     },
     {
       "title": "Giá dầu, bitcoin giảm do Trump nói không tấn công Iran",
       "impact": "↓",
-      "note": "Sáng 9/11, dầu Brent giảm 0,64% xuống 97,67 USD/thùng, WTI giảm 0,4% xuống 90,51 USD/thùng; bitcoin và ether chạm mức thấp nhất hơn 2 tháng, sau phát biểu Trump rằng khả năng Mỹ tấn công Iran là rất thấp tùy thỏa thuận."
-    },
-    {
-      "title": "OpenAI huy động 11 tỷ USD, định giá 1.250 tỷ USD thấp kỳ vọng",
-      "impact": "↓",
-      "note": "OpenAI chỉ huy động 11 tỷ USD với định giá 1.250 tỷ USD, thấp hơn kỳ vọng 30 tỷ USD và 1.500 tỷ USD do giảm sút cổ phiếu công nghệ và tác động từ bầu cử giữa kỳ Mỹ; Anthropic cũng điều chỉnh định giá IPO xuống 1.500 tỷ USD."
-    },
-    {
-      "title": "WB dự báo giá vàng, bạc giảm trong 2027-2028",
-      "impact": "↓",
-      "note": "Ngân hàng Thế giới dự báo giá vàng trung bình 4.700 USD/oz năm 2026, giảm xuống 4.300 USD/oz năm 2027; giá bạc giảm từ 70 USD/oz (2026) xuống 62 USD/oz (2027) và 58 USD/oz (2028); chỉ số giá kim loại quý chung giảm 8,3% năm 2027 sau khi tăng 40% năm 2026."
+      "note": "Sáng 9/11, dầu Brent giảm 0,64% xuống 97,67 USD/thùng, WTI giảm 0,4% xuống 90,51 USD/thùng; bitcoin và ether chạm mức thấp nhất hơn 2 tháng. Phát biểu Trump khả năng tấn công Iran thấp, song áp lực bán mạnh tiền điện tử phản ánh lo ngại kinh tế toàn cầu."
     }
   ]
 }
