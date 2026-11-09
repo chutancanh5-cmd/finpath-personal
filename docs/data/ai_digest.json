@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-09",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán hôm nay giảm do thanh khoản thấp và bán ròng của khối ngoại (VN-Index -11, HOSE -26%). Tuy nhiên, NHNN sẽ mua ngoại tệ giao ngay từ 11/11 để cung ứng VND, Chính phủ yêu cầu giảm lãi suất, và đặt mục tiêu tăng trưởng 2027 từ 10% trở lên. Các doanh nghiệp lớn cũng tiếp tục tăng tốc mở rộng, gợi ý những tín hiệu tích cực dài hạn bất chấp áp lực ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường hôm nay giảm do thanh khoản thấp (HOSE 13.8 ngàn tỷ, giảm 26%), cả khối tự doanh và ngoại cùng bán ròng với VN-Index -11 điểm. Tuy nhiên, chính sách hỗ trợ mạnh mẽ từ NHNN bắt đầu mua ngoại tệ từ 11/11, Chính phủ yêu cầu giảm lãi suất, và Quốc hội đặt mục tiêu tăng trưởng 2027 từ 10% trở lên tạo nền tảng tích cực dài hạn. Dự án sân bay Long Thành (16 tỷ USD) và mở rộng Bách Hoá Xanh (1.800 cửa hàng) phản ánh tăng trưởng kinh tế bền vững.",
   "top": [
     {
-      "title": "NHNN mua ngoại tệ giao ngay 25.500 VND/USD",
+      "title": "NHNN mua ngoại tệ giao ngay 25.500 VND/USD từ 11/11",
       "impact": "↑",
-      "note": "NHNN triển khai mua ngoại tệ giao ngay từ 11/11 (hai phiên mỗi tuần) với tỷ giá 25.500 đồng/USD để cung ứng VND không xác định thời gian thu hồi, hỗ trợ thanh khoản và khả năng cân đối vốn của hệ thống ngân hàng."
-    },
-    {
-      "title": "Khối tự doanh, ngoại cùng bán ròng giữa thanh khoản thấp",
-      "impact": "↓",
-      "note": "VN-Index giảm 11 điểm xuống 1.704 điểm trong phiên 9/11, thanh khoản HOSE chỉ 13.8 ngàn tỷ đồng (giảm 26% so với phiên cuối tuần trước), cả khối tự doanh (bán ròng 458 tỷ) và ngoại (bán ròng 817 tỷ) cùng tạo áp lực."
+      "note": "NHNN chính thức triển khai mua ngoại tệ giao ngay vào thứ Hai và thứ Tư hằng tuần từ 11/11/2026 với tỷ giá can thiệp 25.500 đồng/USD, cung ứng VND không xác định thời gian thu hồi để hỗ trợ thanh khoản, khả năng cân đối vốn và giảm mặt bằng lãi suất."
     },
     {
       "title": "Quốc hội mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, đặt mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, tập trung phấn đấu tăng tốc, bứt phá kèm ổn định vĩ mô và kiểm soát lạm phát."
+      "note": "Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành (7/11), đặt mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn và nâng cao đời sống Nhân dân."
     },
     {
-      "title": "Chính phủ yêu cầu giảm lãi suất cho vay",
+      "title": "Chính phủ yêu cầu xử lý ngân hàng không giảm lãi suất",
       "impact": "↑",
-      "note": "Chính phủ ban hành Nghị quyết yêu cầu NHNN tăng cường thanh tra, xử lý các tổ chức tín dụng không chấp hành chỉ đạo giảm lãi suất, và giám sát chặt chẽ khả năng trả nợ của doanh nghiệp bất động sản."
+      "note": "Chính phủ ban hành Nghị quyết 353/NQ-CP yêu cầu NHNN tăng cường thanh tra, giám sát và xử lý các tổ chức tín dụng không chấp hành chỉ đạo giảm lãi suất cho vay, cạnh tranh lãi suất không lành mạnh."
     },
     {
-      "title": "Bách Hoá Xanh ra mắt mô hình mini, hướng 10 tỷ USD",
+      "title": "Sân bay Long Thành 16 tỷ USD, công suất 100 triệu khách/năm",
       "impact": "↑",
-      "note": "Bách Hoá Xanh thử nghiệm mô hình cửa hàng mini và nhân rộng khi ổn định, kết hợp nhiều định dạng để đạt mục tiêu doanh thu 10 tỷ USD vào 2030; năm 2026 mở 1.800 cửa hàng (vượt kế hoạch 1.000)."
+      "note": "Sân bay Long Thành tổng vốn đầu tư hơn 16 tỷ USD sẽ có công suất 100 triệu hành khách và 5 triệu tấn hàng hóa mỗi năm khi hoàn thành 3 giai đoạn, với 4 đường băng dài 4km là dài nhất Việt Nam, trở thành cửa ngõ hàng không quốc tế mới cho khu vực phía Nam."
     },
     {
-      "title": "HGI lên UPCoM, tạm ứng cổ tức 7%",
+      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng 10 tỷ USD 2030",
       "impact": "↑",
-      "note": "HGI của Hoàng Anh Gia Lai chính thức giao dịch UPCoM với giá tham chiếu 60.600 đồng/cổ phiếu sau IPO thành công thu 1.139 tỷ đồng; cổ phiếu tăng 5,38% phiên đầu, tạm ứng cổ tức 7% (700 đồng/cổ phiếu)."
+      "note": "Bách Hoá Xanh vượt xa kế hoạch năm 2026 khi đã mở gần 1.800 cửa hàng (dự định 1.000), đang thử nghiệm mô hình mini với tín hiệu khả quan để kết hợp nhiều định dạng nhằm đạt mục tiêu doanh thu 10 tỷ USD vào 2030."
+    },
+    {
+      "title": "Khối tự doanh, ngoại cùng bán ròng giữa thanh khoản thấp",
+      "impact": "↓",
+      "note": "VN-Index giảm 11 điểm xuống 1.704 điểm phiên 9/11, thanh khoản HOSE chỉ 13.8 ngàn tỷ đồng (giảm 26% so với cuối tuần), khối tự doanh bán ròng 458 tỷ đồng và khối ngoại bán ròng 817 tỷ đồng, tạo áp lực giảm giá diện rộng bất chấp VIC phục hồi."
     }
   ]
 }
