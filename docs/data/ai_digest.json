@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội giao mục tiêu tăng trưởng 2027 từ 10% trở lên với 467/469 đại biểu tán thành, NHNN dự báo giảm lãi suất huy động 0,3% đến cuối năm tạo kỳ vọng hỗ trợ chính sách. Tuy nhiên thị trường hôm nay suy yếu: VN-Index -1,23% với thanh khoản giảm 37,6%, phản ánh tâm lý bán áp đảo. Bên dương có Bách Hoá Xanh mở 1.800 cửa hàng vượt mục tiêu, Nam A Bank vốn hóa 1.320 tỷ đồng, FPT Telecom phát hành cổ phiếu thưởng, song sân bay Long Thành và hợp tác Mỹ chưa phản ánh trong giao dịch.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán giảm sâu 1,23% ngày 9/11 do áp lực bán từ nhóm bất động sản và tài chính. Tuy nhiên, triển vọng dài hạn được hỗ trợ bởi mục tiêu tăng trưởng 10% năm 2027 từ Quốc hội, các dự án hạ tầng lớn như sân bay Long Thành 16 tỷ USD, và kế hoạch mở rộng của các doanh nghiệp bán lẻ. Lãi suất dự kiến tiếp tục giảm sẽ hỗ trợ cho nền kinh tế.",
   "top": [
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027",
-      "impact": "↑",
-      "note": "467/469 đại biểu Quốc hội tán thành Nghị quyết 7/11 giao mục tiêu tăng trưởng từ 10% trở lên năm 2027 gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. GDP 9 tháng 2026 đạt 9,01% tạo nền tảng cho kỳ vọng tăng tốc."
-    },
-    {
-      "title": "NHNN dự tính giảm lãi suất huy động 0,3% đến cuối 2026",
-      "impact": "↑",
-      "note": "Tọa đàm 9/11 VnEconomy thảo luận hỗ trợ tăng trưởng 2 con số. Dự báo lãi suất huy động giảm thêm 0,3% từ nay đến cuối năm 2026, NHNN cung ứng nguồn vốn thanh khoản hỗ trợ doanh nghiệp và nền kinh tế."
-    },
-    {
-      "title": "VN-Index -1,23%, thanh khoản giảm 37,6%",
+      "title": "VN-Index giảm 1,23%, bất động sản và tài chính dẫn đầu mã giảm",
       "impact": "↓",
-      "note": "VN-Index giảm 21 điểm (-1,23%) xuống 1.704,13, HNX-Index -1,33% xuống 253,32. Độ rộng âm: 332 mã giảm vs 248 mã tăng. Thanh khoản HOSE 259 triệu đơn vị (giảm 37,6%), phản ánh áp lực bán áp đảo, bất động sản và tài chính chịu áp lực."
+      "note": "VN-Index giảm 21 điểm lùi về 1.704,13 điểm; HNX-Index giảm 1,33%; 332 mã giảm/248 mã tăng; VIC (-2,77%), VHM (-1,45%), VPB (-2,82%), MBB (-1,3%)"
     },
     {
-      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng 10 tỷ USD",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng từ 10% trở lên năm 2027",
       "impact": "↑",
-      "note": "TGĐ Vũ Đăng Linh thông báo 6/11 BHX đã mở gần 1.800 cửa hàng vượt xa mục tiêu 1.000 cửa hàng năm 2026. Đang thử nghiệm mô hình mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng để hướng tới doanh thu 10 tỷ USD năm 2030."
+      "note": "467/469 đại biểu tán thành; năm 2027 là năm tăng tốc, bứt phá; mục tiêu gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn"
     },
     {
-      "title": "Nam A Bank chào bán riêng 100 triệu cp, dự tính thu 1.320 tỷ đồng",
+      "title": "Sân bay Long Thành - dự án 16 tỷ USD trên 5.000 ha",
       "impact": "↑",
-      "note": "Nam A Bank (NAB) chào bán 100 triệu cổ phiếu với giá 13.200 đồng/cp tương ứng 1.320 tỷ đồng. Quỹ ngoại KIM Vietnam dự kiến nhận 44,89 triệu cp (45% đợt chào), cùng MB Capital, FPT Capital, KIS Việt Nam tham gia vốn hóa ngân hàng."
+      "note": "Giai đoạn 1 phục vụ 25 triệu hành khách + 1,2 triệu tấn hàng/năm; sẽ có 4 đường băng 4km, dài nhất Việt Nam; công suất cuối cùng 100 triệu hành khách + 5 triệu tấn hàng/năm"
     },
     {
-      "title": "Sân bay Long Thành 16 tỷ USD, công suất 100 triệu hành khách/năm",
+      "title": "Bách Hoá Xanh mở 1.800 cửa hàng năm 2026, mục tiêu 10 tỷ USD 2030",
       "impact": "↑",
-      "note": "Dự án sân bay Long Thành tổng vốn 16 tỷ USD trên 5.000 ha. Giai đoạn 1: 25 triệu hành khách + 1,2 triệu tấn hàng/năm. Hoàn thành toàn bộ 3 giai đoạn: 100 triệu hành khách + 5 triệu tấn hàng/năm, 4 đường băng dài 4km mỗi đường, tiếp nhận máy bay lớn nhất thế giới."
+      "note": "Vượt kế hoạch 1.000 cửa hàng; sắp ra mắt mô hình mini; kết hợp nhiều định dạng sẽ giúp đạt mục tiêu doanh thu 10 tỷ USD 2030"
+    },
+    {
+      "title": "Chủ tịch HĐQT TV1 Nguyễn Hữu Chỉnh bị bắt, kiện toàn nhân sự",
+      "impact": "↓",
+      "note": "Ông Nguyễn Hữu Chỉnh bị Bộ Công an khởi tố, bắt tạm giam; TV1 bổ nhiệm 3 Phó TGĐ mới (Trần Thái Hải, Phùng Thế Anh, Nguyễn Thanh Tùng)"
+    },
+    {
+      "title": "FPT Telecom phát hành 110,8 triệu cổ phiếu thưởng, tăng vốn điều lệ",
+      "impact": "↑",
+      "note": "Tỷ lệ 100:15; tăng vốn từ 7.388 tỷ đồng lên 8.496 tỷ đồng; ngày đăng ký 10/12/2026; cùng ngày chi trả cổ tức 20% bằng tiền mặt"
     }
   ]
 }
