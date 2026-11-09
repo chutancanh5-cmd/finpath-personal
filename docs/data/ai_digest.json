@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-09",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường nhận được những tín hiệu vĩ mô tích cực: Quốc hội thông qua mục tiêu tăng trưởng GDP 10%+ năm 2027, IMF dự báo GDP 2026 đạt 542 tỷ USD với bình quân đầu người 5.259 USD (vượt Indonesia). Ngân hàng và bán lẻ hứa hẹn với lợi nhuận ngân hàng tăng 20% và Bách Hoá Xanh mở 1.800 cửa hàng. Tuy nhiên, áp lực từ sự cạnh tranh vốn toàn cầu cho AI, nhu cầu vay chính phủ tăng và phát hiện sai phạm tại quỹ tín dụng nhân dân cảnh báo rủi ro hệ thống cần lưu ý.",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên, GDP bình quân đầu người Việt Nam sắp vượt Indonesia nhờ đầu tư công 38,7 tỷ USD, ngân hàng ghi nhận lợi nhuận Q3 tăng 20% tạo cơ sở cho dòng tiền chọn lọc vào cổ phiếu định giá rẻ. Tuy nhiên, áp lực lãi suất toàn cầu từ cạnh tranh vốn AI và nhu cầu vay chính phủ tăng có thể hạn chế không gian giảm lãi suất trong nước, cộng rủi ro từ sai phạm hệ thống tài chính cơ sở.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng GDP 10%+ năm 2027",
+      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "467/469 đại biểu thông qua kế hoạch phát triển kinh tế-xã hội năm 2027 với mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định kinh tế vĩ mô và kiểm soát lạm phát. Đây là giai đoạn tăng tốc, bứt phá để thực hiện Nghị quyết Đại hội XIV của Đảng."
+      "note": "Nghị quyết được 467/469 đại biểu thông qua sáng 7/11, tập trung phấn đấu tăng trưởng từ 10% trở lên gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn"
     },
     {
-      "title": "GDP 542 tỷ USD, bình quân đầu người vượt Indonesia",
+      "title": "GDP bình quân đầu người Việt Nam vượt Indonesia năm 2026",
       "impact": "↑",
-      "note": "IMF dự báo GDP 2026 đạt hơn 542 tỷ USD, GDP bình quân đầu người 5.259 USD (tăng 8,9% so với 2025), vượt Indonesia 5.153 USD. Việt Nam tăng tốc từ khi nước có GDP bình quân đầu người 1.690 USD năm 2010, gấp 2,8 lần."
+      "note": "IMF dự báo GDP bình quân đầu người Việt Nam 2026 đạt 5.259 USD vượt Indonesia (5.153 USD); Việt Nam dành 1 triệu tỉ đồng (38,7 tỷ USD) cho đầu tư công"
     },
     {
-      "title": "Lợi nhuận ngân hàng tăng 20%, dòng tiền ưu tiên ngân hàng, bán lẻ, thép",
+      "title": "GDP Việt Nam đạt 542 tỷ USD, tăng trưởng 6,09% bình quân giai đoạn 2011-2024",
       "impact": "↑",
-      "note": "Chuyên gia chỉ ra lợi nhuận toàn ngành ngân hàng quý III tăng khoảng 20% so với cùng kỳ nhờ tăng trưởng tín dụng. Dòng tiền dự báo sẽ ưu tiên các nhóm ngành đã chứng minh khả năng tăng trưởng lợi nhuận, nổi bật là ngân hàng được dự báo có khả năng dẫn dắt chỉ số."
+      "note": "GDP bình quân đầu người 4.700 USD năm 2024 gấp 2,8 lần năm 2010 (1.690 USD); IMF dự báo GDP danh nghĩa Việt Nam hơn 542 tỷ USD năm 2026"
     },
     {
-      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, vượt mục tiêu 1.000",
+      "title": "Ngân hàng lợi nhuận Q3 tăng 20%, dòng tiền ưu tiên nhóm định giá rẻ",
       "impact": "↑",
-      "note": "Trong năm 2026, Bách Hoá Xanh đã mở gần 1.800 cửa hàng, vượt xa mục tiêu 1.000 cửa hàng. BHX đang thử nghiệm mô hình mini, sẽ nhân rộng khi ổn định. Kết hợp nhiều định dạng sẽ tạo cơ hội khả quan đạt mục tiêu doanh thu 10 tỷ USD vào 2030."
+      "note": "Lợi nhuận toàn ngành ngân hàng quý III tăng khoảng 20% so với cùng kỳ nhờ tăng trưởng tín dụng; chuyên gia dự báo dòng tiền ưu tiên ngân hàng, bán lẻ, thép đã điều chỉnh sâu"
     },
     {
-      "title": "Phát hiện sai phạm tại quỹ tín dụng nhân dân, thu hồi 130 tỷ đồng",
+      "title": "Áp lực lãi suất toàn cầu 2027: cạnh tranh vốn AI, nhu cầu vay chính phủ tăng",
       "impact": "↓",
-      "note": "Công an tỉnh Ninh Bình bắt giữ 2 đối tượng tại Quỹ tín dụng nhân dân Thành Đô, xác định 7 nhóm hành vi trái pháp luật nhằm tham ô tài sản. Lực lượng công an thu hồi 130 tỷ đồng tiền nợ xấu và tài sản sai phạm. Cả nước có hơn 1.100 quỹ tín dụng nhân dân đang hoạt động."
+      "note": "Cạnh tranh gay gắt vốn cho AI, lợi suất trái phiếu Mỹ-Nhật Bản tăng, nhu cầu vay vốn chính phủ châu Âu tăng cao, tạo sức ép lên lãi suất toàn cầu năm 2027"
     },
     {
-      "title": "Cạnh tranh vốn AI và nhu cầu vay chính phủ gây sức ép lãi suất 2027",
+      "title": "Sai phạm quỹ tín dụng nhân dân: bắt giữ, khởi tố 2 đối tượng tham ô",
       "impact": "↓",
-      "note": "Sự cạnh tranh gay gắt về vốn đầu tư cho trí tuệ nhân tạo (AI) thu hút lượng vốn khổng lồ. Nhu cầu vay vốn của các chính phủ tăng cao (châu Âu phát hành trái phiếu, lợi suất Nhật/Mỹ tăng), góp phần đẩy chi phí vốn trên thị trường quốc tế lên cao, gây sức ép lãi suất toàn cầu năm 2027."
+      "note": "Công an Ninh Bình bắt giữ, khởi tố 2 đối tượng tại Quỹ tín dụng nhân dân Thành Đô với 7 nhóm hành vi tham ô, thu hồi 130 tỷ đồng tiền nợ xấu tài sản sai phạm"
     }
   ]
 }
