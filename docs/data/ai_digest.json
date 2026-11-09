@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-09",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngân hàng Nhà nước tích cực cung ứng thanh khoản và giảm lãi suất 0,5-1%/năm hỗ trợ tăng trưởng, Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027 (99,6% tán thành), IMF dự báo GDP 2026 đạt 542 tỷ USD và Việt Nam vượt Indonesia. Bách Hoá Xanh mở rộng mạnh với gần 1.800 cửa hàng. Mặc dù thị trường tuần trước gặp áp lực với VN-Index giảm 16 điểm, các tín hiệu vĩ mô tích cực sẽ hỗ trợ phục hồi.",
+  "summary_vi": "Hôm nay (9/11), thị trường chứng khoán Việt Nam hưởng lợi từ các chính sách hỗ trợ trong nước: NHNN điều hành thanh khoản tích cực, yêu cầu giảm lãi suất huy động 0,5-1%/năm và lãi suất cho vay 1,5-2% cho các lĩnh vực ưu tiên, nhằm hỗ trợ tăng trưởng 2 con số. Quốc hội thông qua mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên (467/469 đại biểu tán thành). GDP bình quân đầu người Việt Nam dự kiến đạt 5.259 USD năm 2026, vượt Indonesia (5.153 USD). Tuy nhiên, áp lực từ toàn cầu vẫn tồn tại: giá dầu và bitcoin giảm nhẹ, ngành công nghệ/AI yếu do OpenAI chỉ huy động được 11 tỷ USD (thấp hơn kỳ vọng 30 tỷ USD).",
   "top": [
     {
-      "title": "Ngân hàng Nhà nước hỗ trợ giảm lãi suất",
+      "title": "NHNN điều hành thanh khoản tích cực, giảm lãi suất 0,5-1% và 1,5-2%",
       "impact": "↑",
-      "note": "NHNN yêu cầu giảm lãi suất huy động 0,5-1%/năm cho tiền gửi từ 6 tháng trở lên, lãi suất cho vay giảm 1,5-2%, lãi suất huy động thực tế giai đoạn cuối tháng 10 giảm khoảng 0,4%/năm, tạo điều kiện hỗ trợ tăng trưởng."
+      "note": "Phó Thống đốc Phạm Thanh Hà xác nhận NHNN cung ứng nguồn vốn thanh khoản chủ động; các ngân hàng giảm lãi suất huy động niêm yết 0,5%/năm cho tiền gửi từ 6 tháng trở lên, giảm lãi suất cho vay 1,5-2% cho sản xuất, kinh doanh. Lãi suất huy động thực tế giảm khoảng 0,4%/năm, lãi suất cho vay giảm 0,2-0,5% cuối tháng 10."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Quốc hội ngày 7/11 với 467/469 đại biểu tán thành (99,6%), thông qua mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với ổn định vĩ mô, kiểm soát lạm phát."
+      "note": "Sáng 7/11, Quốc hội thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027 với 467/469 đại biểu tán thành (99,6%), phấn đấu tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
     },
     {
-      "title": "GDP Việt Nam dự báo 542 tỷ USD, vượt Indonesia",
+      "title": "GDP bình quân đầu người 5.259 USD, vượt Indonesia",
       "impact": "↑",
-      "note": "IMF dự báo GDP 2026 đạt hơn 542 tỷ USD, GDP bình quân đầu người 5.259 USD (tăng 8,9%), vượt Indonesia 5.153 USD để xếp thứ 5 ASEAN, gấp 2,8 lần so với 2010."
+      "note": "Theo IMF, GDP bình quân đầu người Việt Nam năm 2026 đạt 5.259 USD (tăng 8,9% so với 4.829 USD năm 2025), vượt Indonesia (5.153 USD) để xếp thứ 5 ASEAN, ngay sau Thái Lan; GDP danh nghĩa dự báo 542 tỷ USD."
     },
     {
-      "title": "Bách Hoá Xanh mở rộng mạnh, hướng 10 tỷ USD",
-      "impact": "↑",
-      "note": "Bách Hoá Xanh đã mở gần 1.800 cửa hàng vượt kế hoạch 1.000 năm 2026, thử nghiệm mô hình mini, hướng tới doanh thu 10 tỷ USD vào 2030, dẫn dắt xu hướng bán lẻ hiện đại."
-    },
-    {
-      "title": "VN-Index giảm hơn 16 điểm tuần trước",
+      "title": "Giá dầu, bitcoin giảm do Trump nói không tấn công Iran",
       "impact": "↓",
-      "note": "Tuần 02-06/11, toàn bộ nhóm ngành đều giảm, VN-Index mất hơn 16 điểm, riêng VIC mất hơn 10 điểm, thể hiện áp lực thị trường ngắn hạn."
+      "note": "Sáng 9/11, dầu Brent giảm 0,64% xuống 97,67 USD/thùng, WTI giảm 0,4% xuống 90,51 USD/thùng; bitcoin và ether chạm mức thấp nhất hơn 2 tháng, sau phát biểu Trump rằng khả năng Mỹ tấn công Iran là rất thấp tùy thỏa thuận."
     },
     {
-      "title": "Giá vàng trong nước tăng 1 triệu đồng/lượng",
-      "impact": "↑",
-      "note": "Vàng miếng 9999 sáng 9/11 tăng 1 triệu đồng/lượng ở cả hai chiều, bán ra ở 142 triệu đồng/lượng tại SJC, PNJ, DOJI, BTC Mạnh Hải, phản ánh nhà đầu tư tìm kiếm tài sản trú ẩn."
+      "title": "OpenAI huy động 11 tỷ USD, định giá 1.250 tỷ USD thấp kỳ vọng",
+      "impact": "↓",
+      "note": "OpenAI chỉ huy động 11 tỷ USD với định giá 1.250 tỷ USD, thấp hơn kỳ vọng 30 tỷ USD và 1.500 tỷ USD do giảm sút cổ phiếu công nghệ và tác động từ bầu cử giữa kỳ Mỹ; Anthropic cũng điều chỉnh định giá IPO xuống 1.500 tỷ USD."
+    },
+    {
+      "title": "WB dự báo giá vàng, bạc giảm trong 2027-2028",
+      "impact": "↓",
+      "note": "Ngân hàng Thế giới dự báo giá vàng trung bình 4.700 USD/oz năm 2026, giảm xuống 4.300 USD/oz năm 2027; giá bạc giảm từ 70 USD/oz (2026) xuống 62 USD/oz (2027) và 58 USD/oz (2028); chỉ số giá kim loại quý chung giảm 8,3% năm 2027 sau khi tăng 40% năm 2026."
     }
   ]
 }
