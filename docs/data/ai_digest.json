@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 10% trở lên năm 2027 (467/469 đại biểu tán thành) và Chính phủ tăng cường giám sát lãi suất ngân hàng, tạo nền tảng chính sách hỗ trợ tăng trưởng dài hạn. Tuy nhiên, thị trường ngắn hạn yếu với VN-Index giảm 0,64%, thanh khoản giảm mạnh 33% còn 10,15 ngàn tỷ đồng, dòng tiền chờ giá quá thấp và áp lực bán 354 mã. Dấu hiệu lo ngại bao gồm TIG mất hơn nửa giá từ đầu năm, mới giảm sàn lần hai liên tiếp; nhưng Dragon Capital vẫn mua DXG và Bách Hoá Xanh tăng tốc mở rộng là tín hiệu nhà đầu tư dã cạn cơ hội giá rẻ.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán hôm nay giảm do thanh khoản thấp và bán ròng của khối ngoại (VN-Index -11, HOSE -26%). Tuy nhiên, NHNN sẽ mua ngoại tệ giao ngay từ 11/11 để cung ứng VND, Chính phủ yêu cầu giảm lãi suất, và đặt mục tiêu tăng trưởng 2027 từ 10% trở lên. Các doanh nghiệp lớn cũng tiếp tục tăng tốc mở rộng, gợi ý những tín hiệu tích cực dài hạn bất chấp áp lực ngắn hạn.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
+      "title": "NHNN mua ngoại tệ giao ngay 25.500 VND/USD",
       "impact": "↑",
-      "note": "Quốc hội (7/11) thông qua Nghị quyết với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế năm 2027 từ 10% trở lên gắn với giữ vững ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn; GDP 9 tháng 2026 tăng 9,01%."
+      "note": "NHNN triển khai mua ngoại tệ giao ngay từ 11/11 (hai phiên mỗi tuần) với tỷ giá 25.500 đồng/USD để cung ứng VND không xác định thời gian thu hồi, hỗ trợ thanh khoản và khả năng cân đối vốn của hệ thống ngân hàng."
     },
     {
-      "title": "Chính phủ yêu cầu xử lý ngân hàng không giảm lãi suất cho vay",
-      "impact": "↑",
-      "note": "Thủ tướng ký Nghị quyết 353/NQ-CP (6/11), Chính phủ yêu cầu Ngân hàng Nhà nước tăng cường thanh tra, giám sát, xử lý nghiêm tổ chức tín dụng không chấp hành chỉ đạo giảm lãi suất; kiểm soát chặt chẽ dư nợ và khả năng trả nợ của doanh nghiệp bất động sản."
-    },
-    {
-      "title": "VN-Index giảm 11 điểm, thanh khoản giảm 33% phiên 9/11",
+      "title": "Khối tự doanh, ngoại cùng bán ròng giữa thanh khoản thấp",
       "impact": "↓",
-      "note": "VN-Index giảm 11,04 điểm (-0,64%) xuống 1.714,32 điểm, HNX giảm 1,49 điểm (-0,58%) xuống 255,24. Thanh khoản khớp lệnh HSX chỉ 10,15 ngàn tỷ đồng, giảm 33% so với cuối tuần trước (thấp nhất từ 16/10), độ rộng 354 mã giảm vs 304 mã tăng."
+      "note": "VN-Index giảm 11 điểm xuống 1.704 điểm trong phiên 9/11, thanh khoản HOSE chỉ 13.8 ngàn tỷ đồng (giảm 26% so với phiên cuối tuần trước), cả khối tự doanh (bán ròng 458 tỷ) và ngoại (bán ròng 817 tỷ) cùng tạo áp lực."
     },
     {
-      "title": "TIG giảm sàn lần thứ hai liên tiếp, mất 52% giá từ đầu năm",
-      "impact": "↓",
-      "note": "TIG giảm sàn phiên 9/11 ở 4.000 đ/cp (lần thứ hai liên tiếp sau 6/11 giảm 8,3%), 4 phiên gần nhất mỗi cp mất 22%. Từ đầu năm giá lao dốc từ 8.500 đ xuống 4.000 đ (-52,9%), mức thấp nhất 4 năm; quý 3 doanh thu 106 tỷ giảm 38%, lãi ròng 1,4 tỷ giảm 61%."
-    },
-    {
-      "title": "Dragon Capital mua 5 triệu cổ phiếu DXG, trở cổ đông lớn",
+      "title": "Quốc hội mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Nhóm quỹ Dragon Capital mua 5 triệu cp DXG phiên 4/11 khi tăng hết biên độ 10.550 đ/cp, chi khoảng 52,75 tỷ đồng, nâng sở hữu lên 66,05 triệu cp (5,2% vốn), trở thành cổ đông lớn tại Bluemarq Group (DXG)."
+      "note": "Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, đặt mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, tập trung phấn đấu tăng tốc, bứt phá kèm ổn định vĩ mô và kiểm soát lạm phát."
     },
     {
-      "title": "Bách Hoá Xanh ra mắt mô hình mini, hướng tới 10 tỷ USD",
+      "title": "Chính phủ yêu cầu giảm lãi suất cho vay",
       "impact": "↑",
-      "note": "Tổng Giám đốc Vũ Đăng Linh (6/11) công bố BHX thử nghiệm mô hình cửa hàng BHX mini với tín hiệu khả quan, sẽ nhân rộng khi ổn định. Năm 2026 BHX mở gần 1.800 cửa hàng (vượt mục tiêu 1.000), hướng tới doanh thu 10 tỷ USD năm 2030."
+      "note": "Chính phủ ban hành Nghị quyết yêu cầu NHNN tăng cường thanh tra, xử lý các tổ chức tín dụng không chấp hành chỉ đạo giảm lãi suất, và giám sát chặt chẽ khả năng trả nợ của doanh nghiệp bất động sản."
+    },
+    {
+      "title": "Bách Hoá Xanh ra mắt mô hình mini, hướng 10 tỷ USD",
+      "impact": "↑",
+      "note": "Bách Hoá Xanh thử nghiệm mô hình cửa hàng mini và nhân rộng khi ổn định, kết hợp nhiều định dạng để đạt mục tiêu doanh thu 10 tỷ USD vào 2030; năm 2026 mở 1.800 cửa hàng (vượt kế hoạch 1.000)."
+    },
+    {
+      "title": "HGI lên UPCoM, tạm ứng cổ tức 7%",
+      "impact": "↑",
+      "note": "HGI của Hoàng Anh Gia Lai chính thức giao dịch UPCoM với giá tham chiếu 60.600 đồng/cổ phiếu sau IPO thành công thu 1.139 tỷ đồng; cổ phiếu tăng 5,38% phiên đầu, tạm ứng cổ tức 7% (700 đồng/cổ phiếu)."
     }
   ]
 }
