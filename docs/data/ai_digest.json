@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-09",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên, GDP bình quân đầu người Việt Nam sắp vượt Indonesia nhờ đầu tư công 38,7 tỷ USD, ngân hàng ghi nhận lợi nhuận Q3 tăng 20% tạo cơ sở cho dòng tiền chọn lọc vào cổ phiếu định giá rẻ. Tuy nhiên, áp lực lãi suất toàn cầu từ cạnh tranh vốn AI và nhu cầu vay chính phủ tăng có thể hạn chế không gian giảm lãi suất trong nước, cộng rủi ro từ sai phạm hệ thống tài chính cơ sở.",
+  "summary_vi": "Xuất khẩu tháng 10 bứt phá mạnh với tăng 51,43%, tạo xuất siêu kỷ lục 7,31 tỷ USD và FDI tiếp tục dồi dào (3,01 tỷ USD, +20,4%). Quốc hội giao mục tiêu tăng trưởng 2027 từ 10%, GDP bình quân đầu người vượt Indonesia. Ngân hàng lợi nhuận Q3 tăng 20% tạo đà cho chỉ số. Tuy nhiên, áp lực lãi suất toàn cầu và bất động sản trầm lắng với nợ xấu tích tụ vẫn là rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng 2027 từ 10% trở lên",
+      "title": "Xuất khẩu tháng 10 tăng 51,43%, xuất siêu kỷ lục 7,31 tỷ USD",
       "impact": "↑",
-      "note": "Nghị quyết được 467/469 đại biểu thông qua sáng 7/11, tập trung phấn đấu tăng trưởng từ 10% trở lên gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn"
+      "note": "Xuất khẩu tháng 10 đạt 64,67 tỷ USD (+51,43% YoY), nhập khẩu 57,36 tỷ USD (+43,09%), tạo xuất siêu 7,31 tỷ USD. Máy tính & linh kiện dẫn dắt với mức tăng 159,70%. FDI tháng 10 giải ngân 3,01 tỷ USD (+20,4% YoY), nâng lũy kế 10 tháng."
     },
     {
-      "title": "GDP bình quân đầu người Việt Nam vượt Indonesia năm 2026",
+      "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "IMF dự báo GDP bình quân đầu người Việt Nam 2026 đạt 5.259 USD vượt Indonesia (5.153 USD); Việt Nam dành 1 triệu tỉ đồng (38,7 tỷ USD) cho đầu tư công"
+      "note": "Nghị quyết được 467/469 đại biểu Quốc hội tán thành (7/11). Mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, nhấn mạnh năm tăng tốc, bứt phá, tạo đà thực hiện Nghị quyết Đại hội XIV Đảng, gắn với ổn định kinh tế vĩ mô."
     },
     {
-      "title": "GDP Việt Nam đạt 542 tỷ USD, tăng trưởng 6,09% bình quân giai đoạn 2011-2024",
+      "title": "GDP bình quân đầu người 2026 đạt 5.259 USD, vượt Indonesia",
       "impact": "↑",
-      "note": "GDP bình quân đầu người 4.700 USD năm 2024 gấp 2,8 lần năm 2010 (1.690 USD); IMF dự báo GDP danh nghĩa Việt Nam hơn 542 tỷ USD năm 2026"
+      "note": "IMF dự báo GDP bình quân đầu người Việt Nam 2026 đạt 5.259 USD tăng 8,9% so với 4.829 USD (2025), vượt Indonesia 5.153 USD, đứng thứ 5 ASEAN. Gần gấp đôi so với 2010 (1.690 USD). GDP danh nghĩa dự báo hơn 542 tỷ USD."
     },
     {
-      "title": "Ngân hàng lợi nhuận Q3 tăng 20%, dòng tiền ưu tiên nhóm định giá rẻ",
+      "title": "Ngân hàng lợi nhuận Q3 tăng 20%, dẫn dắt dòng tiền chọn lọc",
       "impact": "↑",
-      "note": "Lợi nhuận toàn ngành ngân hàng quý III tăng khoảng 20% so với cùng kỳ nhờ tăng trưởng tín dụng; chuyên gia dự báo dòng tiền ưu tiên ngân hàng, bán lẻ, thép đã điều chỉnh sâu"
+      "note": "Lợi nhuận toàn ngành ngân hàng quý III tăng khoảng 20% so với cùng kỳ nhờ tăng trưởng tín dụng. Chuyên gia dự báo dòng tiền ưu tiên các ngành chứng minh được khả năng tăng trưởng lợi nhuận, nổi bật là ngân hàng, bán lẻ, thép."
     },
     {
-      "title": "Áp lực lãi suất toàn cầu 2027: cạnh tranh vốn AI, nhu cầu vay chính phủ tăng",
+      "title": "Áp lực lãi suất toàn cầu 2027: AI, nhu cầu vay chính phủ tăng",
       "impact": "↓",
-      "note": "Cạnh tranh gay gắt vốn cho AI, lợi suất trái phiếu Mỹ-Nhật Bản tăng, nhu cầu vay vốn chính phủ châu Âu tăng cao, tạo sức ép lên lãi suất toàn cầu năm 2027"
+      "note": "Cạnh tranh vốn cho trí tuệ nhân tạo thu hút khối vốn khổng lồ, nhu cầu vay vốn chính phủ châu Âu tăng cao. Lợi suất trái phiếu Nhật Bản & Mỹ tăng, đẩy chi phí vốn quốc tế lên cao, gây sức ép lên lãi suất trong nước năm 2027."
     },
     {
-      "title": "Sai phạm quỹ tín dụng nhân dân: bắt giữ, khởi tố 2 đối tượng tham ô",
+      "title": "Bất động sản trầm lắng, nợ xấu tích tụ gây áp lực tín dụng",
       "impact": "↓",
-      "note": "Công an Ninh Bình bắt giữ, khởi tố 2 đối tượng tại Quỹ tín dụng nhân dân Thành Đô với 7 nhóm hành vi tham ô, thu hồi 130 tỷ đồng tiền nợ xấu tài sản sai phạm"
+      "note": "Thị trường bất động sản trầm lắng, tích tụ lượng vốn lớn dẫn đến nợ xấu gia tăng. Tuần 02-06/11, bất động sản gây áp lực -6,5 điểm VN-Index (VIC -8,4 điểm, VHM -1,2 điểm). Ảnh hưởng lớn hoạt động ngân hàng, cần giảm lãi suất hỗ trợ tăng trưởng tín dụng chất lượng."
     }
   ]
 }
