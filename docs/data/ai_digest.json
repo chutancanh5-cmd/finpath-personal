@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-11-09",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường cân bằng giữa yếu tố hỗ trợ từ chính sách nội địa và áp lực từ ngoại. Chính phủ-NHNN tích cực hỗ trợ với mục tiêu tăng trưởng 10% năm 2027 và bơm VND từ 11/11; dòng tiền hồi phục mạnh trên chứng khoán-bất động sản. Tuy nhiên, khối ngoại bán ròng gần 800 tỷ đồng và Fed tín hiệu tiếp tục tăng lãi suất gây áp lực. Ngành ngân hàng chịu áp lực từ nợ xấu cao, margin huy động tốt nhưng biên lợi nhuận bị nén chi phí vốn.",
+  "date": "2026-11-10",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường nhận tín hiệu tích cực từ chính sách hỗ trợ: Quốc hội giao mục tiêu tăng trưởng GDP 2027 từ 10% trở lên, NHNN bơm thanh khoản VND từ 11/11 (tỷ giá 25.500 đ/USD), Chính phủ yêu cầu xử lý ngân hàng không giảm lãi suất. Dòng tiền hồi phục mạnh với khối lượng HOSE tăng 30%, HNX tăng 60%. Chi phí vốn ngân hàng tăng do nợ xấu cao cản trở giảm lãi suất. Rủi ro vẫn tồn tại từ khối ngoại bán ròng 800+ tỷ và Fed tín hiệu tiếp tục thắt chặt chính sách tiền tệ.",
   "top": [
     {
-      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Quốc hội giao mục tiêu tăng trưởng GDP 10%+ năm 2027",
       "impact": "↑",
-      "note": "Quốc hội ngày 7/11 thông qua Nghị quyết (467/469 đại biểu tán thành) mục tiêu tăng trưởng GDP 2027 từ 10% trở lên gắn với ổn định vĩ mô và kiểm soát lạm phát; GDP 9 tháng 2026 đạt 9,01%."
+      "note": "Quốc hội ngày 7/11 thông qua Nghị quyết (467/469 đại biểu tán thành) mục tiêu tăng trưởng GDP 2027 từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Năm 2027 được xác định là năm 'tăng tốc, bứt phá, tạo đà'."
     },
     {
-      "title": "NHNN bắt đầu mua ngoại tệ giao ngay từ 11/11, bơm VND định kỳ",
+      "title": "NHNN bơm thanh khoản VND từ 11/11, mua USD giao ngay định kỳ",
       "impact": "↑",
-      "note": "NHNN từ 11/11/2026 thực hiện mua ngoại tệ giao ngay hai phiên mỗi tuần (thứ Hai, thứ Tư) với tỷ giá 25.500 đồng/USD để cung ứng VND không xác định thời gian thu hồi cho hệ thống ngân hàng."
+      "note": "NHNN từ 11/11/2026 thực hiện mua ngoại tệ giao ngay hai phiên mỗi tuần (thứ Hai, thứ Tư) với tỷ giá 25.500 đ/USD, cung ứng VND không xác định thời gian thu hồi. Hỗ trợ thanh khoản hệ thống ngân hàng trong bối cảnh thắt chặt chính sách tiền tệ."
     },
     {
       "title": "Dòng tiền hồi phục mạnh vào chứng khoán và bất động sản",
       "impact": "↑",
-      "note": "Tuần 2-6/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đồng/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đồng/phiên); nhóm BĐS KDH tăng 200% khối lượng."
+      "note": "Tuần 2-6/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), HNX tăng 60% (67 triệu đơn vị/phiên). Nhóm bất động sản hút tiền: KDH +200%, HDG, HDC, TAL, TIG, CEO +100% khối lượng. VN-Index giảm 1% nhưng thanh khoản tăng mạnh."
     },
     {
-      "title": "Chính phủ yêu cầu xử lý ngân hàng không giảm lãi suất",
+      "title": "Chính phủ yêu cầu NHNN xử lý ngân hàng không giảm lãi suất",
       "impact": "↑",
-      "note": "Chính phủ qua Nghị quyết 353/NQ-CP ngày 6/11 yêu cầu NHNN tăng cường thanh tra xử lý các tổ chức tín dụng không chấp hành chỉ đạo giảm lãi suất; giám sát khả năng trả nợ doanh nghiệp bất động sản."
+      "note": "Chính phủ qua Nghị quyết 353/NQ-CP ngày 6/11 yêu cầu NHNN tăng cường thanh tra, xử lý các tổ chức tín dụng cạnh tranh lãi suất không lành mạnh; giám sát chặt chẽ chất lượng tín dụng và khả năng trả nợ doanh nghiệp bất động sản."
     },
     {
-      "title": "Khối ngoại bán ròng gần 800 tỷ đồng trên HOSE",
+      "title": "Khối ngoại bán ròng hơn 800 tỷ đồng, áp lực lên chỉ số",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 799 tỷ đồng trên HoSE, 12 tỷ trên HNX, 4,7 tỷ trên UPCoM trong phiên giao dịch; giá trị giao dịch HoSE 13.808 tỷ đồng."
+      "note": "Khối ngoại bán ròng 799 tỷ đ HOSE, 12 tỷ đ HNX, 4,7 tỷ đ UPCoM. Nhóm bất động sản yếu (VHM -2,74%), tiêu dùng (MCH -2,93%, VNM -1,56%, MSN -2,05%). Tín hiệu rút vốn của nhà đầu tư nước ngoài."
     },
     {
-      "title": "Fed tín hiệu tiếp tục thắt chặt chính sách tiền tệ",
+      "title": "Fed tín hiệu tiếp tục tăng lãi suất, chi phí rủi ro ngân hàng tăng",
       "impact": "↓",
-      "note": "Chủ tịch Fed San Francisco Mary Daly phát biểu 6/11 Fed cần thắt chặt hơn nữa; BLS báo cáo tạo 165.000 việc làm tháng 10 vượt dự báo, tỷ lệ thất nghiệp 4,1%, lạm phát CPI tháng 9 là 3,7%."
+      "note": "Ba quan chức Fed phát biểu (6/11) cần thắt chặt chính sách hơn nữa. BLS báo cáo tạo 165.000 việc làm tháng 10 (vượt dự báo 100.000), thất nghiệp 4,1%, CPI 3,7%. Chi phí dự phòng nợ xấu cao: nợ nhóm 2→3 tăng từ 5%→20%, nhóm 3→4 lên 50%."
     }
   ]
 }
