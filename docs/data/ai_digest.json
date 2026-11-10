@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-10",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam nhận được những tín hiệu tích cực từ TTCK Mỹ hồi phục mạnh (+2.35% S&P 500) và giá dầu lao dốc gần 6%, giảm áp lực lạm phát. Quốc hội giao mục tiêu tăng trưởng 10% năm 2027 với sự ủng hộ gần như toàn số đại biểu (467/469), đặt nền tảng cho những cấu trúc tích cực. Các dự án hạ tầng lớn như Sân bay Long Thành (16 tỷ USD) và xu hướng mở rộng của Bách Hoá Xanh tạo động lực cho TTCK. Tuy vậy, áp lực từ chi phí rủi ro cao do nợ xấu tăng vẫn cần giám sát cẩn thận.",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng GDP 2027 từ 10% trở lên, tạo nền tảng chính sách hỗ trợ thị trường chứng khoán. Các doanh nghiệp lớn từ Masan (lợi nhuận +205%) đến Bách Hoá Xanh (1.800 cửa hàng) cho thấy động lực tăng trưởng mạnh từ tư nhân. Thị trường Mỹ phục hồi bùng nổ (Dow +2,15%, S&P 500 +2,35%, Nasdaq +2,74%) nâng tâm lý nhà đầu tư toàn cầu. Tuy vậy, áp lực chi phí rủi ro cao trong ngành ngân hàng vẫn tạo rủi ro cho tăng trưởng ngắn hạn.",
   "top": [
     {
-      "title": "TTCK Mỹ tăng bùng nổ, dầu lao dốc",
+      "title": "Quốc hội thông qua mục tiêu GDP 2027 ≥10%",
       "impact": "↑",
-      "note": "Dow Jones +2.15% (52.389,75 điểm), S&P 500 +2.35% (7.549,94 điểm), Nasdaq +2.74% (25.253,14 điểm); WTI giảm 4.38% còn 86.85 USD/thùng, Brent giảm 5.85% còn 92.57 USD/thùng. Phiên tăng mạnh nhất S&P 500 kể từ 8/4, hỗ trợ tâm lý toàn cầu và giảm áp lực lạm phát cho Việt Nam."
+      "note": "467/469 đại biểu Quốc hội tán thành mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, kèm yêu cầu giữ ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn, tạo động lực cho tăng trưởng toàn nền kinh tế."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Chứng khoán Mỹ phục hồi mạnh, dầu giảm 4-6%",
       "impact": "↑",
-      "note": "467/469 đại biểu Quốc hội tán thành Nghị quyết ngày 7/11, đặt mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027, gắn với ổn định vĩ mô, kiểm soát lạm phát. Là định hướng chiến lược rõ ràng cho năm tới."
+      "note": "Phiên 9/11, Dow Jones tăng 1.104,02 điểm (+2,15% đạt 52.389,75 điểm), S&P 500 +2,35% (7.549,94), Nasdaq +2,74% (25.253,14); dầu WTI giảm 4,38% (86,85 USD/thùng), Brent -5,85% (92,57 USD/thùng), hỗ trợ tâm lý nhà đầu tư toàn cầu."
     },
     {
-      "title": "Dự án Sân bay Long Thành 16 tỷ USD được triển khai",
+      "title": "Masan 9 tháng tăng lợi nhuận 205%, ký MOU Sojitz",
       "impact": "↑",
-      "note": "Sân bay có công suất 25 triệu hành khách/năm (giai đoạn 1) và 100 triệu hành khách/năm khi hoàn toàn, 4 đường băng dài 4 km. Dự án hạ tầng giao thông đặc biệt quan trọng, tạo cơ hội cho ngành xây dựng, vận tải, du lịch."
+      "note": "Q1-Q3 2026, doanh thu đạt 89.118 tỷ đồng (+52,7% YoY), lợi nhuận cổ đông công ty mẹ 8.042 tỷ đồng (+205,3% YoY); 9/11 ký MOU với Sojitz (Nhật) mua 5% cổ phần MSR, phân phối sản phẩm vonfram, florit tại Nhật."
     },
     {
-      "title": "Vinacomin (TMB) công bố cổ tức 241% tiền mặt + thưởng 183% cổ phiếu",
+      "title": "Bách Hoá Xanh mở 1.800 cửa hàng, hướng 10 tỷ USD",
       "impact": "↑",
-      "note": "Cổ tức tiền mặt hơn 24.000 đồng/cp, thêm 183 cổ phiếu/100 cp hiện hữu; vốn điều lệ tăng từ 150 tỷ lên 424.5 tỷ đồng qua phát hành 27.45 triệu cổ phiếu. Phương án phân phối lợi nhuận kỷ lục tạo tín hiệu rất tích cực."
+      "note": "2026 đã mở gần 1.800 cửa hàng, vượt xa mục tiêu 1.000 cửa hàng; đang thử nghiệm mô hình BHX mini với tín hiệu khả quan, dự kiến nhân rộng song song các định dạng cửa hàng để đạt doanh thu 10 tỷ USD năm 2030."
     },
     {
-      "title": "Bách Hoá Xanh mở hơn 1.800 cửa hàng, ra mắt mô hình mini",
+      "title": "TMB chia cổ tức 241% + thưởng cổ phiếu 183%",
       "impact": "↑",
-      "note": "Vượt xa kế hoạch 1.000 cửa hàng năm 2026, thử nghiệm mô hình mini với tín hiệu khả quan, kết hợp nhiều định dạng cửa hàng để hướng tới doanh thu 10 tỷ USD năm 2030. Động lực mạnh cho bán lẻ hiện đại."
+      "note": "ĐHĐCĐ TMB dự kiến 1/12/2026 thông qua chia cổ tức tiền mặt 241% (hơn 24.000 đồng/cp) và phát hành thưởng cổ phiếu 183%; phát hành 27,45 triệu cổ phiếu mới từ quỹ đầu tư phát triển, nâng vốn từ 150 tỷ lên 424,5 tỷ đồng."
     },
     {
-      "title": "Chi phí rủi ro cao cản trở ngân hàng giảm lãi suất",
-      "impact": "↓",
-      "note": "Tốc độ xử lý nợ xấu chưa theo kịp phát sinh mới, tỷ lệ trích dự phòng tăng (5% → 20% → 50% tuỳ nhóm nợ); ngân hàng phải gánh thêm chi phí, hạn chế khả năng giảm lãi suất cho vay. Rủi ro hệ thống cần giám sát."
+      "title": "Sân bay Long Thành 16 tỷ USD quy mô 5.000 ha",
+      "impact": "↑",
+      "note": "Cảng hàng không Long Thành tại Đồng Nai, tổng vốn 16 tỷ USD, chia 3 giai đoạn; giai đoạn 1 công suất 25 triệu hành khách/1,2 triệu tấn hàng hóa/năm với 2 đường băng dài 4km mỗi đường, lớn nhất Việt Nam."
     }
   ]
 }
