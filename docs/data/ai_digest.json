@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-10",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Thị trường chứng khoán tương đối khởi sắc phiên 10/11 với VN-Index tăng 1,68% nhờ dòng tiền hồi phục (khối ngoại mua ròng 460-475 tỷ đồng, thanh khoản tăng 31%) sau 2 phiên giảm liên tiếp. Bất động sản nổi bật với dòng tiền tập trung vào midcap (34,3% tăng vượt 2%). Chiến lược vĩ mô hỗ trợ: Quốc hội phê duyệt tăng trưởng GDP 2027 từ 10% trở lên, nhu cầu vốn đầu tư 1.100 tỷ USD trong 5 năm, VIFC phát triển với 9 ngân hàng xúc tiến lập chi nhánh. Rủi ro ngắn hạn: dòng tiền tập trung vào BĐS có thể gây sốc nếu điều chỉnh, áp lực tài chính của các công ty (Kafi huy động 200 tỷ đồng trái phiếu lãi 9,7%), thị trường trái phiếu doanh nghiệp vẫn cần phát triển thêm.",
+  "summary_vi": "Quốc hội thiết định mục tiêu tăng trưởng 2027 từ 10% trở lên, NHNN bãi bỏ 17 quy định để nới lỏng khối ngân hàng. Can thiệp tiền tệ của NHNN kích hoạt dòng tiền với khối ngoại mua ròng hơn 470 tỷ đồng, VN-Index tăng 29 điểm, thanh khoản phục hồi 31%. Dòng tiền trải rộng từ blue-chips sang midcap, xác nhận sắc xanh bền vững, trong khi dự án sân bay Gia Bình 8 tỷ USD tạo kỳ vọng tăng trưởng dài hạn.",
   "top": [
     {
-      "title": "VN-Index tăng 1,68%, dòng tiền quay trở lại",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "VN-Index tăng 28,75 điểm lên 1.743 điểm phiên 10/11. Khối ngoại mua ròng 460-475 tỷ đồng (phiên mua ròng thứ hai trong 3 phiên), thanh khoản HoSE đạt 19.000 tỷ đồng tăng 31% so với phiên trước. 429 mã tăng giá, 211 mã giảm."
+      "note": "467/469 đại biểu Quốc hội tán thành (7/11) mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, với nhấn mạnh giữ ổn định kinh tế vĩ mô và kiểm soát lạm phát, tạo động lực mạnh cho hoạt động đầu tư và kinh doanh doanh nghiệp."
     },
     {
-      "title": "Quốc hội phê duyệt tăng trưởng GDP 2027 từ 10% trở lên",
+      "title": "NHNN bãi bỏ 17 quy định liên quan lãi suất USD, sáp nhập tổ chức tín dụng",
       "impact": "↑",
-      "note": "Ngày 7/11, Quốc hội thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội năm 2027 với 467/469 đại biểu tán thành. Mục tiêu tập trung tăng tốc, bứt phá, tạo đà thực hiện Nghị quyết Đại hội XIV Đảng."
+      "note": "NHNN đề xuất bãi bỏ 17 văn bản quy phạm pháp luật bao gồm quy định về lãi suất cho vay USD, sáp nhập, hợp nhất tổ chức tín dụng, giúp nới lỏng quy định và hỗ trợ cơ cấu lại hệ thống tài chính."
     },
     {
-      "title": "Bất động sản hút dòng tiền, midcap tăng tốc",
+      "title": "Khối ngoại, tự doanh đồng thuận mua ròng mạnh phiên 10/11",
       "impact": "↑",
-      "note": "Nhóm BĐS tăng mạnh: VIC +3,24%, VHM +2,65%, KDH +5,65%, DXG +4,11%, NVL +3,33%. Midcap thu hút 34,3% mã tăng vượt 2%, chiếm 71% khối lượng giao dịch HoSE, VNMidcap sắp vượt đỉnh ngắn hạn 23/10."
+      "note": "Khối ngoại mua ròng hơn 470 tỷ đồng, tự doanh mua ròng hơn 515 tỷ đồng, VN-Index tăng 28,75 điểm (+1,68%) lên 1.743 điểm sau động thái can thiệp mua ngoại tệ của NHNN, xác nhận khôi phục niềm tin từ nhà đầu tư nước ngoài."
     },
     {
-      "title": "VIFC phát triển, 9 ngân hàng xúc tiến lập chi nhánh",
+      "title": "Sân bay Gia Bình 8 tỷ USD dự kiến hoàn thành 2027",
       "impact": "↑",
-      "note": "CEO Techcombank: Việt Nam cần 1.100 tỷ USD vốn đầu tư trong 5 năm tới, 200-300 tỷ USD từ nước ngoài. Đến đầu tháng 11, đã có 9 ngân hàng thương mại xúc tiến thành lập ngân hàng con tại VIFC để kết nối dòng vốn quốc tế."
+      "note": "Chính phủ xây dựng đề án chuyển toàn bộ hoạt động khai thác quốc tế từ Nội Bài sang Gia Bình sau khi hoàn thành (năm 2027), Nội Bài được quy hoạch đạt 50 triệu hành khách/năm (2030) và 100 triệu/năm (2050), tạo cơ hội phát triển kinh tế dài hạn."
     },
     {
-      "title": "Thị trường trái phiếu cần phát triển làm \"lốp dự phòng\" tài chính",
-      "impact": "→",
-      "note": "Chuyên gia vĩ mô VinUni khuyến nghị phát triển thị trường trái phiếu sâu, có thanh khoản, được nhà đầu tư tin tưởng. Trái phiếu đóng vai trò dự phòng cho hệ thống ngân hàng như trong khủng hoảng 2008 tại Mỹ (doanh nghiệp vẫn cấp vốn khi ngân hàng gặp khó)."
+      "title": "Thị trường trái phiếu cần trở thành lốp dự phòng cho ngân hàng",
+      "impact": "↑",
+      "note": "Chuyên gia kinh tế nhấn mạnh cần phát triển thị trường trái phiếu đủ sâu, có thanh khoản để tạo kênh cung ứng vốn khi tín dụng ngân hàng gián đoạn, hỗ trợ chính sách tài chính đa chiều và tránh khủng hoảng như 1997."
     },
     {
-      "title": "Kafi huy động 200 tỷ đồng trái phiếu lãi 9,7%, cơ cấu nợ vay",
-      "impact": "→",
-      "note": "Ngày 9/11, HĐQT CTCP Chứng khoán Kafi thông qua phát hành 200 tỷ đồng trái phiếu riêng lẻ, kỳ hạn 1 năm, lãi 9,7%/năm (lần 2 năm 2026 sau 500 tỷ đồng tháng 10). Mục đích cơ cấu lại nợ vay, bổ sung vốn lưu động đến hạn từ 13-16/11/2026."
+      "title": "Midcap hút dòng tiền mạnh với 34,3% mã tăng vượt 2%",
+      "impact": "↑",
+      "note": "Thanh khoản thị trường tăng 31%, khối ngoại mua ròng 475 tỷ đồng, VIX, NVL, KDH, VND, PNJ, DXG, CII khớp trên 200 tỷ đồng/mã, xác nhận dòng tiền lan tỏa rộng khắp thị trường, không chỉ tập trung ở blue-chips."
     }
   ]
 }
