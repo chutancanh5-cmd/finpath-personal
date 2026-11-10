@@ -2,12 +2,12 @@
   "_opus": true,
   "date": "2026-11-10",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường cân bằng giữa tín hiệu tích cực từ chính sách (GDP 10%+, NHNN bơm thanh khoản) và áp lực tiêu cực (khối ngoại bán ròng 800 tỷ, Fed tăng lãi suất sắp tới). Dòng tiền hồi phục mạnh vào chứng khoán và bất động sản (HOSE +30%, HNX +60%), nhưng chi phí rủi ro cao cản trở ngân hàng giảm lãi suất. Các tập đoàn nước ngoài tiếp tục thâu tóm doanh nghiệp Việt trong bối cảnh bán ròng.",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027 và NHNN triển khai hỗ trợ thanh khoản bằng cách mua ngoại tệ giao ngay từ 11/11, tạo xu hướng tích cực. Dòng tiền hồi phục mạnh vào chứng khoán và bất động sản với thanh khoản tăng 30-60%. Tuy nhiên, rủi ro hệ thống tài chính vẫn lớn từ nợ xấu cao cản trở ngân hàng giảm lãi suất, cùng sự cố an toàn CNTT tại HOSE (ngắt kết nối Chứng khoán Hòa Bình). Cần giải quyết thách thức cơ cấu vốn để hiện thực hóa tăng trưởng.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng GDP 10%+ năm 2027",
       "impact": "↑",
-      "note": "Sáng 7/11, Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Xác định 2027 là năm 'tăng tốc, bứt phá, tạo đà'."
+      "note": "Sáng 7/11, Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn."
     },
     {
       "title": "NHNN bơm VND định kỳ từ 11/11, mua ngoại tệ giao ngay",
@@ -17,22 +17,22 @@
     {
       "title": "Dòng tiền hồi phục mạnh vào chứng khoán và bất động sản",
       "impact": "↑",
-      "note": "Tuần 02-06/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đ/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đ/phiên). Nhóm bất động sản và chứng khoán hút tiền nổi bật."
+      "note": "Tuần 02-06/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đ/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đ/phiên)."
     },
     {
-      "title": "Loạt thương hiệu Việt về tay nước ngoài trong bán ròng hàng trăm nghìn tỷ",
-      "impact": "↓",
-      "note": "Tập đoàn Kokuyo (Nhật) hoàn tất nhận chuyển nhượng 46,82% vốn TLAT, dự kiến chào mua công khai 18,19% cổ phần Thiên Long để nâng sở hữu trên 65%. Trước đó CTP N.V. (Hà Lan) đề xuất mua 100% danh mục SLP Việt Nam của Ares Management với giá 500 triệu USD. Dòng vốn nước ngoài vẫn chảy vào M&A doanh nghiệp dù bán ròng thị trường chứng khoán."
+      "title": "Bách Hoá Xanh thử nghiệm mô hình mini, hướng tới 10 tỷ USD doanh thu",
+      "impact": "↑",
+      "note": "BHX mở được 1.800 cửa hàng năm 2026 vượt mục tiêu 1.000, sắp ra mắt mô hình mini để tăng tốc mở chuỗi. Kết hợp nhiều định dạng cửa hàng nhằm đạt doanh thu 10 tỷ USD vào 2030."
     },
     {
-      "title": "Khối ngoại bán ròng hơn 800 tỷ đồng, áp lực lên chỉ số",
+      "title": "Chi phí rủi ro cao cản trở ngân hàng giảm lãi suất",
       "impact": "↓",
-      "note": "Khối ngoại bán ròng 799 tỷ đ HOSE, 12 tỷ đ HNX, 4,7 tỷ đ UPCoM. Nhóm bất động sản yếu (VHM -2,74%), tiêu dùng (MCH -2,93%, VNM -1,56%, MSN -2,05%). Tín hiệu rút vốn của nhà đầu tư nước ngoài."
+      "note": "Tốc độ xử lý nợ xấu chưa theo kịp phát sinh mới, tỷ lệ dự phòng tăng từ 5% (nhóm 2) lên 20% (nhóm 3) và 50% (nhóm 4). Áp lực rủi ro cao cản trở nỗ lực giảm lãi suất cho vay."
     },
     {
-      "title": "Fed cần thắt chặt chính sách hơn nữa giữa thị trường lao động mạnh, lạm phát 3,7%",
+      "title": "HOSE ngắt kết nối giao dịch Chứng khoán Hòa Bình từ 9/11",
       "impact": "↓",
-      "note": "Ba quan chức Fed phát biểu tuần 6/11 rằng Fed cần tăng lãi suất tiếp theo. BLS ngày 6/11 báo cáo tạo 165.000 việc làm tháng 10 (vượt dự báo 100.000), thất nghiệp 4,1%, lương bình quân tăng 3,1%. CPI tháng 9 vẫn ở 3,7%. Tín hiệu này dự báo USD tăng mạnh, sẽ khiến vốn rút khỏi thị trường mới nổi như Việt Nam."
+      "note": "HOSE tạm ngừng kết nối giao dịch công ty Chứng khoán Hòa Bình (HBS) từ 9/11 để đảm bảo an toàn hệ thống CNTT, cảnh báo rủi ro về độ tin cậy hệ thống giao dịch thị trường."
     }
   ]
 }
