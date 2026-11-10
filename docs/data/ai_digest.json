@@ -1,11 +1,11 @@
 {
   "_opus": true,
   "date": "2026-11-10",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu GDP tăng từ 10% trở lên năm 2027, tạo đà chính sách tích cực. Dòng tiền quay mạnh vào TTCK, thanh khoản tăng 30-60% trên cả 2 sàn, nhóm chứng khoán và bất động sản hút tiền nổi bật. Doanh nghiệp Việt tăng tốc (Bách Hoá Xanh mở vượt kế hoạch), dự án Long Thành 16 tỷ USD là động lực hạ tầng. Tuy nhiên, nợ xấu gia tăng và chi phí dự phòng cao cản trở giảm lãi suất; sự cố CNTT tại HBS ảnh hưởng tới tin tưởng TTCK.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027 với 467/469 đại biểu tán thành, dòng tiền hồi phục mạnh trên TTCK (HOSE +30%, HNX +60%), nhóm chứng khoán và bất động sản hút tiền nổi bật. Dự án sân bay Long Thành 16 tỷ USD và Bách Hoá Xanh mở vượt kế hoạch tạo động lực kinh tế. Tuy nhiên, nợ xấu gia tăng, chi phí dự phòng cao cản lãi suất giảm; khối ngoại tiếp tục thâu tóm các thương hiệu Việt gây lo ngại kiểm soát chiến lược.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng GDP 10%+ năm 2027",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027",
       "impact": "↑",
       "note": "Sáng 7/11, Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn."
     },
@@ -15,24 +15,24 @@
       "note": "Tuần 02-06/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đ/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đ/phiên); KDH tăng khối lượng 200%."
     },
     {
-      "title": "Bách Hoá Xanh thử nghiệm mô hình mini, hướng tới 10 tỷ USD",
-      "impact": "↑",
-      "note": "BHX mở được 1.800 cửa hàng năm 2026 vượt mục tiêu 1.000; sắp ra mắt mô hình mini để tăng tốc. Kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030."
-    },
-    {
       "title": "Sân bay Long Thành 16 tỷ USD, dự án hạ tầng lớn nhất Việt Nam",
       "impact": "↑",
       "note": "Dự án tổng vốn đầu tư hơn 16 tỷ USD, giai đoạn 1 công suất 25 triệu hành khách/năm, hoàn thành toàn bộ 100 triệu hành khách/năm; 4 đường cất hạ cánh dài 4km (dài nhất VN)."
     },
     {
-      "title": "Chi phí rủi ro cao cản trở ngân hàng giảm lãi suất",
-      "impact": "↓",
-      "note": "Tốc độ xử lý nợ xấu chưa theo kịp phát sinh mới, tỷ lệ dự phòng tăng từ 5% (nhóm 2) lên 20% (nhóm 3) và 50% (nhóm 4). Áp lực rủi ro cao cản trở nỗ lực giảm lãi suất cho vay."
+      "title": "Bách Hoá Xanh thử nghiệm mô hình mini, hướng tới 10 tỷ USD",
+      "impact": "↑",
+      "note": "BHX mở được 1.800 cửa hàng năm 2026 vượt mục tiêu 1.000; sắp ra mắt mô hình mini để tăng tốc. Kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030."
     },
     {
-      "title": "HOSE ngắt kết nối giao dịch Chứng khoán Hòa Bình từ 9/11",
+      "title": "Khối ngoại thâu tóm loạt thương hiệu Việt hàng đầu",
       "impact": "↓",
-      "note": "HOSE tạm ngừng kết nối giao dịch công ty Chứng khoán Hòa Bình (HBS) từ 9/11 để đảm bảo an toàn hệ thống CNTT; HBS liên tiếp gặp vấn đề liên quan hoạt động nghiệp vụ."
+      "note": "Kokuyo (Nhật) hoàn tất thâu tóm 46,82% Thiên Long, dự kiến thêm 18,19% nữa. Loạt thương hiệu (Sabeco, Nhựa Bình Minh, Thiên Long) lần lượt đổi chủ; khối ngoại bán ròng hàng trăm nghìn tỷ trên TTCK nhưng vẫn thâu tóm công ty Việt."
+    },
+    {
+      "title": "Chi phí rủi ro cao cản trở ngân hàng giảm lãi suất",
+      "impact": "↓",
+      "note": "Tốc độ xử lý nợ xấu chưa theo kịp phát sinh mới; tỷ lệ dự phòng tăng từ 5% (nhóm 2) lên 20% (nhóm 3) và 50% (nhóm 4). Áp lực rủi ro cao cản trở nỗ lực giảm lãi suất cho vay."
     }
   ]
 }
