@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-10",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027 và NHNN triển khai hỗ trợ thanh khoản bằng cách mua ngoại tệ giao ngay từ 11/11, tạo xu hướng tích cực. Dòng tiền hồi phục mạnh vào chứng khoán và bất động sản với thanh khoản tăng 30-60%. Tuy nhiên, rủi ro hệ thống tài chính vẫn lớn từ nợ xấu cao cản trở ngân hàng giảm lãi suất, cùng sự cố an toàn CNTT tại HOSE (ngắt kết nối Chứng khoán Hòa Bình). Cần giải quyết thách thức cơ cấu vốn để hiện thực hóa tăng trưởng.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Quốc hội thông qua mục tiêu GDP tăng từ 10% trở lên năm 2027, tạo đà chính sách tích cực. Dòng tiền quay mạnh vào TTCK, thanh khoản tăng 30-60% trên cả 2 sàn, nhóm chứng khoán và bất động sản hút tiền nổi bật. Doanh nghiệp Việt tăng tốc (Bách Hoá Xanh mở vượt kế hoạch), dự án Long Thành 16 tỷ USD là động lực hạ tầng. Tuy nhiên, nợ xấu gia tăng và chi phí dự phòng cao cản trở giảm lãi suất; sự cố CNTT tại HBS ảnh hưởng tới tin tưởng TTCK.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng GDP 10%+ năm 2027",
@@ -10,19 +10,19 @@
       "note": "Sáng 7/11, Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn."
     },
     {
-      "title": "NHNN bơm VND định kỳ từ 11/11, mua ngoại tệ giao ngay",
+      "title": "Dòng tiền hồi phục mạnh vào chứng khoán, bất động sản",
       "impact": "↑",
-      "note": "NHNN từ 11/11/2026 thực hiện mua ngoại tệ giao ngay hai phiên mỗi tuần (thứ Hai, thứ Tư) với tỷ giá 25.500 đ/USD, cung ứng VND không xác định thời gian thu hồi, hỗ trợ thanh khoản hệ thống ngân hàng."
+      "note": "Tuần 02-06/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đ/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đ/phiên); KDH tăng khối lượng 200%."
     },
     {
-      "title": "Dòng tiền hồi phục mạnh vào chứng khoán và bất động sản",
+      "title": "Bách Hoá Xanh thử nghiệm mô hình mini, hướng tới 10 tỷ USD",
       "impact": "↑",
-      "note": "Tuần 02-06/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đ/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đ/phiên)."
+      "note": "BHX mở được 1.800 cửa hàng năm 2026 vượt mục tiêu 1.000; sắp ra mắt mô hình mini để tăng tốc. Kết hợp nhiều định dạng cửa hàng hướng tới doanh thu 10 tỷ USD vào 2030."
     },
     {
-      "title": "Bách Hoá Xanh thử nghiệm mô hình mini, hướng tới 10 tỷ USD doanh thu",
+      "title": "Sân bay Long Thành 16 tỷ USD, dự án hạ tầng lớn nhất Việt Nam",
       "impact": "↑",
-      "note": "BHX mở được 1.800 cửa hàng năm 2026 vượt mục tiêu 1.000, sắp ra mắt mô hình mini để tăng tốc mở chuỗi. Kết hợp nhiều định dạng cửa hàng nhằm đạt doanh thu 10 tỷ USD vào 2030."
+      "note": "Dự án tổng vốn đầu tư hơn 16 tỷ USD, giai đoạn 1 công suất 25 triệu hành khách/năm, hoàn thành toàn bộ 100 triệu hành khách/năm; 4 đường cất hạ cánh dài 4km (dài nhất VN)."
     },
     {
       "title": "Chi phí rủi ro cao cản trở ngân hàng giảm lãi suất",
@@ -32,7 +32,7 @@
     {
       "title": "HOSE ngắt kết nối giao dịch Chứng khoán Hòa Bình từ 9/11",
       "impact": "↓",
-      "note": "HOSE tạm ngừng kết nối giao dịch công ty Chứng khoán Hòa Bình (HBS) từ 9/11 để đảm bảo an toàn hệ thống CNTT, cảnh báo rủi ro về độ tin cậy hệ thống giao dịch thị trường."
+      "note": "HOSE tạm ngừng kết nối giao dịch công ty Chứng khoán Hòa Bình (HBS) từ 9/11 để đảm bảo an toàn hệ thống CNTT; HBS liên tiếp gặp vấn đề liên quan hoạt động nghiệp vụ."
     }
   ]
 }
