@@ -1,38 +1,38 @@
 {
   "_opus": true,
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Phiên 10/11 ghi dấu tích cực với VN-Index tăng 28,75 điểm lên 1.743,07 điểm, được hỗ trợ bởi dòng tiền mạnh từ khối ngoại và tự doanh. Chính sách vĩ mô tạo điều kiện thuận lợi: Quốc hội giao mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, SBV công bố sẽ mua ngoại tệ giao ngay theo lịch định kỳ từ 11/11 để bơm thanh khoản VND vào hệ thống. Các doanh nghiệp như TMB tính chia cổ tức khủng 241%, thu hút nhà đầu tư. Tuy nhiên, cần cảnh báo với những mã tăng quá nhanh như D11 (+51% trong 6 phiên) mà không phải từ cơ sở kinh doanh vững chắc.",
+  "summary_vi": "Nền kinh tế Việt Nam ghi nhận tín hiệu vĩ mô tích cực với GDP 9 tháng tăng 9,01% (cao nhất 15 năm) và Quốc hội thông qua mục tiêu tăng trưởng ≥10% năm 2027. Ngân hàng Nhà nước chủ động bổ sung thanh khoản hệ thống thông qua chương trình mua ngoại tệ định kỳ, khích lệ dòng tiền tích cực khi khối ngoại quay lại mua ròng hơn 470 tỷ đồng. Tuy vậy, lãi suất huy động vẫn cao (7%/năm) và thị trường cần phát triển công cụ vốn sâu hơn để giảm áp lực chi phí cho doanh nghiệp.",
   "top": [
     {
-      "title": "VN-Index tăng mạnh, hướng vùng kháng cự 1750-1760",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "VN-Index tăng 28,75 điểm (+1,68%) lên 1.743,07 điểm, đóng tại mức cao nhất phiên. Thanh khoản cải thiện vượt mức trung bình 20 phiên. RSI vượt đường xu hướng giảm ngắn hạn, MACD đảo chiều sang vùng dương với histogram tăng. Chỉ số sẽ test vùng kháng cự 1750-1760 trong phiên tới."
+      "note": "Với 467/469 đại biểu tán thành (7/11), Quốc hội thông qua kế hoạch phát triển kinh tế - xã hội 2027 với mục tiêu tăng trưởng từ 10% trở lên. Năm 2027 định hướng là năm tăng tốc, bứt phá, tạo đà cho thực hiện Nghị quyết Đại hội XIV của Đảng, kết hợp giữ vững ổn định vĩ mô và kiểm soát lạm phát."
     },
     {
-      "title": "Khối ngoại và tự doanh mua ròng hơn 930 tỷ đồng",
+      "title": "NHNN mua ngoại tệ giao ngay hàng tuần bắt đầu từ 11/11",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng hơn 462-470 tỷ đồng; tự doanh mua ròng hơn 515-517 tỷ đồng. Cả hai khối cùng nhất quán mua mạnh. Lực mua ngoại tập trung VIX (270-272 tỷ), KDH (86 tỷ), mua rải đều POW, SSI, VNM, VHM, NVL, TCB, MSN. Tín hiệu dòng tiền mạnh từ hai phía."
+      "note": "Ngân hàng Nhà nước sẽ thực hiện mua ngoại tệ giao ngay vào thứ Hai và thứ Tư hằng tuần với tỷ giá 25.500 đồng/USD. Mỗi 1 tỷ USD mua vào sẽ đưa khoảng 25.500 tỷ đồng vào hệ thống, bổ sung thanh khoảng tiền Đồng và hỗ trợ cân đối vốn của các tổ chức tín dụng."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
+      "title": "GDP 9 tháng tăng 9,01% - cao nhất trong 15 năm",
       "impact": "↑",
-      "note": "Ngày 7/11, Quốc hội thông qua (467/469 đại biểu tán thành) mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên. Năm 2027 định hướng là năm tăng tốc, bứt phá, tạo đà cho Nghị quyết Đại hội XIV Đảng, kết hợp giữ vững ổn định vĩ mô và kiểm soát lạm phát."
+      "note": "Doanh thu của các doanh nghiệp đầu tàu phản ánh sức khỏe nền kinh tế. Có 22 doanh nghiệp phi tài chính trên sàn chứng khoán ghi nhận doanh thu trên 1 tỷ USD trong 9 tháng đầu năm, hầu hết tăng trưởng hàng chục % so với cùng kỳ năm ngoái, cho thấy năng lực sản xuất và sức mua của nền kinh tế."
     },
     {
-      "title": "SBV mua USD giao ngay định kỳ bơm VND từ 11/11",
+      "title": "VN-Index tăng gần 29 điểm, khối ngoại + tự doanh đồng thuận mua ròng",
       "impact": "↑",
-      "note": "SBV thông báo mua ngoại tệ giao ngay vào thứ Hai và thứ Tư hằng tuần kể từ 11/11/2026 (lần đầu công bố lịch cố định). Mỗi 1 tỷ USD tương ứng ~25.500 tỷ đồng VND được cung ứng vào hệ thống, bổ sung thanh khoản tiền Đồng và hỗ trợ khả năng huy động vốn của các tổ chức tín dụng."
+      "note": "Phiên 10/11, VN-Index tăng 28,75 điểm (+1,68%) đóng cửa tại 1.743,07 điểm. Khối ngoại mua ròng hơn 470 tỷ đồng, tự doanh mua ròng hơn 515 tỷ đồng. Thanh khoản cải thiện đáng kể với giá trị giao dịch HoSE đạt khoảng 16.900 tỷ đồng, cho thấy tâm lý nhà đầu tư cải thiện."
     },
     {
-      "title": "TMB chia cổ tức 241.4188% từ lãi lũy kế",
+      "title": "TMB tăng vốn 1,83 lần và chia cổ tức khủng 241,4188%",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc (TMB) dự kiến thưởng 27,45 triệu cổ phiếu tăng vốn từ 150 tỷ lên 424,5 tỷ đồng (gấp 1,83 lần). Chia cổ tức tiền mặt 241.4188% từ lãi lũy kế hơn 362 tỷ đồng, mỗi cổ phiếu nhận 24.141,88 đồng. Thực hiện trong quý 4/2026 - quý 1/2027."
+      "note": "CTCP Kinh doanh Than Miền Bắc (HNX: TMB) thưởng 27,45 triệu cổ phiếu tăng vốn điều lệ từ 150 tỷ đồng lên 424,5 tỷ đồng. Công ty chia cổ tức tiền mặt từ lãi lũy kế hơn 362 tỷ đồng, tương ứng 24.141,88 đồng/cổ phiếu, thực hiện quý 4/2026 - quý 1/2027."
     },
     {
-      "title": "D11 tăng 51,7% trong 6 phiên, lãi lợi suất ngân hàng ổn định",
-      "impact": "↑",
-      "note": "CTCP Địa ốc 11 (D11) tăng từ 11.600 đồng (2/11) lên 17.600 đồng (10/11), tăng 51,7% với 4 phiên trần. Thanh khoản bốc lên: phiên 10/11 giao dịch 165.000 cổ phiếu (~2,9 tỷ đồng) so với vài trăm-ngàn đơn vị cuối tháng 10. Ngân hàng niêm yết lãi suất 12 tháng cao nhất 7%/năm (MBV, PGBank, Sacombank, VCBNeo, VIB) và 18 tháng cao 7,4%/năm."
+      "title": "Phát triển thị trường trái phiếu như \"lốp dự phòng\" cho hệ thống ngân hàng",
+      "impact": "→",
+      "note": "Chuyên gia đề xuất cần phát triển thị trường trái phiếu đủ sâu, có thanh khoản và được tin tưởng. Thị trường trái phiếu có vai trò cung ứng vốn dự phòng khi tín dụng ngân hàng gián đoạn, giúp nền kinh tế hạn chế những cú sốc như khủng hoảng 2008 tại Mỹ."
     }
   ]
 }
