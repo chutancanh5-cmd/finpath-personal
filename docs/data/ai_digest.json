@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-10",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "SBV bơm thanh khoản 153.000 tỷ đồng qua mua ngoại tệ hàng tuần kể từ 11/11, đồng thời bãi bỏ 17 quy định cũ để nới lỏng điều kiện cho vay USD. Quốc hội giao mục tiêu tăng trưởng 2027 từ 10% trở lên, trong khi khối ngoại và tự doanh quay trở lại mạnh mua ròng hơn 980 tỷ đồng trong phiên 10/11, tạo đà tích cực mặc dù doanh nghiệp vẫn gặp áp lực lãi suất cao.",
+  "summary_vi": "Ngân hàng Nhà nước bắt đầu chương trình mua USD định kỳ (2 phiên/tuần kể từ 11/11) để bơm thanh khoản VND vào hệ thống. Quốc hội phê duyệt mục tiêu tăng trưởng 2027 từ 10% trở lên, kỳ vọng tăng tốc phục hồi kinh tế. Khối ngoại mua ròng 460-470 tỷ đồng, VN-Index tăng gần 29 điểm lên 1.743, tín hiệu dương từ dòng vốn nước ngoài. Rủi ro vẫn tồn tại từ thị trường trái phiếu chưa phát triển (giao dịch hợp đồng trái phiếu Chính phủ tháng 10 bằng 0) và áp lực lãi suất cao của doanh nghiệp.",
   "top": [
     {
-      "title": "SBV bơm 153.000 tỷ đồng thanh khoản qua mua ngoại tệ",
+      "title": "SBV mua USD định kỳ bơm VND vào hệ thống",
       "impact": "↑",
-      "note": "SBV sẽ mua ngoại tệ giao ngay 2 phiên/tuần (thứ 2 và thứ 4), bắt đầu từ 11/11/2026. Mỗi 1 tỷ USD mua vào tương ứng ~25.500 tỷ đồng bơm vào hệ thống, bổ sung thanh khoản tiền Đồng, VND nằm lại hệ thống còn USD vào dự trữ ngoại hối."
+      "note": "Ngân hàng Nhà nước sẽ mua ngoại tệ giao ngay vào thứ 2 và thứ 4 hằng tuần từ 11/11/2026. Mỗi 1 tỷ USD mua vào tương ứng ~25.500 tỷ đồng bơm vào hệ thống, bổ sung thanh khoản tiền Đồng và hỗ trợ huy động vốn của các tổ chức tín dụng."
     },
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Với 467/469 đại biểu tán thành (7/11), Quốc hội thông qua mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên gắn với ổn định vĩ mô và kiểm soát lạm phát, tạo động lực mạnh cho hoạt động đầu tư và kinh doanh."
+      "note": "Với 467/469 đại biểu tán thành (7/11), Quốc hội thông qua mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, tập trung tăng tốc và bứt phá, gắn với giữ vững ổn định vĩ mô và kiểm soát lạm phát."
     },
     {
-      "title": "Khối ngoại liên tục mua ròng sau hai phiên giảm",
+      "title": "Khối ngoại mua ròng 460-470 tỷ, VN-Index tăng 29 điểm",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng hơn 470 tỷ đồng (KDH dẫn đầu ~86 tỷ), tự doanh mua ròng hơn 515 tỷ đồng (VIX mua 270 tỷ). VN-Index tăng gần 29 điểm lên 1.743,07 điểm với gần 450 mã tăng, xác nhận khôi phục niềm tin nhà đầu tư."
+      "note": "Phiên 10/11, khối ngoại mua ròng hơn 470 tỷ đồng (KDH dẫn đầu 86 tỷ), tự doanh mua ròng 515 tỷ đồng (VIX mua 270 tỷ). VN-Index tăng gần 29 điểm lên 1.743,07 điểm với ~450 mã tăng, xác nhận khôi phục niềm tin nhà đầu tư."
     },
     {
-      "title": "SBV bãi bỏ 17 quy định liên quan điều hành tiền tệ",
+      "title": "TMB chia cổ tức 241.42% và tăng vốn 1.83 lần",
       "impact": "↑",
-      "note": "NHNN đề xuất bãi bỏ 17 văn bản quy phạm pháp luật liên quan lãi suất cho vay USD, sáp nhập/mua lại tổ chức tín dụng, hỗ trợ quỹ tín dụng nhân dân, nới lỏng đáng kể so với quy định từ 2001-2018."
+      "note": "CTCP Kinh doanh Than Miền Bắc (TMB) chia cổ tức tiền mặt 241.4188% (24.141,88 đồng/cổ phiếu) từ lãi lũy kế 362 tỷ đồng, thưởng 27,45 triệu cổ phiếu tăng vốn từ 150 tỷ lên 424,5 tỷ đồng, thực hiện quý 4/2026 - quý 1/2027."
     },
     {
-      "title": "Siêu sân bay Gia Bình 8 tỷ USD dự kiến hoàn thành 2027",
-      "impact": "↑",
-      "note": "Dự án Cảng hàng không quốc tế Gia Bình (8 tỷ USD) dự kiến hoàn thành năm 2027, sẽ chuyển toàn bộ chuyến quốc tế từ Nội Bài, nâng công suất Nội Bài từ 50 triệu (2030) lên 100 triệu hành khách/năm (2050)."
-    },
-    {
-      "title": "Áp lực lãi suất khi Kafi huy động trái phiếu 9.7%",
+      "title": "Giao dịch trái phiếu Chính phủ tháng 10 không diễn ra",
       "impact": "↓",
-      "note": "Chứng khoán Kafi huy động thêm 200 tỷ đồng trái phiếu kỳ hạn 1 năm với lãi suất 9.7%/năm, thanh toán 6 tháng/lần (19.4 tỷ đồng tiền lãi), để cơ cấu lại nợ vay, phản ánh áp lực lãi suất cao của doanh nghiệp."
+      "note": "Hợp đồng tương lai trái phiếu Chính phủ kỳ hạn 5 năm và 10 năm tháng 10/2026 ghi nhận 0 giao dịch, khối lượng mở OI bằng 0. VN30 giảm 10%, phản ánh yếu tố bất lợi cho thị trường cổ phiếu."
+    },
+    {
+      "title": "Dự án sân bay Gia Bình 8 tỷ USD hoàn thành 2027",
+      "impact": "↑",
+      "note": "Dự án Cảng hàng không quốc tế Gia Bình (8 tỷ USD) dự kiến hoàn thành 2027-2028, sẽ chuyển toàn bộ chuyến quốc tế từ Nội Bài sang Gia Bình, nâng công suất Nội Bài lên 100 triệu hành khách/năm (2050)."
     }
   ]
 }
