@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-10",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027 với ổn định vĩ mô; NHNN bơm thanh khoản VND từ 11/11 qua mua ngoại tệ giao ngay (25.500 đ/USD) định kỳ hai phiên mỗi tuần. Dòng tiền hồi phục mạnh, khối lượng HOSE tăng 30%, HNX tăng 60%, nhóm chứng khoán và BĐS hút tiền nổi bật. Chính phủ yêu cầu giám sát chặt khả năng trả nợ BĐS và xử lý ngân hàng không giảm lãi suất, cảnh báo rủi ro tín dụng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường cân bằng giữa tín hiệu tích cực từ chính sách (GDP 10%+, NHNN bơm thanh khoản) và áp lực tiêu cực (khối ngoại bán ròng 800 tỷ, Fed tăng lãi suất sắp tới). Dòng tiền hồi phục mạnh vào chứng khoán và bất động sản (HOSE +30%, HNX +60%), nhưng chi phí rủi ro cao cản trở ngân hàng giảm lãi suất. Các tập đoàn nước ngoài tiếp tục thâu tóm doanh nghiệp Việt trong bối cảnh bán ròng.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng GDP 10%+ năm 2027",
@@ -20,19 +20,19 @@
       "note": "Tuần 02-06/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đ/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đ/phiên). Nhóm bất động sản và chứng khoán hút tiền nổi bật."
     },
     {
-      "title": "Chính phủ yêu cầu xử lý nghiêm ngân hàng, giám sát BĐS",
-      "impact": "→",
-      "note": "Chính phủ qua Nghị quyết 353/NQ-CP ngày 6/11 yêu cầu NHNN tăng cường thanh tra, xử lý tổ chức tín dụng không giảm lãi suất cho vay; giám sát chặt chẽ chất lượng tín dụng, khả năng trả nợ đến hạn của doanh nghiệp bất động sản."
+      "title": "Loạt thương hiệu Việt về tay nước ngoài trong bán ròng hàng trăm nghìn tỷ",
+      "impact": "↓",
+      "note": "Tập đoàn Kokuyo (Nhật) hoàn tất nhận chuyển nhượng 46,82% vốn TLAT, dự kiến chào mua công khai 18,19% cổ phần Thiên Long để nâng sở hữu trên 65%. Trước đó CTP N.V. (Hà Lan) đề xuất mua 100% danh mục SLP Việt Nam của Ares Management với giá 500 triệu USD. Dòng vốn nước ngoài vẫn chảy vào M&A doanh nghiệp dù bán ròng thị trường chứng khoán."
     },
     {
-      "title": "Sân bay Long Thành 16 tỷ USD, công suất 25 triệu hành khách/năm",
-      "impact": "↑",
-      "note": "Dự án hạ tầng giao thông lớn nhất VN, tổng vốn 16 tỷ USD trên 5.000 ha, 3 giai đoạn. Giai đoạn 1 có 2 đường băng dài 4km (dài nhất VN), công suất 25 triệu lượt hành khách/năm, tiếp nhận máy bay lớn nhất thế giới, hỗ trợ tăng trưởng dài hạn."
+      "title": "Khối ngoại bán ròng hơn 800 tỷ đồng, áp lực lên chỉ số",
+      "impact": "↓",
+      "note": "Khối ngoại bán ròng 799 tỷ đ HOSE, 12 tỷ đ HNX, 4,7 tỷ đ UPCoM. Nhóm bất động sản yếu (VHM -2,74%), tiêu dùng (MCH -2,93%, VNM -1,56%, MSN -2,05%). Tín hiệu rút vốn của nhà đầu tư nước ngoài."
     },
     {
-      "title": "Loạt thương hiệu Việt về tay nước ngoài, M&A gia tăng",
-      "impact": "→",
-      "note": "Kokuyo (Nhật) hoàn tất nhận chuyển 46,82% vốn Thiên Long ngày 6/11, kế hoạch chào mua công khai thêm 18,19% để nâng lên trên 65% làm công ty con. Song song, Sabeco, Nhựa Bình Minh lần lượt đổi chủ, cho thấy M&A nước ngoài vẫn mạnh trong bối cảnh khối ngoại bán ròng."
+      "title": "Fed cần thắt chặt chính sách hơn nữa giữa thị trường lao động mạnh, lạm phát 3,7%",
+      "impact": "↓",
+      "note": "Ba quan chức Fed phát biểu tuần 6/11 rằng Fed cần tăng lãi suất tiếp theo. BLS ngày 6/11 báo cáo tạo 165.000 việc làm tháng 10 (vượt dự báo 100.000), thất nghiệp 4,1%, lương bình quân tăng 3,1%. CPI tháng 9 vẫn ở 3,7%. Tín hiệu này dự báo USD tăng mạnh, sẽ khiến vốn rút khỏi thị trường mới nổi như Việt Nam."
     }
   ]
 }
