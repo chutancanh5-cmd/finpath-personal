@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-10",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Tâm lý nhà đầu tư được cải thiện khi chứng khoán Mỹ tăng mạnh (Dow +2,15%, S&P +2,35%) và giá dầu giảm sâu (WTI -4,38%), tạo động lực cho thị trường khu vực. Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027 và dòng tiền hồi phục mạnh trên TTCK (HOSE +30%, HNX +60%), với sân bay Long Thành 16 tỷ USD và Bách Hoá Xanh tạo động lực dài hạn. Tuy nhiên, nợ xấu gia tăng, chi phí dự phòng cao cản lãi suất giảm; khối ngoại tiếp tục thâu tóm các thương hiệu Việt gây lo ngại kiểm soát chiến lược.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Thị trường được hỗ trợ bởi ba động lực chính: Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027 (467/469 đại biểu tán thành), chứng khoán Mỹ tăng mạnh kích thích đầu tư khu vực, và các dự án hạ tầng lớn (sân bay Long Thành 16 tỷ USD, Bách Hoá Xanh hướng 10 tỷ USD) tạo tầm nhìn dài hạn. Tuy vậy, nợ xấu gia tăng và khối ngoại tiếp tục thâu tóm các thương hiệu Việt vẫn là rủi ro ngắn hạn cần theo dõi.",
   "top": [
     {
       "title": "Chứng khoán Mỹ tăng bùng nổ, dầu lao dốc",
@@ -15,9 +15,9 @@
       "note": "Sáng 7/11, Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027 gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn."
     },
     {
-      "title": "Dòng tiền hồi phục mạnh vào chứng khoán, bất động sản",
-      "impact": "↑",
-      "note": "Tuần 02-06/11: HOSE khối lượng tăng 30% (828,4 triệu đơn vị/phiên), giá trị tăng 17% (16,8 ngàn tỷ đ/phiên); HNX khối lượng tăng 60% (67 triệu đơn vị/phiên), giá trị tăng 43% (910,5 tỷ đ/phiên); KDH tăng khối lượng 200%."
+      "title": "Loạt thương hiệu Việt về tay nước ngoài",
+      "impact": "↓",
+      "note": "Kokuyo (Nhật Bản) nắm 46,82% vốn Thiên Long, dự kiến thâu tóm thêm 18,19% để trở thành công ty con. Sabeco, Nhựa Bình Minh cũng lần lượt chuyển chủ sở hữu, trong khi khối ngoại bán ròng hàng trăm nghìn tỷ trên sàn chứng khoán."
     },
     {
       "title": "Sân bay Long Thành 16 tỷ USD, dự án hạ tầng lớn nhất Việt Nam",
