@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-10",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Tuần qua chứng khoán Mỹ phục hồi mạnh (Dow +2,15%, S&P 500 +2,35%) trong bối cảnh giá dầu lao dốc gần 6%, tạo tâm lý lạc quan cho nhà đầu tư. Trong nước, Quốc hội phê duyệt mục tiêu tăng trưởng 2027 từ 10% trở lên, tạo dòng chính sách hỗ trợ kinh tế. Các doanh nghiệp báo cáo kết quả tốt: Masan lợi nhuận tăng 205% (8,042 tỷ đồng), TMB cổ tức 241%, Bách Hoá Xanh vượt kế hoạch mở cửa hàng. Rủi ro ngắn hạn: ngân hàng chịu áp lực chi phí dự phòng cao khi xử lý nợ xấu chậm.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027, 28 ngân hàng giảm lãi suất cho vay hỗ trợ doanh nghiệp tạo dòng chính sách tích cực. Chứng khoán Mỹ phục hồi mạnh (Dow +2,15%, S&P 500 +2,35%) nhờ giá dầu lao dốc, cải thiện tâm lý nhà đầu tư. Các doanh nghiệp báo cáo kết quả vượt kỳ vọng: Masan lợi nhuận tăng 205%, TMB cổ tức 241%, Bách Hoá Xanh vượt kế hoạch mở 1.800 cửa hàng. Tuy nhiên, áp lực lãi suất huy động và chi phí dự phòng vẫn còn ức chế lợi nhuận ngân hàng.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
@@ -20,9 +20,9 @@
       "note": "Doanh thu 89.118 tỷ đồng tăng 52,7%, lợi nhuận cổ đông công ty mẹ đạt 8.042 tỷ đồng tăng 205,3%. Được hỗ trợ bởi giá vonfram cao và hoạt động tốt của Masan High-Tech Materials (MSR). Vừa ký MOU với Sojitz (Nhật) mua 5% MSR."
     },
     {
-      "title": "Sân bay Long Thành - Dự án 16 tỷ USD, công suất 100 triệu hành khách/năm",
+      "title": "28 ngân hàng giảm lãi suất cho vay hỗ trợ doanh nghiệp",
       "impact": "↑",
-      "note": "Tổng vốn đầu tư hơn 16 tỷ USD trên 5.000 ha, 3 giai đoạn. Giai đoạn 1 công suất 25 triệu hành khách, toàn bộ hoàn thành đạt 100 triệu hành khách. Sở hữu 4 đường băng 4km dài nhất Việt Nam, trở thành cửa ngõ hàng không quốc tế mới cho phía Nam."
+      "note": "28 ngân hàng thông báo giảm lãi suất cho vay nhằm giảm áp lực chi phí vốn cho doanh nghiệp. Dự kiến hỗ trợ SME và các doanh nghiệp khác, tuy nhiên khả năng thụ hưởng phụ thuộc tình hình thanh khoản từng ngân hàng và áp lực trích lập dự phòng."
     },
     {
       "title": "TMB phương án cổ tức tiền mặt 241% và thưởng cổ phiếu 183%",
