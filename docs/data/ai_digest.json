@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng GDP 10% trở lên năm 2027 với tín hiệu khởi động từ 22 doanh nghiệp đầu tàu có doanh thu trên 1 tỷ USD tăng gấp bội. Khối ngoại và tự doanh mua ròng mạnh (tổng 985 tỷ đồng), VN-Index tăng 29 điểm lên 1.743,07 điểm. Tuy nhiên, CPI Mỹ tháng 10 tăng 0,4% vượt dự báo 0,3%, nâng xác suất Fed tăng lãi suất tháng 12 lên 100%, khiến giá vàng lao dốc xuống 4.033,5 USD/oz. Căng thẳng giữa tín hiệu tăng trưởng trong nước và rủi ro tightening từ Mỹ tạo bối cảnh không chắc chắn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ CPI Mỹ tháng 10 tăng 0,4% (cao hơn dự báo 0,3%), khiến khả năng Fed tăng lãi suất tháng 12 lên 100% và USD tăng mạnh. Bù lại, tin tức trong nước khá tích cực: Quốc hội giao mục tiêu tăng trưởng kinh tế 10% năm 2027, Masan ghi nhận doanh thu +52,7% và lợi nhuận +205%, TMB tăng vốn 1,83 lần với chia cổ tức 241%. Khối ngoại mua ròng 470 tỷ đ và tự doanh mua ròng 515 tỷ đ tạo nền tảng tích cực, nhưng áp lực từ lãi suất toàn cầu vẫn cần theo dõi sát.",
   "top": [
     {
-      "title": "CPI Mỹ vượt dự báo, Fed chắc chắn tăng lãi suất tháng 12",
+      "title": "CPI Mỹ tăng 0,4% vượt dự báo, Fed tăng lãi suất tháng 12 chắc 100%",
       "impact": "↓",
-      "note": "CPI tháng 10/2026 tăng 0,4% so với tháng trước vượt dự báo 0,3%, khiến xác suất Fed tăng lãi suất tháng 12 lên 100% từ 84%. Giá vàng giảm mạnh hơn 100 USD/oz xuống 4.033,5 USD/oz, tín hiệu risk-off tạo áp lực capital outflow từ thị trường mới nổi."
+      "note": "CPI tháng 10/2026 Mỹ tăng 0,4% so với tháng trước (vượt dự báo 0,3%), nâng xác suất Fed tăng lãi suất tháng 12 lên 100% từ 84%; giá vàng lao dốc 107,4 USD/oz xuống 4.033,5 USD/oz (-2,6%), tín hiệu risk-off áp lực vốn chảy ra khỏi thị trường mới nổi."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 10% trở lên năm 2027",
       "impact": "↑",
-      "note": "Quốc hội 467/469 đại biểu tán thành thông qua Nghị quyết phát triển kinh tế - xã hội năm 2027 (7/11), giao mục tiêu tăng trưởng từ 10% trở lên để thực hiện Nghị quyết Đại hội XIV của Đảng, tập trung tăng tốc, bứt phá trong kiểm soát lạm phát."
+      "note": "Quốc hội thông qua 7/11 với 467/469 đại biểu tán thành Nghị quyết phát triển kinh tế - xã hội 2027, giao mục tiêu tăng trưởng từ 10% trở lên gắn ổn định vĩ mô, kiểm soát lạm phát; là năm tăng tốc, bứt phá thực hiện Nghị quyết Đại hội XIV của Đảng."
     },
     {
-      "title": "TMB tăng vốn 1,83 lần, chia cổ tức 241,4188%",
+      "title": "Masan: Doanh thu +52,7%, lợi nhuận cổ đông mẹ +205,3%",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin phát hành 27,45 triệu cổ phiếu thưởng tăng vốn từ 150 tỷ đồng lên 424,5 tỷ đồng (thực hiện quý 4/2026 - quý 1/2027), chia cổ tức tiền mặt 241,4188% từ lãi lũy kế 362 tỷ đồng, cổ phiếu liên tục tăng trần."
+      "note": "9 tháng 2026 doanh thu 89.118 tỷ đ (+52,7%), lợi nhuận cổ đông mẹ 8.042 tỷ đ (+205,3%), nợ vay giảm; ký MOU với Sojitz (Nhật) phân phối vonfram, florit; thúc đẩy từ Masan High-Tech Materials khi giá vonfram tăng mạnh."
     },
     {
-      "title": "Khối ngoại tự doanh mua ròng tổng 985 tỷ đồng, VN-Index tăng 29 điểm",
+      "title": "TMB tăng vốn 1,83 lần (150 tỷ → 424,5 tỷ), chia cổ tức 241,4%",
       "impact": "↑",
-      "note": "Phiên 10/11: khối ngoại mua ròng 470 tỷ đồng (KDH dẫn đầu 86 tỷ), tự doanh mua ròng 515 tỷ đồng (VIX dẫn đầu 270 tỷ). VN-Index tăng 29 điểm lên 1.743,07 điểm, thanh khoản vượt trung bình, cho thấy niềm tin nhà đầu tư phục hồi."
+      "note": "Thưởng 27,45 triệu cp để tăng vốn 150 tỷ đ lên 424,5 tỷ đ (thực hiện Q4/2026-Q1/2027); chia cổ tức 241,4% từ lãi lũy kế 362 tỷ đ (24.141,88 đ/cp), cổ phiếu liên tục tăng trần khi giá than tăng."
     },
     {
-      "title": "22 doanh nghiệp đầu tàu doanh thu trên 1 tỷ USD tăng gấp bội",
+      "title": "Khối ngoại mua ròng 470 tỷ đ, tự doanh mua ròng 515 tỷ đ (10/11)",
       "impact": "↑",
-      "note": "22 doanh nghiệp phi tài chính trên sàn CK có doanh thu trên 1 tỷ USD trong 9 tháng đầu năm, hầu hết tăng trưởng hàng chục phần trăm và thậm chí gấp nhiều lần cùng kỳ năm ngoái. Dữ liệu từ các doanh nghiệp lớn như Vingroup, Petrolimex, Hoà Phát phản ánh sức khoẻ nền kinh tế, hỗ trợ mục tiêu GDP 2 chữ số."
+      "note": "Khối ngoại mua ròng 470 tỷ đ (KDH dẫn đầu 86 tỷ đ, POW, SSI, VNM, VHM, NVL); tự doanh mua ròng 515 tỷ đ (VIX dẫn đầu 270 tỷ đ); VN-Index tăng 29 điểm lên 1.743,07, niềm tin nhà đầu tư phục hồi."
     },
     {
       "title": "Anthropic huy động 64 tỷ USD, định giá 1,4 nghìn tỷ USD",
       "impact": "→",
-      "note": "Anthropic dự kiến huy động 64 tỷ USD với mức giá cổ phiếu 70-78 USD, định giá mục tiêu 1,4 nghìn tỷ USD cao hơn vòng gọi vốn tư nhân tháng 5 (965 tỷ USD). Tuy nhiên thấp hơn kỳ vọng trước đó gần 2 nghìn tỷ USD, phản ánh lo ngại bong bóng AI toàn cầu trong bối cảnh cổ phiếu AI bị bán tháo."
+      "note": "Anthropic dự kiến huy động 64 tỷ USD với giá 70-78 USD/cp, định giá 1,4 nghìn tỷ USD (cao hơn vòng tư nhân tháng 5 là 965 tỷ USD). Tuy nhiên thấp hơn kỳ vọng gần 2 nghìn tỷ USD trước đó; phản ánh lo ngại bong bóng AI khi cổ phiếu AI bị bán tháo."
     }
   ]
 }
