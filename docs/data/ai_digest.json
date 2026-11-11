@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày để hỗ trợ thanh khoản cuối năm, giúp giảm mặt bằng lãi suất. Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên, tạo kỳ vọng dài hạn. Tuy nhiên, bất động sản chịu áp lực nặng (tháng khó khăn nhất 15 năm), giá dầu Brent giảm 20% xuống 91 USD/thùng, và thanh khoản thị trường suy yếu (giảm 29%), ghi nhận trạng thái cân bằng giữa cung cầu.",
+  "summary_vi": "Quốc hội phê chuẩn mục tiêu tăng trưởng 10% năm 2027 và Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày để hỗ trợ thanh khoản, tạo tín hiệu tích cực về chính sách. Tuy nhiên, thị trường chứng khoán yếu với thanh khoản giảm 29%, bất động sản chạm đáy 15 năm (34 mã cùng mất MA200), và giá dầu lao dốc 20% — áp lực đối với doanh nghiệp dầu khí dù mỏ Cá Tầm đạt kỷ lục 2 triệu tấn dầu.",
   "top": [
     {
-      "title": "Giá dầu lao dốc mạnh 20% trong tháng 11",
-      "impact": "↓",
-      "note": "Giá dầu Brent giảm khoảng 22 USD/thùng về mức 91 USD/thùng, giảm xấp xỉ 20% so với cuối tháng 10. Nguyên nhân: sản lượng khai thác toàn cầu vượt mức tiêu thụ kể từ tháng 9 lần đầu tiên kể từ khi xung đột Mỹ-Iran nổ ra. Tiêu cực cho HPG, PVD và ngành dầu khí."
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 10% năm 2027",
+      "impact": "↑",
+      "note": "Ngày 7/11, Quốc hội với 467/469 đại biểu tán thành thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027, với mục tiêu tăng trưởng từ 10% trở lên, nhấn mạnh 'tăng tốc, bứt phá' gắn với ổn định vĩ mô và kiểm soát lạm phát."
     },
     {
       "title": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 6 tháng",
       "impact": "↑",
-      "note": "Ngày 6/11, NHNN công bố triển khai hoán đổi ngoại tệ tối đa 2 tỷ USD, kỳ hạn 182 ngày (đáo hạn tháng 5/2027). Tỷ giá mua 24.399 đồng/USD, cam kết bán lại 24.704 đồng/USD. Lãi suất hoán đổi 6 tháng trên thị trường liên ngân hàng giảm, bơm thanh khoản VND dài hạn, giúp giảm lãi suất cho vay."
+      "note": "Ngày 6/11, Ngân hàng Nhà nước công bố hoán đổi ngoại tệ tối đa 2 tỷ USD kỳ hạn 182 ngày (đáo hạn tháng 5/2027), tỷ giá mua 24.399 đồng/USD, cam kết bán lại 24.704 đồng/USD. Lãi suất hoán đổi 6 tháng trên thị trường liên ngân hàng giảm, bơm thanh khoản VND dài hạn."
+    },
+    {
+      "title": "Giá dầu Brent lao dốc 20%, mất 22 USD/thùng",
+      "impact": "↓",
+      "note": "Giá dầu Brent giảm khoảng 22 USD/thùng về mức 91 USD/thùng, giảm xấp xỉ 20% so với cuối tháng 10. Sản lượng khai thác toàn cầu vượt nhu cầu kể từ tháng 9 lần đầu tiên kể từ xung đột Mỹ-Iran, tạo áp lực lên doanh nghiệp dầu khí Việt Nam."
     },
     {
       "title": "Cổ phiếu bất động sản tháng khó khăn nhất 15 năm",
       "impact": "↓",
-      "note": "Tháng 10/2026, toàn bộ 34 cổ phiếu BĐS có thời điểm cùng mất đường trung bình động MA200, không còn mã nào giữ xu hướng tăng dài hạn. Diễn biến hiếm gặp từ cuối 2011 khi chỉ ~20 mã BĐS; mức độ suy yếu hiện nay có quy mô lớn hơn."
+      "note": "Tháng 10/2026, toàn bộ 34 mã bất động sản có thời điểm cùng mất đường trung bình động MA200—diễn biến hiếm gặp từ cuối 2011; mức độ suy yếu hơn cả thời kỳ đó về quy mô. VHM, VPI trải qua những biến động xáo trộn."
     },
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên",
+      "title": "Mỏ Cá Tầm đạt 2 triệu tấn dầu, kỷ lục 1 tỷ USD",
       "impact": "↑",
-      "note": "Ngày 7/11, Quốc hội với 467/469 đại biểu tán thành thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027. Mục tiêu tập trung vào tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát. Năm 2027 định hướng là năm tăng tốc, bứt phá."
+      "note": "Ngày 28/10/2026 lúc 1h16 phút, mỏ Cá Tầm (Lô 09-3/12) đạt sản lượng khai thác lũy kế 2 triệu tấn dầu (tương ứng 1 tỷ USD). Vietsovpetro (55%, người điều hành) cùng PVEP (30%) và Bitexco (15%) khai thác; sau 4 năm giàn CTC-2 đi vào hoạt động."
     },
     {
-      "title": "TMB tăng vốn gấp 1.83 lần, chia cổ tức 241.4188%",
-      "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc (TMB) dự kiến thưởng 27.45 triệu cp tăng vốn điều lệ từ 150 tỷ đồng lên 424.5 tỷ đồng (thực hiện quý 4/2026-quý 1/2027). Chia cổ tức tiền mặt từ lãi lũy kế 362 tỷ đồng với tỷ lệ 241.4188%, mỗi cp nhận 24,141.88 đồng. Tích cực cho ngành than."
-    },
-    {
-      "title": "Xuất khẩu gạo vượt Thái Lan nhưng kim ngạch giảm 9,7%",
-      "impact": "→",
-      "note": "Năm 2025, Việt Nam vượt Thái Lan trở thành cường quốc lớn thứ 2 thế giới về xuất khẩu gạo (8.06 triệu tấn, 4,1 tỷ USD). Tuy nhiên 10 tháng năm 2026, xuất khẩu đạt 6.8 triệu tấn (giảm 4,6%), kim ngạch 3,31 tỷ USD (giảm 9,7%). Áp lực giá buộc ngành chuyển sang sản phẩm cao cấp."
+      "title": "Thị trường chứng khoán đi ngang, thanh khoản giảm 29%",
+      "impact": "↓",
+      "note": "Sáng 11/11, VN30-Index giảm 0,53%, HoSE thanh khoản sáng 4,6 tỷ đồng (giảm 29% so với sáng hôm trước), 70% số cổ phiếu dao động dưới 2%, cho thấy thị trường khá yếu với cân bằng tạm thời giữa cung cầu."
     }
   ]
 }
