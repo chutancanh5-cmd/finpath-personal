@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Lạm phát Mỹ tháng 10 tăng 0,4% (cao hơn dự báo 0,3%) và CPI lõi 0,3% (cao hơn dự báo 0,2%), tạo áp lực cho Fed có thể tăng lãi suất 0,5% vào tháng 12, ảnh hưởng tiêu cực đến thị trường Việt Nam. Ngành bất động sản trải qua giai đoạn khó khăn nhất 15 năm với toàn bộ 34 cổ phiếu BĐS mất đường MA200. Tuy nhiên, Quốc hội phê duyệt mục tiêu tăng trưởng 10% năm 2027 và VPBank hoàn tất huy động 730 triệu USD từ IFC, SMBC mở ra triển vọng tích cực cho tương lai.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường Việt Nam 11/11 phản ánh trạng thái cân bằng giữa rủi ro và cơ hội. Áp lực từ ngoài khu vực tăng khi lạm phát Mỹ vượt kỳ vọng, khiến Fed có khả năng tăng lãi suất mạnh hơn trong tháng 12. Trong nước, ngành bất động sản chịu áp lực sâu sắc nhất 15 năm (toàn bộ 34 mã mất MA200). Tuy vậy, các tín hiệu tích cực như mục tiêu tăng trưởng kinh tế 10% năm 2027 từ Quốc hội và hoạt động huy động vốn quốc tế (VPBank 730 triệu USD) cho thấy nỗ lực hỗ trợ kinh tế.",
   "top": [
     {
-      "title": "Lạm phát Mỹ cao hơn dự báo, Fed có thể tăng lãi suất 0,5% tháng 12",
+      "title": "Lạm phát Mỹ vượt kỳ vọng, Fed sẽ tăng lãi suất",
       "impact": "↓",
-      "note": "CPI tháng 10 tăng 0,4% so tháng trước (cao hơn dự báo 0,3%), CPI lõi tăng 0,3% (cao hơn dự báo 0,2%). Thống đốc Fed Christopher Waller cho biết báo cáo nóng có thể khiến ông ủng hộ tăng lãi suất 0,5% vào tháng 12. Theo CME FedWatch, 100% xác suất Fed tăng lãi suất trong họp 8-9/12/2026, với 90% khả năng tăng 0,25%, 10% khả năng tăng 0,5%."
+      "note": "CPI toàn phần tháng 10 tăng 0,6% (cao hơn dự báo), CPI lõi tăng 0,3% (cao hơn dự báo 0,2%). Fed có 100% xác suất tăng lãi suất trong tháng 12, khả năng tăng 0,25% là 90% và tăng 0,5% là 10%. Áp lực lạm phát cao có thể kéo theo lãi suất toàn cầu tăng, tác động tiêu cực đến các thị trường mới nổi như Việt Nam."
     },
     {
-      "title": "Cổ phiếu bất động sản suy yếu nhất 15 năm, toàn bộ mã mất MA200",
+      "title": "Cổ phiếu BĐS vừa qua tháng khó khăn nhất 15 năm",
       "impact": "↓",
-      "note": "Tháng 10/2026, không còn cổ phiếu nào trong 34 mã bất động sản duy trì xu hướng tăng dài hạn. Tất cả 34 cổ phiếu BĐS đánh mất đường trung bình động MA200, diễn biến hiếm gặp cuối năm 2011. VHM và VPI cũng bị sức ép mạnh, phản ánh khủng hoảng diện rộng."
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất đối với cổ phiếu bất động sản trong 15 năm. Toàn bộ 34 mã BĐS có đủ dữ liệu đều mất MA200, tình trạng hiếm gặp chỉ từng xảy ra cuối năm 2011. VHM và VPI - các mã hàng đầu ngành - cũng bị tác động nặng nề."
     },
     {
-      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Với 467/469 đại biểu Quốc hội tán thành (7/11), Nghị quyết về kế hoạch phát triển kinh tế-xã hội năm 2027 được thông qua với mục tiêu tăng trưởng từ 10% trở lên, gắn với giữ ổn định vĩ mô, kiểm soát lạm phát. 2027 được xác định là năm tăng tốc, bứt phá."
+      "note": "Với 467/469 đại biểu tán thành, Quốc hội thông qua Nghị quyết phát triển KT-XH 2027 với mục tiêu tăng trưởng kinh tế từ 10% trở lên, giữ vững ổn định vĩ mô, kiểm soát lạm phát. Mục tiêu tăng trưởng hai chữ số có thể khích lệ các cơ chế thúc đẩy kinh tế, hỗ trợ doanh nghiệp."
     },
     {
-      "title": "VPBank huy động 730 triệu USD vốn dài hạn từ quốc tế",
+      "title": "Xuất khẩu gạo giảm giá mạnh dù đứng thứ 2 thế giới",
+      "impact": "↓",
+      "note": "Việt Nam vượt Thái Lan trở thành nước số 2 thế giới về xuất khẩu gạo, nhưng trong 10 tháng 2026: sản lượng 6,8 triệu tấn (giảm 4,6%), kim ngạch 3,31 tỷ USD (giảm 9,7%). Kim ngạch giảm mạnh hơn sản lượng cho thấy giá xuất khẩu bình quân chịu sức ép, ảnh hưởng đến thu nhập nông thôn."
+    },
+    {
+      "title": "VPBank huy động 730 triệu USD vốn quốc tế",
       "impact": "↑",
-      "note": "VPBank công bố khoản vay hợp vốn quốc tế 730 triệu USD (gần 19.000 tỷ đồng) do IFC và SMBC thu xếp, với kỳ hạn 3, 5, 7 năm. Vốn hỗ trợ cung cấp tài chính cho SME, WSME (doanh nghiệp do phụ nữ làm chủ), nông nghiệp."
+      "note": "VPBank công bố khoản vay hợp vốn quốc tế 730 triệu USD (19.000 tỷ đồng) được IFC và SMBC thu xếp, kỳ hạn 3-7 năm. Nguồn vốn dùng hỗ trợ tín dụng SME, WSME và nông nghiệp, bổ sung vốn trung dài hạn cho mục tiêu mở rộng quy mô kinh doanh."
     },
     {
-      "title": "Xuất khẩu gạo năm 2026 giảm 9,7% về kim ngạch",
-      "impact": "↓",
-      "note": "Trong 10 tháng năm 2026, Việt Nam xuất khẩu 6,8 triệu tấn gạo thu về 3,31 tỷ USD, giảm 4,6% về sản lượng và giảm 9,7% về giá trị so với cùng kỳ. Mặc dù vượt Thái Lan trở thành nước xuất khẩu gạo thứ 2 thế giới, dư địa tăng trưởng không còn nhiều."
-    },
-    {
-      "title": "Chứng khoán Mỹ suy yếu, Nvidia giảm trên 5%",
-      "impact": "↓",
-      "note": "S&P 500 giảm 0,38% (7.520,93 điểm), Dow Jones giảm 0,3% (52.231,89 điểm), Nasdaq sụt 0,74% (25.065,87 điểm) trong phiên 10/11. Nvidia giảm hơn 5% do scandal liên quan CEO Jensen Huang. Lợi suất trái phiếu kho bạc Mỹ tăng mạnh."
+      "title": "TMB tăng vốn gấp 1,83 lần, chia cổ tức 241,42%",
+      "impact": "↑",
+      "note": "CTCP Kinh doanh Than Miền Bắc (TMB) tăng vốn điều lệ từ 150 tỷ lên 424,5 tỷ đồng, gấp 1,83 lần hiện tại, thông qua phát hành 27,45 triệu cp từ Quỹ đầu tư phát triển. Đồng thời chia cổ tức tiền mặt tỷ lệ 241,42% (24.141,88 đồng/cp) từ lãi lũy kế. Cổ phiếu TMB liên tục tăng trần, phản ánh kỳ vọng nhà đầu tư."
     }
   ]
 }
