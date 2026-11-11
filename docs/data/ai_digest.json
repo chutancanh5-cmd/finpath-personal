@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ nhiều yếu tố: dư nợ margin tăng kỷ lục lên 457.500 tỷ đồng (gấp 2,5 lần so với 2022) tạo nguy hiểm giải chấp, bất động sản trải qua tháng khó khăn nhất 15 năm, và lạm phát Mỹ nóng hơn dự báo sẽ buộc Fed tăng lãi suất gia tăng. Tuy nhiên, Quốc hội giao mục tiêu tăng trưởng 10% cho năm 2027, VPBank huy động 730 triệu USD vốn quốc tế, cho thấy bức tranh vĩ mô vẫn có những tia sáng.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ nhiều yếu tố: dư nợ margin tăng kỷ lục 457.500 tỷ đồng (gấp 2,5 lần Q1/2022), bất động sản vừa trải qua tháng 10 khắc nghiệt nhất 15 năm với 34 mã cùng mất MA200, lạm phát Mỹ nóng hơn dự báo (CPI +0,4%, lõi +0,3%) sẽ buộc Fed tăng lãi suất, và xuất khẩu gạo 10 tháng 2026 suy yếu giá (giảm 9,7%). Tuy vậy, chính sách vĩ mô có tia sáng: Quốc hội giao mục tiêu tăng trưởng 10% năm 2027, VPBank huy động thành công 730 triệu USD từ IFC và SMBC.",
   "top": [
     {
       "title": "Margin lập kỷ lục 457.500 tỷ đồng, rủi ro giải chấp gia tăng",
       "impact": "↓",
-      "note": "Dư nợ margin đạt 457.500 tỷ đồng, gấp 2,5 lần so với quý I/2022, chiếm 5,3% tổng vốn hóa và 14,2% free-float. Nhà đầu tư phải trả 13.000 tỷ đồng tiền lãi/quý. Tình trạng bất hợp lý: tăng margin nhưng rút tiền mặt (giảm 15%) tạo rủi ro giải chấp trên diện rộng."
+      "note": "Dư nợ margin đạt 457.500 tỷ đồng (5,3% tổng vốn hóa, 14,2% free-float), cao gấp 2,5 lần so với quý I/2022. Nhà đầu tư vay margin phải trả ~13.000 tỷ đồng tiền lãi/quý. Tình trạng bất hợp lý: margin tăng nhưng tiền mặt giảm 15% xuống 71.500 tỷ đồng, tạo nguy hiểm giải chấp trên diện rộng."
     },
     {
-      "title": "Lạm phát Mỹ tháng 10 nóng hơn dự báo, Fed tăng lãi suất sắp tới",
+      "title": "Lạm phát Mỹ tháng 10 nóng hơn dự báo, Fed sẽ tăng lãi suất",
       "impact": "↓",
-      "note": "CPI tháng 10 tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%). Fed 100% sẽ tăng lãi suất trong cuộc họp 8-9/12, khả năng 90% tăng 0,25% hoặc 10% tăng 0,5%. Áp lực đến đồng Việt Nam và thị trường tài chính."
+      "note": "CPI tháng 10 tăng 0,4% so tháng trước (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%). Thống đốc Fed Christopher Waller cho biết báo cáo nóng có thể khiến ông ủng hộ tăng lãi suất thêm 0,5 điểm phần trăm tháng 12. Fed 100% sẽ tăng lãi suất trong cuộc họp 8-9/12 (90% khả năng 0,25%, 10% khả năng 0,5%). Áp lực lãi suất USD tăng ảnh hưởng TTCK VN."
     },
     {
-      "title": "Bất động sản trải qua tháng khắc nghiệt nhất 15 năm",
+      "title": "Bất động sản trải qua tháng 10 khắc nghiệt nhất 15 năm",
       "impact": "↓",
-      "note": "Tháng 10/2026 là giai đoạn suy yếu lớn nhất 15 năm, cả 34 mã cổ phiếu BĐS cùng mất đường MA200 (sự kiện hiếm gặp, lần cuối là cuối 2011). VHM và VPI bị sức ép mạnh, không còn mã nào giữ được xu thế tăng."
+      "note": "Cả 34 mã cổ phiếu bất động sản cùng mất đường trung bình động MA200, diễn biến hiếm gặp lần cuối vào cuối năm 2011 khi chỉ có hơn 20 mã. VHM (vốn hóa lớn) và VPI (được đánh giá giữ giá tốt) cũng bị sức ép mạnh. Không còn cổ phiếu nào duy trì xu thế tăng, phản ánh khủng hoảng trong ngành."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 10% năm 2027",
-      "impact": "↑",
-      "note": "Nghị quyết được phê duyệt với 467/469 đại biểu tán thành mục tiêu tăng trưởng từ 10% trở lên. Xác định 2027 là năm tăng tốc, bứt phá với cam kết giữ ổn định vĩ mô, kiểm soát lạm phát và bảo đảm các cân đối lớn."
+      "title": "Xuất khẩu gạo 10 tháng 2026 suy yếu, giá giảm mạnh",
+      "impact": "↓",
+      "note": "Mặc dù Việt Nam vượt Thái Lan xếp thứ 2 thế giới, nhưng xuất khẩu 10 tháng 2026 chỉ đạt 6,8 triệu tấn (giảm 4,6%), giá trị 3,31 tỷ USD (giảm 9,7%). Kim ngạch giảm nhiều hơn sản lượng cho thấy giá xuất khẩu bình quân bị sức ép. Cần chuyển từ cạnh tranh giá sang nâng giá trị hạt gạo chất lượng cao."
     },
     {
       "title": "VPBank huy động 730 triệu USD vốn dài hạn từ quốc tế",
       "impact": "↑",
-      "note": "Khoản vay hợp vốn quốc tế 730 triệu USD (tương đương 19.000 tỷ đồng) được IFC và SMBC thu xếp, kỳ hạn 3-5-7 năm. Dùng để hỗ trợ tín dụng cho SME, WSME và nông nghiệp, bổ sung nguồn vốn trung dài hạn."
+      "note": "Khoản vay hợp vốn quốc tế 730 triệu USD (~19.000 tỷ đồng) được IFC và SMBC thu xếp, với kỳ hạn 3, 5 và 7 năm. Nguồn vốn dùng hỗ trợ tín dụng cho SME, WSME (doanh nghiệp do phụ nữ làm chủ) và nông nghiệp. Cho thấy hệ thống ngân hàng Việt Nam vẫn được các tổ chức tài chính quốc tế tin tưởng."
     },
     {
-      "title": "Việt Nam vượt Thái Lan xếp 2 thế giới gạo nhưng giá suy yếu",
-      "impact": "→",
-      "note": "Xuất khẩu 8,06 triệu tấn năm 2025 (4,1 tỷ USD) vượt Thái Lan. Nhưng 10 tháng 2026: 6,8 triệu tấn (3,31 tỷ USD) giảm 4,6% sản lượng, 9,7% giá trị. Giá xuất khẩu bình quân bị sức ép, cần chuyển từ cạnh tranh giá sang nâng chất lượng hạt gạo."
+      "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 10% năm 2027",
+      "impact": "↑",
+      "note": "Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027 được phê duyệt với 467/469 đại biểu tán thành. Mục tiêu tăng trưởng từ 10% trở lên, xác định 2027 là năm tăng tốc, bứt phá. Cam kết giữ ổn định vĩ mô, kiểm soát lạm phát và bảo đảm các cân đối lớn, tạo kỳ vọng hỗ trợ chính sách cho nền kinh tế."
     }
   ]
 }
