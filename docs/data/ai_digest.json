@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Dù kết quả kinh doanh Q3 tương đối tốt với lợi nhuận tăng 50,1% và chính phủ giao mục tiêu tăng trưởng 2027 từ 10% trở lên, thị trường đang chịu áp lực từ lạm phát Mỹ cao hơn dự báo (có khả năng Fed tăng lãi suất 0,5% trong tháng 12) và khó khăn kéo dài của bất động sản (tháng 10 khắc nghiệt nhất 15 năm). Điều này tạo áp lực lên tỷ giá và chi phí vốn, mặc dù có những tín hiệu tích cực từ hoạt động mở rộng tín dụng và đầu tư cơ sở hạ tầng.",
+  "summary_vi": "Thị trường trong nước ghi nhận những tín hiệu khả quan với mục tiêu GDP 10%+ năm 2027 từ Quốc hội, nền tảng tài chính được gia cố qua khoản vay quốc tế 730 triệu USD của VPBank, cùng những cơ hội mới từ dự án sân bay Gia Bình 8 tỷ USD. Tuy nhiên, áp lực từ lạm phát Mỹ nóng hơn dự báo buộc Fed cân nhắc tăng lãi suất mạnh hơn dự kiến, khiến dòng vốn nước ngoài tiềm ẩn rủi ro. Bất động sản vẫn trong giai đoạn điều chỉnh khó khăn (tháng 10 khắc nghiệt nhất 15 năm), vàng mất mốc 140 triệu đồng/lượng, nhưng một số công ty như TMB (chia cổ tức 241%, thưởng cổ phiếu 183%) vẫn gây được sự chú ý thị trường.",
   "top": [
     {
-      "title": "Lạm phát Mỹ nóng, Fed có thể tăng lãi suất 0,5% tháng 12",
+      "title": "TMB chia cổ tức 241%, phát hành cổ phiếu thưởng 183%",
+      "impact": "↑",
+      "note": "Công ty Kinh doanh Than Miền Bắc (TMB) tăng trần phiên thứ 4 liên tiếp, thị giá 80.400 đồng/cp (tăng 46% sau 4 phiên, 68% từ 28/10). ĐHĐCĐ bất thường 1/12 sẽ bàn phương án chia cổ tức tiền mặt 241% và phát hành cổ phiếu thưởng 183%, vốn điều lệ tăng từ 150 tỷ lên 424,5 tỷ đồng."
+    },
+    {
+      "title": "Lạm phát Mỹ nóng hơn dự báo, Fed có thể tăng lãi suất 0,5%",
       "impact": "↓",
-      "note": "CPI tháng 10 Mỹ tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%); Thống đốc Fed Christopher Waller nói báo cáo \"nóng\" có thể hỗ trợ tăng lãi suất 0,5% trong tháng 12, tạo áp lực lên USD/VND và chi phí vốn cho doanh nghiệp Việt."
+      "note": "CPI tháng 10 Mỹ tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%); Thống đốc Fed Christopher Waller nói báo cáo \"nóng\" có thể hỗ trợ tăng lãi suất 0,5% tháng 12, CME FedWatch: 90% xác suất tăng 0,25%, 10% tăng 0,5%, tạo áp lực lên USD/VND."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 2027 từ 10% trở lên",
-      "impact": "↑",
-      "note": "Với 467/469 đại biểu tán thành (7/11), Quốc hội thông qua Nghị quyết phát triển kinh tế - xã hội 2027; năm 2027 được định hướng là năm \"tăng tốc, bứt phá\" với tập trung tăng trưởng từ 10% trở lên cùng giữ vững ổn định vĩ mô."
-    },
-    {
-      "title": "Cổ phiếu bất động sản tháng khó khăn nhất 15 năm",
+      "title": "Bất động sản tháng 10 khắc nghiệt nhất 15 năm",
       "impact": "↓",
-      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất cho BĐS trong 15 năm; cả 34 mã BĐS từng mất MA200 cùng lúc, diễn biến tương tự lần cuối vào cuối 2011 khi chỉ có hơn 20 mã BĐS có đủ dữ liệu giao dịch."
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất cho BĐS trong 15 năm; cả 34 mã BĐS trên thị trường từng mất MA200 cùng lúc, VHM và VPI trải qua vận động xáo trộn mạnh, lần cuối xảy ra cuối 2011 khi chỉ có hơn 20 mã BĐS."
     },
     {
-      "title": "VPBank huy động 730 triệu USD vốn quốc tế dài hạn",
+      "title": "VPBank huy động 730 triệu USD vốn quốc tế",
       "impact": "↑",
-      "note": "VPBank công bố khoản vay hợp vốn 730 triệu USD (~19.000 tỷ đồng) được sắp xếp bởi IFC và SMBC với kỳ hạn 3-7 năm; hỗ trợ mở rộng tín dụng cho SME, WSME và SME nông nghiệp."
+      "note": "VPBank công bố khoản vay hợp vốn 730 triệu USD (≈19.000 tỷ đồng) được sắp xếp bởi IFC và SMBC với kỳ hạn 3, 5 và 7 năm, bổ sung nguồn vốn trung dài hạn hỗ trợ mở rộng tín dụng cho SME, WSME và SME nông nghiệp."
     },
     {
-      "title": "Quý III 2026: Lợi nhuận tăng 50,1%, nhóm phi tài chính kỳ vọng bứt phá",
+      "title": "Quốc hội giao mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Q3/2026 doanh thu tăng 33%, lợi nhuận sau thuế tăng 50,1%, biên lợi nhuận 13,93%; nhóm doanh nghiệp phi tài chính và bảo hiểm được kỳ vọng sẽ dẫn dắt đà tăng trưởng lợi nhuận toàn thị trường trong Q4."
+      "note": "Ngày 7/11, với 467/469 đại biểu tán thành, Quốc hội thông qua Nghị quyết phát triển kinh tế - xã hội 2027; năm 2027 định hướng \"tăng tốc, bứt phá\" với tập trung tăng trưởng từ 10% trở lên cùng giữ vững ổn định vĩ mô."
     },
     {
-      "title": "Dự án sân bay Gia Bình 8 tỷ USD - Chuyển quốc tế từ Nội Bài",
-      "impact": "↑",
-      "note": "Chính phủ giao cơ quan chức năng nghiên cứu phương án chuyển toàn bộ hoạt động khai thác quốc tế từ Nội Bài sang Gia Bình từ 2029-2030; Nội Bài định hướng 50 triệu hành khách/năm năm 2030 và hướng 100 triệu hành khách/năm năm 2050."
+      "title": "Giá vàng giảm mạnh, mất mốc 140 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Giá vàng miếng SJC tại các hệ thống SJC, DOJI, Phú Quý, BTMC giảm 1,4 triệu đồng/lượng, xuống còn 136,5 – 139,5 triệu đồng/lượng (mua vào - bán ra); vàng nhẫn cũng chứng kiến sự phân hóa giảm giữa các thương hiệu."
     }
   ]
 }
