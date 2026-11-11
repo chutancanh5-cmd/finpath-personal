@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngân hàng Nhà nước triển khai kênh bơm tiền VND định kỳ 2 lần/tuần từ 11/11 cung ứng thanh khoản dài hạn ~48.800 tỷ đồng/6 tháng, hỗ trợ giảm mặt bằng lãi suất. Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027 tạo động lực phát triển; khối ngoại tiếp tục mua ròng phiên thứ hai liên tiếp với tâm điểm VIC (139 tỷ đồng), phản ánh sự lạc quan từ nhà đầu tư quốc tế. TMB chia cổ tức kỷ lục 241% (24.141,88 đ/cổ phiếu) cùng tăng vốn 1.83 lần gây chú ý. Tuy giá dầu lao dốc 20% do cung vượt cầu có thể tác động chi phí nhập khẩu năng lượng, nhưng chính sách và dòng tiền ngoài vẫn chiếm ưu thế.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Ngân hàng Nhà nước triển khai bơm tiền VND 2 lần/tuần qua mua USD giao ngay và hoán đổi ngoại tệ 6 tháng nhằm giảm mặt bằng lãi suất, cung ứng ~48.800 tỷ đồng thanh khoản dài hạn cho hệ thống ngân hàng. Quốc hội thông qua mục tiêu tăng trưởng GDP 2027 từ 10% trở lên, phác thảo tầm nhìn tích cực cho nền kinh tế. Tuy nhiên, thị trường chứng khoán vẫn giằng co với thanh khoản xuống đáy 4 tuần, sắc đỏ lấn lướt 332 mã giảm/319 mã tăng, trong khi giá dầu Brent lao dốc ~20% do dư thừa cung toàn cầu, tác động tiêu cực đến cổ phiếu năng lượng.",
   "top": [
     {
       "title": "NHNN bơm tiền VND 2 lần/tuần từ 11/11 qua mua USD giao ngay",
       "impact": "↑",
-      "note": "NHNN triển khai mua USD giao ngay vào thứ Hai và thứ Tư hằng tuần với tỷ giá 25.500 đồng/USD từ các ngân hàng; kênh này cung ứng thanh khoản VND dài hạn, bổ sung ~48.800 tỷ đồng/6 tháng từ phiên hoán đổi 182 ngày trước đó, hỗ trợ mục tiêu giảm mặt bằng lãi suất."
+      "note": "NHNN triển khai mua USD giao ngay vào thứ Hai và thứ Tư hằng tuần với tỷ giá 25.500 đồng/USD; kênh này cung ứng thanh khoản VND dài hạn, bổ sung ~48.800 tỷ đồng/6 tháng từ phiên hoán đổi 182 ngày trước đó, hỗ trợ giảm mặt bằng lãi suất."
     },
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Với 467/469 đại biểu tán thành, Quốc hội thông qua Nghị quyết kế hoạch phát triển kinh tế - xã hội 2027 đặt mục tiêu tăng trưởng từ 10% trở lên, nhấn mạnh năm 2027 là năm 'tăng tốc, bứt phá, tạo đà' kết hợp ổn định kinh tế vĩ mô, kiểm soát lạm phát."
-    },
-    {
-      "title": "Khối ngoại mua ròng 53 tỷ đồng phiên thứ hai liên tiếp, tâm điểm VIC 139 tỷ",
-      "impact": "↑",
-      "note": "Khối ngoại mua ròng tổng cộng ~53 tỷ đồng với tâm điểm VIC (139 tỷ đồng), theo sau POW (78 tỷ) và VHM (47 tỷ); phiên này là lần mua ròng thứ hai liên tiếp, phản ánh sự lạc quan từ nhà đầu tư quốc tế về triển vọng thị trường."
-    },
-    {
-      "title": "TMB tăng vốn 1.83 lần, chia cổ tức tiền mặt kỷ lục 241%",
-      "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin (TMB) phát hành 27,45 triệu cổ phiếu thưởng tăng vốn điều lệ từ 150 tỷ lên 424,5 tỷ đồng; chia cổ tức tiền mặt 241,4188% (24.141,88 đ/cổ phiếu) từ lãi lũy kế, khiến cổ phiếu liên tục tăng trần."
-    },
-    {
-      "title": "BlackRock nắm vàng kỷ lục 864 tấn, mua ròng 45 tấn trong 4 tháng",
-      "impact": "↑",
-      "note": "Quỹ iShare của BlackRock (quản lý hơn 15.000 tỷ USD toàn cầu) mua ròng 45 tấn vàng trong 4 tháng liên tiếp, nắm giữ 864 tấn (cao nhất từ trước), phản ánh vàng trở thành cấu phần quan trọng trong chiến lược phân bổ tài sản của các tổ chức lớn."
+      "note": "Với 467/469 đại biểu tán thành, Quốc hội thông qua mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, nhấn mạnh năm 2027 là năm 'tăng tốc, bứt phá, tạo đà' kết hợp ổn định kinh tế vĩ mô, kiểm soát lạm phát."
     },
     {
       "title": "Giá dầu Brent lao dốc 22 USD/thùng (~20%) trong tháng 11",
       "impact": "↓",
-      "note": "Giá dầu Brent sụt 22 USD/thùng so với cuối tháng 10, tương đương giảm ~20% xuống 91 USD/thùng; sản lượng khai thác toàn cầu lần đầu vượt nhu cầu kể từ xung đột Mỹ-Iran, tạo tình trạng dư thừa nguồn cung. Diễn biến giảm áp lực lạm phát nhưng tác động đến tài chính doanh nghiệp dầu khí."
+      "note": "Giá dầu Brent sụt 22 USD/thùng so với cuối tháng 10, tương đương giảm ~20% xuống 91 USD/thùng; sản lượng khai thác toàn cầu lần đầu vượt nhu cầu kể từ xung đột Mỹ-Iran, tạo dư thừa nguồn cung, tác động tiêu cực đến doanh nghiệp năng lượng."
+    },
+    {
+      "title": "TMB tăng vốn 1.83 lần, chia cổ tức tiền mặt 241.42%",
+      "impact": "↑",
+      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin (TMB) phát hành 27.45 triệu cổ phiếu thưởng tăng vốn từ 150 tỷ lên 424.5 tỷ đồng; chia cổ tức tiền mặt 241.4188% (24.141,88 đ/cổ phiếu) từ lãi lũy kế, khiến cổ phiếu liên tục tăng trần."
+    },
+    {
+      "title": "VN-Index tăng 0.22% nhưng thanh khoản xuống đáy 4 tuần",
+      "impact": "→",
+      "note": "VN-Index tăng 3.83 điểm lên 1.746,9 điểm nhờ VIC (+1.32%, +5 điểm), VHM (+0.81%, +0.76 điểm), GAS (+1.78%), VCB (+0.74%); thanh khoản HoSE chỉ 13.844 tỷ đồng, sắc đỏ lấn lướt với 332 mã giảm và 319 mã tăng."
+    },
+    {
+      "title": "Vàng miếng SJC, nhẫn 9999 giảm sáng, phục hồi chiều 11/11",
+      "impact": "→",
+      "note": "Sáng 11/11, vàng miếng SJC giảm 1.4 triệu đồng/lượng, nhẫn 9999 giảm 900 nghìn - 2 triệu đồng/lượng; chiều hôm cùng ngày, vàng phục hồi (SJC tăng 500.000 đồng/lượng) nhưng vẫn thấp hơn 900.000 đồng/lượng so với cuối 10/11."
     }
   ]
 }
