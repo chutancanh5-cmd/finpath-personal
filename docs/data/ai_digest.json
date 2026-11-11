@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Lạm phát Mỹ tháng 10 nóng hơn kỳ vọng (CPI +0,4%, CPI lõi +0,3%) tạo nguy cơ Fed tăng lãi suất 0,5% vào tháng 12 và áp lực lên thị trường toàn cầu. Ngành bất động sản Việt Nam trải qua tháng 10 khó khăn nhất 15 năm, toàn bộ 34 mã BĐS mất MA200. Giá vàng giảm mạnh, chứng khoán Mỹ sụt (Nasdaq -0,74%, Nvidia -5%). Tuy Quốc hội giao mục tiêu tăng trưởng 2027 ≥10% và một số doanh nghiệp (VPBank, Masan) có tín hiệu tốt, nhưng không đủ cân bằng rủi ro ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt với áp lực kép từ lạm phát Mỹ nóng hơn dự báo (CPI lõi +0,3% vs dự báo +0,2%) khiến Fed sẵn sàng tăng lãi suất 0,5% vào tháng 12, đồng thời ngành bất động sản chịu khủng hoảng nặng nề nhất 15 năm khi toàn bộ 34 mã niêm yết mất MA200 cùng lúc. Tuy nhiên, Chính phủ thông qua mục tiêu tăng trưởng GDP 10% cho năm 2027 và VPBank thành công gọi vốn hợp tác quốc tế 730 triệu USD (gần 19.000 tỷ đồng) qua IFC và SMBC, khẳng định sức sống của hệ thống tài chính. Nâng hạng TTCK lên thị trường mới nổi thứ cấp từ tháng 9/2026 tạo cơ hội dài hạn nhưng cần giải quyết thách thức thanh khoản ngắn hạn.",
   "top": [
     {
-      "title": "Lạm phát Mỹ nóng, Fed sắp tăng lãi suất tháng 12",
+      "title": "Cổ phiếu bất động sản khủng hoảng nặng nhất 15 năm",
       "impact": "↓",
-      "note": "CPI tháng 10 Mỹ tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%). Thống đốc Fed Christopher Waller cho biết báo cáo lạm phát này có thể khiến ông ủng hộ tăng 0,5 điểm phần trăm vào tháng 12. Nhà giao dịch CME đặt cược 100% tăng lãi suất, 90% khả năng +0,25%, 10% khả năng +0,5%. Áp lực lãi suất toàn cầu sẽ ảnh hưởng dòng vốn ngoại Việt Nam."
+      "note": "Tháng 10/2026 ghi nhận tất cả 34 mã BĐS niêm yết cùng mất đường MA200 — hiện tượng hiếm gặp chưa từng xảy ra kể từ cuối năm 2011 khi chỉ ~20 mã có dữ liệu. VHM (mã vốn hóa lớn nhất ngành) và VPI (được đánh giá khả năng neo giá tốt) đều trải qua biến động xáo trộn. Suy yếu diễn ra trên diện rộng, phản ánh khủng hoảng toàn ngành."
     },
     {
-      "title": "Cổ phiếu bất động sản tháng 10 khó khăn nhất 15 năm",
+      "title": "Lạm phát Mỹ nóng, Fed sắp tăng lãi suất 0,5% tháng 12",
       "impact": "↓",
-      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất của cổ phiếu BĐS trong 15 năm. Cả 34 mã BĐS có thời điểm đồng loạt mất đường trung bình động MA200, diễn biến hiếm gặp (lần gần nhất cuối 2011 khi chỉ ~20 mã có dữ liệu). VHM, VPI, các mã lớn cùng biến động mạnh. Phản ánh suy yếu toàn diện của ngành."
+      "note": "CPI tháng 10 Mỹ tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%). Thống đốc Fed Christopher Waller phát biểu nếu CPI lõi ở mức 0,3% ông sẽ ủng hộ tăng 0,5 điểm phần trăm vào tháng 12. CME FedWatch xác suất 100% tăng lãi suất 8-9/12, trong đó 90% khả năng +0,25%, 10% khả năng +0,5%. Áp lực lãi suất toàn cầu tác động dòng vốn ngoại Việt Nam."
     },
     {
-      "title": "VPBank huy động 730 triệu USD từ IFC, SMBC",
+      "title": "VPBank huy động 730 triệu USD từ IFC và SMBC",
       "impact": "↑",
-      "note": "VPBank công bố khoản vay hợp vốn quốc tế 730 triệu USD (gần 19.000 tỷ đồng) do IFC và SMBC thu xếp, kỳ hạn 3-7 năm. Giải ngân từng đợt trong năm 2026, hỗ trợ VPBank cung cấp tín dụng cho SME, WSME, nông nghiệp. Tín hiệu mạnh về khả năng tài chính và tăng trưởng tín dụng."
+      "note": "VPBank công bố khoản vay hợp vốn quốc tế 730 triệu USD (gần 19.000 tỷ đồng) do IFC và SMBC thu xếp, kỳ hạn 3 năm, 5 năm, 7 năm. Giải ngân từng đợt trong năm 2026, bổ sung vốn trung dài hạn hỗ trợ tín dụng SME, WSME và SME nông nghiệp. Khẳng định khả năng tiếp cận vốn quốc tế của hệ thống ngân hàng Việt Nam."
     },
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 ≥10%",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Với 467/469 đại biểu tán thành (ngày 7/11), Quốc hội thông qua Nghị quyết kế hoạch 2027 đặt mục tiêu tăng trưởng kinh tế từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Tạo kỳ vọng tích cực cho chính sách hỗ trợ doanh nghiệp."
+      "note": "Với 467/469 đại biểu Quốc hội tán thành (7/11/2026), Nghị quyết kế hoạch phát triển kinh tế - xã hội năm 2027 giao mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Năm 2027 định vị là năm tăng tốc, bứt phá, tạo đà cho thực hiện Nghị quyết Đại hội XIV Đảng."
     },
     {
-      "title": "Masan lợi nhuận cổ đông tăng 205% trong 9T",
-      "impact": "↑",
-      "note": "Masan (MSN) công bố 9T/2026: doanh thu 89.118 tỷ đồng (+52,7% YoY), lợi nhuận cổ đông công ty mẹ 8.042 tỷ đồng (+205,3% YoY). Masan High-Tech Materials (MSR) hưởng lợi giá vonfram tăng, vừa ký MOU với Sojitz (Nhật) mua 5% MSR, phân phối sản phẩm."
-    },
-    {
-      "title": "Chứng khoán Mỹ mất điểm, Nvidia -5%, dầu 90 USD",
+      "title": "Chứng khoán Mỹ giảm điểm, Nvidia -5%, Nasdaq -0,74%",
       "impact": "↓",
-      "note": "S&P 500 -0,38%, Nasdaq -0,74% (25.065,87 điểm), Dow -0,3% phiên 10/11. Cổ phiếu Nvidia -5% sau bê bối CEO Jensen Huang, góp phần suy giảm chỉ số. Giá vàng hôm 11/11 giảm mạnh, mất mốc 140 triệu đồng/lượng (giảm 1,4 triệu/lượng). Giá dầu bấp bênh quanh 90 USD/thùng. Áp lực toàn cầu tác động xấu."
+      "note": "S&P 500 giảm 0,38% (7.520,93), Nasdaq giảm 0,74% (25.065,87), Dow Jones giảm 0,3% phiên 10/11. Cổ phiếu Nvidia giảm hơn 5% do bê bối CEO Jensen Huang liên quan quan hệ ngoài luồng. Báo cáo CPI cao hơn dự báo và lợi suất trái phiếu kho bạc tăng tạo áp lực giảm. Tác động thị trường toàn cầu không lợi cho TTCK Việt Nam."
+    },
+    {
+      "title": "Giá vàng rớt mốc 140 triệu đồng/lượng, giảm 2 triệu/lượng",
+      "impact": "↓",
+      "note": "Sáng 11/11, vàng miếng các thương hiệu SJC, PNJ, DOJI, Bảo Tín Mạnh Hải giảm đồng loạt 2 triệu đồng/lượng, xuống 136,5 triệu (mua vào) - 139,5 triệu (bán ra). Vàng thế giới trên Kitco ở 4.034 USD/ounce, giảm 104 USD. Lần đầu tiên mất mốc 140 triệu sau 1 tuần, phản ánh suy yếu của tài sản trú ẩn."
     }
   ]
 }
