@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 182 ngày (2 tỷ USD) giảm áp lực thanh khoản và lãi suất cho hệ thống ngân hàng. Quốc hội giao mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, đánh dấu năm tăng tốc và bứt phá. Tuy nhiên, bất động sản tiếp tục chịu áp lực lớn (tháng 10 khó khăn nhất 15 năm) và giá dầu Brent giảm 20% ảnh hưởng tiêu cực đến ngành năng lượng. Một số mã như VUG (tôm giống) tăng 84% do kỳ vọng thị trường, TMB chia cổ tức khủng.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày để hỗ trợ thanh khoản cuối năm, giúp giảm mặt bằng lãi suất. Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên, tạo kỳ vọng dài hạn. Tuy nhiên, bất động sản chịu áp lực nặng (tháng khó khăn nhất 15 năm), giá dầu Brent giảm 20% xuống 91 USD/thùng, và thanh khoản thị trường suy yếu (giảm 29%), ghi nhận trạng thái cân bằng giữa cung cầu.",
   "top": [
     {
-      "title": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày",
-      "impact": "↑",
-      "note": "NHNN hoán đổi ngoại tệ tối đa 2 tỷ USD kỳ hạn 182 ngày với tỷ giá 24.399 đồng/USD (mua) và 24.704 đồng/USD (bán). Lãi suất hoán đổi ngoại tệ 6 tháng trên liên ngân hàng đã giảm, bơm thanh khoản VND dài hạn, ổn định kỳ vọng thị trường và giảm mặt bằng lãi suất cho vay."
-    },
-    {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
-      "impact": "↑",
-      "note": "467/469 đại biểu Quốc hội tán thành Nghị quyết phát triển kinh tế-xã hội 2027 với mục tiêu tăng trưởng ≥10%, giữ vững ổn định kinh tế vĩ mô, kiểm soát lạm phát. Năm 2027 xác định là năm tăng tốc, bứt phá để thực hiện Nghị quyết Đại hội XIV của Đảng."
-    },
-    {
-      "title": "Bất động sản vừa trải qua tháng khó khăn nhất trong 15 năm",
+      "title": "Giá dầu lao dốc mạnh 20% trong tháng 11",
       "impact": "↓",
-      "note": "Tháng 10/2026: cả 34 mã bất động sản đều mất đường trung bình động MA200, có lúc không còn mã nào giữ xu hướng tăng dài hạn. Lần gần nhất ghi nhận trạng thái tương tự là cuối năm 2011 với chỉ ~20 mã BĐS; mức độ suy yếu hiện nay có quy mô lớn hơn."
+      "note": "Giá dầu Brent giảm khoảng 22 USD/thùng về mức 91 USD/thùng, giảm xấp xỉ 20% so với cuối tháng 10. Nguyên nhân: sản lượng khai thác toàn cầu vượt mức tiêu thụ kể từ tháng 9 lần đầu tiên kể từ khi xung đột Mỹ-Iran nổ ra. Tiêu cực cho HPG, PVD và ngành dầu khí."
     },
     {
-      "title": "Giá dầu Brent giảm 22 USD/thùng (20%), cung vượt nhu cầu",
+      "title": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 6 tháng",
+      "impact": "↑",
+      "note": "Ngày 6/11, NHNN công bố triển khai hoán đổi ngoại tệ tối đa 2 tỷ USD, kỳ hạn 182 ngày (đáo hạn tháng 5/2027). Tỷ giá mua 24.399 đồng/USD, cam kết bán lại 24.704 đồng/USD. Lãi suất hoán đổi 6 tháng trên thị trường liên ngân hàng giảm, bơm thanh khoản VND dài hạn, giúp giảm lãi suất cho vay."
+    },
+    {
+      "title": "Cổ phiếu bất động sản tháng khó khăn nhất 15 năm",
       "impact": "↓",
-      "note": "Giá dầu Brent giảm từ cuối tháng 10 xuống 91 USD/thùng (giảm 22 USD tương đương 20%). Nguyên nhân: sản lượng khai thác toàn cầu bắt kịp nhu cầu kể từ tháng 9, kết hợp khả năng thỏa thuận Mỹ-Iran xói mòn phần bù trong giá dầu."
+      "note": "Tháng 10/2026, toàn bộ 34 cổ phiếu BĐS có thời điểm cùng mất đường trung bình động MA200, không còn mã nào giữ xu hướng tăng dài hạn. Diễn biến hiếm gặp từ cuối 2011 khi chỉ ~20 mã BĐS; mức độ suy yếu hiện nay có quy mô lớn hơn."
     },
     {
-      "title": "Vinacomin thưởng 27.45 triệu cp, chia cổ tức 241.4%",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin (TMB) thưởng 27.45 triệu cp tăng vốn điều lệ từ 150 tỷ lên 424.5 tỷ đồng (gấp 1.83 lần), chia cổ tức tiền mặt 241.4188% từ lãi lũy kế (tương ứng 24,141.88 đồng/cp), thực hiện Q4/2026-Q1/2027."
+      "note": "Ngày 7/11, Quốc hội với 467/469 đại biểu tán thành thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027. Mục tiêu tập trung vào tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát. Năm 2027 định hướng là năm tăng tốc, bứt phá."
     },
     {
-      "title": "VUG tăng 84% chỉ sau 3 phiên giao dịch UPCoM",
+      "title": "TMB tăng vốn gấp 1.83 lần, chia cổ tức 241.4188%",
       "impact": "↑",
-      "note": "Thủy sản Việt Úc (VUG) chính thức giao dịch UPCoM ngày 9/11 giá tham chiếu 16.500 đồng/cp, tăng trần 3 phiên liên tiếp lên 30.400 đồng/cp (tăng 84%). Doanh nghiệp nắm khoảng 32% thị phần tôm giống trong nước, công suất hơn 50 tỷ con giống mỗi năm."
+      "note": "CTCP Kinh doanh Than Miền Bắc (TMB) dự kiến thưởng 27.45 triệu cp tăng vốn điều lệ từ 150 tỷ đồng lên 424.5 tỷ đồng (thực hiện quý 4/2026-quý 1/2027). Chia cổ tức tiền mặt từ lãi lũy kế 362 tỷ đồng với tỷ lệ 241.4188%, mỗi cp nhận 24,141.88 đồng. Tích cực cho ngành than."
+    },
+    {
+      "title": "Xuất khẩu gạo vượt Thái Lan nhưng kim ngạch giảm 9,7%",
+      "impact": "→",
+      "note": "Năm 2025, Việt Nam vượt Thái Lan trở thành cường quốc lớn thứ 2 thế giới về xuất khẩu gạo (8.06 triệu tấn, 4,1 tỷ USD). Tuy nhiên 10 tháng năm 2026, xuất khẩu đạt 6.8 triệu tấn (giảm 4,6%), kim ngạch 3,31 tỷ USD (giảm 9,7%). Áp lực giá buộc ngành chuyển sang sản phẩm cao cấp."
     }
   ]
 }
