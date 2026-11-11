@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường Việt Nam 11/11 phản ánh trạng thái cân bằng giữa rủi ro và cơ hội. Áp lực từ ngoài khu vực tăng khi lạm phát Mỹ vượt kỳ vọng, khiến Fed có khả năng tăng lãi suất mạnh hơn trong tháng 12. Trong nước, ngành bất động sản chịu áp lực sâu sắc nhất 15 năm (toàn bộ 34 mã mất MA200). Tuy vậy, các tín hiệu tích cực như mục tiêu tăng trưởng kinh tế 10% năm 2027 từ Quốc hội và hoạt động huy động vốn quốc tế (VPBank 730 triệu USD) cho thấy nỗ lực hỗ trợ kinh tế.",
+  "summary_vi": "Thị trường chứng khoán hôm nay chịu áp lực điều chỉnh từ nhóm ngân hàng tư nhân và vốn hóa lớn, VN-Index dao động hẹp tại vùng hỗ trợ 1.735-1.738 điểm với thanh khoản giảm 29% so với hôm trước. Tại ngoài khu vực, lạm phát Mỹ tháng 10 vượt dự báo có thể buộc Fed tăng lãi suất mạnh (khả năng 50bp), tạo rủi ro cho thị trường mới nổi. Trong nước, ngành bất động sản đối mặt khủng hoảng nhất 15 năm khi toàn bộ 34 mã mất MA200, nhưng các tín hiệu tích cực từ Chính phủ (mục tiêu 10%+ năm 2027) và huy động vốn quốc tế (VPBank 730 triệu USD) cung cấp hỗ trợ.",
   "top": [
     {
-      "title": "Lạm phát Mỹ vượt kỳ vọng, Fed sẽ tăng lãi suất",
+      "title": "Lạm phát Mỹ vượt dự báo, Fed rủi ro tăng 50bp tháng 12",
       "impact": "↓",
-      "note": "CPI toàn phần tháng 10 tăng 0,6% (cao hơn dự báo), CPI lõi tăng 0,3% (cao hơn dự báo 0,2%). Fed có 100% xác suất tăng lãi suất trong tháng 12, khả năng tăng 0,25% là 90% và tăng 0,5% là 10%. Áp lực lạm phát cao có thể kéo theo lãi suất toàn cầu tăng, tác động tiêu cực đến các thị trường mới nổi như Việt Nam."
+      "note": "CPI toàn phần tháng 10 tăng 0,6% (dự báo 0,5%), CPI lõi tăng 0,3% (dự báo 0,2%). CME FedWatch: Fed 100% tăng lãi suất kỳ họp 8-9/12, trong đó 90% khả năng tăng 0,25 điểm phần trăm và 10% khả năng tăng 0,5 điểm phần trăm. Áp lực lạm phát cao tạo rủi ro Fed tăng lãi suất lớn hơn kỳ vọng, ảnh hưởng dòng vốn đến thị trường mới nổi."
     },
     {
-      "title": "Cổ phiếu BĐS vừa qua tháng khó khăn nhất 15 năm",
+      "title": "Bất động sản trải qua tháng khó nhất 15 năm, toàn bộ 34 mã mất MA200",
       "impact": "↓",
-      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất đối với cổ phiếu bất động sản trong 15 năm. Toàn bộ 34 mã BĐS có đủ dữ liệu đều mất MA200, tình trạng hiếm gặp chỉ từng xảy ra cuối năm 2011. VHM và VPI - các mã hàng đầu ngành - cũng bị tác động nặng nề."
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất đối với cổ phiếu bất động sản trong 15 năm. Toàn bộ 34 mã BĐS có đủ dữ liệu giao dịch đều mất đường trung bình động MA200 cùng thời điểm - tình trạng hiếm gặp chỉ từng xuất hiện cuối năm 2011. VHM và VPI (đầu ngành) cũng bị tác động nặng nề, mất trendline dài hạn."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Với 467/469 đại biểu tán thành, Quốc hội thông qua Nghị quyết phát triển KT-XH 2027 với mục tiêu tăng trưởng kinh tế từ 10% trở lên, giữ vững ổn định vĩ mô, kiểm soát lạm phát. Mục tiêu tăng trưởng hai chữ số có thể khích lệ các cơ chế thúc đẩy kinh tế, hỗ trợ doanh nghiệp."
+      "note": "Với 467/469 đại biểu tán thành (7/11), Quốc hội phê duyệt Nghị quyết phát triển kinh tế - xã hội 2027 đặt mục tiêu tăng trưởng kinh tế từ 10% trở lên, gắn với giữ vững ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Tín hiệu tích cực từ chính sách khích lệ tăng trưởng hai chữ số."
     },
     {
-      "title": "Xuất khẩu gạo giảm giá mạnh dù đứng thứ 2 thế giới",
+      "title": "VPBank huy động 730 triệu USD vốn hợp vốn quốc tế",
+      "impact": "↑",
+      "note": "VPBank công bố khoản vay hợp vốn quốc tế 730 triệu USD (khoảng 19.000 tỷ đồng) được IFC và SMBC thu xếp, kỳ hạn 3/5/7 năm. Vốn hỗ trợ mở rộng tín dụng cho doanh nghiệp vừa và nhỏ (SME), SME do phụ nữ làm chủ (WSME) và ngành nông nghiệp, bổ sung nguồn vốn trung dài hạn."
+    },
+    {
+      "title": "VUG tăng 84% trong 3 phiên giao dịch, thị giá 30.400 đồng",
+      "impact": "↑",
+      "note": "Cổ phiếu mới VUG của CTCP Thủy sản Việt Úc (UPCoM) tăng kịch trần liên tiếp, từ giá tham chiếu 16.500 đồng lên 30.400 đồng/cp trong chưa đầy 3 phiên giao dịch (+84%). Công ty nắm 32% thị phần tôm giống trong nước, công suất hơn 50 tỷ con giống mỗi năm. Vốn hóa thị trường đạt 4.088 tỷ đồng."
+    },
+    {
+      "title": "Thị trường hôm nay chịu áp lực bán, thanh khoản giảm 29%",
       "impact": "↓",
-      "note": "Việt Nam vượt Thái Lan trở thành nước số 2 thế giới về xuất khẩu gạo, nhưng trong 10 tháng 2026: sản lượng 6,8 triệu tấn (giảm 4,6%), kim ngạch 3,31 tỷ USD (giảm 9,7%). Kim ngạch giảm mạnh hơn sản lượng cho thấy giá xuất khẩu bình quân chịu sức ép, ảnh hưởng đến thu nhập nông thôn."
-    },
-    {
-      "title": "VPBank huy động 730 triệu USD vốn quốc tế",
-      "impact": "↑",
-      "note": "VPBank công bố khoản vay hợp vốn quốc tế 730 triệu USD (19.000 tỷ đồng) được IFC và SMBC thu xếp, kỳ hạn 3-7 năm. Nguồn vốn dùng hỗ trợ tín dụng SME, WSME và nông nghiệp, bổ sung vốn trung dài hạn cho mục tiêu mở rộng quy mô kinh doanh."
-    },
-    {
-      "title": "TMB tăng vốn gấp 1,83 lần, chia cổ tức 241,42%",
-      "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc (TMB) tăng vốn điều lệ từ 150 tỷ lên 424,5 tỷ đồng, gấp 1,83 lần hiện tại, thông qua phát hành 27,45 triệu cp từ Quỹ đầu tư phát triển. Đồng thời chia cổ tức tiền mặt tỷ lệ 241,42% (24.141,88 đồng/cp) từ lãi lũy kế. Cổ phiếu TMB liên tục tăng trần, phản ánh kỳ vọng nhà đầu tư."
+      "note": "VN-Index tăng sáng (mức cao 1.751,23 lúc 9h30) nhưng quay đầu giảm xuống 1.740,45 lúc 10h30, giảm 2,62 điểm (-0,15%). Thanh khoản khớp lệnh phiên sáng 4.673,4 tỷ đồng, giảm 29% so với sáng hôm qua. VN30-Index giảm 0,53%, độ rộng âm (9 tăng, 19 giảm). 66% số cổ phiếu giao dịch có biên độ dao động dưới 2%."
     }
   ]
 }
