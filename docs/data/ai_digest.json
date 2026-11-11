@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường cân bằng giữa tích cực (mục tiêu GDP 2027 tăng 10%, NHNN quản lý thanh khoản tốt với FX Swap 182 ngày, TMB chia cổ tức 241%) và tiêu cực (lạm phát Mỹ nóng hơn dự báo sẽ kéo Fed tăng lãi suất, ngành BĐS khó khăn nhất 15 năm). Thanh khoản HoSE giảm mạnh 29% và chỉ số dao động hẹp phản ánh tâm lý thận trọng của nhà đầu tư.",
+  "summary_vi": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày nhằm giảm áp lực thanh khoản cuối năm, đồng thời Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên. Tuy nhiên, lạm phát Mỹ cao hơn dự báo có thể buộc Fed tăng lãi suất 0,5% trong tháng 12, gây áp lực trên thị trường. Trong nước, bất động sản đang trong giai đoạn khó khăn nhất 15 năm với toàn bộ 34 mã mất MA200, còn xuất khẩu gạo 10 tháng giảm 9,7% về kim ngạch dù Việt Nam đã vượt Thái Lan.",
   "top": [
     {
-      "title": "Lạm phát Mỹ tăng nóng, Fed tăng lãi suất 0.5 điểm có khả năng",
-      "impact": "↓",
-      "note": "CPI tháng 10 tăng 0.6%, CPI lõi tăng 0.3% (cao hơn dự báo 0.2%), Fed dự kiến tăng lãi suất 0.25-0.5 điểm phần trăm vào 8-9/12, áp lực lên đồng USD và thị trường chứng khoán toàn cầu."
-    },
-    {
-      "title": "Toàn bộ 34 mã BĐS mất MA200, khó khăn nhất 15 năm",
-      "impact": "↓",
-      "note": "Tháng 10/2026 toàn bộ 34 mã bất động sản cùng mất MA200 lần đầu tiên kể từ cuối 2011, với quy mô biến động rộng hơn và sâu hơn, lần 2011 chỉ 20 mã có dữ liệu."
-    },
-    {
-      "title": "Thị trường dao động hẹp, thanh khoản HoSE giảm 29%",
-      "impact": "↓",
-      "note": "Thanh khoản phiên sáng 11/11 đạt 4.673 tỷ đồng, giảm 29% so với sáng 10/11, VN30-Index giảm 0.53%, 66% số cổ phiếu dao động dưới 2%, độ rộng chỉ 9 tăng/19 giảm."
-    },
-    {
-      "title": "Quốc hội thông qua mục tiêu GDP 2027 tăng 10%+",
+      "title": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày",
       "impact": "↑",
-      "note": "Ngày 7/11, Quốc hội với 467/469 đại biểu tán thành thông qua Nghị quyết kế hoạch phát triển kinh tế - xã hội 2027, xác định mục tiêu tăng trưởng từ 10% trở lên, tạo kỳ vọng cho TTCK."
+      "note": "NHNN mua USD tại 24.399 đồng/USD, cam kết bán lại tại 24.704 đồng/USD sau 182 ngày (giá trị 9/11). Biện pháp giảm lãi suất hoán đổi ngoại tệ kỳ hạn 6 tháng trên liên ngân hàng xuống mức cơ quan điều hành chào, bơm thanh khoản VND dài hạn, góp phần ổn định kỳ vọng thị trường."
     },
     {
-      "title": "NHNN bộ sung FX Swap kỳ hạn 182 ngày",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng GDP năm 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "NHNN bổ sung công cụ FX Swap kỳ hạn dài 182 ngày bên cạnh OMO và tín phiếu, giải quyết rủi ro lệch kỳ hạn cho ngân hàng, bơm thanh khoản VND bền vững cho quý IV và đầu năm."
+      "note": "467/469 đại biểu Quốc hội tán thành thông qua Nghị quyết phát triển kinh tế - xã hội 2027 với mục tiêu tăng trưởng ≥10%, giữ vững ổn định vĩ mô, kiểm soát lạm phát. Đây là nền tảng cho bứt phá và tạo đà thực hiện Nghị quyết Đại hội XIV của Đảng."
     },
     {
-      "title": "TMB tăng vốn gấp 1.83 lần, chia cổ tức 241%",
+      "title": "Lạm phát Mỹ tháng 10 cao hơn dự báo, Fed cân nhắc tăng lãi suất 0,5%",
+      "impact": "↓",
+      "note": "CPI toàn phần tăng 0,6%, CPI lõi tăng 0,3% (dự báo 0,2%) trong tháng 10. Thống đốc Fed Christopher Waller cho biết báo cáo lạm phát \"nóng\" có thể ủng hộ tăng lãi suất thêm 0,5 điểm phần trăm vào tháng 12, với xác suất tăng 0,25% là 90% và 0,5% là 10%."
+    },
+    {
+      "title": "Bất động sản vừa trải qua tháng khó khăn nhất trong 15 năm",
+      "impact": "↓",
+      "note": "Tháng 10/2026: cả 34 mã bất động sản đều mất đường trung bình động MA200, có thời điểm không còn mã nào giữ xu hướng tăng dài hạn. Diễn biến tương tự lần cuối là cuối 2011 khi chỉ có ~20 mã BĐS; suy yếu hiện nay có quy mô và mức độ \"sát thương\" hơn."
+    },
+    {
+      "title": "Xuất khẩu gạo 10 tháng 2026 giảm 9,7% về kim ngạch, Việt Nam vượt Thái Lan",
+      "impact": "↓",
+      "note": "10 tháng 2026: xuất khẩu khoảng 6,8 triệu tấn gạo, thu về 3,31 tỷ USD, giảm 4,6% sản lượng và 9,7% kim ngạch so với cùng kỳ 2025. Dù Việt Nam vị trí thứ 2 thế giới vượt Thái Lan, dư địa tăng sản lượng không còn nhiều, cần chuyển sang nâng giá trị hàng hóa."
+    },
+    {
+      "title": "Dự án Cảng hàng không Gia Bình 8 tỷ USD, chuyển chuyến quốc tế từ Nội Bài 2029-2030",
       "impact": "↑",
-      "note": "TMB thưởng 27.45 triệu cổ phiếu tăng vốn từ 150 tỷ lên 424.5 tỷ đồng, chia cổ tức tiền mặt 241% (tương đương 24.141.88 đồng/cổ phiếu) từ lãi lũy kế, khích lệ nhà đầu tư."
+      "note": "Thứ trưởng Bộ Xây dựng Bùi Xuân Dũng thông báo Chính phủ giao cơ quan chức năng nghiên cứu đề án khai thác Cảng hàng không Gia Bình, trong đó có phương án chuyển toàn bộ hoạt động khai thác quốc tế từ Nội Bài sang Gia Bình từ năm 2029-2030; Nội Bài tiếp tục hoạt động bay nội địa."
     }
   ]
 }
