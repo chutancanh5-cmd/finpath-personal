@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính sách hỗ trợ thanh khoản của Ngân hàng Nhà nước (cung ứng ~49 nghìn tỷ đồng) kết hợp mục tiêu tăng trưởng ≥10% năm 2027 tạo tín hiệu tích cực dài hạn, khối ngoại quay trở lại mua ròng. Tuy nhiên, bất động sản chịu sức ép mạnh (34 mã mất MA200 - hiếm gặp) và dầu Brent giảm 20% gây rủi ro cho khí-dầu khí, tạo cân bằng rủi ro-cơ hội ngắn hạn.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Ngân hàng Nhà nước triển khai kênh bơm tiền VND 2 lần/tuần từ 11/11 (hoán đổi 6 tháng 2 tỷ USD cung ứng 48.800 tỷ đồng) hỗ trợ thanh khoản và giảm lãi suất; Quốc hội giao mục tiêu tăng trưởng 2027 từ 10% trở lên. Khối ngoại mua ròng phiên thứ 2 liên tiếp là tín hiệu tích cực, cân bằng rủi ro từ bất động sản yếu (34 mã mất MA200) và dầu Brent giảm 20%.",
   "top": [
     {
-      "title": "NHNN triển khai kênh bơm tiền VND 2 lần/tuần từ 11/11",
+      "title": "NHNN bơm tiền VND 2 lần/tuần từ 11/11",
       "impact": "↑",
-      "note": "Mua USD giao ngay thứ Hai và Tư hằng tuần tỷ giá 25.500 đồng/USD, cộng hoán đổi 6 tháng 2 tỷ USD triển khai 6/11 tương ứng ~48.800 tỷ đồng cung ứng cho hệ thống, hỗ trợ giảm mặt bằng lãi suất."
+      "note": "Từ 11/11, NHNN mua USD giao ngay vào thứ 2 và thứ 4 hằng tuần tỷ giá 25.500 đồng/USD; cộng hoán đổi 6 tháng 2 tỷ USD (9/11) tương ứng 48.800 tỷ đồng cung ứng cho hệ thống ngân hàng, hỗ trợ giảm mặt bằng lãi suất dài hạn."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế năm 2027 ≥10%",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 2027 ≥10%",
       "impact": "↑",
-      "note": "467/469 đại biểu tán thành Nghị quyết phát triển kinh tế-xã hội năm 2027 với mục tiêu tăng trưởng từ 10% trở lên, tạo tín hiệu chính sách rõ ràng hỗ trợ tăng trưởng dài hạn."
+      "note": "Quốc hội thông qua (467/469 đại biểu tán thành 7/11) Nghị quyết phát triển kinh tế-xã hội năm 2027 với mục tiêu tăng trưởng từ 10% trở lên, gắn với ổn định kinh tế vĩ mô và kiểm soát lạm phát."
     },
     {
-      "title": "Khối ngoại mua ròng phiên thứ 2 liên tiếp ~53 tỷ đồng",
+      "title": "Khối ngoại mua ròng 53 tỷ đồng phiên thứ 2 liên tiếp",
       "impact": "↑",
-      "note": "Phiên 11/11, khối ngoại mua ròng tổng ~53 tỷ đồng toàn thị trường, VIC được mua mạnh nhất ~139 tỷ đồng, POW 78 tỷ, VHM 47 tỷ, tín hiệu phục hồi niềm tin ngoại."
+      "note": "Phiên 11/11, khối ngoại mua ròng 53 tỷ đồng toàn thị trường lần thứ 2 liên tiếp; VIC được mua mạnh nhất 139 tỷ đồng, POW 78 tỷ đồng, VHM 47 tỷ đồng; FPT và NVL bị bán ròng lần lượt 48 tỷ và 39 tỷ."
     },
     {
-      "title": "Bất động sản tháng 10 khó khăn nhất 15 năm, 34 mã mất MA200",
+      "title": "Bất động sản tháng khó khăn nhất 15 năm",
       "impact": "↓",
-      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất 15 năm cho ngành BĐS, toàn bộ 34 mã cổ phiếu BĐS có thời điểm cùng mất đường MA200, diễn biến hiếm gặp lần gần nhất là cuối 2011."
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất 15 năm cho 34 mã bất động sản; có thời điểm toàn bộ mã cùng mất đường MA200, hiếm gặp lần gần nhất cuối 2011; VHM có thời điểm 'đánh mất chính mình' giữa tháng."
     },
     {
-      "title": "Giá dầu Brent lao dốc 20% (giảm ~22 USD/thùng)",
+      "title": "Giá dầu Brent lao dốc 20% (giảm 22 USD/thùng)",
       "impact": "↓",
-      "note": "Dầu Brent giảm từ cuối tháng 10 xuống ~91 USD/thùng, giảm khoảng 22 USD/thùng tương đương 20%, nguyên nhân cung dầu vượt cầu lần đầu kể từ xung đột US-Iran, gây áp lực trên lĩnh vực dầu khí."
+      "note": "Dầu Brent giảm khoảng 22 USD/thùng (~20%) từ cuối tháng 10 xuống 91 USD/thùng; nguyên nhân cung vượt cầu lần đầu tiên kể từ xung đột Mỹ-Iran (từ tháng 9), tạo áp lực trên lĩnh vực khí-dầu khí."
     },
     {
-      "title": "Lãi suất hoán đổi ngoại tệ giảm sau triển khai chính sách",
+      "title": "TMB tăng vốn gấp 1.83 lần, chia cổ tức khủng",
       "impact": "↑",
-      "note": "Sau khi NHNN công bố triển khai hoán đổi 182 ngày, lãi suất hoán đổi 6 tháng trên thị trường liên ngân hàng giảm về mức tương đương NHNN chào, các kỳ hạn 3 tháng+ bắt đầu giảm, ổn định kỳ vọng thị trường."
+      "note": "TMB dự kiến tăng vốn điều lệ từ 150 tỷ lên 424.5 tỷ đồng thưởng 27.45 triệu cổ phiếu (gấp 1.83 lần); chia cổ tức tiền mặt 241.4188% từ lãi lũy kế 362 tỷ đồng (24,141.88 đồng/cổ phiếu), thời gian thực hiện quý 4/2026-quý 1/2027."
     }
   ]
 }
