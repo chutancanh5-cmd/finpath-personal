@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 10% trở lên năm 2027 và NHNN hỗ trợ thanh khoản với hoán đổi ngoại tệ 2 tỷ USD, tạo áp lực tích cực dài hạn. Tuy nhiên, ngành bất động sản đối mặt khủng hoảng lớn nhất 15 năm (cả 34 mã mất MA200 cùng lúc) và giá dầu Brent lao dốc 22 USD/thùng (~20%) gây rủi ro ngắn hạn cho thị trường. Vàng ghi nhận biến động mạnh nhưng phục hồi chiều, phản ánh tâm lý thị trường bất ổn.",
+  "summary_vi": "Thị trường có dấu hiệu phục hồi nhẹ khi khối ngoại mua ròng 2 phiên liên tiếp (53 tỷ đồng), VN-Index đảo chiều tăng 0,22%. Tuy nhiên, ngành bất động sản tiếp tục khủng hoảng lịch sử (34 mã cùng dưới MA200 lần đầu từ 2011) và giá dầu lao dốc 20% trong tháng 11 gây áp lực. Mặt tích cực, Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027 và NHNN tích cực hỗ trợ thanh khoản bằng hoán đổi ngoại tệ, nhưng rủi ro ngắn hạn vẫn đáng chú ý.",
   "top": [
     {
-      "title": "Cổ phiếu BDS khủng hoảng nhất 15 năm, cả 34 mã mất MA200",
+      "title": "Ngành BDS khủng hoảng lịch sử, 34 mã cùng dưới MA200",
       "impact": "↓",
-      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất trong 15 năm khi cả 34 cổ phiếu bất động sản cùng đánh mất đường trung bình động MA200, lần gần nhất là cuối năm 2011 (khi chỉ ~20 mã có dữ liệu). VPI, VHM và nhiều mã khác trải qua biến động mạnh, không cổ phiếu nào giữ được xu hướng tăng dài hạn."
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất 15 năm với 34 cổ phiếu bất động sản cùng mất đường MA200 — lần cuối từ cuối năm 2011. VPI, VHM bị rung lắc mạnh, đánh mất khả năng neo giá, dấu hiệu áp lực bán mạnh."
     },
     {
-      "title": "Quốc hội phê duyệt mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 10%+ năm 2027",
       "impact": "↑",
-      "note": "Ngày 7/11, Quốc hội thông qua Nghị quyết với 467/469 đại biểu tán thành, xác định mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027, nhấn mạnh 'tăng tốc, bứt phá, tạo đà' gắn với ổn định macro và kiểm soát lạm phát."
+      "note": "Nghị quyết phát triển KT-XH 2027 được 467/469 đại biểu tán thành (7/11), khẳng định năm 2027 là năm tăng tốc, bứt phá với mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô."
     },
     {
-      "title": "Giá dầu Brent giảm 22 USD/thùng (-20%) do cung vượt cầu",
+      "title": "Giá dầu Brent lao dốc 22 USD/thùng (20%) trong tháng 11",
       "impact": "↓",
-      "note": "Giá dầu Brent giảm khoảng 22 USD/thùng so với cuối tháng 10, hiện ở mức 91 USD/thùng, lần đầu tiên kể từ xung đột Mỹ-Iran sản lượng khai thác toàn cầu vượt nhu cầu (từ tháng 9 theo JPMorgan Chase), gây áp lực lên ngành năng lượng."
+      "note": "Từ cuối tháng 10, giá dầu Brent giảm khoảng 22 USD/thùng xuống còn trên 91 USD/thùng do sản lượng khai thác toàn cầu vượt tiêu thụ, kết hợp kỳ vọng Mỹ-Iran đạt thỏa thuận — tác động âm tới các cổ phiếu năng lượng."
     },
     {
-      "title": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD hỗ trợ thanh khoản",
+      "title": "TMB (Vinacomin) tăng vốn 1,83 lần, chia cổ tức 241,4188%",
       "impact": "↑",
-      "note": "NHNN từ 6/11 triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày (tỷ giá mua 24.399, bán 24.704 đồng/USD, đáo hạn 5/2027) và mở kênh mua USD giao ngay, lãi suất hoán đổi 6 tháng đã giảm về mức tương đương chào giao dịch, ổn định kỳ vọng thị trường mùa quyết toán cuối năm."
+      "note": "CTCP Kinh doanh Than Miền Bắc sắp thưởng 27,45 triệu cp tăng vốn từ 150 tỷ lên 424,5 tỷ đồng (Q4 2026 - Q1 2027), đồng thời chia cổ tức tiền mặt từ lãi lũy kế 362 tỷ đồng với mức 24.141,88 đồng/cp, cổ phiếu liên tục tăng trần."
     },
     {
-      "title": "TMB tăng vốn 1,83 lần và chia cổ tức 241,42%",
+      "title": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD, giảm áp lực thanh khoản",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin dự kiến thưởng 27,45 triệu cổ phiếu tăng vốn từ 150 tỷ đồng lên 424,5 tỷ đồng và chia cổ tức tiền mặt 24.141,88 đồng/cổ phiếu từ lãi lũy kế hơn 362 tỷ đồng, thực hiện Q4/2026 - Q1/2027."
+      "note": "Ngân hàng Nhà nước công bố hoán đổi ngoại tệ 6 tháng (2 tỷ USD) với tỷ giá mua 24.399, bán 24.704 đồng/USD, lãi suất hoán đổi kỳ hạn 6 tháng liền giảm, tạo điều kiện giảm mặt bằng lãi suất mùa quyết toán năm."
     },
     {
-      "title": "Mỏ Cá Tầm đạt sản lượng 2 triệu tấn dầu, giá trị ~1 tỷ USD",
-      "impact": "↑",
-      "note": "Mỏ Cá Tầm (Lô 09-3/12) đạt sản lượng khai thác lũy kế 2 triệu tấn dầu vào 1h16' ngày 28/10/2026 (giá trị khoảng 1 tỷ USD), ghi nhận nỗ lực Vietsovpetro (55%), PVEP (30%), Bitexco (15%), đúng 4 năm giàn CTC-2 đi vào hoạt động."
+      "title": "TGĐ Novaland bán 10,6 triệu cp NVL, giảm sở hữu từ 0,657% xuống 0,215%",
+      "impact": "↓",
+      "note": "Ông Dương Văn Bắc (Thành viên HĐQT kiêm TGĐ Novaland) hoàn thành bán 10,6 triệu cổ phiếu NVL trong 2-3/11, đồng thời NovaGroup đăng ký bán thêm 3,1 triệu cp — động thái bán tài sản của người nội bộ, dấu hiệu tiêu cực cho thị trường."
     }
   ]
 }
