@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chứng khoán Mỹ giảm do CPI tháng 10 tăng 0,4% cao hơn dự báo gây áp lực vĩ mô. Trong nước, Masan lợi nhuận tăng 205%, TMB tăng vốn 1,83 lần chia cổ tức 241%, quốc hội giao mục tiêu tăng trưởng 10% năm 2027 tạo nền tích cực. Dòng tiền ngoại + tự doanh mua ròng mạnh (hơn 1.000 tỷ), VN-Index tăng gần 30 điểm; CEO Novaland bán cổ phiếu là dấu hiệu đáng chú ý.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ CPI Mỹ tháng 10 tăng 0,4% cao hơn dự báo, khiến Nasdaq sụt 0,74%, S&P 500 giảm 0,38% và giá vàng lao dốc sát 4.000 USD/ounce. Tuy nhiên, các tín hiệu tích cực từ trong nước hỗ trợ: Quốc hội giao mục tiêu GDP 2027 tăng từ 10% trở lên, Masan ghi nhận doanh thu tăng 52,7% và lợi nhuận cổ đông tăng 205,3%, Vinacomin tăng vốn gấp 1,83 lần với chia cổ tức khủng. Khối ngoại và tự doanh đồng thuận mua ròng mạnh.",
   "top": [
     {
-      "title": "CPI Mỹ tháng 10 cao hơn dự báo gây áp lực toàn cầu",
+      "title": "CPI Mỹ nóng, Nasdaq sụt 0,74%, Nvidia giảm 5%",
       "impact": "↓",
-      "note": "CPI Mỹ tháng 10 tăng 0,4% so với tháng 9, cao hơn dự báo 0,3%; CPI lõi tăng 0,3% (cao hơn dự báo 0,2%), khiến S&P 500 giảm 0,38%, Nasdaq giảm 0,74%, Nvidia giảm 5%."
+      "note": "CPI tháng 10 Mỹ tăng 0,4% so với tháng trước (cao hơn dự báo 0,3%), CPI lõi tăng 0,3% (cao hơn dự báo 0,2%). Chỉ số Nasdaq giảm 0,74% còn 25.065,87 điểm, S&P 500 giảm 0,38% còn 7.520,93 điểm, Dow Jones giảm 0,3% còn 52.231,89 điểm. Cổ phiếu Nvidia giảm hơn 5%. Lãi suất trái phiếu kho bạc Mỹ tăng mạnh, tạo áp lực lên các EM."
     },
     {
-      "title": "Masan lợi nhuận cổ đông tăng 205% sau 9 tháng",
+      "title": "Quốc hội giao mục tiêu GDP 2027 tăng từ 10% trở lên",
       "impact": "↑",
-      "note": "Sau 9 tháng 2026, doanh thu Masan tăng 52,7% lên 89.118 tỷ đồng, lợi nhuận thuộc cổ đông công ty mẹ tăng 205,3% lên 8.042 tỷ đồng; Masan ký MOU với Sojitz mua 5% cổ phần MSR."
+      "note": "Ngày 7/11, Quốc hội thông qua Nghị quyết kế hoạch phát triển kinh tế - xã hội năm 2027 với 467/469 đại biểu tán thành. Mục tiêu tăng trưởng kinh tế năm 2027 từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Tín hiệu tích cực cho triển vọng TTCK."
     },
     {
-      "title": "TMB tăng vốn 1,83 lần, chia cổ tức khủng 241%",
+      "title": "Masan doanh thu +52,7%, lợi nhuận cổ đông +205,3%",
       "impact": "↑",
-      "note": "TMB dự kiến thưởng 27,45 triệu cổ phiếu để tăng vốn điều lệ từ 150 tỷ lên 424,5 tỷ đồng, đồng thời chia cổ tức tiền mặt tỷ lệ 241,4188% (24.141,88 đồng/cổ phiếu)."
+      "note": "Sau 9 tháng đầu năm 2026, Masan (MSN) ghi nhận doanh thu thuần hợp nhất 89.118 tỷ đồng (tăng 52,7%), lợi nhuận thuộc về cổ đông công ty mẹ 8.042 tỷ đồng (tăng 205,3%). Masan High-Tech Materials (MSR) hoạt động tốt với giá vonfram tăng mạnh. Công ty ký MOU với Tập đoàn Sojitz (Nhật Bản) về phân phối sản phẩm vonfram, florit."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Vinacomin (TMB) tăng vốn 1,83 lần, chia cổ tức 241,42%",
       "impact": "↑",
-      "note": "Quốc hội (7/11) thông qua mục tiêu tăng trưởng kinh tế năm 2027 từ 10% trở lên với 467/469 đại biểu tán thành, định hướng năm 2027 là năm tăng tốc, bứt phá."
+      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin (HNX: TMB) dự kiến thưởng 27,45 triệu cổ phiếu để tăng vốn điều lệ từ 150 tỷ đồng lên 424,5 tỷ đồng (gấp 1,83 lần). Chia cổ tức tiền mặt 241,4188% (24.141,88 đồng/cổ phiếu) từ lãi lũy kế hơn 362 tỷ đồng. Thời gian thực hiện quý 4/2026 đến quý 1/2027."
     },
     {
-      "title": "Ngoại + tự doanh mua ròng mạnh, VN-Index tăng 30 điểm",
-      "impact": "↑",
-      "note": "Phiên 10/11, khối ngoại mua ròng 470+ tỷ đồng, tự doanh mua ròng 515+ tỷ đồng, VN-Index tăng gần 30 điểm lên 1.743,07 điểm; KDH dẫn mua với 86 tỷ đồng."
+      "title": "Giá vàng lao dốc xuống sát 4.000 USD/ounce",
+      "impact": "↓",
+      "note": "Giá vàng thế giới giảm hơn 100 USD/ounce sau khi CPI Mỹ cao hơn dự báo, khiến đồng USD tăng mạnh và lợi suất trái phiếu Mỹ tăng. Trong nước, vàng miếng SJC cuối ngày 10/11 ở mức 137,9-140,9 triệu đồng/lượng, chênh lệch mua-bán 3-4,1 triệu đồng/lượng."
     },
     {
-      "title": "CEO Novaland bán 10,6 triệu cổ phiếu, giảm sở hữu",
+      "title": "Anthropic IPO định giá 1,4 nghìn tỷ USD, huy động 64 tỷ USD",
       "impact": "→",
-      "note": "Ông Dương Văn Bắc (CEO) bán hơn 10,6 triệu cổ phiếu NVL (2-3/11), giảm sở hữu xuống 5,2 triệu cổ phiếu (0,215% vốn điều lệ), thu khoảng 108 tỷ đồng."
+      "note": "Anthropic (nhà phát triển AI Claude) bắt đầu roadshow IPO với giá cổ phiếu mục tiêu 70-78 USD, huy động 64 tỷ USD, là một trong những IPO lớn nhất lịch sử Phố Wall. Định giá mục tiêu 1,4 nghìn tỷ USD, cao hơn 965 tỷ USD trong vòng gọi vốn tư nhân tháng 5. IPO diễn ra khi cổ phiếu AI bị bán tháo."
     }
   ]
 }
