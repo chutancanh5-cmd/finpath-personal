@@ -1,13 +1,13 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Trung tính",
+  "overall_sentiment": "Tiêu cực",
   "summary_vi": "Thị trường chứng khoán VN ghi nhận phiên giao dịch khó khăn với VN-Index giảm 0,15% và thanh khoản suy yếu 31,4%. Áp lực từ giá dầu Brent mất 20% (xuống 91 USD/thùng) và nhóm BĐS chịu áp lực mạnh nhất 15 năm (34 mã mất MA200) tạo rủi ro ngắn hạn. Tuy nhiên, can thiệp của NHNN (hoán đổi 2 tỷ USD), mục tiêu tăng trưởng 2027 từ 10% của Quốc hội, và kế hoạch chia cổ tức khủng của TMB (241,4%) mang lại tín hiệu hỗ trợ chính sách dài hạn.",
   "top": [
     {
       "title": "VN-Index giảm 0,15%, thanh khoản HOSE giảm 31,4%",
       "impact": "↓",
-      "note": "VN-Index giảm 2,56 điểm (-0,15%) xuống 1,740,51 điểm, HNX-Index giảm 0,48% xuống 255,04 điểm. Thanh khoản HOSE 287 triệu đơn vị (5,8 ngàn tỷ đồng) giảm 31,4% so với phiên trước. Độ rộng 305 mã giảm, 266 mã tăng, phản ánh tâm lý nhà đầu tư yếu."
+      "note": "VN-Index giảm 2,56 điểm (-0,15%) xuống 1.740,51 điểm, HNX-Index giảm 0,48% xuống 255,04 điểm. Thanh khoản HOSE 287 triệu đơn vị (5,8 ngàn tỷ đồng) giảm 31,4% so với phiên trước. Độ rộng 305 mã giảm, 266 mã tăng, phản ánh tâm lý nhà đầu tư yếu."
     },
     {
       "title": "Giá dầu Brent giảm 22 USD/thùng, xuống 91 USD/thùng",
@@ -22,7 +22,7 @@
     {
       "title": "NHNN hoán đổi ngoại tệ 2 tỷ USD, kỳ hạn 182 ngày",
       "impact": "↑",
-      "note": "NHNN triển khai hoán đổi ngoại tệ tối đa 2 tỷ USD, kỳ hạn 182 ngày (đáo hạn 5/2027), tỷ giá 24,399-24,704 đồng/USD. Lãi suất hoán đổi 6 tháng giảm về mức cơ quan điều hành chào giao dịch, hỗ trợ thanh khoản Q4 và giảm mặt bằng lãi suất cho vay."
+      "note": "NHNN triển khai hoán đổi ngoại tệ tối đa 2 tỷ USD, kỳ hạn 182 ngày (đáo hạn 5/2027), tỷ giá 24.399-24.704 đồng/USD. Lãi suất hoán đổi 6 tháng giảm về mức cơ quan điều hành chào giao dịch, hỗ trợ thanh khoản Q4 và giảm mặt bằng lãi suất cho vay."
     },
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng 2027 từ 10% trở lên",
@@ -32,7 +32,7 @@
     {
       "title": "TMB tăng vốn gấp 1,83 lần, chia cổ tức 241,4188%",
       "impact": "↑",
-      "note": "Vinacomin TMB phát hành 27,45 triệu cổ phiếu thưởng, tăng vốn từ 150 tỷ lên 424,5 tỷ đồng. Chia cổ tức tiền mặt 241,4188% (24,141,88 đồng/cổ phiếu từ lãi lũy kế hơn 362 tỷ đồng), thực hiện Q4/2026-Q1/2027. TMB liên tục tăng trần."
+      "note": "Vinacomin TMB phát hành 27,45 triệu cổ phiếu thưởng, tăng vốn từ 150 tỷ lên 424,5 tỷ đồng. Chia cổ tức tiền mặt 241,4188% (24.141,88 đồng/cổ phiếu từ lãi lũy kế hơn 362 tỷ đồng), thực hiện Q4/2026-Q1/2027. TMB liên tục tăng trần."
     }
   ]
 }
