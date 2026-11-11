@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực lãi suất toàn cầu khi lạm phát Mỹ tháng 10 tăng nóng (CPI 0,4%, CPI lõi 0,3%, cả hai vượt dự báo), khiến Fed sắp tăng lãi suất 0,25-0,5% vào tháng 12 và S&P 500, Nasdaq cùng giảm. Tuy nhiên, các tín hiệu tích cực từ chính sách (Quốc hội giao mục tiêu tăng trưởng 10% năm 2027) và kết quả kinh doanh vượt trội (Masan tăng lợi nhuận 205%, TMB chia cổ tức 241%) tạo cơ sở hỗ trợ. Ngắn hạn cần theo dõi dòng vốn ngoại; dài hạn nền tảng tăng trưởng vẫn khả quan.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Lạm phát Mỹ tháng 10 nóng hơn kỳ vọng (CPI +0,4%, CPI lõi +0,3%) tạo nguy cơ Fed tăng lãi suất 0,5% vào tháng 12 và áp lực lên thị trường toàn cầu. Ngành bất động sản Việt Nam trải qua tháng 10 khó khăn nhất 15 năm, toàn bộ 34 mã BĐS mất MA200. Giá vàng giảm mạnh, chứng khoán Mỹ sụt (Nasdaq -0,74%, Nvidia -5%). Tuy Quốc hội giao mục tiêu tăng trưởng 2027 ≥10% và một số doanh nghiệp (VPBank, Masan) có tín hiệu tốt, nhưng không đủ cân bằng rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Lạm phát Mỹ tăng nóng, Fed sắp tăng lãi suất 0,25-0,5%",
+      "title": "Lạm phát Mỹ nóng, Fed sắp tăng lãi suất tháng 12",
       "impact": "↓",
-      "note": "CPI tháng 10 Mỹ tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%). Nhà giao dịch CME Group đặt cược 100% rằng Fed tăng lãi suất trong tháng 12, với 90% khả năng tăng 0,25 điểm phần trăm và 10% tăng 0,5 điểm phần trăm. Tác động: áp lực lãi suất toàn cầu, ảnh hưởng dòng vốn ngoại VN."
+      "note": "CPI tháng 10 Mỹ tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%). Thống đốc Fed Christopher Waller cho biết báo cáo lạm phát này có thể khiến ông ủng hộ tăng 0,5 điểm phần trăm vào tháng 12. Nhà giao dịch CME đặt cược 100% tăng lãi suất, 90% khả năng +0,25%, 10% khả năng +0,5%. Áp lực lãi suất toàn cầu sẽ ảnh hưởng dòng vốn ngoại Việt Nam."
     },
     {
-      "title": "Masan tăng lợi nhuận 205% trong 9 tháng 2026",
-      "impact": "↑",
-      "note": "Doanh thu thuần 89.118 tỷ đồng tăng 52,7%, lợi nhuận cổ đông công ty mẹ 8.042 tỷ đồng tăng 205,3%. Masan High-Tech Materials (MSR) được hưởng lợi giá vonfram tăng mạnh, vừa ký MOU với tập đoàn Sojitz (Nhật Bản) mua 5% cổ phần MSR và phân phối sản phẩm."
-    },
-    {
-      "title": "Vinacomin (TMB) tăng vốn gấp 1,83 lần, chia cổ tức 241,4%",
-      "impact": "↑",
-      "note": "Thưởng 27,45 triệu cổ phiếu, tăng vốn từ 150 tỷ đồng lên 424,5 tỷ đồng. Chia cổ tức tiền mặt từ lãi lũy kế 362 tỷ đồng, tương ứng 24.141,88 đồng/cổ phiếu (tỷ lệ 241,4188%). Cổ phiếu liên tục tăng trần."
-    },
-    {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên",
-      "impact": "↑",
-      "note": "467/469 đại biểu Quốc hội (ngày 7/11) thông qua Nghị quyết kế hoạch 2027 với mục tiêu tăng trưởng kinh tế từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Hỗ trợ tâm lý nhà đầu tư và kỳ vọng phát triển doanh nghiệp."
-    },
-    {
-      "title": "Sân bay Gia Bình 8 tỷ USD: chuyển quốc tế từ Nối Bài",
-      "impact": "↑",
-      "note": "Chính phủ giao cơ quan chức năng nghiên cứu đề án khai thác sân bay Gia Bình, phương án chuyển toàn bộ hoạt động quốc tế từ Nội Bài sang Gia Bình; Nội Bài 2030 dự kiến 50 triệu khách/năm. Tạo cơ hội lớn cho đầu tư BĐS, logistics, hạ tầng vùng Hà Nội."
-    },
-    {
-      "title": "CEO Novaland bán 10,6 triệu cổ phiếu, rút 108 tỷ đồng",
+      "title": "Cổ phiếu bất động sản tháng 10 khó khăn nhất 15 năm",
       "impact": "↓",
-      "note": "Ông Dương Văn Bắc (CEO/HĐQT Novaland) hoàn tất bán 10,6 triệu cổ phiếu NVL ngày 2-3/11, giảm sở hữu từ 15,8 triệu xuống 5,2 triệu (0,215% vốn), tính toán doanh thu ~108 tỷ đồng. Dấu hiệu tiêu cực: lãnh đạo bán mạnh, rút vốn khỏi công ty."
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất của cổ phiếu BĐS trong 15 năm. Cả 34 mã BĐS có thời điểm đồng loạt mất đường trung bình động MA200, diễn biến hiếm gặp (lần gần nhất cuối 2011 khi chỉ ~20 mã có dữ liệu). VHM, VPI, các mã lớn cùng biến động mạnh. Phản ánh suy yếu toàn diện của ngành."
+    },
+    {
+      "title": "VPBank huy động 730 triệu USD từ IFC, SMBC",
+      "impact": "↑",
+      "note": "VPBank công bố khoản vay hợp vốn quốc tế 730 triệu USD (gần 19.000 tỷ đồng) do IFC và SMBC thu xếp, kỳ hạn 3-7 năm. Giải ngân từng đợt trong năm 2026, hỗ trợ VPBank cung cấp tín dụng cho SME, WSME, nông nghiệp. Tín hiệu mạnh về khả năng tài chính và tăng trưởng tín dụng."
+    },
+    {
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 ≥10%",
+      "impact": "↑",
+      "note": "Với 467/469 đại biểu tán thành (ngày 7/11), Quốc hội thông qua Nghị quyết kế hoạch 2027 đặt mục tiêu tăng trưởng kinh tế từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Tạo kỳ vọng tích cực cho chính sách hỗ trợ doanh nghiệp."
+    },
+    {
+      "title": "Masan lợi nhuận cổ đông tăng 205% trong 9T",
+      "impact": "↑",
+      "note": "Masan (MSN) công bố 9T/2026: doanh thu 89.118 tỷ đồng (+52,7% YoY), lợi nhuận cổ đông công ty mẹ 8.042 tỷ đồng (+205,3% YoY). Masan High-Tech Materials (MSR) hưởng lợi giá vonfram tăng, vừa ký MOU với Sojitz (Nhật) mua 5% MSR, phân phối sản phẩm."
+    },
+    {
+      "title": "Chứng khoán Mỹ mất điểm, Nvidia -5%, dầu 90 USD",
+      "impact": "↓",
+      "note": "S&P 500 -0,38%, Nasdaq -0,74% (25.065,87 điểm), Dow -0,3% phiên 10/11. Cổ phiếu Nvidia -5% sau bê bối CEO Jensen Huang, góp phần suy giảm chỉ số. Giá vàng hôm 11/11 giảm mạnh, mất mốc 140 triệu đồng/lượng (giảm 1,4 triệu/lượng). Giá dầu bấp bênh quanh 90 USD/thùng. Áp lực toàn cầu tác động xấu."
     }
   ]
 }
