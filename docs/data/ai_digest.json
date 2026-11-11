@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt với áp lực kép từ lạm phát Mỹ nóng hơn dự báo (CPI lõi +0,3% vs dự báo +0,2%) khiến Fed sẵn sàng tăng lãi suất 0,5% vào tháng 12, đồng thời ngành bất động sản chịu khủng hoảng nặng nề nhất 15 năm khi toàn bộ 34 mã niêm yết mất MA200 cùng lúc. Tuy nhiên, Chính phủ thông qua mục tiêu tăng trưởng GDP 10% cho năm 2027 và VPBank thành công gọi vốn hợp tác quốc tế 730 triệu USD (gần 19.000 tỷ đồng) qua IFC và SMBC, khẳng định sức sống của hệ thống tài chính. Nâng hạng TTCK lên thị trường mới nổi thứ cấp từ tháng 9/2026 tạo cơ hội dài hạn nhưng cần giải quyết thách thức thanh khoản ngắn hạn.",
+  "summary_vi": "Dù kết quả kinh doanh Q3 tương đối tốt với lợi nhuận tăng 50,1% và chính phủ giao mục tiêu tăng trưởng 2027 từ 10% trở lên, thị trường đang chịu áp lực từ lạm phát Mỹ cao hơn dự báo (có khả năng Fed tăng lãi suất 0,5% trong tháng 12) và khó khăn kéo dài của bất động sản (tháng 10 khắc nghiệt nhất 15 năm). Điều này tạo áp lực lên tỷ giá và chi phí vốn, mặc dù có những tín hiệu tích cực từ hoạt động mở rộng tín dụng và đầu tư cơ sở hạ tầng.",
   "top": [
     {
-      "title": "Cổ phiếu bất động sản khủng hoảng nặng nhất 15 năm",
+      "title": "Lạm phát Mỹ nóng, Fed có thể tăng lãi suất 0,5% tháng 12",
       "impact": "↓",
-      "note": "Tháng 10/2026 ghi nhận tất cả 34 mã BĐS niêm yết cùng mất đường MA200 — hiện tượng hiếm gặp chưa từng xảy ra kể từ cuối năm 2011 khi chỉ ~20 mã có dữ liệu. VHM (mã vốn hóa lớn nhất ngành) và VPI (được đánh giá khả năng neo giá tốt) đều trải qua biến động xáo trộn. Suy yếu diễn ra trên diện rộng, phản ánh khủng hoảng toàn ngành."
+      "note": "CPI tháng 10 Mỹ tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%); Thống đốc Fed Christopher Waller nói báo cáo \"nóng\" có thể hỗ trợ tăng lãi suất 0,5% trong tháng 12, tạo áp lực lên USD/VND và chi phí vốn cho doanh nghiệp Việt."
     },
     {
-      "title": "Lạm phát Mỹ nóng, Fed sắp tăng lãi suất 0,5% tháng 12",
-      "impact": "↓",
-      "note": "CPI tháng 10 Mỹ tăng 0,4% (dự báo 0,3%), CPI lõi tăng 0,3% (dự báo 0,2%). Thống đốc Fed Christopher Waller phát biểu nếu CPI lõi ở mức 0,3% ông sẽ ủng hộ tăng 0,5 điểm phần trăm vào tháng 12. CME FedWatch xác suất 100% tăng lãi suất 8-9/12, trong đó 90% khả năng +0,25%, 10% khả năng +0,5%. Áp lực lãi suất toàn cầu tác động dòng vốn ngoại Việt Nam."
-    },
-    {
-      "title": "VPBank huy động 730 triệu USD từ IFC và SMBC",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "VPBank công bố khoản vay hợp vốn quốc tế 730 triệu USD (gần 19.000 tỷ đồng) do IFC và SMBC thu xếp, kỳ hạn 3 năm, 5 năm, 7 năm. Giải ngân từng đợt trong năm 2026, bổ sung vốn trung dài hạn hỗ trợ tín dụng SME, WSME và SME nông nghiệp. Khẳng định khả năng tiếp cận vốn quốc tế của hệ thống ngân hàng Việt Nam."
+      "note": "Với 467/469 đại biểu tán thành (7/11), Quốc hội thông qua Nghị quyết phát triển kinh tế - xã hội 2027; năm 2027 được định hướng là năm \"tăng tốc, bứt phá\" với tập trung tăng trưởng từ 10% trở lên cùng giữ vững ổn định vĩ mô."
     },
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% trở lên",
+      "title": "Cổ phiếu bất động sản tháng khó khăn nhất 15 năm",
+      "impact": "↓",
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất cho BĐS trong 15 năm; cả 34 mã BĐS từng mất MA200 cùng lúc, diễn biến tương tự lần cuối vào cuối 2011 khi chỉ có hơn 20 mã BĐS có đủ dữ liệu giao dịch."
+    },
+    {
+      "title": "VPBank huy động 730 triệu USD vốn quốc tế dài hạn",
       "impact": "↑",
-      "note": "Với 467/469 đại biểu Quốc hội tán thành (7/11/2026), Nghị quyết kế hoạch phát triển kinh tế - xã hội năm 2027 giao mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm các cân đối lớn. Năm 2027 định vị là năm tăng tốc, bứt phá, tạo đà cho thực hiện Nghị quyết Đại hội XIV Đảng."
+      "note": "VPBank công bố khoản vay hợp vốn 730 triệu USD (~19.000 tỷ đồng) được sắp xếp bởi IFC và SMBC với kỳ hạn 3-7 năm; hỗ trợ mở rộng tín dụng cho SME, WSME và SME nông nghiệp."
     },
     {
-      "title": "Chứng khoán Mỹ giảm điểm, Nvidia -5%, Nasdaq -0,74%",
-      "impact": "↓",
-      "note": "S&P 500 giảm 0,38% (7.520,93), Nasdaq giảm 0,74% (25.065,87), Dow Jones giảm 0,3% phiên 10/11. Cổ phiếu Nvidia giảm hơn 5% do bê bối CEO Jensen Huang liên quan quan hệ ngoài luồng. Báo cáo CPI cao hơn dự báo và lợi suất trái phiếu kho bạc tăng tạo áp lực giảm. Tác động thị trường toàn cầu không lợi cho TTCK Việt Nam."
+      "title": "Quý III 2026: Lợi nhuận tăng 50,1%, nhóm phi tài chính kỳ vọng bứt phá",
+      "impact": "↑",
+      "note": "Q3/2026 doanh thu tăng 33%, lợi nhuận sau thuế tăng 50,1%, biên lợi nhuận 13,93%; nhóm doanh nghiệp phi tài chính và bảo hiểm được kỳ vọng sẽ dẫn dắt đà tăng trưởng lợi nhuận toàn thị trường trong Q4."
     },
     {
-      "title": "Giá vàng rớt mốc 140 triệu đồng/lượng, giảm 2 triệu/lượng",
-      "impact": "↓",
-      "note": "Sáng 11/11, vàng miếng các thương hiệu SJC, PNJ, DOJI, Bảo Tín Mạnh Hải giảm đồng loạt 2 triệu đồng/lượng, xuống 136,5 triệu (mua vào) - 139,5 triệu (bán ra). Vàng thế giới trên Kitco ở 4.034 USD/ounce, giảm 104 USD. Lần đầu tiên mất mốc 140 triệu sau 1 tuần, phản ánh suy yếu của tài sản trú ẩn."
+      "title": "Dự án sân bay Gia Bình 8 tỷ USD - Chuyển quốc tế từ Nội Bài",
+      "impact": "↑",
+      "note": "Chính phủ giao cơ quan chức năng nghiên cứu phương án chuyển toàn bộ hoạt động khai thác quốc tế từ Nội Bài sang Gia Bình từ 2029-2030; Nội Bài định hướng 50 triệu hành khách/năm năm 2030 và hướng 100 triệu hành khách/năm năm 2050."
     }
   ]
 }
