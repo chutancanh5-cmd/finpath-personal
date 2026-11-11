@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội phê chuẩn mục tiêu tăng trưởng 10% năm 2027 và Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày để hỗ trợ thanh khoản, tạo tín hiệu tích cực về chính sách. Tuy nhiên, thị trường chứng khoán yếu với thanh khoản giảm 29%, bất động sản chạm đáy 15 năm (34 mã cùng mất MA200), và giá dầu lao dốc 20% — áp lực đối với doanh nghiệp dầu khí dù mỏ Cá Tầm đạt kỷ lục 2 triệu tấn dầu.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng ≥10% năm 2027, trong khi Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 6 tháng để giảm lãi suất và tăng thanh khoản hệ thống. Chính phủ trình Quốc hội luật quản lý thị trường giao dịch hàng hóa phái sinh (7.500 tỷ đồng/ngày). Tuy nhiên, giá dầu Brent giảm mạnh 20% và cổ phiếu bất động sản trải qua tháng khó khăn nhất 15 năm, đặt ra rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 10% năm 2027",
+      "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Ngày 7/11, Quốc hội với 467/469 đại biểu tán thành thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027, với mục tiêu tăng trưởng từ 10% trở lên, nhấn mạnh 'tăng tốc, bứt phá' gắn với ổn định vĩ mô và kiểm soát lạm phát."
+      "note": "Quốc hội thông qua Nghị quyết kế hoạch phát triển KT-XH 2027 với 467/469 đại biểu tán thành, đặt mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định macro, kiểm soát lạm phát, đẩy mạnh phân cấp phân quyền."
     },
     {
-      "title": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 6 tháng",
+      "title": "NHNN triển khai hoán đổi ngoại tệ 6 tháng, giảm lãi suất thanh khoản",
       "impact": "↑",
-      "note": "Ngày 6/11, Ngân hàng Nhà nước công bố hoán đổi ngoại tệ tối đa 2 tỷ USD kỳ hạn 182 ngày (đáo hạn tháng 5/2027), tỷ giá mua 24.399 đồng/USD, cam kết bán lại 24.704 đồng/USD. Lãi suất hoán đổi 6 tháng trên thị trường liên ngân hàng giảm, bơm thanh khoản VND dài hạn."
+      "note": "NHNN thực hiện hoán đổi ngoại tệ tối đa 2 tỷ USD kỳ hạn 182 ngày (đáo hạn 5/2027). Sau công bố, lãi suất hoán đổi 6 tháng giảm về mức cơ quan điều hành chào giao dịch, hỗ trợ giảm mặt bằng lãi suất cho vay."
     },
     {
-      "title": "Giá dầu Brent lao dốc 20%, mất 22 USD/thùng",
-      "impact": "↓",
-      "note": "Giá dầu Brent giảm khoảng 22 USD/thùng về mức 91 USD/thùng, giảm xấp xỉ 20% so với cuối tháng 10. Sản lượng khai thác toàn cầu vượt nhu cầu kể từ tháng 9 lần đầu tiên kể từ xung đột Mỹ-Iran, tạo áp lực lên doanh nghiệp dầu khí Việt Nam."
-    },
-    {
-      "title": "Cổ phiếu bất động sản tháng khó khăn nhất 15 năm",
-      "impact": "↓",
-      "note": "Tháng 10/2026, toàn bộ 34 mã bất động sản có thời điểm cùng mất đường trung bình động MA200—diễn biến hiếm gặp từ cuối 2011; mức độ suy yếu hơn cả thời kỳ đó về quy mô. VHM, VPI trải qua những biến động xáo trộn."
-    },
-    {
-      "title": "Mỏ Cá Tầm đạt 2 triệu tấn dầu, kỷ lục 1 tỷ USD",
+      "title": "Chính phủ trình luật riêng quản lý thị trường giao dịch phái sinh 7.500 tỷ đồng/ngày",
       "impact": "↑",
-      "note": "Ngày 28/10/2026 lúc 1h16 phút, mỏ Cá Tầm (Lô 09-3/12) đạt sản lượng khai thác lũy kế 2 triệu tấn dầu (tương ứng 1 tỷ USD). Vietsovpetro (55%, người điều hành) cùng PVEP (30%) và Bitexco (15%) khai thác; sau 4 năm giàn CTC-2 đi vào hoạt động."
+      "note": "Chính phủ trình Quốc hội dự án Luật Giao dịch hàng hóa phái sinh, hoàn thiện khung pháp lý cho thị trường với giá trị giao dịch danh nghĩa bình quân 7.500 tỷ đồng/ngày, khối lượng giao dịch tăng từ 58,9 nghìn hợp đồng (2019) lên 1,54 triệu hợp đồng (2025)."
     },
     {
-      "title": "Thị trường chứng khoán đi ngang, thanh khoản giảm 29%",
+      "title": "Giá dầu Brent lao dốc mạnh, giảm 20% trong tháng 11",
       "impact": "↓",
-      "note": "Sáng 11/11, VN30-Index giảm 0,53%, HoSE thanh khoản sáng 4,6 tỷ đồng (giảm 29% so với sáng hôm trước), 70% số cổ phiếu dao động dưới 2%, cho thấy thị trường khá yếu với cân bằng tạm thời giữa cung cầu."
+      "note": "Giá dầu Brent giảm khoảng 22 USD/thùng so với cuối tháng 10 (tương đương ~20%), hiện ở mức 91 USD/thùng. Nguyên nhân: thị trường dầu đạt cân bằng mới, cung toàn cầu bắt kịp nhu cầu, cộng với khả năng Mỹ-Iran đạt thỏa thuận."
+    },
+    {
+      "title": "Cổ phiếu bất động sản trải qua tháng khó khăn nhất 15 năm",
+      "impact": "↓",
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất 15 năm cho cổ phiếu bất động sản, không cổ phiếu nào trong danh sách 34 mã duy trì xu hướng tăng dài hạn. Tất cả 34 mã BĐS cùng vượt qua MA200 — diễn biến hiếm gặp, lần cuối vào 2011."
+    },
+    {
+      "title": "Công ty Vinacomin (TMB) tăng vốn gấp 1,83 lần, chia cổ tức 241,4188%",
+      "impact": "↑",
+      "note": "CTCP Kinh doanh Than Miền Bắc (TMB) dự kiến thưởng 27,45 triệu cổ phiếu, tăng vốn từ 150 tỷ lên 424,5 tỷ đồng, đồng thời chia cổ tức tiền mặt 241,4188% (tức 24,141.88 đồng/cổ phiếu từ lãi lũy kế, thực hiện Q4/2026-Q1/2027)."
     }
   ]
 }
