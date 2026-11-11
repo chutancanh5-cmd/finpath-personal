@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-11",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng GDP từ 10% trở lên năm 2027, phản ánh quyết tâm tăng tốc kinh tế. Khối ngoại và tự doanh đồng thuận mua ròng mạnh (tổng 985 tỷ đồng), VN-Index tăng 29 điểm lên 1.743,07 điểm. Doanh nghiệp đầu tàu (22 doanh nghiệp có doanh thu trên 1 tỷ USD) tăng trưởng hàng chục %, sân bay Gia Bình sắp hoàn thành năm 2027. Tuy nhiên, CPI Mỹ tháng 10 tăng 0,4% (cao hơn dự báo 0,3%) tạo áp lực Fed tăng lãi suất, có thể ảnh hưởng đến dòng vốn ngoài.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng GDP 10% trở lên năm 2027 với tín hiệu khởi động từ 22 doanh nghiệp đầu tàu có doanh thu trên 1 tỷ USD tăng gấp bội. Khối ngoại và tự doanh mua ròng mạnh (tổng 985 tỷ đồng), VN-Index tăng 29 điểm lên 1.743,07 điểm. Tuy nhiên, CPI Mỹ tháng 10 tăng 0,4% vượt dự báo 0,3%, nâng xác suất Fed tăng lãi suất tháng 12 lên 100%, khiến giá vàng lao dốc xuống 4.033,5 USD/oz. Căng thẳng giữa tín hiệu tăng trưởng trong nước và rủi ro tightening từ Mỹ tạo bối cảnh không chắc chắn.",
   "top": [
+    {
+      "title": "CPI Mỹ vượt dự báo, Fed chắc chắn tăng lãi suất tháng 12",
+      "impact": "↓",
+      "note": "CPI tháng 10/2026 tăng 0,4% so với tháng trước vượt dự báo 0,3%, khiến xác suất Fed tăng lãi suất tháng 12 lên 100% từ 84%. Giá vàng giảm mạnh hơn 100 USD/oz xuống 4.033,5 USD/oz, tín hiệu risk-off tạo áp lực capital outflow từ thị trường mới nổi."
+    },
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng GDP 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Quốc hội 467/469 đại biểu tán thành thông qua Nghị quyết phát triển kinh tế - xã hội năm 2027 (7/11), giao mục tiêu tăng trưởng từ 10% trở lên. Năm 2027 được định hướng là 'năm tăng tốc, bứt phá, tạo đà, tạo thế, tạo lực' với focus giữ vững ổn định kinh tế vĩ mô, kiểm soát lạm phát."
+      "note": "Quốc hội 467/469 đại biểu tán thành thông qua Nghị quyết phát triển kinh tế - xã hội năm 2027 (7/11), giao mục tiêu tăng trưởng từ 10% trở lên để thực hiện Nghị quyết Đại hội XIV của Đảng, tập trung tăng tốc, bứt phá trong kiểm soát lạm phát."
     },
     {
-      "title": "Khối ngoại tự doanh mua ròng mạnh, VN-Index tăng 29 điểm",
+      "title": "TMB tăng vốn 1,83 lần, chia cổ tức 241,4188%",
       "impact": "↑",
-      "note": "Phiên 10/11: khối ngoại mua ròng hơn 470 tỷ đồng (KDH dẫn đầu 86 tỷ, rải đều POW, SSI, VNM, VHM), tự doanh mua ròng hơn 515 tỷ đồng (VIX dẫn đầu 270 tỷ). VN-Index tăng 29 điểm lên 1.743,07 điểm, thanh khoản vượt trung bình 20 phiên, 15/18 ngành tăng."
+      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin phát hành 27,45 triệu cổ phiếu thưởng tăng vốn từ 150 tỷ đồng lên 424,5 tỷ đồng (thực hiện quý 4/2026 - quý 1/2027), chia cổ tức tiền mặt 241,4188% từ lãi lũy kế 362 tỷ đồng, cổ phiếu liên tục tăng trần."
     },
     {
-      "title": "TMB tăng vốn gấp 1,83 lần, chia cổ tức 241,4188%",
+      "title": "Khối ngoại tự doanh mua ròng tổng 985 tỷ đồng, VN-Index tăng 29 điểm",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin sẽ phát hành 27,45 triệu cổ phiếu thưởng, tăng vốn từ 150 tỷ đồng lên 424,5 tỷ đồng (thực hiện quý 4/2026 - quý 1/2027). Đồng thời chia cổ tức tiền mặt tỷ lệ 241,4188% từ lãi lũy kế hơn 362 tỷ đồng."
+      "note": "Phiên 10/11: khối ngoại mua ròng 470 tỷ đồng (KDH dẫn đầu 86 tỷ), tự doanh mua ròng 515 tỷ đồng (VIX dẫn đầu 270 tỷ). VN-Index tăng 29 điểm lên 1.743,07 điểm, thanh khoản vượt trung bình, cho thấy niềm tin nhà đầu tư phục hồi."
     },
     {
-      "title": "Doanh nghiệp đầu tàu tăng trưởng hàng chục %, phản ánh nền kinh tế khỏe",
+      "title": "22 doanh nghiệp đầu tàu doanh thu trên 1 tỷ USD tăng gấp bội",
       "impact": "↑",
-      "note": "22 doanh nghiệp phi tài chính trên sàn chứng khoán ghi nhận doanh thu trên 1 tỷ USD trong 9 tháng đầu năm, hầu hết tăng trưởng hàng chục % và thậm chí gấp nhiều lần cùng kỳ năm ngoái. Dữ liệu từ Vingroup, Petrolimex, Hoà Phát, Thế Giới Di Động phản ánh sức khoẻ từ năng lực sản xuất đến sức mua."
+      "note": "22 doanh nghiệp phi tài chính trên sàn CK có doanh thu trên 1 tỷ USD trong 9 tháng đầu năm, hầu hết tăng trưởng hàng chục phần trăm và thậm chí gấp nhiều lần cùng kỳ năm ngoái. Dữ liệu từ các doanh nghiệp lớn như Vingroup, Petrolimex, Hoà Phát phản ánh sức khoẻ nền kinh tế, hỗ trợ mục tiêu GDP 2 chữ số."
     },
     {
-      "title": "CPI Mỹ tháng 10 tăng nóng, Fed có khả năng 100% tăng lãi suất",
-      "impact": "↓",
-      "note": "Cục Thống kê Lao động Mỹ công bố 10/11 CPI tháng 10/2026 tăng 0,4% so với tháng trước (cao hơn dự báo 0,3%). Điều này khiến các nhà giao dịch đặt cược khả năng 100% Fed tăng lãi suất tháng 12 (từ 84%), giá vàng giảm 2,6% xuống 4.033,5 USD/oz."
-    },
-    {
-      "title": "Sân bay Gia Bình 8 tỷ USD hoàn thành 2027, chuyển quốc tế từ Nội Bài",
-      "impact": "↑",
-      "note": "Cảng hàng không quốc tế Gia Bình dự kiến hoàn thành năm 2027, sau đó sẽ chuyển toàn bộ hoạt động khai thác quốc tế từ Nội Bài sang (năm 2029-2030). Nội Bài tiếp tục khai thác nội địa và một phần quốc tế, tạo động lực phát triển hạ tầng giao thông."
+      "title": "Anthropic huy động 64 tỷ USD, định giá 1,4 nghìn tỷ USD",
+      "impact": "→",
+      "note": "Anthropic dự kiến huy động 64 tỷ USD với mức giá cổ phiếu 70-78 USD, định giá mục tiêu 1,4 nghìn tỷ USD cao hơn vòng gọi vốn tư nhân tháng 5 (965 tỷ USD). Tuy nhiên thấp hơn kỳ vọng trước đó gần 2 nghìn tỷ USD, phản ánh lo ngại bong bóng AI toàn cầu trong bối cảnh cổ phiếu AI bị bán tháo."
     }
   ]
 }
