@@ -2,7 +2,7 @@
   "_opus": true,
   "date": "2026-11-11",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng ≥10% năm 2027, trong khi Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 6 tháng để giảm lãi suất và tăng thanh khoản hệ thống. Chính phủ trình Quốc hội luật quản lý thị trường giao dịch hàng hóa phái sinh (7.500 tỷ đồng/ngày). Tuy nhiên, giá dầu Brent giảm mạnh 20% và cổ phiếu bất động sản trải qua tháng khó khăn nhất 15 năm, đặt ra rủi ro ngắn hạn.",
+  "summary_vi": "Chính sách hỗ trợ tiếp tục mở rộng: Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027, Ngân hàng Nhà nước triển khai FX Swap 182 ngày (2 tỷ USD) giảm lãi suất, Chính phủ trình luật phái sinh (7.500 tỷ đồng/ngày). Ngành bất động sản suy yếu tháng khó khăn nhất 15 năm, giá dầu giảm 20% tạo áp lực doanh thu năng lượng nhưng hỗ trợ kiểm soát lạm phát.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên",
@@ -10,29 +10,29 @@
       "note": "Quốc hội thông qua Nghị quyết kế hoạch phát triển KT-XH 2027 với 467/469 đại biểu tán thành, đặt mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định macro, kiểm soát lạm phát, đẩy mạnh phân cấp phân quyền."
     },
     {
-      "title": "NHNN triển khai hoán đổi ngoại tệ 6 tháng, giảm lãi suất thanh khoản",
+      "title": "NHNN triển khai hoán đổi ngoại tệ 182 ngày 2 tỷ USD, tỷ giá 24.399-24.704 đồng",
       "impact": "↑",
-      "note": "NHNN thực hiện hoán đổi ngoại tệ tối đa 2 tỷ USD kỳ hạn 182 ngày (đáo hạn 5/2027). Sau công bố, lãi suất hoán đổi 6 tháng giảm về mức cơ quan điều hành chào giao dịch, hỗ trợ giảm mặt bằng lãi suất cho vay."
+      "note": "NHNN triển khai hoán đổi ngoại tệ tối đa 2 tỷ USD kỳ hạn 182 ngày (đáo hạn 5/2027), tỷ giá mua 24.399 đồng/USD, bán lại 24.704 đồng/USD. Giải quyết thanh khoản quý IV, giảm mặt bằng lãi suất liên ngân hàng và cho vay. Lãi suất hoán đổi 6 tháng đã giảm về mức cơ quan điều hành chào giao dịch ngay sau công bố."
     },
     {
-      "title": "Chính phủ trình luật riêng quản lý thị trường giao dịch phái sinh 7.500 tỷ đồng/ngày",
+      "title": "Chính phủ trình luật quản lý phái sinh, thị trường 7.500 tỷ đồng/ngày",
       "impact": "↑",
-      "note": "Chính phủ trình Quốc hội dự án Luật Giao dịch hàng hóa phái sinh, hoàn thiện khung pháp lý cho thị trường với giá trị giao dịch danh nghĩa bình quân 7.500 tỷ đồng/ngày, khối lượng giao dịch tăng từ 58,9 nghìn hợp đồng (2019) lên 1,54 triệu hợp đồng (2025)."
+      "note": "Chính phủ trình Quốc hội dự án Luật Giao dịch hàng hóa phái sinh. Thị trường phái sinh VN: giao dịch 7.500 tỷ đồng/ngày bình quân, khối lượng tăng từ 58,9 nghìn hợp đồng (2019) lên 1,54 triệu hợp đồng (2025), 38 mặt hàng với hơn 40 loại hợp đồng. 16 ngân hàng thương mại được phép cung ứng phái sinh."
     },
     {
-      "title": "Giá dầu Brent lao dốc mạnh, giảm 20% trong tháng 11",
+      "title": "Giá dầu Brent giảm 22 USD/thùng (~20%), hiện 91 USD/thùng",
+      "impact": "→",
+      "note": "Giá dầu Brent giảm khoảng 22 USD/thùng so với cuối tháng 10 (giảm ~20%), từ ~113 USD xuống 91 USD/thùng. Nguyên nhân: thị trường dầu đạt cân bằng mới, sản lượng khai thác toàn cầu vượt mức tiêu thụ lần đầu kể từ xung đột Mỹ-Iran. Hỗ trợ kiểm soát lạm phát nhưng ảnh hưởng tiêu cực đến doanh thu ngành năng lượng."
+    },
+    {
+      "title": "Cổ phiếu bất động sản tháng khó khăn nhất 15 năm, 34 mã mất MA200",
       "impact": "↓",
-      "note": "Giá dầu Brent giảm khoảng 22 USD/thùng so với cuối tháng 10 (tương đương ~20%), hiện ở mức 91 USD/thùng. Nguyên nhân: thị trường dầu đạt cân bằng mới, cung toàn cầu bắt kịp nhu cầu, cộng với khả năng Mỹ-Iran đạt thỏa thuận."
+      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất 15 năm cho ngành bất động sản. Có khoảng thời điểm không cổ phiếu nào duy trì xu hướng tăng dài hạn. Tất cả 34 mã BĐS cùng vượt MA200 — hiện tượng hiếm gặp, lần cuối tương tự vào cuối năm 2011 khi số mã BĐS còn hơn 20 mã."
     },
     {
-      "title": "Cổ phiếu bất động sản trải qua tháng khó khăn nhất 15 năm",
-      "impact": "↓",
-      "note": "Tháng 10/2026 là giai đoạn khắc nghiệt nhất 15 năm cho cổ phiếu bất động sản, không cổ phiếu nào trong danh sách 34 mã duy trì xu hướng tăng dài hạn. Tất cả 34 mã BĐS cùng vượt qua MA200 — diễn biến hiếm gặp, lần cuối vào 2011."
-    },
-    {
-      "title": "Công ty Vinacomin (TMB) tăng vốn gấp 1,83 lần, chia cổ tức 241,4188%",
+      "title": "Vinacomin TMB tăng vốn gấp 1,83 lần, chia cổ tức 24,141.88 đồng/cp",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc (TMB) dự kiến thưởng 27,45 triệu cổ phiếu, tăng vốn từ 150 tỷ lên 424,5 tỷ đồng, đồng thời chia cổ tức tiền mặt 241,4188% (tức 24,141.88 đồng/cổ phiếu từ lãi lũy kế, thực hiện Q4/2026-Q1/2027)."
+      "note": "CTCP Kinh doanh Than Miền Bắc (HNX: TMB) phát hành 27,45 triệu cổ phiếu thưởng, tăng vốn từ 150 tỷ lên 424,5 tỷ đồng. Chia cổ tức tiền mặt 241,4188% (24,141.88 đồng/cổ phiếu từ lãi lũy kế hơn 362 tỷ đồng), thực hiện Q4/2026-Q1/2027."
     }
   ]
 }
