@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-12",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội xác định mục tiêu tăng trưởng 2027 từ 10%, Bắc Ninh dẫn đầu xuất khẩu 100+ tỷ USD trong 10 tháng, TTCK Mỹ phục hồi với Nasdaq +1,6%. Lạm phát Mỹ cao hơn dự báo tạo áp lực lên giá vàng và rủi ro Fed tăng lãi suất 0,5%. NHNN hỗ trợ thanh khoản qua hoán đổi ngoại tệ 2 tỷ USD, TMB chia cổ tức khủng 241% giúp các cổ phiếu nội dung tăng trần.",
+  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng GDP ≥10% năm 2027 và Bắc Ninh lần đầu đạt 100+ tỷ USD xuất khẩu, khẳng định động lực tích cực cho TTCK. Tuy nhiên, Fed dự kiến tăng lãi suất 100% trong tháng 12 khiến USD tăng cao nhất 19 tháng, tạo áp lực lên emerging markets. NHNN bổ sung thanh khoản 2 tỷ USD và giảm mặt bằng lãi suất để hỗ trợ. Các cổ phiếu ngành năng lượng và bất động sản ghi nhận định giá thấp hiếm có trong nhiều năm, mở cơ hội mua vào.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 2027 từ 10%",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng GDP 2027 từ 10%",
       "impact": "↑",
-      "note": "Ngày 7/11, Quốc hội thông qua Nghị quyết 467/469 phiếu tán thành, đặt mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, ổn định vĩ mô, kiểm soát lạm phát. Tạo khuôn khổ chiến lược cho phát triển bền vững, giữ cân đối lớn trong nền kinh tế."
+      "note": "Quốc hội 7/11 thông qua Nghị quyết (467/469 phiếu) xác định năm 2027 là năm tăng tốc, bứt phá với mục tiêu tăng trưởng kinh tế từ 10% trở lên, kết hợp ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn. Tín hiệu chính sách rõ ràng hỗ trợ kỳ vọng tích cực cho TTCK."
     },
     {
-      "title": "Bắc Ninh xuất khẩu 101,75 tỷ USD, tổng 205 tỷ trong 10 tháng",
+      "title": "Bắc Ninh xuất khẩu 101,75 tỷ USD, tổng 205 tỷ USD trong 10 tháng",
       "impact": "↑",
-      "note": "10 tháng 2026, Bắc Ninh xuất khẩu 101,75 tỷ USD, nhập khẩu 103,32 tỷ USD, tổng 205,07 tỷ USD. Tháng 10 xuất siêu 634,27 triệu USD. Vượt TP HCM 17,29 tỷ USD xuất khẩu và 11,36 tỷ USD nhập khẩu, khẳng định Bắc Ninh là trung tâm sản xuất công nghiệp hàng đầu."
+      "note": "Lũy kế 10 tháng 2026, Bắc Ninh xuất khẩu 101,75 tỷ USD, nhập khẩu 103,32 tỷ USD, tổng kim ngạch 205,07 tỷ USD. Tháng 10 xuất siêu 634,27 triệu USD. Vượt TP HCM 17,29 tỷ USD xuất khẩu và 11,36 tỷ USD nhập khẩu, là địa phương đầu tiên cán mốc 100 tỷ USD xuất khẩu."
     },
     {
-      "title": "Chứng khoán Mỹ tăng: Nasdaq +1,6%, S&P 500 +1,31%",
+      "title": "NHNN hoán đổi ngoại tệ 2 tỷ USD, giảm áp lực thanh khoản cuối năm",
       "impact": "↑",
-      "note": "11/11, Nasdaq tăng 1,6% lên 25.466,19 điểm, S&P 500 tăng 1,31% lên 7.619,38 điểm, Dow Jones tăng 0,49% lên 52.486,49 điểm. CoreWeave tăng gần 25%, Nvidia tăng 2,9%. Anthropic chào bán 825 triệu cổ phiếu IPO, định giá 1,4 nghìn tỷ USD."
+      "note": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD kỳ hạn 182 ngày (mua USD 24,399 đ/USD, bán lại 24,704 đ/USD từ 9/11, đáo hạn 5/2027). Lãi suất hoán đổi 6 tháng giảm ngay sau công bố, bổ sung thanh khoản đồng kỳ hạn dài và tạo điều kiện giảm mặt bằng lãi suất cho vay."
     },
     {
-      "title": "Giá vàng thế giới trượt 3.989,1 USD/oz, lo Fed tăng lãi suất",
+      "title": "Fed dự kiến tăng lãi suất 100%, USD cao nhất 19 tháng",
       "impact": "↓",
-      "note": "11/11, giá vàng giao ngay 3.989,1 USD/oz, giảm 44,4 USD/oz (giảm 1,1%). Nguyên nhân: CPI tháng 10 Mỹ tăng 0,4%, cao hơn kỳ vọng 0,1%, tạo kỳ vọng Fed tăng lãi suất 0,5% trong tháng 12 thay vì 0,25%, áp lực tài sản không sinh lợi."
+      "note": "CME FedWatch Tool cho thấy thị trường đặt cược 100% Fed tăng lãi suất cuộc họp 8-9/12, xác suất tăng 0,5% gần 11%. USD tăng 0,69% so với yên Nhật lên 159,84 yên/USD (cao nhất 19 tháng), euro giảm 0,65% xuống 1,11 USD. CPI tháng 10 Mỹ tăng 0,4% cao hơn kỳ vọng 0,1%, tháng thứ ba liên tiếp vượt dự báo."
     },
     {
-      "title": "TMB chia cổ tức khủng 241%, tăng vốn gấp 1,83 lần",
+      "title": "Vinacomin chia cổ tức khủng 241%, tăng vốn gấp 1,83 lần",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc dự kiến chia cổ tức tiền mặt 241,4188% (24.141,88 đồng/cp) từ lãi lũy kế hơn 362 tỷ đồng, thưởng 27,45 triệu cp, tăng vốn từ 150 tỷ lên 424,5 tỷ đồng. Thực hiện Q4/2026 - Q1/2027, cổ phiếu liên tục tăng trần."
+      "note": "Vinacomin (TMB) dự kiến chia cổ tức tiền mặt 241,4188% (24.141,88 đ/cp) từ lãi lũy kế 362 tỷ đ, thưởng 27,45 triệu cp tăng vốn từ 150 tỷ đ lên 424,5 tỷ đ (gấp 1,83 lần), thực hiện Q4/2026 - Q1/2027. Cổ phiếu tăng trần 5 phiên liền."
     },
     {
-      "title": "NHNN hoán đổi ngoại tệ 2 tỷ USD, giảm áp lực thanh khoản",
+      "title": "HPG định giá P/B 1,16 lần, thấp nhất kể từ 2009",
       "impact": "↑",
-      "note": "NHNN triển khai hoán đổi ngoại tệ 2 tỷ USD, kỳ hạn 182 ngày (tỷ giá 24.399 → 24.704 đồng/USD từ 9/11), đáo hạn 5/2027. Lãi suất hoán đổi 6 tháng giảm ngay, hỗ trợ ổn định thị trường và giảm mặt bằng lãi suất cho vay cuối năm."
+      "note": "Hòa Phát (HPG) giao dịch P/B 1,16 lần (thấp nhất kể từ 2009) khi doanh thu 2026 dự báo tăng 48,3%, EPS tăng 55,5%, ROE 19,1%. P/E dự phóng 6,3 lần (2026) và 5,5 lần (2027), tạo cơ hội đầu tư lâu dài cho cổ phiếu \"quốc dân\" bất chấp thị trường biến động."
     }
   ]
 }
