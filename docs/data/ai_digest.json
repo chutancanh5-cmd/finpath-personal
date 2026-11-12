@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-12",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán ghi nhận áp lực bán mạnh ngày 12/11 với 110 mã giảm quá 1% trên HoSE, khối ngoại bán ròng 650 tỷ đồng; bất động sản suy yếu tiếp tục khi Taseco Land cắt giảm 30% chỉ tiêu doanh thu năm 2026. Tuy nhiên, nền tảng vĩ mô cho năm 2027 khá tích cực: Quốc hội thông qua mục tiêu tăng trưởng 10% trở lên, Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công đóng góp 1.7% tăng trưởng, và Bắc Ninh trở thành tỉnh đầu tiên cán mốc 100 tỷ USD xuất khẩu. Rủi ro gần hạn bao gồm áp lực trái phiếu doanh nghiệp với lãi suất 12.5% và áp lực đáo hạn gần 45.000 tỷ đồng cuối năm.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán hôm nay chứng kiến áp lực bán rộng với VN-Index giảm, đặc biệt khối ngoại bán ròng mạnh tại các cổ phiếu lớn. Đồng thời, áp lực trên thị trường trái phiếu doanh nghiệp tăng với lãi suất lên tới 12,5%/năm, phản ánh tình trạng căng thẳng về thanh khoản. Bất động sản tiếp tục suy yếu khi Taseco Land giảm 30% chỉ tiêu doanh thu. Tuy nhiên, các tín hiệu vĩ mô dài hạn vẫn tích cực với cam kết tăng trưởng 9,5-9,7% năm 2026 và mục tiêu 10% năm 2027, cùng với kết quả xuất khẩu mạnh của Bắc Ninh đạt 100 tỷ USD.",
   "top": [
     {
-      "title": "Quốc hội đặt mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên",
-      "impact": "↑",
-      "note": "Nghị quyết được thông qua với 467/469 đại biểu tán thành ngày 7/11. Mục tiêu 10%+ dành cho năm 2027, nhấn mạnh giữ ổn định kinh tế vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn, đồng thời tập trung phân cấp, phân quyền gắn với phân bổ nguồn lực."
-    },
-    {
-      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công, đóng góp 1.7% tăng trưởng",
-      "impact": "↑",
-      "note": "Ngày 12/11, tại phiên chất vấn Quốc hội, Phó Thủ tướng Nguyễn Văn Thắng nhấn mạnh vai trò huy động vốn theo phương thức PPP, đặc biệt trong lĩnh vực kết cấu hạ tầng giao thông, với cam kết giải ngân 100% vốn đầu tư công có thể đóng góp thêm 1.7% tăng trưởng kinh tế năm 2026."
-    },
-    {
-      "title": "Bắc Ninh cán mốc 100 tỷ USD xuất khẩu, dẫn đầu cả nước",
-      "impact": "↑",
-      "note": "Trong 10 tháng năm 2026, Bắc Ninh ghi nhận kim ngạch xuất khẩu 101.75 tỷ USD, nhập khẩu 103.32 tỷ USD, tổng cộng 205.07 tỷ USD. Lũy kế quý I-III, chỉ duy nhất Bắc Ninh cán mốc 100 tỷ USD xuất khẩu, vượt TP.HCM khoảng 17.29 tỷ USD, khẳng định vị thế trong chuỗi sản xuất quốc tế."
-    },
-    {
-      "title": "Thị trường bất động sản suy yếu, Taseco Land hạ 30% chỉ tiêu doanh thu",
+      "title": "Thị trường điều chỉnh diện rộng, áp lực bán mạnh",
       "impact": "↓",
-      "note": "Taseco Land công bố giảm 30% chỉ tiêu doanh thu hợp nhất và giảm 28% lợi nhuận sau thuế cho năm 2026 theo Quyết định ngày 10/11. Động thái phản ánh bối cảnh thị trường bất động sản suy yếu rõ rệt cả về thanh khoản lẫn giá, với tỷ lệ hấp thụ dự án thấp hơn năm trước."
+      "note": "VN-Index giảm 7,04 điểm về 1.739,86 điểm; 322 mã giảm giá so với 224 mã tăng; VN30 có 22 mã đỏ/4 mã xanh với 11 mã giảm quá 1%. Khối ngoại bán ròng hơn 650 tỷ đồng, tập trung 265 tỷ đồng bán mạnh FPT. Thanh khoản ảm đạm chỉ 6,1 ngàn tỷ đồng."
     },
     {
-      "title": "Áp lực bán tăng mạnh, VN-Index điều chỉnh diện rộng",
+      "title": "Trái phiếu doanh nghiệp căng thẳng, lãi suất lên 12,5%/năm",
       "impact": "↓",
-      "note": "Phiên 12/11, áp lực bán mạnh khiến 110 mã trên HoSE giảm quá 1% (sáng chỉ có 67 mã), VN30 chỉ còn 4 mã xanh và 22 mã đỏ. Khối ngoại bán ròng 650 tỷ đồng, tập trung tại FPT với 265 tỷ đồng. Thanh khoản HoSE phiên chiều tăng 46% so với sáng, chứng tỏ áp lực bán đã mạnh lên đáng kể."
+      "note": "Tháng 10 ghi nhận 24 đợt phát hành trái phiếu doanh nghiệp, giá trị 20.131 tỷ đồng. Các doanh nghiệp bất động sản chào mức lãi suất lên tới 12,5%/năm. Áp lực trái phiếu đáo hạn trong hai tháng cuối năm ước gần 45.000 tỷ đồng, phản ánh tình trạng căng thẳng về thanh khoản trong hệ thống tài chính."
     },
     {
-      "title": "Lãi suất trái phiếu doanh nghiệp tăng cao, áp lực đáo hạn 45.000 tỷ cuối năm",
+      "title": "Taseco Land hạ 30% chỉ tiêu doanh thu, bất động sản suy yếu",
       "impact": "↓",
-      "note": "Tháng 10/2026, 24 đợt phát hành trái phiếu doanh nghiệp với tổng giá trị 20.131 tỷ đồng, trong đó doanh nghiệp bất động sản chào lãi suất tới 12.5%/năm. Áp lực trái phiếu đáo hạn trong hai tháng cuối năm ước tính gần 45.000 tỷ đồng, tạo áp lực lên thanh khoản hệ thống."
+      "note": "Taseco Land điều chỉnh giảm 30% chỉ tiêu doanh thu hợp nhất và giảm 28% chỉ tiêu lợi nhuận sau thuế năm 2026 (quyết định ngày 10/11). Động thái này phản ánh sự suy yếu rõ rệt của thị trường bất động sản về thanh khoản và giá. Cổ phiếu TAL đã mất hơn 34% giá trị xuống 23.950 đồng/cp."
+    },
+    {
+      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công",
+      "impact": "↑",
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng phát biểu tại phiên chất vấn Quốc hội ngày 12/11 cam kết phấn đấu giải ngân 100% vốn đầu tư công, dự kiến đóng góp thêm 1,7% tăng trưởng kinh tế. Nhấn mạnh vai trò PPP (đối tác công tư) để thu hút doanh nghiệp tham gia dự án kết cấu hạ tầng giao thông, thường với thời gian khai thác khoảng 20 năm."
+    },
+    {
+      "title": "Bắc Ninh đạt mốc 100 tỷ USD xuất khẩu, dẫn đầu cả nước",
+      "impact": "↑",
+      "note": "Bắc Ninh lũy kế 10 tháng năm 2026 xuất khẩu 101,75 tỷ USD (nhập khẩu 103,32 tỷ USD), tổng kim ngạch 205,07 tỷ USD, dẫn đầu các địa phương toàn quốc. Tháng 10 riêng xuất khẩu 13,45 tỷ USD, nhập khẩu 12,81 tỷ USD, xuất siêu 634,27 triệu USD. Vượt TP.HCM khoảng 17,29 tỷ USD xuất khẩu và 11,36 tỷ USD nhập khẩu."
+    },
+    {
+      "title": "Chuyên gia dự báo tăng trưởng 9,5-9,7% năm 2026, 10% năm 2027",
+      "impact": "↑",
+      "note": "TS. Cấn Văn Lực, Chuyên gia Kinh tế trưởng BIDV, nhận định Việt Nam bước vào chu kỳ tăng trưởng mới. Dự báo GDP 2026 có thể đạt 9,5-9,7% (sau mức 8% năm 2025). Quốc hội ngày 7/11 thông qua Nghị quyết đặt mục tiêu tăng trưởng kinh tế năm 2027 từ 10% trở lên (467/469 đại biểu tán thành), nhấn mạnh ổn định kinh tế vĩ mô và kiểm soát lạm phát."
     }
   ]
 }
