@@ -2,12 +2,12 @@
   "_opus": true,
   "date": "2026-11-12",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Kinh tế Việt Nam bước vào chu kỳ tăng trưởng mới với dự báo GDP 2026 tăng 9,5-9,7% và mục tiêu 10% năm 2027 (Quốc hội 467/469 phiếu tán thành), được hỗ trợ bởi xuất khẩu mạnh (Bắc Ninh vượt 100 tỷ USD dẫn đầu cả nước), lợi nhuận doanh nghiệp tăng 52% và ngân hàng tư nhân tăng trưởng tín dụng tốt (VPBank +30%, nợ xấu 2%). Tuy nhiên, thị trường đối mặt thách thức từ lãi suất trái phiếu doanh nghiệp cao (12,5%), áp lực đáo hạn 45.000 tỷ đồng, bất động sản suy yếu (Taseco Land hạ 30% kế hoạch, cổ phiếu BĐS giảm 34% năm), và áp lực từ Fed (lãi suất cao hơn lâu hơn). Nhà đầu tư nên kỳ vọng tăng trưởng nhưng chuẩn bị cho những rủi ro ngắn hạn.",
+  "summary_vi": "Kinh tế Việt Nam bước vào chu kỳ tăng trưởng mới với dự báo GDP 2026 tăng 9,5-9,7% và mục tiêu 10% năm 2027 (Quốc hội 467/469 phiếu tán thành), được hỗ trợ bởi xuất khẩu mạnh (Bắc Ninh vượt 100 tỷ USD dẫn đầu cả nước), lợi nhuận doanh nghiệp tăng 52% và ngân hàng tư nhân tăng trưởng tín dụng tốt (VPBank +30%, nợ xấu 2%). Tuy nhiên, thị trường đối mặt thách thức từ lãi suất trái phiếu doanh nghiệp cao (12,5%), áp lực đáo hạn 45.000 tỷ đồng, bất động sản suy yếu (Taseco Land hạ 30% kế hoạch), chứng khoán rung lắc với khối ngoại bán ròng 650 tỷ đồng, và áp lực từ Fed (lãi suất cao hơn lâu hơn, CPI Mỹ nóng). Nhà đầu tư kỳ vọng tăng trưởng nhưng cần chuẩn bị cho những rủi ro ngắn hạn.",
   "top": [
     {
       "title": "GDP 2026 dự báo 9,5-9,7%, chu kỳ tăng trưởng mới",
       "impact": "↑",
-      "note": "TS. Cấn Văn Lực, Chuyên gia Kinh tế BIDV, dự báo GDP năm 2026 tăng 9,5-9,7% do những tín hiệu tích cực từ cung, cầu và các động lực tăng trưởng mới (11/11 Diễn đàn Đầu tư Việt Nam), tuy nhiên vẫn đối mặt thách thức từ lạm phát, thanh khoản hệ thống tài chính, rủi ro bất động sản."
+      "note": "TS. Cấn Văn Lực, Chuyên gia Kinh tế BIDV, dự báo GDP năm 2026 tăng 9,5-9,7% do những tín hiệu tích cực từ cung, cầu và các động lực tăng trưởng mới (Diễn đàn Đầu tư Việt Nam 12/11), tuy nhiên vẫn đối mặt thách thức từ lạm phát, thanh khoản hệ thống tài chính, rủi ro bất động sản."
     },
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
@@ -20,14 +20,14 @@
       "note": "Bắc Ninh lũy kế 10 tháng năm 2026 xuất khẩu 101,75 tỷ USD, nhập khẩu 103,32 tỷ USD, tổng 205,07 tỷ USD dẫn đầu các địa phương, vượt TP.HCM 17,29 tỷ USD xuất khẩu, tháng 10 xuất siêu 634,27 triệu USD."
     },
     {
-      "title": "VPBank tăng tín dụng 30%, nợ xấu kiểm soát 2%",
-      "impact": "↑",
-      "note": "9 tháng năm 2026, VPBank tín dụng riêng lẻ tăng gần 30%, huy động tăng nhanh hơn cho vay, tỷ lệ nợ xấu theo Thông tư 31 duy trì quanh 2% nhờ chiến lược tăng trưởng có trọng tâm, kỷ luật thẩm định, ứng dụng AI quản trị rủi ro."
-    },
-    {
       "title": "Trái phiếu doanh nghiệp: lãi suất 12,5%, áp lực 45.000 tỷ",
       "impact": "↓",
       "note": "Tháng 10/2026, phát hành trái phiếu doanh nghiệp 20.131 tỷ đồng (24 đợt), một số doanh nghiệp bất động sản chào lãi suất tới 12,5%/năm, áp lực trái phiếu đáo hạn trong 2 tháng cuối năm ước gần 45.000 tỷ đồng, phản ánh áp lực tài chính."
+    },
+    {
+      "title": "Chứng khoán rung lắc, khối ngoại bán ròng 650 tỷ đồng",
+      "impact": "↓",
+      "note": "Phiên 12/11, VN-Index giảm 7,04 điểm về 1.739,86 điểm; khối ngoại bán ròng 650 tỷ đồng, tập trung tại FPT (265 tỷ đồng); giá trị giao dịch toàn thị trường chỉ ~6.100 tỷ đồng, biên độ rung lắc tăng, có lúc chỉ số lùi về 1.734 điểm."
     },
     {
       "title": "Bất động sản suy yếu, Taseco Land hạ chỉ tiêu 30%",
