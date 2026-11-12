@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chứng kiến thanh khoản suy yếu kỷ lục (HoSE 4.291 tỷ đồng - thấp nhất 7 tuần) và khối ngoại rút ròng 22,6 tỷ USD từ đầu tháng 11 khi lo ngại chi phí AI toàn cầu. Ngành chứng khoán đặc biệt gặp khó với 86% mã giảm giá (trung bình -18,26%), bất động sản cũng suy yếu mạnh. Tuy nhiên, Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027 và Bắc Ninh đạt 200+ tỷ USD kim ngạch xuất nhập khẩu mang tín hiệu tích cực từ vĩ mô.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chịu áp lực mạnh từ thanh khoản sụt giảm (4.291 tỷ đồng, thấp nhất 7 tuần), khối ngoại bán ròng 370 tỷ đồng (đặc biệt FPT 150 tỷ đồng), và VN-Index rơi mạnh xuống 1.735 điểm trước lực bán từ lo ngại AI toàn cầu. Khối ngoại đã rút ròng 49.77 tỷ USD khỏi châu Á do lo ngại các tập đoàn công nghệ \"đốt\" quá nhiều tiền. Tuy vậy, số liệu vĩ mô vẫn có tín hiệu tích cực với Bắc Ninh cán 100 tỷ USD xuất khẩu, Quốc hội giao mục tiêu GDP 2027 từ 10% trở lên, nhưng chưa đủ bù đắp cảm giác bất ổn ngắn hạn.",
   "top": [
     {
-      "title": "Thanh khoản \"dò đáy\", khối ngoại tăng bán",
+      "title": "Thanh khoản 'dò đáy', khối ngoại tăng bán",
       "impact": "↓",
-      "note": "Thanh khoản khớp lệnh HoSE sụt 4.291 tỷ đồng (thấp nhất 7 tuần), VN30 chỉ 2.068 tỷ đồng, khối ngoại tăng bán; FPT giảm 1,96% đạt 400,5 tỷ đồng thanh khoản cao nhất thị trường, bốc hơi 26% từ tháng 9/2026, giảm gần 48% từ đầu năm do tái định giá công nghệ-AI toàn cầu."
+      "note": "Thanh khoản khớp lệnh HoSE sụt xuống 4.291 tỷ đồng (thấp nhất 7 tuần), khối ngoại bán ròng 370 tỷ đồng trong bối cảnh thị trường hoàn toàn thiếu động lực. VN30 chỉ ghi nhận 2.068 tỷ đồng khớp lệnh, lập kỷ lục thấp, cho thấy nhà đầu tư hờ hững cả chiều mua lẫn bán."
     },
     {
-      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027",
+      "title": "VN-Index rơi nhanh, FPT bán tháo do tái định giá AI",
+      "impact": "↓",
+      "note": "VN-Index rơi mạnh xuống 1.735 điểm sáng nay. Khối ngoại bán ròng 150 tỷ đồng FPT (giảm 1.57%), lấy đi 0.3 điểm chỉ số; FPT đã giảm 26% kể từ giữa tháng 9 và 48% tính từ đỉnh đầu năm do làn sóng tái định giá cổ phiếu công nghệ toàn cầu."
+    },
+    {
+      "title": "Mối lo AI khiến khối ngoại rút 49.77 tỷ USD khỏi châu Á",
+      "impact": "↓",
+      "note": "Khối ngoại đã rút ròng 49.77 tỷ USD khỏi nhóm thị trường châu Á (Hàn Quốc, Đài Loan, Ấn Độ, Indonesia, Thái Lan, Việt Nam, Philippines) trong tháng — mức cao nhất kể từ tháng 6, do lo ngại các tập đoàn công nghệ 'đốt' quá nhiều tiền mặt và quy định AI nghiêm ngặt hơn."
+    },
+    {
+      "title": "Bắc Ninh cán mốc 100 tỷ USD xuất khẩu",
       "impact": "↑",
-      "note": "Quốc hội thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027 với 467/469 phiếu tán thành, giao mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
+      "note": "Bắc Ninh đạt 101.75 tỷ USD xuất khẩu và 103.32 tỷ USD nhập khẩu trong 10 tháng năm 2026, tổng kim ngạch 205.07 tỷ USD, dẫn đầu cả nước, cao hơn TP Hồ Chí Minh 17.29 tỷ USD xuất khẩu và 11.36 tỷ USD nhập khẩu."
     },
     {
-      "title": "Khối ngoại rút vốn 22,6 tỷ USD từ đầu tháng 11",
-      "impact": "↓",
-      "note": "Khối ngoại rút ròng 49,77 tỷ USD khỏi nhóm thị trường châu Á (Hàn-Đài-Ấn-Indonesia-Thái-VN-Philippines) - cao nhất kể từ tháng 6; từ đầu tháng 11 rút ròng thêm 22,6 tỷ USD do lo ngại chi phí AI của các tập đoàn công nghệ và quy định AI nghiêm ngặt hơn."
-    },
-    {
-      "title": "86% cổ phiếu chứng khoán giảm giá từ đầu năm",
-      "impact": "↓",
-      "note": "30/35 mã cổ phiếu ngành chứng khoán giảm giá với mức giảm bình quân 18,26%; SSI -15%, MBS -16,54%, VCI -21%, VND -21%, VIX -26,51%, SHS -31%, FTS -32,63%, VDS -35%, DSC -34%."
-    },
-    {
-      "title": "Bắc Ninh cán mốc 200+ tỷ USD xuất nhập khẩu",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 10% GDP năm 2027",
       "impact": "↑",
-      "note": "Bắc Ninh xuất khẩu hơn 101,75 tỷ USD, nhập khẩu hơn 103,32 tỷ USD trong 10 tháng 2026 (tổng 205,07 tỷ USD), dẫn đầu cả nước, vượt TPHCM 17,29 tỷ USD, tháng 10 xuất siêu 634 triệu USD."
+      "note": "Quốc hội phê duyệt Nghị quyết ngày 7/11 với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế năm 2027 từ 10% trở lên, gắn với ổn định vĩ mô, kiểm soát lạm phát và bảo đảm các cân đối lớn."
     },
     {
-      "title": "Thị trường bất động sản suy yếu, Taseco hạ 30% chỉ tiêu",
-      "impact": "↓",
-      "note": "Taseco Land giảm 30% chỉ tiêu doanh thu hợp nhất, 28% chỉ tiêu lợi nhuận sau thuế năm 2026 do thị trường bất động sản suy yếu về thanh khoản và giá; TAL giảm 34% từ đầu năm xuống 23.950 đồng/cp."
+      "title": "TMB tăng vốn 1.83 lần, chia cổ tức 241%",
+      "impact": "↑",
+      "note": "Kinh doanh Than Miền Bắc - Vinacomin (HNX: TMB) dự kiến thưởng 27.45 triệu cổ phiếu để tăng vốn lên 424.5 tỷ đồng (gấp 1.83 lần), và chia cổ tức tiền mặt với tỷ lệ 241.42%, tương ứng 24.141,88 đồng/cp từ lãi lũy kế hơn 362 tỷ đồng."
     }
   ]
 }
