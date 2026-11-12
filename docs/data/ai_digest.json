@@ -2,17 +2,12 @@
   "_opus": true,
   "date": "2026-11-12",
   "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên, NHNN bắt đầu mua ngoại tệ và hoán đổi ngoại tệ 182 ngày để bơm thanh khoản VND và giảm mặt bằng lãi suất. Bắc Ninh dẫn đầu cả nước với xuất khẩu 101,75 tỷ USD trong 10 tháng, cán mốc 100 tỷ USD duy nhất lần đầu tiên. HPG có định giá thấp nhất 17 năm (P/B 1,16) dù doanh thu dự tăng 48,3%. Tuy nhiên, tự doanh bán ròng mạnh vào TCB và CTG, áp lực cần theo dõi.",
+  "summary_vi": "Quốc hội giao mục tiêu tăng trưởng 10%+ năm 2027 và NHNN triển khai các biện pháp hỗ trợ thanh khoản, tạo dư địa giảm lãi suất. Xuất khẩu Bắc Ninh vượt 100 tỷ USD cho thấy nền tảng kinh tế vĩ mô vững chắc. Tuy nhiên, lạm phát Mỹ cao hơn dự báo và khả năng Fed tăng lãi suất tiếp tục tạo áp lực trên tài sản rủi ro, trong khi dòng tiền tự doanh bán mạnh cổ phiếu ngân hàng.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng kinh tế 2027 từ 10% trở lên",
       "impact": "↑",
       "note": "Ngày 7/11, Quốc hội thông qua Nghị quyết phát triển kinh tế - xã hội 2027 với 467/469 đại biểu tán thành, nhấn mạnh tập trung phấn đấu tăng trưởng từ 10% trở lên gắn với ổn định kinh tế vĩ mô, kiểm soát lạm phát. Tín hiệu chính sách rõ ràng hỗ trợ doanh nghiệp sản xuất."
-    },
-    {
-      "title": "NHNN mua ngoại tệ giao ngay, hoán đổi ngoại tệ 1,8 tỷ USD",
-      "impact": "↑",
-      "note": "NHNN triển khai hoán đổi ngoại tệ quy mô 1,8 tỷ USD kỳ hạn 182 ngày (tỷ giá 24.399 → 24.704 đồng/USD từ 9/11) và mua USD giao ngay từ 11/11 ở 25.500 đồng/USD. Lãi suất hoán đổi 6 tháng giảm ngay sau công bố, tạo nguồn tiền dài hơi hỗ trợ giảm mặt bằng lãi suất cho vay."
     },
     {
       "title": "Bắc Ninh xuất khẩu 101,75 tỷ USD, dẫn đầu cả nước 10 tháng",
@@ -25,9 +20,14 @@
       "note": "Hòa Phát giao dịch P/B = 1,16 lần, thấp nhất kể từ 2009. VNDIRECT dự báo doanh thu 2026 tăng 48,3%, EPS tăng 55,5%, ROE dự kiến 19,1% năm nay và duy trì 18-19% đến 2028, cho thấy định giá hấp dẫn giữa triển vọng lợi nhuận khả quan."
     },
     {
-      "title": "TMB tăng vốn gấp 1,83 lần, chia cổ tức 241,4188%",
+      "title": "NHNN mua ngoại tệ giao ngay, hoán đổi ngoại tệ 1,8 tỷ USD",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc dự kiến phát hành 27,45 triệu cp thưởng nâng vốn từ 150 tỷ lên 424,5 tỷ đồng, chia cổ tức tiền mặt 241,4188% từ lợi nhuận lũy kế 362 tỷ đồng (mỗi cp nhận 24.141,88 đồng). Cổ phiếu liên tục tăng trần, quý 4/2026 – quý 1/2027 triển khai."
+      "note": "NHNN triển khai hoán đổi ngoại tệ quy mô 1,8 tỷ USD kỳ hạn 182 ngày (tỷ giá 24.399 → 24.704 đồng/USD từ 9/11) và mua USD giao ngay từ 11/11 ở 25.500 đồng/USD. Lãi suất hoán đổi 6 tháng giảm ngay sau công bố, tạo nguồn tiền dài hơi hỗ trợ giảm mặt bằng lãi suất cho vay."
+    },
+    {
+      "title": "Giá vàng thế giới giảm dưới 4.000 USD/oz do Fed tăng lãi suất",
+      "impact": "↓",
+      "note": "Giá vàng giao ngay New York còn 3.989,1 USD/oz, giảm 44,4 USD/oz (1,1%) do CPI Mỹ tháng 10 tăng 0,4% (cao hơn dự báo 0,1 điểm %), củng cố kỳ vọng Fed tăng lãi suất 0,5 điểm phần trăm trong tháng 12 thay vì 0,25 điểm phần trăm, tạo áp lực trên tài sản lưu trữ giá trị."
     },
     {
       "title": "Tự doanh bán ròng 557 tỷ đồng, 87% vào TCB và CTG",
