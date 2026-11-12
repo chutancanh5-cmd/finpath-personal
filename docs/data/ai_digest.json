@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực mạnh từ khối ngoại rút ròng 49,77 tỷ USD khỏi châu Á do lo ngại AI, trong bối cảnh 86% cổ phiếu chứng khoán đã mất giá từ đầu năm. Thị trường bất động sản tiếp tục yếu với Taseco Land hạ 30% chỉ tiêu năm 2026. Rủi ro ngắn hạn lớn nhưng Quốc hội vừa đặt mục tiêu tăng trưởng 2027 từ 10% trở lên, khi đó Bắc Ninh xuất khẩu 100+ tỷ USD cung cấp tín hiệu tích cực cho dài hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chứng kiến thanh khoản suy yếu kỷ lục (HoSE 4.291 tỷ đồng - thấp nhất 7 tuần) và khối ngoại rút ròng 22,6 tỷ USD từ đầu tháng 11 khi lo ngại chi phí AI toàn cầu. Ngành chứng khoán đặc biệt gặp khó với 86% mã giảm giá (trung bình -18,26%), bất động sản cũng suy yếu mạnh. Tuy nhiên, Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027 và Bắc Ninh đạt 200+ tỷ USD kim ngạch xuất nhập khẩu mang tín hiệu tích cực từ vĩ mô.",
   "top": [
     {
-      "title": "86% cổ phiếu chứng khoán giảm, mất 18,26% bình quân",
+      "title": "Thanh khoản \"dò đáy\", khối ngoại tăng bán",
       "impact": "↓",
-      "note": "Từ cuối 2025 đến 11/11/2026, trong 35 cổ phiếu ngành chứng khoán, 30 mã giảm giá (86%). Mức giảm bình quân 18,26%, 16 mã mất trên 20% giá trị. SSI -15,01%, MBS -16,54%, VCI -21,05%, VND -21,18%, VIX -26,51%, SHS -31,25%, FTS -32,63%, VDS -35,30%, DSC -34,48%."
+      "note": "Thanh khoản khớp lệnh HoSE sụt 4.291 tỷ đồng (thấp nhất 7 tuần), VN30 chỉ 2.068 tỷ đồng, khối ngoại tăng bán; FPT giảm 1,96% đạt 400,5 tỷ đồng thanh khoản cao nhất thị trường, bốc hơi 26% từ tháng 9/2026, giảm gần 48% từ đầu năm do tái định giá công nghệ-AI toàn cầu."
     },
     {
-      "title": "Khối ngoại rút ròng 49,77 tỷ USD khỏi châu Á do lo AI",
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 10%+ năm 2027",
+      "impact": "↑",
+      "note": "Quốc hội thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027 với 467/469 phiếu tán thành, giao mục tiêu tăng trưởng từ 10% trở lên gắn với ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
+    },
+    {
+      "title": "Khối ngoại rút vốn 22,6 tỷ USD từ đầu tháng 11",
       "impact": "↓",
-      "note": "LSEG: khối ngoại rút ròng 49,77 tỷ USD từ nhóm thị trường châu Á (VN, Hàn Quốc, Đài Loan, Ấn Độ, Indonesia, Thái Lan, Philippines) trong tháng 10 – mức rút ròng hàng tháng cao nhất kể từ tháng 6; từ đầu tháng 11 tiếp tục rút 22,6 tỷ USD, do lo quy định AI nghiêm ngặt hơn và tập đoàn công nghệ đốt tiền mặt."
+      "note": "Khối ngoại rút ròng 49,77 tỷ USD khỏi nhóm thị trường châu Á (Hàn-Đài-Ấn-Indonesia-Thái-VN-Philippines) - cao nhất kể từ tháng 6; từ đầu tháng 11 rút ròng thêm 22,6 tỷ USD do lo ngại chi phí AI của các tập đoàn công nghệ và quy định AI nghiêm ngặt hơn."
     },
     {
-      "title": "Thị trường BĐS suy yếu, Taseco Land hạ 30% chỉ tiêu",
+      "title": "86% cổ phiếu chứng khoán giảm giá từ đầu năm",
       "impact": "↓",
-      "note": "Taseco Land giảm 30% chỉ tiêu doanh thu hợp nhất và 28% lợi nhuận sau thuế năm 2026. Cổ phiếu TAL giảm 34% về 23,950 đồng. 9 tháng doanh thu 2,5 nghìn tỷ đồng (giảm 15% so cùng kỳ), phản ánh thị trường BĐS suy yếu cả thanh khoản lẫn giá."
+      "note": "30/35 mã cổ phiếu ngành chứng khoán giảm giá với mức giảm bình quân 18,26%; SSI -15%, MBS -16,54%, VCI -21%, VND -21%, VIX -26,51%, SHS -31%, FTS -32,63%, VDS -35%, DSC -34%."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Bắc Ninh cán mốc 200+ tỷ USD xuất nhập khẩu",
       "impact": "↑",
-      "note": "Quốc hội 467/469 đại biểu tán thành Nghị quyết phát triển kinh tế xã hội 2027, mục tiêu tăng trưởng kinh tế từ 10% trở lên gắn với giữ ổn định vĩ mô, kiểm soát lạm phát, bảo đảm cân đối lớn."
+      "note": "Bắc Ninh xuất khẩu hơn 101,75 tỷ USD, nhập khẩu hơn 103,32 tỷ USD trong 10 tháng 2026 (tổng 205,07 tỷ USD), dẫn đầu cả nước, vượt TPHCM 17,29 tỷ USD, tháng 10 xuất siêu 634 triệu USD."
     },
     {
-      "title": "Bắc Ninh cán mốc 100 tỷ USD xuất khẩu, dẫn đầu cả nước",
-      "impact": "↑",
-      "note": "Bắc Ninh xuất khẩu 101,75 tỷ USD (dẫn đầu, hơn TP HCM 17,29 tỷ USD), nhập khẩu 103,32 tỷ USD trong 10 tháng 2026, tổng kim ngạch 205,07 tỷ USD. Tháng 10 xuất siêu 634,27 triệu USD, khẳng định sức mạnh chuỗi sản xuất."
-    },
-    {
-      "title": "Than Miền Bắc tăng vốn 1,83 lần, chia cổ tức 241%",
-      "impact": "↑",
-      "note": "TMB dự kiến thưởng 27,45 triệu cổ phiếu tăng vốn từ 150 tỷ đồng lên 424,5 tỷ đồng. Chia cổ tức tiền mặt 241,4188% (24.141,88 đồng/cổ phiếu) từ lãi lũy kế 362 tỷ đồng, thực hiện quý 4/2026 đến quý 1/2027."
+      "title": "Thị trường bất động sản suy yếu, Taseco hạ 30% chỉ tiêu",
+      "impact": "↓",
+      "note": "Taseco Land giảm 30% chỉ tiêu doanh thu hợp nhất, 28% chỉ tiêu lợi nhuận sau thuế năm 2026 do thị trường bất động sản suy yếu về thanh khoản và giá; TAL giảm 34% từ đầu năm xuống 23.950 đồng/cp."
     }
   ]
 }
