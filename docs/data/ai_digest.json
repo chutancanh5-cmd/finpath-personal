@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay chịu áp lực mạnh từ thanh khoản sụt giảm (4.291 tỷ đồng, thấp nhất 7 tuần), khối ngoại bán ròng 370 tỷ đồng (đặc biệt FPT 150 tỷ đồng), và VN-Index rơi mạnh xuống 1.735 điểm trước lực bán từ lo ngại AI toàn cầu. Khối ngoại đã rút ròng 49.77 tỷ USD khỏi châu Á do lo ngại các tập đoàn công nghệ \"đốt\" quá nhiều tiền. Tuy vậy, số liệu vĩ mô vẫn có tín hiệu tích cực với Bắc Ninh cán 100 tỷ USD xuất khẩu, Quốc hội giao mục tiêu GDP 2027 từ 10% trở lên, nhưng chưa đủ bù đắp cảm giác bất ổn ngắn hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam ngày 12/11 tiếp tục chứng kiến áp lực bán mạnh từ khối ngoại do lo ngại về AI toàn cầu, khiến thanh khoản sụt xuống mức thấp nhất 7 tuần (4.291 tỷ đồng). Bất chấp VN-Index vẫn ở vùng cao 1.700 điểm, phần lớn cổ phiếu (86% ngành chứng khoán) đang trong xu hướng giảm. Bức tranh vĩ mô tiếp tục ảnh hưởng từ tình trạng suy yếu của thị trường bất động sản. Tuy nhiên, có tín hiệu tích cực từ VPBank với tín dụng tăng 30%, và chính sách hướng đến mục tiêu tăng trưởng 10% năm 2027 vẫn giữ cho thị trường không hoàn toàn mất lòng tin dài hạn.",
   "top": [
     {
-      "title": "Thanh khoản 'dò đáy', khối ngoại tăng bán",
+      "title": "Khối ngoại rút ròng 49,77 tỷ USD khỏi châu Á do lo ngại AI",
       "impact": "↓",
-      "note": "Thanh khoản khớp lệnh HoSE sụt xuống 4.291 tỷ đồng (thấp nhất 7 tuần), khối ngoại bán ròng 370 tỷ đồng trong bối cảnh thị trường hoàn toàn thiếu động lực. VN30 chỉ ghi nhận 2.068 tỷ đồng khớp lệnh, lập kỷ lục thấp, cho thấy nhà đầu tư hờ hững cả chiều mua lẫn bán."
+      "note": "Khối ngoại đã rút ròng 49,77 tỷ USD khỏi các thị trường châu Á (Hàn Quốc, Đài Loan, Ấn Độ, Indonesia, Thái Lan, Việt Nam, Philippines) trong tháng 10 — mức cao nhất kể từ tháng 6. Từ đầu tháng 11 tới nay, khối ngoại tiếp tục bán ròng thêm 22,6 tỷ USD cổ phiếu tại các thị trường châu Á."
     },
     {
-      "title": "VN-Index rơi nhanh, FPT bán tháo do tái định giá AI",
+      "title": "Thanh khoản thị trường sụt xuống thấp nhất 7 tuần",
       "impact": "↓",
-      "note": "VN-Index rơi mạnh xuống 1.735 điểm sáng nay. Khối ngoại bán ròng 150 tỷ đồng FPT (giảm 1.57%), lấy đi 0.3 điểm chỉ số; FPT đã giảm 26% kể từ giữa tháng 9 và 48% tính từ đỉnh đầu năm do làn sóng tái định giá cổ phiếu công nghệ toàn cầu."
+      "note": "Khớp lệnh sàn HoSE hôm 11/11 chỉ đạt 4.291 tỷ đồng, thấp nhất trong 7 tuần. FPT giảm 1,96% và đã giảm liên tục từ tháng 9/2026 tới nay, mất hơn 26% giá trị, gần 48% kể từ đỉnh đầu năm 2026."
     },
     {
-      "title": "Mối lo AI khiến khối ngoại rút 49.77 tỷ USD khỏi châu Á",
+      "title": "86% cổ phiếu chứng khoán giảm giá, VN-Index vẫn ở vùng cao",
       "impact": "↓",
-      "note": "Khối ngoại đã rút ròng 49.77 tỷ USD khỏi nhóm thị trường châu Á (Hàn Quốc, Đài Loan, Ấn Độ, Indonesia, Thái Lan, Việt Nam, Philippines) trong tháng — mức cao nhất kể từ tháng 6, do lo ngại các tập đoàn công nghệ 'đốt' quá nhiều tiền mặt và quy định AI nghiêm ngặt hơn."
+      "note": "Trong 35 cổ phiếu ngành chứng khoán, tới 30 mã giảm giá (86%), chỉ 4 mã tăng, 1 mã đứng giá. Mức giảm bình quân đạt 18,26%, trong đó SSI giảm 15,01%, MBS giảm 16,54%, VCI giảm 21,05%, VND giảm 21,18%, APG giảm sâu nhất danh sách."
     },
     {
-      "title": "Bắc Ninh cán mốc 100 tỷ USD xuất khẩu",
-      "impact": "↑",
-      "note": "Bắc Ninh đạt 101.75 tỷ USD xuất khẩu và 103.32 tỷ USD nhập khẩu trong 10 tháng năm 2026, tổng kim ngạch 205.07 tỷ USD, dẫn đầu cả nước, cao hơn TP Hồ Chí Minh 17.29 tỷ USD xuất khẩu và 11.36 tỷ USD nhập khẩu."
+      "title": "Thị trường bất động sản suy yếu, Taseco Land hạ 30% chỉ tiêu",
+      "impact": "↓",
+      "note": "Taseco Land vừa công bố giảm 30% chỉ tiêu doanh thu hợp nhất và giảm 28% chỉ tiêu lợi nhuận sau thuế năm 2026 do thị trường bất động sản suy yếu. Cổ phiếu TAL đã rơi 34% về mức 23,950 đồng/cp."
     },
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10% GDP năm 2027",
+      "title": "VPBank tăng trưởng tín dụng 30% và kiểm soát nợ xấu ổn định",
       "impact": "↑",
-      "note": "Quốc hội phê duyệt Nghị quyết ngày 7/11 với 467/469 đại biểu tán thành, giao mục tiêu tăng trưởng kinh tế năm 2027 từ 10% trở lên, gắn với ổn định vĩ mô, kiểm soát lạm phát và bảo đảm các cân đối lớn."
+      "note": "VPBank ghi nhận tín dụng riêng lẻ tăng gần 30% trong 9 tháng năm 2026, huy động tăng nhanh hơn cho vay, và tỷ lệ nợ xấu theo Thông tư 31 duy trì quanh 2% nhờ chiến lược có trọng tâm, kỷ luật thẩm định, ứng dụng AI trong quản trị rủi ro."
     },
     {
-      "title": "TMB tăng vốn 1.83 lần, chia cổ tức 241%",
+      "title": "Quốc hội đề ra mục tiêu tăng trưởng kinh tế năm 2027 từ 10% trở lên",
       "impact": "↑",
-      "note": "Kinh doanh Than Miền Bắc - Vinacomin (HNX: TMB) dự kiến thưởng 27.45 triệu cổ phiếu để tăng vốn lên 424.5 tỷ đồng (gấp 1.83 lần), và chia cổ tức tiền mặt với tỷ lệ 241.42%, tương ứng 24.141,88 đồng/cp từ lãi lũy kế hơn 362 tỷ đồng."
+      "note": "Ngày 7/11/2026, Quốc hội thông qua Nghị quyết phát triển kinh tế - xã hội năm 2027 với 467/469 đại biểu tán thành, đề ra mục tiêu tăng trưởng từ 10% trở lên gắn với giữ vững ổn định kinh tế vĩ mô, kiểm soát lạm phát."
     }
   ]
 }
