@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-12",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường VN phân hóa: tín hiệu tích cực từ chính sách (mục tiêu GDP 2027 từ 10%, Quốc hội 467/469 phiếu tán thành), xuất khẩu Bắc Ninh cán 101,75 tỷ USD dẫn đầu toàn quốc, ngân hàng tư nhân tăng trưởng tín dụng tốt (VPBank +30% trong 9 tháng, nợ xấu ~2%), nhưng thách thức từ suy yếu bất động sản (Taseco hạ 30% kế hoạch doanh thu, BĐS suy yếu rõ) và rủi ro cổ phiếu quỹ (TIG giảm sàn 5 phiên, rớt 65% năm).",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Kinh tế Việt Nam bước vào chu kỳ tăng trưởng mới với dự báo GDP 2026 tăng 9,5-9,7% và mục tiêu 10% năm 2027 (Quốc hội 467/469 phiếu tán thành), được hỗ trợ bởi xuất khẩu mạnh (Bắc Ninh vượt 100 tỷ USD dẫn đầu cả nước), lợi nhuận doanh nghiệp tăng 52% và ngân hàng tư nhân tăng trưởng tín dụng tốt (VPBank +30%, nợ xấu 2%). Tuy nhiên, thị trường đối mặt thách thức từ lãi suất trái phiếu doanh nghiệp cao (12,5%), áp lực đáo hạn 45.000 tỷ đồng, bất động sản suy yếu (Taseco Land hạ 30% kế hoạch, cổ phiếu BĐS giảm 34% năm), và áp lực từ Fed (lãi suất cao hơn lâu hơn). Nhà đầu tư nên kỳ vọng tăng trưởng nhưng chuẩn bị cho những rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Quốc hội thông qua mục tiêu GDP 2027 từ 10% trở lên",
+      "title": "GDP 2026 dự báo 9,5-9,7%, chu kỳ tăng trưởng mới",
       "impact": "↑",
-      "note": "Ngày 7/11, Quốc hội 467/469 đại biểu tán thành thông qua Nghị quyết kế hoạch phát triển kinh tế - xã hội 2027, đặt mục tiêu tăng trưởng GDP từ 10% trở lên, năm 2027 xác định là năm 'tăng tốc, bứt phá' với ổn định vĩ mô, kiểm soát lạm phát và các cân đối lớn, tạo dấu hiệu chính sách tích cực cho thị trường."
+      "note": "TS. Cấn Văn Lực, Chuyên gia Kinh tế BIDV, dự báo GDP năm 2026 tăng 9,5-9,7% do những tín hiệu tích cực từ cung, cầu và các động lực tăng trưởng mới (11/11 Diễn đàn Đầu tư Việt Nam), tuy nhiên vẫn đối mặt thách thức từ lạm phát, thanh khoản hệ thống tài chính, rủi ro bất động sản."
     },
     {
-      "title": "Bắc Ninh cán mốc 100 tỷ USD xuất khẩu dẫn đầu toàn quốc",
+      "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Kim ngạch xuất khẩu Bắc Ninh đạt 101,75 tỷ USD, nhập khẩu 103,32 tỷ USD, tổng cộng 205,07 tỷ USD trong 10 tháng 2026, dẫn đầu cả nước, cao hơn TP Hồ Chí Minh 17,29 tỷ USD xuất khẩu; tháng 10 xuất siêu 634,27 triệu USD, khẳng định sản xuất công nghiệp và thu hút đầu tư tích cực."
+      "note": "Ngày 7/11, Quốc hội 467/469 phiếu tán thành thông qua Nghị quyết kế hoạch phát triển kinh tế-xã hội 2027, đặt mục tiêu tăng trưởng từ 10% trở lên, định hướng 2027 là năm 'tăng tốc, bứt phá' với ổn định vĩ mô, kiểm soát lạm phát."
     },
     {
-      "title": "VPBank tăng tín dụng 30%, kiểm soát nợ xấu quanh 2%",
+      "title": "Bắc Ninh xuất khẩu vượt 100 tỷ USD dẫn đầu cả nước",
       "impact": "↑",
-      "note": "VPBank ghi nhận tín dụng riêng lẻ tăng gần 30% trong 9 tháng 2026, huy động tăng nhanh hơn cho vay, tỷ lệ nợ xấu theo Thông tư 31 duy trì quanh 2% nhờ chiến lược có trọng tâm, kỷ luật thẩm định, ứng dụng AI quản trị rủi ro, ưu tiên phân khúc hộ kinh doanh."
+      "note": "Bắc Ninh lũy kế 10 tháng năm 2026 xuất khẩu 101,75 tỷ USD, nhập khẩu 103,32 tỷ USD, tổng 205,07 tỷ USD dẫn đầu các địa phương, vượt TP.HCM 17,29 tỷ USD xuất khẩu, tháng 10 xuất siêu 634,27 triệu USD."
     },
     {
-      "title": "TMB phát hành 27,45 triệu cổ phiếu tăng vốn 1,83 lần, chia cổ tức 241,4%",
+      "title": "VPBank tăng tín dụng 30%, nợ xấu kiểm soát 2%",
       "impact": "↑",
-      "note": "CTCP Kinh doanh Than Miền Bắc - Vinacomin thưởng 27,45 triệu cổ phiếu để tăng vốn từ 150 tỷ lên 424,5 tỷ đồng (thực hiện Q4 2026-Q1 2027), chia cổ tức tiền mặt 241,4188% từ lãi lũy kế 362 tỷ đồng, mỗi cổ phiếu nhận 24.141,88 đồng, TMB liên tục tăng trần."
+      "note": "9 tháng năm 2026, VPBank tín dụng riêng lẻ tăng gần 30%, huy động tăng nhanh hơn cho vay, tỷ lệ nợ xấu theo Thông tư 31 duy trì quanh 2% nhờ chiến lược tăng trưởng có trọng tâm, kỷ luật thẩm định, ứng dụng AI quản trị rủi ro."
     },
     {
-      "title": "Taseco Land hạ 30% doanh thu 2026, thị trường BĐS suy yếu rõ",
+      "title": "Trái phiếu doanh nghiệp: lãi suất 12,5%, áp lực 45.000 tỷ",
       "impact": "↓",
-      "note": "Taseco Land (HOSE: TAL) công bố giảm 30% chỉ tiêu doanh thu hợp nhất và 28% lợi nhuận sau thuế 2026 (quyết định HĐQT 10/11), doanh thu 9 tháng giảm 15% YoY còn 2.500 tỷ đồng, cổ phiếu TAL mất 34% giá năm, phản ánh suy yếu sâu rộng của ngành bất động sản, tỷ lệ hấp thụ dự án thấp."
+      "note": "Tháng 10/2026, phát hành trái phiếu doanh nghiệp 20.131 tỷ đồng (24 đợt), một số doanh nghiệp bất động sản chào lãi suất tới 12,5%/năm, áp lực trái phiếu đáo hạn trong 2 tháng cuối năm ước gần 45.000 tỷ đồng, phản ánh áp lực tài chính."
     },
     {
-      "title": "TIG giảm sàn 5 phiên liên tiếp, rớt 65% từ đầu năm xuống 3.000",
+      "title": "Bất động sản suy yếu, Taseco Land hạ chỉ tiêu 30%",
       "impact": "↓",
-      "note": "Cổ phiếu TIG (Tập đoàn Đầu tư Thăng Long) giảm sàn liên tiếp 5 phiên, từ 4.800 đồng (5/11) xuống 3.000 đồng (12/11), mất 37,5% chỉ trong 5 phiên, tổng năm giảm hơn 65% từ mức 8.500 đồng, vốn hóa chỉ còn 581 tỷ đồng, phản ánh rủi ro cao của cổ phiếu quỹ đầu tư."
+      "note": "Taseco Land (HOSE: TAL) giảm 30% chỉ tiêu doanh thu và 28% chỉ tiêu lợi nhuận năm 2026 (HĐQT 10/11) do thị trường bất động sản suy yếu, doanh thu 9 tháng giảm 15% YoY, cổ phiếu TAL mất 34% giá năm, phản ánh suy yếu sâu rộng ngành BĐS."
     }
   ]
 }
