@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-12",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam ghi nhận phiên giảm điểm khi VN-Index rơi 12 điểm xuống 1.735 điểm, khối ngoại bán ròng 900 tỷ đồng (FPT 450 tỷ), 30% cổ phiếu lao dốc trên 1%, phản ánh áp lực từ thị trường bất động sản yếu kèm nợ trái phiếu đáo hạn gần 45.000 tỷ đồng trong 2 tháng cuối năm. Bên cạnh đó, chính sách kinh tế mở rộng có những tín hiệu tích cực với Quốc hội đặt mục tiêu GDP 2027 tăng 10%+, Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công, và xuất khẩu được dẫn dắt bởi Bắc Ninh cán 100 tỷ USD. Ngắn hạn thị trường tiếp tục rung lắc, nhưng nền tảng kinh tế vẫn giữ tiềm năng bứt phá nếu kiểm soát được rủi ro bất động sản và lạm phát.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Hôm nay thị trường chứng khoán Việt Nam chịu áp lực mạnh từ thanh khoản suy yếu (VN30 5k tỷ, giảm 33%), khối ngoại bán ròng 900 tỷ đồng, áp lực bán diện rộng (110 cổ phiếu giảm quá 1%), và bất động sản tiếp tục suy yếu (Taseco Land hạ 30% chỉ tiêu). Dù Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10% mang đến kỳ vọng, nhưng áp lực tài chính từ lãi suất cao (trái phiếu lên 12,5%) và nợ đáo hạn 45.000 tỷ cuối năm vẫn là rủi ro ngắn hạn.",
   "top": [
     {
-      "title": "Quốc hội giao mục tiêu tăng trưởng 10%+ năm 2027",
-      "impact": "↑",
-      "note": "Quốc hội 7/11 thông qua Nghị quyết với 467/469 đại biểu tán thành, đặt mục tiêu GDP 2027 tăng từ 10% trở lên, xác định năm tới là 'năm tăng tốc, bứt phá'. Chính sách hỗ trợ tăng trưởng dài hạn cho thị trường chứng khoán."
-    },
-    {
-      "title": "Khối ngoại bán ròng 900 tỷ, FPT chịu áp lực 450 tỷ",
+      "title": "Thanh khoản yếu ảnh hưởng chỉ số VN30",
       "impact": "↓",
-      "note": "Phiên 12/11, khối ngoại bán ròng 900 tỷ đồng toàn thị trường, tập trung tại FPT (450 tỷ), KDH (107 tỷ), STB (99 tỷ), VN-Index giảm 12 điểm xuống 1.735 điểm, giá trị khớp lệnh 10.740 tỷ đồng. Bán áp lực mạnh từ vốn ngoài gây rung lắc thị trường."
+      "note": "VNI mất 0,7% (-12,15 điểm), VN30 thanh khoản chỉ 5k tỷ đồng giảm 33% so với tuần trước, tổng cầu giảm 12% so với tuần đầu tháng 11. Nhu cầu mua suy giảm khiến thị trường khó có sức hút cho nhà đầu tư."
     },
     {
-      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công",
-      "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng 12/11 phát biểu tại Quốc hội, cam kết giải ngân 100% vốn đầu tư công đóng góp thêm 1,7% tăng trưởng kinh tế, đẩy mạnh phương thức PPP. Hỗ trợ trực tiếp tăng cầu hạ tầng và kinh tế."
-    },
-    {
-      "title": "Taseco Land hạ 30% chỉ tiêu doanh thu, bất động sản suy yếu",
+      "title": "Khối ngoại bán ròng 900 tỷ, FPT bị xả 450 tỷ đồng",
       "impact": "↓",
-      "note": "Taseco Land 10/11 điều chỉnh giảm 30% doanh thu hợp nhất, 28% lợi nhuận năm 2026 do thị trường bất động sản suy yếu. Cổ phiếu TAL giảm 34% xuống 23.950 đồng/cp, phản ánh khó khăn ngành BĐS ảnh hưởng rộng đến TTCK."
+      "note": "Phiên 12/11, khối ngoại bán ròng 900 tỷ đồng toàn thị trường, FPT bị bán ròng mạnh nhất 450 tỷ đồng, VN-Index giảm 12 điểm xuống 1.735 điểm, giá trị khớp lệnh HoSE chỉ 10.740 tỷ đồng."
     },
     {
-      "title": "Trái phiếu doanh nghiệp lãi suất 12,5%, áp lực đáo hạn 45.000 tỷ",
+      "title": "Bất động sản suy yếu, Taseco Land hạ 30% chỉ tiêu doanh thu",
       "impact": "↓",
-      "note": "Tháng 10/2026 có 24 đợt phát hành trái phiếu 20.131 tỷ đồng, công ty bất động sản chào lãi suất 12,5%/năm. Áp lực đáo hạn trong 2 tháng cuối năm gần 45.000 tỷ đồng, áp lực tài chính cao hạn chế thanh khoản hệ thống."
+      "note": "Taseco Land hạ 30% chỉ tiêu doanh thu, giảm 28% lợi nhuận sau thuế do thị trường bất động sản suy yếu rõ rệt cả về thanh khoản lẫn giá, cổ phiếu TAL rớt 34% năm 2026."
     },
     {
-      "title": "Bắc Ninh cán mốc 100 tỷ USD xuất khẩu trong 10 tháng",
+      "title": "Áp lực bán tăng mạnh, 110 cổ phiếu giảm quá 1%",
+      "impact": "↓",
+      "note": "Phiên chiều 12/11, 110 cổ phiếu HoSE giảm quá 1% (buổi sáng 67 mã), VN30 có 22 mã đỏ với 11 mã giảm quá 1% (sáng chỉ FPT), các mã trụ BID -1,08%, VPB -1,79%, MBB -1,03%, HPG -1,41%, GAS -1,61%."
+    },
+    {
+      "title": "Quốc hội thông qua mục tiêu tăng trưởng 2027 từ 10%",
       "impact": "↑",
-      "note": "Bắc Ninh, tỉnh duy nhất cán 100 tỷ USD xuất khẩu (101,75 tỷ), tổng kim ngạch 2 chiều 205,07 tỷ USD, dẫn đầu cả nước, vượt TP.HCM 17,29 tỷ USD ở xuất khẩu. Tín hiệu tích cực về sản xuất công nghiệp và hội nhập chuỗi cung ứng toàn cầu."
+      "note": "Ngày 7/11, 467/469 đại biểu tán thành, Quốc hội giao mục tiêu tăng trưởng kinh tế từ 10% trở lên năm 2027, nhấn mạnh tăng tốc, bứt phá, đồng thời giữ vững ổn định kinh tế vĩ mô và kiểm soát lạm phát."
+    },
+    {
+      "title": "Trái phiếu doanh nghiệp lãi suất cao 12,5%, áp lực đáo hạn 45.000 tỷ",
+      "impact": "↓",
+      "note": "Tháng 10/2026 ghi nhận 24 đợt phát hành trái phiếu doanh nghiệp 20.131 tỷ đồng, một số DN bất động sản chào lãi suất lên tới 12,5%/năm, áp lực trái phiếu đáo hạn trong 2 tháng cuối năm ước gần 45.000 tỷ đồng."
     }
   ]
 }
