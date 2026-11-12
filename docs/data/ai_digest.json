@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-12",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán hôm nay giảm dưới áp lực ngoại tháo chạy mạnh và lo ngại về lãi suất cao, với gần 200 mã giảm giá. Mặc dù Thủ tướng đề ra mục tiêu tăng trưởng 10% năm 2027 và Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công, dư địa giảm lãi suất còn hạn chế do nhu cầu tín dụng cao, suy yếu bất động sản tạo rủi ro ngắn hạn.",
+  "summary_vi": "Chính phủ đặt mục tiêu tăng trưởng 10% năm 2027 nhưng phải huy động 6-6,4 triệu tỷ đồng (36-38% GDP), phản ánh nhu cầu vốn cao. Tuy nhiên, bất động sản suy yếu (Taseco Land hạ 30% chỉ tiêu), lãi suất vẫn căng (vốn đọng bất động sản 25% tổng dư nợ), và khối ngoại bán ròng mạnh 870 tỷ đồng là những dấu hiệu áp lực ngắn hạn. Chính phủ tập trung giải ngân vốn đầu tư công và phát triển hạ tầng, nhưng kỳ vọng tăng trưởng phụ thuộc vào khả năng huy động vốn lớn và ổn định lãi suất.",
   "top": [
     {
-      "title": "Khối ngoại bán ròng mạnh, gần 200 cổ phiếu giảm giá",
-      "impact": "↓",
-      "note": "VN-Index giảm 12.15 điểm (-0.7%) xuống 1.734,75 điểm, khối ngoại bán ròng ~450 tỷ đồng riêng với FPT. HoSE ghi nhận gần 200 mã giảm giá với áp lực bán tập trung nhóm vốn hóa lớn (VIC, FPT, VCB), ngân hàng (VPB, SHB, MBB, TCB) và chứng khoán."
-    },
-    {
-      "title": "Dư địa giảm lãi suất hạn chế, nhu cầu vốn cao",
-      "impact": "↓",
-      "note": "TS. Cấn Văn Lực (BIDV) nhận định dư địa giảm lãi suất không còn nhiều do nhu cầu tín dụng tăng lên 19%, thanh khoản chịu áp lực, biên lãi ròng hẹp. Mặc dù 28 ngân hàng đã nhập cuộc giảm lãi suất, lãi suất huy động vẫn cao và khó giảm mạnh thêm."
-    },
-    {
-      "title": "Thị trường bất động sản suy yếu, Taseco Land hạ kế hoạch 30%",
-      "impact": "↓",
-      "note": "Taseco Land giảm 30% chỉ tiêu doanh thu và 28% lợi nhuận năm 2026, cổ phiếu TAL rớt 34% còn 23.950 đồng/cp. Thị trường bất động sản suy yếu về thanh khoản, dư nợ cho vay BĐS chiếm 25% tổng dư nợ tín dụng gây áp lực thanh khoản ngân hàng."
-    },
-    {
-      "title": "Thủ tướng nêu mục tiêu tăng trưởng 10% năm 2027",
+      "title": "Mục tiêu tăng trưởng 10% năm 2027, cần huy động 6-6,4 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng báo cáo cần huy động 6-6.4 triệu tỷ đồng (36-38% GDP) cho mục tiêu tăng trưởng 10% năm 2027. Thu ngân sách 2026 đạt 2.44 triệu tỷ đồng, xuất nhập khẩu vượt 1.000 tỷ USD lần đầu, nền tảng vĩ mô ổn định."
+      "note": "Thủ tướng Lê Minh Hưng báo cáo: nhu cầu huy động vốn đầu tư là 6-6,4 triệu tỷ đồng (36-38% GDP) để đạt mục tiêu tăng trưởng từ 10% năm 2027. Thu ngân sách năm nay đạt 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD."
     },
     {
-      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công",
-      "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng phấn đấu giải ngân 100% vốn đầu tư công, đóng góp thêm 1.7% tăng trưởng kinh tế. Thúc đẩy hình thức PPP để huy động doanh nghiệp tham gia các dự án hạ tầng giao thông, dự án cảng Liên Chiểu được theo dõi chặt chẽ."
+      "title": "Khối ngoại bán ròng mạnh 870 tỷ đồng, FPT chiếm 450 tỷ",
+      "impact": "↓",
+      "note": "Phiên 12/11, khối ngoại bán ròng gần 870 tỷ đồng với FPT bị bán ròng 450 tỷ đồng, KDH và STB mỗi cái khoảng 100 tỷ. Tự doanh mua ròng gần 325 tỷ đồng (GMD 80 tỷ, VRE 50 tỷ) nhưng không đủ bù đắp áp lực bán nhà đầu tư nước ngoài."
     },
     {
-      "title": "PGBank hợp tác IFC, mở rộng tài trợ thương mại quốc tế",
+      "title": "Thị trường bất động sản suy yếu, Taseco Land hạ 30% chỉ tiêu doanh thu",
+      "impact": "↓",
+      "note": "CTCP Đầu tư Bất động sản Taseco công bố giảm 30% chỉ tiêu doanh thu hợp nhất và 28% chỉ tiêu lợi nhuận sau thuế năm 2026. Doanh thu 9 tháng đầu năm giảm 15% so với cùng kỳ, cổ phiếu TAL rớt 34% về 23,950 đồng/cp."
+    },
+    {
+      "title": "Lãi suất cao: dư địa giảm hạn chế, vốn đọng bất động sản 25% tổng dư nợ",
+      "impact": "↓",
+      "note": "TS. Cấn Văn Lực (BIDV) nhận định dư địa giảm lãi suất không còn nhiều khi nhu cầu vốn cao, thanh khoản chịu áp lực. 28 ngân hàng giảm lãi suất nhưng lãi suất huy động và cho vay vẫn ở mức cao. Dư nợ cho vay bất động sản chiếm 25% tổng dư nợ tín dụng gây áp lực thanh khoản ngân hàng."
+    },
+    {
+      "title": "Con gái Chủ tịch PNJ bị bán giải chấp 2.815.000 cổ phiếu lần thứ 4",
+      "impact": "↓",
+      "note": "Bà Trần Phương Ngọc Giao (con gái Chủ tịch PNJ) bị MBS bán giải chấp 2.815.000 cổ phiếu PNJ từ ngày 12/11. Tổng cộng bà Giao đã bị giải chấp hơn 7 triệu cổ phiếu (8/10: 2,94 triệu, 30/10: 1.837.800, 4/11: 2.318.000, 12/11: 2.815.000)."
+    },
+    {
+      "title": "PGBank hợp tác IFC, thiết lập hạn mức tài trợ thương mại quốc tế",
       "impact": "↑",
-      "note": "PGBank ký kết thỏa thuận với Tổ chức Tài chính Quốc tế (IFC, World Bank Group) tham gia Chương trình Tài trợ Thương mại Toàn cầu (GTFP), giúp doanh nghiệp xuất nhập khẩu tiếp cận tài chính và mở rộng khả năng cung cấp tài trợ thương mại."
+      "note": "PGBank và IFC (Tổ chức Tài chính Quốc tế, thành viên Nhóm Ngân hàng Thế giới) ký kết thỏa thuận Chương trình Tài trợ Thương mại Toàn cầu (GTFP). Chương trình giúp mở rộng khả năng tài trợ thương mại cho doanh nghiệp xuất nhập khẩu."
     }
   ]
 }
