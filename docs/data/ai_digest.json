@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-12",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán đối mặt áp lực bán mạnh với gần 200 cổ phiếu giảm giá, khối ngoại bán ròng 450 tỷ đồng FPT kèm theo. Thanh khoản rơi xuống 11,5 ngàn tỷ đồng/phiên, suy yếu 28% tuần trước, cản trở hồi phục thị trường. Lĩnh vực bất động sản tiếp tục suy yếu, Taseco Land hạ 30% chỉ tiêu doanh thu. Tuy chính phủ cam kết huy động 6-6,4 triệu tỷ đồng (36-38% GDP) và xuất nhập khẩu vượt 1.000 tỷ USD, nhưng áp lực ngắn hạn từ lãi suất cao (4,5%) và dư địa giảm hạn chế vẫn ảnh hưởng tâm lý nhà đầu tư.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Kinh tế hướng tới tăng trưởng 10% năm 2027 với chính sách hỗ trợ mạnh (huy động 6-6,4 triệu tỷ đồng, XNK vượt 1.000 tỷ USD, giải ngân 100% vốn đầu tư công), song ngắn hạn thị trường chứng khoán và bất động sản chịu áp lực: VN-Index giảm 0,7%, khối ngoại bán ròng 450 tỷ FPT, gần 200 mã giảm giá, thanh khoản VN30 chỉ 5k tỷ, lãi suất duy trì cao do nhu cầu vốn lớn và nợ tồn đọng gia tăng.",
   "top": [
     {
-      "title": "VN-Index giảm 12,15 điểm, gần 200 cổ phiếu giảm giá",
-      "impact": "↓",
-      "note": "VN-Index đóng cửa 1.734,75 điểm, giảm 0,7%. Áp lực bán lan rộng, VIC lấy đi 3,5 điểm, FPT và VCB mỗi mã 0,5 điểm. Nhóm ngân hàng (VPB, MBB, TCB, BID) cùng giảm. Khối ngoại bán ròng 450 tỷ đồng riêng FPT."
-    },
-    {
-      "title": "Thủ tướng: Cần huy động 6-6,4 triệu tỷ đồng cho tăng trưởng 10% năm 2027",
+      "title": "Mục tiêu tăng trưởng 10% năm 2027, XNK vượt 1.000 tỷ USD",
       "impact": "↑",
-      "note": "Thu ngân sách 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD. Chính phủ giảm 2% giá điện, 30% thuế thu nhập doanh nghiệp để hỗ trợ doanh nghiệp. Nêu rõ mục tiêu kiểm soát lạm phát, ổn định đồng tiền làm nền tảng tăng trưởng bền vững."
+      "note": "Thủ tướng báo cáo Quốc hội: Cần huy động 6–6,4 triệu tỷ đồng (36-38% GDP), thu ngân sách đạt 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD. Tạo cơ sở đẩy tăng trưởng cao, bền vững."
     },
     {
-      "title": "Thanh khoản trung bình tuần chỉ 11,5 ngàn tỷ đồng/phiên, giảm 28%",
-      "impact": "↓",
-      "note": "Thanh khoản sàn HoSE + HNX trung bình tuần 11,5 ngàn tỷ/phiên, tổng cầu giảm 12% so với tuần 1 tháng 11. VN30 thanh khoản chỉ 5 ngàn tỷ, giảm 33% tuần trước. Nhà đầu tư \"chán giao dịch\", nhu cầu mua suy giảm cản hồi phục giá."
-    },
-    {
-      "title": "Taseco Land hạ 30% doanh thu, thị trường bất động sản suy yếu",
-      "impact": "↓",
-      "note": "Taseco Land hạ 30% chỉ tiêu doanh thu và 28% lợi nhuận sau thuế 2026. Cổ phiếu TAL giảm 34% trong năm xuống 23.950 đồng/cp. Thị trường bất động sản suy yếu rõ rệt cả thanh khoản lẫn giá, tỷ lệ hấp thụ dự án mở bán thấp hơn."
-    },
-    {
-      "title": "Lãi suất điều hành 4,5%, dư địa giảm hạn chế",
-      "impact": "→",
-      "note": "TS. Cấn Văn Lực (BIDV) nhận định lãi suất điều hành chỉ còn 4,5% (gần mức dưới), dư địa giảm không nhiều. Nhu cầu vốn tăng cao (tăng trưởng tín dụng từ 15-16% lên 19%), biên lãi ròng ngân hàng thu hẹp, khó hạ lãi suất đại trà."
-    },
-    {
-      "title": "Siêu cảng Liên Chiểu (172 ha, hơn 2 tỷ USD) được tăng tốc triển khai",
+      "title": "Giải ngân 100% vốn đầu tư công năm 2026, đóng góp 1,7% tăng trưởng",
       "impact": "↑",
-      "note": "Thành phố Đà Nẵng thành lập tổ công tác theo dõi tiến độ Bến cảng container Liên Chiểu ngày 11/11. Dự án được định hướng phát triển thành cảng container hiện đại, trung tâm trung chuyển quốc tế miền Trung, hỗ trợ xuất nhập khẩu."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng: Phấn đấu giải ngân 100% vốn đầu tư công, tạo nguồn lực cho chu kỳ tăng trưởng mới, hỗ trợ huy động vốn theo PPP."
+    },
+    {
+      "title": "Khối ngoại bán ròng 450 tỷ FPT, VN-Index giảm 0,7%, gần 200 mã giảm",
+      "impact": "↓",
+      "note": "Áp lực bán lan rộng ở nhóm vốn hóa lớn, ngân hàng, bất động sản, chứng khoán. VN-Index đóng cửa 1.734,75 điểm, giảm 12,15 điểm (-0,7%). HoSE có 203 mã đỏ, 110 mã giảm quá 1%."
+    },
+    {
+      "title": "Thanh khoản suy yếu: VN30 chỉ 5k tỷ, giảm 33% so với tuần trước",
+      "impact": "↓",
+      "note": "Trung bình 4 phiên tuần này thanh khoản giảm 28% so với tuần trước. Tổng cầu giảm 12%. Thanh khoản thấp là dấu hiệu 'chán' giao dịch, cản trở phục hồi thị trường."
+    },
+    {
+      "title": "Lãi suất duy trì cao: dư địa giảm hạn chế, nhu cầu vốn lớn",
+      "impact": "↓",
+      "note": "TS. Cấn Văn Lực (BIDV): Dư địa giảm lãi suất không còn nhiều. Nhu cầu tín dụng gia tăng (19%), lạm phát áp lực, biên lãi ròng ngân hàng thu hẹp, nợ tồn đọng tăng."
+    },
+    {
+      "title": "Bất động sản suy yếu: Taseco Land hạ kế hoạch doanh thu 30%",
+      "impact": "↓",
+      "note": "Taseco Land giảm 30% doanh thu, 28% lợi nhuận năm 2026 do thị trường bất động sản suy yếu. Tỷ lệ hấp thụ dự án thấp, 25% dư nợ tín dụng mắc kẹt trong bất động sản."
     }
   ]
 }
