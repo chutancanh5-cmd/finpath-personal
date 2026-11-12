@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-12",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua mục tiêu tăng trưởng 10% năm 2027 tạo kỳ vọng lạc quan cho TTCK. Xuất khẩu Bắc Ninh cán mốc 205 tỷ USD (dẫn đầu toàn quốc) phản ánh nhu cầu toàn cầu vẫn tốt. Tuy nhiên, đồng USD lên cao nhất 19 tháng và Fed có khả năng 100% tăng lãi suất tháng 12 tạo áp lực từ thị trường quốc tế. Chứng khoán Mỹ hồi mạnh nhờ AI stocks, hỗ trợ tâm lý đầu tư. Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 2 tỷ USD để hỗ trợ thanh khoản mùa quyết toán.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027 và xuất khẩu Bắc Ninh cán mốc 205 tỷ USD tạo kỳ vọng tích cực. Tuy nhiên, đồng USD lập kỷ lục 19 tháng với Fed kỳ vọng tăng lãi suất 100% tháng 12 gây áp lực lên vốn ngoại và tỷ giá. Giá vàng nội địa đồng loạt giảm 1-2 triệu đồng/lượng phản ánh sức ép từ đô la mạnh. Chứng khoán Mỹ hồi phục tích cực nhờ AI stocks, nhưng TTCK VN vẫn cần theo dõi các diễn biến ngoài tệ và chính sách lãi suất Fed.",
   "top": [
     {
       "title": "Quốc hội giao mục tiêu tăng trưởng 10% năm 2027",
@@ -17,7 +17,12 @@
     {
       "title": "Đồng USD cao nhất 19 tháng, Fed kỳ vọng tăng lãi suất 100%",
       "impact": "↓",
-      "note": "Thị trường đặt cược khả năng 100% Fed tăng lãi suất trong cuộc họp 8-9/12, trong đó 11% xác suất tăng 0,5 điểm phần trăm. USD tăng 0,69% lên 159,84 yên/USD (cao nhất 2 tháng), lần thứ ba liên tiếp CPI Mỹ tăng mạnh hơn kỳ vọng, tạo áp lực vốn ngoại và tỷ giá cho TTCK VN."
+      "note": "Thị trường đặt cược khả năng 100% Fed tăng lãi suất trong cuộc họp 8-9/12, trong đó 11% xác suất tăng 0,5 điểm phần trăm. USD tăng 0,69% lên 159,84 yên/USD (cao nhất 2 tháng), tiến gần mốc tâm lý 160 yên/USD. Lần thứ ba liên tiếp CPI Mỹ tăng mạnh hơn kỳ vọng, tạo áp lực vốn ngoại và tỷ giá cho TTCK VN."
+    },
+    {
+      "title": "Giá vàng nội địa giảm mạnh 1-2 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Vàng miếng SJC, PNJ, DOJI giảm 1 triệu đồng/lượng xuống 136-139 triệu đồng/lượng. Vàng nhẫn trơn 9999 giảm 1-2 triệu đồng/lượng xuống 133,7-137,9 triệu đồng/lượng. Giá mua vàng nhẫn rơi xuống quanh 134 triệu đồng/lượng, phản ánh áp lực từ đô la mạnh lên cao nhất 19 tháng."
     },
     {
       "title": "TMB tăng vốn 1,83 lần, chia cổ tức 241%",
@@ -28,11 +33,6 @@
       "title": "Chứng khoán Mỹ phục hồi mạnh, Nasdaq +1,6% nhờ AI stocks",
       "impact": "↑",
       "note": "Nasdaq tăng 1,6% lên 25.466,19 điểm, S&P 500 tăng 1,31% lên 7.619,38 điểm. CoreWeave tăng 25% sau khi công bố doanh thu quý 3 vượt kỳ vọng, Nvidia tăng 2,9% sau sụt 10% hai phiên trước, phục hồi tâm lý đầu tư toàn cầu hỗ trợ TTCK mới nổi."
-    },
-    {
-      "title": "Ngân hàng Nhà nước triển khai hoán đổi ngoại tệ 2 tỷ USD",
-      "impact": "→",
-      "note": "Ngân hàng Nhà nước mở thêm kênh mua USD giao ngay và triển khai hoán đổi ngoại tệ tối đa 2 tỷ USD kỳ hạn 182 ngày (đáo hạn 5/2027) với tỷ giá 24.399 - 24.704 đ/USD, bổ sung vốn tiền đồng với chi phí giảm, lãi suất hoán đổi 6 tháng trên thị trường liên ngân hàng đã giảm."
     }
   ]
 }
