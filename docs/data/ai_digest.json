@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-12",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Chính phủ đặt mục tiêu tăng trưởng 10% năm 2027 nhưng phải huy động 6-6,4 triệu tỷ đồng (36-38% GDP), phản ánh nhu cầu vốn cao. Tuy nhiên, bất động sản suy yếu (Taseco Land hạ 30% chỉ tiêu), lãi suất vẫn căng (vốn đọng bất động sản 25% tổng dư nợ), và khối ngoại bán ròng mạnh 870 tỷ đồng là những dấu hiệu áp lực ngắn hạn. Chính phủ tập trung giải ngân vốn đầu tư công và phát triển hạ tầng, nhưng kỳ vọng tăng trưởng phụ thuộc vào khả năng huy động vốn lớn và ổn định lãi suất.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Chính phủ công bố mục tiêu huy động 6-6,4 triệu tỷ đồng (36-38% GDP) cho tăng trưởng 10% năm 2027 với các chính sách hỗ trợ (giảm lãi suất, giảm thuế). Tuy nhiên, thị trường bất động sản suy yếu rõ rệt (Taseco Land hạ 30% chỉ tiêu doanh thu), tỷ lệ tín dụng/GDP vượt 140% với 25% dư nợ đọng ở bất động sản, và khối ngoại bán ròng mạnh 870 tỷ đồng phản ánh áp lực ngắn hạn. VN-Index giảm 0,70% giữa sự giằng co giữa kỳ vọng vĩ mô và rủi ro cấu trúc.",
   "top": [
     {
-      "title": "Mục tiêu tăng trưởng 10% năm 2027, cần huy động 6-6,4 triệu tỷ đồng",
+      "title": "Thủ tướng: Cần huy động 6-6,4 triệu tỷ đồng cho tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng báo cáo: nhu cầu huy động vốn đầu tư là 6-6,4 triệu tỷ đồng (36-38% GDP) để đạt mục tiêu tăng trưởng từ 10% năm 2027. Thu ngân sách năm nay đạt 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD."
+      "note": "Thủ tướng Lê Minh Hưng báo cáo nhu cầu huy động vốn 6-6,4 triệu tỷ đồng (36-38% GDP); thực hiện giảm lãi suất, giảm 2% giá điện, giảm 30% thuế thu nhập; thu ngân sách 2,44 triệu tỷ đồng, xuất nhập khẩu vượt 1.000 tỷ USD."
     },
     {
-      "title": "Khối ngoại bán ròng mạnh 870 tỷ đồng, FPT chiếm 450 tỷ",
+      "title": "Ổn định lãi suất phải gắn với cơ cấu lại thị trường vốn",
       "impact": "↓",
-      "note": "Phiên 12/11, khối ngoại bán ròng gần 870 tỷ đồng với FPT bị bán ròng 450 tỷ đồng, KDH và STB mỗi cái khoảng 100 tỷ. Tự doanh mua ròng gần 325 tỷ đồng (GMD 80 tỷ, VRE 50 tỷ) nhưng không đủ bù đắp áp lực bán nhà đầu tư nước ngoài."
+      "note": "Tỷ lệ tín dụng/GDP vượt 140%; 25% dư nợ tín dụng đọng ở bất động sản; nợ xấu gia tăng do tốc độ thu hồi vốn chậm; chỉ giảm lãi suất không đủ, cần cơ cấu lại thị trường vốn và tăng vòng quay vốn."
     },
     {
-      "title": "Thị trường bất động sản suy yếu, Taseco Land hạ 30% chỉ tiêu doanh thu",
+      "title": "Thị trường bất động sản suy yếu, Taseco Land hạ 30% chỉ tiêu doanh thu năm 2026",
       "impact": "↓",
-      "note": "CTCP Đầu tư Bất động sản Taseco công bố giảm 30% chỉ tiêu doanh thu hợp nhất và 28% chỉ tiêu lợi nhuận sau thuế năm 2026. Doanh thu 9 tháng đầu năm giảm 15% so với cùng kỳ, cổ phiếu TAL rớt 34% về 23,950 đồng/cp."
-    },
-    {
-      "title": "Lãi suất cao: dư địa giảm hạn chế, vốn đọng bất động sản 25% tổng dư nợ",
-      "impact": "↓",
-      "note": "TS. Cấn Văn Lực (BIDV) nhận định dư địa giảm lãi suất không còn nhiều khi nhu cầu vốn cao, thanh khoản chịu áp lực. 28 ngân hàng giảm lãi suất nhưng lãi suất huy động và cho vay vẫn ở mức cao. Dư nợ cho vay bất động sản chiếm 25% tổng dư nợ tín dụng gây áp lực thanh khoản ngân hàng."
+      "note": "Taseco Land giảm 30% chỉ tiêu doanh thu hợp nhất và 28% lợi nhuận sau thuế; doanh thu 9 tháng giảm 15% so với cùng kỳ; cổ phiếu TAL giảm 34% trong năm, phản ánh suy yếu rõ rệt của thị trường bất động sản."
     },
     {
       "title": "Con gái Chủ tịch PNJ bị bán giải chấp 2.815.000 cổ phiếu lần thứ 4",
       "impact": "↓",
-      "note": "Bà Trần Phương Ngọc Giao (con gái Chủ tịch PNJ) bị MBS bán giải chấp 2.815.000 cổ phiếu PNJ từ ngày 12/11. Tổng cộng bà Giao đã bị giải chấp hơn 7 triệu cổ phiếu (8/10: 2,94 triệu, 30/10: 1.837.800, 4/11: 2.318.000, 12/11: 2.815.000)."
+      "note": "Bà Trần Phương Ngọc Giao bị MBS bán giải chấp 2.815.000 cổ phiếu PNJ từ 12/11; tổng hơn 7 triệu cổ phiếu bị margin call trong 4 lần (8/10: 2,94 triệu, 30/10: 1.838.000, 4/11: 2.318.000), tín hiệu rủi ro thanh khoản."
     },
     {
-      "title": "PGBank hợp tác IFC, thiết lập hạn mức tài trợ thương mại quốc tế",
+      "title": "Phó Thủ tướng: Giải ngân 100% vốn đầu tư công, đóng góp 1,7% tăng trưởng kinh tế",
       "impact": "↑",
-      "note": "PGBank và IFC (Tổ chức Tài chính Quốc tế, thành viên Nhóm Ngân hàng Thế giới) ký kết thỏa thuận Chương trình Tài trợ Thương mại Toàn cầu (GTFP). Chương trình giúp mở rộng khả năng tài trợ thương mại cho doanh nghiệp xuất nhập khẩu."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng phấn đấu giải ngân 100% vốn đầu tư công, dự kiến đóng góp 1,7% tăng trưởng kinh tế; phát triển PPP, sử dụng ODA để huy động nguồn lực cho hạ tầng."
+    },
+    {
+      "title": "Nhịp đập thị trường 12/11: VN-Index giảm 0,70%, khối ngoại bán ròng 870 tỷ đồng",
+      "impact": "↓",
+      "note": "VN-Index giảm 12,15 điểm (-0,70%) về 1.734,75 điểm; khối ngoại bán ròng 870 tỷ đồng (FPT 450 tỷ); tự doanh mua ròng 325 tỷ đồng (GMD 79 tỷ); thanh khoản HOSE 15,1 ngàn tỷ đồng."
     }
   ]
 }
