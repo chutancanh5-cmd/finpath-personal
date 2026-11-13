@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đứng trước yếu tố cân bằng: rủi ro từ cuộc đua cho vay margin nóng lên với áp lực bán chấp gia tăng, cú sốc lãnh đạo Nvidia làm gián đoạn sắc phục toàn cầu, định giá Vingroup ảnh hưởng lớn đến VN-Index; nhưng được hỗ trợ bởi cam kết chính sách tích cực (huy động 6-6,4 triệu tỷ đồng cho tăng trưởng 10% năm 2027), Quốc hội thông qua Luật Chứng khoán mới, và chu kỳ đầu tư AI toàn cầu tăng trưởng 49,5% tạo cơ hội cho doanh nghiệp CNTT Việt Nam.",
+  "summary_vi": "Thị trường hôm 13/11 phản ánh sự cân bằng giữa tín hiệu tích cực từ chính sách và áp lực tiêu cực từ thị trường quốc tế. Quốc hội thông qua Luật Chứng khoán mới (hiệu lực 01/3/2027) hỗ trợ phát triển TTCK dài hạn; Chính phủ đặt mục tiêu tăng trưởng 10% năm 2027 cần huy động 6-6,4 triệu tỷ đồng (36-38% GDP). Tuy nhiên, sự từ chức CEO Nvidia Jensen Huang gây sốc toàn cầu (Nvidia giảm 4.86%), rủi ro margin tăng tại CTCK vừa/nhỏ, và giá vàng trong nước giảm mạnh tạo áp lực ngắn hạn.",
   "top": [
     {
-      "title": "CEO Nvidia từ chức, chỉ số Nasdaq rung lắc -1,47%",
-      "impact": "↓",
-      "note": "Jensen Huang buộc phải từ chức CEO Nvidia giữa bê bối ngoài tình, cổ phiếu giảm gần 12% ban đầu (sau hồi phục -4,86%), làm sút giảm khoảng 500 tỷ USD vốn hóa. Nasdaq Composite giảm 1,47%, S&P 500 mất 0,90%, tác động tiêu cực đến thị trường toàn cầu."
-    },
-    {
-      "title": "Dư nợ margin tăng, bán giải chấp liên tiếp tại các CTCK vừa, nhỏ",
-      "impact": "↓",
-      "note": "Dư nợ margin toàn thị trường tăng mạnh khi các công ty chứng khoán cạnh tranh gay gắt trong mô hình Zero Fee. Tại TIG, KOS và các công ty khác xuất hiện các thông báo bán giải chấp, phản ánh rủi ro quản trị thanh khoản tăng khi cọc ghi danh bị áp lực điều chỉnh."
-    },
-    {
-      "title": "Rủi ro VN-Index lùi về 1.650 điểm nếu Vingroup giảm mạnh",
-      "impact": "↓",
-      "note": "Trong kịch bản tiêu cực, nếu Vingroup hình thành mô hình hai đỉnh trung hạn và điều chỉnh mạnh, VN-Index có nguy cơ giảm đến vùng hỗ trợ 1.650 điểm. Hiện nhóm Vingroup chiếm tác động quyết định: nếu loại Vingroup, mức tăng lợi nhuận toàn thị trường chỉ còn 22% thay vì 42,9%."
-    },
-    {
-      "title": "Thủ tướng: Huy động 6-6,4 triệu tỷ đồng cho 10% tăng trưởng 2027",
+      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng cam kết huy động 6-6,4 triệu tỷ đồng (tương đương 36-38% GDP) để đạt mục tiêu 10% tăng trưởng năm 2027. Thu ngân sách 2026 đạt 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD, kích hoạt các chính sách miễn/giảm thuế, giảm 2% giá điện."
+      "note": "Luật gồm 03 Điều, hiệu lực từ 01/3/2027. Với 463/464 đại biểu tán thành, bao gồm cơ chế thử nghiệm có kiểm soát trong lĩnh vực chứng khoán, tạo điều kiện thử nghiệm các mô hình, sản phẩm và dịch vụ mới - nền tảng pháp lý quan trọng cho phát triển TTCK bền vững."
     },
     {
-      "title": "Quốc hội thông qua Luật Chứng khoán, hiệu lực 01/03/2027",
+      "title": "Thủ tướng: Mục tiêu tăng trưởng 10% năm 2027, cần huy động 6-6,4 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Với 463/464 đại biểu tán thành, Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (03 Điều) được thông qua. Nội dung bao gồm cơ chế thử nghiệm có kiểm soát, làm rõ sơ kết/tổng kết để xem xét tiếp tục hoặc hoàn thiện khuôn khổ pháp lý, tạo điều kiện thử nghiệm mô hình sản phẩm dịch vụ mới."
+      "note": "Nhu cầu vốn tương đương 36-38% GDP. Chính phủ xác định ổn định kinh tế vĩ mô, kiểm soát lạm phát, ổn định giá trị đồng tiền là ưu tiên; đã triển khai giảm thuế, giảm giá điện, hạ lãi suất để giảm chi phí đầu vào cho doanh nghiệp."
     },
     {
-      "title": "AI mở chu kỳ đầu tư công nghệ, 2,670 tỷ USD năm 2026",
+      "title": "CEO Nvidia Jensen Huang từ chức, cổ phiếu lao dốc",
+      "impact": "↓",
+      "note": "Nvidia giảm hơn 12% tại mở cửa rồi thu hẹp xuống 4.86%, nguy cơ mất khoảng 500 tỷ USD vốn hóa. Thị trường quốc tế bị sốc: Nasdaq Composite giảm 1.47%, S&P 500 mất 0.90%, chỉ số bán dẫn Philadelphia giảm 1.3% - ảnh hưởng toàn cầu lên TTCK."
+    },
+    {
+      "title": "Cuộc đua cho vay margin nóng hơn, rủi ro tại CTCK vừa/nhỏ",
+      "impact": "↓",
+      "note": "Thông báo bán giải chấp cổ phiếu liên tiếp tại CTCK quy mô vừa/nhỏ (TIG, SBSI, Nhất Việt, KIS Việt Nam, UP). Dư nợ margin toàn thị trường tăng mạnh; margin đang là nguồn thu quan trọng nhất khi chuyển sang mô hình Zero Fee - áp lực quản trị rủi ro gia tăng."
+    },
+    {
+      "title": "Giá vàng miếng, vàng nhẫn giảm sâu 13/11",
+      "impact": "↓",
+      "note": "Vàng miếng tại SJC, PNJ, Bảo Tín giảm 1 triệu đồng/lượng xuống 135,0 – 138,0 triệu đ/lượng; vàng nhẫn giảm tương đương. Áp lực từ vàng quốc tế lao dốc xuống 3.852 USD/ounce tối 12/11 (giảm 3.3%) do dữ liệu lạm phát Mỹ cao hơn dự báo."
+    },
+    {
+      "title": "AI mở ra chu kỳ đầu tư công nghệ mới, cơ hội cho ngành CNTT",
       "impact": "↑",
-      "note": "Chi tiêu toàn cầu cho AI dự kiến 2,670 tỷ USD năm 2026, tăng 49,5% so với 2025. AI Services riêng: 576 tỷ USD năm 2026, tăng lên 746 tỷ USD năm 2027. Các dự án chuyển đổi AI tạo cơ hội thị trường khoảng 1.200 tỷ USD vào 2030, mở rộng tiềm năng cho doanh nghiệp dịch vụ CNTT Việt Nam."
+      "note": "Chi tiêu toàn cầu cho AI dự báo đạt 2,670 tỷ USD năm 2026 (tăng 49.5%), AI Services khoảng 576 tỷ USD và lên gần 746 tỷ USD năm 2027. Các dự án chuyển đổi AI có thể tạo cơ hội thị trường khoảng 1,200 tỷ USD vào năm 2030 - sóng đầu tư công nghệ chiến lược."
     }
   ]
 }
