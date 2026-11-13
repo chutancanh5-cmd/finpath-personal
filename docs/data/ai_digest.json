@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-13",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán (hiệu lực từ 01/03/2027), cải thiện môi trường pháp lý. Chính phủ định hướng tăng trưởng 10% năm 2027, cần huy động 6–6,4 triệu tỷ đồng (36-38% GDP) thông qua đầu tư công, PPP, ODA. MB chào bán 200 triệu cổ phiếu, thu 3.018 tỷ đồng cho IT và tín dụng. AI mở chu kỳ đầu tư công nghệ mới với chi tiêu toàn cầu tăng 49,5%. Tuy nhiên rủi ro từ dư nợ margin tăng, bán giải chấp gia tăng, giá vàng xuống 138 triệu/lượng (thấp nhất 1 năm) cần chú ý.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam đang đối mặt áp lực từ lạm phát Mỹ tăng 0,4% tháng 10 và kỳ vọng Fed thắt chặt tiền tệ tiếp theo. Giá vàng giảm mạnh còn 138 triệu đồng/lượng (thấp nhất 1 năm), lãi suất thị trường mới nổi sẽ neo cao tới 2027, trong khi VN-Index có nguy cơ lùi về 1650 điểm nếu Vingroup điều chỉnh mạnh. Tuy nhiên, Quốc hội vừa thông qua Luật Chứng khoán sửa đổi, Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công (đóng góp 1,7% tăng trưởng GDP) và MB tăng vốn 3.018 tỷ đồng là những tín hiệu hỗ trợ dài hạn.",
   "top": [
     {
-      "title": "MB chào bán 200 triệu cổ phiếu, thu 3.018 tỷ đồng",
-      "impact": "↑",
-      "note": "MB phát hành 200 triệu cổ phiếu với giá 15.090 đồng/cổ phiếu, dự kiến thu 3.018 tỷ đồng dành cho đầu tư hạ tầng công nghệ thông tin và tăng vốn cho hoạt động cho vay khách hàng; vốn điều lệ tăng từ 100.687,5 tỷ lên 102.687,5 tỷ đồng."
+      "title": "Fed sắp tăng lãi suất, lạm phát Mỹ tăng 0,4% tháng 10",
+      "impact": "↓",
+      "note": "Giá vàng giảm mạnh 110 USD/ounce xuống 3.877 USD/ounce, trong nước còn 138 triệu đồng/lượng (thấp nhất gần 1 năm), áp lực lên dòng tiền và định giá tài sản toàn cầu."
+    },
+    {
+      "title": "Lãi suất thị trường mới nổi gồm VN neo cao tới 2027",
+      "impact": "↓",
+      "note": "Mặt bằng lãi suất quốc tế cho các thị trường mới nổi sẽ duy trì cao trong Q4 2026 - Q1 2027, chi phí vốn tăng khi Fed tiếp tục thắt chặt, các NHTW trên thế giới cũng siết chính sách tiền tệ."
+    },
+    {
+      "title": "VN-Index có nguy cơ lùi về 1650 điểm",
+      "impact": "↓",
+      "note": "Nếu Vingroup điều chỉnh mạnh hình thành hai đỉnh, VN-Index có thể giảm về 1650 điểm; hiện P/E 10,8 lần (thấp hơn đáy COVID 10,3 lần), 506/1110 doanh nghiệp vẫn giảm lợi nhuận mặc dù tổng lợi nhuận tăng 42,9%."
     },
     {
       "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán",
       "impact": "↑",
-      "note": "Với 463/464 đại biểu tán thành, Quốc hội thông qua Luật gồm 03 Điều, có hiệu lực từ 01/03/2027; bao gồm cơ chế thử nghiệm có kiểm soát, tạo điều kiện thử nghiệm mô hình, sản phẩm và dịch vụ mới trên thị trường."
+      "note": "463/464 đại biểu tán thành, 3 Điều sửa đổi, có hiệu lực từ 1/3/2027; làm rõ cơ chế thử nghiệm có kiểm soát, nâng cao môi trường pháp lý cho thị trường phát triển an toàn, minh bạch, bền vững."
     },
     {
-      "title": "Thủ tướng: Tăng trưởng 10% năm 2027, huy động 6–6,4 triệu tỷ đồng",
+      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công",
       "impact": "↑",
-      "note": "Mục tiêu tăng trưởng từ 10% năm 2027, cần huy động 6–6,4 triệu tỷ đồng (36-38% GDP) qua giải ngân 100% vốn đầu tư công, ODA, PPP; xuất nhập khẩu năm nay lần đầu vượt 1.000 tỷ USD."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng khẳng định giải ngân 100% có thể đóng góp thêm 1,7% tăng trưởng GDP, đẩy mạnh PPP, dự kiến doanh nghiệp đầu tư xây dựng với thời gian khai thác khoảng 20 năm."
     },
     {
-      "title": "AI mở ra chu kỳ đầu tư công nghệ mới",
+      "title": "MB tăng vốn 3.018 tỷ đồng phát hành 200 triệu cổ phiếu",
       "impact": "↑",
-      "note": "Chi tiêu toàn cầu liên quan AI dự báo đạt 2.670 tỷ USD năm 2026, tăng 49,5%; chi tiêu AI Services dự kiến 576 tỷ USD năm 2026, tăng lên 746 tỷ USD năm 2027; dự án AI tạo cơ hội thị trường khoảng 1.200 tỷ USD vào 2030."
-    },
-    {
-      "title": "Cuộc đua cho vay margin nóng, bán giải chấp tăng",
-      "impact": "↓",
-      "note": "Dư nợ margin toàn thị trường tăng mạnh, cạnh tranh gay gắt giữa các công ty chứng khoán; bán giải chấp liên tiếp xuất hiện tại CTCK quy mô vừa và nhỏ; đặt câu hỏi về quản trị rủi ro trong bối cảnh chuyển sang mô hình Zero Fee."
-    },
-    {
-      "title": "Kịch bản tiêu cực: VN-Index nguy cơ lùi về 1650 điểm",
-      "impact": "↓",
-      "note": "Nếu cổ phiếu Vingroup hình thành mô hình hai đỉnh trung hạn và điều chỉnh mạnh, VN-Index có thể giảm về vùng hỗ trợ 1.650 điểm; P/E hiện 10,8 lần, thấp hơn mức đáy tháng 4/2025."
+      "note": "Giá chào bán 15.090 đồng/cổ phiếu, vốn điều lệ tăng tối đa 2.000 tỷ đồng lên 102.687,5 tỷ đồng; 6 nhà đầu tư chứng khoán chuyên nghiệp (Vietcombank, SCIC v.v.), chủ yếu cho hạ tầng CNTT và tăng năng lực cho vay."
     }
   ]
 }
