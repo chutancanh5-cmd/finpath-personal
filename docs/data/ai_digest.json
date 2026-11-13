@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam diễn biến phức tạp với những tín hiệu cải tiến từ phía pháp luật (Luật sửa đổi Chứng khoán từ 1/3/2027) và nâng cấp hạ tầng thu hút vốn ngoại. Chính phủ phấn đấu giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng; MB tăng vốn 3.018 tỷ đồng; AI tạo cơ hội với chi tiêu toàn cầu tăng 49,5%. Tuy nhiên, áp lực lãi suất toàn cầu dự kiến neo cao tới 2027, dư nợ margin gia tăng có rủi ro, giá vàng xuống 138 triệu/lượng (thấp nhất 1 năm), VN-Index có thể lùi về 1650 điểm trong kịch bản tiêu cực.",
+  "summary_vi": "Thị trường chứng khoán đón nhận tín hiệu tích cực từ cải thiện khung pháp lý (Luật chứng khoán sửa đổi từ 01/03/2027) và cam kết vốn đầu tư công 1,7% tăng trưởng GDP. Tuy nhiên, áp lực từ tiền tệ toàn cầu gia tăng: Fed gần chắc chắn tiếp tục tăng lãi suất đầu tháng 12, khiến mặt bằng lãi suất thị trường mới nổi (gồm Việt Nam) neo cao tới 2027 và chi phí huy động vốn quốc tế tăng. Thêm vào đó, rủi ro quản trị dư nợ margin gia tăng và vốn tín dụng vẫn bị đọng tại bất động sản (25% tổng dư nợ), hạn chế khả năng cấp vốn cho hoạt động sản xuất kinh doanh.",
   "top": [
     {
-      "title": "Fed sắp tăng lãi suất, lạm phát Mỹ tăng 0,4% tháng 10",
-      "impact": "↓",
-      "note": "Giá vàng giảm mạnh 110 USD/ounce xuống 3.877 USD/ounce, trong nước còn 138 triệu đồng/lượng (thấp nhất gần 1 năm), áp lực lên dòng tiền và định giá tài sản toàn cầu."
-    },
-    {
-      "title": "Lãi suất thị trường mới nổi gồm VN neo cao tới 2027",
-      "impact": "↓",
-      "note": "Mặt bằng lãi suất quốc tế cho các thị trường mới nổi sẽ duy trì cao trong Q4 2026 - Q1 2027, chi phí vốn tăng khi Fed tiếp tục thắt chặt, các NHTW trên thế giới cũng siết chính sách tiền tệ."
-    },
-    {
-      "title": "VN-Index có nguy cơ lùi về 1650 điểm",
-      "impact": "↓",
-      "note": "Nếu Vingroup điều chỉnh mạnh hình thành hai đỉnh, VN-Index có thể giảm về 1650 điểm; hiện P/E 10,8 lần (thấp hơn đáy COVID 10,3 lần), 506/1110 doanh nghiệp vẫn giảm lợi nhuận mặc dù tổng lợi nhuận tăng 42,9%."
-    },
-    {
-      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán",
+      "title": "Quốc hội thông qua Luật sửa đổi Chứng khoán",
       "impact": "↑",
-      "note": "463/464 đại biểu tán thành, 3 Điều sửa đổi, có hiệu lực từ 1/3/2027; làm rõ cơ chế thử nghiệm có kiểm soát, nâng cao môi trường pháp lý cho thị trường phát triển an toàn, minh bạch, bền vững."
+      "note": "Ngày 13/11, với 463/464 đại biểu tán thành, Quốc hội chính thức thông qua Luật sửa đổi, bổ sung Luật Chứng khoán (3 điều, hiệu lực từ 01/03/2027), cải thiện khung pháp lý phát triển thị trường chứng khoán an toàn, minh bạch, bền vững."
     },
     {
-      "title": "SGI Capital: Lãi suất thị trường mới nổi neo cao tới năm 2027",
+      "title": "Fed tăng lãi suất, áp lực chi phí vốn quốc tế",
       "impact": "↓",
-      "note": "Mặt bằng lãi suất cho hoạt động huy động vốn quốc tế tại Việt Nam dự kiến neo cao tới cuối 2026 và đầu 2027. Fed dự kiến nâng lãi suất đầu tháng 12; lạm phát Mỹ vẫn cao, chi phí vốn tăng áp lực lên doanh nghiệp và chi tiêu đầu tư."
+      "note": "Mặt bằng lãi suất thị trường mới nổi như Việt Nam sẽ neo cao tới năm 2027; lạm phát Mỹ tăng 0,4% tháng 10, số liệu việc làm tích cực khiến Fed gần chắc chắn nâng lãi suất điều hành đầu tháng 12/2026, làm tăng chi phí huy động vốn quốc tế."
     },
     {
-      "title": "MB tăng vốn 3.018 tỷ đồng phát hành 200 triệu cổ phiếu",
+      "title": "Cam kết vốn đầu tư công 1,7% tăng trưởng",
       "impact": "↑",
-      "note": "Giá chào bán 15.090 đồng/cổ phiếu, vốn điều lệ tăng tối đa 2.000 tỷ đồng lên 102.687,5 tỷ đồng; 6 nhà đầu tư chứng khoán chuyên nghiệp (Vietcombank, SCIC v.v.), chủ yếu cho hạ tầng CNTT và tăng năng lực cho vay."
+      "note": "Ngày 12/11, Phó Thủ tướng Nguyễn Văn Thắng phát biểu phấn đấu giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng kinh tế, đẩy mạnh mô hình PPP, doanh nghiệp trực tiếp đầu tư hoặc Nhà nước tài trợ rồi chuyển giao khai thác."
+    },
+    {
+      "title": "Giá vàng lao dốc xuống mức thấp 1 năm",
+      "impact": "↓",
+      "note": "Giá vàng trong nước sáng 13/11 giảm mạnh về 138 triệu đồng/lượng (thấp nhất gần 1 năm), thế giới rơi xuống 3.890 USD/ounce, do lạm phát dai dẳng Mỹ, kỳ vọng Fed thắt chặt chính sách tiền tệ và đồng USD mạnh."
+    },
+    {
+      "title": "Rủi ro quản trị dư nợ margin gia tăng",
+      "impact": "↓",
+      "note": "Các thông báo bán giải chấp cổ phiếu liên tiếp xuất hiện tại CTCK vừa và nhỏ (TIG, KOS, SBSI, KIS...) trong bối cảnh dư nợ margin toàn thị trường tăng mạnh, margin là nguồn thu quan trọng nhất CTCK nhưng áp lực quản trị rủi ro gia tăng khi cạnh tranh gay gắt."
+    },
+    {
+      "title": "Cơ hội đầu tư AI toàn cầu 2,67 tỷ USD năm 2026",
+      "impact": "↑",
+      "note": "Chi tiêu AI toàn cầu 2026 đạt 2,67 tỷ USD (tăng 49,5%), AI Services 576 tỷ USD, tăng lên 746 tỷ USD năm 2027; các dự án chuyển đổi AI tạo thị trường ~1,2 tỷ USD tới 2030, mở rộng cơ hội tăng trưởng cho doanh nghiệp dịch vụ CNTT."
     }
   ]
 }
