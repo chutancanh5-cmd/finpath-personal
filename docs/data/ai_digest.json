@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ công bố các chính sách hỗ trợ kinh tế (giảm lãi suất, giảm thuế, giải ngân vốn công) nhằm đạt mục tiêu tăng trưởng 10% năm 2027 với nhu cầu huy động 6-6,4 triệu tỷ đồng; tuy nhiên, thị trường vẫn đối mặt áp lực từ lãi suất toàn cầu cao, rủi ro margin gia tăng tại CTCK vừa nhỏ, và ảnh hưởng từ bất ổn quốc tế (CEO Nvidia từ chức). Định giá VN-Index tại P/E 10,8 lần được xem hấp dẫn nhưng lợi nhuận tập trung ở Vingroup tạo rủi ro cấu trúc.",
+  "summary_vi": "Sốc Jensen Huang từ chức CEO Nvidia (cổ phiếu ↓ 4,86%, Nasdaq -1,47%, dòng vốn AI rút) tác động tiêu cực trực tiếp TTCK VN. Tuy nhiên, Chính phủ kích cầu mạnh với mục tiêu huy động 6-6,4 triệu tỷ đ (36-38% GDP) cho tăng trưởng 10% năm 2027 và triển khai PPP. Rủi ro dài hạn: lãi suất thế giới neo cao (Fed cứng rắn), vốn BĐS bị đọng 25% dư nợ tín dụng làm chậm luân chuyển vốn.",
   "top": [
     {
-      "title": "Chính phủ huy động 6-6,4 triệu tỷ đồng để đạt tăng trưởng 10% năm 2027",
+      "title": "Jensen Huang từ chức CEO Nvidia, cổ phiếu lao dốc 4,86%",
+      "impact": "↓",
+      "note": "Nvidia ↓ 4,86% (lúc đầu -12%, mất 500 tỷ USD nếu kéo dài), Nasdaq -1,47%, S&P500 -0,90%. Chip makers (Intel, Marvell, Micron) ↓ 2,8-4,2%. Sốc ngành bán dẫn/AI, dòng vốn AI chốt lời rút ra từ thị trường mới nổi."
+    },
+    {
+      "title": "Thủ tướng: huy động 6-6,4 triệu tỷ đ cho tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng báo cáo cần huy động 6-6,4 triệu tỷ đồng (36-38% GDP); thu ngân sách đạt 2,44 triệu tỷ đồng; xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên; giảm 2% giá điện, gia hạn và giảm 30% thuế thu nhập cho doanh nghiệp."
+      "note": "Thu ngân sách 2,44 triệu tỷ đ, XNK lần đầu vượt 1.000 tỷ USD. Cần huy động 6-6,4 triệu tỷ đ (36-38% GDP). Hỗ trợ: giảm 2% giá điện, -30% thuế TNDN, gia hạn thuế. Kích cầu đầu tư, lao động, tiêu dùng."
     },
     {
-      "title": "VN-Index tích lũy quanh 1680-1700 điểm, định giá P/E 10,8 lần hấp dẫn",
-      "impact": "→",
-      "note": "HOSE tạo thêm 71,4 nghìn tỷ đồng (+93,6% ròng toàn thị trường); 506/1.110 doanh nghiệp giảm lợi nhuận; tác động nhóm Vingroup lớn (loại bỏ Vingroup thì mức tăng chỉ 22%); P/E 10,8 lần thấp hơn thời đáy khủng hoảng tháng 4/2025 và COVID 2020, được xem tương đối hấp dẫn."
+      "title": "Lãi suất thị trường mới nổi (VN) neo cao tới 2027",
+      "impact": "↓",
+      "note": "SGI Capital cảnh báo mặt bằng lãi suất Việt Nam duy trì cao cuối 2026 và 2027. Fed sắp nâng lãi suất. Dòng vốn chốt lời AI/chip rút khỏi emerging markets, chi phí huy động vốn quốc tế tăng."
     },
     {
-      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công, đóng góp 1,7% GDP",
+      "title": "Vàng giảm sâu, Fed phát tín hiệu cứng rắn",
+      "impact": "↓",
+      "note": "Vàng miếng 135-138 triệu đ/lượng (↓1 triệu), quốc tế 3.852 USD/oz (↓3,3%). Lạm phát Mỹ cao hơn dự báo, Fed tuyên bố cứng rắn. Bộc lộ lo ngại toàn cầu, tài sản trú ẩn yếu."
+    },
+    {
+      "title": "PPP + 100% giải ngân vốn đầu tư công hỗ trợ hạ tầng",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng phát biểu sẽ giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng kinh tế; đẩy mạnh PPP trong hạ tầng giao thông; hợp đồng thường kỳ khai thác khoảng 20 năm."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng triển khai PPP (20 năm khai thác), Nhà nước chia sẻ rủi ro, doanh nghiệp tham gia. Phấn đấu 100% giải ngân vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng kinh tế."
     },
     {
-      "title": "CEO Jensen Huang từ chức Nvidia, cổ phiếu Nvidia lao dốc 10%",
-      "impact": "↓",
-      "note": "Jensen Huang rời ghế CEO của Nvidia (tập đoàn 4 ngàn tỷ USD, trung tâm của làn sóng AI); cổ phiếu giảm 10%; ảnh hưởng tâm lý đối với dòng vốn AI toàn cầu."
-    },
-    {
-      "title": "Lãi suất thị trường mới nổi dự kiến neo cao tới năm 2027",
-      "impact": "↓",
-      "note": "SGI Capital dự báo lãi suất huy động vốn quốc tế tại Việt Nam tiếp tục neo cao tới năm 2027; Fed gần như chắc chắn nâng lãi suất vào đầu tháng 12; chi tiêu AI toàn cầu 2,670 tỷ USD (+49,5%) nhưng đang chốt lời; chi phí vốn mới cho doanh nghiệp và người tiêu dùng gia tăng."
-    },
-    {
-      "title": "Cuộc đua margin gay gắt, CTCK vừa nhỏ bán giải chấp cấp tốc",
-      "impact": "↓",
-      "note": "Dư nợ margin toàn thị trường tăng mạnh; các CTCK TIG, SBSI, Nhất Việt, KIS, UP liên tiếp bán giải chấp cổ phiếu khách hàng; Zero Fee buộc CTCK phụ thuộc margin để sinh lời; rủi ro quản trị thanh khoản và nợ xấu tăng lên, đặc biệt tại CTCK vừa nhỏ."
+      "title": "AI toàn cầu: chi tiêu 2.670 tỷ USD, tăng 49,5%",
+      "impact": "↑",
+      "note": "Gartner dự báo chi tiêu AI toàn cầu 2026 đạt 2.670 tỷ USD (+49,5% YoY). AI Services 576 tỷ USD (2026) → 746 tỷ USD (2027). Cơ hội thị trường chuyển đổi AI 1.200 tỷ USD vào 2030."
     }
   ]
 }
