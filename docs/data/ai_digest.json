@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-13",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách vĩ mô Việt Nam có tín hiệu mạnh với mục tiêu huy động 6–6,4 triệu tỷ đồng (36–38% GDP) cho tăng trưởng 10% năm 2027 và giải ngân 100% vốn đầu tư công (+1,7% tăng trưởng). Chu kỳ đầu tư AI toàn cầu (2,670 tỷ USD, +49,5%) tạo cơ hội cho dịch vụ CNTT Việt Nam. Tuy nhiên áp lực bán khối ngoại (857,2 tỷ đồng, FPT 450 tỷ) và rủi ro địa chính trị Trung Đông (dầu tăng, Nvidia CEO từ chức) đòi hỏi nhà đầu tư thận trọng; VN-Index khó vượt kháng cự 1750 điểm ngắn hạn.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực từ dòng vốn ngoài rút ròng mạnh (>850 tỷ đ/phiên) và lãi suất toàn cầu tăng do lo ngại lạm phát Mỹ cao, khiến Fed có thể nâng lãi suất 0,5% tháng 12 (vàng mất 110 USD/oz, giảm 2,8%). Tuy vậy, chính sách vĩ mô Việt Nam có tín hiệu tích cực: mục tiêu tăng trưởng 10% năm 2027 với hỗ trợ doanh nghiệp (giảm 30% thuế, giảm 2% giá điện) và cơ hội từ chu kỳ AI toàn cầu (2,670 tỷ USD, +49,5%) có thể hỗ trợ phục hồi, nhưng rủi ro từ nước ngoài vẫn là mối đe dọa ngắn hạn chính.",
   "top": [
-    {
-      "title": "Thủ tướng: huy động 6–6,4 triệu tỷ đồng (36–38% GDP) cho tăng trưởng 10% năm 2027",
-      "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng phát biểu tại phiên chất vấn Quốc hội chiều 12/11, xác định cần huy động 6–6,4 triệu tỷ đồng (tương đương 36–38% GDP) cho mục tiêu tăng trưởng từ 10% năm 2027; thu ngân sách đạt 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD."
-    },
-    {
-      "title": "Phó Thủ tướng: giải ngân 100% vốn đầu tư công, +1,7% tăng trưởng",
-      "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng cam kết tại Quốc hội ngày 12/11, phấn đấu giải ngân hết 100% vốn đầu tư công năm 2026, dự kiến đóng góp thêm 1,7% tăng trưởng kinh tế; tăng cường huy động PPP từ doanh nghiệp trong lĩnh vực hạ tầng giao thông."
-    },
-    {
-      "title": "AI thúc đẩy làn sóng đầu tư công nghệ, chi tiêu 2,670 tỷ USD toàn cầu",
-      "impact": "↑",
-      "note": "Theo dự báo Gartner, chi tiêu toàn cầu phần mềm 2026 đạt 1,464 tỷ USD (+15,2%); chi tiêu liên quan AI 2,670 tỷ USD (+49,5%), AI Services 576 tỷ USD năm 2026 tăng lên 746 tỷ USD năm 2027; dịch vụ CNTT Việt Nam có cơ hội tăng trưởng từ tư vấn, tích hợp AI quy mô lớn."
-    },
     {
       "title": "Khối ngoại bán ròng 857,2 tỷ đồng, FPT mất 450 tỷ",
       "impact": "↓",
-      "note": "Phiên 12/11, khối ngoại bán ròng 857,2 tỷ đồng trên HoSE, lực bán tập trung FPT (450 tỷ đồng), KDH và STB (~100 tỷ đồng mỗi mã); độ rộng thị trường nghiêng giảm với 199 mã giảm, 94 mã tăng, báo hiệu áp lực điều chỉnh rộng rãi."
+      "note": "Phiên 12/11, khối ngoại bán ròng 857,2 tỷ đồng trên HoSE, lực bán tập trung FPT (450 tỷ đồng), KDH và STB (~100 tỷ đồng mỗi mã); VN30 giảm 0,85%, độ rộng thị trường nghiêng giảm với 199 mã giảm, 94 mã tăng, báo hiệu áp lực bán rộng rãi."
     },
     {
-      "title": "Trump–Iran, dầu tăng; Nvidia CEO từ chức, cổ phiếu lao dốc 10%",
+      "title": "Lãi suất tăng, vàng mất 110 USD/oz xuống 3.878 USD/oz",
       "impact": "↓",
-      "note": "Phát biểu Trump không cần thỏa thuận Iran làm dầu đảo chiều tăng, dấy lên lo ngại xung đột Trung Đông kéo dài; CEO Jensen Huang từ chức Nvidia (cổ phiếu lao dốc 10%), gây sức ép lên nhóm công nghệ và kỳ vọng lãi suất toàn cầu."
+      "note": "Giá vàng giao ngay giảm 110,7 USD/oz (-2,8%), hạ nhất kể từ 10/2025. Nguyên nhân: lo ngại Fed tăng lãi suất 0,5% tháng 12, CPI Mỹ cao hơn dự báo, đồng USD mạnh nhất 19 tháng, lợi suất trái phiếu tăng."
     },
     {
-      "title": "TTCK nâng hạng sẽ thu hút dòng vốn quốc tế, mặt bằng định giá hấp dẫn",
+      "title": "Thủ tướng: huy động 6–6,4 triệu tỷ đồng cho tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Chuyên gia Đào Phúc Tường nhận định tại VIF 2027, nâng hạng TTCK Việt Nam mở ra cơ hội từ nhà đầu tư quốc tế quy mô lớn; mặt bằng định giá đã hấp dẫn, chuẩn bị nền tảng 5–7 năm tới để đáp ứng yêu cầu định chế quốc tế."
+      "note": "Thủ tướng Lê Minh Hưng phát biểu tại Quốc hội chiều 12/11, cần huy động 6–6,4 triệu tỷ đồng (36–38% GDP). Thu ngân sách 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD. Chính phủ giảm 30% thuế thu nhập doanh nghiệp, giảm 2% giá điện."
+    },
+    {
+      "title": "ACB vượt 1,4 tỷ USD, top 3 ngân hàng tư nhân, tăng 5 lần từ 2021",
+      "impact": "↑",
+      "note": "Forbes Việt Nam vinh danh ACB với giá trị thương hiệu 1,403 tỷ USD, tăng 5 lần từ 2021 (257 triệu USD) và gần 4 lần từ 2024 (398 triệu USD), phản ánh tăng trưởng bền vững và niềm tin vào hệ thống ngân hàng."
+    },
+    {
+      "title": "TV1 tăng kịch trần 15%, thanh khoản tăng 5 lần sau thay nhân sự",
+      "impact": "↑",
+      "note": "Cổ phiếu TV1 lên 23.500 đ/cp (+15% kịch trần) phiên 12/11 sau thay đổi cấp cao: tái bổ nhiệm Phó TGĐ Trần Thái Hải, bổ nhiệm Phó TGĐ Phùng Thế Anh, Nguyễn Thanh Tùng. Thanh khoản 287.500 cp (~6,5 tỷ đ) tăng 5 lần."
+    },
+    {
+      "title": "AI toàn cầu tăng 49,5%, cơ hội 1.200 tỷ USD cho chuyển đổi đến 2030",
+      "impact": "↑",
+      "note": "Chi tiêu AI dự báo 2,670 tỷ USD năm 2026 (+49,5%), tăng 3,637 tỷ USD năm 2027. AI Services: 576 tỷ USD năm 2026, 746 tỷ USD năm 2027. Cơ hội từ chuyển đổi AI và bổ sung tính năng: 1.200 tỷ USD vào 2030."
     }
   ]
 }
