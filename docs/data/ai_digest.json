@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-13",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán đón nhận tín hiệu tích cực từ cải thiện khung pháp lý (Luật chứng khoán sửa đổi từ 01/03/2027) và cam kết vốn đầu tư công 1,7% tăng trưởng GDP. Tuy nhiên, áp lực từ tiền tệ toàn cầu gia tăng: Fed gần chắc chắn tiếp tục tăng lãi suất đầu tháng 12, khiến mặt bằng lãi suất thị trường mới nổi (gồm Việt Nam) neo cao tới 2027 và chi phí huy động vốn quốc tế tăng. Thêm vào đó, rủi ro quản trị dư nợ margin gia tăng và vốn tín dụng vẫn bị đọng tại bất động sản (25% tổng dư nợ), hạn chế khả năng cấp vốn cho hoạt động sản xuất kinh doanh.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Quốc hội thông qua Luật Chứng khoán bổ sung cơ chế thử nghiệm công nghệ và chính phủ phấn đấu giải ngân 100% vốn đầu tư công là những tín hiệu tích cực hỗ trợ thị trường. Tuy nhiên, thị trường chứng khoán đang chịu áp lực từ nhiều hướng: VN-Index có nguy cơ lùi 1.650 điểm nếu Vingroup điều chỉnh mạnh, dư nợ margin tăng gây rủi ro hệ thống, giá vàng yếu, lãi suất cao tới 2027 và nợ bất động sản tồn đọng (25% dư nợ). Tăng trưởng lợi nhuận phân hóa với chỉ 506/1.110 doanh nghiệp cải thiện cho thấy chỉ số chủ yếu được kéo lên bởi các tập đoàn lớn, gây rủi ro tập trung.",
   "top": [
     {
-      "title": "Quốc hội thông qua Luật sửa đổi Chứng khoán",
+      "title": "Quốc hội thông qua Luật Chứng khoán bổ sung cơ chế thử nghiệm",
       "impact": "↑",
-      "note": "Ngày 13/11, với 463/464 đại biểu tán thành, Quốc hội chính thức thông qua Luật sửa đổi, bổ sung Luật Chứng khoán (3 điều, hiệu lực từ 01/03/2027), cải thiện khung pháp lý phát triển thị trường chứng khoán an toàn, minh bạch, bền vững."
+      "note": "463/464 đại biểu tán thành ngày 13/11. Luật bổ sung quy định cơ chế thử nghiệm có kiểm soát trong lĩnh vực chứng khoán, cho phép triển khai thử nghiệm công nghệ, sản phẩm, mô hình kinh doanh mới có giới hạn phạm vi, đối tượng, không gian, thời gian, có hiệu lực từ 1/3/2027. Mở rộng sáng tạo và phát triển bền vững thị trường."
     },
     {
-      "title": "Fed tăng lãi suất, áp lực chi phí vốn quốc tế",
-      "impact": "↓",
-      "note": "Mặt bằng lãi suất thị trường mới nổi như Việt Nam sẽ neo cao tới năm 2027; lạm phát Mỹ tăng 0,4% tháng 10, số liệu việc làm tích cực khiến Fed gần chắc chắn nâng lãi suất điều hành đầu tháng 12/2026, làm tăng chi phí huy động vốn quốc tế."
-    },
-    {
-      "title": "Cam kết vốn đầu tư công 1,7% tăng trưởng",
+      "title": "Chính phủ phấn đấu giải ngân 100% vốn đầu tư công, đóng góp 1,7% GDP",
       "impact": "↑",
-      "note": "Ngày 12/11, Phó Thủ tướng Nguyễn Văn Thắng phát biểu phấn đấu giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng kinh tế, đẩy mạnh mô hình PPP, doanh nghiệp trực tiếp đầu tư hoặc Nhà nước tài trợ rồi chuyển giao khai thác."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng tuyên bố phấn đấu giải ngân 100% vốn đầu tư công, dự kiến đóng góp thêm 1,7% vào tăng trưởng kinh tế (phát biểu 12/11). Đẩy mạnh đầu tư theo phương thức PPP, thu hút doanh nghiệp tham gia lĩnh vực hạ tầng giao thông."
     },
     {
-      "title": "Giá vàng lao dốc xuống mức thấp 1 năm",
+      "title": "VN-Index nguy cơ lùi 1.650 điểm, Vingroup ảnh hưởng quyết định",
       "impact": "↓",
-      "note": "Giá vàng trong nước sáng 13/11 giảm mạnh về 138 triệu đồng/lượng (thấp nhất gần 1 năm), thế giới rơi xuống 3.890 USD/ounce, do lạm phát dai dẳng Mỹ, kỳ vọng Fed thắt chặt chính sách tiền tệ và đồng USD mạnh."
+      "note": "Nếu Vingroup hình thành mô hình hai đỉnh trung hạn, VN-Index có thể lùi 1.650 điểm. Lợi nhuận toàn mẫu tăng 42,9% nhưng chỉ 506/1.110 doanh nghiệp cải thiện; loại Vingroup thì tăng chỉ 22%. P/E 10,8 lần gần mức 10,3 lần tháng 4/2020 (đáy COVID), cho thấy sự phụ thuộc cao vào một nhóm tập đoàn."
     },
     {
-      "title": "Rủi ro quản trị dư nợ margin gia tăng",
+      "title": "Dư nợ margin tăng mạnh, xuất hiện bán giải chấp, rủi ro quản trị",
       "impact": "↓",
-      "note": "Các thông báo bán giải chấp cổ phiếu liên tiếp xuất hiện tại CTCK vừa và nhỏ (TIG, KOS, SBSI, KIS...) trong bối cảnh dư nợ margin toàn thị trường tăng mạnh, margin là nguồn thu quan trọng nhất CTCK nhưng áp lực quản trị rủi ro gia tăng khi cạnh tranh gay gắt."
+      "note": "Các CTCK vừa và nhỏ liên tiếp ghi nhận thông báo bán giải chấp cổ phiếu. Dư nợ margin toàn thị trường tăng mạnh, tạo cạnh tranh gay gắt. Margin là nguồn thu quan trọng của CTCK sau chuyển dịch Zero Fee, nhưng tạo áp lực quản trị rủi ro dư nợ."
     },
     {
-      "title": "Cơ hội đầu tư AI toàn cầu 2,67 tỷ USD năm 2026",
-      "impact": "↑",
-      "note": "Chi tiêu AI toàn cầu 2026 đạt 2,67 tỷ USD (tăng 49,5%), AI Services 576 tỷ USD, tăng lên 746 tỷ USD năm 2027; các dự án chuyển đổi AI tạo thị trường ~1,2 tỷ USD tới 2030, mở rộng cơ hội tăng trưởng cho doanh nghiệp dịch vụ CNTT."
+      "title": "Giá vàng giảm mạnh 1 triệu đồng/lượng, xuống 135-138 triệu",
+      "impact": "↓",
+      "note": "Vàng miếng giảm 1 triệu đồng/lượng so với buổi sáng, hiện ở 135,0 - 138,0 triệu đồng/lượng. Giá vàng quốc tế rơi xuống 3.890 USD/ounce, dưới mốc 3.900 USD/ounce. Giá vàng yếu giảm hấp dẫn tài sản trú ẩn, ảnh hưởng dòng tiền vào cổ phiếu."
+    },
+    {
+      "title": "Lãi suất thị trường mới nổi sẽ tiếp tục cao tới 2027",
+      "impact": "↓",
+      "note": "Fed nhiều khả năng tiếp tục nâng lãi suất đầu tháng 12 do số liệu việc làm tích cực kết hợp lạm phát vẫn tăng. Mặt bằng lãi suất thị trường mới nổi như Việt Nam sẽ duy trì mức cao trong tháng cuối 2026 và đầu 2027. Nhu cầu huy động vốn lớn phải đối mặt chi phí cao, ảnh hưởng đến junk bonds, high-yield bonds."
     }
   ]
 }
