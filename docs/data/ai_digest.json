@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường ghi nhận dòng tiền ngoại mạnh mẽ (mua ròng 300 tỷ đồng) với VN-Index đảo chiều hồi phục chốt tăng tại 1.734 điểm, hỗ trợ bởi cải thiện chính sách (Quốc hội thông qua Luật Chứng khoán với 463/464 tán thành, hiệu lực 1/3/2027) và cam kết tăng trưởng từ Chính phủ. Tuy nhiên, định giá VN-Index rất thấp (P/E 10,8 lần) với dư nợ margin tăng mạnh, CTCK nhỏ bắt buộc bán giải chấp, và nguy cơ điều chỉnh sâu đến 1.650 điểm nếu Vingroup suy yếu, tạo sự cân bằng giữa tín hiệu tích cực và rủi ro ngắn hạn.",
+  "summary_vi": "Chính phủ tăng cường giải ngân vốn đầu tư công dự kiến đóng góp 1,7% tăng trưởng kinh tế, song song NHNN kiểm tra giảm lãi suất thực thi. Quốc hội thông qua Luật Chứng khoán mới từ 1/3/2027 cải thiện khung pháp lý. Khối ngoại quay trở lại mua ròng 300 tỷ, đặc biệt VIX 308 tỷ. Tuy nhiên, rủi ro margin tăng ở các CTCK vừa/nhỏ với bán giải chấp liên tiếp, và vòng quay vốn chậm do BĐS chiếm 25% dư nợ vẫn là áp lực ngắn hạn.",
   "top": [
     {
-      "title": "Khối ngoại mua ròng 300 tỷ, VN-Index chốt tăng 1.734 điểm",
+      "title": "Vốn VĐTC đóng góp 1,7% tăng trưởng GDP",
       "impact": "↑",
-      "note": "Khối ngoại mua ròng khoảng 300 tỷ đồng phiên 13/11, gom VIX mạnh nhất với 308 tỷ đồng, tiếp theo POW 86 tỷ đồng và VJC 58 tỷ đồng; VN-Index đảo chiều hồi phục lên 1.734 điểm với thanh khoản HOSE gần 15.000 tỷ đồng, kết thúc phiên cuối kỳ cơ cấu danh mục ETF nội."
+      "note": "Phó TT Nguyễn Văn Thắng phát biểu 12/11 phấn đấu giải ngân 100% vốn đầu tư công, dự kiến đóng góp thêm 1,7% tăng trưởng kinh tế năm 2026 thông qua hình thức đối tác công tư (PPP) và ODA."
     },
     {
-      "title": "Quốc hội thông qua Luật Chứng khoán, 463/464 tán thành",
+      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán",
       "impact": "↑",
-      "note": "Sáng 13/11, Quốc hội chính thức thông qua Luật sửa đổi, bổ sung Luật Chứng khoán gồm 3 Điều, hiệu lực từ 1/3/2027, đảm bảo phù hợp thực tiễn hoạt động thị trường, thống nhất hệ thống pháp luật, hỗ trợ phát triển thị trường an toàn, minh bạch, bền vững."
+      "note": "Ngày 13/11, Quốc hội với 463/464 đại biểu tán thành thông qua Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (3 Điều), có hiệu lực từ 1/3/2027, cải thiện khung pháp lý thị trường."
     },
     {
-      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công",
+      "title": "Khối ngoại mua ròng 300 tỷ, VIX 308 tỷ",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng phát biểu 12/11 phấn đấu giải ngân 100% vốn đầu tư công đóng góp thêm 1,7% tăng trưởng kinh tế, nhấn mạnh vai trò PPP trong thu hút doanh nghiệp đầu tư kết cấu hạ tầng giao thông, giúp huy động nguồn lực xã hội."
+      "note": "Phiên 13/11, khối ngoại mua ròng hơn 300 tỷ đồng toàn thị trường, trong đó VIX được gom mạnh nhất với 308 tỷ đồng, POW 86 tỷ, VJC 58 tỷ, tín hiệu dòng tiền ngoại quay trở lại."
     },
     {
-      "title": "Dư nợ margin tăng mạnh, CTCK vừa nhỏ bán giải chấp",
+      "title": "NHNN thanh tra thực hiện giảm lãi suất trong tháng 11",
+      "impact": "↑",
+      "note": "NHNN yêu cầu các chi nhánh khu vực tổ chức thanh tra kiểm tra chuyên đề diện rộng về giảm lãi suất tại các tổ chức tín dụng ngay tháng 11, xử lý nghiêm các vi phạm, đẩy mạnh thực thi chính sách tiền tệ."
+    },
+    {
+      "title": "Cuộc đua margin gay gắt, bán giải chấp liên tiếp",
       "impact": "↓",
-      "note": "Các công ty chứng khoán vừa và nhỏ liên tiếp ghi nhận bán giải chấp cổ phiếu (TIG tại HoSE, KOS tại SBSI, Nhất Việt, KIS, UP), dư nợ margin toàn thị trường tăng mạnh trong cạnh tranh gay gắt, đặt ra áp lực lớn cho quản trị rủi ro của các công ty chứng khoán quy mô nhỏ."
+      "note": "Các CTCK vừa và nhỏ (TIG, SBSI, Nhất Việt, KIS, UP) liên tiếp công bố bán giải chấp trong khi dư nợ margin tăng mạnh, áp lực quản trị rủi ro cao và khả năng huy động vốn yếu ở các CTCK nhỏ."
     },
     {
-      "title": "Giá vàng giảm 3,7 triệu đồng/lượng trong 4 phiên",
+      "title": "Rủi ro VN-Index lùi 1650, P/E thấp hơn COVID-2020",
       "impact": "↓",
-      "note": "Vàng miếng SJC neo tại 138 triệu đồng/lượng, giảm tổng cộng 3,2-3,7 triệu đồng/lượng từ phiên 10-13/11, vàng nhẫn 4 số 9 giảm 2,8-3,7 triệu đồng/lượng; giá vàng thế giới rơi xuống 3.890 USD/ounce, phản ánh áp lực bán trên tài sản trú ẩn an toàn."
-    },
-    {
-      "title": "P/E 10,8 lần thấp kỷ lục, nguy cơ xuống 1.650 điểm",
-      "impact": "→",
-      "note": "Cuối tháng 10, VN-Index có P/E 10,8 lần, thấp hơn mức đáy tháng 4/2025 và gần mức 10,3 lần tháng 4/2020; nếu Vingroup (chiếm 85,3% lợi nhuận sau thuế HOSE) hình thành mô hình hai đỉnh trung hạn và điều chỉnh mạnh, VN-Index có thể lùi về vùng hỗ trợ 1.650 điểm trước khi hồi phục trở lại."
+      "note": "Phân tích cảnh báo nếu Vingroup điều chỉnh mạnh, VN-Index có nguy cơ giảm về 1650 điểm; P/E hiện 10,8 lần (thấp hơn cú sốc thuế quan 4/2025 10,8 lần và COVID 4/2020 10,3 lần) cho thấy định giá kè khía nhưng 506/1110 doanh nghiệp Q3 giảm lợi nhuận."
     }
   ]
 }
