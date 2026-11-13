@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ công bố huy động 6–6,4 triệu tỷ đồng (36-38% GDP) với mục tiêu tăng 10% năm 2027 và giải ngân 100% vốn đầu tư công, giảm 30% thuế thu nhập doanh nghiệp, 2% giá điện. Tuy nhiên, áp lực lãi suất cao tới 2027 khi Fed dự báo tăng tháng 12, dư nợ bất động sản 25% tổng dư nợ tín dụng, và rủi ro margin với bán giải chấp liên tiếp vẫn cân bằng triển vọng. VN-Index tích lũy 1.680–1.800, P/E 10,8 lần nhưng 506/1110 doanh nghiệp giảm lợi nhuận.",
+  "summary_vi": "Chính phủ công bố các chính sách hỗ trợ kinh tế (giảm lãi suất, giảm thuế, giải ngân vốn công) nhằm đạt mục tiêu tăng trưởng 10% năm 2027 với nhu cầu huy động 6-6,4 triệu tỷ đồng; tuy nhiên, thị trường vẫn đối mặt áp lực từ lãi suất toàn cầu cao, rủi ro margin gia tăng tại CTCK vừa nhỏ, và ảnh hưởng từ bất ổn quốc tế (CEO Nvidia từ chức). Định giá VN-Index tại P/E 10,8 lần được xem hấp dẫn nhưng lợi nhuận tập trung ở Vingroup tạo rủi ro cấu trúc.",
   "top": [
     {
-      "title": "Huy động 6–6,4 triệu tỷ đồng, giảm 30% thuế doanh nghiệp năm 2027",
+      "title": "Chính phủ huy động 6-6,4 triệu tỷ đồng để đạt tăng trưởng 10% năm 2027",
       "impact": "↑",
-      "note": "Thủ tướng Lê Minh Hưng: cần huy động 6–6,4 triệu tỷ đồng (36-38% GDP) cho tăng 10% năm 2027. Thu ngân sách 2,44 triệu tỷ đồng, xuất nhập khẩu vượt 1.000 tỷ USD lần đầu. Chính phủ giảm 2% giá điện, giảm 30% thuế thu nhập doanh nghiệp, miễn/giảm gia hạn thuế."
+      "note": "Thủ tướng Lê Minh Hưng báo cáo cần huy động 6-6,4 triệu tỷ đồng (36-38% GDP); thu ngân sách đạt 2,44 triệu tỷ đồng; xuất nhập khẩu vượt 1.000 tỷ USD lần đầu tiên; giảm 2% giá điện, gia hạn và giảm 30% thuế thu nhập cho doanh nghiệp."
     },
     {
-      "title": "Giải ngân 100% vốn đầu tư công, đóng góp 1,7% tăng trưởng",
+      "title": "VN-Index tích lũy quanh 1680-1700 điểm, định giá P/E 10,8 lần hấp dẫn",
+      "impact": "→",
+      "note": "HOSE tạo thêm 71,4 nghìn tỷ đồng (+93,6% ròng toàn thị trường); 506/1.110 doanh nghiệp giảm lợi nhuận; tác động nhóm Vingroup lớn (loại bỏ Vingroup thì mức tăng chỉ 22%); P/E 10,8 lần thấp hơn thời đáy khủng hoảng tháng 4/2025 và COVID 2020, được xem tương đối hấp dẫn."
+    },
+    {
+      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công, đóng góp 1,7% GDP",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng: phấn đấu giải ngân toàn bộ vốn đầu tư công đóng góp 1,7% GDP. Đẩy mạnh PPP cho hạ tầng giao thông: doanh nghiệp đầu tư xây dựng, thu phí hoàn vốn (~20 năm) hoặc Nhà nước xây rồi chuyển giao O&M cho doanh nghiệp."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng phát biểu sẽ giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng kinh tế; đẩy mạnh PPP trong hạ tầng giao thông; hợp đồng thường kỳ khai thác khoảng 20 năm."
     },
     {
-      "title": "Lãi suất thị trường mới nổi gồm Việt Nam cao tới 2027",
+      "title": "CEO Jensen Huang từ chức Nvidia, cổ phiếu Nvidia lao dốc 10%",
       "impact": "↓",
-      "note": "Dữ liệu việc làm Mỹ tích cực + lạm phát tăng → Fed tăng lãi suất tháng 12 gần chắc chắn. Lãi suất huy động vốn quốc tế tại Việt Nam duy trì cao những tháng cuối 2026 và đầu 2027. Dòng vốn AI/tech bán ròng, chốt lời. Chi phí vốn doanh nghiệp gia tăng."
+      "note": "Jensen Huang rời ghế CEO của Nvidia (tập đoàn 4 ngàn tỷ USD, trung tâm của làn sóng AI); cổ phiếu giảm 10%; ảnh hưởng tâm lý đối với dòng vốn AI toàn cầu."
     },
     {
-      "title": "Ổn định lãi suất gắn cơ cấu lại thị trường vốn",
+      "title": "Lãi suất thị trường mới nổi dự kiến neo cao tới năm 2027",
       "impact": "↓",
-      "note": "Mất cân đối cung cầu vốn: dư nợ bất động sản chiếm 25% tổng dư nợ tín dụng. Vòng quay vốn chậm, nợ xấu gia tăng, 28 ngân hàng giảm 0,5–1%. Ngân hàng phải nâng lãi suất huy động bù chi phí rủi ro, nhưng cơ cấu thực sự cần giải tỏa vốn BĐS."
+      "note": "SGI Capital dự báo lãi suất huy động vốn quốc tế tại Việt Nam tiếp tục neo cao tới năm 2027; Fed gần như chắc chắn nâng lãi suất vào đầu tháng 12; chi tiêu AI toàn cầu 2,670 tỷ USD (+49,5%) nhưng đang chốt lời; chi phí vốn mới cho doanh nghiệp và người tiêu dùng gia tăng."
     },
     {
-      "title": "Cuộc đua margin nóng, CTCK vừa nhỏ chịu áp lực rủi ro",
+      "title": "Cuộc đua margin gay gắt, CTCK vừa nhỏ bán giải chấp cấp tốc",
       "impact": "↓",
-      "note": "Bán giải chấp liên tiếp: TIG, KOS tại SBSI, KIS Việt Nam, UP, Nhất Việt. Dư nợ margin toàn thị trường tăng mạnh, CTCK vừa nhỏ gặp áp lực quản trị rủi ro cao. Margin là nguồn thu chính sau chuyển Zero Fee, tiềm ẩn rủi ro systemic."
-    },
-    {
-      "title": "P/E 10,8 lần thấp nhưng phân hóa lợi nhuận sâu",
-      "impact": "↓",
-      "note": "VN-Index P/E 10,8 lần (thấp hơn đáy COVID 2020), tích lũy 1.680–1.700. Lợi nhuận Q3 +42,9% nhưng 506/1110 DN giảm lợi nhuận. Loại Vingroup, tăng 22%. Rủi ro: kịch bản tiêu cực Vingroup điều chỉnh mạnh → Index về 1.650."
+      "note": "Dư nợ margin toàn thị trường tăng mạnh; các CTCK TIG, SBSI, Nhất Việt, KIS, UP liên tiếp bán giải chấp cổ phiếu khách hàng; Zero Fee buộc CTCK phụ thuộc margin để sinh lời; rủi ro quản trị thanh khoản và nợ xấu tăng lên, đặc biệt tại CTCK vừa nhỏ."
     }
   ]
 }
