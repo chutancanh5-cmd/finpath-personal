@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay cân nhắc giữa những tín hiệu tích cực từ chính sách (mục tiêu tăng trưởng 10% năm 2027, huy động 6-6,4 triệu tỷ đồng) và áp lực từ bên ngoài (Fed sẵn sàng tăng lãi suất 0,5%, đôla Mỹ tăng mạnh). Dư nợ margin tăng với nguy cơ bán giải chấp, trong khi lãi suất vẫn cao do thiếu vốn (tiền bị đọng 25% trong bất động sản). Ngành công nghệ mở ra cơ hội từ chu kỳ đầu tư AI mới.",
+  "summary_vi": "Chính phủ đặt mục tiêu tăng trưởng 10% năm 2027 với nhu cầu huy động 6-6,4 triệu tỷ đồng, nhưng lãi suất vay vốn quốc tế sẽ tiếp tục neo cao do Fed dự kiến nâng lãi suất. Nợ bất động sản tích tụ 25% dư nợ tín dụng gây chậm vòng quay vốn và áp lực lãi suất. VND chịu áp lực giảm giá từ USD mạnh. Chu kỳ đầu tư AI mới với chi tiêu 3,637 tỷ USD năm 2027 mở cơ hội cho doanh nghiệp CNTT.",
   "top": [
     {
       "title": "Thủ tướng: Mục tiêu tăng trưởng 10% năm 2027, huy động 6-6,4 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Chiều 12/11, Thủ tướng Lê Minh Hưng báo cáo tại Quốc hội: cần huy động 6-6,4 triệu tỷ đồng (36-38% GDP) để đạt mục tiêu tăng trưởng từ 10% năm 2027. Thu ngân sách đạt 2,44 triệu tỷ đồng, xuất nhập khẩu vượt 1.000 tỷ USD. Chính phủ ưu tiên kiểm soát lạm phát, ổn định đồng tiền, giảm 2% giá điện và 30% thuế thu nhập doanh nghiệp."
+      "note": "Chiều 12/11, Thủ tướng Lê Minh Hưng báo cáo tại Quốc hội: cần huy động 6-6,4 triệu tỷ đồng (36-38% GDP) để đạt mục tiêu tăng trưởng từ 10% năm 2027. Thu ngân sách đạt 2,44 triệu tỷ đồng, xuất nhập khẩu vượt 1.000 tỷ USD."
     },
     {
-      "title": "Fed sẵn sàng tăng lãi suất 0,5%, USD tăng mạnh, áp lực VND",
+      "title": "Lãi suất thị trường mới nổi, Việt Nam tiếp tục neo cao tới 2027",
       "impact": "↓",
-      "note": "Phiên 12/11, CPI Mỹ nóng hơn dự báo (công bố 10/11), khả năng Fed tăng 0,5% trong cuộc họp tháng 12 là 15%. USD tăng mạnh: euro xuống 1,10585 USD (thấp nhất từ tháng 4/2025), yên Nhật xuống 159,98 yên/USD. Tạo áp lực lên các đồng tiền châu Á và kỳ vọng vốn ngoài quay về USD."
+      "note": "Mặt bằng lãi suất huy động vốn quốc tế tại Việt Nam duy trì cao tới năm 2027 do lạm phát Mỹ vẫn cao, Fed dự kiến nâng lãi suất, các ngân hàng trung ương khác cũng thắt chặt chính sách tiền tệ."
     },
     {
-      "title": "Dư nợ margin tăng mạnh, bán giải chấp cổ phiếu liên tiếp xuất hiện",
+      "title": "Fed sẵn sàng tăng lãi suất 0,5%, áp lực VND giảm giá",
       "impact": "↓",
-      "note": "Các công ty chứng khoán vừa và nhỏ liên tiếp công bố bán giải chấp: TIG bán giải chấp cổ phiếu sở hữu của bà Nguyễn Hồ Hương Ly; KOS bị bán giải chấp tại SBSI, KIS, UP. Cuộc đua margin gay gắt trong bối cảnh chuyển sang Zero Fee, tạo áp lực rủi ro cao cho nhà đầu tư."
+      "note": "CPI Mỹ tháng 10 nóng hơn dự báo, khả năng Fed tăng 0,5% trong cuộc họp tháng 12 là 15%. USD tăng mạnh, yên Nhật xuống 159,98 yên/USD, tạo áp lực các đồng tiền châu Á và vốn ngoài quay về USD."
     },
     {
-      "title": "Lãi suất cao, tiền vốn đọng 25% trong bất động sản",
+      "title": "Nợ bất động sản 25% dư nợ, vòng quay vốn chậm lại",
       "impact": "↓",
-      "note": "Nhu cầu vốn lớn nhưng nguồn cung hạn chế, một lượng vốn không nhỏ đọng ở lĩnh vực bất động sản (25% tổng dư nợ tín dụng). Vòng quay vốn chậm lại, ngân hàng buộc phải nâng lãi suất huy động để bảo đảm thanh khoản, làm gia tăng nợ xấu và chi phí vốn doanh nghiệp."
+      "note": "Một lượng vốn không nhỏ tích tụ ở bất động sản (25% tổng dư nợ tín dụng), vòng quay vốn chậm khiến ngân hàng nâng lãi suất huy động, gia tăng nợ xấu và chi phí vốn doanh nghiệp."
     },
     {
-      "title": "AI mở ra cơ hội đầu tư công nghệ, dịch vụ CNPT tăng 49,5%",
+      "title": "AI mở cơ hội đầu tư công nghệ, chi tiêu 3,637 tỷ USD năm 2027",
       "impact": "↑",
-      "note": "Chi tiêu toàn cầu AI 2026 ước 2,670 tỷ USD (+49,5% so với năm trước), dự kiến lên 3,637 tỷ USD vào 2027. Chi tiêu AI Services 2026 ~576 tỷ USD, 2027 ~746 tỷ USD. Các dự án AI và bổ sung tính năng AI vào hệ thống hiện hữu có thể tạo cơ hội thị trường ~1,200 tỷ USD vào 2030."
+      "note": "Chi tiêu toàn cầu AI 2026 ước 2,670 tỷ USD (+49,5%), dự kiến 3,637 tỷ USD năm 2027. AI Services 2026 ~576 tỷ USD, 2027 ~746 tỷ USD. Dự án AI có cơ hội thị trường ~1,200 tỷ USD năm 2030."
     },
     {
-      "title": "ACB vượt 1,4 tỷ USD giá trị thương hiệu, tăng 5 lần trong 5 năm",
+      "title": "Phó Thủ tướng: Giải ngân 100% vốn công, đóng góp 1.7% tăng trưởng",
       "impact": "↑",
-      "note": "ACB được Forbes Việt Nam vinh danh Top 50 Thương hiệu dẫn đầu 2026 với giá trị 1,403 tỷ USD. Tăng từ 257 triệu USD (2021) lên 1,403 tỷ USD (2026), tăng hơn 5 lần. Riêng 2 năm gần đây, từ 398 triệu USD (2024) lên 1,403 tỷ USD (2026), tăng gần 4 lần, phản ánh niềm tin thị trường vào ngành ngân hàng."
+      "note": "Ngày 12/11, Phó Thủ tướng Nguyễn Văn Thắng phấn đấu giải ngân toàn bộ vốn đầu tư công đóng góp thêm 1.7% tăng trưởng, đẩy mạnh PPP cho kết cấu hạ tầng giao thông với thời gian khai thác khoảng 20 năm."
     }
   ]
 }
