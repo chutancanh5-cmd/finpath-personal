@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-13",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ cam kết tăng trưởng 10% năm 2027 qua huy động 6-6,4 triệu tỷ đồng (36-38% GDP), Luật Chứng khoán được thông qua cải thiện khung pháp lý. Tuy nhiên, lạm phát Mỹ tháng 10 tăng 0,4% cao hơn dự báo, Fed cứng rắn về thắt chặt tiền tệ, gây áp lực toàn cầu. Giá vàng rơi xuống 138 triệu đồng/lượng (thấp nhất 1 năm), dư nợ margin tăng mạnh đe dọa CTCK vừa/nhỏ, doanh nghiệp phân hóa lợi nhuận, VN-Index nguy cơ lùi 1.650 nếu Vingroup điều chỉnh.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán (hiệu lực từ 01/03/2027), cải thiện môi trường pháp lý. Chính phủ định hướng tăng trưởng 10% năm 2027, cần huy động 6–6,4 triệu tỷ đồng (36-38% GDP) thông qua đầu tư công, PPP, ODA. MB chào bán 200 triệu cổ phiếu, thu 3.018 tỷ đồng cho IT và tín dụng. AI mở chu kỳ đầu tư công nghệ mới với chi tiêu toàn cầu tăng 49,5%. Tuy nhiên rủi ro từ dư nợ margin tăng, bán giải chấp gia tăng, giá vàng xuống 138 triệu/lượng (thấp nhất 1 năm) cần chú ý.",
   "top": [
     {
-      "title": "Thủ tướng: Huy động 6-6,4 triệu tỷ đồng cho tăng trưởng 10% năm 2027",
+      "title": "MB chào bán 200 triệu cổ phiếu, thu 3.018 tỷ đồng",
       "impact": "↑",
-      "note": "Chính phủ cần huy động 6-6,4 triệu tỷ đồng (36-38% GDP) cho mục tiêu tăng trưởng GDP 10% năm 2027. Thu ngân sách 2026 đạt 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD. Chính sách ưu tiên kiểm soát lạm phát, ổn định đồng tiền, giảm 2% giá điện, giảm 30% thuế thu nhập doanh nghiệp."
+      "note": "MB phát hành 200 triệu cổ phiếu với giá 15.090 đồng/cổ phiếu, dự kiến thu 3.018 tỷ đồng dành cho đầu tư hạ tầng công nghệ thông tin và tăng vốn cho hoạt động cho vay khách hàng; vốn điều lệ tăng từ 100.687,5 tỷ lên 102.687,5 tỷ đồng."
     },
     {
-      "title": "Giá vàng giảm xuống 138 triệu đồng/lượng, thấp nhất gần 1 năm",
-      "impact": "↓",
-      "note": "Vàng trong nước giảm mạnh xuống 138 triệu đồng/lượng (thấp nhất ~1 năm), người bán nhận 131-135 triệu đồng/lượng. Vàng thế giới giảm 110 USD/ounce xuống 3.877 USD do lạm phát Mỹ tháng 10 tăng 0,4%, Fed cứng rắn, đồng USD mạnh, khiến kim loại quý giảm hơn 3,3%."
-    },
-    {
-      "title": "Phó Thủ tướng: Giải ngân 100% vốn đầu tư công, đóng góp 1,7% GDP",
+      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán",
       "impact": "↑",
-      "note": "Chính phủ phấn đấu giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng kinh tế. Đẩy mạnh thu hút đầu tư theo PPP (đặc biệt hạ tầng giao thông), doanh nghiệp đầu tư xây dựng+thu phí hoặc Nhà nước xây dựng rồi chuyển giao, thời gian khai thác khoảng 20 năm."
+      "note": "Với 463/464 đại biểu tán thành, Quốc hội thông qua Luật gồm 03 Điều, có hiệu lực từ 01/03/2027; bao gồm cơ chế thử nghiệm có kiểm soát, tạo điều kiện thử nghiệm mô hình, sản phẩm và dịch vụ mới trên thị trường."
     },
     {
-      "title": "Dư nợ margin tăng mạnh, bán giải chấp liên tiếp tại CTCK vừa/nhỏ",
-      "impact": "↓",
-      "note": "Thông báo bán giải chấp cổ phiếu xuất hiện liên tiếp tại CTCK vừa/nhỏ (TIG, KOS, SBSI, KIS, UP). Dư nợ margin toàn thị trường tăng mạnh, cạnh tranh gay gắt gây áp lực quản trị rủi ro. Margin là nguồn thu chính sau chuyển đổi Zero Fee, nhưng yêu cầu huy động vốn cao, chi phí cao, khó kiểm soát rủi ro."
-    },
-    {
-      "title": "Quốc hội thông qua Luật Chứng khoán sửa đổi (463/464 phiếu)",
+      "title": "Thủ tướng: Tăng trưởng 10% năm 2027, huy động 6–6,4 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (3 điều), hiệu lực từ 01/3/2027. Bao gồm cơ chế thử nghiệm có kiểm soát cho các mô hình, sản phẩm, dịch vụ mới. Nâng cao công khai, minh bạch, phát triển TTCK an toàn, bền vững."
+      "note": "Mục tiêu tăng trưởng từ 10% năm 2027, cần huy động 6–6,4 triệu tỷ đồng (36-38% GDP) qua giải ngân 100% vốn đầu tư công, ODA, PPP; xuất nhập khẩu năm nay lần đầu vượt 1.000 tỷ USD."
     },
     {
-      "title": "VN-Index có nguy cơ lùi về 1.650 điểm trong kịch bản tiêu cực",
+      "title": "AI mở ra chu kỳ đầu tư công nghệ mới",
+      "impact": "↑",
+      "note": "Chi tiêu toàn cầu liên quan AI dự báo đạt 2.670 tỷ USD năm 2026, tăng 49,5%; chi tiêu AI Services dự kiến 576 tỷ USD năm 2026, tăng lên 746 tỷ USD năm 2027; dự án AI tạo cơ hội thị trường khoảng 1.200 tỷ USD vào 2030."
+    },
+    {
+      "title": "Cuộc đua cho vay margin nóng, bán giải chấp tăng",
       "impact": "↓",
-      "note": "Nếu Vingroup hình thành mô hình hai đỉnh trung hạn, VN-Index có thể giảm về 1.650 điểm. P/E hiện 10,8 lần (thấp hơn khủng hoảng tháng 4/2025, gần mức đáy COVID-19 tháng 4/2020). Lợi nhuận phân hóa: 506/1.110 doanh nghiệp giảm; loại Vingroup chỉ tăng 22% thay vì 42,9%."
+      "note": "Dư nợ margin toàn thị trường tăng mạnh, cạnh tranh gay gắt giữa các công ty chứng khoán; bán giải chấp liên tiếp xuất hiện tại CTCK quy mô vừa và nhỏ; đặt câu hỏi về quản trị rủi ro trong bối cảnh chuyển sang mô hình Zero Fee."
+    },
+    {
+      "title": "Kịch bản tiêu cực: VN-Index nguy cơ lùi về 1650 điểm",
+      "impact": "↓",
+      "note": "Nếu cổ phiếu Vingroup hình thành mô hình hai đỉnh trung hạn và điều chỉnh mạnh, VN-Index có thể giảm về vùng hỗ trợ 1.650 điểm; P/E hiện 10,8 lần, thấp hơn mức đáy tháng 4/2025."
     }
   ]
 }
