@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-13",
-  "overall_sentiment": "Tích cực",
-  "summary_vi": "Chính sách tiền tệ ưu tiên giảm lãi suất và giải ngân 100% vốn đầu tư công được kỳ vọng đóng góp 1,7% tăng trưởng GDP. Quốc hội thông qua sửa đổi Luật Chứng khoán, tạo cơ sở pháp lý tốt hơn cho thị trường. FDI từ Trung Quốc vào Bắc Ninh đạt 12,56 tỷ USD với 1.664 dự án, hỗ trợ tăng trưởng kinh tế. Tuy nhiên, thị trường phân hóa mạnh với áp lực bán tăng và rủi ro tăng dư nợ margin yêu cầu cần chú ý ngắn hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán giằng co với dòng tiền phân hóa khi VN-Index chỉ tăng 0,01%, sắc đỏ chiếm ưu thế toàn sàn (394 mã giảm vs 296 mã tăng). Phiên sáng VN-Index giảm hơn 10 điểm trước khi hồi phục nhờ mua bắt đáy cuối phiên. Tính tích cực từ chính sách vĩ mô (cam kết giải ngân 100% vốn đầu tư công +1,7% tăng trưởng, FDI Trung Quốc 12,56 tỷ USD, Luật Chứng khoán sửa đổi) chưa thể đẩy mạnh tâm lý nhà đầu tư khi áp lực bán tăng và rủi ro margin gia tăng.",
   "top": [
     {
-      "title": "Chính phủ phấn đấu giải ngân 100% vốn đầu tư công",
+      "title": "Chính phủ cam kết giải ngân 100% vốn đầu tư công 2026",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng cam kết giải ngân toàn bộ vốn đầu tư công, đóng góp 1,7% tăng trưởng kinh tế. Chính sách ưu tiên hỗ trợ hạ tầng và phát triển kinh tế."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng cam kết sẽ giải ngân toàn bộ vốn đầu tư công, dự kiến đóng góp thêm 1,7% tăng trưởng kinh tế. Hỗ trợ tâm lý thông qua kỳ vọng tăng cầu hạ tầng và hoạt động kinh tế."
     },
     {
-      "title": "Quốc hội thông qua Luật sửa đổi Chứng khoán",
-      "impact": "↑",
-      "note": "463/464 đại biểu tán thành, luật gồm 3 điều, có hiệu lực từ 1/3/2027. Tạo cơ sở pháp lý ổn định hơn cho phát triển thị trường chứng khoán."
+      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán",
+      "impact": "→",
+      "note": "463/464 đại biểu tán thành, Luật gồm 3 điều, hiệu lực từ 1/3/2027. Tập trung cơ chế thử nghiệm có kiểm soát, tạo cơ sở pháp lý tốt hơn cho phát triển thị trường an toàn, minh bạch."
     },
     {
-      "title": "FDI Trung Quốc vào Bắc Ninh đạt 12,56 tỷ USD",
+      "title": "FDI Trung Quốc tập trung Bắc Ninh: 1.664 dự án, 12,56 tỷ USD",
       "impact": "↑",
-      "note": "1.664 dự án FDI từ Trung Quốc tại Bắc Ninh, vốn đầu tư đăng ký 12,56 tỷ USD. Hỗ trợ tăng trưởng xuất nhập khẩu và xây dựng chuỗi giá trị toàn cầu."
+      "note": "Bắc Ninh tiếp nhận 1.664 dự án FDI từ Trung Quốc với tổng vốn đăng ký 12,56 tỷ USD, được xem là thành phố trẻ nhất Việt Nam. Tạo lợi thế cho cấp công nghiệp, logistics, xuất nhập khẩu."
     },
     {
-      "title": "NHNN thanh tra việc giảm lãi suất tháng 11",
-      "impact": "↑",
-      "note": "NHNN yêu cầu thanh tra diện rộng thực hiện giảm lãi suất tại các tổ chức tín dụng, vi phạm bị xử lý nghiêm. Đảm bảo chính sách ưu tiên giảm chi phí tài chính cho nền kinh tế."
-    },
-    {
-      "title": "Cuộc đua margin nóng với áp lực rủi ro tăng",
+      "title": "Thị trường phân hóa mạnh, áp lực bán gia tăng",
       "impact": "↓",
-      "note": "Dư nợ margin toàn thị trường tăng mạnh, nhiều công ty chứng khoán vừa và nhỏ gặp áp lực, xuất hiện các thông báo bán giải chấp. Rủi ro quản trị dư nợ cao cần theo dõi."
+      "note": "VN-Index tăng chỉ 0,18 điểm (+0,01%), HNX-Index giảm 0,64%. Phiên sáng VN-Index giảm hơn 10 điểm trước khi phục hồi cuối phiên. Sắc đỏ chiếm ưu thế với 394 mã giảm, chỉ 296 mã tăng, phản ánh tâm lý thận trọng."
     },
     {
-      "title": "VN-Index trong kịch bản tiêu cực có nguy cơ lùi về 1.650 điểm",
+      "title": "Dư nợ margin tăng mạnh, áp lực bán giải chấp gia tăng",
       "impact": "↓",
-      "note": "Nếu cổ phiếu Vingroup hình thành mô hình hai đỉnh và điều chỉnh mạnh, VN-Index có thể giảm về vùng 1.650 điểm. P/E hiện ở 10,8 lần cho thấy thị trường đã định giá hấp dẫn nhưng rủi ro vẫn tồn tại."
+      "note": "Dư nợ margin toàn thị trường tăng mạnh trong cuộc cạnh tranh gay gắt giữa các công ty chứng khoán. Thông báo bán giải chấp xuất hiện liên tục tại các CTCK vừa và nhỏ, báo hiệu nguy cơ quản trị rủi ro cao."
+    },
+    {
+      "title": "NHNN thanh tra giảm lãi suất, lãi suất vẫn gây áp lực",
+      "impact": "→",
+      "note": "NHNN chi nhánh khu vực thanh tra diện rộng thực hiện giảm lãi suất tại các tổ chức tín dụng trong tháng 11. Tuy nhiên, doanh nghiệp lo ngại lãi suất vẫn ở mức cao, tạo áp lực dòng tiền cho các ngành chu kỳ sản xuất dài."
     }
   ]
 }
