@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-13",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Quốc hội thông qua Luật sửa đổi Chứng khoán (hiệu lực 1/3/2027), chính phủ phấn đấu giải ngân 100% vốn đầu tư công mục tiêu 1,7% GDP, NHNN triển khai thanh tra giảm lãi suất—các tín hiệu chính sách tích cực. Tuy nhiên, thị trường chứng khoán tiếp tục yếu với P/E 10,8 lần (ngang đáy khủng hoảng), sắc đỏ chiếm ưu thế (198 mã giảm vs 117 mã tăng); vốn bị đọng bất động sản (25% dư nợ) gia tăng áp lực lãi suất, trong khi cạnh tranh margin tạo rủi ro cho các CTCK vừa và nhỏ.",
+  "overall_sentiment": "Tích cực",
+  "summary_vi": "Chính sách tiền tệ ưu tiên giảm lãi suất và giải ngân 100% vốn đầu tư công được kỳ vọng đóng góp 1,7% tăng trưởng GDP. Quốc hội thông qua sửa đổi Luật Chứng khoán, tạo cơ sở pháp lý tốt hơn cho thị trường. FDI từ Trung Quốc vào Bắc Ninh đạt 12,56 tỷ USD với 1.664 dự án, hỗ trợ tăng trưởng kinh tế. Tuy nhiên, thị trường phân hóa mạnh với áp lực bán tăng và rủi ro tăng dư nợ margin yêu cầu cần chú ý ngắn hạn.",
   "top": [
+    {
+      "title": "Chính phủ phấn đấu giải ngân 100% vốn đầu tư công",
+      "impact": "↑",
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng cam kết giải ngân toàn bộ vốn đầu tư công, đóng góp 1,7% tăng trưởng kinh tế. Chính sách ưu tiên hỗ trợ hạ tầng và phát triển kinh tế."
+    },
     {
       "title": "Quốc hội thông qua Luật sửa đổi Chứng khoán",
       "impact": "↑",
-      "note": "Sáng 13/11, 463/464 đại biểu Quốc hội tán thành thông qua Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (3 Điều), có hiệu lực từ 1/3/2027, hoàn thiện khung pháp lý và nâng cao tính minh bạch của thị trường."
+      "note": "463/464 đại biểu tán thành, luật gồm 3 điều, có hiệu lực từ 1/3/2027. Tạo cơ sở pháp lý ổn định hơn cho phát triển thị trường chứng khoán."
     },
     {
-      "title": "Phó TT: Giải ngân 100% vốn đầu tư công, đóng góp 1,7% GDP",
+      "title": "FDI Trung Quốc vào Bắc Ninh đạt 12,56 tỷ USD",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng cam kết giải ngân 100% vốn đầu tư công năm 2026 và thúc đẩy đầu tư theo hình thức PPP (Nhà nước chia sẻ rủi ro), dự kiến đóng góp thêm 1,7% tăng trưởng kinh tế, hỗ trợ kết cấu hạ tầng giao thông."
+      "note": "1.664 dự án FDI từ Trung Quốc tại Bắc Ninh, vốn đầu tư đăng ký 12,56 tỷ USD. Hỗ trợ tăng trưởng xuất nhập khẩu và xây dựng chuỗi giá trị toàn cầu."
     },
     {
-      "title": "NHNN thanh tra thực hiện giảm lãi suất tháng 11",
-      "impact": "→",
-      "note": "Ngân hàng Nhà nước yêu cầu các chi nhánh khu vực tổ chức thanh tra, kiểm tra chuyên đề diện rộng về thực hiện giảm lãi suất tại các tổ chức tín dụng ngay tháng 11 theo chỉ đạo Phó TT, xử lý nghiêm các vi phạm—quản lý thực thi chính sách."
+      "title": "NHNN thanh tra việc giảm lãi suất tháng 11",
+      "impact": "↑",
+      "note": "NHNN yêu cầu thanh tra diện rộng thực hiện giảm lãi suất tại các tổ chức tín dụng, vi phạm bị xử lý nghiêm. Đảm bảo chính sách ưu tiên giảm chi phí tài chính cho nền kinh tế."
     },
     {
-      "title": "VN-Index P/E 10,8 lần, rủi ro giảm về 1.650 điểm",
+      "title": "Cuộc đua margin nóng với áp lực rủi ro tăng",
       "impact": "↓",
-      "note": "VN-Index cuối tháng 10 có P/E 10,8 lần (ngang đáy COVID-19 tháng 4/2020), phiên 13/11 sắc đỏ chiếm ưu thế (198 mã giảm vs 117 mã tăng). Kịch bản tiêu cực: nếu nhóm Vingroup điều chỉnh mạnh, VN-Index có thể lùi về vùng hỗ trợ 1.650 điểm trước khi hồi phục."
+      "note": "Dư nợ margin toàn thị trường tăng mạnh, nhiều công ty chứng khoán vừa và nhỏ gặp áp lực, xuất hiện các thông báo bán giải chấp. Rủi ro quản trị dư nợ cao cần theo dõi."
     },
     {
-      "title": "Vốn bị đọng BĐS, vòng quay chậm, áp lực lãi suất",
+      "title": "VN-Index trong kịch bản tiêu cực có nguy cơ lùi về 1.650 điểm",
       "impact": "↓",
-      "note": "Dư nợ cho vay bất động sản chiếm khoảng 25% tổng dư nợ tín dụng, vòng quay vốn chậm lại, khiến ngân hàng phải duy trì lãi suất cao để bảo đảm thanh khoản, che phủ rủi ro nợ xấu gia tăng—nguyên nhân cơ bản khiến lãi suất hạ khó."
-    },
-    {
-      "title": "Cạnh tranh margin gia tăng, bán giải chấp liên tiếp",
-      "impact": "↓",
-      "note": "Dư nợ margin toàn thị trường tăng mạnh trong bối cảnh các CTCK chuyển sang mô hình Zero Fee. Các CTCK vừa và nhỏ (SBSI, Nhất Việt, KIS, UP) ghi nhận thông báo bán giải chấp liên tiếp (TIG, KOS, etc.), phản ánh áp lực kiểm soát rủi ro ngượng ngạo."
+      "note": "Nếu cổ phiếu Vingroup hình thành mô hình hai đỉnh và điều chỉnh mạnh, VN-Index có thể giảm về vùng 1.650 điểm. P/E hiện ở 10,8 lần cho thấy thị trường đã định giá hấp dẫn nhưng rủi ro vẫn tồn tại."
     }
   ]
 }
