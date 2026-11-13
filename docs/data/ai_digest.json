@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Quốc hội thông qua Luật Chứng khoán bổ sung cơ chế thử nghiệm công nghệ và chính phủ phấn đấu giải ngân 100% vốn đầu tư công là những tín hiệu tích cực hỗ trợ thị trường. Tuy nhiên, thị trường chứng khoán đang chịu áp lực từ nhiều hướng: VN-Index có nguy cơ lùi 1.650 điểm nếu Vingroup điều chỉnh mạnh, dư nợ margin tăng gây rủi ro hệ thống, giá vàng yếu, lãi suất cao tới 2027 và nợ bất động sản tồn đọng (25% dư nợ). Tăng trưởng lợi nhuận phân hóa với chỉ 506/1.110 doanh nghiệp cải thiện cho thấy chỉ số chủ yếu được kéo lên bởi các tập đoàn lớn, gây rủi ro tập trung.",
+  "summary_vi": "Quốc hội thông qua Luật Chứng khoán mới và Phó Thủ tướng cam kết giải ngân 100% vốn công hỗ trợ thị trường, nhưng thị trường hôm nay rung lắc yếu với VN-Index giảm 0,17% giữa bối cảnh phân hóa rõ rệt. Áp lực từ lãi suất cao kéo dài tới 2027, dư nợ margin tăng mạnh với CTCK nhỏ buộc bán giải chấp, và nguy cơ VN-Index giảm sâu đến 1.650 điểm nếu Vingroup yếu (khi loại Vingroup lợi nhuận chỉ tăng 22%) làm lu mờ những tín hiệu tích cực từ chính sách.",
   "top": [
     {
       "title": "Quốc hội thông qua Luật Chứng khoán bổ sung cơ chế thử nghiệm",
       "impact": "↑",
-      "note": "463/464 đại biểu tán thành ngày 13/11. Luật bổ sung quy định cơ chế thử nghiệm có kiểm soát trong lĩnh vực chứng khoán, cho phép triển khai thử nghiệm công nghệ, sản phẩm, mô hình kinh doanh mới có giới hạn phạm vi, đối tượng, không gian, thời gian, có hiệu lực từ 1/3/2027. Mở rộng sáng tạo và phát triển bền vững thị trường."
+      "note": "463/464 đại biểu tán thành ngày 13/11, luật bổ sung cơ chế thử nghiệm có kiểm soát trong lĩnh vực chứng khoán, hiệu lực từ 1/3/2027 - cho phép triển khai thử nghiệm công nghệ, sản phẩm, mô hình kinh doanh mới"
     },
     {
-      "title": "Chính phủ phấn đấu giải ngân 100% vốn đầu tư công, đóng góp 1,7% GDP",
+      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công, đóng góp 1,7% GDP",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng tuyên bố phấn đấu giải ngân 100% vốn đầu tư công, dự kiến đóng góp thêm 1,7% vào tăng trưởng kinh tế (phát biểu 12/11). Đẩy mạnh đầu tư theo phương thức PPP, thu hút doanh nghiệp tham gia lĩnh vực hạ tầng giao thông."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng phát biểu 12/11 phấn đấu giải ngân 100% vốn đầu tư công, dự kiến đóng góp thêm 1,7% tăng trưởng kinh tế, đẩy mạnh đầu tư hạ tầng theo phương thức PPP"
     },
     {
-      "title": "VN-Index nguy cơ lùi 1.650 điểm, Vingroup ảnh hưởng quyết định",
+      "title": "Thị trường 13/11 rung lắc yếu, VN-Index giảm 0,17%, phân hóa rõ rệt",
       "impact": "↓",
-      "note": "Nếu Vingroup hình thành mô hình hai đỉnh trung hạn, VN-Index có thể lùi 1.650 điểm. Lợi nhuận toàn mẫu tăng 42,9% nhưng chỉ 506/1.110 doanh nghiệp cải thiện; loại Vingroup thì tăng chỉ 22%. P/E 10,8 lần gần mức 10,3 lần tháng 4/2020 (đáy COVID), cho thấy sự phụ thuộc cao vào một nhóm tập đoàn."
+      "note": "VN-Index giảm 2,91 điểm xuống 1.731,84 điểm (-0,17%), độ rộng thị trường nghiêng bán với 355 mã giảm/239 mã tăng, nhóm công nghệ giảm 0,78%, CTG/BID/VHM ảnh hưởng tiêu cực"
     },
     {
-      "title": "Dư nợ margin tăng mạnh, xuất hiện bán giải chấp, rủi ro quản trị",
+      "title": "Dư nợ margin tăng mạnh, CTCK nhỏ phải bán giải chấp",
       "impact": "↓",
-      "note": "Các CTCK vừa và nhỏ liên tiếp ghi nhận thông báo bán giải chấp cổ phiếu. Dư nợ margin toàn thị trường tăng mạnh, tạo cạnh tranh gay gắt. Margin là nguồn thu quan trọng của CTCK sau chuyển dịch Zero Fee, nhưng tạo áp lực quản trị rủi ro dư nợ."
+      "note": "Các CTCK vừa và nhỏ liên tiếp ghi nhận bán giải chấp (TIG, KOS, SBSI, Nhất Việt, KIS, UP), dư nợ margin toàn thị trường tăng mạnh tạo áp lực quản trị rủi ro"
     },
     {
-      "title": "Giá vàng giảm mạnh 1 triệu đồng/lượng, xuống 135-138 triệu",
+      "title": "VN-Index P/E 10,8 lần gần mức COVID, nguy cơ lùi 1.650 điểm",
       "impact": "↓",
-      "note": "Vàng miếng giảm 1 triệu đồng/lượng so với buổi sáng, hiện ở 135,0 - 138,0 triệu đồng/lượng. Giá vàng quốc tế rơi xuống 3.890 USD/ounce, dưới mốc 3.900 USD/ounce. Giá vàng yếu giảm hấp dẫn tài sản trú ẩn, ảnh hưởng dòng tiền vào cổ phiếu."
+      "note": "P/E 10,8 lần gần mức 10,3 lần tháng 4/2020, loại Vingroup lợi nhuận chỉ tăng 22%, chỉ số chủ yếu được kéo bởi nhóm tập đoàn; kịch bản tiêu cực VN-Index có thể lùi 1.650 điểm"
     },
     {
-      "title": "Lãi suất thị trường mới nổi sẽ tiếp tục cao tới 2027",
+      "title": "Lãi suất thị trường mới nổi tiếp tục cao tới 2027",
       "impact": "↓",
-      "note": "Fed nhiều khả năng tiếp tục nâng lãi suất đầu tháng 12 do số liệu việc làm tích cực kết hợp lạm phát vẫn tăng. Mặt bằng lãi suất thị trường mới nổi như Việt Nam sẽ duy trì mức cao trong tháng cuối 2026 và đầu 2027. Nhu cầu huy động vốn lớn phải đối mặt chi phí cao, ảnh hưởng đến junk bonds, high-yield bonds."
+      "note": "Fed dự kiến nâng lãi suất tháng 12, mặt bằng lãi suất thị trường mới nổi như Việt Nam sẽ duy trì mức cao cuối 2026 và đầu 2027, tăng chi phí vốn doanh nghiệp và huy động vốn quốc tế"
     }
   ]
 }
