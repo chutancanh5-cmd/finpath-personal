@@ -1,8 +1,8 @@
 {
   "_opus": true,
   "date": "2026-11-13",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đang đối mặt áp lực từ lạm phát Mỹ tăng 0,4% tháng 10 và kỳ vọng Fed thắt chặt tiền tệ tiếp theo. Giá vàng giảm mạnh còn 138 triệu đồng/lượng (thấp nhất 1 năm), lãi suất thị trường mới nổi sẽ neo cao tới 2027, trong khi VN-Index có nguy cơ lùi về 1650 điểm nếu Vingroup điều chỉnh mạnh. Tuy nhiên, Quốc hội vừa thông qua Luật Chứng khoán sửa đổi, Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công (đóng góp 1,7% tăng trưởng GDP) và MB tăng vốn 3.018 tỷ đồng là những tín hiệu hỗ trợ dài hạn.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam diễn biến phức tạp với những tín hiệu cải tiến từ phía pháp luật (Luật sửa đổi Chứng khoán từ 1/3/2027) và nâng cấp hạ tầng thu hút vốn ngoại. Chính phủ phấn đấu giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng; MB tăng vốn 3.018 tỷ đồng; AI tạo cơ hội với chi tiêu toàn cầu tăng 49,5%. Tuy nhiên, áp lực lãi suất toàn cầu dự kiến neo cao tới 2027, dư nợ margin gia tăng có rủi ro, giá vàng xuống 138 triệu/lượng (thấp nhất 1 năm), VN-Index có thể lùi về 1650 điểm trong kịch bản tiêu cực.",
   "top": [
     {
       "title": "Fed sắp tăng lãi suất, lạm phát Mỹ tăng 0,4% tháng 10",
@@ -25,9 +25,9 @@
       "note": "463/464 đại biểu tán thành, 3 Điều sửa đổi, có hiệu lực từ 1/3/2027; làm rõ cơ chế thử nghiệm có kiểm soát, nâng cao môi trường pháp lý cho thị trường phát triển an toàn, minh bạch, bền vững."
     },
     {
-      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công",
-      "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng khẳng định giải ngân 100% có thể đóng góp thêm 1,7% tăng trưởng GDP, đẩy mạnh PPP, dự kiến doanh nghiệp đầu tư xây dựng với thời gian khai thác khoảng 20 năm."
+      "title": "SGI Capital: Lãi suất thị trường mới nổi neo cao tới năm 2027",
+      "impact": "↓",
+      "note": "Mặt bằng lãi suất cho hoạt động huy động vốn quốc tế tại Việt Nam dự kiến neo cao tới cuối 2026 và đầu 2027. Fed dự kiến nâng lãi suất đầu tháng 12; lạm phát Mỹ vẫn cao, chi phí vốn tăng áp lực lên doanh nghiệp và chi tiêu đầu tư."
     },
     {
       "title": "MB tăng vốn 3.018 tỷ đồng phát hành 200 triệu cổ phiếu",
