@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Áp lực từ Fed tăng lãi suất và vàng giảm 110,7 USD/oz xuống 3.878,4 USD/oz phản ánh lo ngại lạm phát toàn cầu, gây rủi ro cho khối margin TTCK Việt Nam qua các trường hợp bán giải chấp liên tiếp. Tuy nhiên, chính sách nội bộ mạnh mẽ: chính phủ huy động 6-6,4 triệu tỷ đồng (36-38% GDP) để đạt 10% tăng trưởng năm 2027, giải ngân 100% vốn đầu tư công sẽ đóng góp thêm 1,7% tăng trưởng. Ngành CNTT bước vào giai đoạn hưởng lợi từ AI với chi tiêu toàn cầu 2,670 tỷ USD (tăng 49,5%) và cơ hội 1,200 tỷ USD vào 2030.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam hôm nay cân nhắc giữa những tín hiệu tích cực từ chính sách (mục tiêu tăng trưởng 10% năm 2027, huy động 6-6,4 triệu tỷ đồng) và áp lực từ bên ngoài (Fed sẵn sàng tăng lãi suất 0,5%, đôla Mỹ tăng mạnh). Dư nợ margin tăng với nguy cơ bán giải chấp, trong khi lãi suất vẫn cao do thiếu vốn (tiền bị đọng 25% trong bất động sản). Ngành công nghệ mở ra cơ hội từ chu kỳ đầu tư AI mới.",
   "top": [
     {
-      "title": "Fed sẵn sàng tăng lãi suất 0,5% tháng 12, USD mạnh, đồng tiền châu Á mất giá",
-      "impact": "↓",
-      "note": "Khả năng 100% Fed tăng lãi suất cuộc họp tháng 12, trong đó 15% khả năng tăng 0,5 điểm phần trăm; USD tăng, euro giảm 0,3%, yên Nhật giảm 0,13% so với USD xuống 159,98 yên/USD, đôla Australia giảm 0,58% xuống 0,6808 USD, áp lực lên các đồng tiền châu Á"
-    },
-    {
-      "title": "Vàng giảm mạnh 110,7 USD/oz xuống 3.878,4 USD/oz, mức thấp nhất 13 tháng",
-      "impact": "↓",
-      "note": "Giá vàng giao ngay tại New York giảm 110,7 USD/oz (giảm 2,8%), chốt ở mức 3.878,4 USD/oz, thấp nhất kể từ tháng 10/2025; giá bạc giảm 1,61 USD/oz (giảm 3,1%); trong nước vàng miếng giảm 500.000-1 triệu đồng/lượng xuống 135-138 triệu đồng/lượng"
-    },
-    {
-      "title": "Dư nợ margin TTCK tăng mạnh, bán giải chấp liên tiếp tại CTCK vừa và nhỏ",
-      "impact": "↓",
-      "note": "Các CTCK quy mô vừa nhỏ như TIG, KOS, SBSI, Nhất Việt, KIS Việt Nam, UP xuất hiện thông báo bán giải chấp liên tiếp; dư nợ margin toàn thị trường tăng mạnh, áp lực kiểm soát rủi ro gia tăng, margin là nguồn thu quan trọng nhất của CTCK sau chuyển sang mô hình Zero Fee"
-    },
-    {
-      "title": "Chính phủ huy động 6-6,4 triệu tỷ đồng, mục tiêu 10% tăng trưởng năm 2027",
+      "title": "Thủ tướng: Mục tiêu tăng trưởng 10% năm 2027, huy động 6-6,4 triệu tỷ đồng",
       "impact": "↑",
-      "note": "Thủ tướng báo cáo Quốc hội cần huy động 6-6,4 triệu tỷ đồng tương đương 36-38% GDP để mục tiêu 10% tăng trưởng 2027; thu ngân sách 2026 đạt 2,44 triệu tỷ đồng, xuất nhập khẩu lần đầu vượt 1.000 tỷ USD; chính sách giảm thuế, giảm điện 2% để hạ chi phí đầu vào"
+      "note": "Chiều 12/11, Thủ tướng Lê Minh Hưng báo cáo tại Quốc hội: cần huy động 6-6,4 triệu tỷ đồng (36-38% GDP) để đạt mục tiêu tăng trưởng từ 10% năm 2027. Thu ngân sách đạt 2,44 triệu tỷ đồng, xuất nhập khẩu vượt 1.000 tỷ USD. Chính phủ ưu tiên kiểm soát lạm phát, ổn định đồng tiền, giảm 2% giá điện và 30% thuế thu nhập doanh nghiệp."
     },
     {
-      "title": "Giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng kinh tế",
-      "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng phát biểu mục tiêu giải ngân 100% vốn đầu tư công để đóng góp thêm 1,7% tăng trưởng; phát triển hạ tầng giao thông qua hình thức PPP, doanh nghiệp đầu tư và thu phí với thời gian khai thác khoảng 20 năm"
+      "title": "Fed sẵn sàng tăng lãi suất 0,5%, USD tăng mạnh, áp lực VND",
+      "impact": "↓",
+      "note": "Phiên 12/11, CPI Mỹ nóng hơn dự báo (công bố 10/11), khả năng Fed tăng 0,5% trong cuộc họp tháng 12 là 15%. USD tăng mạnh: euro xuống 1,10585 USD (thấp nhất từ tháng 4/2025), yên Nhật xuống 159,98 yên/USD. Tạo áp lực lên các đồng tiền châu Á và kỳ vọng vốn ngoài quay về USD."
     },
     {
-      "title": "Chi tiêu AI toàn cầu 2,670 tỷ USD (tăng 49,5%), cơ hội 1,200 tỷ USD vào 2030",
+      "title": "Dư nợ margin tăng mạnh, bán giải chấp cổ phiếu liên tiếp xuất hiện",
+      "impact": "↓",
+      "note": "Các công ty chứng khoán vừa và nhỏ liên tiếp công bố bán giải chấp: TIG bán giải chấp cổ phiếu sở hữu của bà Nguyễn Hồ Hương Ly; KOS bị bán giải chấp tại SBSI, KIS, UP. Cuộc đua margin gay gắt trong bối cảnh chuyển sang Zero Fee, tạo áp lực rủi ro cao cho nhà đầu tư."
+    },
+    {
+      "title": "Lãi suất cao, tiền vốn đọng 25% trong bất động sản",
+      "impact": "↓",
+      "note": "Nhu cầu vốn lớn nhưng nguồn cung hạn chế, một lượng vốn không nhỏ đọng ở lĩnh vực bất động sản (25% tổng dư nợ tín dụng). Vòng quay vốn chậm lại, ngân hàng buộc phải nâng lãi suất huy động để bảo đảm thanh khoản, làm gia tăng nợ xấu và chi phí vốn doanh nghiệp."
+    },
+    {
+      "title": "AI mở ra cơ hội đầu tư công nghệ, dịch vụ CNPT tăng 49,5%",
       "impact": "↑",
-      "note": "Gartner dự báo chi tiêu AI toàn cầu 2026 ước 2,670 tỷ USD (tăng 49,5%), AI Services 576 tỷ USD năm 2026 và 746 tỷ USD năm 2027; các dự án chuyển đổi AI và bổ sung tính năng vào hệ thống hiện hữu tạo cơ hội thị trường 1,200 tỷ USD vào 2030"
+      "note": "Chi tiêu toàn cầu AI 2026 ước 2,670 tỷ USD (+49,5% so với năm trước), dự kiến lên 3,637 tỷ USD vào 2027. Chi tiêu AI Services 2026 ~576 tỷ USD, 2027 ~746 tỷ USD. Các dự án AI và bổ sung tính năng AI vào hệ thống hiện hữu có thể tạo cơ hội thị trường ~1,200 tỷ USD vào 2030."
+    },
+    {
+      "title": "ACB vượt 1,4 tỷ USD giá trị thương hiệu, tăng 5 lần trong 5 năm",
+      "impact": "↑",
+      "note": "ACB được Forbes Việt Nam vinh danh Top 50 Thương hiệu dẫn đầu 2026 với giá trị 1,403 tỷ USD. Tăng từ 257 triệu USD (2021) lên 1,403 tỷ USD (2026), tăng hơn 5 lần. Riêng 2 năm gần đây, từ 398 triệu USD (2024) lên 1,403 tỷ USD (2026), tăng gần 4 lần, phản ánh niềm tin thị trường vào ngành ngân hàng."
     }
   ]
 }
