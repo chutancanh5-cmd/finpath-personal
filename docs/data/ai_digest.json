@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam phản ánh cân bằng giữa lạc quan chính sách và rủi ro nội tại. Nhà nước cam kết giải ngân 100% vốn đầu tư công, sẽ đóng góp thêm 1,7% tăng trưởng GDP; FDI Trung Quốc tiếp tục mạnh (12,56 tỷ USD tại Bắc Ninh). Tuy nhiên, dư nợ margin tăng với bán giải chấp liên tiếp tại CTCK vừa/nhỏ, giám sát lãi suất ngân hàng chặt chẽ có thể hạn chế cơ sở tiền tệ. VN-Index rủi ro lùi 1.650 điểm trong kịch bản tiêu cực nếu cổ phiếu Vingroup điều chỉnh mạnh.",
+  "summary_vi": "Thị trường chứng khoán tiếp tục giằng co với 88/96 quỹ cổ phiếu lỗ tháng 10 và dòng tiền phân hóa. Tuy nhiên, nỗ lực giải ngân 100% vốn đầu tư công hỗ trợ thêm 1,7% tăng trưởng GDP, FDI Trung Quốc 12,56 tỷ USD tại Bắc Ninh, và thông qua Luật sửa đổi Luật Chứng khoán mang lại hỗ trợ dài hạn cho thị trường. Áp lực lãi suất giảm và cuộc đua margin tăng cần theo dõi trong ngắn hạn.",
   "top": [
     {
-      "title": "Phó Thủ tướng cam kết giải ngân 100% vốn đầu tư công, thêm 1,7% tăng trưởng GDP",
+      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán",
       "impact": "↑",
-      "note": "Phó Thủ tướng Nguyễn Văn Thắng (12/11) cam kết giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng kinh tế. Nhấn mạnh hình thức PPP trong lĩnh vực kết cấu hạ tầng giao thông, giúp huy động vốn xã hội và chia sẻ rủi ro với doanh nghiệp."
+      "note": "Quốc hội thông qua Luật sửa đổi, bổ sung Luật Chứng khoán với 463/464 đại biểu tán thành (13/11). Luật gồm 3 điều, có hiệu lực từ 1/3/2027, bao gồm cơ chế thử nghiệm có kiểm soát, tạo nền tảng pháp lý cho phát triển thị trường an toàn, minh bạch và bền vững."
     },
     {
-      "title": "Bắc Ninh thu hút 1.664 dự án FDI Trung Quốc, vốn 12,56 tỷ USD",
+      "title": "FDI Trung Quốc vào Bắc Ninh đạt 12,56 tỷ USD",
       "impact": "↑",
-      "note": "Bắc Ninh là đối tượng FDI lớn nhất từ Trung Quốc với 1.664 dự án còn hiệu lực, tổng vốn đầu tư đăng ký 12,56 tỷ USD. Thành phố thành lập tổ Xúc tiến Đầu tư Trung Quốc (China Desk) phục vụ nhà đầu tư, góp phần hình thành chuỗi giá trị toàn cầu."
+      "note": "Trung Quốc là quốc gia dẫn đầu FDI tại Bắc Ninh với 1.664 dự án còn hiệu lực, tổng vốn đầu tư đăng ký 12,56 tỷ USD. Bắc Ninh thành lập tổ China Desk để hỗ trợ nhà đầu tư, định vị là trung tâm logistics, công nghiệp công nghệ cao, nâng cao vị thế trong chuỗi giá trị toàn cầu."
     },
     {
-      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán, hiệu lực 1/3/2027",
+      "title": "Phó Thủ tướng giải ngân 100% vốn đầu tư công, thêm 1,7% tăng trưởng",
       "impact": "↑",
-      "note": "Quốc hội thông qua Luật sửa đổi, bổ sung Luật Chứng khoán với 463/464 đại biểu tán thành (13/11). Luật gồm 3 điều, có hiệu lực từ 1/3/2027, bao gồm quy định về cơ chế thử nghiệm có kiểm soát, làm rõ nền tảng pháp lý cho phát triển thị trường."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng (12/11) cam kết giải ngân 100% vốn đầu tư công, đóng góp thêm 1,7% tăng trưởng GDP. Nhà nước chia sẻ rủi ro qua hình thức PPP, đặc biệt tại lĩnh vực kết cấu hạ tầng giao thông, để thu hút doanh nghiệp tham gia."
     },
     {
-      "title": "Dư nợ margin tăng mạnh, bán giải chấp liên tiếp tại CTCK vừa/nhỏ",
+      "title": "88/96 quỹ cổ phiếu lỗ tháng 10, dòng tiền phân hóa",
       "impact": "↓",
-      "note": "Dư nợ margin toàn thị trường tăng mạnh trong bối cảnh cạnh tranh gay gắt giữa các CTCK. Thông báo bán giải chấp liên tiếp xuất hiện tại CTCP Tập đoàn Thăng Long (TIG), Kosy (KOS) và CTCK như SBSI, KIS Việt Nam, UP, phản ánh áp lực quản trị rủi ro tại nhóm công ty vừa/nhỏ."
+      "note": "Nhóm quỹ cổ phiếu ghi nhận bình quân âm 2,3% tháng 10 (cải thiện từ âm 3,9% tháng 9), nhưng 88/96 quỹ vẫn lỗ. VN-Index giảm 1,53%, sự phục hồi chưa đồng đều giữa các nhóm cổ phiếu, cho thấy dòng tiền vẫn thiếu sự đồng thuận."
     },
     {
-      "title": "NHNN thanh tra chuyên đề giảm lãi suất ngân hàng, xử lý vi phạm nghiêm",
-      "impact": "↓",
-      "note": "Ngân hàng Nhà nước yêu cầu chi nhánh khu vực tổ chức thanh tra diện rộng về thực hiện giảm lãi suất tại các tổ chức tín dụng ngay tháng 11 (theo chỉ đạo Phó Thủ tướng Nguyễn Văn Thắng 17/10). Các trường hợp vi phạm sẽ bị xử lý nghiêm, làm chặt chẽ điều hành tiền tệ."
+      "title": "Khối ngoại mua ròng 269 tỷ, tập trung VIX 308 tỷ",
+      "impact": "→",
+      "note": "Phiên 13/11, khối ngoại mua ròng khớp lệnh 269 tỷ đồng, với VIX được gom mạnh nhất 308 tỷ đồng. Tự doanh CTCK lại bán VIX 270 tỷ ngược chiều, gợi ý có thể là phòng ngừa rủi ro từ nhà đầu tư ngoài."
     },
     {
-      "title": "Cảnh báo kỹ thuật: VN-Index rủi ro lùi 1.650 điểm trong kịch bản tiêu cực",
-      "impact": "↓",
-      "note": "Nếu cổ phiếu Vingroup hình thành mô hình hai đỉnh trung hạn và điều chỉnh mạnh, VN-Index có rủi ro lùi về 1.650 điểm. P/E cuối tháng 10 ở mức 10,8 lần, thấp hơn đáy tháng 4/2025 nhưng gần mức đáy COVID-19 tháng 4/2020 (10,3x), phản ánh định giá hấp dẫn nhưng có rủi ro kỹ thuật."
+      "title": "NHNN thanh tra giảm lãi suất ngân hàng tháng 11",
+      "impact": "→",
+      "note": "Ngân hàng Nhà nước yêu cầu chi nhánh khu vực thanh tra diện rộng về giảm lãi suất tại các tổ chức tín dụng ngay tháng 11, xử lý vi phạm nghiêm. BIDV giảm 0,2% kỳ hạn 15-18 tháng còn 6,6%/năm, tín hiệu giảm lãi suất hệ thống được giám sát chặt chẽ."
     }
   ]
 }
