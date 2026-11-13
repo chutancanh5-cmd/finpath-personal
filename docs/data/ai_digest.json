@@ -1,38 +1,38 @@
 {
-  "_opus": true,
+  "_opus": false,
   "date": "2026-11-13",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Chính phủ tăng cường giải ngân vốn đầu tư công dự kiến đóng góp 1,7% tăng trưởng kinh tế, song song NHNN kiểm tra giảm lãi suất thực thi. Quốc hội thông qua Luật Chứng khoán mới từ 1/3/2027 cải thiện khung pháp lý. Khối ngoại quay trở lại mua ròng 300 tỷ, đặc biệt VIX 308 tỷ. Tuy nhiên, rủi ro margin tăng ở các CTCK vừa/nhỏ với bán giải chấp liên tiếp, và vòng quay vốn chậm do BĐS chiếm 25% dư nợ vẫn là áp lực ngắn hạn.",
+  "summary_vi": "Quốc hội thông qua Luật sửa đổi Chứng khoán (hiệu lực 1/3/2027), NHNN thanh tra giảm lãi suất tại các tổ chức tín dụng, chính phủ phấn đấu giải ngân 100% vốn đầu tư công (góp 1,7% GDP). Khối ngoại mua ròng 300 tỷ đồng với lực mạnh tại VIX là tín hiệu tích cực. Tuy nhiên, giá vàng giảm 3-4 triệu đồng/lượng phản ánh lo ngại; rủi ro margin gia tăng với bán giải chấp liên tiếp; vòng quay vốn chậm do bất động sản chiếm 25% dư nợ là áp lực ngắn hạn.",
   "top": [
     {
-      "title": "Vốn VĐTC đóng góp 1,7% tăng trưởng GDP",
+      "title": "Quốc hội thông qua Luật sửa đổi Chứng khoán",
       "impact": "↑",
-      "note": "Phó TT Nguyễn Văn Thắng phát biểu 12/11 phấn đấu giải ngân 100% vốn đầu tư công, dự kiến đóng góp thêm 1,7% tăng trưởng kinh tế năm 2026 thông qua hình thức đối tác công tư (PPP) và ODA."
+      "note": "Sáng 13/11, Quốc hội với 463/464 đại biểu tán thành thông qua Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (3 Điều), có hiệu lực từ 1/3/2027, hoàn thiện khung pháp lý và cơ chế quản lý thị trường."
     },
     {
-      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán",
+      "title": "NHNN thanh tra giảm lãi suất ngay tháng 11",
       "impact": "↑",
-      "note": "Ngày 13/11, Quốc hội với 463/464 đại biểu tán thành thông qua Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán (3 Điều), có hiệu lực từ 1/3/2027, cải thiện khung pháp lý thị trường."
+      "note": "NHNN yêu cầu các chi nhánh khu vực tổ chức thanh tra kiểm tra chuyên đề diện rộng về thực hiện giảm lãi suất tại các tổ chức tín dụng ngay tháng 11, xử lý nghiêm các vi phạm theo chỉ đạo Phó TT Nguyễn Văn Thắng."
     },
     {
-      "title": "Khối ngoại mua ròng 300 tỷ, VIX 308 tỷ",
+      "title": "Phó TT: giải ngân 100% vốn đầu tư công, góp 1,7% GDP",
       "impact": "↑",
-      "note": "Phiên 13/11, khối ngoại mua ròng hơn 300 tỷ đồng toàn thị trường, trong đó VIX được gom mạnh nhất với 308 tỷ đồng, POW 86 tỷ, VJC 58 tỷ, tín hiệu dòng tiền ngoại quay trở lại."
+      "note": "Phó Thủ tướng Nguyễn Văn Thắng tại Quốc hội (12/11) phấn đấu giải ngân 100% vốn đầu tư công năm 2026, dự kiến đóng góp thêm 1,7% tăng trưởng kinh tế thông qua hình thức PPP và ODA."
     },
     {
-      "title": "NHNN thanh tra thực hiện giảm lãi suất trong tháng 11",
+      "title": "Khối ngoại mua ròng 300 tỷ, tập trung VIX 308 tỷ",
       "impact": "↑",
-      "note": "NHNN yêu cầu các chi nhánh khu vực tổ chức thanh tra kiểm tra chuyên đề diện rộng về giảm lãi suất tại các tổ chức tín dụng ngay tháng 11, xử lý nghiêm các vi phạm, đẩy mạnh thực thi chính sách tiền tệ."
+      "note": "Phiên 13/11, khối ngoại mua ròng hơn 300 tỷ đồng, trong đó VIX được gom mạnh nhất 308 tỷ đồng, POW 86 tỷ, VJC 58 tỷ. Đây là phiên cơ cấu danh mục ETF nội cuối kỳ, tín hiệu dòng ngoại quay trở lại."
     },
     {
-      "title": "Cuộc đua margin gay gắt, bán giải chấp liên tiếp",
+      "title": "Giá vàng giảm 3-4 triệu đồng/lượng trong 4 phiên",
       "impact": "↓",
-      "note": "Các CTCK vừa và nhỏ (TIG, SBSI, Nhất Việt, KIS, UP) liên tiếp công bố bán giải chấp trong khi dư nợ margin tăng mạnh, áp lực quản trị rủi ro cao và khả năng huy động vốn yếu ở các CTCK nhỏ."
+      "note": "Vàng miếng SJC neo 138 triệu đồng/lượng (13/11), giảm tổng 3,2 triệu đồng (miếng) đến 3,7 triệu đồng/lượng (nhẫn 4 số 9) trong 4 phiên 10-13/11, phản ánh lo âu và áp lực bán của nhà đầu tư."
     },
     {
-      "title": "Rủi ro VN-Index lùi 1650, P/E thấp hơn COVID-2020",
+      "title": "Vòng quay vốn chậm, BĐS chiếm 25% dư nợ tín dụng",
       "impact": "↓",
-      "note": "Phân tích cảnh báo nếu Vingroup điều chỉnh mạnh, VN-Index có nguy cơ giảm về 1650 điểm; P/E hiện 10,8 lần (thấp hơn cú sốc thuế quan 4/2025 10,8 lần và COVID 4/2020 10,3 lần) cho thấy định giá kè khía nhưng 506/1110 doanh nghiệp Q3 giảm lợi nhuận."
+      "note": "Phân tích: nguyên nhân lãi suất cao là mất cân đối cung cầu vốn, chi phí dự phòng rủi ro tăng, dòng vốn bị đọng ở bất động sản (25% tổng dư nợ), làm chậm vòng quay kinh tế, gia tăng nợ xấu và khiến lãi suất khó giảm."
     }
   ]
 }
