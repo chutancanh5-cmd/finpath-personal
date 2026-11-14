@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam giằng co với các tín hiệu hỗn hợp. Áp lực rút vốn lớn từ quỹ ngoại (8.600 tỷ đồng tháng 10, quỹ mở CP rút 3 tháng qua vượt 3.800 tỷ) và cảnh báo của IMF về rủi ro lạm phát khi Việt Nam nhắm tăng trưởng 10% năm 2027 gây áp lực bán, trong khi giá vàng lao xuống mức thấp gần 1 năm. Tuy nhiên, chính sách thúc đẩy tăng trưởng, FDI từ Trung Quốc vào Bắc Ninh (12,56 tỷ USD) và hoạt động mua của khối ngoại vẫn duy trì hỗ trợ cho nền tảng.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam cuối tuần ghi nhận tín hiệu hỗn hợp: chuyên gia dự báo VN-Index vượt 2.000 điểm vào cuối năm nhờ định giá thấp và triển vọng lợi nhuận tốt, song các quỹ đầu tư tiếp tục rút ròng 8.600 tỷ đồng trong tháng 10 do lo ngại rủi ro toàn cầu. IMF cảnh báo áp lực lạm phát khi Việt Nam hướng tới mục tiêu tăng trưởng 10% năm 2027. Khối ngoại bắt đầu quay trở lại với mua ròng 269 tỷ đồng ngày 13/11, tạo động lực ngắn hạn giữa các yếu tố hỗ trợ dài hạn từ cải cách cơ cấu và FDI.",
   "top": [
     {
-      "title": "Quỹ đầu tư ngoại rút ròng 8.600 tỷ đồng khỏi chứng khoán Việt Nam",
+      "title": "Quỹ đầu tư rút ròng 8.600 tỷ đồng, khối ngoại điều chỉnh danh mục",
       "impact": "↓",
-      "note": "Tháng 10/2026, quỹ mở cổ phiếu rút ròng 2.100 tỷ đồng (tháng thứ ba liên tiếp), lũy kế 3 tháng (8-10) vượt 3.800 tỷ đồng. PYN Elite dẫn đầu với 1.347 tỷ đồng rút ròng, VNEFUND 324 tỷ đồng, phản ánh xu hướng điều chỉnh danh mục của nhà đầu tư nước ngoài vượt xa những biến động thị trường nội tại."
+      "note": "Quỹ mở cổ phiếu rút ròng 2.100 tỷ đồng tháng 10, lũy kế 3 tháng (8-10/2026) vượt 3.800 tỷ đồng; PYN Elite dẫn đầu với 1.347 tỷ đồng. Phần lớn áp lực từ các quỹ ngoại điều chỉnh danh mục, phản ánh mối quan ngại về rủi ro toàn cầu vượt xa biến động thị trường nội tại."
     },
     {
-      "title": "IMF cảnh báo rủi ro lạm phát khi Việt Nam tăng trưởng 10% năm 2027",
-      "impact": "→",
-      "note": "Trưởng đoàn IMF Martin Sommer đánh giá triển vọng Việt Nam tích cực, ghi nhận nỗ lực cải cách, nhưng lưu ý chính sách tiền tệ cần thận trọng trước nguy cơ áp lực giá cả gia tăng; năm 2027 sẽ là giai đoạn cần điều hành đặc biệt linh hoạt."
-    },
-    {
-      "title": "Giá vàng miếng chạm mức thấp nhất gần 1 năm tại 134,5 triệu đồng/lượng",
-      "impact": "↓",
-      "note": "Sáng 14/11, giá mua vàng miếng giảm xuống 134,5 triệu đồng/lượng, thấp hơn 56,8 triệu đồng/lượng so với đỉnh 191,3 triệu tháng 1/2026. Trong 6 ngày (9-14/11) vàng miếng giảm 3,7 triệu đồng/lượng, phản ánh dịch chuyển tâm lý nhà đầu tư và phân bổ lại tài sản."
-    },
-    {
-      "title": "Bắc Ninh thu hút 1.664 dự án FDI từ Trung Quốc trị giá 12,56 tỷ USD",
+      "title": "Chuyên gia dự báo VN-Index vượt 2.000 điểm cuối năm 2026",
       "impact": "↑",
-      "note": "Trung Quốc là quốc gia dẫn đầu về số dự án FDI tại Bắc Ninh với 1.664 dự án còn hiệu lực. Doanh nghiệp Trung Quốc góp phần mở rộng năng lực sản xuất, thúc đẩy xuất nhập khẩu, tạo việc làm, nâng cao vị thế Bắc Ninh trong chuỗi giá trị toàn cầu."
+      "note": "VNDIRECT dự báo VN-Index dao động 1.759-2.064 điểm, có thể đạt 2.064 điểm cuối năm 2026 (biên độ 18,5% so mức 30/10). Hoạt động vững chắc của doanh nghiệp đầu ngành và kỳ vọng áp lực chi phí vốn tạm lắng là yếu tố nâng đỡ chính."
     },
     {
-      "title": "Khối ngoại mua ròng 269 tỷ đồng ngày 13/11, tập trung tại VIX",
-      "impact": "→",
-      "note": "Khối ngoại gom mạnh VIX (308 tỷ đồng), xả mạnh FPT (221 tỷ đồng), trong bối cảnh rút vốn ròng 8.600 tỷ tháng 10. Tín hiệu hỗn hợp cho thấy nhà đầu tư ngoại chưa có hướng rõ ràng, giữa áp lực rút vốn lâu dài và những cơ hội mua trong ngắn hạn."
+      "title": "Khối ngoại mua ròng 269 tỷ đồng, gom mạnh VIX 308 tỷ đồng",
+      "impact": "↑",
+      "note": "Phiên 13/11, khối ngoại mua ròng 269 tỷ đồng khớp lệnh; gom mạnh nhất VIX (308 tỷ đồng), cũng mua POW (86 tỷ đồng), VJC (58 tỷ đồng); xả FPT mạnh nhất (221 tỷ đồng). Tín hiệu quay trở lại điều chỉnh chiến lược tích cực giữa áp lực rút vốn lâu dài."
     },
     {
-      "title": "VN-Index giằng co trong tuần, tăng 0,55% khi dòng tiền vẫn phân hóa",
+      "title": "IMF cảnh báo rủi ro lạm phát khi Việt Nam nhắm 10% tăng trưởng 2027",
       "impact": "→",
-      "note": "VN-Index kết tuần tại 1.734,93 điểm, tăng 0,55% so tuần trước, chưa xác lập xu hướng rõ ràng. Thị trường thiếu động lực dẫn dắt, dòng tiền phân hóa giữa các nhóm cổ phiếu, dự kiến tiếp tục biến động thận trọng."
+      "note": "Trưởng đoàn IMF Martin Sommer đánh giá triển vọng Việt Nam tích cực, ghi nhận nỗ lực cải cách, nhưng lưu ý chính sách tiền tệ cần thận trọng trước nguy cơ áp lực giá cả; năm 2027 cần điều hành linh hoạt và sẵn sàng điều chỉnh kịp thời."
+    },
+    {
+      "title": "Bắc Ninh thu hút 1.664 dự án FDI Trung Quốc trị giá 12,56 tỷ USD",
+      "impact": "↑",
+      "note": "Trung Quốc là quốc gia dẫn đầu FDI tại Bắc Ninh với 1.664 dự án còn hiệu lực, tổng vốn 12,56 tỷ USD. Doanh nghiệp Trung Quốc mở rộng năng lực sản xuất, thúc đẩy xuất nhập khẩu, tạo mạng lưới doanh nghiệp vệ tinh, nâng cao vị thế Bắc Ninh trong chuỗi giá trị toàn cầu."
+    },
+    {
+      "title": "Giá vàng chạm 134,5 triệu đồng/lượng, mất 56,8 triệu so đỉnh lịch sử",
+      "impact": "↓",
+      "note": "Sáng 14/11, giá mua vàng miếng SJC giảm xuống 134,5 triệu đồng/lượng, thấp nhất gần 1 năm. Trong 6 ngày (9-14/11) vàng giảm 3,7 triệu đồng/lượng; so đỉnh 191,3 triệu tháng 1/2026 đã mất 56,8 triệu đồng/lượng, phản ánh dịch chuyển phân bổ tài sản của nhà đầu tư."
     }
   ]
 }
