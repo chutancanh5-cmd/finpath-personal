@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-14",
-  "overall_sentiment": "Tiêu cực",
-  "summary_vi": "Thị trường chứng khoán Việt Nam đối mặt áp lực bán mạnh từ quỹ ngoại (rút ròng 8.600 tỷ đồng, trong đó quỹ mở CP rút 3.800 tỷ đồng trong 3 tháng qua), khi Nasdaq giảm 0,91% do Nvidia tiếp tục xả mạnh (giảm 6% một tuần). IMF cảnh báo rủi ro lạm phát khi Việt Nam đặt mục tiêu tăng trưởng 10% năm 2027 và cần điều hành tiền tệ thận trọng. Tuy nhiên, chính sách thúc đẩy tăng trưởng, FDI từ Trung Quốc vào Bắc Ninh (12,56 tỷ USD) và hỗ trợ tín dụng (2.000 tỷ đồng cho doanh nghiệp do phụ nữ làm chủ) mang tín hiệu tích cực cho nền tảng kinh tế.",
+  "overall_sentiment": "Trung tính",
+  "summary_vi": "Thị trường chứng khoán Việt Nam giằng co với các tín hiệu hỗn hợp. Áp lực rút vốn lớn từ quỹ ngoại (8.600 tỷ đồng tháng 10, quỹ mở CP rút 3 tháng qua vượt 3.800 tỷ) và cảnh báo của IMF về rủi ro lạm phát khi Việt Nam nhắm tăng trưởng 10% năm 2027 gây áp lực bán, trong khi giá vàng lao xuống mức thấp gần 1 năm. Tuy nhiên, chính sách thúc đẩy tăng trưởng, FDI từ Trung Quốc vào Bắc Ninh (12,56 tỷ USD) và hoạt động mua của khối ngoại vẫn duy trì hỗ trợ cho nền tảng.",
   "top": [
     {
-      "title": "Quỹ đầu tư ngoại rút ròng 8.600 tỷ đồng khỏi thị trường",
+      "title": "Quỹ đầu tư ngoại rút ròng 8.600 tỷ đồng khỏi chứng khoán Việt Nam",
       "impact": "↓",
-      "note": "Tháng 10/2026, quỹ mở cổ phiếu rút ròng 2.100 tỷ đồng (tháng thứ ba liên tiếp), lũy kế 3 tháng (8-10) quỹ mở CP rút vượt 3.800 tỷ đồng. PYN Elite dẫn đầu với 1.347 tỷ đồng rút ròng, quỹ đóng rút 845,3 tỷ đồng, phản ánh xu hướng điều chỉnh danh mục của nhà đầu tư nước ngoài."
-    },
-    {
-      "title": "Nasdaq giảm 0,91%, cổ phiếu Nvidia bị xả mạnh 6% một tuần",
-      "impact": "↓",
-      "note": "Phiên 14/11, S&P 500 giảm 0,4%, Nasdaq giảm 0,91%, Nvidia giảm 2% phiên này, nối đà -4% phiên trước, lũy kế tuần giảm 6%. PPI tháng 10 Mỹ tăng 6,5% so cùng kỳ năm ngoái (cao nhất từ tháng 11/2022), áp lực lên thị trường toàn cầu."
+      "note": "Tháng 10/2026, quỹ mở cổ phiếu rút ròng 2.100 tỷ đồng (tháng thứ ba liên tiếp), lũy kế 3 tháng (8-10) vượt 3.800 tỷ đồng. PYN Elite dẫn đầu với 1.347 tỷ đồng rút ròng, VNEFUND 324 tỷ đồng, phản ánh xu hướng điều chỉnh danh mục của nhà đầu tư nước ngoài vượt xa những biến động thị trường nội tại."
     },
     {
       "title": "IMF cảnh báo rủi ro lạm phát khi Việt Nam tăng trưởng 10% năm 2027",
       "impact": "→",
-      "note": "Trưởng đoàn IMF Martin Sommer đánh giá Việt Nam tăng trưởng tích cực, ghi nhận nỗ lực cải cách cơ cấu, nhưng lưu ý chính sách tiền tệ cần thận trọng, năm 2027 sẽ giai đoạn cần linh hoạt để tránh áp lực giá cả gia tăng."
+      "note": "Trưởng đoàn IMF Martin Sommer đánh giá triển vọng Việt Nam tích cực, ghi nhận nỗ lực cải cách, nhưng lưu ý chính sách tiền tệ cần thận trọng trước nguy cơ áp lực giá cả gia tăng; năm 2027 sẽ là giai đoạn cần điều hành đặc biệt linh hoạt."
+    },
+    {
+      "title": "Giá vàng miếng chạm mức thấp nhất gần 1 năm tại 134,5 triệu đồng/lượng",
+      "impact": "↓",
+      "note": "Sáng 14/11, giá mua vàng miếng giảm xuống 134,5 triệu đồng/lượng, thấp hơn 56,8 triệu đồng/lượng so với đỉnh 191,3 triệu tháng 1/2026. Trong 6 ngày (9-14/11) vàng miếng giảm 3,7 triệu đồng/lượng, phản ánh dịch chuyển tâm lý nhà đầu tư và phân bổ lại tài sản."
     },
     {
       "title": "Bắc Ninh thu hút 1.664 dự án FDI từ Trung Quốc trị giá 12,56 tỷ USD",
       "impact": "↑",
-      "note": "Trung Quốc là quốc gia dẫn đầu về số dự án FDI tại Bắc Ninh với 1.664 dự án còn hiệu lực. Doanh nghiệp TQ góp phần mở rộng năng lực sản xuất, thúc đẩy xuất nhập khẩu, tạo việc làm, nâng cao vị thế Bắc Ninh trong chuỗi giá trị toàn cầu."
+      "note": "Trung Quốc là quốc gia dẫn đầu về số dự án FDI tại Bắc Ninh với 1.664 dự án còn hiệu lực. Doanh nghiệp Trung Quốc góp phần mở rộng năng lực sản xuất, thúc đẩy xuất nhập khẩu, tạo việc làm, nâng cao vị thế Bắc Ninh trong chuỗi giá trị toàn cầu."
     },
     {
-      "title": "DNSE xếp top 2 dịch vụ bản lẻ, dẫn đầu nền tảng công nghệ 2026",
-      "impact": "↑",
-      "note": "Chứng khoán DNSE (DSE) xếp thứ 2 BXH dịch vụ bản lẻ tốt nhất 2026, duy nhất được vinh danh 5 hạng mục. DNSE dẫn đầu nền tảng công nghệ và giáo dục thị trường, đứng top 2 chính sách chi phí, top 3 tăng trưởng thị phần."
+      "title": "Khối ngoại mua ròng 269 tỷ đồng ngày 13/11, tập trung tại VIX",
+      "impact": "→",
+      "note": "Khối ngoại gom mạnh VIX (308 tỷ đồng), xả mạnh FPT (221 tỷ đồng), trong bối cảnh rút vốn ròng 8.600 tỷ tháng 10. Tín hiệu hỗn hợp cho thấy nhà đầu tư ngoại chưa có hướng rõ ràng, giữa áp lực rút vốn lâu dài và những cơ hội mua trong ngắn hạn."
     },
     {
-      "title": "Chính phủ khơi thông nguồn lực thúc đẩy tăng trưởng dài hạn",
-      "impact": "↑",
-      "note": "Thủ tướng nhấn mạnh hoàn thiện thể chế, cải thiện môi trường kinh doanh, giải phóng nguồn lực bị ách tắc, phân bổ hiệu quả và tăng cường liên kết doanh nghiệp trong nước với khu vực FDI để chuyển hóa thành năng suất giá trị gia tăng."
+      "title": "VN-Index giằng co trong tuần, tăng 0,55% khi dòng tiền vẫn phân hóa",
+      "impact": "→",
+      "note": "VN-Index kết tuần tại 1.734,93 điểm, tăng 0,55% so tuần trước, chưa xác lập xu hướng rõ ràng. Thị trường thiếu động lực dẫn dắt, dòng tiền phân hóa giữa các nhóm cổ phiếu, dự kiến tiếp tục biến động thận trọng."
     }
   ]
 }
