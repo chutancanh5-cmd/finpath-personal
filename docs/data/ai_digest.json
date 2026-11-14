@@ -1,8 +1,8 @@
 {
   "_opus": true,
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán Việt Nam cuối tuần ghi nhận tín hiệu hỗn hợp: chuyên gia dự báo VN-Index vượt 2.000 điểm vào cuối năm nhờ định giá thấp và triển vọng lợi nhuận tốt, song các quỹ đầu tư tiếp tục rút ròng 8.600 tỷ đồng trong tháng 10 do lo ngại rủi ro toàn cầu. IMF cảnh báo áp lực lạm phát khi Việt Nam hướng tới mục tiêu tăng trưởng 10% năm 2027. Khối ngoại bắt đầu quay trở lại với mua ròng 269 tỷ đồng ngày 13/11, tạo động lực ngắn hạn giữa các yếu tố hỗ trợ dài hạn từ cải cách cơ cấu và FDI.",
+  "summary_vi": "Thị trường gặp áp lực từ dòng vốn ngoại rút ròng 8.600 tỷ đồng và cảnh báo lạm phát từ IMF, nhưng được hỗ trợ bởi triển vọng tích cực (VN-Index có thể vượt 2.000 điểm cuối năm, FDI Trung Quốc vào Bắc Ninh 12,56 tỷ USD). Cổ phiếu bluechip như VIC hỗ trợ chỉ số trong tuần vừa rồi với mức tăng 3,6%, mang về 14 điểm cho VN-Index. Rủi ro lạm phát vẫn yêu cầu chính sách tiền tệ thận trọng, trong khi giá vàng giảm 3,7 triệu đồng/lượng chuyển hướng tài sản sang chứng khoán.",
   "top": [
     {
       "title": "Quỹ đầu tư rút ròng 8.600 tỷ đồng, khối ngoại điều chỉnh danh mục",
@@ -15,9 +15,9 @@
       "note": "VNDIRECT dự báo VN-Index dao động 1.759-2.064 điểm, có thể đạt 2.064 điểm cuối năm 2026 (biên độ 18,5% so mức 30/10). Hoạt động vững chắc của doanh nghiệp đầu ngành và kỳ vọng áp lực chi phí vốn tạm lắng là yếu tố nâng đỡ chính."
     },
     {
-      "title": "Khối ngoại mua ròng 269 tỷ đồng, gom mạnh VIX 308 tỷ đồng",
+      "title": "VIC nâng đỡ VN-Index, tuần tăng 9,57 điểm lên 1.734,93",
       "impact": "↑",
-      "note": "Phiên 13/11, khối ngoại mua ròng 269 tỷ đồng khớp lệnh; gom mạnh nhất VIX (308 tỷ đồng), cũng mua POW (86 tỷ đồng), VJC (58 tỷ đồng); xả FPT mạnh nhất (221 tỷ đồng). Tín hiệu quay trở lại điều chỉnh chiến lược tích cực giữa áp lực rút vốn lâu dài."
+      "note": "Tuần 09-13/11, VN-Index tăng 9,57 điểm lên 1.734,93 điểm. VIC là cổ phiếu đóng góp tích cực nhất, mang về gần 14 điểm chỉ số, tăng 3,6% từ 234.500 lên 243.000 đồng/cổ phiếu. Khối ngoại mua ròng VIX 308 tỷ đồng ngày 13/11."
     },
     {
       "title": "IMF cảnh báo rủi ro lạm phát khi Việt Nam nhắm 10% tăng trưởng 2027",
@@ -30,9 +30,9 @@
       "note": "Trung Quốc là quốc gia dẫn đầu FDI tại Bắc Ninh với 1.664 dự án còn hiệu lực, tổng vốn 12,56 tỷ USD. Doanh nghiệp Trung Quốc mở rộng năng lực sản xuất, thúc đẩy xuất nhập khẩu, tạo mạng lưới doanh nghiệp vệ tinh, nâng cao vị thế Bắc Ninh trong chuỗi giá trị toàn cầu."
     },
     {
-      "title": "Giá vàng chạm 134,5 triệu đồng/lượng, mất 56,8 triệu so đỉnh lịch sử",
+      "title": "Giá vàng miếng SJC tiếp tục giảm, chốt 134,5 triệu đồng/lượng",
       "impact": "↓",
-      "note": "Sáng 14/11, giá mua vàng miếng SJC giảm xuống 134,5 triệu đồng/lượng, thấp nhất gần 1 năm. Trong 6 ngày (9-14/11) vàng giảm 3,7 triệu đồng/lượng; so đỉnh 191,3 triệu tháng 1/2026 đã mất 56,8 triệu đồng/lượng, phản ánh dịch chuyển phân bổ tài sản của nhà đầu tư."
+      "note": "Phiên 14/11, giá mua vàng miếng SJC giảm xuống 134,5 triệu đồng/lượng, giảm tiếp 500 nghìn đồng so hôm trước. Trong 4 phiên giao dịch (10-13/11) vàng giảm 3,7 triệu đồng/lượng. Mức lỗ này ảnh hưởng tâm lý nhà đầu tư, chuyển hướng từ vàng sang chứng khoán."
     }
   ]
 }
