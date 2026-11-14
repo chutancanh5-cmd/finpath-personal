@@ -1,38 +1,38 @@
 {
   "_opus": true,
   "date": "2026-11-14",
-  "overall_sentiment": "Trung tính",
-  "summary_vi": "Ngày 14/11, thị trường chứng khoán Việt Nam chịu áp lực từ dòng tiền rút khỏi quỹ ngoại (8.600 tỷ đồng) và giá vàng chạm đáy (134,5 triệu đồng/lượng). Các chính sách tích cực từ Chính phủ (cải thiện môi trường kinh doanh, sửa đổi Luật chứng khoán) và dòng FDI mạnh từ Trung Quốc (12,56 tỷ USD vào Bắc Ninh) tạo động lực dài hạn. Thị trường quốc tế yếu (Nasdaq -0,91%) thêm áp lực, nhưng nhà đầu tư trong nước vẫn duy trì hoạt động gom tại các mã chủ chốt.",
+  "overall_sentiment": "Tiêu cực",
+  "summary_vi": "Thị trường chứng khoán Việt Nam chịu áp lực rút vốn từ các quỹ ngoại (8.600 tỷ đồng trong 3 tháng gần nhất) đặc biệt là quỹ mở cổ phiếu với 3.800 tỷ đồng rút ròng. IMF cảnh báo rủi ro lạm phát khi Việt Nam nhắm tăng trưởng 10% năm 2027, trong khi sức ép từ thị trường toàn cầu (Nasdaq giảm do Nvidia) tác động thêm. Tuy nhiên, các chính sách hỗ trợ kinh tế (khơi thông nguồn lực, tín dụng 2.000 tỷ cho doanh nghiệp do phụ nữ làm chủ) và dòng FDI mạnh từ Trung Quốc (12,56 tỷ USD tại Bắc Ninh) cho thấy nền tảng kinh tế vẫn ổn định.",
   "top": [
     {
-      "title": "Quỹ ngoại rút vốn khỏi chứng khoán Việt Nam",
+      "title": "Quỹ đầu tư rút ròng 8.600 tỷ đồng khỏi thị trường",
       "impact": "↓",
-      "note": "Quỹ mở cổ phiếu rút ròng 2.100 tỷ đồng tháng 10, lũy kế 3 tháng (tháng 8-10/2026) vượt 3.800 tỷ; PYN Elite dẫn đầu với 1.347 tỷ đồng rút ròng, phản ánh xu hướng điều chỉnh danh mục của nhà đầu tư nước ngoài."
+      "note": "Quỹ mở cổ phiếu rút 2.100 tỷ đồng trong tháng 10/2026, lũy kế 3 tháng (8-10) vượt 3.800 tỷ đồng. PYN Elite dẫn đầu với 1.347 tỷ đồng rút ròng, phản ánh xu thướng điều chỉnh danh mục của nhà đầu tư nước ngoài."
     },
     {
-      "title": "Giá vàng miếng SJC chạm đáy thấp nhất năm",
+      "title": "IMF cảnh báo rủi ro lạm phát trong khi Việt Nam nhắm tăng trưởng 10% năm 2027",
       "impact": "↓",
-      "note": "Sáng 14/11, giá vàng miếng SJC giảm xuống 134,5 triệu đồng/lượng, mức thấp nhất kể từ đầu năm, giảm 56,8 triệu đồng so với đỉnh 191,3 triệu tháng 1/2026; dòng tiền rút khỏi vàng tìm đến tài sản khác."
+      "note": "Trưởng đoàn IMF Martin Sommer lưu ý chính sách tiền tệ cần thận trọng trước áp lực giá cả; năm 2027 sẽ là giai đoạn cần đặc biệt linh hoạt trong điều hành vĩ mô."
     },
     {
-      "title": "Chính phủ cam kết khơi thông nguồn lực tăng trưởng",
-      "impact": "↑",
-      "note": "Thủ tướng tại phiên trả lời chất vấn Quốc hội ngày 12/11 nêu giải pháp hoàn thiện thể chế, cải thiện môi trường kinh doanh, phân bổ hiệu quả các nguồn lực và tăng cường liên kết FDI nhằm thúc đẩy tăng trưởng bền vững."
-    },
-    {
-      "title": "FDI từ Trung Quốc vào Bắc Ninh tăng mạnh",
-      "impact": "↑",
-      "note": "Bắc Ninh có 1.664 dự án FDI từ Trung Quốc với tổng vốn 12,56 tỷ USD; thành phố thành lập tổ hỗ trợ chuyên trách China Desk, định vị trở thành trung tâm logistics và công nghiệp công nghệ cao của khu vực."
-    },
-    {
-      "title": "Quốc hội thông qua sửa đổi Luật chứng khoán",
-      "impact": "↑",
-      "note": "Sáng 13/11, Quốc hội thông qua với 463/464 đại biểu tán thành; Luật sửa đổi gồm 3 Điều có hiệu lực từ 01/03/2027, làm rõ cơ chế thử nghiệm có kiểm soát, phù hợp thực tiễn và thúc đẩy phát triển thị trường an toàn, minh bạch, bền vững."
-    },
-    {
-      "title": "Nasdaq giảm 0,91% do Nvidia bị xả mạnh",
+      "title": "Nasdaq giảm do cổ phiếu Nvidia tiếp tục bị xả, S&P 500 giảm 0,4%",
       "impact": "↓",
-      "note": "Tuần giao dịch Nasdaq giảm 0,91%, S&P 500 giảm 0,4%; Nvidia giảm 6% trong tuần vì áp lực bán, dầu có tuần thứ 2 liên tiếp giảm; áp lực tâm lý từ thị trường quốc tế ảnh hưởng đến dòng vốn toàn cầu."
+      "note": "Nvidia giảm 2% phiên thứ Sáu, -4% phiên trước, lũy kế tuần -6%. Chỉ số S&P 500 giảm 0,4%, Nasdaq giảm 0,91% do áp lực bán cổ phiếu công nghệ."
+    },
+    {
+      "title": "Chính phủ khơi thông nguồn lực, thúc đẩy tăng trưởng dài hạn cho doanh nghiệp",
+      "impact": "↑",
+      "note": "Thủ tướng nhấn mạnh cần giải phóng nguồn lực bị ách tắc, phân bổ hiệu quả và nâng cao năng suất; định hướng hoàn thiện thể chế, cải thiện môi trường kinh doanh."
+    },
+    {
+      "title": "Bắc Ninh thu hút 1.664 dự án FDI từ Trung Quốc trị giá 12,56 tỷ USD",
+      "impact": "↑",
+      "note": "Trung Quốc là quốc gia dẫn đầu về số dự án FDI tại Bắc Ninh; Bắc Ninh định vị trở thành trung tâm logistics khu vực và cửa ngõ kết nối vận tải hàng hóa."
+    },
+    {
+      "title": "HDBank cấp 2.000 tỷ đồng tín dụng cho doanh nghiệp do phụ nữ làm chủ, lãi suất 7,8%/năm",
+      "impact": "↑",
+      "note": "Chương trình hỗ trợ đến 31/03/2027, tối đa 5 tỷ đồng/khách hàng; hỗ trợ doanh nghiệp nhỏ vừa bổ sung vốn lưu động, doanh nghiệp do phụ nữ làm chủ chiếm 20-24% tổng số DN cả nước."
     }
   ]
 }
