@@ -2,37 +2,37 @@
   "_opus": true,
   "date": "2026-11-14",
   "overall_sentiment": "Trung tính",
-  "summary_vi": "Thị trường chứng khoán tuần này giằng co với tín hiệu mua từ khối ngoại (mua ròng 269 tỷ đồng), nhưng bị cân bằng bởi áp lực bán từ một số cổ phiếu như TIG. IMF cảnh báo rủi ro lạm phát khi Việt Nam hướng tới mục tiêu tăng trưởng 10% năm 2027, yêu cầu chính sách tiền tệ thận trọng. Giá vàng giảm mạnh 4,5% tuần này (thấp nhất 4 tháng), phản ánh lo ngại về lạm phát toàn cầu. Các chính sách hỗ trợ như HDBank cho doanh nghiệp phụ nữ và Luật Chứng khoán mới mang tín hiệu tích cực cho tăng trưởng dài hạn.",
+  "summary_vi": "Thị trường chứng khoán Việt Nam tuần này biến động trái chiều dòng tiền khi chịu áp lực từ lãi suất cao toàn cầu—Fed chuẩn bị tăng với tỷ lệ 100%, giá vàng giảm 4,5% trong tuần (thấp nhất 4 tháng), xu hướng chuyển sang USD. IMF cảnh báo rủi ro lạm phát khi Việt Nam đặt mục tiêu tăng trưởng 10% năm 2027. Tuy nhiên, các tín hiệu tích cực từ FDI mạnh (Bắc Ninh tiếp nhận 12,56 tỷ USD từ doanh nghiệp Trung Quốc), chính sách hỗ trợ SME (HDBank 2.000 tỷ), và cải thiện khung pháp lý (Quốc hội thông qua Luật Chứng khoán sửa đổi) giúp cân bằng tâm lý thị trường.",
   "top": [
     {
-      "title": "Dòng tiền ngoại mua ròng 269 tỷ, VIX hút 308 tỷ",
-      "impact": "↑",
-      "note": "Phiên 13/11, khối ngoại đảo chiều mua ròng 269 tỷ đồng, VIX được gom mạnh nhất 308 tỷ đồng, kế tiếp POW 86 tỷ đồng, thể hiện tín hiệu mua vào của dòng vốn nước ngoài."
+      "title": "IMF cảnh báo rủi ro lạm phát với mục tiêu tăng trưởng 10% năm 2027",
+      "impact": "→",
+      "note": "IMF đánh giá Việt Nam là nền kinh tế tăng trưởng nhanh với triển vọng tích cực, nhưng lưu ý chính sách tiền tệ cần thận trọng trước nguy cơ áp lực giá cả gia tăng. Năm 2027 sẽ là giai đoạn cần đặc biệt linh hoạt. Tác động: cân bằng giữa tăng trưởng và kiểm soát lạm phát—thách thức chính sách."
     },
     {
-      "title": "IMF cảnh báo rủi ro lạm phát khi VN nhắm tăng trưởng 10% năm 2027",
+      "title": "Fed 100% sẽ tăng lãi suất tháng 12, Nasdaq giảm 0,91%",
       "impact": "↓",
-      "note": "Trưởng đoàn IMF Martin Sommer (13/11) ghi nhận Việt Nam tăng trưởng nhanh nhưng lưu ý chính sách tiền tệ cần thận trọng, duy trì cảnh giác, sẵn sàng điều chỉnh kịp thời trước áp lực giá cả gia tăng."
+      "note": "S&P 500 giảm 0,4%, Nasdaq giảm 0,91%, Dow Jones tăng 0,1%. PPI tháng 10 tăng 0,3% (dự báo 0,4%) nhưng tăng 6,5% YoY (cao nhất kể từ 11/2022). FedWatch Tool: 100% xác suất Fed tăng lãi suất tháng 12, khả năng tăng 0,5% giảm xuống 5%. Tác động: áp lực lãi suất toàn cầu cao, dòng vốn chuyển hướng, ảnh hưởng thị trường chứng khoán VN."
     },
     {
-      "title": "Vàng hoàn tất tuần giảm 4,5% - mức thấp nhất 4 tháng",
+      "title": "Giá vàng giảm 4,5% trong tuần, thấp nhất 4 tháng",
       "impact": "↓",
-      "note": "Giá vàng giao ngay thị trường New York hiện 3.885,4 USD/oz, giảm 4,5% trong tuần này, đánh dấu tuần giảm mạnh nhất kể từ đầu tháng 6/2026 do sức ép từ nhiều phía."
+      "note": "Vàng giao ngay NY tại 3.885,4 USD/oz sau tuần giảm mạnh nhất kể từ đầu tháng 6/2026. Giá vàng miếng trong nước xuống 134,5 triệu đồng/lượng, thấp nhất gần 1 năm, giảm 56,8 triệu so với đỉnh 191,3 triệu tháng 1/2026. Tác động: tài sản an toàn mất giá, dòng vốn chuyển sang USD, áp lực tâm lý lan sang các tài sản khác."
     },
     {
-      "title": "Nasdaq giảm 0,91% do Nvidia tiếp tục bị xả, S&P 500 giảm 0,4%",
-      "impact": "↓",
-      "note": "Nasdaq giảm 0,91% còn 25.136,27 điểm, S&P 500 giảm 0,4% còn 7.561,67 điểm, Nvidia giảm 6% trong tuần, áp lực bán tiếp tục gây ảnh hưởng tiêu cực lên chỉ số chung."
-    },
-    {
-      "title": "Quốc hội thông qua Luật sửa đổi Luật Chứng khoán, có hiệu lực từ 1/3/2027",
+      "title": "Quốc hội thông qua Luật Chứng khoán sửa đổi, hiệu lực 1/3/2027",
       "impact": "↑",
-      "note": "Với 463/464 đại biểu tán thành, Luật gồm 3 Điều nhằm phát triển thị trường chứng khoán an toàn, minh bạch và bền vững với cơ chế thử nghiệm có kiểm soát trong lĩnh vực chứng khoán."
+      "note": "463/464 đại biểu tán thành. Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán gồm 3 Điều. Mục đích: phát triển thị trường chứng khoán an toàn, minh bạch, bền vững với cơ chế thử nghiệm có kiểm soát trong lĩnh vực chứng khoán. Tác động: cải thiện khung pháp lý, tạo tin tưởng dài hạn, hỗ trợ phát triển bền vững."
     },
     {
-      "title": "HDBank triển khai 2.000 tỷ đồng hỗ trợ doanh nghiệp phụ nữ, lãi suất từ 7,8%/năm",
+      "title": "Bắc Ninh thu hút 1.664 dự án FDI Trung Quốc, vốn 12,56 tỷ USD",
       "impact": "↑",
-      "note": "HDBank dành hạn mức 2.000 tỷ đồng cho doanh nghiệp nhỏ vừa do phụ nữ làm chủ, lãi suất tối thiểu từ 7,8%/năm đến hết 31/3/2027, hỗ trợ bổ sung vốn lưu động sản xuất kinh doanh."
+      "note": "Trung Quốc dẫn đầu FDI tại Bắc Ninh với 1.664 dự án, tổng vốn đầu tư đăng ký 12,56 tỷ USD. Thành lập China Desk hỗ trợ chuyên trách. Bắc Ninh định vị thành trung tâm Logistics, công nghiệp công nghệ cao, cửa ngõ kết nối vận tải Trung Quốc vào VN và Đông Nam Á. Tác động: dòng FDI mạnh, tạo việc làm, mở rộng sản xuất, nâng cao vị thế trong chuỗi giá trị toàn cầu."
+    },
+    {
+      "title": "HDBank triển khai 2.000 tỷ đồng cho doanh nghiệp phụ nữ, lãi suất từ 7,8%/năm",
+      "impact": "↑",
+      "note": "HDBank triển khai chương trình 2.000 tỷ đồng, lãi suất 7,8-8,3%/năm, đến 31/03/2027. Hỗ trợ doanh nghiệp nhỏ vừa do phụ nữ làm chủ bổ sung vốn lưu động. Doanh nghiệp do phụ nữ làm chủ chiếm 20-24% tổng số doanh nghiệp cả nước. Tác động: hỗ trợ tài chính SME, kích thích kinh tế cơ sở, lãi suất cạnh tranh."
     }
   ]
 }
